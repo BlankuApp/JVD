@@ -819,7 +819,7 @@
 | 診断  | しんだん | diagnosis |
 | 侵入  | しんにゅう | penetration,invasion,raid,aggression,trespass |
 | 人文科学 | じんぶんかがく | social sciences,humanities |
-| 人命  | じんめい | (human) life |
+| **人命**  | じんめい | (human) life |
 | 深夜  | しんや | late at night |
 | 森林  | しんりん | forest,woods |
 | 親類  | しんるい | relation,kin |

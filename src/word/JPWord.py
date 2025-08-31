@@ -881,6 +881,9 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
 
 
 word_list = [
+    "人命",
+    "経営",
+    "強調",
     "関連",
     "意外",
 ]

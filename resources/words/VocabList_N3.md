@@ -432,7 +432,7 @@
 | 供給 | きょうきゅう | supply,provision |
 | 教師 | きょうし | teacher (classroom) |
 | 教授 | きょうじゅ | teaching,instruction,professor |
-| 強調 | きょうちょう | emphasis,stress,stressed point |
+| **強調** | きょうちょう | emphasis,stress,stressed point |
 | 共通 | きょうつう | commonness,community |
 | 共同 | きょうどう | cooperation,association,collaboration,joint |
 | 恐怖 | きょうふ | be afraid,dread,dismay,terror |
@@ -505,7 +505,7 @@
 | 下 | げ | under,below,beneath |
 | 計 | けい | plan |
 | 敬意 | けいい | respect,honour |
-| 経営 | けいえい | management,administration |
+| **経営** | けいえい | management,administration |
 | 計画 | けいかく | plan,project,schedule,scheme,program |
 | 景気 | けいき | condition,state,business (condition) |
 | 経験 | けいけん | experience |
