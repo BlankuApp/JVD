@@ -1,0 +1,17 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Current File",
+            "type": "shell",
+            "command": "clear; conda activate jvd10; python ${file}"
+        },
+        {
+            "label": "streamlit",
+            "type": "shell",
+            "command": "clear; conda activate jvd10; streamlit run main.py"
+        }
+    ]
+}

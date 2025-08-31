@@ -1,0 +1,9 @@
+{
+    "notebook.output.scrolling": true,
+    "notebook.output.textLineLimit": 300,
+    "ruff.lineLength": 120,
+    "github.copilot.enable": {
+        "jupyter-notebook": true
+    },
+    "editor.formatOnSave": true
+}
