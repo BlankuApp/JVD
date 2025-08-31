@@ -98,10 +98,11 @@ class JPWordExplanations(BaseModel):
 
     explanation: str | None = Field(
         default=None,
-        description="""Write in a natural, conversational English transcript of a teacher explaining the meanings found, provide a short and concise definition of the vocabulary word in simple English.
+        description="""Write in a natural, conversational English transcript of a teacher explaining the meanings found, provide a very short but comprehensive and concise definition of the vocabulary word in simple English.
 1. Since it is a transcript, don't use bullet points, parenthesis, e.g. or anything similar.
 2. In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.
 3. Explanation starts with English phrases such as:  "The word [word] means ..."
+4. Keep it very short but cover all the meanings found.
 """,
     )
     youtube_description: str | None = Field(
@@ -381,6 +382,8 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
         st.markdown(
             f"# {self.word} ({self.reading}) :orange-badge[{', '.join(self.jlpt).upper()}] :green-badge[{'Common' if self.is_common else 'Uncommon'}]"
         )
+        if self.youtube_link:
+            st.video(self.youtube_link)
         st.markdown(self.explanations.motivation or "")
         st.markdown("### Meanings")
         st.markdown(self.explanations.explanation or "")
@@ -878,11 +881,8 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
 
 
 word_list = [
-    "診察",
-    "上達",
-    "患者",
-    "実績",
-    "覆う",
+    "関連",
+    "意外",
 ]
 
 if __name__ == "__main__":
@@ -893,9 +893,9 @@ if __name__ == "__main__":
     status.start()
 
     word = word_list[0]
-    # w = JPWord(word=word, llm=llm_5_mini_openai)
-    # w.save_json()
-    w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+    w = JPWord(word=word, llm=llm_5_mini_openai)
+    w.save_json()
+    # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
     w.tts()
     w.pptx_generation()
 

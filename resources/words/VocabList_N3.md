@@ -65,7 +65,7 @@
 | いえ | いえ | TODO same as いいえ? |
 | 委員 | いいん | committee member |
 | 言う | ゆう | to say |
-| 意外 | いがい | unexpected,surprising |
+| **意外** | いがい | unexpected,surprising |
 | 行き | いき | going |
 | 行き | ゆき | going |
 | 息 | いき | breath,tone |
@@ -372,7 +372,7 @@
 | 監督 | かんとく | supervision,control,superintendence |
 | 管理 | かんり | control,management (e.g. of a business) |
 | 完了 | かんりょう | completion,conclusion |
-| 関連 | かんれん | relation,connection,relevance |
+| **関連** | かんれん | relation,connection,relevance |
 | 議員 | ぎいん | member of the Diet, congress or parliament |
 | 記憶 | きおく | memory,recollection,remembrance |
 | 気温 | きおん | temperature |

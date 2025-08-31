@@ -6,12 +6,12 @@
         {
             "label": "Current File",
             "type": "shell",
-            "command": "clear; conda activate jvd10; python ${file}"
+            "command": "clear; conda activate jvd310; python ${file}"
         },
         {
             "label": "streamlit",
             "type": "shell",
-            "command": "clear; conda activate jvd10; streamlit run main.py"
+            "command": "clear; conda activate jvd310; streamlit run main.py"
         }
     ]
 }
