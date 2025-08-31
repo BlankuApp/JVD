@@ -37,6 +37,8 @@ else:
     with st.expander("N2 Vocabularies"):
         with st.container(horizontal=True):
             for file in n2_vocabulary_files:
-                st.link_button(file, url=f"/?w={file}")
+                if st.button(file):              
+                    st.query_params.update({"w": file})
+                    st.rerun()
 
 

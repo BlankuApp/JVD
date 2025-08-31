@@ -436,6 +436,13 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
         presentation_subtitle.text = self.reading
         presentation_subtitle.text_frame.paragraphs[0].font.size = Pt(100)
         presentation_subtitle.text_frame.paragraphs[0].font.color.rgb = RGBColor(192, 79, 21)
+        link_shape = first_slide.shapes.add_textbox(Inches(5), Inches(5), Inches(10), Inches(0.1))
+        link_shape.text_frame.horizontal_anchor = PP_PARAGRAPH_ALIGNMENT.RIGHT
+        p = link_shape.text_frame.add_paragraph()
+        run = p.add_run()
+        run.text = f"https://jvdict.streamlit.app/v?w={self.word}"
+        run.font.size = Pt(18)
+        run.font.name = "Consolas"
 
         first_slide.shapes.add_movie(
             f"./output/{word}/audio/0_title.wav",
@@ -896,10 +903,10 @@ if __name__ == "__main__":
     status.start()
 
     word = word_list[0]
-    w = JPWord(word=word, llm=llm_5_mini_openai)
-    w.save_json()
-    # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
-    w.tts()
+    # w = JPWord(word=word, llm=llm_5_mini_openai)
+    # w.save_json()
+    w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+    # w.tts()
     w.pptx_generation()
 
     status.stop()
