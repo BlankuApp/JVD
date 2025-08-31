@@ -41,11 +41,6 @@ LANGUAGES_ABBR = {
     "Turkish": "TR",
 }
 
-llm_4o_openai = ChatOpenAI(model="gpt-4o", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
-llm_4o_mini_openai = ChatOpenAI(model="gpt-4o-mini", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
-llm_5_nano_openai = ChatOpenAI(model="gpt-5-nano", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
-llm_5_mini_openai = ChatOpenAI(model="gpt-5-mini", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
-
 
 class JPTranslation(BaseModel):
     Japanese: str = Field(description="The given Japanese text.")
@@ -891,6 +886,10 @@ word_list = [
 ]
 
 if __name__ == "__main__":
+    llm_4o_openai = ChatOpenAI(model="gpt-4o", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
+    llm_4o_mini_openai = ChatOpenAI(model="gpt-4o-mini", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
+    llm_5_nano_openai = ChatOpenAI(model="gpt-5-nano", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
+    llm_5_mini_openai = ChatOpenAI(model="gpt-5-mini", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
     status.start()
 
     word = word_list[0]
