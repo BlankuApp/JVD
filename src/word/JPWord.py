@@ -413,9 +413,9 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
     def pptx_generation(self, num_examples: int | None = 4) -> None:
         file_name = f"./Output/{self.word}/{self.word} JLPT N3 Vocabulary.pptx"
         if os.path.exists(file_name):
-            status.update(f"STEP7 : {self.word} PowerPoint already exists, skipping...")
+            status.update(f"{self.word} PowerPoint already exists, skipping...")
             return
-        status.update(f"STEP7 : Generating PowerPoint for {self.word}...")
+        status.update(f"Generating PowerPoint for {self.word}...")
 
         from pptx import Presentation
         from pptx.dml.color import RGBColor
@@ -753,7 +753,7 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
         # First segment
         word_audio_path = f"./output/{word}/audio/word.mp3"
         if not os.path.exists(word_audio_path):
-            status.update("STEP6 : Generating audio for word")
+            status.update("Generating audio for word")
             response = client.audio.speech.create(
                 model="gpt-4o-mini-tts",
                 voice="coral",
@@ -766,7 +766,7 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
 
         explanation_audio_path = f"./output/{word}/audio/word_explanation.mp3"
         if not os.path.exists(explanation_audio_path):
-            status.update("STEP6 : Generating audio for word explanation")
+            status.update("Generating audio for word explanation")
             response = client.audio.speech.create(
                 model="gpt-4o-mini-tts",
                 voice="coral",
@@ -780,7 +780,7 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
 
         motivation_audio_path = f"./output/{word}/audio/motivation.mp3"
         if not os.path.exists(motivation_audio_path):
-            status.update("STEP6 : Generating audio for motivation")
+            status.update("Generating audio for motivation")
             response = client.audio.speech.create(
                 model="gpt-4o-mini-tts",
                 voice="coral",
@@ -816,7 +816,7 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
         # Second segment
         kanji_explanation_path = f"./output/{word}/audio/kanji_explanation.mp3"
         if not os.path.exists(kanji_explanation_path):
-            status.update("STEP6 : Generating audio for Kanji explanation")
+            status.update("Generating audio for Kanji explanation")
             response = client.audio.speech.create(
                 model="gpt-4o-mini-tts",
                 voice="coral",
@@ -888,11 +888,7 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
 
 
 word_list = [
-    "人命",
-    "経営",
-    "強調",
-    "関連",
-    "意外",
+    "",
 ]
 
 if __name__ == "__main__":
@@ -903,10 +899,10 @@ if __name__ == "__main__":
     status.start()
 
     word = word_list[0]
-    # w = JPWord(word=word, llm=llm_5_mini_openai)
-    # w.save_json()
-    w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
-    # w.tts()
+    w = JPWord(word=word, llm=llm_4o_mini_openai)
+    w.save_json()
+    # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+    w.tts()
     w.pptx_generation()
 
     status.stop()

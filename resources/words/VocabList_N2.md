@@ -989,7 +989,7 @@
 | 大して | たいして | (not so) much,(not) very |
 | 対照  | たいしょう | contrast,antithesis,comparison |
 | 大小  | だいしょう | size |
-| 体制  | たいせい | order,system,structure,set-up,organization |
+| **体制**  | たいせい | order,system,structure,set-up,organization |
 | 体積  | たいせき | capacity,volume |
 | 大層  | たいそう | very much,exaggerated,very fine |
 | 体操  | たいそう | gymnastics,physical exercises,calisthenics |
@@ -1250,7 +1250,7 @@
 | 永い  | ながい | long,lengthy |
 | 仲直り | なかなおり | reconciliation,make peace with |
 | 長引く | ながびく | to be prolonged,to drag on |
-| 中身  | なかみ | contents,interior,substance,filling,(sword) blade |
+| **中身**  | なかみ | contents,interior,substance,filling,(sword) blade |
 | 中味  | なかみ | contents,interior,substance,filling,(sword) blade |
 | 中指  | なかゆび | middle finger |
 | 仲良し | なかよし | intimate friend,bosom buddy,chum |
@@ -1291,7 +1291,7 @@
 | 日用品 | にちようひん | daily necessities |
 | 日課  | にっか | daily lesson,daily work,daily routine |
 | 日程  | にってい | agenda |
-| 鈍い  | にぶい | dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid |
+| **鈍い**  | にぶい | dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid |
 | 入社  | にゅうしゃ | entry to a company |
 | 女房  | にょうぼう | wife |
 | 睨む  | にらむ | to glare at,to scowl at,to keep an eye on |
@@ -1371,7 +1371,7 @@
 | 話中  | はなしちゅう | while talking,the line is busy |
 | 甚だしい | はなはだしい | extreme,excessive,terrible |
 | 花火  | はなび | fireworks |
-| 花嫁  | はなよめ | bride |
+| **花嫁**  | はなよめ | bride |
 | 放れる | はなれる | to leave,to get free,to cut oneself off |
 | 羽根  | はね  | shuttlecock |
 |     | ばね  | spring (e.g. coil, leaf) |
@@ -1445,7 +1445,7 @@
 | 美容  | びよう | beauty of figure or form |
 | 表紙  | ひょうし | front cover,binding |
 | 標識  | ひょうしき | sign,mark |
-| 標準  | ひょうじゅん | standard,level |
+| **標準**  | ひょうじゅん | standard,level |
 | 標本  | ひょうほん | example,specimen |
 | 評論  | ひょうろん | criticism,critique |
 | 平仮名 | ひらがな | hiragana,47 syllables,the cursive syllabary |
