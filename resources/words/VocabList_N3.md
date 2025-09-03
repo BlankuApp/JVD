@@ -612,7 +612,7 @@
 | 骨折 | こっせつ | bone fracture |
 | 小包 | こづつみ | parcel,package |
 | 事 | こと | thing,matter,fact,circumstances |
-| 異なる | ことなる | to differ,to vary,to disagree |
+| **異なる** | ことなる | to differ,to vary,to disagree |
 | 諺 | ことわざ | proverb,maxim |
 | 断る | ことわる | to refuse,to decline,to dismiss |
 | 粉 | こな | flour,meal,powder |
@@ -684,7 +684,7 @@
 | 去る | さる | to leave,to go away |
 | 猿 | さる | monkey |
 | 騒ぎ | さわぎ | uproar,disturbance |
-| 参加 | さんか | participation |
+| **参加** | さんか | participation |
 | 参考 | さんこう | reference,consultation |
 | 賛成 | Uӣ[い | approval,agreement,support,favour |
 | 酸素 | さんそ | oxygen |

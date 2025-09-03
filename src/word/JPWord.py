@@ -241,10 +241,10 @@ class JPWord(BaseModel):
         if self.meanings or self.kanjis or self.explanations:
             return
         self._get_meanings()
-        # if self.kanji_breakdown:
-        #     status.update("Fetching kanji breakdown ...")
-        #     self._kanji_breakdown()
-        # self._get_examples()
+        if self.kanji_breakdown:
+            status.update("Fetching kanji breakdown ...")
+            self._kanji_breakdown()
+        self._get_examples()
 
     def _get_meanings(self) -> None:
         status.update("Fetching meanings from Jisho")
@@ -792,11 +792,7 @@ class JPWord(BaseModel):
         with open(f"./output/{word}/audio/0_title.wav", "wb") as title_file:
             title_audio.export(title_file, format="wav")
 
-        word_audio = (
-            AudioSegment.from_mp3(explanation_audio_path)
-            # + AudioSegment.silent(duration=1000)
-            # + AudioSegment.from_mp3(word_audio_path)
-        )
+        word_audio = AudioSegment.from_mp3(explanation_audio_path)
 
         word_audio = AudioSegment.from_mp3(explanation_audio_path)
 
@@ -878,9 +874,7 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "参加",
-    "異なる",
-    "広場",
+    "",
 ]
 
 
@@ -892,10 +886,10 @@ if __name__ == "__main__":
     status.start()
 
     word = word_list[0]
-    w = JPWord(word=word, llm=llm_5_mini_openai)
+    w = JPWord(word=word, llm=llm_4o_mini_openai)
     w.save_json()
     # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
-    # w.tts()
-    # w.pptx_generation()
+    w.tts()
+    w.pptx_generation()
 
     status.stop()
