@@ -831,7 +831,7 @@
 | 水蒸気 | すいじょうき | water vapour,steam |
 | 水素  | すいそ | hydrogen |
 | 垂直  | すいちょく | vertical,perpendicular |
-| 推定  | すいてい | presumption,assumption,estimation |
+| **推定**  | すいてい | presumption,assumption,estimation |
 | 水滴  | すいてき | drop of water |
 | 水筒  | すいとう | canteen,flask,water bottle |
 | 随筆  | ずいひつ | essays,miscellaneous writings |
@@ -863,7 +863,7 @@
 | 棄てる | すてる |     |
 |     | ストッキング | stockings |
 |     | ストップ | stop |
-| 素直  | すなお | obedient,meek,docile,unaffected |
+| **素直**  | すなお | obedient,meek,docile,unaffected |
 | 頭脳  | ずのう | head,brains,intellect |
 |     | スピーカー | speaker |
 | 図表  | ずひょう | chart,diagram,graph |

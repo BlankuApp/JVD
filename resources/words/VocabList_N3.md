@@ -989,7 +989,7 @@
 | 象 | ぞう | elephant |
 | 騒音 | そうおん | noise |
 | 増加 | ぞうか | increase,addition |
-| 操作 | そうさ | operation,management,processing |
+| **操作** | そうさ | operation,management,processing |
 | 掃除 | そうじ | cleaning,sweeping |
 | 想像 | そうぞう | imagination,guess |
 | 相続 | そうぞく | succession,inheritance |
@@ -1007,7 +1007,7 @@
 |  | そっくり | all,altogether,entirely,be just like,the splitting image of |
 |  | そっと | face of the earth |
 | 袖 | そで | sleeve |
-| 備える | そなえる | to furnish,to provide for,to equip,to install |
+| **備える** | そなえる | to furnish,to provide for,to equip,to install |
 | その | その | the,that |
 |  | そのうち | eventually,sooner or later,of the previously mentioned |
 |  | そのまま | without change,as it is (i.e. now) |
