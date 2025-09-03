@@ -14,10 +14,12 @@ from rich.console import Console
 from rich.status import Status
 from pydub import AudioSegment
 
+load_dotenv()
+
 console = Console()
 status = Status("Starting...", console=console)
+client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-load_dotenv()
 
 LANGUAGES_ABBR = {
     "English": "EN",
@@ -130,15 +132,7 @@ Let's get started!
     )
     collocations: list[str] | None = Field(
         default=None,
-        description="""Given a Japanese headword (verb, adjective, adverb, or noun), output 6-7 natural and high frequency collocations as JSON.  
-Depending of the type of the word use the following instructions:
-* Verb: Look for the nouns, adverbs, and prepositions that most often co-occur with the verb.
-* Noun: Find the verbs, adjectives, and other nouns that naturally combine with the noun.
-* Adjective: Identify the nouns it commonly describes and the adverbs that intensify it.
-* Adverb: Check which verbs, adjectives, or other adverbs it most frequently modifies.
-
-** Ensure collocations are diverse and cover a wide range of common usages. **
-""",
+        description="list the easy and simple phrases in which the word is used in different contexts and nuances (more than 4 phrases). Japanese phrase only with no extra explanations.",
     )
     synonyms: list[str] | None = Field(
         default=None,
@@ -169,7 +163,7 @@ Depending of the type of the word use the following instructions:
 
 
 class JPKanji(BaseModel):
-    kanji: str
+    kanji: str = ""
     meanings: list[str] = []
     onyomi: list[str] = []
     kunyomi: list[str] = []
@@ -177,10 +171,9 @@ class JPKanji(BaseModel):
     jlpt: int | None = None
     frequency: int | None = None
     unicode: str | None = None
-    grade: int | None = Field(
-        default=None, description="The grade level at which the kanji is taught in Japan. Example: 1"
-    )
-    examples: list["JPWord"] = Field(default=[], description="A list of example sentences using the kanji.")
+    grade: int | None = Field(default=None)
+    examples: list["JPWord"] = Field(default=[])
+    original_word: str | None = Field(default=None, exclude=True)
 
     def model_post_init(self, __context) -> None:
         if self.meanings or self.onyomi or self.kunyomi:
@@ -194,13 +187,6 @@ class JPKanji(BaseModel):
         self.frequency = res.get("freq_mainichi_shinbun", None)
         self.unicode = res.get("unicode", None)
         self.grade = res.get("grade", None)
-        examples = JPWord.query_jisho(f"*{self.kanji}*")
-        for ex in examples[:4]:
-            try:
-                word = ex["japanese"][0].get("word", ex["japanese"][0].get("reading", ""))
-                self.examples.append(JPWord(word=word, kanji_breakdown=False))
-            except Exception as e:
-                console.print(f"[red]Error processing example: {e}[/red]")
 
     @staticmethod
     def query(kanji: str) -> dict:
@@ -255,10 +241,10 @@ class JPWord(BaseModel):
         if self.meanings or self.kanjis or self.explanations:
             return
         self._get_meanings()
-        if self.kanji_breakdown:
-            status.update("Fetching kanji breakdown ...")
-            self._kanji_breakdown()
-        self._get_examples()
+        # if self.kanji_breakdown:
+        #     status.update("Fetching kanji breakdown ...")
+        #     self._kanji_breakdown()
+        # self._get_examples()
 
     def _get_meanings(self) -> None:
         status.update("Fetching meanings from Jisho")
@@ -300,37 +286,41 @@ class JPWord(BaseModel):
         kanjis = self.extract_kanji(self.word)
         if not kanjis:
             return
-        prompt_text = ""
-        for kanji in kanjis:
-            status.update(f"Kanji breakdown for: {kanji}")
-            kanji_data = JPKanji(kanji=kanji)
+
+        response = client.responses.create(
+            model="gpt-5-mini",
+            input=[
+                {
+                    "role": "developer",
+                    "content": [
+                        {
+                            "type": "input_text",
+                            "text": '# Role\r\nYou are a teacher assistant gathering materials Japanese kanjis to students with intermediate English and beginner Japanese skills.\r\n\r\n# Task\r\nWrite in a natural, conversational transcript of a teacher explaining the kanji, its meanings and readings. for each kanji (in the order it appears), compose one 3-4 short sentence paragraph that: \n1. Describes the kanji’s core meaning.\r\n2. except the original word, Presents the 1-2 vocabularies that use that kanji, and how this kanji gives meaning in this vocabulary. \n\r\n# Constrains\r\n* Explanation field is the transcription of a speech. Don\'t use bullet points, parenthesis, new lines, titles, or anything similar.\r\n* Do not include the original word in the vocabs.\r\n* In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.\r\n* Explanation starts with English phrases such as:  "The first kanji means ..."\n\nOutput format in json:\n{\n"word": "the given word"\n"kanjies": [\n{"kanji": "first kanji",\n"meaning": "all meanings",\n"vocabs": [{"word":"word in kanji", "hiragana": "hiragana", "meaning";"meaning"}, ...]\n}, ...\n],\n"explanation": "string"\n}\n',
+                            # "text": '# Role\r\nYou are a teacher assistant gathering materials Japanese kanjis to students with intermediate English and beginner Japanese skills.\r\n\r\n# Task\r\nWrite in a natural, conversational transcript of a teacher explaining the kanji, its meanings and readings. for each kanji (in the order it appears), compose one 3-4 short sentence paragraph that: \n1. Describes the kanji’s core meaning.\r\n2. Presents the 1-2 vocabularies that use that kanji, and how this kanji gives meaning in this vocabulary. \n\r\n# Constrains\r\n* Explanation field is the transcription of a speech. Don\'t use bullet points, parenthesis, new lines, titles, or anything similar.\r\n* In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.\r\n* Explanation starts with English phrases such as:  "The first kanji means ..."\n\nOutput format in json:\n{\n"word": "the given word"\n"kanjies": [\n{"kanji": "first kanji",\n"meaning": "all meanings",\n"vocabs": [{"word":"word in kanji", "hiragana": "hiragana", "meaning";"meaning"}, ...]\n}, ...\n],\n"explanation": "string"\n}\n',
+                        }
+                    ],
+                },
+                {
+                    "role": "user",
+                    "content": [{"type": "input_text", "text": f"word={self.word}, kanjis={','.join(kanjis)}"}],
+                },
+            ],
+            text={"format": {"type": "json_object"}, "verbosity": "medium"},
+            reasoning={"effort": "low", "summary": None},
+            tools=[],
+            store=False,
+            include=["reasoning.encrypted_content", "web_search_call.action.sources"],
+        )
+
+        json_result = eval(response.output_text)
+        self.kanji_explanation = json_result.get("explanation", "")
+        for kanji in json_result.get("kanjies", []):
+            vocabs = []
+            for v in kanji.get("vocabs", []):
+                vocabs.append(JPWord(word=v["word"], kanji_breakdown=False))
+            kanji_data = JPKanji(kanji=kanji["kanji"])
+            kanji_data.examples = vocabs
             self.kanjis.append(kanji_data)
-            prompt_text = f"{prompt_text}\n{kanji}: "
-            for ex in kanji_data.examples[:3]:
-                if ex.word == self.word:
-                    continue
-                prompt_text = f"{prompt_text} {ex.word} ({ex.reading}),"
-
-        messages = [
-            SystemMessage("""# Role
-You are a teacher assistant gathering materials Japanese kanjis to students with intermediate English and beginner Japanese skills.
-
-# Task
-Write in a natural, conversational transcript of a teacher explaining the kanji, its meanings and readings. for each kanji (in the order it appears), compose one 4-6 short sentence paragraph that:
-1. Describes the kanji’s core meaning.
-2. Presents the vocabularies that use that kanji, and how this kanji gives meaning in this vocabulary.
-
-# Constrains
-* Explanation field is the transcription of a speech. Don't use bullet points, parenthesis, new lines, titles, or anything similar.
-* In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.
-* Explanation starts with English phrases such as:  "The first kanji means ..."
-"""),
-            HumanMessage(f"Word: {self.word}. Kanjis: {prompt_text}"),
-        ]
-        if self.llm is None:
-            return
-        result = self.llm.invoke(messages)
-        self.kanji_explanation = result.content
 
     def _get_examples(self) -> None:
         if self.llm is None:
@@ -804,8 +794,8 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
 
         word_audio = (
             AudioSegment.from_mp3(explanation_audio_path)
-            + AudioSegment.silent(duration=1000)
-            + AudioSegment.from_mp3(word_audio_path)
+            # + AudioSegment.silent(duration=1000)
+            # + AudioSegment.from_mp3(word_audio_path)
         )
 
         word_audio = AudioSegment.from_mp3(explanation_audio_path)
@@ -888,8 +878,11 @@ Write in a natural, conversational transcript of a teacher explaining the kanji,
 
 
 word_list = [
-    "",
+    "参加",
+    "異なる",
+    "広場",
 ]
+
 
 if __name__ == "__main__":
     llm_4o_openai = ChatOpenAI(model="gpt-4o", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
@@ -899,10 +892,10 @@ if __name__ == "__main__":
     status.start()
 
     word = word_list[0]
-    w = JPWord(word=word, llm=llm_4o_mini_openai)
+    w = JPWord(word=word, llm=llm_5_mini_openai)
     w.save_json()
     # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
-    w.tts()
-    w.pptx_generation()
+    # w.tts()
+    # w.pptx_generation()
 
     status.stop()
