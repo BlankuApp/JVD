@@ -65,7 +65,7 @@ class JPTranslation(BaseModel):
 class JPExample(BaseModel):
     kanji: str = Field(description="The example sentence in Kanji. Example: 私は学生です。")
     furigana: str = Field(
-        description="Fix the Japanese sentences so that every kanji block is immediately followed by its hiragana reading in parentheses. Example: 私(わたし)は学生(がくせい)です。"
+        description="Rewrite the Japanese sentence so that every kanji block is immediately followed by its hiragana reading in parentheses [kanji](hiragana). Example: 私(わたし)は学生(がくせい)です。"
     )
     difficulty: int = Field(description="The difficulty level of the collocation from JLPT N1 to JLPT N5 level.")
     translation: JPTranslation | None = Field(default=None)
@@ -874,7 +874,7 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "",
+    "備える",
 ]
 
 
