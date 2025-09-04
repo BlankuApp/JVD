@@ -146,7 +146,7 @@
 | 動かす | うごかす | to move,to shift |
 | 兎 | うさぎ | rabbit,hare,cony |
 | 牛 | うし | cattle,cow |
-| 失う | うしなう | to lose,to part with |
+| **失う** | うしなう | to lose,to part with |
 | 後 | うしろ | afterwards,since then,in the future |
 | 嘘 | うそ | lie,falsehood,incorrect fact,inappropriate |
 | 疑う | うたがう | to doubt,to distrust,to be suspicious of,to suspect |
@@ -231,7 +231,7 @@
 |  | おまえ | (fam) you (sing),presence (of a high personage) |
 |  | おめでとう | Congratulations!,an auspicious occasion! |
 | お目に掛かる | おめにかかる |  |
-| 思い出 | おもいで | memories,recollections,reminiscence |
+| **思い出** | おもいで | memories,recollections,reminiscence |
 | 主に | おもに | mainly,primarily |
 | **思わず** | おもわず | unintentional,spontaneous |
 |  | おや | parents |
@@ -244,7 +244,7 @@
 | 終 | おわり | the end |
 | 音 | おん | sound,note |
 | 恩 | おん | favour,obligation,debt of gratitude |
-| 温暖 | おんだん | warmth |
+| **温暖** | おんだん | warmth |
 | 温度 | おんど | temperature |
 | 可 | か | passable |
 | 課 | か | counter for chapters (of a book) |
@@ -284,7 +284,7 @@
 | 家具 | かぐ | furniture |
 | 学 | がく | learning,scholarship,erudition,knowledge |
 | 額 | がく | forehead,brow |
-| 覚悟 | かくご | resolution,resignation,readiness,preparedness |
+| **覚悟** | かくご | resolution,resignation,readiness,preparedness |
 | 確実 | かくじつ | certainty,reliability,soundness |
 | **学者** | がくしゃ | scholar |
 | 学習 | がくしゅう | study,learning |

@@ -118,17 +118,10 @@ Whether you're a beginner or looking to expand your Japanese skills, this video 
     )
     motivation: str | None = Field(
         default=None,
-        description="""1. Find 3 commonly used sentences in English that include the vocabulary word.
-2. Only include the English translation of the sentences, not the Japanese version.
-3. Improve the provided motivational template to make it more engaging and compelling for viewers to watch the video.
-Template:
-The word we'll be learning in this video is [vocabulary word in hiragana] which you will often hear in [provide the situations where the word is commonly used]. 
-Imagine how much more natural your Japanese will sound when you can say things like [include only English translation of 3 commonly used sentences with the translated version of the word] in Japanese.  
-Let's get started!
+        description="""1. Fill out the following template:
+The word we'll be learning in this section is [vocabulary word in hiragana] which you will often hear in [provide the situations where the word is commonly used]. 
+2. rephrase it to make it more motivationa, engaging and compelling for viewers to watch the video.
 """,
-    )
-    motivation_sentences: list[str] | None = Field(
-        default=None, description="The list of sentences in the motivation field."
     )
     collocations: list[str] | None = Field(
         default=None,
@@ -140,11 +133,11 @@ Let's get started!
     )
     synonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a brief explanation about the synonyms listed, including their nuances and meanings.
+        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common synonyms of the [word] are ..."
-3. Explain the nuances of each synonym and antonym listed, and how they differ from the original word.
+3. Very shortly explain the nuances of each synonym and antonym listed, and how they differ from the original word.
 """,
     )
     antonyms: list[str] | None = Field(
@@ -153,11 +146,11 @@ Let's get started!
     )
     antonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a brief explanation about the antonyms listed, including their nuances and meanings.
+        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common antonyms of the [word] are ..."
-3. Explain the nuances of each synonym and antonym listed, and how they differ from the original word.
+3. Very shortly explain the nuances of each synonym and antonym listed, and how they differ from the original word.
 """,
     )
 
@@ -332,7 +325,7 @@ class JPWord(BaseModel):
                 [
                     (
                         "user",
-                        f"Generate a natural, simple and very short example sentence using the collocation: {c} for the word {self.word}. Sentences should be in N5, N4 or N3 level maximum.",
+                        f"Generate a natural, simple and very short Japanese example sentence using the collocation: {c} for the word {self.word} in Kanji. Sentences should be in N5 or N4 level maximum.",
                     )
                 ]
             )
@@ -426,13 +419,6 @@ class JPWord(BaseModel):
         presentation_subtitle.text = self.reading
         presentation_subtitle.text_frame.paragraphs[0].font.size = Pt(100)
         presentation_subtitle.text_frame.paragraphs[0].font.color.rgb = RGBColor(192, 79, 21)
-        link_shape = first_slide.shapes.add_textbox(Inches(5), Inches(5), Inches(10), Inches(0.1))
-        link_shape.text_frame.horizontal_anchor = PP_PARAGRAPH_ALIGNMENT.RIGHT
-        p = link_shape.text_frame.add_paragraph()
-        run = p.add_run()
-        run.text = f"https://jvdict.streamlit.app/v?w={self.word}"
-        run.font.size = Pt(18)
-        run.font.name = "Consolas"
 
         first_slide.shapes.add_movie(
             f"./output/{word}/audio/0_title.wav",
@@ -445,7 +431,7 @@ class JPWord(BaseModel):
 
         # Meanings slide
         explanation_slide = prs.slides.add_slide(prs.slide_layouts[6])
-        shape = explanation_slide.shapes.add_textbox(Inches(0), Inches(0), Inches(40 / 3), Inches(7.5))
+        shape = explanation_slide.shapes.add_textbox(Inches(5), Inches(0), Inches(40 / 3 - 5), Inches(7.5))
         shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.MIDDLE
         shape.text_frame.word_wrap = True
         for i, meaning in enumerate(self.meanings):
@@ -481,10 +467,7 @@ class JPWord(BaseModel):
                 # Add bold run for the language code
 
                 run_code = p.add_run()
-                if code in ["NE:"]:
-                    run_code.text = f"\n{code} "
-                else:
-                    run_code.text = f"     {code}"
+                run_code.text = f"     {code}"
                 run_code.font.size = Pt(16)
                 run_code.font.name = "Berlin Sans FB"
                 run_code.font.color.rgb = RGBColor(127, 127, 127)
@@ -784,7 +767,6 @@ class JPWord(BaseModel):
 
         title_audio = (
             AudioSegment.from_mp3(motivation_audio_path)
-            + AudioSegment.silent(duration=500)
             + AudioSegment.from_mp3(word_audio_path)
             + AudioSegment.silent(duration=500)
             + AudioSegment.from_mp3(word_audio_path)
@@ -792,12 +774,10 @@ class JPWord(BaseModel):
         with open(f"./output/{word}/audio/0_title.wav", "wb") as title_file:
             title_audio.export(title_file, format="wav")
 
-        word_audio = AudioSegment.from_mp3(explanation_audio_path)
-
-        word_audio = AudioSegment.from_mp3(explanation_audio_path)
+        definition_audio = AudioSegment.from_mp3(explanation_audio_path)
 
         with open(f"./output/{word}/audio/0_definition.wav", "wb") as word_file:
-            word_audio.export(word_file, format="wav")
+            definition_audio.export(word_file, format="wav")
 
         # Second segment
         kanji_explanation_path = f"./output/{word}/audio/kanji_explanation.mp3"
@@ -874,7 +854,7 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "備える",
+    "覚悟",
 ]
 
 
@@ -886,7 +866,7 @@ if __name__ == "__main__":
     status.start()
 
     word = word_list[0]
-    w = JPWord(word=word, llm=llm_4o_mini_openai)
+    w = JPWord(word=word, llm=llm_4o_openai)
     w.save_json()
     # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
     w.tts()

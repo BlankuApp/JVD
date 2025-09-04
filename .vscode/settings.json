@@ -2,5 +2,6 @@
     "notebook.output.scrolling": true,
     "notebook.output.textLineLimit": 300,
     "ruff.lineLength": 120,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "python.analysis.typeCheckingMode": "standard"
 }
