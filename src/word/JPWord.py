@@ -18,7 +18,6 @@ load_dotenv()
 
 console = Console()
 status = Status("Starting...", console=console)
-client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
 LANGUAGES_ABBR = {
@@ -280,6 +279,7 @@ class JPWord(BaseModel):
         if not kanjis:
             return
 
+        client = openai.OpenAI(api_key=os.getenv("openai_api_key"))
         response = client.responses.create(
             model="gpt-5-mini",
             input=[
@@ -393,7 +393,7 @@ class JPWord(BaseModel):
         for ex in self.examples:
             ex.show_in_streamlit(st)
 
-    def pptx_generation(self, num_examples: int | None = 4) -> None:
+    def pptx_generation(self, num_examples: int | None = 5) -> None:
         file_name = f"./Output/{self.word}/{self.word} JLPT N3 Vocabulary.pptx"
         if os.path.exists(file_name):
             status.update(f"{self.word} PowerPoint already exists, skipping...")
@@ -719,7 +719,7 @@ class JPWord(BaseModel):
 
         prs.save(file_name)
 
-    def tts(self, num_examples: int | None = 4) -> None:
+    def tts(self, num_examples: int | None = 5) -> None:
         os.makedirs(f"./Output/{self.word}/audio", exist_ok=True)
         client = openai.OpenAI(api_key=os.getenv("openai_api_key"))
 
@@ -854,7 +854,7 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "覚悟",
+    "再び",
 ]
 
 
