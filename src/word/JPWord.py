@@ -22,24 +22,19 @@ status = Status("Starting...", console=console)
 
 LANGUAGES_ABBR = {
     "English": "EN",
-    "Spanish": "ES",
-    "French": "FR",
-    "German": "DE",
-    "Portuguese": "PT",
-    "Russian": "RU",
-    "Chinese": "ZH",
-    "Korean": "KO",
-    "Arabic": "AR",
-    "Hindi": "HI",
-    "Bengali": "BN",
-    "Japanese": "JA",
-    "Vietnamese": "VI",
     "Persian": "FA",
     "Nepali": "NE",
     "Indonesian": "ID",
     "Filipino": "TL",
+    "Vietnamese": "VI",
     "Burmese": "MY",
-    "Turkish": "TR",
+    "Korean": "KO",
+    "Hindi": "HI",
+    "Arabic": "AR",
+    "French": "FR",
+    "Spanish": "ES",
+    "Chinese": "ZH",
+    "Bengali": "BN",
 }
 
 
@@ -854,7 +849,7 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "再び",
+    "皮",
 ]
 
 
