@@ -307,7 +307,7 @@
 | **賢い** | かしこい | wise,clever,smart |
 | 歌手 | かしゅ | singer |
 | 数 | かず | number,figure |
-| 稼ぐ | かせぐ | to earn income,to labor |
+| **稼ぐ** | かせぐ | to earn income,to labor |
 | 数える | かぞえる | to count |
 | 型 | かた | mold,model,style,shape,data-type |
 | 肩 | かた | shoulder |
@@ -344,7 +344,7 @@
 | 刈る | かる | to cut (hair),to mow (grass),to harvest |
 | 川 | かわ | river |
 | 河 | かわ | river,stream |
-| 皮 | かわ | skin,hide,leather,fur,pelt,bark,shell |
+| **皮** | かわ | skin,hide,leather,fur,pelt,bark,shell |
 | 革 | かわ | leather |
 |  | かわいそう | poor,pitiable,pathetic |
 |  | かわいらしい | lovely,sweet |
