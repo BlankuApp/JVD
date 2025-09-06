@@ -3,17 +3,12 @@ import time
 
 import streamlit as st
 from dotenv import load_dotenv
-from streamlit_cookies_controller import CookieController
 from supabase import Client, create_client
 
 from src.word.JPWord import LANGUAGES_ABBR
 
-controller = CookieController()
 
-
-auth = controller.get("auth")
-if auth:
-    st.session_state["auth"] = auth
+auth = st.session_state.get("auth", None)
 
 
 load_dotenv()
@@ -36,16 +31,6 @@ def login_modal():
                 }
             )
             if response.user is not None and response.session is not None:
-                controller.set(
-                    name="auth",
-                    value={
-                        **response.user.user_metadata,
-                        "id": response.user.id,
-                        "email": response.user.email,
-                        "access_token": response.session.access_token,
-                        "refresh_token": response.session.refresh_token,
-                    },
-                )
                 st.session_state["auth"] = {
                     **response.user.user_metadata,
                     "id": response.user.id,
@@ -99,8 +84,6 @@ if auth is None:
     st.button("Sign Up", on_click=signup_modal, width="stretch", icon="🆕")
 else:
     st.set_page_config(page_title=f"{auth['username']} Profile", page_icon="👤")
-    if auth.get("access_token") and auth.get("refresh_token"):
-        supabase.auth.set_session(access_token=auth["access_token"], refresh_token=auth["refresh_token"])
     st.markdown(f"### Welcome, {auth['username']}!")
     with st.expander("User Details", expanded=True, icon="ℹ️"):
         st.text_input("Email", value=auth["email"], disabled=True)
@@ -119,6 +102,7 @@ else:
         )
         if st.button("Update Profile", width="stretch"):
             try:
+                supabase.auth.set_session(access_token=auth["access_token"], refresh_token=auth["refresh_token"])
                 updates = {
                     "username": st.session_state["username"],
                     "jlpt_level": st.session_state["jlpt_level"],
@@ -126,16 +110,6 @@ else:
                 }
                 response = supabase.auth.update_user({"data": updates})
                 if response.user is not None:
-                    controller.set(
-                        name="auth",
-                        value={
-                            **response.user.user_metadata,
-                            "id": response.user.id,
-                            "email": response.user.email,
-                            "access_token": auth.get("access_token"),
-                            "refresh_token": auth.get("refresh_token"),
-                        },
-                    )
                     st.session_state["auth"] = {
                         **response.user.user_metadata,
                         "id": response.user.id,
@@ -144,16 +118,8 @@ else:
                         "refresh_token": auth.get("refresh_token"),
                     }
                     time.sleep(1)
-                    st.success("Profile updated successfully!")
-                    st.rerun()
+                    st.toast("Profile updated successfully!", icon="✅")
                 else:
-                    st.error("Update failed. Please try again.")
+                    st.toast("Update failed. Please try again.", icon="❌")
             except Exception as e:
-                st.error(f"An error occurred: {e}")
-    # if st.sidebar.button("Logout", width="stretch"):
-    #     supabase.auth.sign_out()
-    #     controller.remove("auth")
-    #     if "auth" in st.session_state:
-    #         del st.session_state["auth"]
-    #     time.sleep(1)
-    #     st.rerun()
+                st.toast(f"An error occurred: {e}", icon="❌")

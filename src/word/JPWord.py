@@ -215,6 +215,7 @@ class JPWord(BaseModel):
     version: str = "0.1.0"
     word: str
     youtube_link: str = ""
+    in_db: bool = False
     reading: str | None = None
     meanings: list[JPWordMeaning] = []
     kanjis: list[JPKanji] = []
