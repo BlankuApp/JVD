@@ -536,7 +536,7 @@
 | 券 | けん | ticket,coupon,bond,certificate |
 | 県 | けん | prefecture |
 | 軒 | けん | eaves |
-| 喧嘩 | けんか | quarrel,(drunken) brawl,failure |
+| **喧嘩** | けんか | quarrel,(drunken) brawl,failure |
 | 見解 | けんかい | opinion,point of view |
 | 限界 | げんかい | limit,bound |
 | 現金 | げんきん | cash,ready money,mercenary,self-interested |
@@ -714,7 +714,7 @@
 | 詩人 | しじん | poet |
 | 自身 | じしん | by oneself,personally |
 | 沈む | しずむ | to sink,to feel depressed |
-| 自然 | しぜん | nature,spontaneous |
+| **自然** | しぜん | nature,spontaneous |
 | 思想 | しそう | thought,idea |
 | 舌 | した | tongue |
 | 次第 | しだい | (1) order,precedence,(2) circumstances,(3) immediate(ly) |
@@ -1394,7 +1394,7 @@
 | 梅雨 | ばいう | rainy season,rain during the rainy season |
 |  | バイオリン | violin |
 |  | ハイキング | hiking |
-| 配達 | はいたつ | delivery,distribution |
+| **配達** | はいたつ | delivery,distribution |
 |  | パイプ | (1) pipe,tube,(2) channels, official or otherwise |
 | 俳優 | はいゆう | actor,actress,player,performer |
 |  | パイロット | pilot |
