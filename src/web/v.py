@@ -1,7 +1,8 @@
 import streamlit as st
 
-from src.db import db_word
 from src.word.JPWord import JPWord
+
+from ..db import db_word  # from src.db import db_word
 
 auth = st.session_state.get("auth", None)
 
