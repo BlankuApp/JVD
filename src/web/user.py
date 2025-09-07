@@ -1,11 +1,11 @@
 import os
-import time
 
 import streamlit as st
 from dotenv import load_dotenv
 from supabase import Client, create_client
 
 from src.word.JPWord import LANGUAGES_ABBR
+from src.db import db_word
 
 
 auth = st.session_state.get("auth", None)
@@ -38,7 +38,8 @@ def login_modal():
                     "access_token": response.session.access_token,
                     "refresh_token": response.session.refresh_token,
                 }
-                time.sleep(1)
+                user_word_cards = db_word.get_user_word_cards(st.session_state["auth"])
+                st.session_state["user_word_cards"] = user_word_cards
                 st.snow()
                 st.rerun()
             else:
@@ -70,8 +71,7 @@ def signup_modal():
                 }
             )
             if response.user is not None:
-                st.success("Sign up successful! Please check your email to confirm your account.")
-                time.sleep(10)
+                st.toast("Sign up successful! Please check your email to confirm your account.", icon="✅")
                 st.rerun()
             else:
                 st.error("Sign up failed. Please try again.")
@@ -79,12 +79,7 @@ def signup_modal():
             st.error(f"An error occurred: {e}")
 
 
-if auth is None:
-    st.button("Login", on_click=login_modal, width="stretch", icon="🔐")
-    st.button("Sign Up", on_click=signup_modal, width="stretch", icon="🆕")
-else:
-    st.set_page_config(page_title=f"{auth['username']} Profile", page_icon="👤")
-    st.markdown(f"### Welcome, {auth['username']}!")
+def update_user_profile(auth, supabase):
     with st.expander("User Details", expanded=True, icon="ℹ️"):
         st.text_input("Email", value=auth["email"], disabled=True)
         st.text_input("Username", value=auth["username"], key="username")
@@ -117,9 +112,17 @@ else:
                         "access_token": auth.get("access_token"),
                         "refresh_token": auth.get("refresh_token"),
                     }
-                    time.sleep(1)
                     st.toast("Profile updated successfully!", icon="✅")
                 else:
                     st.toast("Update failed. Please try again.", icon="❌")
             except Exception as e:
                 st.toast(f"An error occurred: {e}", icon="❌")
+
+
+if auth is None:
+    st.button("Login", on_click=login_modal, width="stretch", icon="🔐")
+    st.button("Sign Up", on_click=signup_modal, width="stretch", icon="🆕")
+else:
+    st.set_page_config(page_title=f"{auth['username']} Profile", page_icon="👤")
+    st.markdown(f"### Welcome, {auth['username']}!")
+    update_user_profile(auth, supabase)

@@ -69,12 +69,10 @@ def check_user_word_card(auth: dict, word: str) -> bool:
         return False
 
 
-def get_user_word_cards(auth: dict) -> list[str]:
+def get_user_word_cards(auth: dict) -> list[dict]:
     try:
-        response = supabase.table("user_card").select("key").eq("user_id", auth["id"]).eq("type", "JPWord").execute()
-        if response.data:
-            return [item["key"] for item in response.data]
-        return []
+        response = supabase.table("user_card").select("*").eq("user_id", auth["id"]).eq("type", "JPWord").execute()
+        return response.data if response.data else []
     except Exception as e:
         print(f"Error fetching user cards: {e}")
         return []

@@ -54,17 +54,18 @@ if "w" in st.query_params:
     fetch_and_show_word()
 else:
     user_word_cards = db_word.get_user_word_cards(auth) if auth else []
+    marked_words = [w.get("key") for w in user_word_cards] if user_word_cards else []
     st.markdown("# JLPT Vocabularies")
     with st.expander("N3 Vocabularies"):
         with st.container(horizontal=True):
             for file in n3_vocabulary_files:
-                if st.button(file, type="primary" if file in user_word_cards else "secondary"):
+                if st.button(file, type="primary" if file in marked_words else "secondary"):
                     st.query_params.update({"w": file})
                     st.rerun()
 
     with st.expander("N2 Vocabularies"):
         with st.container(horizontal=True):
             for file in n2_vocabulary_files:
-                if st.button(file, type="primary" if file in user_word_cards else "secondary"):
+                if st.button(file, type="primary" if file in marked_words else "secondary"):
                     st.query_params.update({"w": file})
                     st.rerun()

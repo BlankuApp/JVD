@@ -16,6 +16,7 @@ auth = st.session_state.get("auth", None)
 
 main_page = st.Page("src/web/main_page.py", title="Home", icon="🏠")
 jlpt_vocabularies = st.Page("src/web/v.py", title="JLPT Vocabularies", icon="📚")
+review_page = st.Page("src/web/review.py", title="Review", icon="✏️")
 if auth:
     user_auth = st.Page("src/web/user.py", title=f"{auth['username']} Profile", icon="👤")
     logout_btn = st.sidebar.button("Logout", width="stretch")
@@ -29,7 +30,7 @@ else:
     user_auth = st.Page("src/web/user.py", title="Login", icon="🔐")
 
 
-pages = [main_page, jlpt_vocabularies, user_auth]
+pages = [main_page, jlpt_vocabularies, review_page, user_auth]
 app = st.navigation(pages=pages, expanded=True)
-st.sidebar.write(auth)
+st.sidebar.write(st.session_state)
 app.run()
