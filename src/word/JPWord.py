@@ -2,17 +2,15 @@ import json
 import os
 import re
 
+import openai
 import requests
 from dotenv import load_dotenv
 from langchain_core.language_models.chat_models import BaseChatModel
-from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
-
-import openai
 from pydantic import BaseModel, Field
+from pydub import AudioSegment
 from rich.console import Console
 from rich.status import Status
-from pydub import AudioSegment
 
 load_dotenv()
 
@@ -22,43 +20,38 @@ status = Status("Starting...", console=console)
 
 LANGUAGES_ABBR = {
     "English": "EN",
-    "Spanish": "ES",
-    "French": "FR",
-    "German": "DE",
-    "Portuguese": "PT",
-    "Russian": "RU",
-    "Chinese": "ZH",
-    "Korean": "KO",
-    "Arabic": "AR",
-    "Hindi": "HI",
-    "Bengali": "BN",
-    "Japanese": "JA",
-    "Vietnamese": "VI",
     "Persian": "FA",
     "Nepali": "NE",
     "Indonesian": "ID",
     "Filipino": "TL",
+    "Vietnamese": "VI",
     "Burmese": "MY",
-    "Turkish": "TR",
+    "Korean": "KO",
+    "Hindi": "HI",
+    "Arabic": "AR",
+    "French": "FR",
+    "Spanish": "ES",
+    "Chinese": "ZH",
+    "Bengali": "BN",
 }
 
 
 class JPTranslation(BaseModel):
-    Japanese: str = Field(description="The given Japanese text.")
-    English: str = Field(description="The exact English translation of the given Japanese text.")
-    Persian: str = Field(description="The exact Persian translation of the given Japanese text.")
-    Nepali: str = Field(description="The exact Nepali translation of the given Japanese text.")
-    Indonesian: str = Field(description="The exact Indonesian translation of the given Japanese text.")
-    Filipino: str = Field(description="The exact Filipino translation of the given Japanese text.")
-    Vietnamese: str = Field(description="The exact Vietnamese translation of the given Japanese text.")
-    Burmese: str = Field(description="The exact Burmese translation of the given Japanese text.")
-    Korean: str = Field(description="The exact Korean translation of the given Japanese text.")
-    Hindi: str = Field(description="The exact Hindi translation of the given Japanese text.")
-    Arabic: str = Field(description="The exact Arabic translation of the given Japanese text.")
-    French: str = Field(description="The exact French translation of the given Japanese text.")
-    Spanish: str = Field(description="The exact Spanish translation of the given Japanese text.")
-    Chinese: str = Field(description="The exact Chinese translation of the given Japanese text.")
-    Bengali: str = Field(description="The exact Bengali translation of the given Japanese text.")
+    Japanese: str = Field(default="", description="The given Japanese text.")
+    English: str = Field(default="", description="The exact English translation of the given Japanese text.")
+    Persian: str = Field(default="", description="The exact Persian translation of the given Japanese text.")
+    Nepali: str = Field(default="", description="The exact Nepali translation of the given Japanese text.")
+    Indonesian: str = Field(default="", description="The exact Indonesian translation of the given Japanese text.")
+    Filipino: str = Field(default="", description="The exact Filipino translation of the given Japanese text.")
+    Vietnamese: str = Field(default="", description="The exact Vietnamese translation of the given Japanese text.")
+    Burmese: str = Field(default="", description="The exact Burmese translation of the given Japanese text.")
+    Korean: str = Field(default="", description="The exact Korean translation of the given Japanese text.")
+    Hindi: str = Field(default="", description="The exact Hindi translation of the given Japanese text.")
+    Arabic: str = Field(default="", description="The exact Arabic translation of the given Japanese text.")
+    French: str = Field(default="", description="The exact French translation of the given Japanese text.")
+    Spanish: str = Field(default="", description="The exact Spanish translation of the given Japanese text.")
+    Chinese: str = Field(default="", description="The exact Chinese translation of the given Japanese text.")
+    Bengali: str = Field(default="", description="The exact Bengali translation of the given Japanese text.")
 
 
 class JPExample(BaseModel):
@@ -67,14 +60,17 @@ class JPExample(BaseModel):
         description="Rewrite the Japanese sentence so that every kanji block is immediately followed by its hiragana reading in parentheses [kanji](hiragana). Example: 私(わたし)は学生(がくせい)です。"
     )
     difficulty: int = Field(description="The difficulty level of the collocation from JLPT N1 to JLPT N5 level.")
-    translation: JPTranslation | None = Field(default=None)
+    translation: JPTranslation = Field(default=JPTranslation())
 
-    def show_in_streamlit(self, st) -> None:
+    def show_in_streamlit(self, st, auth: dict | None = None) -> None:
         with st.expander(self.kanji):
             st.markdown(f":blue-badge[JLPT N{self.difficulty}] {self.furigana}")
             for key, value in self.translation:
                 if key == "Japanese":
                     continue
+                if auth:
+                    if key not in auth.get("preferred_languages", []):
+                        continue
                 st.markdown(f":gray-badge[{LANGUAGES_ABBR[key]}] {value}")
 
 
@@ -83,11 +79,14 @@ class JPWordMeaning(BaseModel):
     part_of_speech: str | None = Field(default=None)
     translation: JPTranslation | None = Field(default=None)
 
-    def show_in_streamlit(self, st) -> None:
+    def show_in_streamlit(self, st, auth: dict | None = None) -> None:
         with st.container(border=1, horizontal=True, gap="small"):
             for key, value in self.translation:
                 if key == "Japanese":
                     continue
+                if auth:
+                    if key not in auth.get("preferred_languages", []):
+                        continue
                 st.markdown(f":gray-badge[{LANGUAGES_ABBR[key]}] {value}")
 
 
@@ -97,8 +96,8 @@ class JPWordExplanations(BaseModel):
     You are a helpful Japanese language learning assistant who teaches in English.
     """
 
-    explanation: str | None = Field(
-        default=None,
+    explanation: str = Field(
+        default="",
         description="""Write in a natural, conversational English transcript of a teacher explaining the meanings found, provide a very short but comprehensive and concise definition of the vocabulary word in simple English.
 1. Since it is a transcript, don't use bullet points, parenthesis, e.g. or anything similar.
 2. In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.
@@ -115,8 +114,8 @@ In this video, we'll explore its meanings, kanji breakdowns, and collocations to
 Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!
 """,
     )
-    motivation: str | None = Field(
-        default=None,
+    motivation: str = Field(
+        default="",
         description="""1. Fill out the following template:
 The word we'll be learning in this section is [vocabulary word in hiragana] which you will often hear in [provide the situations where the word is commonly used]. 
 2. rephrase it to make it more motivationa, engaging and compelling for viewers to watch the video.
@@ -126,8 +125,8 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
         default=None,
         description="list the easy and simple phrases in which the word is used in different contexts and nuances (more than 4 phrases). Japanese phrase only with no extra explanations.",
     )
-    synonyms: list[str] | None = Field(
-        default=None,
+    synonyms: list[str] = Field(
+        default=[],
         description="List the 1-2 most commonly used synonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
     )
     synonyms_explanation: str | None = Field(
@@ -139,8 +138,8 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
 3. Very shortly explain the nuances of each synonym and antonym listed, and how they differ from the original word.
 """,
     )
-    antonyms: list[str] | None = Field(
-        default=None,
+    antonyms: list[str] = Field(
+        default=[],
         description="List the 1-2 most commonly used antonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
     )
     antonyms_explanation: str | None = Field(
@@ -216,6 +215,7 @@ class JPWord(BaseModel):
     version: str = "0.1.0"
     word: str
     youtube_link: str = ""
+    in_db: bool = False
     reading: str | None = None
     meanings: list[JPWordMeaning] = []
     kanjis: list[JPKanji] = []
@@ -361,17 +361,18 @@ class JPWord(BaseModel):
         else:
             raise Exception(f"Error fetching data from Jisho API: {response.status_code}")
 
-    def show_in_streamlit(self, st) -> None:
+    def show_in_streamlit(self, st, auth: dict | None = None) -> None:
         st.markdown(
             f"# {self.word} ({self.reading}) :orange-badge[{', '.join(self.jlpt).upper()}] :green-badge[{'Common' if self.is_common else 'Uncommon'}]"
         )
         if self.youtube_link:
             st.video(self.youtube_link)
-        st.markdown(self.explanations.motivation or "")
-        st.markdown("### Meanings")
-        st.markdown(self.explanations.explanation or "")
+        if self.explanations:
+            st.markdown(self.explanations.motivation or "")
+            st.markdown("### Meanings")
+            st.markdown(self.explanations.explanation or "")
         for m in self.meanings:
-            m.show_in_streamlit(st)
+            m.show_in_streamlit(st, auth)
 
         col1, col2 = st.columns(2)
         with col1:
@@ -391,7 +392,7 @@ class JPWord(BaseModel):
 
         st.markdown("### Examples")
         for ex in self.examples:
-            ex.show_in_streamlit(st)
+            ex.show_in_streamlit(st, auth)
 
     def pptx_generation(self, num_examples: int | None = 5) -> None:
         file_name = f"./Output/{self.word}/{self.word} JLPT N3 Vocabulary.pptx"
@@ -412,18 +413,20 @@ class JPWord(BaseModel):
         prs = Presentation("resources/pptx_templates/template.pptx")
         first_slide = prs.slides.add_slide(prs.slide_layouts[0])
         presentation_title = first_slide.shapes.title
-        presentation_title.text = self.word
-        presentation_title.text_frame.paragraphs[0].font.size = Pt(160)
-        presentation_title.text_frame.paragraphs[0].font.color.rgb = RGBColor(33, 95, 154)
+        if presentation_title:
+            presentation_title.text = self.word
+            presentation_title.text_frame.paragraphs[0].font.size = Pt(160)
+            presentation_title.text_frame.paragraphs[0].font.color.rgb = RGBColor(33, 95, 154)
+
         presentation_subtitle = first_slide.placeholders[1]
-        presentation_subtitle.text = self.reading
-        presentation_subtitle.text_frame.paragraphs[0].font.size = Pt(100)
-        presentation_subtitle.text_frame.paragraphs[0].font.color.rgb = RGBColor(192, 79, 21)
+        presentation_subtitle.text = self.reading  # type: ignore
+        presentation_subtitle.text_frame.paragraphs[0].font.size = Pt(100)  # type: ignore
+        presentation_subtitle.text_frame.paragraphs[0].font.color.rgb = RGBColor(192, 79, 21)  # type: ignore
 
         first_slide.shapes.add_movie(
             f"./output/{word}/audio/0_title.wav",
-            left=0,
-            top=-Pt(50),
+            left=Pt(0),
+            top=Pt(-50),
             width=Pt(50),
             height=Pt(50),
             mime_type="audio/x-wav",
@@ -450,39 +453,40 @@ class JPWord(BaseModel):
                 run.font.name = "Berlin Sans FB"
                 p.space_after = Pt(0)
                 p.line_spacing = 0.9
-            languages = [
-                ("ZH:", meaning.translation.Chinese),
-                ("FIL:", meaning.translation.Filipino),
-                ("VI:", meaning.translation.Vietnamese),
-                ("MY:", meaning.translation.Burmese),
-                ("KO:", meaning.translation.Korean),
-                ("HI:", meaning.translation.Hindi),
-                ("NE:", meaning.translation.Nepali),
-                ("FR:", meaning.translation.French),
-                ("ID:", meaning.translation.Indonesian),
-                ("FA:", meaning.translation.Persian),
-            ]
+            if meaning.translation:
+                languages = [
+                    ("ZH:", meaning.translation.Chinese),
+                    ("FIL:", meaning.translation.Filipino),
+                    ("VI:", meaning.translation.Vietnamese),
+                    ("MY:", meaning.translation.Burmese),
+                    ("KO:", meaning.translation.Korean),
+                    ("HI:", meaning.translation.Hindi),
+                    ("NE:", meaning.translation.Nepali),
+                    ("FR:", meaning.translation.French),
+                    ("ID:", meaning.translation.Indonesian),
+                    ("FA:", meaning.translation.Persian),
+                ]
 
-            for code, translation in languages:
-                # Add bold run for the language code
+                for code, translation in languages:
+                    # Add bold run for the language code
 
-                run_code = p.add_run()
-                run_code.text = f"     {code}"
-                run_code.font.size = Pt(16)
-                run_code.font.name = "Berlin Sans FB"
-                run_code.font.color.rgb = RGBColor(127, 127, 127)
+                    run_code = p.add_run()
+                    run_code.text = f"     {code}"
+                    run_code.font.size = Pt(16)
+                    run_code.font.name = "Berlin Sans FB"
+                    run_code.font.color.rgb = RGBColor(127, 127, 127)
 
-                # Add ordinary run for the translation
-                run_translation = p.add_run()
-                run_translation.text = f"{translation}"
-                run_translation.font.size = Pt(20)
-                run_translation.font.name = "Berlin Sans FB"
-                run_translation.font.color.rgb = RGBColor(0, 0, 0)
+                    # Add ordinary run for the translation
+                    run_translation = p.add_run()
+                    run_translation.text = f"{translation}"
+                    run_translation.font.size = Pt(20)
+                    run_translation.font.name = "Berlin Sans FB"
+                    run_translation.font.color.rgb = RGBColor(0, 0, 0)
 
         explanation_slide.shapes.add_movie(
             f"./output/{word}/audio/0_definition.wav",
-            left=0,
-            top=-Pt(50),
+            left=Pt(0),
+            top=Pt(-50),
             width=Pt(50),
             height=Pt(50),
             mime_type="audio/x-wav",
@@ -548,8 +552,8 @@ class JPWord(BaseModel):
 
         kanji_slide.shapes.add_movie(
             f"./output/{word}/audio/0_kanji.wav",
-            left=0,
-            top=-Pt(50),
+            left=Pt(0),
+            top=Pt(-50),
             width=Pt(50),
             height=Pt(50),
             mime_type="audio/x-wav",
@@ -638,8 +642,8 @@ class JPWord(BaseModel):
                 run_translation.font.name = "Berlin Sans FB"
             collocation_slide.shapes.add_movie(
                 f"./output/{word}/audio/0_example_{i}.wav",
-                left=0,
-                top=-Pt(50),
+                left=Pt(0),
+                top=Pt(-50),
                 width=Pt(50),
                 height=Pt(50),
                 mime_type="audio/x-wav",
@@ -710,8 +714,8 @@ class JPWord(BaseModel):
 
         synonyms_slide.shapes.add_movie(
             f"./output/{word}/audio/0_synonyms_antonyms.mp3",
-            left=0,
-            top=-Pt(50),
+            left=Pt(0),
+            top=Pt(-50),
             width=Pt(50),
             height=Pt(50),
             mime_type="audio/x-wav",
@@ -738,7 +742,7 @@ class JPWord(BaseModel):
                 audio_file.write(response.content)
 
         explanation_audio_path = f"./output/{word}/audio/word_explanation.mp3"
-        if not os.path.exists(explanation_audio_path):
+        if not os.path.exists(explanation_audio_path) and self.explanations:
             status.update("Generating audio for word explanation")
             response = client.audio.speech.create(
                 model="gpt-4o-mini-tts",
@@ -752,7 +756,7 @@ class JPWord(BaseModel):
                 audio_file.write(response.content)
 
         motivation_audio_path = f"./output/{word}/audio/motivation.mp3"
-        if not os.path.exists(motivation_audio_path):
+        if not os.path.exists(motivation_audio_path) and self.explanations:
             status.update("Generating audio for motivation")
             response = client.audio.speech.create(
                 model="gpt-4o-mini-tts",
@@ -839,7 +843,7 @@ class JPWord(BaseModel):
 
         # Generate audio for synonyms and antonyms
         synonyms_audio_path = f"./output/{word}/audio/0_synonyms_antonyms.mp3"
-        if not os.path.exists(synonyms_audio_path):
+        if not os.path.exists(synonyms_audio_path) and self.explanations:
             status.update("Generating audio for synonyms")
             response = client.audio.speech.create(
                 model="gpt-4o-mini-tts",
@@ -854,7 +858,7 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "再び",
+    "皮",
 ]
 
 
