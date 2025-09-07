@@ -1444,7 +1444,7 @@
 | 腹 | はら | abdomen,belly,stomach |
 | 原 | はら | field,plain,prairie,tundra,moor,wilderness |
 | 針 | はり | needle,hand (e.g. clock) |
-| 張る | はる | to stick,to paste |
+| **張る** | はる | to stick,to paste |
 | 番 | ばん |  |
 |  | バン | bun,van (caravan),VAN (value-added network) |
 | 範囲 | はんい | extent,scope,sphere,range |
@@ -1481,7 +1481,7 @@
 | 批判 | ひはん | criticism,judgement,comment |
 | 批評 | ひひょう | criticism,review,commentary |
 | 秘密 | ひみつ | secret,secrecy |
-| 微妙 | びみょう | delicate,subtle |
+| **微妙** | びみょう | delicate,subtle |
 | 紐 | ひも | (1) string,cord,(2) pimp |
 | 費用 | ひよう | cost,expense |
 | 表 | ひょう | table (e.g. Tab 1),chart,list |
@@ -1525,7 +1525,7 @@
 | **再び** | ふたたび | again,once more,a second time |
 | 普段 | ふだん | usually,habitually,ordinarily,always |
 | 縁 | ふち | a means, e.g. of living |
-| 打つ | ぶつ | to hit,to strike |
+| **打つ** | ぶつ | to hit,to strike |
 | 物価 | ぶっか | prices of commodities,prices (in general) |
 | 物質 | ぶっしつ | material,substance |
 | 物理 | ぶつり | physics |
