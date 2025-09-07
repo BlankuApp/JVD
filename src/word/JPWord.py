@@ -211,6 +211,9 @@ class JPKanji(BaseModel):
                 st.markdown(f"**{example.word}** ({example.reading}) : {', '.join(example.meanings[0].neuances)}")
 
 
+JLPT_LEVELS_MAP = {"jlpt-n5": 5, "jlpt-n4": 4, "jlpt-n3": 3, "jlpt-n2": 2, "jlpt-n1": 1}
+
+
 class JPWord(BaseModel):
     version: str = "0.1.0"
     word: str
@@ -228,6 +231,11 @@ class JPWord(BaseModel):
     examples: list[JPExample] = Field(default=[])
     synonyms: list["JPWord"] = Field(default=[])
     antonyms: list["JPWord"] = Field(default=[])
+
+    @property
+    def jlpt_level(self) -> int:
+        levels = [JLPT_LEVELS_MAP.get(level.lower(), 6) for level in self.jlpt]
+        return min(levels) if levels else 6
 
     def model_post_init(self, __context) -> None:
         if self.meanings or self.kanjis or self.explanations:

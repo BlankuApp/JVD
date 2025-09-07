@@ -1,32 +1,16 @@
-import os
-
 import streamlit as st
 
-from src.word.JPWord import JPWord
 from src.db import db_word
-
+from src.word.JPWord import JPWord
 
 auth = st.session_state.get("auth", None)
 
 
-# Load JSON files
-n3_vocabulary_files = [f[:-5] for f in os.listdir("resources/words/n3") if f.endswith(".json")]
-n3_vocabulary_files.sort()
-
-n2_vocabulary_files = [f[:-5] for f in os.listdir("resources/words/n2") if f.endswith(".json")]
-n2_vocabulary_files.sort()
-
-
 def fetch_and_show_word():
-    w = None
-    if st.query_params["w"] in n3_vocabulary_files:
-        with open("resources/words/n3/" + st.query_params["w"] + ".json", "r", encoding="utf-8") as file:
-            w = JPWord.model_validate_json(file.read())
-    elif st.query_params["w"] in n2_vocabulary_files:
-        with open("resources/words/n2/" + st.query_params["w"] + ".json", "r", encoding="utf-8") as file:
-            w = JPWord.model_validate_json(file.read())
-    if w:
-        w.show_in_streamlit(st, auth)
+    with open("resources/words/" + st.query_params["w"] + ".json", "r", encoding="utf-8") as file:
+        w = JPWord.model_validate_json(file.read())
+        if w:
+            w.show_in_streamlit(st, auth)
 
 
 if "w" in st.query_params:
@@ -56,16 +40,27 @@ else:
     user_word_cards = db_word.get_user_word_cards(auth) if auth else []
     marked_words = [w.get("key") for w in user_word_cards] if user_word_cards else []
     st.markdown("# JLPT Vocabularies")
+
+    with st.expander("N4 Vocabularies"):
+        with st.container(horizontal=True):
+            for w in db_word.get_words(4):
+                word = str(w.get("word"))
+                if st.button(word, type="primary" if word in marked_words else "secondary"):
+                    st.query_params.update({"w": word})
+                    st.rerun()
+
     with st.expander("N3 Vocabularies"):
         with st.container(horizontal=True):
-            for file in n3_vocabulary_files:
-                if st.button(file, type="primary" if file in marked_words else "secondary"):
-                    st.query_params.update({"w": file})
+            for w in db_word.get_words(3):
+                word = str(w.get("word", ""))
+                if st.button(word, type="primary" if word in marked_words else "secondary"):
+                    st.query_params.update({"w": word})
                     st.rerun()
 
     with st.expander("N2 Vocabularies"):
         with st.container(horizontal=True):
-            for file in n2_vocabulary_files:
-                if st.button(file, type="primary" if file in marked_words else "secondary"):
-                    st.query_params.update({"w": file})
+            for w in db_word.get_words(2):
+                word = str(w.get("word", ""))
+                if st.button(word, type="primary" if word in marked_words else "secondary"):
+                    st.query_params.update({"w": word})
                     st.rerun()

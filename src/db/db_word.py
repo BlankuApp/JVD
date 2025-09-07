@@ -23,6 +23,18 @@ def add_word(word: str, jlpt: int) -> bool:
         return False
 
 
+def get_words(jlpt: int | None = None) -> list[dict[str, str | int]]:
+    try:
+        if jlpt:
+            response = supabase.table("words").select("*").eq("JLPT", jlpt).execute()
+        else:
+            response = supabase.table("words").select("*").execute()
+        return response.data if response.data else []
+    except Exception as e:
+        print(f"Error fetching words: {e}")
+        return []
+
+
 def add_user_word_card(auth: dict, word: str) -> tuple[bool, str]:
     try:
         data = {
@@ -80,20 +92,11 @@ def get_user_word_cards(auth: dict) -> list[dict]:
 
 if __name__ == "__main__":
     # Load JSON files
-    n3_vocabulary_files = [f[:-5] for f in os.listdir("resources/words/n3") if f.endswith(".json")]
-    n3_vocabulary_files.sort()
+    vocabulary_files = [f[:-5] for f in os.listdir("resources/words") if f.endswith(".json")]
+    vocabulary_files.sort()
 
-    n2_vocabulary_files = [f[:-5] for f in os.listdir("resources/words/n2") if f.endswith(".json")]
-    n2_vocabulary_files.sort()
-
-    for file in n3_vocabulary_files:
-        w = JPWord.model_validate_json(open(f"resources/words/n3/{file}.json", "r", encoding="utf-8").read())
+    for file in vocabulary_files:
+        w = JPWord.model_validate_json(open(f"resources/words/{file}.json", "r", encoding="utf-8").read())
         if not w.in_db:
-            w.in_db = add_word(w.word, 3)
-            print(f"Added {w.word} to DB")
-
-    for file in n2_vocabulary_files:
-        w = JPWord.model_validate_json(open(f"resources/words/n2/{file}.json", "r", encoding="utf-8").read())
-        if not w.in_db:
-            w.in_db = add_word(w.word, 2)
+            w.in_db = add_word(w.word, w.jlpt_level)
             print(f"Added {w.word} to DB")
