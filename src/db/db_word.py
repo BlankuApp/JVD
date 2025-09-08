@@ -18,7 +18,7 @@ def add_word(word: str, jlpt: int) -> bool:
     try:
         response = supabase.table("words").upsert({"word": word, "JLPT": jlpt}).execute()
         return bool(response.data)
-    except Exception as e:
+    except Exception as _:
         return False
 
 
@@ -87,6 +87,39 @@ def get_user_word_cards(auth: dict) -> list[dict]:
     except Exception as e:
         print(f"Error fetching user cards: {e}")
         return []
+
+
+def update_user_word_card(
+    auth: dict,
+    word: str,
+    state: str,
+    step: int | None,
+    stability: float | None,
+    difficulty: float | None,
+    due: str | None,
+    last_review: str | None,
+) -> tuple[bool, str]:
+    try:
+        data = {
+            "state": state,
+            "step": step,
+            "stability": stability,
+            "difficulty": difficulty,
+            "due": due,
+            "last_review": last_review,
+        }
+        response = (
+            supabase.table("user_card")
+            .update(data)
+            .eq("user_id", auth["id"])
+            .eq("key", word)
+            .eq("type", "JPWord")
+            .execute()
+        )
+        return bool(response.data), "Card updated successfully" if response.data else "Failed to update card"
+    except Exception as e:
+        print(f"Error updating user card: {e}")
+        return False, "Error updating card"
 
 
 if __name__ == "__main__":
