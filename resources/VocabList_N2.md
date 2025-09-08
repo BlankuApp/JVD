@@ -60,7 +60,7 @@
 | 意義  | いぎ  | meaning,significance |
 | 生き生き | いきいき | vividly,lively |
 |     | いきなり | (uk) abruptly,suddenly,all of a sudden,without warning |
-| 育児  | いくじ | childcare,nursing,upbringing |
+| **育児**  | いくじ | childcare,nursing,upbringing |
 | 幾分  | いくぶん | somewhat |
 | 生け花 | いけばな | (1) flower arrangement |
 | 以後  | いご  | after this,from now on,hereafter,thereafter |
@@ -105,7 +105,7 @@
 | 浮かべる | うかべる | to float,to express,to look (sad, glad) |
 | 浮く  | うく  | to float,to become merry,to become loose |
 | 承る  | うけたまわる | (hum) to hear,to be told,to know |
-| 受取  | うけとり | receipt |
+| **受取**  | うけとり | receipt |
 | 受け持つ | うけもつ | to take (be in) charge of |
 | 薄暗い | うすぐらい | dim,gloomy |
 | 薄める | うすめる | to dilute,to water down |
@@ -122,7 +122,7 @@
 | 敬う  | うやまう | to show respect,to honour |
 | 裏返す | うらがえす | to turn inside out,to turn (something) over |
 | 裏口  | うらぐち | backdoor,rear entrance |
-| 占う  | うらなう | to forecast,to predict |
+| **占う**  | うらなう | to forecast,to predict |
 | 恨み  | うらみ | resentment |
 | 恨む  | うらむ | to curse,to feel bitter |
 | 羨ましい | うらやましい | envious,enviable |
