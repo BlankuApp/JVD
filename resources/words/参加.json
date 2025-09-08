@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "参加",
     "youtube_link": "https://youtu.be/FmG45ClWFqk",
+    "in_db": true,
     "reading": "さんか",
     "meanings": [
         {
@@ -63,9 +64,10 @@
             "grade": 4,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "参考",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "さんこう",
                     "meanings": [
                         {
@@ -89,9 +91,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "参拝",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "さんぱい",
                     "meanings": [
                         {
@@ -138,9 +141,10 @@
             "grade": 4,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "加入",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "かにゅう",
                     "meanings": [
                         {
@@ -170,9 +174,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "加速",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "かそく",
                     "meanings": [
                         {
@@ -203,11 +208,6 @@
         "explanation": "The word さんか means to take part in or join an event, meeting, or group, to attend activities or become involved.",
         "youtube_description": "Learn how to use the Japanese word 参加 (さんか) in everyday conversations! In this short video we cover its meanings, common uses, and easy collocations so you can start saying natural sentences right away. Like, comment, and subscribe for more quick Japanese lessons!",
         "motivation": "The word we'll be learning in this video is さんか which you will often hear in meetings, events, club activities, and when talking about joining groups. Imagine how much more natural your Japanese will sound when you can say things like I will participate in the meeting tomorrow, She decided to participate in the school festival, Did you participate in the volunteer cleanup in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "I will participate in the meeting tomorrow.",
-            "She decided to participate in the school festival.",
-            "Did you participate in the volunteer cleanup?"
-        ],
         "collocations": [
             "さんかする",
             "かいぎにさんかする",
@@ -367,9 +367,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "出席",
             "youtube_link": "",
+            "in_db": false,
             "reading": "しゅっせき",
             "meanings": [
                 {
@@ -394,9 +395,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "加入",
             "youtube_link": "",
+            "in_db": false,
             "reading": "かにゅう",
             "meanings": [
                 {
@@ -428,9 +430,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "欠席",
             "youtube_link": "",
+            "in_db": false,
             "reading": "けっせき",
             "meanings": [
                 {
@@ -454,9 +457,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "不参加",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ふさんか",
             "meanings": [
                 {

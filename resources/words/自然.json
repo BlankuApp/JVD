@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "自然",
     "youtube_link": "https://youtu.be/TKP-_TDeB18",
+    "in_db": true,
     "reading": "しぜん",
     "meanings": [
         {
@@ -100,9 +101,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "自分",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "じぶん",
                     "meanings": [
                         {
@@ -144,9 +146,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "自動車",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "じどうしゃ",
                     "meanings": [
                         {
@@ -200,9 +203,10 @@
             "grade": 4,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "当然",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "とうぜん",
                     "meanings": [
                         {
@@ -241,9 +245,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "突然",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "とつぜん",
                     "meanings": [
                         {
@@ -411,9 +416,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "環境",
             "youtube_link": "",
+            "in_db": false,
             "reading": "かんきょう",
             "meanings": [
                 {
@@ -438,9 +444,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "天然",
             "youtube_link": "",
+            "in_db": false,
             "reading": "てんねん",
             "meanings": [
                 {
@@ -473,9 +480,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "人工",
             "youtube_link": "",
+            "in_db": false,
             "reading": "じんこう",
             "meanings": [
                 {
@@ -502,9 +510,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "不自然",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ふしぜん",
             "meanings": [
                 {

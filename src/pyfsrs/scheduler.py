@@ -15,8 +15,8 @@ from datetime import datetime, timezone, timedelta
 from copy import copy
 from random import random
 from dataclasses import dataclass
-from src.pyfsrs.fsrs.card import Card, State
-from src.pyfsrs.fsrs.review_log import ReviewLog, Rating
+from src.pyfsrs.card import Card, State
+from src.pyfsrs.review_log import ReviewLog, Rating
 
 DEFAULT_PARAMETERS = (
     0.2172,

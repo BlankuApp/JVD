@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "失う",
     "youtube_link": "https://youtu.be/9u28PbUEqHk",
+    "in_db": true,
     "reading": "うしなう",
     "meanings": [
         {
@@ -122,9 +123,10 @@
             "grade": 4,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "失敗",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "しっぱい",
                     "meanings": [
                         {
@@ -149,9 +151,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "失礼",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "しつれい",
                     "meanings": [
                         {
@@ -338,9 +341,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "無くす",
             "youtube_link": "",
+            "in_db": false,
             "reading": "なくす",
             "meanings": [
                 {
@@ -375,9 +379,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "失敗",
             "youtube_link": "",
+            "in_db": false,
             "reading": "しっぱい",
             "meanings": [
                 {
@@ -404,9 +409,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "得る-1",
             "youtube_link": "",
+            "in_db": false,
             "reading": "える",
             "meanings": [
                 {
@@ -459,9 +465,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "保つ",
             "youtube_link": "",
+            "in_db": false,
             "reading": "たもつ",
             "meanings": [
                 {

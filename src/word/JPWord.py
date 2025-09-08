@@ -215,10 +215,10 @@ JLPT_LEVELS_MAP = {"jlpt-n5": 5, "jlpt-n4": 4, "jlpt-n3": 3, "jlpt-n2": 2, "jlpt
 
 
 class JPWord(BaseModel):
-    version: str = "0.1.0"
+    version: str = "0.1.1"
     word: str
     youtube_link: str = ""
-    in_db: bool = False
+    in_db: bool = Field(default=False)
     reading: str | None = None
     meanings: list[JPWordMeaning] = []
     kanjis: list[JPKanji] = []

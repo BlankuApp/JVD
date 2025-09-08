@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "思い出",
     "youtube_link": "https://youtu.be/5SKYkbNY1o0",
+    "in_db": true,
     "reading": "おもいで",
     "meanings": [
         {
@@ -51,9 +52,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "思考",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "しこう",
                     "meanings": [
                         {
@@ -78,9 +80,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "思いやり",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "おもいやり",
                     "meanings": [
                         {
@@ -139,9 +142,10 @@
             "grade": 1,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "出口",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "でぐち",
                     "meanings": [
                         {
@@ -173,9 +177,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "出発",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "しゅっぱつ",
                     "meanings": [
                         {
@@ -343,9 +348,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "記憶",
             "youtube_link": "",
+            "in_db": false,
             "reading": "きおく",
             "meanings": [
                 {
@@ -378,9 +384,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "思い出す",
             "youtube_link": "",
+            "in_db": false,
             "reading": "おもいだす",
             "meanings": [
                 {
@@ -407,9 +414,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "忘却",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ぼうきゃく",
             "meanings": [
                 {
@@ -432,9 +440,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "無関心",
             "youtube_link": "",
+            "in_db": false,
             "reading": "むかんしん",
             "meanings": [
                 {

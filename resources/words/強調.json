@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "強調",
     "youtube_link": "https://youtu.be/PwMI6y0YHXY",
+    "in_db": true,
     "reading": "きょうちょう",
     "meanings": [
         {
@@ -104,9 +105,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "強盗",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ごうとう",
                     "meanings": [
                         {
@@ -138,9 +140,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "勉強",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "べんきょう",
                     "meanings": [
                         {
@@ -189,9 +192,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "強い",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "つよい",
                     "meanings": [
                         {
@@ -276,9 +280,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "強化",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "きょうか",
                     "meanings": [
                         {
@@ -343,9 +348,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "調査",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちょうさ",
                     "meanings": [
                         {
@@ -372,9 +378,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "同調",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "どうちょう",
                     "meanings": [
                         {
@@ -416,9 +423,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "調理",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちょうり",
                     "meanings": [
                         {
@@ -442,9 +450,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "調停",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちょうてい",
                     "meanings": [
                         {
@@ -476,11 +485,6 @@
         "explanation": "The word きょうちょう means emphasis or stress and the act of emphasizing something, used to point out importance or draw attention to a particular idea or detail.",
         "youtube_description": "Learn how to use the Japanese word 強調 きょうちょう in everyday conversation and formal speech. This short lesson covers its meanings, common usages, and useful example phrases so you can emphasize ideas naturally in Japanese. Like, comment, and subscribe for more quick language tips!",
         "motivation": "The word we'll be learning in this video is きょうちょう which you will often hear in meetings, presentations, news reports, and everyday conversations when someone wants to highlight what matters most. Imagine how much more natural your Japanese will sound when you can say things like He emphasized the need for clear communication, The report places strong emphasis on safety measures, and Teachers often emphasize practice over memorization in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "He emphasized the need for clear communication.",
-            "The report places strong emphasis on safety measures.",
-            "Teachers often emphasize practice over memorization."
-        ],
         "collocations": [
             "重要性を強調する",
             "〜を強調する",
@@ -663,9 +667,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "重視",
             "youtube_link": "",
+            "in_db": false,
             "reading": "じゅうし",
             "meanings": [
                 {
@@ -691,9 +696,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "重点",
             "youtube_link": "",
+            "in_db": false,
             "reading": "じゅうてん",
             "meanings": [
                 {
@@ -736,9 +742,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "軽視",
             "youtube_link": "",
+            "in_db": false,
             "reading": "けいし",
             "meanings": [
                 {
@@ -765,9 +772,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "無視",
             "youtube_link": "",
+            "in_db": false,
             "reading": "むし",
             "meanings": [
                 {

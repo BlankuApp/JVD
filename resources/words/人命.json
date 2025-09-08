@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "人命",
     "youtube_link": "https://youtu.be/cr3F-qmKSeY",
+    "in_db": true,
     "reading": "じんめい",
     "meanings": [
         {
@@ -50,9 +51,10 @@
             "grade": 1,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "外国人",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "がいこくじん",
                     "meanings": [
                         {
@@ -79,9 +81,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "大人",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "おとな",
                     "meanings": [
                         {
@@ -105,9 +108,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "人形",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "にんぎょう",
                     "meanings": [
                         {
@@ -148,9 +152,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "人口",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "じんこう",
                     "meanings": [
                         {
@@ -205,9 +210,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "生命",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "せいめい",
                     "meanings": [
                         {
@@ -249,9 +255,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "命令",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "めいれい",
                     "meanings": [
                         {
@@ -285,9 +292,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "一生懸命",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "いっしょうけんめい",
                     "meanings": [
                         {
@@ -316,9 +324,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "運命",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "うんめい",
                     "meanings": [
                         {
@@ -350,11 +359,6 @@
         "explanation": "The word じんめい means human life, the life of a person regarded as something to be protected, saved, or valued, often used in emergencies, legal, or ethical contexts.",
         "youtube_description": "Learn how to use the Japanese word 人命 (じんめい) in emergency, medical, and ethical conversations! This quick lesson explains its meanings, common collocations, and example phrases so you can confidently talk about saving and protecting lives. Like and subscribe for more practical Japanese tips!",
         "motivation": "The word we'll be learning in this video is じんめい which you will often hear in emergencies, disaster response, medical situations, and legal or ethical discussions. Imagine how much more natural your Japanese will sound when you can say things like We must prioritize human life over property., Saving human lives is our top priority in a disaster., and The law protects human life from harm. Let's get started!",
-        "motivation_sentences": [
-            "We must prioritize human life over property.",
-            "Saving human lives is our top priority in a disaster.",
-            "The law protects human life from harm."
-        ],
         "collocations": [
             "人命を救う",
             "人命を守る",
@@ -537,9 +541,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "生命",
             "youtube_link": "",
+            "in_db": false,
             "reading": "せいめい",
             "meanings": [
                 {
@@ -581,9 +586,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "命",
             "youtube_link": "",
+            "in_db": false,
             "reading": "いのち",
             "meanings": [
                 {
@@ -635,9 +641,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "死亡",
             "youtube_link": "",
+            "in_db": false,
             "reading": "しぼう",
             "meanings": [
                 {
@@ -662,9 +669,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "死",
             "youtube_link": "",
+            "in_db": false,
             "reading": "し",
             "meanings": [
                 {

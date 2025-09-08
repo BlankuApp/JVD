@@ -19,7 +19,6 @@ def add_word(word: str, jlpt: int) -> bool:
         response = supabase.table("words").upsert({"word": word, "JLPT": jlpt}).execute()
         return bool(response.data)
     except Exception as e:
-        print(f"Error adding word: {e}")
         return False
 
 
@@ -99,4 +98,7 @@ if __name__ == "__main__":
         w = JPWord.model_validate_json(open(f"resources/words/{file}.json", "r", encoding="utf-8").read())
         if not w.in_db:
             w.in_db = add_word(w.word, w.jlpt_level)
+            w.in_db = True
+            with open(f"resources/words/{file}.json", "w", encoding="utf-8") as f:
+                f.write(w.model_dump_json(indent=4))
             print(f"Added {w.word} to DB")

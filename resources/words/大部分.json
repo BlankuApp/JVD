@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "大部分",
     "youtube_link": "https://youtu.be/7DWw2_caT4E",
+    "in_db": true,
     "reading": "だいぶぶん",
     "meanings": [
         {
@@ -53,9 +54,10 @@
             "grade": 1,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "大学",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "だいがく",
                     "meanings": [
                         {
@@ -86,9 +88,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "大きい",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "おおきい",
                     "meanings": [
                         {
@@ -171,9 +174,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "部屋",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "へや",
                     "meanings": [
                         {
@@ -213,9 +217,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "部長",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ぶちょう",
                     "meanings": [
                         {
@@ -276,9 +281,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "分かる",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "わかる",
                     "meanings": [
                         {
@@ -327,9 +333,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "分ける",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "わける",
                     "meanings": [
                         {
@@ -415,11 +422,6 @@
         "explanation": "The word だいぶぶん means most or a large part of something, indicating a significant majority of a whole.",
         "youtube_description": "Learn how to use the Japanese word 大部分 (だいぶぶん) in everyday conversations! In this video, we'll explore its meanings, usage, and examples to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
         "motivation": "The word we'll be learning in this video is だいぶぶん which you will often hear in discussions about statistics or general observations. Imagine how much more natural your Japanese will sound when you can say things like \"Most people enjoy this movie,\" \"A large part of the report was missing,\" or \"Most of the cake was eaten\" in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "Most people enjoy this movie.",
-            "A large part of the report was missing.",
-            "Most of the cake was eaten."
-        ],
         "collocations": [
             "だいぶぶんのりんご",
             "だいぶぶんのじかん",
@@ -556,9 +558,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "大半",
             "youtube_link": "",
+            "in_db": false,
             "reading": "たいはん",
             "meanings": [
                 {
@@ -594,9 +597,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "殆ど",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ほとんど",
             "meanings": [
                 {
@@ -650,9 +654,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "少",
             "youtube_link": "",
+            "in_db": false,
             "reading": "しょう",
             "meanings": [
                 {
@@ -675,9 +680,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "一部",
             "youtube_link": "",
+            "in_db": false,
             "reading": "いちぶ",
             "meanings": [
                 {

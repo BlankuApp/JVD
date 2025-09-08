@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "素直",
     "youtube_link": "https://youtu.be/8zgYiPZsR7U",
+    "in_db": true,
     "reading": "すなお",
     "meanings": [
         {
@@ -128,9 +129,10 @@
             "grade": 5,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "素材",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "そざい",
                     "meanings": [
                         {
@@ -171,9 +173,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "素顔",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "すがお",
                     "meanings": [
                         {
@@ -243,9 +246,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "直接",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちょくせつ",
                     "meanings": [
                         {
@@ -271,9 +275,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "治す",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "なおす",
                     "meanings": [
                         {
@@ -354,11 +359,6 @@
         "explanation": "The word すなお means honest, straightforward, or obedient. It describes someone who is frank and does not hide their feelings or thoughts.",
         "youtube_description": "Learn how to use the Japanese word すなお in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
         "motivation": "The word we'll be learning in this video is すなお which you will often hear in conversations about personality traits. Imagine how much more natural your Japanese will sound when you can say things like \"She is honest with her feelings,\" \"I appreciate your straightforwardness,\" and \"He is obedient to his parents\" in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "She is honest with her feelings.",
-            "I appreciate your straightforwardness.",
-            "He is obedient to his parents."
-        ],
         "collocations": [
             "素直な気持ち (すなおなきもち)",
             "素直に言う (すなおにいう)",
@@ -495,9 +495,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "純真",
             "youtube_link": "",
+            "in_db": false,
             "reading": "じゅんしん",
             "meanings": [
                 {
@@ -523,9 +524,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "率直",
             "youtube_link": "",
+            "in_db": false,
             "reading": "そっちょく",
             "meanings": [
                 {
@@ -556,9 +558,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "不誠実",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ふせいじつ",
             "meanings": [
                 {
@@ -582,9 +585,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "ひねくれ者",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ひねくれもの",
             "meanings": [
                 {

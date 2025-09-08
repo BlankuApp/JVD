@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from src.pyfsrs.fsrs import JPWordCard
+from src.pyfsrs.card import JPWordCard
 
 
 print(f"Review page loaded at {time.strftime('%X')}")

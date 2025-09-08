@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "外交",
     "youtube_link": "https://youtu.be/7xxD9qcujBw",
+    "in_db": true,
     "reading": "がいこう",
     "meanings": [
         {
@@ -76,9 +77,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "外国",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "がいこく",
                     "meanings": [
                         {
@@ -101,9 +103,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "外出",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "がいしゅつ",
                     "meanings": [
                         {
@@ -166,9 +169,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "交流",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "こうりゅう",
                     "meanings": [
                         {
@@ -204,9 +208,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "交渉",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "こうしょう",
                     "meanings": [
                         {
@@ -385,9 +390,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "政策",
             "youtube_link": "",
+            "in_db": false,
             "reading": "せいさく",
             "meanings": [
                 {
@@ -411,9 +417,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "交渉",
             "youtube_link": "",
+            "in_db": false,
             "reading": "こうしょう",
             "meanings": [
                 {
@@ -451,9 +458,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "戦争",
             "youtube_link": "",
+            "in_db": false,
             "reading": "せんそう",
             "meanings": [
                 {
@@ -484,9 +492,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "対立",
             "youtube_link": "",
+            "in_db": false,
             "reading": "たいりつ",
             "meanings": [
                 {

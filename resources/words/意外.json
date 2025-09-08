@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "意外",
     "youtube_link": "https://youtu.be/elMKDiP_Xvc",
+    "in_db": true,
     "reading": "いがい",
     "meanings": [
         {
@@ -53,9 +54,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "意味",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "いみ",
                     "meanings": [
                         {
@@ -80,9 +82,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "注意",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちゅうい",
                     "meanings": [
                         {
@@ -137,9 +140,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "意志",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "いし",
                     "meanings": [
                         {
@@ -166,9 +170,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "意識",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "いしき",
                     "meanings": [
                         {
@@ -231,9 +236,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "外国人",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "がいこくじん",
                     "meanings": [
                         {
@@ -260,9 +266,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "郊外",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "こうがい",
                     "meanings": [
                         {
@@ -286,9 +293,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "外",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "そと",
                     "meanings": [
                         {
@@ -335,9 +343,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "海外",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "かいがい",
                     "meanings": [
                         {
@@ -369,11 +378,6 @@
         "explanation": "The word いがい means unexpected or surprising. You can use it as a noun or as a na adjective to describe things that are different from what you expected. In conversation you often hear いがいに or いがいと before verbs or adjectives to say that something happened unexpectedly.",
         "youtube_description": "Learn how to use the Japanese word 意外 (いがい) in real conversations. This short video explains its meanings, common uses like いがいに and いがいと, and useful collocations so you can sound more natural when something turns out unexpected. Subscribe for more quick Japanese tips!",
         "motivation": "The word we'll be learning in this video is いがい which you will often hear in reactions to surprising news, when describing unexpected outcomes, and in casual conversation about surprises. Imagine how much more natural your Japanese will sound when you can say things like That's unexpected, I'm surprised he said that, and The ending was unexpected in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "That's unexpected.",
-            "I'm surprised he said that.",
-            "The ending was unexpected."
-        ],
         "collocations": [
             "意外に思う",
             "意外と簡単",
@@ -556,9 +560,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "思いがけない",
             "youtube_link": "",
+            "in_db": false,
             "reading": "おもいがけない",
             "meanings": [
                 {
@@ -584,9 +589,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "予想外",
             "youtube_link": "",
+            "in_db": false,
             "reading": "よそうがい",
             "meanings": [
                 {
@@ -611,9 +617,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "当然",
             "youtube_link": "",
+            "in_db": false,
             "reading": "とうぜん",
             "meanings": [
                 {
@@ -652,9 +659,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "予想通り",
             "youtube_link": "",
+            "in_db": false,
             "reading": "よそうどおり",
             "meanings": [
                 {

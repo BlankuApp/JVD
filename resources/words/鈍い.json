@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "鈍い",
     "youtube_link": "https://youtu.be/xsmX3Fq5ttw",
+    "in_db": true,
     "reading": "にぶい",
     "meanings": [
         {
@@ -156,9 +157,10 @@
             "grade": 8,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "遅い",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "おそい",
                     "meanings": [
                         {
@@ -195,9 +197,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "鈍い",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "にぶい",
                     "meanings": [
                         {
@@ -258,9 +261,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "鈍感",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "どんかん",
                     "meanings": [
                         {
@@ -286,9 +290,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "鈍る",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "にぶる",
                     "meanings": [
                         {
@@ -328,11 +333,6 @@
         "explanation": "The word にぶい means slow or dull in several ways; it can describe a blunt object, a slow reaction or understanding, or reduced sensitivity in a sense such as smell or pain.",
         "youtube_description": "Learn how to use the Japanese word 鈍い (にぶい) in everyday conversations! In this short video we'll cover its core meanings—dull, slow, insensitive—break down the kanji, and show common collocations so you can use にぶい naturally. Perfect for learners who want to sound more fluent. Like, comment, and subscribe for more!",
         "motivation": "The word we'll be learning in this video is にぶい which you will often hear when talking about knives and tools, people’s reactions or understanding, and reduced physical senses. Imagine how much more natural your Japanese will sound when you can say things like \"The knife is too dull to cut the tomato,\" \"He's slow to understand new instructions,\" and \"Her sense of smell has become dull since she got a cold\" in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "The knife is too dull to cut the tomato.",
-            "He's slow to understand new instructions.",
-            "Her sense of smell has become dull since she got a cold."
-        ],
         "collocations": [
             "鈍いナイフ",
             "反応が鈍い",
@@ -515,9 +515,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "鈍感",
             "youtube_link": "",
+            "in_db": false,
             "reading": "どんかん",
             "meanings": [
                 {
@@ -543,9 +544,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "遅い",
             "youtube_link": "",
+            "in_db": false,
             "reading": "おそい",
             "meanings": [
                 {
@@ -584,9 +586,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "鋭い",
             "youtube_link": "",
+            "in_db": false,
             "reading": "するどい",
             "meanings": [
                 {
@@ -640,9 +643,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "早い",
             "youtube_link": "",
+            "in_db": false,
             "reading": "はやい",
             "meanings": [
                 {

@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "張る",
     "youtube_link": "https://youtu.be/sUTHoy58wtI",
+    "in_db": true,
     "reading": "はる",
     "meanings": [
         {
@@ -269,9 +270,10 @@
             "grade": 5,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "緊張",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "きんちょう",
                     "meanings": [
                         {
@@ -312,9 +314,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "拡張",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "かくちょう",
                     "meanings": [
                         {
@@ -469,9 +472,10 @@
     "synonyms": [],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "縮む",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ちぢむ",
             "meanings": [
                 {
@@ -496,9 +500,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "縮める",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ちぢめる",
             "meanings": [
                 {

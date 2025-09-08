@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "備える",
     "youtube_link": "https://youtu.be/hUVjpGiZ8CA",
+    "in_db": true,
     "reading": "そなえる",
     "meanings": [
         {
@@ -128,9 +129,10 @@
             "grade": 5,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "備蓄",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "びちく",
                     "meanings": [
                         {
@@ -155,9 +157,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "備品",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "びひん",
                     "meanings": [
                         {
@@ -190,11 +193,6 @@
         "explanation": "The word そなえる means to prepare or to equip something in advance. It can refer to being ready for unexpected situations, such as disasters, or providing necessary tools and resources.",
         "youtube_description": "Learn how to use the Japanese word 備える (そなえる) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Perfect for beginners or anyone looking to expand their Japanese skills! Don't forget to like, comment, and subscribe for more language learning content!",
         "motivation": "The word we'll be learning in this video is そなえる which you will often hear when discussing preparations for emergencies or events. Imagine how much more natural your Japanese will sound when you can say things like \"I always prepare for the worst.\" \"It's important to equip yourself for the future.\" \"How do we prepare for the upcoming event?\" in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "I always prepare for the worst.",
-            "It's important to equip yourself for the future.",
-            "How do we prepare for the upcoming event?"
-        ],
         "collocations": [
             "災害に備える",
             "事前に備える",
@@ -332,9 +330,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "準備",
             "youtube_link": "",
+            "in_db": false,
             "reading": "じゅんび",
             "meanings": [
                 {
@@ -362,9 +361,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "用意",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ようい",
             "meanings": [
                 {
@@ -393,9 +393,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "忘れる",
             "youtube_link": "",
+            "in_db": false,
             "reading": "わすれる",
             "meanings": [
                 {
@@ -422,9 +423,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "無視",
             "youtube_link": "",
+            "in_db": false,
             "reading": "むし",
             "meanings": [
                 {

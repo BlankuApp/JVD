@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "配達",
     "youtube_link": "https://youtu.be/xqSoZAMl24Q",
+    "in_db": true,
     "reading": "はいたつ",
     "meanings": [
         {
@@ -50,9 +51,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "配る",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "くばる",
                     "meanings": [
                         {
@@ -89,9 +91,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "配給",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "はいきゅう",
                     "meanings": [
                         {
@@ -151,9 +154,10 @@
             "grade": 4,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "友達",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ともだち",
                     "meanings": [
                         {
@@ -177,9 +181,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "達成",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "たっせい",
                     "meanings": [
                         {
@@ -348,9 +353,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "配送",
             "youtube_link": "",
+            "in_db": false,
             "reading": "はいそう",
             "meanings": [
                 {
@@ -371,9 +377,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "送付",
             "youtube_link": "",
+            "in_db": false,
             "reading": "そうふ",
             "meanings": [
                 {
@@ -398,9 +405,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "受取り",
             "youtube_link": "",
+            "in_db": false,
             "reading": "うけとり",
             "meanings": [
                 {
@@ -425,9 +433,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "収集",
             "youtube_link": "",
+            "in_db": false,
             "reading": "しゅうしゅう",
             "meanings": [
                 {

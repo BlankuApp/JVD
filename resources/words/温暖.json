@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "温暖",
     "youtube_link": "https://youtu.be/ZB4xFscJP5I",
+    "in_db": true,
     "reading": "おんだん",
     "meanings": [
         {
@@ -53,9 +54,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "温泉",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "おんせん",
                     "meanings": [
                         {
@@ -87,9 +89,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "温度",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "おんど",
                     "meanings": [
                         {
@@ -135,9 +138,10 @@
             "grade": 6,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "暖房",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "だんぼう",
                     "meanings": [
                         {
@@ -160,9 +164,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "暖かい",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "あたたかい",
                     "meanings": [
                         {
@@ -330,9 +335,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "暖かい",
             "youtube_link": "",
+            "in_db": false,
             "reading": "あたたかい",
             "meanings": [
                 {
@@ -384,9 +390,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "冷たい",
             "youtube_link": "",
+            "in_db": false,
             "reading": "つめたい",
             "meanings": [
                 {

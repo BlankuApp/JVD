@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "中身",
     "youtube_link": "https://youtu.be/-A04IyZiOEg",
+    "in_db": true,
     "reading": "なかみ",
     "meanings": [
         {
@@ -102,9 +103,10 @@
             "grade": 1,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "背中",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "せなか",
                     "meanings": [
                         {
@@ -127,9 +129,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "中学校",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちゅうがっこう",
                     "meanings": [
                         {
@@ -154,9 +157,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "昼食",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちゅうしょく",
                     "meanings": [
                         {
@@ -180,9 +184,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "中心",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ちゅうしん",
                     "meanings": [
                         {
@@ -246,9 +251,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "独身",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "どくしん",
                     "meanings": [
                         {
@@ -272,9 +278,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "体",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "からだ",
                     "meanings": [
                         {
@@ -325,9 +332,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "刺身",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "さしみ",
                     "meanings": [
                         {
@@ -350,9 +358,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "出身",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "しゅっしん",
                     "meanings": [
                         {
@@ -382,11 +391,6 @@
         "explanation": "The word なかみ means the contents or interior of something, what is physically inside, the substance or material, or the figurative essence of an item or idea.",
         "youtube_description": "Learn how to use the Japanese word 中身 (なかみ) in everyday conversations! This short video explains its meanings, kanji breakdown, and common collocations so you can confidently talk about contents, fillings, and the essence of things. Perfect for practical learners—like, comment, and subscribe for more!",
         "motivation": "The word we'll be learning in this video is なかみ which you will often hear when talking about packages, food and bento, checking bags or luggage, and when describing the substance or essence of writing and ideas. Imagine how much more natural your Japanese will sound when you can say things like What's inside this box?, I checked the contents of the bag., and The book's contents are outdated. Let's get started!",
-        "motivation_sentences": [
-            "What's inside this box?",
-            "I checked the contents of the bag.",
-            "The book's contents are outdated."
-        ],
         "collocations": [
             "中身を確認する",
             "中身を見せる",
@@ -569,9 +573,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "内容",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ないよう",
             "meanings": [
                 {
@@ -599,9 +604,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "本質",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ほんしつ",
             "meanings": [
                 {
@@ -629,9 +635,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "外側",
             "youtube_link": "",
+            "in_db": false,
             "reading": "そとがわ",
             "meanings": [
                 {
@@ -663,9 +670,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "空っぽ",
             "youtube_link": "",
+            "in_db": false,
             "reading": "からっぽ",
             "meanings": [
                 {

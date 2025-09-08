@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "関連",
     "youtube_link": "https://youtu.be/O_kRwYv6N4Y",
+    "in_db": true,
     "reading": "かんれん",
     "meanings": [
         {
@@ -57,9 +58,10 @@
             "grade": 4,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "玄関",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "げんかん",
                     "meanings": [
                         {
@@ -90,9 +92,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "関係",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "かんけい",
                     "meanings": [
                         {
@@ -150,9 +153,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "税関",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "ぜいかん",
                     "meanings": [
                         {
@@ -176,9 +180,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "機関車",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "きかんしゃ",
                     "meanings": [
                         {
@@ -230,9 +235,10 @@
             "grade": 4,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "訓練",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "くんれん",
                     "meanings": [
                         {
@@ -258,9 +264,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "連想",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "れんそう",
                     "meanings": [
                         {
@@ -285,9 +292,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "連絡",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "れんらく",
                     "meanings": [
                         {
@@ -334,9 +342,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "連邦",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "れんぽう",
                     "meanings": [
                         {
@@ -369,11 +378,6 @@
         "explanation": "The word かんれん means a connection or link between things, ideas, or events and is used to talk about how one thing is related or relevant to another in everyday and formal contexts.",
         "youtube_description": "Learn how to use the Japanese word 関連 (かんれん) in everyday and professional contexts. In this short video we explain its meanings, common uses, and useful example sentences to help you recognize and use it naturally. Perfect for learners who want to sound more fluent.",
         "motivation": "The word we'll be learning in this video is かんれん which you will often hear in news reports, academic texts, business meetings, and casual conversations when people talk about connections or relevance. Imagine how much more natural your Japanese will sound when you can say things like Is this related to the previous topic? There is a strong relation between diet and health. This document is not related to your case. Let's get started!",
-        "motivation_sentences": [
-            "Is this related to the previous topic?",
-            "There is a strong relation between diet and health.",
-            "This document is not related to your case."
-        ],
         "collocations": [
             "関連する",
             "関連性",
@@ -556,9 +560,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "関係",
             "youtube_link": "",
+            "in_db": false,
             "reading": "かんけい",
             "meanings": [
                 {
@@ -616,9 +621,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "関連性",
             "youtube_link": "",
+            "in_db": false,
             "reading": "かんれんせい",
             "meanings": [
                 {
@@ -645,9 +651,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "無関係",
             "youtube_link": "",
+            "in_db": false,
             "reading": "むかんけい",
             "meanings": [
                 {
@@ -668,9 +675,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "独立",
             "youtube_link": "",
+            "in_db": false,
             "reading": "どくりつ",
             "meanings": [
                 {

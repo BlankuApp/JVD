@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "再び",
     "youtube_link": "https://youtu.be/TkQo_5E2d9Y",
+    "in_db": true,
     "reading": "ふたたび",
     "meanings": [
         {
@@ -52,9 +53,10 @@
             "grade": 5,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "再生",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "さいせい",
                     "meanings": [
                         {
@@ -130,9 +132,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "再開",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "さいかい",
                     "meanings": [
                         {
@@ -296,9 +299,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "再度",
             "youtube_link": "",
+            "in_db": false,
             "reading": "さいど",
             "meanings": [
                 {
@@ -324,9 +328,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "一度",
             "youtube_link": "",
+            "in_db": false,
             "reading": "いちど",
             "meanings": [
                 {

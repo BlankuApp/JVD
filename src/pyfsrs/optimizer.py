@@ -5,9 +5,9 @@ fsrs.optimizer
 This module defines the optional Optimizer class.
 """
 
-from src.pyfsrs.fsrs.card import Card
-from src.pyfsrs.fsrs.review_log import ReviewLog, Rating
-from src.pyfsrs.fsrs.scheduler import (
+from src.pyfsrs.card import Card
+from src.pyfsrs.review_log import ReviewLog, Rating
+from src.pyfsrs.scheduler import (
     Scheduler,
     DEFAULT_PARAMETERS,
     LOWER_BOUNDS_PARAMETERS,

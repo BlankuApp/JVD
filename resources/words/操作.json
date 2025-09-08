@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "操作",
     "youtube_link": "https://youtu.be/lzwrS0Sfi5Y",
+    "in_db": true,
     "reading": "そうさ",
     "meanings": [
         {
@@ -82,9 +83,10 @@
             "grade": 6,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "操縦",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "そうじゅう",
                     "meanings": [
                         {
@@ -122,9 +124,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "操る",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "あやつる",
                     "meanings": [
                         {
@@ -202,9 +205,10 @@
             "grade": 2,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "作る",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "つくる",
                     "meanings": [
                         {
@@ -338,9 +342,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "作品",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "さくひん",
                     "meanings": [
                         {
@@ -373,11 +378,6 @@
         "explanation": "The word そうさ means operation or manipulation, often referring to handling machines or systems.",
         "youtube_description": "Learn how to use the Japanese word 操作 (そうさ) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
         "motivation": "The word we'll be learning in this video is そうさ which you will often hear in discussions about technology and machinery. Imagine how much more natural your Japanese will sound when you can say things like \"I need to operate the machine,\" \"Can you show me how to use this software?\" and \"Operation was successful\" in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "I need to operate the machine.",
-            "Can you show me how to use this software?",
-            "Operation was successful."
-        ],
         "collocations": [
             "操作する",
             "操作ミス",
@@ -514,9 +514,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "運転",
             "youtube_link": "",
+            "in_db": false,
             "reading": "うんてん",
             "meanings": [
                 {
@@ -557,9 +558,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "行使",
             "youtube_link": "",
+            "in_db": false,
             "reading": "こうし",
             "meanings": [
                 {
@@ -583,9 +585,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "停止",
             "youtube_link": "",
+            "in_db": false,
             "reading": "ていし",
             "meanings": [
                 {
@@ -630,9 +633,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "無視",
             "youtube_link": "",
+            "in_db": false,
             "reading": "むし",
             "meanings": [
                 {

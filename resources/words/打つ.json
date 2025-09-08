@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "打つ",
     "youtube_link": "https://youtu.be/t_aV52rhCJo",
+    "in_db": true,
     "reading": "うつ",
     "meanings": [
         {
@@ -427,9 +428,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "打者",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "だしゃ",
                     "meanings": [
                         {
@@ -450,9 +452,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "打楽器",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "だがっき",
                     "meanings": [
                         {
@@ -616,9 +619,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "殴る",
             "youtube_link": "",
+            "in_db": false,
             "reading": "なぐる",
             "meanings": [
                 {
@@ -645,9 +649,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "叩く",
             "youtube_link": "",
+            "in_db": false,
             "reading": "たたく",
             "meanings": [
                 {
@@ -731,9 +736,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "休む",
             "youtube_link": "",
+            "in_db": false,
             "reading": "やすむ",
             "meanings": [
                 {
@@ -782,9 +788,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "守る",
             "youtube_link": "",
+            "in_db": false,
             "reading": "まもる",
             "meanings": [
                 {

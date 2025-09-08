@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "word": "推定",
     "youtube_link": "https://youtu.be/FNmsjQOdCJo",
+    "in_db": true,
     "reading": "すいてい",
     "meanings": [
         {
@@ -76,9 +77,10 @@
             "grade": 6,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "推薦",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "すいせん",
                     "meanings": [
                         {
@@ -103,9 +105,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "推進",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "すいしん",
                     "meanings": [
                         {
@@ -164,9 +167,10 @@
             "grade": 3,
             "examples": [
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "予定",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "よてい",
                     "meanings": [
                         {
@@ -195,9 +199,10 @@
                     "antonyms": []
                 },
                 {
-                    "version": "0.1.0",
+                    "version": "0.1.1",
                     "word": "決定",
                     "youtube_link": "",
+                    "in_db": false,
                     "reading": "けってい",
                     "meanings": [
                         {
@@ -228,11 +233,6 @@
         "explanation": "The word すいてい means estimation or inference. It refers to the act of making an educated guess or conclusion based on available information.",
         "youtube_description": "Learn how to use the Japanese word 推定 (すいてい) in everyday conversations! In this video, we'll explore its meanings, practical examples, and collocations to help you master this essential term. Whether you're a beginner or looking to enhance your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
         "motivation": "The word we'll be learning in this video is すいてい which you will often hear in discussions involving data analysis or making predictions. Imagine how much more natural your Japanese will sound when you can say things like \"We can estimate the cost next month,\" \"His age is an estimation based on his appearance,\" and \"The forecast was not an accurate estimate\" in Japanese. Let's get started!",
-        "motivation_sentences": [
-            "We can estimate the cost next month.",
-            "His age is an estimation based on his appearance.",
-            "The forecast was not an accurate estimate."
-        ],
         "collocations": [
             "すいていを行う",
             "すいていする",
@@ -346,9 +346,10 @@
     ],
     "synonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "推測",
             "youtube_link": "",
+            "in_db": false,
             "reading": "すいそく",
             "meanings": [
                 {
@@ -372,9 +373,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "見積もり",
             "youtube_link": "",
+            "in_db": false,
             "reading": "みつもり",
             "meanings": [
                 {
@@ -402,9 +404,10 @@
     ],
     "antonyms": [
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "確定",
             "youtube_link": "",
+            "in_db": false,
             "reading": "かくてい",
             "meanings": [
                 {
@@ -430,9 +433,10 @@
             "antonyms": []
         },
         {
-            "version": "0.1.0",
+            "version": "0.1.1",
             "word": "詳細",
             "youtube_link": "",
+            "in_db": false,
             "reading": "しょうさい",
             "meanings": [
                 {
