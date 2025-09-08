@@ -20,32 +20,33 @@ supabase: Client = create_client(url, key)
 
 @st.dialog(title="Login")
 def login_modal():
-    st.text_input("Email", key="email")
-    st.text_input("Password", type="password", key="password")
-    if st.button("Login"):
-        try:
-            response = supabase.auth.sign_in_with_password(
-                {
-                    "email": st.session_state["email"],
-                    "password": st.session_state["password"],
-                }
-            )
-            if response.user is not None and response.session is not None:
-                st.session_state["auth"] = {
-                    **response.user.user_metadata,
-                    "id": response.user.id,
-                    "email": response.user.email,
-                    "access_token": response.session.access_token,
-                    "refresh_token": response.session.refresh_token,
-                }
-                user_word_cards = db_word.get_user_word_cards(st.session_state["auth"])
-                st.session_state["user_word_cards"] = user_word_cards
-                st.snow()
-                st.rerun()
-            else:
-                st.error("Login failed. Please check your credentials.")
-        except Exception as e:
-            st.error(f"An error occurred: {e}")
+    with st.form("login_form"):
+        st.text_input("Email", key="email")
+        st.text_input("Password", type="password", key="password")
+        if st.form_submit_button("Login"):
+            try:
+                response = supabase.auth.sign_in_with_password(
+                    {
+                        "email": st.session_state["email"],
+                        "password": st.session_state["password"],
+                    }
+                )
+                if response.user is not None and response.session is not None:
+                    st.session_state["auth"] = {
+                        **response.user.user_metadata,
+                        "id": response.user.id,
+                        "email": response.user.email,
+                        "access_token": response.session.access_token,
+                        "refresh_token": response.session.refresh_token,
+                    }
+                    user_word_cards = db_word.get_user_word_cards(st.session_state["auth"])
+                    st.session_state["user_word_cards"] = user_word_cards
+                    st.snow()
+                    st.rerun()
+                else:
+                    st.error("Login failed. Please check your credentials.")
+            except Exception as e:
+                st.error(f"An error occurred: {e}")
 
 
 @st.dialog(title="Sign Up")
