@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 
 st.title("Japanese Video Dictionary")
 st.markdown("Welcome to the Japanese Video Dictionary! Use the sidebar to navigate through different sections.")

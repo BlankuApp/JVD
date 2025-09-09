@@ -13,10 +13,13 @@ key: str = os.getenv("supabaseKey")  # type: ignore
 supabase: Client = create_client(url, key)
 
 auth = st.session_state.get("auth", None)
+review_count = st.session_state.get("due_review_count", 0)
 
 main_page = st.Page("src/web/main_page.py", title="Home", icon="🏠")
 jlpt_vocabularies = st.Page("src/web/v.py", title="JLPT Vocabularies", icon="📚")
-review_page = st.Page("src/web/review.py", title="Review", icon="✏️")
+review_page = st.Page(
+    "src/web/review.py", title="Review" if review_count == 0 else f"Review ({review_count})", icon="✏️"
+)
 if auth:
     user_auth = st.Page("src/web/user.py", title=f"{auth['username']} Profile", icon="👤")
     logout_btn = st.sidebar.button("Logout", width="stretch")
@@ -32,6 +35,4 @@ else:
 
 pages = [main_page, jlpt_vocabularies, review_page, user_auth]
 app = st.navigation(pages=pages, expanded=True)
-# if st.sidebar.checkbox("Show Session State"):
-#     st.sidebar.write(st.session_state)
 app.run()

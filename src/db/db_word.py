@@ -110,6 +110,23 @@ def get_due_card(auth: dict) -> dict:
         return []
 
 
+def get_due_cards_count(auth: dict) -> int:
+    try:
+        now = datetime.now(timezone.utc).isoformat()
+        response = (
+            supabase.table("user_card")
+            .select("id", count="exact")
+            .eq("user_id", auth["id"])
+            .eq("type", "JPWord")
+            .lt("due", now)
+            .execute()
+        )
+        return response.count if response.count else 0
+    except Exception as e:
+        print(f"Error fetching user cards count: {e}")
+        return 0
+
+
 def update_user_word_card(
     auth: dict,
     word: str,

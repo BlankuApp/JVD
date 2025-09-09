@@ -20,10 +20,12 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from pydantic import BaseModel, Field
 import os
 from dotenv import load_dotenv
+from random import choice
 
 load_dotenv()
 
 llm_4o_mini_openai = ChatOpenAI(model="gpt-4o-mini", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
+llm_5_nano_openai = ChatOpenAI(model="gpt-4o", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
 
 
 class State(IntEnum):
@@ -193,25 +195,33 @@ class JPWordCard(Card):
             open(f"resources/words/{word}.json", "r", encoding="utf-8").read()
         )
 
+    def fetch_random_collocation(self) -> str:
+        return choice(self._jp_word.explanations.collocations) if self._jp_word.explanations.collocations else ""
+
     def generate_reverse_translation_question(
         self, jlpt_level: str | int = "N4", target_languages: list[str] = ["English"]
     ) -> JPWordCard.ReverseTranslationQuestion:
-        structured_llm = llm_4o_mini_openai.with_structured_output(JPWordCard.ReverseTranslationQuestion)
+        random_collocation = self.fetch_random_collocation()
+        structured_llm = llm_5_nano_openai.with_structured_output(JPWordCard.ReverseTranslationQuestion)
         question = structured_llm.invoke(
             [
                 SystemMessage(
-                    content="You are a helpful assistant that generates language learning flashcard questions. The answer is the Japanese sentence containing the target word. The question is the translation of the sentence in {target_language}. Hints are translations and reading of other words in the sentence except the target word. The kanjis in the question sentence should be followed by its hiragana reading in parentheses."
+                    content=f"You are a helpful assistant that generates language learning flashcard questions. The answer is the Japanese sentence containing the target word. The question is the translation of the sentence in {' and '.join(target_languages)}. Hints are translations and reading of other words in the sentence except the target word."
                 ),
                 HumanMessage(
-                    content=f"""Generate a simple, natural and short, {jlpt_level} level sentence with '{self.word}' as the answer and provide the translation in {" and ".join(target_languages)} as the question. 
-Make sure the '{self.word}' is not included in the hints. 
-The question is the accurate and natural translation of the sentence in {" and ".join(target_languages)}. 
-Hints are translations and reading of other words in the sentence except the target word. 
-The kanjis in the question sentence should be followed by its hiragana reading in parentheses.
+                    content=f"""# Tasks
+1. Generate a simple, natural and short, {jlpt_level} level sentence with '{self.word}' as the answer. You can use the collocation '{random_collocation}' as a template.
+2. provide the accurate and natural translation of answer in {" and ".join(target_languages)} as the question. The kanjis in the question sentence should be followed by its hiragana reading in parentheses.
+3. Hints are translations and reading of other words in the sentence except the target word. Make sure the '{self.word}' is not included in the hints. 
+# Example:
 Example for word '参加する' with target language 'English and Persian' and level 'N4':
 Question: I will attend the meeting / من در جلسه شرکت میکنم.
 Answer: 会議(かいぎ)に参加(さんか)する。
 Hints: meeting: 会議(かいぎ)
+# Constraints:
+- Remove '{self.word}' from the hints.
+- The question must be a natural and accurate translation of the answer.
+- In the answer, the kanjis must be followed by their hiragana reading in parentheses.
 """
                 ),
             ]

@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from supabase import Client, create_client
 
 from src.word.JPWord import LANGUAGES_ABBR
-from src.db import db_word
+from src.db.db_word import get_due_cards_count
 
 
 auth = st.session_state.get("auth", None)
@@ -24,6 +24,7 @@ def login_modal():
         st.text_input("Email", key="email")
         st.text_input("Password", type="password", key="password")
         if st.form_submit_button("Login"):
+            st.toast("Logging in...", icon="⏳")
             try:
                 response = supabase.auth.sign_in_with_password(
                     {
@@ -32,15 +33,24 @@ def login_modal():
                     }
                 )
                 if response.user is not None and response.session is not None:
-                    st.session_state["auth"] = {
+                    st.toast("Login successful!", icon="✅")
+                    auth = {
                         **response.user.user_metadata,
                         "id": response.user.id,
                         "email": response.user.email,
                         "access_token": response.session.access_token,
                         "refresh_token": response.session.refresh_token,
                     }
-                    st.snow()
+                    review_count = get_due_cards_count(auth)
+
+                    st.session_state.update(
+                        {
+                            "auth": auth,
+                            "due_review_count": review_count,
+                        }
+                    )
                     st.rerun()
+
                 else:
                     st.error("Login failed. Please check your credentials.")
             except Exception as e:

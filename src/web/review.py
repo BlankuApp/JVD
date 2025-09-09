@@ -35,6 +35,7 @@ if "review_state" not in st.session_state:
         st.success("You have completed all reviews for now! Great job! 🎉")
         st.stop()
     st.session_state.current_card = card[0]
+    st.toast("Generating next question...", icon="⏳")
     card: JPWordCard = JPWordCard(
         word=card[0]["key"],
         card_id=card[0]["id"],
@@ -55,7 +56,7 @@ if "review_state" not in st.session_state:
 
     st.session_state.update(
         {
-            "review_state": "question",  # other states: "answer", "finished"
+            "review_state": "question",
             "current_card": {
                 **st.session_state.current_card,
                 "jpword": card,
@@ -67,11 +68,9 @@ if "review_state" not in st.session_state:
 if st.session_state.review_state == "question":
     question = st.session_state.current_card["qa"]
     st.markdown("Question:")
-    st.title(f"{question.question}")
+    st.markdown(f"<p style='text-align: center; font-size: 36px;'>{question.question}</p>", unsafe_allow_html=True)
     st.markdown("Your Answer:")
-    # st.markdown(f"### Question:\n{question.question}\n### Your Answer:")
-    user_answer = st.text_input("Your Answer:", value="", key="your_answer", label_visibility="collapsed")
-    with st.expander("Hint"):
+    with st.expander("Hint", expanded=False):
         st.markdown("- " + question.hints.replace(",", "\n- "))
     if st.button("Check Answer", type="primary", width="stretch"):
         st.session_state.review_state = "answer"
@@ -80,21 +79,12 @@ if st.session_state.review_state == "question":
 if st.session_state.review_state == "answer":
     question = st.session_state.current_card["qa"]
     st.markdown("Question:")
-    st.title(f"{question.question}")
+    st.markdown(f"<p style='text-align: center; font-size: 36px;'>{question.question}</p>", unsafe_allow_html=True)
     st.markdown("Your Answer:")
-    # st.markdown(f"### Question:\n{question.question}\n### Your Answer:")
-    st.text_input(
-        "Your Answer:",
-        value=st.session_state.get("your_answer", ""),
-        key="your_answer",
-        disabled=True,
-        label_visibility="collapsed",
-    )
-    with st.expander("Hint"):
+    with st.expander("Hint", expanded=False):
         st.markdown("- " + question.hints.replace(",", "\n- "))
     st.markdown("Correct Answer:")
-    st.title(f"{question.answer}")
-    # st.markdown(f"### Correct Answer:\n{question.answer}")
+    st.markdown(f"<p style='text-align: center; font-size: 36px;'>{question.answer}</p>", unsafe_allow_html=True)
     st.segmented_control(
         "Rating:",
         ["Again", "Hard", "Good", "Easy"],
@@ -119,9 +109,6 @@ if st.session_state.review_state == "answer":
             due=jp_word_card.due.isoformat() if jp_word_card.due else None,
             last_review=review_datetime.isoformat(),
         )
+        st.session_state["due_review_count"] = max(st.session_state.get("due_review_count", 0) - 1, 0)
         st.toast(msg, icon="✅" if success else "❌")
         reset_review_session()
-
-
-# if st.button("Reset Review Session", width="stretch"):
-#     reset_review_session()
