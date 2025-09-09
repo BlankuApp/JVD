@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 from supabase import Client, create_client
 
 from src.word.JPWord import LANGUAGES_ABBR
-from src.db.db_word import get_due_cards_count
 
 
 auth = st.session_state.get("auth", None)

@@ -194,6 +194,7 @@ class JPWordCard(Card):
         self._jp_word: JPWord = JPWord.model_validate_json(
             open(f"resources/words/{word}.json", "r", encoding="utf-8").read()
         )
+        self.question: JPWordCard.ReverseTranslationQuestion | None = None
 
     def fetch_random_collocation(self) -> str:
         return choice(self._jp_word.explanations.collocations) if self._jp_word.explanations.collocations else ""
@@ -203,15 +204,15 @@ class JPWordCard(Card):
     ) -> JPWordCard.ReverseTranslationQuestion:
         random_collocation = self.fetch_random_collocation()
         structured_llm = llm_5_nano_openai.with_structured_output(JPWordCard.ReverseTranslationQuestion)
-        question = structured_llm.invoke(
+        self.question = structured_llm.invoke(
             [
                 SystemMessage(
-                    content=f"You are a helpful assistant that generates language learning flashcard questions. The answer is the Japanese sentence containing the target word. The question is the translation of the sentence in {' and '.join(target_languages)}. Hints are translations and reading of other words in the sentence except the target word."
+                    content=f"You are a helpful assistant that generates language learning flashcard questions. The answer is the Japanese sentence containing the target word. The question is the translation of the sentence in {' and '.join(target_languages[:2])}. Hints are translations and reading of other words in the sentence except the target word."
                 ),
                 HumanMessage(
                     content=f"""# Tasks
 1. Generate a simple, natural and short, {jlpt_level} level sentence with '{self.word}' as the answer. You can use the collocation '{random_collocation}' as a template.
-2. provide the accurate and natural translation of answer in {" and ".join(target_languages)} as the question. The kanjis in the question sentence should be followed by its hiragana reading in parentheses.
+2. provide the accurate and natural translation of answer in {" and ".join(target_languages[:2])} as the question. The kanjis in the question sentence should be followed by its hiragana reading in parentheses.
 3. Hints are translations and reading of other words in the sentence except the target word. Make sure the '{self.word}' is not included in the hints. 
 # Example:
 Example for word '参加する' with target language 'English and Persian' and level 'N4':
@@ -225,8 +226,21 @@ Hints: meeting: 会議(かいぎ)
 """
                 ),
             ]
-        )
-        return question
+        )  # type: ignore
+        return self.question  # type: ignore
+
+    def review_reverse_translation_question(self, user_answer: str, target_languages: list[str]) -> str:
+        response = llm_4o_mini_openai.invoke(
+            [
+                SystemMessage(
+                    content="""You are a helpful japanese teacher that is reviewing your student's answer and providing very short and constructive feedback."""
+                ),
+                HumanMessage(
+                    content=f"""The correct answer is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the students's answer is '{user_answer}'.  The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}."""
+                ),
+            ]
+        )  # type: ignore
+        return response.text()
 
 
 __all__ = ["Card", "State", "JPWordCard"]

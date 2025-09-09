@@ -35,7 +35,7 @@ if "review_state" not in st.session_state:
         st.success("You have completed all reviews for now! Great job! 🎉")
         st.stop()
     st.session_state.current_card = card[0]
-    st.toast("Generating next question...", icon="⏳")
+    st.toast("Generating the question...", icon="⏳")
     card: JPWordCard = JPWordCard(
         word=card[0]["key"],
         card_id=card[0]["id"],
@@ -62,14 +62,19 @@ if "review_state" not in st.session_state:
                 "jpword": card,
                 "qa": question,
             },
+            "your_answer": "",
+            "has_ai_review": False,
         }
     )
 
 if st.session_state.review_state == "question":
     question = st.session_state.current_card["qa"]
     st.markdown("Question:")
-    st.markdown(f"<p style='text-align: center; font-size: 36px;'>{question.question}</p>", unsafe_allow_html=True)
+    st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
     st.markdown("Your Answer:")
+    st.text_input(
+        "Type your answer here", key="your_answer", label_visibility="collapsed", placeholder="Type your answer here"
+    )
     with st.expander("Hint", expanded=False):
         st.markdown("- " + question.hints.replace(",", "\n- "))
     if st.button("Check Answer", type="primary", width="stretch"):
@@ -78,14 +83,23 @@ if st.session_state.review_state == "question":
 
 if st.session_state.review_state == "answer":
     question = st.session_state.current_card["qa"]
+    if not st.session_state["has_ai_review"]:
+        st.toast("Reviewing your answer with AI. Please wait ...", icon="⏳")
+        review = st.session_state.current_card["jpword"].review_reverse_translation_question(
+            user_answer=st.session_state["your_answer"],
+            target_languages=auth["preferred_languages"],
+        )
+        st.session_state["ai_review"] = review
+        st.session_state["has_ai_review"] = True
     st.markdown("Question:")
-    st.markdown(f"<p style='text-align: center; font-size: 36px;'>{question.question}</p>", unsafe_allow_html=True)
-    st.markdown("Your Answer:")
+    st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
+    st.text_input("Type your answer here", key="your_answer", placeholder="Type your answer here")
     with st.expander("Hint", expanded=False):
         st.markdown("- " + question.hints.replace(",", "\n- "))
     st.markdown("Correct Answer:")
-    st.markdown(f"<p style='text-align: center; font-size: 36px;'>{question.answer}</p>", unsafe_allow_html=True)
-    st.segmented_control(
+    st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.answer}</p>", unsafe_allow_html=True)
+    st.text_area("AI Review", height=400, max_chars=None, key="ai_review")
+    diff = st.segmented_control(
         "Rating:",
         ["Again", "Hard", "Good", "Easy"],
         default="Good",
