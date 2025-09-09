@@ -44,30 +44,18 @@ if "w" in st.query_params:
                     st.toast("You need to be logged in to add words to your list.", icon="❌")
     fetch_and_show_word()
 else:
+    msg = st.toast("Loading vocabularies...", icon="⏳")
     user_word_cards = get_user_word_cards(auth) if auth else []
     marked_words = [w.get("key") for w in user_word_cards] if user_word_cards else []
     st.markdown("# JLPT Vocabularies")
 
-    with st.expander("N4 Vocabularies"):
-        with st.container(horizontal=True):
-            for w in get_words(4):
-                word = str(w.get("word"))
-                if st.button(word, type="primary" if word in marked_words else "secondary"):
-                    st.query_params.update({"w": word})
-                    st.rerun()
-
-    with st.expander("N3 Vocabularies"):
-        with st.container(horizontal=True):
-            for w in get_words(3):
-                word = str(w.get("word", ""))
-                if st.button(word, type="primary" if word in marked_words else "secondary"):
-                    st.query_params.update({"w": word})
-                    st.rerun()
-
-    with st.expander("N2 Vocabularies"):
-        with st.container(horizontal=True):
-            for w in get_words(2):
-                word = str(w.get("word", ""))
-                if st.button(word, type="primary" if word in marked_words else "secondary"):
-                    st.query_params.update({"w": word})
-                    st.rerun()
+    for level in [4, 3, 2]:
+        msg.toast(f"Loading N{level} vocabularies...", icon="⏳")
+        with st.expander(f"N{level} Vocabularies"):
+            with st.container(horizontal=True):
+                for w in get_words(level):
+                    word = str(w.get("word", ""))
+                    if st.button(word, type="primary" if word in marked_words else "secondary"):
+                        st.query_params.update({"w": word})
+                        st.rerun()
+    msg.toast("Vocabularies loaded!", icon="✅")

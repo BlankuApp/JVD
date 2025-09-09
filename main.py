@@ -4,6 +4,7 @@ import time
 import streamlit as st
 from dotenv import load_dotenv
 from supabase import Client, create_client
+from src.db.db_word import get_due_cards_count
 
 load_dotenv()
 
@@ -14,6 +15,9 @@ supabase: Client = create_client(url, key)
 
 auth = st.session_state.get("auth", None)
 review_count = st.session_state.get("due_review_count", 0)
+if auth:
+    review_count = get_due_cards_count(auth)
+    st.session_state["due_review_count"] = review_count
 
 main_page = st.Page("src/web/main_page.py", title="Home", icon="🏠")
 jlpt_vocabularies = st.Page("src/web/v.py", title="JLPT Vocabularies", icon="📚")

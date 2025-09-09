@@ -41,14 +41,7 @@ def login_modal():
                         "access_token": response.session.access_token,
                         "refresh_token": response.session.refresh_token,
                     }
-                    review_count = get_due_cards_count(auth)
-
-                    st.session_state.update(
-                        {
-                            "auth": auth,
-                            "due_review_count": review_count,
-                        }
-                    )
+                    st.session_state["auth"] = auth
                     st.rerun()
 
                 else:
