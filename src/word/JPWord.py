@@ -116,9 +116,8 @@ Whether you're a beginner or looking to expand your Japanese skills, this video 
     )
     motivation: str = Field(
         default="",
-        description="""1. Fill out the following template:
+        description="""1. Fill out and paraphrase the following template:
 The word we'll be learning in this section is [vocabulary word in hiragana] which you will often hear in [provide the situations where the word is commonly used]. 
-2. rephrase it to make it more motivationa, engaging and compelling for viewers to watch the video.
 """,
     )
     collocations: list[str] | None = Field(
@@ -736,18 +735,18 @@ class JPWord(BaseModel):
         client = openai.OpenAI(api_key=os.getenv("openai_api_key"))
 
         # First segment
-        word_audio_path = f"./output/{word}/audio/word.mp3"
-        if not os.path.exists(word_audio_path):
-            status.update("Generating audio for word")
-            response = client.audio.speech.create(
-                model="gpt-4o-mini-tts",
-                voice="coral",
-                instructions=f"Japanese text. calmly and gently. Correct pronunciation: {self.word} ={self.reading}",
-                input=f"{self.word}",
-                response_format="mp3",
-            )
-            with open(word_audio_path, "wb") as audio_file:
-                audio_file.write(response.content)
+        # word_audio_path = f"./output/{word}/audio/word.mp3"
+        # if not os.path.exists(word_audio_path):
+        #     status.update("Generating audio for word")
+        #     response = client.audio.speech.create(
+        #         model="gpt-4o-mini-tts",
+        #         voice="coral",
+        #         instructions=f"Japanese text. calmly and gently. Correct pronunciation: {self.word} ={self.reading}",
+        #         input=f"{self.word}",
+        #         response_format="mp3",
+        #     )
+        #     with open(word_audio_path, "wb") as audio_file:
+        #         audio_file.write(response.content)
 
         explanation_audio_path = f"./output/{word}/audio/word_explanation.mp3"
         if not os.path.exists(explanation_audio_path) and self.explanations:
@@ -779,9 +778,9 @@ class JPWord(BaseModel):
 
         title_audio = (
             AudioSegment.from_mp3(motivation_audio_path)
-            + AudioSegment.from_mp3(word_audio_path)
-            + AudioSegment.silent(duration=500)
-            + AudioSegment.from_mp3(word_audio_path)
+            # + AudioSegment.from_mp3(word_audio_path)
+            # + AudioSegment.silent(duration=500)
+            # + AudioSegment.from_mp3(word_audio_path)
         )
         with open(f"./output/{word}/audio/0_title.wav", "wb") as title_file:
             title_audio.export(title_file, format="wav")
@@ -866,7 +865,7 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "皮",
+    "損害",
 ]
 
 

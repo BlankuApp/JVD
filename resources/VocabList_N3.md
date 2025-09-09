@@ -36,7 +36,7 @@
 | 浴びる | あびる | to bathe,to bask in the sun,to shower |
 | 油 | あぶら | oil |
 | 余り | あまり | not very (used as adverb),not much |
-| 誤り | あやまり | error |
+| **誤り** | あやまり | error |
 | 粗 | あら | defect,flaw,blemish,weak point |
 | 嵐 | あらし | storm,tempest |
 | **新た** | あらた | new,fresh,novel |
@@ -993,7 +993,7 @@
 | 掃除 | そうじ | cleaning,sweeping |
 | 想像 | そうぞう | imagination,guess |
 | 相続 | そうぞく | succession,inheritance |
-| 相談 | そうだん | consultation,discussion |
+| **相談** | そうだん | consultation,discussion |
 | 装置 | そうち | equipment,installation,apparatus |
 | 相当 | そうとう | suitable,fair,tolerable,proper |
 | 速度 | そくど | speed,velocity,rate |
@@ -1020,7 +1020,7 @@
 |  | それと |  |
 |  | それとも | or,or else |
 | 損 | そん | loss,disadvantage |
-| 損害 | そんがい | damage,injury,loss |
+| **損害** | そんがい | damage,injury,loss |
 | 尊敬 | そんけい | respect,esteem,reverence,honour |
 | 存在 | そんざい | existence,being |
 | 尊重 | そんちょう | respect,esteem,regard |

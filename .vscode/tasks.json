@@ -13,5 +13,10 @@
             "type": "shell",
             "command": "clear; conda activate jvd310; streamlit run main.py"
         }
+        {
+            "label": "upload new words",
+            "type": "shell",
+            "command": "clear; conda activate jvd310; python src/db/db_word.py"
+        },
     ]
 }
