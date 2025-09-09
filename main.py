@@ -32,5 +32,6 @@ else:
 
 pages = [main_page, jlpt_vocabularies, review_page, user_auth]
 app = st.navigation(pages=pages, expanded=True)
-st.sidebar.write(st.session_state)
+# if st.sidebar.checkbox("Show Session State"):
+#     st.sidebar.write(st.session_state)
 app.run()

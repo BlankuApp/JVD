@@ -39,8 +39,8 @@ def login_modal():
                         "access_token": response.session.access_token,
                         "refresh_token": response.session.refresh_token,
                     }
-                    user_word_cards = db_word.get_user_word_cards(st.session_state["auth"])
-                    st.session_state["user_word_cards"] = user_word_cards
+                    # user_word_cards = db_word.get_user_word_cards(st.session_state["auth"])
+                    # st.session_state["user_word_cards"] = user_word_cards
                     st.snow()
                     st.rerun()
                 else:

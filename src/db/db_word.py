@@ -1,7 +1,9 @@
-from dotenv import load_dotenv
-from supabase import create_client, Client
 import os
 import sys
+from datetime import datetime, timezone
+
+from dotenv import load_dotenv
+from supabase import Client, create_client
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 
@@ -83,6 +85,25 @@ def check_user_word_card(auth: dict, word: str) -> bool:
 def get_user_word_cards(auth: dict) -> list[dict]:
     try:
         response = supabase.table("user_card").select("*").eq("user_id", auth["id"]).eq("type", "JPWord").execute()
+        return response.data if response.data else []
+    except Exception as e:
+        print(f"Error fetching user cards: {e}")
+        return []
+
+
+def get_due_card(auth: dict) -> dict:
+    try:
+        now = datetime.now(timezone.utc).isoformat()
+        response = (
+            supabase.table("user_card")
+            .select("*")
+            .eq("user_id", auth["id"])
+            .eq("type", "JPWord")
+            .lt("due", now)
+            .order("due")
+            .limit(1)
+            .execute()
+        )
         return response.data if response.data else []
     except Exception as e:
         print(f"Error fetching user cards: {e}")
