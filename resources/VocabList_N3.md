@@ -1113,7 +1113,7 @@
 |  | ダンス | dance |
 | 団体 | だんたい | organization,association |
 | 担当 | たんとう | (in) charge |
-| 単なる | たんなる | mere,simple,sheer |
+| **単なる** | たんなる | mere,simple,sheer |
 | 単に | たんに | simply,merely,only,solely |
 | 地 | ち | earth |
 | 地位 | ちい | (social) position,status |
@@ -1126,7 +1126,7 @@
 | 違いない | ちがいない | (phrase) sure,no mistaking it,for certain |
 | 近頃 | ちかごろ | lately,recently,nowadays |
 | 地球 | ちきゅう | the earth |
-| 地区 | ちく | district,section,sector |
+| **地区** | ちく | district,section,sector |
 | 遅刻 | ちこく | lateness,late coming |
 | 知事 | ちじ | prefectural governor |
 | 知識 | ちしき | knowledge,information |
@@ -1139,7 +1139,7 @@
 |  | ちゃんと | perfectly,properly,exactly |
 | 中 | ちゅう | inside,middle,among |
 | 注 | ちゅう | annotation,explanatory note |
-| 中央 | ちゅうおう | centre,central,center,middle |
+| **中央** | ちゅうおう | centre,central,center,middle |
 | 中学 | ちゅうがく | middle school,junior high school |
 | 中古 | ちゅうこ | (1) used,second-hand,old |
 | 中止 | ちゅうし | suspension,stoppage,discontinuance,interruption |
@@ -1172,7 +1172,7 @@
 | 注ぐ | つぐ | to pour (into),to irrigate,to pay |
 | 付ける | つける | to attach,to join,to add,to append |
 | 土 | つち | earth,soil |
-| 続き | つづき | sequel,continuation |
+| **続き** | つづき | sequel,continuation |
 | 包み | つつみ | bundle,package,parcel,bale |
 | 勤め | つとめ | (1) service,duty,business,responsibility,task,(2) Buddhist religious services |
 | 務め | つとめ | (1) service,duty,(2) Buddhist religious services |
@@ -1201,7 +1201,7 @@
 | 出来事 | できごと | incident,affair,happening,event |
 | 適する | てきする | to fit,to suit |
 | 適切 | てきせつ | pertinent,appropriate,adequate,relevance |
-| 適度 | てきど | moderate |
+| **適度** | てきど | moderate |
 | 適用 | てきよう | applying |
 | できる | （可能。出現。発生） | to be able to,to be ready,to occur |
 | 出来るだけ | できるだけ | if at all possible |
@@ -1238,7 +1238,7 @@
 |  | どうしても | by all means,at any cost,no matter what |
 | 到着 | とうちゃく | arrival |
 | 道徳 | どうとく | morals |
-| 投票 | とうひょう | voting,poll |
+| **投票** | とうひょう | voting,poll |
 | 同様 | どうよう | identical,equal to,same (kind),like |
 | 同僚 | どうりょう | coworker,colleague,associate |
 | 道路 | どうろ | road,highway |
@@ -1253,7 +1253,7 @@
 | 得意 | とくい | pride,triumph,prosperity |
 | 読書 | どくしょ | reading |
 | 独身 | どくしん | bachelorhood,single,unmarried,celibate |
-| 特徴 | とくちょう | feature,characteristic |
+| **特徴** | とくちょう | feature,characteristic |
 | 独特 | どくとく | peculiarity,uniqueness,characteristic |
 | 独立 | どくりつ | independence (e.g. Ind. Day),self-support |
 | 解ける | とける | to come untied,to come apart |
@@ -1318,7 +1318,7 @@
 |  | なにも | nothing |
 | 鍋 | なべ | saucepan,pot |
 | 生 | なま | (1) draft (beer),(2) raw,unprocessed |
-| 怠ける | なまける | to be idle,to neglect |
+| **怠ける** | なまける | to be idle,to neglect |
 | 波 | なみ | wave |
 | 涙 | なみだ | tear |
 | **悩む** | なやむ | to be worried,to be troubled |
@@ -1328,7 +1328,7 @@
 | 何で | なんで | Why?,What for? |
 | 何でも | なんでも | by all means,everything |
 | 何とか | なんとか | somehow,anyhow,one way or another |
-| 似合う | にあう | to suit,to match,to become,to be like |
+| **似合う** | にあう | to suit,to match,to become,to be like |
 | 匂い | におい | odour,scent,smell,stench |
 | 苦手 | にがて | poor (at),weak (in),dislike (of) |
 | 握る | にぎる | to grasp,to seize,to mould sushi |
@@ -1342,7 +1342,7 @@
 | 日本 | にほん | Japan |
 | 入院 | にゅういん | hospitalization |
 | 入学 | にゅうがく | entry to school or university,matriculation |
-| 入場 | にゅうじょう | entrance,admission,entering |
+| **入場** | にゅうじょう | entrance,admission,entering |
 | 人気 | にんき | sign of life |
 | 人間 | にんげん | human being,man,person |
 | 抜く | ぬく | to extract,to omit,to surpass,to draw out,to unplug |
@@ -1363,7 +1363,7 @@
 | 年月 | ねんげつ | months and years |
 | 年中 | ねんじゅう | whole year,always,everyday |
 | 年代 | ねんだい | age,era,period,date |
-| 年齢 | ねんれい | age,years |
+| **年齢** | ねんれい | age,years |
 | 野 | の | field |
 | 能 | のう | being skilled in,nicely,properly |
 | 農家 | のうか | farmer,farm family |
@@ -1400,7 +1400,7 @@
 |  | パイロット | pilot |
 | 墓 | はか | grave,tomb |
 | 馬鹿 | ばか | fool,idiot,trivial matter,folly |
-| 博士 | はかせ | doctorate,PhD |
+| **博士** | はかせ | doctorate,PhD |
 | 計る | はかる | to measure,to weigh,to survey |
 | 履く | はく | to wear,to put on (lower body) |
 | 吐く | はく | (1) to breathe,(2) to tell (lies),(3) to vomit,to disgorge |
