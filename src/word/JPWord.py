@@ -117,7 +117,7 @@ Whether you're a beginner or looking to expand your Japanese skills, this video 
     motivation: str = Field(
         default="",
         description="""1. Fill out and paraphrase the following template:
-The word we'll be learning in this section is [vocabulary word in hiragana] which you will often hear in [provide the situations where the word is commonly used]. 
+The word we'll be learning in this section is [vocabulary word in hiragana] which you will often hear in [provide the situations where the word is commonly used without mentioning the meaning of the word]. 
 """,
     )
     collocations: list[str] | None = Field(
@@ -248,6 +248,9 @@ class JPWord(BaseModel):
     def _get_meanings(self) -> None:
         status.update("Fetching meanings from Jisho")
         res = self.query_jisho(self.word)
+        if not res:
+            status.update(f"No definitions found for word '{self.word}'.")
+            return
         self.word = res[0].get("slug", self.word)
         self.is_common = res[0].get("is_common", False)
         self.jlpt = res[0].get("jlpt", None)
@@ -401,7 +404,7 @@ class JPWord(BaseModel):
         for ex in self.examples:
             ex.show_in_streamlit(st, auth)
 
-    def pptx_generation(self, num_examples: int | None = 5) -> None:
+    def pptx_generation(self, num_examples: int | None = 4) -> None:
         file_name = f"./Output/{self.word}/{self.word} JLPT N3 Vocabulary.pptx"
         if os.path.exists(file_name):
             status.update(f"{self.word} PowerPoint already exists, skipping...")
@@ -730,24 +733,11 @@ class JPWord(BaseModel):
 
         prs.save(file_name)
 
-    def tts(self, num_examples: int | None = 5) -> None:
+    def tts(self, num_examples: int | None = 4) -> None:
         os.makedirs(f"./Output/{self.word}/audio", exist_ok=True)
         client = openai.OpenAI(api_key=os.getenv("openai_api_key"))
 
         # First segment
-        # word_audio_path = f"./output/{word}/audio/word.mp3"
-        # if not os.path.exists(word_audio_path):
-        #     status.update("Generating audio for word")
-        #     response = client.audio.speech.create(
-        #         model="gpt-4o-mini-tts",
-        #         voice="coral",
-        #         instructions=f"Japanese text. calmly and gently. Correct pronunciation: {self.word} ={self.reading}",
-        #         input=f"{self.word}",
-        #         response_format="mp3",
-        #     )
-        #     with open(word_audio_path, "wb") as audio_file:
-        #         audio_file.write(response.content)
-
         explanation_audio_path = f"./output/{word}/audio/word_explanation.mp3"
         if not os.path.exists(explanation_audio_path) and self.explanations:
             status.update("Generating audio for word explanation")
@@ -776,12 +766,7 @@ class JPWord(BaseModel):
             with open(motivation_audio_path, "wb") as audio_file:
                 audio_file.write(response.content)
 
-        title_audio = (
-            AudioSegment.from_mp3(motivation_audio_path)
-            # + AudioSegment.from_mp3(word_audio_path)
-            # + AudioSegment.silent(duration=500)
-            # + AudioSegment.from_mp3(word_audio_path)
-        )
+        title_audio = AudioSegment.from_mp3(motivation_audio_path)
         with open(f"./output/{word}/audio/0_title.wav", "wb") as title_file:
             title_audio.export(title_file, format="wav")
 
@@ -865,7 +850,19 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "損害",
+    # "羨む",
+    # "液体",
+    # "教わる",
+    # "掻く",
+    # "活力",
+    # "区域",
+    # "器具",
+    # "改札",
+    # "快晴",
+    # "祭日",
+    # "姿勢",
+    # "冷ます",
+    # "鉱物",
 ]
 
 
@@ -876,11 +873,12 @@ if __name__ == "__main__":
     llm_5_mini_openai = ChatOpenAI(model="gpt-5-mini", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
     status.start()
 
-    word = word_list[0]
-    w = JPWord(word=word, llm=llm_4o_openai)
-    w.save_json()
-    # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
-    w.tts()
-    w.pptx_generation()
+    for word in word_list:
+        w = JPWord(word=word, llm=llm_4o_openai)
+        w.save_json()
+        # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+        w.tts()
+        w.pptx_generation()
+        console.print(f"Finished processing word: {word}")
 
     status.stop()

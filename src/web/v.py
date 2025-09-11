@@ -1,14 +1,14 @@
+import os
+
 import streamlit as st
 
-from src.word.JPWord import JPWord
-
 from src.db.db_word import (
-    check_user_word_card,
     add_user_word_card,
-    remove_user_word_card,
+    check_user_word_card,
     get_user_word_cards,
-    get_words,
+    remove_user_word_card,
 )
+from src.word.JPWord import JPWord
 
 auth = st.session_state.get("auth", None)
 
@@ -18,6 +18,17 @@ def fetch_and_show_word():
         w = JPWord.model_validate_json(file.read())
         if w:
             w.show_in_streamlit(st, auth)
+
+
+def get_words() -> list[dict]:
+    words = []
+    json_files = [f for f in os.listdir("resources/words") if f.endswith(".json")]
+    for json_file in json_files:
+        with open(os.path.join("resources/words", json_file), "r", encoding="utf-8") as file:
+            w = JPWord.model_validate_json(file.read())
+            if w:
+                words.append(dict(word=w.word, level=w.jlpt_level))
+    return words
 
 
 if "w" in st.query_params:
@@ -44,18 +55,17 @@ if "w" in st.query_params:
                     st.toast("You need to be logged in to add words to your list.", icon="❌")
     fetch_and_show_word()
 else:
-    msg = st.toast("Loading vocabularies...", icon="⏳")
     user_word_cards = get_user_word_cards(auth) if auth else []
     marked_words = [w.get("key") for w in user_word_cards] if user_word_cards else []
+    words = get_words()
     st.markdown("# JLPT Vocabularies")
 
     for level in [4, 3, 2]:
-        msg.toast(f"Loading N{level} vocabularies...", icon="⏳")
         with st.expander(f"N{level} Vocabularies"):
             with st.container(horizontal=True):
-                for w in get_words(level):
-                    word = str(w.get("word", ""))
-                    if st.button(word, type="primary" if word in marked_words else "secondary"):
-                        st.query_params.update({"w": word})
-                        st.rerun()
-    msg.toast("Vocabularies loaded!", icon="✅")
+                for w in words:
+                    if w.get("level") == level:
+                        word = str(w.get("word", ""))
+                        if st.button(word, type="primary" if word in marked_words else "secondary"):
+                            st.query_params.update({"w": word})
+                            st.rerun()

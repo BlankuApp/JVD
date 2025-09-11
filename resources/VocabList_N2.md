@@ -126,7 +126,7 @@
 | 恨み  | うらみ | resentment |
 | 恨む  | うらむ | to curse,to feel bitter |
 | 羨ましい | うらやましい | envious,enviable |
-| 羨む  | うらやむ | to envy |
+| **羨む**  | うらやむ | to envy |
 | 売上  | うりあげ | amount sold,proceeds |
 | 売り切れ | うりきれ | sold-out |
 | 売り切れる | うりきれる | to be sold out |
@@ -137,7 +137,7 @@
 | 英文  | えいぶん | sentence in English |
 | 英和  | えいわ | English-Japanese (e.g. dictionary) |
 |     | ええと | let me see,well,er.... |
-| 液体  | えきたい | liquid,fluid |
+| **液体**  | えきたい | liquid,fluid |
 |     | エチケット | etiquette |
 | 絵の具 | えのぐ | colors,paints |
 |     | エプロン | apron |
@@ -190,7 +190,7 @@
 | 叔父さん | おじさん | middle-aged gentleman,uncle |
 |     | おしゃれ | smartly dressed,someone smartly dressed,fashion-conscious |
 |     | おじゃまします | Excuse me for disturbing you |
-| 教わる | おそわる | to be taught |
+| **教わる** | おそわる | to be taught |
 |     | おだいじに | Take care of yourself |
 | 落着く | おちつく | to calm down,to settle down |
 | 御手洗 | おてあらい | font of purifying water placed at entrance of shrine |
@@ -233,13 +233,13 @@
 | 貝   | かい  | shell,shellfish |
 | 開会  | かいかい | opening of a meeting |
 | 会館  | かいかん | meeting hall,assembly hall |
-| 改札  | かいさつ | examination of tickets |
+| **改札**  | かいさつ | examination of tickets |
 | 解散  | かいさん | breakup,dissolution |
 | 海水浴 | かいすいよく | sea bathing,seawater bath |
 | 回数  | かいすう | number of times,frequency |
 | 回数券 | かいすうけん | book of tickets |
 | 改正  | かいせい | revision,amendment,alteration |
-| 快晴  | かいせい | good weather |
+| **快晴**  | かいせい | good weather |
 | 解説  | かいせつ | explanation,commentary |
 | 改造  | かいぞう | (1) remodeling,(2) modding (comp) |
 | 開通  | かいつう | opening,open |
@@ -260,7 +260,7 @@
 | 書留  | かきとめ | writing down,putting on record,recording,making a note of,registration (of mail) |
 | 書取  | かきとり | dictation |
 | 垣根  | かきね | hedge |
-| 掻く  | かく  | to scratch,to perspire |
+| **掻く**  | かく  | to scratch,to perspire |
 | 嗅ぐ  | かぐ  | to sniff,to smell |
 | 架空  | かくう | aerial,overhead,fiction,fanciful |
 | 各自  | かくじ | individual,each |
@@ -313,7 +313,7 @@
 | 括弧  | かっこ | parenthesis,brackets |
 | 活字  | かつじ | printing type |
 | 活躍  | かつやく | activity |
-| 活力  | かつりょく | vitality,energy |
+| **活力**  | かつりょく | vitality,energy |
 | 仮定  | かてい | assumption,supposition,hypothesis |
 | 過程  | かてい | process |
 | 課程  | かてい | course,curriculum |
@@ -373,7 +373,7 @@
 | 着替え | きがえ | changing clothes,change of clothes |
 | 機関車 | きかんしゃ | locomotive,engine |
 | 飢饉  | ききん | famine |
-| 器具  | きぐ  | utensil |
+| **器具**  | きぐ  | utensil |
 | 期限  | きげん | term,period |
 | 記号  | きごう | symbol,code |
 | 刻む  | きざむ | to mince,to carve,to engrave |
@@ -410,7 +410,7 @@
 | 斬る  | きる  | (v5r) to behead,to murder |
 | 気を付ける | きをつける | to be careful,to pay attention,to take care |
 | 金魚  | きんぎょ | goldfish |
-| 区域  | くいき | limits,boundary,domain,zone,sphere,territory |
+| **区域**  | くいき | limits,boundary,domain,zone,sphere,territory |
 | 偶数  | ぐうすう | even number |
 | 空想  | くうそう | daydream,fantasy,fancy,vision |
 | 空中  | くうちゅう | sky,air |
@@ -531,7 +531,7 @@
 | 合同  | ごうどう | combination,incorporation,union,amalgamation |
 | 後輩  | こうはい | junior (at work or school) |
 | 公表  | こうひょう | official announcement,proclamation |
-| 鉱物  | こうぶつ | mineral |
+| **鉱物**  | こうぶつ | mineral |
 | 公務  | こうむ | official business,public business |
 | 項目  | こうもく | item |
 | 紅葉  | こうよう | (1) (Japanese) maple |
@@ -595,7 +595,7 @@
 |     | サークル | circle,sports club (i.e. at a company) |
 | 在学  | ざいがく | (enrolled) in school |
 | 再三  | さいさん | again and again,repeatedly |
-| 祭日  | さいじつ | national holiday,festival day |
+| **祭日**  | さいじつ | national holiday,festival day |
 | 催促  | さいそく | request,demand,claim,urge (action),press for |
 | 採点  | さいてん | marking,grading,looking over |
 | 災難  | さいなん | calamity,misfortune |
@@ -635,7 +635,7 @@
 | 錆   | さび  | rust (colour) |
 | 錆びる | さびる | to rust,to become rusty |
 | 座布団 | ざぶとん | cushion (Japanese) |
-| 冷ます | さます | to cool,to dampen,to let cool |
+| **冷ます** | さます | to cool,to dampen,to let cool |
 | 妨げる | さまたげる | to disturb,to prevent |
 | 冷める | さめる | to become cool,to wear off,to abate,to subside |
 |     | さようなら | good-bye |
@@ -674,7 +674,7 @@
 | 始終  | しじゅう | continuously,from beginning to end |
 | 自習  | じしゅう | self-study |
 | 静まる | しずまる | to quieten down,to calm down,to subside |
-| 姿勢  | しせい | attitude,posture |
+| **姿勢**  | しせい | attitude,posture |
 | 自然科学 | しぜんかがく | natural science |
 | 時速  | じそく | speed (per hour) |
 | 子孫  | しそん | descendants,posterity,offspring |

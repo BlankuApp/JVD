@@ -216,9 +216,9 @@ class JPWordCard(Card):
 3. Hints are translations and reading of other words in the sentence except the target word. Make sure the '{self.word}' is not included in the hints. 
 # Example:
 Example for word '参加する' with target language 'English and Persian' and level 'N4':
-Question: I will attend the meeting / من در جلسه شرکت میکنم.
-Answer: 会議(かいぎ)に参加(さんか)する。
-Hints: meeting: 会議(かいぎ)
+Question: I will attend the meeting tomorrow / من فردا در جلسه شرکت میکنم.
+Answer: 明日(あした)会議(かいぎ)に参加(さんか)する。
+Hints: tomorrow: 明日(あした), meeting: 会議(かいぎ)
 # Constraints:
 - Remove '{self.word}' from the hints.
 - The question must be a natural and accurate translation of the answer.
@@ -236,7 +236,13 @@ Hints: meeting: 会議(かいぎ)
                     content="""You are a helpful japanese teacher that is reviewing your student's answer and providing very short and constructive feedback."""
                 ),
                 HumanMessage(
-                    content=f"""The correct answer is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the students's answer is '{user_answer}'.  The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}."""
+                    content=f"""The correct answer is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the students's answer is '{user_answer}'.  The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}.
+* check if the target word '{self.word}' is properly used in the student's answer.
+* ignore if the student's answer is not exactly the same as the correct answer, as long as the target word is used properly.
+* Correct any grammar mistakes in the student's answer.
+* Explain any major mistakes in the student's answer in very short and constructive way with bullet points.
+* Score the student's answer out of 10, deducting points for any mistakes. E.g. (out of 10, 9/10, 8/10, etc.)
+"""
                 ),
             ]
         )  # type: ignore
