@@ -2,10 +2,10 @@ import os
 
 import streamlit as st
 from dotenv import load_dotenv
+from streamlit_cookies_controller import CookieController
 from supabase import Client, create_client
 
 from src.word.JPWord import LANGUAGES_ABBR
-
 
 auth = st.session_state.get("auth", None)
 
@@ -32,6 +32,8 @@ def login_modal():
                     }
                 )
                 if response.user is not None and response.session is not None:
+                    import time
+
                     st.toast("Login successful!", icon="✅")
                     auth = {
                         **response.user.user_metadata,
@@ -41,6 +43,8 @@ def login_modal():
                         "refresh_token": response.session.refresh_token,
                     }
                     st.session_state["auth"] = auth
+                    CookieController().set("jvd_token", response.session.access_token, secure=True, same_site="strict")
+                    time.sleep(1)
                     st.rerun()
 
                 else:

@@ -211,7 +211,7 @@ class JPWordCard(Card):
                 ),
                 HumanMessage(
                     content=f"""# Tasks
-1. Generate a simple, natural and short, {jlpt_level} level sentence with '{self.word}' as the answer. You can use the collocation '{random_collocation}' as a template.
+1. Generate a random, natural (daily life) and short, {jlpt_level} level sentence with '{self.word}' as the answer. You can use the collocation '{random_collocation}' as an sample context, but don't dirrectly use the collocation in the sentence. Except the target word '{self.word}', please make sure to use random words that are within the {jlpt_level} level.
 2. provide the accurate and natural translation of answer in {" and ".join(target_languages[:2])} as the question. The kanjis in the question sentence should be followed by its hiragana reading in parentheses.
 3. Hints are translations and reading of other words in the sentence except the target word. Make sure the '{self.word}' is not included in the hints. 
 # Example:
@@ -237,11 +237,15 @@ Hints: tomorrow: 明日(あした), meeting: 会議(かいぎ)
                 ),
                 HumanMessage(
                     content=f"""The correct answer is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the students's answer is '{user_answer}'.  The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}.
-* check if the target word '{self.word}' is properly used in the student's answer.
-* ignore if the student's answer is not exactly the same as the correct answer, as long as the target word is used properly.
-* Correct any grammar mistakes in the student's answer.
-* Explain any major mistakes in the student's answer in very short and constructive way with bullet points.
+* check if the target word '{self.word}' is properly used in the student's answer if not the final score should be 0/10.
+* Correct any grammar mistakes in the student's answer with explanation.
+* Don't mention and ignore minor differences such as verb forms, politeness level, etc. and focus on the overall meaning and proper use of the target word.
 * Score the student's answer out of 10, deducting points for any mistakes. E.g. (out of 10, 9/10, 8/10, etc.)
+* add some markdown formatting and many emojis to make it more engaging and easier to read.
+Output format:
+### Review [with proper emojis]
+[Your review here with proper emojis (no headings at all)]
+### Overall Score: [score]/10 [with proper emojis]
 """
                 ),
             ]
