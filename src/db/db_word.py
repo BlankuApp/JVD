@@ -172,4 +172,4 @@ if __name__ == "__main__":
             w.in_db = True
             with open(f"resources/words/{file}.json", "w", encoding="utf-8") as f:
                 f.write(w.model_dump_json(indent=4))
-            print(f"Added {w.word} to DB")
+            print(f"Added {w.word} to DB as JLPT N{w.jlpt_level}")

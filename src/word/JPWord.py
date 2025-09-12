@@ -126,11 +126,11 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     synonyms: list[str] = Field(
         default=[],
-        description="List the 1-2 most commonly used synonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
+        description="List the 1-2 most commonly used synonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no synonyms found.",
     )
     synonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings.
+        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings. If no synonyms found, say it has no synonyms.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common synonyms of the [word] are ..."
@@ -139,11 +139,11 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     antonyms: list[str] = Field(
         default=[],
-        description="List the 1-2 most commonly used antonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
+        description="List the 1-2 most commonly used antonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no antonyms found.",
     )
     antonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings.
+        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings. If no antonyms found, say it has no antonyms.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common antonyms of the [word] are ..."
@@ -234,7 +234,7 @@ class JPWord(BaseModel):
     @property
     def jlpt_level(self) -> int:
         levels = [JLPT_LEVELS_MAP.get(level.lower(), 6) for level in self.jlpt]
-        return min(levels) if levels else 6
+        return max(levels) if levels else 6
 
     def model_post_init(self, __context) -> None:
         if self.meanings or self.kanjis or self.explanations:
@@ -352,6 +352,7 @@ class JPWord(BaseModel):
                 self.antonyms.append(a)
 
     def save_json(self) -> None:
+        print(f"Saving {self.word} to JSON...")
         os.makedirs(f"Output/{self.word}", exist_ok=True)
         with open(f"Output/{self.word}/{self.word}.json", "w", encoding="utf-8") as f:
             # f.write(self.model_dump_json(indent=4))
@@ -850,19 +851,17 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    # "羨む",
-    # "液体",
-    # "教わる",
-    # "掻く",
-    # "活力",
-    # "区域",
-    # "器具",
-    # "改札",
-    # "快晴",
-    # "祭日",
-    # "姿勢",
-    # "冷ます",
-    # "鉱物",
+    # "浅い",
+    # "原因",
+    # "心配",
+    # "珍しい",
+    # "眠い",
+    # "旅館",
+    # "割れる",
+    # "沸かす",
+    # "日記",
+    # "床屋",
+    # "漬ける",
 ]
 
 
@@ -874,9 +873,9 @@ if __name__ == "__main__":
     status.start()
 
     for word in word_list:
-        w = JPWord(word=word, llm=llm_4o_openai)
-        w.save_json()
-        # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+        # w = JPWord(word=word, llm=llm_4o_openai)
+        # w.save_json()
+        w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
         w.tts()
         w.pptx_generation()
         console.print(f"Finished processing word: {word}")
