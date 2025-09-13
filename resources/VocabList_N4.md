@@ -8,7 +8,7 @@
 | 赤ん坊 | あかんぼう | baby |
 | 空く  | あく  | to open, to become empty |
 |     | あげる | to give |
-| 浅い  | あさい | shallow,superficial |
+| **浅い**  | あさい | shallow,superficial |
 | 味   | あじ  | flavour |
 | 明日  | あす  | tomorrow |
 | 遊び  | あそび | play |
@@ -187,7 +187,7 @@
 | 下宿  | げしゅく | lodging |
 | 決して | けっして | never |
 |     | けれど/けれども | however |
-| 原因  | げんいん | cause,source |
+| **原因**  | げんいん | cause,source |
 |     | けんか・する | to quarrel |
 | 研究  | けんきゅう | research |
 | 研究室 | けんきゅうしつ | study room,laboratory |
@@ -295,7 +295,7 @@
 | 人口  | じんこう | population |
 | 神社  | じんじゃ | Shinto shrine |
 | 親切  | しんせつ | kindness |
-| 心配  | しんぱい・する | to worry |
+| **心配**  | しんぱい・する | to worry |
 | 新聞社 | しんぶんしゃ | newspaper company |
 | 水泳  | すいえい | swimming |
 | 水道  | すいどう | water supply |
@@ -388,7 +388,7 @@
 | 捕まえる | つかまえる | to seize |
 |     | つき  | moon |
 | 付く  | つく  | to be attached |
-| 漬ける | つける | to soak,to pickle |
+| **漬ける** | つける | to soak,to pickle |
 | 都合  | つごう | circumstances,convenience |
 | 伝える | つたえる | to report |
 | 続く  | つづく | to be continued |
@@ -420,7 +420,7 @@
 | 通る  | とおる | to go through |
 | 特に  | とくに | particularly,especially |
 | 特別  | とくべつ | special |
-|     | とこや | barber |
+|     | **とこや** | barber |
 | 途中  | とちゅう | on the way |
 | 特急  | とっきゅう | limited express train (faster than an express train) |
 | 届ける | とどける | to reach |
@@ -446,7 +446,7 @@
 | 苦い  | にがい | bitter |
 | 二階建て | にかいだて | two storied |
 | 逃げる | にげる | to escape |
-| 日記  | にっき | journal |
+| **日記**  | にっき | journal |
 | 入院  | にゅういん・する | to hospitalise |
 | 入学  | にゅうがく・する | to enter school or university |
 | 似る  | にる  | to be similar |
@@ -458,7 +458,7 @@
 | 熱   | ねつ  | fever |
 |     | ねっしん | enthusiasm |
 | 寝坊  | ねぼう | sleeping in late |
-| 眠い  | ねむい | sleepy |
+| **眠い**  | ねむい | sleepy |
 | 眠る  | ねむる | to sleep |
 | 残る  | のこる | to remain |
 |     | のど  | throat |
@@ -563,7 +563,7 @@
 | 娘   | むすめ | (humble) daughter |
 | 無理  | むり  | impossible |
 | 召し上がる | めしあがる | (polite) to eat |
-| 珍しい | めずらしい | rare |
+| **珍しい** | めずらしい | rare |
 | 申し上げる | もうしあげる | (humble) to say,to tell |
 | 申す  | もうす | (humble) to be called,to say |
 |     | もうすぐ | soon |
@@ -605,7 +605,7 @@
 | 理由  | りゆう | reason |
 | 利用  | りよう | utilization |
 | 両方  | りょうほう | both sides |
-| 旅館  | りょかん | Japanese hotel |
+| **旅館**  | りょかん | Japanese hotel |
 | 留守  | るす  | absence |
 | 冷房  | れいぼう | air conditioning |
 | 歴史  | れきし | history |
@@ -613,12 +613,12 @@
 |     | レポート/リポート | report |
 | 連絡  | れんらく | contact |
 |     | ワープロ | word processor |
-| 沸かす | わかす | to boil,to heat |
+| **沸かす** | わかす | to boil,to heat |
 | 別れる | わかれる | to separate |
 | 沸く  | わく  | to boil, to grow hot,to get excited |
 | 訳   | わけ  | meaning,reason |
 | 忘れ物 | わすれもの | lost article |
 | 笑う  | わらう | to laugh,to smile |
 | 割合  | わりあい | rate,ratio,percentage |
-| 割れる | われる | to break |
+| **割れる** | われる | to break |
 | 泳ぎ方 | およぎかた | way of swimming |

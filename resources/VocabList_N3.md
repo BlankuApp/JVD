@@ -798,7 +798,7 @@
 | 需要 | じゅよう | demand,request |
 | 種類 | しゅるい | variety,kind,type |
 | 順 | じゅん | order,turn |
-| 瞬間 | しゅんかん | moment,second,instant |
+| **瞬間** | しゅんかん | moment,second,instant |
 | 順調 | じゅんちょう | favourable,doing well,O.K.,all right |
 | 順番 | じゅんばん | turn (in line),order of things |
 | 準備 | じゅんび | preparation,arrangements,provision,reserve |
@@ -815,7 +815,7 @@
 | 条件 | じょうけん | conditions,terms |
 | 正午 | しょうご | noon,mid-day |
 | 正直 | しょうじき | honesty,integrity,frankness |
-| 常識 | じょうしき | common sense |
+| **常識** | じょうしき | common sense |
 | 少女 | しょうじょ | daughter,young lady,virgin,maiden,little girl |
 | 少々 | しょうしょう | just a minute,small quantity |
 | 症状 | しょうじょう | symptoms,condition |
@@ -827,7 +827,7 @@
 | 承知 | しょうち | consent,acceptance,assent,admitting |
 | 上等 | じょうとう | superiority,first class,very good |
 | 衝突 | しょうとつ | collision,conflict |
-| 商人 | しょうにん | trader,shopkeeper,merchant |
+| **商人** | しょうにん | trader,shopkeeper,merchant |
 | 承認 | しょうにん | recognition,acknowledgement,approval,consent,agreement |
 | 少年 | しょうねん | boys,juveniles |
 | 商売 | しょうばい | trade,business,commerce,transaction,occupation |
@@ -896,7 +896,7 @@
 | 数 | すう | number,figure |
 | 数字 | すうじ | numeral,figure |
 |  | スープ | (Western) soup |
-| 末 | すえ | the end of,powder |
+| **末** | すえ | the end of,powder |
 | 姿 | すがた | figure,shape,appearance |
 |  | スキー | skiing |
 | 空く | すく | (1) to open,to become empty,(2) to be less crowded |
@@ -957,7 +957,7 @@
 | 生命 | せいめい | life,existence |
 | 整理 | せいり | sorting,arrangement,adjustment,regulation |
 | 咳 | せき | cough |
-| 石炭 | せきたん | coal |
+| **石炭** | せきたん | coal |
 | 責任 | せきにん | duty,responsibility |
 | 石油 | せきゆ | oil,petroleum,kerosene |
 | 世間 | せけん | world,society |
@@ -1002,7 +1002,7 @@
 |  | そこで | so (conj),accordingly,now,then,thereupon |
 | 組織 | そしき | (1) organization,(2) structure,construction,(3) tissue,(4) system |
 |  | そして | and |
-| 注ぐ | そそぐ | to pour (into),to irrigate,to pay,to fill,to feed (e.g. a fire) |
+| **注ぐ** | そそぐ | to pour (into),to irrigate,to pay,to fill,to feed (e.g. a fire) |
 | 育つ | そだつ | to raise (child),to be brought up,to grow (up) |
 |  | そっくり | all,altogether,entirely,be just like,the splitting image of |
 |  | そっと | face of the earth |
@@ -1048,13 +1048,13 @@
 | 大統領 | だいとうりょう | president,chief executive |
 | 大半 | たいはん | majority,mostly,generally |
 | 代表 | だいひょう | representative,representation,delegation,type,example,model |
-| 大部分 | だいぶぶん | most part,greater part,majority |
+| **大部分** | だいぶぶん | most part,greater part,majority |
 |  | タイプライター | typewriter |
 | 大変 | たいへん | awful,dreadful,terrible,very |
 | 逮捕 | たいほ | arrest,apprehension,capture |
 |  | ダイヤ | (1) dyer,(2) diagram,(3) (railway) schedule,(4) diamond |
 | 太陽 | たいよう | sun,solar |
-| 平ら | たいら | flatness,level,smooth,calm,plain |
+| **平ら** | たいら | flatness,level,smooth,calm,plain |
 | 代理 | だいり | representation,agency,proxy,deputy,agent |
 | 大陸 | たいりく | continent |
 | 倒す | たおす | to throw down,to beat,to bring down,to blow down |
@@ -1162,7 +1162,7 @@
 | 通行 | つうこう | passage,passing |
 | 通じる | つうじる | to run to,to lead to,to communicate,to understand |
 | 通信 | つうしん | correspondence,communication,news,signal |
-| 捕まる | つかまる | to be caught,to be arrested |
+| **捕まる** | つかまる | to be caught,to be arrested |
 | 掴む | つかむ | to seize,to catch,to grasp |
 | 疲れ | つかれ | tiredness,fatigue |
 | 月 | つき | moon,month |
@@ -1190,7 +1190,7 @@
 |  | で | outflow,coming (going) out,graduate (of) |
 | 出会い | であい | meeting,rendezvous,encounter |
 | 出会う | であう | to meet by chance,to come across,to happen to encounter |
-| 提案 | ていあん | proposal,proposition,suggestion |
+| **提案** | ていあん | proposal,proposition,suggestion |
 | 定期 | ていき | fixed term |
 | 抵抗 | ていこう | electrical resistance,resistance,opposition |
 | 提出 | ていしゅつ | presentation,submission,filing |
@@ -1264,7 +1264,7 @@
 | 都市 | とし | town,city,municipal,urban |
 | 年月 | としつき | months and years |
 | 図書 | としょ | books |
-| 年寄 | としより | old people,the aged |
+| **年寄** | としより | old people,the aged |
 | 閉じる | とじる | to close (e.g. book, eyes),to shut |
 | 途端 | とたん | just (now, at the moment, etc.) |
 | 土地 | とち | plot of land,lot,soil |
@@ -1356,7 +1356,7 @@
 | 願う | ねがう | to desire,to wish,to request |
 | 鼠 | ねずみ | (1) mouse,rat,(2) dark gray,slate color |
 | 値段 | ねだん | price,cost |
-| 熱心 | ねっしん | zeal,enthusiasm |
+| **熱心** | ねっしん | zeal,enthusiasm |
 | 熱帯 | ねったい | tropics |
 | 熱中 | ねっちゅう | nuts!,enthusiasm,zeal,mania |
 | 年間 | ねんかん | year |
@@ -1513,7 +1513,7 @@
 | 不幸 | ふこう | unhappiness,sorrow,misfortune,disaster,accident,death |
 | 節 | ふし | tune,tone,knot,knob,point |
 | 無事 | ぶじ | safety,peace,quietness |
-| 不思議 | ふしぎ | mystery,curiosity |
+| **不思議** | ふしぎ | mystery,curiosity |
 | 不自由 | ふじゆう | discomfort,disability,inconvenience,destitution |
 | 夫人 | ふじん | wife,Mrs,madam |
 | 婦人 | ふじん | woman,female |
@@ -1646,7 +1646,7 @@
 | 実 | み | fruit,nut,seed,content,good result |
 | 見送り | みおくり | seeing one off,farewell,escort |
 | 味方 | みかた | friend,ally,supporter |
-| 見事 | みごと | splendid,magnificent,beautiful,admirable |
+| **見事** | みごと | splendid,magnificent,beautiful,admirable |
 |  | ミス | miss (mistake, error, failure),Miss |
 | 満ちる | みちる | to be full,to rise (tide),to mature,to expire |
 | 密 | みつ |  |

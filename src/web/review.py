@@ -107,10 +107,10 @@ if st.session_state.review_state == "answer":
         label_visibility="collapsed",
         width="stretch",
     )
+    jp_word_card: JPWordCard = st.session_state.current_card["jpword"]
     if st.button("Submit Answer", type="primary", width="stretch"):
-        jp_word_card: JPWordCard = st.session_state.current_card["jpword"]
         rating = RATING_DICT[st.session_state["review_difficulty"]]
-        sch = Scheduler(enable_fuzzing=False)
+        sch = Scheduler(enable_fuzzing=True, desired_retention=0.95)
         review_datetime = datetime.now(timezone.utc)
         jp_word_card, review_log = sch.review_card(jp_word_card, rating, review_datetime)
         success, msg = update_user_word_card(
@@ -126,3 +126,6 @@ if st.session_state.review_state == "answer":
         st.session_state["due_review_count"] = max(st.session_state.get("due_review_count", 0) - 1, 0)
         st.toast(msg, icon="✅" if success else "❌")
         reset_review_session()
+    youtube_link = jp_word_card._jp_word.youtube_link
+    if youtube_link:
+        st.video(youtube_link)

@@ -133,7 +133,7 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
         description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings. If no synonyms found, say it has no synonyms.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
-2. Explanation starts with English phrases such as:  "The most common synonyms of the [word] are ..."
+2. Explanation starts with English phrases such as:  "The most common synonyms of the [word] [are/is] ..."
 3. Very shortly explain the nuances of each synonym and antonym listed, and how they differ from the original word.
 """,
     )
@@ -146,7 +146,7 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
         description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings. If no antonyms found, say it has no antonyms.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
-2. Explanation starts with English phrases such as:  "The most common antonyms of the [word] are ..."
+2. Explanation starts with English phrases such as:  "The most common antonyms of the [word] [are/is] ..."
 3. Very shortly explain the nuances of each synonym and antonym listed, and how they differ from the original word.
 """,
     )
@@ -298,8 +298,7 @@ class JPWord(BaseModel):
                     "content": [
                         {
                             "type": "input_text",
-                            "text": '# Role\r\nYou are a teacher assistant gathering materials Japanese kanjis to students with intermediate English and beginner Japanese skills.\r\n\r\n# Task\r\nWrite in a natural, conversational transcript of a teacher explaining the kanji, its meanings and readings. for each kanji (in the order it appears), compose one 3-4 short sentence paragraph that: \n1. Describes the kanji’s core meaning.\r\n2. except the original word, Presents the 1-2 vocabularies that use that kanji, and how this kanji gives meaning in this vocabulary. \n\r\n# Constrains\r\n* Explanation field is the transcription of a speech. Don\'t use bullet points, parenthesis, new lines, titles, or anything similar.\r\n* Do not include the original word in the vocabs.\r\n* In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.\r\n* Explanation starts with English phrases such as:  "The first kanji means ..."\n\nOutput format in json:\n{\n"word": "the given word"\n"kanjies": [\n{"kanji": "first kanji",\n"meaning": "all meanings",\n"vocabs": [{"word":"word in kanji", "hiragana": "hiragana", "meaning";"meaning"}, ...]\n}, ...\n],\n"explanation": "string"\n}\n',
-                            # "text": '# Role\r\nYou are a teacher assistant gathering materials Japanese kanjis to students with intermediate English and beginner Japanese skills.\r\n\r\n# Task\r\nWrite in a natural, conversational transcript of a teacher explaining the kanji, its meanings and readings. for each kanji (in the order it appears), compose one 3-4 short sentence paragraph that: \n1. Describes the kanji’s core meaning.\r\n2. Presents the 1-2 vocabularies that use that kanji, and how this kanji gives meaning in this vocabulary. \n\r\n# Constrains\r\n* Explanation field is the transcription of a speech. Don\'t use bullet points, parenthesis, new lines, titles, or anything similar.\r\n* In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.\r\n* Explanation starts with English phrases such as:  "The first kanji means ..."\n\nOutput format in json:\n{\n"word": "the given word"\n"kanjies": [\n{"kanji": "first kanji",\n"meaning": "all meanings",\n"vocabs": [{"word":"word in kanji", "hiragana": "hiragana", "meaning";"meaning"}, ...]\n}, ...\n],\n"explanation": "string"\n}\n',
+                            "text": '# Role\r\nYou are a teacher assistant gathering materials Japanese kanjis to students with intermediate English and beginner Japanese skills.\r\n\r\n# Task\r\nWrite in a natural, conversational transcript of a teacher explaining the kanji, its meanings and readings. for each kanji (in the order it appears), compose one 3-4 short sentence paragraph that: \n1. Describes the kanji’s core meaning.\r\n2. except the original word, Presents the 1-2 vocabularies that use that kanji, and how this kanji gives meaning in this vocabulary. \n\r\n# Constrains\r\n* Explanation field is the transcription of a speech. Don\'t use bullet points, parenthesis, new lines, titles, or anything similar.\r\n* Do not include the original word in the vocabs.\r\n* In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis.\r\n* Explanation starts with English phrases such as:  "The [first/second/...] kanji means ..."\n\nOutput format in json:\n{\n"word": "the given word"\n"kanjies": [\n{"kanji": "first kanji",\n"meaning": "all meanings",\n"vocabs": [{"word":"word in kanji", "hiragana": "hiragana", "meaning";"meaning"}, ...]\n}, ...\n],\n"explanation": "string"\n}\n',
                         }
                     ],
                 },
@@ -352,7 +351,6 @@ class JPWord(BaseModel):
                 self.antonyms.append(a)
 
     def save_json(self) -> None:
-        print(f"Saving {self.word} to JSON...")
         os.makedirs(f"Output/{self.word}", exist_ok=True)
         with open(f"Output/{self.word}/{self.word}.json", "w", encoding="utf-8") as f:
             # f.write(self.model_dump_json(indent=4))
@@ -851,17 +849,19 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    # "浅い",
-    # "原因",
-    # "心配",
-    # "珍しい",
-    # "眠い",
-    # "旅館",
-    # "割れる",
-    # "沸かす",
-    # "日記",
-    # "床屋",
-    # "漬ける",
+    # "見事",
+    # "熱心",
+    # "不思議",
+    # "年寄り",
+    # "提案",
+    # "捕まる",
+    "末",
+    "平ら",
+    "注ぐ",
+    "石炭",
+    "商人",
+    "常識",
+    "瞬間",
 ]
 
 
@@ -873,9 +873,9 @@ if __name__ == "__main__":
     status.start()
 
     for word in word_list:
-        # w = JPWord(word=word, llm=llm_4o_openai)
-        # w.save_json()
-        w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+        w = JPWord(word=word, llm=llm_4o_openai)
+        w.save_json()
+        # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
         w.tts()
         w.pptx_generation()
         console.print(f"Finished processing word: {word}")
