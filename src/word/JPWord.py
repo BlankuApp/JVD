@@ -433,7 +433,7 @@ class JPWord(BaseModel):
         presentation_subtitle.text_frame.paragraphs[0].font.color.rgb = RGBColor(192, 79, 21)  # type: ignore
 
         first_slide.shapes.add_movie(
-            f"./output/{word}/audio/0_title.wav",
+            f"./output/{self.word}/audio/0_title.wav",
             left=Pt(0),
             top=Pt(-50),
             width=Pt(50),
@@ -493,7 +493,7 @@ class JPWord(BaseModel):
                     run_translation.font.color.rgb = RGBColor(0, 0, 0)
 
         explanation_slide.shapes.add_movie(
-            f"./output/{word}/audio/0_definition.wav",
+            f"./output/{self.word}/audio/0_definition.wav",
             left=Pt(0),
             top=Pt(-50),
             width=Pt(50),
@@ -560,7 +560,7 @@ class JPWord(BaseModel):
             p.line_spacing = 0.9
 
         kanji_slide.shapes.add_movie(
-            f"./output/{word}/audio/0_kanji.wav",
+            f"./output/{self.word}/audio/0_kanji.wav",
             left=Pt(0),
             top=Pt(-50),
             width=Pt(50),
@@ -650,7 +650,7 @@ class JPWord(BaseModel):
                 run_translation.font.bold = False
                 run_translation.font.name = "Berlin Sans FB"
             collocation_slide.shapes.add_movie(
-                f"./output/{word}/audio/0_example_{i}.wav",
+                f"./output/{self.word}/audio/0_example_{i}.wav",
                 left=Pt(0),
                 top=Pt(-50),
                 width=Pt(50),
@@ -722,7 +722,7 @@ class JPWord(BaseModel):
         antonyms_shape.text_frame.paragraphs[0].alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
 
         synonyms_slide.shapes.add_movie(
-            f"./output/{word}/audio/0_synonyms_antonyms.mp3",
+            f"./output/{self.word}/audio/0_synonyms_antonyms.mp3",
             left=Pt(0),
             top=Pt(-50),
             width=Pt(50),
@@ -737,7 +737,7 @@ class JPWord(BaseModel):
         client = openai.OpenAI(api_key=os.getenv("openai_api_key"))
 
         # First segment
-        explanation_audio_path = f"./output/{word}/audio/word_explanation.mp3"
+        explanation_audio_path = f"./output/{self.word}/audio/word_explanation.mp3"
         if not os.path.exists(explanation_audio_path) and self.explanations:
             status.update("Generating audio for word explanation")
             response = client.audio.speech.create(
@@ -751,7 +751,7 @@ class JPWord(BaseModel):
             with open(explanation_audio_path, "wb") as audio_file:
                 audio_file.write(response.content)
 
-        motivation_audio_path = f"./output/{word}/audio/motivation.mp3"
+        motivation_audio_path = f"./output/{self.word}/audio/motivation.mp3"
         if not os.path.exists(motivation_audio_path) and self.explanations:
             status.update("Generating audio for motivation")
             response = client.audio.speech.create(
@@ -766,16 +766,16 @@ class JPWord(BaseModel):
                 audio_file.write(response.content)
 
         title_audio = AudioSegment.from_mp3(motivation_audio_path)
-        with open(f"./output/{word}/audio/0_title.wav", "wb") as title_file:
+        with open(f"./output/{self.word}/audio/0_title.wav", "wb") as title_file:
             title_audio.export(title_file, format="wav")
 
         definition_audio = AudioSegment.from_mp3(explanation_audio_path)
 
-        with open(f"./output/{word}/audio/0_definition.wav", "wb") as word_file:
+        with open(f"./output/{self.word}/audio/0_definition.wav", "wb") as word_file:
             definition_audio.export(word_file, format="wav")
 
         # Second segment
-        kanji_explanation_path = f"./output/{word}/audio/kanji_explanation.mp3"
+        kanji_explanation_path = f"./output/{self.word}/audio/kanji_explanation.mp3"
         if not os.path.exists(kanji_explanation_path):
             status.update("Generating audio for Kanji explanation")
             response = client.audio.speech.create(
@@ -790,12 +790,12 @@ class JPWord(BaseModel):
                 audio_file.write(response.content)
 
         kanji_audio = AudioSegment.from_mp3(kanji_explanation_path)
-        with open(f"./output/{word}/audio/0_kanji.wav", "wb") as kanji_file:
+        with open(f"./output/{self.word}/audio/0_kanji.wav", "wb") as kanji_file:
             kanji_audio.export(kanji_file, format="wav")
 
         for i, example in enumerate(self.examples[:num_examples]):
-            example_jp_audio_path = f"./output/{word}/audio/example_jp_{i}.mp3"
-            example_en_audio_path = f"./output/{word}/audio/example_en_{i}.mp3"
+            example_jp_audio_path = f"./output/{self.word}/audio/example_jp_{i}.mp3"
+            example_en_audio_path = f"./output/{self.word}/audio/example_en_{i}.mp3"
             if not os.path.exists(example_jp_audio_path):
                 status.update(f"Generating audio for example {i}")
                 response = client.audio.speech.create(
@@ -829,11 +829,11 @@ class JPWord(BaseModel):
             example_audio += AudioSegment.silent(duration=500)
             example_audio += example_jp_audio_segment
 
-            with open(f"./output/{word}/audio/0_example_{i}.wav", "wb") as example_file:
+            with open(f"./output/{self.word}/audio/0_example_{i}.wav", "wb") as example_file:
                 example_audio.export(example_file, format="wav")
 
         # Generate audio for synonyms and antonyms
-        synonyms_audio_path = f"./output/{word}/audio/0_synonyms_antonyms.mp3"
+        synonyms_audio_path = f"./output/{self.word}/audio/0_synonyms_antonyms.mp3"
         if not os.path.exists(synonyms_audio_path) and self.explanations:
             status.update("Generating audio for synonyms")
             response = client.audio.speech.create(
@@ -849,19 +849,15 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    # "見事",
-    # "熱心",
-    # "不思議",
-    # "年寄り",
-    # "提案",
-    # "捕まる",
-    "末",
-    "平ら",
-    "注ぐ",
-    "石炭",
-    "商人",
-    "常識",
-    "瞬間",
+    # "最も",
+    # "割る",
+    # "機嫌",
+    # "偶然",
+    # "恐らく",
+    # "容易",
+    # "失業",
+    # "勇気",
+    # "加える",
 ]
 
 
@@ -873,9 +869,9 @@ if __name__ == "__main__":
     status.start()
 
     for word in word_list:
-        w = JPWord(word=word, llm=llm_4o_openai)
-        w.save_json()
-        # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+        # w = JPWord(word=word, llm=llm_4o_openai)
+        # w.save_json()
+        w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
         w.tts()
         w.pptx_generation()
         console.print(f"Finished processing word: {word}")

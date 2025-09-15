@@ -215,7 +215,7 @@
 |  | おじいさん | grandfather,male senior-citizen |
 |  | おしゃべり | chattering,talk,idle talk |
 | 汚染 | おせん | pollution,contamination |
-|  | おそらく | perhaps |
+|  | **おそらく** | perhaps |
 | 恐れる | おそれる | to fear,to be afraid of |
 | 恐ろしい | おそろしい | terrible,dreadful |
 | お互い | おたがい | mutual,reciprocal,each other |
@@ -382,7 +382,7 @@
 | 機関 | きかん | organ,mechanism,facility,engine |
 | 企業 | きぎょう | enterprise,undertaking |
 | 効く | きく | to be effective |
-| 機嫌 | きげん | humour,temper,mood |
+| **機嫌** | きげん | humour,temper,mood |
 | 気候 | きこう | climate |
 | 岸 | きし | bank,coast,shore |
 <!-- | **生地** | きじ | birthplace | -->
@@ -464,7 +464,7 @@
 | 九 | く | nine |
 | 句 | く | sentence |
 | 食う | くう | (male) (vulg) to eat |
-| 偶然 | ぐうぜん | (by) chance,unexpectedly,suddenly |
+| **偶然** | ぐうぜん | (by) chance,unexpectedly,suddenly |
 | 臭い | くさい | odour,scent,smell,stench |
 | 鎖 | くさり | chain |
 | 腐る | くさる | to rot,to go bad |
@@ -495,7 +495,7 @@
 | 苦しむ | くるしむ | to suffer,to groan,to be worried |
 | 暮れ | くれ | year end,sunset,nightfall,end |
 | 苦労 | くろう | troubles,hardships |
-| 加える | くわえる | to append,to sum up,to add (up) |
+| **加える** | くわえる | to append,to sum up,to add (up) |
 | **詳しい** | くわしい | knowing very well,detailed,full,accurate |
 | 加わる | くわわる | to join in,to accede to,to increase,to gain in (influence) |
 | 訓 | くん | native Japanese reading of a Chinese character |
@@ -725,7 +725,7 @@
 | 親しい | したしい | intimate,close (e.g. friend) |
 | 七 | しち | seven |
 | 質 | しつ | quality,nature (of person) |
-| 失業 | しつぎょう | unemployment |
+| **失業** | しつぎょう | unemployment |
 | 実験 | じっけん | experiment |
 | 実現 | じつげん | implementation,materialization,realization |
 | 実行 | じっこう | practice,performance,execution (e.g. program),realization |
@@ -1701,7 +1701,7 @@
 | 持ち上げる | もちあげる | to raise,to lift up,to flatter |
 | 用いる | もちいる | to use,to make use of |
 | 勿論 | もちろん | of course,certainly,naturally |
-| 最も | もっとも | most,extremely |
+| **最も** | もっとも | most,extremely |
 | 尤も | もっとも | quite right,plausible,natural,but then,although |
 | 元 | もと | (1) origin,original,(2) former |
 | 基 | もと | basis |
@@ -1731,7 +1731,7 @@
 | 辞める | やめる | to retire |
 |  | やや | a little,partially,somewhat,a short time,a while |
 | 唯一 | ゆいいつ | only,sole,unique |
-| 勇気 | ゆうき | courage,bravery,valour,nerve,boldness |
+| **勇気** | ゆうき | courage,bravery,valour,nerve,boldness |
 | 有効 | ゆうこう | validity,availability,effectiveness |
 | 優秀 | ゆうしゅう | superiority,excellence |
 | 優勝 | ゆうしょう | overall victory,championship |
@@ -1754,7 +1754,7 @@
 | 夜明け | よあけ | dawn,daybreak |
 | 様 | よう | way,manner,kind |
 | 酔う | よう | to get drunk,to become intoxicated |
-| 容易 | ようい | easy,simple,plain |
+| **容易** | ようい | easy,simple,plain |
 | 陽気 | ようき | season,weather,cheerfulness |
 | 要求 | ようきゅう | request,demand,requisition |
 | 用心 | ようじん | care,precaution,guarding,caution |
@@ -1828,7 +1828,7 @@
 | 綿 | わた | cotton,padding |
 | 話題 | わだい | topic,subject |
 | 笑い | わらい | laugh,laughter,smile |
-| 割る | わる | to divide,to cut,to break,to halve |
+| **割る** | わる | to divide,to cut,to break,to halve |
 | 悪口 | わるくち | abuse,insult,slander,evil speaking |
 | 我々 | われわれ | we |
 | 湾 | わん | bay,gulf,inlet |
