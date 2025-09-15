@@ -28,7 +28,7 @@
 |     | いじめる | to tease |
 | 以上  | いじょう | more than,this is all |
 | 急ぐ  | いそぐ | to hurry |
-| 致す  | いたす | (humble) to do |
+| **致す**  | いたす | (humble) to do |
 | 一度  | いちど | once |
 | 一生懸命 | いっしょうけんめい | with utmost effort |
 |     | いっぱい | full |
@@ -55,7 +55,7 @@
 |     | うれしい | glad |
 | 運転  | うんてん・する | to drive |
 | 運転手 | うんてんしゅ | driver |
-| 運動  | うんどう・する | to exercise |
+| **運動**  | うんどう・する | to exercise |
 | 枝   | えだ  | branch, twig |
 | 選ぶ  | えらぶ | to choose |
 | 遠慮  | えんりょ・する | to be reserved, to be restrained |
@@ -72,7 +72,7 @@
 | 起す  | おこす | to wake |
 | 行う  | おこなう | to do |
 | 怒る  | おこる | to get angry,to be angry |
-| 押し入れ | おしいれ | closet |
+| **押し入れ** | おしいれ | closet |
 | お嬢さん | おじょうさん | young lady |
 | お宅  | おたく | (polite) your house |
 | 落る  | おちる | to fall or drop |
@@ -93,7 +93,7 @@
 | 表   | おもて | the front |
 | 親   | おや  | parents |
 | 下りる | おりる | to get off |
-| 折る  | おる  | to break or to fold |
+| **折る**  | おる  | to break or to fold |
 | お礼  | おれい | expression of gratitude |
 | 折れる | おれる | to break or be folded |
 | 終わり | おわり | the end |
@@ -159,7 +159,7 @@
 | 客   | きゃく | guest,customer |
 | 急   | きゅう | urgent, steep |
 | 急行  | きゅうこう | speedy, express |
-| 教育  | きょういく | education |
+| **教育**  | きょういく | education |
 | 教会  | きょうかい | church |
 | 競争  | きょうそう | competition |
 | 興味  | きょうみ | an interest |
@@ -205,7 +205,7 @@
 | 講堂  | こうどう | auditorium |
 | 高等学校 | こうとうがっこう | high school |
 | 公務員 | こうむいん | government worker |
-| 国際  | こくさい | international |
+| **国際**  | こくさい | international |
 | 心   | こころ | core,heart |
 | 御主人 | ごしゅじん | (honorable) your husband |
 | 故障  | こしょう・する | to break-down |
@@ -280,7 +280,7 @@
 | 出席  | しゅっせき・する | to attend |
 | 出発  | しゅっぱつ・する | to depart |
 | 趣味  | しゅみ | hobby |
-| 準備  | じゅんび・する | to prepare |
+| **準備**  | じゅんび・する | to prepare |
 | 紹介  | しょうかい | introduction |
 | 小学校 | しょうがっこう | elementary school |
 | 小説  | しょうせつ | novel |
@@ -474,7 +474,7 @@
 | 始める | はじめる | to begin |
 | 場所  | ばしょ | location |
 |     | はず  | it should be so |
-| 恥ずかしい | はずかしい | embarrassed |
+| **恥ずかしい** | はずかしい | embarrassed |
 |     | パソコン | personal computer |
 | 発音  | はつおん | pronunciation |
 |     | はっきり | clearly |
@@ -544,7 +544,7 @@
 |     | または | or,otherwise |
 | 間違える | まちがえる | to make a mistake |
 | 間に合う | まにあう | to be in time for |
-| 周り  | まわり | surroundings |
+| **周り**  | まわり | surroundings |
 | 回る  | まわる | to go around |
 | 漫画  | まんが | comic |
 | 真中  | まんなか | middle |
@@ -591,7 +591,7 @@
 | 指   | ゆび  | finger |
 | 指輪  | ゆびわ | finger ring |
 | 夢   | ゆめ  | dream |
-| 揺れる | ゆれる | to shake,to sway |
+| **揺れる** | ゆれる | to shake,to sway |
 | 用   | よう  | use |
 | 用意  | ようい | preparation |
 | 用事  | ようじ | things to do |

@@ -126,11 +126,11 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     synonyms: list[str] = Field(
         default=[],
-        description="List the 1-2 most commonly used synonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no synonyms found.",
+        description="List the 1 (maximum 2) most commonly used synonym for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no synonyms found.",
     )
     synonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings. If no synonyms found, say it has no synonyms.
+        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings. If no synonyms found, shortly say it has no synonyms.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common synonyms of the [word] [are/is] ..."
@@ -139,11 +139,11 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     antonyms: list[str] = Field(
         default=[],
-        description="List the 1-2 most commonly used antonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no antonyms found.",
+        description="List the 1 (maximum 2) most commonly used antonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no antonyms found.",
     )
     antonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings. If no antonyms found, say it has no antonyms.
+        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings. If no antonyms found, shortly say it has no antonyms.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common antonyms of the [word] [are/is] ..."
