@@ -71,9 +71,13 @@ if st.session_state.review_state == "question":
     question = st.session_state.current_card["qa"]
     st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
     st.text_input(
-        "Japanese Translation:", key="your_answer", label_visibility="collapsed", placeholder="Type your answer here"
+        "Japanese Translation:",
+        key="your_answer",
+        label_visibility="collapsed",
+        placeholder="Type your answer here",
+        autocomplete="off",
     )
-    with st.expander("Hint", expanded=False):
+    with st.expander("Hint", expanded=True):
         st.markdown("- " + question.hints.replace(",", "\n- "))
     if st.button("Check Answer", type="primary", width="stretch"):
         st.session_state.review_state = "answer"
@@ -82,9 +86,7 @@ if st.session_state.review_state == "question":
 if st.session_state.review_state == "answer":
     question = st.session_state.current_card["qa"]
     st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
-    st.text_input("Japanese Translation:", key="your_answer", placeholder="Type your answer here")
-    with st.expander("Hint", expanded=False):
-        st.markdown("- " + question.hints.replace(",", "\n- "))
+    st.text_input("Japanese Translation:", key="your_answer", placeholder="Type your answer here", autocomplete="off")
     if not st.session_state["has_ai_review"]:
         with st.spinner("Reviewing your answer with AI. Please wait ...", show_time=True):
             review = st.session_state.current_card["jpword"].review_reverse_translation_question(

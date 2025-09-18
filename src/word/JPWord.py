@@ -118,6 +118,7 @@ Whether you're a beginner or looking to expand your Japanese skills, this video 
         default="",
         description="""1. Fill out and paraphrase the following template:
 The word we'll be learning in this section is [vocabulary word in hiragana] which you will often hear in [provide the situations where the word is commonly used without mentioning the meaning of the word]. 
+2. Make sure you randomly change the starting phrase to make it more engaging. (change "The word we'll be learning in this section is" to something else randomly)
 """,
     )
     collocations: list[str] | None = Field(
@@ -126,11 +127,11 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     synonyms: list[str] = Field(
         default=[],
-        description="List the 1 (maximum 2) most commonly used synonym for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no synonyms found.",
+        description="List the 1 (maximum 2) most commonly used synonym for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
     )
     synonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings. If no synonyms found, shortly say it has no synonyms.
+        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common synonyms of the [word] [are/is] ..."
@@ -139,11 +140,11 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     antonyms: list[str] = Field(
         default=[],
-        description="List the 1 (maximum 2) most commonly used antonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word. Leave blank if no antonyms found.",
+        description="List the 1 (maximum 2) most commonly used antonyms for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
     )
     antonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings. If no antonyms found, shortly say it has no antonyms.
+        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings.
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common antonyms of the [word] [are/is] ..."
@@ -849,15 +850,21 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    # "最も",
-    # "割る",
-    # "機嫌",
-    # "偶然",
-    # "恐らく",
-    # "容易",
-    # "失業",
-    # "勇気",
-    # "加える",
+    "狂う",
+    "共に",
+    "眺める",
+    "酸素",
+    "詰める",
+    "達する",
+    "叩く",
+    "性格",
+    "騒音",
+    "検査",
+    "契約",
+    "設備",
+    "収入",
+    "従う",
+    "食欲",
 ]
 
 
@@ -869,9 +876,9 @@ if __name__ == "__main__":
     status.start()
 
     for word in word_list:
-        # w = JPWord(word=word, llm=llm_4o_openai)
-        # w.save_json()
-        w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+        w = JPWord(word=word, llm=llm_4o_openai)
+        w.save_json()
+        # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
         w.tts()
         w.pptx_generation()
         console.print(f"Finished processing word: {word}")

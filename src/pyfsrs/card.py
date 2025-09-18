@@ -236,16 +236,17 @@ Hints: tomorrow: 明日(あした), meeting: 会議(かいぎ)
                     content="""You are a helpful japanese teacher that is reviewing your student's answer and providing very short and constructive feedback."""
                 ),
                 HumanMessage(
-                    content=f"""The correct answer is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the students's answer is '{user_answer}'.  The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}.
-* check if the target word '{self.word}' is properly used in the student's answer if not the final score should be 0/10.
-* Correct any grammar mistakes in the student's answer with explanation.
-* Don't mention and ignore minor differences such as verb forms, politeness level, etc. and focus on the overall meaning and proper use of the target word.
+                    content=f"""The **correct answer** is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the **students's answer** is '{user_answer}'.  The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}.
+* check if the target word '{self.word}' or its hiragana reading is used in the **student's answer** ('{user_answer}'), if not the final score should be 0/10.
+* The **student's answer** doesn't have to be exactly the same as the correct answer with same vocabularies, it can be a similar sentence with the same meaning.
+* Correct any grammar mistakes in the **student's answer** ('{user_answer}') with explanation. Leave it blank if there is no grammar mistakes.
+* Ignore differences in verb forms (e.g., する vs します) or level of politeness (e.g., です vs だ) or minor variations in sentence structure as long as the meaning is the same.
 * Score the student's answer out of 10, deducting points for any mistakes. E.g. (out of 10, 9/10, 8/10, etc.)
-* add some markdown formatting and many emojis to make it more engaging and easier to read.
+* Keep the response very short (max 100 words).
 Output format:
-### Review [with proper emojis]
-[Your review here with proper emojis (no headings at all)]
-### Overall Score: [score]/10 [with proper emojis]
+[Your review here with proper emojis (no headings at all, each sentence in a new line starting with an emoji)]
+### Overall Score: [score]/10 [with proper emojis according to the score]
+
 """
                 ),
             ]

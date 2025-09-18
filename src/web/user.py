@@ -20,8 +20,8 @@ supabase: Client = create_client(url, key)
 @st.dialog(title="Login")
 def login_modal():
     with st.form("login_form"):
-        st.text_input("Email", key="email")
-        st.text_input("Password", type="password", key="password")
+        st.text_input("Email", key="email", autocomplete="email")
+        st.text_input("Password", type="password", key="password", autocomplete="current-password")
         if st.form_submit_button("Login"):
             st.toast("Logging in...", icon="⏳")
             try:
