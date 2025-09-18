@@ -34,8 +34,8 @@ elif controller.get("jvd_token") is not None:
             review_count = get_due_cards_count(auth)
             st.session_state["due_review_count"] = review_count
     except Exception as e:
-        st.error(f"An error occurred: {e}")
-        controller.remove("jvd_token")
+        # st.error(f"An error occurred: {e}")
+        controller.remove("jvd_token", secure=True, same_site="strict")
 
 main_page = st.Page("src/web/main_page.py", title="Home", icon="🏠")
 jlpt_vocabularies = st.Page("src/web/v.py", title="JLPT Vocabularies", icon="📚")

@@ -20,6 +20,7 @@ def fetch_and_show_word():
             w.show_in_streamlit(st, auth)
 
 
+@st.cache_data(ttl=3600)
 def get_words() -> list[dict]:
     words = []
     json_files = [f for f in os.listdir("resources/words") if f.endswith(".json")]

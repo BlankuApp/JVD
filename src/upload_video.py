@@ -10,7 +10,7 @@ from googleapiclient.http import MediaFileUpload
 from datetime import datetime, timedelta
 
 # The file containing your credentials
-CLIENT_SECRETS_FILE = "client_secret_175796165599-opm7rn4umhi37gq2jsoa9fpglu6dm731.apps.googleusercontent.com.json"
+CLIENT_SECRETS_FILE = "client_secret_2_175796165599-opm7rn4umhi37gq2jsoa9fpglu6dm731.apps.googleusercontent.com.json"
 
 # The scope defines what your application is allowed to do.
 # 'https://www.googleapis.com/auth/youtube.upload' grants permission to upload videos.
@@ -71,7 +71,7 @@ def upload_video(
 
 
 if __name__ == "__main__":
-    publish_datetime = datetime(2025, 9, 29, 20, 0, 0)
+    publish_datetime = datetime(2025, 9, 24, 19, 0, 0)
     youtube_service = get_authenticated_service()
     for folder in os.listdir("Output"):
         if folder in ["Archive", "n1", "n2", "n3", "n4", "n5"]:
@@ -89,7 +89,7 @@ if __name__ == "__main__":
         for file in os.listdir(folder_path):
             if file.endswith(".mp4"):
                 VIDEO_FILE_PATH = os.path.join(folder_path, file)
-                VIDEO_TITLE = file[:-4]
+                VIDEO_TITLE = file[:-4] + " NEW"
             elif file.endswith(".jpg"):
                 THUMBNAIL_FILE_PATH = os.path.join(folder_path, file)
             elif file.endswith(".json"):
@@ -123,4 +123,4 @@ if __name__ == "__main__":
             json.dump(metadata, f, ensure_ascii=False, indent=4)
         copyfile(json_file_path, os.path.join("resources", "words", os.path.basename(json_file_path)))
 
-        time.sleep(1)  # To avoid hitting rate limits
+        time.sleep(30)  # To avoid hitting rate limits
