@@ -16,7 +16,7 @@
 | **明らか** | あきらか | obvious,evident,clear |
 | 諦める | あきらめる | to give up,to abandon |
 | 飽きる | あきる | to get tired of,to lose interest in,to have enough |
-| 握手 | あくしゅ | handshake |
+| **握手** | あくしゅ | handshake |
 | **悪魔** | あくま | devil,demon,evil spirit |
 | 明ける | あける | to dawn,to become daylight |
 |  | あした | tomorrow |
@@ -51,7 +51,7 @@
 |  | あるいは | or,possibly |
 |  | アルバム | album |
 | 泡 | あわ | bubble,foam,froth,head on beer |
-| 合わせる | あわせる | to join together,to be opposite,to face,to unite |
+| **合わせる** | あわせる | to join together,to be opposite,to face,to unite |
 | 哀れ | あわれ | helpless,pity,sorrow,grief |
 | 案 | あん | plan,suffix meaning draft |
 | **暗記** | あんき | memorization,learning by heart |
@@ -77,7 +77,7 @@
 | 医師 | いし | doctor,physician |
 | **意思** | いし | intention,purpose |
 | 意志 | いし | will,volition |
-| 維持 | いじ | maintenance,preservation |
+| **維持** | いじ | maintenance,preservation |
 | 意識 | いしき | consciousness,senses |
 | **異常** | いじょう | strangeness,abnormality,disorder |
 | 椅子 | いす | chair |
@@ -116,7 +116,7 @@
 | 稲 | いね | rice-plant |
 | 居眠り | いねむり | dozing,nodding off |
 | 命 | いのち | command,decree,life,destiny |
-| 違反 | いはん | violation (of law),transgression,infringement,breach |
+| **違反** | いはん | violation (of law),transgression,infringement,breach |
 | 衣服 | いふく | clothes |
 | 居間 | いま | living room (western style) |
 | **今に** | いまに | before long,even now |
@@ -489,7 +489,7 @@
 |  | クリーム | cream |
 | 繰り返す | くりかえす | to repeat,to do something over again |
 |  | クリスマス | Christmas |
-| 狂う | くるう | to go mad,to get out of order |
+| **狂う** | くるう | to go mad,to get out of order |
 |  | グループ | group |
 | 苦しい | くるしい | painful,difficult |
 | 苦しむ | くるしむ | to suffer,to groan,to be worried |
@@ -515,7 +515,7 @@
 | 掲示 | けいじ | notice,bulletin |
 | 刑事 | けいじ | criminal case,(police) detective |
 | 芸術 | げいじゅつ | (fine) art,the arts |
-| 契約 | けいやく | contract,compact,agreement |
+| **契約** | けいやく | contract,compact,agreement |
 | 経由 | けいゆ | go by the way,via |
 |  | ケース | case |
 |  | ゲーム | game |
@@ -542,7 +542,7 @@
 | 現金 | げんきん | cash,ready money,mercenary,self-interested |
 | 言語 | げんご | language |
 | 健康 | けんこう | health,sound,wholesome |
-| 検査 | けんさ | inspection (e.g. customs, factory),examination |
+| **検査** | けんさ | inspection (e.g. customs, factory),examination |
 | 現在 | げんざい | present,up to now,nowadays,modern times,current |
 | 現実 | げんじつ | reality |
 | 現象 | げんしょう | phenomenon |
@@ -687,7 +687,7 @@
 | **参加** | さんか | participation |
 | 参考 | さんこう | reference,consultation |
 | 賛成 | Uӣ[い | approval,agreement,support,favour |
-| 酸素 | さんそ | oxygen |
+| **酸素** | さんそ | oxygen |
 | 散歩 | さんぽ | walk,stroll |
 | 四 | し | four |
 | 氏 | し | family name,lineage,birth |
@@ -708,7 +708,7 @@
 | **事件**時限 | じけん | event,affair,incident |
 | 時刻 | じこく | instant,time,moment |
 | 自殺 | じさつ | suicide |
-| 事実 | じじつ | fact,truth,reality |
+| **事実** | じじつ | fact,truth,reality |
 | 支出 | ししゅつ | expenditure,expenses |
 | 事情 | じじょう | circumstances,consideration,conditions,situation,reasons |
 | 詩人 | しじん | poet |
@@ -719,7 +719,7 @@
 | 舌 | した | tongue |
 | 次第 | しだい | (1) order,precedence,(2) circumstances,(3) immediate(ly) |
 | 事態 | じたい | situation,present state of affairs |
-| 従う | したがう | to abide (by the rules),to obey,to follow,to accompany |
+| **従う** | したがう | to abide (by the rules),to obey,to follow,to accompany |
 | したがって | したがって | therefore,consequently,in accordance with |
 | 支度 | したく | preparation |
 | 親しい | したしい | intimate,close (e.g. friend) |
@@ -778,7 +778,7 @@
 | 住宅 | じゅうたく | resident,housing |
 | 集団 | しゅうだん | group,mass |
 | 集中 | しゅうちゅう | concentration,focusing the mind |
-| 収入 | しゅうにゅう | income,receipts,revenue |
+| **収入** | しゅうにゅう | income,receipts,revenue |
 | 住民 | じゅうみん | citizens,inhabitants,residents,population |
 | 重要 | じゅうよう | important,momentous,essential,principal,major |
 | 修理 | しゅうり | repairing,mending |
@@ -844,7 +844,7 @@
 | 食品 | しょくひん | commodity,foodstuff |
 | 植物 | しょくぶつ | plant,vegetation |
 | 食物 | しょくもつ | food,foodstuff |
-| 食欲 | しょくよく | appetite (for food) |
+| **食欲** | しょくよく | appetite (for food) |
 | 食料 | しょくりょう | food |
 | 食糧 | しょくりょう | provisions,rations |
 | 書斎 | しょさい | study |
@@ -932,7 +932,7 @@
 | 性 | せい | sex,gender |
 | 所為 | せい | cause,reason,fault |
 | 税 | ぜい |  |
-| 性格 | せいかく | character,personality |
+| **性格** | せいかく | character,personality |
 | 正確 | せいかく | accurate,punctuality,exactness,authenticity,veracity |
 | 世紀 | せいき | century,era |
 | 請求 | せいきゅう | claim,demand,application,request |
@@ -966,7 +966,7 @@
 | 設計 | せっけい | plan,design |
 | 絶対 | ぜったい | absolute,unconditional,absoluteness |
 |  | セット | set |
-| 設備 | せつび | equipment,device,facilities,installation |
+| **設備** | せつび | equipment,device,facilities,installation |
 | 絶滅 | ぜつめつ | destruction,extinction |
 | 節約 | せつやく | economising,saving |
 | 是非 | ぜひ | certainly,without fail |
@@ -977,7 +977,7 @@
 | 全員 | ぜんいん | all members (unanimity),all hands,the whole crew |
 | 専攻 | せんこう | major subject,special study |
 | 全国 | ぜんこく | country-wide,nation-wide,whole country,national |
-| 先日 | せんじつ | the other day,a few days ago |
+| **先日** | せんじつ | the other day,a few days ago |
 | 前者 | ぜんしゃ | the former |
 | 選手 | せんしゅ | (1) player (in game),(2) team |
 | 前進 | ぜんしん | advance,drive,progress |
@@ -987,7 +987,7 @@
 | 選択 | せんたく | selection,choice |
 | そう | そう | so |
 | 象 | ぞう | elephant |
-| 騒音 | そうおん | noise |
+| **騒音** | そうおん | noise |
 | 増加 | ぞうか | increase,addition |
 | **操作** | そうさ | operation,management,processing |
 | 掃除 | そうじ | cleaning,sweeping |
@@ -1072,12 +1072,12 @@
 | 唯 | ただ | free of charge,mere,sole,only,usual,common |
 | 戦い | たたかい | battle,fight,struggle,conflict |
 | 戦う | たたかう | to fight,to battle,to combat |
-| 叩く | たたく | to strike,to clap,to dust,to beat |
+| **叩く** | たたく | to strike,to clap,to dust,to beat |
 | 直ちに | ただちに | at once,immediately,directly,in person |
 | 立ち上がる | たちあがる | to stand up |
 | 立場 | たちば | standpoint,position,situation |
 | 経つ | たつ | to pass,to lapse |
-| 達する | たっする | to reach,to get to |
+| **達する** | たっする | to reach,to get to |
 | 唯 | たった | free of charge,mere,sole,only,usual,common |
 |  | だって | but,because,even,also,too |
 |  | たっぷり | full,in plenty,ample |
@@ -1166,7 +1166,7 @@
 | 掴む | つかむ | to seize,to catch,to grasp |
 | 疲れ | つかれ | tiredness,fatigue |
 | 月 | つき | moon,month |
-| 付き合い | つきあい | association,socializing,fellowship |
+| **付き合い** | つきあい | association,socializing,fellowship |
 | 次々 | つぎつぎ | in succession,one by one |
 | 就く | つく | to settle in (place),to take (seat, position),to study (under teacher) |
 | 注ぐ | つぐ | to pour (into),to irrigate,to pay |
@@ -1181,10 +1181,10 @@
 | 翼 | つばさ | wings |
 |  | つまり | in short,in brief,in other words |
 | 罪 | つみ | crime,fault,indiscretion |
-| 詰める | つめる | to pack,to shorten,to work out (details) |
+| **詰める** | つめる | to pack,to shorten,to work out (details) |
 | 積もる | つもる | to pile up |
 | 梅雨 | つゆ | rainy season,rain during the rainy season |
-| 辛い | つらい | painful,heart-breaking |
+| **辛い** | つらい | painful,heart-breaking |
 | 釣 | つり |  |
 | 連れ | つれ | companion,company |
 |  | で | outflow,coming (going) out,graduate (of) |
@@ -1212,7 +1212,7 @@
 | 哲学 | てつがく | philosophy |
 | 手伝い | てつだい | help,helper,assistant |
 | 徹底 | てってい | thoroughness,completeness |
-| 鉄道 | てつどう | railroad |
+| **鉄道** | てつどう | railroad |
 | 徹夜 | てつや | all night,all night vigil,sleepless night |
 | では | では | chance of going out,opportunity (to succeed),moment of departure,beginning of work |
 | 手間 | てま | time,labour |
@@ -1232,7 +1232,7 @@
 | 答案 | とうあん | examination paper,examination script |
 | **同一** | どういつ | identity,sameness,similarity |
 |  | どうか | copper coin |
-| 当時 | とうじ | at that time,in those days |
+| **当時** | とうじ | at that time,in those days |
 | 動詞 | どうし | verb |
 | 同時 | どうじ | simultaneous(ly),concurrent,same time,synchronous |
 |  | どうしても | by all means,at any cost,no matter what |
@@ -1246,7 +1246,7 @@
 | 通す | とおす | to let pass,to overlook,to continue |
 | 通り | とおり | in accordance with ~,following ~,~ Street,~ Avenue |
 | 通り過ぎる | とおりすぎる | to pass,to pass through |
-| 都会 | とかい | city |
+| **都会** | とかい | city |
 | 時 | とき | (1) time,hour,(2) occasion,moment |
 | 解く | とく | to unfasten |
 | 毒 | どく | poison,toxicant |
@@ -1255,7 +1255,7 @@
 | 独身 | どくしん | bachelorhood,single,unmarried,celibate |
 | **特徴** | とくちょう | feature,characteristic |
 | 独特 | どくとく | peculiarity,uniqueness,characteristic |
-| 独立 | どくりつ | independence (e.g. Ind. Day),self-support |
+| **独立** | どくりつ | independence (e.g. Ind. Day),self-support |
 | 解ける | とける | to come untied,to come apart |
 |  | どこか | somewhere,anywhere |
 |  | ところが | however,while,even if |
@@ -1276,7 +1276,7 @@
 | 飛び出す | とびだす | to jump out,to rush out,to fly out |
 | 留める | とめる | to fasten,to turn off,to detain |
 | 友 | とも | friend,companion,pal |
-| 共に | ともに | sharing with,participate in |
+| **共に** | ともに | sharing with,participate in |
 | 土曜 | どよう | Saturday |
 | 虎 | とら | tiger |
 |  | ドライブ | drive,trip by car,driving |
@@ -1303,13 +1303,13 @@
 | 半ば | なかば | middle,half,semi,halfway,partly |
 | **仲間** | なかま | company,fellow,colleague,associate |
 | 眺め | ながめ | scene,view,prospect,outlook |
-| 眺める | ながめる | to view,to gaze at |
+| **眺める** | ながめる | to view,to gaze at |
 | 流れ | ながれ | stream,current |
 | 流れる | ながれる | to stream,to flow,to run (ink),to be washed away |
 | 無し | なし | without |
 |  | なぜなら | because |
 | 謎 | なぞ | riddle,puzzle,enigma |
-| 納得 | なっとく | consent,assent,understanding |
+| **納得** | なっとく | consent,assent,understanding |
 | 等 | など | et cetera,etc.,and the like |
 | 七 | なな | seven |
 | 何 | なに | what |
@@ -1340,7 +1340,7 @@
 |  | にっこり | smile sweetly,smile,grin |
 | 日本 | にっぽん | Japan |
 | 日本 | にほん | Japan |
-| 入院 | にゅういん | hospitalization |
+| **入院** | にゅういん | hospitalization |
 | 入学 | にゅうがく | entry to school or university,matriculation |
 | **入場** | にゅうじょう | entrance,admission,entering |
 | 人気 | にんき | sign of life |
@@ -1366,7 +1366,7 @@
 | **年齢** | ねんれい | age,years |
 | 野 | の | field |
 | 能 | のう | being skilled in,nicely,properly |
-| 農家 | のうか | farmer,farm family |
+| **農家** | のうか | farmer,farm family |
 | 農業 | のうぎょう | agriculture |
 | 農民 | のうみん | farmers,peasants |
 | 能力 | のうりょく | ability,faculty |

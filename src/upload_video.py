@@ -71,7 +71,7 @@ def upload_video(
 
 
 if __name__ == "__main__":
-    publish_datetime = datetime(2025, 9, 24, 19, 0, 0)
+    publish_datetime = datetime(2025, 9, 24, 10, 0, 0)
     youtube_service = get_authenticated_service()
     for folder in os.listdir("Output"):
         if folder in ["Archive", "n1", "n2", "n3", "n4", "n5"]:
@@ -123,4 +123,4 @@ if __name__ == "__main__":
             json.dump(metadata, f, ensure_ascii=False, indent=4)
         copyfile(json_file_path, os.path.join("resources", "words", os.path.basename(json_file_path)))
 
-        time.sleep(30)  # To avoid hitting rate limits
+        time.sleep(15)  # To avoid hitting rate limits
