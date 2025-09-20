@@ -42,6 +42,7 @@ jlpt_vocabularies = st.Page("src/web/v.py", title="JLPT Vocabularies", icon="�
 review_page = st.Page(
     "src/web/review.py", title="Review" if review_count == 0 else f"Review ({review_count})", icon="✏️"
 )
+fill_in_blank_page = st.Page("src/web/fill_in_the_blank.py", title="Fill in the Blank", icon="📝")
 if auth:
     user_auth = st.Page("src/web/user.py", title=f"{auth['username']} Profile", icon="👤")
     logout_btn = st.sidebar.button("Logout", width="stretch")
@@ -58,6 +59,6 @@ else:
     user_auth = st.Page("src/web/user.py", title="Login", icon="🔐")
 
 
-pages = [main_page, jlpt_vocabularies, review_page, user_auth]
+pages = [main_page, jlpt_vocabularies, review_page, fill_in_blank_page, user_auth]
 app = st.navigation(pages=pages, expanded=True)
 app.run()

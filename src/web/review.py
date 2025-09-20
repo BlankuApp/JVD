@@ -77,7 +77,9 @@ if st.session_state.review_state == "question":
         placeholder="Type your answer here",
         autocomplete="off",
     )
-    with st.expander("Hint", expanded=True):
+    # with st.expander("Hint", expanded=True):
+    #     st.markdown("- " + question.hints.replace(",", "\n- "))
+    with st.popover("Need Help?", icon="💡", use_container_width=True):
         st.markdown("- " + question.hints.replace(",", "\n- "))
     if st.button("Check Answer", type="primary", width="stretch"):
         st.session_state.review_state = "answer"
