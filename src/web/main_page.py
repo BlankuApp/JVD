@@ -11,6 +11,8 @@ st.header("Vocabularies", divider="green")
 st.markdown(
     "Explore a wide range of Japanese vocabularies categorized by JLPT levels. You can add words to your personal list for review."
 )
+if st.button("Check out Vocabularies", width="content", type="primary", icon="📚"):
+    st.switch_page("src/web/v.py")
 
 
 st.header("Review with AI", divider="red")

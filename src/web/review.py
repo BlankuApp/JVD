@@ -68,27 +68,29 @@ if "review_state" not in st.session_state:
         )
 
 if st.session_state.review_state == "question":
-    question = st.session_state.current_card["qa"]
-    st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
-    st.text_input(
-        "Japanese Translation:",
-        key="your_answer",
-        label_visibility="collapsed",
-        placeholder="Type your answer here",
-        autocomplete="off",
-    )
-    # with st.expander("Hint", expanded=True):
-    #     st.markdown("- " + question.hints.replace(",", "\n- "))
-    with st.popover("Need Help?", icon="💡", use_container_width=True):
-        st.markdown("- " + question.hints.replace(",", "\n- "))
-    if st.button("Check Answer", type="primary", width="stretch"):
+    with st.form("review_form", border=False):
+        question = st.session_state.current_card["qa"]
+        st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
+        st.text_input(
+            "Japanese Translation:",
+            key="your_answer",
+            label_visibility="collapsed",
+            placeholder="Type your answer here",
+            autocomplete="off",
+        )
+        col1, col2 = st.columns([0.5, 0.5])
+        with col2:
+            with st.popover("Hint", icon="💡", use_container_width=True):
+                st.markdown("- " + question.hints.replace(",", "\n- "))
+        with col1:
+            submitted = st.form_submit_button("Check Answer", type="primary", use_container_width=True)
+    if submitted:
         st.session_state.review_state = "answer"
         st.rerun()
 
 if st.session_state.review_state == "answer":
     question = st.session_state.current_card["qa"]
     st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
-    st.text_input("Japanese Translation:", key="your_answer", placeholder="Type your answer here", autocomplete="off")
     if not st.session_state["has_ai_review"]:
         with st.spinner("Reviewing your answer with AI. Please wait ...", show_time=True):
             review = st.session_state.current_card["jpword"].review_reverse_translation_question(
@@ -102,17 +104,28 @@ if st.session_state.review_state == "answer":
             f"<p style='text-align: center; font-size: 24px; font-weight: bold;'>{question.answer}</p>",
             unsafe_allow_html=True,
         )
+        if "your_answer" in st.session_state:
+            st.markdown(f"**Your Answer:** {st.session_state['your_answer']}")
         st.markdown(st.session_state["ai_review"])
-    diff = st.segmented_control(
-        "Rating:",
-        ["🔄 Again", "😅 Hard", "😊 Good", "🏆 Easy"],
-        default="😊 Good",
-        key="review_difficulty",
-        label_visibility="collapsed",
-        width="stretch",
-    )
-    jp_word_card: JPWordCard = st.session_state.current_card["jpword"]
-    if st.button("Submit Answer", type="primary", width="stretch"):
+    with st.form("rating_form", border=False):
+        diff = st.segmented_control(
+            "Rating:",
+            ["🔄 Again", "😅 Hard", "😊 Good", "🏆 Easy"],
+            default="😊 Good",
+            key="review_difficulty",
+            label_visibility="collapsed",
+            width="stretch",
+        )
+        jp_word_card: JPWordCard = st.session_state.current_card["jpword"]
+        submitted = st.form_submit_button("Submit Answer", type="primary", use_container_width=True)
+        if submitted:
+            st.session_state["review_state"] = "submitting"
+    youtube_link = jp_word_card._jp_word.youtube_link
+    if youtube_link:
+        st.video(youtube_link)
+
+if st.session_state.review_state == "submitting":
+    with st.spinner("Submitting your answer...", show_time=True):
         rating = RATING_DICT[st.session_state["review_difficulty"]]
         sch = Scheduler(enable_fuzzing=True, desired_retention=0.95)
         review_datetime = datetime.now(timezone.utc)
@@ -130,6 +143,3 @@ if st.session_state.review_state == "answer":
         st.session_state["due_review_count"] = max(st.session_state.get("due_review_count", 0) - 1, 0)
         st.toast(msg, icon="✅" if success else "❌")
         reset_review_session()
-    youtube_link = jp_word_card._jp_word.youtube_link
-    if youtube_link:
-        st.video(youtube_link)
