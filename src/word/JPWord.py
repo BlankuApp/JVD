@@ -131,7 +131,7 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     synonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings.
+        description="""provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings. If there were no synonyms in the list, say \"No common synonyms found.\"
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common synonyms of the [word] [are/is] ..."
@@ -144,7 +144,7 @@ The word we'll be learning in this section is [vocabulary word in hiragana] whic
     )
     antonyms_explanation: str | None = Field(
         default=None,
-        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings.
+        description="""provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings. If there were no antonyms in the list, say \"No common antonyms found.\"
 # Constraints
 1. Only insert the hiragana for of Japanese vocabs. No kanjis.
 2. Explanation starts with English phrases such as:  "The most common antonyms of the [word] [are/is] ..."
@@ -850,21 +850,22 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    "狂う",
-    "共に",
-    "眺める",
-    "酸素",
-    "詰める",
-    "達する",
-    "叩く",
-    "性格",
-    "騒音",
-    "検査",
-    "契約",
-    "設備",
-    "収入",
-    "従う",
-    "食欲",
+    # "外出",
+    # "学問",
+    # "本物",
+    # "外す",
+    # "販売",
+    "一言",
+    # "外出",
+    # "激しい",
+    # "議会",
+    # "議長",
+    # "学者",
+    # "学問",
+    # "品",
+    # "発明",
+    # "一人一人",
+    # "博物館",
 ]
 
 
@@ -876,9 +877,9 @@ if __name__ == "__main__":
     status.start()
 
     for word in word_list:
-        w = JPWord(word=word, llm=llm_4o_openai)
-        w.save_json()
-        # w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
+        # w = JPWord(word=word, llm=llm_4o_openai)
+        # w.save_json()
+        w = JPWord.model_validate_json(open(f"Output/{word_list[0]}/{word_list[0]}.json", "r", encoding="utf-8").read())
         w.tts()
         w.pptx_generation()
         console.print(f"Finished processing word: {word}")

@@ -71,11 +71,14 @@ def upload_video(
 
 
 if __name__ == "__main__":
-    publish_datetime = datetime(2025, 9, 24, 10, 0, 0)
+    start_datetime = datetime(2025, 10, 12, 10, 0, 0)
+    num_videos_a_day = 3
     youtube_service = get_authenticated_service()
+    video_count = 0
     for folder in os.listdir("Output"):
-        if folder in ["Archive", "n1", "n2", "n3", "n4", "n5"]:
+        if folder in ["Archive"]:
             continue
+        video_count += 1
         folder_path = os.path.join("Output", folder)
         VIDEO_TITLE = ""
         VIDEO_DESCRIPTION = ""
@@ -100,7 +103,10 @@ if __name__ == "__main__":
                         f"https://jvdict.streamlit.app/v?w={file[:-5]}\n"
                         + metadata["explanations"]["youtube_description"]
                     )
-                    publish_datetime += timedelta(days=1)
+                    day_index = video_count // num_videos_a_day
+                    hour_index = video_count % num_videos_a_day
+                    publish_datetime = start_datetime + timedelta(days=day_index, hours=hour_index)
+
                     PUBLISH_AT = publish_datetime.isoformat() + "Z"
         print(f"{VIDEO_TITLE} - {PUBLISH_AT} - {VIDEO_FILE_PATH} - {THUMBNAIL_FILE_PATH}")
         video_id = upload_video(
