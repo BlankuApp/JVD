@@ -11,6 +11,7 @@ from pydantic import BaseModel, Field
 from pydub import AudioSegment
 from rich.console import Console
 from rich.status import Status
+from src.utils import create_html_with_ruby
 
 load_dotenv()
 
@@ -64,7 +65,8 @@ class JPExample(BaseModel):
 
     def show_in_streamlit(self, st, auth: dict | None = None) -> None:
         with st.expander(self.kanji):
-            st.markdown(f":blue-badge[JLPT N{self.difficulty}] {self.furigana}")
+            ruby = create_html_with_ruby(self.furigana)
+            st.markdown(f":blue-badge[JLPT N{self.difficulty}] {ruby}", unsafe_allow_html=True)
             for key, value in self.translation:
                 if key == "Japanese":
                     continue

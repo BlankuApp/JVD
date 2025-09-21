@@ -233,19 +233,20 @@ Hints: tomorrow: 明日(あした), meeting: 会議(かいぎ)
         response = llm_4o_mini_openai.invoke(
             [
                 SystemMessage(
-                    content="""You are a helpful japanese teacher that is reviewing your student's answer and providing very short and constructive feedback."""
+                    content=f"""You are a helpful japanese teacher that is reviewing your student's answer and providing very short and constructive feedback. The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}."""
                 ),
                 HumanMessage(
-                    content=f"""The **correct answer** is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the **students's answer** is '{user_answer}'.  The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[0])}.
-* check if the target word '{self.word}' or its hiragana reading or its conjugated form is used in the **student's answer** ('{user_answer}'), if not the final score should be 0/10.
-* The **student's answer** doesn't have to be exactly the same as the correct answer with same vocabularies, it can be a similar sentence with the same meaning.
+                    content=f"""The **correct answer** is '{self.question.answer}' (ignore the hiragana readings in parentheses) and the **students's answer** is '{user_answer}'.
+* check if the target word '{self.word}' or its hiragana reading or its conjugated form is used in the **student's answer** ('{user_answer}'), if not the final score should be 0/5. For example, if the target word is '狂う' then '狂います', 'くるう', '狂って' are all acceptable.
+* The goal is to make sure the **student's answer** conveys the general meaning of the **correct answer**. Other details are not important.
 * Correct any grammar mistakes in the **student's answer** ('{user_answer}') with explanation. Leave it blank if there is no grammar mistakes.
 * Ignore differences in verb forms (e.g., する vs します) or level of politeness (e.g., です vs だ) or minor variations in sentence structure as long as the meaning is the same.
-* Score the student's answer out of 10, deducting points for any grammar mistakes. E.g. (out of 10, 9/10, 8/10, etc.)
+* Reduce the score only if there is grammar mistakes (1 point deduction for each grammar mistake) and if the target word is not used (5 points deduction).
 * Keep the response very short (max 100 words).
 Output format:
 [Your review here with proper emojis (no headings at all, each sentence in a new line starting with an emoji)]
-### Overall Score: [score]/10 [with proper emojis according to the score]
+make a simple table of the points you granted (positive sign) or deducted (negative sign) and why.
+### Overall Score: [score]/5 [with proper emojis]
 
 """
                 ),

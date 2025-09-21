@@ -6,6 +6,7 @@ from src.db.db_word import update_user_word_card, get_due_card
 from src.pyfsrs.card import JPWordCard
 from src.pyfsrs.review_log import Rating
 from src.pyfsrs.scheduler import Scheduler
+from src.utils import create_html_with_ruby
 
 RATING_DICT = {
     "🔄 Again": Rating.Again,
@@ -100,8 +101,9 @@ if st.session_state.review_state == "answer":
         st.session_state["ai_review"] = review
         st.session_state["has_ai_review"] = True
     with st.container():
+        ruby = create_html_with_ruby(question.answer, font_size="2rem", rt_font_size="1.1rem")
         st.markdown(
-            f"<p style='text-align: center; font-size: 24px; font-weight: bold;'>{question.answer}</p>",
+            f"<p style='text-align: center; font-weight: bold;'>{ruby}</p>",
             unsafe_allow_html=True,
         )
         if "your_answer" in st.session_state:
