@@ -66,7 +66,7 @@
 |     | おかしい | strange or funny |
 | 億   | おく  | one hundred million |
 | 屋上  | おくじょう | rooftop |
-| 贈り物 | おくりもの | gift |
+| **贈り物** | おくりもの | gift |
 | 送る  | おくる | to send |
 | 遅れる | おくれる | to be late |
 | 起す  | おこす | to wake |
@@ -104,7 +104,7 @@
 | 会場  | かいじょう | assembly hall or meeting place |
 | 会話  | かいわ | conversation |
 | 帰り  | かえり | return |
-| 変える | かえる | to change |
+| **変える** | かえる | to change |
 | 科学  | かがく | science |
 | 鏡   | かがみ | mirror |
 | 掛ける | かける | to hang something |
@@ -132,7 +132,7 @@
 |     | ガラス | a glass pane |
 | 彼   | かれ  | he,boyfriend |
 | 彼ら  | かれら | they |
-| 乾く  | かわく | to get dry |
+| **乾く**  | かわく | to get dry |
 | 代わり | かわり | substitute,alternate |
 | 変わる | かわる | to change |
 | 考える | かんがえる | to consider |
@@ -145,7 +145,7 @@
 | 聞こえる | きこえる | to be heard |
 | 汽車  | きしゃ | steam train |
 | 技術  | ぎじゅつ | art,technology,skill |
-| 季節  | きせつ | season |
+| **季節**  | きせつ | season |
 | 規則  | きそく | regulations |
 |     | きっと | surely |
 | 絹   | きぬ  | silk |
@@ -161,7 +161,7 @@
 | 急行  | きゅうこう | speedy, express |
 | **教育**  | きょういく | education |
 | 教会  | きょうかい | church |
-| 競争  | きょうそう | competition |
+| **競争**  | きょうそう | competition |
 | 興味  | きょうみ | an interest |
 | 近所  | きんじょ | neighbourhood |
 | 具合  | ぐあい | condition,health |
@@ -176,7 +176,7 @@
 | 暮れる | くれる | to get dark,to come to an end |
 | 君   | くん  | suffix for familiar young male |
 | 毛   | け   | hair or fur |
-| 計画  | けいかく・する | to plan |
+| **計画**  | けいかく・する | to plan |
 | 経験  | けいけん・する | to experience |
 | 経済  | けいざい | finance,economy |
 | 警察  | けいさつ | police |
@@ -195,7 +195,7 @@
 | 子   | こ   | child |
 |     | こう  | this way |
 | 郊外  | こうがい | outskirts |
-| 講義  | こうぎ | lecture |
+| **講義**  | こうぎ | lecture |
 | 工業  | こうぎょう | the manufacturing industry |
 | 高校  | こうこう | high school |
 | 高校生 | こうこうせい | high school student |
@@ -273,7 +273,7 @@
 |     | じゃま | hindrance,intrusion |
 |     | ジャム | jam |
 | 自由  | じゆう | freedom |
-| 習慣  | しゅうかん | custom,manners |
+| **習慣**  | しゅうかん | custom,manners |
 | 住所  | じゅうしょ | an address,a residence |
 | 柔道  | じゅうどう | judo |
 | 十分  | じゅうぶん | enough |
@@ -298,7 +298,7 @@
 | **心配**  | しんぱい・する | to worry |
 | 新聞社 | しんぶんしゃ | newspaper company |
 | 水泳  | すいえい | swimming |
-| 水道  | すいどう | water supply |
+| **水道**  | すいどう | water supply |
 |     | ずいぶん | extremely |
 | 数学  | すうがく | mathematics,arithmetic |
 |     | スーツ | suit |
@@ -322,7 +322,7 @@
 |     | すると | then |
 | 生活  | せいかつ・する | to live |
 | 生産  | せいさん・する | to produce |
-| 政治  | せいじ | politics,government |
+| **政治**  | せいじ | politics,government |
 | 西洋  | せいよう | western countries |
 | 世界  | せかい | the world |
 | 席   | せき  | seat |
@@ -359,7 +359,7 @@
 |     | だから | so,therefore |
 | 確か  | たしか | definite |
 | 足す  | たす  | to add a number |
-| 訪ねる | たずねる | to visit |
+| **訪ねる** | たずねる | to visit |
 | 尋ねる | たずねる | to ask |
 | 正しい | ただしい | correct |
 | 畳   | たたみ | Japanese straw mat |
@@ -398,7 +398,7 @@
 |     | つもり | intention |
 | 釣る  | つる  | to fish |
 | 連れる | つれる | to lead |
-| 丁寧  | ていねい | polite |
+| **丁寧**  | ていねい | polite |
 |     | テキスト | text,text book |
 | 適当  | てきとう | suitability |
 |     | できるだけ | as much as possible |
@@ -427,7 +427,7 @@
 | 泊まる | とまる | to lodge at |
 | 止める | とめる | to stop something |
 | 取り替える | とりかえる | to exchange |
-| 泥棒  | どろぼう | thief |
+| **泥棒**  | どろぼう | thief |
 |     | どんどん | more and more |
 | 直す  | なおす | to fix,to repair |
 | 直る  | なおる | to be fixed,to be repaired |
@@ -470,7 +470,7 @@
 | 倍   | ばい  | double |
 | 拝見  | はいけん・する | (humble) to look at |
 | 歯医者 | はいしゃ | dentist |
-| 運ぶ  | はこぶ | to transport |
+| **運ぶ**  | はこぶ | to transport |
 | 始める | はじめる | to begin |
 | 場所  | ばしょ | location |
 |     | はず  | it should be so |
@@ -579,7 +579,7 @@
 | 役に立つ | やくにたつ | to be helpful |
 | 焼ける | やける | to burn,to be roasted |
 | 優しい | やさしい | kind |
-| 痩せる | やせる | to become thin |
+| **痩せる** | やせる | to become thin |
 |     | やっと | at last |
 |     | やはり/やっぱり | as I thought,absolutely |
 | 止む  | やむ  | to stop |
