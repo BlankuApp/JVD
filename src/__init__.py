@@ -1,4 +1,5 @@
 import os
+import json
 
 from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
@@ -31,8 +32,8 @@ LANGUAGES_ABBR = {
 }
 
 try:
-    translator_credentials = service_account.Credentials.from_service_account_file(
-        os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+    translator_credentials = service_account.Credentials.from_service_account_info(
+        json.loads(os.getenv("GOOGLE_CLOUD_CREDENTIALS_JSON", "{}"))
     )
     logger.info("Google Cloud credentials loaded successfully")
 except Exception as e:
