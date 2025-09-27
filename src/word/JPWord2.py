@@ -880,7 +880,8 @@ class JPWord2:
                 st.markdown(ruby, unsafe_allow_html=True)
                 for key, value in ex["translations"].items():
                     if auth:
-                        if key not in auth.get("preferred_languages", []):
+                        user_langs = [LANGUAGES_ABBR[lang] for lang in auth.get("preferred_languages", [])]
+                        if key not in user_langs:
                             continue
                     st.markdown(f":gray-badge[{key}] {value}")
 

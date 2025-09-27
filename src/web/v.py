@@ -38,7 +38,6 @@ def get_words() -> list[dict]:
             raw_data = file.read()
             json_data = json.loads(raw_data)
             version = json_data.get("version")
-            print(f"Loading word '{json_data['word']}' version {version}")
             w = None
             if version == "0.1.1":
                 w = JPWord.model_validate_json(raw_data)
