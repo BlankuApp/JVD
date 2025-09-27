@@ -11,7 +11,6 @@ from pydantic import BaseModel, Field
 from pydub import AudioSegment
 from rich.console import Console
 from rich.status import Status
-from src.utils import create_html_with_ruby
 
 load_dotenv()
 
@@ -64,6 +63,8 @@ class JPExample(BaseModel):
     translation: JPTranslation = Field(default=JPTranslation())
 
     def show_in_streamlit(self, st, auth: dict | None = None) -> None:
+        from src.utils import create_html_with_ruby
+
         with st.expander(self.kanji):
             ruby = create_html_with_ruby(self.furigana)
             st.markdown(f":blue-badge[JLPT N{self.difficulty}] {ruby}", unsafe_allow_html=True)
@@ -407,7 +408,7 @@ class JPWord(BaseModel):
             ex.show_in_streamlit(st, auth)
 
     def pptx_generation(self, num_examples: int | None = 4) -> None:
-        file_name = f"./Output/{self.word}/{self.word} JLPT N3 Vocabulary.pptx"
+        file_name = f"./Output/{self.word}/{self.word} JLPT N4 Vocabulary.pptx"
         if os.path.exists(file_name):
             status.update(f"{self.word} PowerPoint already exists, skipping...")
             return
@@ -852,22 +853,21 @@ class JPWord(BaseModel):
 
 
 word_list = [
-    # "外出",
-    # "学問",
-    # "本物",
-    # "外す",
-    # "販売",
-    # "一言",
-    # "外出",
-    # "激しい",
-    # "議会",
-    # "議長",
-    # "学者",
-    # "学問",
-    # "品",
-    # "発明",
-    # "一人一人",
-    # "博物館",
+    "贈り物",
+    # "変える",
+    # "乾く",
+    # "季節",
+    # "競争",
+    # "計画",
+    # "講義",
+    # "習慣",
+    # "水道",
+    # "政治",
+    # "訪ねる",
+    # "丁寧",
+    # "泥棒",
+    # "運ぶ",
+    # "痩せる",
 ]
 
 

@@ -1,0 +1,461 @@
+{
+    "version": "0.2.0",
+    "word": "利益",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/opZBA6Wb45w",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "利益",
+        "reading": "りえき・りやく",
+        "introduction_japanese": "「利益」は、ビジネスや会社の決算、経済ニュース、社会の話、日常の「得する・損する」の会話でよく使います。宗教の場では「ご利益」としても聞きます。",
+        "introduction_english": "The noun りえき is common in business, company reports, economics news, social topics, and daily talk about gaining. In religious settings, you also hear ごりやく.",
+        "meanings": [
+            [
+                "profit",
+                "gains"
+            ],
+            [
+                "benefit",
+                "advantage",
+                "good",
+                "interests"
+            ],
+            [
+                "grace (from gods or Buddha)",
+                "blessing",
+                "miracle"
+            ]
+        ],
+        "meaning_explanation_japanese": "「利益」は、お金のもうけやプラスになることを表します。人や社会にとってのよい点も言えます。宗教では「ご利益（ごりやく）」といい、神様や仏様からの恵みをさします。",
+        "meaning_explanation_english": "The word りえき means money profit or a positive gain. It can also mean a benefit or advantage for people or society. With the reading りやく, usually as ごりやく, it means a blessing or grace.",
+        "kanji_explanation_english": "The first kanji means advantage or benefit. You can feel this in words like べんり, where it’s about something being useful, and りし, which is the interest you gain on money. Both show the idea of getting a benefit. The second kanji means increase or gain. In words like ゆうえき, it shows something that is beneficial, and しゅうえき, which is earnings or revenue. Both carry the sense of added value.",
+        "kanji_details": [
+            {
+                "kanji": "利",
+                "common_words": [
+                    "便利 (べんり): convenient; handy",
+                    "利子 (りし): interest (on money)"
+                ]
+            },
+            {
+                "kanji": "益",
+                "common_words": [
+                    "有益 (ゆうえき): beneficial; useful",
+                    "収益 (しゅうえき): revenue; earnings"
+                ]
+            }
+        ],
+        "synonyms": [
+            "収益 : しゅうえき : revenue; earnings",
+            "利点 : りてん : advantage; strong point"
+        ],
+        "synonyms_explanation": "The most common synonyms of the りえき are しゅうえき and りてん. しゅうえき is about money coming in and is accounting-style, not always the same as profit. りてん means a strong point or advantage and is not limited to money.",
+        "antonyms": [
+            "損失 : そんしつ : loss",
+            "不利益 : ふりえき : disadvantage; detriment"
+        ],
+        "antonyms_explanation": "The most common antonyms of the りえき are そんしつ and ふりえき. そんしつ is a money loss. ふりえき is a disadvantage or harm to someone’s interest.",
+        "examples": [
+            {
+                "kanji": "この会社は利益をあげた。",
+                "furigana": "この会社(かいしゃ)は利益(りえき)を上(あ)げた。",
+                "translations": {
+                    "EN": "The company made a profit.",
+                    "ID": "Perusahaan itu mendapat keuntungan.",
+                    "ES": "La empresa obtuvo beneficios.",
+                    "VI": "Công ty đã có lãi.",
+                    "FR": "L'entreprise a réalisé un bénéfice.",
+                    "NE": "कम्पनीले नाफा कमायो।",
+                    "BN": "কোম্পানিটি লাভ করেছে।",
+                    "ZH": "该公司盈利了。",
+                    "KO": "이 회사는 이익을 주었다.",
+                    "TL": "Kumita ang kumpanya.",
+                    "MY": "ကုမ္ပဏီက အမြတ်ထုတ်တယ်။",
+                    "HI": "कंपनी ने लाभ कमाया।",
+                    "AR": "حققت الشركة ربحًا.",
+                    "FA": "شرکت سود کرد."
+                }
+            },
+            {
+                "kanji": "私たちは社会に利益をもたらす。",
+                "furigana": "私(わたし)たちは社会(しゃかい)に利益(りえき)をもたらす。",
+                "translations": {
+                    "EN": "We benefit society.",
+                    "ID": "Kami memberi manfaat bagi masyarakat.",
+                    "ES": "Beneficiamos a la sociedad.",
+                    "VI": "Chúng tôi mang lại lợi ích cho xã hội.",
+                    "FR": "Nous bénéficions à la société.",
+                    "NE": "हामी समाजलाई फाइदा पुर्‍याउँछौं।",
+                    "BN": "আমরা সমাজের উপকার করি।",
+                    "ZH": "我们造福社会。",
+                    "KO": "우리는 사회에 이익을 가져다.",
+                    "TL": "Nakikinabang tayo sa lipunan.",
+                    "MY": "လူ့အဖွဲ့အစည်းကို အကျိုးပြုတယ်။",
+                    "HI": "हम समाज को लाभ पहुँचाते हैं।",
+                    "AR": "نحن نفيد المجتمع.",
+                    "FA": "ما به جامعه سود می‌رسانیم."
+                }
+            },
+            {
+                "kanji": "彼らは利益の最大化を目指す。",
+                "furigana": "彼(かれ)らは利益(りえき)の最大化(さいだいか)を目指(めざ)す。",
+                "translations": {
+                    "EN": "They aim to maximize profits.",
+                    "ID": "Mereka bertujuan untuk memaksimalkan keuntungan.",
+                    "ES": "Su objetivo es maximizar las ganancias.",
+                    "VI": "Họ muốn tối đa hóa lợi nhuận.",
+                    "FR": "Ils visent à maximiser les profits.",
+                    "NE": "तिनीहरूको लक्ष्य अधिकतम नाफा कमाउनु हो।",
+                    "BN": "তাদের লক্ষ্য সর্বাধিক মুনাফা অর্জন করা।",
+                    "ZH": "他们的目标是实现利润最大化。",
+                    "KO": "그들은 이익의 극대화를 목표로 한다.",
+                    "TL": "Nilalayon nilang i-maximize ang kita.",
+                    "MY": "သူတို့သည် အမြတ်အစွန်းအများဆုံးရရန် ရည်ရွယ်သည်။",
+                    "HI": "उनका लक्ष्य अधिकतम लाभ कमाना है।",
+                    "AR": "يهدفون إلى تحقيق أقصى قدر من الأرباح.",
+                    "FA": "هدف آنها به حداکثر رساندن سود است."
+                }
+            },
+            {
+                "kanji": "会社は利益を顧客に還元する。",
+                "furigana": "会社(かいしゃ)は利益(りえき)を顧客(こきゃく)に還元(かんげん)する。",
+                "translations": {
+                    "EN": "The company passes on profits to its customers.",
+                    "ID": "Perusahaan meneruskan keuntungan kepada pelanggannya.",
+                    "ES": "La empresa transfiere los beneficios a sus clientes.",
+                    "VI": "Công ty chuyển lợi nhuận cho khách hàng.",
+                    "FR": "L'entreprise transmet ses bénéfices à ses clients.",
+                    "NE": "कम्पनीले आफ्ना ग्राहकहरूलाई नाफा हस्तान्तरण गर्छ।",
+                    "BN": "কোম্পানিটি তার গ্রাহকদের কাছে লাভ হস্তান্তর করে।",
+                    "ZH": "该公司将利润转嫁给客户。",
+                    "KO": "회사는 이익을 고객에게 환원한다.",
+                    "TL": "Ipinapasa ng kumpanya ang kita sa mga customer nito.",
+                    "MY": "ကုမ္ပဏီသည် ၎င်း၏ဖောက်သည်များအား အမြတ်ငွေများ ပေးဆောင်သည်။",
+                    "HI": "कंपनी अपने लाभ को अपने ग्राहकों तक पहुंचाती है।",
+                    "AR": "تنقل الشركة الأرباح إلى عملائها.",
+                    "FA": "این شرکت سود را به مشتریان خود منتقل می‌کند."
+                }
+            },
+            {
+                "kanji": "この投資は短期的な利益がある。",
+                "furigana": "この投資(とうし)は短期的(たんきてき)な利益(りえき)がある。",
+                "translations": {
+                    "EN": "This investment has short-term benefits.",
+                    "ID": "Investasi ini memiliki manfaat jangka pendek.",
+                    "ES": "Esta inversión tiene beneficios a corto plazo.",
+                    "VI": "Khoản đầu tư này có lợi ích ngắn hạn.",
+                    "FR": "Cet investissement présente des avantages à court terme.",
+                    "NE": "यो लगानीबाट अल्पकालीन फाइदा हुन्छ।",
+                    "BN": "এই বিনিয়োগের স্বল্পমেয়াদী সুবিধা রয়েছে।",
+                    "ZH": "这项投资具有短期效益。",
+                    "KO": "이 투자는 단기적인 이익이 있다.",
+                    "TL": "Ang pamumuhunan na ito ay may panandaliang benepisyo.",
+                    "MY": "ဤရင်းနှီးမြှုပ်နှံမှုသည် ရေတိုအကျိုးခံစားခွင့်ရှိသည်။",
+                    "HI": "इस निवेश से अल्पकालिक लाभ मिलता है।",
+                    "AR": "هذا الاستثمار له فوائد قصيرة المدى.",
+                    "FA": "این سرمایه‌گذاری در کوتاه‌مدت سود خوبی دارد."
+                }
+            },
+            {
+                "kanji": "彼は莫大な利益を得た。",
+                "furigana": "彼(かれ)は莫大(ばくだい)な利益(りえき)を得(え)た。",
+                "translations": {
+                    "EN": "He made a huge profit.",
+                    "ID": "Dia mendapat keuntungan besar.",
+                    "ES": "Obtuvo una ganancia enorme.",
+                    "VI": "Ông đã thu được lợi nhuận khổng lồ.",
+                    "FR": "Il a fait un énorme profit.",
+                    "NE": "उसले धेरै नाफा कमायो।",
+                    "BN": "সে প্রচুর লাভ করেছে।",
+                    "ZH": "他赚了巨额利润。",
+                    "KO": "그는 막대한 이익을 얻었다.",
+                    "TL": "Malaki ang kita niya.",
+                    "MY": "သူသည် ကြီးမားသော အမြတ်ငွေကို ရရှိခဲ့သည်။",
+                    "HI": "उसने बहुत बड़ा लाभ कमाया।",
+                    "AR": "لقد حقق ربحًا كبيرًا.",
+                    "FA": "او سود هنگفتی به دست آورد."
+                }
+            },
+            {
+                "kanji": "神社でご利益を祈った。",
+                "furigana": "神社(じんじゃ)で御利益(ごりやく)を祈(いの)った。",
+                "translations": {
+                    "EN": "I prayed for blessings at the shrine.",
+                    "ID": "Saya berdoa memohon berkah di kuil.",
+                    "ES": "Oré por bendiciones en el santuario.",
+                    "VI": "Tôi cầu nguyện xin phước lành ở đền thờ.",
+                    "FR": "J'ai prié pour des bénédictions au sanctuaire.",
+                    "NE": "मैले तीर्थस्थलमा आशीर्वादको लागि प्रार्थना गरें।",
+                    "BN": "আমি মাজারে আশীর্বাদ প্রার্থনা করলাম।",
+                    "ZH": "我在神社祈求祝福。",
+                    "KO": "신사에서 이익을 기도했다.",
+                    "TL": "Nanalangin ako para sa mga pagpapala sa dambana.",
+                    "MY": "ဘုရားမှာ ဆု​တောင်း​ပေးခဲ့တယ်​။",
+                    "HI": "मैंने दरगाह पर आशीर्वाद के लिए प्रार्थना की।",
+                    "AR": "صليت من أجل البركات في الضريح.",
+                    "FA": "من در حرم برای خیر و برکت دعا کردم."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "profit": {
+                "ID": "laba",
+                "ES": "ganancia",
+                "VI": "lợi nhuận",
+                "FR": "profit",
+                "NE": "नाफा",
+                "BN": "লাভ",
+                "ZH": "利润",
+                "KO": "이익",
+                "TL": "tubo",
+                "MY": "အမြတ်",
+                "HI": "लाभ",
+                "AR": "ربح",
+                "FA": "سود",
+                "EN": [
+                    "gains"
+                ]
+            },
+            "benefit": {
+                "ID": "keuntungan",
+                "ES": "beneficio",
+                "VI": "lợi ích",
+                "FR": "avantage",
+                "NE": "फाइदा",
+                "BN": "সুবিধা",
+                "ZH": "益处",
+                "KO": "혜택",
+                "TL": "benepisyo",
+                "MY": "အကျိုး",
+                "HI": "फ़ायदा",
+                "AR": "فائدة",
+                "FA": "فایده",
+                "EN": [
+                    "advantage",
+                    "good",
+                    "interests"
+                ]
+            },
+            "grace (from gods or Buddha)": {
+                "ID": "rahmat (dari dewa atau Buddha)",
+                "ES": "gracia (de los dioses o de Buda)",
+                "VI": "ân sủng (từ các vị thần hoặc Đức Phật)",
+                "FR": "grâce (des dieux ou de Bouddha)",
+                "NE": "अनुग्रह (देवता वा बुद्धबाट)",
+                "BN": "অনুগ্রহ (দেবতা বা বুদ্ধের কাছ থেকে)",
+                "ZH": "恩典（来自神或佛）",
+                "KO": "은총(신이나 부처로부터)",
+                "TL": "biyaya (mula sa mga diyos o Buddha)",
+                "MY": "ကျေးဇူးတော် (ဘုရား သို့မဟုတ် ဗုဒ္ဓထံမှ)",
+                "HI": "कृपा (देवताओं या बुद्ध से)",
+                "AR": "النعمة (من الآلهة أو بوذا)",
+                "FA": "لطف (از جانب خدایان یا بودا)",
+                "EN": [
+                    "blessing",
+                    "miracle"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "利益",
+        "is_common": true,
+        "tags": [
+            "wanikani28"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "利益",
+                "reading": "りえき"
+            },
+            {
+                "word": "利益",
+                "reading": "りやく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "profit",
+                    "gains"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "benefit",
+                    "advantage",
+                    "good",
+                    "interests (e.g. of society)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "grace (of God, Buddha, etc., esp. as attained through rightful actions, prayer, adherence to one's faith, etc.)",
+                    "blessing",
+                    "miracle"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "りやく"
+                ],
+                "see_also": [
+                    "御利益"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. ご〜"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Profit (economics)"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Profit (economics)” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Profit_(economics)?oldid=494575049"
+                    },
+                    {
+                        "text": "Read “利益” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/利益?oldid=42500764"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Profit_(economics)"
+        }
+    },
+    "kanji_list": [
+        "利",
+        "益"
+    ],
+    "kanji_data": {
+        "利": {
+            "freq_mainichi_shinbun": 203,
+            "grade": 4,
+            "heisig_en": "profit",
+            "jlpt": 3,
+            "kanji": "利",
+            "kun_readings": [
+                "き.く"
+            ],
+            "meanings": [
+                "advantage",
+                "benefit",
+                "profit"
+            ],
+            "name_readings": [
+                "かが",
+                "と",
+                "とし",
+                "のり",
+                "み",
+                "りい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "リ"
+            ],
+            "stroke_count": 7,
+            "unicode": "5229"
+        },
+        "益": {
+            "freq_mainichi_shinbun": 674,
+            "grade": 5,
+            "heisig_en": "benefit",
+            "jlpt": 1,
+            "kanji": "益",
+            "kun_readings": [
+                "ま.す"
+            ],
+            "meanings": [
+                "advantage",
+                "benefit",
+                "gain",
+                "profit"
+            ],
+            "name_readings": [
+                "まし",
+                "ます"
+            ],
+            "notes": [],
+            "on_readings": [
+                "エキ",
+                "ヤク"
+            ],
+            "stroke_count": 10,
+            "unicode": "76CA"
+        }
+    },
+    "collocations": [
+        "利益の追求",
+        "利益の確保",
+        "利益の配分",
+        "利益の最大化",
+        "利益の還元",
+        "利益を得る",
+        "利益をあげる",
+        "利益を追求する",
+        "利益を確保する",
+        "利益を分配する",
+        "利益を再投資する",
+        "顧客に利益を還元する",
+        "市場に利益をもたらす",
+        "社会に利益をもたらす",
+        "株主に利益を還元する",
+        "企業に利益をもたらす",
+        "純粋な利益",
+        "実質的な利益",
+        "莫大な利益",
+        "潜在的な利益",
+        "短期的な利益",
+        "利益率",
+        "利益額",
+        "利益拡大",
+        "利益構造",
+        "利益分配"
+    ]
+}

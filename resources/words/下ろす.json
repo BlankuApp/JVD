@@ -1,0 +1,606 @@
+{
+    "version": "0.2.0",
+    "word": "下ろす",
+    "jlpt_level": 3,
+    "youtube_link": "",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "下ろす",
+        "reading": "おろす",
+        "introduction_japanese": "下ろすは、物を下に動かす、降ろす、荷物や人を車やバスから降ろす、髪をほどいて下に下げるなど、動作や日常の場面でよく使う動詞です。",
+        "introduction_english": "The verb おろす is commonly used in everyday situations to talk about moving something down, taking people or luggage off vehicles, lowering blinds or flags, and letting hair down.",
+        "meanings": [
+            [
+                "to take down; to bring down; to lower (a hand, flag, shutter, etc.); to drop (an anchor, curtain, etc.); to let down (hair); to launch (a boat)"
+            ],
+            [
+                "to drop off (a passenger); to let off; to unload (goods, a truck, etc.); to offload; to discharge"
+            ],
+            [
+                "to withdraw (money)"
+            ],
+            [
+                "to use for the first time; to wear for the first time"
+            ],
+            [
+                "to cut off; to fillet (fish); to grate (e.g. radish); to prune (branches)"
+            ],
+            [
+                "to remove (someone from a position); to oust; to drop (esp. 降ろす)"
+            ],
+            [
+                "to clear (the table); to remove (offerings from an altar); to pass down; to hand down"
+            ],
+            [
+                "to expel from the body (e.g. worms); to abort (a fetus)"
+            ],
+            [
+                "to invoke (a spirit); to call down"
+            ]
+        ],
+        "meaning_explanation_japanese": "「下ろす」は、何かを上から下に動かすことや、車から人や荷物を降ろすこと、お金を引き出すこと、初めて使う・身につけること、魚をおろす（さばく）など、色々な場面で「下へ移す・取り除く」という意味で使います。",
+        "meaning_explanation_english": "The word おろす means moving something down or removing it: lowering objects, taking people or luggage off a vehicle, withdrawing money, using or wearing something for the first time, or preparing/filleting food. It broadly expresses 'bringing down' or 'offloading.'",
+        "kanji_explanation_english": "The first kanji means below or down. In the word ちか it helps give the idea of something being under the ground, like underground. In the word へた it adds the image of being lower in skill compared to others.",
+        "kanji_details": [
+            {
+                "kanji": "下",
+                "common_words": [
+                    "地下 (ちか): underground",
+                    "下手 (へた): unskillful"
+                ]
+            }
+        ],
+        "synonyms": [
+            "降ろす : おろす : to lower; to drop off",
+            "卸す : おろす : to wholesale; to distribute (goods)"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word are おろす and おろす. The first (written with ふるえる kanji different from the main one) is often used for getting people or things down (like dropping off passengers). The second (おろす written as wholesale kanji) focuses on selling or distributing goods; both share the basic idea of \"moving something away/down.\"",
+        "antonyms": [
+            "上げる : あげる : to raise; to lift up",
+            "載せる : のせる : to put on; to load onto"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word are あげる and のせる. あげる expresses moving something up or raising it, the opposite of lowering. のせる means to put or load something onto a vehicle or surface, which is the reverse action of unloading or 下ろす.",
+        "examples": [
+            {
+                "kanji": "荷物を下ろす。",
+                "furigana": "荷物(にもつ)を下ろす(おろす)。",
+                "translations": {
+                    "EN": "Put down your luggage.",
+                    "ID": "Letakkan barang bawaan Anda.",
+                    "ES": "Deja tu equipaje en el suelo.",
+                    "VI": "Đặt hành lý xuống.",
+                    "FR": "Posez vos bagages.",
+                    "NE": "आफ्नो सामान तल राख्नुहोस्।",
+                    "BN": "তোমার লাগেজ নামিয়ে রাখো।",
+                    "ZH": "放下你的行李。",
+                    "KO": "짐을 내린다.",
+                    "TL": "Ibaba mo ang iyong bagahe.",
+                    "MY": "မင်းရဲ့ ခရီးဆောင်အိတ်ကို ချလိုက်ပါ။",
+                    "HI": "अपना सामान नीचे रखो.",
+                    "AR": "ضع أمتعتك.",
+                    "FA": "چمدانت را زمین بگذار."
+                }
+            },
+            {
+                "kanji": "お金を下ろす。",
+                "furigana": "お金(おかね)を下ろす(おろす)。",
+                "translations": {
+                    "EN": "Withdraw money.",
+                    "ID": "Tarik uang.",
+                    "ES": "Retirar dinero.",
+                    "VI": "Rút tiền.",
+                    "FR": "Retirer de l'argent.",
+                    "NE": "पैसा झिक्नुहोस्।",
+                    "BN": "টাকা তুলে নাও।",
+                    "ZH": "取錢。",
+                    "KO": "돈을 내린다.",
+                    "TL": "Mag-withdraw ng pera.",
+                    "MY": "ငွေထုတ်ပါ။",
+                    "HI": "पैसे निकाले।",
+                    "AR": "سحب الأموال.",
+                    "FA": "پول برداشت کردن."
+                }
+            },
+            {
+                "kanji": "ブラインドを下ろす。",
+                "furigana": "ブラインドを下ろす(おろす)。",
+                "translations": {
+                    "EN": "Lower the blinds.",
+                    "ID": "Turunkan tirai.",
+                    "ES": "Bajar las persianas.",
+                    "VI": "Hạ rèm xuống.",
+                    "FR": "Baissez les stores.",
+                    "NE": "पर्दाहरू तल झार्नुहोस्।",
+                    "BN": "পর্দাগুলো নামিয়ে দাও।",
+                    "ZH": "放下百叶窗。",
+                    "KO": "블라인드를 내립니다.",
+                    "TL": "Ibaba ang mga blind.",
+                    "MY": "လိုက်ကာများကို လျှော့ပါ။",
+                    "HI": "पर्दे नीचे कर दें।",
+                    "AR": "اخفض الستائر.",
+                    "FA": "پرده‌ها را پایین بکشید."
+                }
+            },
+            {
+                "kanji": "バスから人を下ろす。",
+                "furigana": "バスから人(ひと)を下ろす(おろす)。",
+                "translations": {
+                    "EN": "Get people off the bus.",
+                    "ID": "Turunkan orang-orang dari bus.",
+                    "ES": "Sacar a la gente del autobús.",
+                    "VI": "Đưa mọi người xuống xe buýt.",
+                    "FR": "Faites descendre les gens du bus.",
+                    "NE": "मानिसहरूलाई बसबाट ओराल्नुहोस्।",
+                    "BN": "বাস থেকে লোকজন নামিয়ে দাও।",
+                    "ZH": "让人们下车。",
+                    "KO": "버스에서 사람을 내립니다.",
+                    "TL": "Ilabas ang mga tao sa bus.",
+                    "MY": "လူတွေကို ဘတ်စ်ကားပေါ်က ဆင်းပါ။",
+                    "HI": "लोगों को बस से उतारो.",
+                    "AR": "أخرج الناس من الحافلة.",
+                    "FA": "مردم را از اتوبوس پیاده کنید."
+                }
+            },
+            {
+                "kanji": "髪を下ろす。",
+                "furigana": "髪(かみ)を下ろす(おろす)。",
+                "translations": {
+                    "EN": "Let your hair down.",
+                    "ID": "Biarkan rambutmu tergerai.",
+                    "ES": "Déjate el pelo suelto.",
+                    "VI": "Hãy thả tóc xuống.",
+                    "FR": "Lâchez vos cheveux.",
+                    "NE": "आफ्नो कपाल तल झार्न दिनुहोस्।",
+                    "BN": "তোমার চুলগুলো নামিয়ে দাও।",
+                    "ZH": "把头发放下来。",
+                    "KO": "머리를 내린다.",
+                    "TL": "Hayaan ang iyong buhok.",
+                    "MY": "သင့်ဆံပင်ကို ချလိုက်ပါ။",
+                    "HI": "अपने बालो को नीचे करो।",
+                    "AR": "اترك شعرك منسدلا.",
+                    "FA": "موهایت را باز بگذار."
+                }
+            },
+            {
+                "kanji": "棚から本を下ろす。",
+                "furigana": "棚(たな)から本(ほん)を下ろす(おろす)。",
+                "translations": {
+                    "EN": "Take the book down from the shelf.",
+                    "ID": "Ambil buku itu dari rak.",
+                    "ES": "Baja el libro del estante.",
+                    "VI": "Lấy cuốn sách xuống khỏi kệ.",
+                    "FR": "Retirez le livre de l’étagère.",
+                    "NE": "किताबलाई शेल्फबाट तल झार।",
+                    "BN": "বইটা শেলফ থেকে নামাও।",
+                    "ZH": "把书从书架上拿下来。",
+                    "KO": "선반에서 책을 내립니다.",
+                    "TL": "Ibaba ang libro mula sa istante.",
+                    "MY": "စာအုပ်ကို စင်ပေါ်ကနေ ချလိုက်တယ်။",
+                    "HI": "किताब को शेल्फ से नीचे उतारें।",
+                    "AR": "خذ الكتاب إلى أسفل من الرف.",
+                    "FA": "کتاب را از قفسه پایین بیاورید."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "to take down; to bring down; to lower (a hand, flag, shutter, etc.); to drop (an anchor, curtain, etc.); to let down (hair); to launch (a boat)": {
+                "ID": "menurunkan; menjatuhkan; menurunkan (tangan, bendera, penutup jendela, dsb.); menjatuhkan (jangkar, tirai, dsb.); menurunkan (rambut); meluncurkan (perahu)",
+                "ES": "derribar; bajar; arriar (una mano, una bandera, una persiana, etc.); dejar caer (un ancla, una cortina, etc.); soltar (el pelo); botar (un barco)",
+                "VI": "hạ xuống; mang xuống; hạ thấp (bàn tay, lá cờ, cửa chớp, v.v.); thả (mỏ neo, rèm, v.v.); thả xuống (tóc); hạ thủy (thuyền)",
+                "FR": "démonter ; abattre ; abaisser (une main, un drapeau, un volet, etc.) ; jeter (une ancre, un rideau, etc.) ; laisser tomber (des cheveux) ; mettre à l'eau (un bateau)",
+                "NE": "तल झार्नु; तल झार्नु; तल झार्नु (हात, झण्डा, शटर, आदि); खसाल्नु (लङ्गर, पर्दा, आदि); तल झार्नु (कपाल); डुङ्गा चलाउनु (डुङ्गा)",
+                "BN": "নামানো; নামিয়ে আনা; নামানো (একটি হাত, পতাকা, শাটার, ইত্যাদি); ফেলে দেওয়া (নোঙ্গর, পর্দা, ইত্যাদি); নামিয়ে দেওয়া (চুল); লঞ্চ করা (নৌকা)",
+                "ZH": "取下；放下；放下（手、旗帜、百叶窗等）；放下（锚、窗帘等）；放下（头发）；下水（船）",
+                "KO": "내리다; 내리다; (손, 깃발, 셔터 등을) 낮추다; (닻, 커튼 등을) 떨어뜨리다; (머리카락을) 내리다; (배를) 진수시키다",
+                "TL": "upang ibagsak; upang ibagsak; upang ibaba ang (isang kamay, bandila, panangga sa bintana, atbp.); upang ihulog (isang anchor, kurtina, atbp.); to let down (buhok); upang ilunsad (isang bangka)",
+                "MY": "ဖြုတ်ချရန်၊ နှိမ့်ချရန်; အောက်ပိုင်း (လက်၊ အလံ၊ ရှပ်တာ စသည်ဖြင့်)။ ပစ်ချရန် (ကျောက်ဆူး၊ ကုလားကာ စသည်ဖြင့်)၊ ဆံပင်ချရန်၊ ပစ်လွှတ်ရန် (လှေ)",
+                "HI": "नीचे ले जाना; नीचे लाना; नीचे करना (हाथ, झंडा, शटर, आदि); गिराना (लंगर, पर्दा, आदि); नीचे करना (बाल); पानी में उतारना (नाव)",
+                "AR": "إنزال؛ إنزال؛ خفض (يد، علم، مصراع، إلخ)؛ إسقاط (مرساة، ستارة، إلخ)؛ إنزال (شعر)؛ إطلاق (قارب)",
+                "FA": "پایین آوردن؛ پایین آوردن؛ پایین آوردن (دست، پرچم، کرکره و غیره)؛ انداختن (لنگر، پرده و غیره)؛ پایین آوردن (مو)؛ به آب انداختن (قایق)",
+                "EN": []
+            },
+            "to drop off (a passenger); to let off; to unload (goods, a truck, etc.); to offload; to discharge": {
+                "ID": "menurunkan (penumpang); menurunkan; membongkar (barang, truk, dsb.); menurunkan muatan; membongkar",
+                "ES": "dejar (a un pasajero); dejar bajar; descargar (mercancías, un camión, etc.); descargar; descargar",
+                "VI": "thả (hành khách); thả xuống; dỡ hàng (hàng hóa, xe tải, v.v.); dỡ hàng; dỡ hàng",
+                "FR": "déposer (un passager) ; laisser descendre ; décharger (des marchandises, un camion, etc.) ; décharger",
+                "NE": "(यात्रुलाई) छोड्नु; छोड्नु; सामान उतार्नु (सामान, ट्रक, आदि); सामान ओराल्नु; खाली गर्नु",
+                "BN": "(যাত্রী) নামিয়ে দেওয়া; ছেড়ে দেওয়া; (মাল, ট্রাক, ইত্যাদি) নামানো; নামানো; খালাস করা",
+                "ZH": "放下（乘客）；放下；卸下（货物、卡车等）；卸下；卸货",
+                "KO": "(승객을) 내려주다; (물품, 트럭 등을) 내리다; 하역하다; 하역하다",
+                "TL": "mag-drop off (isang pasahero); upang pakawalan; mag-unload (mga kalakal, isang trak, atbp.); mag-offload; para idischarge",
+                "MY": "to drop off (ခရီးသည်); ချွတ်ပစ်ရန်; သယ်ယူရန် (ကုန်စည်၊ ထရပ်ကား စသည်)၊ offload လုပ်ဖို့; ထုတ်လွှတ်ရန်",
+                "HI": "उतारना (यात्री को); उतारना; उतारना (माल, ट्रक आदि); उतारना; उतारना",
+                "AR": "إنزال (راكب)؛ إنزال؛ تفريغ (بضائع، شاحنة، إلخ)؛ تفريغ؛ تفريغ",
+                "FA": "پیاده کردن (مسافر)؛ پیاده کردن؛ تخلیه کردن (کالا، کامیون و غیره)؛ تخلیه کردن؛ تخلیه کردن",
+                "EN": []
+            },
+            "to withdraw (money)": {
+                "ID": "untuk menarik (uang)",
+                "ES": "retirar (dinero)",
+                "VI": "rút (tiền)",
+                "FR": "retirer (de l'argent)",
+                "NE": "(पैसा) निकाल्नु",
+                "BN": "(টাকা) তোলা",
+                "ZH": "提取（钱）",
+                "KO": "(돈을) 인출하다",
+                "TL": "mag-withdraw (pera)",
+                "MY": "ထုတ်ယူရန် (ငွေ)",
+                "HI": "(पैसा) निकालना",
+                "AR": "سحب (المال)",
+                "FA": "برداشت کردن (پول)",
+                "EN": []
+            },
+            "to use for the first time; to wear for the first time": {
+                "ID": "untuk digunakan pertama kali; untuk dipakai pertama kali",
+                "ES": "usar por primera vez; usar por primera vez",
+                "VI": "sử dụng lần đầu; mặc lần đầu",
+                "FR": "utiliser pour la première fois; porter pour la première fois",
+                "NE": "पहिलो पटक प्रयोग गर्न; पहिलो पटक लगाउनु",
+                "BN": "প্রথমবার ব্যবহার করা; প্রথমবার পরার জন্য",
+                "ZH": "第一次使用；第一次穿",
+                "KO": "처음으로 사용하다; 처음으로 착용하다",
+                "TL": "gamitin sa unang pagkakataon; magsuot sa unang pagkakataon",
+                "MY": "ပထမဦးဆုံးအကြိမ်အသုံးပြုရန်; ပထမအကြိမ်ဝတ်ဖို့",
+                "HI": "पहली बार उपयोग करना; पहली बार पहनना",
+                "AR": "الاستخدام لأول مرة؛ الارتداء لأول مرة",
+                "FA": "برای اولین بار استفاده کردن؛ برای اولین بار پوشیدن",
+                "EN": []
+            },
+            "to cut off; to fillet (fish); to grate (e.g. radish); to prune (branches)": {
+                "ID": "memotong; memfillet (ikan); memarut (misalnya lobak); memangkas (cabang)",
+                "ES": "cortar; filetear (pescado); rallar (p. ej. rábano); podar (ramas)",
+                "VI": "cắt; lọc (cá); nạo (ví dụ củ cải); tỉa (cành cây)",
+                "FR": "couper ; fileter (poisson) ; râper (par exemple un radis) ; tailler (des branches)",
+                "NE": "काट्नु; फिलेट (माछा); पिस्नु (जस्तै मूला); काट्नु (हाँगाहरू)",
+                "BN": "কেটে ফেলা; মাছের ফিলেট করা; মুলা ঝাঁঝরি করা; ডালপালা ছাঁটাই করা",
+                "ZH": "切掉；切成鱼片；磨碎（例如萝卜）；修剪（树枝）",
+                "KO": "잘라내다; (생선을) 필렛으로 만들다; (예: 무를) 갈다; (가지를) 가지치다",
+                "TL": "upang putulin; sa fillet (isda); upang lagyan ng rehas (hal. labanos); putulan (mga sanga)",
+                "MY": "ဖြတ်ရန်; အသားလွှာ (ငါး); ဆန်ခါ (ဥပမာ မုန်လာဥနီ); သုတ်သင်ရန် (အကိုင်းအခက်)",
+                "HI": "काटना; (मछली) का टुकड़ा करना; (जैसे मूली) कद्दूकस करना; (शाखाएँ) छाँटना",
+                "AR": "قطع؛ تقطيع (السمك)؛ بشر (مثل الفجل)؛ تقليم (الأغصان)",
+                "FA": "قطع کردن؛ فیله کردن (ماهی)؛ رنده کردن (مثلاً تربچه)؛ هرس کردن (شاخه‌ها)",
+                "EN": []
+            },
+            "to remove (someone from a position); to oust; to drop (esp. 降ろす)": {
+                "ID": "untuk menghapus (seseorang dari suatu posisi); untuk mengusir; menjatuhkan (khususnya 降ろす)",
+                "ES": "quitar (a alguien de un puesto); expulsar; soltar (especialmente 降ろす)",
+                "VI": "loại bỏ (ai đó khỏi một vị trí); lật đổ ; thả (đặc biệt 降ろす)",
+                "FR": "retirer (quelqu'un d'un poste); évincer; laisser tomber (esp. 降ろす)",
+                "NE": "हटाउन (कसैलाई पदबाट); निष्कासन गर्न; छोड्नु (जस्तै 降ろす)",
+                "BN": "to remove (কোন অবস্থান থেকে কাউকে); উচ্ছেদ করা; ফেলে দেওয়া (বিশেষত 降ろす)",
+                "ZH": "将（某人从某个职位上）撤职；驱逐；掉落 (尤指 降ろす)",
+                "KO": "(어떤 위치에서 누군가를) 제거하다; 축출하다; 떨어뜨리다 (특히 降ろс)",
+                "TL": "upang alisin (isang tao mula sa isang posisyon); upang patalsikin; mag-drop (esp. 降ろす)",
+                "MY": "(ရာထူးမှတစ်စုံတစ်ဦးကိုဖယ်ရှားရန်); ဖယ်ရှားရန်; ပစ်ချရန် (ဥပမာ 降ろす)",
+                "HI": "हटाना (किसी को पद से); अपदस्थ करने के लिए; गिराना (विशेषतः 降ろす)",
+                "AR": "لإزالة (شخص ما من منصب)؛ للإطاحة؛ لإسقاط (خاصة 降ろす)",
+                "FA": "حذف کردن (کسی از موقعیت) اخراج کردن انداختن (مثلاً 降ろす)",
+                "EN": []
+            },
+            "to clear (the table); to remove (offerings from an altar); to pass down; to hand down": {
+                "ID": "membersihkan (meja); memindahkan (persembahan dari altar); mewariskan; menyerahkan",
+                "ES": "limpiar (la mesa); retirar (las ofrendas de un altar); pasar de generación en generación; transmitir",
+                "VI": "dọn sạch (bàn); lấy đi (lễ vật từ bàn thờ); truyền xuống; trao lại",
+                "FR": "débarrasser (la table) ; enlever (des offrandes d'un autel) ; transmettre ; transmettre",
+                "NE": "(टेबल) सफा गर्नु; (वेदीबाट भेटीहरू) हटाउनु; तल झार्नु; हस्तान्तरण गर्नु",
+                "BN": "(টেবিল) পরিষ্কার করা; (বেদি থেকে নৈবেদ্য) সরিয়ে ফেলা; নিচে দেওয়া; হস্তান্তর করা",
+                "ZH": "清理（桌子）；移走（祭坛上的祭品）；传递；传下来",
+                "KO": "(식탁을) 치우다; (제단에서) 제물을 치우다; 내려주다; 물려주다",
+                "TL": "upang i-clear (ang talahanayan); upang alisin (mga handog mula sa isang altar); upang pumasa; para ipasa",
+                "MY": "ရှင်းလင်းရန် (စားပွဲ); ယဇ်ပလ္လင်မှ ပူဇော်သက္ကာကို ဖယ်ရှားရန်၊ ဆင်းရန်; လက်လျှော့ရန်",
+                "HI": "(मेज) साफ़ करना; (वेदी से प्रसाद हटाना); आगे देना; सौंपना",
+                "AR": "تنظيف (الطاولة)؛ إزالة (القرابين من المذبح)؛ نقل؛ تسليم",
+                "FA": "(میز) را پاک کردن؛ (هدایای قربانی را از قربانگاه برداشتن)؛ به کسی دادن؛ به کسی دادن",
+                "EN": []
+            },
+            "to expel from the body (e.g. worms); to abort (a fetus)": {
+                "ID": "mengeluarkan dari tubuh (misalnya cacing); menggugurkan (janin)",
+                "ES": "expulsar del cuerpo (por ejemplo, gusanos); abortar (un feto)",
+                "VI": "trục xuất khỏi cơ thể (ví dụ giun); phá thai (thai nhi)",
+                "FR": "expulser du corps (par exemple des vers) ; avorter (un fœtus)",
+                "NE": "शरीरबाट निकाल्नु (जस्तै किरा); गर्भपतन गर्नु (भ्रूण)",
+                "BN": "শরীর থেকে বের করে দেওয়া (যেমন কৃমি); গর্ভপাত করা (ভ্রূণ)",
+                "ZH": "排出体外（例如蠕虫）；流产（胎儿）",
+                "KO": "몸에서 배출하다 (예: 벌레); (태아를) 유산시키다",
+                "TL": "upang paalisin mula sa katawan (hal. bulate); magpalaglag (isang fetus)",
+                "MY": "ခန္ဓာကိုယ်မှ နှင်ထုတ်ရန် (ဥပမာ သန်ကောင်များ)၊ ကိုယ်ဝန်ဖျက်ချရန် (သန္ဓေသား)",
+                "HI": "शरीर से बाहर निकालना (जैसे कीड़े); गर्भपात करना (भ्रूण)",
+                "AR": "طرد من الجسم (مثل الديدان)؛ إجهاض (الجنين)",
+                "FA": "دفع کردن (مثلاً کرم) از بدن؛ سقط کردن (جنین)",
+                "EN": []
+            },
+            "to invoke (a spirit); to call down": {
+                "ID": "untuk memanggil (roh); memanggil ke bawah",
+                "ES": "invocar (un espíritu); hacer descender",
+                "VI": "triệu hồi (một linh hồn); gọi xuống",
+                "FR": "invoquer (un esprit) ; faire descendre",
+                "NE": "(आत्मा) लाई बोलाउनु; बोलाउनु",
+                "BN": "(একটি আত্মাকে) আহ্বান করা; ডাকা",
+                "ZH": "召唤（灵魂）；呼唤",
+                "KO": "(영혼을) 불러내다; 불러내다",
+                "TL": "upang tumawag (isang espiritu); para tawagan pababa",
+                "MY": "to invoke (နတ်); ခေါ်ရန်",
+                "HI": "(आत्मा) को बुलाना; नीचे बुलाना",
+                "AR": "استدعاء (روح)؛ استدعاء",
+                "FA": "(روحی را) احضار کردن؛ فراخواندن",
+                "EN": []
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "下ろす",
+        "is_common": true,
+        "tags": [
+            "wanikani38"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "下ろす",
+                "reading": "おろす"
+            },
+            {
+                "word": "降ろす",
+                "reading": "おろす"
+            },
+            {
+                "word": "下す",
+                "reading": "おろす"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to take down",
+                    "to bring down",
+                    "to lower (a hand, flag, shutter, etc.)",
+                    "to drop (an anchor, curtain, etc.)",
+                    "to let down (hair)",
+                    "to launch (a boat)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to drop off (a passenger)",
+                    "to let off",
+                    "to unload (goods, a truck, etc.)",
+                    "to offload",
+                    "to discharge"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 降ろす"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to withdraw (money)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to use for the first time",
+                    "to wear for the first time"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to cut off",
+                    "to fillet (fish)",
+                    "to grate (e.g. radish)",
+                    "to prune (branches)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to remove (someone from a position)",
+                    "to oust",
+                    "to drop"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 降ろす"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to clear (the table)",
+                    "to remove (offerings from an altar)",
+                    "to pass down (e.g. old clothes)",
+                    "to hand down"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to expel from the body (e.g. worms)",
+                    "to abort (a fetus)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "堕ろす"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to invoke (a spirit)",
+                    "to call down"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "下"
+    ],
+    "kanji_data": {
+        "下": {
+            "freq_mainichi_shinbun": 97,
+            "grade": 1,
+            "heisig_en": "below",
+            "jlpt": 5,
+            "kanji": "下",
+            "kun_readings": [
+                "-くだ.す",
+                "お.りる",
+                "お.ろす",
+                "くだ.さる",
+                "くだ.す",
+                "くだ.り",
+                "くだ.る",
+                "さ.がる",
+                "さ.げる",
+                "した",
+                "しも",
+                "もと"
+            ],
+            "meanings": [
+                "below",
+                "descend",
+                "down",
+                "give",
+                "inferior",
+                "low"
+            ],
+            "name_readings": [
+                "さか",
+                "しと"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カ",
+                "ゲ"
+            ],
+            "stroke_count": 3,
+            "unicode": "4E0B"
+        }
+    },
+    "collocations": [
+        "荷物を下ろす",
+        "お金を下ろす",
+        "ブラインドを下ろす",
+        "看板を下ろす",
+        "看板を降ろす",
+        "商品を卸す",
+        "下ろした荷物",
+        "下ろしたブラインド",
+        "下ろした看板",
+        "卸した商品",
+        "下ろしたお金",
+        "ゆっくり下ろす",
+        "真っすぐ下ろす",
+        "一気に下ろす",
+        "こっそり下ろす",
+        "大量に卸す",
+        "棚から下ろす",
+        "床に下ろす",
+        "バスから降ろす",
+        "卸先に卸す",
+        "～まで下ろす",
+        "肩の荷を下ろす",
+        "胸をなで下ろす",
+        "人をこき下ろす",
+        "根を下ろす",
+        "髪を下ろす"
+    ]
+}

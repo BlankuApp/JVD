@@ -1,0 +1,395 @@
+{
+    "version": "0.2.0",
+    "word": "評価",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/ApeZyAWb1BI",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "評価",
+        "reading": "ひょうか",
+        "introduction_japanese": "評価は、学校の成績や仕事の業績、商品や作品の良し悪しを話すとき、また人や市場の評価をするときによく使う言葉です。",
+        "introduction_english": "The noun ひょうか is commonly used when talking about school grades, work performance, judging products or works, and how people or the market view something.",
+        "meanings": [
+            [
+                "valuation",
+                "appraisal",
+                "evaluation",
+                "assessment",
+                "estimation",
+                "rating",
+                "judging"
+            ],
+            [
+                "appreciation",
+                "recognition",
+                "acknowledgement",
+                "praising",
+                "rating highly"
+            ]
+        ],
+        "meaning_explanation_japanese": "「評価」は、何かの価値や良し悪しを判断して点数や意見を与えることです。客観的な査定としても、良い点を認める「高い評価」のような褒める意味でも使います。",
+        "meaning_explanation_english": "The word ひょうか means judging or assessing something's value or quality. It can be an objective appraisal or a positive recognition like giving something a high rating.",
+        "kanji_explanation_english": "The first kanji means comment and evaluation. I often see it in words like ひょうばん and ひょうろん. In ひょうばん it brings the idea of people's comments or reputation, and in ひょうろん it gives the sense of critical commentary or review. The second kanji means price or value. I often see it in words like かかく and かち. In かかく it shows price or cost, and in かち it shows worth or value.",
+        "kanji_details": [
+            {
+                "kanji": "評",
+                "common_words": [
+                    "評判 (ひょうばん): reputation",
+                    "評論 (ひょうろん): critique, commentary"
+                ]
+            },
+            {
+                "kanji": "価",
+                "common_words": [
+                    "価格 (かかく): price",
+                    "価値 (かち): value, worth"
+                ]
+            }
+        ],
+        "synonyms": [
+            "査定 : さてい : appraisal, valuation",
+            "判定 : はんてい : judgment, decision"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word are さてい and はんてい. さてい is used for formal appraisal of price or value, while はんてい is more about making a decision or formal judgment.",
+        "antonyms": [
+            "無視 : むし : ignoring, disregarding",
+            "過小評価 : かしょうひょうか : underestimation, undervaluing"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word are むし and かしょうひょうか. むし means to ignore something entirely, which is the opposite of evaluating it, and かしょうひょうか means to undervalue or underestimate, which contrasts with giving a fair or high evaluation.",
+        "examples": [
+            {
+                "kanji": "先生は学生の能力を評価する。",
+                "furigana": "先生(せんせい)は学生(がくせい)の能力(のうりょく)を評価(ひょうか)する。",
+                "translations": {
+                    "EN": "The teacher evaluates the students' abilities.",
+                    "ID": "Guru mengevaluasi kemampuan siswa.",
+                    "ES": "El profesor evalúa las habilidades de los estudiantes.",
+                    "VI": "Giáo viên đánh giá năng lực của học sinh.",
+                    "FR": "L'enseignant évalue les capacités des élèves.",
+                    "NE": "शिक्षकले विद्यार्थीहरूको क्षमताको मूल्याङ्कन गर्छन्।",
+                    "BN": "শিক্ষক শিক্ষার্থীদের দক্ষতা মূল্যায়ন করেন।",
+                    "ZH": "老师评估学生的能力。",
+                    "KO": "박사는 학생의 능력을 평가한다.",
+                    "TL": "Sinusuri ng guro ang kakayahan ng mga mag-aaral.",
+                    "MY": "ဆရာက ကျောင်းသားတွေရဲ့ အရည်အချင်းကို အကဲဖြတ်တယ်။",
+                    "HI": "शिक्षक छात्रों की क्षमताओं का मूल्यांकन करता है।",
+                    "AR": "يقوم المعلم بتقييم قدرات الطلاب.",
+                    "FA": "معلم توانایی‌های دانش‌آموزان را ارزیابی می‌کند."
+                }
+            },
+            {
+                "kanji": "会社は社員の業績を評価した。",
+                "furigana": "会社(かいしゃ)は社員(しゃいん)の業績(ぎょうせき)を評価(ひょうか)した。",
+                "translations": {
+                    "EN": "The company evaluated the performance of its employees.",
+                    "ID": "Perusahaan mengevaluasi kinerja karyawannya.",
+                    "ES": "La empresa evaluó el desempeño de sus empleados.",
+                    "VI": "Công ty đánh giá hiệu suất làm việc của nhân viên.",
+                    "FR": "L'entreprise a évalué les performances de ses employés.",
+                    "NE": "कम्पनीले आफ्ना कर्मचारीहरूको कार्यसम्पादनको मूल्याङ्कन गर्‍यो।",
+                    "BN": "কোম্পানিটি তার কর্মীদের কর্মক্ষমতা মূল্যায়ন করেছে।",
+                    "ZH": "公司对员工的绩效进行了评估。",
+                    "KO": "회사는 직원의 성과를 평가했다.",
+                    "TL": "Sinuri ng kumpanya ang pagganap ng mga empleyado nito.",
+                    "MY": "ကုမ္ပဏီသည် ၎င်း၏ဝန်ထမ်းများ၏ စွမ်းဆောင်ရည်ကို အကဲဖြတ်သည်။",
+                    "HI": "कंपनी ने अपने कर्मचारियों के प्रदर्शन का मूल्यांकन किया।",
+                    "AR": "قامت الشركة بتقييم أداء موظفيها.",
+                    "FA": "این شرکت عملکرد کارکنان خود را ارزیابی کرد."
+                }
+            },
+            {
+                "kanji": "この商品は市場で高い評価を得ている。",
+                "furigana": "この商品(しょうひん)は市場(しじょう)で高(たか)い評価(ひょうか)を得(え)ている。",
+                "translations": {
+                    "EN": "This product has received high praise in the market.",
+                    "ID": "Produk ini telah menerima pujian tinggi di pasar.",
+                    "ES": "Este producto ha recibido grandes elogios en el mercado.",
+                    "VI": "Sản phẩm này đã nhận được nhiều lời khen ngợi trên thị trường.",
+                    "FR": "Ce produit a reçu de nombreux éloges sur le marché.",
+                    "NE": "यो उत्पादनले बजारमा उच्च प्रशंसा पाएको छ।",
+                    "BN": "এই পণ্যটি বাজারে উচ্চ প্রশংসা পেয়েছে।",
+                    "ZH": "该产品在市场上获得了很高的好评。",
+                    "KO": "이 상품은 시장에서 높은 평가를 받고 있다.",
+                    "TL": "Ang produktong ito ay nakatanggap ng mataas na papuri sa merkado.",
+                    "MY": "ဒီထုတ်ကုန်ဟာ စျေးကွက်ထဲမှာ ချီးမြင့်ခံရပါတယ်။",
+                    "HI": "इस उत्पाद को बाजार में काफी प्रशंसा मिली है।",
+                    "AR": "لقد حظي هذا المنتج بإشادة كبيرة في السوق.",
+                    "FA": "این محصول در بازار با استقبال بالایی روبرو شده است."
+                }
+            },
+            {
+                "kanji": "作品の評価は人によって違う。",
+                "furigana": "作品(さくひん)の評価(ひょうか)は人(ひと)によって違(ちが)う。",
+                "translations": {
+                    "EN": "People's opinions of works vary.",
+                    "ID": "Pendapat orang tentang karya bervariasi.",
+                    "ES": "Las opiniones de la gente sobre las obras varían.",
+                    "VI": "Ý kiến của mọi người về tác phẩm rất khác nhau.",
+                    "FR": "Les opinions des gens sur les œuvres varient.",
+                    "NE": "कामहरूप्रति मानिसहरूको विचार फरक-फरक हुन्छ।",
+                    "BN": "কাজ সম্পর্কে মানুষের মতামত ভিন্ন।",
+                    "ZH": "人们对作品的看法各不相同。",
+                    "KO": "작품의 평가는 사람에 따라 다르다.",
+                    "TL": "Iba-iba ang opinyon ng mga tao sa mga gawa.",
+                    "MY": "လူတွေရဲ့ ခံယူချက်က ကွဲပြားပါတယ်။",
+                    "HI": "लोगों की रचनाओं के बारे में राय अलग-अलग होती है।",
+                    "AR": "آراء الناس حول الأعمال تختلف.",
+                    "FA": "نظر مردم در مورد آثار متفاوت است."
+                }
+            },
+            {
+                "kanji": "公正な評価を行ってください。",
+                "furigana": "公正(こうせい)な評価(ひょうか)を行(おこな)ってください。",
+                "translations": {
+                    "EN": "Please give a fair evaluation.",
+                    "ID": "Tolong berikan evaluasi yang adil.",
+                    "ES": "Por favor, haga una evaluación justa.",
+                    "VI": "Xin hãy đưa ra đánh giá công bằng.",
+                    "FR": "Veuillez donner une évaluation juste.",
+                    "NE": "कृपया निष्पक्ष मूल्याङ्कन दिनुहोस्।",
+                    "BN": "দয়া করে একটি ন্যায্য মূল্যায়ন দিন।",
+                    "ZH": "请给予公正的评价。",
+                    "KO": "공정한 평가를 실시하십시오.",
+                    "TL": "Mangyaring magbigay ng patas na pagsusuri.",
+                    "MY": "ကျေးဇူးပြု၍ မျှတသောအကဲဖြတ်ပါ။",
+                    "HI": "कृपया निष्पक्ष मूल्यांकन करें।",
+                    "AR": "يرجى إعطاء تقييم عادل.",
+                    "FA": "لطفا منصفانه ارزیابی کنید."
+                }
+            },
+            {
+                "kanji": "彼の研究は科学的評価を受けた。",
+                "furigana": "彼(かれ)の研究(けんきゅう)は科学的(かがくてき)評価(ひょうか)を受(う)けた。",
+                "translations": {
+                    "EN": "His research has received scientific recognition.",
+                    "ID": "Penelitiannya telah menerima pengakuan ilmiah.",
+                    "ES": "Sus investigaciones han recibido reconocimiento científico.",
+                    "VI": "Nghiên cứu của ông đã nhận được sự công nhận của khoa học.",
+                    "FR": "Ses recherches ont reçu une reconnaissance scientifique.",
+                    "NE": "उनको अनुसन्धानलाई वैज्ञानिक मान्यता प्राप्त भएको छ।",
+                    "BN": "তার গবেষণা বৈজ্ঞানিক স্বীকৃতি পেয়েছে।",
+                    "ZH": "他的研究得到了科学界的认可。",
+                    "KO": "그의 연구는 과학적 평가를 받았다.",
+                    "TL": "Ang kanyang pananaliksik ay nakatanggap ng siyentipikong pagkilala.",
+                    "MY": "သူ၏ သုတေသနပြုမှုမှာ သိပ္ပံနည်းကျ အသိအမှတ်ပြုမှု ရရှိခဲ့သည်။",
+                    "HI": "उनके शोध को वैज्ञानिक मान्यता प्राप्त हो गई है।",
+                    "AR": "وقد حظيت أبحاثه باعتراف علمي.",
+                    "FA": "تحقیقات او مورد تقدیر علمی قرار گرفته است."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "valuation": {
+                "ID": "penilaian",
+                "ES": "valuación",
+                "VI": "định giá",
+                "FR": "évaluation",
+                "NE": "मूल्याङ्कन",
+                "BN": "মূল্যায়ন",
+                "ZH": "估值",
+                "KO": "평가",
+                "TL": "pagpapahalaga",
+                "MY": "တန်ဖိုးဖြတ်ခြင်း။",
+                "HI": "मूल्यांकन",
+                "AR": "تقييم",
+                "FA": "ارزیابی",
+                "EN": [
+                    "appraisal",
+                    "evaluation",
+                    "assessment",
+                    "estimation",
+                    "rating",
+                    "judging"
+                ]
+            },
+            "appreciation": {
+                "ID": "apresiasi",
+                "ES": "apreciación",
+                "VI": "sự đánh giá cao",
+                "FR": "appréciation",
+                "NE": "प्रशंसा",
+                "BN": "প্রশংসা",
+                "ZH": "欣赏",
+                "KO": "감사",
+                "TL": "pagpapahalaga",
+                "MY": "ကျေးဇူးတင်ခြင်း",
+                "HI": "प्रशंसा",
+                "AR": "تقدير",
+                "FA": "قدردانی",
+                "EN": [
+                    "recognition",
+                    "acknowledgement",
+                    "praising",
+                    "rating highly"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "評価",
+        "is_common": true,
+        "tags": [
+            "wanikani22"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "評価",
+                "reading": "ひょうか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "valuation",
+                    "appraisal",
+                    "evaluation",
+                    "assessment",
+                    "estimation",
+                    "rating",
+                    "judging"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "appreciation",
+                    "recognition",
+                    "acknowledgement",
+                    "rating highly",
+                    "praising"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Assessment"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Assessment” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Assessment?oldid=476882041"
+                    },
+                    {
+                        "text": "Read “評価” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/評価?oldid=40583973"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Assessment"
+        }
+    },
+    "kanji_list": [
+        "評",
+        "価"
+    ],
+    "kanji_data": {
+        "評": {
+            "freq_mainichi_shinbun": 454,
+            "grade": 5,
+            "heisig_en": "evaluate",
+            "jlpt": 1,
+            "kanji": "評",
+            "kun_readings": [],
+            "meanings": [
+                "comment",
+                "criticism",
+                "evaluate"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ヒョウ"
+            ],
+            "stroke_count": 12,
+            "unicode": "8A55"
+        },
+        "価": {
+            "freq_mainichi_shinbun": 250,
+            "grade": 5,
+            "heisig_en": "value",
+            "jlpt": 1,
+            "kanji": "価",
+            "kun_readings": [
+                "あたい"
+            ],
+            "meanings": [
+                "price",
+                "value"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カ",
+                "ケ"
+            ],
+            "stroke_count": 8,
+            "unicode": "4FA1"
+        }
+    },
+    "collocations": [
+        "成績を評価する",
+        "能力を評価する",
+        "成果を評価する",
+        "業績を評価する",
+        "商品を評価する",
+        "作品の評価",
+        "人の評価",
+        "市場の評価",
+        "社会の評価",
+        "科学的評価",
+        "高い評価",
+        "正当な評価",
+        "客観的な評価",
+        "厳しい評価",
+        "公平な評価",
+        "評価を受ける",
+        "評価を下す",
+        "評価を得る",
+        "評価を与える",
+        "評価が高まる",
+        "評価に値する",
+        "評価の対象となる",
+        "評価を誤る",
+        "評価を左右する",
+        "評価を行う"
+    ]
+}

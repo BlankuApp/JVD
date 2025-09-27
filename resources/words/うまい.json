@@ -1,0 +1,416 @@
+{
+    "version": "0.2.0",
+    "word": "うまい",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/5g3DV4WQd-U",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "うまい",
+        "reading": "うまい",
+        "introduction_japanese": "「うまい」は、料理の味をほめる時、だれかの技や話し方をほめる時、そして計画やタイミングがよかった時の会話でよく使う形容詞です。",
+        "introduction_english": "The adjective うまい is commonly used when praising food, someone’s skill or way of speaking, and when talking about good timing, successful plans, or lucky deals.",
+        "meanings": [
+            [
+                "skillful",
+                "skilful",
+                "skilled",
+                "good",
+                "expert",
+                "clever (expression, trick, etc.)",
+                "apt",
+                "appropriate"
+            ],
+            [
+                "delicious",
+                "tasty",
+                "good",
+                "nice"
+            ],
+            [
+                "good (deal, idea, etc.)",
+                "profitable",
+                "promising",
+                "lucky",
+                "fortunate",
+                "successful",
+                "satisfactory",
+                "splendid"
+            ]
+        ],
+        "meaning_explanation_japanese": "「うまい」は三つの意味があります。人の技や表現がすぐれている時、食べ物や飲み物の味がよい時、そして計画や取引・タイミングがよくて物事がうまくいく時に使います。",
+        "meaning_explanation_english": "The word うまい can mean skillful or clever, delicious or tasty, and also a good or lucky situation where things go well.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "kanji_details": [],
+        "synonyms": [
+            "美味しい : おいしい : delicious; tasty",
+            "上手 : じょうず : skillful; good at"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word うまい are じょうず and おいしい. じょうず focuses on skill or technique, often with a noun plus が. おいしい only describes taste of food or drink, not plans or tricks.",
+        "antonyms": [
+            "不味い : まずい : bad-tasting; bad situation",
+            "下手 : へた : unskillful; poor at"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word うまい are へた and まずい. へた is the opposite of being good at something. まずい is the opposite of tasty, and can also mean a situation is bad.",
+        "examples": [
+            {
+                "kanji": "彼はギターがとてもうまい。",
+                "furigana": "彼(かれ)はギターがとてもうまい。",
+                "translations": {
+                    "EN": "He is very good at guitar.",
+                    "ID": "Dia sangat jago bermain gitar.",
+                    "ES": "Él es muy bueno con la guitarra.",
+                    "VI": "Anh ấy chơi guitar rất giỏi.",
+                    "FR": "Il est très bon à la guitare.",
+                    "NE": "उनी गितारमा धेरै राम्रो छन्।",
+                    "BN": "সে গিটারে খুব ভালো।",
+                    "ZH": "他非常擅长吉他。",
+                    "KO": "그는 기타가 매우 좋다.",
+                    "TL": "Napakagaling niya sa gitara.",
+                    "MY": "သူက ဂစ်တာအရမ်းတော်တယ်။",
+                    "HI": "वह गिटार बजाने में बहुत अच्छा है।",
+                    "AR": "إنه جيد جدًا في العزف على الجيتار.",
+                    "FA": "او در گیتار زدن خیلی مهارت دارد."
+                }
+            },
+            {
+                "kanji": "このラーメンはすごくうまい。",
+                "furigana": "このラーメンはすごくうまい。",
+                "translations": {
+                    "EN": "This ramen is really delicious.",
+                    "ID": "Ramen ini sungguh lezat.",
+                    "ES": "Este ramen es realmente delicioso.",
+                    "VI": "Món mì này thực sự rất ngon.",
+                    "FR": "Ce ramen est vraiment délicieux.",
+                    "NE": "यो रामेन साँच्चै स्वादिष्ट छ।",
+                    "BN": "এই রামেন সত্যিই সুস্বাদু।",
+                    "ZH": "这个拉面真是好吃。",
+                    "KO": "이라면은 매우 좋다.",
+                    "TL": "Ang sarap talaga ng ramen na ito.",
+                    "MY": "ဒီခေါက်ဆွဲထုပ်က တကယ်အရသာရှိတယ်။",
+                    "HI": "यह रेमन सचमुच स्वादिष्ट है।",
+                    "AR": "هذا الرامن لذيذ حقا.",
+                    "FA": "این رامن واقعاً خوشمزه است."
+                }
+            },
+            {
+                "kanji": "彼女は上手い表現をする。",
+                "furigana": "彼女(かのじょ)は上手(うま)い表現(ひょうげん)をする。",
+                "translations": {
+                    "EN": "She expresses herself well.",
+                    "ID": "Dia mengekspresikan dirinya dengan baik.",
+                    "ES": "Ella se expresa bien.",
+                    "VI": "Cô ấy diễn đạt rất tốt.",
+                    "FR": "Elle s'exprime bien.",
+                    "NE": "उनी आफूलाई राम्रोसँग व्यक्त गर्छिन्।",
+                    "BN": "সে নিজেকে ভালোভাবে প্রকাশ করে।",
+                    "ZH": "她很善于表达自己。",
+                    "KO": "그녀는 잘 표현한다.",
+                    "TL": "Mahusay niyang ipinapahayag ang kanyang sarili.",
+                    "MY": "သူမကိုယ်သူမကောင်းစွာဖော်ပြသည်။",
+                    "HI": "वह अपने आप को अच्छी तरह से व्यक्त करती है।",
+                    "AR": "إنها تعبر عن نفسها بشكل جيد.",
+                    "FA": "او به خوبی خودش را ابراز می‌کند."
+                }
+            },
+            {
+                "kanji": "うまい話に乗らないで。",
+                "furigana": "うまい話(はなし)に乗(の)らないで。",
+                "translations": {
+                    "EN": "Don't fall for the good news.",
+                    "ID": "Jangan tergiur dengan kabar baik.",
+                    "ES": "No te dejes engañar por las buenas noticias.",
+                    "VI": "Đừng tin vào tin tốt.",
+                    "FR": "Ne tombez pas dans le panneau des bonnes nouvelles.",
+                    "NE": "शुभ समाचारको मोहमा नपर्नुहोस्।",
+                    "BN": "সুসংবাদের ফাঁদে পা দেবেন না।",
+                    "ZH": "不要轻信好消息。",
+                    "KO": "좋은 이야기를 타지 마라.",
+                    "TL": "Huwag mahulog sa mabuting balita.",
+                    "MY": "သတင်းကောင်းအတွက် စိတ်မချပါနဲ့။",
+                    "HI": "अच्छी खबर के झांसे में मत आइए।",
+                    "AR": "لا تصدق الأخبار الجيدة.",
+                    "FA": "گول خبر خوب را نخورید."
+                }
+            },
+            {
+                "kanji": "今日はうまくやれた。",
+                "furigana": "今日(きょう)はうまくやれた。",
+                "translations": {
+                    "EN": "I did well today.",
+                    "ID": "Saya melakukannya dengan baik hari ini.",
+                    "ES": "Lo hice bien hoy.",
+                    "VI": "Hôm nay tôi làm tốt lắm.",
+                    "FR": "J'ai bien travaillé aujourd'hui.",
+                    "NE": "आज मैले राम्रो गरें।",
+                    "BN": "আজ আমি ভালো করেছি।",
+                    "ZH": "我今天表现很好。",
+                    "KO": "오늘은 잘 했어.",
+                    "TL": "Maganda ang ginawa ko ngayong araw.",
+                    "MY": "ဒီနေ့ ကောင်းကောင်းလုပ်ခဲ့တယ်။",
+                    "HI": "आज मैंने अच्छा प्रदर्शन किया।",
+                    "AR": "لقد فعلت جيدا اليوم.",
+                    "FA": "امروز خوب عمل کردم."
+                }
+            },
+            {
+                "kanji": "うまい具合に電車が来た。",
+                "furigana": "うまい具合(ぐあい)に電車(でんしゃ)が来(き)た。",
+                "translations": {
+                    "EN": "The train arrived just in time.",
+                    "ID": "Kereta tiba tepat waktu.",
+                    "ES": "El tren llegó justo a tiempo.",
+                    "VI": "Chuyến tàu đến vừa đúng lúc.",
+                    "FR": "Le train est arrivé juste à temps.",
+                    "NE": "रेल ठीक समयमा आइपुग्यो।",
+                    "BN": "ট্রেন ঠিক সময়ে এসে পৌঁছেছে।",
+                    "ZH": "火车刚好准时到达。",
+                    "KO": "좋은 상황에 기차가 왔다.",
+                    "TL": "Saktong dumating ang tren.",
+                    "MY": "ရထားက အချိန်မီရောက်တယ်။",
+                    "HI": "ट्रेन ठीक समय पर आ गयी।",
+                    "AR": "وصل القطار في الوقت المناسب.",
+                    "FA": "قطار درست سر وقت رسید."
+                }
+            },
+            {
+                "kanji": "彼の演技はかなり上手い。",
+                "furigana": "彼(かれ)の演技(えんぎ)はかなり上手(うま)い。",
+                "translations": {
+                    "EN": "His acting is quite good.",
+                    "ID": "Aktingnya cukup bagus.",
+                    "ES": "Su actuación es bastante buena.",
+                    "VI": "Diễn xuất của anh ấy khá tốt.",
+                    "FR": "Son jeu d'acteur est plutôt bon.",
+                    "NE": "उनको अभिनय एकदमै राम्रो छ।",
+                    "BN": "তার অভিনয় বেশ ভালো।",
+                    "ZH": "他的演技相当不错。",
+                    "KO": "그의 연기는 꽤 잘한다.",
+                    "TL": "Medyo magaling ang acting niya.",
+                    "MY": "သူ့သရုပ်ဆောင်ချက်က တော်တော်ကောင်းပါတယ်။",
+                    "HI": "उनका अभिनय काफी अच्छा है.",
+                    "AR": "تمثيله جيد جدًا.",
+                    "FA": "بازیگریش کاملاً خوبه."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "skillful": {
+                "ID": "mahir",
+                "ES": "hábil",
+                "VI": "khéo léo",
+                "FR": "habile",
+                "NE": "कुशल",
+                "BN": "দক্ষ",
+                "ZH": "熟练",
+                "KO": "잘 만들어진",
+                "TL": "magaling",
+                "MY": "လိမ္မာသော",
+                "HI": "कुशल",
+                "AR": "ماهر",
+                "FA": "ماهرانه",
+                "EN": [
+                    "skilful",
+                    "skilled",
+                    "good",
+                    "expert",
+                    "clever (expression, trick, etc.)",
+                    "apt",
+                    "appropriate"
+                ]
+            },
+            "delicious": {
+                "ID": "lezat",
+                "ES": "delicioso",
+                "VI": "thơm ngon",
+                "FR": "délicieux",
+                "NE": "स्वादिष्ट",
+                "BN": "সুস্বাদু",
+                "ZH": "可口的",
+                "KO": "맛있는",
+                "TL": "masarap",
+                "MY": "အရသာ",
+                "HI": "स्वादिष्ट",
+                "AR": "لذيذ",
+                "FA": "خوشمزه",
+                "EN": [
+                    "tasty",
+                    "good",
+                    "nice"
+                ]
+            },
+            "good (deal, idea, etc.)": {
+                "ID": "bagus (kesepakatan, ide, dsb.)",
+                "ES": "bueno (trato, idea, etc.)",
+                "VI": "tốt (thỏa thuận, ý tưởng, v.v.)",
+                "FR": "bon (affaire, idée, etc.)",
+                "NE": "राम्रो (सम्झौता, विचार, आदि)",
+                "BN": "ভালো (চুক্তি, ধারণা, ইত্যাদি)",
+                "ZH": "好的（交易、想法等）",
+                "KO": "좋은 (거래, 아이디어 등)",
+                "TL": "mabuti (kasunduan, ideya, atbp.)",
+                "MY": "ကောင်းသော (အပေးအယူ၊ စိတ်ကူး၊ စသည်ဖြင့်)",
+                "HI": "अच्छा (सौदा, विचार, आदि)",
+                "AR": "جيد (صفقة، فكرة، إلخ.)",
+                "FA": "خوب (معامله، ایده، و غیره)",
+                "EN": [
+                    "profitable",
+                    "promising",
+                    "lucky",
+                    "fortunate",
+                    "successful",
+                    "satisfactory",
+                    "splendid"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "旨い",
+        "is_common": true,
+        "tags": [
+            "wanikani43",
+            "wanikani50"
+        ],
+        "jlpt": [
+            "jlpt-n3",
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "上手い",
+                "reading": "うまい"
+            },
+            {
+                "word": "美味い",
+                "reading": "うまい"
+            },
+            {
+                "word": "旨い",
+                "reading": "うまい"
+            },
+            {
+                "word": "巧い",
+                "reading": "うまい"
+            },
+            {
+                "word": "甘い",
+                "reading": "うまい"
+            },
+            {
+                "word": "美い",
+                "reading": "うまい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "skillful",
+                    "skilful",
+                    "skilled",
+                    "good",
+                    "expert",
+                    "clever (expression, trick, etc.)",
+                    "apt",
+                    "appropriate"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 上手い, 巧い"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "delicious",
+                    "tasty",
+                    "good",
+                    "nice"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 旨い, 美味い, 甘い"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "good (deal, idea, etc.)",
+                    "profitable",
+                    "promising",
+                    "lucky",
+                    "fortunate",
+                    "successful",
+                    "satisfactory",
+                    "splendid"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 旨い"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [],
+    "kanji_data": {},
+    "collocations": [
+        "とてもうまい",
+        "すごくうまい",
+        "すごく上手い",
+        "かなりうまい",
+        "ずいぶんうまい",
+        "案外うまい",
+        "うまい料理",
+        "上手い表現",
+        "うまい話",
+        "上手い使い方",
+        "上手い演技",
+        "うまくやる",
+        "上手に話す",
+        "うまく伝える",
+        "上手に使う",
+        "うまくまとめる",
+        "彼は上手い（だ）",
+        "君がうまい",
+        "あの人がうまい",
+        "誰が上手いか",
+        "それがうまい（使われる）",
+        "うまい具合に",
+        "うまい加減に",
+        "うまい調子で",
+        "うまい話に乗る",
+        "うまいタイミングで"
+    ]
+}

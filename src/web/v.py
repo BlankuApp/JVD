@@ -1,4 +1,5 @@
 import os
+import json
 
 import streamlit as st
 
@@ -9,13 +10,21 @@ from src.db.db_word import (
     remove_user_word_card,
 )
 from src.word.JPWord import JPWord
+from src.word.JPWord2 import JPWord2
 
 auth = st.session_state.get("auth", None)
 
 
 def fetch_and_show_word():
     with open("resources/words/" + st.query_params["w"] + ".json", "r", encoding="utf-8") as file:
-        w = JPWord.model_validate_json(file.read())
+        raw_data = file.read()
+        json_data = json.loads(raw_data)
+        version = json_data.get("version")
+        w = None
+        if version == "0.1.1":
+            w = JPWord.model_validate_json(raw_data)
+        elif version == "0.2.0":
+            w = JPWord2.load_from_json(json_data["word"])
         if w:
             w.show_in_streamlit(st, auth)
 
@@ -26,7 +35,14 @@ def get_words() -> list[dict]:
     json_files = [f for f in os.listdir("resources/words") if f.endswith(".json")]
     for json_file in json_files:
         with open(os.path.join("resources/words", json_file), "r", encoding="utf-8") as file:
-            w = JPWord.model_validate_json(file.read())
+            raw_data = file.read()
+            json_data = json.loads(raw_data)
+            version = json_data.get("version")
+            w = None
+            if version == "0.1.1":
+                w = JPWord.model_validate_json(raw_data)
+            elif version == "0.2.0":
+                w = JPWord2.load_from_json(json_data["word"])
             if w:
                 words.append(dict(word=w.word, level=w.jlpt_level))
     return words

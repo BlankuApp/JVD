@@ -1,13 +1,12 @@
 import os
 import sys
+import json
 from datetime import datetime, timezone
 
 from dotenv import load_dotenv
 from supabase import Client, create_client
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
-
-from src.word.JPWord import JPWord
 
 load_dotenv()
 
@@ -166,10 +165,12 @@ if __name__ == "__main__":
     vocabulary_files.sort()
 
     for file in vocabulary_files:
-        w = JPWord.model_validate_json(open(f"resources/words/{file}.json", "r", encoding="utf-8").read())
-        if not w.in_db:
-            w.in_db = add_word(w.word, w.jlpt_level)
-            w.in_db = True
+        with open(f"resources/words/{file}.json", "r", encoding="utf-8") as f:
+            w = json.load(f)
+
+        if not w["in_db"]:
+            w["in_db"] = add_word(w["word"], w["jlpt_level"])
+            w["in_db"] = True
             with open(f"resources/words/{file}.json", "w", encoding="utf-8") as f:
-                f.write(w.model_dump_json(indent=4))
-            print(f"Added {w.word} to DB as JLPT N{w.jlpt_level}")
+                json.dump(w, f, ensure_ascii=False, indent=4)
+            print(f"Added {w['word']} to DB as JLPT N{w['jlpt_level']}")

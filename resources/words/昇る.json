@@ -1,0 +1,472 @@
+{
+    "version": "0.2.0",
+    "word": "昇る",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/rE7VP-6sx9U",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "昇る",
+        "reading": "のぼる",
+        "introduction_japanese": "昇るは、太陽や月、煙や気球などが上に上がるときや、地位や給料が上がるとき、階段や舞台に上がるような場面でよく使う動詞です。",
+        "introduction_english": "The verb のぼる is commonly used when the sun, moon, smoke, or a balloon goes up, and also in situations like getting a promotion or a pay raise, or when going up stairs or onto a stage.",
+        "meanings": [
+            [
+                "to rise (naturally) — e.g. the sun, moon, smoke, mist, balloon",
+                "to ascend into the sky (spiritual/metaphorical) — e.g. ascend to heaven"
+            ],
+            [
+                "to climb/go up (physical places) — e.g. stairs, observation deck, stage"
+            ],
+            [
+                "to be promoted / to rise in rank or salary"
+            ]
+        ],
+        "meaning_explanation_japanese": "「のぼる」は、物や人が下から上へ動くことに使います。自然に上がるもの（太陽や煙）や、階段を上がるような物理的な上昇、そして地位や給料が上がるとき（昇進・昇給）にも使います。",
+        "meaning_explanation_english": "The word のぼる means to go up or ascend. You can use it for things that naturally rise (like the sun or smoke), for physically going up (stairs or a stage), and for rising in rank or pay (promotion, pay raise).",
+        "kanji_explanation_english": "The first kanji means rise up. It shows the idea of going higher or upward. For example, しょうしん means promotion and uses this idea of rising in rank, and しょうきゅう means pay raise and uses the idea of a salary going up.",
+        "kanji_details": [
+            {
+                "kanji": "昇",
+                "common_words": [
+                    "昇進 (しょうしん): promotion",
+                    "昇給 (しょうきゅう): pay raise"
+                ],
+                "meanings": [
+                    "rise up"
+                ],
+                "on_readings": [
+                    "ショウ"
+                ],
+                "kun_readings": [
+                    "のぼ.る"
+                ]
+            }
+        ],
+        "synonyms": [
+            "登る : のぼる : to climb (often with effort)",
+            "上がる : あがる : to rise; to go up (general)"
+        ],
+        "synonyms_explanation": "The most common synonyms of the のぼる are のぼる and あがる. のぼる (as a synonym) emphasizes climbing or going up with effort, while あがる is more general and means to rise or go up.",
+        "antonyms": [
+            "降りる : おりる : to go down, descend",
+            "下がる : さがる : to fall, drop, go down"
+        ],
+        "antonyms_explanation": "The most common antonyms of the のぼる are おりる and さがる. おりる means to go down (physically descend), and さがる means to fall or decrease (for position, price, level).",
+        "examples": [
+            {
+                "kanji": "太陽が昇る。",
+                "furigana": "太陽(たいよう)が昇(のぼ)る。",
+                "translations": {
+                    "EN": "The sun rises.",
+                    "ID": "Matahari terbit.",
+                    "ES": "El sol sale.",
+                    "VI": "Mặt trời mọc.",
+                    "FR": "Le soleil se lève.",
+                    "NE": "सूर्य उदाउँछ।",
+                    "BN": "সূর্য ওঠে।",
+                    "ZH": "太阳升起。",
+                    "KO": "태양이 떠오른다.",
+                    "TL": "Sumisikat ang araw.",
+                    "MY": "နေထွက်သည်။",
+                    "HI": "सूर्य उदय होता है।",
+                    "AR": "تشرق الشمس.",
+                    "FA": "خورشید طلوع می‌کند."
+                }
+            },
+            {
+                "kanji": "朝日が昇る。",
+                "furigana": "朝日(あさひ)が昇(のぼ)る。",
+                "translations": {
+                    "EN": "The morning sun rises.",
+                    "ID": "Matahari pagi terbit.",
+                    "ES": "El sol de la mañana sale.",
+                    "VI": "Mặt trời buổi sáng mọc lên.",
+                    "FR": "Le soleil du matin se lève.",
+                    "NE": "बिहानको सूर्य उदाउँछ।",
+                    "BN": "সকালের সূর্য ওঠে।",
+                    "ZH": "早晨的太阳升起来了。",
+                    "KO": "아사히가 떠오른다.",
+                    "TL": "Sumisikat ang araw sa umaga.",
+                    "MY": "နံနက် နေထွက်သည်။",
+                    "HI": "सुबह का सूरज उगता है.",
+                    "AR": "تشرق شمس الصباح.",
+                    "FA": "خورشید صبح طلوع می‌کند."
+                }
+            },
+            {
+                "kanji": "煙が昇る。",
+                "furigana": "煙(けむり)が昇(のぼ)る。",
+                "translations": {
+                    "EN": "Smoke rises.",
+                    "ID": "Asap mengepul.",
+                    "ES": "El humo se eleva.",
+                    "VI": "Khói bốc lên.",
+                    "FR": "La fumée monte.",
+                    "NE": "धुवाँ उठ्छ।",
+                    "BN": "ধোঁয়া উঠছে।",
+                    "ZH": "烟雾升起。",
+                    "KO": "연기가 떠오른다.",
+                    "TL": "Tumataas ang usok.",
+                    "MY": "မီးခိုးတွေတက်လာတယ်။",
+                    "HI": "धुआँ उठता है.",
+                    "AR": "يرتفع الدخان.",
+                    "FA": "دود بلند می‌شود."
+                }
+            },
+            {
+                "kanji": "気球が昇る。",
+                "furigana": "気球(ききゅう)が昇(のぼ)る。",
+                "translations": {
+                    "EN": "The balloon rises.",
+                    "ID": "Balonnya naik.",
+                    "ES": "El globo se eleva.",
+                    "VI": "Quả bóng bay lên.",
+                    "FR": "Le ballon monte.",
+                    "NE": "बेलुन उठ्छ।",
+                    "BN": "বেলুনটি উপরে ওঠে।",
+                    "ZH": "气球升起。",
+                    "KO": "풍선이 떠오른다.",
+                    "TL": "Tumataas ang lobo.",
+                    "MY": "မီးပုံးပျံ တက်လာသည်။",
+                    "HI": "गुब्बारा ऊपर उठता है.",
+                    "AR": "يرتفع البالون.",
+                    "FA": "بادکنک بالا می‌رود."
+                }
+            },
+            {
+                "kanji": "階段を昇る。",
+                "furigana": "階段(かいだん)を昇(のぼ)る。",
+                "translations": {
+                    "EN": "Climb the stairs.",
+                    "ID": "Naiki tangga.",
+                    "ES": "Subir la escalera.",
+                    "VI": "Leo cầu thang.",
+                    "FR": "Monter les escaliers.",
+                    "NE": "सिँढी चढ्नुहोस्।",
+                    "BN": "সিঁড়ি বেয়ে উঠো।",
+                    "ZH": "爬楼梯。",
+                    "KO": "계단을 오른다.",
+                    "TL": "Umakyat sa hagdan.",
+                    "MY": "လှေကားကိုတက်ပါ။",
+                    "HI": "सीढ़ियाँ चढ़ो.",
+                    "AR": "اصعد الدرج.",
+                    "FA": "از پله‌ها بالا بروید."
+                }
+            },
+            {
+                "kanji": "彼の位が昇った。",
+                "furigana": "彼(かれ)の位(くらい)が昇(のぼ)った。",
+                "translations": {
+                    "EN": "His rank rose.",
+                    "ID": "Pangkatnya naik.",
+                    "ES": "Su rango aumentó.",
+                    "VI": "Cấp bậc của ông được tăng lên.",
+                    "FR": "Son rang s'éleva.",
+                    "NE": "उनको पद बढ्यो।",
+                    "BN": "তার পদমর্যাদা বৃদ্ধি পেল।",
+                    "ZH": "他的军衔上升了。",
+                    "KO": "그의 자리가 올랐다.",
+                    "TL": "Tumaas ang kanyang ranggo.",
+                    "MY": "သူ့ရာထူးက တက်လာတယ်။",
+                    "HI": "उसका पद बढ़ गया।",
+                    "AR": "ارتفعت رتبته.",
+                    "FA": "رتبه‌اش بالا رفت."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "to rise (naturally) — e.g. the sun, moon, smoke, mist, balloon": {
+                "ID": "naik (secara alami) — misalnya matahari, bulan, asap, kabut, balon",
+                "ES": "ascender (naturalmente) — p. ej. el sol, la luna, el humo, la niebla, el globo",
+                "VI": "mọc lên (tự nhiên) — ví dụ như mặt trời, mặt trăng, khói, sương mù, khinh khí cầu",
+                "FR": "s'élever (naturellement) — par exemple le soleil, la lune, la fumée, la brume, un ballon",
+                "NE": "उदाउनु (प्राकृतिक रूपमा) — जस्तै: सूर्य, चन्द्रमा, धुवाँ, कुहिरो, बेलुन",
+                "BN": "(স্বাভাবিকভাবেই) উদিত হওয়া — যেমন: সূর্য, চাঁদ, ধোঁয়া, কুয়াশা, বেলুন",
+                "ZH": "（自然）升起——例如太阳、月亮、烟雾、薄雾、气球",
+                "KO": "(자연스럽게) 떠오르다 — 예를 들어 태양, 달, 연기, 안개, 풍선",
+                "TL": "tumaas (natural) — hal. ang araw, buwan, usok, ambon, lobo",
+                "MY": "မြင့်တက်ရန် (သဘာဝအတိုင်း) — ဥပမာ။ နေ၊ လ၊ မီးခိုး၊ မြူ၊ မီးပုံးပျံ",
+                "HI": "उगना (स्वाभाविक रूप से) - जैसे सूर्य, चंद्रमा, धुआँ, धुंध, गुब्बारा",
+                "AR": "الارتفاع (بشكل طبيعي) - على سبيل المثال الشمس، القمر، الدخان، الضباب، البالون",
+                "FA": "بالا رفتن (به طور طبیعی) — مثال: خورشید، ماه، دود، مه، بادکنک",
+                "EN": [
+                    "to ascend into the sky (spiritual/metaphorical) — e.g. ascend to heaven"
+                ]
+            },
+            "to climb/go up (physical places) — e.g. stairs, observation deck, stage": {
+                "ID": "memanjat/naik (tempat fisik) — misalnya tangga, dek observasi, panggung",
+                "ES": "escalar/subir (a lugares físicos), por ejemplo, escaleras, plataforma de observación, escenario",
+                "VI": "leo trèo/đi lên (những nơi vật lý) — ví dụ: cầu thang, đài quan sát, sân khấu",
+                "FR": "grimper/monter (des lieux physiques) — par exemple, des escaliers, une plate-forme d'observation, une scène",
+                "NE": "चढ्नु/माथि जानु (भौतिक स्थानहरू) — जस्तै: भर्‍याङ, अवलोकन डेक, मञ्च",
+                "BN": "(ভৌত স্থান) আরোহণ/উপরে ওঠা — যেমন সিঁড়ি, পর্যবেক্ষণ ডেক, মঞ্চ",
+                "ZH": "爬上/登上（物理位置）——例如楼梯、观景台、舞台",
+                "KO": "(물리적 장소)를 오르다/올라가다 — 예: 계단, 전망대, 무대",
+                "TL": "umakyat / umakyat (pisikal na mga lugar) — hal. hagdan, observation deck, stage",
+                "MY": "တက်/တက် (ရုပ်ပိုင်းဆိုင်ရာနေရာများ) — ဥပမာ။ လှေကားများ၊ လေ့လာရေးကုန်းပတ်၊ စင်မြင့်",
+                "HI": "चढ़ना/ऊपर जाना (भौतिक स्थान) - जैसे सीढ़ियाँ, अवलोकन डेक, मंच",
+                "AR": "الصعود/التسلق (الأماكن المادية) - على سبيل المثال السلالم، منصة المراقبة، المسرح",
+                "FA": "بالا رفتن/بالا رفتن (مکان‌های فیزیکی) — مثلاً پله‌ها، سکوی تماشا، صحنه نمایش",
+                "EN": []
+            },
+            "to be promoted / to rise in rank or salary": {
+                "ID": "untuk dipromosikan / naik pangkat atau gaji",
+                "ES": "ser promovido / ascender de rango o de salario",
+                "VI": "được thăng chức/tăng cấp bậc hoặc lương",
+                "FR": "être promu / monter en grade ou en salaire",
+                "NE": "पदोन्नति हुनु / पद वा तलबमा वृद्धि हुनु",
+                "BN": "পদোন্নতি/পদমর্যাদা বা বেতন বৃদ্ধি",
+                "ZH": "晋升/提高职位或薪水",
+                "KO": "승진하다 / 계급이나 급여가 오르다",
+                "TL": "ma-promote / tumaas sa ranggo o suweldo",
+                "MY": "ရာထူးတိုး/ရာထူးတိုးရန် သို့မဟုတ် လစာတိုးရန်",
+                "HI": "पदोन्नत होना / पद या वेतन में वृद्धि होना",
+                "AR": "ترقية / رفع رتبة أو راتب",
+                "FA": "ترفیع گرفتن/ ارتقای رتبه یا حقوق گرفتن",
+                "EN": []
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "上る",
+        "is_common": true,
+        "tags": [
+            "wanikani1",
+            "wanikani12",
+            "wanikani27"
+        ],
+        "jlpt": [
+            "jlpt-n3",
+            "jlpt-n2",
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "上る",
+                "reading": "のぼる"
+            },
+            {
+                "word": "登る",
+                "reading": "のぼる"
+            },
+            {
+                "word": "昇る",
+                "reading": "のぼる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to ascend",
+                    "to go up",
+                    "to climb"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上る",
+                    "登る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to ascend (as a natural process, e.g. the Sun)",
+                    "to rise"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上る",
+                    "昇る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to go to (the capital)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be promoted"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "昇る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to add up to"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to advance (in price)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to swim up (a river)",
+                    "to sail up"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to come up (on the agenda)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上る"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "昇"
+    ],
+    "kanji_data": {
+        "昇": {
+            "freq_mainichi_shinbun": 826,
+            "grade": 8,
+            "heisig_en": "rise up",
+            "jlpt": 2,
+            "kanji": "昇",
+            "kun_readings": [
+                "のぼ.る"
+            ],
+            "meanings": [
+                "rise up"
+            ],
+            "name_readings": [
+                "しゅう",
+                "のり"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ショウ"
+            ],
+            "stroke_count": 8,
+            "unicode": "6607"
+        }
+    },
+    "collocations": [
+        "太陽が昇る",
+        "月が昇る",
+        "煙が昇る",
+        "気球が昇る",
+        "霧が昇る",
+        "地位に昇る",
+        "位が昇る",
+        "昇給する",
+        "昇給を昇る",
+        "昇進する",
+        "職に昇る",
+        "階段を昇る",
+        "エレベーターに昇る",
+        "展望台に昇る",
+        "天に昇る",
+        "神殿に昇る",
+        "舞台に昇る",
+        "昇竜",
+        "上昇",
+        "昇天",
+        "昇降",
+        "昇格",
+        "天にも昇る気持ち",
+        "朝日が昇る",
+        "夕日が昇る",
+        "昇給・昇進",
+        "昇段"
+    ]
+}

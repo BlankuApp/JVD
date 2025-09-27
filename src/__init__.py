@@ -11,34 +11,25 @@ from .logger_module import setup_logger
 load_dotenv()
 
 # Setup logger
-logger = setup_logger()
+logger = setup_logger(level="INFO")
 logger.info("Application starting up...")
 
 LANGUAGES_ABBR = {
     "English": "EN",
-    "Persian": "FA",
-    "Nepali": "NE",
     "Indonesian": "ID",
-    "Filipino": "TL",
+    "Spanish": "ES",
     "Vietnamese": "VI",
-    "Burmese": "MY",
+    "French": "FR",
+    "Nepali": "NE",
+    "Bengali": "BN",
+    "Chinese": "ZH",
     "Korean": "KO",
+    "Filipino": "TL",
+    "Burmese": "MY",
     "Hindi": "HI",
     "Arabic": "AR",
-    "French": "FR",
-    "Spanish": "ES",
-    "Chinese": "ZH",
-    "Bengali": "BN",
+    "Persian": "FA",
 }
-
-try:
-    translator_credentials = service_account.Credentials.from_service_account_info(
-        json.loads(os.getenv("GOOGLE_CLOUD_CREDENTIALS_JSON", "{}"))
-    )
-    logger.info("Google Cloud credentials loaded successfully")
-except Exception as e:
-    logger.error(f"Failed to load Google Cloud credentials: {e}")
-    raise
 
 _translator_client = None
 
@@ -47,6 +38,14 @@ def get_translator_client() -> translate.Client:
     global _translator_client
     if _translator_client is None:
         try:
+            try:
+                translator_credentials = service_account.Credentials.from_service_account_info(
+                    json.loads(os.getenv("GOOGLE_CLOUD_CREDENTIALS_JSON", "{}"))
+                )
+                logger.info("Google Cloud credentials loaded successfully")
+            except Exception as e:
+                logger.error(f"Failed to load Google Cloud credentials: {e}")
+                raise RuntimeError("Google Cloud credentials loading failed") from e
             _translator_client = translate.Client(credentials=translator_credentials)
             logger.info("Google Translate client initialized")
         except Exception as e:

@@ -1,0 +1,359 @@
+{
+    "version": "0.2.0",
+    "word": "頭痛",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/dJlUjSVdKiE",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "頭痛",
+        "reading": "ずつう",
+        "introduction_japanese": "頭痛は、体調の話や病院、薬、疲れやストレスについて話すときによく使う言葉です。",
+        "introduction_english": "The noun ずつう is commonly used in conversations about health, hospitals, medicine, fatigue, and stress.",
+        "meanings": [
+            [
+                "headache",
+                "pain or ache in the head (general, everyday use)"
+            ],
+            [
+                "medical term for headache (covers types like migraine, tension-type headache)"
+            ]
+        ],
+        "meaning_explanation_japanese": "「頭痛」は、頭が痛くなることを表す名詞です。ズキズキしたり、重く感じたり、鈍い痛みのときに使います。",
+        "meaning_explanation_english": "The word ずつう means a headache or pain in the head. You use it when your head hurts, from a mild ache to a strong, throbbing pain.",
+        "kanji_explanation_english": "The first kanji means head. It refers to the literal head of a person or animal. It appears in words like あたま which means head and あたまがいい which means smart, where the idea of head connects to intelligence. The second kanji means pain or hurt. It shows physical pain or injury. It appears in words like いたい which means painful and いたみ which means pain, where the kanji gives the idea of hurting.",
+        "kanji_details": [
+            {
+                "kanji": "頭",
+                "common_words": [
+                    "頭 (あたま): head",
+                    "頭がいい (あたまがいい): smart/clever"
+                ]
+            },
+            {
+                "kanji": "痛",
+                "common_words": [
+                    "痛い (いたい): painful",
+                    "痛み (いたみ): pain"
+                ]
+            }
+        ],
+        "synonyms": [
+            "頭が痛い : あたまがいたい : my head hurts / (casual way to say headache)"
+        ],
+        "synonyms_explanation": "The most common synonym of the ずつう is あたまがいたい, which is a casual, everyday phrase meaning your head hurts and is used more in spoken conversation.",
+        "antonyms": [],
+        "antonyms_explanation": "No common antonyms found.",
+        "examples": [
+            {
+                "kanji": "頭痛がする。",
+                "furigana": "頭痛(ずつう)がする。",
+                "translations": {
+                    "EN": "I have a headache.",
+                    "ID": "Saya sakit kepala.",
+                    "ES": "Me duele la cabeza.",
+                    "VI": "Tôi bị đau đầu.",
+                    "FR": "J'ai mal à la tête.",
+                    "NE": "मलाई टाउको दुखेको छ।",
+                    "BN": "আমার মাথাব্যথা আছে।",
+                    "ZH": "我头疼。",
+                    "KO": "두통이 난다.",
+                    "TL": "sakit ng ulo ko.",
+                    "MY": "ကျွန်တော်ခေါင်းကိုက်နေတယ်။",
+                    "HI": "मुझे सिर दर्द है।",
+                    "AR": "عندي صداع.",
+                    "FA": "سرم درد می کند."
+                }
+            },
+            {
+                "kanji": "頭痛がひどい。",
+                "furigana": "頭痛(ずつう)がひどい。",
+                "translations": {
+                    "EN": "I have a terrible headache.",
+                    "ID": "Saya sakit kepala hebat.",
+                    "ES": "Tengo un terrible dolor de cabeza.",
+                    "VI": "Tôi bị đau đầu khủng khiếp.",
+                    "FR": "J'ai un terrible mal de tête.",
+                    "NE": "मलाई एकदमै टाउको दुखेको छ।",
+                    "BN": "আমার প্রচণ্ড মাথাব্যথা।",
+                    "ZH": "我头痛得厉害。",
+                    "KO": "두통이 심하다.",
+                    "TL": "Napakasakit ng ulo ko.",
+                    "MY": "ငါအရမ်းခေါင်းကိုက်တယ်။",
+                    "HI": "मुझे एक भयानक सिरदर्द है।",
+                    "AR": "لدي صداع رهيب.",
+                    "FA": "سردرد وحشتناکی دارم."
+                }
+            },
+            {
+                "kanji": "頭痛薬を飲む。",
+                "furigana": "頭痛薬(ずつうやく)を飲(の)む。",
+                "translations": {
+                    "EN": "Take headache medicine.",
+                    "ID": "Minum obat sakit kepala.",
+                    "ES": "Tome medicamentos para el dolor de cabeza.",
+                    "VI": "Uống thuốc đau đầu.",
+                    "FR": "Prenez des médicaments contre les maux de tête.",
+                    "NE": "टाउको दुख्ने औषधि खानुहोस्।",
+                    "BN": "মাথাব্যথার ওষুধ খাও।",
+                    "ZH": "服用头痛药。",
+                    "KO": "두통 약을 마신다.",
+                    "TL": "Uminom ng gamot sa ulo.",
+                    "MY": "ခေါင်းကိုက်ဆေးသောက်ပါ။",
+                    "HI": "सिरदर्द की दवा लें.",
+                    "AR": "تناول دواء الصداع.",
+                    "FA": "داروی سردرد مصرف کنید."
+                }
+            },
+            {
+                "kanji": "偏頭痛の発作があった。",
+                "furigana": "偏頭痛(へんずつう)の発作(ほっさ)があった。",
+                "translations": {
+                    "EN": "I had a migraine attack.",
+                    "ID": "Saya terkena serangan migrain.",
+                    "ES": "Tuve un ataque de migraña.",
+                    "VI": "Tôi bị đau nửa đầu.",
+                    "FR": "J'ai eu une crise de migraine.",
+                    "NE": "मलाई माइग्रेनको आक्रमण भएको थियो।",
+                    "BN": "আমার মাইগ্রেনের আক্রমণ হয়েছিল।",
+                    "ZH": "我偏头痛发作了。",
+                    "KO": "편두통 발작이 있었다.",
+                    "TL": "Inatake ako ng migraine.",
+                    "MY": "ခေါင်းတစ်ခြမ်းကိုက်ရောဂါရှိခဲ့တယ်။",
+                    "HI": "मुझे माइग्रेन का दौरा पड़ा था।",
+                    "AR": "لقد أصبت بنوبة صداع نصفي.",
+                    "FA": "حمله میگرنی داشتم."
+                }
+            },
+            {
+                "kanji": "ストレスで頭痛が起こった。",
+                "furigana": "ストレスで頭痛(ずつう)が起(お)こった。",
+                "translations": {
+                    "EN": "The stress caused a headache.",
+                    "ID": "Stres menyebabkan sakit kepala.",
+                    "ES": "El estrés me provocó dolor de cabeza.",
+                    "VI": "Căng thẳng gây ra chứng đau đầu.",
+                    "FR": "Le stress a provoqué un mal de tête.",
+                    "NE": "तनावले टाउको दुख्यो।",
+                    "BN": "মানসিক চাপের কারণে মাথাব্যথা হচ্ছিল।",
+                    "ZH": "压力导致头痛。",
+                    "KO": "스트레스로 두통이 일어났다.",
+                    "TL": "Ang stress ay nagdulot ng sakit ng ulo.",
+                    "MY": "စိတ်ဖိစီးမှုက ခေါင်းကိုက်စေတယ်။",
+                    "HI": "तनाव के कारण सिरदर्द हो गया।",
+                    "AR": "لقد تسبب الضغط في صداع.",
+                    "FA": "استرس باعث سردردش شده بود."
+                }
+            },
+            {
+                "kanji": "寝不足で頭痛が続く。",
+                "furigana": "寝不足(ねぶそく)で頭痛(ずつう)が続(つづ)く。",
+                "translations": {
+                    "EN": "I have persistent headaches due to lack of sleep.",
+                    "ID": "Saya mengalami sakit kepala terus-menerus akibat kurang tidur.",
+                    "ES": "Tengo dolores de cabeza persistentes debido a la falta de sueño.",
+                    "VI": "Tôi bị đau đầu dai dẳng do thiếu ngủ.",
+                    "FR": "J'ai des maux de tête persistants à cause du manque de sommeil.",
+                    "NE": "निद्रा नपुगेको कारणले मलाई लगातार टाउको दुख्छ।",
+                    "BN": "ঘুমের অভাবে আমার ক্রমাগত মাথাব্যথা হয়।",
+                    "ZH": "由于缺乏睡眠，我持续头痛。",
+                    "KO": "잠 부족으로 두통이 계속된다.",
+                    "TL": "Panay ang sakit ng ulo ko dahil kulang sa tulog.",
+                    "MY": "အိပ်ရေးမဝခြင်းကြောင့် ခေါင်းကိုက်နေတတ်သည်။",
+                    "HI": "नींद की कमी के कारण मुझे लगातार सिरदर्द रहता है।",
+                    "AR": "أعاني من الصداع المستمر بسبب قلة النوم.",
+                    "FA": "به خاطر کمبود خواب، سردردهای مداوم دارم."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "headache": {
+                "ID": "sakit kepala",
+                "ES": "dolor de cabeza",
+                "VI": "đau đầu",
+                "FR": "mal de tête",
+                "NE": "टाउको दुखाइ",
+                "BN": "মাথাব্যথা",
+                "ZH": "头痛",
+                "KO": "두통",
+                "TL": "sakit ng ulo",
+                "MY": "ခေါင်းကိုက်ခြင်း။",
+                "HI": "सिरदर्द",
+                "AR": "صداع",
+                "FA": "سردرد",
+                "EN": [
+                    "pain or ache in the head (general, everyday use)"
+                ]
+            },
+            "medical term for headache (covers types like migraine, tension-type headache)": {
+                "ID": "istilah medis untuk sakit kepala (mencakup jenis seperti migrain, sakit kepala tipe tegang)",
+                "ES": "término médico para dolor de cabeza (abarca tipos como migraña y dolor de cabeza tensional)",
+                "VI": "thuật ngữ y khoa cho chứng đau đầu (bao gồm các loại như chứng đau nửa đầu, đau đầu do căng thẳng)",
+                "FR": "terme médical désignant un mal de tête (couvrant des types comme la migraine, les céphalées de tension)",
+                "NE": "टाउको दुखाइको लागि चिकित्सा शब्द (माइग्रेन, तनाव-प्रकारको टाउको दुखाइ जस्ता प्रकारहरू समावेश गर्दछ)",
+                "BN": "মাথাব্যথার চিকিৎসা পরিভাষা (মাইগ্রেন, টেনশন-টাইপ মাথাব্যথার মতো ধরণের মাথাব্যথা অন্তর্ভুক্ত করে)",
+                "ZH": "头痛的医学术语（涵盖偏头痛、紧张型头痛等类型）",
+                "KO": "두통에 대한 의학 용어(편두통, 긴장성 두통과 같은 유형을 포함)",
+                "TL": "medikal na termino para sa pananakit ng ulo (sinasaklaw ang mga uri tulad ng migraine, tension-type headache)",
+                "MY": "ခေါင်းကိုက်ခြင်းအတွက် ဆေးဘက်ဆိုင်ရာအသုံးအနှုန်း (မိုင်ဂရိန်း၊ တင်းမာမှုအမျိုးအစား ခေါင်းကိုက်ခြင်းကဲ့သို့သော အမျိုးအစားများ ပါဝင်သည်)",
+                "HI": "सिरदर्द के लिए चिकित्सा शब्द (माइग्रेन, तनाव-प्रकार के सिरदर्द जैसे प्रकारों को शामिल करता है)",
+                "AR": "مصطلح طبي للصداع (يشمل أنواعًا مثل الصداع النصفي والصداع الناتج عن التوتر)",
+                "FA": "اصطلاح پزشکی برای سردرد (انواعی مانند میگرن، سردرد تنشی را پوشش می‌دهد)",
+                "EN": []
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "頭痛",
+        "is_common": true,
+        "tags": [
+            "wanikani27"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "頭痛",
+                "reading": "ずつう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "headache"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Headache"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Headache” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Headache?oldid=495028689"
+                    },
+                    {
+                        "text": "Read “頭痛” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/頭痛?oldid=42636229"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Headache"
+        }
+    },
+    "kanji_list": [
+        "頭",
+        "痛"
+    ],
+    "kanji_data": {
+        "頭": {
+            "freq_mainichi_shinbun": 433,
+            "grade": 2,
+            "heisig_en": "head",
+            "jlpt": 3,
+            "kanji": "頭",
+            "kun_readings": [
+                "-がしら",
+                "あたま",
+                "かしら",
+                "かぶり"
+            ],
+            "meanings": [
+                "counter for large animals",
+                "head"
+            ],
+            "name_readings": [
+                "かみ",
+                "がみ",
+                "ちゃん",
+                "つむり",
+                "づ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ズ",
+                "ト",
+                "トウ"
+            ],
+            "stroke_count": 16,
+            "unicode": "982D"
+        },
+        "痛": {
+            "freq_mainichi_shinbun": 903,
+            "grade": 6,
+            "heisig_en": "pain",
+            "jlpt": 3,
+            "kanji": "痛",
+            "kun_readings": [
+                "いた.い",
+                "いた.ましい",
+                "いた.む",
+                "いた.める"
+            ],
+            "meanings": [
+                "bruise",
+                "damage",
+                "hurt",
+                "pain"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ツウ"
+            ],
+            "stroke_count": 12,
+            "unicode": "75DB"
+        }
+    },
+    "collocations": [
+        "頭痛がする",
+        "頭痛が起こる",
+        "頭痛が続く",
+        "頭痛がひどい",
+        "頭痛が治る",
+        "偏頭痛の発作",
+        "緊張型頭痛の症状",
+        "片頭痛の発作",
+        "頭痛の原因",
+        "頭痛の種類",
+        "激しい頭痛",
+        "軽い頭痛",
+        "ひどい頭痛",
+        "頭痛のひどさ",
+        "頭痛の頻度",
+        "ストレスで頭痛",
+        "疲れで頭痛",
+        "寝不足で頭痛",
+        "騒音に頭痛",
+        "光に頭痛",
+        "頭痛持ち",
+        "頭痛薬",
+        "頭痛外来",
+        "頭痛日記",
+        "頭痛予防"
+    ]
+}

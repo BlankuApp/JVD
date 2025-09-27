@@ -1,0 +1,349 @@
+{
+    "version": "0.2.0",
+    "word": "出席",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/pGXDB7-PkbE",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "出席",
+        "reading": "しゅっせき",
+        "introduction_japanese": "出席は、学校の授業、会議、式典、イベントなどで、人が来ているかどうかを話すときによく使う言葉です。名簿を確認したり、人数を数えたりするときに使います。",
+        "introduction_english": "The noun and suru-verb しゅっせき is used in classes, meetings, ceremonies, and events when talking about who is there, checking names, or counting people.",
+        "meanings": [
+            [
+                "attendance",
+                "presence",
+                "appearance (at an event)"
+            ]
+        ],
+        "meaning_explanation_japanese": "「出席」は、その場に来ていること、または来ることを表します。学校や会議で、だれが来たかを数えたり記録したりするときに使います。",
+        "meaning_explanation_english": "The word しゅっせき means being present or attending. It’s used to record or talk about who came to a class, meeting, or event.",
+        "kanji_explanation_english": "The first kanji means to come out or go out. Its on readings are しゅつ and すい, and the kun readings are でる and だす. You can see it in words like でぐち and しゅっぱつ, where the idea of going out or starting is clear. The second kanji means a seat or a place. Its on reading is せき and the kun reading is むしろ. It appears in words like ざせき and ざいせき, showing the idea of a seat or being at one’s seat.",
+        "kanji_details": [
+            {
+                "kanji": "出",
+                "common_words": [
+                    "出口 (でぐち): exit",
+                    "出発 (しゅっぱつ): departure"
+                ]
+            },
+            {
+                "kanji": "席",
+                "common_words": [
+                    "座席 (ざせき): seat",
+                    "在席 (ざいせき): being present; at one's desk"
+                ]
+            }
+        ],
+        "synonyms": [
+            "参加 : さんか : participation; taking part"
+        ],
+        "synonyms_explanation": "The most common synonym of the しゅっせき is さんか. しゅっせき is about being present, while さんか suggests more active involvement in the activity.",
+        "antonyms": [
+            "欠席 : けっせき : absence; not attending"
+        ],
+        "antonyms_explanation": "The most common antonym of the しゅっせき is けっせき. しゅっせき means being there, while けっせき means not being there.",
+        "examples": [
+            {
+                "kanji": "私は会議に出席します。",
+                "furigana": "私(わたし)は会議(かいぎ)に出席(しゅっせき)します。",
+                "translations": {
+                    "EN": "I will attend the meeting.",
+                    "ID": "Saya akan menghadiri rapat itu.",
+                    "ES": "Asistiré a la reunión.",
+                    "VI": "Tôi sẽ tham dự cuộc họp.",
+                    "FR": "J'assisterai à la réunion.",
+                    "NE": "म बैठकमा उपस्थित हुनेछु।",
+                    "BN": "আমি সভায় যোগ দেব।",
+                    "ZH": "我将出席会议。",
+                    "KO": "회의에 참석합니다.",
+                    "TL": "Dadalo ako sa pagpupulong.",
+                    "MY": "အစည်းအဝေးတက်မယ်။",
+                    "HI": "मैं बैठक में भाग लूंगा।",
+                    "AR": "سأحضر الاجتماع.",
+                    "FA": "من در جلسه شرکت خواهم کرد."
+                }
+            },
+            {
+                "kanji": "先生は出席を取ります。",
+                "furigana": "先生(せんせい)は出席(しゅっせき)を取(と)ります。",
+                "translations": {
+                    "EN": "The teacher takes attendance.",
+                    "ID": "Guru mencatat kehadiran.",
+                    "ES": "El profesor pasa lista.",
+                    "VI": "Giáo viên điểm danh.",
+                    "FR": "Le professeur prend les présences.",
+                    "NE": "शिक्षकले हाजिरी लिनुहुन्छ।",
+                    "BN": "শিক্ষক উপস্থিতি নেন।",
+                    "ZH": "老师点名。",
+                    "KO": "선생님은 참석을 합니다.",
+                    "TL": "Ang guro ay kumukuha ng pagdalo.",
+                    "MY": "ဆရာတို့ တက်ရောက်သည်။",
+                    "HI": "शिक्षक उपस्थिति दर्ज करता है।",
+                    "AR": "المعلم يأخذ الحضور.",
+                    "FA": "معلم حضور و غیاب می‌کند."
+                }
+            },
+            {
+                "kanji": "今日は全員出席です。",
+                "furigana": "今日(きょう)は全員(ぜんいん)出席(しゅっせき)です。",
+                "translations": {
+                    "EN": "Everyone is present today.",
+                    "ID": "Semua orang hadir hari ini.",
+                    "ES": "Todos estamos presentes hoy.",
+                    "VI": "Mọi người đều có mặt ngày hôm nay.",
+                    "FR": "Tout le monde est présent aujourd'hui.",
+                    "NE": "आज सबैजना उपस्थित हुनुहुन्छ।",
+                    "BN": "আজ সবাই উপস্থিত।",
+                    "ZH": "今天大家都到场了。",
+                    "KO": "오늘은 모두 출석입니다.",
+                    "TL": "Present ang lahat ngayon.",
+                    "MY": "ယနေ့ လူတိုင်းရှိနေပါသည်။",
+                    "HI": "आज हर कोई उपस्थित है।",
+                    "AR": "الجميع حاضرون اليوم.",
+                    "FA": "امروز همه حضور دارند."
+                }
+            },
+            {
+                "kanji": "彼は授業に出席できません。",
+                "furigana": "彼(かれ)は授業(じゅぎょう)に出席(しゅっせき)できません。",
+                "translations": {
+                    "EN": "He can't attend class.",
+                    "ID": "Dia tidak bisa menghadiri kelas.",
+                    "ES": "Él no puede asistir a clases.",
+                    "VI": "Anh ấy không thể đến lớp được.",
+                    "FR": "Il ne peut pas assister aux cours.",
+                    "NE": "ऊ कक्षामा उपस्थित हुन सक्दैन।",
+                    "BN": "সে ক্লাসে যেতে পারবে না।",
+                    "ZH": "他不能去上课。",
+                    "KO": "그는 수업에 참석할 수 없습니다.",
+                    "TL": "Hindi siya makakapunta sa klase.",
+                    "MY": "အတန်းမတက်နိုင်ဘူး။",
+                    "HI": "वह कक्षा में उपस्थित नहीं हो सकता।",
+                    "AR": "لا يستطيع حضور الفصل الدراسي.",
+                    "FA": "او نمی‌تواند سر کلاس حاضر شود."
+                }
+            },
+            {
+                "kanji": "受付で出席を確認します。",
+                "furigana": "受付(うけつけ)で出席(しゅっせき)を確認(かくにん)します。",
+                "translations": {
+                    "EN": "Attendance will be confirmed at the reception.",
+                    "ID": "Kehadiran akan dikonfirmasi di resepsi.",
+                    "ES": "La asistencia se confirmará en la recepción.",
+                    "VI": "Sự tham dự sẽ được xác nhận tại buổi tiếp tân.",
+                    "FR": "La présence sera confirmée à l'accueil.",
+                    "NE": "स्वागत समारोहमा उपस्थिति पुष्टि गरिनेछ।",
+                    "BN": "অভ্যর্থনা কক্ষে উপস্থিতি নিশ্চিত করা হবে।",
+                    "ZH": "出席情况将在接待处确认。",
+                    "KO": "리셉션에서 출석을 확인합니다.",
+                    "TL": "Kukumpirmahin ang pagdalo sa reception.",
+                    "MY": "ဧည့်ခံပွဲ၌ တက်ရောက်ကြောင်း အတည်ပြုပါမည်။",
+                    "HI": "उपस्थिति की पुष्टि रिसेप्शन पर की जाएगी।",
+                    "AR": "سيتم تأكيد الحضور في حفل الاستقبال.",
+                    "FA": "حضور در محل پذیرش قطعی خواهد شد."
+                }
+            },
+            {
+                "kanji": "出席者は名簿にサインします。",
+                "furigana": "出席者(しゅっせきしゃ)は名簿(めいぼ)にサインします。",
+                "translations": {
+                    "EN": "Attendees will sign the register.",
+                    "ID": "Peserta akan menandatangani daftar hadir.",
+                    "ES": "Los asistentes firmarán el registro.",
+                    "VI": "Người tham dự sẽ ký vào sổ đăng ký.",
+                    "FR": "Les participants signeront le registre.",
+                    "NE": "सहभागीहरूले दर्तामा हस्ताक्षर गर्नेछन्।",
+                    "BN": "অংশগ্রহণকারীরা রেজিস্টারে স্বাক্ষর করবেন।",
+                    "ZH": "出席者将在登记册上签名。",
+                    "KO": "참석자는 명부에 서명합니다.",
+                    "TL": "Pipirmahan ng mga dadalo ang rehistro.",
+                    "MY": "တက်ရောက်လာသူများ အနေဖြင့် မှတ်ပုံတင် လက်မှတ် ရေးထိုးပါမည်။",
+                    "HI": "उपस्थित लोग रजिस्टर पर हस्ताक्षर करेंगे।",
+                    "AR": "سيقوم الحضور بالتوقيع في السجل.",
+                    "FA": "حاضرین دفتر ثبت را امضا خواهند کرد."
+                }
+            },
+            {
+                "kanji": "出席率は90％です。",
+                "furigana": "出席率(しゅっせきりつ)は90％です。",
+                "translations": {
+                    "EN": "The attendance rate is 90%.",
+                    "ID": "Tingkat kehadirannya 90%.",
+                    "ES": "La tasa de asistencia es del 90%.",
+                    "VI": "Tỷ lệ tham dự là 90%.",
+                    "FR": "Le taux de fréquentation est de 90%.",
+                    "NE": "उपस्थिति दर ९०% छ।",
+                    "BN": "উপস্থিতির হার ৯০%।",
+                    "ZH": "出勤率为90%。",
+                    "KO": "출석률은 90%입니다.",
+                    "TL": "Ang rate ng pagdalo ay 90%.",
+                    "MY": "တက်ရောက်နှုန်းက 90% ဖြစ်ပါတယ်။",
+                    "HI": "उपस्थिति दर 90% है।",
+                    "AR": "معدل الحضور هو 90٪.",
+                    "FA": "میزان حضور ۹۰ درصد است."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "attendance": {
+                "ID": "kehadiran",
+                "ES": "asistencia",
+                "VI": "sự tham dự",
+                "FR": "présence",
+                "NE": "उपस्थिति",
+                "BN": "উপস্থিতি",
+                "ZH": "出席",
+                "KO": "출석",
+                "TL": "pagdalo",
+                "MY": "တက်ရောက်ခြင်း။",
+                "HI": "उपस्थिति",
+                "AR": "حضور",
+                "FA": "حضور و غیاب",
+                "EN": [
+                    "presence",
+                    "appearance (at an event)"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "出席",
+        "is_common": true,
+        "tags": [
+            "wanikani17"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "出席",
+                "reading": "しゅっせき"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "attendance",
+                    "presence",
+                    "appearance"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [
+                    "欠席"
+                ],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "出",
+        "席"
+    ],
+    "kanji_data": {
+        "出": {
+            "freq_mainichi_shinbun": 13,
+            "grade": 1,
+            "heisig_en": "exit",
+            "jlpt": 5,
+            "kanji": "出",
+            "kun_readings": [
+                "-だ.す",
+                "-で",
+                "い.だす",
+                "い.でる",
+                "だ.す",
+                "で.る"
+            ],
+            "meanings": [
+                "come out",
+                "exit",
+                "go out",
+                "leave",
+                "protrude",
+                "put out"
+            ],
+            "name_readings": [
+                "いず",
+                "いづ",
+                "いで",
+                "じ",
+                "すっ",
+                "すつ",
+                "てん"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シュツ",
+                "スイ"
+            ],
+            "stroke_count": 5,
+            "unicode": "51FA"
+        },
+        "席": {
+            "freq_mainichi_shinbun": 370,
+            "grade": 4,
+            "heisig_en": "seat",
+            "jlpt": 3,
+            "kanji": "席",
+            "kun_readings": [
+                "むしろ"
+            ],
+            "meanings": [
+                "mat",
+                "occasion",
+                "place",
+                "seat"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "セキ"
+            ],
+            "stroke_count": 10,
+            "unicode": "5E2D"
+        }
+    },
+    "collocations": [
+        "正式の出席",
+        "全員の出席",
+        "来賓の出席",
+        "必要な出席",
+        "臨時の出席",
+        "出席を求める",
+        "出席を取る",
+        "出席を確認する",
+        "出席を促す",
+        "出席を保障する",
+        "会議に出席する",
+        "授業に出席する",
+        "式典に出席できる",
+        "総会に出席する",
+        "授業を出席する",
+        "欠席と出席",
+        "全員出席",
+        "多数出席",
+        "正式出席",
+        "名誉出席",
+        "出席率",
+        "出席者",
+        "出席名簿",
+        "出席記録",
+        "出席簿"
+    ]
+}

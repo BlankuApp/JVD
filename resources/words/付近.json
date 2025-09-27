@@ -1,0 +1,391 @@
+{
+    "version": "0.2.0",
+    "word": "付近",
+    "jlpt_level": 3,
+    "youtube_link": "",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "付近",
+        "reading": "ふきん",
+        "introduction_japanese": "付近は、場所の周りや近くについて話すときや、待ち合わせや道案内でよく使う言葉です。地図や場所の説明でよく出てきます。",
+        "introduction_english": "The noun ふきん is commonly used when talking about the area around a place, for meeting someone, or giving directions. You often see it on maps or in place descriptions.",
+        "meanings": [
+            [
+                "neighborhood",
+                "vicinity",
+                "surrounding area",
+                "environs",
+                "district"
+            ],
+            [
+                "used as a suffix to mean 'around/near (a place)'"
+            ]
+        ],
+        "meaning_explanation_japanese": "「付近」は、ある場所のすぐ近くや周りの場所のことを指す言葉です。駅や公園などの近くにある場所を説明するときに使います。",
+        "meaning_explanation_english": "The word ふきん means the area near or around a place. You use it to talk about something close to a landmark like a station or park.",
+        "kanji_explanation_english": "The first kanji means something like 'attach' or 'stick to'. In the word うけつけ the idea of attaching or assigning is weaker but the kanji gives a sense of connection, and in the verb つける it directly shows the action of attaching. The second kanji means 'near' or 'close'. In the word ちかい it is the main meaning, and in さいきん it gives the sense of 'recent' or 'near in time'.",
+        "kanji_details": [
+            {
+                "kanji": "付",
+                "common_words": [
+                    "受付 (うけつけ): reception, front desk",
+                    "付ける (つける): to attach, to add"
+                ],
+                "meanings": [
+                    "adhere",
+                    "append",
+                    "attach",
+                    "refer to"
+                ],
+                "on_readings": [
+                    "フ"
+                ],
+                "kun_readings": [
+                    "-つ.き",
+                    "-つ.け",
+                    "-つ.ける",
+                    "つ.く",
+                    "つ.け"
+                ]
+            },
+            {
+                "kanji": "近",
+                "common_words": [
+                    "近い (ちかい): near, close",
+                    "最近 (さいきん): recently"
+                ],
+                "meanings": [
+                    "near",
+                    "akin",
+                    "early",
+                    "tantamount"
+                ],
+                "on_readings": [
+                    "キン",
+                    "コン"
+                ],
+                "kun_readings": [
+                    "ちか.い"
+                ]
+            }
+        ],
+        "synonyms": [
+            "周辺 : しゅうへん : surroundings",
+            "近辺 : きんぺん : environs, vicinity"
+        ],
+        "synonyms_explanation": "The most common synonyms of the ふきん are しゅうへん and きんぺん. しゅうへん is a bit broader and often used for general surroundings, while きんぺん is very close in meaning to ふきん and is used for nearby areas.",
+        "antonyms": [
+            "遠方 : えんぽう : distant place, far away"
+        ],
+        "antonyms_explanation": "The most common antonym of the ふきん is えんぽう. えんぽう means a distant place or far away, which is the opposite of the nearby focus of ふきん.",
+        "examples": [
+            {
+                "kanji": "駅の付近で待つ。",
+                "furigana": "駅(えき)の付近(ふきん)で待(ま)つ。",
+                "translations": {
+                    "EN": "I'll wait near the station.",
+                    "ID": "Saya akan menunggu di dekat stasiun.",
+                    "ES": "Esperaré cerca de la estación.",
+                    "VI": "Tôi sẽ đợi gần nhà ga.",
+                    "FR": "J'attendrai près de la gare.",
+                    "NE": "म स्टेशन नजिकै पर्खनेछु।",
+                    "BN": "আমি স্টেশনের কাছে অপেক্ষা করব।",
+                    "ZH": "我会在车站附近等候。",
+                    "KO": "역 근처에서 기다린다.",
+                    "TL": "Maghihintay ako malapit sa istasyon.",
+                    "MY": "ဘူတာနားက စောင့်နေမယ်။",
+                    "HI": "मैं स्टेशन के पास इंतज़ार करूँगा.",
+                    "AR": "سأنتظر بالقرب من المحطة.",
+                    "FA": "نزدیک ایستگاه منتظر می‌مانم."
+                }
+            },
+            {
+                "kanji": "公園の付近で散歩する。",
+                "furigana": "公園(こうえん)の付近(ふきん)で散歩(さんぽ)する。",
+                "translations": {
+                    "EN": "Take a walk near the park.",
+                    "ID": "Berjalan-jalan di dekat taman.",
+                    "ES": "Da un paseo cerca del parque.",
+                    "VI": "Đi dạo gần công viên.",
+                    "FR": "Faites une promenade près du parc.",
+                    "NE": "पार्क नजिकै घुम्न जानुहोस्।",
+                    "BN": "পার্কের কাছে একটু হাঁটুন।",
+                    "ZH": "在公园附近散步。",
+                    "KO": "공원 부근에서 산책한다.",
+                    "TL": "Maglakad-lakad malapit sa parke.",
+                    "MY": "ပန်းခြံအနီးတွင် လမ်းလျှောက်ပါ။",
+                    "HI": "पार्क के पास टहलें.",
+                    "AR": "قم بالمشي بالقرب من الحديقة.",
+                    "FA": "در نزدیکی پارک قدم بزنید."
+                }
+            },
+            {
+                "kanji": "この付近にレストランはありますか。",
+                "furigana": "この付近(ふきん)にレストランはありますか。",
+                "translations": {
+                    "EN": "Are there any restaurants near here?",
+                    "ID": "Apakah ada restoran di dekat sini?",
+                    "ES": "¿Hay algún restaurante cerca de aquí?",
+                    "VI": "Có nhà hàng nào gần đây không?",
+                    "FR": "Y a-t-il des restaurants à proximité ?",
+                    "NE": "यहाँ नजिकै कुनै रेस्टुरेन्ट छ?",
+                    "BN": "এখানে কি কাছাকাছি কোন রেস্তোরাঁ আছে?",
+                    "ZH": "这附近有餐馆吗？",
+                    "KO": "이 부근에 레스토랑이 있습니까?",
+                    "TL": "May mga restaurant ba na malapit dito?",
+                    "MY": "ဒီနားမှာ စားသောက်ဆိုင်တွေရှိလား။",
+                    "HI": "क्या यहां आस-पास कोई रेस्तरां है?",
+                    "AR": "هل يوجد أي مطاعم قريبة من هنا؟",
+                    "FA": "آیا رستورانی در این نزدیکی هست؟"
+                }
+            },
+            {
+                "kanji": "駐車場の付近に自転車が多い。",
+                "furigana": "駐車場(ちゅうしゃじょう)の付近(ふきん)に自転車(じてんしゃ)が多(おお)い。",
+                "translations": {
+                    "EN": "There are many bicycles near the parking lot.",
+                    "ID": "Ada banyak sepeda di dekat tempat parkir.",
+                    "ES": "Hay muchas bicicletas cerca del estacionamiento.",
+                    "VI": "Có rất nhiều xe đạp gần bãi đậu xe.",
+                    "FR": "Il y a de nombreux vélos à proximité du parking.",
+                    "NE": "पार्किङ स्थल नजिकै धेरै साइकलहरू छन्।",
+                    "BN": "পার্কিং লটের কাছে অনেক সাইকেল আছে।",
+                    "ZH": "停车场附近有很多自行车。",
+                    "KO": "주차장 부근에 자전거가 많다.",
+                    "TL": "Maraming mga bisikleta malapit sa parking lot.",
+                    "MY": "ကားရပ်နားရန်နေရာအနီးတွင် စက်ဘီးများစွာရှိသည်။",
+                    "HI": "पार्किंग स्थल के पास बहुत सारी साइकिलें हैं।",
+                    "AR": "هناك العديد من الدراجات بالقرب من موقف السيارات.",
+                    "FA": "دوچرخه‌های زیادی نزدیک پارکینگ هستند."
+                }
+            },
+            {
+                "kanji": "学校の付近は静かだ。",
+                "furigana": "学校(がっこう)の付近(ふきん)は静(しず)かだ。",
+                "translations": {
+                    "EN": "The area around the school is quiet.",
+                    "ID": "Daerah sekitar sekolah tenang.",
+                    "ES": "La zona alrededor de la escuela es tranquila.",
+                    "VI": "Khu vực xung quanh trường rất yên tĩnh.",
+                    "FR": "Le quartier autour de l'école est calme.",
+                    "NE": "विद्यालय वरपरको क्षेत्र शान्त छ।",
+                    "BN": "স্কুলের আশেপাশের এলাকা শান্ত।",
+                    "ZH": "学校周围很安静。",
+                    "KO": "학교 부근은 조용하다.",
+                    "TL": "Tahimik ang paligid ng school.",
+                    "MY": "ကျောင်းပတ်ဝန်းကျင်က တိတ်ဆိတ်နေတယ်။",
+                    "HI": "स्कूल के आसपास का क्षेत्र शांत है।",
+                    "AR": "المنطقة المحيطة بالمدرسة هادئة.",
+                    "FA": "اطراف مدرسه خلوت است."
+                }
+            },
+            {
+                "kanji": "付近にコンビニが数軒ある。",
+                "furigana": "付近(ふきん)にコンビニが数軒(すうけん)ある。",
+                "translations": {
+                    "EN": "There are several convenience stores nearby.",
+                    "ID": "Ada beberapa toko serba ada di dekatnya.",
+                    "ES": "Hay varias tiendas de conveniencia cerca.",
+                    "VI": "Có một số cửa hàng tiện lợi gần đó.",
+                    "FR": "Il y a plusieurs commerces de proximité à proximité.",
+                    "NE": "नजिकै धेरै सुविधा पसलहरू छन्।",
+                    "BN": "কাছাকাছি বেশ কয়েকটি সুবিধার দোকান আছে।",
+                    "ZH": "附近有几家便利店。",
+                    "KO": "부근에 편의점이 여러 곳 있다.",
+                    "TL": "Mayroong ilang mga convenience store sa malapit.",
+                    "MY": "အနီးနားတွင် စတိုးဆိုင်များစွာရှိသည်။",
+                    "HI": "आस-पास कई सुविधा स्टोर हैं।",
+                    "AR": "هناك العديد من المتاجر الصغيرة القريبة.",
+                    "FA": "چندین فروشگاه رفاه در این نزدیکی هست."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "neighborhood": {
+                "ID": "lingkungan",
+                "ES": "vecindario",
+                "VI": "hàng xóm",
+                "FR": "quartier",
+                "NE": "छिमेक",
+                "BN": "পাড়া",
+                "ZH": "邻里",
+                "KO": "이웃",
+                "TL": "kapitbahayan",
+                "MY": "ရပ်ကွက်ထဲ",
+                "HI": "अड़ोस-पड़ोस",
+                "AR": "حيّ",
+                "FA": "محله",
+                "EN": [
+                    "vicinity",
+                    "surrounding area",
+                    "environs",
+                    "district"
+                ]
+            },
+            "used as a suffix to mean 'around/near (a place)'": {
+                "ID": "digunakan sebagai sufiks yang berarti 'di sekitar/dekat (suatu tempat)'",
+                "ES": "Se utiliza como sufijo para significar 'alrededor/cerca de (un lugar)'",
+                "VI": "được sử dụng như một hậu tố có nghĩa là 'xung quanh/gần (một địa điểm)'",
+                "FR": "utilisé comme suffixe pour signifier « autour/près (d'un endroit) »",
+                "NE": "'वरपर/नजिकै (स्थान)' को अर्थमा प्रत्ययको रूपमा प्रयोग गरिन्छ।",
+                "BN": "'কাছাকাছি/কাছাকাছি (একটি স্থান)' বোঝাতে প্রত্যয় হিসেবে ব্যবহৃত হয়",
+                "ZH": "用作后缀，表示“（某个地方）周围/附近”",
+                "KO": "(어떤 장소) 주변/근처를 뜻하는 접미사로 사용됨",
+                "TL": "ginamit bilang panlapi upang nangangahulugang 'sa paligid/malapit (isang lugar)'",
+                "MY": "နောက်ဆက်တွဲအဖြစ် သုံးသည် 'ပတ်ဝန်းကျင်/အနီး (နေရာ)' ကို ဆိုလိုသည်။",
+                "HI": "प्रत्यय के रूप में प्रयुक्त जिसका अर्थ है '(किसी स्थान) के आसपास/निकट'",
+                "AR": "تستخدم كلاحقة لتعني \"حول/بالقرب من (مكان)\"",
+                "FA": "به عنوان پسوند به معنی «اطراف/نزدیک (یک مکان)» استفاده می‌شود",
+                "EN": []
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "付近",
+        "is_common": true,
+        "tags": [
+            "wanikani9"
+        ],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "付近",
+                "reading": "ふきん"
+            },
+            {
+                "word": "附近",
+                "reading": "ふきん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "neighborhood",
+                    "neighbourhood",
+                    "vicinity",
+                    "environs",
+                    "surrounding area",
+                    "district"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun, used as a suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "付",
+        "近"
+    ],
+    "kanji_data": {
+        "付": {
+            "freq_mainichi_shinbun": 322,
+            "grade": 4,
+            "heisig_en": "adhere",
+            "jlpt": 3,
+            "kanji": "付",
+            "kun_readings": [
+                "-つ.き",
+                "-つ.け",
+                "-つ.ける",
+                "-つき",
+                "-づ.き",
+                "-づ.く",
+                "-づ.け",
+                "-づ.ける",
+                "-づき",
+                "-づけ",
+                "つ.き",
+                "つ.く",
+                "つ.け",
+                "つ.け-",
+                "つ.ける"
+            ],
+            "meanings": [
+                "adhere",
+                "append",
+                "attach",
+                "refer to"
+            ],
+            "name_readings": [
+                "つけ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "フ"
+            ],
+            "stroke_count": 5,
+            "unicode": "4ED8"
+        },
+        "近": {
+            "freq_mainichi_shinbun": 194,
+            "grade": 2,
+            "heisig_en": "near",
+            "jlpt": 4,
+            "kanji": "近",
+            "kun_readings": [
+                "ちか.い"
+            ],
+            "meanings": [
+                "akin",
+                "early",
+                "near",
+                "tantamount"
+            ],
+            "name_readings": [
+                "おう",
+                "おお",
+                "この"
+            ],
+            "notes": [],
+            "on_readings": [
+                "キン",
+                "コン"
+            ],
+            "stroke_count": 7,
+            "unicode": "8FD1"
+        }
+    },
+    "collocations": [
+        "駅の付近",
+        "公園の付近",
+        "学校の付近",
+        "商店街の付近",
+        "駐車場の付近",
+        "付近にある",
+        "付近に見える",
+        "付近に位置する",
+        "付近に点在する",
+        "付近に存在する",
+        "駅付近で待ち合わせする",
+        "公園付近で散歩する",
+        "商店街付近で買い物する",
+        "交差点付近で渋滞する",
+        "道路付近で立ち止まる",
+        "すぐ付近",
+        "近い付近",
+        "その付近",
+        "周辺付近",
+        "付近一帯",
+        "周辺付近",
+        "近辺付近",
+        "直近付近",
+        "最寄り付近",
+        "住宅付近"
+    ]
+}

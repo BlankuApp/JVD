@@ -1,0 +1,380 @@
+{
+    "version": "0.2.0",
+    "word": "代金",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/oQzbfbPN56o",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "代金",
+        "reading": "だいきん",
+        "introduction_japanese": "「代金」は、お店やネットの買い物、請求書や支払いの話でよく使う名詞です。前払い・後払い、分割や一括の話、受け取りや振込、返品の場面でも出てきます。",
+        "introduction_english": "The noun だいきん is used in conversations about shopping in stores or online, invoices, and payments. It also appears when talking about prepayment or postpayment, paying in installments or in one lump sum, receiving money, bank transfers, and refunds.",
+        "meanings": [
+            [
+                "price",
+                "cost",
+                "charge",
+                "fee"
+            ],
+            [
+                "payment",
+                "bill"
+            ]
+        ],
+        "meaning_explanation_japanese": "「だいきん」は、商品やサービスに対して払うお金のことです。値段そのもの、または請求や支払いのお金を指します。",
+        "meaning_explanation_english": "The word だいきん means the money for goods or services. It can be the price or fee, and also the payment or the bill itself.",
+        "kanji_explanation_english": "The first kanji means to substitute or a period or a fee. You see it in だいひょう, where someone acts in place of others. It also appears in じだい, which talks about an era. So it carries the idea of replacing or time. The second kanji means gold, metal, and money. You see it in げんきん, meaning cash, and in おかね, meaning money in general. It brings the feeling of money or value.",
+        "kanji_details": [
+            {
+                "kanji": "代",
+                "common_words": [
+                    "代表 (だいひょう): representative",
+                    "時代 (じだい): era"
+                ]
+            },
+            {
+                "kanji": "金",
+                "common_words": [
+                    "現金 (げんきん): cash",
+                    "お金 (おかね): money"
+                ]
+            }
+        ],
+        "synonyms": [
+            "料金 : りょうきん : fee; charge",
+            "値段 : ねだん : price"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word だいきん are りょうきん and ねだん. りょうきん is often for services or fares, while ねだん is the price of an item; だいきん can cover both the price and the money paid.",
+        "antonyms": [
+            "無料 : むりょう : free (no charge)"
+        ],
+        "antonyms_explanation": "The most common antonym of the word だいきん is むりょう. むりょう means no money is needed, which is the opposite of paying だいきん.",
+        "examples": [
+            {
+                "kanji": "コンビニで代金を支払う。",
+                "furigana": "コンビニで代(だい)金(きん)を支(し)払(はら)う。",
+                "translations": {
+                    "EN": "Pay at the convenience store.",
+                    "ID": "Bayar di toko serba ada.",
+                    "ES": "Pagar en la tienda de conveniencia.",
+                    "VI": "Thanh toán tại cửa hàng tiện lợi.",
+                    "FR": "Payer au dépanneur.",
+                    "NE": "सुविधा स्टोरमा भुक्तानी गर्नुहोस्।",
+                    "BN": "সুবিধার দোকানে পেমেন্ট করুন।",
+                    "ZH": "在便利店付款。",
+                    "KO": "편의점에서 대금을 지불합니다.",
+                    "TL": "Magbayad sa convenience store.",
+                    "MY": "ကုန်စုံဆိုင်တွင် ငွေပေးချေပါ။",
+                    "HI": "सुविधा स्टोर पर भुगतान करें।",
+                    "AR": "ادفع في متجر البقالة.",
+                    "FA": "در فروشگاه رفاه پرداخت کنید."
+                }
+            },
+            {
+                "kanji": "店員が代金を受け取る。",
+                "furigana": "店(てん)員(いん)が代(だい)金(きん)を受(う)け取(と)る。",
+                "translations": {
+                    "EN": "The store clerk receives the payment.",
+                    "ID": "Kasir toko menerima pembayaran.",
+                    "ES": "El empleado de la tienda recibe el pago.",
+                    "VI": "Nhân viên cửa hàng nhận được khoản thanh toán.",
+                    "FR": "Le vendeur reçoit le paiement.",
+                    "NE": "पसलका क्लर्कले भुक्तानी पाउँछन्।",
+                    "BN": "দোকানের কেরানি টাকা গ্রহণ করেন।",
+                    "ZH": "店员收到付款。",
+                    "KO": "점원이 대금을 받는다.",
+                    "TL": "Ang klerk ng tindahan ay tumatanggap ng bayad.",
+                    "MY": "ဆိုင်စာရေးက ငွေပေးချေမှုကို လက်ခံသည်။",
+                    "HI": "स्टोर क्लर्क भुगतान प्राप्त करता है।",
+                    "AR": "يتلقى موظف المتجر الدفع.",
+                    "FA": "متصدی فروشگاه وجه را دریافت می‌کند."
+                }
+            },
+            {
+                "kanji": "会社は代金を請求した。",
+                "furigana": "会(かい)社(しゃ)は代(だい)金(きん)を請(せい)求(きゅう)した。",
+                "translations": {
+                    "EN": "The company charged the fee.",
+                    "ID": "Perusahaan mengenakan biaya.",
+                    "ES": "La empresa cobró la tarifa.",
+                    "VI": "Công ty đã tính phí.",
+                    "FR": "L'entreprise a facturé les frais.",
+                    "NE": "कम्पनीले शुल्क लिएको थियो।",
+                    "BN": "কোম্পানিটি ফি ধার্য করেছিল।",
+                    "ZH": "该公司收取了费用。",
+                    "KO": "회사는 대금을 청구했다.",
+                    "TL": "Sinisingil ng kumpanya ang bayad.",
+                    "MY": "ကုမ္ပဏီက အခကြေးငွေ ကောက်ခံတယ်။",
+                    "HI": "कंपनी ने शुल्क वसूला।",
+                    "AR": "قامت الشركة بتحصيل الرسوم.",
+                    "FA": "شرکت هزینه را دریافت کرد."
+                }
+            },
+            {
+                "kanji": "商品と代金を交換する。",
+                "furigana": "商(しょう)品(ひん)と代(だい)金(きん)を交(こう)換(かん)する。",
+                "translations": {
+                    "EN": "Exchange the product for payment.",
+                    "ID": "Tukar produk dengan pembayaran.",
+                    "ES": "Cambiar el producto por pago.",
+                    "VI": "Đổi sản phẩm để thanh toán.",
+                    "FR": "Échangez le produit contre paiement.",
+                    "NE": "भुक्तानीको लागि उत्पादन साट्नुहोस्।",
+                    "BN": "পণ্যটি বিনিময় করে পেমেন্ট করুন।",
+                    "ZH": "更换产品并付款。",
+                    "KO": "상품과 대금을 교환한다.",
+                    "TL": "Palitan ang produkto para sa pagbabayad.",
+                    "MY": "ငွေပေးချေမှုအတွက် ကုန်ပစ္စည်းကို လဲလှယ်ပါ။",
+                    "HI": "भुगतान के लिए उत्पाद का आदान-प्रदान करें।",
+                    "AR": "استبدال المنتج مقابل الدفع.",
+                    "FA": "محصول را برای پرداخت تعویض کنید."
+                }
+            },
+            {
+                "kanji": "後払い代金を選べます。",
+                "furigana": "後(あと)払(ばら)い代(だい)金(きん)を選(えら)べます。",
+                "translations": {
+                    "EN": "You can choose to pay later.",
+                    "ID": "Anda dapat memilih untuk membayar nanti.",
+                    "ES": "Puedes elegir pagar más tarde.",
+                    "VI": "Bạn có thể chọn thanh toán sau.",
+                    "FR": "Vous pouvez choisir de payer plus tard.",
+                    "NE": "तपाईं पछि भुक्तानी गर्ने छनौट गर्न सक्नुहुन्छ।",
+                    "BN": "আপনি পরে অর্থ প্রদান করতে পারেন।",
+                    "ZH": "您可以选择稍后付款。",
+                    "KO": "후불 대금을 선택할 수 있습니다.",
+                    "TL": "Maaari mong piliing magbayad sa ibang pagkakataon.",
+                    "MY": "နောက်ပိုင်းတွင် ငွေပေးချေရန် ရွေးချယ်နိုင်ပါသည်။",
+                    "HI": "आप बाद में भुगतान करना चुन सकते हैं।",
+                    "AR": "يمكنك اختيار الدفع لاحقًا.",
+                    "FA": "می‌توانید انتخاب کنید که بعداً پرداخت کنید."
+                }
+            },
+            {
+                "kanji": "代金と引き換えに商品を渡します。",
+                "furigana": "代(だい)金(きん)と引(ひ)き換(か)えに商(しょう)品(ひん)を渡(わた)します。",
+                "translations": {
+                    "EN": "The goods will be delivered in exchange for payment.",
+                    "ID": "Barang akan dikirimkan dan ditukar dengan pembayaran.",
+                    "ES": "La mercancía se entregará a cambio del pago.",
+                    "VI": "Hàng hóa sẽ được giao khi thanh toán.",
+                    "FR": "La marchandise sera livrée contre paiement.",
+                    "NE": "सामानहरू भुक्तानीको सट्टामा डेलिभर गरिनेछ।",
+                    "BN": "অর্থ প্রদানের বিনিময়ে পণ্য সরবরাহ করা হবে।",
+                    "ZH": "我们会根据付款要求交付货物。",
+                    "KO": "대금과 교환에 상품을 건네줍니다.",
+                    "TL": "Ang mga kalakal ay ihahatid kapalit ng bayad.",
+                    "MY": "ပစ္စည်းများကို ငွေပေးချေမှုဖြင့် ပို့ဆောင်ပေးမည်ဖြစ်ပါသည်။",
+                    "HI": "भुगतान के बदले में सामान वितरित किया जाएगा।",
+                    "AR": "سيتم تسليم البضاعة مقابل الدفع.",
+                    "FA": "کالا در ازای پرداخت وجه، تحویل داده می‌شود."
+                }
+            },
+            {
+                "kanji": "前払い代金を払いました。",
+                "furigana": "前(まえ)払(ばら)い代(だい)金(きん)を払(はら)いました。",
+                "translations": {
+                    "EN": "I paid the advance payment.",
+                    "ID": "Saya sudah membayar uang muka.",
+                    "ES": "Pagué el anticipo.",
+                    "VI": "Tôi đã trả tiền tạm ứng.",
+                    "FR": "J'ai payé l'acompte.",
+                    "NE": "मैले अग्रिम भुक्तानी गरें।",
+                    "BN": "আমি অগ্রিম টাকা দিয়েছি।",
+                    "ZH": "我已付了预付款。",
+                    "KO": "선불 대금을 지불했습니다.",
+                    "TL": "Nagbayad ako ng advance payment.",
+                    "MY": "ကြိုတင်ငွေ ပေးချေခဲ့တယ်။",
+                    "HI": "मैंने अग्रिम भुगतान कर दिया।",
+                    "AR": "لقد دفعت الدفعة المقدمة.",
+                    "FA": "من پیش پرداخت رو پرداخت کردم."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "price": {
+                "ID": "harga",
+                "ES": "precio",
+                "VI": "giá ",
+                "FR": "prix",
+                "NE": "मूल्य",
+                "BN": "মূল্য",
+                "ZH": "价格",
+                "KO": "가격",
+                "TL": "presyo",
+                "MY": "စျေးနှုန်း",
+                "HI": "कीमत",
+                "AR": "سعر",
+                "FA": "قیمت",
+                "EN": [
+                    "cost",
+                    "charge",
+                    "fee"
+                ]
+            },
+            "payment": {
+                "ID": "pembayaran",
+                "ES": "pago",
+                "VI": "sự chi trả",
+                "FR": "paiement",
+                "NE": "भुक्तानी",
+                "BN": "পেমেন্ট",
+                "ZH": "支付",
+                "KO": "지불",
+                "TL": "pagbabayad",
+                "MY": "ငွေပေးချေမှု",
+                "HI": "भुगतान",
+                "AR": "قسط",
+                "FA": "پرداخت",
+                "EN": [
+                    "bill"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "代金",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "代金",
+                "reading": "だいきん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "price",
+                    "cost",
+                    "charge",
+                    "payment",
+                    "bill",
+                    "fee"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "代",
+        "金"
+    ],
+    "kanji_data": {
+        "代": {
+            "freq_mainichi_shinbun": 66,
+            "grade": 3,
+            "heisig_en": "substitute",
+            "jlpt": 4,
+            "kanji": "代",
+            "kun_readings": [
+                "-が.わり",
+                "-がわ.り",
+                "か.える",
+                "か.わり",
+                "か.わる",
+                "かわ.り",
+                "かわ.る",
+                "しろ",
+                "よ"
+            ],
+            "meanings": [
+                "age",
+                "change",
+                "charge",
+                "convert",
+                "counter for decades of ages, eras, etc.",
+                "fee",
+                "generation",
+                "period",
+                "rate",
+                "replace",
+                "substitute"
+            ],
+            "name_readings": [
+                "す"
+            ],
+            "notes": [],
+            "on_readings": [
+                "タイ",
+                "ダイ"
+            ],
+            "stroke_count": 5,
+            "unicode": "4EE3"
+        },
+        "金": {
+            "freq_mainichi_shinbun": 53,
+            "grade": 1,
+            "heisig_en": "gold",
+            "jlpt": 5,
+            "kanji": "金",
+            "kun_readings": [
+                "-がね",
+                "かな-",
+                "かね"
+            ],
+            "meanings": [
+                "gold"
+            ],
+            "name_readings": [
+                "かん",
+                "きむ",
+                "こ",
+                "この",
+                "ん"
+            ],
+            "notes": [],
+            "on_readings": [
+                "キン",
+                "コン",
+                "ゴン"
+            ],
+            "stroke_count": 8,
+            "unicode": "91D1"
+        }
+    },
+    "collocations": [
+        "代金を支払う",
+        "代金を受け取る",
+        "代金を請求する",
+        "代金を立て替える",
+        "代金を回収する",
+        "支払代金",
+        "販売代金",
+        "商品代金",
+        "請求代金",
+        "後払い代金",
+        "商品と代金を交換する",
+        "代金と引き換えに渡す",
+        "物と代金を換える",
+        "代金と相殺する",
+        "代金と対象を対応させる",
+        "前払い代金",
+        "後払い代金",
+        "一括代金",
+        "分割代金",
+        "預り代金",
+        "あらかじめ代金",
+        "全額代金",
+        "一部代金",
+        "正式に代金を支払う",
+        "ただちに代金を振込む"
+    ]
+}

@@ -40,11 +40,15 @@ def setup_logger(name: str = "JVD", level: str = "INFO") -> logging.Logger:
 
     # File handler for all logs
     file_handler = logging.FileHandler(logs_dir / f"app_{datetime.now().strftime('%Y%m%d')}.log", encoding="utf-8")
+    file_handler.stream.write("\n" + "-" * 30 + f" {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} " + "-" * 30 + "\n")
+    file_handler.stream.flush()
     file_handler.setLevel(logging.DEBUG)
     file_handler.setFormatter(detailed_formatter)
 
     # Error file handler
     error_handler = logging.FileHandler(logs_dir / f"errors_{datetime.now().strftime('%Y%m%d')}.log", encoding="utf-8")
+    error_handler.stream.write("\n" + "-" * 30 + f" {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} " + "-" * 30 + "\n")
+    error_handler.stream.flush()
     error_handler.setLevel(logging.ERROR)
     error_handler.setFormatter(detailed_formatter)
 

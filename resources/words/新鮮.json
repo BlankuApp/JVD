@@ -1,0 +1,361 @@
+{
+    "version": "0.2.0",
+    "word": "新鮮",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/UUBGoBokN84",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "新鮮",
+        "reading": "しんせん",
+        "introduction_japanese": "「新鮮」は、食べ物や空気の話題、人の印象や感覚、それから今までと違うアイデアや出来事について話すときによく使う形容動詞です。",
+        "introduction_english": "The na-adjective しんせん is commonly seen in conversations about food and air, people's impressions or feelings, and when talking about ideas or events that feel different from before.",
+        "meanings": [
+            [
+                "fresh (physical): food, fish, air; recently produced or not spoiled",
+                "not stale or rotten"
+            ],
+            [
+                "fresh (figurative): a new or refreshing feeling or impression",
+                "novel, original (an idea or perspective)"
+            ]
+        ],
+        "meaning_explanation_japanese": "「新鮮」は、食べ物や空気が傷んでいない状態や、匂いや味が良いことを表すほか、人の感覚や印象、考えが新しくてさわやかに感じることにも使う形容動詞です。",
+        "meaning_explanation_english": "The word しんせん means 'fresh' for things like food, fish, or air (not spoiled), and it also describes a refreshing or new feeling, impression, or idea.",
+        "kanji_explanation_english": "The first kanji means new or recent. It appears in words like しんぶん and あたらしい which show how this kanji gives the idea of something recent or newly made. The second kanji means fresh or vivid. It appears in words like あざやか and せんぎょ where it adds the sense of vividness or freshness, especially for colors or food.",
+        "kanji_details": [
+            {
+                "kanji": "新",
+                "common_words": [
+                    "新聞 (しんぶん): newspaper",
+                    "新しい (あたらしい): new"
+                ],
+                "meanings": [
+                    "new"
+                ],
+                "on_readings": [
+                    "シン"
+                ],
+                "kun_readings": [
+                    "あたら.しい",
+                    "あら-",
+                    "あら.た",
+                    "にい-"
+                ]
+            },
+            {
+                "kanji": "鮮",
+                "common_words": [
+                    "鮮やか (あざやか): vivid, bright",
+                    "鮮魚 (せんぎょ): fresh fish"
+                ],
+                "meanings": [
+                    "fresh",
+                    "vivid",
+                    "clear"
+                ],
+                "on_readings": [
+                    "セン"
+                ],
+                "kun_readings": [
+                    "あざ.やか"
+                ]
+            }
+        ],
+        "synonyms": [
+            "新しい : あたらしい : new",
+            "瑞々しい : みずみずしい : fresh, juicy (often for fruit or appearance)"
+        ],
+        "synonyms_explanation": "The most common synonyms of the しんせん are あたらしい and みずみずしい. あたらしい emphasizes that something is recent or not used before, while みずみずしい emphasizes juiciness or a lively, moist freshness, often used for food or appearance.",
+        "antonyms": [
+            "古い : ふるい : old",
+            "腐った : くさった : rotten"
+        ],
+        "antonyms_explanation": "The most common antonyms of the しんせん are ふるい and くさった. ふるい means something is old or not new, and くさった specifically means spoiled or rotten, which is the opposite of fresh for food.",
+        "examples": [
+            {
+                "kanji": "新鮮な野菜を買った。",
+                "furigana": "新鮮(しんせん)な野菜(やさい)を買(か)った。",
+                "translations": {
+                    "EN": "I bought fresh vegetables.",
+                    "ID": "Saya membeli sayuran segar.",
+                    "ES": "Compré verduras frescas.",
+                    "VI": "Tôi đã mua rau tươi.",
+                    "FR": "J'ai acheté des légumes frais.",
+                    "NE": "मैले ताजा तरकारी किनें।",
+                    "BN": "আমি তাজা সবজি কিনেছি।",
+                    "ZH": "我买了新鲜的蔬菜。",
+                    "KO": "신선한 야채를 샀다.",
+                    "TL": "Bumili ako ng sariwang gulay.",
+                    "MY": "လတ်ဆတ်တဲ့ အသီးအရွက်တွေ ဝယ်တယ်။",
+                    "HI": "मैंने ताज़ी सब्ज़ियाँ खरीदीं।",
+                    "AR": "اشتريت خضروات طازجة.",
+                    "FA": "سبزی تازه خریدم."
+                }
+            },
+            {
+                "kanji": "朝の空気は新鮮だ。",
+                "furigana": "朝(あさ)の空気(くうき)は新鮮(しんせん)だ。",
+                "translations": {
+                    "EN": "The morning air is fresh.",
+                    "ID": "Udara pagi terasa segar.",
+                    "ES": "El aire de la mañana es fresco.",
+                    "VI": "Không khí buổi sáng trong lành.",
+                    "FR": "L'air du matin est frais.",
+                    "NE": "बिहानको हावा ताजा छ।",
+                    "BN": "সকালের বাতাস টাটকা।",
+                    "ZH": "早晨的空气很清新。",
+                    "KO": "아침의 공기는 신선하다.",
+                    "TL": "Sariwa ang hangin sa umaga.",
+                    "MY": "မနက်ခင်းလေက လတ်ဆတ်တယ်။",
+                    "HI": "सुबह की हवा ताज़ा है.",
+                    "AR": "هواء الصباح نقي.",
+                    "FA": "هوای صبحگاهی تازه است."
+                }
+            },
+            {
+                "kanji": "魚が新鮮で美味しい。",
+                "furigana": "魚(さかな)が新鮮(しんせん)で美味(おい)しい。",
+                "translations": {
+                    "EN": "The fish is fresh and delicious.",
+                    "ID": "Ikannya segar dan lezat.",
+                    "ES": "El pescado es fresco y delicioso.",
+                    "VI": "Cá tươi và ngon.",
+                    "FR": "Le poisson est frais et délicieux.",
+                    "NE": "माछा ताजा र स्वादिष्ट छ।",
+                    "BN": "মাছটি তাজা এবং সুস্বাদু।",
+                    "ZH": "鱼很新鲜，味道鲜美。",
+                    "KO": "생선이 신선하고 맛있다.",
+                    "TL": "Ang isda ay sariwa at masarap.",
+                    "MY": "ငါးက လတ်ဆတ်ပြီး အရသာရှိတယ်။",
+                    "HI": "मछली ताज़ा और स्वादिष्ट है.",
+                    "AR": "السمك طازج ولذيذ.",
+                    "FA": "ماهی تازه و خوشمزه است."
+                }
+            },
+            {
+                "kanji": "このアイデアは新鮮だ。",
+                "furigana": "このアイデアは新鮮(しんせん)だ。",
+                "translations": {
+                    "EN": "This idea is fresh.",
+                    "ID": "Ide ini segar.",
+                    "ES": "Esta idea es fresca.",
+                    "VI": "Ý tưởng này thật mới mẻ.",
+                    "FR": "Cette idée est fraîche.",
+                    "NE": "यो विचार ताजा छ।",
+                    "BN": "এই ধারণাটি নতুন।",
+                    "ZH": "这个想法很新颖。",
+                    "KO": "이 아이디어는 신선하다.",
+                    "TL": "Ang ideyang ito ay sariwa.",
+                    "MY": "ဒီစိတ်ကူးက ဆန်းသစ်တယ်။",
+                    "HI": "यह विचार नया है।",
+                    "AR": "هذه الفكرة جديدة.",
+                    "FA": "این ایده تازه است."
+                }
+            },
+            {
+                "kanji": "新鮮な感覚を得た。",
+                "furigana": "新鮮(しんせん)な感覚(かんかく)を得(え)た。",
+                "translations": {
+                    "EN": "It gave me a fresh feeling.",
+                    "ID": "Itu memberiku perasaan segar.",
+                    "ES": "Me dio una sensación de frescura.",
+                    "VI": "Nó mang lại cho tôi cảm giác mới mẻ.",
+                    "FR": "Cela m'a donné une sensation de fraîcheur.",
+                    "NE": "ताजा महसुस भयो।",
+                    "BN": "এটা সতেজ অনুভূত হলো।",
+                    "ZH": "给了我一种耳目一新的感觉。",
+                    "KO": "신선한 감각을 얻었다.",
+                    "TL": "Sariwa ang pakiramdam.",
+                    "MY": "လန်းဆန်းတဲ့ခံစားမှုကိုပေးတယ်။",
+                    "HI": "इससे मुझे एक ताज़ा एहसास हुआ।",
+                    "AR": "لقد شعرت بالانتعاش.",
+                    "FA": "یه حس تازگی بهم داد."
+                }
+            },
+            {
+                "kanji": "新鮮な香りがする。",
+                "furigana": "新鮮(しんせん)な香(か)りがする。",
+                "translations": {
+                    "EN": "It smells fresh.",
+                    "ID": "Baunya segar.",
+                    "ES": "Huele fresco.",
+                    "VI": "Nó có mùi tươi mát.",
+                    "FR": "Ça sent frais.",
+                    "NE": "यसको गन्ध ताजा छ।",
+                    "BN": "এটার গন্ধ টাটকা।",
+                    "ZH": "闻起来很新鲜。",
+                    "KO": "신선한 향기가 난다.",
+                    "TL": "Mabango ito.",
+                    "MY": "လတ်ဆတ်သောအနံ့။",
+                    "HI": "इसकी खुशबू ताज़ा है.",
+                    "AR": "رائحتها منعشة.",
+                    "FA": "بوی تازگی می‌دهد."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "fresh (physical): food, fish, air; recently produced or not spoiled": {
+                "ID": "segar (fisik): makanan, ikan, udara; baru diproduksi atau belum rusak",
+                "ES": "fresco (físico): alimento, pescado, aire; producido recientemente o no estropeado",
+                "VI": "tươi (vật lý): thực phẩm, cá, không khí; mới sản xuất hoặc chưa bị hỏng",
+                "FR": "frais (physique) : nourriture, poisson, air ; récemment produit ou non avarié",
+                "NE": "ताजा (भौतिक): खाना, माछा, हावा; हालसालै उत्पादन गरिएको वा बिग्रिएको छैन।",
+                "BN": "তাজা (ভৌত): খাদ্য, মাছ, বাতাস; সম্প্রতি উৎপাদিত বা নষ্ট না হওয়া",
+                "ZH": "新鲜（物理）：食物、鱼、空气；最近生产或未变质",
+                "KO": "신선한(물리적): 음식, 생선, 공기; 최근에 생산되었거나 상하지 않은",
+                "TL": "sariwa (pisikal): pagkain, isda, hangin; kamakailang ginawa o hindi spoiled",
+                "MY": "လတ်ဆတ်သော (ရုပ်ပိုင်းဆိုင်ရာ): အစားအစာ, ငါး, လေ; မကြာသေးမီက ထုတ်လုပ်ခဲ့သည် သို့မဟုတ် မပျက်စီးသေးပါ။",
+                "HI": "ताज़ा (भौतिक): भोजन, मछली, हवा; हाल ही में उत्पादित या खराब नहीं हुआ",
+                "AR": "طازج (مادي): طعام، سمك، هواء؛ تم إنتاجه مؤخرًا أو لم يفسد",
+                "FA": "تازه (فیزیکی): غذا، ماهی، هوا؛ اخیراً تولید شده یا فاسد نشده",
+                "EN": [
+                    "not stale or rotten"
+                ]
+            },
+            "fresh (figurative): a new or refreshing feeling or impression": {
+                "ID": "segar (kiasan): perasaan atau kesan baru atau menyegarkan",
+                "ES": "fresco (figurado): una sensación o impresión nueva o refrescante",
+                "VI": "tươi mới (nghĩa bóng): cảm giác hoặc ấn tượng mới mẻ hoặc sảng khoái",
+                "FR": "frais (au figuré) : une sensation ou une impression nouvelle ou rafraîchissante",
+                "NE": "ताजा (लाक्षणिक): नयाँ वा ताजा अनुभूति वा छाप",
+                "BN": "তাজা (আলঙ্কারিক): একটি নতুন বা সতেজ অনুভূতি বা ছাপ",
+                "ZH": "新鲜的（比喻）：一种新的或令人耳目一新的感觉或印象",
+                "KO": "신선한(비유적): 새롭거나 상쾌한 느낌이나 인상",
+                "TL": "sariwa (figurative): isang bago o nakakapreskong pakiramdam o impresyon",
+                "MY": "လတ်ဆတ်သော (ပုံသဏ္ဍာန်)- အသစ်သော သို့မဟုတ် လန်းဆန်းသောခံစားမှု သို့မဟုတ် အထင်ကြီးမှု",
+                "HI": "ताज़ा (लाक्षणिक): एक नया या ताज़ा एहसास या प्रभाव",
+                "AR": "طازج (مجازي): شعور أو انطباع جديد أو منعش",
+                "FA": "تازه (مجازی): احساس یا برداشتی نو یا تازه",
+                "EN": [
+                    "novel, original (an idea or perspective)"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "新鮮",
+        "is_common": true,
+        "tags": [
+            "wanikani25"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "新鮮",
+                "reading": "しんせん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "fresh"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "新",
+        "鮮"
+    ],
+    "kanji_data": {
+        "新": {
+            "freq_mainichi_shinbun": 51,
+            "grade": 2,
+            "heisig_en": "new",
+            "jlpt": 4,
+            "kanji": "新",
+            "kun_readings": [
+                "あたら.しい",
+                "あら-",
+                "あら.た",
+                "にい-"
+            ],
+            "meanings": [
+                "new"
+            ],
+            "name_readings": [
+                "あせ",
+                "あたらし",
+                "し",
+                "に",
+                "にっ",
+                "につ",
+                "よし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シン"
+            ],
+            "stroke_count": 13,
+            "unicode": "65B0"
+        },
+        "鮮": {
+            "freq_mainichi_shinbun": 355,
+            "grade": 8,
+            "heisig_en": "fresh",
+            "jlpt": 1,
+            "kanji": "鮮",
+            "kun_readings": [
+                "あざ.やか"
+            ],
+            "meanings": [
+                "Korea",
+                "brilliant",
+                "clear",
+                "fresh",
+                "vivid"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "セン"
+            ],
+            "stroke_count": 17,
+            "unicode": "9BAE"
+        }
+    },
+    "collocations": [
+        "新鮮な空気",
+        "新鮮な野菜",
+        "新鮮な魚",
+        "新鮮な感覚",
+        "新鮮な印象",
+        "空気が新鮮だ",
+        "魚が新鮮だ",
+        "感覚が新鮮だ",
+        "香りが新鮮だ",
+        "出来事が新鮮だ",
+        "感じが新鮮だ",
+        "見ると新鮮だ",
+        "思いつきが新鮮だ",
+        "気分が新鮮になる",
+        "目に新鮮だ",
+        "新鮮さ",
+        "新鮮味",
+        "新鮮感",
+        "新鮮度",
+        "新鮮性",
+        "味の新鮮を感じる",
+        "空気の新鮮を味わう",
+        "新鮮の感覚を得る",
+        "新鮮の息吹を感じる",
+        "新鮮の感動を覚える"
+    ]
+}

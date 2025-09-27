@@ -1,0 +1,311 @@
+{
+    "version": "0.2.0",
+    "word": "確かめる",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/gtksipvL6z0",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "確かめる",
+        "reading": "たしかめる",
+        "introduction_japanese": "確かめるは、情報や身分、予約などが正しいかどうかを確認したい場面でよく使う動詞です。旅行前や手続きのとき、相手の言ったことをもう一度確認するときに使います。",
+        "introduction_english": "The verb たしかめる is commonly used when you want to check or confirm information like IDs, addresses, or reservations. You often use it before trips, during procedures, or when you want to double-check what someone said.",
+        "meanings": [
+            [
+                "to make sure",
+                "to check",
+                "to ascertain",
+                "to confirm",
+                "to verify"
+            ]
+        ],
+        "meaning_explanation_japanese": "「確かめる」は、何かが正しいかどうかを調べて確認する行為を表す言葉です。例えば、予約や住所、電話番号が間違っていないかを確認するときに使います。",
+        "meaning_explanation_english": "The verb たしかめる means 'to make sure', 'to check', or 'to confirm'. You use it when you want to investigate something to ensure it is correct or true.",
+        "kanji_explanation_english": "The first kanji means assurance or confirmation, the idea of something being clear and certain. In the word せいかく it helps give the meaning of being exact or accurate. In the word かくてい it gives the sense of deciding or making something definite. You will see this kanji when Japanese talks about confirming or making something certain.",
+        "kanji_details": [
+            {
+                "kanji": "確",
+                "meanings": [
+                    "assurance",
+                    "confirm",
+                    "clear",
+                    "evident",
+                    "firm"
+                ],
+                "on_readings": [
+                    "カク",
+                    "コウ"
+                ],
+                "kun_readings": [
+                    "たし.か",
+                    "たし.かめる"
+                ],
+                "common_words": [
+                    "正確 (せいかく): accurate, precise",
+                    "確定 (かくてい): decision, confirmation"
+                ]
+            }
+        ],
+        "synonyms": [
+            "確認する : かくにんする : to check/confirm",
+            "調べる : しらべる : to look into, to check"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word are かくにんする and しらべる. かくにんする is very close in meaning and is a formal way to say 'confirm'; しらべる is more general and can mean 'investigate' or 'check' but may not always imply final confirmation.",
+        "antonyms": [
+            "疑う : うたがう : to doubt"
+        ],
+        "antonyms_explanation": "The most common antonym of the word is うたがう. うたがう means to doubt or suspect, which is the opposite of confirming or verifying something.",
+        "examples": [
+            {
+                "kanji": "身分証明書を確かめる。",
+                "furigana": "身分証明書(みぶんしょうめいしょ)を確かめる(たしかめる)。",
+                "translations": {
+                    "EN": "Check your ID.",
+                    "ID": "Periksa identitas Anda.",
+                    "ES": "Comprueba tu identificación.",
+                    "VI": "Kiểm tra ID của bạn.",
+                    "FR": "Vérifiez votre identité.",
+                    "NE": "आफ्नो परिचयपत्र जाँच गर्नुहोस्।",
+                    "BN": "তোমার আইডি চেক করো।",
+                    "ZH": "检查你的身份证。",
+                    "KO": "신분증을 확인한다.",
+                    "TL": "Tingnan ang iyong ID.",
+                    "MY": "သင်၏ ID ကိုစစ်ဆေးပါ။",
+                    "HI": "अपनी आईडी जांचें.",
+                    "AR": "تحقق من هويتك.",
+                    "FA": "شناسنامه‌ات را بررسی کن."
+                }
+            },
+            {
+                "kanji": "住所を確かめてください。",
+                "furigana": "住所(じゅうしょ)を確かめてください(たしかめてください)。",
+                "translations": {
+                    "EN": "Please check your address.",
+                    "ID": "Silakan periksa alamat Anda.",
+                    "ES": "Por favor verifique su dirección.",
+                    "VI": "Vui lòng kiểm tra địa chỉ của bạn.",
+                    "FR": "Veuillez vérifier votre adresse.",
+                    "NE": "कृपया आफ्नो ठेगाना जाँच गर्नुहोस्।",
+                    "BN": "আপনার ঠিকানাটি পরীক্ষা করুন।",
+                    "ZH": "请检查您的地址。",
+                    "KO": "주소를 확인하십시오.",
+                    "TL": "Pakisuri ang iyong address.",
+                    "MY": "သင့်လိပ်စာကို စစ်ဆေးပါ။",
+                    "HI": "कृपया अपना पता जांच लें.",
+                    "AR": "يرجى التحقق من عنوانك.",
+                    "FA": "لطفا آدرس خود را بررسی کنید."
+                }
+            },
+            {
+                "kanji": "電話番号を確かめます。",
+                "furigana": "電話番号(でんわばんごう)を確かめます(たしかめます)。",
+                "translations": {
+                    "EN": "Check the phone number.",
+                    "ID": "Periksa nomor telepon.",
+                    "ES": "Verifique el número de teléfono.",
+                    "VI": "Kiểm tra số điện thoại.",
+                    "FR": "Vérifiez le numéro de téléphone.",
+                    "NE": "फोन नम्बर जाँच गर्नुहोस्।",
+                    "BN": "ফোন নম্বরটি পরীক্ষা করুন।",
+                    "ZH": "检查电话号码。",
+                    "KO": "전화 번호를 확인합니다.",
+                    "TL": "Tingnan ang numero ng telepono.",
+                    "MY": "ဖုန်းနံပါတ်ကို စစ်ဆေးပါ။",
+                    "HI": "फ़ोन नंबर की जाँच करें.",
+                    "AR": "التحقق من رقم الهاتف.",
+                    "FA": "شماره تلفن را بررسی کنید."
+                }
+            },
+            {
+                "kanji": "予約内容を確かめた。",
+                "furigana": "予約内容(よやくないよう)を確かめた(たしかめた)。",
+                "translations": {
+                    "EN": "I confirmed the reservation details.",
+                    "ID": "Saya telah mengonfirmasi rincian reservasi.",
+                    "ES": "Confirmé los detalles de la reserva.",
+                    "VI": "Tôi đã xác nhận thông tin đặt chỗ.",
+                    "FR": "J'ai confirmé les détails de la réservation.",
+                    "NE": "मैले आरक्षण विवरणहरू पुष्टि गरें।",
+                    "BN": "আমি রিজার্ভেশনের বিবরণ নিশ্চিত করেছি।",
+                    "ZH": "我确认了预订详情。",
+                    "KO": "예약 내용을 확인했다.",
+                    "TL": "Kinumpirma ko ang mga detalye ng reserbasyon.",
+                    "MY": "ကြိုတင်မှာယူမှု အသေးစိတ်ကို ကျွန်ုပ် အတည်ပြုခဲ့သည်။",
+                    "HI": "मैंने आरक्षण विवरण की पुष्टि की।",
+                    "AR": "لقد أكدت تفاصيل الحجز.",
+                    "FA": "جزئیات رزرو را تأیید کردم."
+                }
+            },
+            {
+                "kanji": "情報をきちんと確かめよう。",
+                "furigana": "情報(じょうほう)をきちんと確かめよう(たしかめよう)。",
+                "translations": {
+                    "EN": "Make sure to check the information carefully.",
+                    "ID": "Pastikan untuk memeriksa informasinya dengan cermat.",
+                    "ES": "Asegúrese de verificar la información cuidadosamente.",
+                    "VI": "Hãy chắc chắn kiểm tra thông tin cẩn thận.",
+                    "FR": "Assurez-vous de vérifier attentivement les informations.",
+                    "NE": "जानकारी ध्यानपूर्वक जाँच गर्न निश्चित गर्नुहोस्।",
+                    "BN": "তথ্যগুলো সাবধানে পরীক্ষা করে দেখুন।",
+                    "ZH": "请务必仔细检查信息。",
+                    "KO": "정보를 제대로 확인하자.",
+                    "TL": "Tiyaking suriing mabuti ang impormasyon.",
+                    "MY": "အချက်အလက်တွေကို သေချာစစ်ဆေးပါ။",
+                    "HI": "कृपया जानकारी को ध्यानपूर्वक जांच लें।",
+                    "AR": "تأكد من التحقق من المعلومات بعناية.",
+                    "FA": "حتماً اطلاعات را با دقت بررسی کنید."
+                }
+            },
+            {
+                "kanji": "もう一度確かめてください。",
+                "furigana": "もう一度(もういちど)確かめてください(たしかめてください)。",
+                "translations": {
+                    "EN": "Please check again.",
+                    "ID": "Silakan periksa lagi.",
+                    "ES": "Por favor verifique nuevamente.",
+                    "VI": "Vui lòng kiểm tra lại.",
+                    "FR": "Veuillez vérifier à nouveau.",
+                    "NE": "कृपया फेरि जाँच गर्नुहोस्।",
+                    "BN": "আবার পরীক্ষা করে দেখুন।",
+                    "ZH": "请再检查一下。",
+                    "KO": "다시 확인하십시오.",
+                    "TL": "Pakisuri muli.",
+                    "MY": "ထပ်မံစစ်ဆေးပါ။",
+                    "HI": "कृपया दोबारा जांच करें।",
+                    "AR": "يرجى التحقق مرة أخرى.",
+                    "FA": "لطفا دوباره بررسی کنید."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "to make sure": {
+                "ID": "untuk memastikan",
+                "ES": "Para asegurarse",
+                "VI": "để đảm bảo",
+                "FR": "pour s'assurer",
+                "NE": "सुनिश्चित गर्न",
+                "BN": "নিশ্চিত করতে",
+                "ZH": "确保",
+                "KO": "확실히 하기 위해",
+                "TL": "para makasigurado",
+                "MY": "သေချာအောင်",
+                "HI": "निश्चित करना",
+                "AR": "للتأكد من ذلك",
+                "FA": "برای اطمینان",
+                "EN": [
+                    "to check",
+                    "to ascertain",
+                    "to confirm",
+                    "to verify"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "確かめる",
+        "is_common": true,
+        "tags": [
+            "wanikani22"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "確かめる",
+                "reading": "たしかめる"
+            },
+            {
+                "word": "慥かめる",
+                "reading": "たしかめる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to make sure",
+                    "to check",
+                    "to ascertain",
+                    "to confirm",
+                    "to verify"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "確"
+    ],
+    "kanji_data": {
+        "確": {
+            "freq_mainichi_shinbun": 252,
+            "grade": 5,
+            "heisig_en": "assurance",
+            "jlpt": 3,
+            "kanji": "確",
+            "kun_readings": [
+                "たし.か",
+                "たし.かめる"
+            ],
+            "meanings": [
+                "assurance",
+                "clear",
+                "confirm",
+                "evident",
+                "firm",
+                "hard",
+                "solid",
+                "tight"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カク",
+                "コウ"
+            ],
+            "stroke_count": 15,
+            "unicode": "78BA"
+        }
+    },
+    "collocations": [
+        "身分証明書を確かめる",
+        "住所を確かめる",
+        "電話番号を確かめる",
+        "予約内容を確かめる",
+        "情報を確かめる",
+        "真偽が確かめられる",
+        "事実が確かめられる",
+        "安全が確かめられる",
+        "正確さが確かめられる",
+        "効果が確かめられる",
+        "きちんと確かめる",
+        "念入りに確かめる",
+        "再度確かめる",
+        "もう一度確かめる",
+        "ちゃんと確かめる",
+        "正しく確かめる",
+        "十分に確かめる",
+        "完全に確かめる",
+        "正確に確かめる",
+        "確実に確かめる",
+        "確かめたうえで〜する",
+        "確かめる手続きをする",
+        "確かめておく",
+        "確かめに行く",
+        "確かめ直す"
+    ]
+}

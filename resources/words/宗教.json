@@ -1,0 +1,397 @@
+{
+    "version": "0.2.0",
+    "word": "宗教",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/nNxt9WR_HRU",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "宗教",
+        "reading": "しゅうきょう",
+        "introduction_japanese": "「宗教」は、神や信仰について話すときや、教会や寺、宗派や儀式についての会話でよく使われる名詞です。学校やニュースで宗教の話題が出る場面でも見かけます。",
+        "introduction_english": "The noun しゅうきょう is commonly used when talking about gods or beliefs, at places like churches or temples, and in conversations about sects or rituals. You also see it in school lessons and news when religion is discussed.",
+        "meanings": [
+            [
+                "religion",
+                "religious affiliation",
+                "belief",
+                "faith",
+                "creed",
+                "Religion (institution or system of belief)"
+            ],
+            [
+                "religious activity",
+                "religious practice",
+                "ritual"
+            ]
+        ],
+        "meaning_explanation_japanese": "「宗教」は、特定の神や教えに基づく信仰や、その組織・体系を指す言葉です。また、礼拝や祭りのような宗教的な活動や儀式を意味することもあります。",
+        "meaning_explanation_english": "The word しゅうきょう means a system of belief or organized religion, like churches, temples, and doctrines. It can also refer to religious activities and rituals.",
+        "kanji_explanation_english": "The first kanji means denomination, origin, or the main point. It appears in words like しゅうは which means a religious sect and shows the idea of a group or school of thought. It also appears in しゅし which means the core doctrine and shows the idea of the main or essential point. The second kanji means teach, doctrine, or instruction. It appears in words like きょうしつ which means classroom, where the kanji gives the idea of teaching, and in きょういく which means education, where the kanji shows instruction and learning.",
+        "kanji_details": [
+            {
+                "kanji": "宗",
+                "common_words": [
+                    "宗派 (しゅうは): denomination, sect",
+                    "宗旨 (しゅし): core doctrine, fundamental principle"
+                ]
+            },
+            {
+                "kanji": "教",
+                "common_words": [
+                    "教室 (きょうしつ): classroom",
+                    "教育 (きょういく): education"
+                ]
+            }
+        ],
+        "synonyms": [
+            "信仰 : しんこう : faith, belief"
+        ],
+        "synonyms_explanation": "The most common synonym of the しゅうきょう is しんこう. しんこう focuses more on a person's personal faith or belief, while しゅうきょう can mean the organized system, institutions, or collective practices.",
+        "antonyms": [
+            "無宗教 : むしゅうきょう : non-religious, no religion"
+        ],
+        "antonyms_explanation": "The most common antonym of the しゅうきょう is むしゅうきょう. むしゅうきょう describes being non-religious or not belonging to any religion, which is the opposite of having a religion or participating in religious practices.",
+        "examples": [
+            {
+                "kanji": "彼は宗教を信じている。",
+                "furigana": "彼(かれ)は宗教(しゅうきょう)を信(しん)じている。",
+                "translations": {
+                    "EN": "He believes in religion.",
+                    "ID": "Dia percaya pada agama.",
+                    "ES": "Él cree en la religión.",
+                    "VI": "Ông ấy tin vào tôn giáo.",
+                    "FR": "Il croit en la religion.",
+                    "NE": "उनी धर्ममा विश्वास गर्छन्।",
+                    "BN": "সে ধর্মে বিশ্বাস করে।",
+                    "ZH": "他信仰宗教。",
+                    "KO": "그는 종교를 믿는다.",
+                    "TL": "Naniniwala siya sa relihiyon.",
+                    "MY": "သူသည် ဘာသာတရားကို ယုံကြည်သည်။",
+                    "HI": "वह धर्म में विश्वास रखता है.",
+                    "AR": "إنه يؤمن بالدين.",
+                    "FA": "او به دین اعتقاد دارد."
+                }
+            },
+            {
+                "kanji": "世界宗教について勉強する。",
+                "furigana": "世界宗教(せかいしゅうきょう)について勉強(べんきょう)する。",
+                "translations": {
+                    "EN": "Study world religions.",
+                    "ID": "Pelajari agama-agama dunia.",
+                    "ES": "Estudia las religiones del mundo.",
+                    "VI": "Nghiên cứu các tôn giáo trên thế giới.",
+                    "FR": "Étudiez les religions du monde.",
+                    "NE": "विश्व धर्महरूको अध्ययन गर्नुहोस्।",
+                    "BN": "বিশ্ব ধর্মগুলো অধ্যয়ন করুন।",
+                    "ZH": "研究世界宗教。",
+                    "KO": "세계 종교에 대해 공부한다.",
+                    "TL": "Pag-aralan ang mga relihiyon sa daigdig.",
+                    "MY": "ကမ္ဘာ့ဘာသာတရားများကို လေ့လာပါ။",
+                    "HI": "विश्व धर्मों का अध्ययन करें.",
+                    "AR": "دراسة الديانات العالمية.",
+                    "FA": "ادیان جهان را مطالعه کنید."
+                }
+            },
+            {
+                "kanji": "宗教的な儀式を見た。",
+                "furigana": "宗教的(しゅうきょうてき)な儀式(ぎしき)を見(み)た。",
+                "translations": {
+                    "EN": "I saw a religious ceremony.",
+                    "ID": "Saya melihat upacara keagamaan.",
+                    "ES": "Vi una ceremonia religiosa.",
+                    "VI": "Tôi đã chứng kiến một buổi lễ tôn giáo.",
+                    "FR": "J'ai vu une cérémonie religieuse.",
+                    "NE": "मैले एउटा धार्मिक समारोह देखेँ।",
+                    "BN": "আমি একটি ধর্মীয় অনুষ্ঠান দেখেছি।",
+                    "ZH": "我看到了一场宗教仪式。",
+                    "KO": "종교적인 의식을 보았다.",
+                    "TL": "Nakakita ako ng relihiyosong seremonya.",
+                    "MY": "ဘာသာရေး အခမ်းအနား တစ်ခု ကို တွေ့ လိုက် သည် ။",
+                    "HI": "मैंने एक धार्मिक समारोह देखा।",
+                    "AR": "لقد رأيت احتفالًا دينيًا.",
+                    "FA": "من یک مراسم مذهبی دیدم."
+                }
+            },
+            {
+                "kanji": "彼女は宗教を尊重する。",
+                "furigana": "彼女(かのじょ)は宗教(しゅうきょう)を尊重(そんちょう)する。",
+                "translations": {
+                    "EN": "She respects religion.",
+                    "ID": "Dia menghormati agama.",
+                    "ES": "Ella respeta la religión.",
+                    "VI": "Cô ấy tôn trọng tôn giáo.",
+                    "FR": "Elle respecte la religion.",
+                    "NE": "उनी धर्मको सम्मान गर्छिन्।",
+                    "BN": "সে ধর্মকে সম্মান করে।",
+                    "ZH": "她尊重宗教。",
+                    "KO": "그녀는 종교를 존중한다.",
+                    "TL": "Iginagalang niya ang relihiyon.",
+                    "MY": "သူမသည် ဘာသာတရားကို လေးစားသည်။",
+                    "HI": "वह धर्म का सम्मान करती है.",
+                    "AR": "إنها تحترم الدين.",
+                    "FA": "او به دین احترام می‌گذارد."
+                }
+            },
+            {
+                "kanji": "宗教活動に参加する。",
+                "furigana": "宗教活動(しゅうきょうかつどう)に参加(さんか)する。",
+                "translations": {
+                    "EN": "Participate in religious activities.",
+                    "ID": "Berpartisipasi dalam kegiatan keagamaan.",
+                    "ES": "Participar en actividades religiosas.",
+                    "VI": "Tham gia các hoạt động tôn giáo.",
+                    "FR": "Participer à des activités religieuses.",
+                    "NE": "धार्मिक कार्यमा भाग लिनुहोस्।",
+                    "BN": "ধর্মীয় কর্মকাণ্ডে অংশগ্রহণ করুন।",
+                    "ZH": "参加宗教活动。",
+                    "KO": "종교 활동에 참여한다.",
+                    "TL": "Makilahok sa mga gawaing panrelihiyon.",
+                    "MY": "ဘာသာရေး လှုပ်ရှားမှုများတွင် ပါဝင်ပါ။",
+                    "HI": "धार्मिक गतिविधियों में भाग लें।",
+                    "AR": "المشاركة في الأنشطة الدينية.",
+                    "FA": "در فعالیت‌های مذهبی شرکت کنید."
+                }
+            },
+            {
+                "kanji": "その町には宗教施設がある。",
+                "furigana": "その町(まち)には宗教施設(しゅうきょうしせつ)がある。",
+                "translations": {
+                    "EN": "There is a religious institution in the town.",
+                    "ID": "Ada sebuah lembaga keagamaan di kota itu.",
+                    "ES": "Hay una institución religiosa en la ciudad.",
+                    "VI": "Có một tổ chức tôn giáo trong thị trấn.",
+                    "FR": "Il y a une institution religieuse dans la ville.",
+                    "NE": "शहरमा एउटा धार्मिक संस्था छ।",
+                    "BN": "শহরে একটি ধর্মীয় প্রতিষ্ঠান আছে।",
+                    "ZH": "镇上有一个宗教机构。",
+                    "KO": "그 마을에는 종교 시설이 있다.",
+                    "TL": "May isang institusyong panrelihiyon sa bayan.",
+                    "MY": "မြို့မှာ ဘာသာရေးအဖွဲ့အစည်းတစ်ခုရှိတယ်။",
+                    "HI": "शहर में एक धार्मिक संस्था है।",
+                    "AR": "توجد مؤسسة دينية في البلدة.",
+                    "FA": "در این شهر یک نهاد مذهبی وجود دارد."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "religion": {
+                "ID": "agama",
+                "ES": "religión",
+                "VI": "tôn giáo",
+                "FR": "religion",
+                "NE": "धर्म",
+                "BN": "ধর্ম",
+                "ZH": "宗教",
+                "KO": "종교",
+                "TL": "relihiyon",
+                "MY": "ဘာသာတရား",
+                "HI": "धर्म",
+                "AR": "دِين",
+                "FA": "دین",
+                "EN": [
+                    "religious affiliation",
+                    "belief",
+                    "faith",
+                    "creed",
+                    "Religion (institution or system of belief)"
+                ]
+            },
+            "religious activity": {
+                "ID": "kegiatan keagamaan",
+                "ES": "actividad religiosa",
+                "VI": "hoạt động tôn giáo",
+                "FR": "activité religieuse",
+                "NE": "धार्मिक गतिविधि",
+                "BN": "ধর্মীয় কার্যকলাপ",
+                "ZH": "宗教活动",
+                "KO": "종교 활동",
+                "TL": "gawaing panrelihiyon",
+                "MY": "ဘာသာရေးလှုပ်ရှားမှု",
+                "HI": "धार्मिक गतिविधि",
+                "AR": "النشاط الديني",
+                "FA": "فعالیت مذهبی",
+                "EN": [
+                    "religious practice",
+                    "ritual"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "宗教",
+        "is_common": true,
+        "tags": [
+            "wanikani29"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "宗教",
+                "reading": "しゅうきょう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "religion",
+                    "religious affiliation",
+                    "belief",
+                    "faith",
+                    "creed"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "religious activity"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Religion"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Religion” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Religion?oldid=495177717"
+                    },
+                    {
+                        "text": "Read “宗教” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/宗教?oldid=42781579"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Religion"
+        }
+    },
+    "kanji_list": [
+        "宗",
+        "教"
+    ],
+    "kanji_data": {
+        "宗": {
+            "freq_mainichi_shinbun": 997,
+            "grade": 6,
+            "heisig_en": "religion",
+            "jlpt": 1,
+            "kanji": "宗",
+            "kun_readings": [
+                "むね"
+            ],
+            "meanings": [
+                "denomination",
+                "essence",
+                "main point",
+                "origin",
+                "religion",
+                "sect"
+            ],
+            "name_readings": [
+                "かず",
+                "し",
+                "そ",
+                "そお",
+                "たか",
+                "とし",
+                "のり",
+                "ひろ",
+                "むな",
+                "もと",
+                "よし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シュウ",
+                "ソウ"
+            ],
+            "stroke_count": 8,
+            "unicode": "5B97"
+        },
+        "教": {
+            "freq_mainichi_shinbun": 166,
+            "grade": 2,
+            "heisig_en": "teach",
+            "jlpt": 4,
+            "kanji": "教",
+            "kun_readings": [
+                "おし.える",
+                "おそ.わる"
+            ],
+            "meanings": [
+                "doctrine",
+                "faith",
+                "teach"
+            ],
+            "name_readings": [
+                "のり",
+                "ひさ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "キョウ"
+            ],
+            "stroke_count": 11,
+            "unicode": "6559"
+        }
+    },
+    "collocations": [
+        "世界宗教",
+        "宗教的",
+        "伝統宗教",
+        "宗教間",
+        "国家宗教",
+        "宗教法人",
+        "宗教観",
+        "宗教信仰",
+        "宗教儀式",
+        "宗教団体",
+        "キリスト教を宗教とする",
+        "宗教を問題視する",
+        "宗教を信じる",
+        "宗教を信仰する",
+        "宗教を広める",
+        "宗教を否定する",
+        "宗教を尊重する",
+        "宗教を改革する",
+        "宗教として",
+        "宗教法人として",
+        "宗教色",
+        "宗教施設",
+        "宗教活動"
+    ]
+}

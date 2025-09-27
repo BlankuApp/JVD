@@ -1,0 +1,397 @@
+{
+    "version": "0.2.0",
+    "word": "消防",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/jYau-JMK8RI",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "消防",
+        "reading": "しょうぼう",
+        "introduction_japanese": "消防は、火事の対応や地域の防災、消防署や消防士について話すときによく使う言葉です。学校の訓練や法律、町の安全の話でも出てきます。",
+        "introduction_english": "The noun しょうぼう is commonly used when talking about responding to fires, local disaster prevention, fire stations, and firefighters. It also appears in conversations about drills, laws, and community safety.",
+        "meanings": [
+            [
+                "fire fighting",
+                "the act of extinguishing fires"
+            ],
+            [
+                "fire department",
+                "fire brigade",
+                "firefighter (as an organization or people)",
+                "abbreviation for firefighting services/activities"
+            ]
+        ],
+        "meaning_explanation_japanese": "「しょうぼう」は火事を消す活動や、火事に対応する組織や人について使う言葉です。例えば、消防署や消防士、消防訓練のような場面で使います。",
+        "meaning_explanation_english": "The word しょうぼう means the activity of fighting fires and also refers to the organizations or people who do that, like fire departments and firefighters. You use it for things like fire stations, drills, and firefighting activities.",
+        "kanji_explanation_english": "The first kanji means extinguish. It appears in words like きえる and しょうひ, where it gives the sense of something being turned off, disappearing, or removed. When you see this kanji, think of stopping or putting out. The second kanji means defend or protect. It appears in words like ふせぐ and ぼうえい, where it means preventing harm or warding off danger. Think of shielding or guarding against threats.",
+        "kanji_details": [
+            {
+                "kanji": "消",
+                "meanings": [
+                    "blow out",
+                    "cancel",
+                    "extinguish",
+                    "neutralize",
+                    "turn off"
+                ],
+                "on_readings": [
+                    "ショウ"
+                ],
+                "kun_readings": [
+                    "き.える",
+                    "け.す"
+                ],
+                "stroke_count": 10,
+                "common_words": [
+                    "消える (きえる): to disappear, to go out",
+                    "消費 (しょうひ): consumption, expenditure"
+                ]
+            },
+            {
+                "kanji": "防",
+                "meanings": [
+                    "defend",
+                    "protect",
+                    "resist",
+                    "ward off"
+                ],
+                "on_readings": [
+                    "ボウ"
+                ],
+                "kun_readings": [
+                    "ふせ.ぐ"
+                ],
+                "stroke_count": 7,
+                "common_words": [
+                    "防ぐ (ふせぐ): to prevent, to defend",
+                    "防止 (ぼうし): prevention, stopping"
+                ]
+            }
+        ],
+        "synonyms": [
+            "消火 : しょうか : extinguishing a fire"
+        ],
+        "synonyms_explanation": "The most common synonym of the しょうぼう is しょうか. しょうか focuses on the actual act of putting out a fire, while しょうぼう can mean both the act and the organizations or services that do firefighting.",
+        "antonyms": [
+            "放火 : ほうか : arson, intentionally setting fire"
+        ],
+        "antonyms_explanation": "The most common antonym of the しょうぼう is ほうか. ほうか means setting a fire on purpose, which is the opposite action and intent of firefighting.",
+        "examples": [
+            {
+                "kanji": "消防署へ行きます。",
+                "furigana": "消防署(しょうぼうしょ)へ行(い)きます。",
+                "translations": {
+                    "EN": "I'm going to the fire station.",
+                    "ID": "Saya akan ke stasiun pemadam kebakaran.",
+                    "ES": "Voy a la estación de bomberos.",
+                    "VI": "Tôi đang đi đến trạm cứu hỏa.",
+                    "FR": "Je vais à la caserne des pompiers.",
+                    "NE": "म दमकल स्टेशन जाँदैछु।",
+                    "BN": "আমি ফায়ার স্টেশনে যাচ্ছি।",
+                    "ZH": "我要去消防局。",
+                    "KO": "소방서에 갑니다.",
+                    "TL": "Pupunta ako sa fire station.",
+                    "MY": "ငါ မီးသတ်ကားကို သွားမယ်။",
+                    "HI": "मैं फायर स्टेशन जा रहा हूं।",
+                    "AR": "سأذهب إلى مركز الإطفاء.",
+                    "FA": "دارم میرم آتش نشانی."
+                }
+            },
+            {
+                "kanji": "消防士が火事を消します。",
+                "furigana": "消防士(しょうぼうし)が火事(かじ)を消(け)します。",
+                "translations": {
+                    "EN": "Firefighters put out the fire.",
+                    "ID": "Petugas pemadam kebakaran memadamkan api.",
+                    "ES": "Los bomberos apagaron el incendio.",
+                    "VI": "Lính cứu hỏa đã dập tắt đám cháy.",
+                    "FR": "Les pompiers ont éteint l'incendie.",
+                    "NE": "दमकलकर्मीहरूले आगो निभाए।",
+                    "BN": "দমকলকর্মীরা আগুন নেভান।",
+                    "ZH": "消防员将火扑灭。",
+                    "KO": "소방관이 화재를 끕니다.",
+                    "TL": "Naapula ng mga bumbero ang apoy.",
+                    "MY": "မီးသတ်သမားများက မီးငြိမ်းသတ်ခဲ့သည်။",
+                    "HI": "अग्निशमनकर्मियों ने आग बुझा दी।",
+                    "AR": "رجال الإطفاء أطفأوا الحريق.",
+                    "FA": "آتش نشانان آتش را خاموش کردند."
+                }
+            },
+            {
+                "kanji": "消防車が来ました。",
+                "furigana": "消防車(しょうぼうしゃ)が来(き)ました。",
+                "translations": {
+                    "EN": "The fire engine has arrived.",
+                    "ID": "Mobil pemadam kebakaran telah tiba.",
+                    "ES": "El camión de bomberos ha llegado.",
+                    "VI": "Xe cứu hỏa đã tới.",
+                    "FR": "Le camion de pompiers est arrivé.",
+                    "NE": "दमकल आइपुगेको छ।",
+                    "BN": "দমকলের গাড়ি এসে গেছে।",
+                    "ZH": "消防车已经到了。",
+                    "KO": "소방차가 왔습니다.",
+                    "TL": "Dumating na ang fire engine.",
+                    "MY": "မီးသတ်ကားရောက်လာတယ်။",
+                    "HI": "दमकल गाड़ी आ गई है।",
+                    "AR": "وصلت سيارة الإطفاء.",
+                    "FA": "ماشین آتش نشانی رسیده است."
+                }
+            },
+            {
+                "kanji": "地元の消防団は小さいです。",
+                "furigana": "地元(じもと)の消防団(しょうぼうだん)は小(ちい)さいです。",
+                "translations": {
+                    "EN": "The local fire department is small.",
+                    "ID": "Departemen pemadam kebakaran setempat kecil.",
+                    "ES": "El departamento de bomberos local es pequeño.",
+                    "VI": "Lực lượng cứu hỏa địa phương có quy mô nhỏ.",
+                    "FR": "Le service d’incendie local est petit.",
+                    "NE": "स्थानीय दमकल विभाग सानो छ।",
+                    "BN": "স্থানীয় অগ্নিনির্বাপণ বিভাগটি ছোট।",
+                    "ZH": "当地消防部门规模较小。",
+                    "KO": "현지 소방단은 작습니다.",
+                    "TL": "Ang lokal na departamento ng bumbero ay maliit.",
+                    "MY": "ဒေသခံ မီးသတ်ဌာနက သေးသေးလေးပါ။",
+                    "HI": "स्थानीय अग्निशमन विभाग छोटा है।",
+                    "AR": "إدارة الإطفاء المحلية صغيرة.",
+                    "FA": "آتش نشانی محلی کوچک است."
+                }
+            },
+            {
+                "kanji": "消防訓練をします。",
+                "furigana": "消防訓練(しょうぼうくんれん)をします。",
+                "translations": {
+                    "EN": "Conduct fire drills.",
+                    "ID": "Melakukan latihan kebakaran.",
+                    "ES": "Realizar simulacros de incendio.",
+                    "VI": "Thực hiện diễn tập phòng cháy chữa cháy.",
+                    "FR": "Effectuer des exercices d’incendie.",
+                    "NE": "अग्नि अभ्यासहरू सञ्चालन गर्नुहोस्।",
+                    "BN": "অগ্নিনির্বাপণ মহড়া পরিচালনা করুন।",
+                    "ZH": "进行消防演习。",
+                    "KO": "소방 훈련을 합니다.",
+                    "TL": "Magsagawa ng mga pagsasanay sa sunog.",
+                    "MY": "မီးသတ်လေ့ကျင့်မှုများ ပြုလုပ်ခြင်း။",
+                    "HI": "अग्नि अभ्यास आयोजित करें।",
+                    "AR": "إجراء تدريبات على مكافحة الحرائق.",
+                    "FA": "مانورهای آتش نشانی برگزار کنید."
+                }
+            },
+            {
+                "kanji": "建物に消防設備があります。",
+                "furigana": "建物(たてもの)に消防設備(しょうぼうせつび)があります。",
+                "translations": {
+                    "EN": "The building has fire protection equipment.",
+                    "ID": "Bangunan tersebut memiliki peralatan proteksi kebakaran.",
+                    "ES": "El edificio cuenta con equipos de protección contra incendios.",
+                    "VI": "Tòa nhà có thiết bị phòng cháy chữa cháy.",
+                    "FR": "Le bâtiment dispose d'équipements de protection incendie.",
+                    "NE": "भवनमा आगो सुरक्षा उपकरणहरू छन्।",
+                    "BN": "ভবনটিতে অগ্নিনির্বাপক সরঞ্জাম রয়েছে।",
+                    "ZH": "该建筑有消防设备。",
+                    "KO": "건물에 소방 시설이 있습니다.",
+                    "TL": "Ang gusali ay may mga kagamitan sa proteksyon ng sunog.",
+                    "MY": "အဆောက်အဦတွင် မီးဘေးကာကွယ်ရေးပစ္စည်းများ ပါရှိသည်။",
+                    "HI": "इमारत में अग्नि सुरक्षा उपकरण लगे हैं।",
+                    "AR": "المبنى يحتوي على معدات الحماية من الحرائق.",
+                    "FA": "ساختمان دارای تجهیزات آتش نشانی است."
+                }
+            },
+            {
+                "kanji": "市の消防は強化されています。",
+                "furigana": "市(し)の消防(しょうぼう)は強化(きょうか)されています。",
+                "translations": {
+                    "EN": "The city's fire department has been strengthened.",
+                    "ID": "Departemen pemadam kebakaran kota telah diperkuat.",
+                    "ES": "Se ha reforzado el cuerpo de bomberos de la ciudad.",
+                    "VI": "Lực lượng cứu hỏa của thành phố đã được tăng cường.",
+                    "FR": "Le service d'incendie de la ville a été renforcé.",
+                    "NE": "शहरको अग्नि नियन्त्रण विभागलाई बलियो बनाइएको छ।",
+                    "BN": "শহরের অগ্নিনির্বাপণ বিভাগকে শক্তিশালী করা হয়েছে।",
+                    "ZH": "该市消防部门的警力已得到加强。",
+                    "KO": "시의 소방은 강화되고 있습니다.",
+                    "TL": "Pinalakas ang fire department ng lungsod.",
+                    "MY": "မြို့တော်မီးသတ်ဌာနကို ခိုင်ခိုင်မာမာ ချထားတယ်။",
+                    "HI": "शहर के अग्निशमन विभाग को मजबूत किया गया है।",
+                    "AR": "تم تعزيز إدارة الإطفاء في المدينة.",
+                    "FA": "آتش نشانی شهر تقویت شده است."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "fire fighting": {
+                "ID": "pemadam kebakaran",
+                "ES": "lucha contra incendios",
+                "VI": "chữa cháy",
+                "FR": "lutte contre l'incendie",
+                "NE": "आगो निभाउने काम",
+                "BN": "অগ্নিনির্বাপণ",
+                "ZH": "消防",
+                "KO": "소방",
+                "TL": "paglaban sa apoy",
+                "MY": "မီးတိုက်ပွဲ",
+                "HI": "अग्निशमन",
+                "AR": "مكافحة الحرائق",
+                "FA": "آتش نشانی",
+                "EN": [
+                    "the act of extinguishing fires"
+                ]
+            },
+            "fire department": {
+                "ID": "pemadam kebakaran",
+                "ES": "departamento de bomberos",
+                "VI": "sở cứu hỏa",
+                "FR": "pompiers",
+                "NE": "दमकल विभाग",
+                "BN": "অগ্নিনির্বাপণ বিভাগ",
+                "ZH": "消防部门",
+                "KO": "소방국",
+                "TL": "kagawaran ng bumbero",
+                "MY": "မီးသတ်ဌာန",
+                "HI": "आग बुझाने का डिपो",
+                "AR": "إدارة الإطفاء",
+                "FA": "آتش نشانی",
+                "EN": [
+                    "fire brigade",
+                    "firefighter (as an organization or people)",
+                    "abbreviation for firefighting services/activities"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "消防",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "消防",
+                "reading": "しょうぼう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "fire fighting"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "fire department",
+                    "fire brigade",
+                    "firefighter"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "消",
+        "防"
+    ],
+    "kanji_data": {
+        "消": {
+            "freq_mainichi_shinbun": 345,
+            "grade": 3,
+            "heisig_en": "extinguish",
+            "jlpt": 3,
+            "kanji": "消",
+            "kun_readings": [
+                "き.える",
+                "け.す"
+            ],
+            "meanings": [
+                "blow out",
+                "cancel",
+                "extinguish",
+                "neutralize",
+                "turn off"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ショウ"
+            ],
+            "stroke_count": 10,
+            "unicode": "6D88"
+        },
+        "防": {
+            "freq_mainichi_shinbun": 331,
+            "grade": 5,
+            "heisig_en": "ward off",
+            "jlpt": 2,
+            "kanji": "防",
+            "kun_readings": [
+                "ふせ.ぐ"
+            ],
+            "meanings": [
+                "defend",
+                "protect",
+                "resist",
+                "ward off"
+            ],
+            "name_readings": [
+                "あた",
+                "う",
+                "ほう"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ボウ"
+            ],
+            "stroke_count": 7,
+            "unicode": "9632"
+        }
+    },
+    "collocations": [
+        "消防署",
+        "消防士",
+        "消防車",
+        "消防団",
+        "消防法",
+        "消防活動",
+        "消防設備",
+        "消防訓練",
+        "消防計画",
+        "消防組織",
+        "消防を強化する",
+        "消防を整備する",
+        "消防を支援する",
+        "消防を拡充する",
+        "消防を管理する",
+        "地域の消防",
+        "市町村の消防",
+        "都市の消防",
+        "消防の責任",
+        "消防の役割"
+    ]
+}

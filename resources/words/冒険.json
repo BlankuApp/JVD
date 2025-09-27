@@ -1,0 +1,414 @@
+{
+    "version": "0.2.0",
+    "word": "冒険",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/GQ5rS11QxBc",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "冒険",
+        "reading": "ぼうけん",
+        "introduction_japanese": "冒険は、旅行やファンタジーの話、ゲーム、挑戦の話、少しあぶない計画についての会話でよく使う言葉です。",
+        "introduction_english": "The noun and suru-verb ぼうけん is commonly used in conversations about travel, fantasy stories, games, taking on challenges, risky plans, and thrilling experiences.",
+        "meanings": [
+            [
+                "adventure",
+                "venture"
+            ],
+            [
+                "risky attempt",
+                "venture which is unlikely to succeed",
+                "danger",
+                "hazard",
+                "risk"
+            ]
+        ],
+        "meaning_explanation_japanese": "「冒険」は、新しい場所に行ったり、知らないことに挑戦したりして、わくわくする体験のことです。また、うまくいくか分からない、少しあぶないやり方のことも言います。「冒険をする」のように使えます。",
+        "meaning_explanation_english": "The word ぼうけん means an adventure, like going to new places or trying unknown things. It also means a risky attempt that may fail. You can use it as a noun or with する as a verb.",
+        "kanji_explanation_english": "The first kanji means to dare or to risk. You can hear it in ぼうとう, the opening part of a talk or text, where something is put in front. It also appears in おかす, to risk or to expose oneself, showing the idea of facing danger on purpose. The second kanji means steep or dangerous. It shows up in きけん, meaning danger, and in けわしい, meaning steep or harsh. In these words it gives the feeling of something hard to pass and risky.",
+        "kanji_details": [
+            {
+                "kanji": "冒",
+                "meanings": [
+                    "assume (a name)",
+                    "damage",
+                    "dare",
+                    "defy",
+                    "face",
+                    "risk"
+                ],
+                "on_readings": [
+                    "ボウ"
+                ],
+                "kun_readings": [
+                    "おか.す"
+                ],
+                "common_words": [
+                    "冒頭 (ぼうとう): beginning; opening",
+                    "冒す (おかす): to risk; to contract (a disease)"
+                ]
+            },
+            {
+                "kanji": "険",
+                "meanings": [
+                    "impregnable position",
+                    "inaccessible place",
+                    "precipitous",
+                    "sharp eyes",
+                    "steep place"
+                ],
+                "on_readings": [
+                    "ケン"
+                ],
+                "kun_readings": [
+                    "けわ.しい"
+                ],
+                "common_words": [
+                    "危険 (きけん): danger; risk",
+                    "険しい (けわしい): steep; severe"
+                ]
+            }
+        ],
+        "synonyms": [
+            "探検 : たんけん : exploration"
+        ],
+        "synonyms_explanation": "The most common synonym of the word ぼうけん is たんけん. たんけん focuses on exploring and investigating new places or things, often with learning in mind, while ぼうけん adds more risk and thrill.",
+        "antonyms": [
+            "安全 : あんぜん : safety",
+            "無難 : ぶなん : safe; risk-free"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word ぼうけん are あんぜん and ぶなん. あんぜん means safe with no danger, the opposite of taking risks in ぼうけん. ぶなん means playing it safe to avoid trouble, also the opposite feeling of trying risky things in ぼうけん.",
+        "examples": [
+            {
+                "kanji": "私たちは冒険の旅に出ます。",
+                "furigana": "私(わたし)たちは冒険(ぼうけん)の旅(たび)に出(で)ます。",
+                "translations": {
+                    "EN": "We are going on an adventure.",
+                    "ID": "Kita akan pergi berpetualang.",
+                    "ES": "Nos vamos a una aventura.",
+                    "VI": "Chúng ta sắp bước vào một cuộc phiêu lưu.",
+                    "FR": "Nous partons à l'aventure.",
+                    "NE": "हामी एउटा साहसिक कार्यमा जाँदैछौं।",
+                    "BN": "আমরা একটা অভিযানে যাচ্ছি।",
+                    "ZH": "我们要去冒险。",
+                    "KO": "우리는 모험 여행을 떠난다.",
+                    "TL": "Kami ay pupunta sa isang pakikipagsapalaran.",
+                    "MY": "ကျွန်ုပ်တို့သည် စွန့်စားမှုတစ်ခုကို သွားနေပါသည်။",
+                    "HI": "हम एक साहसिक यात्रा पर जा रहे हैं।",
+                    "AR": "نحن ذاهبون في مغامرة.",
+                    "FA": "ما داریم میریم ماجراجویی."
+                }
+            },
+            {
+                "kanji": "彼は新しい町で冒険をした。",
+                "furigana": "彼(かれ)は新(あたら)しい町(まち)で冒険(ぼうけん)をした。",
+                "translations": {
+                    "EN": "He had an adventure in his new town.",
+                    "ID": "Dia mengalami petualangan di kota barunya.",
+                    "ES": "Tuvo una aventura en su nueva ciudad.",
+                    "VI": "Anh ấy đã có một cuộc phiêu lưu ở thị trấn mới của mình.",
+                    "FR": "Il a vécu une aventure dans sa nouvelle ville.",
+                    "NE": "उसको नयाँ शहरमा एउटा साहसिक कार्य भयो।",
+                    "BN": "তার নতুন শহরে তার একটা অ্যাডভেঞ্চার হয়েছিল।",
+                    "ZH": "他在新城镇经历了一次冒险。",
+                    "KO": "그는 새로운 마을에서 모험을 했다.",
+                    "TL": "Siya ay nagkaroon ng isang pakikipagsapalaran sa kanyang bagong bayan.",
+                    "MY": "သူ့မြို့သစ်မှာ စွန့်စားခန်းတစ်ခုရှိတယ်။",
+                    "HI": "अपने नये शहर में उसे एक रोमांचक अनुभव हुआ।",
+                    "AR": "لقد خاض مغامرة في مدينته الجديدة.",
+                    "FA": "او در شهر جدیدش ماجراجویی‌هایی داشت."
+                }
+            },
+            {
+                "kanji": "今日は小さな冒険を始めよう。",
+                "furigana": "今日(きょう)は小(ちい)さな冒険(ぼうけん)を始(はじ)めよう。",
+                "translations": {
+                    "EN": "Let's start a little adventure today.",
+                    "ID": "Mari kita mulai petualangan kecil hari ini.",
+                    "ES": "Comencemos una pequeña aventura hoy.",
+                    "VI": "Hãy cùng bắt đầu một cuộc phiêu lưu nhỏ ngày hôm nay.",
+                    "FR": "Commençons une petite aventure aujourd'hui.",
+                    "NE": "आज एउटा सानो साहसिक कार्य सुरु गरौं।",
+                    "BN": "আজ থেকে একটা ছোট্ট অভিযান শুরু করা যাক।",
+                    "ZH": "今天我们开始一次小冒险吧。",
+                    "KO": "오늘은 작은 모험을 시작하자.",
+                    "TL": "Magsimula tayo ng isang maliit na pakikipagsapalaran ngayon.",
+                    "MY": "ဒီနေ့ စွန့်စားခန်းလေးတစ်ခု စလိုက်ရအောင်။",
+                    "HI": "आइये आज एक छोटा सा साहसिक कार्य शुरू करें।",
+                    "AR": "دعونا نبدأ مغامرة صغيرة اليوم.",
+                    "FA": "بیایید امروز یک ماجراجویی کوچک را شروع کنیم."
+                }
+            },
+            {
+                "kanji": "その計画は冒険的だ。",
+                "furigana": "その計画(けいかく)は冒険的(ぼうけんてき)だ。",
+                "translations": {
+                    "EN": "The plan is adventurous.",
+                    "ID": "Rencananya penuh petualangan.",
+                    "ES": "El plan es aventurero.",
+                    "VI": "Kế hoạch này khá mạo hiểm.",
+                    "FR": "Le plan est aventureux.",
+                    "NE": "योजना साहसिक छ।",
+                    "BN": "পরিকল্পনাটি দুঃসাহসিক।",
+                    "ZH": "该计划颇具冒险精神。",
+                    "KO": "그 계획은 모험적이다.",
+                    "TL": "Ang plano ay adventurous.",
+                    "MY": "အစီအစဉ်သည် စွန့်စားခန်းဖြစ်သည်။",
+                    "HI": "योजना साहसिक है.",
+                    "AR": "الخطة مغامرة.",
+                    "FA": "طرح ماجراجویانه است."
+                }
+            },
+            {
+                "kanji": "それは危険な冒険だ。",
+                "furigana": "それは危険(きけん)な冒険(ぼうけん)だ。",
+                "translations": {
+                    "EN": "It's a dangerous adventure.",
+                    "ID": "Ini petualangan yang berbahaya.",
+                    "ES": "Es una aventura peligrosa.",
+                    "VI": "Đây là một cuộc phiêu lưu nguy hiểm.",
+                    "FR": "C'est une aventure dangereuse.",
+                    "NE": "यो एउटा खतरनाक साहसिक कार्य हो।",
+                    "BN": "এটা একটা বিপজ্জনক অভিযান।",
+                    "ZH": "这是一次危险的冒险。",
+                    "KO": "그것은 위험한 모험이다.",
+                    "TL": "Ito ay isang mapanganib na pakikipagsapalaran.",
+                    "MY": "ဒါဟာ အန္တရာယ်ရှိတဲ့ စွန့်စားမှုတစ်ခုပါ။",
+                    "HI": "यह एक खतरनाक साहसिक कार्य है.",
+                    "AR": "إنها مغامرة خطيرة.",
+                    "FA": "این یک ماجراجویی خطرناک است."
+                }
+            },
+            {
+                "kanji": "彼女は冒険小説が好きだ。",
+                "furigana": "彼女(かのじょ)は冒険小説(ぼうけんしょうせつ)が好(す)きだ。",
+                "translations": {
+                    "EN": "She likes adventure novels.",
+                    "ID": "Dia suka novel petualangan.",
+                    "ES": "A ella le gustan las novelas de aventuras.",
+                    "VI": "Cô ấy thích tiểu thuyết phiêu lưu.",
+                    "FR": "Elle aime les romans d'aventure.",
+                    "NE": "उनलाई साहसिक उपन्यासहरू मन पर्छ।",
+                    "BN": "সে অ্যাডভেঞ্চার উপন্যাস পছন্দ করে।",
+                    "ZH": "她喜欢冒险小说。",
+                    "KO": "그녀는 모험 소설을 좋아한다.",
+                    "TL": "Mahilig siya sa adventure novels.",
+                    "MY": "သူမသည် စွန့်စားခန်းဝတ္ထုများကို နှစ်သက်သည်။",
+                    "HI": "उसे साहसिक उपन्यास पसंद हैं।",
+                    "AR": "إنها تحب روايات المغامرات.",
+                    "FA": "او رمان‌های ماجراجویی را دوست دارد."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "adventure": {
+                "ID": "petualangan",
+                "ES": "aventura",
+                "VI": "cuộc phiêu lưu",
+                "FR": "aventure",
+                "NE": "साहसिक कार्य",
+                "BN": "অ্যাডভেঞ্চার",
+                "ZH": "冒险",
+                "KO": "모험",
+                "TL": "pakikipagsapalaran",
+                "MY": "စွန့်စားမှု",
+                "HI": "साहसिक काम",
+                "AR": "مفامرة",
+                "FA": "ماجراجویی",
+                "EN": [
+                    "venture"
+                ]
+            },
+            "risky attempt": {
+                "ID": "upaya berisiko",
+                "ES": "intento arriesgado",
+                "VI": "nỗ lực mạo hiểm",
+                "FR": "tentative risquée",
+                "NE": "जोखिमपूर्ण प्रयास",
+                "BN": "ঝুঁকিপূর্ণ প্রচেষ্টা",
+                "ZH": "冒险尝试",
+                "KO": "위험한 시도",
+                "TL": "mapanganib na pagtatangka",
+                "MY": "အန္တရာယ်ရှိသောကြိုးစားမှု",
+                "HI": "जोखिम भरा प्रयास",
+                "AR": "محاولة محفوفة بالمخاطر",
+                "FA": "تلاش پرخطر",
+                "EN": [
+                    "venture which is unlikely to succeed",
+                    "danger",
+                    "hazard",
+                    "risk"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "冒険",
+        "is_common": true,
+        "tags": [
+            "wanikani16"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "冒険",
+                "reading": "ぼうけん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "adventure",
+                    "venture"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "venture which is unlikely to succeed",
+                    "risky attempt",
+                    "danger",
+                    "hazard",
+                    "risk"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Na-adjective (keiyodoshi)",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Adventure"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Adventure” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Adventure?oldid=494765744"
+                    },
+                    {
+                        "text": "Read “冒険” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/冒険?oldid=41174739"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Adventure"
+        }
+    },
+    "kanji_list": [
+        "冒",
+        "険"
+    ],
+    "kanji_data": {
+        "冒": {
+            "freq_mainichi_shinbun": 1317,
+            "grade": 8,
+            "heisig_en": "risk",
+            "jlpt": 1,
+            "kanji": "冒",
+            "kun_readings": [
+                "おか.す"
+            ],
+            "meanings": [
+                "assume (a name)",
+                "damage",
+                "dare",
+                "defy",
+                "face",
+                "risk"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ボウ"
+            ],
+            "stroke_count": 9,
+            "unicode": "5192"
+        },
+        "険": {
+            "freq_mainichi_shinbun": 707,
+            "grade": 5,
+            "heisig_en": "precipitous",
+            "jlpt": 3,
+            "kanji": "険",
+            "kun_readings": [
+                "けわ.しい"
+            ],
+            "meanings": [
+                "impregnable position",
+                "inaccessible place",
+                "precipitous",
+                "sharp eyes",
+                "steep place"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ケン"
+            ],
+            "stroke_count": 11,
+            "unicode": "967A"
+        }
+    },
+    "collocations": [
+        "冒険の旅",
+        "冒険の始まり",
+        "冒険の物語",
+        "冒険の舞台",
+        "冒険の記録",
+        "冒険をする",
+        "冒険を始める",
+        "冒険を求める",
+        "冒険を重ねる",
+        "冒険を恐れる",
+        "～に冒険する",
+        "～に冒険に出る",
+        "～に冒険心を抱く",
+        "～に冒険を挑む",
+        "～に冒険を持ちかける",
+        "刺激的な冒険",
+        "危険な冒険",
+        "未知の冒険",
+        "壮大な冒険",
+        "冒険的な計画",
+        "冒険小説",
+        "冒険譚",
+        "冒険者",
+        "冒険旅行",
+        "冒険心"
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "version": "0.2.0",
+    "word": "典型",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/S3ud5XLXe5E",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "典型",
+        "reading": "てんけい",
+        "introduction_japanese": "「典型」は、学校やレポート、ニュース、説明や分析の話で、よくあるパターンを話すときによく使う言葉です。",
+        "introduction_english": "The noun てんけい is commonly used in schoolwork, reports, news, explanations, and analysis when talking about common patterns.",
+        "meanings": [
+            [
+                "type",
+                "pattern",
+                "model",
+                "archetype"
+            ],
+            [
+                "epitome",
+                "exemplar",
+                "perfect example"
+            ]
+        ],
+        "meaning_explanation_japanese": "「典型」は、あるグループで「よくある形」や「決まったパターン」を表す言葉です。そこから、「ぴったりな例」や「代表的な例」という意味でも使います。",
+        "meaning_explanation_english": "The word てんけい means a usual type or fixed pattern in a group. It also means the perfect or representative example of something.",
+        "kanji_explanation_english": "The first kanji means a standard, rule, or something formal. It often gives the sense of a reference or something classical. You can see it in てんれい for a formal ceremony and こてん for classic works used as a standard. It suggests something established as a model. The second kanji means a model, mold, or type. It focuses on shape or a fixed pattern. It shows up in しんがた for a new model or strain and おおがた for a large size type. It adds the idea of form or pattern.",
+        "kanji_details": [
+            {
+                "kanji": "典",
+                "common_words": [
+                    "典礼 (てんれい): ceremony",
+                    "古典 (こてん): classic; classical literature"
+                ]
+            },
+            {
+                "kanji": "型",
+                "common_words": [
+                    "新型 (しんがた): new model/type",
+                    "大型 (おおがた): large size/type"
+                ]
+            }
+        ],
+        "synonyms": [
+            "模範 : もはん : model; exemplar"
+        ],
+        "synonyms_explanation": "The most common synonym of the word てんけい is もはん. もはん is a model to follow and can feel moral or prescriptive, while てんけい is a typical pattern or representative example in a group.",
+        "antonyms": [
+            "例外 : れいがい : exception"
+        ],
+        "antonyms_explanation": "The most common antonym of the word てんけい is れいがい. れいがい means something that does not fit the usual pattern and is outside the norm.",
+        "examples": [
+            {
+                "kanji": "これは典型の例です。",
+                "furigana": "これは典型(てんけい)の例(れい)です。",
+                "translations": {
+                    "EN": "This is a typical example.",
+                    "ID": "Ini adalah contoh tipikal.",
+                    "ES": "Éste es un ejemplo típico.",
+                    "VI": "Đây là một ví dụ điển hình.",
+                    "FR": "C'est un exemple typique.",
+                    "NE": "यो एउटा सामान्य उदाहरण हो।",
+                    "BN": "এটি একটি সাধারণ উদাহরণ।",
+                    "ZH": "这是一个典型的例子。",
+                    "KO": "이것은 전형적인 예입니다.",
+                    "TL": "Ito ay isang tipikal na halimbawa.",
+                    "MY": "ဒါက ပုံမှန်ဥပမာတစ်ခုပါ။",
+                    "HI": "यह एक विशिष्ट उदाहरण है।",
+                    "AR": "هذا مثال نموذجي.",
+                    "FA": "این یک نمونه‌ی بارز است."
+                }
+            },
+            {
+                "kanji": "そのケースが典型です。",
+                "furigana": "そのケースが典型(てんけい)です。",
+                "translations": {
+                    "EN": "That case is typical.",
+                    "ID": "Kasus itu tipikal.",
+                    "ES": "Este caso es típico.",
+                    "VI": "Trường hợp đó là điển hình.",
+                    "FR": "Ce cas est typique.",
+                    "NE": "त्यो केस सामान्य छ।",
+                    "BN": "ওই ঘটনাটা সাধারণ।",
+                    "ZH": "那个案例很典型。",
+                    "KO": "그 경우가 전형적입니다.",
+                    "TL": "Ang kaso ay tipikal.",
+                    "MY": "အဲဒီကိစ္စက ပုံမှန်ပါပဲ။",
+                    "HI": "यह मामला सामान्य है।",
+                    "AR": "وهذه الحالة نموذجية.",
+                    "FA": "آن مورد، نمونه بارز آن است."
+                }
+            },
+            {
+                "kanji": "彼はこの町の典型です。",
+                "furigana": "彼(かれ)はこの町(まち)の典型(てんけい)です。",
+                "translations": {
+                    "EN": "He is typical of this town.",
+                    "ID": "Dia adalah gambaran khas kota ini.",
+                    "ES": "Es típico de este pueblo.",
+                    "VI": "Ông là người tiêu biểu của thị trấn này.",
+                    "FR": "Il est typique de cette ville.",
+                    "NE": "उनी यस शहरको विशिष्ट व्यक्ति हुन्।",
+                    "BN": "সে এই শহরেরই সাধারণ।",
+                    "ZH": "他是这个镇的典型代表。",
+                    "KO": "그는이 마을의 전형입니다.",
+                    "TL": "Siya ay tipikal sa bayang ito.",
+                    "MY": "သူက ဒီမြို့ရဲ့ ထုံးစံပါ။",
+                    "HI": "वह इस शहर का विशिष्ट व्यक्ति है।",
+                    "AR": "إنه نموذجي لهذه المدينة.",
+                    "FA": "او نمونه بارز این شهر است."
+                }
+            },
+            {
+                "kanji": "この現象が最も典型的な例です。",
+                "furigana": "この現象(げんしょう)が最(もっと)も典型的(てんけいてき)な例(れい)です。",
+                "translations": {
+                    "EN": "This is the most typical example of this phenomenon.",
+                    "ID": "Ini adalah contoh paling umum dari fenomena ini.",
+                    "ES": "Éste es el ejemplo más típico de este fenómeno.",
+                    "VI": "Đây là ví dụ điển hình nhất của hiện tượng này.",
+                    "FR": "C’est l’exemple le plus typique de ce phénomène.",
+                    "NE": "यो यस घटनाको सबैभन्दा विशिष्ट उदाहरण हो।",
+                    "BN": "এটি এই ঘটনার সবচেয়ে সাধারণ উদাহরণ।",
+                    "ZH": "这是这种现象最典型的例子。",
+                    "KO": "이 현상이 가장 일반적인 예입니다.",
+                    "TL": "Ito ang pinakakaraniwang halimbawa ng hindi pangkaraniwang bagay na ito.",
+                    "MY": "ဤသည်မှာ ဤဖြစ်စဉ်၏ သာမာန်အရှိဆုံး ဥပမာဖြစ်သည်။",
+                    "HI": "यह इस घटना का सबसे विशिष्ट उदाहरण है।",
+                    "AR": "وهذا هو المثال الأكثر نموذجية لهذه الظاهرة.",
+                    "FA": "این بارزترین نمونه این پدیده است."
+                }
+            },
+            {
+                "kanji": "その意見はわかりやすい典型像です。",
+                "furigana": "その意見(いけん)はわかりやすい典型像(てんけいぞう)です。",
+                "translations": {
+                    "EN": "That opinion is a clear example.",
+                    "ID": "Pendapat itu adalah contoh yang jelas.",
+                    "ES": "Esta opinión es un claro ejemplo.",
+                    "VI": "Ý kiến đó là một ví dụ rõ ràng.",
+                    "FR": "Cette opinion est un exemple clair.",
+                    "NE": "त्यो विचार यसको स्पष्ट उदाहरण हो।",
+                    "BN": "সেই মতামত একটি স্পষ্ট উদাহরণ।",
+                    "ZH": "这一观点就是一个明显的例子。",
+                    "KO": "그 의견은 알기 쉬운 전형적인 동상입니다.",
+                    "TL": "Ang opinyon na iyon ay isang malinaw na halimbawa.",
+                    "MY": "ထိုအမြင်သည် ရှင်းရှင်းလင်းလင်း ဥပမာတစ်ခုဖြစ်သည်။",
+                    "HI": "यह राय एक स्पष्ट उदाहरण है।",
+                    "AR": "وهذا الرأي هو مثال واضح.",
+                    "FA": "آن نظر، مصداق بارز آن است."
+                }
+            },
+            {
+                "kanji": "これは古典的で典型的なパターンです。",
+                "furigana": "これは古典的(こてんてき)で典型的(てんけいてき)なパターンです。",
+                "translations": {
+                    "EN": "This is a classic and typical pattern.",
+                    "ID": "Ini adalah pola klasik dan umum.",
+                    "ES": "Este es un patrón clásico y típico.",
+                    "VI": "Đây là một mẫu cổ điển và điển hình.",
+                    "FR": "C'est un modèle classique et typique.",
+                    "NE": "यो एक क्लासिक र विशिष्ट ढाँचा हो।",
+                    "BN": "এটি একটি ক্লাসিক এবং সাধারণ প্যাটার্ন।",
+                    "ZH": "这是一个经典且典型的模式。",
+                    "KO": "이것은 고전적이고 전형적인 패턴입니다.",
+                    "TL": "Ito ay isang klasiko at tipikal na pattern.",
+                    "MY": "ဤသည်မှာ ဂန္ထဝင်နှင့် ပုံမှန်ပုံစံတစ်ခုဖြစ်သည်။",
+                    "HI": "यह एक क्लासिक और विशिष्ट पैटर्न है।",
+                    "AR": "هذا هو النمط الكلاسيكي والنموذجي.",
+                    "FA": "این یک الگوی کلاسیک و معمولی است."
+                }
+            },
+            {
+                "kanji": "図は標準的な典型例を示します。",
+                "furigana": "図(ず)は標準的(ひょうじゅんてき)な典型例(てんけいれい)を示(しめ)します。",
+                "translations": {
+                    "EN": "The figure shows a typical example.",
+                    "ID": "Gambar berikut menunjukkan contoh tipikal.",
+                    "ES": "La figura muestra un ejemplo típico.",
+                    "VI": "Hình minh họa là một ví dụ điển hình.",
+                    "FR": "La figure montre un exemple typique.",
+                    "NE": "चित्रले एउटा विशिष्ट उदाहरण देखाउँछ।",
+                    "BN": "চিত্রটি একটি সাধারণ উদাহরণ দেখায়।",
+                    "ZH": "图中显示的是一个典型的例子。",
+                    "KO": "그림은 표준 전형적인 예를 보여줍니다.",
+                    "TL": "Ang figure ay nagpapakita ng isang tipikal na halimbawa.",
+                    "MY": "ပုံသည် သာမာန် ဥပမာတစ်ခုကို ပြသည်။",
+                    "HI": "यह चित्र एक विशिष्ट उदाहरण दर्शाता है।",
+                    "AR": "يوضح الشكل مثالاً نموذجيًا.",
+                    "FA": "شکل یک نمونه معمولی را نشان می‌دهد."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "type": {
+                "ID": "jenis",
+                "ES": "tipo",
+                "VI": "kiểu",
+                "FR": "taper",
+                "NE": "प्रकार",
+                "BN": "টাইপ করুন",
+                "ZH": "类型",
+                "KO": "유형",
+                "TL": "uri",
+                "MY": "အမျိုးအစား",
+                "HI": "प्रकार",
+                "AR": "يكتب",
+                "FA": "نوع",
+                "EN": [
+                    "pattern",
+                    "model",
+                    "archetype"
+                ]
+            },
+            "epitome": {
+                "ID": "lambang",
+                "ES": "epítome",
+                "VI": "hình ảnh thu nhỏ",
+                "FR": "exemple",
+                "NE": "प्रतीकात्मक रूप",
+                "BN": "প্রতীক",
+                "ZH": "缩影",
+                "KO": "발췌",
+                "TL": "epitome",
+                "MY": "အထောက်အထား",
+                "HI": "प्रतीक",
+                "AR": "مثال",
+                "FA": "مظهر",
+                "EN": [
+                    "exemplar",
+                    "perfect example"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "典型",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "典型",
+                "reading": "てんけい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "type",
+                    "pattern",
+                    "model",
+                    "epitome",
+                    "exemplar",
+                    "archetype",
+                    "perfect example"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "典",
+        "型"
+    ],
+    "kanji_data": {
+        "典": {
+            "freq_mainichi_shinbun": 1055,
+            "grade": 4,
+            "heisig_en": "code",
+            "jlpt": 1,
+            "kanji": "典",
+            "kun_readings": [
+                "のり",
+                "ふみ"
+            ],
+            "meanings": [
+                "ceremony",
+                "code",
+                "law",
+                "rule"
+            ],
+            "name_readings": [
+                "すけ",
+                "つね",
+                "の"
+            ],
+            "notes": [],
+            "on_readings": [
+                "テン",
+                "デン"
+            ],
+            "stroke_count": 8,
+            "unicode": "5178"
+        },
+        "型": {
+            "freq_mainichi_shinbun": 482,
+            "grade": 4,
+            "heisig_en": "mould",
+            "jlpt": 2,
+            "kanji": "型",
+            "kun_readings": [
+                "-がた",
+                "かた"
+            ],
+            "meanings": [
+                "model",
+                "mould",
+                "type"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ケイ"
+            ],
+            "stroke_count": 9,
+            "unicode": "578B"
+        }
+    },
+    "collocations": [
+        "典型の例",
+        "典型のパターン",
+        "典型の事例",
+        "典型の特徴",
+        "典型の姿",
+        "～として典型例",
+        "～として典型像",
+        "～として典型モデル",
+        "～として典型的事例",
+        "～として典型的パターン",
+        "最も典型的な例",
+        "古典的で典型的なパターン",
+        "わかりやすい典型像",
+        "標準的な典型例",
+        "一般的な典型像",
+        "これは典型だ",
+        "彼／彼女は典型だ",
+        "その意見は典型だ",
+        "この現象が典型だ",
+        "そのケースが典型だ",
+        "示す典型例",
+        "見せる典型像",
+        "成る／なる典型例",
+        "採る典型例",
+        "形成する典型像"
+    ]
+}

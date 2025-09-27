@@ -1,0 +1,341 @@
+{
+    "version": "0.2.0",
+    "word": "穏やか",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/lPR5Yne8OF8",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "穏やか",
+        "reading": "おだやか",
+        "introduction_japanese": "「穏やか」は、天気や海の様子、表情や気持ち、穏やかな暮らし方や話し方について話すときによく使われる言葉です。",
+        "introduction_english": "The adjective おだやか is commonly used when talking about weather, the sea, people's expressions and feelings, daily life, and the way someone speaks.",
+        "meanings": [
+            [
+                "calm",
+                "quiet",
+                "gentle",
+                "peaceful",
+                "mild"
+            ],
+            [
+                "moderate",
+                "reasonable",
+                "amicable"
+            ]
+        ],
+        "meaning_explanation_japanese": "「穏やか」は、静かで落ち着いている状態や、やさしく争いのない様子を表します。また、程度が強すぎない『ほどよい・程々』という意味でも使えます。",
+        "meaning_explanation_english": "The word おだやか means 'calm', 'gentle', or 'peaceful'. It describes a quiet, settled state or a mild, reasonable condition.",
+        "kanji_explanation_english": "The first kanji means calm. It carries the idea of quietness and moderation. It appears in words like おんびん which means handling things gently to avoid trouble, and おんけん which means moderate or conservative; in both cases the kanji's calm sense gives the word a meaning of steadiness or balance.",
+        "kanji_details": [
+            {
+                "kanji": "穏",
+                "common_words": [
+                    "穏便 (おんびん): handle matters gently to avoid trouble",
+                    "穏健 (おんけん): moderate, conservative"
+                ]
+            }
+        ],
+        "synonyms": [
+            "落ち着いた",
+            "平穏"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word are おちついた and へいおん. おちついた emphasizes being composed and settled (often about a person's mood), while へいおん focuses on a peaceful, disturbance-free situation; both share the calm sense of the original word.",
+        "antonyms": [
+            "激しい",
+            "不穏"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word are はげしい and ふおん. はげしい expresses strong intensity or violence, the opposite of calm. ふおん means uneasy or unsettled, which contrasts with peaceful and gentle.",
+        "examples": [
+            {
+                "kanji": "穏やかな天気が続いている。",
+                "furigana": "穏やかな天気(てんき)が続(つづ)いている。",
+                "translations": {
+                    "EN": "The weather has been calm for a while.",
+                    "ID": "Cuacanya tenang untuk sementara waktu.",
+                    "ES": "El clima ha estado tranquilo por un tiempo.",
+                    "VI": "Thời tiết đã yên bình được một lúc rồi.",
+                    "FR": "Le temps est calme depuis un moment.",
+                    "NE": "केही समयदेखि मौसम शान्त छ।",
+                    "BN": "কিছুক্ষণ ধরে আবহাওয়া শান্ত।",
+                    "ZH": "天气已经平静了一段时间。",
+                    "KO": "온화한 날씨가 계속되고 있다.",
+                    "TL": "Kanina pa tahimik ang panahon.",
+                    "MY": "ရာသီဥတုက ခဏတာ ငြိမ်သွားတယ်။",
+                    "HI": "कुछ समय से मौसम शांत है।",
+                    "AR": "لقد كان الطقس هادئا لبعض الوقت.",
+                    "FA": "مدتی است که هوا آرام شده است."
+                }
+            },
+            {
+                "kanji": "海が穏やかだ。",
+                "furigana": "海(うみ)が穏(おだ)やかだ。",
+                "translations": {
+                    "EN": "The sea is calm.",
+                    "ID": "Lautnya tenang.",
+                    "ES": "El mar está en calma.",
+                    "VI": "Biển lặng.",
+                    "FR": "La mer est calme.",
+                    "NE": "समुद्र शान्त छ।",
+                    "BN": "সমুদ্র শান্ত।",
+                    "ZH": "海面很平静。",
+                    "KO": "바다가 온화하다.",
+                    "TL": "Kalmado ang dagat.",
+                    "MY": "ပင်လယ်သည် ငြိမ်သက်နေသည်။",
+                    "HI": "समुद्र शांत है.",
+                    "AR": "البحر هادئ.",
+                    "FA": "دریا آرام است."
+                }
+            },
+            {
+                "kanji": "彼女は穏やかな表情をしている。",
+                "furigana": "彼女(かのじょ)は穏(おだ)やかな表情(ひょうじょう)をしている。",
+                "translations": {
+                    "EN": "She has a calm expression.",
+                    "ID": "Dia memiliki ekspresi yang tenang.",
+                    "ES": "Ella tiene una expresión tranquila.",
+                    "VI": "Cô ấy có vẻ mặt bình tĩnh.",
+                    "FR": "Elle a une expression calme.",
+                    "NE": "उनको शान्त अभिव्यक्ति छ।",
+                    "BN": "তার একটা শান্ত ভাব আছে।",
+                    "ZH": "她表情平静。",
+                    "KO": "그녀는 온화한 표정을 하고 있다.",
+                    "TL": "Siya ay may kalmadong ekspresyon.",
+                    "MY": "သူမသည် တည်ငြိမ်သောအမူအရာရှိသည်။",
+                    "HI": "उसकी अभिव्यक्ति शांत है।",
+                    "AR": "إنها تمتلك تعبيرًا هادئًا.",
+                    "FA": "او چهره‌ای آرام دارد."
+                }
+            },
+            {
+                "kanji": "心が穏やかになる。",
+                "furigana": "心(こころ)が穏(おだ)やかになる。",
+                "translations": {
+                    "EN": "It calms the mind.",
+                    "ID": "Itu menenangkan pikiran.",
+                    "ES": "Calma la mente.",
+                    "VI": "Nó làm dịu tâm trí.",
+                    "FR": "Cela calme l'esprit.",
+                    "NE": "यसले मनलाई शान्त पार्छ।",
+                    "BN": "এটি মনকে শান্ত করে।",
+                    "ZH": "它能使心灵平静。",
+                    "KO": "마음이 온화해진다.",
+                    "TL": "Pinapatahimik nito ang isip.",
+                    "MY": "စိတ်ကို အေးချမ်းစေတယ်။",
+                    "HI": "इससे मन शांत होता है।",
+                    "AR": "فهو يهدئ العقل.",
+                    "FA": "باعث آرامش ذهن می‌شود."
+                }
+            },
+            {
+                "kanji": "穏やかに話してください。",
+                "furigana": "穏(おだ)やかに話(はな)してください。",
+                "translations": {
+                    "EN": "Please speak calmly.",
+                    "ID": "Harap berbicara dengan tenang.",
+                    "ES": "Por favor, habla con calma.",
+                    "VI": "Xin hãy nói chuyện một cách bình tĩnh.",
+                    "FR": "S'il vous plaît, parlez calmement.",
+                    "NE": "कृपया शान्त भएर बोल्नुहोस्।",
+                    "BN": "দয়া করে শান্তভাবে কথা বলুন।",
+                    "ZH": "请冷静地说话。",
+                    "KO": "부드럽게 말하십시오.",
+                    "TL": "Mangyaring magsalita nang mahinahon.",
+                    "MY": "အေးအေးဆေးဆေးပြောပါ။",
+                    "HI": "कृपया शांति से बोलें.",
+                    "AR": "من فضلك تحدث بهدوء.",
+                    "FA": "لطفا با آرامش صحبت کنید."
+                }
+            },
+            {
+                "kanji": "穏やかな暮らしがしたい。",
+                "furigana": "穏(おだ)やかな暮(く)らしがしたい。",
+                "translations": {
+                    "EN": "I want to live a peaceful life.",
+                    "ID": "Saya ingin menjalani kehidupan yang damai.",
+                    "ES": "Quiero vivir una vida pacífica.",
+                    "VI": "Tôi muốn sống một cuộc sống bình yên.",
+                    "FR": "Je veux vivre une vie paisible.",
+                    "NE": "म शान्त जीवन बिताउन चाहन्छु।",
+                    "BN": "আমি শান্তিপূর্ণ জীবনযাপন করতে চাই।",
+                    "ZH": "我想过平静的生活。",
+                    "KO": "부드러운 삶을 원합니다.",
+                    "TL": "Gusto kong mamuhay ng matiwasay.",
+                    "MY": "အေးချမ်းတဲ့ဘဝကို ဖြတ်သန်းချင်တယ်။",
+                    "HI": "मैं शांतिपूर्ण जीवन जीना चाहता हूं।",
+                    "AR": "أريد أن أعيش حياة سلمية.",
+                    "FA": "می‌خواهم زندگی آرامی داشته باشم."
+                }
+            },
+            {
+                "kanji": "彼は子供を穏やかに見守っている。",
+                "furigana": "彼(かれ)は子供(こども)を穏(おだ)やかに見守(みまも)っている。",
+                "translations": {
+                    "EN": "He watches over the child calmly.",
+                    "ID": "Dia mengawasi anak itu dengan tenang.",
+                    "ES": "Él vigila al niño con calma.",
+                    "VI": "Anh ấy bình tĩnh quan sát đứa trẻ.",
+                    "FR": "Il veille sur l'enfant avec calme.",
+                    "NE": "ऊ शान्तपूर्वक बच्चालाई हेर्छ।",
+                    "BN": "সে শান্তভাবে শিশুটির দিকে নজর রাখে।",
+                    "ZH": "他平静地照看着孩子。",
+                    "KO": "그는 아이를 부드럽게 지켜보고 있습니다.",
+                    "TL": "Kalmado niyang binabantayan ang bata.",
+                    "MY": "သူက ကလေးကို အေးအေးဆေးဆေး ကြည့်နေတယ်။",
+                    "HI": "वह शांति से बच्चे पर नज़र रखता है।",
+                    "AR": "يراقب الطفل بهدوء.",
+                    "FA": "او با آرامش از کودک مراقبت می‌کند."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "calm": {
+                "ID": "tenang",
+                "ES": "calma",
+                "VI": "điềm tĩnh",
+                "FR": "calme",
+                "NE": "शान्त",
+                "BN": "শান্ত",
+                "ZH": "冷静的",
+                "KO": "침착한",
+                "TL": "kalmado",
+                "MY": "အေးဆေး",
+                "HI": "शांत",
+                "AR": "هادئ",
+                "FA": "آرام",
+                "EN": [
+                    "quiet",
+                    "gentle",
+                    "peaceful",
+                    "mild"
+                ]
+            },
+            "moderate": {
+                "ID": "sedang",
+                "ES": "moderado",
+                "VI": "vừa phải",
+                "FR": "modéré",
+                "NE": "मध्यम",
+                "BN": "মাঝারি",
+                "ZH": "缓和",
+                "KO": "보통의",
+                "TL": "katamtaman",
+                "MY": "အလယ်အလတ်",
+                "HI": "मध्यम",
+                "AR": "معتدل",
+                "FA": "متوسط",
+                "EN": [
+                    "reasonable",
+                    "amicable"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "穏やか",
+        "is_common": true,
+        "tags": [
+            "wanikani46"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "穏やか",
+                "reading": "おだやか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "calm",
+                    "quiet",
+                    "gentle",
+                    "peaceful",
+                    "mild"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "moderate",
+                    "reasonable",
+                    "amicable"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "穏"
+    ],
+    "kanji_data": {
+        "穏": {
+            "freq_mainichi_shinbun": 1535,
+            "grade": 8,
+            "heisig_en": "calm",
+            "jlpt": 1,
+            "kanji": "穏",
+            "kun_readings": [
+                "おだ.やか"
+            ],
+            "meanings": [
+                "calm",
+                "moderation",
+                "quiet"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "オン"
+            ],
+            "stroke_count": 16,
+            "unicode": "7A4F"
+        }
+    },
+    "collocations": [
+        "穏やかな天気",
+        "穏やかな海",
+        "穏やかな表情",
+        "穏やかな笑顔",
+        "穏やかな暮らし",
+        "心が穏やかである",
+        "気持ちが穏やかになる",
+        "空気が穏やかだ",
+        "日差しが穏やかだ",
+        "波風が穏やかだ",
+        "穏やかに話す",
+        "穏やかに暮らす",
+        "穏やかに見守る",
+        "穏やかに進む",
+        "穏やかに過ごす",
+        "穏やかさを感じる",
+        "穏やかさを保つ",
+        "穏やかな雰囲気を醸す",
+        "～を穏やかにする",
+        "～を穏やかに受け止める"
+    ]
+}
