@@ -89,8 +89,15 @@ class JPWord2:
         self.jlpt_level = initial_jlpt_level
         self.youtube_link = ""
         self.in_db = False
-        self.jisho_data = query_jisho(self.word)
+        self.jisho_data = {}
+        self.kanji_list = []
         self.kanji_data = {}
+        self.collocations = []
+        self.ai_explanation = {}
+        self.meaning_translations = {}
+        if not ai_init:
+            return
+        self.jisho_data = query_jisho(self.word)
         if self.jisho_data:
             self.kanji_list = extract_kanji(self.word)
             for kanji in self.kanji_list:
@@ -100,11 +107,6 @@ class JPWord2:
         else:
             self.kanji_list = []
             self.kanji_data = {}
-        self.collocations = []
-        self.ai_explanation = {}
-        self.meaning_translations = {}
-        if not ai_init:
-            return
         self.collocations = self.get_collocations(raw_collocations)
         self.ai_explanation = self.get_ai_explanation()
         self.translate()
@@ -322,10 +324,13 @@ class JPWord2:
 
     @staticmethod
     def load_from_json(word: str) -> "JPWord2":
-        file_path = os.path.join("output", word, f"{word}.json")
+        # file_path = os.path.join("output", word, f"{word}.json")
+        file_path = os.path.join("resources", "words", f"{word}.json")
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
         obj = JPWord2(data["word"], data["jlpt_level"], ai_init=False)
+        obj.youtube_link = data["youtube_link"]
+        obj.in_db = data["in_db"]
         obj.ai_explanation = data["ai_explanation"]
         obj.jisho_data = data["jisho_data"]
         obj.kanji_list = data["kanji_list"]
@@ -827,10 +832,12 @@ class JPWord2:
         st.markdown(self.ai_explanation["meaning_explanation_japanese"])
         for m, tr in self.ai_explanation["meaning_translations"].items():
             tr["EN"].insert(0, m)
+            tr["EN"] = ", ".join(tr["EN"])
             with st.container(border=1, horizontal=True):
                 for k, v in tr.items():
                     if auth:
-                        if k not in auth.get("preferred_languages", []):
+                        user_langs = [LANGUAGES_ABBR[lang] for lang in auth.get("preferred_languages", [])]
+                        if k not in user_langs:
                             continue
                     st.markdown(f":gray-badge[{k}] {v}")
 

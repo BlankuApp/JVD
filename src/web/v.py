@@ -38,10 +38,11 @@ def get_words() -> list[dict]:
             raw_data = file.read()
             json_data = json.loads(raw_data)
             version = json_data.get("version")
+            print(f"Loading word '{json_data['word']}' version {version}")
             w = None
             if version == "0.1.1":
                 w = JPWord.model_validate_json(raw_data)
-            elif version == "0.2.0":
+            if version == "0.2.0":
                 w = JPWord2.load_from_json(json_data["word"])
             if w:
                 words.append(dict(word=w.word, level=w.jlpt_level))
