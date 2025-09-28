@@ -122,7 +122,7 @@ if st.session_state.review_state == "answer":
         submitted = st.form_submit_button("Submit Answer", type="primary", use_container_width=True)
         if submitted:
             st.session_state["review_state"] = "submitting"
-    youtube_link = jp_word_card._jp_word.youtube_link
+    youtube_link = jp_word_card.json_data["youtube_link"]
     if youtube_link:
         st.video(youtube_link)
 

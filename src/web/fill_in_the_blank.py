@@ -8,6 +8,8 @@ from openai import OpenAI
 
 from src.utils import create_html_with_ruby
 from src.word.JPWord import JPWord
+from src import LANGUAGES_ABBR
+from src.word.JPWord2 import translate_text
 
 
 @st.cache_data(ttl=3600)
@@ -156,6 +158,7 @@ else:
         correct_count = 0
         for i, q in enumerate(result.get("questions", [])):
             answer = q.get("answer", "")
+            full_sentence = q.get("full_sentence", "")
             full_sentence_reading = q.get("full_sentence_reading", "")
             hint = q.get("hint", "")
             user_answer = st.session_state.get(f"answer_{i}", "")
@@ -166,6 +169,10 @@ else:
                 st.error(f"Question {i + 1}: Incorrect. The correct answer is: {answer}")
             ruby = create_html_with_ruby(full_sentence_reading)
             st.markdown(ruby, unsafe_allow_html=True)
+            user_langs = [LANGUAGES_ABBR[lang] for lang in auth.get("preferred_languages", [])]
+            for lang in user_langs:
+                translation = translate_text(full_sentence, target_language=lang, source_language="JA")
+                st.markdown(f"**{lang}:** {translation}")
         if correct_count == len(result.get("questions", [])):
             st.balloons()
         st.info(f"You got {correct_count} out of {len(result.get('questions', []))} correct.")

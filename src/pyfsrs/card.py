@@ -10,17 +10,19 @@ Classes:
 """
 
 from __future__ import annotations
-from enum import IntEnum
+
+import json
+import os
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
-import time
-from src.word.JPWord import JPWord
-from langchain_openai import ChatOpenAI
-from langchain_core.messages import HumanMessage, SystemMessage
-from pydantic import BaseModel, Field
-import os
-from dotenv import load_dotenv
+from enum import IntEnum
 from random import choice
+
+from dotenv import load_dotenv
+from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field
 
 load_dotenv()
 
@@ -191,13 +193,14 @@ class JPWordCard(Card):
             last_review=last_review,
         )
         self.word = word
-        self._jp_word: JPWord = JPWord.model_validate_json(
-            open(f"resources/words/{word}.json", "r", encoding="utf-8").read()
-        )
+        self.json_data = json.loads(open(f"resources/words/{word}.json", "r", encoding="utf-8").read())
         self.question: JPWordCard.ReverseTranslationQuestion | None = None
 
     def fetch_random_collocation(self) -> str:
-        return choice(self._jp_word.explanations.collocations) if self._jp_word.explanations.collocations else ""
+        if self.json_data["version"] == "0.1.1":
+            return choice(self.json_data["explanations"]["collocations"])
+        elif self.json_data["version"] == "0.2.0":
+            return choice(self.json_data["collocations"])
 
     def generate_reverse_translation_question(
         self, jlpt_level: str | int = "N4", target_languages: list[str] = ["English"]
