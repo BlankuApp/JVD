@@ -37,6 +37,7 @@ _translator_client = None
 def get_translator_client() -> translate.Client:
     global _translator_client
     if _translator_client is None:
+        inp = None
         try:
             try:
                 inp = {
