@@ -39,26 +39,21 @@ def get_translator_client() -> translate.Client:
     if _translator_client is None:
         try:
             try:
-                # Get the private key and replace literal \n with actual newlines
-                private_key = os.getenv("GOOGLE_CLOUD_PRIVATE_KEY")
-                if private_key:
-                    private_key = private_key.replace("\\n", "\n")
+                inp = {
+                    "type": "service_account",
+                    "project_id": "flawless-shard-472208-f2",
+                    "private_key_id": os.getenv("GOOGLE_CLOUD_PRIVATE_KEY_ID"),
+                    "private_key": os.getenv("GOOGLE_CLOUD_PRIVATE_KEY"),
+                    "client_email": os.getenv("GOOGLE_CLOUD_CLIENT_EMAIL"),
+                    "client_id": os.getenv("GOOGLE_CLOUD_CLIENT_ID"),
+                    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+                    "token_uri": "https://oauth2.googleapis.com/token",
+                    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+                    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-service%40flawless-shard-472208-f2.iam.gserviceaccount.com",
+                    "universe_domain": "googleapis.com",
+                }
 
-                translator_credentials = service_account.Credentials.from_service_account_info(
-                    info={
-                        "type": "service_account",
-                        "project_id": "flawless-shard-472208-f2",
-                        "private_key_id": os.getenv("GOOGLE_CLOUD_PRIVATE_KEY_ID"),
-                        "private_key": private_key,
-                        "client_email": os.getenv("GOOGLE_CLOUD_CLIENT_EMAIL"),
-                        "client_id": os.getenv("GOOGLE_CLOUD_CLIENT_ID"),
-                        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-                        "token_uri": "https://oauth2.googleapis.com/token",
-                        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-                        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-service%40flawless-shard-472208-f2.iam.gserviceaccount.com",
-                        "universe_domain": "googleapis.com",
-                    }
-                )
+                translator_credentials = service_account.Credentials.from_service_account_info(info=inp)
                 logger.info("Google Cloud credentials loaded successfully")
             except Exception as e:
                 logger.error(f"Failed to load Google Cloud credentials: {e}")
@@ -67,7 +62,7 @@ def get_translator_client() -> translate.Client:
             logger.info("Google Translate client initialized")
         except Exception as e:
             logger.error(f"Failed to initialize Google Translate client: {e}")
-            raise RuntimeError(f"Google Translate client initialization failed {e} {private_key}") from e
+            raise RuntimeError(f"Google Translate client initialization failed {e} \n\n{inp}") from e
     return _translator_client
 
 
