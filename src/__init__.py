@@ -1,4 +1,6 @@
 import os
+import tempfile
+import json
 
 from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
@@ -58,16 +60,33 @@ def get_translator_client() -> translate.Client:
                     "universe_domain": "googleapis.com",
                 }
 
-                # Create credentials object
-                credentials = service_account.Credentials.from_service_account_info(info=inp)
+                # Validate the service account info
+                service_account.Credentials.from_service_account_info(info=inp)
                 logger.info("Google Cloud credentials loaded successfully")
             except Exception as e:
                 logger.error(f"Failed to load Google Cloud credentials: {e}")
                 raise RuntimeError(f"Google Cloud credentials loading failed \n\n{inp}") from e
 
-            # Initialize the client with credentials directly
-            _translator_client = translate.Client(credentials=credentials)
-            logger.info("Google Translate client initialized")
+            # Initialize the client with credentials using temporary file method
+            temp_file_path = None
+            try:
+                # Create a temporary file with the service account info
+                with tempfile.NamedTemporaryFile(mode="w", delete=False, suffix=".json") as temp_file:
+                    json.dump(inp, temp_file)
+                    temp_file_path = temp_file.name
+
+                # Set the environment variable to point to the temp file
+                os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = temp_file_path
+                _translator_client = translate.Client()
+
+                # Clean up the temporary file
+                os.unlink(temp_file_path)
+                logger.info("Google Translate client initialized")
+            except Exception as e:
+                # Clean up temp file if it exists
+                if temp_file_path and os.path.exists(temp_file_path):
+                    os.unlink(temp_file_path)
+                raise e
         except Exception as e:
             logger.error(f"Failed to initialize Google Translate client: {e}")
             raise RuntimeError(f"Google Translate client initialization failed {e} \n\n{inp}") from e
