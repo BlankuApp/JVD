@@ -43,6 +43,7 @@ def get_translator_client() -> translate.Client:
                 private_key = os.getenv("GOOGLE_CLOUD_PRIVATE_KEY")
                 if private_key:
                     private_key = private_key.replace("\\n", "\n")
+                    print(private_key)
 
                 translator_credentials = service_account.Credentials.from_service_account_info(
                     info={
