@@ -43,7 +43,6 @@ def get_translator_client() -> translate.Client:
                 private_key = os.getenv("GOOGLE_CLOUD_PRIVATE_KEY")
                 if private_key:
                     private_key = private_key.replace("\\n", "\n")
-                    print(private_key)
 
                 translator_credentials = service_account.Credentials.from_service_account_info(
                     info={
@@ -68,7 +67,7 @@ def get_translator_client() -> translate.Client:
             logger.info("Google Translate client initialized")
         except Exception as e:
             logger.error(f"Failed to initialize Google Translate client: {e}")
-            raise RuntimeError(f"Google Translate client initialization failed {e}") from e
+            raise RuntimeError(f"Google Translate client initialization failed {e} {private_key}") from e
     return _translator_client
 
 
