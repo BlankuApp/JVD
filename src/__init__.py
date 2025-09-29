@@ -40,11 +40,16 @@ def get_translator_client() -> translate.Client:
         inp = None
         try:
             try:
+                # Replace literal \n with actual newlines in the private key
+                private_key = os.getenv("GOOGLE_CLOUD_PRIVATE_KEY")
+                if private_key:
+                    private_key = private_key.replace("\\n", "\n")
+
                 inp = {
                     "type": "service_account",
                     "project_id": "flawless-shard-472208-f2",
                     "private_key_id": os.getenv("GOOGLE_CLOUD_PRIVATE_KEY_ID"),
-                    "private_key": os.getenv("GOOGLE_CLOUD_PRIVATE_KEY"),
+                    "private_key": private_key,
                     "client_email": os.getenv("GOOGLE_CLOUD_CLIENT_EMAIL"),
                     "client_id": os.getenv("GOOGLE_CLOUD_CLIENT_ID"),
                     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
