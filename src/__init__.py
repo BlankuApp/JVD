@@ -40,7 +40,7 @@ def get_translator_client() -> translate.Client:
         try:
             try:
                 translator_credentials = service_account.Credentials.from_service_account_info(
-                    {
+                    info={
                         "type": "service_account",
                         "project_id": "flawless-shard-472208-f2",
                         "private_key_id": os.getenv("GOOGLE_CLOUD_PRIVATE_KEY_ID"),
