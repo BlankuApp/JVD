@@ -58,7 +58,7 @@ def get_translator_client() -> translate.Client:
                 logger.info("Google Cloud credentials loaded successfully")
             except Exception as e:
                 logger.error(f"Failed to load Google Cloud credentials: {e}")
-                raise RuntimeError("Google Cloud credentials loading failed") from e
+                raise RuntimeError(f"Google Cloud credentials loading failed \n\n{inp}") from e
             _translator_client = translate.Client(credentials=translator_credentials)
             logger.info("Google Translate client initialized")
         except Exception as e:
