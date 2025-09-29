@@ -1,5 +1,4 @@
 import os
-import json
 
 from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
@@ -59,16 +58,15 @@ def get_translator_client() -> translate.Client:
                     "universe_domain": "googleapis.com",
                 }
 
-                # Validate the credentials by creating the credentials object
-                service_account.Credentials.from_service_account_info(info=inp)
+                # Create credentials object
+                credentials = service_account.Credentials.from_service_account_info(info=inp)
                 logger.info("Google Cloud credentials loaded successfully")
             except Exception as e:
                 logger.error(f"Failed to load Google Cloud credentials: {e}")
                 raise RuntimeError(f"Google Cloud credentials loading failed \n\n{inp}") from e
 
-            # Initialize the client with credentials
-            os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = json.dumps(inp)
-            _translator_client = translate.Client()
+            # Initialize the client with credentials directly
+            _translator_client = translate.Client(credentials=credentials)
             logger.info("Google Translate client initialized")
         except Exception as e:
             logger.error(f"Failed to initialize Google Translate client: {e}")
