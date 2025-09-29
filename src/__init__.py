@@ -62,7 +62,7 @@ def get_translator_client() -> translate.Client:
             logger.info("Google Translate client initialized")
         except Exception as e:
             logger.error(f"Failed to initialize Google Translate client: {e}")
-            raise RuntimeError("Google Translate client initialization failed") from e
+            raise RuntimeError(f"Google Translate client initialization failed {e}") from e
     return _translator_client
 
 
@@ -82,3 +82,6 @@ def get_openai_client() -> OpenAI:
             logger.error(f"Failed to initialize OpenAI client: {e}")
             raise RuntimeError("OpenAI client initialization failed") from e
     return _openai_client
+
+
+_ = get_translator_client()
