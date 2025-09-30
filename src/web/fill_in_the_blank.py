@@ -41,6 +41,7 @@ selection = st.segmented_control(
     selection_mode="multi",
     default=["N5", "N4", "N3"],
     label_visibility="collapsed",
+    width="stretch",
 )
 selected_levels = [int(ll[1]) for ll in selection]
 
