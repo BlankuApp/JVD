@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
 from google.oauth2 import service_account
 from openai import OpenAI
+from cryptography.fernet import Fernet
 
 from .logger_module import setup_logger
 
@@ -38,34 +39,19 @@ _translator_client = None
 def get_translator_client() -> translate.Client:
     global _translator_client
     if _translator_client is None:
-        inp = None
         try:
             try:
-                # Replace literal \n with actual newlines in the private key
-                private_key = os.getenv("GOOGLE_CLOUD_PRIVATE_KEY")
-                if private_key:
-                    private_key = private_key.replace("\\n", "\n")
-
-                inp = {
-                    "type": "service_account",
-                    "project_id": "flawless-shard-472208-f2",
-                    "private_key_id": os.getenv("GOOGLE_CLOUD_PRIVATE_KEY_ID"),
-                    "private_key": private_key,
-                    "client_email": os.getenv("GOOGLE_CLOUD_CLIENT_EMAIL"),
-                    "client_id": os.getenv("GOOGLE_CLOUD_CLIENT_ID"),
-                    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-                    "token_uri": "https://oauth2.googleapis.com/token",
-                    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-                    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-service%40flawless-shard-472208-f2.iam.gserviceaccount.com",
-                    "universe_domain": "googleapis.com",
-                }
-
+                fernet = Fernet(os.getenv("FKEY"))
+                with open("gdata", "rb") as file:
+                    encrypted_data = file.read()
+                    decrypted_data = fernet.decrypt(encrypted_data)
+                    inp = json.loads(decrypted_data.decode())
                 # Validate the service account info
                 service_account.Credentials.from_service_account_info(info=inp)
                 logger.info("Google Cloud credentials loaded successfully")
             except Exception as e:
                 logger.error(f"Failed to load Google Cloud credentials: {e}")
-                raise RuntimeError(f"Google Cloud credentials loading failed \n\n{inp}") from e
+                raise RuntimeError("Google Cloud credentials loading failed") from e
 
             # Initialize the client with credentials using temporary file method
             temp_file_path = None
@@ -89,7 +75,7 @@ def get_translator_client() -> translate.Client:
                 raise e
         except Exception as e:
             logger.error(f"Failed to initialize Google Translate client: {e}")
-            raise RuntimeError(f"Google Translate client initialization failed {e} \n\n{inp}") from e
+            raise RuntimeError(f"Google Translate client initialization failed {e}") from e
     return _translator_client
 
 
@@ -109,3 +95,6 @@ def get_openai_client() -> OpenAI:
             logger.error(f"Failed to initialize OpenAI client: {e}")
             raise RuntimeError("OpenAI client initialization failed") from e
     return _openai_client
+
+
+_ = get_translator_client()
