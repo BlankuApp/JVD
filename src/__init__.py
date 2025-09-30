@@ -95,6 +95,3 @@ def get_openai_client() -> OpenAI:
             logger.error(f"Failed to initialize OpenAI client: {e}")
             raise RuntimeError("OpenAI client initialization failed") from e
     return _openai_client
-
-
-_ = get_translator_client()
