@@ -14,7 +14,6 @@ load_dotenv()
 
 # Setup logger
 logger = setup_logger(level="INFO")
-logger.info("Application starting up...")
 
 LANGUAGES_ABBR = {
     "English": "EN",

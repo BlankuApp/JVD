@@ -2,7 +2,7 @@ from datetime import datetime, timezone
 
 import streamlit as st
 
-from src.db.db_word import update_user_word_card, get_due_card
+from src.db.db_word import get_due_card, update_user_word_card
 from src.pyfsrs.card import JPWordCard
 from src.pyfsrs.review_log import Rating
 from src.pyfsrs.scheduler import Scheduler
@@ -69,73 +69,141 @@ if "review_state" not in st.session_state:
         )
 
 if st.session_state.review_state == "question":
+    question = st.session_state.current_card["qa"]
+
+    # Enhanced question display with better visual hierarchy
+    with st.container(border=False):
+        st.markdown("📝 Translate to Japanese")
+        st.markdown(
+            f"<div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); "
+            f"padding: 1rem; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 1rem;'>"
+            f"<p style='text-align: center; font-size: 26px; color: white; margin: 0; "
+            f"text-shadow: 1px 1px 2px rgba(0,0,0,0.3); line-height: 1.4;'>{question.question}</p>"
+            f"</div>",
+            unsafe_allow_html=True,
+        )
+
     with st.form("review_form", border=False):
-        question = st.session_state.current_card["qa"]
-        st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
-        st.text_input(
+        answer_input = st.text_input(
             "Japanese Translation:",
             key="your_answer",
             label_visibility="collapsed",
-            placeholder="Type your answer here",
+            placeholder="日本語で答えてください...",
             autocomplete="off",
+            help="Type your Japanese translation here",
         )
-        col1, col2 = st.columns([0.5, 0.5])
-        with col2:
-            with st.popover("Hint", icon="💡", use_container_width=True):
-                st.markdown("- " + question.hints.replace(",", "\n- "))
+
+        # Enhanced button layout with better spacing
+        col1, col2 = st.columns([1, 1])
         with col1:
-            submitted = st.form_submit_button("Check Answer", type="primary", use_container_width=True)
+            with st.popover("💡 Hint", use_container_width=True):
+                st.markdown("**Helpful hints:**")
+                hints_formatted = "• " + question.hints.replace(",", "\n• ")
+                st.markdown(hints_formatted)
+
+        with col2:
+            submitted = st.form_submit_button("✅ Check Answer", type="primary", use_container_width=True)
+
     if submitted:
         st.session_state.review_state = "answer"
         st.rerun()
 
 if st.session_state.review_state == "answer":
     question = st.session_state.current_card["qa"]
-    st.markdown(f"<p style='text-align: center; font-size: 24px;'>{question.question}</p>", unsafe_allow_html=True)
+
+    # Show the original question again for context
+    st.markdown("📖 Original Question")
+    st.markdown(f"*{question.question}*")
+
     if not st.session_state["has_ai_review"]:
-        with st.spinner("Reviewing your answer with AI. Please wait ...", show_time=True):
+        with st.spinner("🤖 AI is reviewing your answer... Please wait", show_time=True):
             review = st.session_state.current_card["jpword"].review_reverse_translation_question(
                 user_answer=st.session_state["your_answer"],
                 target_languages=auth["preferred_languages"],
             )
         st.session_state["ai_review"] = review
         st.session_state["has_ai_review"] = True
-    with st.container():
-        ruby = create_html_with_ruby(question.answer, font_size="2rem", rt_font_size="1.1rem")
+
+    # Enhanced answer display section
+    col1, col2 = st.columns([1, 1])
+
+    with col1:
+        st.markdown("✅ Correct Answer")
+        ruby = create_html_with_ruby(question.answer, font_size="1.5rem", rt_font_size="1.1rem")
         st.markdown(
-            f"<p style='text-align: center; font-weight: bold;'>{ruby}</p>",
+            f"<div style='background: #e8f5e8; padding: 0.5rem; border-radius: 10px; border-left: 5px solid #28a745; margin-bottom: 1rem;'>"
+            f"<div style='text-align: center;'>{ruby}</div>"
+            f"</div>",
             unsafe_allow_html=True,
         )
-        if "your_answer" in st.session_state:
-            st.markdown(f"**Your Answer:** {st.session_state['your_answer']}")
+
+    with col2:
+        st.markdown("📝 Your Answer")
+        user_answer = st.session_state.get("your_answer", "")
+        if user_answer.strip() == "":
+            answer_display = "<em style='color: #6c757d;'>Skipped</em>"
+            answer_style = "background: #f8f9fa; border-left: 5px solid #6c757d;"
+        else:
+            answer_display = user_answer
+            answer_style = "background: #f8f9fa; border-left: 5px solid #007bff;"
+
+        st.markdown(
+            f"<div style='{answer_style} padding: 0.5rem; border-radius: 10px; margin-bottom: 1rem;'>"
+            f"<div style='text-align: center; font-size: 1.5rem;'>{answer_display}</div>"
+            f"</div>",
+            unsafe_allow_html=True,
+        )
+
+    # AI Review section with enhanced styling
+    with st.container(border=True):
         st.markdown(st.session_state["ai_review"])
+
+    # Enhanced rating form with better descriptions
     with st.form("rating_form", border=False):
-        diff = st.segmented_control(
+        st.markdown("📊 How well did you know this word?")
+
+        # Add descriptions for each rating
+        rating_descriptions = {
+            "🔄 Again": "I didn't know it at all",
+            "😅 Hard": "I knew it but struggled",
+            "😊 Good": "I knew it well",
+            "🏆 Easy": "I knew it perfectly",
+        }
+
+        selected_rating = st.segmented_control(
             "Rating:",
-            ["🔄 Again", "😅 Hard", "😊 Good", "🏆 Easy"],
+            list(rating_descriptions.keys()),
             default="😊 Good",
             key="review_difficulty",
             label_visibility="collapsed",
             width="stretch",
         )
+
         jp_word_card: JPWordCard = st.session_state.current_card["jpword"]
-        submitted = st.form_submit_button("Submit Answer", type="primary", use_container_width=True)
-        if submitted:
+
+        if st.form_submit_button("📚 Submit & Continue", type="primary", use_container_width=True):
             st.session_state["review_state"] = "submitting"
-    youtube_link = jp_word_card.json_data["youtube_link"]
+
+    # Enhanced YouTube video section
+    youtube_link = jp_word_card.json_data.get("youtube_link")
     if youtube_link:
-        st.video(youtube_link)
+        st.markdown("### 🎥 Related Video")
+        with st.container(border=False):
+            st.video(youtube_link)
+            st.caption("Watch this video to learn more about this word!")
 
 if st.session_state.review_state == "submitting":
     with st.spinner("Submitting your answer...", show_time=True):
         rating = RATING_DICT[st.session_state["review_difficulty"]]
         sch = Scheduler(enable_fuzzing=True, desired_retention=0.95)
         review_datetime = datetime.now(timezone.utc)
+        jp_word_card: JPWordCard = st.session_state.current_card["jpword"]
         jp_word_card, review_log = sch.review_card(jp_word_card, rating, review_datetime)
+
         success, msg = update_user_word_card(
             auth,
             word=jp_word_card.word,
-            state=jp_word_card.state,
+            state=str(int(jp_word_card.state)),  # Convert State enum to string of integer value
             step=jp_word_card.step,
             stability=jp_word_card.stability,
             difficulty=jp_word_card.difficulty,
@@ -143,5 +211,15 @@ if st.session_state.review_state == "submitting":
             last_review=review_datetime.isoformat(),
         )
         st.session_state["due_review_count"] = max(st.session_state.get("due_review_count", 0) - 1, 0)
-        st.toast(msg, icon="✅" if success else "❌")
+
+        # Enhanced success message with progress
+        if success:
+            remaining = st.session_state.get("due_review_count", 0)
+            if remaining > 0:
+                st.toast(f"✅ {msg} • {remaining} cards remaining", icon="🎯")
+            else:
+                st.toast("🎉 Review session completed! Great work!", icon="🏆")
+        else:
+            st.toast(msg, icon="❌")
+
         reset_review_session()
