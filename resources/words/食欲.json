@@ -1,129 +1,225 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "食欲",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/-8ABnyo-zIM",
     "in_db": true,
-    "reading": "しょくよく",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "食欲",
+        "reading": "しょくよく",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is しょくよく which you will often hear in discussions about food, health, and daily routines.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word shokuyoku means the desire or appetite to eat. It can also refer to how much someone wants to eat at any given time and can be influenced by various factors like mood and health.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "appetite"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "食欲",
-                "English": "Appetite",
-                "Persian": "اشتها",
-                "Nepali": "भोक",
-                "Indonesian": "Nafsu makan",
-                "Filipino": "Gana sa pagkain",
-                "Vietnamese": "sự thèm ăn",
-                "Burmese": "စားချင်ငါးမှု",
-                "Korean": "식욕",
-                "Hindi": "भूख",
-                "Arabic": "شَهِيَّة",
-                "French": "Appétit",
-                "Spanish": "Apetito",
-                "Chinese": "食欲",
-                "Bengali": "ক্ষুধা"
+            ]
+        ],
+        "meaning_translations": {
+            "appetite": {
+                "EN": "Appetite",
+                "ID": "Nafsu makan",
+                "ES": "Apetito",
+                "VI": "sự thèm ăn",
+                "FR": "Appétit",
+                "NE": "भोक",
+                "BN": "ক্ষুধা",
+                "ZH": "食欲",
+                "KO": "식욕",
+                "TL": "Gana sa pagkain",
+                "MY": "စားချင်ငါးမှု",
+                "HI": "भूख",
+                "AR": "شَهِيَّة",
+                "FA": "اشتها"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "食欲があります。",
+                "furigana": "食(しょく)欲(よく)があ(あります)ります。",
+                "translations": {
+                    "EN": "I have an appetite.",
+                    "ID": "Saya punya nafsu makan.",
+                    "ES": "Tengo apetito.",
+                    "VI": "Tôi có cảm giác thèm ăn.",
+                    "FR": "J'ai de l'appétit.",
+                    "NE": "मलाई भोक लागेको छ।",
+                    "BN": "আমার ক্ষুধা আছে।",
+                    "ZH": "我有食欲。",
+                    "KO": "식욕이 있습니다.",
+                    "TL": "May gana akong kumain.",
+                    "MY": "ငါဗိုက်ဆာတယ်။",
+                    "HI": "मुझे भूख लगी है।",
+                    "AR": "لدي شهية.",
+                    "FA": "من اشتها دارم."
+                }
+            },
+            {
+                "kanji": "今日は食欲がない。",
+                "furigana": "今日(きょう)は食欲(しょくよく)がない。",
+                "translations": {
+                    "EN": "I have no appetite today.",
+                    "ID": "Hari ini saya tidak nafsu makan.",
+                    "ES": "No tengo apetito hoy.",
+                    "VI": "Hôm nay tôi không có cảm giác thèm ăn.",
+                    "FR": "Je n'ai pas d'appétit aujourd'hui.",
+                    "NE": "आज मलाई भोक छैन।",
+                    "BN": "আজ আমার খিদে নেই।",
+                    "ZH": "今天没有胃口。",
+                    "KO": "오늘은 식욕이 없다.",
+                    "TL": "Wala akong gana kumain ngayon.",
+                    "MY": "ဒီနေ့ ပိသ်ချင်စရာအကြောင်းမရှိပါဘူး။",
+                    "HI": "आज मुझे भूख नहीं है।",
+                    "AR": "ليس لدي شهية اليوم.",
+                    "FA": "امروز اشتها ندارم."
+                }
+            },
+            {
+                "kanji": "今日は食欲がまったくない。",
+                "furigana": "今日は食欲(しょくよく)がまったくない。",
+                "translations": {
+                    "EN": "I have no appetite at all today.",
+                    "ID": "Hari ini saya benar-benar tidak punya nafsu makan.",
+                    "ES": "No tengo apetito en absoluto hoy.",
+                    "VI": "Hôm nay tôi hoàn toàn không có cảm giác thèm ăn.",
+                    "FR": "Je n'ai pas du tout d'appétit aujourd'hui.",
+                    "NE": "आज मलाई कुनै भोक छैन।",
+                    "BN": "আজ আমার কোন রুচি নেই।",
+                    "ZH": "今天完全没有胃口。",
+                    "KO": "오늘은 식욕이 전혀 없다.",
+                    "TL": "Wala akong ganang kumain ngayon.",
+                    "MY": "ယနေ့တိုက်စားချင်စိတ်မရှိဘူး။",
+                    "HI": "आज मेरी भूख बिल्कुल नहीं है।",
+                    "AR": "لا شهية لدي اليوم على الإطلاق.",
+                    "FA": "امروز هیچ اشتهایی ندارم."
+                }
+            },
+            {
+                "kanji": "美味しい料理を見て食欲がわく。",
+                "furigana": "美味（おい）しい料理（りょうり）を見（み）て食欲（しょくよく）がわく。",
+                "translations": {
+                    "EN": "Seeing delicious food makes me feel hungry.",
+                    "ID": "Melihat makanan lezat membuat saya merasa lapar.",
+                    "ES": "Ver comida deliciosa me da hambre.",
+                    "VI": "Nhìn thấy đồ ăn ngon khiến tôi cảm thấy đói.",
+                    "FR": "Voir des plats délicieux me donne faim.",
+                    "NE": "स्वादिलो खाना देखेर भोक लाग्छ।",
+                    "BN": "সুস্বাদু খাবার দেখে ক্ষুধা লাগে।",
+                    "ZH": "看到美味的菜让我感到饿。",
+                    "KO": "맛있는 음식을 보면 식욕이 솟는다.",
+                    "TL": "Pagkakita ng masarap na pagkain ay nagpapagutom sa akin.",
+                    "MY": "အရသာရှိတဲ့အစားအစာကိုမြင်ရင် ဘွတ်သိလို့အစာစားချင်စိတ်ဖြစ်စေတယ်။",
+                    "HI": "स्वादिष्ट भोजन देखकर भूख लग जाती है।",
+                    "AR": "رؤية الطعام اللذيذ تجعلني أشعر بالجوع.",
+                    "FA": "دیدن غذای خوشمزه باعث می‌شود احساس گرسنگی کنم."
+                }
+            },
+            {
+                "kanji": "懐石料理は食欲をそそられる。",
+                "furigana": "懐石料理(かいせきりょうり)は食欲(しょくよく)をそそられる。",
+                "translations": {
+                    "EN": "Kaiseki cuisine whets the appetite.",
+                    "ID": "Masakan Kaiseki membangkitkan selera makan.",
+                    "ES": "La cocina Kaiseki abre el apetito.",
+                    "VI": "Món ăn Kaiseki làm kích thích vị giác.",
+                    "FR": "La cuisine Kaiseki ouvre l'appétit.",
+                    "NE": "काईसेकी खाना भूख जगाउँछ।",
+                    "BN": "কাইসেকি রান্না ক্ষুধার উদ্রেক করে।",
+                    "ZH": "怀石料理让人食欲大增。",
+                    "KO": "가이세키 요리는 식욕을 돋운다.",
+                    "TL": "Nagugutom ang Kaiseki cuisine.",
+                    "MY": "ကာိုင်ဆက်ရိုးရာဟင်းလျာသည် အစားချိန်စားချင်စိတ်ကို ငြိမ်းချမ်းစေသည်။",
+                    "HI": "काइसकी व्यंजन भूख बढ़ाता है।",
+                    "AR": "مطبخ كايسيكي يثير الشهية.",
+                    "FA": "غذای کایسکی اشتها را تحریک می‌کند."
+                }
+            }
+        ],
+        "synonyms": [
+            "食欲旺盛 : しょくよくおうせい : voracious"
+        ],
+        "synonyms_explanation": "The most common synonym of the word shokuyoku is shokuyoku ousei. It implies having a high or vigorous appetite, often with a strong desire to eat.",
+        "antonyms": [
+            "無欲 : むよく : unselfish"
+        ],
+        "antonyms_explanation": "The most common antonym of the word shokuyoku is muyoku. It indicates a lack of desire or appetite, suggesting a state of having no interest in eating.",
+        "kanji_details": [
+            {
+                "kanji": "食",
+                "common_words": [
+                    "食事: meal",
+                    "食べる: to eat"
+                ]
+            },
+            {
+                "kanji": "欲",
+                "common_words": [
+                    "欲しい: wanting",
+                    "欲望: desire"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "食欲",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "食欲",
+                "reading": "しょくよく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "appetite"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "食",
+        "欲"
     ],
-    "kanjis": [
-        {
-            "kanji": "食",
+    "kanji_data": {
+        "食": {
             "meanings": [
                 "eat",
                 "food"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ショク",
                 "ジキ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "く.う",
                 "く.らう",
                 "た.べる",
                 "は.む"
             ],
-            "strokes": 9,
+            "stroke_count": 9,
             "jlpt": 5,
-            "frequency": 328,
+            "freq_mainichi_shinbun": 328,
             "unicode": "98DF",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "食事",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しょくじ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "meal"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "diet"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "食べる",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たべる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to eat"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to live on",
-                                "to live off",
-                                "to subsist on"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         },
-        {
-            "kanji": "欲",
+        "欲": {
             "meanings": [
                 "covetousness",
                 "craving",
@@ -132,276 +228,25 @@
                 "longing",
                 "passion"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ヨク"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ほ.しい",
                 "ほっ.する"
             ],
-            "strokes": 11,
+            "stroke_count": 11,
             "jlpt": 3,
-            "frequency": 902,
+            "freq_mainichi_shinbun": 902,
             "unicode": "6B32",
-            "grade": 6,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "欲しい",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ほしい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "wanting",
-                                "desiring",
-                                "wishing for"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "I want to"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi), Auxiliary adjective",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "欲望",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "よくぼう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "desire",
-                                "appetite",
-                                "lust"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 6
         }
-    ],
-    "kanji_explanation": "The first kanji means to eat or meal. It shows up in words like しょくじ which means a meal and emphasizes the idea of eating together, and in たべる which means to eat and marks the action itself. The second kanji means desire or want. You see it in ほしい which means to want something and in よくぼう which expresses a stronger craving or desire.",
-    "explanations": {
-        "explanation": "The word shokuyoku means the desire or appetite to eat. It can also refer to how much someone wants to eat at any given time and can be influenced by various factors like mood and health.",
-        "youtube_description": "Learn how to use the Japanese word 食欲 (しょくよく) in everyday conversations! \nIn this video, we'll explore its meanings, situations for use, and common expressions to help you understand and articulate this essential vocabulary. \nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is しょくよく which you will often hear in discussions about food, health, and daily routines.",
-        "collocations": [
-            "しょくよくがある",
-            "しょくよくがない",
-            "しょくよくがまったくない",
-            "しょくよくがわく",
-            "しょくよくをそそられる"
-        ],
-        "synonyms": [
-            "食欲旺盛"
-        ],
-        "synonyms_explanation": "The most common synonym of the word shokuyoku is shokuyoku ousei. It implies having a high or vigorous appetite, often with a strong desire to eat.",
-        "antonyms": [
-            "無欲"
-        ],
-        "antonyms_explanation": "The most common antonym of the word shokuyoku is muyoku. It indicates a lack of desire or appetite, suggesting a state of having no interest in eating."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "食欲があります。",
-            "furigana": "食(しょく)欲(よく)があ(あります)ります。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "食欲があります。",
-                "English": "I have an appetite.",
-                "Persian": "من اشتها دارم.",
-                "Nepali": "मलाई भोक लागेको छ।",
-                "Indonesian": "Saya punya nafsu makan.",
-                "Filipino": "May gana akong kumain.",
-                "Vietnamese": "Tôi có cảm giác thèm ăn.",
-                "Burmese": "ငါဗိုက်ဆာတယ်။",
-                "Korean": "식욕이 있습니다.",
-                "Hindi": "मुझे भूख लगी है।",
-                "Arabic": "لدي شهية.",
-                "French": "J'ai de l'appétit.",
-                "Spanish": "Tengo apetito.",
-                "Chinese": "我有食欲。",
-                "Bengali": "আমার ক্ষুধা আছে।"
-            }
-        },
-        {
-            "kanji": "今日は食欲がない。",
-            "furigana": "今日(きょう)は食欲(しょくよく)がない。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "今日は食欲がない。",
-                "English": "I have no appetite today.",
-                "Persian": "امروز اشتها ندارم.",
-                "Nepali": "आज मलाई भोक छैन।",
-                "Indonesian": "Hari ini saya tidak nafsu makan.",
-                "Filipino": "Wala akong gana kumain ngayon.",
-                "Vietnamese": "Hôm nay tôi không có cảm giác thèm ăn.",
-                "Burmese": "ဒီနေ့ ပိသ်ချင်စရာအကြောင်းမရှိပါဘူး။",
-                "Korean": "오늘은 식욕이 없다.",
-                "Hindi": "आज मुझे भूख नहीं है।",
-                "Arabic": "ليس لدي شهية اليوم.",
-                "French": "Je n'ai pas d'appétit aujourd'hui.",
-                "Spanish": "No tengo apetito hoy.",
-                "Chinese": "今天没有胃口。",
-                "Bengali": "আজ আমার খিদে নেই।"
-            }
-        },
-        {
-            "kanji": "今日は食欲がまったくない。",
-            "furigana": "今日は食欲(しょくよく)がまったくない。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "今日は食欲がまったくない。",
-                "English": "I have no appetite at all today.",
-                "Persian": "امروز هیچ اشتهایی ندارم.",
-                "Nepali": "आज मलाई कुनै भोक छैन।",
-                "Indonesian": "Hari ini saya benar-benar tidak punya nafsu makan.",
-                "Filipino": "Wala akong ganang kumain ngayon.",
-                "Vietnamese": "Hôm nay tôi hoàn toàn không có cảm giác thèm ăn.",
-                "Burmese": "ယနေ့တိုက်စားချင်စိတ်မရှိဘူး။",
-                "Korean": "오늘은 식욕이 전혀 없다.",
-                "Hindi": "आज मेरी भूख बिल्कुल नहीं है।",
-                "Arabic": "لا شهية لدي اليوم على الإطلاق.",
-                "French": "Je n'ai pas du tout d'appétit aujourd'hui.",
-                "Spanish": "No tengo apetito en absoluto hoy.",
-                "Chinese": "今天完全没有胃口。",
-                "Bengali": "আজ আমার কোন রুচি নেই।"
-            }
-        },
-        {
-            "kanji": "美味しい料理を見て食欲がわく。",
-            "furigana": "美味（おい）しい料理（りょうり）を見（み）て食欲（しょくよく）がわく。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "美味しい料理を見て食欲がわく。",
-                "English": "Seeing delicious food makes me feel hungry.",
-                "Persian": "دیدن غذای خوشمزه باعث می‌شود احساس گرسنگی کنم.",
-                "Nepali": "स्वादिलो खाना देखेर भोक लाग्छ।",
-                "Indonesian": "Melihat makanan lezat membuat saya merasa lapar.",
-                "Filipino": "Pagkakita ng masarap na pagkain ay nagpapagutom sa akin.",
-                "Vietnamese": "Nhìn thấy đồ ăn ngon khiến tôi cảm thấy đói.",
-                "Burmese": "အရသာရှိတဲ့အစားအစာကိုမြင်ရင် ဘွတ်သိလို့အစာစားချင်စိတ်ဖြစ်စေတယ်။",
-                "Korean": "맛있는 음식을 보면 식욕이 솟는다.",
-                "Hindi": "स्वादिष्ट भोजन देखकर भूख लग जाती है।",
-                "Arabic": "رؤية الطعام اللذيذ تجعلني أشعر بالجوع.",
-                "French": "Voir des plats délicieux me donne faim.",
-                "Spanish": "Ver comida deliciosa me da hambre.",
-                "Chinese": "看到美味的菜让我感到饿。",
-                "Bengali": "সুস্বাদু খাবার দেখে ক্ষুধা লাগে।"
-            }
-        },
-        {
-            "kanji": "懐石料理は食欲をそそられる。",
-            "furigana": "懐石料理(かいせきりょうり)は食欲(しょくよく)をそそられる。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "懐石料理は食欲をそそられる。",
-                "English": "Kaiseki cuisine whets the appetite.",
-                "Persian": "غذای کایسکی اشتها را تحریک می‌کند.",
-                "Nepali": "काईसेकी खाना भूख जगाउँछ।",
-                "Indonesian": "Masakan Kaiseki membangkitkan selera makan.",
-                "Filipino": "Nagugutom ang Kaiseki cuisine.",
-                "Vietnamese": "Món ăn Kaiseki làm kích thích vị giác.",
-                "Burmese": "ကာိုင်ဆက်ရိုးရာဟင်းလျာသည် အစားချိန်စားချင်စိတ်ကို ငြိမ်းချမ်းစေသည်။",
-                "Korean": "가이세키 요리는 식욕을 돋운다.",
-                "Hindi": "काइसकी व्यंजन भूख बढ़ाता है।",
-                "Arabic": "مطبخ كايسيكي يثير الشهية.",
-                "French": "La cuisine Kaiseki ouvre l'appétit.",
-                "Spanish": "La cocina Kaiseki abre el apetito.",
-                "Chinese": "怀石料理让人食欲大增。",
-                "Bengali": "কাইসেকি রান্না ক্ষুধার উদ্রেক করে।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "食欲旺盛",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しょくよくおうせい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "voracious",
-                        "having a hearty appetite"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "無欲",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "むよく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "unselfish",
-                        "disinterested",
-                        "unavaricious",
-                        "free of avarice"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "しょくよくがある",
+        "しょくよくがない",
+        "しょくよくがまったくない",
+        "しょくよくがわく",
+        "しょくよくをそそられる"
     ]
 }

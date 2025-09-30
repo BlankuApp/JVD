@@ -1,470 +1,272 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "一瞬",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/cnDZiBPvHJE",
     "in_db": true,
-    "reading": "いっしゅん",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "一瞬",
+        "reading": "いっしゅん",
+        "introduction_japanese": "",
+        "introduction_english": "Let's delve into the term \"いっしゅん,\" a word you'll frequently encounter when someone describes short-lived events, sudden realizations, or even the fleeting beauty of a moment.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"いっしゅん\" means \"a moment,\" \"an instant,\" or \"a blink of an eye.\" It refers to a very brief amount of time, practically a fleeting moment. You might use this when you want to express how quickly something happened or how shortly something lasted. So, when you hear \"いっしゅん,\" think of something happening in a flash, almost like you blinked and it was over.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "instant",
                 "moment",
                 "for an instant"
-            ],
-            "part_of_speech": "Noun, Adverb (fukushi)",
-            "translation": {
-                "Japanese": "一瞬",
-                "English": "instant",
-                "Persian": "لحظه",
-                "Nepali": "क्षण",
-                "Indonesian": "sekejap",
-                "Filipino": "saglit",
-                "Vietnamese": "khoảnh khắc",
-                "Burmese": "တစ်ချိန်လေး",
-                "Korean": "순간",
-                "Hindi": "क्षण",
-                "Arabic": "لحظة",
-                "French": "instant",
-                "Spanish": "instante",
-                "Chinese": "瞬间",
-                "Bengali": "এক মুহূর্ত"
+            ]
+        ],
+        "meaning_translations": {
+            "instant": {
+                "EN": "instant",
+                "ID": "sekejap",
+                "ES": "instante",
+                "VI": "khoảnh khắc",
+                "FR": "instant",
+                "NE": "क्षण",
+                "BN": "এক মুহূর্ত",
+                "ZH": "瞬间",
+                "KO": "순간",
+                "TL": "saglit",
+                "MY": "တစ်ချိန်လေး",
+                "HI": "क्षण",
+                "AR": "لحظة",
+                "FA": "لحظه"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "空(そら)が一瞬(いっしゅん)止(と)まった。",
+                "furigana": "空(そら)が一瞬(いっしゅん)止(と)まった。",
+                "translations": {
+                    "EN": "The sky stopped for a moment.",
+                    "ID": "Langit berhenti sejenak.",
+                    "ES": "El cielo se detuvo por un momento.",
+                    "VI": "Bầu trời ngừng lại trong chốc lát.",
+                    "FR": "Le ciel s'est arrêté un instant.",
+                    "NE": "आकाश एक क्षणका लागि रोकियो।",
+                    "BN": "আকাশ এক মুহূর্তের জন্য থেমে গেল।",
+                    "ZH": "天空暂停了一瞬间。",
+                    "KO": "하늘이 잠시 멈췄다.",
+                    "TL": "Ang langit ay huminto ng isang sandali.",
+                    "MY": "ကောင်းကင်သည် ခဏတာ နားခဲ့သည်။",
+                    "HI": "आसमान एक पल के लिए रुक गया।",
+                    "AR": "توقفت السماء للحظة.",
+                    "FA": "آسمان برای یک لحظه ایستاد."
+                }
+            },
+            {
+                "kanji": "それは一瞬のできごとだった。",
+                "furigana": "それは一瞬(いっしゅん)のできごとだった。",
+                "translations": {
+                    "EN": "It was a momentary event.",
+                    "ID": "Itu adalah peristiwa sesaat.",
+                    "ES": "Fue un acontecimiento momentáneo.",
+                    "VI": "Đó là một việc xảy ra trong chốc lát.",
+                    "FR": "C'était un événement momentané.",
+                    "NE": "त्यो एक क्षणिक घटना थियो।",
+                    "BN": "এটি একটি মুহূর্তের ঘটনা ছিল।",
+                    "ZH": "那是一个瞬间的事件。",
+                    "KO": "그것은 순간적인 사건이었다.",
+                    "TL": "Iyon ay isang pangyayari na pang-isang saglit lamang.",
+                    "MY": "ဒါဟာ အရမ်တိုတို အဖြစ်အပျက် တစ်ခုဖြစ်ပွားခဲ့တာပါ။",
+                    "HI": "यह एक क्षणिक घटना थी।",
+                    "AR": "كان ذلك حدثًا آنيًا.",
+                    "FA": "این یک اتفاق لحظه‌ای بود."
+                }
+            },
+            {
+                "kanji": "電気が一瞬消える。",
+                "furigana": "電気(でんき)が一瞬(いっしゅん)消(き)える。",
+                "translations": {
+                    "EN": "The lights go out for a moment.",
+                    "ID": "Lampu padam sejenak.",
+                    "ES": "Las luces se apagan por un momento.",
+                    "VI": "Đèn vụt tắt một lúc.",
+                    "FR": "Les lumières s'éteignent un instant.",
+                    "NE": "बत्ती एक क्षणको लागि बन्द हुन्छ।",
+                    "BN": "লাইটগুলো এক মুহূর্তের জন্য নিভে যায়।",
+                    "ZH": "灯光瞬间熄灭。",
+                    "KO": "불이 잠시 꺼진다.",
+                    "TL": "Ang ilaw ay nawawala ng sandali.",
+                    "MY": "မီးပျက်သွားသည်။",
+                    "HI": "लाइट्स एक पल के लिए बंद हो जाती हैं।",
+                    "AR": "تنطفئ الأضواء للحظة.",
+                    "FA": "چراغ‌ها برای لحظه‌ای خاموش می‌شوند."
+                }
+            },
+            {
+                "kanji": "彼は一瞬ためらった。",
+                "furigana": "彼(かれ)は一瞬(いっしゅん)ためらった。",
+                "translations": {
+                    "EN": "He hesitated for a moment.",
+                    "ID": "Dia ragu sejenak.",
+                    "ES": "Él dudó por un momento.",
+                    "VI": "Anh ấy do dự trong giây lát.",
+                    "FR": "Il a hésité un instant.",
+                    "NE": "उ ले एक क्षणको लागि हिच्किचायो।",
+                    "BN": "সে এক মুহূর্তের জন্য দ্বিধা করেছিল।",
+                    "ZH": "他犹豫了一瞬间。",
+                    "KO": "그는 잠시 망설였습니다.",
+                    "TL": "Sandali siyang nag-alinlangan.",
+                    "MY": "သူတစ်စုံအတောအတွင်းအနည်းငယ်ရှုပ်ထွေးနေသည်။",
+                    "HI": "वह एक पल के लिए हिचकिचाया।",
+                    "AR": "تردد للحظة.",
+                    "FA": "او برای یک لحظه تردید کرد."
+                }
+            },
+            {
+                "kanji": "猫が一瞬見えた。",
+                "furigana": "猫(ねこ)が一瞬(いっしゅん)見(み)えた。",
+                "translations": {
+                    "EN": "I saw the cat for a moment.",
+                    "ID": "Saya melihat kucing sesaat.",
+                    "ES": "Vi al gato por un momento.",
+                    "VI": "Tôi đã thấy con mèo một chút.",
+                    "FR": "J'ai vu le chat un instant.",
+                    "NE": "मैले बिरालोलाई एकछिन देखेँ।",
+                    "BN": "আমি এক মুহূর্তের জন্য বিড়ালকে দেখেছিলাম।",
+                    "ZH": "我看到猫了一瞬间。",
+                    "KO": "고양이가 잠깐 보였다.",
+                    "TL": "Nakita ko ang pusa ng sandali.",
+                    "MY": "ကြောင်ကိုခဏမြင်ခဲ့ပါတယ်။",
+                    "HI": "मुझे बिल्ली एक पल के लिए दिखी।",
+                    "AR": "رأيت القطة لبرهة.",
+                    "FA": "گربه را برای لحظه‌ای دیدم."
+                }
+            },
+            {
+                "kanji": "星が一瞬の光を放った。",
+                "furigana": "星(ほし)が一瞬(いっしゅん)の光(ひかり)を放(はな)った。",
+                "translations": {
+                    "EN": "The star emitted a flash of light.",
+                    "ID": "Bintang mengeluarkan cahaya sekejap.",
+                    "ES": "La estrella emitió un destello de luz.",
+                    "VI": "Ngôi sao lóe lên một tia sáng.",
+                    "FR": "L'étoile a émis un éclair de lumière.",
+                    "NE": "ताराले एकै क्षणमा प्रकाश फ्याँक्यो।",
+                    "BN": "তারাটি এক মুহূর্ত সূক্ষ্ম আলো বিকিরণ করল।",
+                    "ZH": "星星发出了一瞬间的光芒。",
+                    "KO": "별이 순간의 빛을 발하였다.",
+                    "TL": "Nagbuga ng liwanag ang bituin sa isang iglap.",
+                    "MY": "ကြယ်က တထပ်ထိုး အလင်းပြန်ဖြာလာခဲ့သည်။",
+                    "HI": "तारों ने एक पल के लिए प्रकाश बिखेरा।",
+                    "AR": "أصدر النجم وميضًا من الضوء.",
+                    "FA": "ستاره به یک باره نور درخشانی پخش کرد."
+                }
+            }
+        ],
+        "synonyms": [
+            "瞬間 : しゅんかん : moment"
+        ],
+        "synonyms_explanation": "The most common synonym of the word \"いっしゅん\" is \"しゅんかん.\" Both words suggest a brief moment or an instant, but \"しゅんかん\" might be used more formally or technically, such as in scientific contexts.",
+        "antonyms": [
+            "永遠 : えいえん : eternity"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"いっしゅん\" is \"えいえん.\" Unlike \"いっしゅん,\" which implies brevity, \"えいえん\" refers to something eternal or lasting forever. It expresses the idea of permanence and the absence of time limits.",
+        "kanji_details": [
+            {
+                "kanji": "一",
+                "common_words": [
+                    "一つ: one",
+                    "一日: one day"
+                ]
+            },
+            {
+                "kanji": "瞬",
+                "common_words": [
+                    "瞬間: moment",
+                    "瞬き: blink"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "一瞬",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "一瞬",
+                "reading": "いっしゅん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "instant",
+                    "moment",
+                    "for an instant"
+                ],
+                "parts_of_speech": [
+                    "Noun, Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "一",
+        "瞬"
     ],
-    "kanjis": [
-        {
-            "kanji": "一",
+    "kanji_data": {
+        "一": {
             "meanings": [
                 "one",
                 "one radical (no.1)"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イチ",
                 "イツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ひと-",
                 "ひと.つ"
             ],
-            "strokes": 1,
+            "stroke_count": 1,
             "jlpt": 5,
-            "frequency": 2,
+            "freq_mainichi_shinbun": 2,
             "unicode": "4E00",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "一つ",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひとつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "one"
-                            ],
-                            "part_of_speech": "Numeric",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "for one thing"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "only"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                " even"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "just"
-                            ],
-                            "part_of_speech": "Noun, Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "some kind of",
-                                "one type of"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "一日",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "いちにち",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "one day"
-                            ],
-                            "part_of_speech": "Noun, Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "all day",
-                                "the whole day",
-                                "from morning till night"
-                            ],
-                            "part_of_speech": "Adverb (fukushi), Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "first day of the month"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "瞬",
+        "瞬": {
             "meanings": [
                 "blink",
                 "twinkle",
                 "wink"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シュン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "まじろ.ぐ",
                 "またた.く"
             ],
-            "strokes": 18,
+            "stroke_count": 18,
             "jlpt": 1,
-            "frequency": 1265,
+            "freq_mainichi_shinbun": 1265,
             "unicode": "77AC",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "瞬間",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅんかん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "moment",
-                                "instant",
-                                "second"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "瞬き",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "まばたき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "blink",
-                                "wink"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "twinkling",
-                                "flicker",
-                                "blink"
-                            ],
-                            "part_of_speech": "Noun, Suru verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means one or single, and it often shows the idea of 'one whole unit' in words. For example, ひとつ uses this kanji to mean one single item, and いちにち uses it to mean one whole day. The second kanji means a very brief instant, like a blink or twinkle, and it gives a sense of immediacy in words. For example, しゅんかん uses this kanji to mean a split second, and まばたき uses it to emphasize the blink-like quickness.",
-    "explanations": {
-        "explanation": "The word \"いっしゅん\" means \"a moment,\" \"an instant,\" or \"a blink of an eye.\" It refers to a very brief amount of time, practically a fleeting moment. You might use this when you want to express how quickly something happened or how shortly something lasted. So, when you hear \"いっしゅん,\" think of something happening in a flash, almost like you blinked and it was over.",
-        "youtube_description": "Discover the diverse contexts in which the Japanese word \"一瞬\" (いっしゅん) can be used. In this video, we'll dive into its meanings, explore its kanji, and see how it adds flavor to everyday Japanese conversations. Perfect for those eager to pick up essential vocabulary while enriching their language repertoire! Hit like, comment your thoughts, and subscribe for more linguistic insights!",
-        "motivation": "Let's delve into the term \"いっしゅん,\" a word you'll frequently encounter when someone describes short-lived events, sudden realizations, or even the fleeting beauty of a moment.",
-        "collocations": [
-            "いっしゅんのはなし",
-            "いっしゅんのできごと",
-            "いっしゅんきえる",
-            "いっしゅんためらう",
-            "いっしゅんみえた",
-            "いっしゅんのひかり"
-        ],
-        "synonyms": [
-            "瞬間"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"いっしゅん\" is \"しゅんかん.\" Both words suggest a brief moment or an instant, but \"しゅんかん\" might be used more formally or technically, such as in scientific contexts.",
-        "antonyms": [
-            "永遠"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"いっしゅん\" is \"えいえん.\" Unlike \"いっしゅん,\" which implies brevity, \"えいえん\" refers to something eternal or lasting forever. It expresses the idea of permanence and the absence of time limits."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "空(そら)が一瞬(いっしゅん)止(と)まった。",
-            "furigana": "空(そら)が一瞬(いっしゅん)止(と)まった。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "空が一瞬止まった。",
-                "English": "The sky stopped for a moment.",
-                "Persian": "آسمان برای یک لحظه ایستاد.",
-                "Nepali": "आकाश एक क्षणका लागि रोकियो।",
-                "Indonesian": "Langit berhenti sejenak.",
-                "Filipino": "Ang langit ay huminto ng isang sandali.",
-                "Vietnamese": "Bầu trời ngừng lại trong chốc lát.",
-                "Burmese": "ကောင်းကင်သည် ခဏတာ နားခဲ့သည်။",
-                "Korean": "하늘이 잠시 멈췄다.",
-                "Hindi": "आसमान एक पल के लिए रुक गया।",
-                "Arabic": "توقفت السماء للحظة.",
-                "French": "Le ciel s'est arrêté un instant.",
-                "Spanish": "El cielo se detuvo por un momento.",
-                "Chinese": "天空暂停了一瞬间。",
-                "Bengali": "আকাশ এক মুহূর্তের জন্য থেমে গেল।"
-            }
-        },
-        {
-            "kanji": "それは一瞬のできごとだった。",
-            "furigana": "それは一瞬(いっしゅん)のできごとだった。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "それは一瞬のできごとだった。",
-                "English": "It was a momentary event.",
-                "Persian": "این یک اتفاق لحظه‌ای بود.",
-                "Nepali": "त्यो एक क्षणिक घटना थियो।",
-                "Indonesian": "Itu adalah peristiwa sesaat.",
-                "Filipino": "Iyon ay isang pangyayari na pang-isang saglit lamang.",
-                "Vietnamese": "Đó là một việc xảy ra trong chốc lát.",
-                "Burmese": "ဒါဟာ အရမ်တိုတို အဖြစ်အပျက် တစ်ခုဖြစ်ပွားခဲ့တာပါ။",
-                "Korean": "그것은 순간적인 사건이었다.",
-                "Hindi": "यह एक क्षणिक घटना थी।",
-                "Arabic": "كان ذلك حدثًا آنيًا.",
-                "French": "C'était un événement momentané.",
-                "Spanish": "Fue un acontecimiento momentáneo.",
-                "Chinese": "那是一个瞬间的事件。",
-                "Bengali": "এটি একটি মুহূর্তের ঘটনা ছিল।"
-            }
-        },
-        {
-            "kanji": "電気が一瞬消える。",
-            "furigana": "電気(でんき)が一瞬(いっしゅん)消(き)える。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "電気が一瞬消える。",
-                "English": "The lights go out for a moment.",
-                "Persian": "چراغ‌ها برای لحظه‌ای خاموش می‌شوند.",
-                "Nepali": "बत्ती एक क्षणको लागि बन्द हुन्छ।",
-                "Indonesian": "Lampu padam sejenak.",
-                "Filipino": "Ang ilaw ay nawawala ng sandali.",
-                "Vietnamese": "Đèn vụt tắt một lúc.",
-                "Burmese": "မီးပျက်သွားသည်။",
-                "Korean": "불이 잠시 꺼진다.",
-                "Hindi": "लाइट्स एक पल के लिए बंद हो जाती हैं।",
-                "Arabic": "تنطفئ الأضواء للحظة.",
-                "French": "Les lumières s'éteignent un instant.",
-                "Spanish": "Las luces se apagan por un momento.",
-                "Chinese": "灯光瞬间熄灭。",
-                "Bengali": "লাইটগুলো এক মুহূর্তের জন্য নিভে যায়।"
-            }
-        },
-        {
-            "kanji": "彼は一瞬ためらった。",
-            "furigana": "彼(かれ)は一瞬(いっしゅん)ためらった。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼は一瞬ためらった。",
-                "English": "He hesitated for a moment.",
-                "Persian": "او برای یک لحظه تردید کرد.",
-                "Nepali": "उ ले एक क्षणको लागि हिच्किचायो।",
-                "Indonesian": "Dia ragu sejenak.",
-                "Filipino": "Sandali siyang nag-alinlangan.",
-                "Vietnamese": "Anh ấy do dự trong giây lát.",
-                "Burmese": "သူတစ်စုံအတောအတွင်းအနည်းငယ်ရှုပ်ထွေးနေသည်။",
-                "Korean": "그는 잠시 망설였습니다.",
-                "Hindi": "वह एक पल के लिए हिचकिचाया।",
-                "Arabic": "تردد للحظة.",
-                "French": "Il a hésité un instant.",
-                "Spanish": "Él dudó por un momento.",
-                "Chinese": "他犹豫了一瞬间。",
-                "Bengali": "সে এক মুহূর্তের জন্য দ্বিধা করেছিল।"
-            }
-        },
-        {
-            "kanji": "猫が一瞬見えた。",
-            "furigana": "猫(ねこ)が一瞬(いっしゅん)見(み)えた。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "猫が一瞬見えた。",
-                "English": "I saw the cat for a moment.",
-                "Persian": "گربه را برای لحظه‌ای دیدم.",
-                "Nepali": "मैले बिरालोलाई एकछिन देखेँ।",
-                "Indonesian": "Saya melihat kucing sesaat.",
-                "Filipino": "Nakita ko ang pusa ng sandali.",
-                "Vietnamese": "Tôi đã thấy con mèo một chút.",
-                "Burmese": "ကြောင်ကိုခဏမြင်ခဲ့ပါတယ်။",
-                "Korean": "고양이가 잠깐 보였다.",
-                "Hindi": "मुझे बिल्ली एक पल के लिए दिखी।",
-                "Arabic": "رأيت القطة لبرهة.",
-                "French": "J'ai vu le chat un instant.",
-                "Spanish": "Vi al gato por un momento.",
-                "Chinese": "我看到猫了一瞬间。",
-                "Bengali": "আমি এক মুহূর্তের জন্য বিড়ালকে দেখেছিলাম।"
-            }
-        },
-        {
-            "kanji": "星が一瞬の光を放った。",
-            "furigana": "星(ほし)が一瞬(いっしゅん)の光(ひかり)を放(はな)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "星が一瞬の光を放った。",
-                "English": "The star emitted a flash of light.",
-                "Persian": "ستاره به یک باره نور درخشانی پخش کرد.",
-                "Nepali": "ताराले एकै क्षणमा प्रकाश फ्याँक्यो।",
-                "Indonesian": "Bintang mengeluarkan cahaya sekejap.",
-                "Filipino": "Nagbuga ng liwanag ang bituin sa isang iglap.",
-                "Vietnamese": "Ngôi sao lóe lên một tia sáng.",
-                "Burmese": "ကြယ်က တထပ်ထိုး အလင်းပြန်ဖြာလာခဲ့သည်။",
-                "Korean": "별이 순간의 빛을 발하였다.",
-                "Hindi": "तारों ने एक पल के लिए प्रकाश बिखेरा।",
-                "Arabic": "أصدر النجم وميضًا من الضوء.",
-                "French": "L'étoile a émis un éclair de lumière.",
-                "Spanish": "La estrella emitió un destello de luz.",
-                "Chinese": "星星发出了一瞬间的光芒。",
-                "Bengali": "তারাটি এক মুহূর্ত সূক্ষ্ম আলো বিকিরণ করল।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "瞬間",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しゅんかん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "moment",
-                        "instant",
-                        "second"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "永遠",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "えいえん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "eternity",
-                        "perpetuity",
-                        "permanence",
-                        "immortality"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "いっしゅんのはなし",
+        "いっしゅんのできごと",
+        "いっしゅんきえる",
+        "いっしゅんためらう",
+        "いっしゅんみえた",
+        "いっしゅんのひかり"
     ]
 }

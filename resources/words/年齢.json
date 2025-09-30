@@ -1,441 +1,226 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "年齢",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/3oo3MaGZVzI",
     "in_db": true,
-    "reading": "ねんれい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "年齢",
+        "reading": "ねんれい",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is ねんれい, which you will often hear in casual and formal settings when asking or discussing a person's age, for example: ねんれいをきかないでください. This means \"Please don't ask my age.\"",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word ***ねんれい*** means the age of a person or thing, referring to the number of years it has existed. In everyday conversation, you might say ねんれい to find out or talk about someone's age.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "age",
                 "years"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "年齢",
-                "English": "age",
-                "Persian": "سن",
-                "Nepali": "उमेर",
-                "Indonesian": "usia",
-                "Filipino": "edad",
-                "Vietnamese": "tuổi",
-                "Burmese": "အရွယ်",
-                "Korean": "나이",
-                "Hindi": "आयु",
-                "Arabic": "العمر",
-                "French": "âge",
-                "Spanish": "edad",
-                "Chinese": "年龄",
-                "Bengali": "বয়স"
+            ]
+        ],
+        "meaning_translations": {
+            "age": {
+                "EN": "age",
+                "ID": "usia",
+                "ES": "edad",
+                "VI": "tuổi",
+                "FR": "âge",
+                "NE": "उमेर",
+                "BN": "বয়স",
+                "ZH": "年龄",
+                "KO": "나이",
+                "TL": "edad",
+                "MY": "အရွယ်",
+                "HI": "आयु",
+                "AR": "العمر",
+                "FA": "سن"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "年齢を聞かないでください。",
+                "furigana": "年齢(ねんれい)を聞(き)かないでください。",
+                "translations": {
+                    "EN": "Please don't ask my age.",
+                    "ID": "Tolong jangan tanya usia saya.",
+                    "ES": "Por favor, no me preguntes mi edad.",
+                    "VI": "Xin đừng hỏi tuổi tôi.",
+                    "FR": "S'il vous plaît, ne me demandez pas mon âge.",
+                    "NE": "कृपया मेरो उमेर नसोध्नुहोस्।",
+                    "BN": "অনুগ্রহ করে আমার বয়স জিজ্ঞাসা করবেন না।",
+                    "ZH": "请不要问我的年龄。",
+                    "KO": "나이를 묻지 말아주세요.",
+                    "TL": "Huwag mo sanang tanungin ang edad ko.",
+                    "MY": "ကျွန်ုပ်၏ အသက်မမေးပါနှင့်။",
+                    "HI": "कृपया मेरी उम्र मत पूछिए।",
+                    "AR": "من فضلك لا تسأل عن عمري.",
+                    "FA": "لطفا سن من را نپرسید."
+                }
+            },
+            {
+                "kanji": "年齢の話は苦手です。",
+                "furigana": "年齢(ねんれい)の話(はなし)は苦手(にがて)です。",
+                "translations": {
+                    "EN": "I am not good at talking about age.",
+                    "ID": "Saya tidak pandai membicarakan usia.",
+                    "ES": "No soy bueno hablando de la edad.",
+                    "VI": "Tôi không giỏi nói về tuổi tác.",
+                    "FR": "Je ne suis pas doué pour parler d'âge.",
+                    "NE": "म उमेरको कुरा गर्न राम्रो छैन।",
+                    "BN": "আমি বয়সের কথা বলতে পারদর্শী নই।",
+                    "ZH": "我不擅长谈论年龄。",
+                    "KO": "나이는 잘 얘기하지 못합니다.",
+                    "TL": "Hindi ako mahusay sa pakikipag-usap tungkol sa edad.",
+                    "MY": "အသက်အကြောင်းပြောရတာကျွန်တော်အဆင်မပြေတာပါ။",
+                    "HI": "मैं उम्र के बारे में बात करने में अच्छा नहीं हूँ।",
+                    "AR": "أنا لست جيدًا في الحديث عن العمر.",
+                    "FA": "من در صحبت کردن درباره سن خوب نیستم."
+                }
+            },
+            {
+                "kanji": "彼は私と同じ年齢層です。",
+                "furigana": "彼(かれ)は私(わたし)と同(おな)じ年齢層(ねんれいそう)です。",
+                "translations": {
+                    "EN": "He is in the same age group as me.",
+                    "ID": "Dia dalam kelompok usia yang sama denganku.",
+                    "ES": "Él está en el mismo grupo de edad que yo.",
+                    "VI": "Anh ấy cùng độ tuổi với tôi.",
+                    "FR": "Il est dans la même tranche d'âge que moi.",
+                    "NE": "उ उनी मसँग एउटै उमेर समूहमा छन्।",
+                    "BN": "তিনি আমার সাথে একই বয়সের গোষ্ঠীতে আছেন।",
+                    "ZH": "他和我在同一个年龄层。",
+                    "KO": "그는 나와 같은 연령대입니다.",
+                    "TL": "Nasa parehong pangkat ng edad kami.",
+                    "MY": "သူဟာ ကျွန်တော့်ရဲ့ အရွယ်အစား အပြိုက်တော်ရှိတယ်။",
+                    "HI": "वह मेरे साथ ही उम्र वर्ग में है।",
+                    "AR": "هو في نفس الفئة العمرية مثلي.",
+                    "FA": "او در همان گروه سنی من قرار دارد."
+                }
+            },
+            {
+                "kanji": "年齢の違いがあります。",
+                "furigana": "年齢(ねんれい)の違(ちが)いがあります。",
+                "translations": {
+                    "EN": "There is a difference in age.",
+                    "ID": "Ada perbedaan usia.",
+                    "ES": "Hay una diferencia de edad.",
+                    "VI": "Có sự khác biệt về tuổi.",
+                    "FR": "Il y a une différence d'âge.",
+                    "NE": "उमेरमा फरक छ।",
+                    "BN": "বয়সের পার্থক্য আছে।",
+                    "ZH": "有年龄差异。",
+                    "KO": "나이 차이가 있습니다.",
+                    "TL": "May pagkakaiba sa edad.",
+                    "MY": "အသက်ကွာဟမှုရှိပါတယ်။",
+                    "HI": "उम्र का अंतर है।",
+                    "AR": "هناك فرق في العمر.",
+                    "FA": "تفاوت سنی وجود دارد."
+                }
+            }
+        ],
+        "synonyms": [
+            "年次 : ねんじ : annual",
+            "年 : とし : year"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word ***ねんれい*** are ***ねんじ*** and ***とし***. While ねんじ can refer to age in terms of years in a systematic plan like school years, とし is more general, often used as a casual term for age.",
+        "antonyms": [
+            "若さ : わかさ : youth",
+            "未成年 : みせいねん : minority"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word ***ねんれい*** are ***わかさ*** and ***みせいねん***. わかさ means youth or young age, highlighting a state of being young. みせいねん refers to being underage or not yet an adult, often used in legal contexts.",
+        "kanji_details": [
+            {
+                "kanji": "年",
+                "common_words": [
+                    "年末: end-of-year",
+                    "年中: whole year"
+                ]
+            },
+            {
+                "kanji": "齢",
+                "common_words": [
+                    "高齢: advanced age",
+                    "老齢: old age"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "年齢",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "年齢",
+                "reading": "ねんれい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "age",
+                    "years"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "年",
+        "齢"
     ],
-    "kanjis": [
-        {
-            "kanji": "年",
+    "kanji_data": {
+        "年": {
             "meanings": [
                 "counter for years",
                 "year"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ネン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "とし"
             ],
-            "strokes": 6,
+            "stroke_count": 6,
             "jlpt": 5,
-            "frequency": 6,
+            "freq_mainichi_shinbun": 6,
             "unicode": "5E74",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "年末",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ねんまつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "end-of-year",
-                                "year-end"
-                            ],
-                            "part_of_speech": "Noun, Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "年中",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ねんじゅう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "whole year",
-                                "all year round",
-                                "throughout the year"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "always",
-                                "all the time",
-                                "perpetually"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "during an era"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "齢",
+        "齢": {
             "meanings": [
                 "age"
             ],
-            "onyomi": [
+            "on_readings": [
                 "レイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "とし",
                 "よわい"
             ],
-            "strokes": 17,
+            "stroke_count": 17,
             "jlpt": 2,
-            "frequency": 770,
+            "freq_mainichi_shinbun": 770,
             "unicode": "9F62",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "高齢",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "こうれい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "advanced age",
-                                "old age"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "老齢",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ろうれい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "old age",
-                                "advanced age"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means year, age, or a unit of years and is used whenever we talk about time measured in years. It appears in words like ねんまつ which means the end of the year, where this kanji marks the yearly boundary. It also appears in ねんじゅう meaning all year round, where it shows the span of the year. The second kanji means age or the years of a person and often carries the nuance of getting older or life stage. It appears in こうれい meaning advanced age, where the kanji gives the idea of many years lived. It also appears in ろうれい meaning old age, emphasizing the state of being aged.",
-    "explanations": {
-        "explanation": "The word ***ねんれい*** means the age of a person or thing, referring to the number of years it has existed. In everyday conversation, you might say ねんれい to find out or talk about someone's age.",
-        "youtube_description": "Learn how to use the Japanese word 年齢 (ねんれい) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is ねんれい, which you will often hear in casual and formal settings when asking or discussing a person's age, for example: ねんれいをきかないでください. This means \"Please don't ask my age.\"",
-        "collocations": [
-            "ねんれいをきかないでください",
-            "ねんれいのはなし",
-            "ねんれいそう",
-            "ねんれいのちがい"
-        ],
-        "synonyms": [
-            "年次",
-            "歳"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word ***ねんれい*** are ***ねんじ*** and ***とし***. While ねんじ can refer to age in terms of years in a systematic plan like school years, とし is more general, often used as a casual term for age.",
-        "antonyms": [
-            "若さ",
-            "未成年"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word ***ねんれい*** are ***わかさ*** and ***みせいねん***. わかさ means youth or young age, highlighting a state of being young. みせいねん refers to being underage or not yet an adult, often used in legal contexts."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "年齢を聞かないでください。",
-            "furigana": "年齢(ねんれい)を聞(き)かないでください。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "年齢を聞かないでください。",
-                "English": "Please don't ask my age.",
-                "Persian": "لطفا سن من را نپرسید.",
-                "Nepali": "कृपया मेरो उमेर नसोध्नुहोस्।",
-                "Indonesian": "Tolong jangan tanya usia saya.",
-                "Filipino": "Huwag mo sanang tanungin ang edad ko.",
-                "Vietnamese": "Xin đừng hỏi tuổi tôi.",
-                "Burmese": "ကျွန်ုပ်၏ အသက်မမေးပါနှင့်။",
-                "Korean": "나이를 묻지 말아주세요.",
-                "Hindi": "कृपया मेरी उम्र मत पूछिए।",
-                "Arabic": "من فضلك لا تسأل عن عمري.",
-                "French": "S'il vous plaît, ne me demandez pas mon âge.",
-                "Spanish": "Por favor, no me preguntes mi edad.",
-                "Chinese": "请不要问我的年龄。",
-                "Bengali": "অনুগ্রহ করে আমার বয়স জিজ্ঞাসা করবেন না।"
-            }
-        },
-        {
-            "kanji": "年齢の話は苦手です。",
-            "furigana": "年齢(ねんれい)の話(はなし)は苦手(にがて)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "年齢の話は苦手です。",
-                "English": "I am not good at talking about age.",
-                "Persian": "من در صحبت کردن درباره سن خوب نیستم.",
-                "Nepali": "म उमेरको कुरा गर्न राम्रो छैन।",
-                "Indonesian": "Saya tidak pandai membicarakan usia.",
-                "Filipino": "Hindi ako mahusay sa pakikipag-usap tungkol sa edad.",
-                "Vietnamese": "Tôi không giỏi nói về tuổi tác.",
-                "Burmese": "အသက်အကြောင်းပြောရတာကျွန်တော်အဆင်မပြေတာပါ။",
-                "Korean": "나이는 잘 얘기하지 못합니다.",
-                "Hindi": "मैं उम्र के बारे में बात करने में अच्छा नहीं हूँ।",
-                "Arabic": "أنا لست جيدًا في الحديث عن العمر.",
-                "French": "Je ne suis pas doué pour parler d'âge.",
-                "Spanish": "No soy bueno hablando de la edad.",
-                "Chinese": "我不擅长谈论年龄。",
-                "Bengali": "আমি বয়সের কথা বলতে পারদর্শী নই।"
-            }
-        },
-        {
-            "kanji": "彼は私と同じ年齢層です。",
-            "furigana": "彼(かれ)は私(わたし)と同(おな)じ年齢層(ねんれいそう)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は私と同じ年齢層です。",
-                "English": "He is in the same age group as me.",
-                "Persian": "او در همان گروه سنی من قرار دارد.",
-                "Nepali": "उ उनी मसँग एउटै उमेर समूहमा छन्।",
-                "Indonesian": "Dia dalam kelompok usia yang sama denganku.",
-                "Filipino": "Nasa parehong pangkat ng edad kami.",
-                "Vietnamese": "Anh ấy cùng độ tuổi với tôi.",
-                "Burmese": "သူဟာ ကျွန်တော့်ရဲ့ အရွယ်အစား အပြိုက်တော်ရှိတယ်။",
-                "Korean": "그는 나와 같은 연령대입니다.",
-                "Hindi": "वह मेरे साथ ही उम्र वर्ग में है।",
-                "Arabic": "هو في نفس الفئة العمرية مثلي.",
-                "French": "Il est dans la même tranche d'âge que moi.",
-                "Spanish": "Él está en el mismo grupo de edad que yo.",
-                "Chinese": "他和我在同一个年龄层。",
-                "Bengali": "তিনি আমার সাথে একই বয়সের গোষ্ঠীতে আছেন।"
-            }
-        },
-        {
-            "kanji": "年齢の違いがあります。",
-            "furigana": "年齢(ねんれい)の違(ちが)いがあります。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "年齢の違いがあります。",
-                "English": "There is a difference in age.",
-                "Persian": "تفاوت سنی وجود دارد.",
-                "Nepali": "उमेरमा फरक छ।",
-                "Indonesian": "Ada perbedaan usia.",
-                "Filipino": "May pagkakaiba sa edad.",
-                "Vietnamese": "Có sự khác biệt về tuổi.",
-                "Burmese": "အသက်ကွာဟမှုရှိပါတယ်။",
-                "Korean": "나이 차이가 있습니다.",
-                "Hindi": "उम्र का अंतर है।",
-                "Arabic": "هناك فرق في العمر.",
-                "French": "Il y a une différence d'âge.",
-                "Spanish": "Hay una diferencia de edad.",
-                "Chinese": "有年龄差异。",
-                "Bengali": "বয়সের পার্থক্য আছে।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "年次",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ねんじ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "annual",
-                        "yearly"
-                    ],
-                    "part_of_speech": "Noun or verb acting prenominally",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "year",
-                        "nth year",
-                        "order by year"
-                    ],
-                    "part_of_speech": "Noun, used as a suffix",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "年",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "year"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "age",
-                        "years"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "past one's prime",
-                        "old age"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "若さ",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "わかさ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "youth",
-                        "youthfulness"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "未成年",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "みせいねん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "minority",
-                        "minor",
-                        "underage person"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "ねんれいをきかないでください",
+        "ねんれいのはなし",
+        "ねんれいそう",
+        "ねんれいのちがい"
     ]
 }

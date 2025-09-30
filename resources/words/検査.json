@@ -1,387 +1,250 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "検査",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/Oznhx5RYktA",
     "in_db": true,
-    "reading": "けんさ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "検査",
+        "reading": "けんさ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is けんさ, which you will often hear in medical, technical, and everyday situations where evaluations or checkups are needed.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"けんさ\" means \"inspection\" or \"examination\" in English. It is commonly used when referring to checkups, assessments, or evaluations, such as health exams or quality inspections. This word can apply in various contexts, such as medical, technical, or educational settings.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "inspection",
                 "examination",
                 "test",
                 "check",
                 "scan",
                 "audit"
-            ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "検査",
-                "English": "inspection",
-                "Persian": "بازرسی",
-                "Nepali": "निरीक्षण",
-                "Indonesian": "pemeriksaan",
-                "Filipino": "inspeksyon",
-                "Vietnamese": "kiểm tra",
-                "Burmese": "စစ်ဆေးမှု",
-                "Korean": "검사",
-                "Hindi": "निरीक्षण",
-                "Arabic": "تفتيش",
-                "French": "inspection",
-                "Spanish": "inspección",
-                "Chinese": "检查",
-                "Bengali": "পরিদর্শন"
+            ]
+        ],
+        "meaning_translations": {
+            "inspection": {
+                "EN": "inspection",
+                "ID": "pemeriksaan",
+                "ES": "inspección",
+                "VI": "kiểm tra",
+                "FR": "inspection",
+                "NE": "निरीक्षण",
+                "BN": "পরিদর্শন",
+                "ZH": "检查",
+                "KO": "검사",
+                "TL": "inspeksyon",
+                "MY": "စစ်ဆေးမှု",
+                "HI": "निरीक्षण",
+                "AR": "تفتيش",
+                "FA": "بازرسی"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "私は言語検査を受けます。",
+                "furigana": "私(わたし)は言語(げんご)検査(けんさ)を受(う)けます。",
+                "translations": {
+                    "EN": "I will take a language test.",
+                    "ID": "Saya akan menjalani tes bahasa.",
+                    "ES": "Haré un examen de idioma.",
+                    "VI": "Tôi sẽ tham gia kiểm tra ngôn ngữ.",
+                    "FR": "Je passerai un test de langue.",
+                    "NE": "म भाषा परीक्षण दिन्छु।",
+                    "BN": "আমি একটি ভাষার পরীক্ষা দেব।",
+                    "ZH": "我将参加语言测试。",
+                    "KO": "저는 언어 검사를 받습니다.",
+                    "TL": "Magpapa-eksamen ako sa wika.",
+                    "MY": "ကျွန်တော် ဘာသာစကား စစ်ဆေးရေး လုပ်ပါဦးမည်။",
+                    "HI": "मैं भाषा परीक्षा दूँगा।",
+                    "AR": "سأجري اختبار لغة.",
+                    "FA": "من یک آزمون زبان خواهم داد."
+                }
+            },
+            {
+                "kanji": "車の検査は終わりました。",
+                "furigana": "車(くるま)の検査(けんさ)は終(お)わりました。",
+                "translations": {
+                    "EN": "The car inspection is finished.",
+                    "ID": "Pemeriksaan mobil sudah selesai.",
+                    "ES": "La inspección del coche ha terminado.",
+                    "VI": "Kiểm tra xe đã hoàn thành.",
+                    "FR": "L'inspection de la voiture est terminée.",
+                    "NE": "गाडीको निरीक्षण सकियो।",
+                    "BN": "গাড়ির পরিদর্শন শেষ হয়েছে।",
+                    "ZH": "汽车检查已经完成。",
+                    "KO": "차량 검사는 끝났습니다.",
+                    "TL": "Natapos na ang inspeksyon ng kotse.",
+                    "MY": "ကားစစ်ဆေးပြီးပါပြီ။",
+                    "HI": "गाड़ी की जांच पूरी हो चुकी है।",
+                    "AR": "انتهى فحص السيارة.",
+                    "FA": "بازرسی ماشین تمام شد."
+                }
+            },
+            {
+                "kanji": "がっこうの検査があります。",
+                "furigana": "がっこうの検査(けんさ)があります。",
+                "translations": {
+                    "EN": "There is a school inspection.",
+                    "ID": "Ada pemeriksaan sekolah.",
+                    "ES": "Hay una inspección escolar.",
+                    "VI": "Có một cuộc kiểm tra ở trường học.",
+                    "FR": "Il y a une inspection scolaire.",
+                    "NE": "विद्यालयको निरीक्षण हुनेछ।",
+                    "BN": "স্কুলে নিরীক্ষা হচ্ছে।",
+                    "ZH": "有学校检查。",
+                    "KO": "학교 검사가 있습니다.",
+                    "TL": "May inspeksyon sa paaralan.",
+                    "MY": "ကျောင်းတွင် စစ်ဆေးမှုရှိပါသည်။",
+                    "HI": "स्कूल में निरीक्षण है।",
+                    "AR": "يوجد تفتيش في المدرسة.",
+                    "FA": "بازرسی مدرسه در حال انجام است."
+                }
+            },
+            {
+                "kanji": "新しい機械が始末検査を通った。",
+                "furigana": "新(あたら)しい機械(きかい)が始末検査(しまつけんさ)を通(とお)った。",
+                "translations": {
+                    "EN": "The new machine passed the final inspection.",
+                    "ID": "Mesin baru lulus dari inspeksi akhir.",
+                    "ES": "La nueva máquina pasó la inspección final.",
+                    "VI": "Máy mới đã qua kiểm tra cuối cùng.",
+                    "FR": "La nouvelle machine a passé l'inspection finale.",
+                    "NE": "नयाँ मेसिनले अन्तिम निरीक्षण पास गर्यो।",
+                    "BN": "নতুন মেশিন চূড়ান্ত পরিদর্শনে উত্তীর্ণ হয়েছে।",
+                    "ZH": "新机器通过了最终检验。",
+                    "KO": "새로운 기계가 최종 검사를 통과했습니다.",
+                    "TL": "Ang bagong makina ay pumasa sa huling pagsusuri.",
+                    "MY": "မစ်စကိရိယာသစ်သည်နောက်ဆုံးစစ်ဆေးခြင်းကိုဖြတ်သန်းခဲ့သည်။",
+                    "HI": "नया मशीन अंतिम परीक्षण में पास हो गया।",
+                    "AR": "اجتازت الآلة الجديدة الفحص النهائي.",
+                    "FA": "دستگاه جدید از بازرسی نهایی گذر کرد."
+                }
+            },
+            {
+                "kanji": "私の叔父は健康検査を受けました。",
+                "furigana": "私(わたし)の叔父(おじ)は健康(けんこう)検査(けんさ)を受(う)けました。",
+                "translations": {
+                    "EN": "My uncle had a health checkup.",
+                    "ID": "Paman saya menjalani pemeriksaan kesehatan.",
+                    "ES": "Mi tío se hizo un chequeo de salud.",
+                    "VI": "Chú của tôi đã đi kiểm tra sức khỏe.",
+                    "FR": "Mon oncle a fait un bilan de santé.",
+                    "NE": "मेरो काका स्वास्थ्य परीक्षणमा गएका थिए।",
+                    "BN": "আমার কাকা স্বাস্থ্য পরীক্ষা করেছেন।",
+                    "ZH": "我的叔叔做了健康检查。",
+                    "KO": "내 삼촌은 건강 검진을 받았습니다.",
+                    "TL": "Ang tito ko ay sumailalim sa pagsusuring pangkalusugan.",
+                    "MY": "ကျွန်ုပ်၏ ဘိုးဘွားသည် ကျန်းမာရေးစစ်ဆေးခြင်း ခံရသည်။",
+                    "HI": "मेरे चाचा ने स्वास्थ्य जांच करवाई।",
+                    "AR": "عمي خضع لفحص صحي.",
+                    "FA": "عمویم یک چکاپ سلامتی انجام داد."
+                }
+            }
+        ],
+        "synonyms": [
+            "調査 : ちょうさ : investigation"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"けんさ\" is \"ちょうさ.\" While both refer to checking or investigating something, \"ちょうさ\" has a broader scope and can mean any type of research or survey, whereas \"けんさ\" primarily focuses on inspections or examinations.",
+        "antonyms": [
+            "無視 : むし : disregarding"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word \"けんさ\" is \"むし,\" which means \"ignore\" or \"neglect.\" While \"けんさ\" involves careful checking or examination, \"むし\" is the opposite, implying the act of disregarding or not giving attention to something.",
+        "kanji_details": [
+            {
+                "kanji": "検",
+                "common_words": [
+                    "検討: consideration",
+                    "検出: detection"
+                ]
+            },
+            {
+                "kanji": "査",
+                "common_words": [
+                    "調査: investigation",
+                    "査定: assessment"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "検査",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "検査",
+                "reading": "けんさ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "inspection",
+                    "examination",
+                    "test",
+                    "check",
+                    "scan",
+                    "audit"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "検",
+        "査"
     ],
-    "kanjis": [
-        {
-            "kanji": "検",
+    "kanji_data": {
+        "検": {
             "meanings": [
                 "examination",
                 "investigate"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ケン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "しら.べる"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 1,
-            "frequency": 290,
+            "freq_mainichi_shinbun": 290,
             "unicode": "691C",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "検討",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "けんとう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "consideration",
-                                "examination",
-                                "investigation",
-                                "study",
-                                "scrutiny",
-                                "discussion",
-                                "analysis",
-                                "review"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "検出",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "けんしゅつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "detection",
-                                "sense"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         },
-        {
-            "kanji": "査",
+        "査": {
             "meanings": [
                 "investigate"
             ],
-            "onyomi": [
+            "on_readings": [
                 "サ"
             ],
-            "kunyomi": [],
-            "strokes": 9,
+            "kun_readings": [],
+            "stroke_count": 9,
             "jlpt": 2,
-            "frequency": 184,
+            "freq_mainichi_shinbun": 184,
             "unicode": "67FB",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "調査",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちょうさ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "investigation",
-                                "examination",
-                                "inquiry",
-                                "enquiry",
-                                "survey"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "査定",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "さてい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "assessment",
-                                "revision"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         }
-    ],
-    "kanji_explanation": "The first kanji means to examine or inspect and often implies checking details. In words like けんとう it brings the sense of careful consideration, and in けんしゅつ it adds the meaning of finding or detecting something through examination. The second kanji means to investigate or inspect and is used when looking into facts or appraising value. In words like ちょうさ it emphasizes investigation or surveying, and in さてい it gives the sense of judging or assessing worth.",
-    "explanations": {
-        "explanation": "The word \"けんさ\" means \"inspection\" or \"examination\" in English. It is commonly used when referring to checkups, assessments, or evaluations, such as health exams or quality inspections. This word can apply in various contexts, such as medical, technical, or educational settings.",
-        "youtube_description": "Learn how to use the Japanese word 検査 (けんさ) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is けんさ, which you will often hear in medical, technical, and everyday situations where evaluations or checkups are needed.",
-        "collocations": [
-            "げんごけんさ",
-            "くるまのけんさ",
-            "がっこうのけんさ",
-            "しまつけんさ",
-            "けんこうけんさ"
-        ],
-        "synonyms": [
-            "ちょうさ"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"けんさ\" is \"ちょうさ.\" While both refer to checking or investigating something, \"ちょうさ\" has a broader scope and can mean any type of research or survey, whereas \"けんさ\" primarily focuses on inspections or examinations.",
-        "antonyms": [
-            "無視"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"けんさ\" is \"むし,\" which means \"ignore\" or \"neglect.\" While \"けんさ\" involves careful checking or examination, \"むし\" is the opposite, implying the act of disregarding or not giving attention to something."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "私は言語検査を受けます。",
-            "furigana": "私(わたし)は言語(げんご)検査(けんさ)を受(う)けます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は言語検査を受けます。",
-                "English": "I will take a language test.",
-                "Persian": "من یک آزمون زبان خواهم داد.",
-                "Nepali": "म भाषा परीक्षण दिन्छु।",
-                "Indonesian": "Saya akan menjalani tes bahasa.",
-                "Filipino": "Magpapa-eksamen ako sa wika.",
-                "Vietnamese": "Tôi sẽ tham gia kiểm tra ngôn ngữ.",
-                "Burmese": "ကျွန်တော် ဘာသာစကား စစ်ဆေးရေး လုပ်ပါဦးမည်။",
-                "Korean": "저는 언어 검사를 받습니다.",
-                "Hindi": "मैं भाषा परीक्षा दूँगा।",
-                "Arabic": "سأجري اختبار لغة.",
-                "French": "Je passerai un test de langue.",
-                "Spanish": "Haré un examen de idioma.",
-                "Chinese": "我将参加语言测试。",
-                "Bengali": "আমি একটি ভাষার পরীক্ষা দেব।"
-            }
-        },
-        {
-            "kanji": "車の検査は終わりました。",
-            "furigana": "車(くるま)の検査(けんさ)は終(お)わりました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "車の検査は終わりました。",
-                "English": "The car inspection is finished.",
-                "Persian": "بازرسی ماشین تمام شد.",
-                "Nepali": "गाडीको निरीक्षण सकियो।",
-                "Indonesian": "Pemeriksaan mobil sudah selesai.",
-                "Filipino": "Natapos na ang inspeksyon ng kotse.",
-                "Vietnamese": "Kiểm tra xe đã hoàn thành.",
-                "Burmese": "ကားစစ်ဆေးပြီးပါပြီ။",
-                "Korean": "차량 검사는 끝났습니다.",
-                "Hindi": "गाड़ी की जांच पूरी हो चुकी है।",
-                "Arabic": "انتهى فحص السيارة.",
-                "French": "L'inspection de la voiture est terminée.",
-                "Spanish": "La inspección del coche ha terminado.",
-                "Chinese": "汽车检查已经完成。",
-                "Bengali": "গাড়ির পরিদর্শন শেষ হয়েছে।"
-            }
-        },
-        {
-            "kanji": "がっこうの検査があります。",
-            "furigana": "がっこうの検査(けんさ)があります。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "がっこうの検査があります。",
-                "English": "There is a school inspection.",
-                "Persian": "بازرسی مدرسه در حال انجام است.",
-                "Nepali": "विद्यालयको निरीक्षण हुनेछ।",
-                "Indonesian": "Ada pemeriksaan sekolah.",
-                "Filipino": "May inspeksyon sa paaralan.",
-                "Vietnamese": "Có một cuộc kiểm tra ở trường học.",
-                "Burmese": "ကျောင်းတွင် စစ်ဆေးမှုရှိပါသည်။",
-                "Korean": "학교 검사가 있습니다.",
-                "Hindi": "स्कूल में निरीक्षण है।",
-                "Arabic": "يوجد تفتيش في المدرسة.",
-                "French": "Il y a une inspection scolaire.",
-                "Spanish": "Hay una inspección escolar.",
-                "Chinese": "有学校检查。",
-                "Bengali": "স্কুলে নিরীক্ষা হচ্ছে।"
-            }
-        },
-        {
-            "kanji": "新しい機械が始末検査を通った。",
-            "furigana": "新(あたら)しい機械(きかい)が始末検査(しまつけんさ)を通(とお)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "新しい機械が始末検査を通った。",
-                "English": "The new machine passed the final inspection.",
-                "Persian": "دستگاه جدید از بازرسی نهایی گذر کرد.",
-                "Nepali": "नयाँ मेसिनले अन्तिम निरीक्षण पास गर्यो।",
-                "Indonesian": "Mesin baru lulus dari inspeksi akhir.",
-                "Filipino": "Ang bagong makina ay pumasa sa huling pagsusuri.",
-                "Vietnamese": "Máy mới đã qua kiểm tra cuối cùng.",
-                "Burmese": "မစ်စကိရိယာသစ်သည်နောက်ဆုံးစစ်ဆေးခြင်းကိုဖြတ်သန်းခဲ့သည်။",
-                "Korean": "새로운 기계가 최종 검사를 통과했습니다.",
-                "Hindi": "नया मशीन अंतिम परीक्षण में पास हो गया।",
-                "Arabic": "اجتازت الآلة الجديدة الفحص النهائي.",
-                "French": "La nouvelle machine a passé l'inspection finale.",
-                "Spanish": "La nueva máquina pasó la inspección final.",
-                "Chinese": "新机器通过了最终检验。",
-                "Bengali": "নতুন মেশিন চূড়ান্ত পরিদর্শনে উত্তীর্ণ হয়েছে।"
-            }
-        },
-        {
-            "kanji": "私の叔父は健康検査を受けました。",
-            "furigana": "私(わたし)の叔父(おじ)は健康(けんこう)検査(けんさ)を受(う)けました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私の叔父は健康検査を受けました。",
-                "English": "My uncle had a health checkup.",
-                "Persian": "عمویم یک چکاپ سلامتی انجام داد.",
-                "Nepali": "मेरो काका स्वास्थ्य परीक्षणमा गएका थिए।",
-                "Indonesian": "Paman saya menjalani pemeriksaan kesehatan.",
-                "Filipino": "Ang tito ko ay sumailalim sa pagsusuring pangkalusugan.",
-                "Vietnamese": "Chú của tôi đã đi kiểm tra sức khỏe.",
-                "Burmese": "ကျွန်ုပ်၏ ဘိုးဘွားသည် ကျန်းမာရေးစစ်ဆေးခြင်း ခံရသည်။",
-                "Korean": "내 삼촌은 건강 검진을 받았습니다.",
-                "Hindi": "मेरे चाचा ने स्वास्थ्य जांच करवाई।",
-                "Arabic": "عمي خضع لفحص صحي.",
-                "French": "Mon oncle a fait un bilan de santé.",
-                "Spanish": "Mi tío se hizo un chequeo de salud.",
-                "Chinese": "我的叔叔做了健康检查。",
-                "Bengali": "আমার কাকা স্বাস্থ্য পরীক্ষা করেছেন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "調査",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ちょうさ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "investigation",
-                        "examination",
-                        "inquiry",
-                        "enquiry",
-                        "survey"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "無視",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "むし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "disregarding",
-                        "ignoring"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "げんごけんさ",
+        "くるまのけんさ",
+        "がっこうのけんさ",
+        "しまつけんさ",
+        "けんこうけんさ"
     ]
 }

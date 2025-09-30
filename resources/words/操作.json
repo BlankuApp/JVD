@@ -1,64 +1,248 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "操作",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/lzwrS0Sfi5Y",
     "in_db": true,
-    "reading": "そうさ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "操作",
+        "reading": "そうさ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this video is そうさ which you will often hear in discussions about technology and machinery. Imagine how much more natural your Japanese will sound when you can say things like \"I need to operate the machine,\" \"Can you show me how to use this software?\" and \"Operation was successful\" in Japanese. Let's get started!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word そうさ means operation or manipulation, often referring to handling machines or systems.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "operation",
                 "management",
                 "handling"
             ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "操作",
-                "English": "operation",
-                "Persian": "عملیات",
-                "Nepali": "सक्रियता",
-                "Indonesian": "operasi",
-                "Filipino": "operasyon",
-                "Vietnamese": "hoạt động",
-                "Burmese": "လုပ်ငန်းဆောင်ရွက်မှု",
-                "Korean": "작업",
-                "Hindi": "ऑपरेशन",
-                "Arabic": "عملية",
-                "French": "opération",
-                "Spanish": "operación",
-                "Chinese": "操作",
-                "Bengali": "অপারেশন"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "manipulating",
                 "manipulation",
                 "influencing"
-            ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "操作",
-                "English": "manipulating",
-                "Persian": "عملیات",
-                "Nepali": "सञ्चालन",
-                "Indonesian": "manipulasi",
-                "Filipino": "pagsasaayos",
-                "Vietnamese": "manipulating",
-                "Burmese": "စွမ်းဆောင်မှု",
-                "Korean": "조작",
-                "Hindi": "संचालित",
-                "Arabic": "التلاعب",
-                "French": "manipulation",
-                "Spanish": "manipulación",
-                "Chinese": "操作",
-                "Bengali": "হস্তক্ষেপ"
+            ]
+        ],
+        "meaning_translations": {
+            "operation": {
+                "EN": "operation",
+                "ID": "operasi",
+                "ES": "operación",
+                "VI": "hoạt động",
+                "FR": "opération",
+                "NE": "सक्रियता",
+                "BN": "অপারেশন",
+                "ZH": "操作",
+                "KO": "작업",
+                "TL": "operasyon",
+                "MY": "လုပ်ငန်းဆောင်ရွက်မှု",
+                "HI": "ऑपरेशन",
+                "AR": "عملية",
+                "FA": "عملیات"
+            },
+            "manipulating": {
+                "EN": "manipulating",
+                "ID": "manipulasi",
+                "ES": "manipulación",
+                "VI": "manipulating",
+                "FR": "manipulation",
+                "NE": "सञ्चालन",
+                "BN": "হস্তক্ষেপ",
+                "ZH": "操作",
+                "KO": "조작",
+                "TL": "pagsasaayos",
+                "MY": "စွမ်းဆောင်မှု",
+                "HI": "संचालित",
+                "AR": "التلاعب",
+                "FA": "عملیات"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "コンピュータを操作する。",
+                "furigana": "コンピュータをそうさする。",
+                "translations": {
+                    "EN": "I operate the computer.",
+                    "ID": "Saya mengoperasikan komputer.",
+                    "ES": "Yo opero la computadora.",
+                    "VI": "Tôi điều khiển máy tính.",
+                    "FR": "Je manipule l'ordinateur.",
+                    "NE": "म कम्प्युटर सञ्चालन गर्छु।",
+                    "BN": "আমি কম্পিউটার পরিচালনা করি。",
+                    "ZH": "我操作电脑。",
+                    "KO": "나는 컴퓨터를 조작합니다.",
+                    "TL": "Nag-ooperate ako ng computer.",
+                    "MY": "ကျွန်ုပ်ဟာ ကွန်ပျူတာကို စိန်ခေါ်နေပါသည်။",
+                    "HI": "मैं कंप्यूटर को संचालित करता हूँ।",
+                    "AR": "أقوم بتشغيل الكمبيوتر.",
+                    "FA": "من کامپیوتر را کنترل می‌کنم."
+                }
+            },
+            {
+                "kanji": "彼は操作ミスをしました。",
+                "furigana": "彼（かれ）は操作（そうさ）ミスをしました。",
+                "translations": {
+                    "EN": "He made an error in operation.",
+                    "ID": "Dia melakukan kesalahan dalam operasi.",
+                    "ES": "Él cometió un error en la operación.",
+                    "VI": "Anh ấy đã có lỗi trong thao tác.",
+                    "FR": "Il a fait une erreur lors de l'opération.",
+                    "NE": "उसले सञ्चालन गरौँमा गर्यो।",
+                    "BN": "সে অপারেশনে ভুল করেছে।",
+                    "ZH": "他在操作中犯了错误。",
+                    "KO": "그는 조작 실수를 했습니다.",
+                    "TL": "Nagkamali siya sa operasyon.",
+                    "MY": "သူက လုပ်ဆောင်မှုမှာ တစ်ခုခု အမှားလုပ်ခဲ့သည်။",
+                    "HI": "उसने ऑपरेशन में गलती की।",
+                    "AR": "لقد ارتكب خطأ في العملية.",
+                    "FA": "او در عملیات اشتباه کرد."
+                }
+            },
+            {
+                "kanji": "この機械の操作方法は簡単です。",
+                "furigana": "このきかいのそうさほうほうはかんたんです。",
+                "translations": {
+                    "EN": "The operating method of this machine is simple.",
+                    "ID": "Metode operasi mesin ini mudah.",
+                    "ES": "El método de operación de esta máquina es sencillo.",
+                    "VI": "Phương pháp vận hành của máy này rất đơn giản.",
+                    "FR": "La méthode de fonctionnement de cette machine est simple.",
+                    "NE": "यस मेशीनको सञ्चालन विधि सजिलो छ।",
+                    "BN": "এই যন্ত্রের পরিচালনার পদ্ধতি সহজ।",
+                    "ZH": "这台机器的操作方法很简单。",
+                    "KO": "이 기계의 조작 방법은 간단합니다.",
+                    "TL": "Madali ang paraan ng operasyon ng makinang ito.",
+                    "MY": "ဒီစက်၏ ကန့်သတ်မှုနည်းလမ်းက အထူးမရှုပ်ထွေးပါ။",
+                    "HI": "इस मशीन का संचालन विधि सरल है।",
+                    "AR": "طريقة تشغيل هذه الآلة سهلة.",
+                    "FA": "روش عملکرد این دستگاه ساده است."
+                }
+            },
+            {
+                "kanji": "操作パネルを使います。",
+                "furigana": "操作（そうさ）パネルを使（つか）います。",
+                "translations": {
+                    "EN": "I will use the control panel.",
+                    "ID": "Saya akan menggunakan panel kontrol.",
+                    "ES": "Voy a usar el panel de control.",
+                    "VI": "Tôi sẽ sử dụng bảng điều khiển.",
+                    "FR": "Je vais utiliser le panneau de contrôle.",
+                    "NE": "म नियन्त्रण प्यानल प्रयोग गर्नेछु।",
+                    "BN": "আমি নিয়ন্ত্রণ প্যানেলটি ব্যবহার করব。",
+                    "ZH": "我将使用操作面板。",
+                    "KO": "조작 패널을 사용할 것입니다.",
+                    "TL": "Gagamitin ko ang control panel.",
+                    "MY": "ကျွန်ုပ်သည်ထိန်းချုပ်မှုရုံးကိုအသုံးပြုမည်။",
+                    "HI": "मैं नियंत्रण पैनल का उपयोग करूंगा।",
+                    "AR": "سأستخدم لوحة التحكم.",
+                    "FA": "من از پنل کنترل استفاده می‌کنم."
+                }
+            },
+            {
+                "kanji": "新しい操作系統があります。",
+                "furigana": "新し(\n0)い操作(\n0)系統(\n0)がありま(\n0)す。",
+                "translations": {
+                    "EN": "There is a new operating system.",
+                    "ID": "Ada sistem operasi baru.",
+                    "ES": "Hay un nuevo sistema operativo.",
+                    "VI": "Có một hệ điều hành mới.",
+                    "FR": "Il y a un nouveau système d'exploitation.",
+                    "NE": "नयाँ अपरेटिंग प्रणाली छ।",
+                    "BN": "একটি নতুন অপারেটিং সিস্টেম রয়েছে।",
+                    "ZH": "有一个新的操作系统。",
+                    "KO": "새로운 운영 체제가 있습니다.",
+                    "TL": "May bagong operating system.",
+                    "MY": "အသစ်သော လုပ်ဆောင်မှု စနစ်ရှိပါတယ်။",
+                    "HI": "एक नया ऑपरेटिंग सिस्टम है।",
+                    "AR": "هناك نظام تشغيل جديد.",
+                    "FA": "یک سیستم عامل جدید وجود دارد."
+                }
+            }
+        ],
+        "synonyms": [
+            "運転 : うんてん : operation",
+            "行使 : こうし : use"
+        ],
+        "synonyms_explanation": "The most common synonyms of the そうさ are 運転 and 行使. 運転 refers to driving or operating something, especially vehicles, while 行使 means to exercise or utilize, often in a broader legal or formal context. Although they are similar, 運転 is more specific to handling machinery, whereas 行使 can be used in various situations that involve using rights or powers.",
+        "antonyms": [
+            "停止 : ていし : stoppage",
+            "無視 : むし : disregarding"
+        ],
+        "antonyms_explanation": "The most common antonyms of the そうさ are 停止 and 無視. 停止 means to stop or halt, indicating a lack of operation, while 無視 means to ignore, suggesting a disregard for the operation or process. While そうさ involves active manipulation, its antonyms signify the absence or disregard of such actions.",
+        "kanji_details": [
+            {
+                "kanji": "操",
+                "common_words": [
+                    "操縦: steering",
+                    "操る: to operate"
+                ]
+            },
+            {
+                "kanji": "作",
+                "common_words": [
+                    "作る: to make",
+                    "作品: work"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "操作",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "操作",
+                "reading": "そうさ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "operation",
+                    "management",
+                    "handling"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "manipulating",
+                    "manipulation",
+                    "influencing"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "操",
+        "作"
     ],
-    "kanjis": [
-        {
-            "kanji": "操",
+    "kanji_data": {
+        "操": {
             "meanings": [
                 "chastity",
                 "fidelity",
@@ -68,596 +252,48 @@
                 "steer",
                 "virginity"
             ],
-            "onyomi": [
+            "on_readings": [
                 "サン",
                 "ソウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あやつ.る",
                 "みさお"
             ],
-            "strokes": 16,
+            "stroke_count": 16,
             "jlpt": 1,
-            "frequency": 1016,
+            "freq_mainichi_shinbun": 1016,
             "unicode": "64CD",
-            "grade": 6,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "操縦",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "そうじゅう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "steering",
-                                "piloting",
-                                "flying",
-                                "control",
-                                "operation",
-                                "handling"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "management",
-                                "handling",
-                                "manipulation",
-                                "maneuvering"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "操る",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "あやつる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to operate",
-                                "to handle",
-                                "to manage",
-                                "to control",
-                                "to maneuver",
-                                "to steer"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to have a good command of",
-                                "to play proficiently"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to work"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to manipulate",
-                                "to pull the strings",
-                                "to control from the shadows",
-                                "to mastermind"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 6
         },
-        {
-            "kanji": "作",
+        "作": {
             "meanings": [
                 "build",
                 "make",
                 "prepare",
                 "production"
             ],
-            "onyomi": [
+            "on_readings": [
                 "サ",
                 "サク"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-づく.り",
                 "つく.り",
                 "つく.る"
             ],
-            "strokes": 7,
+            "stroke_count": 7,
             "jlpt": 4,
-            "frequency": 103,
+            "freq_mainichi_shinbun": 103,
             "unicode": "4F5C",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "作る",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "つくる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to make",
-                                "to produce",
-                                "to manufacture",
-                                "to build",
-                                "to construct"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to prepare",
-                                "to brew"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to raise",
-                                "to grow",
-                                "to cultivate",
-                                "to train"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to till"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to draw up",
-                                "to make out",
-                                "to prepare",
-                                "to write"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to create",
-                                "to compose"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to coin",
-                                "to organize",
-                                "to organise",
-                                "to establish",
-                                "to found"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to have"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to make up"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to fabricate"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to give a appearance",
-                                "to feign",
-                                "to put on a show of emotion"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to form"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to set"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to commit"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2",
-                        "jlpt-n1",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "作品",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "さくひん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "work",
-                                "piece",
-                                "production",
-                                "opus"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means to control or manipulate something as if operating it from the outside. You see this sense in そうじゅう where the idea is steering or controlling a vehicle, and in あやつる where it means to handle or manipulate a person or object. The second kanji means to make or create, to bring something into existence. That shows up in つくる for making things and in さくひん where it marks a created work or product.",
-    "explanations": {
-        "explanation": "The word そうさ means operation or manipulation, often referring to handling machines or systems.",
-        "youtube_description": "Learn how to use the Japanese word 操作 (そうさ) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this video is そうさ which you will often hear in discussions about technology and machinery. Imagine how much more natural your Japanese will sound when you can say things like \"I need to operate the machine,\" \"Can you show me how to use this software?\" and \"Operation was successful\" in Japanese. Let's get started!",
-        "collocations": [
-            "操作する",
-            "操作ミス",
-            "操作方法",
-            "操作パネル",
-            "操作系統"
-        ],
-        "synonyms": [
-            "運転",
-            "行使"
-        ],
-        "synonyms_explanation": "The most common synonyms of the そうさ are 運転 and 行使. 運転 refers to driving or operating something, especially vehicles, while 行使 means to exercise or utilize, often in a broader legal or formal context. Although they are similar, 運転 is more specific to handling machinery, whereas 行使 can be used in various situations that involve using rights or powers.",
-        "antonyms": [
-            "停止",
-            "無視"
-        ],
-        "antonyms_explanation": "The most common antonyms of the そうさ are 停止 and 無視. 停止 means to stop or halt, indicating a lack of operation, while 無視 means to ignore, suggesting a disregard for the operation or process. While そうさ involves active manipulation, its antonyms signify the absence or disregard of such actions."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "コンピュータを操作する。",
-            "furigana": "コンピュータをそうさする。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "コンピュータを操作する。",
-                "English": "I operate the computer.",
-                "Persian": "من کامپیوتر را کنترل می‌کنم.",
-                "Nepali": "म कम्प्युटर सञ्चालन गर्छु।",
-                "Indonesian": "Saya mengoperasikan komputer.",
-                "Filipino": "Nag-ooperate ako ng computer.",
-                "Vietnamese": "Tôi điều khiển máy tính.",
-                "Burmese": "ကျွန်ုပ်ဟာ ကွန်ပျူတာကို စိန်ခေါ်နေပါသည်။",
-                "Korean": "나는 컴퓨터를 조작합니다.",
-                "Hindi": "मैं कंप्यूटर को संचालित करता हूँ।",
-                "Arabic": "أقوم بتشغيل الكمبيوتر.",
-                "French": "Je manipule l'ordinateur.",
-                "Spanish": "Yo opero la computadora.",
-                "Chinese": "我操作电脑。",
-                "Bengali": "আমি কম্পিউটার পরিচালনা করি。"
-            }
-        },
-        {
-            "kanji": "彼は操作ミスをしました。",
-            "furigana": "彼（かれ）は操作（そうさ）ミスをしました。",
-            "difficulty": 3,
-            "translation": {
-                "Japanese": "彼は操作ミスをしました。",
-                "English": "He made an error in operation.",
-                "Persian": "او در عملیات اشتباه کرد.",
-                "Nepali": "उसले सञ्चालन गरौँमा गर्यो।",
-                "Indonesian": "Dia melakukan kesalahan dalam operasi.",
-                "Filipino": "Nagkamali siya sa operasyon.",
-                "Vietnamese": "Anh ấy đã có lỗi trong thao tác.",
-                "Burmese": "သူက လုပ်ဆောင်မှုမှာ တစ်ခုခု အမှားလုပ်ခဲ့သည်။",
-                "Korean": "그는 조작 실수를 했습니다.",
-                "Hindi": "उसने ऑपरेशन में गलती की।",
-                "Arabic": "لقد ارتكب خطأ في العملية.",
-                "French": "Il a fait une erreur lors de l'opération.",
-                "Spanish": "Él cometió un error en la operación.",
-                "Chinese": "他在操作中犯了错误。",
-                "Bengali": "সে অপারেশনে ভুল করেছে।"
-            }
-        },
-        {
-            "kanji": "この機械の操作方法は簡単です。",
-            "furigana": "このきかいのそうさほうほうはかんたんです。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "この機械の操作方法は簡単です。",
-                "English": "The operating method of this machine is simple.",
-                "Persian": "روش عملکرد این دستگاه ساده است.",
-                "Nepali": "यस मेशीनको सञ्चालन विधि सजिलो छ।",
-                "Indonesian": "Metode operasi mesin ini mudah.",
-                "Filipino": "Madali ang paraan ng operasyon ng makinang ito.",
-                "Vietnamese": "Phương pháp vận hành của máy này rất đơn giản.",
-                "Burmese": "ဒီစက်၏ ကန့်သတ်မှုနည်းလမ်းက အထူးမရှုပ်ထွေးပါ။",
-                "Korean": "이 기계의 조작 방법은 간단합니다.",
-                "Hindi": "इस मशीन का संचालन विधि सरल है।",
-                "Arabic": "طريقة تشغيل هذه الآلة سهلة.",
-                "French": "La méthode de fonctionnement de cette machine est simple.",
-                "Spanish": "El método de operación de esta máquina es sencillo.",
-                "Chinese": "这台机器的操作方法很简单。",
-                "Bengali": "এই যন্ত্রের পরিচালনার পদ্ধতি সহজ।"
-            }
-        },
-        {
-            "kanji": "操作パネルを使います。",
-            "furigana": "操作（そうさ）パネルを使（つか）います。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "操作パネルを使います。",
-                "English": "I will use the control panel.",
-                "Persian": "من از پنل کنترل استفاده می‌کنم.",
-                "Nepali": "म नियन्त्रण प्यानल प्रयोग गर्नेछु।",
-                "Indonesian": "Saya akan menggunakan panel kontrol.",
-                "Filipino": "Gagamitin ko ang control panel.",
-                "Vietnamese": "Tôi sẽ sử dụng bảng điều khiển.",
-                "Burmese": "ကျွန်ုပ်သည်ထိန်းချုပ်မှုရုံးကိုအသုံးပြုမည်။",
-                "Korean": "조작 패널을 사용할 것입니다.",
-                "Hindi": "मैं नियंत्रण पैनल का उपयोग करूंगा।",
-                "Arabic": "سأستخدم لوحة التحكم.",
-                "French": "Je vais utiliser le panneau de contrôle.",
-                "Spanish": "Voy a usar el panel de control.",
-                "Chinese": "我将使用操作面板。",
-                "Bengali": "আমি নিয়ন্ত্রণ প্যানেলটি ব্যবহার করব。"
-            }
-        },
-        {
-            "kanji": "新しい操作系統があります。",
-            "furigana": "新し(\n0)い操作(\n0)系統(\n0)がありま(\n0)す。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "新しい操作系統があります。",
-                "English": "There is a new operating system.",
-                "Persian": "یک سیستم عامل جدید وجود دارد.",
-                "Nepali": "नयाँ अपरेटिंग प्रणाली छ।",
-                "Indonesian": "Ada sistem operasi baru.",
-                "Filipino": "May bagong operating system.",
-                "Vietnamese": "Có một hệ điều hành mới.",
-                "Burmese": "အသစ်သော လုပ်ဆောင်မှု စနစ်ရှိပါတယ်။",
-                "Korean": "새로운 운영 체제가 있습니다.",
-                "Hindi": "एक नया ऑपरेटिंग सिस्टम है।",
-                "Arabic": "هناك نظام تشغيل جديد.",
-                "French": "Il y a un nouveau système d'exploitation.",
-                "Spanish": "Hay un nuevo sistema operativo.",
-                "Chinese": "有一个新的操作系统。",
-                "Bengali": "একটি নতুন অপারেটিং সিস্টেম রয়েছে।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "運転",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "うんてん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "operation",
-                        "running",
-                        "working"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "driving"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "use",
-                        "management",
-                        "investment"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "行使",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "こうし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "use",
-                        "exercise"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "停止",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ていし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "stoppage",
-                        "coming to a stop",
-                        "halt",
-                        "standstill"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "ceasing",
-                        "suspension",
-                        "interruption",
-                        "cutting off"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "suspension",
-                        " prohibition",
-                        "ban"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "無視",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "むし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "disregarding",
-                        "ignoring"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "操作する",
+        "操作ミス",
+        "操作方法",
+        "操作パネル",
+        "操作系統"
     ]
 }

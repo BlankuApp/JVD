@@ -1,12 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "違反",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/m_eYQj7reqA",
     "in_db": true,
-    "reading": "いはん",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "違反",
+        "reading": "いはん",
+        "introduction_japanese": "",
+        "introduction_english": "Today, we're diving into the word \"いはん\" which you might come across when discussing rules, especially in legal or formal settings.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"ihon\" means to violate or breach rules, laws, or agreements.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "violation",
                 "offense",
                 "offence",
@@ -14,38 +21,200 @@
                 "transgression",
                 "infringement",
                 "contravention"
-            ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "違反",
-                "English": "violation",
-                "Persian": "نقض",
-                "Nepali": "उल्लङ्घन",
-                "Indonesian": "pelanggaran",
-                "Filipino": "paglabag",
-                "Vietnamese": "vi phạm",
-                "Burmese": "ချိုးဖောက်မှု",
-                "Korean": "위반",
-                "Hindi": "उल्लंघन",
-                "Arabic": "انتهاك",
-                "French": "violation",
-                "Spanish": "violación",
-                "Chinese": "违反",
-                "Bengali": "লঙ্ঘন"
+            ]
+        ],
+        "meaning_translations": {
+            "violation": {
+                "EN": "violation",
+                "ID": "pelanggaran",
+                "ES": "violación",
+                "VI": "vi phạm",
+                "FR": "violation",
+                "NE": "उल्लङ्घन",
+                "BN": "লঙ্ঘন",
+                "ZH": "违反",
+                "KO": "위반",
+                "TL": "paglabag",
+                "MY": "ချိုးဖောက်မှု",
+                "HI": "उल्लंघन",
+                "AR": "انتهاك",
+                "FA": "نقض"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "彼は規則違反をしました。",
+                "furigana": "彼(かれ)は規則(きそく)違反(いはん)をしました。",
+                "translations": {
+                    "EN": "He violated the rules.",
+                    "ID": "Dia melanggar aturan.",
+                    "ES": "Él violó las reglas.",
+                    "VI": "Anh ấy đã vi phạm quy tắc.",
+                    "FR": "Il a enfreint les règles.",
+                    "NE": "उहाँले नियम उल्लङ्घन गर्नुभयो।",
+                    "BN": "সে নিয়ম ভঙ্গ করেছে।",
+                    "ZH": "他违反了规则。",
+                    "KO": "그는 규칙을 위반했다.",
+                    "TL": "Nilabag niya ang ating mga alituntunin.",
+                    "MY": "သူက စည်းမျဉ်းနှင့် ချိုးဖောက်ထားသည်။",
+                    "HI": "उसने नियमों का उल्लंघन किया।",
+                    "AR": "لقد انتهك القوانين.",
+                    "FA": "او قوانین را نقض کرد."
+                }
+            },
+            {
+                "kanji": "彼は交通違反をしました。",
+                "furigana": "彼(かれ)は交通(こうつう)違反(いはん)をしました。",
+                "translations": {
+                    "EN": "He committed a traffic violation.",
+                    "ID": "Dia melakukan pelanggaran lalu lintas.",
+                    "ES": "Él cometió una infracción de tráfico.",
+                    "VI": "Anh ấy đã vi phạm luật giao thông.",
+                    "FR": "Il a commis une infraction de circulation.",
+                    "NE": "उहाँले यातायात उल्लङ्घन गर्नुभयो।",
+                    "BN": "তিনি ট্রাফিক আইন লঙ্ঘন করেছেন।",
+                    "ZH": "他违反了交通规则。",
+                    "KO": "그는 교통 위반을 했습니다.",
+                    "TL": "Nagkasala siya sa trapiko.",
+                    "MY": "သူသည် လမ်းကြောင်းချိုးဖောက်မှုလုပ်ခဲ့သည်။",
+                    "HI": "उसने ट्रैफिक उल्लंघन किया।",
+                    "AR": "لقد ارتكب مخالفة مرورية.",
+                    "FA": "او یک تخلف رانندگی انجام داد."
+                }
+            },
+            {
+                "kanji": "彼は契約違反しました。",
+                "furigana": "彼(かれ)は契約(けいやく)違反(いはん)しました。",
+                "translations": {
+                    "EN": "He broke the contract.",
+                    "ID": "Dia melanggar kontrak.",
+                    "ES": "Él rompió el contrato.",
+                    "VI": "Anh ấy đã vi phạm hợp đồng.",
+                    "FR": "Il a rompu le contrat.",
+                    "NE": "उसले सम्झौता उल्लंघन गर्यो।",
+                    "BN": "তিনি চুক্তি ভঙ্গে করেছেন।",
+                    "ZH": "他违反了合同。",
+                    "KO": "그는 계약을 위반했습니다.",
+                    "TL": "Sinira niya ang kontrata.",
+                    "MY": "သူကစာချုပ်ကိုချိုးဖျက်ခဲ့တယ်။",
+                    "HI": "उसने अनुबंध का उल्लंघन किया।",
+                    "AR": "لقد خالف العقد.",
+                    "FA": "او قرارداد را شکست."
+                }
+            },
+            {
+                "kanji": "彼は犯則違反をしました。",
+                "furigana": "彼(かれ)は犯則(はんそく)違反(いはん)をしました。",
+                "translations": {
+                    "EN": "He committed an infringement of the rules.",
+                    "ID": "Dia melanggar aturan.",
+                    "ES": "Él cometió una infracción de las reglas.",
+                    "VI": "Anh ấy đã vi phạm quy tắc.",
+                    "FR": "Il a commis une infraction aux règles.",
+                    "NE": "उनले नियम उल्लंघन गरे।",
+                    "BN": "সে নিয়ম লঙ্ঘন করেছেন।",
+                    "ZH": "他违反了规定。",
+                    "KO": "그는 규칙 위반을 했습니다.",
+                    "TL": "Lumabag siya sa mga tuntunin.",
+                    "MY": "သူက စည်းကမ်းချိုးဖောက်ခဲ့တယ်။",
+                    "HI": "उसने नियमों का उल्लंघन किया।",
+                    "AR": "لقد ارتكب مخالفة للقواعد.",
+                    "FA": "او تخلفی در قوانین انجام داد."
+                }
+            },
+            {
+                "kanji": "彼は道徳違反です。",
+                "furigana": "彼(かれ)は道徳(どうとく)違反(いはん)です。",
+                "translations": {
+                    "EN": "He violates morality.",
+                    "ID": "Dia melanggar moral.",
+                    "ES": "Él viola la moralidad.",
+                    "VI": "Anh ta vi phạm đạo đức.",
+                    "FR": "Il viole la moralité.",
+                    "NE": "उनी नैतिकता उल्लंघन गर्छन्।",
+                    "BN": "সে নৈতিকতা লঙ্ঘন করে।",
+                    "ZH": "他违反了道德。",
+                    "KO": "그는 도덕 위반을 합니다.",
+                    "TL": "Nilalabag niya ang moralidad.",
+                    "MY": "သူသည် စိတ်သဘောထားကိုခံစားမှုကိုချိန်းဖောက်သောသူဖြစ်သည်။",
+                    "HI": "वह नैतिकता का उल्लंघन करता है।",
+                    "AR": "إنه ينتهك الأخلاق.",
+                    "FA": "او اخلاق را نقض می‌کند."
+                }
+            }
+        ],
+        "antonyms": [
+            "順守 : じゅんしゅ : observance"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"いはん\" is \"じゅんしゅ.\" While \"いはん\" indicates breaking rules, \"じゅんしゅ\" refers to complying with or obeying them.",
+        "kanji_details": [
+            {
+                "kanji": "違",
+                "common_words": [
+                    "違う: to differ",
+                    "違法: illegal"
+                ]
+            },
+            {
+                "kanji": "反",
+                "common_words": [
+                    "反対: opposition",
+                    "反省: reflection"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "違反",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "違反",
+                "reading": "いはん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "violation",
+                    "offense",
+                    "offence",
+                    "breach",
+                    "transgression",
+                    "infringement",
+                    "contravention"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "違",
+        "反"
     ],
-    "kanjis": [
-        {
-            "kanji": "違",
+    "kanji_data": {
+        "違": {
             "meanings": [
                 "differ",
                 "difference"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-ちが.える",
                 "たが.う",
                 "たが.える",
@@ -53,371 +222,41 @@
                 "ちが.う",
                 "ちが.える"
             ],
-            "strokes": 13,
+            "stroke_count": 13,
             "jlpt": 3,
-            "frequency": 344,
+            "freq_mainichi_shinbun": 344,
             "unicode": "9055",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "違う",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちがう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to differ",
-                                "to be different",
-                                "to be distinct",
-                                "to be unlike",
-                                "to vary",
-                                "to disagree"
-                            ],
-                            "part_of_speech": "Godan verb with 'u' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be wrong",
-                                "to be incorrect",
-                                "to be mistaken"
-                            ],
-                            "part_of_speech": "Godan verb with 'u' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to become abnormal",
-                                "to go wrong"
-                            ],
-                            "part_of_speech": "Godan verb with 'u' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "isn't it?",
-                                "wasn't it?"
-                            ],
-                            "part_of_speech": "Expressions (phrases, clauses, etc.)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "違法",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "いほう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "illegal",
-                                "illicit",
-                                "unlawful"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         },
-        {
-            "kanji": "反",
+        "反": {
             "meanings": [
                 "anti-"
             ],
-            "onyomi": [
+            "on_readings": [
                 "タン",
                 "ハン",
                 "ホ",
                 "ホン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-かえ.る",
                 "かえ.す",
                 "かえ.る",
                 "そ.らす",
                 "そ.る"
             ],
-            "strokes": 4,
+            "stroke_count": 4,
             "jlpt": 3,
-            "frequency": 191,
+            "freq_mainichi_shinbun": 191,
             "unicode": "53CD",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "反対",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はんたい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "opposition",
-                                "resistance",
-                                "antagonism",
-                                "hostility",
-                                "objection",
-                                "dissent"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "reverse",
-                                "opposite",
-                                "inverse",
-                                "contrary"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "反省",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はんせい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "reflection",
-                                "reconsideration",
-                                "introspection",
-                                "meditation",
-                                "contemplation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "regret",
-                                "repentance",
-                                "remorse",
-                                "being sorry"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means being different, a mistake, or violation and often shows contrast or something that goes against expectations. A common word is ちがう which uses this idea to mean that two things are not the same, and いほう uses it to show that an action goes against rules or law. The second kanji means opposition or turning against and is used for ideas of resistance or reversal. You see that in はんたい where it expresses taking an opposite stance, and in はんせい where it signals looking back on one’s actions and admitting a reversal or correction.",
-    "explanations": {
-        "explanation": "The word \"ihon\" means to violate or breach rules, laws, or agreements.",
-        "youtube_description": "Learn how to use the Japanese word 違反 (いはん) in everyday conversations!  \nIn this video, we'll explore its meanings, situations it applies to, and useful sentences to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "Today, we're diving into the word \"いはん\" which you might come across when discussing rules, especially in legal or formal settings.",
-        "collocations": [
-            "規則違反",
-            "交通違反",
-            "契約違反",
-            "犯則違反",
-            "道徳違反"
-        ],
-        "synonyms": [
-            "違犯"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"いはん\" is \"いひん.\" They both imply acting against rules, but \"いひん\" may sometimes be used more broadly or in different dialects.",
-        "antonyms": [
-            "順守"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"いはん\" is \"じゅんしゅ.\" While \"いはん\" indicates breaking rules, \"じゅんしゅ\" refers to complying with or obeying them."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "彼は規則違反をしました。",
-            "furigana": "彼(かれ)は規則(きそく)違反(いはん)をしました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は規則違反をしました。",
-                "English": "He violated the rules.",
-                "Persian": "او قوانین را نقض کرد.",
-                "Nepali": "उहाँले नियम उल्लङ्घन गर्नुभयो।",
-                "Indonesian": "Dia melanggar aturan.",
-                "Filipino": "Nilabag niya ang ating mga alituntunin.",
-                "Vietnamese": "Anh ấy đã vi phạm quy tắc.",
-                "Burmese": "သူက စည်းမျဉ်းနှင့် ချိုးဖောက်ထားသည်။",
-                "Korean": "그는 규칙을 위반했다.",
-                "Hindi": "उसने नियमों का उल्लंघन किया।",
-                "Arabic": "لقد انتهك القوانين.",
-                "French": "Il a enfreint les règles.",
-                "Spanish": "Él violó las reglas.",
-                "Chinese": "他违反了规则。",
-                "Bengali": "সে নিয়ম ভঙ্গ করেছে।"
-            }
-        },
-        {
-            "kanji": "彼は交通違反をしました。",
-            "furigana": "彼(かれ)は交通(こうつう)違反(いはん)をしました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は交通違反をしました。",
-                "English": "He committed a traffic violation.",
-                "Persian": "او یک تخلف رانندگی انجام داد.",
-                "Nepali": "उहाँले यातायात उल्लङ्घन गर्नुभयो।",
-                "Indonesian": "Dia melakukan pelanggaran lalu lintas.",
-                "Filipino": "Nagkasala siya sa trapiko.",
-                "Vietnamese": "Anh ấy đã vi phạm luật giao thông.",
-                "Burmese": "သူသည် လမ်းကြောင်းချိုးဖောက်မှုလုပ်ခဲ့သည်။",
-                "Korean": "그는 교통 위반을 했습니다.",
-                "Hindi": "उसने ट्रैफिक उल्लंघन किया।",
-                "Arabic": "لقد ارتكب مخالفة مرورية.",
-                "French": "Il a commis une infraction de circulation.",
-                "Spanish": "Él cometió una infracción de tráfico.",
-                "Chinese": "他违反了交通规则。",
-                "Bengali": "তিনি ট্রাফিক আইন লঙ্ঘন করেছেন।"
-            }
-        },
-        {
-            "kanji": "彼は契約違反しました。",
-            "furigana": "彼(かれ)は契約(けいやく)違反(いはん)しました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は契約違反しました。",
-                "English": "He broke the contract.",
-                "Persian": "او قرارداد را شکست.",
-                "Nepali": "उसले सम्झौता उल्लंघन गर्यो।",
-                "Indonesian": "Dia melanggar kontrak.",
-                "Filipino": "Sinira niya ang kontrata.",
-                "Vietnamese": "Anh ấy đã vi phạm hợp đồng.",
-                "Burmese": "သူကစာချုပ်ကိုချိုးဖျက်ခဲ့တယ်။",
-                "Korean": "그는 계약을 위반했습니다.",
-                "Hindi": "उसने अनुबंध का उल्लंघन किया।",
-                "Arabic": "لقد خالف العقد.",
-                "French": "Il a rompu le contrat.",
-                "Spanish": "Él rompió el contrato.",
-                "Chinese": "他违反了合同。",
-                "Bengali": "তিনি চুক্তি ভঙ্গে করেছেন।"
-            }
-        },
-        {
-            "kanji": "彼は犯則違反をしました。",
-            "furigana": "彼(かれ)は犯則(はんそく)違反(いはん)をしました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は犯則違反をしました。",
-                "English": "He committed an infringement of the rules.",
-                "Persian": "او تخلفی در قوانین انجام داد.",
-                "Nepali": "उनले नियम उल्लंघन गरे।",
-                "Indonesian": "Dia melanggar aturan.",
-                "Filipino": "Lumabag siya sa mga tuntunin.",
-                "Vietnamese": "Anh ấy đã vi phạm quy tắc.",
-                "Burmese": "သူက စည်းကမ်းချိုးဖောက်ခဲ့တယ်။",
-                "Korean": "그는 규칙 위반을 했습니다.",
-                "Hindi": "उसने नियमों का उल्लंघन किया।",
-                "Arabic": "لقد ارتكب مخالفة للقواعد.",
-                "French": "Il a commis une infraction aux règles.",
-                "Spanish": "Él cometió una infracción de las reglas.",
-                "Chinese": "他违反了规定。",
-                "Bengali": "সে নিয়ম লঙ্ঘন করেছেন।"
-            }
-        },
-        {
-            "kanji": "彼は道徳違反です。",
-            "furigana": "彼(かれ)は道徳(どうとく)違反(いはん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は道徳違反です。",
-                "English": "He violates morality.",
-                "Persian": "او اخلاق را نقض می‌کند.",
-                "Nepali": "उनी नैतिकता उल्लंघन गर्छन्।",
-                "Indonesian": "Dia melanggar moral.",
-                "Filipino": "Nilalabag niya ang moralidad.",
-                "Vietnamese": "Anh ta vi phạm đạo đức.",
-                "Burmese": "သူသည် စိတ်သဘောထားကိုခံစားမှုကိုချိန်းဖောက်သောသူဖြစ်သည်။",
-                "Korean": "그는 도덕 위반을 합니다.",
-                "Hindi": "वह नैतिकता का उल्लंघन करता है।",
-                "Arabic": "إنه ينتهك الأخلاق.",
-                "French": "Il viole la moralité.",
-                "Spanish": "Él viola la moralidad.",
-                "Chinese": "他违反了道德。",
-                "Bengali": "সে নৈতিকতা লঙ্ঘন করে।"
-            }
-        }
-    ],
-    "synonyms": [],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "順守",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "じゅんしゅ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "observance",
-                        "adherence",
-                        "obeying",
-                        "following",
-                        "abiding by",
-                        "compliance"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "規則違反",
+        "交通違反",
+        "契約違反",
+        "犯則違反",
+        "道徳違反"
     ]
 }

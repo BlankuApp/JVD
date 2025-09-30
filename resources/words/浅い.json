@@ -1,89 +1,252 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "浅い",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/qu4kdrUwEqU",
     "in_db": true,
-    "reading": "あさい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "浅い",
+        "reading": "あさい",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is あさい, which you will often hear in situations when talking about depths, surfaces, or levels in both literal and metaphorical sense.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"浅い\" pronounced as \"あさい\", means \"shallow\" in English. It's used to describe something that isn't deep, and can refer to both physical and abstract things, like a shallow water or a surface conversation.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "shallow",
                 "superficial"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "浅い",
-                "English": "shallow",
-                "Persian": "سطحی",
-                "Nepali": "उथलो",
-                "Indonesian": "dangkal",
-                "Filipino": "mababaw",
-                "Vietnamese": "nông",
-                "Burmese": "အခြားမရှိဘူး",
-                "Korean": "얕은",
-                "Hindi": "उथला",
-                "Arabic": "ضَحْل",
-                "French": "peu profond",
-                "Spanish": "superficial",
-                "Chinese": "浅",
-                "Bengali": "অগভীর"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "slight",
                 "light",
                 "pale",
                 "inadequate"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "浅い",
-                "English": "shallow",
-                "Persian": "کم عمق",
-                "Nepali": "उथला",
-                "Indonesian": "dangkal",
-                "Filipino": "mababaw",
-                "Vietnamese": "nông",
-                "Burmese": "ပျော်ရွှင်သော",
-                "Korean": "얕은",
-                "Hindi": "उथला",
-                "Arabic": "ضَحْلٌ",
-                "French": "peu profond",
-                "Spanish": "poco profundo",
-                "Chinese": "浅",
-                "Bengali": "অগভীর"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "short",
                 "early",
                 "young"
-            ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "浅い",
-                "English": "Shallow",
-                "Persian": "کم عمق",
-                "Nepali": "छोटो",
-                "Indonesian": "Dangkal",
-                "Filipino": "Mababaw",
-                "Vietnamese": "Nông",
-                "Burmese": "အနည်းငယ် နက်သော",
-                "Korean": "얕은",
-                "Hindi": "उथला",
-                "Arabic": "ضَحِل",
-                "French": "Peu profond",
-                "Spanish": "Poco profundo",
-                "Chinese": "浅",
-                "Bengali": "অগভীর"
+            ]
+        ],
+        "meaning_translations": {
+            "shallow": {
+                "EN": "shallow",
+                "ID": "dangkal",
+                "ES": "superficial",
+                "VI": "nông",
+                "FR": "peu profond",
+                "NE": "उथलो",
+                "BN": "অগভীর",
+                "ZH": "浅",
+                "KO": "얕은",
+                "TL": "mababaw",
+                "MY": "အခြားမရှိဘူး",
+                "HI": "उथला",
+                "AR": "ضَحْل",
+                "FA": "سطحی"
+            },
+            "slight": {
+                "EN": "shallow",
+                "ID": "dangkal",
+                "ES": "poco profundo",
+                "VI": "nông",
+                "FR": "peu profond",
+                "NE": "उथला",
+                "BN": "অগভীর",
+                "ZH": "浅",
+                "KO": "얕은",
+                "TL": "mababaw",
+                "MY": "ပျော်ရွှင်သော",
+                "HI": "उथला",
+                "AR": "ضَحْلٌ",
+                "FA": "کم عمق"
+            },
+            "short": {
+                "EN": "Shallow",
+                "ID": "Dangkal",
+                "ES": "Poco profundo",
+                "VI": "Nông",
+                "FR": "Peu profond",
+                "NE": "छोटो",
+                "BN": "অগভীর",
+                "ZH": "浅",
+                "KO": "얕은",
+                "TL": "Mababaw",
+                "MY": "အနည်းငယ် နက်သော",
+                "HI": "उथला",
+                "AR": "ضَحِل",
+                "FA": "کم عمق"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "川が浅いです。",
+                "furigana": "川(かわ)が浅(あさ)いです。",
+                "translations": {
+                    "EN": "The river is shallow.",
+                    "ID": "Sungai dangkal.",
+                    "ES": "El río es poco profundo.",
+                    "VI": "Sông thì nông.",
+                    "FR": "La rivière est peu profonde.",
+                    "NE": "नदी उथली छ।",
+                    "BN": "নদী অগভীর।",
+                    "ZH": "河水很浅。",
+                    "KO": "강이 얕다.",
+                    "TL": "Mababaw ang ilog.",
+                    "MY": "မြစ်သည် ရက်ရောငှာပြီ။",
+                    "HI": "नदी उथली है।",
+                    "AR": "النهر ضحل.",
+                    "FA": "رودخانه کم عمق است."
+                }
+            },
+            {
+                "kanji": "浅い水たまりがあります。",
+                "furigana": "浅(あさ)い水(みず)たまりがあります。",
+                "translations": {
+                    "EN": "There is a shallow puddle.",
+                    "ID": "Ada genangan air yang dangkal.",
+                    "ES": "Hay un charco poco profundo.",
+                    "VI": "Có một vũng nước nông.",
+                    "FR": "Il y a une flaque d'eau peu profonde.",
+                    "NE": "त्यहाँ एउटा सतही पोखरी छ।",
+                    "BN": "একটি অগভীর জলাশয় আছে।",
+                    "ZH": "有一个浅水洼。",
+                    "KO": "얕은 물웅덩이가 있습니다.",
+                    "TL": "May mababaw na lawang tubig.",
+                    "MY": "အနိမ့်သော ရေကန်ရှိသည်။",
+                    "HI": "वहाँ एक उथला पानी का गड्डा है।",
+                    "AR": "هناك بركة ماء ضحلة.",
+                    "FA": "یک چاله کم‌عمق وجود دارد."
+                }
+            },
+            {
+                "kanji": "彼は浅い眠りしかできません。",
+                "furigana": "彼(かれ)は浅(あさ)い眠(ねむ)りしかできません。",
+                "translations": {
+                    "EN": "He can only have light sleep.",
+                    "ID": "Dia hanya bisa tidur ringan.",
+                    "ES": "Él solo puede tener un sueño ligero.",
+                    "VI": "Anh ấy chỉ có thể ngủ nhẹ nhàng.",
+                    "FR": "Il ne peut dormir que légèrement.",
+                    "NE": "उहाँलाई हल्का निन्द्रामा मात्र पर्न सक्छ।",
+                    "BN": "তিনি কেবল হালকা ঘুমই পারেন।",
+                    "ZH": "他只能睡得很浅。",
+                    "KO": "그는 얕은 잠만 잘 수 있습니다.",
+                    "TL": "Mababaw lang ang kanyang tulog.",
+                    "MY": "သူနှင့် အိပ်ခြင်း မကြားတော့ ကျယ်ရုန်းသည်။",
+                    "HI": "वह केवल हल्की नींद के लिए ही सक्षम है।",
+                    "AR": "لا يستطيع النوم إلا بشكل خفيف.",
+                    "FA": "او فقط می تواند خواب سبک داشته باشد."
+                }
+            },
+            {
+                "kanji": "彼は浅い理解です。",
+                "furigana": "彼(かれ)は浅(あさ)い理解(りかい)です。",
+                "translations": {
+                    "EN": "He has a shallow understanding.",
+                    "ID": "Dia memiliki pemahaman dangkal.",
+                    "ES": "Tiene una comprensión superficial.",
+                    "VI": "Anh ấy có hiểu biết nông cạn.",
+                    "FR": "Il a une compréhension superficielle.",
+                    "NE": "उ कान्छो बुझाइ छ।",
+                    "BN": "তার সহজবোধ্য বোঝাপড়া আছে।",
+                    "ZH": "他理解浅薄。",
+                    "KO": "그는 이해가 얕다.",
+                    "TL": "May mababaw na pang-unawa siya.",
+                    "MY": "သူက နက်နက်ရှိုင်းရှိုင်းနားလည်မှုရှိတယ်။",
+                    "HI": "उसे उथला समझ है।",
+                    "AR": "لديه فهم سطحي.",
+                    "FA": "او درک سطحی دارد."
+                }
+            }
+        ],
+        "antonyms": [
+            "深い : ふかい : deep"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word '浅い' are ふかい and ふかい. These words mean \"deep\" in English and are used when referring to something profound or having significant depth, contrasting with the shallow aspect of あさい.",
+        "kanji_details": [
+            {
+                "kanji": "浅",
+                "common_words": [
+                    "浅瀬: shoal",
+                    "浅薄: shallow"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "浅い",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "浅い",
+                "reading": "あさい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "shallow",
+                    "superficial"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "slight",
+                    "light",
+                    "pale",
+                    "inadequate"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "short",
+                    "early",
+                    "young"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "浅"
     ],
-    "kanjis": [
-        {
-            "kanji": "浅",
+    "kanji_data": {
+        "浅": {
             "meanings": [
                 "frivolous",
                 "shallow",
@@ -91,251 +254,23 @@
                 "superficial",
                 "wretched"
             ],
-            "onyomi": [
+            "on_readings": [
                 "セン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あさ.い"
             ],
-            "strokes": 9,
+            "stroke_count": 9,
             "jlpt": 2,
-            "frequency": 1253,
+            "freq_mainichi_shinbun": 1253,
             "unicode": "6D45",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "浅瀬",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "あさせ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "shoal",
-                                "shallows",
-                                "sand bar",
-                                "ford"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "浅薄",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "せんぱく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "shallow",
-                                "superficial"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means shallow or superficial, like not very deep or only on the surface. In the word あさせ it literally points to a shallow spot in water, so the kanji suggests low depth. In the word せんぱく it means superficial or shallow knowledge, so the kanji gives the sense of something not deep or thorough.",
-    "explanations": {
-        "explanation": "The word \"浅い\" pronounced as \"あさい\", means \"shallow\" in English. It's used to describe something that isn't deep, and can refer to both physical and abstract things, like a shallow water or a surface conversation.",
-        "youtube_description": "Learn how to use the Japanese word 浅い (あさい) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is あさい, which you will often hear in situations when talking about depths, surfaces, or levels in both literal and metaphorical sense.",
-        "collocations": [
-            "川があさい",
-            "あさい水たまり",
-            "あさい眠り",
-            "あさい理解"
-        ],
-        "synonyms": [
-            "浅い"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word '浅い' are あさい and あさい. Both of them carry the meaning of \"shallow\" but might be used in slightly different contexts based on regional speech or preference in conversation.",
-        "antonyms": [
-            "深い"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word '浅い' are ふかい and ふかい. These words mean \"deep\" in English and are used when referring to something profound or having significant depth, contrasting with the shallow aspect of あさい."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "川が浅いです。",
-            "furigana": "川(かわ)が浅(あさ)いです。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "川が浅いです。",
-                "English": "The river is shallow.",
-                "Persian": "رودخانه کم عمق است.",
-                "Nepali": "नदी उथली छ।",
-                "Indonesian": "Sungai dangkal.",
-                "Filipino": "Mababaw ang ilog.",
-                "Vietnamese": "Sông thì nông.",
-                "Burmese": "မြစ်သည် ရက်ရောငှာပြီ။",
-                "Korean": "강이 얕다.",
-                "Hindi": "नदी उथली है।",
-                "Arabic": "النهر ضحل.",
-                "French": "La rivière est peu profonde.",
-                "Spanish": "El río es poco profundo.",
-                "Chinese": "河水很浅。",
-                "Bengali": "নদী অগভীর।"
-            }
-        },
-        {
-            "kanji": "浅い水たまりがあります。",
-            "furigana": "浅(あさ)い水(みず)たまりがあります。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "浅い水たまりがあります。",
-                "English": "There is a shallow puddle.",
-                "Persian": "یک چاله کم‌عمق وجود دارد.",
-                "Nepali": "त्यहाँ एउटा सतही पोखरी छ।",
-                "Indonesian": "Ada genangan air yang dangkal.",
-                "Filipino": "May mababaw na lawang tubig.",
-                "Vietnamese": "Có một vũng nước nông.",
-                "Burmese": "အနိမ့်သော ရေကန်ရှိသည်။",
-                "Korean": "얕은 물웅덩이가 있습니다.",
-                "Hindi": "वहाँ एक उथला पानी का गड्डा है।",
-                "Arabic": "هناك بركة ماء ضحلة.",
-                "French": "Il y a une flaque d'eau peu profonde.",
-                "Spanish": "Hay un charco poco profundo.",
-                "Chinese": "有一个浅水洼。",
-                "Bengali": "একটি অগভীর জলাশয় আছে।"
-            }
-        },
-        {
-            "kanji": "彼は浅い眠りしかできません。",
-            "furigana": "彼(かれ)は浅(あさ)い眠(ねむ)りしかできません。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は浅い眠りしかできません。",
-                "English": "He can only have light sleep.",
-                "Persian": "او فقط می تواند خواب سبک داشته باشد.",
-                "Nepali": "उहाँलाई हल्का निन्द्रामा मात्र पर्न सक्छ।",
-                "Indonesian": "Dia hanya bisa tidur ringan.",
-                "Filipino": "Mababaw lang ang kanyang tulog.",
-                "Vietnamese": "Anh ấy chỉ có thể ngủ nhẹ nhàng.",
-                "Burmese": "သူနှင့် အိပ်ခြင်း မကြားတော့ ကျယ်ရုန်းသည်။",
-                "Korean": "그는 얕은 잠만 잘 수 있습니다.",
-                "Hindi": "वह केवल हल्की नींद के लिए ही सक्षम है।",
-                "Arabic": "لا يستطيع النوم إلا بشكل خفيف.",
-                "French": "Il ne peut dormir que légèrement.",
-                "Spanish": "Él solo puede tener un sueño ligero.",
-                "Chinese": "他只能睡得很浅。",
-                "Bengali": "তিনি কেবল হালকা ঘুমই পারেন।"
-            }
-        },
-        {
-            "kanji": "彼は浅い理解です。",
-            "furigana": "彼(かれ)は浅(あさ)い理解(りかい)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼は浅い理解です。",
-                "English": "He has a shallow understanding.",
-                "Persian": "او درک سطحی دارد.",
-                "Nepali": "उ कान्छो बुझाइ छ।",
-                "Indonesian": "Dia memiliki pemahaman dangkal.",
-                "Filipino": "May mababaw na pang-unawa siya.",
-                "Vietnamese": "Anh ấy có hiểu biết nông cạn.",
-                "Burmese": "သူက နက်နက်ရှိုင်းရှိုင်းနားလည်မှုရှိတယ်။",
-                "Korean": "그는 이해가 얕다.",
-                "Hindi": "उसे उथला समझ है।",
-                "Arabic": "لديه فهم سطحي.",
-                "French": "Il a une compréhension superficielle.",
-                "Spanish": "Tiene una comprensión superficial.",
-                "Chinese": "他理解浅薄。",
-                "Bengali": "তার সহজবোধ্য বোঝাপড়া আছে।"
-            }
-        }
-    ],
-    "synonyms": [],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "深い",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ふかい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "deep"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "profound"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "dense",
-                        "thick"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "close"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "intense",
-                        "strong"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "late"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "川があさい",
+        "あさい水たまり",
+        "あさい眠り",
+        "あさい理解"
     ]
 }

@@ -1,42 +1,215 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "熱心",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/jIgsgz5TaBg",
     "in_db": true,
-    "reading": "ねっしん",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "熱心",
+        "reading": "ねっしん",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is ねっしん which you will often hear in situations where people are being praised for their passion, dedication, or focus towards a particular cause, activity, or job.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"ねっしん\" means enthusiastic or zealous. It describes a state where someone is devoted or intensely eager about a task or activity. When a person shows great interest or passion, often going beyond what is necessary, they are considered \"ねっしん.\"",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "zealous",
                 "enthusiastic",
                 "ardent",
                 "fervent",
                 "keen",
                 "eager"
-            ],
-            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-            "translation": {
-                "Japanese": "熱心",
-                "English": "zealous",
-                "Persian": "مشتاق",
-                "Nepali": "उत्साही",
-                "Indonesian": "bersemangat",
-                "Filipino": "masigasig",
-                "Vietnamese": "nhiệt tình",
-                "Burmese": "လောဘ၊ စိတ်အားထက်သန်မှုရှိသော",
-                "Korean": "열성적",
-                "Hindi": "उत्साही",
-                "Arabic": "متحمس",
-                "French": "zélé",
-                "Spanish": "fervoroso",
-                "Chinese": "热心",
-                "Bengali": "উৎসাহী"
+            ]
+        ],
+        "meaning_translations": {
+            "zealous": {
+                "EN": "zealous",
+                "ID": "bersemangat",
+                "ES": "fervoroso",
+                "VI": "nhiệt tình",
+                "FR": "zélé",
+                "NE": "उत्साही",
+                "BN": "উৎসাহী",
+                "ZH": "热心",
+                "KO": "열성적",
+                "TL": "masigasig",
+                "MY": "လောဘ၊ စိတ်အားထက်သန်မှုရှိသော",
+                "HI": "उत्साही",
+                "AR": "متحمس",
+                "FA": "مشتاق"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "彼は毎日ねっしんに勉強します。",
+                "furigana": "彼(かれ)は毎日(まいにち)ねっしんに勉強(べんきょう)します。",
+                "translations": {
+                    "EN": "He studies diligently every day.",
+                    "ID": "Dia belajar dengan rajin setiap hari.",
+                    "ES": "Él estudia arduamente todos los días.",
+                    "VI": "Cậu ấy học chăm chỉ mỗi ngày.",
+                    "FR": "Il étudie avec diligence tous les jours.",
+                    "NE": "उ उनी प्रत्येक दिन मिहेनतका साथ अध्ययन गर्छन।",
+                    "BN": "সে প্রতিদিন মনোযোগ সহকারে পড়াশোনা করে।",
+                    "ZH": "他每天都认真学习。",
+                    "KO": "그는 매일 열심히 공부합니다.",
+                    "TL": "Nag-aaral siya ng mabuti araw-araw.",
+                    "MY": "သူကနေ့တိုင်းစေ့စပ်စွာလေ့လာပါသည်။",
+                    "HI": "वह रोजाना बहुत मेहनत से पढ़ाई करता है।",
+                    "AR": "هو يدرس بجدية كل يوم.",
+                    "FA": "او هر روز با جدیت تحصیل می‌کند."
+                }
+            },
+            {
+                "kanji": "彼は熱心に働きます。",
+                "furigana": "彼(かれ)は熱心(ねっしん)に働(はたら)きます。",
+                "translations": {
+                    "EN": "He works diligently.",
+                    "ID": "Dia bekerja dengan rajin.",
+                    "ES": "Él trabaja diligentemente.",
+                    "VI": "Anh ấy làm việc chăm chỉ.",
+                    "FR": "Il travaille avec diligence.",
+                    "NE": "उनी सावधानीपूर्वक काम गर्छन्।",
+                    "BN": "তিনি পরিশ্রম করে কাজ করেন।",
+                    "ZH": "他努力工作。",
+                    "KO": "그는 열심히 일합니다.",
+                    "TL": "Masipag siyang magtrabaho.",
+                    "MY": "သူသည် တကြိမ်လည် လုပ်ကိုင်သည်။",
+                    "HI": "वह मेहनत से काम करता है।",
+                    "AR": "هو يعمل بجدية.",
+                    "FA": "او با دقت کار می‌کند."
+                }
+            },
+            {
+                "kanji": "彼は熱心に仕事に取り組む。",
+                "furigana": "彼(かれ)は熱心(ねっしん)に仕事(しごと)に取り組む(とりくむ)。",
+                "translations": {
+                    "EN": "He works diligently at his job.",
+                    "ID": "Dia bekerja dengan penuh semangat pada pekerjaannya.",
+                    "ES": "Él se dedica con entusiasmo a su trabajo.",
+                    "VI": "Anh ấy tận tâm làm việc của mình.",
+                    "FR": "Il travaille avec assiduité à son emploi.",
+                    "NE": "उनले तिनका काममा जोशका साथ समर्पित छन्।",
+                    "BN": "তিনি তাঁর কাজে মনোযোগ সহকারে লিপ্ত হন।",
+                    "ZH": "他认真工作。",
+                    "KO": "그는 열심히 일에 임한다.",
+                    "TL": "Masipag siyang nagtatrabaho sa kanyang trabaho.",
+                    "MY": "သူသည်အလုပ်ကိုစိတ်ကြိုက်လုပ်ဆောင်သည်။",
+                    "HI": "वह अपने काम में दिल के साथ जुट जाता है।",
+                    "AR": "هو يعمل بجد في وظيفته.",
+                    "FA": "او با علاقه به کارش می‌پردازد."
+                }
+            },
+            {
+                "kanji": "彼女は子供たちを熱心にサポートします。",
+                "furigana": "彼女(かのじょ)は子供(こども)たちを熱心(ねっしん)にサポートします。",
+                "translations": {
+                    "EN": "She supports the children eagerly.",
+                    "ID": "Dia mendukung anak-anak dengan semangat.",
+                    "ES": "Ella apoya a los niños con entusiasmo.",
+                    "VI": "Cô ấy hỗ trợ các em nhỏ một cách nhiệt tình.",
+                    "FR": "Elle soutient les enfants avec zèle.",
+                    "NE": "उनी बच्चाहरूलाई उत्साहका साथ समर्थन गर्छिन्।",
+                    "BN": "তিনি শিশুদের উৎসাহের সাথে সমর্থন করেন।",
+                    "ZH": "她热心地支持这些孩子。",
+                    "KO": "그녀는 아이들을 열심히 지원합니다.",
+                    "TL": "Sinasuportahan niya ng buong sipag ang mga bata.",
+                    "MY": "သူမသည်ကလေးများအားစိတ်အားထက်သန်စွာထောက်ပံ့ပေးသည်။",
+                    "HI": "वह बच्चों को उत्साहपूर्वक समर्थन करती है।",
+                    "AR": "إنها تدعم الأطفال بجدية.",
+                    "FA": "او با علاقه از بچه‌ها حمایت می‌کند."
+                }
+            },
+            {
+                "kanji": "先生が熱心に説明します。",
+                "furigana": "先生(せんせい)が熱心(ねっしん)に説明(せつめい)します。",
+                "translations": {
+                    "EN": "The teacher explains enthusiastically.",
+                    "ID": "Guru menjelaskan dengan antusias.",
+                    "ES": "El profesor explica con entusiasmo.",
+                    "VI": "Giáo viên giải thích một cách nhiệt tình.",
+                    "FR": "Le professeur explique avec enthousiasme.",
+                    "NE": "शिक्षकले उत्साही भएर व्याख्या गर्नुहुन्छ।",
+                    "BN": "শিক্ষক উৎসাহের সাথে ব্যাখ্যা করেন।",
+                    "ZH": "老师热心地解释。",
+                    "KO": "선생님이 열심히 설명합니다.",
+                    "TL": "Ang guro ay nagpapaliwanag nang masigasig.",
+                    "MY": "ဆရာမှ စိတ်အားထက်သန်စွာ ရှင်းပြသည်။",
+                    "HI": "शिक्षक उत्साह से समझाता है।",
+                    "AR": "المعلم يشرح بحماس.",
+                    "FA": "معلم با اشتیاق توضیح می‌دهد."
+                }
+            }
+        ],
+        "synonyms": [
+            "熱意 : ねつい : zeal",
+            "情熱 : じょうねつ : passion"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"ねっしん\" are \"ねつい\" and \"じょうねつ.\" The word \"ねつい\" refers to enthusiasm or fervor, often indicating a lively and energetic engagement. Meanwhile, \"じょうねつ\" highlights a deep passion or emotional investment towards something. While all these words express fervent interest, \"ねっしん\" tends to be more general, covering various levels of active involvement.",
+        "antonyms": [
+            "無関心 : むかんしん : apathetic"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"ねっしん\" is \"むかんしん.\" This word means indifferent or having no interest or concern about something. Unlike \"ねっしん,\" which conveys enthusiasm and eagerness, \"むかんしん\" indicates apathy or disinterest, showing no involvement or zeal.",
+        "kanji_details": [
+            {
+                "kanji": "熱",
+                "common_words": [
+                    "発熱: generation of heat",
+                    "熱い: hot"
+                ]
+            },
+            {
+                "kanji": "心",
+                "common_words": [
+                    "心配: worry",
+                    "中心: center"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "熱心",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "熱心",
+                "reading": "ねっしん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "zealous",
+                    "enthusiastic",
+                    "ardent",
+                    "fervent",
+                    "keen",
+                    "eager"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "熱",
+        "心"
     ],
-    "kanjis": [
-        {
-            "kanji": "熱",
+    "kanji_data": {
+        "熱": {
             "meanings": [
                 "fever",
                 "heat",
@@ -44,454 +217,44 @@
                 "passion",
                 "temperature"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ネツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あつ.い"
             ],
-            "strokes": 15,
+            "stroke_count": 15,
             "jlpt": 3,
-            "frequency": 700,
+            "freq_mainichi_shinbun": 700,
             "unicode": "71B1",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "発熱",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はつねつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "generation of heat"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                " fever",
-                                "pyrexia"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "熱い",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "あつい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "hot"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "passionate",
-                                "ardent",
-                                "hot"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "hot"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "zealous",
-                                "enthusiastic",
-                                "fired up"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "intense",
-                                "severe",
-                                "extreme"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "hot",
-                                "of interest"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         },
-        {
-            "kanji": "心",
+        "心": {
             "meanings": [
                 "heart",
                 "heart radical (no. 61)",
                 "mind",
                 "spirit"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-ごころ",
                 "こころ"
             ],
-            "strokes": 4,
+            "stroke_count": 4,
             "jlpt": 4,
-            "frequency": 157,
+            "freq_mainichi_shinbun": 157,
             "unicode": "5FC3",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "心配",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しんぱい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "worry",
-                                "concern",
-                                "anxiety",
-                                "uneasiness",
-                                "fear"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb, Na-adjective (keiyodoshi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "care",
-                                "help",
-                                "aid",
-                                "assistance"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "中心",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちゅうしん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "center",
-                                "centre",
-                                "middle",
-                                "heart",
-                                "core",
-                                "focus",
-                                "pivot",
-                                "emphasis",
-                                "balance"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "-centered",
-                                "-centred",
-                                "-focused",
-                                "-oriented",
-                                "centered on",
-                                "focused on"
-                            ],
-                            "part_of_speech": "Suffix",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means heat or fever and also carries the idea of strong passion or intensity. In vocabulary like はつねつ it keeps the sense of fever or elevated temperature, and in あつい it contributes the idea of physical heat or a hot feeling. The second kanji means heart or mind, the inner center of feeling and thought. In words such as しんぱい it brings the sense of emotional concern, and in ちゅうしん it gives the idea of the central core or focus.",
-    "explanations": {
-        "explanation": "The word \"ねっしん\" means enthusiastic or zealous. It describes a state where someone is devoted or intensely eager about a task or activity. When a person shows great interest or passion, often going beyond what is necessary, they are considered \"ねっしん.\"",
-        "youtube_description": "Learn how to use the Japanese word 熱心 (ねっしん) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is ねっしん which you will often hear in situations where people are being praised for their passion, dedication, or focus towards a particular cause, activity, or job.",
-        "collocations": [
-            "ねっしんに勉強する",
-            "ねっしんに働く",
-            "ねっしんに取り組む",
-            "ねっしんにサポートする",
-            "ねっしんに説明する"
-        ],
-        "synonyms": [
-            "熱意",
-            "情熱"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"ねっしん\" are \"ねつい\" and \"じょうねつ.\" The word \"ねつい\" refers to enthusiasm or fervor, often indicating a lively and energetic engagement. Meanwhile, \"じょうねつ\" highlights a deep passion or emotional investment towards something. While all these words express fervent interest, \"ねっしん\" tends to be more general, covering various levels of active involvement.",
-        "antonyms": [
-            "無関心"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"ねっしん\" is \"むかんしん.\" This word means indifferent or having no interest or concern about something. Unlike \"ねっしん,\" which conveys enthusiasm and eagerness, \"むかんしん\" indicates apathy or disinterest, showing no involvement or zeal."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "彼は毎日ねっしんに勉強します。",
-            "furigana": "彼(かれ)は毎日(まいにち)ねっしんに勉強(べんきょう)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は毎日ねっしんに勉強します。",
-                "English": "He studies diligently every day.",
-                "Persian": "او هر روز با جدیت تحصیل می‌کند.",
-                "Nepali": "उ उनी प्रत्येक दिन मिहेनतका साथ अध्ययन गर्छन।",
-                "Indonesian": "Dia belajar dengan rajin setiap hari.",
-                "Filipino": "Nag-aaral siya ng mabuti araw-araw.",
-                "Vietnamese": "Cậu ấy học chăm chỉ mỗi ngày.",
-                "Burmese": "သူကနေ့တိုင်းစေ့စပ်စွာလေ့လာပါသည်။",
-                "Korean": "그는 매일 열심히 공부합니다.",
-                "Hindi": "वह रोजाना बहुत मेहनत से पढ़ाई करता है।",
-                "Arabic": "هو يدرس بجدية كل يوم.",
-                "French": "Il étudie avec diligence tous les jours.",
-                "Spanish": "Él estudia arduamente todos los días.",
-                "Chinese": "他每天都认真学习。",
-                "Bengali": "সে প্রতিদিন মনোযোগ সহকারে পড়াশোনা করে।"
-            }
-        },
-        {
-            "kanji": "彼は熱心に働きます。",
-            "furigana": "彼(かれ)は熱心(ねっしん)に働(はたら)きます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は熱心に働きます。",
-                "English": "He works diligently.",
-                "Persian": "او با دقت کار می‌کند.",
-                "Nepali": "उनी सावधानीपूर्वक काम गर्छन्।",
-                "Indonesian": "Dia bekerja dengan rajin.",
-                "Filipino": "Masipag siyang magtrabaho.",
-                "Vietnamese": "Anh ấy làm việc chăm chỉ.",
-                "Burmese": "သူသည် တကြိမ်လည် လုပ်ကိုင်သည်။",
-                "Korean": "그는 열심히 일합니다.",
-                "Hindi": "वह मेहनत से काम करता है।",
-                "Arabic": "هو يعمل بجدية.",
-                "French": "Il travaille avec diligence.",
-                "Spanish": "Él trabaja diligentemente.",
-                "Chinese": "他努力工作。",
-                "Bengali": "তিনি পরিশ্রম করে কাজ করেন।"
-            }
-        },
-        {
-            "kanji": "彼は熱心に仕事に取り組む。",
-            "furigana": "彼(かれ)は熱心(ねっしん)に仕事(しごと)に取り組む(とりくむ)。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は熱心に仕事に取り組む。",
-                "English": "He works diligently at his job.",
-                "Persian": "او با علاقه به کارش می‌پردازد.",
-                "Nepali": "उनले तिनका काममा जोशका साथ समर्पित छन्।",
-                "Indonesian": "Dia bekerja dengan penuh semangat pada pekerjaannya.",
-                "Filipino": "Masipag siyang nagtatrabaho sa kanyang trabaho.",
-                "Vietnamese": "Anh ấy tận tâm làm việc của mình.",
-                "Burmese": "သူသည်အလုပ်ကိုစိတ်ကြိုက်လုပ်ဆောင်သည်။",
-                "Korean": "그는 열심히 일에 임한다.",
-                "Hindi": "वह अपने काम में दिल के साथ जुट जाता है।",
-                "Arabic": "هو يعمل بجد في وظيفته.",
-                "French": "Il travaille avec assiduité à son emploi.",
-                "Spanish": "Él se dedica con entusiasmo a su trabajo.",
-                "Chinese": "他认真工作。",
-                "Bengali": "তিনি তাঁর কাজে মনোযোগ সহকারে লিপ্ত হন।"
-            }
-        },
-        {
-            "kanji": "彼女は子供たちを熱心にサポートします。",
-            "furigana": "彼女(かのじょ)は子供(こども)たちを熱心(ねっしん)にサポートします。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼女は子供たちを熱心にサポートします。",
-                "English": "She supports the children eagerly.",
-                "Persian": "او با علاقه از بچه‌ها حمایت می‌کند.",
-                "Nepali": "उनी बच्चाहरूलाई उत्साहका साथ समर्थन गर्छिन्।",
-                "Indonesian": "Dia mendukung anak-anak dengan semangat.",
-                "Filipino": "Sinasuportahan niya ng buong sipag ang mga bata.",
-                "Vietnamese": "Cô ấy hỗ trợ các em nhỏ một cách nhiệt tình.",
-                "Burmese": "သူမသည်ကလေးများအားစိတ်အားထက်သန်စွာထောက်ပံ့ပေးသည်။",
-                "Korean": "그녀는 아이들을 열심히 지원합니다.",
-                "Hindi": "वह बच्चों को उत्साहपूर्वक समर्थन करती है।",
-                "Arabic": "إنها تدعم الأطفال بجدية.",
-                "French": "Elle soutient les enfants avec zèle.",
-                "Spanish": "Ella apoya a los niños con entusiasmo.",
-                "Chinese": "她热心地支持这些孩子。",
-                "Bengali": "তিনি শিশুদের উৎসাহের সাথে সমর্থন করেন।"
-            }
-        },
-        {
-            "kanji": "先生が熱心に説明します。",
-            "furigana": "先生(せんせい)が熱心(ねっしん)に説明(せつめい)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "先生が熱心に説明します。",
-                "English": "The teacher explains enthusiastically.",
-                "Persian": "معلم با اشتیاق توضیح می‌دهد.",
-                "Nepali": "शिक्षकले उत्साही भएर व्याख्या गर्नुहुन्छ।",
-                "Indonesian": "Guru menjelaskan dengan antusias.",
-                "Filipino": "Ang guro ay nagpapaliwanag nang masigasig.",
-                "Vietnamese": "Giáo viên giải thích một cách nhiệt tình.",
-                "Burmese": "ဆရာမှ စိတ်အားထက်သန်စွာ ရှင်းပြသည်။",
-                "Korean": "선생님이 열심히 설명합니다.",
-                "Hindi": "शिक्षक उत्साह से समझाता है।",
-                "Arabic": "المعلم يشرح بحماس.",
-                "French": "Le professeur explique avec enthousiasme.",
-                "Spanish": "El profesor explica con entusiasmo.",
-                "Chinese": "老师热心地解释。",
-                "Bengali": "শিক্ষক উৎসাহের সাথে ব্যাখ্যা করেন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "熱意",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ねつい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "zeal",
-                        "enthusiasm",
-                        "ardor",
-                        "ardour"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "情熱",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "じょうねつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "passion",
-                        "enthusiasm",
-                        "zeal"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "無関心",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "むかんしん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "apathetic",
-                        "indifferent",
-                        "nonchalant",
-                        "callous"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "ねっしんに勉強する",
+        "ねっしんに働く",
+        "ねっしんに取り組む",
+        "ねっしんにサポートする",
+        "ねっしんに説明する"
     ]
 }

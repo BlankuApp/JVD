@@ -1,481 +1,252 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "配達",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/xqSoZAMl24Q",
     "in_db": true,
-    "reading": "はいたつ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "配達",
+        "reading": "はいたつ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is はいたつ, which you will often hear in contexts related to mail and packages in everyday life. Imagine ordering online and excitedly waiting for your はいたつ to arrive! This word is essential for understanding how items move from point A to point B. Let's explore it together!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"配達\" means \"delivery\" in English. It refers to the act of conveying goods or items from one location to another, typically handled by a person or company that specializes in transporting goods such as packages or mail. ",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "delivery"
-            ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "配達",
-                "English": "delivery",
-                "Persian": "تحویل",
-                "Nepali": "वितरण",
-                "Indonesian": "pengiriman",
-                "Filipino": "paghahatid",
-                "Vietnamese": "giao hàng",
-                "Burmese": "ပို့ဆောင်မှု",
-                "Korean": "배달",
-                "Hindi": "वितरण",
-                "Arabic": "تسليم",
-                "French": "livraison",
-                "Spanish": "entrega",
-                "Chinese": "交货",
-                "Bengali": "বিতরণ"
+            ]
+        ],
+        "meaning_translations": {
+            "delivery": {
+                "EN": "delivery",
+                "ID": "pengiriman",
+                "ES": "entrega",
+                "VI": "giao hàng",
+                "FR": "livraison",
+                "NE": "वितरण",
+                "BN": "বিতরণ",
+                "ZH": "交货",
+                "KO": "배달",
+                "TL": "paghahatid",
+                "MY": "ပို့ဆောင်မှု",
+                "HI": "वितरण",
+                "AR": "تسليم",
+                "FA": "تحویل"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "配達の人が来ました。",
+                "furigana": "配達(はいたつ)の人(ひと)が来(き)ました。",
+                "translations": {
+                    "EN": "The delivery person has arrived.",
+                    "ID": "Orang pengantar sudah datang.",
+                    "ES": "La persona de reparto ha llegado.",
+                    "VI": "Người giao hàng đã đến.",
+                    "FR": "La personne de livraison est arrivée.",
+                    "NE": "वितरण गर्ने व्यक्ति आएको छ।",
+                    "BN": "ডেলিভারির লোক এসেছে।",
+                    "ZH": "送货的人来了。",
+                    "KO": "배달 사람이 왔습니다.",
+                    "TL": "Dumating na ang tagapaghatid.",
+                    "MY": "ပေးပို့တဲ့သူ လာပြီ။",
+                    "HI": "डिलीवरी वाला आ गया है।",
+                    "AR": "الشخص الذي يوصل البضائع قد وصل.",
+                    "FA": "فرد تحویل‌دهنده آمده است."
+                }
+            },
+            {
+                "kanji": "配達料金はいくらですか？",
+                "furigana": "配達(はいたつ)料金(りょうきん)はいくらですか？",
+                "translations": {
+                    "EN": "How much is the delivery fee?",
+                    "ID": "Berapa biaya pengiriman?",
+                    "ES": "¿Cuánto cuesta el envío?",
+                    "VI": "Phí giao hàng là bao nhiêu?",
+                    "FR": "Quel est le frais de livraison ?",
+                    "NE": "वितरण शुल्क कति हो?",
+                    "BN": "ডেলিভারি ফি কত?",
+                    "ZH": "送货费是多少？",
+                    "KO": "배송비는 얼마인가요?",
+                    "TL": "Magkano ang bayad sa pagpapadala?",
+                    "MY": "ပို့ဆောင်ခ ဘယ်လောက်ပါလဲ?",
+                    "HI": "डिलीवरी शुल्क कितना है?",
+                    "AR": "كم هي رسوم التوصيل؟",
+                    "FA": "هزینه تحویل چقدر است؟"
+                }
+            },
+            {
+                "kanji": "配達時間は何時ですか？",
+                "furigana": "配達(はい)(たつ)時間(じ)(かん)は何時(なん)(じ)ですか？",
+                "translations": {
+                    "EN": "What time is the delivery?",
+                    "ID": "Jam berapa pengantaran?",
+                    "ES": "¿A qué hora es la entrega?",
+                    "VI": "Thời gian giao hàng vào lúc nào?",
+                    "FR": "À quelle heure est la livraison ?",
+                    "NE": "वितरण समय कति बजे हो?",
+                    "BN": "ডেলিভারির সময় কখন?",
+                    "ZH": "配送时间是什么时候？",
+                    "KO": "배송 시간은 몇 시인가요?",
+                    "TL": "Anong oras ang paghahatid?",
+                    "MY": "ပို့ဆောင်ချိန် ဘယ်အချိန်လဲ ၍ စုံစမ်းပါ။",
+                    "HI": "डिलीवरी का समय क्या है?",
+                    "AR": "متى هو وقت التسليم؟",
+                    "FA": "زمان تحویل چه ساعتی است؟"
+                }
+            },
+            {
+                "kanji": "配達物を待っています。",
+                "furigana": "配達(はいたつ)物(ぶつ)を待(ま)っています。",
+                "translations": {
+                    "EN": "I am waiting for the delivery.",
+                    "ID": "Saya menunggu kiriman.",
+                    "ES": "Estoy esperando la entrega.",
+                    "VI": "Tôi đang đợi hàng giao.",
+                    "FR": "J'attends la livraison.",
+                    "NE": "म डेलिभरी प्रतीक्षा गर्दैछु।",
+                    "BN": "আমি ডেলিভারি জন্য অপেক্ষা করছি।",
+                    "ZH": "我在等待送货。",
+                    "KO": "배송물을 기다리고 있습니다.",
+                    "TL": "Naghihintay ako sa paghahatid.",
+                    "MY": "ငါကနေထားတင်ပို့မှုရှိနေပြီ။",
+                    "HI": "मैं डिलीवरी का इंतज़ार कर रहा हूँ।",
+                    "AR": "أنتظر التوصيل.",
+                    "FA": "من در انتظار تحویل هستم."
+                }
+            },
+            {
+                "kanji": "でんわで配達をたのみます。",
+                "furigana": "でんわで配達(はいたつ)をたのみます。",
+                "translations": {
+                    "EN": "I will order delivery by phone.",
+                    "ID": "Saya akan memesan pengiriman melalui telepon.",
+                    "ES": "Pediré la entrega por teléfono.",
+                    "VI": "Tôi sẽ đặt giao hàng qua điện thoại.",
+                    "FR": "Je commanderai la livraison par téléphone.",
+                    "NE": "मैले फोनबाट डेलिभरी अर्डर गर्नेछु।",
+                    "BN": "আমি ফোনের মাধ্যমে ডেলিভারি অর্ডার করব।",
+                    "ZH": "我会通过电话订购送货。",
+                    "KO": "전화로 배달을 주문합니다.",
+                    "TL": "Magpapadeliver ako sa telepono.",
+                    "MY": "ကျွန်တော်ဖုန်းနဲ့ပို့ပေးကြောင်းမှာပါမယ်။",
+                    "HI": "मैं फोन से डिलीवरी का ऑर्डर करूँगा।",
+                    "AR": "سأطلب التوصيل عبر الهاتف.",
+                    "FA": "من تحویل را با تلفن سفارش می‌دهم."
+                }
+            }
+        ],
+        "synonyms": [
+            "配送 : はいそう : delivery",
+            "送付 : そうふ : sending"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"配達\" are \"配送\" and \"送付.\" The term \"配送\" often emphasizes the broader logistics and shipping process, whereas \"送付\" specifically refers to sending documents or letters. While all three involve the transportation of items, \"配達\" is more commonly associated with direct delivery to an address.",
+        "antonyms": [
+            "受取り : うけとり : receiving",
+            "収集 : しゅうしゅう : collecting"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word \"配達\" are \"受取\" and \"収集.\" \"受取\" refers to the act of receiving something, as opposed to delivering it, while \"収集\" involves the gathering or collecting of items. Together, these antonyms highlight the opposite end of the delivery process.",
+        "kanji_details": [
+            {
+                "kanji": "配",
+                "common_words": [
+                    "配る: to distribute",
+                    "配給: distribution"
+                ]
+            },
+            {
+                "kanji": "達",
+                "common_words": [
+                    "友達: friend",
+                    "達成: achievement"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "配達",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "配達",
+                "reading": "はいたつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "delivery"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "配",
+        "達"
     ],
-    "kanjis": [
-        {
-            "kanji": "配",
+    "kanji_data": {
+        "配": {
             "meanings": [
                 "distribute",
                 "exile",
                 "rationing",
                 "spouse"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ハイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "くば.る"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 3,
-            "frequency": 359,
+            "freq_mainichi_shinbun": 359,
             "unicode": "914D",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "配る",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "くばる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to distribute",
-                                "to hand out",
-                                "to deliver",
-                                "to deal out",
-                                "to serve out"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to allot",
-                                "to allocate",
-                                "to place",
-                                "to station"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "配給",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はいきゅう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "distribution"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "rationing"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "food ration"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         },
-        {
-            "kanji": "達",
+        "達": {
             "meanings": [
                 "accomplished",
                 "arrive",
                 "attain",
                 "reach"
             ],
-            "onyomi": [
+            "on_readings": [
                 "タツ",
                 "ダ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-たち"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 3,
-            "frequency": 500,
+            "freq_mainichi_shinbun": 500,
             "unicode": "9054",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "友達",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ともだち",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "friend",
-                                "companion"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "達成",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たっせい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "achievement",
-                                "attainment",
-                                "accomplishment",
-                                "realization"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means to distribute or to arrange things among people, like giving out or assigning. A common verb using it is くばる, which literally shows the action of handing out and keeps that idea of distributing. Another example is はいきゅう, which refers to the supply or distribution of goods and shows the arranging/supplying sense of the kanji. The second kanji means to reach or attain, and can also mark a group of people or companions. In the word ともだち it helps form the idea of companions or people together, and in たっせい it carries the sense of reaching a goal or accomplishing something.",
-    "explanations": {
-        "explanation": "The word \"配達\" means \"delivery\" in English. It refers to the act of conveying goods or items from one location to another, typically handled by a person or company that specializes in transporting goods such as packages or mail. ",
-        "youtube_description": "Learn how to use the Japanese word 配達 (はいたつ) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is はいたつ, which you will often hear in contexts related to mail and packages in everyday life. Imagine ordering online and excitedly waiting for your はいたつ to arrive! This word is essential for understanding how items move from point A to point B. Let's explore it together!",
-        "collocations": [
-            "配達する",
-            "配達の人",
-            "配達料金",
-            "配達先",
-            "配達時間",
-            "新聞配達",
-            "配達証明"
-        ],
-        "synonyms": [
-            "配送",
-            "送付"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"配達\" are \"配送\" and \"送付.\" The term \"配送\" often emphasizes the broader logistics and shipping process, whereas \"送付\" specifically refers to sending documents or letters. While all three involve the transportation of items, \"配達\" is more commonly associated with direct delivery to an address.",
-        "antonyms": [
-            "受取",
-            "収集"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"配達\" are \"受取\" and \"収集.\" \"受取\" refers to the act of receiving something, as opposed to delivering it, while \"収集\" involves the gathering or collecting of items. Together, these antonyms highlight the opposite end of the delivery process."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "配達の人が来ました。",
-            "furigana": "配達(はいたつ)の人(ひと)が来(き)ました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "配達の人が来ました。",
-                "English": "The delivery person has arrived.",
-                "Persian": "فرد تحویل‌دهنده آمده است.",
-                "Nepali": "वितरण गर्ने व्यक्ति आएको छ।",
-                "Indonesian": "Orang pengantar sudah datang.",
-                "Filipino": "Dumating na ang tagapaghatid.",
-                "Vietnamese": "Người giao hàng đã đến.",
-                "Burmese": "ပေးပို့တဲ့သူ လာပြီ။",
-                "Korean": "배달 사람이 왔습니다.",
-                "Hindi": "डिलीवरी वाला आ गया है।",
-                "Arabic": "الشخص الذي يوصل البضائع قد وصل.",
-                "French": "La personne de livraison est arrivée.",
-                "Spanish": "La persona de reparto ha llegado.",
-                "Chinese": "送货的人来了。",
-                "Bengali": "ডেলিভারির লোক এসেছে।"
-            }
-        },
-        {
-            "kanji": "配達料金はいくらですか？",
-            "furigana": "配達(はいたつ)料金(りょうきん)はいくらですか？",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "配達料金はいくらですか？",
-                "English": "How much is the delivery fee?",
-                "Persian": "هزینه تحویل چقدر است؟",
-                "Nepali": "वितरण शुल्क कति हो?",
-                "Indonesian": "Berapa biaya pengiriman?",
-                "Filipino": "Magkano ang bayad sa pagpapadala?",
-                "Vietnamese": "Phí giao hàng là bao nhiêu?",
-                "Burmese": "ပို့ဆောင်ခ ဘယ်လောက်ပါလဲ?",
-                "Korean": "배송비는 얼마인가요?",
-                "Hindi": "डिलीवरी शुल्क कितना है?",
-                "Arabic": "كم هي رسوم التوصيل؟",
-                "French": "Quel est le frais de livraison ?",
-                "Spanish": "¿Cuánto cuesta el envío?",
-                "Chinese": "送货费是多少？",
-                "Bengali": "ডেলিভারি ফি কত?"
-            }
-        },
-        {
-            "kanji": "配達時間は何時ですか？",
-            "furigana": "配達(はい)(たつ)時間(じ)(かん)は何時(なん)(じ)ですか？",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "配達時間は何時ですか？",
-                "English": "What time is the delivery?",
-                "Persian": "زمان تحویل چه ساعتی است؟",
-                "Nepali": "वितरण समय कति बजे हो?",
-                "Indonesian": "Jam berapa pengantaran?",
-                "Filipino": "Anong oras ang paghahatid?",
-                "Vietnamese": "Thời gian giao hàng vào lúc nào?",
-                "Burmese": "ပို့ဆောင်ချိန် ဘယ်အချိန်လဲ ၍ စုံစမ်းပါ။",
-                "Korean": "배송 시간은 몇 시인가요?",
-                "Hindi": "डिलीवरी का समय क्या है?",
-                "Arabic": "متى هو وقت التسليم؟",
-                "French": "À quelle heure est la livraison ?",
-                "Spanish": "¿A qué hora es la entrega?",
-                "Chinese": "配送时间是什么时候？",
-                "Bengali": "ডেলিভারির সময় কখন?"
-            }
-        },
-        {
-            "kanji": "配達物を待っています。",
-            "furigana": "配達(はいたつ)物(ぶつ)を待(ま)っています。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "配達物を待っています。",
-                "English": "I am waiting for the delivery.",
-                "Persian": "من در انتظار تحویل هستم.",
-                "Nepali": "म डेलिभरी प्रतीक्षा गर्दैछु।",
-                "Indonesian": "Saya menunggu kiriman.",
-                "Filipino": "Naghihintay ako sa paghahatid.",
-                "Vietnamese": "Tôi đang đợi hàng giao.",
-                "Burmese": "ငါကနေထားတင်ပို့မှုရှိနေပြီ။",
-                "Korean": "배송물을 기다리고 있습니다.",
-                "Hindi": "मैं डिलीवरी का इंतज़ार कर रहा हूँ।",
-                "Arabic": "أنتظر التوصيل.",
-                "French": "J'attends la livraison.",
-                "Spanish": "Estoy esperando la entrega.",
-                "Chinese": "我在等待送货。",
-                "Bengali": "আমি ডেলিভারি জন্য অপেক্ষা করছি।"
-            }
-        },
-        {
-            "kanji": "でんわで配達をたのみます。",
-            "furigana": "でんわで配達(はいたつ)をたのみます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "でんわで配達をたのみます。",
-                "English": "I will order delivery by phone.",
-                "Persian": "من تحویل را با تلفن سفارش می‌دهم.",
-                "Nepali": "मैले फोनबाट डेलिभरी अर्डर गर्नेछु।",
-                "Indonesian": "Saya akan memesan pengiriman melalui telepon.",
-                "Filipino": "Magpapadeliver ako sa telepono.",
-                "Vietnamese": "Tôi sẽ đặt giao hàng qua điện thoại.",
-                "Burmese": "ကျွန်တော်ဖုန်းနဲ့ပို့ပေးကြောင်းမှာပါမယ်။",
-                "Korean": "전화로 배달을 주문합니다.",
-                "Hindi": "मैं फोन से डिलीवरी का ऑर्डर करूँगा।",
-                "Arabic": "سأطلب التوصيل عبر الهاتف.",
-                "French": "Je commanderai la livraison par téléphone.",
-                "Spanish": "Pediré la entrega por teléfono.",
-                "Chinese": "我会通过电话订购送货。",
-                "Bengali": "আমি ফোনের মাধ্যমে ডেলিভারি অর্ডার করব।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "配送",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "はいそう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "delivery"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "送付",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "そうふ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "sending",
-                        "forwarding",
-                        "remitting"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "受取り",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "うけとり",
-            "meanings": [
-                {
-                    "neuances": [
-                        "receiving",
-                        "receipt"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2",
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "収集",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しゅうしゅう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "collecting",
-                        "accumulating",
-                        "gathering"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "collection"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "garbage collection",
-                        "waste collection"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "配達する",
+        "配達の人",
+        "配達料金",
+        "配達先",
+        "配達時間",
+        "新聞配達",
+        "配達証明"
     ]
 }

@@ -1,38 +1,207 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "贈り物",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/lK0uCFPU-I4",
     "in_db": true,
-    "reading": "おくりもの",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "贈り物",
+        "reading": "おくりもの",
+        "introduction_japanese": "",
+        "introduction_english": "Get ready to explore \"okurimono,\" a word you'll frequently hear during special occasions and celebrations.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"okurimono\" means \"gift\" or \"present.\" It is used to describe something given to someone else as a token of appreciation, love, or goodwill.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "present",
                 "gift"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "贈り物",
-                "English": "Gift",
-                "Persian": "هدیه",
-                "Nepali": "उपहार",
-                "Indonesian": "Hadiah",
-                "Filipino": "Regalo",
-                "Vietnamese": "Quà tặng",
-                "Burmese": "လက်ဆောင်",
-                "Korean": "선물",
-                "Hindi": "उपहार",
-                "Arabic": "هدية",
-                "French": "Cadeau",
-                "Spanish": "Regalo",
-                "Chinese": "礼物",
-                "Bengali": "উপহার"
+            ]
+        ],
+        "meaning_translations": {
+            "present": {
+                "EN": "Gift",
+                "ID": "Hadiah",
+                "ES": "Regalo",
+                "VI": "Quà tặng",
+                "FR": "Cadeau",
+                "NE": "उपहार",
+                "BN": "উপহার",
+                "ZH": "礼物",
+                "KO": "선물",
+                "TL": "Regalo",
+                "MY": "လက်ဆောင်",
+                "HI": "उपहार",
+                "AR": "هدية",
+                "FA": "هدیه"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "誕生日に贈り物をあげます。",
+                "furigana": "誕生(たんじょう)日(び)に贈(おく)り物(もの)をあげます。",
+                "translations": {
+                    "EN": "I give a gift on a birthday.",
+                    "ID": "Saya memberikan hadiah saat ulang tahun.",
+                    "ES": "Doy un regalo en un cumpleaños.",
+                    "VI": "Tôi tặng quà vào ngày sinh nhật.",
+                    "FR": "Je donne un cadeau pour un anniversaire.",
+                    "NE": "म जन्मदिनमा उपहार दिन्छु।",
+                    "BN": "আমি জন্মদিনে উপহার দিই।",
+                    "ZH": "我在生日时送礼物。",
+                    "KO": "생일에 선물을 줍니다.",
+                    "TL": "Nagbibigay ako ng regalo sa kaarawan.",
+                    "MY": "မွေးနေ့တွင် လက်ဆောင်ပေးတယ်။",
+                    "HI": "मैं जन्मदिन पर उपहार देता हूँ।",
+                    "AR": "أقدم هدية في عيد الميلاد.",
+                    "FA": "هدیه‌ای برای تولد می‌دهم."
+                }
+            },
+            {
+                "kanji": "私は贈り物をもらう。",
+                "furigana": "私(わたし)は贈(おく)り物(もの)をもらう。",
+                "translations": {
+                    "EN": "I receive a gift.",
+                    "ID": "Saya menerima hadiah.",
+                    "ES": "Recibo un regalo.",
+                    "VI": "Tôi nhận được món quà.",
+                    "FR": "Je reçois un cadeau.",
+                    "NE": "म उपहार पाउछु।",
+                    "BN": "আমি একটি উপহার পাই।",
+                    "ZH": "我收到礼物。",
+                    "KO": "나는 선물을 받는다.",
+                    "TL": "Tumatanggap ako ng regalo.",
+                    "MY": "ကျွန်တော် လက်ဆောင်ကို လက်ခံပါတယ်။",
+                    "HI": "मैं एक उपहार प्राप्त करता हूँ।",
+                    "AR": "أستلم هدية.",
+                    "FA": "من یک هدیه می‌گیرم."
+                }
+            },
+            {
+                "kanji": "贈り物を探します。",
+                "furigana": "贈り物(おくりもの)を探(さが)します。",
+                "translations": {
+                    "EN": "I will look for a gift.",
+                    "ID": "Aku akan mencari hadiah.",
+                    "ES": "Buscaré un regalo.",
+                    "VI": "Tôi sẽ tìm món quà.",
+                    "FR": "Je chercherai un cadeau.",
+                    "NE": "म उपहार खोज्छु।",
+                    "BN": "আমি একটি উপহার খুঁজে বের করব।",
+                    "ZH": "我会找一份礼物.",
+                    "KO": "선물을 찾습니다.",
+                    "TL": "Maghahanap ako ng regalo.",
+                    "MY": "ကျွန်တော်/ကျွန်မ ကျပ်ကြေးကို ရှာကြာမည်။",
+                    "HI": "मैं एक उपहार की खोज करूंगा।",
+                    "AR": "سأبحث عن هدية.",
+                    "FA": "من به دنبال هدیه‌ای خواهم گشت."
+                }
+            },
+            {
+                "kanji": "彼に贈り物を選ぶ。",
+                "furigana": "彼(かれ)に贈(おく)り物(もの)を選(えら)ぶ。",
+                "translations": {
+                    "EN": "Choose a gift for him.",
+                    "ID": "Pilih hadiah untuknya.",
+                    "ES": "Elige un regalo para él.",
+                    "VI": "Chọn một món quà cho anh ấy.",
+                    "FR": "Choisissez un cadeau pour lui.",
+                    "NE": "उहाँका लागि उपहार छान।",
+                    "BN": "তার জন্য একটি উপহার বেছে নিন।",
+                    "ZH": "为他选一份礼物。",
+                    "KO": "그에게 선물을 고르다.",
+                    "TL": "Pumili ng regalo para sa kanya.",
+                    "MY": "သူ့အတွက်လက်ဆောင်ရွေးပါ။",
+                    "HI": "उसके लिए एक उपहार चुनें।",
+                    "AR": "اختر هدية له.",
+                    "FA": "برای او هدیه‌ای انتخاب کن."
+                }
+            },
+            {
+                "kanji": "贈り物を包む。",
+                "furigana": "贈り物(おくりもの)を包(つつ)む。",
+                "translations": {
+                    "EN": "Wrap a gift.",
+                    "ID": "Membungkus hadiah.",
+                    "ES": "Envolver un regalo.",
+                    "VI": "Gói quà.",
+                    "FR": "Emballer un cadeau.",
+                    "NE": "उपहारलाई बेर्नुहोस्।",
+                    "BN": "একটি উপহার মোড়ানো।",
+                    "ZH": "包裹礼物。",
+                    "KO": "선물을 포장하다.",
+                    "TL": "Balutin ang regalo.",
+                    "MY": "လက်ဆောင်ကိုထုပ်ပိုးပါ။",
+                    "HI": "उपहार को लपेटें।",
+                    "AR": "لف هدية.",
+                    "FA": "یک هدیه را بسته بندی کنید."
+                }
+            }
+        ],
+        "synonyms": [
+            "プレゼント : プレゼント : present"
+        ],
+        "synonyms_explanation": "The most common synonym of the word \"okurimono\" is \"purezento.\" Both words convey the idea of giving, but \"purezento\" is often used in more casual or Western-influenced contexts, while \"okurimono\" carries a more traditional and formal tone.",
+        "antonyms": [
+            "借り : かり : borrowing",
+            "貰う : もらう : to receive"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word \"okurimono\" are \"kari\" which means \"borrow,\" and \"morau\" which means \"to receive.\" These express actions contrary to giving, unlike \"okurimono,\" which is about offering or presenting something to someone else.",
+        "kanji_details": [
+            {
+                "kanji": "贈",
+                "common_words": [
+                    "贈呈: presentation",
+                    "贈与: donation"
+                ]
+            },
+            {
+                "kanji": "物",
+                "common_words": [
+                    "物語: story",
+                    "食べ物: food"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "贈り物",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "贈り物",
+                "reading": "おくりもの"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "present",
+                    "gift"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "贈",
+        "物"
     ],
-    "kanjis": [
-        {
-            "kanji": "贈",
+    "kanji_data": {
+        "贈": {
             "meanings": [
                 "award to",
                 "confer on",
@@ -41,390 +210,45 @@
                 "presents",
                 "send"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ソウ",
                 "ゾウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "おく.る"
             ],
-            "strokes": 18,
+            "stroke_count": 18,
             "jlpt": 2,
-            "frequency": 1001,
+            "freq_mainichi_shinbun": 1001,
             "unicode": "8D08",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "贈呈",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ぞうてい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "presentation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "贈与",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ぞうよ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "donation",
-                                "presentation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         },
-        {
-            "kanji": "物",
+        "物": {
             "meanings": [
                 "matter",
                 "object",
                 "thing"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ブツ",
                 "モツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "もの",
                 "もの-"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 4,
-            "frequency": 215,
+            "freq_mainichi_shinbun": 215,
             "unicode": "7269",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "物語",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ものがたり",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "story",
-                                "tale",
-                                "narrative",
-                                "account",
-                                "fable",
-                                "legend"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "食べ物",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たべもの",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "food"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means to give or present and carries the idea of offering something to someone. You can see this in ぞうてい where it means presenting an award and in ぞうよ where it means donating or granting, both uses keep the sense of giving. The second kanji means a thing or object and broadly labels items or matters. It appears in ものがたり meaning a story, which treats events as \"things\" that happen, and in たべもの meaning food, where it simply marks food as an object or item.",
-    "explanations": {
-        "explanation": "The word \"okurimono\" means \"gift\" or \"present.\" It is used to describe something given to someone else as a token of appreciation, love, or goodwill.",
-        "youtube_description": "Unlock the meaning of the Japanese word 贈り物 (おくりもの) and enhance your understanding of gifting culture in Japan! In this video, we'll dive into its meanings, share some common expressions, and guide you on how to use it effectively in conversations. Join us to learn more!",
-        "motivation": "Get ready to explore \"okurimono,\" a word you'll frequently hear during special occasions and celebrations.",
-        "collocations": [
-            "おくりものをあげる",
-            "おくりものをもらう",
-            "おくりものをさがす",
-            "おくりものをえらぶ",
-            "おくりものをつつむ"
-        ],
-        "synonyms": [
-            "プレゼント"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"okurimono\" is \"purezento.\" Both words convey the idea of giving, but \"purezento\" is often used in more casual or Western-influenced contexts, while \"okurimono\" carries a more traditional and formal tone.",
-        "antonyms": [
-            "借り",
-            "もらう"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"okurimono\" are \"kari\" which means \"borrow,\" and \"morau\" which means \"to receive.\" These express actions contrary to giving, unlike \"okurimono,\" which is about offering or presenting something to someone else."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "誕生日に贈り物をあげます。",
-            "furigana": "誕生(たんじょう)日(び)に贈(おく)り物(もの)をあげます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "誕生日に贈り物をあげます。",
-                "English": "I give a gift on a birthday.",
-                "Persian": "هدیه‌ای برای تولد می‌دهم.",
-                "Nepali": "म जन्मदिनमा उपहार दिन्छु।",
-                "Indonesian": "Saya memberikan hadiah saat ulang tahun.",
-                "Filipino": "Nagbibigay ako ng regalo sa kaarawan.",
-                "Vietnamese": "Tôi tặng quà vào ngày sinh nhật.",
-                "Burmese": "မွေးနေ့တွင် လက်ဆောင်ပေးတယ်။",
-                "Korean": "생일에 선물을 줍니다.",
-                "Hindi": "मैं जन्मदिन पर उपहार देता हूँ।",
-                "Arabic": "أقدم هدية في عيد الميلاد.",
-                "French": "Je donne un cadeau pour un anniversaire.",
-                "Spanish": "Doy un regalo en un cumpleaños.",
-                "Chinese": "我在生日时送礼物。",
-                "Bengali": "আমি জন্মদিনে উপহার দিই।"
-            }
-        },
-        {
-            "kanji": "私は贈り物をもらう。",
-            "furigana": "私(わたし)は贈(おく)り物(もの)をもらう。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は贈り物をもらう。",
-                "English": "I receive a gift.",
-                "Persian": "من یک هدیه می‌گیرم.",
-                "Nepali": "म उपहार पाउछु।",
-                "Indonesian": "Saya menerima hadiah.",
-                "Filipino": "Tumatanggap ako ng regalo.",
-                "Vietnamese": "Tôi nhận được món quà.",
-                "Burmese": "ကျွန်တော် လက်ဆောင်ကို လက်ခံပါတယ်။",
-                "Korean": "나는 선물을 받는다.",
-                "Hindi": "मैं एक उपहार प्राप्त करता हूँ।",
-                "Arabic": "أستلم هدية.",
-                "French": "Je reçois un cadeau.",
-                "Spanish": "Recibo un regalo.",
-                "Chinese": "我收到礼物。",
-                "Bengali": "আমি একটি উপহার পাই।"
-            }
-        },
-        {
-            "kanji": "贈り物を探します。",
-            "furigana": "贈り物(おくりもの)を探(さが)します。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "贈り物を探します。",
-                "English": "I will look for a gift.",
-                "Persian": "من به دنبال هدیه‌ای خواهم گشت.",
-                "Nepali": "म उपहार खोज्छु।",
-                "Indonesian": "Aku akan mencari hadiah.",
-                "Filipino": "Maghahanap ako ng regalo.",
-                "Vietnamese": "Tôi sẽ tìm món quà.",
-                "Burmese": "ကျွန်တော်/ကျွန်မ ကျပ်ကြေးကို ရှာကြာမည်။",
-                "Korean": "선물을 찾습니다.",
-                "Hindi": "मैं एक उपहार की खोज करूंगा।",
-                "Arabic": "سأبحث عن هدية.",
-                "French": "Je chercherai un cadeau.",
-                "Spanish": "Buscaré un regalo.",
-                "Chinese": "我会找一份礼物.",
-                "Bengali": "আমি একটি উপহার খুঁজে বের করব।"
-            }
-        },
-        {
-            "kanji": "彼に贈り物を選ぶ。",
-            "furigana": "彼(かれ)に贈(おく)り物(もの)を選(えら)ぶ。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼に贈り物を選ぶ。",
-                "English": "Choose a gift for him.",
-                "Persian": "برای او هدیه‌ای انتخاب کن.",
-                "Nepali": "उहाँका लागि उपहार छान।",
-                "Indonesian": "Pilih hadiah untuknya.",
-                "Filipino": "Pumili ng regalo para sa kanya.",
-                "Vietnamese": "Chọn một món quà cho anh ấy.",
-                "Burmese": "သူ့အတွက်လက်ဆောင်ရွေးပါ။",
-                "Korean": "그에게 선물을 고르다.",
-                "Hindi": "उसके लिए एक उपहार चुनें।",
-                "Arabic": "اختر هدية له.",
-                "French": "Choisissez un cadeau pour lui.",
-                "Spanish": "Elige un regalo para él.",
-                "Chinese": "为他选一份礼物。",
-                "Bengali": "তার জন্য একটি উপহার বেছে নিন।"
-            }
-        },
-        {
-            "kanji": "贈り物を包む。",
-            "furigana": "贈り物(おくりもの)を包(つつ)む。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "贈り物を包む。",
-                "English": "Wrap a gift.",
-                "Persian": "یک هدیه را بسته بندی کنید.",
-                "Nepali": "उपहारलाई बेर्नुहोस्।",
-                "Indonesian": "Membungkus hadiah.",
-                "Filipino": "Balutin ang regalo.",
-                "Vietnamese": "Gói quà.",
-                "Burmese": "လက်ဆောင်ကိုထုပ်ပိုးပါ။",
-                "Korean": "선물을 포장하다.",
-                "Hindi": "उपहार को लपेटें।",
-                "Arabic": "لف هدية.",
-                "French": "Emballer un cadeau.",
-                "Spanish": "Envolver un regalo.",
-                "Chinese": "包裹礼物。",
-                "Bengali": "একটি উপহার মোড়ানো।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "プレゼント",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "プレゼント",
-            "meanings": [
-                {
-                    "neuances": [
-                        "present",
-                        "gift"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "借り",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "かり",
-            "meanings": [
-                {
-                    "neuances": [
-                        "borrowing",
-                        "debt",
-                        "loan"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "貰う",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "もらう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to receive",
-                        "to take",
-                        "to accept"
-                    ],
-                    "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to have in one's pocket"
-                    ],
-                    "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to contract",
-                        "to catch",
-                        "to be affected"
-                    ],
-                    "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "おくりものをあげる",
+        "おくりものをもらう",
+        "おくりものをさがす",
+        "おくりものをえらぶ",
+        "おくりものをつつむ"
     ]
 }

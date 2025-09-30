@@ -1,107 +1,286 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "失う",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/9u28PbUEqHk",
     "in_db": true,
-    "reading": "うしなう",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "失う",
+        "reading": "うしなう",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this video is うしなう which you will often hear when talking about losing things or missing opportunities in everyday life.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word うしなう means to lose or to be deprived of something. It can refer to losing physical items, opportunities, or emotional connections.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to lose"
             ],
-            "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-            "translation": {
-                "Japanese": "失う",
-                "English": "to lose",
-                "Persian": "از دست دادن",
-                "Nepali": "गुमाउनु",
-                "Indonesian": "kehilangan",
-                "Filipino": "mawalan",
-                "Vietnamese": "mất",
-                "Burmese": "ဆုံးရှုံးသည်",
-                "Korean": "잃다",
-                "Hindi": "खोना",
-                "Arabic": "يخسر",
-                "French": "perdre",
-                "Spanish": "perder",
-                "Chinese": "失去",
-                "Bengali": "হারানো"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to miss"
             ],
-            "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-            "translation": {
-                "Japanese": "失う",
-                "English": "to lose",
-                "Persian": "از دست دادن",
-                "Nepali": "हराउनु",
-                "Indonesian": "kehilangan",
-                "Filipino": "mawalan",
-                "Vietnamese": "mất",
-                "Burmese": "ဆုံးရှုံးခြင်း",
-                "Korean": "잃어버리다",
-                "Hindi": "हारना",
-                "Arabic": "يَفْقِدُ",
-                "French": "perdre",
-                "Spanish": "perder",
-                "Chinese": "失去",
-                "Bengali": "হারানো"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to lose",
                 "to be bereaved of"
             ],
-            "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-            "translation": {
-                "Japanese": "失う",
-                "English": "to lose",
-                "Persian": "از دست دادن",
-                "Nepali": "हार्नु",
-                "Indonesian": "kehilangan",
-                "Filipino": "mawawalan",
-                "Vietnamese": "mất",
-                "Burmese": "ရှင်သန်လျက်နေသည်",
-                "Korean": "잃다",
-                "Hindi": "खोना",
-                "Arabic": "فقدان",
-                "French": "perdre",
-                "Spanish": "perder",
-                "Chinese": "失去",
-                "Bengali": "হারানো"
+            [
+                "to concede"
+            ]
+        ],
+        "meaning_translations": {
+            "to lose": {
+                "EN": "to lose",
+                "ID": "kehilangan",
+                "ES": "perder",
+                "VI": "mất",
+                "FR": "perdre",
+                "NE": "हार्नु",
+                "BN": "হারানো",
+                "ZH": "失去",
+                "KO": "잃다",
+                "TL": "mawawalan",
+                "MY": "ရှင်သန်လျက်နေသည်",
+                "HI": "खोना",
+                "AR": "فقدان",
+                "FA": "از دست دادن"
+            },
+            "to miss": {
+                "EN": "to lose",
+                "ID": "kehilangan",
+                "ES": "perder",
+                "VI": "mất",
+                "FR": "perdre",
+                "NE": "हराउनु",
+                "BN": "হারানো",
+                "ZH": "失去",
+                "KO": "잃어버리다",
+                "TL": "mawalan",
+                "MY": "ဆုံးရှုံးခြင်း",
+                "HI": "हारना",
+                "AR": "يَفْقِدُ",
+                "FA": "از دست دادن"
+            },
+            "to concede": {
+                "EN": "to concede",
+                "ID": "kalah",
+                "ES": "perder",
+                "VI": "thua",
+                "FR": "perdre",
+                "NE": "हार्नु",
+                "BN": "হারানো",
+                "ZH": "失去",
+                "KO": "잃다",
+                "TL": "magbigay",
+                "MY": "ဆုံးရှုံး",
+                "HI": "हारना",
+                "AR": "أن يخسر",
+                "FA": "از دست دادن"
             }
         },
-        {
-            "neuances": [
-                "to concede"
-            ],
-            "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-            "translation": {
-                "Japanese": "失う",
-                "English": "to concede",
-                "Persian": "از دست دادن",
-                "Nepali": "हार्नु",
-                "Indonesian": "kalah",
-                "Filipino": "magbigay",
-                "Vietnamese": "thua",
-                "Burmese": "ဆုံးရှုံး",
-                "Korean": "잃다",
-                "Hindi": "हारना",
-                "Arabic": "أن يخسر",
-                "French": "perdre",
-                "Spanish": "perder",
-                "Chinese": "失去",
-                "Bengali": "হারানো"
+        "examples": [
+            {
+                "kanji": "彼は大切な時間を失った。",
+                "furigana": "彼(かれ)は大切(たいせつ)な時間(じかん)を失(うしな)った。",
+                "translations": {
+                    "EN": "He lost precious time.",
+                    "ID": "Dia kehilangan waktu yang berharga.",
+                    "ES": "Él perdió un tiempo valioso.",
+                    "VI": "Anh ấy đã mất thời gian quý giá.",
+                    "FR": "Il a perdu du temps précieux.",
+                    "NE": "उसले महत्त्वपूर्ण समय गुमायो।",
+                    "BN": "তিনি মূল্যবান সময় হারালেন.",
+                    "ZH": "他失去了宝贵的时间。",
+                    "KO": "그는 소중한 시간을 잃었다.",
+                    "TL": "Nawala siya ng mahalagang oras.",
+                    "MY": "သူ့က အရေးပါတဲ့ အချိန်တစ်ချို့ကို ပျောက်ခံခဲ့ပါသည်။",
+                    "HI": "उसने महत्वपूर्ण समय खो दिया।",
+                    "AR": "لقد فقد وقتًا ثمينًا.",
+                    "FA": "او زمان با ارزشی را از دست داد."
+                }
+            },
+            {
+                "kanji": "私は友達を失った。",
+                "furigana": "私（わたし）は友達（ともだち）を失った（うしなった）。",
+                "translations": {
+                    "EN": "I lost my friend.",
+                    "ID": "Saya kehilangan teman saya.",
+                    "ES": "Perdí a mi amigo.",
+                    "VI": "Tôi đã mất bạn.",
+                    "FR": "J'ai perdu mon ami.",
+                    "NE": "मैले मेरो साथीलाई गुमाएँ।",
+                    "BN": "আমি আমার বন্ধু হারিয়েছি.",
+                    "ZH": "我失去了我的朋友。",
+                    "KO": "나는 친구를 잃었다.",
+                    "TL": "Na-miss ko ang aking kaibigan.",
+                    "MY": "ငါသည်ငါ့သူငယ်ချင်းကို ဆုံးရှုံးခဲ့သည်။",
+                    "HI": "मैंने अपना दोस्त खो दिया।",
+                    "AR": "لقد فقدت صديقي.",
+                    "FA": "من دوست خود را از دست دادم."
+                }
+            },
+            {
+                "kanji": "彼は大事なチャンスを失った。",
+                "furigana": "彼(かれ)は大事(だいじ)なチャンスを失(うしな)った。",
+                "translations": {
+                    "EN": "He missed an important chance.",
+                    "ID": "Dia kehilangan kesempatan penting.",
+                    "ES": "Él perdió una oportunidad importante.",
+                    "VI": "Anh ấy đã bỏ lỡ một cơ hội quan trọng.",
+                    "FR": "Il a perdu une chance importante.",
+                    "NE": "उसले एक महत्वपूर्ण अवसर गुमायो।",
+                    "BN": "তিনি একটি গুরুত্বপূর্ণ সুযোগ হারিয়েছেন.",
+                    "ZH": "他失去了一个重要的机会。",
+                    "KO": "그는 중요한 기회를 놓쳤다.",
+                    "TL": "Na-miss niya ang mahalagang pagkakataon.",
+                    "MY": "သူကအရေးကြီးသောအခွင့်အရေးကိုဆုံးရှုံးခဲ့သည်။",
+                    "HI": "उसने एक महत्वपूर्ण अवसर खो दिया।",
+                    "AR": "لقد ضيع فرصة مهمة.",
+                    "FA": "او یک شانس مهم را از دست داد."
+                }
+            },
+            {
+                "kanji": "彼は悲しすぎて感情を失った。",
+                "furigana": "彼(かれ)は悲(かな)しすぎて感情(かんじょう)を失(うしな)った。",
+                "translations": {
+                    "EN": "He lost his emotions because he was too sad.",
+                    "ID": "Dia kehilangan emosinya karena terlalu sedih.",
+                    "ES": "Él perdió sus emociones porque estaba demasiado triste.",
+                    "VI": "Anh ấy đã mất đi cảm xúc vì quá buồn.",
+                    "FR": "Il a perdu ses émotions parce qu'il était trop triste.",
+                    "NE": "उ धेरै दु:खी भएकोले, उसको भावना हरायो।",
+                    "BN": "সে খুব দুঃখিত হওয়ায় তার অনুভূতি হারিয়েছে.",
+                    "ZH": "他因为太伤心而失去了情感。",
+                    "KO": "그는 너무 슬퍼서 감정을 잃었다.",
+                    "TL": "Nawala ang kanyang emosyon dahil sobrang malungkot siya.",
+                    "MY": "သူအရမ်းဝမ်းနည်းနေပြီး န gevoelဖြစ်စဉ်ကိုဆုံးရှုံးခဲ့သည်။",
+                    "HI": "वह बहुत दुखी था, इसलिए उसने अपनी भावनाएँ खो दी।",
+                    "AR": "لقد فقد عواطفه لأنه كان حزينًا جدًا.",
+                    "FA": "او بخاطر اینکه خیلی غمگین بود، احساساتش را از دست داد."
+                }
+            },
+            {
+                "kanji": "私は大切な物を失うことが怖いです。",
+                "furigana": "私（わたし）は大切（たいせつ）な物（もの）を失う（うしなう）ことが怖（こわ）いです。",
+                "translations": {
+                    "EN": "I am afraid of losing important things.",
+                    "ID": "Saya takut kehilangan barang yang penting.",
+                    "ES": "Tengo miedo de perder cosas importantes.",
+                    "VI": "Tôi sợ mất những vật quan trọng.",
+                    "FR": "J'ai peur de perdre des choses importantes.",
+                    "NE": "म महत्त्वपूर्ण चिजहरू हराउने डराउँछु।",
+                    "BN": "আমি গুরুত্বপূর্ণ জিনিস হারাতে ভয় পাই।",
+                    "ZH": "我害怕失去重要的东西。",
+                    "KO": "나는 중요한 물건을 잃는 것이 두려워.",
+                    "TL": "Natatakot akong mawalan ng mahalagang bagay.",
+                    "MY": "အကျန်အရှယ်နည်းလေးများကိုဆုံးရှုံးမှာကြောက်နေပါတယ်။",
+                    "HI": "मैं महत्वपूर्ण चीजें खोने से डरता हूँ।",
+                    "AR": "أخشى فقدان الأشياء المهمة.",
+                    "FA": "من از دست دادن چیزهای مهم می ترسم."
+                }
             }
-        }
+        ],
+        "synonyms": [
+            "無くす : なくす : to lose",
+            "失敗 : しっぱい : failure"
+        ],
+        "synonyms_explanation": "The most common synonyms of the うしなう are なくす and 失敗する. なくす also means to lose, usually used for tangible things like objects. 失敗する refers to failing and losing an opportunity, emphasizing a sense of failure more than mere loss. Both synonyms capture aspects of losing but have different contexts of use.",
+        "antonyms": [
+            "得る-1 : える : to get",
+            "保つ : たもつ : to keep"
+        ],
+        "antonyms_explanation": "The most common antonyms of the うしなう are 得る and 保つ. 得る means to gain or acquire something, while 保つ means to maintain or keep something. These antonyms represent the opposite actions, focusing on acquisition and retention rather than loss.",
+        "kanji_details": [
+            {
+                "kanji": "失",
+                "common_words": [
+                    "失敗: failure",
+                    "失礼: discourtesy"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "失う",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "失う",
+                "reading": "うしなう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to lose"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to miss"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to lose",
+                    "to be bereaved of"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to concede"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "失"
     ],
-    "kanjis": [
-        {
-            "kanji": "失",
+    "kanji_data": {
+        "失": {
             "meanings": [
                 "disadvantage",
                 "error",
@@ -109,402 +288,25 @@
                 "lose",
                 "loss"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "う.せる",
                 "うしな.う"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": 3,
-            "frequency": 447,
+            "freq_mainichi_shinbun": 447,
             "unicode": "5931",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "失敗",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しっぱい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "failure",
-                                "mistake",
-                                "blunder"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "失礼",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しつれい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "discourtesy",
-                                "impoliteness"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "excuse me",
-                                "goodbye"
-                            ],
-                            "part_of_speech": "Expressions (phrases, clauses, etc.)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to leave"
-                            ],
-                            "part_of_speech": "Suru verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be rude"
-                            ],
-                            "part_of_speech": "Suru verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means to lose or to make an error, the sense of something being lost or gone wrong. You can see it in the word しっぱい, which means a failure or mistake, where the kanji gives the idea of something being lost or not achieved. Another example is しつれい, where the kanji contributes the sense of a lapse or breach of proper behavior, so the expression conveys rudeness or an impolite act.",
-    "explanations": {
-        "explanation": "The word うしなう means to lose or to be deprived of something. It can refer to losing physical items, opportunities, or emotional connections.",
-        "youtube_description": "Learn how to use the Japanese word 失う (うしなう) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this video is うしなう which you will often hear when talking about losing things or missing opportunities in everyday life.",
-        "collocations": [
-            "時間をうしなう",
-            "友達をうしなう",
-            "チャンスをうしなう",
-            "感情をうしなう",
-            "物をうしなう"
-        ],
-        "synonyms": [
-            "なくす",
-            "失敗する"
-        ],
-        "synonyms_explanation": "The most common synonyms of the うしなう are なくす and 失敗する. なくす also means to lose, usually used for tangible things like objects. 失敗する refers to failing and losing an opportunity, emphasizing a sense of failure more than mere loss. Both synonyms capture aspects of losing but have different contexts of use.",
-        "antonyms": [
-            "得る",
-            "保つ"
-        ],
-        "antonyms_explanation": "The most common antonyms of the うしなう are 得る and 保つ. 得る means to gain or acquire something, while 保つ means to maintain or keep something. These antonyms represent the opposite actions, focusing on acquisition and retention rather than loss."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "彼は大切な時間を失った。",
-            "furigana": "彼(かれ)は大切(たいせつ)な時間(じかん)を失(うしな)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は大切な時間を失った。",
-                "English": "He lost precious time.",
-                "Persian": "او زمان با ارزشی را از دست داد.",
-                "Nepali": "उसले महत्त्वपूर्ण समय गुमायो।",
-                "Indonesian": "Dia kehilangan waktu yang berharga.",
-                "Filipino": "Nawala siya ng mahalagang oras.",
-                "Vietnamese": "Anh ấy đã mất thời gian quý giá.",
-                "Burmese": "သူ့က အရေးပါတဲ့ အချိန်တစ်ချို့ကို ပျောက်ခံခဲ့ပါသည်။",
-                "Korean": "그는 소중한 시간을 잃었다.",
-                "Hindi": "उसने महत्वपूर्ण समय खो दिया।",
-                "Arabic": "لقد فقد وقتًا ثمينًا.",
-                "French": "Il a perdu du temps précieux.",
-                "Spanish": "Él perdió un tiempo valioso.",
-                "Chinese": "他失去了宝贵的时间。",
-                "Bengali": "তিনি মূল্যবান সময় হারালেন."
-            }
-        },
-        {
-            "kanji": "私は友達を失った。",
-            "furigana": "私（わたし）は友達（ともだち）を失った（うしなった）。",
-            "difficulty": 3,
-            "translation": {
-                "Japanese": "私は友達を失った。",
-                "English": "I lost my friend.",
-                "Persian": "من دوست خود را از دست دادم.",
-                "Nepali": "मैले मेरो साथीलाई गुमाएँ।",
-                "Indonesian": "Saya kehilangan teman saya.",
-                "Filipino": "Na-miss ko ang aking kaibigan.",
-                "Vietnamese": "Tôi đã mất bạn.",
-                "Burmese": "ငါသည်ငါ့သူငယ်ချင်းကို ဆုံးရှုံးခဲ့သည်။",
-                "Korean": "나는 친구를 잃었다.",
-                "Hindi": "मैंने अपना दोस्त खो दिया।",
-                "Arabic": "لقد فقدت صديقي.",
-                "French": "J'ai perdu mon ami.",
-                "Spanish": "Perdí a mi amigo.",
-                "Chinese": "我失去了我的朋友。",
-                "Bengali": "আমি আমার বন্ধু হারিয়েছি."
-            }
-        },
-        {
-            "kanji": "彼は大事なチャンスを失った。",
-            "furigana": "彼(かれ)は大事(だいじ)なチャンスを失(うしな)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は大事なチャンスを失った。",
-                "English": "He missed an important chance.",
-                "Persian": "او یک شانس مهم را از دست داد.",
-                "Nepali": "उसले एक महत्वपूर्ण अवसर गुमायो।",
-                "Indonesian": "Dia kehilangan kesempatan penting.",
-                "Filipino": "Na-miss niya ang mahalagang pagkakataon.",
-                "Vietnamese": "Anh ấy đã bỏ lỡ một cơ hội quan trọng.",
-                "Burmese": "သူကအရေးကြီးသောအခွင့်အရေးကိုဆုံးရှုံးခဲ့သည်။",
-                "Korean": "그는 중요한 기회를 놓쳤다.",
-                "Hindi": "उसने एक महत्वपूर्ण अवसर खो दिया।",
-                "Arabic": "لقد ضيع فرصة مهمة.",
-                "French": "Il a perdu une chance importante.",
-                "Spanish": "Él perdió una oportunidad importante.",
-                "Chinese": "他失去了一个重要的机会。",
-                "Bengali": "তিনি একটি গুরুত্বপূর্ণ সুযোগ হারিয়েছেন."
-            }
-        },
-        {
-            "kanji": "彼は悲しすぎて感情を失った。",
-            "furigana": "彼(かれ)は悲(かな)しすぎて感情(かんじょう)を失(うしな)った。",
-            "difficulty": 3,
-            "translation": {
-                "Japanese": "彼は悲しすぎて感情を失った。",
-                "English": "He lost his emotions because he was too sad.",
-                "Persian": "او بخاطر اینکه خیلی غمگین بود، احساساتش را از دست داد.",
-                "Nepali": "उ धेरै दु:खी भएकोले, उसको भावना हरायो।",
-                "Indonesian": "Dia kehilangan emosinya karena terlalu sedih.",
-                "Filipino": "Nawala ang kanyang emosyon dahil sobrang malungkot siya.",
-                "Vietnamese": "Anh ấy đã mất đi cảm xúc vì quá buồn.",
-                "Burmese": "သူအရမ်းဝမ်းနည်းနေပြီး န gevoelဖြစ်စဉ်ကိုဆုံးရှုံးခဲ့သည်။",
-                "Korean": "그는 너무 슬퍼서 감정을 잃었다.",
-                "Hindi": "वह बहुत दुखी था, इसलिए उसने अपनी भावनाएँ खो दी।",
-                "Arabic": "لقد فقد عواطفه لأنه كان حزينًا جدًا.",
-                "French": "Il a perdu ses émotions parce qu'il était trop triste.",
-                "Spanish": "Él perdió sus emociones porque estaba demasiado triste.",
-                "Chinese": "他因为太伤心而失去了情感。",
-                "Bengali": "সে খুব দুঃখিত হওয়ায় তার অনুভূতি হারিয়েছে."
-            }
-        },
-        {
-            "kanji": "私は大切な物を失うことが怖いです。",
-            "furigana": "私（わたし）は大切（たいせつ）な物（もの）を失う（うしなう）ことが怖（こわ）いです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は大切な物を失うことが怖いです。",
-                "English": "I am afraid of losing important things.",
-                "Persian": "من از دست دادن چیزهای مهم می ترسم.",
-                "Nepali": "म महत्त्वपूर्ण चिजहरू हराउने डराउँछु।",
-                "Indonesian": "Saya takut kehilangan barang yang penting.",
-                "Filipino": "Natatakot akong mawalan ng mahalagang bagay.",
-                "Vietnamese": "Tôi sợ mất những vật quan trọng.",
-                "Burmese": "အကျန်အရှယ်နည်းလေးများကိုဆုံးရှုံးမှာကြောက်နေပါတယ်။",
-                "Korean": "나는 중요한 물건을 잃는 것이 두려워.",
-                "Hindi": "मैं महत्वपूर्ण चीजें खोने से डरता हूँ।",
-                "Arabic": "أخشى فقدان الأشياء المهمة.",
-                "French": "J'ai peur de perdre des choses importantes.",
-                "Spanish": "Tengo miedo de perder cosas importantes.",
-                "Chinese": "我害怕失去重要的东西。",
-                "Bengali": "আমি গুরুত্বপূর্ণ জিনিস হারাতে ভয় পাই।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "無くす",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "なくす",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to lose"
-                    ],
-                    "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to get rid of",
-                        "to eliminate",
-                        "to remove",
-                        "to eradicate",
-                        "to abolish"
-                    ],
-                    "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2",
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "失敗",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しっぱい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "failure",
-                        "mistake",
-                        "blunder"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "得る-1",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "える",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to get",
-                        "to earn",
-                        "to acquire",
-                        "to procure",
-                        "to gain",
-                        "to secure",
-                        "to attain",
-                        "to obtain",
-                        "to win"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to understand",
-                        "to comprehend"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to get"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to be able to ..., can ..."
-                    ],
-                    "part_of_speech": "Auxiliary verb, Ichidan verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "保つ",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "たもつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to keep",
-                        "to preserve",
-                        "to hold",
-                        "to retain",
-                        "to maintain",
-                        "to sustain"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to last",
-                        "to endure",
-                        "to keep well",
-                        "to wear well",
-                        "to be durable"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "時間をうしなう",
+        "友達をうしなう",
+        "チャンスをうしなう",
+        "感情をうしなう",
+        "物をうしなう"
     ]
 }

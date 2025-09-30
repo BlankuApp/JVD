@@ -1,12 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "区域",
+    "jlpt_level": 2,
     "youtube_link": "https://youtu.be/VQn6E3A1yC8",
     "in_db": true,
-    "reading": "くいき",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "区域",
+        "reading": "くいき",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is \"くいき,\" which you will often hear in city planning contexts, real estate discussions, and when talking about zoning in urban areas.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"くいき\" means \"an area or region.\" It can refer to a geographical zone, a district, or a designated space within a city or place. It's used when talking about specific parts or sections within larger spaces.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "area",
                 "zone",
                 "district",
@@ -14,110 +21,215 @@
                 "section",
                 "limits",
                 "boundary"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "区域",
-                "English": "area",
-                "Persian": "ناحیه",
-                "Nepali": "क्षेत्र",
-                "Indonesian": "area",
-                "Filipino": "lugar",
-                "Vietnamese": "khu vực",
-                "Burmese": "ဒေသ",
-                "Korean": "구역",
-                "Hindi": "क्षेत्र",
-                "Arabic": "منطقة",
-                "French": "zone",
-                "Spanish": "zona",
-                "Chinese": "区域",
-                "Bengali": "এলাকা"
+            ]
+        ],
+        "meaning_translations": {
+            "area": {
+                "EN": "area",
+                "ID": "area",
+                "ES": "zona",
+                "VI": "khu vực",
+                "FR": "zone",
+                "NE": "क्षेत्र",
+                "BN": "এলাকা",
+                "ZH": "区域",
+                "KO": "구역",
+                "TL": "lugar",
+                "MY": "ဒေသ",
+                "HI": "क्षेत्र",
+                "AR": "منطقة",
+                "FA": "ناحیه"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "ここは安全な区域です。",
+                "furigana": "ここは安全(あんぜん)な区域(くいき)です。",
+                "translations": {
+                    "EN": "This is a safe area.",
+                    "ID": "Ini adalah wilayah yang aman.",
+                    "ES": "Esta es una zona segura.",
+                    "VI": "Đây là khu vực an toàn.",
+                    "FR": "C'est une zone sûre.",
+                    "NE": "यो सुरक्षित क्षेत्र हो।",
+                    "BN": "এটি একটি নিরাপদ এলাকা।",
+                    "ZH": "这是一个安全区域。",
+                    "KO": "여기는 안전한 구역입니다.",
+                    "TL": "Ito ay isang ligtas na lugar.",
+                    "MY": "ဒါက အန္တရာယ်ကင်းတဲ့ ဒေသတစ်ခုပါ။",
+                    "HI": "यह एक सुरक्षित क्षेत्र है।",
+                    "AR": "هذه منطقة آمنة.",
+                    "FA": "این یک منطقه امن است."
+                }
+            },
+            {
+                "kanji": "この地域は商業区域です。",
+                "furigana": "この地域(ちいき)は商業(しょうぎょう)区域(くいき)です。",
+                "translations": {
+                    "EN": "This area is a commercial zone.",
+                    "ID": "Area ini adalah kawasan komersial.",
+                    "ES": "Esta área es una zona comercial.",
+                    "VI": "Khu vực này là một khu thương mại.",
+                    "FR": "Cette région est une zone commerciale.",
+                    "NE": "यो क्षेत्र भनेको व्यापारिक क्षेत्र हो।",
+                    "BN": "এই এলাকা একটি বাণিজ্যিক অঞ্চল।",
+                    "ZH": "这个地区是一个商业区。",
+                    "KO": "이 지역은 상업 구역입니다.",
+                    "TL": "Ang lugar na ito ay isang komersyal na sonang.",
+                    "MY": "ဤဒေသသည် ကုန်သွယ်ရေးဇုန်ဖြစ်သည်။",
+                    "HI": "यह क्षेत्र एक वाणिज्यिक क्षेत्र है।",
+                    "AR": "هذا المنطقة هي منطقة تجارية.",
+                    "FA": "این منطقه یک منطقه تجاری است."
+                }
+            },
+            {
+                "kanji": "市内区域を歩く。",
+                "furigana": "市内(しない)区域(くいき)を歩(ある)く。",
+                "translations": {
+                    "EN": "Walk in the city area.",
+                    "ID": "Berjalan di daerah kota.",
+                    "ES": "Caminar por el área de la ciudad.",
+                    "VI": "Đi bộ trong khu vực thành phố.",
+                    "FR": "Marcher dans la zone urbaine.",
+                    "NE": "सहरी क्षेत्रमा हिँड्नुहोस्।",
+                    "BN": "শহরের এলাকায় হাঁটুন।",
+                    "ZH": "在市区行走。",
+                    "KO": "시내 구역을 걷다.",
+                    "TL": "Maglakad sa loob ng lungsod.",
+                    "MY": "မြို့အတွင်း အကျယ်ကျယ်လှည့်သည်။",
+                    "HI": "शहर क्षेत्र में चलना।",
+                    "AR": "المشي في منطقة المدينة.",
+                    "FA": "در منطقه شهری قدم بزن."
+                }
+            },
+            {
+                "kanji": "作戦区域に入る。",
+                "furigana": "作戦(さくせん)区域(くいき)に入(はい)る。",
+                "translations": {
+                    "EN": "Enter the strategy area.",
+                    "ID": "Masuk ke area strategi.",
+                    "ES": "Entrar en el área de estrategia.",
+                    "VI": "Vào khu vực chiến thuật.",
+                    "FR": "Entrer dans la zone de stratégie.",
+                    "NE": "रणनीति क्षेत्रमा प्रवेश गर्नुहोस्।",
+                    "BN": "কৌশল ক্ষেত্রের মধ্যে প্রবেশ করুন।",
+                    "ZH": "进入作战区域。",
+                    "KO": "작전 구역에 들어가다.",
+                    "TL": "Pumasok sa lugar ng pamamaraan.",
+                    "MY": "မဟာဗျူဟာဒေသသို့ ဝင်ပါ။",
+                    "HI": "रणनीति क्षेत्र में प्रवेश करें।",
+                    "AR": "أدخل المنطقة الاستراتيجية.",
+                    "FA": "وارد منطقه استراتژی شوید."
+                }
+            },
+            {
+                "kanji": "ここは住宅区域です。",
+                "furigana": "ここは住宅(じゅうたく)区域(くいき)です。",
+                "translations": {
+                    "EN": "This is a residential area.",
+                    "ID": "Ini adalah area perumahan.",
+                    "ES": "Este es un área residencial.",
+                    "VI": "Đây là khu dân cư.",
+                    "FR": "C'est une zone résidentielle.",
+                    "NE": "यो आवासीय क्षेत्र हो।",
+                    "BN": "এটি একটি আবাসিক এলাকা।",
+                    "ZH": "这是住宅区。",
+                    "KO": "여기는 주택 구역입니다.",
+                    "TL": "Ito ay isang residential area.",
+                    "MY": "ဤနေရာသည် လူနေနေရပ်ကိုယ်ပိုင်ဒေသ ဖြစ်သည်။",
+                    "HI": "यह एक आवासीय क्षेत्र है।",
+                    "AR": "هذا هو منطقة سكنية.",
+                    "FA": "این یک منطقه مسکونی است."
+                }
+            }
+        ],
+        "synonyms": [
+            "エリア : エリア : area",
+            "領域 : りょういき : territory"
+        ],
+        "synonyms_explanation": "The most common synonyms of the \"くいき\" are \"エリア\" and \"領域.\" \"エリア\" is a borrowed English word meaning \"area\" and is informal, often used in casual conversations. \"領域\" carries the nuance of territory or domain, implying ownership or control over the space.",
+        "antonyms": [
+            "無秩序 : むちつじょ : disorder",
+            "無 : む : nothing"
+        ],
+        "antonyms_explanation": "The most common antonyms of the \"くいき\" are \"むちつじょ\" and \"むかんり.\" \"むちつじょ\" refers to \"disorder\" indicating absence of a designated area or organization. \"むかんり\" means \"lack of management\" suggesting chaos or lack of control over an area.",
+        "kanji_details": [
+            {
+                "kanji": "区",
+                "common_words": [
+                    "地区: district",
+                    "区別: distinction"
+                ]
+            },
+            {
+                "kanji": "域",
+                "common_words": [
+                    "領域: territory",
+                    "海域: area of sea"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "区域",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "区域",
+                "reading": "くいき"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "area",
+                    "zone",
+                    "district",
+                    "quarter",
+                    "section",
+                    "limits",
+                    "boundary"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "区",
+        "域"
     ],
-    "kanjis": [
-        {
-            "kanji": "区",
+    "kanji_data": {
+        "区": {
             "meanings": [
                 "district",
                 "ward"
             ],
-            "onyomi": [
+            "on_readings": [
                 "オウ",
                 "ク",
                 "コウ"
             ],
-            "kunyomi": [],
-            "strokes": 4,
+            "kun_readings": [],
+            "stroke_count": 4,
             "jlpt": 2,
-            "frequency": 137,
+            "freq_mainichi_shinbun": 137,
             "unicode": "533A",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "地区",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "district",
-                                "area",
-                                "zone",
-                                "quarter",
-                                "section",
-                                "region"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "区別",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "くべつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "distinction",
-                                "differentiation",
-                                "discrimination",
-                                "difference"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         },
-        {
-            "kanji": "域",
+        "域": {
             "meanings": [
                 "level",
                 "limits",
@@ -125,365 +237,22 @@
                 "region",
                 "stage"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イキ"
             ],
-            "kunyomi": [],
-            "strokes": 11,
+            "kun_readings": [],
+            "stroke_count": 11,
             "jlpt": 2,
-            "frequency": 396,
+            "freq_mainichi_shinbun": 396,
             "unicode": "57DF",
-            "grade": 6,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "領域",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "りょういき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "territory",
-                                "domain"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "field",
-                                "area",
-                                "domain",
-                                "sphere",
-                                "realm"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "domain",
-                                "region"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "海域",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かいいき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "area of sea",
-                                "waters"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 6
         }
-    ],
-    "kanji_explanation": "The first kanji means a ward or division, like a part of a city or a separated section. You can see it used in ちく where it marks a district or neighborhood, and in くべつ where it adds the idea of dividing or distinguishing things. The second kanji means an area or region, a more general boundary or domain. It appears in りょういき to mean a territory or sphere of activity, and in かいいき to indicate a specific sea area, so it gives the sense of a defined zone.",
-    "explanations": {
-        "explanation": "The word \"くいき\" means \"an area or region.\" It can refer to a geographical zone, a district, or a designated space within a city or place. It's used when talking about specific parts or sections within larger spaces.",
-        "youtube_description": "Explore the Japanese word \"区域 (くいき)\" and how to use it in daily conversations. Learn about its meanings, kanji details, and useful contextual phrases. Ideal for expanding your vocabulary and grasping the nuances of Japanese language! Don't forget to like and subscribe for more engaging lessons!",
-        "motivation": "The word we'll be learning in this section is \"くいき,\" which you will often hear in city planning contexts, real estate discussions, and when talking about zoning in urban areas.",
-        "collocations": [
-            "安全くいき",
-            "商業くいき",
-            "市内くいき",
-            "作戦くいき",
-            "住宅くいき"
-        ],
-        "synonyms": [
-            "エリア",
-            "領域"
-        ],
-        "synonyms_explanation": "The most common synonyms of the \"くいき\" are \"エリア\" and \"領域.\" \"エリア\" is a borrowed English word meaning \"area\" and is informal, often used in casual conversations. \"領域\" carries the nuance of territory or domain, implying ownership or control over the space.",
-        "antonyms": [
-            "無秩序",
-            "無管理"
-        ],
-        "antonyms_explanation": "The most common antonyms of the \"くいき\" are \"むちつじょ\" and \"むかんり.\" \"むちつじょ\" refers to \"disorder\" indicating absence of a designated area or organization. \"むかんり\" means \"lack of management\" suggesting chaos or lack of control over an area."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n2"
-    ],
-    "examples": [
-        {
-            "kanji": "ここは安全な区域です。",
-            "furigana": "ここは安全(あんぜん)な区域(くいき)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "ここは安全な区域です。",
-                "English": "This is a safe area.",
-                "Persian": "این یک منطقه امن است.",
-                "Nepali": "यो सुरक्षित क्षेत्र हो।",
-                "Indonesian": "Ini adalah wilayah yang aman.",
-                "Filipino": "Ito ay isang ligtas na lugar.",
-                "Vietnamese": "Đây là khu vực an toàn.",
-                "Burmese": "ဒါက အန္တရာယ်ကင်းတဲ့ ဒေသတစ်ခုပါ။",
-                "Korean": "여기는 안전한 구역입니다.",
-                "Hindi": "यह एक सुरक्षित क्षेत्र है।",
-                "Arabic": "هذه منطقة آمنة.",
-                "French": "C'est une zone sûre.",
-                "Spanish": "Esta es una zona segura.",
-                "Chinese": "这是一个安全区域。",
-                "Bengali": "এটি একটি নিরাপদ এলাকা।"
-            }
-        },
-        {
-            "kanji": "この地域は商業区域です。",
-            "furigana": "この地域(ちいき)は商業(しょうぎょう)区域(くいき)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "この地域は商業区域です。",
-                "English": "This area is a commercial zone.",
-                "Persian": "این منطقه یک منطقه تجاری است.",
-                "Nepali": "यो क्षेत्र भनेको व्यापारिक क्षेत्र हो।",
-                "Indonesian": "Area ini adalah kawasan komersial.",
-                "Filipino": "Ang lugar na ito ay isang komersyal na sonang.",
-                "Vietnamese": "Khu vực này là một khu thương mại.",
-                "Burmese": "ဤဒေသသည် ကုန်သွယ်ရေးဇုန်ဖြစ်သည်။",
-                "Korean": "이 지역은 상업 구역입니다.",
-                "Hindi": "यह क्षेत्र एक वाणिज्यिक क्षेत्र है।",
-                "Arabic": "هذا المنطقة هي منطقة تجارية.",
-                "French": "Cette région est une zone commerciale.",
-                "Spanish": "Esta área es una zona comercial.",
-                "Chinese": "这个地区是一个商业区。",
-                "Bengali": "এই এলাকা একটি বাণিজ্যিক অঞ্চল।"
-            }
-        },
-        {
-            "kanji": "市内区域を歩く。",
-            "furigana": "市内(しない)区域(くいき)を歩(ある)く。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "市内区域を歩く。",
-                "English": "Walk in the city area.",
-                "Persian": "در منطقه شهری قدم بزن.",
-                "Nepali": "सहरी क्षेत्रमा हिँड्नुहोस्।",
-                "Indonesian": "Berjalan di daerah kota.",
-                "Filipino": "Maglakad sa loob ng lungsod.",
-                "Vietnamese": "Đi bộ trong khu vực thành phố.",
-                "Burmese": "မြို့အတွင်း အကျယ်ကျယ်လှည့်သည်။",
-                "Korean": "시내 구역을 걷다.",
-                "Hindi": "शहर क्षेत्र में चलना।",
-                "Arabic": "المشي في منطقة المدينة.",
-                "French": "Marcher dans la zone urbaine.",
-                "Spanish": "Caminar por el área de la ciudad.",
-                "Chinese": "在市区行走。",
-                "Bengali": "শহরের এলাকায় হাঁটুন।"
-            }
-        },
-        {
-            "kanji": "作戦区域に入る。",
-            "furigana": "作戦(さくせん)区域(くいき)に入(はい)る。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "作戦区域に入る。",
-                "English": "Enter the strategy area.",
-                "Persian": "وارد منطقه استراتژی شوید.",
-                "Nepali": "रणनीति क्षेत्रमा प्रवेश गर्नुहोस्।",
-                "Indonesian": "Masuk ke area strategi.",
-                "Filipino": "Pumasok sa lugar ng pamamaraan.",
-                "Vietnamese": "Vào khu vực chiến thuật.",
-                "Burmese": "မဟာဗျူဟာဒေသသို့ ဝင်ပါ။",
-                "Korean": "작전 구역에 들어가다.",
-                "Hindi": "रणनीति क्षेत्र में प्रवेश करें।",
-                "Arabic": "أدخل المنطقة الاستراتيجية.",
-                "French": "Entrer dans la zone de stratégie.",
-                "Spanish": "Entrar en el área de estrategia.",
-                "Chinese": "进入作战区域。",
-                "Bengali": "কৌশল ক্ষেত্রের মধ্যে প্রবেশ করুন।"
-            }
-        },
-        {
-            "kanji": "ここは住宅区域です。",
-            "furigana": "ここは住宅(じゅうたく)区域(くいき)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "ここは住宅区域です。",
-                "English": "This is a residential area.",
-                "Persian": "این یک منطقه مسکونی است.",
-                "Nepali": "यो आवासीय क्षेत्र हो।",
-                "Indonesian": "Ini adalah area perumahan.",
-                "Filipino": "Ito ay isang residential area.",
-                "Vietnamese": "Đây là khu dân cư.",
-                "Burmese": "ဤနေရာသည် လူနေနေရပ်ကိုယ်ပိုင်ဒေသ ဖြစ်သည်။",
-                "Korean": "여기는 주택 구역입니다.",
-                "Hindi": "यह एक आवासीय क्षेत्र है।",
-                "Arabic": "هذا هو منطقة سكنية.",
-                "French": "C'est une zone résidentielle.",
-                "Spanish": "Este es un área residencial.",
-                "Chinese": "这是住宅区。",
-                "Bengali": "এটি একটি আবাসিক এলাকা।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "エリア",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "エリア",
-            "meanings": [
-                {
-                    "neuances": [
-                        "area"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "領域",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "りょういき",
-            "meanings": [
-                {
-                    "neuances": [
-                        "territory",
-                        "domain"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "field",
-                        "area",
-                        "domain",
-                        "sphere",
-                        "realm"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "domain",
-                        "region"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "無秩序",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "むちつじょ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "disorder",
-                        "chaos",
-                        "confusion"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "無",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "む",
-            "meanings": [
-                {
-                    "neuances": [
-                        "nothing",
-                        "naught",
-                        "nought",
-                        "nil",
-                        "zero"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "un-",
-                        "non-"
-                    ],
-                    "part_of_speech": "Prefix",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "安全くいき",
+        "商業くいき",
+        "市内くいき",
+        "作戦くいき",
+        "住宅くいき"
     ]
 }

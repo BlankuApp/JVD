@@ -1,472 +1,251 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "契約",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/YxT5FSQm4cg",
     "in_db": true,
-    "reading": "けいやく",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "契約",
+        "reading": "けいやく",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is けいやく which you will often hear in business discussions, legal contexts, or any formal setting where terms need to be formally agreed upon.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"けいやく\" means \"contract\" or \"agreement\" in English. It refers to a formal agreement or understanding between two or more parties, usually documented and legally binding, covering terms and conditions agreed upon by all parties involved.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "contract",
                 "compact",
                 "agreement"
-            ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "契約",
-                "English": "Contract",
-                "Persian": "قرارداد",
-                "Nepali": "सम्झौता",
-                "Indonesian": "Kontrak",
-                "Filipino": "Kontrata",
-                "Vietnamese": "Hợp đồng",
-                "Burmese": "စာချုပ်",
-                "Korean": "계약",
-                "Hindi": "अनुबंध",
-                "Arabic": "عقد",
-                "French": "Contrat",
-                "Spanish": "Contrato",
-                "Chinese": "合同",
-                "Bengali": "চুক্তি"
+            ]
+        ],
+        "meaning_translations": {
+            "contract": {
+                "EN": "Contract",
+                "ID": "Kontrak",
+                "ES": "Contrato",
+                "VI": "Hợp đồng",
+                "FR": "Contrat",
+                "NE": "सम्झौता",
+                "BN": "চুক্তি",
+                "ZH": "合同",
+                "KO": "계약",
+                "TL": "Kontrata",
+                "MY": "စာချုပ်",
+                "HI": "अनुबंध",
+                "AR": "عقد",
+                "FA": "قرارداد"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "私たちは契約を結ぶ。",
+                "furigana": "私(わたし)たち は 契約(けいやく) を 結(むす)ぶ。",
+                "translations": {
+                    "EN": "We make a contract.",
+                    "ID": "Kami membuat kontrak.",
+                    "ES": "Hacemos un contrato.",
+                    "VI": "Chúng tôi ký hợp đồng.",
+                    "FR": "Nous concluons un contrat.",
+                    "NE": "हामीले सम्झौता गर्दछौं।",
+                    "BN": "আমরা একটি চুক্তি করি।",
+                    "ZH": "我们签合同。",
+                    "KO": "우리는 계약을 맺고 있습니다.",
+                    "TL": "Kami ay gumagawa ng kontrata.",
+                    "MY": "ကျွန်ုပ်တို့သည် قرارداد လက်မှတ်ထိုးသည်။",
+                    "HI": "हम एक समझौता करते हैं।",
+                    "AR": "نحن نبرم عقدًا.",
+                    "FA": "ما یک قرارداد می بندیم."
+                }
+            },
+            {
+                "kanji": "彼は契約を破った。",
+                "furigana": "彼(かれ)は契約(けいやく)を破(やぶ)った。",
+                "translations": {
+                    "EN": "He broke the contract.",
+                    "ID": "Dia melanggar kontrak.",
+                    "ES": "Él rompió el contrato.",
+                    "VI": "Anh ấy đã vi phạm hợp đồng.",
+                    "FR": "Il a rompu le contrat.",
+                    "NE": "उले सम्झौता तोड्यो।",
+                    "BN": "সে চুক্তি ভেঙেছে।",
+                    "ZH": "他撕毁了合同。",
+                    "KO": "그는 계약을 깨뜨렸다.",
+                    "TL": "Sinira niya ang kontrata.",
+                    "MY": "သူက စာချုပ်ကို ချိုးဖျက်ခဲ့ပါတယ်။",
+                    "HI": "उसने अनुबंध तोड़ दिया।",
+                    "AR": "لقد كسر العقد.",
+                    "FA": "او قرارداد را شکست."
+                }
+            },
+            {
+                "kanji": "契約を停止しました。",
+                "furigana": "契約(けいやく)を停止(ていし)しました。",
+                "translations": {
+                    "EN": "The contract has been suspended.",
+                    "ID": "Kontrak telah ditangguhkan.",
+                    "ES": "El contrato ha sido suspendido.",
+                    "VI": "Hợp đồng đã bị đình chỉ.",
+                    "FR": "Le contrat a été suspendu.",
+                    "NE": "सम्झौता निलम्बित गरिएको छ।",
+                    "BN": "চুক্তিটি স্থগিত করা হয়েছে।",
+                    "ZH": "合同已被暂停。",
+                    "KO": "계약이 중단되었습니다.",
+                    "TL": "Ang kontrata ay nasuspinde.",
+                    "MY": "စာချုပ်ကို ရပ်ဆိုင်းခဲ့ပါသည်။",
+                    "HI": "अनुबंध को निलंबित कर दिया गया है।",
+                    "AR": "تم تعليق العقد.",
+                    "FA": "قرارداد به حالت تعلیق درآمد."
+                }
+            },
+            {
+                "kanji": "契約書にサインしました。",
+                "furigana": "契約(けいやく)書(しょ)にサインしました。",
+                "translations": {
+                    "EN": "I signed the contract.",
+                    "ID": "Saya menandatangani kontrak.",
+                    "ES": "Firmé el contrato.",
+                    "VI": "Tôi đã ký hợp đồng.",
+                    "FR": "J'ai signé le contrat.",
+                    "NE": "मैले सम्झौतामा सही गरेँ।",
+                    "BN": "আমি চুক্তিতে স্বাক্ষর করেছি।",
+                    "ZH": "我在合同上签字了。",
+                    "KO": "계약서에 서명했어요.",
+                    "TL": "Nag-sign ako ng kontrata.",
+                    "MY": "ကျွန်ုပ်သည်စာချုပ်ပေါ်တွင်လက်မှတ်ထိုးခဲ့သည်။",
+                    "HI": "मैंने अनुबंध पर हस्ताक्षर किए।",
+                    "AR": "وقعت العقد.",
+                    "FA": "قرارداد را امضا کردم."
+                }
+            },
+            {
+                "kanji": "契約を更新しました。",
+                "furigana": "契約(けいやく)を更新(こうしん)しました。",
+                "translations": {
+                    "EN": "I renewed the contract.",
+                    "ID": "Saya memperbarui kontraknya.",
+                    "ES": "Renové el contrato.",
+                    "VI": "Tôi đã gia hạn hợp đồng.",
+                    "FR": "J'ai renouvelé le contrat.",
+                    "NE": "मैले सम्झौता नवीकरण गरें।",
+                    "BN": "আমি চুক্তি নবায়ন করেছি।",
+                    "ZH": "我更新了合同。",
+                    "KO": "계약을 갱신했습니다.",
+                    "TL": "Pina-renew ko ang kontrata.",
+                    "MY": "ငါစာချုပ်ကိုအသစ်ပြန်ချိတ်လိုက်ပြီ။",
+                    "HI": "मैंने अनुबंध को नवीनीकृत किया।",
+                    "AR": "لقد جددت العقد.",
+                    "FA": "من قرارداد را تمدید کردم."
+                }
+            }
+        ],
+        "synonyms": [
+            "合意 : ごうい :  agreement"
+        ],
+        "synonyms_explanation": "The most common synonym of the word \"けいやく\" is \"ごうい\". While \"けいやく\" refers specifically to a formal legal document or agreement, \"ごうい\" can be used more broadly for mutual understandings or consents which might not necessarily have legal backing.",
+        "antonyms": [
+            "解除 : かいじょ : termination"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"けいやく\" is \"かいじょ\". While \"けいやく\" refers to forming or entering an agreement, \"かいじょ\" refers to the act of canceling or terminating such an agreement, effectively nullifying the previously agreed terms.",
+        "kanji_details": [
+            {
+                "kanji": "契",
+                "common_words": [
+                    "契機: opportunity",
+                    "契り: pledge"
+                ]
+            },
+            {
+                "kanji": "約",
+                "common_words": [
+                    "約束: promise",
+                    "予約: reservation"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "契約",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "契約",
+                "reading": "けいやく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "contract",
+                    "compact",
+                    "agreement"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "契",
+        "約"
     ],
-    "kanjis": [
-        {
-            "kanji": "契",
+    "kanji_data": {
+        "契": {
             "meanings": [
                 "pledge",
                 "promise",
                 "vow"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ケイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ちぎ.る"
             ],
-            "strokes": 9,
+            "stroke_count": 9,
             "jlpt": 1,
-            "frequency": 898,
+            "freq_mainichi_shinbun": 898,
             "unicode": "5951",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "契機",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "けいき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "opportunity",
-                                "chance"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "trigger",
-                                "cause"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "契り",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちぎり",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "pledge",
-                                "vow",
-                                "promise"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "having sexual relations",
-                                "having sexual intercourse"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "destiny",
-                                "fate",
-                                "karma"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         },
-        {
-            "kanji": "約",
+        "約": {
             "meanings": [
                 "approximately",
                 "promise",
                 "shrink"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ヤク"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "つづ.まる",
                 "つづ.める",
                 "つづま.やか"
             ],
-            "strokes": 9,
+            "stroke_count": 9,
             "jlpt": 3,
-            "frequency": 94,
+            "freq_mainichi_shinbun": 94,
             "unicode": "7D04",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "約束",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "やくそく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "promise",
-                                "agreement",
-                                "arrangement",
-                                "one's word",
-                                "contract",
-                                "pact"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "appointment",
-                                "engagement",
-                                "date"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "convention",
-                                "rule"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "destiny",
-                                "fate"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "予約",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "よやく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "reservation",
-                                "appointment",
-                                "booking",
-                                "advance order"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "contract",
-                                "subscription",
-                                "pledge"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "programming",
-                                "setting"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means a pledge or vow and carries the sense of making a binding promise. In words like けいき it brings the idea of a decisive moment that 'contracts' change, and in ちぎり it directly signals a sworn promise or bond. The second kanji means roughly 'to promise' or 'approximate,' involving restriction or arrangement. In words like やくそく it expresses an agreement made between people, and in よやく it shows arranging or booking something ahead of time.",
-    "explanations": {
-        "explanation": "The word \"けいやく\" means \"contract\" or \"agreement\" in English. It refers to a formal agreement or understanding between two or more parties, usually documented and legally binding, covering terms and conditions agreed upon by all parties involved.",
-        "youtube_description": "Learn how to use the Japanese word 契約 (けいやく) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is けいやく which you will often hear in business discussions, legal contexts, or any formal setting where terms need to be formally agreed upon.",
-        "collocations": [
-            "けいやくをむすぶ",
-            "けいやくをやぶる",
-            "けいやくをていし",
-            "けいやくしょにサインする",
-            "けいやくをこうしん"
-        ],
-        "synonyms": [
-            "合意"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"けいやく\" is \"ごうい\". While \"けいやく\" refers specifically to a formal legal document or agreement, \"ごうい\" can be used more broadly for mutual understandings or consents which might not necessarily have legal backing.",
-        "antonyms": [
-            "解除"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"けいやく\" is \"かいじょ\". While \"けいやく\" refers to forming or entering an agreement, \"かいじょ\" refers to the act of canceling or terminating such an agreement, effectively nullifying the previously agreed terms."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "私たちは契約を結ぶ。",
-            "furigana": "私(わたし)たち は 契約(けいやく) を 結(むす)ぶ。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "私たちは契約を結ぶ。",
-                "English": "We make a contract.",
-                "Persian": "ما یک قرارداد می بندیم.",
-                "Nepali": "हामीले सम्झौता गर्दछौं।",
-                "Indonesian": "Kami membuat kontrak.",
-                "Filipino": "Kami ay gumagawa ng kontrata.",
-                "Vietnamese": "Chúng tôi ký hợp đồng.",
-                "Burmese": "ကျွန်ုပ်တို့သည် قرارداد လက်မှတ်ထိုးသည်။",
-                "Korean": "우리는 계약을 맺고 있습니다.",
-                "Hindi": "हम एक समझौता करते हैं।",
-                "Arabic": "نحن نبرم عقدًا.",
-                "French": "Nous concluons un contrat.",
-                "Spanish": "Hacemos un contrato.",
-                "Chinese": "我们签合同。",
-                "Bengali": "আমরা একটি চুক্তি করি।"
-            }
-        },
-        {
-            "kanji": "彼は契約を破った。",
-            "furigana": "彼(かれ)は契約(けいやく)を破(やぶ)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は契約を破った。",
-                "English": "He broke the contract.",
-                "Persian": "او قرارداد را شکست.",
-                "Nepali": "उले सम्झौता तोड्यो।",
-                "Indonesian": "Dia melanggar kontrak.",
-                "Filipino": "Sinira niya ang kontrata.",
-                "Vietnamese": "Anh ấy đã vi phạm hợp đồng.",
-                "Burmese": "သူက စာချုပ်ကို ချိုးဖျက်ခဲ့ပါတယ်။",
-                "Korean": "그는 계약을 깨뜨렸다.",
-                "Hindi": "उसने अनुबंध तोड़ दिया।",
-                "Arabic": "لقد كسر العقد.",
-                "French": "Il a rompu le contrat.",
-                "Spanish": "Él rompió el contrato.",
-                "Chinese": "他撕毁了合同。",
-                "Bengali": "সে চুক্তি ভেঙেছে।"
-            }
-        },
-        {
-            "kanji": "契約を停止しました。",
-            "furigana": "契約(けいやく)を停止(ていし)しました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "契約を停止しました。",
-                "English": "The contract has been suspended.",
-                "Persian": "قرارداد به حالت تعلیق درآمد.",
-                "Nepali": "सम्झौता निलम्बित गरिएको छ।",
-                "Indonesian": "Kontrak telah ditangguhkan.",
-                "Filipino": "Ang kontrata ay nasuspinde.",
-                "Vietnamese": "Hợp đồng đã bị đình chỉ.",
-                "Burmese": "စာချုပ်ကို ရပ်ဆိုင်းခဲ့ပါသည်။",
-                "Korean": "계약이 중단되었습니다.",
-                "Hindi": "अनुबंध को निलंबित कर दिया गया है।",
-                "Arabic": "تم تعليق العقد.",
-                "French": "Le contrat a été suspendu.",
-                "Spanish": "El contrato ha sido suspendido.",
-                "Chinese": "合同已被暂停。",
-                "Bengali": "চুক্তিটি স্থগিত করা হয়েছে।"
-            }
-        },
-        {
-            "kanji": "契約書にサインしました。",
-            "furigana": "契約(けいやく)書(しょ)にサインしました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "契約書にサインしました。",
-                "English": "I signed the contract.",
-                "Persian": "قرارداد را امضا کردم.",
-                "Nepali": "मैले सम्झौतामा सही गरेँ।",
-                "Indonesian": "Saya menandatangani kontrak.",
-                "Filipino": "Nag-sign ako ng kontrata.",
-                "Vietnamese": "Tôi đã ký hợp đồng.",
-                "Burmese": "ကျွန်ုပ်သည်စာချုပ်ပေါ်တွင်လက်မှတ်ထိုးခဲ့သည်။",
-                "Korean": "계약서에 서명했어요.",
-                "Hindi": "मैंने अनुबंध पर हस्ताक्षर किए।",
-                "Arabic": "وقعت العقد.",
-                "French": "J'ai signé le contrat.",
-                "Spanish": "Firmé el contrato.",
-                "Chinese": "我在合同上签字了。",
-                "Bengali": "আমি চুক্তিতে স্বাক্ষর করেছি।"
-            }
-        },
-        {
-            "kanji": "契約を更新しました。",
-            "furigana": "契約(けいやく)を更新(こうしん)しました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "契約を更新しました。",
-                "English": "I renewed the contract.",
-                "Persian": "من قرارداد را تمدید کردم.",
-                "Nepali": "मैले सम्झौता नवीकरण गरें।",
-                "Indonesian": "Saya memperbarui kontraknya.",
-                "Filipino": "Pina-renew ko ang kontrata.",
-                "Vietnamese": "Tôi đã gia hạn hợp đồng.",
-                "Burmese": "ငါစာချုပ်ကိုအသစ်ပြန်ချိတ်လိုက်ပြီ။",
-                "Korean": "계약을 갱신했습니다.",
-                "Hindi": "मैंने अनुबंध को नवीनीकृत किया।",
-                "Arabic": "لقد جددت العقد.",
-                "French": "J'ai renouvelé le contrat.",
-                "Spanish": "Renové el contrato.",
-                "Chinese": "我更新了合同。",
-                "Bengali": "আমি চুক্তি নবায়ন করেছি।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "合意",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ごうい",
-            "meanings": [
-                {
-                    "neuances": [
-                        " agreement",
-                        "consent",
-                        "mutual understanding",
-                        "accord",
-                        "consensus"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "解除",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "かいじょ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "termination",
-                        "cancellation",
-                        "rescinding",
-                        "rescission"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "lifting",
-                        "removal",
-                        "release",
-                        "cancellation",
-                        "calling off",
-                        "releasing"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "けいやくをむすぶ",
+        "けいやくをやぶる",
+        "けいやくをていし",
+        "けいやくしょにサインする",
+        "けいやくをこうしん"
     ]
 }

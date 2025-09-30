@@ -7,8 +7,7 @@ from dotenv import load_dotenv
 
 from src import LANGUAGES_ABBR, get_openai_client
 from src.utils import create_html_with_ruby
-from src.word.JPWord import JPWord
-from src.word.JPWord2 import translate_text
+from src.word.JPWord import translate_text
 
 
 @st.cache_data(ttl=3600)
@@ -19,13 +18,7 @@ def get_words() -> list[dict]:
         with open(os.path.join("resources/words", json_file), "r", encoding="utf-8") as file:
             raw_data = file.read()
             json_data = json.loads(raw_data)
-            version = json_data.get("version")
-            w = None
-            if version == "0.1.1":
-                w = JPWord.model_validate_json(raw_data)
-                words.append(dict(word=w.word, level=w.jlpt_level))
-            if version == "0.2.0":
-                words.append(dict(word=json_data["word"], level=json_data["jlpt_level"]))
+            words.append(dict(word=json_data["word"], level=json_data["jlpt_level"]))
     return words
 
 

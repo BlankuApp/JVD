@@ -1,42 +1,214 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "収入",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/v-mSivJFJEg",
     "in_db": true,
-    "reading": "しゅうにゅう",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "収入",
+        "reading": "しゅうにゅう",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is しゅうにゅう which you will often hear in conversations about finances, business discussions, and salary negotiations.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word しゅうにゅう means \"income\" in English. It refers to money received, usually on a regular basis, for work or through investments. This can include salaries, wages, profits from business activities, dividends, and other sources of revenue.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "income",
                 "earnings",
                 "revenue",
                 "proceeds",
                 "takings",
                 "receipts"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "収入 : income",
-                "English": "Income",
-                "Persian": "درآمد",
-                "Nepali": "आम्दानी",
-                "Indonesian": "Pendapatan",
-                "Filipino": "Kita",
-                "Vietnamese": "Thu nhập",
-                "Burmese": "ဝင်ငွေ",
-                "Korean": "소득",
-                "Hindi": "आय",
-                "Arabic": "الدخل",
-                "French": "Revenu",
-                "Spanish": "Ingresos",
-                "Chinese": "收入",
-                "Bengali": "আয়"
+            ]
+        ],
+        "meaning_translations": {
+            "income": {
+                "EN": "Income",
+                "ID": "Pendapatan",
+                "ES": "Ingresos",
+                "VI": "Thu nhập",
+                "FR": "Revenu",
+                "NE": "आम्दानी",
+                "BN": "আয়",
+                "ZH": "收入",
+                "KO": "소득",
+                "TL": "Kita",
+                "MY": "ဝင်ငွေ",
+                "HI": "आय",
+                "AR": "الدخل",
+                "FA": "درآمد"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "私たちはアルバイトで収入を得る。",
+                "furigana": "私(わたし)たちはアルバイトで収入(しゅうにゅう)を得(え)る。",
+                "translations": {
+                    "EN": "We earn an income from part-time work.",
+                    "ID": "Kami mendapatkan penghasilan dari pekerjaan paruh waktu.",
+                    "ES": "Obtenemos ingresos de un trabajo a tiempo parcial.",
+                    "VI": "Chúng tôi kiếm thu nhập từ việc làm bán thời gian.",
+                    "FR": "Nous gagnons un revenu grâce à un travail à temps partiel.",
+                    "NE": "हामीले अंशकालिक कामबाट आय आर्जन गर्छौं।",
+                    "BN": "আমরা পার্ট-টাইম কাজ থেকে আয় উপার্জন করি।",
+                    "ZH": "我们通过兼职工作获得收入。",
+                    "KO": "우리는 아르바이트로 수입을 얻습니다.",
+                    "TL": "Kumukuha kami ng kita mula sa part-time na trabaho.",
+                    "MY": "ကျွန်ုပ်တို့သည် အချိန်ပိုင်းအလုပ်မှ ဝင်ငွေ ရသည်။",
+                    "HI": "हम पार्ट-टाइम काम से आय अर्जित करते हैं।",
+                    "AR": "نحصل على دخل من العمل الجزئي.",
+                    "FA": "ما از کار نیمه وقت درآمد کسب می‌کنیم."
+                }
+            },
+            {
+                "kanji": "彼は収入計画を立てました。",
+                "furigana": "彼(かれ)は収入(しゅうにゅう)計画(けいかく)を立(た)てました。",
+                "translations": {
+                    "EN": "He made an income plan.",
+                    "ID": "Dia membuat rencana pendapatan.",
+                    "ES": "Él hizo un plan de ingresos.",
+                    "VI": "Anh ấy đã lập kế hoạch thu nhập.",
+                    "FR": "Il a élaboré un plan de revenus.",
+                    "NE": "उनले आम्दानी योजना बनाए।",
+                    "BN": "সে একটি আয়ের পরিকল্পনা তৈরি করেছিল।",
+                    "ZH": "他制定了一个收入计划。",
+                    "KO": "그는 수입 계획을 세웠습니다.",
+                    "TL": "Gumawa siya ng plano sa kita.",
+                    "MY": "သူသည် စရိတ် စီမံကိန်း တစ်ခုပြုလုပ်ခဲ့သည်။",
+                    "HI": "उसने एक आय योजना बनाई।",
+                    "AR": "لقد وضع خطة للدخل.",
+                    "FA": "او یک برنامه درآمدی تهیه کرد."
+                }
+            },
+            {
+                "kanji": "収入調査は難しいです。",
+                "furigana": "収入(しゅうにゅう)調査(ちょうさ)は難(むずか)しいです。",
+                "translations": {
+                    "EN": "Income surveys are difficult.",
+                    "ID": "Survei pendapatan itu sulit.",
+                    "ES": "Las encuestas de ingresos son difíciles.",
+                    "VI": "Khảo sát thu nhập rất khó.",
+                    "FR": "Les enquêtes de revenus sont difficiles.",
+                    "NE": "आय सर्वेक्षण गाह्रो छ।",
+                    "BN": "আয় সমীক্ষা কঠিন।",
+                    "ZH": "收入调查很困难。",
+                    "KO": "수입 조사는 어렵습니다.",
+                    "TL": "Ang mga survey ng kita ay mahirap.",
+                    "MY": "ဝင်ငွေအကဲဖြတ်ချက်များသည် ခက်ခဲသည်။",
+                    "HI": "आय सर्वेक्षण कठिन हैं।",
+                    "AR": "تكون الاستطلاعات الدخلية صعبة.",
+                    "FA": "تحقیقات درآمد سخت است."
+                }
+            },
+            {
+                "kanji": "彼は収入が高い。",
+                "furigana": "彼(かれ)は収入(しゅうにゅう)が高(たか)い。",
+                "translations": {
+                    "EN": "He has a high income.",
+                    "ID": "Dia memiliki penghasilan yang tinggi.",
+                    "ES": "Tiene un ingreso alto.",
+                    "VI": "Anh ấy có thu nhập cao.",
+                    "FR": "Il a un revenu élevé.",
+                    "NE": "उसको आम्दानी उच्च छ।",
+                    "BN": "তার আয় বেশি।",
+                    "ZH": "他的收入很高。",
+                    "KO": "그는 수입이 높습니다.",
+                    "TL": "Mataas ang kita niya.",
+                    "MY": "သူ့ဝင်ငွေအတော်များပါတယ်။",
+                    "HI": "उसकी आय उच्च है।",
+                    "AR": "لديه دخل مرتفع.",
+                    "FA": "او درآمد بالایی دارد."
+                }
+            },
+            {
+                "kanji": "収入が増えた。",
+                "furigana": "\b\u0016\u0018じゅうにゅう)(が)\b\u0019ふ(えた)。",
+                "translations": {
+                    "EN": "Income increased.",
+                    "ID": "Pendapatan meningkat.",
+                    "ES": "Aumentó el ingreso.",
+                    "VI": "Thu nhập đã tăng.",
+                    "FR": "Les revenus ont augmenté.",
+                    "NE": "आम्दानी बढ्यो।",
+                    "BN": "আয় বেড়েছে।",
+                    "ZH": "收入增加了。",
+                    "KO": "수입이 증가했다.",
+                    "TL": "Tumaas ang kita.",
+                    "MY": "ဝင်ငွေတိုးလာခဲ့သည်။",
+                    "HI": "आय बढ़ गई।",
+                    "AR": "ارتفع الدخل.",
+                    "FA": "درآمد افزایش یافت."
+                }
+            }
+        ],
+        "synonyms": [
+            "所得 : しょとく : income"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word しゅうにゅう are しょとく. しょとく also refers to income or earnings, but it can sometimes imply a more formal or tax-related context.",
+        "antonyms": [
+            "支出 : ししゅつ : expenditure"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word しゅうにゅう are ししゅつ. The word ししゅつ means \"expenditure\" or \"expense\" and refers to money spent or costs incurred, contrasting with income which concerns earnings received.",
+        "kanji_details": [
+            {
+                "kanji": "収",
+                "common_words": [
+                    "収集: collecting",
+                    "収納: storage"
+                ]
+            },
+            {
+                "kanji": "入",
+                "common_words": [
+                    "入学: admission",
+                    "入口: entrance"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "収入",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "収入",
+                "reading": "しゅうにゅう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "income",
+                    "earnings",
+                    "revenue",
+                    "proceeds",
+                    "takings",
+                    "receipts"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "収",
+        "入"
     ],
-    "kanjis": [
-        {
-            "kanji": "収",
+    "kanji_data": {
+        "収": {
             "meanings": [
                 "income",
                 "obtain",
@@ -45,114 +217,29 @@
                 "store",
                 "supply"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シュウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "おさ.まる",
                 "おさ.める"
             ],
-            "strokes": 4,
+            "stroke_count": 4,
             "jlpt": 3,
-            "frequency": 337,
+            "freq_mainichi_shinbun": 337,
             "unicode": "53CE",
-            "grade": 6,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "収集",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅうしゅう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "collecting",
-                                "accumulating",
-                                "gathering"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "collection"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "garbage collection",
-                                "waste collection"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "収納",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅうのう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "storage",
-                                "putting away"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "receipt"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "harvesting"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 6
         },
-        {
-            "kanji": "入",
+        "入": {
             "meanings": [
                 "enter",
                 "insert"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ジュ",
                 "ニュウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-い.り",
                 "-い.る",
                 "-い.れ",
@@ -160,271 +247,18 @@
                 "い.れる",
                 "はい.る"
             ],
-            "strokes": 2,
+            "stroke_count": 2,
             "jlpt": 5,
-            "frequency": 56,
+            "freq_mainichi_shinbun": 56,
             "unicode": "5165",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "入学",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "にゅうがく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "admission",
-                                "entrance",
-                                "enrolment",
-                                "enrollment",
-                                "matriculation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4",
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "入口",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "いりぐち",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "entrance",
-                                "entry",
-                                "gate",
-                                "approach",
-                                "mouth"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         }
-    ],
-    "kanji_explanation": "The first kanji means to receive or collect and it often shows the idea of taking something in. For example, しゅうしゅう talks about gathering things together and the kanji gives the sense of collecting. Another example is しゅうのう which is about putting things away where収 carries the idea of receiving or storing. The second kanji means to enter or go into and it gives the basic motion of going inside. For example, にゅうがく refers to entering school and the kanji gives the idea of entering. Another example is いりぐち which is the place where you go in, with the kanji showing the act of going into something.",
-    "explanations": {
-        "explanation": "The word しゅうにゅう means \"income\" in English. It refers to money received, usually on a regular basis, for work or through investments. This can include salaries, wages, profits from business activities, dividends, and other sources of revenue.",
-        "youtube_description": "Learn how to use the Japanese word 収入 (しゅうにゅう) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is しゅうにゅう which you will often hear in conversations about finances, business discussions, and salary negotiations.",
-        "collocations": [
-            "しゅうにゅうをえる",
-            "しゅうにゅうけいかく",
-            "しゅうにゅうちょうさ",
-            "しゅうにゅうげん",
-            "たっせいしゅうにゅう"
-        ],
-        "synonyms": [
-            "所得"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word しゅうにゅう are しょとく. しょとく also refers to income or earnings, but it can sometimes imply a more formal or tax-related context.",
-        "antonyms": [
-            "支出"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word しゅうにゅう are ししゅつ. The word ししゅつ means \"expenditure\" or \"expense\" and refers to money spent or costs incurred, contrasting with income which concerns earnings received."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "私たちはアルバイトで収入を得る。",
-            "furigana": "私(わたし)たちはアルバイトで収入(しゅうにゅう)を得(え)る。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私たちはアルバイトで収入を得る。",
-                "English": "We earn an income from part-time work.",
-                "Persian": "ما از کار نیمه وقت درآمد کسب می‌کنیم.",
-                "Nepali": "हामीले अंशकालिक कामबाट आय आर्जन गर्छौं।",
-                "Indonesian": "Kami mendapatkan penghasilan dari pekerjaan paruh waktu.",
-                "Filipino": "Kumukuha kami ng kita mula sa part-time na trabaho.",
-                "Vietnamese": "Chúng tôi kiếm thu nhập từ việc làm bán thời gian.",
-                "Burmese": "ကျွန်ုပ်တို့သည် အချိန်ပိုင်းအလုပ်မှ ဝင်ငွေ ရသည်။",
-                "Korean": "우리는 아르바이트로 수입을 얻습니다.",
-                "Hindi": "हम पार्ट-टाइम काम से आय अर्जित करते हैं।",
-                "Arabic": "نحصل على دخل من العمل الجزئي.",
-                "French": "Nous gagnons un revenu grâce à un travail à temps partiel.",
-                "Spanish": "Obtenemos ingresos de un trabajo a tiempo parcial.",
-                "Chinese": "我们通过兼职工作获得收入。",
-                "Bengali": "আমরা পার্ট-টাইম কাজ থেকে আয় উপার্জন করি।"
-            }
-        },
-        {
-            "kanji": "彼は収入計画を立てました。",
-            "furigana": "彼(かれ)は収入(しゅうにゅう)計画(けいかく)を立(た)てました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は収入計画を立てました。",
-                "English": "He made an income plan.",
-                "Persian": "او یک برنامه درآمدی تهیه کرد.",
-                "Nepali": "उनले आम्दानी योजना बनाए।",
-                "Indonesian": "Dia membuat rencana pendapatan.",
-                "Filipino": "Gumawa siya ng plano sa kita.",
-                "Vietnamese": "Anh ấy đã lập kế hoạch thu nhập.",
-                "Burmese": "သူသည် စရိတ် စီမံကိန်း တစ်ခုပြုလုပ်ခဲ့သည်။",
-                "Korean": "그는 수입 계획을 세웠습니다.",
-                "Hindi": "उसने एक आय योजना बनाई।",
-                "Arabic": "لقد وضع خطة للدخل.",
-                "French": "Il a élaboré un plan de revenus.",
-                "Spanish": "Él hizo un plan de ingresos.",
-                "Chinese": "他制定了一个收入计划。",
-                "Bengali": "সে একটি আয়ের পরিকল্পনা তৈরি করেছিল।"
-            }
-        },
-        {
-            "kanji": "収入調査は難しいです。",
-            "furigana": "収入(しゅうにゅう)調査(ちょうさ)は難(むずか)しいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "収入調査は難しいです。",
-                "English": "Income surveys are difficult.",
-                "Persian": "تحقیقات درآمد سخت است.",
-                "Nepali": "आय सर्वेक्षण गाह्रो छ।",
-                "Indonesian": "Survei pendapatan itu sulit.",
-                "Filipino": "Ang mga survey ng kita ay mahirap.",
-                "Vietnamese": "Khảo sát thu nhập rất khó.",
-                "Burmese": "ဝင်ငွေအကဲဖြတ်ချက်များသည် ခက်ခဲသည်။",
-                "Korean": "수입 조사는 어렵습니다.",
-                "Hindi": "आय सर्वेक्षण कठिन हैं।",
-                "Arabic": "تكون الاستطلاعات الدخلية صعبة.",
-                "French": "Les enquêtes de revenus sont difficiles.",
-                "Spanish": "Las encuestas de ingresos son difíciles.",
-                "Chinese": "收入调查很困难。",
-                "Bengali": "আয় সমীক্ষা কঠিন।"
-            }
-        },
-        {
-            "kanji": "彼は収入が高い。",
-            "furigana": "彼(かれ)は収入(しゅうにゅう)が高(たか)い。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は収入が高い。",
-                "English": "He has a high income.",
-                "Persian": "او درآمد بالایی دارد.",
-                "Nepali": "उसको आम्दानी उच्च छ।",
-                "Indonesian": "Dia memiliki penghasilan yang tinggi.",
-                "Filipino": "Mataas ang kita niya.",
-                "Vietnamese": "Anh ấy có thu nhập cao.",
-                "Burmese": "သူ့ဝင်ငွေအတော်များပါတယ်။",
-                "Korean": "그는 수입이 높습니다.",
-                "Hindi": "उसकी आय उच्च है।",
-                "Arabic": "لديه دخل مرتفع.",
-                "French": "Il a un revenu élevé.",
-                "Spanish": "Tiene un ingreso alto.",
-                "Chinese": "他的收入很高。",
-                "Bengali": "তার আয় বেশি।"
-            }
-        },
-        {
-            "kanji": "収入が増えた。",
-            "furigana": "\b\u0016\u0018じゅうにゅう)(が)\b\u0019ふ(えた)。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "収入が増えた。",
-                "English": "Income increased.",
-                "Persian": "درآمد افزایش یافت.",
-                "Nepali": "आम्दानी बढ्यो।",
-                "Indonesian": "Pendapatan meningkat.",
-                "Filipino": "Tumaas ang kita.",
-                "Vietnamese": "Thu nhập đã tăng.",
-                "Burmese": "ဝင်ငွေတိုးလာခဲ့သည်။",
-                "Korean": "수입이 증가했다.",
-                "Hindi": "आय बढ़ गई।",
-                "Arabic": "ارتفع الدخل.",
-                "French": "Les revenus ont augmenté.",
-                "Spanish": "Aumentó el ingreso.",
-                "Chinese": "收入增加了。",
-                "Bengali": "আয় বেড়েছে।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "所得",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しょとく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "income",
-                        "earnings"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "支出",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ししゅつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "expenditure",
-                        "disbursement",
-                        "expenses"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "しゅうにゅうをえる",
+        "しゅうにゅうけいかく",
+        "しゅうにゅうちょうさ",
+        "しゅうにゅうげん",
+        "たっせいしゅうにゅう"
     ]
 }

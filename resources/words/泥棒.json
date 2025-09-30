@@ -1,158 +1,250 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "泥棒",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/1spqLZaezDE",
     "in_db": true,
-    "reading": "どろぼう",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "泥棒",
+        "reading": "どろぼう",
+        "introduction_japanese": "",
+        "introduction_english": "Today, let's dive into the vocabulary term どろぼう, a word you might often hear in suspenseful crime dramas or while discussing security and safety.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word どろぼう means a thief or burglar, someone who steals things sneakily. It is used in contexts relating to theft or burglary.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "thief",
                 "burglar",
                 "robber"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "泥棒",
-                "English": "thief",
-                "Persian": "دزد",
-                "Nepali": "चोर",
-                "Indonesian": "pencuri",
-                "Filipino": "magnanakaw",
-                "Vietnamese": "kẻ trộm",
-                "Burmese": "သူခိုး",
-                "Korean": "도둑",
-                "Hindi": "चोर",
-                "Arabic": "لص",
-                "French": "voleur",
-                "Spanish": "ladrón",
-                "Chinese": "小偷",
-                "Bengali": "চোর"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "theft",
                 "burglary",
                 "robbery"
-            ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "泥棒",
-                "English": "Theft",
-                "Persian": "دزدی",
-                "Nepali": "चोरी",
-                "Indonesian": "Pencurian",
-                "Filipino": "Pagnanakaw",
-                "Vietnamese": "Trộm cắp",
-                "Burmese": "ခိုးယူမှု",
-                "Korean": "도둑질",
-                "Hindi": "चोरी",
-                "Arabic": "سرقة",
-                "French": "Vol",
-                "Spanish": "Robo",
-                "Chinese": "盗窃",
-                "Bengali": "চুরি"
+            ]
+        ],
+        "meaning_translations": {
+            "thief": {
+                "EN": "thief",
+                "ID": "pencuri",
+                "ES": "ladrón",
+                "VI": "kẻ trộm",
+                "FR": "voleur",
+                "NE": "चोर",
+                "BN": "চোর",
+                "ZH": "小偷",
+                "KO": "도둑",
+                "TL": "magnanakaw",
+                "MY": "သူခိုး",
+                "HI": "चोर",
+                "AR": "لص",
+                "FA": "دزد"
+            },
+            "theft": {
+                "EN": "Theft",
+                "ID": "Pencurian",
+                "ES": "Robo",
+                "VI": "Trộm cắp",
+                "FR": "Vol",
+                "NE": "चोरी",
+                "BN": "চুরি",
+                "ZH": "盗窃",
+                "KO": "도둑질",
+                "TL": "Pagnanakaw",
+                "MY": "ခိုးယူမှု",
+                "HI": "चोरी",
+                "AR": "سرقة",
+                "FA": "دزدی"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "泥棒が逃げる。",
+                "furigana": "泥棒(どろぼう)が逃(に)げる。",
+                "translations": {
+                    "EN": "The thief runs away.",
+                    "ID": "Pencuri melarikan diri.",
+                    "ES": "El ladrón se escapa.",
+                    "VI": "Tên trộm chạy trốn.",
+                    "FR": "Le voleur s'enfuit.",
+                    "NE": "चोर भाग्छ।",
+                    "BN": "চোর পালিয়ে যায়।",
+                    "ZH": "小偷逃跑了。",
+                    "KO": "도둑이 도망간다.",
+                    "TL": "Tumakbo ang magnanakaw.",
+                    "MY": "အလောင်းပျံသွားသည်။",
+                    "HI": "चोर भाग जाता है।",
+                    "AR": "يهرب اللص.",
+                    "FA": "دزد فرار می‌کند."
+                }
+            },
+            {
+                "kanji": "私は泥棒に会った。",
+                "furigana": "私(わたし)は泥棒(どろぼう)に会(あ)った。",
+                "translations": {
+                    "EN": "I met a thief.",
+                    "ID": "Saya bertemu pencuri.",
+                    "ES": "Me encontré con un ladrón.",
+                    "VI": "Tôi đã gặp một tên trộm.",
+                    "FR": "J'ai rencontré un voleur.",
+                    "NE": "म चोरलाई भेटें।",
+                    "BN": "আমি একজন চোরের মুখোমুখি হলাম।",
+                    "ZH": "我遇到了一个小偷。",
+                    "KO": "나는 도둑을 만났다.",
+                    "TL": "Nakita ko ang isang magnanakaw.",
+                    "MY": "ကျွန်တော် ဓားပြများနဲ့ တွေ့ခဲ့တယ်။",
+                    "HI": "मैं एक चोर से मिला।",
+                    "AR": "قابلت لصاً.",
+                    "FA": "من با یک دزد برخورد کردم."
+                }
+            },
+            {
+                "kanji": "むすこは泥棒になるなんて。",
+                "furigana": "むすこは泥棒(どろぼう)になるなんて。",
+                "translations": {
+                    "EN": "My son becoming a thief, how could it be?",
+                    "ID": "Anakku jadi pencuri, bagaimana bisa?",
+                    "ES": "¿Que mi hijo se convierta en ladrón, cómo puede ser?",
+                    "VI": "Con trai tôi trở thành kẻ trộm, làm sao có thể như vậy?",
+                    "FR": "Mon fils devient un voleur, comment ça peut être?",
+                    "NE": "मेरो छोरो चोर बन्छ, कसरी हुन सक्छ?",
+                    "BN": "আমার ছেলে চোর হয়ে গেল, এটা কীভাবে সম্ভব?",
+                    "ZH": "我的儿子成了小偷，怎么可能？",
+                    "KO": "우리 아들이 도둑이 된다니, 어떻게 그럴 수 있죠?",
+                    "TL": "Ang anak ko ay naging magnanakaw, paano nangyari?",
+                    "MY": "ကျွန်တော့်သား ခိုးမှု လုပ်မယ်ဆို အဖြစ်ဖြစ်ပါ့မလား။",
+                    "HI": "मेरा बेटा चोर बन गया, यह कैसे संभव है?",
+                    "AR": "كيف يمكن أن يصبح ابني لصاً؟",
+                    "FA": "پسرم دزد شد، چطور ممکنه؟"
+                }
+            },
+            {
+                "kanji": "お金を泥棒にあわせるものかい。",
+                "furigana": "お金(かね)を泥棒(どろぼう)にあわせるものかい。",
+                "translations": {
+                    "EN": "Why should I give money to a thief?",
+                    "ID": "Mengapa saya harus memberikan uang kepada pencuri?",
+                    "ES": "¿Por qué debería darle dinero a un ladrón?",
+                    "VI": "Tại sao tôi phải đưa tiền cho tên trộm?",
+                    "FR": "Pourquoi devrais-je donner de l'argent à un voleur ?",
+                    "NE": "चोरलाई किन पैसा दिनु?",
+                    "BN": "আমি কেন চোরকে টাকা দেবো?",
+                    "ZH": "我为什么应该给小偷钱？",
+                    "KO": "왜 내가 도둑에게 돈을 줘야 해요?",
+                    "TL": "Bakit ko ibibigay ang pera sa magnanakaw?",
+                    "MY": "ငွေရူးသွားသလို ခိုးထုရင်မှန်းဘဲဗျာ။",
+                    "HI": "क्यों मुझे चोर को पैसा देना चाहिए?",
+                    "AR": "لماذا يجب أن أعطي المال للّص؟",
+                    "FA": "چرا باید به دزد پول بدهم؟"
+                }
+            }
+        ],
+        "synonyms": [
+            "盗人 : ぬすびと : thief"
+        ],
+        "synonyms_explanation": "The most common synonym of the word どろぼう is ぬすっと. While both refer to someone who steals, ぬすっと is often considered slightly old-fashioned and might be used in more literary or traditional contexts.",
+        "antonyms": [
+            "警官 : けいかん : police officer",
+            "保護者 : ほごしゃ : guardian"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word どろぼう are けいかん and ほごしゃ. けいかん refers to a police officer, representing law enforcement and protection, which is the opposite of committing theft. ほごしゃ refers to a guardian or protector, emphasizing safety and care, contrary to wrongful actions.",
+        "kanji_details": [
+            {
+                "kanji": "泥",
+                "common_words": [
+                    "泥だらけ: covered in mud",
+                    "泥沼: bog"
+                ]
+            },
+            {
+                "kanji": "棒",
+                "common_words": [
+                    "棒読み: reading in a monotone",
+                    "棒高跳び: pole vault"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "泥棒",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "泥棒",
+                "reading": "どろぼう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "thief",
+                    "burglar",
+                    "robber"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "theft",
+                    "burglary",
+                    "robbery"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "泥",
+        "棒"
     ],
-    "kanjis": [
-        {
-            "kanji": "泥",
+    "kanji_data": {
+        "泥": {
             "meanings": [
                 "adhere to",
                 "be attached to",
                 "mire",
                 "mud"
             ],
-            "onyomi": [
+            "on_readings": [
                 "デ",
                 "デイ",
                 "ナイ",
                 "ニ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "どろ",
                 "なず.む"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 2,
-            "frequency": 1589,
+            "freq_mainichi_shinbun": 1589,
             "unicode": "6CE5",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "泥だらけ",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どろだらけ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "covered in mud",
-                                "mud-caked"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "泥沼",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どろぬま",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "bog",
-                                "marsh",
-                                "swamp",
-                                "quagmire",
-                                "morass"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "quandary",
-                                "imbroglio"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "Doronuma"
-                            ],
-                            "part_of_speech": "Place",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         },
-        {
-            "kanji": "棒",
+        "棒": {
             "meanings": [
                 "cane",
                 "club",
@@ -161,266 +253,21 @@
                 "rod",
                 "stick"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ボウ"
             ],
-            "kunyomi": [],
-            "strokes": 12,
+            "kun_readings": [],
+            "stroke_count": 12,
             "jlpt": 2,
-            "frequency": 1455,
+            "freq_mainichi_shinbun": 1455,
             "unicode": "68D2",
-            "grade": 6,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "棒読み",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ぼうよみ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "reading in a monotone",
-                                "stiff delivery",
-                                "wooden delivery"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "棒高跳び",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ぼうたかとび",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "pole vault"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 6
         }
-    ],
-    "kanji_explanation": "The first kanji means mud or clay and it often shows something dirty or stuck. In words like どろだらけ it gives the idea that something is covered in mud, and in どろぬま it suggests a muddy swamp or a difficult, messy situation. The second kanji means a stick or pole and it adds a sense of a long, thin object. In words like ぼうよみ it contributes the sense of a rigid, wooden delivery, and in ぼうたかとび it literally means the pole used for vaulting.",
-    "explanations": {
-        "explanation": "The word どろぼう means a thief or burglar, someone who steals things sneakily. It is used in contexts relating to theft or burglary.",
-        "youtube_description": "Learn how to use the Japanese word 泥棒 (どろぼう) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "Today, let's dive into the vocabulary term どろぼう, a word you might often hear in suspenseful crime dramas or while discussing security and safety.",
-        "collocations": [
-            "どろぼうがにげる",
-            "どろぼうにあう",
-            "むすこはどろぼうになるなんて",
-            "どろぼうにあわせるものかい"
-        ],
-        "synonyms": [
-            "盗人"
-        ],
-        "synonyms_explanation": "The most common synonym of the word どろぼう is ぬすっと. While both refer to someone who steals, ぬすっと is often considered slightly old-fashioned and might be used in more literary or traditional contexts.",
-        "antonyms": [
-            "警官",
-            "保護者"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word どろぼう are けいかん and ほごしゃ. けいかん refers to a police officer, representing law enforcement and protection, which is the opposite of committing theft. ほごしゃ refers to a guardian or protector, emphasizing safety and care, contrary to wrongful actions."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "泥棒が逃げる。",
-            "furigana": "泥棒(どろぼう)が逃(に)げる。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "泥棒が逃げる。",
-                "English": "The thief runs away.",
-                "Persian": "دزد فرار می‌کند.",
-                "Nepali": "चोर भाग्छ।",
-                "Indonesian": "Pencuri melarikan diri.",
-                "Filipino": "Tumakbo ang magnanakaw.",
-                "Vietnamese": "Tên trộm chạy trốn.",
-                "Burmese": "အလောင်းပျံသွားသည်။",
-                "Korean": "도둑이 도망간다.",
-                "Hindi": "चोर भाग जाता है।",
-                "Arabic": "يهرب اللص.",
-                "French": "Le voleur s'enfuit.",
-                "Spanish": "El ladrón se escapa.",
-                "Chinese": "小偷逃跑了。",
-                "Bengali": "চোর পালিয়ে যায়।"
-            }
-        },
-        {
-            "kanji": "私は泥棒に会った。",
-            "furigana": "私(わたし)は泥棒(どろぼう)に会(あ)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は泥棒に会った。",
-                "English": "I met a thief.",
-                "Persian": "من با یک دزد برخورد کردم.",
-                "Nepali": "म चोरलाई भेटें।",
-                "Indonesian": "Saya bertemu pencuri.",
-                "Filipino": "Nakita ko ang isang magnanakaw.",
-                "Vietnamese": "Tôi đã gặp một tên trộm.",
-                "Burmese": "ကျွန်တော် ဓားပြများနဲ့ တွေ့ခဲ့တယ်။",
-                "Korean": "나는 도둑을 만났다.",
-                "Hindi": "मैं एक चोर से मिला।",
-                "Arabic": "قابلت لصاً.",
-                "French": "J'ai rencontré un voleur.",
-                "Spanish": "Me encontré con un ladrón.",
-                "Chinese": "我遇到了一个小偷。",
-                "Bengali": "আমি একজন চোরের মুখোমুখি হলাম।"
-            }
-        },
-        {
-            "kanji": "むすこは泥棒になるなんて。",
-            "furigana": "むすこは泥棒(どろぼう)になるなんて。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "むすこは泥棒になるなんて。",
-                "English": "My son becoming a thief, how could it be?",
-                "Persian": "پسرم دزد شد، چطور ممکنه؟",
-                "Nepali": "मेरो छोरो चोर बन्छ, कसरी हुन सक्छ?",
-                "Indonesian": "Anakku jadi pencuri, bagaimana bisa?",
-                "Filipino": "Ang anak ko ay naging magnanakaw, paano nangyari?",
-                "Vietnamese": "Con trai tôi trở thành kẻ trộm, làm sao có thể như vậy?",
-                "Burmese": "ကျွန်တော့်သား ခိုးမှု လုပ်မယ်ဆို အဖြစ်ဖြစ်ပါ့မလား။",
-                "Korean": "우리 아들이 도둑이 된다니, 어떻게 그럴 수 있죠?",
-                "Hindi": "मेरा बेटा चोर बन गया, यह कैसे संभव है?",
-                "Arabic": "كيف يمكن أن يصبح ابني لصاً؟",
-                "French": "Mon fils devient un voleur, comment ça peut être?",
-                "Spanish": "¿Que mi hijo se convierta en ladrón, cómo puede ser?",
-                "Chinese": "我的儿子成了小偷，怎么可能？",
-                "Bengali": "আমার ছেলে চোর হয়ে গেল, এটা কীভাবে সম্ভব?"
-            }
-        },
-        {
-            "kanji": "お金を泥棒にあわせるものかい。",
-            "furigana": "お金(かね)を泥棒(どろぼう)にあわせるものかい。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "お金を泥棒にあわせるものかい。",
-                "English": "Why should I give money to a thief?",
-                "Persian": "چرا باید به دزد پول بدهم؟",
-                "Nepali": "चोरलाई किन पैसा दिनु?",
-                "Indonesian": "Mengapa saya harus memberikan uang kepada pencuri?",
-                "Filipino": "Bakit ko ibibigay ang pera sa magnanakaw?",
-                "Vietnamese": "Tại sao tôi phải đưa tiền cho tên trộm?",
-                "Burmese": "ငွေရူးသွားသလို ခိုးထုရင်မှန်းဘဲဗျာ။",
-                "Korean": "왜 내가 도둑에게 돈을 줘야 해요?",
-                "Hindi": "क्यों मुझे चोर को पैसा देना चाहिए?",
-                "Arabic": "لماذا يجب أن أعطي المال للّص؟",
-                "French": "Pourquoi devrais-je donner de l'argent à un voleur ?",
-                "Spanish": "¿Por qué debería darle dinero a un ladrón?",
-                "Chinese": "我为什么应该给小偷钱？",
-                "Bengali": "আমি কেন চোরকে টাকা দেবো?"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "盗人",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ぬすびと",
-            "meanings": [
-                {
-                    "neuances": [
-                        "thief",
-                        "robber"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "警官",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "けいかん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "police officer",
-                        "policeman",
-                        "constable"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "保護者",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ほごしゃ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "guardian",
-                        "protector",
-                        "patron",
-                        "parent"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "どろぼうがにげる",
+        "どろぼうにあう",
+        "むすこはどろぼうになるなんて",
+        "どろぼうにあわせるものかい"
     ]
 }

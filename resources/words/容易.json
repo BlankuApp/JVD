@@ -1,121 +1,206 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "容易",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/oZE3YngC_m0",
     "in_db": true,
-    "reading": "ようい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "容易",
+        "reading": "ようい",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is ようい which you will often hear in contexts like describing tasks, situations, or activities that are not challenging or complex.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word ようい means \"simple\" or \"easy\" in English. It is used to describe something that is not difficult to do, understand, or achieve. It often conveys a sense of straightforwardness and lack of complexity.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "easy",
                 "simple",
                 "plain"
-            ],
-            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-            "translation": {
-                "Japanese": "容易",
-                "English": "Easy",
-                "Persian": "آسان",
-                "Nepali": "सजिलो",
-                "Indonesian": "Mudah",
-                "Filipino": "Madali",
-                "Vietnamese": "Dễ dàng",
-                "Burmese": "လွယ်ကူ",
-                "Korean": "쉬운",
-                "Hindi": "आसान",
-                "Arabic": "سهل",
-                "French": "Facile",
-                "Spanish": "Fácil",
-                "Chinese": "简单",
-                "Bengali": "সহজ"
+            ]
+        ],
+        "meaning_translations": {
+            "easy": {
+                "EN": "Easy",
+                "ID": "Mudah",
+                "ES": "Fácil",
+                "VI": "Dễ dàng",
+                "FR": "Facile",
+                "NE": "सजिलो",
+                "BN": "সহজ",
+                "ZH": "简单",
+                "KO": "쉬운",
+                "TL": "Madali",
+                "MY": "လွယ်ကူ",
+                "HI": "आसान",
+                "AR": "سهل",
+                "FA": "آسان"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "その仕事は容易にできる。",
+                "furigana": "その仕事(しごと)は容易(ようい)にできる。",
+                "translations": {
+                    "EN": "That work can be done easily.",
+                    "ID": "Pekerjaan itu bisa dilakukan dengan mudah.",
+                    "ES": "Ese trabajo se puede hacer fácilmente.",
+                    "VI": "Công việc đó có thể làm dễ dàng.",
+                    "FR": "Ce travail peut être fait facilement.",
+                    "NE": "त्यो काम सजिलै गर्न सकिन्छ।",
+                    "BN": "এই কাজটি সহজেই করা যায়।",
+                    "ZH": "这项工作可以轻松完成。",
+                    "KO": "그 일은 쉽게 할 수 있다.",
+                    "TL": "Maaaring gawin nang madali ang trabahong iyon.",
+                    "MY": "အလုပ်နယ်ကို လွယ်ကူစွာ ပြီးစီးနိုင်သည်။",
+                    "HI": "वह काम आसानी से किया जा सकता है।",
+                    "AR": "يمكن القيام بذلك العمل بسهولة.",
+                    "FA": "آن کار به راحتی انجام می‌شود."
+                }
+            },
+            {
+                "kanji": "この仕事は容易なそうだ。",
+                "furigana": "このしごと(しごと)は容易(ようい)なそうだ。",
+                "translations": {
+                    "EN": "This job seems easy.",
+                    "ID": "Pekerjaan ini kelihatannya mudah.",
+                    "ES": "Este trabajo parece fácil.",
+                    "VI": "Công việc này có vẻ dễ dàng.",
+                    "FR": "Ce travail semble facile.",
+                    "NE": "यो काम सजिलो देखिन्छ।",
+                    "BN": "এই কাজটি সহজ মনে হয়।",
+                    "ZH": "这份工作看起来很简单。",
+                    "KO": "이 일은 쉬운 것 같다.",
+                    "TL": "Mukhang madali lang ang trabahong ito.",
+                    "MY": "ဒီအလုပ်က လွယ်လွယ်ကူကူလိုက်တာပဲ။",
+                    "HI": "यह काम आसान लगता है।",
+                    "AR": "يبدو أن هذه الوظيفة سهلة.",
+                    "FA": "به نظر می رسد این کار آسان است."
+                }
+            },
+            {
+                "kanji": "問題は容易に解決しました。",
+                "furigana": "問題(もんだい)は容易(ようい)に解決(かいけつ)しました。",
+                "translations": {
+                    "EN": "The problem was solved easily.",
+                    "ID": "Masalahnya mudah terselesaikan.",
+                    "ES": "El problema se resolvió fácilmente.",
+                    "VI": "Vấn đề đã được giải quyết dễ dàng.",
+                    "FR": "Le problème a été résolu facilement.",
+                    "NE": "समस्या सजिलै समाधान भयो।",
+                    "BN": "সমস্যাটি সহজেই সমাধান করা হয়েছে।",
+                    "ZH": "问题很容易地解决了。",
+                    "KO": "문제가 쉽게 해결되었습니다.",
+                    "TL": "Madaling nalutas ang problema.",
+                    "MY": "ပြဿနာကို လွယ်ကူစွာ ဖြေရှင်းခဲ့ပါတယ်။",
+                    "HI": "समस्या को सरलता से हल किया गया।",
+                    "AR": "تم حل المشكلة بسهولة.",
+                    "FA": "مشکل به راحتی حل شد."
+                }
+            },
+            {
+                "kanji": "この本は容易に理解できます。",
+                "furigana": "この本(ほん)は容易(ようい)に理解(りかい)できます。",
+                "translations": {
+                    "EN": "This book can be easily understood.",
+                    "ID": "Buku ini mudah dipahami.",
+                    "ES": "Este libro se puede entender fácilmente.",
+                    "VI": "Cuốn sách này có thể dễ dàng hiểu được.",
+                    "FR": "Ce livre est facilement compréhensible.",
+                    "NE": "यो पुस्तक सजिलै बुझ्न सकिन्छ।",
+                    "BN": "এই বইটি সহজেই বোঝা যায়।",
+                    "ZH": "这本书很容易理解。",
+                    "KO": "이 책은 쉽게 이해할 수 있습니다.",
+                    "TL": "Madaling maintindihan ang aklat na ito.",
+                    "MY": "ဤစာအုပ်ကို လွယ်ကူစွာ နားလည်နိုင်သည်။",
+                    "HI": "यह पुस्तक आसानी से समझी जा सकती है।",
+                    "AR": "هذا الكتاب يمكن فهمه بسهولة.",
+                    "FA": "این کتاب به راحتی قابل فهم است."
+                }
+            }
+        ],
+        "synonyms": [
+            "簡単 : かんたん : simple"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word ようい is かんたん. ようい refers to tasks or situations that are not difficult, whereas かんたん primarily highlights simplicity and ease in performing the task without unnecessary complications. While both can be used interchangeably, かんたん often focuses more on the simplicity factor.",
+        "antonyms": [
+            "困難 : こんなん : difficulty"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word ようい is こんなん. ようい means something is straightforward and not tough to handle, whereas こんなん emphasizes the difficulties, challenges, or obstacles in a task or situation, making it far from simple or easy. ",
+        "kanji_details": [
+            {
+                "kanji": "容",
+                "common_words": [
+                    "容量: capacity",
+                    "容器: container"
+                ]
+            },
+            {
+                "kanji": "易",
+                "common_words": [
+                    "簡易: simple",
+                    "交易: trade"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "容易",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "容易",
+                "reading": "ようい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "easy",
+                    "simple",
+                    "plain"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "容",
+        "易"
     ],
-    "kanjis": [
-        {
-            "kanji": "容",
+    "kanji_data": {
+        "容": {
             "meanings": [
                 "contain",
                 "form",
                 "looks"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ヨウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "い.れる"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 3,
-            "frequency": 264,
+            "freq_mainichi_shinbun": 264,
             "unicode": "5BB9",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "容量",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ようりょう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "capacity",
-                                "volume"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "capacitance"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "容器",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ようき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "container",
-                                "receptacle",
-                                "vessel",
-                                "packaging"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         },
-        {
-            "kanji": "易",
+        "易": {
             "meanings": [
                 "divination",
                 "easy",
@@ -123,275 +208,25 @@
                 "ready to",
                 "simple"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イ",
                 "エキ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "やさ.しい",
                 "やす.い"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 3,
-            "frequency": 571,
+            "freq_mainichi_shinbun": 571,
             "unicode": "6613",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "簡易",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かんい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "simple",
-                                "simplified"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "easy",
-                                "plain"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "交易",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "こうえき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "trade",
-                                "commerce"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         }
-    ],
-    "kanji_explanation": "The first kanji means to contain or hold and also suggests appearance or capacity. In words like ようりょう it helps express how much something can hold, and in ようき it gives the sense of a thing that contains or holds something. The second kanji means easy or simple and historically can mean change or exchange. In words like かんい it gives the idea of simplicity or ease, and in こうえき it reflects the older sense of exchange or trade.",
-    "explanations": {
-        "explanation": "The word ようい means \"simple\" or \"easy\" in English. It is used to describe something that is not difficult to do, understand, or achieve. It often conveys a sense of straightforwardness and lack of complexity.",
-        "youtube_description": "Learn how to use the Japanese word 容易 (ようい) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!\n",
-        "motivation": "The word we'll be learning in this section is ようい which you will often hear in contexts like describing tasks, situations, or activities that are not challenging or complex.",
-        "collocations": [
-            "よういにできる",
-            "よういなそうだ",
-            "よういにかいけつ",
-            "よういにりかい"
-        ],
-        "synonyms": [
-            "簡単"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word ようい is かんたん. ようい refers to tasks or situations that are not difficult, whereas かんたん primarily highlights simplicity and ease in performing the task without unnecessary complications. While both can be used interchangeably, かんたん often focuses more on the simplicity factor.",
-        "antonyms": [
-            "困難"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word ようい is こんなん. ようい means something is straightforward and not tough to handle, whereas こんなん emphasizes the difficulties, challenges, or obstacles in a task or situation, making it far from simple or easy. "
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "その仕事は容易にできる。",
-            "furigana": "その仕事(しごと)は容易(ようい)にできる。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "その仕事は容易にできる。",
-                "English": "That work can be done easily.",
-                "Persian": "آن کار به راحتی انجام می‌شود.",
-                "Nepali": "त्यो काम सजिलै गर्न सकिन्छ।",
-                "Indonesian": "Pekerjaan itu bisa dilakukan dengan mudah.",
-                "Filipino": "Maaaring gawin nang madali ang trabahong iyon.",
-                "Vietnamese": "Công việc đó có thể làm dễ dàng.",
-                "Burmese": "အလုပ်နယ်ကို လွယ်ကူစွာ ပြီးစီးနိုင်သည်။",
-                "Korean": "그 일은 쉽게 할 수 있다.",
-                "Hindi": "वह काम आसानी से किया जा सकता है।",
-                "Arabic": "يمكن القيام بذلك العمل بسهولة.",
-                "French": "Ce travail peut être fait facilement.",
-                "Spanish": "Ese trabajo se puede hacer fácilmente.",
-                "Chinese": "这项工作可以轻松完成。",
-                "Bengali": "এই কাজটি সহজেই করা যায়।"
-            }
-        },
-        {
-            "kanji": "この仕事は容易なそうだ。",
-            "furigana": "このしごと(しごと)は容易(ようい)なそうだ。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "この仕事は容易なそうだ。",
-                "English": "This job seems easy.",
-                "Persian": "به نظر می رسد این کار آسان است.",
-                "Nepali": "यो काम सजिलो देखिन्छ।",
-                "Indonesian": "Pekerjaan ini kelihatannya mudah.",
-                "Filipino": "Mukhang madali lang ang trabahong ito.",
-                "Vietnamese": "Công việc này có vẻ dễ dàng.",
-                "Burmese": "ဒီအလုပ်က လွယ်လွယ်ကူကူလိုက်တာပဲ။",
-                "Korean": "이 일은 쉬운 것 같다.",
-                "Hindi": "यह काम आसान लगता है।",
-                "Arabic": "يبدو أن هذه الوظيفة سهلة.",
-                "French": "Ce travail semble facile.",
-                "Spanish": "Este trabajo parece fácil.",
-                "Chinese": "这份工作看起来很简单。",
-                "Bengali": "এই কাজটি সহজ মনে হয়।"
-            }
-        },
-        {
-            "kanji": "問題は容易に解決しました。",
-            "furigana": "問題(もんだい)は容易(ようい)に解決(かいけつ)しました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "問題は容易に解決しました。",
-                "English": "The problem was solved easily.",
-                "Persian": "مشکل به راحتی حل شد.",
-                "Nepali": "समस्या सजिलै समाधान भयो।",
-                "Indonesian": "Masalahnya mudah terselesaikan.",
-                "Filipino": "Madaling nalutas ang problema.",
-                "Vietnamese": "Vấn đề đã được giải quyết dễ dàng.",
-                "Burmese": "ပြဿနာကို လွယ်ကူစွာ ဖြေရှင်းခဲ့ပါတယ်။",
-                "Korean": "문제가 쉽게 해결되었습니다.",
-                "Hindi": "समस्या को सरलता से हल किया गया।",
-                "Arabic": "تم حل المشكلة بسهولة.",
-                "French": "Le problème a été résolu facilement.",
-                "Spanish": "El problema se resolvió fácilmente.",
-                "Chinese": "问题很容易地解决了。",
-                "Bengali": "সমস্যাটি সহজেই সমাধান করা হয়েছে।"
-            }
-        },
-        {
-            "kanji": "この本は容易に理解できます。",
-            "furigana": "この本(ほん)は容易(ようい)に理解(りかい)できます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "この本は容易に理解できます。",
-                "English": "This book can be easily understood.",
-                "Persian": "این کتاب به راحتی قابل فهم است.",
-                "Nepali": "यो पुस्तक सजिलै बुझ्न सकिन्छ।",
-                "Indonesian": "Buku ini mudah dipahami.",
-                "Filipino": "Madaling maintindihan ang aklat na ito.",
-                "Vietnamese": "Cuốn sách này có thể dễ dàng hiểu được.",
-                "Burmese": "ဤစာအုပ်ကို လွယ်ကူစွာ နားလည်နိုင်သည်။",
-                "Korean": "이 책은 쉽게 이해할 수 있습니다.",
-                "Hindi": "यह पुस्तक आसानी से समझी जा सकती है।",
-                "Arabic": "هذا الكتاب يمكن فهمه بسهولة.",
-                "French": "Ce livre est facilement compréhensible.",
-                "Spanish": "Este libro se puede entender fácilmente.",
-                "Chinese": "这本书很容易理解。",
-                "Bengali": "এই বইটি সহজেই বোঝা যায়।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "簡単",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "かんたん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "simple",
-                        "easy",
-                        "uncomplicated"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "brief",
-                        "quick",
-                        "light"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "困難",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "こんなん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "difficulty",
-                        "hardship",
-                        "trouble",
-                        "distress"
-                    ],
-                    "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "infeasibility",
-                        "inability"
-                    ],
-                    "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "よういにできる",
+        "よういなそうだ",
+        "よういにかいけつ",
+        "よういにりかい"
     ]
 }

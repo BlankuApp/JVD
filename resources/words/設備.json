@@ -1,400 +1,236 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "設備",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/GJYGsIcUmjU",
     "in_db": true,
-    "reading": "せつび",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "設備",
+        "reading": "せつび",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is せつび which you will often hear in contexts related to office environments, schools, and industrial plants. ",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word せつび means \"equipment\" or \"facilities.\" This term is used to refer to tools, machinery, or any other mechanical setup that is used for a specific purpose, often in the context of industries, buildings, or households. It covers a wide range of items, from technological gadgets to kitchen appliances and infrastructure.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "equipment",
                 "facilities",
                 "installation",
                 "accommodations",
                 "conveniences",
                 "arrangements"
-            ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "設備",
-                "English": "Equipment",
-                "Persian": "تجهیزات",
-                "Nepali": "उपकरण",
-                "Indonesian": "Peralatan",
-                "Filipino": "Kagamitan",
-                "Vietnamese": "Thiết bị",
-                "Burmese": "ကိရိယာများ",
-                "Korean": "장비",
-                "Hindi": "उपकरण",
-                "Arabic": "معدات",
-                "French": "Équipement",
-                "Spanish": "Equipo",
-                "Chinese": "设备",
-                "Bengali": "সরঞ্জাম"
+            ]
+        ],
+        "meaning_translations": {
+            "equipment": {
+                "EN": "Equipment",
+                "ID": "Peralatan",
+                "ES": "Equipo",
+                "VI": "Thiết bị",
+                "FR": "Équipement",
+                "NE": "उपकरण",
+                "BN": "সরঞ্জাম",
+                "ZH": "设备",
+                "KO": "장비",
+                "TL": "Kagamitan",
+                "MY": "ကိရိယာများ",
+                "HI": "उपकरण",
+                "AR": "معدات",
+                "FA": "تجهیزات"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "設備を装備した。",
+                "furigana": "設備(せつび)を装備(そうび)した。",
+                "translations": {
+                    "EN": "Equipped the facility.",
+                    "ID": "Menyediakan peralatan.",
+                    "ES": "Equiparon la instalación.",
+                    "VI": "Đã trang bị cơ sở vật chất.",
+                    "FR": "Équipé l'installation.",
+                    "NE": "सुविधा उपकरण गरियो।",
+                    "BN": "সুবিধাটিকে সজ্জিত করা হয়েছে।",
+                    "ZH": "装备设施。",
+                    "KO": "시설을 장착했다.",
+                    "TL": "Nilagyan ang kagamitan.",
+                    "MY": "ဆောင်ရွက်မှုကို ပြင်ဆင်ခဲ့သည်။",
+                    "HI": "सुविधा को सुसज्जित किया।",
+                    "AR": "تم تجهيز المنشأة.",
+                    "FA": "تجهیزات را آماده کردیم."
+                }
+            },
+            {
+                "kanji": "新しい設備が新設されました。",
+                "furigana": "新(あたら)しい設備(せつび)が新設(しんせつ)されました。",
+                "translations": {
+                    "EN": "New equipment has been newly installed.",
+                    "ID": "Peralatan baru telah dipasang baru-baru ini.",
+                    "ES": "Se ha instalado recientemente nuevo equipo.",
+                    "VI": "Thiết bị mới đã được lắp đặt mới.",
+                    "FR": "Un nouvel équipement a été installé récemment.",
+                    "NE": "नयाँ उपकरण नयाँ स्थापना गरियो।",
+                    "BN": "নতুন সরঞ্জাম সদ্য স্থাপন করা হয়েছে।",
+                    "ZH": "新的设备已经另外安装好了。",
+                    "KO": "새로운 장비가 신설되었습니다.",
+                    "TL": "Ang bagong kagamitan ay bagong binuksan.",
+                    "MY": "ကိရိယာအသစ်များကို အသစ်ထည့်သွင်စိန်ခဲ့သည်။",
+                    "HI": "नई मशीनरी हाल ही में स्थापित की गई है।",
+                    "AR": "تم تركيب معدات جديدة حديثا.",
+                    "FA": "تجهیزات جدید به تازگی نصب شده است."
+                }
+            },
+            {
+                "kanji": "こうしゅうせつびは使いやすいです。",
+                "furigana": "こうしゅうせつび(こうしゅうせつび)は使(つか)いやすいです。",
+                "translations": {
+                    "EN": "The public facilities are easy to use.",
+                    "ID": "Fasilitas umum mudah digunakan.",
+                    "ES": "Las instalaciones públicas son fáciles de usar.",
+                    "VI": "Các cơ sở vật chất công cộng rất dễ sử dụng.",
+                    "FR": "Les installations publiques sont faciles à utiliser.",
+                    "NE": "सार्वजनिक सुविधाहरू प्रयोग गर्न सजिलो छन्।",
+                    "BN": "পাবলিক সুবিধাগুলি ব্যবহার করা সহজ।",
+                    "ZH": "公共设施易于使用。",
+                    "KO": "공중 시설은 사용하기 쉽습니다.",
+                    "TL": "Madaling gamitin ang pampublikong pasilidad.",
+                    "MY": "အများပြည်သူအဆင်စုံ ကလွယ်ကူစွာအသုံးပြုနိုင်သည်။",
+                    "HI": "सार्वजनिक सुविधाएँ उपयोग में आसान हैं।",
+                    "AR": "المرافق العامة سهلة الاستخدام.",
+                    "FA": "امکانات عمومی آسان برای استفاده است."
+                }
+            },
+            {
+                "kanji": "設備の点検をします。",
+                "furigana": "設備(せつび)の点検(てんけん)をします。",
+                "translations": {
+                    "EN": "I will inspect the equipment.",
+                    "ID": "Saya akan memeriksa peralatan.",
+                    "ES": "Voy a inspeccionar el equipo.",
+                    "VI": "Tôi sẽ kiểm tra thiết bị.",
+                    "FR": "Je vais inspecter l'équipement.",
+                    "NE": "म उपकरणको जाँच गर्नेछु।",
+                    "BN": "আমি সরঞ্জামের পরিদর্শন করব।",
+                    "ZH": "我将检查设备。",
+                    "KO": "장비 점검을 합니다.",
+                    "TL": "Susuriin ko ang kagamitan.",
+                    "MY": "ဈေးမျိုးစုံစစ်မှုသည် လေးဖြုန်းရန်ဖြစ်သောတွင် ဆင်တော်ဖြစ်ပါသည်။",
+                    "HI": "मैं उपकरण की जाँच करूंगा।",
+                    "AR": "سأقوم بفحص المعدات.",
+                    "FA": "من تجهیزات را بررسی می‌کنم."
+                }
+            }
+        ],
+        "synonyms": [
+            "機械 : きかい : machine"
+        ],
+        "synonyms_explanation": "The most common synonym of the word せつび is きかい meaning \"machine.\" While せつび refers to a broader category of equipment and facilities, きかい specifically focuses more on machinery and mechanical devices.",
+        "antonyms": [
+            "不足 : ふそく : insufficiency"
+        ],
+        "antonyms_explanation": "The most common antonym of the word せつび is ふそく meaning \"insufficiency\" or \"shortage.\" While せつび represents the availability of equipment, ふそく implies a lack or deficiency of it.",
+        "kanji_details": [
+            {
+                "kanji": "設",
+                "common_words": [
+                    "設計: plan",
+                    "設立: establishment"
+                ]
+            },
+            {
+                "kanji": "備",
+                "common_words": [
+                    "備品: equipment",
+                    "準備: preparation"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "設備",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "設備",
+                "reading": "せつび"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "equipment",
+                    "facilities",
+                    "installation",
+                    "accommodations",
+                    "conveniences",
+                    "arrangements"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "設",
+        "備"
     ],
-    "kanjis": [
-        {
-            "kanji": "設",
+    "kanji_data": {
+        "設": {
             "meanings": [
                 "establishment",
                 "prepare",
                 "provision"
             ],
-            "onyomi": [
+            "on_readings": [
                 "セツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "もう.ける"
             ],
-            "strokes": 11,
+            "stroke_count": 11,
             "jlpt": 2,
-            "frequency": 145,
+            "freq_mainichi_shinbun": 145,
             "unicode": "8A2D",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "設計",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "せっけい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "plan",
-                                "design",
-                                "layout"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "設立",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "せつりつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "establishment",
-                                "founding"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "incorporation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         },
-        {
-            "kanji": "備",
+        "備": {
             "meanings": [
                 "equip",
                 "preparation",
                 "provision"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ビ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "そな.える",
                 "そな.わる",
                 "つぶさ.に"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 3,
-            "frequency": 356,
+            "freq_mainichi_shinbun": 356,
             "unicode": "5099",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "備品",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "びひん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "equipment",
-                                "fixtures",
-                                "furnishings",
-                                "fittings",
-                                "furniture",
-                                "supplies"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "準備",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "じゅんび",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "preparation",
-                                "arrangements",
-                                "getting ready",
-                                "provision",
-                                "setup",
-                                "reserving"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         }
-    ],
-    "kanji_explanation": "The first kanji means to establish, set up, or install something. You see it when talking about plans or foundations. For example せっけい means design and shows the idea of setting up a plan. Also せつりつ means establishment and emphasizes creating or founding something. The second kanji means to prepare, equip, or make ready. It often refers to providing or having things on hand. For example びひん means equipment and gives the sense of items provided or equipped. Also じゅんび means preparation and highlights getting things ready in advance.",
-    "explanations": {
-        "explanation": "The word せつび means \"equipment\" or \"facilities.\" This term is used to refer to tools, machinery, or any other mechanical setup that is used for a specific purpose, often in the context of industries, buildings, or households. It covers a wide range of items, from technological gadgets to kitchen appliances and infrastructure.",
-        "youtube_description": "Learn how to use the Japanese word 設備 (せつび) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is せつび which you will often hear in contexts related to office environments, schools, and industrial plants. ",
-        "collocations": [
-            "せつびをそうびする",
-            "せつびがしんせい",
-            "こうしゅうせつび",
-            "せつびのてんけん"
-        ],
-        "synonyms": [
-            "機械"
-        ],
-        "synonyms_explanation": "The most common synonym of the word せつび is きかい meaning \"machine.\" While せつび refers to a broader category of equipment and facilities, きかい specifically focuses more on machinery and mechanical devices.",
-        "antonyms": [
-            "不足"
-        ],
-        "antonyms_explanation": "The most common antonym of the word せつび is ふそく meaning \"insufficiency\" or \"shortage.\" While せつび represents the availability of equipment, ふそく implies a lack or deficiency of it."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "設備を装備した。",
-            "furigana": "設備(せつび)を装備(そうび)した。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "設備を装備した。",
-                "English": "Equipped the facility.",
-                "Persian": "تجهیزات را آماده کردیم.",
-                "Nepali": "सुविधा उपकरण गरियो।",
-                "Indonesian": "Menyediakan peralatan.",
-                "Filipino": "Nilagyan ang kagamitan.",
-                "Vietnamese": "Đã trang bị cơ sở vật chất.",
-                "Burmese": "ဆောင်ရွက်မှုကို ပြင်ဆင်ခဲ့သည်။",
-                "Korean": "시설을 장착했다.",
-                "Hindi": "सुविधा को सुसज्जित किया।",
-                "Arabic": "تم تجهيز المنشأة.",
-                "French": "Équipé l'installation.",
-                "Spanish": "Equiparon la instalación.",
-                "Chinese": "装备设施。",
-                "Bengali": "সুবিধাটিকে সজ্জিত করা হয়েছে।"
-            }
-        },
-        {
-            "kanji": "新しい設備が新設されました。",
-            "furigana": "新(あたら)しい設備(せつび)が新設(しんせつ)されました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "新しい設備が新設されました。",
-                "English": "New equipment has been newly installed.",
-                "Persian": "تجهیزات جدید به تازگی نصب شده است.",
-                "Nepali": "नयाँ उपकरण नयाँ स्थापना गरियो।",
-                "Indonesian": "Peralatan baru telah dipasang baru-baru ini.",
-                "Filipino": "Ang bagong kagamitan ay bagong binuksan.",
-                "Vietnamese": "Thiết bị mới đã được lắp đặt mới.",
-                "Burmese": "ကိရိယာအသစ်များကို အသစ်ထည့်သွင်စိန်ခဲ့သည်။",
-                "Korean": "새로운 장비가 신설되었습니다.",
-                "Hindi": "नई मशीनरी हाल ही में स्थापित की गई है।",
-                "Arabic": "تم تركيب معدات جديدة حديثا.",
-                "French": "Un nouvel équipement a été installé récemment.",
-                "Spanish": "Se ha instalado recientemente nuevo equipo.",
-                "Chinese": "新的设备已经另外安装好了。",
-                "Bengali": "নতুন সরঞ্জাম সদ্য স্থাপন করা হয়েছে।"
-            }
-        },
-        {
-            "kanji": "こうしゅうせつびは使いやすいです。",
-            "furigana": "こうしゅうせつび(こうしゅうせつび)は使(つか)いやすいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "こうしゅうせつびは使いやすいです。",
-                "English": "The public facilities are easy to use.",
-                "Persian": "امکانات عمومی آسان برای استفاده است.",
-                "Nepali": "सार्वजनिक सुविधाहरू प्रयोग गर्न सजिलो छन्।",
-                "Indonesian": "Fasilitas umum mudah digunakan.",
-                "Filipino": "Madaling gamitin ang pampublikong pasilidad.",
-                "Vietnamese": "Các cơ sở vật chất công cộng rất dễ sử dụng.",
-                "Burmese": "အများပြည်သူအဆင်စုံ ကလွယ်ကူစွာအသုံးပြုနိုင်သည်။",
-                "Korean": "공중 시설은 사용하기 쉽습니다.",
-                "Hindi": "सार्वजनिक सुविधाएँ उपयोग में आसान हैं।",
-                "Arabic": "المرافق العامة سهلة الاستخدام.",
-                "French": "Les installations publiques sont faciles à utiliser.",
-                "Spanish": "Las instalaciones públicas son fáciles de usar.",
-                "Chinese": "公共设施易于使用。",
-                "Bengali": "পাবলিক সুবিধাগুলি ব্যবহার করা সহজ।"
-            }
-        },
-        {
-            "kanji": "設備の点検をします。",
-            "furigana": "設備(せつび)の点検(てんけん)をします。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "設備の点検をします。",
-                "English": "I will inspect the equipment.",
-                "Persian": "من تجهیزات را بررسی می‌کنم.",
-                "Nepali": "म उपकरणको जाँच गर्नेछु।",
-                "Indonesian": "Saya akan memeriksa peralatan.",
-                "Filipino": "Susuriin ko ang kagamitan.",
-                "Vietnamese": "Tôi sẽ kiểm tra thiết bị.",
-                "Burmese": "ဈေးမျိုးစုံစစ်မှုသည် လေးဖြုန်းရန်ဖြစ်သောတွင် ဆင်တော်ဖြစ်ပါသည်။",
-                "Korean": "장비 점검을 합니다.",
-                "Hindi": "मैं उपकरण की जाँच करूंगा।",
-                "Arabic": "سأقوم بفحص المعدات.",
-                "French": "Je vais inspecter l'équipement.",
-                "Spanish": "Voy a inspeccionar el equipo.",
-                "Chinese": "我将检查设备。",
-                "Bengali": "আমি সরঞ্জামের পরিদর্শন করব।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "機械",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "きかい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "machine",
-                        "mechanism"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "instrument",
-                        "appliance",
-                        "apparatus"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3",
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "不足",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ふそく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "insufficiency",
-                        "deficiency",
-                        "shortage",
-                        "lack",
-                        "scarcity",
-                        "deficit"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "dissatisfaction",
-                        "discontent",
-                        "complaint"
-                    ],
-                    "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "せつびをそうびする",
+        "せつびがしんせい",
+        "こうしゅうせつび",
+        "せつびのてんけん"
     ]
 }

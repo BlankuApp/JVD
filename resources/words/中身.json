@@ -1,86 +1,320 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "中身",
+    "jlpt_level": 2,
     "youtube_link": "https://youtu.be/-A04IyZiOEg",
     "in_db": true,
-    "reading": "なかみ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "中身",
+        "reading": "なかみ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this video is なかみ which you will often hear when talking about packages, food and bento, checking bags or luggage, and when describing the substance or essence of writing and ideas. Imagine how much more natural your Japanese will sound when you can say things like What's inside this box?, I checked the contents of the bag., and The book's contents are outdated. Let's get started!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word なかみ means the contents or interior of something, what is physically inside, the substance or material, or the figurative essence of an item or idea.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "contents",
                 "interior",
                 "filling"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "中身 : contents",
-                "English": "Contents : contents",
-                "Persian": "محتوا : محتوا",
-                "Nepali": "सामग्री : सामग्री",
-                "Indonesian": "Isi : isi",
-                "Filipino": "Nilalaman : nilalaman",
-                "Vietnamese": "Nội dung : nội dung",
-                "Burmese": "အကြောင်းအရာ : အကြောင်းအရာ",
-                "Korean": "내용 : 내용",
-                "Hindi": "सामग्री : सामग्री",
-                "Arabic": "المحتوى : المحتوى",
-                "French": "Contenu : contenu",
-                "Spanish": "Contenido : contenido",
-                "Chinese": "内容 : 内容",
-                "Bengali": "বিষয়বস্তু : বিষয়বস্তু"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "substance",
                 "content"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "中身 : substance",
-                "English": "substance",
-                "Persian": "ماده",
-                "Nepali": "पदार्थ",
-                "Indonesian": "zat",
-                "Filipino": "substansiya",
-                "Vietnamese": "chất",
-                "Burmese": "ပစ္စည်း",
-                "Korean": "물질",
-                "Hindi": "पदार्थ",
-                "Arabic": "مادة",
-                "French": "substance",
-                "Spanish": "sustancia",
-                "Chinese": "物质",
-                "Bengali": "পদার্থ"
+            [
+                " blade"
+            ]
+        ],
+        "meaning_translations": {
+            "contents": {
+                "EN": "Contents : contents",
+                "ID": "Isi : isi",
+                "ES": "Contenido : contenido",
+                "VI": "Nội dung : nội dung",
+                "FR": "Contenu : contenu",
+                "NE": "सामग्री : सामग्री",
+                "BN": "বিষয়বস্তু : বিষয়বস্তু",
+                "ZH": "内容 : 内容",
+                "KO": "내용 : 내용",
+                "TL": "Nilalaman : nilalaman",
+                "MY": "အကြောင်းအရာ : အကြောင်းအရာ",
+                "HI": "सामग्री : सामग्री",
+                "AR": "المحتوى : المحتوى",
+                "FA": "محتوا : محتوا"
+            },
+            "substance": {
+                "EN": "substance",
+                "ID": "zat",
+                "ES": "sustancia",
+                "VI": "chất",
+                "FR": "substance",
+                "NE": "पदार्थ",
+                "BN": "পদার্থ",
+                "ZH": "物质",
+                "KO": "물질",
+                "TL": "substansiya",
+                "MY": "ပစ္စည်း",
+                "HI": "पदार्थ",
+                "AR": "مادة",
+                "FA": "ماده"
+            },
+            " blade": {
+                "EN": "Contents: blade",
+                "ID": "Isi: bilah",
+                "ES": "Contenido: cuchilla",
+                "VI": "Nội dung: lưỡi dao",
+                "FR": "Contenu : lame",
+                "NE": "सामग्री: ब्लेड",
+                "BN": "বিষয়বস্তু: ব্লেড",
+                "ZH": "内容：刀片",
+                "KO": "내용: 블레이드",
+                "TL": "Nilalaman: talim",
+                "MY": "အကြောင်းအရာ: ဓားတံ",
+                "HI": "सामग्री: ब्लेड",
+                "AR": "المحتوى: شفرة",
+                "FA": "محتوا: تیغه"
             }
         },
-        {
-            "neuances": [
-                " blade"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "中身 :  blade",
-                "English": "Contents: blade",
-                "Persian": "محتوا: تیغه",
-                "Nepali": "सामग्री: ब्लेड",
-                "Indonesian": "Isi: bilah",
-                "Filipino": "Nilalaman: talim",
-                "Vietnamese": "Nội dung: lưỡi dao",
-                "Burmese": "အကြောင်းအရာ: ဓားတံ",
-                "Korean": "내용: 블레이드",
-                "Hindi": "सामग्री: ब्लेड",
-                "Arabic": "المحتوى: شفرة",
-                "French": "Contenu : lame",
-                "Spanish": "Contenido: cuchilla",
-                "Chinese": "内容：刀片",
-                "Bengali": "বিষয়বস্তু: ব্লেড"
+        "examples": [
+            {
+                "kanji": "カバンの中身を確認する。",
+                "furigana": "カバンの中身(なかみ)を確認(かくにん)する。",
+                "translations": {
+                    "EN": "Check the contents of the bag.",
+                    "ID": "Periksa isi tas.",
+                    "ES": "Revisa el contenido de la bolsa.",
+                    "VI": "Kiểm tra đồ bên trong túi.",
+                    "FR": "Vérifier le contenu du sac.",
+                    "NE": "झोला भित्रको सामग्री जाँच गर्नुहोस्।",
+                    "BN": "ব্যাগের ভিতরের জিনিস পরীক্ষা করুন।",
+                    "ZH": "检查包里的东西。",
+                    "KO": "가방 안의 내용을 확인하다.",
+                    "TL": "Suriin ang laman ng bag.",
+                    "MY": "အိတ်ထဲက အရာတွေကို စစ်ဆေးပါ။",
+                    "HI": "बैग की सामग्री की जाँच करें।",
+                    "AR": "تحقق من محتويات الحقيبة.",
+                    "FA": "محتویات کیف را بررسی کن."
+                }
+            },
+            {
+                "kanji": "中身を見せてください。",
+                "furigana": "中身(なかみ)を見(み)せてください。",
+                "translations": {
+                    "EN": "Please show me the contents.",
+                    "ID": "Tolong tunjukkan isinya.",
+                    "ES": "Por favor, muéstreme el contenido.",
+                    "VI": "Xin hãy cho tôi xem bên trong.",
+                    "FR": "Montrez-moi le contenu, s'il vous plaît.",
+                    "NE": "कृपया भित्रको सामग्री देखाउनुहोस्।",
+                    "BN": "দয়া করে ভিতরের জিনিসটা দেখান।",
+                    "ZH": "请把里面的东西给我看。",
+                    "KO": "내용을 보여 주세요.",
+                    "TL": "Paki-pakita ang laman.",
+                    "MY": "အတွင်းရှိအရာကို ပြပါ။",
+                    "HI": "कृपया सामग्री दिखाइए।",
+                    "AR": "من فضلك أرني المحتويات.",
+                    "FA": "لطفاً محتویات را نشان دهید."
+                }
+            },
+            {
+                "kanji": "箱から中身を取り出す。",
+                "furigana": "箱(はこ)から中身(なかみ)を取り出(とりだ)す。",
+                "translations": {
+                    "EN": "Take the contents out of the box.",
+                    "ID": "Keluarkan isi dari kotak.",
+                    "ES": "Saca el contenido de la caja.",
+                    "VI": "Lấy phần bên trong hộp ra.",
+                    "FR": "Sors le contenu de la boîte.",
+                    "NE": "बक्सबाट भित्रको सामग्री निकाल।",
+                    "BN": "বক্স থেকে ভেতরের জিনিস বের কর।",
+                    "ZH": "把箱子里的东西拿出来。",
+                    "KO": "상자에서 내용물을 꺼낸다.",
+                    "TL": "Kunin ang laman ng kahon.",
+                    "MY": "ပုံးထဲက အရာတွေကို ထုတ်ယူပါ။",
+                    "HI": "डिब्बे से अंदर का सामान निकालो।",
+                    "AR": "أخرج محتويات الصندوق.",
+                    "FA": "محتویات داخل جعبه را بیرون بیاور."
+                }
+            },
+            {
+                "kanji": "箱の中身が詰まっている。",
+                "furigana": "箱(はこ)の中身(なかみ)が詰(つ)まっている。",
+                "translations": {
+                    "EN": "The box's contents are packed.",
+                    "ID": "Isi kotak itu padat.",
+                    "ES": "El contenido de la caja está apretado.",
+                    "VI": "Đồ trong hộp được nhét chặt.",
+                    "FR": "Le contenu de la boîte est bien rempli.",
+                    "NE": "बक्सभित्रको वस्तुहरू कसेर भरिएका छन्।",
+                    "BN": "বক্সের ভেতরের জিনিসগুলো ঘনভাবে ভর্তি আছে।",
+                    "ZH": "箱子里的东西塞得很满。",
+                    "KO": "상자 안의 내용물이 꽉 차 있다.",
+                    "TL": "Masikip ang laman ng kahon.",
+                    "MY": "သေတ္တာအတွင်းရှိ အရာများ ကျပ်တည်း ဖြည့်ထားသည်။",
+                    "HI": "डिब्बे के अंदर की चीज़ें कसकर भरी हुई हैं।",
+                    "AR": "محتويات الصندوق مكتظة.",
+                    "FA": "محتویات جعبه فشرده شده‌اند."
+                }
+            },
+            {
+                "kanji": "この本は中身が濃いです。",
+                "furigana": "この本(ほん)は中身(なかみ)が濃(こ)いです。",
+                "translations": {
+                    "EN": "This book is rich in content.",
+                    "ID": "Buku ini memiliki isi yang padat.",
+                    "ES": "Este libro tiene un contenido denso.",
+                    "VI": "Cuốn sách này có nội dung phong phú.",
+                    "FR": "Ce livre est riche en contenu.",
+                    "NE": "यो किताबको सामग्री समृद्ध छ।",
+                    "BN": "এই বইটির বিষয়বস্তু সমৃদ্ধ।",
+                    "ZH": "这本书的内容很丰富。",
+                    "KO": "이 책은 내용이 알차다.",
+                    "TL": "Mayaman ang laman ng aklat na ito.",
+                    "MY": "ဒီစာအုပ်မှာ အကြောင်းအရာများ ပြည့်စုံတယ်။",
+                    "HI": "यह किताब सामग्री से भरपूर है।",
+                    "AR": "هذا الكتاب غني بالمحتوى.",
+                    "FA": "این کتاب محتوای غنی دارد."
+                }
+            },
+            {
+                "kanji": "箱の中身が空っぽだ。",
+                "furigana": "箱(はこ)の中身(なかみ)が空っぽ(からっぽ)だ。",
+                "translations": {
+                    "EN": "The box is empty.",
+                    "ID": "Isi kotak kosong.",
+                    "ES": "El contenido de la caja está vacío.",
+                    "VI": "Bên trong hộp trống.",
+                    "FR": "Le contenu de la boîte est vide.",
+                    "NE": "बक्सको भित्र खाली छ।",
+                    "BN": "বাক্সটির ভিতর খালি।",
+                    "ZH": "盒子里什么都没有。",
+                    "KO": "상자 안이 텅 비어 있다.",
+                    "TL": "Walang laman ang loob ng kahon.",
+                    "MY": "ပုံးရဲ့ အတွင်း ဗလာ ဖြစ်တယ်။",
+                    "HI": "डिब्बे के अंदर कुछ भी नहीं है।",
+                    "AR": "محتوى الصندوق فارغ.",
+                    "FA": "محتوای جعبه خالی است."
+                }
+            },
+            {
+                "kanji": "これは中身のない箱です。",
+                "furigana": "これは中身(なかみ)のない箱(はこ)です。",
+                "translations": {
+                    "EN": "This is an empty box.",
+                    "ID": "Ini kotak kosong.",
+                    "ES": "Esta es una caja vacía.",
+                    "VI": "Đây là một hộp rỗng.",
+                    "FR": "C'est une boîte vide.",
+                    "NE": "यो खाली बक्स हो।",
+                    "BN": "এটি একটি খালি বাক্স।",
+                    "ZH": "这是一个空的盒子。",
+                    "KO": "이것은 내용물이 없는 상자입니다.",
+                    "TL": "Ito ay walang laman na kahon.",
+                    "MY": "ဒါက အလွတ် သေတ္တာပါ။",
+                    "HI": "यह एक खाली डब्बा है।",
+                    "AR": "هذا صندوق فارغ.",
+                    "FA": "این یک جعبه خالی است."
+                }
             }
-        }
+        ],
+        "synonyms": [
+            "内容 : ないよう : contents",
+            "本質 : ほんしつ : essence"
+        ],
+        "synonyms_explanation": "The most common synonyms of the なかみ are ないよう and ほんしつ. ないよう refers to the specific items, information, or material inside something and is very close in meaning to なかみ, while ほんしつ emphasizes the essence or fundamental nature rather than physical contents.",
+        "antonyms": [
+            "外側 : そとがわ : exterior",
+            "空っぽ : からっぽ : empty"
+        ],
+        "antonyms_explanation": "The most common antonyms of the なかみ are そとがわ and からっぽ. そとがわ means the outside or exterior surface and contrasts with the interior focus of なかみ, while からっぽ means empty and indicates the absence of any contents.",
+        "kanji_details": [
+            {
+                "kanji": "中",
+                "common_words": [
+                    "背中: back",
+                    "中学校: junior high school"
+                ]
+            },
+            {
+                "kanji": "身",
+                "common_words": [
+                    "独身: unmarried",
+                    "体: body"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "中身",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "中身",
+                "reading": "なかみ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "contents",
+                    "interior",
+                    "filling"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "substance",
+                    "content"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    " blade"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "中",
+        "身"
     ],
-    "kanjis": [
-        {
-            "kanji": "中",
+    "kanji_data": {
+        "中": {
             "meanings": [
                 "center",
                 "in",
@@ -88,614 +322,46 @@
                 "mean",
                 "middle"
             ],
-            "onyomi": [
+            "on_readings": [
                 "チュウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あた.る",
                 "うち",
                 "なか"
             ],
-            "strokes": 4,
+            "stroke_count": 4,
             "jlpt": 5,
-            "frequency": 11,
+            "freq_mainichi_shinbun": 11,
             "unicode": "4E2D",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "背中",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "せなか",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "back"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "中学校",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちゅうがっこう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "junior high school",
-                                "middle school",
-                                "lower secondary school"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "昼食",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちゅうしょく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "lunch",
-                                "midday meal"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "中心",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちゅうしん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "center",
-                                "centre",
-                                "middle",
-                                "heart",
-                                "core",
-                                "focus",
-                                "pivot",
-                                "emphasis",
-                                "balance"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "-centered",
-                                "-centred",
-                                "-focused",
-                                "-oriented",
-                                "centered on",
-                                "focused on"
-                            ],
-                            "part_of_speech": "Suffix",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "身",
+        "身": {
             "meanings": [
                 "one's station in life",
                 "person",
                 "somebody"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "み"
             ],
-            "strokes": 7,
+            "stroke_count": 7,
             "jlpt": null,
-            "frequency": 320,
+            "freq_mainichi_shinbun": 320,
             "unicode": "8EAB",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "独身",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どくしん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "unmarried",
-                                "single"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no', Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "体",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "からだ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "body"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "torso",
-                                "trunk"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "build",
-                                "physique",
-                                "frame",
-                                "figure"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "health",
-                                "constitution"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3",
-                        "jlpt-n1",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "刺身",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "さしみ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "sashimi"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "出身",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅっしん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "one's origin"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means 'middle' or 'inside'. It often shows location, the center, or being between things. You see it in せなか where it points to the middle part of the back. In ちゅうがっこう it marks the middle level of school, and in ちゅうしょく it tells you the meal in the middle of the day. So in the compound なかみ it simply means the inside or contents. The second kanji means 'body' or 'personal status'. It often relates to the physical body or someone's state. In どくしん it shows marital status as being single, and in からだ it is the body itself. In さしみ it refers to the flesh or meat, so this kanji gives the sense of the physical substance you eat. Together in なかみ this kanji can add the idea of what something contains in terms of its substance.",
-    "explanations": {
-        "explanation": "The word なかみ means the contents or interior of something, what is physically inside, the substance or material, or the figurative essence of an item or idea.",
-        "youtube_description": "Learn how to use the Japanese word 中身 (なかみ) in everyday conversations! This short video explains its meanings, kanji breakdown, and common collocations so you can confidently talk about contents, fillings, and the essence of things. Perfect for practical learners—like, comment, and subscribe for more!",
-        "motivation": "The word we'll be learning in this video is なかみ which you will often hear when talking about packages, food and bento, checking bags or luggage, and when describing the substance or essence of writing and ideas. Imagine how much more natural your Japanese will sound when you can say things like What's inside this box?, I checked the contents of the bag., and The book's contents are outdated. Let's get started!",
-        "collocations": [
-            "中身を確認する",
-            "中身を見せる",
-            "中身を取り出す",
-            "中身が詰まっている",
-            "中身が濃い",
-            "中身が空っぽだ",
-            "中身のない"
-        ],
-        "synonyms": [
-            "内容",
-            "本質"
-        ],
-        "synonyms_explanation": "The most common synonyms of the なかみ are ないよう and ほんしつ. ないよう refers to the specific items, information, or material inside something and is very close in meaning to なかみ, while ほんしつ emphasizes the essence or fundamental nature rather than physical contents.",
-        "antonyms": [
-            "外側",
-            "空っぽ"
-        ],
-        "antonyms_explanation": "The most common antonyms of the なかみ are そとがわ and からっぽ. そとがわ means the outside or exterior surface and contrasts with the interior focus of なかみ, while からっぽ means empty and indicates the absence of any contents."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n2"
-    ],
-    "examples": [
-        {
-            "kanji": "カバンの中身を確認する。",
-            "furigana": "カバンの中身(なかみ)を確認(かくにん)する。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "カバンの中身を確認する。",
-                "English": "Check the contents of the bag.",
-                "Persian": "محتویات کیف را بررسی کن.",
-                "Nepali": "झोला भित्रको सामग्री जाँच गर्नुहोस्।",
-                "Indonesian": "Periksa isi tas.",
-                "Filipino": "Suriin ang laman ng bag.",
-                "Vietnamese": "Kiểm tra đồ bên trong túi.",
-                "Burmese": "အိတ်ထဲက အရာတွေကို စစ်ဆေးပါ။",
-                "Korean": "가방 안의 내용을 확인하다.",
-                "Hindi": "बैग की सामग्री की जाँच करें।",
-                "Arabic": "تحقق من محتويات الحقيبة.",
-                "French": "Vérifier le contenu du sac.",
-                "Spanish": "Revisa el contenido de la bolsa.",
-                "Chinese": "检查包里的东西。",
-                "Bengali": "ব্যাগের ভিতরের জিনিস পরীক্ষা করুন।"
-            }
-        },
-        {
-            "kanji": "中身を見せてください。",
-            "furigana": "中身(なかみ)を見(み)せてください。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "中身を見せてください。",
-                "English": "Please show me the contents.",
-                "Persian": "لطفاً محتویات را نشان دهید.",
-                "Nepali": "कृपया भित्रको सामग्री देखाउनुहोस्।",
-                "Indonesian": "Tolong tunjukkan isinya.",
-                "Filipino": "Paki-pakita ang laman.",
-                "Vietnamese": "Xin hãy cho tôi xem bên trong.",
-                "Burmese": "အတွင်းရှိအရာကို ပြပါ။",
-                "Korean": "내용을 보여 주세요.",
-                "Hindi": "कृपया सामग्री दिखाइए।",
-                "Arabic": "من فضلك أرني المحتويات.",
-                "French": "Montrez-moi le contenu, s'il vous plaît.",
-                "Spanish": "Por favor, muéstreme el contenido.",
-                "Chinese": "请把里面的东西给我看。",
-                "Bengali": "দয়া করে ভিতরের জিনিসটা দেখান।"
-            }
-        },
-        {
-            "kanji": "箱から中身を取り出す。",
-            "furigana": "箱(はこ)から中身(なかみ)を取り出(とりだ)す。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "箱から中身を取り出す。",
-                "English": "Take the contents out of the box.",
-                "Persian": "محتویات داخل جعبه را بیرون بیاور.",
-                "Nepali": "बक्सबाट भित्रको सामग्री निकाल।",
-                "Indonesian": "Keluarkan isi dari kotak.",
-                "Filipino": "Kunin ang laman ng kahon.",
-                "Vietnamese": "Lấy phần bên trong hộp ra.",
-                "Burmese": "ပုံးထဲက အရာတွေကို ထုတ်ယူပါ။",
-                "Korean": "상자에서 내용물을 꺼낸다.",
-                "Hindi": "डिब्बे से अंदर का सामान निकालो।",
-                "Arabic": "أخرج محتويات الصندوق.",
-                "French": "Sors le contenu de la boîte.",
-                "Spanish": "Saca el contenido de la caja.",
-                "Chinese": "把箱子里的东西拿出来。",
-                "Bengali": "বক্স থেকে ভেতরের জিনিস বের কর।"
-            }
-        },
-        {
-            "kanji": "箱の中身が詰まっている。",
-            "furigana": "箱(はこ)の中身(なかみ)が詰(つ)まっている。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "箱の中身が詰まっている。",
-                "English": "The box's contents are packed.",
-                "Persian": "محتویات جعبه فشرده شده‌اند.",
-                "Nepali": "बक्सभित्रको वस्तुहरू कसेर भरिएका छन्।",
-                "Indonesian": "Isi kotak itu padat.",
-                "Filipino": "Masikip ang laman ng kahon.",
-                "Vietnamese": "Đồ trong hộp được nhét chặt.",
-                "Burmese": "သေတ္တာအတွင်းရှိ အရာများ ကျပ်တည်း ဖြည့်ထားသည်။",
-                "Korean": "상자 안의 내용물이 꽉 차 있다.",
-                "Hindi": "डिब्बे के अंदर की चीज़ें कसकर भरी हुई हैं।",
-                "Arabic": "محتويات الصندوق مكتظة.",
-                "French": "Le contenu de la boîte est bien rempli.",
-                "Spanish": "El contenido de la caja está apretado.",
-                "Chinese": "箱子里的东西塞得很满。",
-                "Bengali": "বক্সের ভেতরের জিনিসগুলো ঘনভাবে ভর্তি আছে।"
-            }
-        },
-        {
-            "kanji": "この本は中身が濃いです。",
-            "furigana": "この本(ほん)は中身(なかみ)が濃(こ)いです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "この本は中身が濃いです。",
-                "English": "This book is rich in content.",
-                "Persian": "این کتاب محتوای غنی دارد.",
-                "Nepali": "यो किताबको सामग्री समृद्ध छ।",
-                "Indonesian": "Buku ini memiliki isi yang padat.",
-                "Filipino": "Mayaman ang laman ng aklat na ito.",
-                "Vietnamese": "Cuốn sách này có nội dung phong phú.",
-                "Burmese": "ဒီစာအုပ်မှာ အကြောင်းအရာများ ပြည့်စုံတယ်။",
-                "Korean": "이 책은 내용이 알차다.",
-                "Hindi": "यह किताब सामग्री से भरपूर है।",
-                "Arabic": "هذا الكتاب غني بالمحتوى.",
-                "French": "Ce livre est riche en contenu.",
-                "Spanish": "Este libro tiene un contenido denso.",
-                "Chinese": "这本书的内容很丰富。",
-                "Bengali": "এই বইটির বিষয়বস্তু সমৃদ্ধ।"
-            }
-        },
-        {
-            "kanji": "箱の中身が空っぽだ。",
-            "furigana": "箱(はこ)の中身(なかみ)が空っぽ(からっぽ)だ。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "箱の中身が空っぽだ。",
-                "English": "The box is empty.",
-                "Persian": "محتوای جعبه خالی است.",
-                "Nepali": "बक्सको भित्र खाली छ।",
-                "Indonesian": "Isi kotak kosong.",
-                "Filipino": "Walang laman ang loob ng kahon.",
-                "Vietnamese": "Bên trong hộp trống.",
-                "Burmese": "ပုံးရဲ့ အတွင်း ဗလာ ဖြစ်တယ်။",
-                "Korean": "상자 안이 텅 비어 있다.",
-                "Hindi": "डिब्बे के अंदर कुछ भी नहीं है।",
-                "Arabic": "محتوى الصندوق فارغ.",
-                "French": "Le contenu de la boîte est vide.",
-                "Spanish": "El contenido de la caja está vacío.",
-                "Chinese": "盒子里什么都没有。",
-                "Bengali": "বাক্সটির ভিতর খালি।"
-            }
-        },
-        {
-            "kanji": "これは中身のない箱です。",
-            "furigana": "これは中身(なかみ)のない箱(はこ)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "これは中身のない箱です。",
-                "English": "This is an empty box.",
-                "Persian": "این یک جعبه خالی است.",
-                "Nepali": "यो खाली बक्स हो।",
-                "Indonesian": "Ini kotak kosong.",
-                "Filipino": "Ito ay walang laman na kahon.",
-                "Vietnamese": "Đây là một hộp rỗng.",
-                "Burmese": "ဒါက အလွတ် သေတ္တာပါ။",
-                "Korean": "이것은 내용물이 없는 상자입니다.",
-                "Hindi": "यह एक खाली डब्बा है।",
-                "Arabic": "هذا صندوق فارغ.",
-                "French": "C'est une boîte vide.",
-                "Spanish": "Esta es una caja vacía.",
-                "Chinese": "这是一个空的盒子。",
-                "Bengali": "এটি একটি খালি বাক্স।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "内容",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ないよう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "contents",
-                        "content",
-                        "substance",
-                        "matter",
-                        "detail",
-                        "import"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "本質",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ほんしつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "essence",
-                        "true nature",
-                        "substance",
-                        "reality"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "外側",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "そとがわ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "exterior",
-                        "outside",
-                        "outer",
-                        "external",
-                        "lateral"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "Sotogawa"
-                    ],
-                    "part_of_speech": "Place",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "空っぽ",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "からっぽ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "empty",
-                        "vacant",
-                        "hollow"
-                    ],
-                    "part_of_speech": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "中身を確認する",
+        "中身を見せる",
+        "中身を取り出す",
+        "中身が詰まっている",
+        "中身が濃い",
+        "中身が空っぽだ",
+        "中身のない"
     ]
 }

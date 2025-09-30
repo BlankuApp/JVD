@@ -1,468 +1,253 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "日記",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/5W1IlUQwSyw",
     "in_db": true,
-    "reading": "にっき",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "日記",
+        "reading": "にっき",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is にっき, which you will often hear in casual conversations when talking about writing down your daily events or experiences.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"nikki\" means \"a diary,\" \"journal,\" or \"log.\" It's something where you note down experiences, thoughts, or events happening in your daily life.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "diary",
                 "journal"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "日記",
-                "English": "diary",
-                "Persian": "دفتر خاطرات",
-                "Nepali": "डायरी",
-                "Indonesian": "diary",
-                "Filipino": "talaarawan",
-                "Vietnamese": "nhật ký",
-                "Burmese": "ဒိုင်ယာရီ",
-                "Korean": "일기",
-                "Hindi": "डायरी",
-                "Arabic": "مذكرات",
-                "French": "journal",
-                "Spanish": "diario",
-                "Chinese": "日记",
-                "Bengali": "ডায়েরি"
+            ]
+        ],
+        "meaning_translations": {
+            "diary": {
+                "EN": "diary",
+                "ID": "diary",
+                "ES": "diario",
+                "VI": "nhật ký",
+                "FR": "journal",
+                "NE": "डायरी",
+                "BN": "ডায়েরি",
+                "ZH": "日记",
+                "KO": "일기",
+                "TL": "talaarawan",
+                "MY": "ဒိုင်ယာရီ",
+                "HI": "डायरी",
+                "AR": "مذكرات",
+                "FA": "دفتر خاطرات"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "毎日、日記を書きます。",
+                "furigana": "毎日(まいにち)、日記(にっき)を書(か)きます。",
+                "translations": {
+                    "EN": "I write a diary every day.",
+                    "ID": "Saya menulis buku harian setiap hari.",
+                    "ES": "Escribo un diario todos los días.",
+                    "VI": "Tôi viết nhật ký mỗi ngày.",
+                    "FR": "J'écris un journal tous les jours.",
+                    "NE": "म हरेक दिन डायरी लेख्छु।",
+                    "BN": "আমি প্রতিদিন একটি ডায়েরি লিখি।",
+                    "ZH": "我每天写日记。",
+                    "KO": "나는 매일 일기를 씁니다.",
+                    "TL": "Nagpapala ako ng talaarawan araw-araw.",
+                    "MY": "ကိုယ့်နေ့လည်စာရေးတယ်။",
+                    "HI": "मैं हर दिन डायरी लिखता हूं।",
+                    "AR": "أكتب مذكرات يومية كل يوم.",
+                    "FA": "من هر روز دفتر خاطرات می نویسم."
+                }
+            },
+            {
+                "kanji": "昨日の日記にすでにのせた。",
+                "furigana": "昨日(きのう)の日記(にっき)にすでにのせた。",
+                "translations": {
+                    "EN": "I already wrote it in yesterday's diary.",
+                    "ID": "Saya sudah menuliskannya di buku harian kemarin.",
+                    "ES": "Ya lo anoté en el diario de ayer.",
+                    "VI": "Tôi đã viết nó vào nhật ký hôm qua rồi.",
+                    "FR": "Je l'ai déjà écrit dans le journal d'hier.",
+                    "NE": "मैले यसलाई हिजोको डायरीमा पहिल्यै लेखेको थिएँ।",
+                    "BN": "আমি ইতিমধ্যেই এটি গতকালের ডায়েরিতে লিখেছি।",
+                    "ZH": "我已经写在昨天的日记里了。",
+                    "KO": "어제의 일기에 이미 적었습니다.",
+                    "TL": "Nailagay ko na ito sa diary kahapon.",
+                    "MY": "မနေ့က ဒိုင်ယာရီထဲမှာ ရေးပြီးသားပါ။",
+                    "HI": "मैंने इसे कल की डायरी में पहले ही लिख दिया था।",
+                    "AR": "لقد كتبته بالفعل في يوميات الأمس.",
+                    "FA": "من آن را در دفترچه یادداشت دیروز نوشتم."
+                }
+            },
+            {
+                "kanji": "毎日、日記をとることにしています。",
+                "furigana": "毎日(まいにち)、日記(にっき)をとることにしています。",
+                "translations": {
+                    "EN": "I have made it a habit to keep a diary every day.",
+                    "ID": "Saya telah membuat kebiasaan untuk membuat catatan harian setiap hari.",
+                    "ES": "He tomado la costumbre de llevar un diario cada día.",
+                    "VI": "Tôi đã tạo thói quen giữ nhật ký hàng ngày.",
+                    "FR": "Je prends l'habitude de tenir un journal chaque jour.",
+                    "NE": "मैले हरेक दिन डायरी राख्ने बानी बनाएको छु।",
+                    "BN": "আমি প্রতিদিন একটি ডায়েরি রাখার অভ্যাস করেছি।",
+                    "ZH": "我每天都有写日记的习惯。",
+                    "KO": "매일 일기를 쓰고 있습니다.",
+                    "TL": "Ginawa kong ugali ang magsulat ng diary araw-araw.",
+                    "MY": "နေ့တိုင်း မှတ်စုယူပါရေဲ့ဝမ်းကြင်မှာ။",
+                    "HI": "मैंने हर दिन डायरी रखने की आदत बनाई है।",
+                    "AR": "لقد جعلت من العادة أن أكتب يوميات كل يوم.",
+                    "FA": "هر روز تصمیم دارم یادداشت روزانه بنویسم."
+                }
+            },
+            {
+                "kanji": "ひみつ日記を読んだ。",
+                "furigana": "ひみつ日記(にっき)を読(よ)んだ。",
+                "translations": {
+                    "EN": "I read the secret diary.",
+                    "ID": "Saya membaca buku harian rahasia.",
+                    "ES": "Leí el diario secreto.",
+                    "VI": "Tôi đã đọc nhật ký bí mật.",
+                    "FR": "J'ai lu le journal secret.",
+                    "NE": "मैले गुप्त डायरी पढें।",
+                    "BN": "আমি গোপন ডায়েরীটি পড়েছি।",
+                    "ZH": "我读了秘密日记。",
+                    "KO": "비밀 일기를 읽었다.",
+                    "TL": "Binasa ko ang lihim na talaarawan.",
+                    "MY": "မြှုပ်ကွက်မှတ်စုအုပ်ကို ဖတ်ခဲ့သည်။",
+                    "HI": "मैंने गुप्त डायरी को पढ़ा।",
+                    "AR": "قرأتُ اليوميات السرية.",
+                    "FA": "من دفتر خاطرات محرمانه را خواندم."
+                }
+            },
+            {
+                "kanji": "こどもの日記はかわいいです。",
+                "furigana": "こどもの日記(にっき)はかわいい(かわいい)です。",
+                "translations": {
+                    "EN": "The child's diary is cute.",
+                    "ID": "Buku harian anak itu lucu.",
+                    "ES": "El diario del niño es lindo.",
+                    "VI": "Nhật ký của trẻ dễ thương.",
+                    "FR": "Le journal de l'enfant est mignon.",
+                    "NE": "बच्चाको डायरी रमाइलो छ।",
+                    "BN": "শিশুর ডায়েরি সুন্দর।",
+                    "ZH": "孩子的日记很可爱。",
+                    "KO": "아이의 일기는 귀엽다.",
+                    "TL": "Ang talaarawan ng bata ay maganda.",
+                    "MY": "ကလေးရဲ့ ဒိုင်ယာရီသည် ချစ်ဖို့ကောင်းသည်။",
+                    "HI": "बच्चे की डायरी प्यारी है।",
+                    "AR": "مذكرات الطفل لطيفة.",
+                    "FA": "دفترچه یادداشت کودک بامزه است."
+                }
+            }
+        ],
+        "synonyms": [
+            "手記 : しゅき : note",
+            "メモ : メモ : note"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"nikki\" are \"shuki\" and \"memo.\" \"Shuki\" means \"a personal account,\" often more formal or reflective. \"Memo\" means \"a note,\" usually for brief thoughts or reminders.",
+        "antonyms": [
+            "記憶 : きおく : memory",
+            "忘却 : ぼうきゃく : lapse of memory"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word \"nikki\" are \"kioku\" and \"boukaku.\" \"Kioku\" means \"memory,\" referring to what we remember without writing it down. \"Boukaku\" means \"forgetting,\" which is the act of not remembering things.",
+        "kanji_details": [
+            {
+                "kanji": "日",
+                "common_words": [
+                    "日本: Japan",
+                    "昨日: yesterday"
+                ]
+            },
+            {
+                "kanji": "記",
+                "common_words": [
+                    "記録: record",
+                    "記者: reporter"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "日記",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "日記",
+                "reading": "にっき"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "diary",
+                    "journal"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "日",
+        "記"
     ],
-    "kanjis": [
-        {
-            "kanji": "日",
+    "kanji_data": {
+        "日": {
             "meanings": [
                 "Japan",
                 "counter for days",
                 "day",
                 "sun"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ジツ",
                 "ニチ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-か",
                 "-び",
                 "ひ"
             ],
-            "strokes": 4,
+            "stroke_count": 4,
             "jlpt": 5,
-            "frequency": 1,
+            "freq_mainichi_shinbun": 1,
             "unicode": "65E5",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "日本",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "にほん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "Japan"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "昨日",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "きのう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "yesterday"
-                            ],
-                            "part_of_speech": "Noun, Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "記",
+        "記": {
             "meanings": [
                 "account",
                 "narrative",
                 "scribe"
             ],
-            "onyomi": [
+            "on_readings": [
                 "キ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "しる.す"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 3,
-            "frequency": 149,
+            "freq_mainichi_shinbun": 149,
             "unicode": "8A18",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "記録",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "きろく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "record",
-                                "document",
-                                "minutes",
-                                "recording",
-                                "putting on record",
-                                "keeping a record",
-                                "writing down"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "record",
-                                "setting",
-                                "recording"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "記者",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "きしゃ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "reporter",
-                                "journalist"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means sun and day and it also marks dates. You can see it in にほん where it gives the idea of the sun and in きのう where it marks a specific day. The second kanji means to record or write down and it often shows up in words about keeping records. For example きろく uses it for a kept record and きしゃ uses it for a person who writes reports.",
-    "explanations": {
-        "explanation": "The word \"nikki\" means \"a diary,\" \"journal,\" or \"log.\" It's something where you note down experiences, thoughts, or events happening in your daily life.",
-        "youtube_description": "Learn how to use the Japanese word 日記 (にっき) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is にっき, which you will often hear in casual conversations when talking about writing down your daily events or experiences.",
-        "collocations": [
-            "にっきをかく",
-            "にっきにすでにのせる",
-            "にっきをとる",
-            "ひみつにっき",
-            "こどものにっき"
-        ],
-        "synonyms": [
-            "手記",
-            "メモ"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"nikki\" are \"shuki\" and \"memo.\" \"Shuki\" means \"a personal account,\" often more formal or reflective. \"Memo\" means \"a note,\" usually for brief thoughts or reminders.",
-        "antonyms": [
-            "記憶",
-            "忘却"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"nikki\" are \"kioku\" and \"boukaku.\" \"Kioku\" means \"memory,\" referring to what we remember without writing it down. \"Boukaku\" means \"forgetting,\" which is the act of not remembering things."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "毎日、日記を書きます。",
-            "furigana": "毎日(まいにち)、日記(にっき)を書(か)きます。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "毎日、日記を書きます。",
-                "English": "I write a diary every day.",
-                "Persian": "من هر روز دفتر خاطرات می نویسم.",
-                "Nepali": "म हरेक दिन डायरी लेख्छु।",
-                "Indonesian": "Saya menulis buku harian setiap hari.",
-                "Filipino": "Nagpapala ako ng talaarawan araw-araw.",
-                "Vietnamese": "Tôi viết nhật ký mỗi ngày.",
-                "Burmese": "ကိုယ့်နေ့လည်စာရေးတယ်။",
-                "Korean": "나는 매일 일기를 씁니다.",
-                "Hindi": "मैं हर दिन डायरी लिखता हूं।",
-                "Arabic": "أكتب مذكرات يومية كل يوم.",
-                "French": "J'écris un journal tous les jours.",
-                "Spanish": "Escribo un diario todos los días.",
-                "Chinese": "我每天写日记。",
-                "Bengali": "আমি প্রতিদিন একটি ডায়েরি লিখি।"
-            }
-        },
-        {
-            "kanji": "昨日の日記にすでにのせた。",
-            "furigana": "昨日(きのう)の日記(にっき)にすでにのせた。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "昨日の日記にすでにのせた。",
-                "English": "I already wrote it in yesterday's diary.",
-                "Persian": "من آن را در دفترچه یادداشت دیروز نوشتم.",
-                "Nepali": "मैले यसलाई हिजोको डायरीमा पहिल्यै लेखेको थिएँ।",
-                "Indonesian": "Saya sudah menuliskannya di buku harian kemarin.",
-                "Filipino": "Nailagay ko na ito sa diary kahapon.",
-                "Vietnamese": "Tôi đã viết nó vào nhật ký hôm qua rồi.",
-                "Burmese": "မနေ့က ဒိုင်ယာရီထဲမှာ ရေးပြီးသားပါ။",
-                "Korean": "어제의 일기에 이미 적었습니다.",
-                "Hindi": "मैंने इसे कल की डायरी में पहले ही लिख दिया था।",
-                "Arabic": "لقد كتبته بالفعل في يوميات الأمس.",
-                "French": "Je l'ai déjà écrit dans le journal d'hier.",
-                "Spanish": "Ya lo anoté en el diario de ayer.",
-                "Chinese": "我已经写在昨天的日记里了。",
-                "Bengali": "আমি ইতিমধ্যেই এটি গতকালের ডায়েরিতে লিখেছি।"
-            }
-        },
-        {
-            "kanji": "毎日、日記をとることにしています。",
-            "furigana": "毎日(まいにち)、日記(にっき)をとることにしています。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "毎日、日記をとることにしています。",
-                "English": "I have made it a habit to keep a diary every day.",
-                "Persian": "هر روز تصمیم دارم یادداشت روزانه بنویسم.",
-                "Nepali": "मैले हरेक दिन डायरी राख्ने बानी बनाएको छु।",
-                "Indonesian": "Saya telah membuat kebiasaan untuk membuat catatan harian setiap hari.",
-                "Filipino": "Ginawa kong ugali ang magsulat ng diary araw-araw.",
-                "Vietnamese": "Tôi đã tạo thói quen giữ nhật ký hàng ngày.",
-                "Burmese": "နေ့တိုင်း မှတ်စုယူပါရေဲ့ဝမ်းကြင်မှာ။",
-                "Korean": "매일 일기를 쓰고 있습니다.",
-                "Hindi": "मैंने हर दिन डायरी रखने की आदत बनाई है।",
-                "Arabic": "لقد جعلت من العادة أن أكتب يوميات كل يوم.",
-                "French": "Je prends l'habitude de tenir un journal chaque jour.",
-                "Spanish": "He tomado la costumbre de llevar un diario cada día.",
-                "Chinese": "我每天都有写日记的习惯。",
-                "Bengali": "আমি প্রতিদিন একটি ডায়েরি রাখার অভ্যাস করেছি।"
-            }
-        },
-        {
-            "kanji": "ひみつ日記を読んだ。",
-            "furigana": "ひみつ日記(にっき)を読(よ)んだ。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "ひみつ日記を読んだ。",
-                "English": "I read the secret diary.",
-                "Persian": "من دفتر خاطرات محرمانه را خواندم.",
-                "Nepali": "मैले गुप्त डायरी पढें।",
-                "Indonesian": "Saya membaca buku harian rahasia.",
-                "Filipino": "Binasa ko ang lihim na talaarawan.",
-                "Vietnamese": "Tôi đã đọc nhật ký bí mật.",
-                "Burmese": "မြှုပ်ကွက်မှတ်စုအုပ်ကို ဖတ်ခဲ့သည်။",
-                "Korean": "비밀 일기를 읽었다.",
-                "Hindi": "मैंने गुप्त डायरी को पढ़ा।",
-                "Arabic": "قرأتُ اليوميات السرية.",
-                "French": "J'ai lu le journal secret.",
-                "Spanish": "Leí el diario secreto.",
-                "Chinese": "我读了秘密日记。",
-                "Bengali": "আমি গোপন ডায়েরীটি পড়েছি।"
-            }
-        },
-        {
-            "kanji": "こどもの日記はかわいいです。",
-            "furigana": "こどもの日記(にっき)はかわいい(かわいい)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "こどもの日記はかわいいです。",
-                "English": "The child's diary is cute.",
-                "Persian": "دفترچه یادداشت کودک بامزه است.",
-                "Nepali": "बच्चाको डायरी रमाइलो छ।",
-                "Indonesian": "Buku harian anak itu lucu.",
-                "Filipino": "Ang talaarawan ng bata ay maganda.",
-                "Vietnamese": "Nhật ký của trẻ dễ thương.",
-                "Burmese": "ကလေးရဲ့ ဒိုင်ယာရီသည် ချစ်ဖို့ကောင်းသည်။",
-                "Korean": "아이의 일기는 귀엽다.",
-                "Hindi": "बच्चे की डायरी प्यारी है।",
-                "Arabic": "مذكرات الطفل لطيفة.",
-                "French": "Le journal de l'enfant est mignon.",
-                "Spanish": "El diario del niño es lindo.",
-                "Chinese": "孩子的日记很可爱。",
-                "Bengali": "শিশুর ডায়েরি সুন্দর।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "手記",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しゅき",
-            "meanings": [
-                {
-                    "neuances": [
-                        "note",
-                        "memorandum",
-                        "memo"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "memoirs",
-                        "personal account"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "メモ",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "メモ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "note",
-                        "memo",
-                        "memorandum"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "記憶",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "きおく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "memory",
-                        "recollection",
-                        "remembrance"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "memory",
-                        "storage"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "忘却",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ぼうきゃく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "lapse of memory",
-                        "forgetting completely",
-                        " oblivion"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "にっきをかく",
+        "にっきにすでにのせる",
+        "にっきをとる",
+        "ひみつにっき",
+        "こどものにっき"
     ]
 }

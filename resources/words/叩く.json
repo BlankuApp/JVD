@@ -1,12 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "叩く",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/2mIzmLfI4xM",
     "in_db": true,
-    "reading": "たたく",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "叩く",
+        "reading": "たたく",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is たたく which you will often hear in conversations when discussing actions like knocking on doors or expressing disapproval.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word たたく means to strike or hit something lightly, often with your hand. It can be used in various contexts, such as knocking on a door, clapping your hands, or even lightly hitting an object. In a metaphorical sense, it might also refer to speaking harshly about someone.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to strike",
                 "to hit",
                 "to beat",
@@ -20,173 +27,408 @@
                 "to clap",
                 "to play"
             ],
-            "part_of_speech": "Godan verb with 'ku' ending, Transitive verb",
-            "translation": {
-                "Japanese": "叩く",
-                "English": "to strike",
-                "Persian": "زدن",
-                "Nepali": "हिर्काउनु",
-                "Indonesian": "memukul",
-                "Filipino": "pumalo",
-                "Vietnamese": "đánh",
-                "Burmese": "ရိုက်",
-                "Korean": "두드리다",
-                "Hindi": "मारना",
-                "Arabic": "يضرب",
-                "French": "frapper",
-                "Spanish": "golpear",
-                "Chinese": "敲打",
-                "Bengali": "আঘাত করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to attack",
                 "to bash",
                 "to criticize",
                 "to censure",
                 "to flame"
             ],
-            "part_of_speech": "Godan verb with 'ku' ending, Transitive verb",
-            "translation": {
-                "Japanese": "叩く",
-                "English": "to attack",
-                "Persian": "حمله کردن",
-                "Nepali": "आक्रमण गर्नु",
-                "Indonesian": "menyerang",
-                "Filipino": "magsalakay",
-                "Vietnamese": "tấn công",
-                "Burmese": "တိုက်ခိုက်",
-                "Korean": "공격하다",
-                "Hindi": "आक्रमण करना",
-                "Arabic": "يهاجم",
-                "French": "attaquer",
-                "Spanish": "atacar",
-                "Chinese": "攻击",
-                "Bengali": "আক্রমণ করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to sound out"
             ],
-            "part_of_speech": "Godan verb with 'ku' ending, Transitive verb",
-            "translation": {
-                "Japanese": "叩く",
-                "English": "to sound out",
-                "Persian": "آزمودن یا صدا دادن",
-                "Nepali": "अवाज निकाल्नु",
-                "Indonesian": "mengetuk atau mengecek",
-                "Filipino": "kumatok upang alamin",
-                "Vietnamese": "thăm dò hoặc phát ra âm thanh",
-                "Burmese": "အသံ ထု",
-                "Korean": "두드리다",
-                "Hindi": "टटोलना",
-                "Arabic": "التنغيم",
-                "French": "sonder ou résonner",
-                "Spanish": "tantear o resonar",
-                "Chinese": "试探或发出声音",
-                "Bengali": "আওয়াজ পরীক্ষা করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to pound",
                 "to chop into small pieces"
             ],
-            "part_of_speech": "Godan verb with 'ku' ending, Transitive verb",
-            "translation": {
-                "Japanese": "叩く",
-                "English": "to pound",
-                "Persian": "کوبیدن",
-                "Nepali": "पिट्न",
-                "Indonesian": "mengetuk",
-                "Filipino": "kumatok",
-                "Vietnamese": "đập",
-                "Burmese": "ခေါက်သည်",
-                "Korean": "두드리다",
-                "Hindi": "पीटना",
-                "Arabic": "للدق",
-                "French": "frapper",
-                "Spanish": "golpear",
-                "Chinese": "敲击",
-                "Bengali": "ঠকঠক করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to beat down the price"
             ],
-            "part_of_speech": "Godan verb with 'ku' ending, Transitive verb",
-            "translation": {
-                "Japanese": "叩く",
-                "English": "to beat down the price",
-                "Persian": "قیمت را کاهش دادن",
-                "Nepali": "मूल्य घटाउने",
-                "Indonesian": "menurunkan harga",
-                "Filipino": "pabagsakin ang presyo",
-                "Vietnamese": "đánh bại giá",
-                "Burmese": "စျေးကျရန်",
-                "Korean": "값을 깎다",
-                "Hindi": "मूल्य कम करना",
-                "Arabic": "خفض السعر",
-                "French": "baisser le prix",
-                "Spanish": "reducir el precio",
-                "Chinese": "砍价",
-                "Bengali": "দাম কমানো"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to talk"
             ],
-            "part_of_speech": "Godan verb with 'ku' ending, Transitive verb",
-            "translation": {
-                "Japanese": "叩く: 話す",
-                "English": "叩く: to talk",
-                "Persian": "叩く: صحبت کردن",
-                "Nepali": "叩く: कुरा गर्नु",
-                "Indonesian": "叩く: berbicara",
-                "Filipino": "叩く: magsalita",
-                "Vietnamese": "叩く: nói chuyện",
-                "Burmese": "叩く: စကားပြော",
-                "Korean": "叩く: 말하다",
-                "Hindi": "叩く: बात करना",
-                "Arabic": "叩く: للتحدث",
-                "French": "叩く: parler",
-                "Spanish": "叩く: hablar",
-                "Chinese": "叩く: 说话",
-                "Bengali": "叩く: কথা বলা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to call",
                 "to invoke"
-            ],
-            "part_of_speech": "Godan verb with 'ku' ending, Transitive verb",
-            "translation": {
-                "Japanese": "叩く",
-                "English": "to knock",
-                "Persian": "به در زدن",
-                "Nepali": "ढकढक्याउनु",
-                "Indonesian": "mengetuk",
-                "Filipino": "kumatok",
-                "Vietnamese": "gõ cửa",
-                "Burmese": "ခေါက်မည်",
-                "Korean": "두드리다",
-                "Hindi": "खटखटाना",
-                "Arabic": "يطرق",
-                "French": "frapper",
-                "Spanish": "llamar a la puerta",
-                "Chinese": "敲门",
-                "Bengali": "ঠকঠক করা"
+            ]
+        ],
+        "meaning_translations": {
+            "to strike": {
+                "EN": "to strike",
+                "ID": "memukul",
+                "ES": "golpear",
+                "VI": "đánh",
+                "FR": "frapper",
+                "NE": "हिर्काउनु",
+                "BN": "আঘাত করা",
+                "ZH": "敲打",
+                "KO": "두드리다",
+                "TL": "pumalo",
+                "MY": "ရိုက်",
+                "HI": "मारना",
+                "AR": "يضرب",
+                "FA": "زدن"
+            },
+            "to attack": {
+                "EN": "to attack",
+                "ID": "menyerang",
+                "ES": "atacar",
+                "VI": "tấn công",
+                "FR": "attaquer",
+                "NE": "आक्रमण गर्नु",
+                "BN": "আক্রমণ করা",
+                "ZH": "攻击",
+                "KO": "공격하다",
+                "TL": "magsalakay",
+                "MY": "တိုက်ခိုက်",
+                "HI": "आक्रमण करना",
+                "AR": "يهاجم",
+                "FA": "حمله کردن"
+            },
+            "to sound out": {
+                "EN": "to sound out",
+                "ID": "mengetuk atau mengecek",
+                "ES": "tantear o resonar",
+                "VI": "thăm dò hoặc phát ra âm thanh",
+                "FR": "sonder ou résonner",
+                "NE": "अवाज निकाल्नु",
+                "BN": "আওয়াজ পরীক্ষা করা",
+                "ZH": "试探或发出声音",
+                "KO": "두드리다",
+                "TL": "kumatok upang alamin",
+                "MY": "အသံ ထု",
+                "HI": "टटोलना",
+                "AR": "التنغيم",
+                "FA": "آزمودن یا صدا دادن"
+            },
+            "to pound": {
+                "EN": "to pound",
+                "ID": "mengetuk",
+                "ES": "golpear",
+                "VI": "đập",
+                "FR": "frapper",
+                "NE": "पिट्न",
+                "BN": "ঠকঠক করা",
+                "ZH": "敲击",
+                "KO": "두드리다",
+                "TL": "kumatok",
+                "MY": "ခေါက်သည်",
+                "HI": "पीटना",
+                "AR": "للدق",
+                "FA": "کوبیدن"
+            },
+            "to beat down the price": {
+                "EN": "to beat down the price",
+                "ID": "menurunkan harga",
+                "ES": "reducir el precio",
+                "VI": "đánh bại giá",
+                "FR": "baisser le prix",
+                "NE": "मूल्य घटाउने",
+                "BN": "দাম কমানো",
+                "ZH": "砍价",
+                "KO": "값을 깎다",
+                "TL": "pabagsakin ang presyo",
+                "MY": "စျေးကျရန်",
+                "HI": "मूल्य कम करना",
+                "AR": "خفض السعر",
+                "FA": "قیمت را کاهش دادن"
+            },
+            "to talk": {
+                "EN": "叩く: to talk",
+                "ID": "叩く: berbicara",
+                "ES": "叩く: hablar",
+                "VI": "叩く: nói chuyện",
+                "FR": "叩く: parler",
+                "NE": "叩く: कुरा गर्नु",
+                "BN": "叩く: কথা বলা",
+                "ZH": "叩く: 说话",
+                "KO": "叩く: 말하다",
+                "TL": "叩く: magsalita",
+                "MY": "叩く: စကားပြော",
+                "HI": "叩く: बात करना",
+                "AR": "叩く: للتحدث",
+                "FA": "叩く: صحبت کردن"
+            },
+            "to call": {
+                "EN": "to knock",
+                "ID": "mengetuk",
+                "ES": "llamar a la puerta",
+                "VI": "gõ cửa",
+                "FR": "frapper",
+                "NE": "ढकढक्याउनु",
+                "BN": "ঠকঠক করা",
+                "ZH": "敲门",
+                "KO": "두드리다",
+                "TL": "kumatok",
+                "MY": "ခေါက်မည်",
+                "HI": "खटखटाना",
+                "AR": "يطرق",
+                "FA": "به در زدن"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "彼はドアを叩いた。",
+                "furigana": "彼(かれ)はドアを叩(たた)いた。",
+                "translations": {
+                    "EN": "He knocked on the door.",
+                    "ID": "Dia mengetuk pintu.",
+                    "ES": "Él llamó a la puerta.",
+                    "VI": "Anh ấy gõ cửa.",
+                    "FR": "Il a frappé à la porte.",
+                    "NE": "उनी ढोकामा ट्याप्नुभयो।",
+                    "BN": "সে দরজায় টোকা দিল।",
+                    "ZH": "他敲了敲门。",
+                    "KO": "그는 문을 두드렸다.",
+                    "TL": "Kumatok siya sa pinto.",
+                    "MY": "သူက တံခါးကို ခေါက်ခဲ့တယ်။",
+                    "HI": "उसने दरवाजा खटखटाया।",
+                    "AR": "هو طرق على الباب.",
+                    "FA": "او به در زد."
+                }
+            },
+            {
+                "kanji": "彼は手を叩きました。",
+                "furigana": "彼(かれ)は手(て)を叩(たた)きました。",
+                "translations": {
+                    "EN": "He clapped his hands.",
+                    "ID": "Dia bertepuk tangan.",
+                    "ES": "Él aplaudió.",
+                    "VI": "Anh ấy vỗ tay.",
+                    "FR": "Il a applaudi.",
+                    "NE": "उसले आफ्नो हात ट निर्मायो।",
+                    "BN": "তিনি হাততালি দিয়েছিলেন।",
+                    "ZH": "他拍了手。",
+                    "KO": "그는 손뼉을 쳤다.",
+                    "TL": "Pumalakpak siya.",
+                    "MY": "သူသည်လက်ခုပ္တိုက်ခဲ့သည်။",
+                    "HI": "उसने ताली बजाई।",
+                    "AR": "صفَّق بيديه.",
+                    "FA": "او دست هایش را زد."
+                }
+            },
+            {
+                "kanji": "彼は人を叩いた。",
+                "furigana": "彼(かれ)は人(ひと)を叩(たた)いた。",
+                "translations": {
+                    "EN": "He hit a person.",
+                    "ID": "Dia memukul seseorang.",
+                    "ES": "Él golpeó a una persona.",
+                    "VI": "Anh ấy đã đánh người.",
+                    "FR": "Il a frappé une personne.",
+                    "NE": "उसले मान्छेलाई हानेको थियो।",
+                    "BN": "তিনি একজনকে আঘাত করেছিলেন।",
+                    "ZH": "他打了一个人。",
+                    "KO": "그는 사람을 때렸다.",
+                    "TL": "Sinampal niya ang isang tao.",
+                    "MY": "သူက လူတယောက်ကို ထိုးလိုက်တယ်။",
+                    "HI": "उसने किसी को मारा।",
+                    "AR": "قام بضرب شخص ما.",
+                    "FA": "او به یک نفر ضربه زد."
+                }
+            },
+            {
+                "kanji": "彼は批判を叩きます。",
+                "furigana": "彼(かれ)は批判(ひはん)を叩(たた)きます。",
+                "translations": {
+                    "EN": "He criticizes.",
+                    "ID": "Dia mengkritik.",
+                    "ES": "Él critica.",
+                    "VI": "Anh ấy chỉ trích.",
+                    "FR": "Il critique.",
+                    "NE": "उ आलोचना गर्छ।",
+                    "BN": "সে সমালোচনা করে।",
+                    "ZH": "他批评。",
+                    "KO": "그는 비난합니다.",
+                    "TL": "Sinasaway niya.",
+                    "MY": "သူက ဝေဖန်တတ်တာ။",
+                    "HI": "वह आलोचना करता है।",
+                    "AR": "هو ينتقد.",
+                    "FA": "او انتقاد می‌کند."
+                }
+            },
+            {
+                "kanji": "友達が肩を叩いて笑った。",
+                "furigana": "友達(ともだち)が肩(かた)を叩(たた)いて笑(わら)った。",
+                "translations": {
+                    "EN": "My friend patted my shoulder and laughed.",
+                    "ID": "Temanku menepuk pundakku dan tertawa.",
+                    "ES": "Mi amigo me dio una palmada en el hombro y se rió.",
+                    "VI": "Bạn tôi vỗ vai tôi và cười.",
+                    "FR": "Mon ami a tapoté mon épaule et a ri.",
+                    "NE": "मेरो साथीले मेरो काँधमा टप्कायो र हाँस्यो।",
+                    "BN": "আমার বন্ধুটি আমার কাঁধে চাপড় মেরে হেসেছিল।",
+                    "ZH": "我的朋友拍了拍我的肩膀，笑了。",
+                    "KO": "내 친구가 어깨를 두드리고 웃었다.",
+                    "TL": "Hinampas ng kaibigan ko ang balikat ko at tumawa.",
+                    "MY": "ငါ့သူငယ်ချင်းက ကျွန်တော့်ပခုံးကို ထိုင်ပြီး အပြုံးဖြစ်ခဲ့တယ်။",
+                    "HI": "मेरे दोस्त ने मेरे कंधे पर थपकी दी और हंसा।",
+                    "AR": "صديقي ربت على كتفي وضحك.",
+                    "FA": "دوستم روی شانه‌ام زد و خندید."
+                }
+            }
+        ],
+        "synonyms": [
+            "打つ : うつ : to hit"
+        ],
+        "synonyms_explanation": "The most common synonym of the word たたく is うつ, meaning \"to hit\" or \"to strike,\" which often implies a slightly stronger force. While たたく can refer to lighter actions like tapping or knocking, うつ typically describes a firmer blow or hit.",
+        "antonyms": [
+            "撫でる : なでる : to stroke"
+        ],
+        "antonyms_explanation": "The most common antonym of the word たたく is なでる, which means \"to stroke\" or \"to caress,\" emphasizing a softer, more gentle action compared to the forceful nature of たたく.",
+        "kanji_details": [
+            {
+                "kanji": "叩",
+                "common_words": [
+                    "叩き売り: sacrifice sale",
+                    "手: hand"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "叩く",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "叩く",
+                "reading": "たたく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to strike",
+                    "to hit",
+                    "to beat",
+                    "to knock",
+                    "to pound",
+                    "to bang",
+                    "to slap",
+                    "to spank",
+                    "to tap",
+                    "to pat",
+                    "to clap",
+                    "to play"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to attack",
+                    "to bash",
+                    "to criticize",
+                    "to censure",
+                    "to flame"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to sound out"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to pound",
+                    "to chop into small pieces"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to beat down the price"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to talk"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to call",
+                    "to invoke"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "叩"
     ],
-    "kanjis": [
-        {
-            "kanji": "叩",
+    "kanji_data": {
+        "叩": {
             "meanings": [
                 "beat",
                 "criticize",
@@ -195,525 +437,26 @@
                 "strike",
                 "thrash"
             ],
-            "onyomi": [
+            "on_readings": [
                 "コウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "すぎ",
                 "たた.く",
                 "はた.く"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": null,
-            "frequency": 2316,
+            "freq_mainichi_shinbun": 2316,
             "unicode": "53E9",
-            "grade": null,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "叩き売り",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たたきうり",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "sacrifice sale",
-                                "bargain sale",
-                                "discount sale"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "手",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "て",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "hand",
-                                "arm"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "forepaw",
-                                "foreleg"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "handle"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "hand",
-                                "worker",
-                                "help"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "trouble",
-                                "care",
-                                "effort"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "means",
-                                "way",
-                                "trick",
-                                "move",
-                                "technique",
-                                "workmanship"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "hand",
-                                "handwriting"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "kind",
-                                "type",
-                                "sort"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "one's hands",
-                                "one's possession"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "ability to cope"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "hand"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "direction"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "move"
-                            ],
-                            "part_of_speech": "Noun, Noun, used as a suffix, Counter",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "Te"
-                            ],
-                            "part_of_speech": "Place",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": null
         }
-    ],
-    "kanji_explanation": "The first kanji means to hit or strike. It expresses the action of striking or tapping, often with a hand or tool. In words like たたきうり it conveys the idea of driving prices down as if striking them, and in てたたき it shows the simple action of clapping by hand.",
-    "explanations": {
-        "explanation": "The word たたく means to strike or hit something lightly, often with your hand. It can be used in various contexts, such as knocking on a door, clapping your hands, or even lightly hitting an object. In a metaphorical sense, it might also refer to speaking harshly about someone.",
-        "youtube_description": "Learn how to effectively use the Japanese word 叩く (たたく) in daily conversations! \nIn this video, we'll dive into its meanings, explore how to use it in popular phrases, and understand its nuances. Whether you're starting out or leveling up your Japanese skills, this video is your go-to guide. Don't forget to hit the like button, leave your comments, and subscribe for more!",
-        "motivation": "The word we'll be learning in this section is たたく which you will often hear in conversations when discussing actions like knocking on doors or expressing disapproval.",
-        "collocations": [
-            "ドアをたたく",
-            "手をたたく",
-            "人をたたく",
-            "批判をたたく",
-            "肩をたたく"
-        ],
-        "synonyms": [
-            "打つ"
-        ],
-        "synonyms_explanation": "The most common synonym of the word たたく is うつ, meaning \"to hit\" or \"to strike,\" which often implies a slightly stronger force. While たたく can refer to lighter actions like tapping or knocking, うつ typically describes a firmer blow or hit.",
-        "antonyms": [
-            "撫でる"
-        ],
-        "antonyms_explanation": "The most common antonym of the word たたく is なでる, which means \"to stroke\" or \"to caress,\" emphasizing a softer, more gentle action compared to the forceful nature of たたく."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "彼はドアを叩いた。",
-            "furigana": "彼(かれ)はドアを叩(たた)いた。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼はドアを叩いた。",
-                "English": "He knocked on the door.",
-                "Persian": "او به در زد.",
-                "Nepali": "उनी ढोकामा ट्याप्नुभयो।",
-                "Indonesian": "Dia mengetuk pintu.",
-                "Filipino": "Kumatok siya sa pinto.",
-                "Vietnamese": "Anh ấy gõ cửa.",
-                "Burmese": "သူက တံခါးကို ခေါက်ခဲ့တယ်။",
-                "Korean": "그는 문을 두드렸다.",
-                "Hindi": "उसने दरवाजा खटखटाया।",
-                "Arabic": "هو طرق على الباب.",
-                "French": "Il a frappé à la porte.",
-                "Spanish": "Él llamó a la puerta.",
-                "Chinese": "他敲了敲门。",
-                "Bengali": "সে দরজায় টোকা দিল।"
-            }
-        },
-        {
-            "kanji": "彼は手を叩きました。",
-            "furigana": "彼(かれ)は手(て)を叩(たた)きました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は手を叩きました。",
-                "English": "He clapped his hands.",
-                "Persian": "او دست هایش را زد.",
-                "Nepali": "उसले आफ्नो हात ट निर्मायो।",
-                "Indonesian": "Dia bertepuk tangan.",
-                "Filipino": "Pumalakpak siya.",
-                "Vietnamese": "Anh ấy vỗ tay.",
-                "Burmese": "သူသည်လက်ခုပ္တိုက်ခဲ့သည်။",
-                "Korean": "그는 손뼉을 쳤다.",
-                "Hindi": "उसने ताली बजाई।",
-                "Arabic": "صفَّق بيديه.",
-                "French": "Il a applaudi.",
-                "Spanish": "Él aplaudió.",
-                "Chinese": "他拍了手。",
-                "Bengali": "তিনি হাততালি দিয়েছিলেন।"
-            }
-        },
-        {
-            "kanji": "彼は人を叩いた。",
-            "furigana": "彼(かれ)は人(ひと)を叩(たた)いた。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼は人を叩いた。",
-                "English": "He hit a person.",
-                "Persian": "او به یک نفر ضربه زد.",
-                "Nepali": "उसले मान्छेलाई हानेको थियो।",
-                "Indonesian": "Dia memukul seseorang.",
-                "Filipino": "Sinampal niya ang isang tao.",
-                "Vietnamese": "Anh ấy đã đánh người.",
-                "Burmese": "သူက လူတယောက်ကို ထိုးလိုက်တယ်။",
-                "Korean": "그는 사람을 때렸다.",
-                "Hindi": "उसने किसी को मारा।",
-                "Arabic": "قام بضرب شخص ما.",
-                "French": "Il a frappé une personne.",
-                "Spanish": "Él golpeó a una persona.",
-                "Chinese": "他打了一个人。",
-                "Bengali": "তিনি একজনকে আঘাত করেছিলেন।"
-            }
-        },
-        {
-            "kanji": "彼は批判を叩きます。",
-            "furigana": "彼(かれ)は批判(ひはん)を叩(たた)きます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は批判を叩きます。",
-                "English": "He criticizes.",
-                "Persian": "او انتقاد می‌کند.",
-                "Nepali": "उ आलोचना गर्छ।",
-                "Indonesian": "Dia mengkritik.",
-                "Filipino": "Sinasaway niya.",
-                "Vietnamese": "Anh ấy chỉ trích.",
-                "Burmese": "သူက ဝေဖန်တတ်တာ။",
-                "Korean": "그는 비난합니다.",
-                "Hindi": "वह आलोचना करता है।",
-                "Arabic": "هو ينتقد.",
-                "French": "Il critique.",
-                "Spanish": "Él critica.",
-                "Chinese": "他批评。",
-                "Bengali": "সে সমালোচনা করে।"
-            }
-        },
-        {
-            "kanji": "友達が肩を叩いて笑った。",
-            "furigana": "友達(ともだち)が肩(かた)を叩(たた)いて笑(わら)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "友達が肩を叩いて笑った。",
-                "English": "My friend patted my shoulder and laughed.",
-                "Persian": "دوستم روی شانه‌ام زد و خندید.",
-                "Nepali": "मेरो साथीले मेरो काँधमा टप्कायो र हाँस्यो।",
-                "Indonesian": "Temanku menepuk pundakku dan tertawa.",
-                "Filipino": "Hinampas ng kaibigan ko ang balikat ko at tumawa.",
-                "Vietnamese": "Bạn tôi vỗ vai tôi và cười.",
-                "Burmese": "ငါ့သူငယ်ချင်းက ကျွန်တော့်ပခုံးကို ထိုင်ပြီး အပြုံးဖြစ်ခဲ့တယ်။",
-                "Korean": "내 친구가 어깨를 두드리고 웃었다.",
-                "Hindi": "मेरे दोस्त ने मेरे कंधे पर थपकी दी और हंसा।",
-                "Arabic": "صديقي ربت على كتفي وضحك.",
-                "French": "Mon ami a tapoté mon épaule et a ri.",
-                "Spanish": "Mi amigo me dio una palmada en el hombro y se rió.",
-                "Chinese": "我的朋友拍了拍我的肩膀，笑了。",
-                "Bengali": "আমার বন্ধুটি আমার কাঁধে চাপড় মেরে হেসেছিল।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "打つ",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "うつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to hit",
-                        "to strike",
-                        "to knock",
-                        "to beat",
-                        "to punch",
-                        "to slap",
-                        "to tap",
-                        "to bang",
-                        "to clap",
-                        "to pound"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to strike",
-                        "to sound",
-                        "to beat"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to beat"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to move",
-                        "to impress",
-                        "to touch"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to drive in",
-                        "to hammer in",
-                        "to put in",
-                        "to inject",
-                        "to vaccinate"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to type",
-                        "to send",
-                        "to transmit"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to insert",
-                        "to write in",
-                        "to mark"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to make",
-                        "to prepare"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to till"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to sprinkle",
-                        "to throw",
-                        "to cast"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to do",
-                        "to carry out",
-                        "to play",
-                        "to perform",
-                        "to engage in"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to pay"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to visit"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to line"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to bind"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to drop"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to play a move",
-                        "to play a game"
-                    ],
-                    "part_of_speech": "Godan verb with 'tsu' ending, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "撫でる",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "なでる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to stroke",
-                        "to caress",
-                        "to brush gently",
-                        "to pat",
-                        "to rub"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to comb",
-                        "to smooth down"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "ドアをたたく",
+        "手をたたく",
+        "人をたたく",
+        "批判をたたく",
+        "肩をたたく"
     ]
 }

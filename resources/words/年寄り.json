@@ -1,158 +1,274 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "年寄り",
+    "jlpt_level": 1,
     "youtube_link": "https://youtu.be/y2lnaxkj4Eo",
     "in_db": true,
-    "reading": "としより",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "年寄り",
+        "reading": "としより",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is としより, which you will often hear in everyday conversations when discussing age or talking about the elderly in various contexts.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word 年寄り (としより) means an old person or an elderly person. In Japanese, this term is used in a neutral way to refer to someone older or senior.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "old person",
                 "elderly person",
                 "senior citizen"
             ],
-            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-            "translation": {
-                "Japanese": "年寄り",
-                "English": "old person",
-                "Persian": "فرد مسن",
-                "Nepali": "बुजुर्ग व्यक्ति",
-                "Indonesian": "orang tua",
-                "Filipino": "matandang tao",
-                "Vietnamese": "người già",
-                "Burmese": "အသက်ကြီးသူ",
-                "Korean": "노인",
-                "Hindi": "वृद्ध व्यक्ति",
-                "Arabic": "شخص كبير السن",
-                "French": "personne âgée",
-                "Spanish": "persona mayor",
-                "Chinese": "老人",
-                "Bengali": "বৃদ্ধ ব্যক্তি"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "senior statesman"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "年寄り",
-                "English": "elderly person",
-                "Persian": "فرد سالمند",
-                "Nepali": "बूढो मान्छे",
-                "Indonesian": "orang lanjut usia",
-                "Filipino": "matanda",
-                "Vietnamese": "người lớn tuổi",
-                "Burmese": "အသက်အရွယ်ရင့်သူ",
-                "Korean": "노인",
-                "Hindi": "बुजुर्ग व्यक्ति",
-                "Arabic": "شخص مسن",
-                "French": "personne âgée",
-                "Spanish": "persona mayor",
-                "Chinese": "老人",
-                "Bengali": "বয়স্ক ব্যক্তি"
+            [
+                "important local official"
+            ]
+        ],
+        "meaning_translations": {
+            "old person": {
+                "EN": "old person",
+                "ID": "orang tua",
+                "ES": "persona mayor",
+                "VI": "người già",
+                "FR": "personne âgée",
+                "NE": "बुजुर्ग व्यक्ति",
+                "BN": "বৃদ্ধ ব্যক্তি",
+                "ZH": "老人",
+                "KO": "노인",
+                "TL": "matandang tao",
+                "MY": "အသက်ကြီးသူ",
+                "HI": "वृद्ध व्यक्ति",
+                "AR": "شخص كبير السن",
+                "FA": "فرد مسن"
+            },
+            "senior statesman": {
+                "EN": "elderly person",
+                "ID": "orang lanjut usia",
+                "ES": "persona mayor",
+                "VI": "người lớn tuổi",
+                "FR": "personne âgée",
+                "NE": "बूढो मान्छे",
+                "BN": "বয়স্ক ব্যক্তি",
+                "ZH": "老人",
+                "KO": "노인",
+                "TL": "matanda",
+                "MY": "အသက်အရွယ်ရင့်သူ",
+                "HI": "बुजुर्ग व्यक्ति",
+                "AR": "شخص مسن",
+                "FA": "فرد سالمند"
+            },
+            "important local official": {
+                "EN": "Elderly: Important local official",
+                "ID": "Lansia: Pejabat lokal yang penting",
+                "ES": "Anciano: Funcionario local importante",
+                "VI": "Người cao tuổi: Quan chức địa phương quan trọng",
+                "FR": "Personne âgée : haut fonctionnaire local important",
+                "NE": "बूढो मानिस : महत्वपूर्ण स्थानीय अधिकारी",
+                "BN": "বৃদ্ধ: গুরুত্বপূর্ণ স্থানীয় কর্মকর্তা",
+                "ZH": "老人：重要的地方官员",
+                "KO": "노인: 중요한 지역 공무원",
+                "TL": "Matanda: Mahalagang lokal na opisyal",
+                "MY": "အသက်ကြီးသောပုဂ္ဂိုလ်: အရေးကြီးသောပြည်နယ်အရာရှိ",
+                "HI": "बूढ़ा: महत्वपूर्ण स्थानीय अधिकारी",
+                "AR": "المسن: مسؤول محلي مهم",
+                "FA": "پیرمرد: مقام محلی مهم"
             }
         },
-        {
-            "neuances": [
-                "important local official"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "年寄り : 重要な地方役人",
-                "English": "Elderly: Important local official",
-                "Persian": "پیرمرد: مقام محلی مهم",
-                "Nepali": "बूढो मानिस : महत्वपूर्ण स्थानीय अधिकारी",
-                "Indonesian": "Lansia: Pejabat lokal yang penting",
-                "Filipino": "Matanda: Mahalagang lokal na opisyal",
-                "Vietnamese": "Người cao tuổi: Quan chức địa phương quan trọng",
-                "Burmese": "အသက်ကြီးသောပုဂ္ဂိုလ်: အရေးကြီးသောပြည်နယ်အရာရှိ",
-                "Korean": "노인: 중요한 지역 공무원",
-                "Hindi": "बूढ़ा: महत्वपूर्ण स्थानीय अधिकारी",
-                "Arabic": "المسن: مسؤول محلي مهم",
-                "French": "Personne âgée : haut fonctionnaire local important",
-                "Spanish": "Anciano: Funcionario local importante",
-                "Chinese": "老人：重要的地方官员",
-                "Bengali": "বৃদ্ধ: গুরুত্বপূর্ণ স্থানীয় কর্মকর্তা"
+        "examples": [
+            {
+                "kanji": "私の子供は年寄りの人が好きです。",
+                "furigana": "私(わたし)の子供(こども)は年寄(としよ)りの人(ひと)が好(す)きです。",
+                "translations": {
+                    "EN": "My child likes elderly people.",
+                    "ID": "Anak saya suka orang tua.",
+                    "ES": "A mi hijo le gustan las personas mayores.",
+                    "VI": "Con tôi thích những người lớn tuổi.",
+                    "FR": "Mon enfant aime les personnes âgées.",
+                    "NE": "मेरो बच्चालाई वृद्ध व्यक्तिहरू मनपर्छ।",
+                    "BN": "আমার সন্তান বৃদ্ধ লোকদের পছন্দ করে।",
+                    "ZH": "我的孩子喜欢老年人。",
+                    "KO": "제 아이는 노인을 좋아합니다.",
+                    "TL": "Gusto ng anak ko ang mga matatanda.",
+                    "MY": "ကျွန်ုပ်၏ကလေးသည် အရွယ်ရောက်သူများကို ကြွယ်ဝသည်။",
+                    "HI": "मेरे बच्चे को बुजुर्ग लोग पसंद हैं।",
+                    "AR": "يحب طفلي الأشخاص المسنين.",
+                    "FA": "فرزند من افراد مسن را دوست دارد."
+                }
+            },
+            {
+                "kanji": "彼は年寄りに優しくします。",
+                "furigana": "彼(かれ)は年寄(としよ)りに優(やさ)しくします。",
+                "translations": {
+                    "EN": "He is kind to the elderly.",
+                    "ID": "Dia baik kepada orang tua.",
+                    "ES": "Él es amable con los ancianos.",
+                    "VI": "Anh ấy tử tế với người già.",
+                    "FR": "Il est gentil avec les personnes âgées.",
+                    "NE": "उनी वृद्धहरुलाई दयालु छन्।",
+                    "BN": "তিনি বৃদ্ধদের প্রতি সদয়।",
+                    "ZH": "他对老人很友好。",
+                    "KO": "그는 노인들에게 친절합니다.",
+                    "TL": "Mabait siya sa matatanda.",
+                    "MY": "သူသည် အိုမင်းသူများကို ကြင်နာပါသည်။",
+                    "HI": "वह बुजुर्गों के प्रति दयालु हैं।",
+                    "AR": "هو لطيف مع المسنين.",
+                    "FA": "او با افراد مسن مهربان است."
+                }
+            },
+            {
+                "kanji": "年寄りがよく行く場所が公園です。",
+                "furigana": "年寄り(としより)がよく行(い)く場(ば)所(しょ)が公園(こうえん)です。",
+                "translations": {
+                    "EN": "Parks are a place that elderly people often go to.",
+                    "ID": "Taman adalah tempat yang sering dikunjungi oleh orang tua.",
+                    "ES": "Los parques son un lugar al que los ancianos acuden con frecuencia.",
+                    "VI": "Công viên là nơi người già thường đến.",
+                    "FR": "Les parcs sont des endroits où les personnes âgées vont souvent.",
+                    "NE": "उद्यानहरू बुढा व्यक्तिहरू जाने ठाउँ हो ।",
+                    "BN": "পার্কগুলি হল এমন একটি জায়গা যেখানে বয়স্ক ব্যক্তি প্রায়ই যান।",
+                    "ZH": "公园是老年人经常去的地方。",
+                    "KO": "공원은 노인들이 자주 가는 장소입니다.",
+                    "TL": "Ang mga parke ay lugar kung saan madalas pumunta ang matatanda.",
+                    "MY": "အများအားဖြင့် အသက်ကြီးအရွယ်ရှိသူများ လေ့လာသွားလာသောနေရာများမှာ ပန်းခြံဖြစ်ပါသည်။",
+                    "HI": "पार्क ऐसे स्थान हैं जहाँ बुज़ुर्ग लोग अक्सर जाते हैं।",
+                    "AR": "الحدائق هي أماكن يذهب إليها الأشخاص المسنون غالبًا.",
+                    "FA": "پارک‌ها مکانی هستند که افراد مسن اغلب به آنجا می‌روند."
+                }
+            },
+            {
+                "kanji": "年寄りの生活は大変です。",
+                "furigana": "年寄(としよ)りの生活(せいかつ)は大変(たいへん)です。",
+                "translations": {
+                    "EN": "The life of elderly people is hard.",
+                    "ID": "Kehidupan orang tua itu sulit.",
+                    "ES": "La vida de los ancianos es dura.",
+                    "VI": "Cuộc sống của người già thì khó khăn.",
+                    "FR": "La vie des personnes âgées est difficile.",
+                    "NE": "बृद्ध मान्छेको जीवन गाह्रो हुन्छ।",
+                    "BN": "বয়স্কদের জীবন কঠিন।",
+                    "ZH": "老年人的生活很艰难。",
+                    "KO": "노인의 생활은 어렵습니다.",
+                    "TL": "Mahirap ang buhay ng mga matatanda.",
+                    "MY": "စော‌တော်များ၏ ဘဝသည် ခက်ခဲသည်။",
+                    "HI": "बुजुर्ग लोगों का जीवन कठिन होता है।",
+                    "AR": "حياة كبار السن صعبة.",
+                    "FA": "زندگی افراد مسن دشوار است."
+                }
             }
-        }
+        ],
+        "synonyms": [
+            "高齢者 : こうれいしゃ : old person"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word としより are こうれいしゃ. While both words refer to elderly people, こうれいしゃ has a more formal tone, often used in official settings or documents.",
+        "antonyms": [
+            "若者 : わかもの : young person"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word としより are わかもの. While としより refers to elderly individuals, わかもの means young people, focusing on the younger generation.",
+        "kanji_details": [
+            {
+                "kanji": "年",
+                "common_words": [
+                    "年齢: age",
+                    "今年: this year"
+                ]
+            },
+            {
+                "kanji": "寄",
+                "common_words": [
+                    "寄付: contribution",
+                    "立ち寄る: to drop in"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "年寄り",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3",
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "年寄り",
+                "reading": "としより"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "old person",
+                    "elderly person",
+                    "senior citizen"
+                ],
+                "parts_of_speech": [
+                    "Noun, Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "senior statesman"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "important local official"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "年",
+        "寄"
     ],
-    "kanjis": [
-        {
-            "kanji": "年",
+    "kanji_data": {
+        "年": {
             "meanings": [
                 "counter for years",
                 "year"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ネン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "とし"
             ],
-            "strokes": 6,
+            "stroke_count": 6,
             "jlpt": 5,
-            "frequency": 6,
+            "freq_mainichi_shinbun": 6,
             "unicode": "5E74",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "年齢",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ねんれい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "age",
-                                "years"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "今年",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ことし",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "this year"
-                            ],
-                            "part_of_speech": "Noun, Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "寄",
+        "寄": {
             "meanings": [
                 "bring near",
                 "collect",
@@ -162,258 +278,25 @@
                 "send",
                 "stop in"
             ],
-            "onyomi": [
+            "on_readings": [
                 "キ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-よ.り",
                 "よ.せる",
                 "よ.る"
             ],
-            "strokes": 11,
+            "stroke_count": 11,
             "jlpt": 3,
-            "frequency": 673,
+            "freq_mainichi_shinbun": 673,
             "unicode": "5BC4",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "寄付",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "きふ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "contribution",
-                                "donation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "Kifu"
-                            ],
-                            "part_of_speech": "Place",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "立ち寄る",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たちよる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to drop in",
-                                "to drop by",
-                                "to call at",
-                                "to stop by",
-                                "to stop off",
-                                "to stop in"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         }
-    ],
-    "kanji_explanation": "The first kanji means year or age and it often points to time or how old something is. In words like ねんれい it gives the idea of someone’s age, and in ことし it marks a particular year, this year. The second kanji means to come near or to bring something closer and it carries a sense of approach or giving. In きふ it contributes the idea of giving or contributing, and in たちよる it keeps the sense of approaching a place or stopping by.",
-    "explanations": {
-        "explanation": "The word 年寄り (としより) means an old person or an elderly person. In Japanese, this term is used in a neutral way to refer to someone older or senior.",
-        "youtube_description": null,
-        "motivation": "The word we'll be learning in this section is としより, which you will often hear in everyday conversations when discussing age or talking about the elderly in various contexts.",
-        "collocations": [
-            "としよりのひとがすき",
-            "としよりにやさしくする",
-            "としよりがよくいくばしょ",
-            "としよりのせいかつ"
-        ],
-        "synonyms": [
-            "高齢者"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word としより are こうれいしゃ. While both words refer to elderly people, こうれいしゃ has a more formal tone, often used in official settings or documents.",
-        "antonyms": [
-            "若者"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word としより are わかもの. While としより refers to elderly individuals, わかもの means young people, focusing on the younger generation."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3",
-        "jlpt-n1"
-    ],
-    "examples": [
-        {
-            "kanji": "私の子供は年寄りの人が好きです。",
-            "furigana": "私(わたし)の子供(こども)は年寄(としよ)りの人(ひと)が好(す)きです。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "私の子供は年寄りの人が好きです。",
-                "English": "My child likes elderly people.",
-                "Persian": "فرزند من افراد مسن را دوست دارد.",
-                "Nepali": "मेरो बच्चालाई वृद्ध व्यक्तिहरू मनपर्छ।",
-                "Indonesian": "Anak saya suka orang tua.",
-                "Filipino": "Gusto ng anak ko ang mga matatanda.",
-                "Vietnamese": "Con tôi thích những người lớn tuổi.",
-                "Burmese": "ကျွန်ုပ်၏ကလေးသည် အရွယ်ရောက်သူများကို ကြွယ်ဝသည်။",
-                "Korean": "제 아이는 노인을 좋아합니다.",
-                "Hindi": "मेरे बच्चे को बुजुर्ग लोग पसंद हैं।",
-                "Arabic": "يحب طفلي الأشخاص المسنين.",
-                "French": "Mon enfant aime les personnes âgées.",
-                "Spanish": "A mi hijo le gustan las personas mayores.",
-                "Chinese": "我的孩子喜欢老年人。",
-                "Bengali": "আমার সন্তান বৃদ্ধ লোকদের পছন্দ করে।"
-            }
-        },
-        {
-            "kanji": "彼は年寄りに優しくします。",
-            "furigana": "彼(かれ)は年寄(としよ)りに優(やさ)しくします。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は年寄りに優しくします。",
-                "English": "He is kind to the elderly.",
-                "Persian": "او با افراد مسن مهربان است.",
-                "Nepali": "उनी वृद्धहरुलाई दयालु छन्।",
-                "Indonesian": "Dia baik kepada orang tua.",
-                "Filipino": "Mabait siya sa matatanda.",
-                "Vietnamese": "Anh ấy tử tế với người già.",
-                "Burmese": "သူသည် အိုမင်းသူများကို ကြင်နာပါသည်။",
-                "Korean": "그는 노인들에게 친절합니다.",
-                "Hindi": "वह बुजुर्गों के प्रति दयालु हैं।",
-                "Arabic": "هو لطيف مع المسنين.",
-                "French": "Il est gentil avec les personnes âgées.",
-                "Spanish": "Él es amable con los ancianos.",
-                "Chinese": "他对老人很友好。",
-                "Bengali": "তিনি বৃদ্ধদের প্রতি সদয়।"
-            }
-        },
-        {
-            "kanji": "年寄りがよく行く場所が公園です。",
-            "furigana": "年寄り(としより)がよく行(い)く場(ば)所(しょ)が公園(こうえん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "年寄りがよく行く場所が公園です。",
-                "English": "Parks are a place that elderly people often go to.",
-                "Persian": "پارک‌ها مکانی هستند که افراد مسن اغلب به آنجا می‌روند.",
-                "Nepali": "उद्यानहरू बुढा व्यक्तिहरू जाने ठाउँ हो ।",
-                "Indonesian": "Taman adalah tempat yang sering dikunjungi oleh orang tua.",
-                "Filipino": "Ang mga parke ay lugar kung saan madalas pumunta ang matatanda.",
-                "Vietnamese": "Công viên là nơi người già thường đến.",
-                "Burmese": "အများအားဖြင့် အသက်ကြီးအရွယ်ရှိသူများ လေ့လာသွားလာသောနေရာများမှာ ပန်းခြံဖြစ်ပါသည်။",
-                "Korean": "공원은 노인들이 자주 가는 장소입니다.",
-                "Hindi": "पार्क ऐसे स्थान हैं जहाँ बुज़ुर्ग लोग अक्सर जाते हैं।",
-                "Arabic": "الحدائق هي أماكن يذهب إليها الأشخاص المسنون غالبًا.",
-                "French": "Les parcs sont des endroits où les personnes âgées vont souvent.",
-                "Spanish": "Los parques son un lugar al que los ancianos acuden con frecuencia.",
-                "Chinese": "公园是老年人经常去的地方。",
-                "Bengali": "পার্কগুলি হল এমন একটি জায়গা যেখানে বয়স্ক ব্যক্তি প্রায়ই যান।"
-            }
-        },
-        {
-            "kanji": "年寄りの生活は大変です。",
-            "furigana": "年寄(としよ)りの生活(せいかつ)は大変(たいへん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "年寄りの生活は大変です。",
-                "English": "The life of elderly people is hard.",
-                "Persian": "زندگی افراد مسن دشوار است.",
-                "Nepali": "बृद्ध मान्छेको जीवन गाह्रो हुन्छ।",
-                "Indonesian": "Kehidupan orang tua itu sulit.",
-                "Filipino": "Mahirap ang buhay ng mga matatanda.",
-                "Vietnamese": "Cuộc sống của người già thì khó khăn.",
-                "Burmese": "စော‌တော်များ၏ ဘဝသည် ခက်ခဲသည်။",
-                "Korean": "노인의 생활은 어렵습니다.",
-                "Hindi": "बुजुर्ग लोगों का जीवन कठिन होता है।",
-                "Arabic": "حياة كبار السن صعبة.",
-                "French": "La vie des personnes âgées est difficile.",
-                "Spanish": "La vida de los ancianos es dura.",
-                "Chinese": "老年人的生活很艰难。",
-                "Bengali": "বয়স্কদের জীবন কঠিন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "高齢者",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "こうれいしゃ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "old person",
-                        "elderly person",
-                        "senior citizen"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "若者",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "わかもの",
-            "meanings": [
-                {
-                    "neuances": [
-                        "young person",
-                        "youngster",
-                        "young people",
-                        " youth"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "としよりのひとがすき",
+        "としよりにやさしくする",
+        "としよりがよくいくばしょ",
+        "としよりのせいかつ"
     ]
 }

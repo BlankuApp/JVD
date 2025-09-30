@@ -1,457 +1,224 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "石炭",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/RUw8YTMWTNE",
     "in_db": true,
-    "reading": "せきたん",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "石炭",
+        "reading": "せきたん",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is せきたん, which you will often hear in contexts related to energy production, industrial history, and environmental discussions.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word せきたん means \"coal\" in English. It's a type of black or brownish-black rock that is burned as a fuel. Historically, coal has been essential for producing heat and generating electricity.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "coal"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "石炭",
-                "English": "coal",
-                "Persian": "زغال‌سنگ",
-                "Nepali": "कोइला",
-                "Indonesian": "batu bara",
-                "Filipino": "uling",
-                "Vietnamese": "than đá",
-                "Burmese": "ကျောက်မီးသွေး",
-                "Korean": "석탄",
-                "Hindi": "कोयला",
-                "Arabic": "فحم",
-                "French": "charbon",
-                "Spanish": "carbón",
-                "Chinese": "煤炭",
-                "Bengali": "কয়লা"
+            ]
+        ],
+        "meaning_translations": {
+            "coal": {
+                "EN": "coal",
+                "ID": "batu bara",
+                "ES": "carbón",
+                "VI": "than đá",
+                "FR": "charbon",
+                "NE": "कोइला",
+                "BN": "কয়লা",
+                "ZH": "煤炭",
+                "KO": "석탄",
+                "TL": "uling",
+                "MY": "ကျောက်မီးသွေး",
+                "HI": "कोयला",
+                "AR": "فحم",
+                "FA": "زغال‌سنگ"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "石炭の火災は危険です。",
+                "furigana": "石炭(せきたん)の火災(かさい)は危険(きけん)です。",
+                "translations": {
+                    "EN": "Coal fires are dangerous.",
+                    "ID": "Kebakaran batu bara berbahaya.",
+                    "ES": "Los incendios de carbón son peligrosos.",
+                    "VI": "Các đám cháy than rất nguy hiểm.",
+                    "FR": "Les feux de charbon sont dangereux.",
+                    "NE": "कोइला आगलागी खतरनाक छ।",
+                    "BN": "কয়লার আগুন বিপদজনক।",
+                    "ZH": "煤火很危险。",
+                    "KO": "석탄 화재는 위험합니다.",
+                    "TL": "Ang mga sunog sa karbon ay mapanganib.",
+                    "MY": "မီးသွေးမီးလောင်ရင်အန္တရာယ်ဖြစ်တတ်ပါတယ်။",
+                    "HI": "कोयले की आग खतरनाक होती है।",
+                    "AR": "حرائق الفحم خطيرة.",
+                    "FA": "آتش‌سوزی‌های زغال‌سنگ خطرناک هستند."
+                }
+            },
+            {
+                "kanji": "彼は石炭を掘ります。",
+                "furigana": "彼(かれ)は石炭(せきたん)を掘(ほ)ります。",
+                "translations": {
+                    "EN": "He digs coal.",
+                    "ID": "Dia menggali batu bara.",
+                    "ES": "Él cava carbón.",
+                    "VI": "Anh ấy đào than đá.",
+                    "FR": "Il creuse du charbon.",
+                    "NE": "उहाँले कोइला खन्नुहुन्छ।",
+                    "BN": "সে কয়লা খনন করে।",
+                    "ZH": "他挖煤。",
+                    "KO": "그는 석탄을 캡니다.",
+                    "TL": "Naghukay siya ng karbon.",
+                    "MY": "သူက ကျောက်မီးသွေးကို တူးတယ်။",
+                    "HI": "वह कोयला खोदता है।",
+                    "AR": "هو ينقب عن الفحم.",
+                    "FA": "او زغال سنگ می‌کند."
+                }
+            },
+            {
+                "kanji": "私たちは石炭の代わりに木を使います。",
+                "furigana": "私(わたし)たちは石炭(せきたん)の代(かわ)りに木(き)を使(つか)います。",
+                "translations": {
+                    "EN": "We use wood instead of coal.",
+                    "ID": "Kami menggunakan kayu sebagai pengganti batu bara.",
+                    "ES": "Usamos madera en lugar de carbón.",
+                    "VI": "Chúng tôi sử dụng gỗ thay cho than.",
+                    "FR": "Nous utilisons du bois au lieu de charbon.",
+                    "NE": "हामी कोइला को सट्टामा काठ प्रयोग गर्छौं।",
+                    "BN": "আমরা কয়লার পরিবর্তে কাঠ ব্যবহার করি।",
+                    "ZH": "我们用木材代替煤炭。",
+                    "KO": "우리는 석탄 대신 나무를 사용합니다.",
+                    "TL": "Gumagamit kami ng kahoy sa halip na karbon.",
+                    "MY": "ကျနော်တို့ ဒီတော့ တစ်ကိုင်း ပြောင်း တယ် တယ် ဂဠုန် ကိုသည်။",
+                    "HI": "हम कोयले की जगह लकड़ी का उपयोग करते हैं।",
+                    "AR": "نستخدم الخشب بدلاً من الفحم.",
+                    "FA": "ما به جای زغال چوب استفاده می‌کنیم."
+                }
+            },
+            {
+                "kanji": "石炭の未来はどうなる？",
+                "furigana": "石炭(せきたん)の未来(みらい)はどうなる？",
+                "translations": {
+                    "EN": "What will be the future of coal?",
+                    "ID": "Apa yang akan terjadi dengan masa depan batu bara?",
+                    "ES": "¿Cuál será el futuro del carbón?",
+                    "VI": "Tương lai của than đá sẽ ra sao?",
+                    "FR": "Quel sera l'avenir du charbon ?",
+                    "NE": "कोइलाको भविष्य के हुन्छ?",
+                    "BN": "কয়লার ভবিষ্যত কী হবে?",
+                    "ZH": "煤炭的未来会怎样？",
+                    "KO": "석탄의 미래는 어떻게 될까요?",
+                    "TL": "Ano ang magiging kinabukasan ng karbon?",
+                    "MY": "လောင်ဖောက်မီးကျောက်၏ အနာဂတ်က ဘယ်လိုဖြစ်လာမလဲ?",
+                    "HI": "कोयले का भविष्य क्या होगा?",
+                    "AR": "ما هو مستقبل الفحم؟",
+                    "FA": "آینده زغال سنگ چگونه خواهد بود؟"
+                }
+            }
+        ],
+        "synonyms": [
+            "石油 : せきゆ : oil",
+            "瓦斯 : ガス : gas"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word せきたん are せきゆ and がす. せきゆ, meaning oil, is another major energy source, but unlike せきたん, it is liquid. がす, or gas, is often considered cleaner compared to the solid form of coal.",
+        "antonyms": [
+            "天然ガス : てんねんガス : natural gas"
+        ],
+        "antonyms_explanation": "The most common antonym of the word せきたん is てんねんがす. てんねんがす, or natural gas, offers a cleaner and more efficient alternative than coal, often valued for its lower carbon emissions.",
+        "kanji_details": [
+            {
+                "kanji": "石",
+                "common_words": [
+                    "石鹸: soap",
+                    "宝石: gem"
+                ]
+            },
+            {
+                "kanji": "炭",
+                "common_words": [
+                    "炭鉱: coal mine",
+                    "炭: charcoal"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "石炭",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "石炭",
+                "reading": "せきたん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "coal"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "石",
+        "炭"
     ],
-    "kanjis": [
-        {
-            "kanji": "石",
+    "kanji_data": {
+        "石": {
             "meanings": [
                 "stone"
             ],
-            "onyomi": [
+            "on_readings": [
                 "コク",
                 "シャク",
                 "セキ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "いし"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": 3,
-            "frequency": 342,
+            "freq_mainichi_shinbun": 342,
             "unicode": "77F3",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "石鹸",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "せっけん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "soap"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "宝石",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ほうせき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "gem",
-                                "jewel",
-                                "precious stone"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "炭",
+        "炭": {
             "meanings": [
                 "charcoal",
                 "coal"
             ],
-            "onyomi": [
+            "on_readings": [
                 "タン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "すみ"
             ],
-            "strokes": 9,
+            "stroke_count": 9,
             "jlpt": 2,
-            "frequency": 1307,
+            "freq_mainichi_shinbun": 1307,
             "unicode": "70AD",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "炭鉱",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たんこう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "coal mine",
-                                " pit",
-                                "colliery"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "coal-mine shaft"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "炭",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "すみ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "charcoal"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "charred remains"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means stone or rock and points to something hard and solid. In words like せっけん it originally suggested a mineral or hard substance in the sense of cleaning solids, and in ほうせき it gives the sense of a precious stone or jewel. The second kanji means charcoal or coal and relates to burned wood or carbon. In words like たんこう it names places where coal is extracted, and in すみ it directly names the charcoal used for fuel or drawing.",
-    "explanations": {
-        "explanation": "The word せきたん means \"coal\" in English. It's a type of black or brownish-black rock that is burned as a fuel. Historically, coal has been essential for producing heat and generating electricity.",
-        "youtube_description": "Dive into the world of せきたん! In this video, we'll uncover the different meanings, examine its role in history, and how you can use it in everyday conversation. Perfect for both beginners and advanced learners looking to expand their vocabulary. Remember to subscribe for more engaging Japanese lessons!",
-        "motivation": "The word we'll be learning in this section is せきたん, which you will often hear in contexts related to energy production, industrial history, and environmental discussions.",
-        "collocations": [
-            "せきたんのかさい",
-            "せきたんをほる",
-            "せきたんのかわり",
-            "せきたんのみらい"
-        ],
-        "synonyms": [
-            "石油",
-            "ガス"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word せきたん are せきゆ and がす. せきゆ, meaning oil, is another major energy source, but unlike せきたん, it is liquid. がす, or gas, is often considered cleaner compared to the solid form of coal.",
-        "antonyms": [
-            "天然ガス"
-        ],
-        "antonyms_explanation": "The most common antonym of the word せきたん is てんねんがす. てんねんがす, or natural gas, offers a cleaner and more efficient alternative than coal, often valued for its lower carbon emissions."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "石炭の火災は危険です。",
-            "furigana": "石炭(せきたん)の火災(かさい)は危険(きけん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "石炭の火災は危険です。",
-                "English": "Coal fires are dangerous.",
-                "Persian": "آتش‌سوزی‌های زغال‌سنگ خطرناک هستند.",
-                "Nepali": "कोइला आगलागी खतरनाक छ।",
-                "Indonesian": "Kebakaran batu bara berbahaya.",
-                "Filipino": "Ang mga sunog sa karbon ay mapanganib.",
-                "Vietnamese": "Các đám cháy than rất nguy hiểm.",
-                "Burmese": "မီးသွေးမီးလောင်ရင်အန္တရာယ်ဖြစ်တတ်ပါတယ်။",
-                "Korean": "석탄 화재는 위험합니다.",
-                "Hindi": "कोयले की आग खतरनाक होती है।",
-                "Arabic": "حرائق الفحم خطيرة.",
-                "French": "Les feux de charbon sont dangereux.",
-                "Spanish": "Los incendios de carbón son peligrosos.",
-                "Chinese": "煤火很危险。",
-                "Bengali": "কয়লার আগুন বিপদজনক।"
-            }
-        },
-        {
-            "kanji": "彼は石炭を掘ります。",
-            "furigana": "彼(かれ)は石炭(せきたん)を掘(ほ)ります。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は石炭を掘ります。",
-                "English": "He digs coal.",
-                "Persian": "او زغال سنگ می‌کند.",
-                "Nepali": "उहाँले कोइला खन्नुहुन्छ।",
-                "Indonesian": "Dia menggali batu bara.",
-                "Filipino": "Naghukay siya ng karbon.",
-                "Vietnamese": "Anh ấy đào than đá.",
-                "Burmese": "သူက ကျောက်မီးသွေးကို တူးတယ်။",
-                "Korean": "그는 석탄을 캡니다.",
-                "Hindi": "वह कोयला खोदता है।",
-                "Arabic": "هو ينقب عن الفحم.",
-                "French": "Il creuse du charbon.",
-                "Spanish": "Él cava carbón.",
-                "Chinese": "他挖煤。",
-                "Bengali": "সে কয়লা খনন করে।"
-            }
-        },
-        {
-            "kanji": "私たちは石炭の代わりに木を使います。",
-            "furigana": "私(わたし)たちは石炭(せきたん)の代(かわ)りに木(き)を使(つか)います。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私たちは石炭の代わりに木を使います。",
-                "English": "We use wood instead of coal.",
-                "Persian": "ما به جای زغال چوب استفاده می‌کنیم.",
-                "Nepali": "हामी कोइला को सट्टामा काठ प्रयोग गर्छौं।",
-                "Indonesian": "Kami menggunakan kayu sebagai pengganti batu bara.",
-                "Filipino": "Gumagamit kami ng kahoy sa halip na karbon.",
-                "Vietnamese": "Chúng tôi sử dụng gỗ thay cho than.",
-                "Burmese": "ကျနော်တို့ ဒီတော့ တစ်ကိုင်း ပြောင်း တယ် တယ် ဂဠုန် ကိုသည်။",
-                "Korean": "우리는 석탄 대신 나무를 사용합니다.",
-                "Hindi": "हम कोयले की जगह लकड़ी का उपयोग करते हैं।",
-                "Arabic": "نستخدم الخشب بدلاً من الفحم.",
-                "French": "Nous utilisons du bois au lieu de charbon.",
-                "Spanish": "Usamos madera en lugar de carbón.",
-                "Chinese": "我们用木材代替煤炭。",
-                "Bengali": "আমরা কয়লার পরিবর্তে কাঠ ব্যবহার করি।"
-            }
-        },
-        {
-            "kanji": "石炭の未来はどうなる？",
-            "furigana": "石炭(せきたん)の未来(みらい)はどうなる？",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "石炭の未来はどうなる？",
-                "English": "What will be the future of coal?",
-                "Persian": "آینده زغال سنگ چگونه خواهد بود؟",
-                "Nepali": "कोइलाको भविष्य के हुन्छ?",
-                "Indonesian": "Apa yang akan terjadi dengan masa depan batu bara?",
-                "Filipino": "Ano ang magiging kinabukasan ng karbon?",
-                "Vietnamese": "Tương lai của than đá sẽ ra sao?",
-                "Burmese": "လောင်ဖောက်မီးကျောက်၏ အနာဂတ်က ဘယ်လိုဖြစ်လာမလဲ?",
-                "Korean": "석탄의 미래는 어떻게 될까요?",
-                "Hindi": "कोयले का भविष्य क्या होगा?",
-                "Arabic": "ما هو مستقبل الفحم؟",
-                "French": "Quel sera l'avenir du charbon ?",
-                "Spanish": "¿Cuál será el futuro del carbón?",
-                "Chinese": "煤炭的未来会怎样？",
-                "Bengali": "কয়লার ভবিষ্যত কী হবে?"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "石油",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "せきゆ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "oil",
-                        "petroleum"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "kerosene",
-                        "paraffin"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "瓦斯",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ガス",
-            "meanings": [
-                {
-                    "neuances": [
-                        "gas"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "gas"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "poison gas"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "dense fog",
-                        "thick fog"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "gas stove",
-                        "gas cooker",
-                        "gas range"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "gasoline",
-                        "gas",
-                        "petrol"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "flatulence",
-                        "gas",
-                        "wind",
-                        "fart"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "gassed yarn"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "天然ガス",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "てんねんガス",
-            "meanings": [
-                {
-                    "neuances": [
-                        "natural gas"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "せきたんのかさい",
+        "せきたんをほる",
+        "せきたんのかわり",
+        "せきたんのみらい"
     ]
 }

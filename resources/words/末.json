@@ -1,206 +1,434 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "末",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/73u1aP8VdTg",
     "in_db": true,
-    "reading": "すえ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "末",
+        "reading": "すえ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is すえ which you will often hear in various contexts, including planning events, discussing future goals, or reflecting on past achievements.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"すえ\" means the end or the final part of something. It can refer to the conclusion of a period of time, like a month or year, or the last in a series of events or activities. It could also mean the future, especially the distant future, and sometimes is used in expressions hinting at one's descendants or what follows after.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "end",
                 "tip",
                 "top"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "末 : 終わり",
-                "English": "The end",
-                "Persian": "پایان",
-                "Nepali": "अन्त्य",
-                "Indonesian": "Akhir",
-                "Filipino": "Ang wakas",
-                "Vietnamese": "Kết thúc",
-                "Burmese": "အဆုံး",
-                "Korean": "끝",
-                "Hindi": "अंत",
-                "Arabic": "النهاية",
-                "French": "La fin",
-                "Spanish": "El final",
-                "Chinese": "结束",
-                "Bengali": "অন্ত"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "end",
                 "close"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "末日です",
-                "English": "It is the end day",
-                "Persian": "روز پایان است",
-                "Nepali": "यो अन्तिम दिन हो",
-                "Indonesian": "Ini adalah hari terakhir",
-                "Filipino": "Ito ay ang huling araw",
-                "Vietnamese": "Đây là ngày cuối",
-                "Burmese": "ပြီးဆုံးဖြတ်မည့်ရက်ဖြစ်သည်",
-                "Korean": "마지막 날입니다",
-                "Hindi": "यह अंत दिन है",
-                "Arabic": "إنه اليوم الأخير",
-                "French": "C'est le dernier jour",
-                "Spanish": "Es el último día",
-                "Chinese": "这是最后一天",
-                "Bengali": "এটি শেষ দিন"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "youngest child"
             ],
-            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-            "translation": {
-                "Japanese": "末っ子",
-                "English": "youngest child",
-                "Persian": "فرزند کوچکتر",
-                "Nepali": "कनिष्ठ बच्चा",
-                "Indonesian": "anak bungsu",
-                "Filipino": "bunso",
-                "Vietnamese": "con út",
-                "Burmese": "အငယ်ဆုံးကလေး",
-                "Korean": "막내",
-                "Hindi": "सबसे छोटा बच्चा",
-                "Arabic": "الطفل الأصغر",
-                "French": "le plus jeune enfant",
-                "Spanish": "el hijo menor",
-                "Chinese": "最小的孩子",
-                "Bengali": "কনিষ্ঠ সন্তান"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "descendants",
                 "offspring",
                 "posterity"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "末 : 子孫",
-                "English": "End : Descendants",
-                "Persian": "پایان : نسل‌ها",
-                "Nepali": "अन्त्य : सन्तानहरू",
-                "Indonesian": "Akhir : Keturunan",
-                "Filipino": "Wakas : Mga Inapo",
-                "Vietnamese": "Cuối: Con cháu",
-                "Burmese": "အဆုံးထိ-၂ : သူဌေးများ",
-                "Korean": "말 : 자손들",
-                "Hindi": "अंत : वंशज",
-                "Arabic": "نهاية : أحفاد",
-                "French": "Fin : Descendants",
-                "Spanish": "Final : Descendientes",
-                "Chinese": "末：后代",
-                "Bengali": "শেষ : বংশধররা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "future"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "未来",
-                "English": "future",
-                "Persian": "آینده",
-                "Nepali": "भविष्य",
-                "Indonesian": "masa depan",
-                "Filipino": "hinaharap",
-                "Vietnamese": "tương lai",
-                "Burmese": "အနာဂတ်",
-                "Korean": "미래",
-                "Hindi": "भविष्य",
-                "Arabic": "مستقبل",
-                "French": "avenir",
-                "Spanish": "futuro",
-                "Chinese": "未来",
-                "Bengali": "ভবিষ্যৎ"
-            }
-        },
-        {
-            "neuances": [
+            [
                 " after",
                 " after",
                 "at the end of"
             ],
-            "part_of_speech": "Adverb (fukushi), Noun",
-            "translation": {
-                "Japanese": "末 : 後",
-                "English": "End: after",
-                "Persian": "پایان: بعد",
-                "Nepali": "समाप्ति : पछि",
-                "Indonesian": "Akhir: setelah",
-                "Filipino": "Katapusan : matapos",
-                "Vietnamese": "Cuối : sau",
-                "Burmese": "အဆုံး: နောက်ပိုင်း",
-                "Korean": "종료: 후",
-                "Hindi": "अंत : बाद",
-                "Arabic": "النهاية : بعد",
-                "French": "Fin : après",
-                "Spanish": "Fin : después",
-                "Chinese": "末 : 之后",
-                "Bengali": "শেষ : পরে"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "trifles",
                 "trivialities"
             ],
-            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-            "translation": {
-                "Japanese": "些細なこと",
-                "English": "trifles",
-                "Persian": "چیزهای بی‌اهمیت",
-                "Nepali": "सानातिना कुरा",
-                "Indonesian": "hal-hal sepele",
-                "Filipino": "mga bagay na walang halaga",
-                "Vietnamese": "chuyện vặt",
-                "Burmese": "အသေးစားကိစ္စများ",
-                "Korean": "사소한 것",
-                "Hindi": "छोटी-छोटी बातें",
-                "Arabic": "تفاهات",
-                "French": "bricoles",
-                "Spanish": "bagatelas",
-                "Chinese": "琐事",
-                "Bengali": "তুচ্ছ বিষয়"
+            [
+                "degenerate age"
+            ]
+        ],
+        "meaning_translations": {
+            "end": {
+                "EN": "It is the end day",
+                "ID": "Ini adalah hari terakhir",
+                "ES": "Es el último día",
+                "VI": "Đây là ngày cuối",
+                "FR": "C'est le dernier jour",
+                "NE": "यो अन्तिम दिन हो",
+                "BN": "এটি শেষ দিন",
+                "ZH": "这是最后一天",
+                "KO": "마지막 날입니다",
+                "TL": "Ito ay ang huling araw",
+                "MY": "ပြီးဆုံးဖြတ်မည့်ရက်ဖြစ်သည်",
+                "HI": "यह अंत दिन है",
+                "AR": "إنه اليوم الأخير",
+                "FA": "روز پایان است"
+            },
+            "youngest child": {
+                "EN": "youngest child",
+                "ID": "anak bungsu",
+                "ES": "el hijo menor",
+                "VI": "con út",
+                "FR": "le plus jeune enfant",
+                "NE": "कनिष्ठ बच्चा",
+                "BN": "কনিষ্ঠ সন্তান",
+                "ZH": "最小的孩子",
+                "KO": "막내",
+                "TL": "bunso",
+                "MY": "အငယ်ဆုံးကလေး",
+                "HI": "सबसे छोटा बच्चा",
+                "AR": "الطفل الأصغر",
+                "FA": "فرزند کوچکتر"
+            },
+            "descendants": {
+                "EN": "End : Descendants",
+                "ID": "Akhir : Keturunan",
+                "ES": "Final : Descendientes",
+                "VI": "Cuối: Con cháu",
+                "FR": "Fin : Descendants",
+                "NE": "अन्त्य : सन्तानहरू",
+                "BN": "শেষ : বংশধররা",
+                "ZH": "末：后代",
+                "KO": "말 : 자손들",
+                "TL": "Wakas : Mga Inapo",
+                "MY": "အဆုံးထိ-၂ : သူဌေးများ",
+                "HI": "अंत : वंशज",
+                "AR": "نهاية : أحفاد",
+                "FA": "پایان : نسل‌ها"
+            },
+            "future": {
+                "EN": "future",
+                "ID": "masa depan",
+                "ES": "futuro",
+                "VI": "tương lai",
+                "FR": "avenir",
+                "NE": "भविष्य",
+                "BN": "ভবিষ্যৎ",
+                "ZH": "未来",
+                "KO": "미래",
+                "TL": "hinaharap",
+                "MY": "အနာဂတ်",
+                "HI": "भविष्य",
+                "AR": "مستقبل",
+                "FA": "آینده"
+            },
+            " after": {
+                "EN": "End: after",
+                "ID": "Akhir: setelah",
+                "ES": "Fin : después",
+                "VI": "Cuối : sau",
+                "FR": "Fin : après",
+                "NE": "समाप्ति : पछि",
+                "BN": "শেষ : পরে",
+                "ZH": "末 : 之后",
+                "KO": "종료: 후",
+                "TL": "Katapusan : matapos",
+                "MY": "အဆုံး: နောက်ပိုင်း",
+                "HI": "अंत : बाद",
+                "AR": "النهاية : بعد",
+                "FA": "پایان: بعد"
+            },
+            "trifles": {
+                "EN": "trifles",
+                "ID": "hal-hal sepele",
+                "ES": "bagatelas",
+                "VI": "chuyện vặt",
+                "FR": "bricoles",
+                "NE": "सानातिना कुरा",
+                "BN": "তুচ্ছ বিষয়",
+                "ZH": "琐事",
+                "KO": "사소한 것",
+                "TL": "mga bagay na walang halaga",
+                "MY": "အသေးစားကိစ္စများ",
+                "HI": "छोटी-छोटी बातें",
+                "AR": "تفاهات",
+                "FA": "چیزهای بی‌اهمیت"
+            },
+            "degenerate age": {
+                "EN": "時代の退廃",
+                "ID": "era degenerasi",
+                "ES": "edad degenerada",
+                "VI": "thời đại suy thoái",
+                "FR": "âge dégénéré",
+                "NE": "विकृत युग",
+                "BN": "ক্ষয়িষ্ণু যুগ",
+                "ZH": "衰退的时代",
+                "KO": "퇴폐의 시대",
+                "TL": "nagiging masama na panahon",
+                "MY": "ခြေရာလွှဲမည့်ခေတ် ",
+                "HI": "पतित युग",
+                "AR": "عصر التدهور",
+                "FA": "عصر رو به انحطاط"
             }
         },
-        {
-            "neuances": [
-                "degenerate age"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "degenerate age",
-                "English": "時代の退廃",
-                "Persian": "عصر رو به انحطاط",
-                "Nepali": "विकृत युग",
-                "Indonesian": "era degenerasi",
-                "Filipino": "nagiging masama na panahon",
-                "Vietnamese": "thời đại suy thoái",
-                "Burmese": "ခြေရာလွှဲမည့်ခေတ် ",
-                "Korean": "퇴폐의 시대",
-                "Hindi": "पतित युग",
-                "Arabic": "عصر التدهور",
-                "French": "âge dégénéré",
-                "Spanish": "edad degenerada",
-                "Chinese": "衰退的时代",
-                "Bengali": "ক্ষয়িষ্ণু যুগ"
+        "examples": [
+            {
+                "kanji": "私は月の末に旅行に行きます。",
+                "furigana": "私は(わたしは)月(つき)の末(すえ)に旅行(りょこう)に行(い)きます。",
+                "translations": {
+                    "EN": "I will go on a trip at the end of the month.",
+                    "ID": "Saya akan pergi berwisata di akhir bulan.",
+                    "ES": "Voy a ir de viaje a finales de mes.",
+                    "VI": "Tôi sẽ đi du lịch vào cuối tháng.",
+                    "FR": "Je vais partir en voyage à la fin du mois.",
+                    "NE": "म महिनाको अन्त्यमा यात्रामा जान्छु।",
+                    "BN": "আমি মাসের শেষে ভ্রমণে যাব।",
+                    "ZH": "我将在月底去旅行。",
+                    "KO": "나는 월말에 여행을 갈 것이다.",
+                    "TL": "Pupunta ako sa isang paglalakbay sa katapusan ng buwan.",
+                    "MY": "လဆန္းအကုန္က်ရင္ ခရီးထြက္မယ္။",
+                    "HI": "मैं महीने के अंत में यात्रा पर जाऊँगा।",
+                    "AR": "سأذهب في رحلة في نهاية الشهر.",
+                    "FA": "در پایان ماه به سفر می‌روم."
+                }
+            },
+            {
+                "kanji": "今年の末、新しい家に引っ越します。",
+                "furigana": "今年(ことし)の末(すえ)、新(あたら)しい家(いえ)に引っ越(ひっこ)します。",
+                "translations": {
+                    "EN": "At the end of this year, I will move to a new house.",
+                    "ID": "Pada akhir tahun ini, saya akan pindah ke rumah baru.",
+                    "ES": "A finales de este año, me mudaré a una nueva casa.",
+                    "VI": "Cuối năm nay, tôi sẽ chuyển sang nhà mới.",
+                    "FR": "À la fin de cette année, je déménagerai dans une nouvelle maison.",
+                    "NE": "यो वर्षको अन्त्यमा, म नयाँ घरमा सर्छु।",
+                    "BN": "এই বছরের শেষে, আমি একটি নতুন বাড়িতে যাব।",
+                    "ZH": "在今年年底，我将搬到新家。",
+                    "KO": "올해 말, 새로운 집으로 이사합니다.",
+                    "TL": "Sa pagtatapos ng taon na ito, lilipat ako sa bagong bahay.",
+                    "MY": "ဒီသွားါးဆုံးမှာ၊ အိမ်အသစ်ကို ပြေးလှိုင်းမှာဖြစ်ပါတယ်။",
+                    "HI": "इस साल के अंत में, मैं नए घर में स्थानांतरित करूँगा।",
+                    "AR": "في نهاية هذا العام، سأنتقل إلى منزل جديد.",
+                    "FA": "در پایان امسال، به خانه جدیدی نقل مکان خواهم کرد."
+                }
+            },
+            {
+                "kanji": "未来の末に幸せがある。",
+                "furigana": "未来(みらい)の末(すえ)に幸せ(しあわせ)がある。",
+                "translations": {
+                    "EN": "There is happiness at the end of the future.",
+                    "ID": "Ada kebahagiaan di akhir masa depan.",
+                    "ES": "Hay felicidad al final del futuro.",
+                    "VI": "Có hạnh phúc ở cuối của tương lai.",
+                    "FR": "Il y a du bonheur à la fin de l'avenir.",
+                    "NE": "भविष्यको अन्त्यमा खुशी छ।",
+                    "BN": "ভবিষ্যতের শেষে সুখ রয়েছে।",
+                    "ZH": "在未来的末端有幸福。",
+                    "KO": "미래의 끝에 행복이 있다.",
+                    "TL": "May kaligayahan sa dulo ng hinaharap.",
+                    "MY": "အနာဂတ်၏ အဆုံးတွင် ကျေနပ်မှုရှိသည်။",
+                    "HI": "भविष्य के अंत में खुशी है।",
+                    "AR": "هناك سعادة في نهاية المستقبل.",
+                    "FA": "در پایان آینده شادی وجود دارد."
+                }
+            },
+            {
+                "kanji": "彼は努力の末、合格しました。",
+                "furigana": "彼(かれ) は 努力(どりょく)の 末(すえ)、 合格(ごうかく)しました。",
+                "translations": {
+                    "EN": "After much effort, he passed.",
+                    "ID": "Setelah banyak usaha, dia lulus.",
+                    "ES": "Después de mucho esfuerzo, aprobó.",
+                    "VI": "Sau nhiều nỗ lực, anh ta đã đỗ.",
+                    "FR": "Après de nombreux efforts, il a réussi.",
+                    "NE": "धेरै प्रयासपछि, उनले उत्तिर्ण।",
+                    "BN": "অক্লান্ত পরিশ্রমের পর, সে উত্তীর্ণ হলো।",
+                    "ZH": "经过努力，他通过了。",
+                    "KO": "많은 노력 끝에, 그는 합격했습니다.",
+                    "TL": "Matapos ang maraming pagsisikap, nakapasa siya.",
+                    "MY": "ကြိုးစားအားထုတ်မှုများပြီးသည့်နောက်၊ သူအောင်မြင်ခဲ့သည်။",
+                    "HI": "कड़ी मेहनत के बाद, वह पास हो गया। ",
+                    "AR": "بعد جهد كبير، اجتاز الاختبار.",
+                    "FA": "او پس از تلاش زیاد، قبول شد "
+                }
+            },
+            {
+                "kanji": "彼は長い努力の末に成功しました。",
+                "furigana": "彼(かれ)は長(なが)い努力(どりょく)の末(すえ)に成功(せいこう)しました。",
+                "translations": {
+                    "EN": "After much effort, he succeeded.",
+                    "ID": "Setelah banyak usaha, dia berhasil.",
+                    "ES": "Después de mucho esfuerzo, él tuvo éxito.",
+                    "VI": "Sau nhiều cố gắng, anh ấy đã thành công.",
+                    "FR": "Après beaucoup d'efforts, il a réussi.",
+                    "NE": "धेरै प्रयास पछि, उनी सफल भए।",
+                    "BN": "দীর্ঘ প্রচেষ্টার পর, তিনি সফল হলেন।",
+                    "ZH": "在长时间的努力之后，他成功了。",
+                    "KO": "긴 노력 끝에 그는 성공했습니다.",
+                    "TL": "Pagkatapos ng maraming pagsisikap, nagtagumpay siya.",
+                    "MY": "ကြိုးစားမှုများ အပြီးတွင် သူသည် အောင်မြင်သည်။",
+                    "HI": "कड़ी मेहनत के बाद, वह सफल हुआ।",
+                    "AR": "بعد جهد طويل، حقق النجاح.",
+                    "FA": "پس از تلاش زیاد، موفق شد."
+                }
             }
-        }
+        ],
+        "synonyms": [
+            "終わり : おわり : end"
+        ],
+        "synonyms_explanation": "The most common synonym of the \"すえ\" is \"終わり.\" While \"すえ\" often implies a time when something concluded or the future outlook, \"終わり\" more directly means an ending or termination. \"終わり\" may not convey the future aspect as \"すえ\" might in certain contexts.",
+        "antonyms": [
+            "始まり : はじまり : origin"
+        ],
+        "antonyms_explanation": "The most common antonym of the \"すえ\" is \"始まり,\" meaning a beginning or start. While \"すえ\" refers to the end or conclusion, \"始まり\" is about the commencement or opening of something, marking their differences in temporal context.",
+        "kanji_details": [
+            {
+                "kanji": "末",
+                "common_words": [
+                    "週末: weekend",
+                    "年末: end-of-year"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "末",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "末",
+                "reading": "すえ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "end",
+                    "tip",
+                    "top"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "end",
+                    "close"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "youngest child"
+                ],
+                "parts_of_speech": [
+                    "Noun, Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "descendants",
+                    "offspring",
+                    "posterity"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "future"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    " after",
+                    " after",
+                    "at the end of"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "trifles",
+                    "trivialities"
+                ],
+                "parts_of_speech": [
+                    "Noun, Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "degenerate age"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "末"
     ],
-    "kanjis": [
-        {
-            "kanji": "末",
+    "kanji_data": {
+        "末": {
             "meanings": [
                 "close",
                 "end",
@@ -208,277 +436,27 @@
                 "powder",
                 "tip"
             ],
-            "onyomi": [
+            "on_readings": [
                 "バツ",
                 "マツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "うら",
                 "うれ",
                 "すえ"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": 3,
-            "frequency": 456,
+            "freq_mainichi_shinbun": 456,
             "unicode": "672B",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "週末",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅうまつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "weekend"
-                            ],
-                            "part_of_speech": "Adverb (fukushi), Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "年末",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ねんまつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "end-of-year",
-                                "year-end"
-                            ],
-                            "part_of_speech": "Noun, Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means end or tip and often marks the final part of something. In the word しゅうまつ it tells you the last part of the week, giving the idea of the weekend. In the word ねんまつ it marks the ending of the year, so it means the year-end period.",
-    "explanations": {
-        "explanation": "The word \"すえ\" means the end or the final part of something. It can refer to the conclusion of a period of time, like a month or year, or the last in a series of events or activities. It could also mean the future, especially the distant future, and sometimes is used in expressions hinting at one's descendants or what follows after.",
-        "youtube_description": "Learn how to use the Japanese word 末 (すえ) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. \nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is すえ which you will often hear in various contexts, including planning events, discussing future goals, or reflecting on past achievements.",
-        "collocations": [
-            "月のすえ",
-            "年のすえ",
-            "未来のすえ",
-            "努力のすえ",
-            "すえに"
-        ],
-        "synonyms": [
-            "終わり"
-        ],
-        "synonyms_explanation": "The most common synonym of the \"すえ\" is \"終わり.\" While \"すえ\" often implies a time when something concluded or the future outlook, \"終わり\" more directly means an ending or termination. \"終わり\" may not convey the future aspect as \"すえ\" might in certain contexts.",
-        "antonyms": [
-            "始まり"
-        ],
-        "antonyms_explanation": "The most common antonym of the \"すえ\" is \"始まり,\" meaning a beginning or start. While \"すえ\" refers to the end or conclusion, \"始まり\" is about the commencement or opening of something, marking their differences in temporal context."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "私は月の末に旅行に行きます。",
-            "furigana": "私は(わたしは)月(つき)の末(すえ)に旅行(りょこう)に行(い)きます。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "私は月の末に旅行に行きます。",
-                "English": "I will go on a trip at the end of the month.",
-                "Persian": "در پایان ماه به سفر می‌روم.",
-                "Nepali": "म महिनाको अन्त्यमा यात्रामा जान्छु।",
-                "Indonesian": "Saya akan pergi berwisata di akhir bulan.",
-                "Filipino": "Pupunta ako sa isang paglalakbay sa katapusan ng buwan.",
-                "Vietnamese": "Tôi sẽ đi du lịch vào cuối tháng.",
-                "Burmese": "လဆန္းအကုန္က်ရင္ ခရီးထြက္မယ္။",
-                "Korean": "나는 월말에 여행을 갈 것이다.",
-                "Hindi": "मैं महीने के अंत में यात्रा पर जाऊँगा।",
-                "Arabic": "سأذهب في رحلة في نهاية الشهر.",
-                "French": "Je vais partir en voyage à la fin du mois.",
-                "Spanish": "Voy a ir de viaje a finales de mes.",
-                "Chinese": "我将在月底去旅行。",
-                "Bengali": "আমি মাসের শেষে ভ্রমণে যাব।"
-            }
-        },
-        {
-            "kanji": "今年の末、新しい家に引っ越します。",
-            "furigana": "今年(ことし)の末(すえ)、新(あたら)しい家(いえ)に引っ越(ひっこ)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "今年の末、新しい家に引っ越します。",
-                "English": "At the end of this year, I will move to a new house.",
-                "Persian": "در پایان امسال، به خانه جدیدی نقل مکان خواهم کرد.",
-                "Nepali": "यो वर्षको अन्त्यमा, म नयाँ घरमा सर्छु।",
-                "Indonesian": "Pada akhir tahun ini, saya akan pindah ke rumah baru.",
-                "Filipino": "Sa pagtatapos ng taon na ito, lilipat ako sa bagong bahay.",
-                "Vietnamese": "Cuối năm nay, tôi sẽ chuyển sang nhà mới.",
-                "Burmese": "ဒီသွားါးဆုံးမှာ၊ အိမ်အသစ်ကို ပြေးလှိုင်းမှာဖြစ်ပါတယ်။",
-                "Korean": "올해 말, 새로운 집으로 이사합니다.",
-                "Hindi": "इस साल के अंत में, मैं नए घर में स्थानांतरित करूँगा।",
-                "Arabic": "في نهاية هذا العام، سأنتقل إلى منزل جديد.",
-                "French": "À la fin de cette année, je déménagerai dans une nouvelle maison.",
-                "Spanish": "A finales de este año, me mudaré a una nueva casa.",
-                "Chinese": "在今年年底，我将搬到新家。",
-                "Bengali": "এই বছরের শেষে, আমি একটি নতুন বাড়িতে যাব।"
-            }
-        },
-        {
-            "kanji": "未来の末に幸せがある。",
-            "furigana": "未来(みらい)の末(すえ)に幸せ(しあわせ)がある。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "未来の末に幸せがある。",
-                "English": "There is happiness at the end of the future.",
-                "Persian": "در پایان آینده شادی وجود دارد.",
-                "Nepali": "भविष्यको अन्त्यमा खुशी छ।",
-                "Indonesian": "Ada kebahagiaan di akhir masa depan.",
-                "Filipino": "May kaligayahan sa dulo ng hinaharap.",
-                "Vietnamese": "Có hạnh phúc ở cuối của tương lai.",
-                "Burmese": "အနာဂတ်၏ အဆုံးတွင် ကျေနပ်မှုရှိသည်။",
-                "Korean": "미래의 끝에 행복이 있다.",
-                "Hindi": "भविष्य के अंत में खुशी है।",
-                "Arabic": "هناك سعادة في نهاية المستقبل.",
-                "French": "Il y a du bonheur à la fin de l'avenir.",
-                "Spanish": "Hay felicidad al final del futuro.",
-                "Chinese": "在未来的末端有幸福。",
-                "Bengali": "ভবিষ্যতের শেষে সুখ রয়েছে।"
-            }
-        },
-        {
-            "kanji": "彼は努力の末、合格しました。",
-            "furigana": "彼(かれ) は 努力(どりょく)の 末(すえ)、 合格(ごうかく)しました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は努力の末、合格しました。",
-                "English": "After much effort, he passed.",
-                "Persian": "او پس از تلاش زیاد، قبول شد ",
-                "Nepali": "धेरै प्रयासपछि, उनले उत्तिर्ण।",
-                "Indonesian": "Setelah banyak usaha, dia lulus.",
-                "Filipino": "Matapos ang maraming pagsisikap, nakapasa siya.",
-                "Vietnamese": "Sau nhiều nỗ lực, anh ta đã đỗ.",
-                "Burmese": "ကြိုးစားအားထုတ်မှုများပြီးသည့်နောက်၊ သူအောင်မြင်ခဲ့သည်။",
-                "Korean": "많은 노력 끝에, 그는 합격했습니다.",
-                "Hindi": "कड़ी मेहनत के बाद, वह पास हो गया। ",
-                "Arabic": "بعد جهد كبير، اجتاز الاختبار.",
-                "French": "Après de nombreux efforts, il a réussi.",
-                "Spanish": "Después de mucho esfuerzo, aprobó.",
-                "Chinese": "经过努力，他通过了。",
-                "Bengali": "অক্লান্ত পরিশ্রমের পর, সে উত্তীর্ণ হলো।"
-            }
-        },
-        {
-            "kanji": "彼は長い努力の末に成功しました。",
-            "furigana": "彼(かれ)は長(なが)い努力(どりょく)の末(すえ)に成功(せいこう)しました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は長い努力の末に成功しました。",
-                "English": "After much effort, he succeeded.",
-                "Persian": "پس از تلاش زیاد، موفق شد.",
-                "Nepali": "धेरै प्रयास पछि, उनी सफल भए।",
-                "Indonesian": "Setelah banyak usaha, dia berhasil.",
-                "Filipino": "Pagkatapos ng maraming pagsisikap, nagtagumpay siya.",
-                "Vietnamese": "Sau nhiều cố gắng, anh ấy đã thành công.",
-                "Burmese": "ကြိုးစားမှုများ အပြီးတွင် သူသည် အောင်မြင်သည်။",
-                "Korean": "긴 노력 끝에 그는 성공했습니다.",
-                "Hindi": "कड़ी मेहनत के बाद, वह सफल हुआ।",
-                "Arabic": "بعد جهد طويل، حقق النجاح.",
-                "French": "Après beaucoup d'efforts, il a réussi.",
-                "Spanish": "Después de mucho esfuerzo, él tuvo éxito.",
-                "Chinese": "在长时间的努力之后，他成功了。",
-                "Bengali": "দীর্ঘ প্রচেষ্টার পর, তিনি সফল হলেন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "終わり",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "おわり",
-            "meanings": [
-                {
-                    "neuances": [
-                        "end",
-                        "ending",
-                        "close",
-                        "conclusion"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "end of life",
-                        "death"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "始まり",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "はじまり",
-            "meanings": [
-                {
-                    "neuances": [
-                        "origin",
-                        "beginning",
-                        "start"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "月のすえ",
+        "年のすえ",
+        "未来のすえ",
+        "努力のすえ",
+        "すえに"
     ]
 }

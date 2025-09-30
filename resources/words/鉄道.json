@@ -1,115 +1,224 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "鉄道",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/HmCNiGxPLxQ",
     "in_db": true,
-    "reading": "てつどう",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "鉄道",
+        "reading": "てつどう",
+        "introduction_japanese": "",
+        "introduction_english": "Let's dive into the fascinating world of てつどう, a term you'll frequently encounter when discussing travel or city planning in Japan. It's a key word to know if you're navigating public transportation!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word てつどう means \"railway\" in English. It refers to a system of tracks along which trains run, used for transporting passengers and goods over long distances.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "railroad",
                 "railway",
                 "rail transport"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "鉄道",
-                "English": "railroad",
-                "Persian": "راه‌آهن",
-                "Nepali": "रेल्वे",
-                "Indonesian": "kereta api",
-                "Filipino": "daang-bakal",
-                "Vietnamese": "đường sắt",
-                "Burmese": "ရထားလမ်း",
-                "Korean": "철도",
-                "Hindi": "रेलवे",
-                "Arabic": "سكة حديد",
-                "French": "chemin de fer",
-                "Spanish": "ferrocarril",
-                "Chinese": "铁路",
-                "Bengali": "রেলপথ"
+            ]
+        ],
+        "meaning_translations": {
+            "railroad": {
+                "EN": "railroad",
+                "ID": "kereta api",
+                "ES": "ferrocarril",
+                "VI": "đường sắt",
+                "FR": "chemin de fer",
+                "NE": "रेल्वे",
+                "BN": "রেলপথ",
+                "ZH": "铁路",
+                "KO": "철도",
+                "TL": "daang-bakal",
+                "MY": "ရထားလမ်း",
+                "HI": "रेलवे",
+                "AR": "سكة حديد",
+                "FA": "راه‌آهن"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "鉄道の駅に行きます。",
+                "furigana": "鉄道(てつどう)の駅(えき)に行き(いき)ます。",
+                "translations": {
+                    "EN": "I am going to the train station.",
+                    "ID": "Saya pergi ke stasiun kereta.",
+                    "ES": "Voy a la estación de tren.",
+                    "VI": "Tôi đang đi đến ga tàu.",
+                    "FR": "Je vais à la gare.",
+                    "NE": "म रेल्वे स्टेशन जाँदैछु।",
+                    "BN": "আমি রেলওয়ে স্টেশনে যাচ্ছি।",
+                    "ZH": "我去火车站。",
+                    "KO": "저는 기차역에 갑니다.",
+                    "TL": "Pupunta ako sa estasyon ng tren.",
+                    "MY": "ကျွန်တော့်က ရထားဘူတာရုံကို သွားနေပါတယ်။",
+                    "HI": "मैं रेलवे स्टेशन जा रहा हूँ।",
+                    "AR": "أنا ذاهب إلى محطة القطار.",
+                    "FA": "من به ایستگاه راه‌آهن می‌روم."
+                }
+            },
+            {
+                "kanji": "鉄道の線路です。",
+                "furigana": "鉄道(てつどう)の線路(せんろ)です。",
+                "translations": {
+                    "EN": "It's a railway track.",
+                    "ID": "Ini adalah rel kereta api.",
+                    "ES": "Es una vía de tren.",
+                    "VI": "Đó là đường ray xe lửa.",
+                    "FR": "C'est une voie ferrée.",
+                    "NE": "यो रेल्वे ट्र्याक हो।",
+                    "BN": "এটি একটি রেলপথ।",
+                    "ZH": "这是铁路轨道。",
+                    "KO": "철도의 선로입니다.",
+                    "TL": "Ito ay isang riles ng tren.",
+                    "MY": "ဒါက မီးရထားလမ်းကြောင်းပါ။",
+                    "HI": "यह रेलवे ट्रैक है।",
+                    "AR": "إنه مسار سكة حديدية.",
+                    "FA": "این یک خط آهن است."
+                }
+            },
+            {
+                "kanji": "ちいきの鉄道は便利です。",
+                "furigana": "ちいきの鉄道(てつどう)は便利(べんり)です。",
+                "translations": {
+                    "EN": "Local railways are convenient.",
+                    "ID": "Kereta lokal itu nyaman.",
+                    "ES": "Los trenes locales son convenientes.",
+                    "VI": "Tàu địa phương rất tiện lợi.",
+                    "FR": "Les chemins de fer locaux sont pratiques.",
+                    "NE": "स्थानिय रेलहरू सुविधाजनक छन्।",
+                    "BN": "স্থানীয় রেলওয়ে সুবিধাজনক।",
+                    "ZH": "地方铁路很方便。",
+                    "KO": "지역의 철도는 편리합니다.",
+                    "TL": "Ang lokal na tren ay maginhawa.",
+                    "MY": "ဒေသဆိုင်ရာ ရထားများမှာ အဆင်ပြေပါတယ်။",
+                    "HI": "स्थानीय रेलगाड़ियाँ सुविधाजनक होती हैं।",
+                    "AR": "القطارات المحلية مريحة.",
+                    "FA": "قطارهای محلی راحت هستند."
+                }
+            },
+            {
+                "kanji": "鉄道の車両がきれいです。",
+                "furigana": "鉄道(てつどう)の車両(しゃりょう)がきれいです。",
+                "translations": {
+                    "EN": "The railroad cars are clean.",
+                    "ID": "Gerbong kereta api bersih.",
+                    "ES": "Los vagones del tren están limpios.",
+                    "VI": "Toa tàu hỏa rất sạch sẽ.",
+                    "FR": "Les wagons du chemin de fer sont propres.",
+                    "NE": "रेलका डिब्बाहरू सफा छन्।",
+                    "BN": "রেলের কোচগুলি পরিষ্কার।",
+                    "ZH": "铁路的车厢很干净。",
+                    "KO": "철도의 차량이 깨끗합니다.",
+                    "TL": "Malinis ang mga tren ng riles.",
+                    "MY": "ရထားစနစ်ရဲ့ မျိုးကြီးကားတွေက သန့်ရှင်းပါတယ်။",
+                    "HI": "रेलवे के डिब्बे साफ हैं।",
+                    "AR": "عربات ال السكك الحديدية نظيفة.",
+                    "FA": "واگن‌های راه‌آهن تمیز هستند."
+                }
+            },
+            {
+                "kanji": "鉄道の運賃は高いです。",
+                "furigana": "鉄道(てつどう)の運賃(うんちん)は高(たか)いです。",
+                "translations": {
+                    "EN": "The train fare is expensive.",
+                    "ID": "Tarif kereta api mahal.",
+                    "ES": "El pasaje de tren es caro.",
+                    "VI": "Giá vé tàu rất đắt.",
+                    "FR": "Le tarif du train est cher.",
+                    "NE": "रेलको भाडा महँगो छ।",
+                    "BN": "রেল ভাড়া বেশি।",
+                    "ZH": "铁路票价很贵。",
+                    "KO": "철도 요금이 비쌉니다.",
+                    "TL": "Ang pamasahe sa tren ay mahal.",
+                    "MY": "ရထားခလွှဲများသည်စျေးကြီးသည်။",
+                    "HI": "रेल किराया महंगा है।",
+                    "AR": "أجرة القطار غالية.",
+                    "FA": "کرایه قطار گران است."
+                }
+            }
+        ],
+        "synonyms": [
+            "鉄路 : てつろ : railroad"
+        ],
+        "synonyms_explanation": "The most common synonym of the word てつどう is てつろう. While both mean \"railway,\" てつろう emphasizes the track or pathway aspect, often in a more formal or literary context.",
+        "antonyms": [
+            "道路 : どうろ : road"
+        ],
+        "antonyms_explanation": "The most common antonym of the word てつどう is どうろ. While てつどう refers to railways, どうろ refers to roads, highlighting their distinct modes of transportation.",
+        "kanji_details": [
+            {
+                "kanji": "鉄",
+                "common_words": [
+                    "鉄板: iron plate",
+                    "鉄分: iron"
+                ]
+            },
+            {
+                "kanji": "道",
+                "common_words": [
+                    "道路: road",
+                    "道具: tool"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "鉄道",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "鉄道",
+                "reading": "てつどう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "railroad",
+                    "railway",
+                    "rail transport"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "鉄",
+        "道"
     ],
-    "kanjis": [
-        {
-            "kanji": "鉄",
+    "kanji_data": {
+        "鉄": {
             "meanings": [
                 "iron"
             ],
-            "onyomi": [
+            "on_readings": [
                 "テツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "くろがね"
             ],
-            "strokes": 13,
+            "stroke_count": 13,
             "jlpt": 2,
-            "frequency": 672,
+            "freq_mainichi_shinbun": 672,
             "unicode": "9244",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "鉄板",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "てっぱん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "iron plate",
-                                "steel plate"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "sure thing",
-                                "certain winner"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "鉄分",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "てつぶん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "iron"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         },
-        {
-            "kanji": "道",
+        "道": {
             "meanings": [
                 "course",
                 "district",
@@ -119,286 +228,26 @@
                 "street",
                 "teachings"
             ],
-            "onyomi": [
+            "on_readings": [
                 "トウ",
                 "ドウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "いう",
                 "みち"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 4,
-            "frequency": 207,
+            "freq_mainichi_shinbun": 207,
             "unicode": "9053",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "道路",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どうろ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "road",
-                                "highway"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "道具",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どうぐ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "tool",
-                                "implement",
-                                "instrument",
-                                "utensil",
-                                "apparatus",
-                                "device"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "means"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "furniture"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means iron or steel and expresses the idea of metal strength. In vocabulary like てっぱん and てつぶん this kanji gives the sense of iron material or iron content. Think of it as the metal core that makes something hard and durable. The second kanji means road or way and can also mean a method or principle. In vocabulary like どうろ and どうぐ this kanji brings the idea of a route or a means to do something. It often describes both literal paths and abstract ways of acting.",
-    "explanations": {
-        "explanation": "The word てつどう means \"railway\" in English. It refers to a system of tracks along which trains run, used for transporting passengers and goods over long distances.",
-        "youtube_description": "Discover the essential Japanese term 鉄道 (てつどう) and enhance your vocabulary for daily conversations! Dive into its various meanings, break down the kanji components, and learn useful phrases. Ideal for both beginners and those looking to expand their Japanese skills. Like, comment, and subscribe for more engaging language lessons!",
-        "motivation": "Let's dive into the fascinating world of てつどう, a term you'll frequently encounter when discussing travel or city planning in Japan. It's a key word to know if you're navigating public transportation!",
-        "collocations": [
-            "てつどうのえき",
-            "てつどうのせんろ",
-            "ちいきのてつどう",
-            "てつどうのしゃりょう",
-            "てつどうのうんちん"
-        ],
-        "synonyms": [
-            "鉄路"
-        ],
-        "synonyms_explanation": "The most common synonym of the word てつどう is てつろう. While both mean \"railway,\" てつろう emphasizes the track or pathway aspect, often in a more formal or literary context.",
-        "antonyms": [
-            "道路"
-        ],
-        "antonyms_explanation": "The most common antonym of the word てつどう is どうろ. While てつどう refers to railways, どうろ refers to roads, highlighting their distinct modes of transportation."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "鉄道の駅に行きます。",
-            "furigana": "鉄道(てつどう)の駅(えき)に行き(いき)ます。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "鉄道の駅に行きます。",
-                "English": "I am going to the train station.",
-                "Persian": "من به ایستگاه راه‌آهن می‌روم.",
-                "Nepali": "म रेल्वे स्टेशन जाँदैछु।",
-                "Indonesian": "Saya pergi ke stasiun kereta.",
-                "Filipino": "Pupunta ako sa estasyon ng tren.",
-                "Vietnamese": "Tôi đang đi đến ga tàu.",
-                "Burmese": "ကျွန်တော့်က ရထားဘူတာရုံကို သွားနေပါတယ်။",
-                "Korean": "저는 기차역에 갑니다.",
-                "Hindi": "मैं रेलवे स्टेशन जा रहा हूँ।",
-                "Arabic": "أنا ذاهب إلى محطة القطار.",
-                "French": "Je vais à la gare.",
-                "Spanish": "Voy a la estación de tren.",
-                "Chinese": "我去火车站。",
-                "Bengali": "আমি রেলওয়ে স্টেশনে যাচ্ছি।"
-            }
-        },
-        {
-            "kanji": "鉄道の線路です。",
-            "furigana": "鉄道(てつどう)の線路(せんろ)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "鉄道の線路です。",
-                "English": "It's a railway track.",
-                "Persian": "این یک خط آهن است.",
-                "Nepali": "यो रेल्वे ट्र्याक हो।",
-                "Indonesian": "Ini adalah rel kereta api.",
-                "Filipino": "Ito ay isang riles ng tren.",
-                "Vietnamese": "Đó là đường ray xe lửa.",
-                "Burmese": "ဒါက မီးရထားလမ်းကြောင်းပါ။",
-                "Korean": "철도의 선로입니다.",
-                "Hindi": "यह रेलवे ट्रैक है।",
-                "Arabic": "إنه مسار سكة حديدية.",
-                "French": "C'est une voie ferrée.",
-                "Spanish": "Es una vía de tren.",
-                "Chinese": "这是铁路轨道。",
-                "Bengali": "এটি একটি রেলপথ।"
-            }
-        },
-        {
-            "kanji": "ちいきの鉄道は便利です。",
-            "furigana": "ちいきの鉄道(てつどう)は便利(べんり)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "ちいきの鉄道は便利です。",
-                "English": "Local railways are convenient.",
-                "Persian": "قطارهای محلی راحت هستند.",
-                "Nepali": "स्थानिय रेलहरू सुविधाजनक छन्।",
-                "Indonesian": "Kereta lokal itu nyaman.",
-                "Filipino": "Ang lokal na tren ay maginhawa.",
-                "Vietnamese": "Tàu địa phương rất tiện lợi.",
-                "Burmese": "ဒေသဆိုင်ရာ ရထားများမှာ အဆင်ပြေပါတယ်။",
-                "Korean": "지역의 철도는 편리합니다.",
-                "Hindi": "स्थानीय रेलगाड़ियाँ सुविधाजनक होती हैं।",
-                "Arabic": "القطارات المحلية مريحة.",
-                "French": "Les chemins de fer locaux sont pratiques.",
-                "Spanish": "Los trenes locales son convenientes.",
-                "Chinese": "地方铁路很方便。",
-                "Bengali": "স্থানীয় রেলওয়ে সুবিধাজনক।"
-            }
-        },
-        {
-            "kanji": "鉄道の車両がきれいです。",
-            "furigana": "鉄道(てつどう)の車両(しゃりょう)がきれいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "鉄道の車両がきれいです。",
-                "English": "The railroad cars are clean.",
-                "Persian": "واگن‌های راه‌آهن تمیز هستند.",
-                "Nepali": "रेलका डिब्बाहरू सफा छन्।",
-                "Indonesian": "Gerbong kereta api bersih.",
-                "Filipino": "Malinis ang mga tren ng riles.",
-                "Vietnamese": "Toa tàu hỏa rất sạch sẽ.",
-                "Burmese": "ရထားစနစ်ရဲ့ မျိုးကြီးကားတွေက သန့်ရှင်းပါတယ်။",
-                "Korean": "철도의 차량이 깨끗합니다.",
-                "Hindi": "रेलवे के डिब्बे साफ हैं।",
-                "Arabic": "عربات ال السكك الحديدية نظيفة.",
-                "French": "Les wagons du chemin de fer sont propres.",
-                "Spanish": "Los vagones del tren están limpios.",
-                "Chinese": "铁路的车厢很干净。",
-                "Bengali": "রেলের কোচগুলি পরিষ্কার।"
-            }
-        },
-        {
-            "kanji": "鉄道の運賃は高いです。",
-            "furigana": "鉄道(てつどう)の運賃(うんちん)は高(たか)いです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "鉄道の運賃は高いです。",
-                "English": "The train fare is expensive.",
-                "Persian": "کرایه قطار گران است.",
-                "Nepali": "रेलको भाडा महँगो छ।",
-                "Indonesian": "Tarif kereta api mahal.",
-                "Filipino": "Ang pamasahe sa tren ay mahal.",
-                "Vietnamese": "Giá vé tàu rất đắt.",
-                "Burmese": "ရထားခလွှဲများသည်စျေးကြီးသည်။",
-                "Korean": "철도 요금이 비쌉니다.",
-                "Hindi": "रेल किराया महंगा है।",
-                "Arabic": "أجرة القطار غالية.",
-                "French": "Le tarif du train est cher.",
-                "Spanish": "El pasaje de tren es caro.",
-                "Chinese": "铁路票价很贵。",
-                "Bengali": "রেল ভাড়া বেশি।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "鉄路",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "てつろ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "railroad",
-                        "railway"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "道路",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "どうろ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "road",
-                        "highway"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "てつどうのえき",
+        "てつどうのせんろ",
+        "ちいきのてつどう",
+        "てつどうのしゃりょう",
+        "てつどうのうんちん"
     ]
 }

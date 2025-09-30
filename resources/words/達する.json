@@ -1,281 +1,221 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "達する",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/Gk-ZB33U4Qk",
     "in_db": true,
-    "reading": "たっする",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "達する",
+        "reading": "たっする",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is たっする, which you will often hear in contexts like reaching a certain age, achieving a goal, or arriving at a destination.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"tassuru\" means to reach, to get to, or to attain something. It's often used when talking about reaching a certain point or level, whether it's physical, like a destination, or more abstract, like an age or a goal. Essentially, it conveys the idea of achieving something.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to reach",
                 "to get to",
                 "to arrive at"
-            ],
-            "part_of_speech": "Suru verb - special class",
-            "translation": {
-                "Japanese": "達する",
-                "English": "to reach",
-                "Persian": "رسیدن به",
-                "Nepali": "पुग्ने",
-                "Indonesian": "mencapai",
-                "Filipino": "maabot",
-                "Vietnamese": "đạt tới",
-                "Burmese": "ရောက်ရန်",
-                "Korean": "도달하다",
-                "Hindi": "पहुंचना",
-                "Arabic": "وصل إلى",
-                "French": "atteindre",
-                "Spanish": "alcanzar",
-                "Chinese": "达到",
-                "Bengali": "পৌঁছানো"
+            ]
+        ],
+        "meaning_translations": {
+            "to reach": {
+                "EN": "to reach",
+                "ID": "mencapai",
+                "ES": "alcanzar",
+                "VI": "đạt tới",
+                "FR": "atteindre",
+                "NE": "पुग्ने",
+                "BN": "পৌঁছানো",
+                "ZH": "达到",
+                "KO": "도달하다",
+                "TL": "maabot",
+                "MY": "ရောက်ရန်",
+                "HI": "पहुंचना",
+                "AR": "وصل إلى",
+                "FA": "رسیدن به"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "目標に達する。",
+                "furigana": "目標(もくひょう)に達(たっ)する。",
+                "translations": {
+                    "EN": "Achieve the goal.",
+                    "ID": "Mencapai tujuan.",
+                    "ES": "Alcanzar la meta.",
+                    "VI": "Đạt được mục tiêu.",
+                    "FR": "Atteindre l'objectif.",
+                    "NE": "लक्ष्य हासिल गर्नु।",
+                    "BN": "লক্ষ্যে পৌঁছানো।",
+                    "ZH": "达成目标。",
+                    "KO": "목표에 도달하다.",
+                    "TL": "Maabot ang layunin.",
+                    "MY": "ရည်မှန်းချက်ကို အောင်မြင်သည်။",
+                    "HI": "लक्ष्य प्राप्त करना।",
+                    "AR": "تحقيق الهدف.",
+                    "FA": "هدف را به دست آوردن."
+                }
+            },
+            {
+                "kanji": "彼は成功に達する。",
+                "furigana": "彼(かれ)は成功(せいこう)に達(たっ)する。",
+                "translations": {
+                    "EN": "He achieved success.",
+                    "ID": "Dia mencapai kesuksesan.",
+                    "ES": "Él logró el éxito.",
+                    "VI": "Anh ấy đã đạt được thành công.",
+                    "FR": "Il a atteint le succès.",
+                    "NE": "उनी सफलतामा पुगे।",
+                    "BN": "তিনি সফলতা অর্জন করেছেন।",
+                    "ZH": "他取得了成功。",
+                    "KO": "그는 성공에 도달했다.",
+                    "TL": "Naabot niya ang tagumpay.",
+                    "MY": "သူသည် အောင်မြင်မှုကို ရရှိခဲ့သည်။",
+                    "HI": "वह सफलता प्राप्त करता है।",
+                    "AR": "لقد وصل إلى النجاح.",
+                    "FA": "او به موفقیت دست یافت."
+                }
+            },
+            {
+                "kanji": "彼はやっと目標に達した。",
+                "furigana": "彼(かれ)はやっと目標(もくひょう)に達(たっ)した。",
+                "translations": {
+                    "EN": "He finally reached his goal.",
+                    "ID": "Dia akhirnya mencapai tujuannya.",
+                    "ES": "Finalmente alcanzó su meta.",
+                    "VI": "Cuối cùng anh ấy đã đạt được mục tiêu của mình.",
+                    "FR": "Il a enfin atteint son objectif.",
+                    "NE": "उनी अन्ततः आफ्नो लक्ष्यमा पुगे।",
+                    "BN": "তিনি অবশেষে তার লক্ষ্য অর্জন করলেন।",
+                    "ZH": "他终于达到了目标。",
+                    "KO": "그는 마침내 목표에 도달했다.",
+                    "TL": "Sa wakas ay narating niya ang kanyang layunin.",
+                    "MY": "သူက အနားဂိုးလိပ်တန်းကိုရောက်လာခဲ့သည်။ ",
+                    "HI": "उन्होंने अंततः अपने लक्ष्य को प्राप्त कर लिया।",
+                    "AR": "هو أخيرًا وصل إلى هدفه.",
+                    "FA": "او بالاخره به هدف خود رسید."
+                }
+            },
+            {
+                "kanji": "彼は駅に達します。",
+                "furigana": "彼(かれ)は駅(えき)に達(たっ)します。",
+                "translations": {
+                    "EN": "He reaches the station.",
+                    "ID": "Dia mencapai stasiun.",
+                    "ES": "Él llega a la estación.",
+                    "VI": "Anh ấy đến ga.",
+                    "FR": "Il atteint la gare.",
+                    "NE": "उ उनी स्टेशनमा पुग्छन्।",
+                    "BN": "সে স্টেশনে পৌঁছেছে।",
+                    "ZH": "他到达车站。",
+                    "KO": "그는 역에 도착합니다.",
+                    "TL": "Nakarating siya sa istasyon.",
+                    "MY": "သူ သည် ဘူတာရုံ ရောက်လျက်ရှိသည်။",
+                    "HI": "वह स्टेशन पहुंचता है।",
+                    "AR": "وصل إلى المحطة.",
+                    "FA": "او به ایستگاه می‌رسد."
+                }
+            },
+            {
+                "kanji": "彼は十八歳に達する。",
+                "furigana": "彼(かれ)は十八歳(じゅうはっさい)に達(たっ)する。",
+                "translations": {
+                    "EN": "He reaches eighteen years of age.",
+                    "ID": "Dia mencapai usia delapan belas tahun.",
+                    "ES": "Él alcanza los dieciocho años de edad.",
+                    "VI": "Anh ấy được mười tám tuổi.",
+                    "FR": "Il atteint l'âge de dix-huit ans.",
+                    "NE": "ऊ अठार वर्षको उमेरमा पुग्छ।",
+                    "BN": "সে আঠারো বছর বয়সে পৌঁছায়।",
+                    "ZH": "他到达十八岁。",
+                    "KO": "그는 열여덟 살에 도달한다.",
+                    "TL": "Naaabot niya ang labing walong taon gulang.",
+                    "MY": "သူသည် အသက်တစ္ဆယ့်ရှစ်နှစ် အပြည့်ရှိပြီဖြစ်သည်။",
+                    "HI": "वह अठारह साल की उम्र तक पहुंचता है।",
+                    "AR": "يصل إلى سن الثامنة عشر.",
+                    "FA": "او به سن هجده سالگی می‌رسد."
+                }
+            }
+        ],
+        "synonyms": [
+            "到達 : とうたつ : reaching"
+        ],
+        "synonyms_explanation": "The most common synonym of the word \"tassuru\" is \"toutatsu.\" While \"tassuru\" is often used more generally for reaching or achieving something, \"toutatsu\" might be used more formally, especially in written contexts to indicate reaching a destination.",
+        "kanji_details": [
+            {
+                "kanji": "達",
+                "common_words": [
+                    "友達: friend",
+                    "達成: achievement"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "達する",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "達する",
+                "reading": "たっする"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to reach",
+                    "to get to",
+                    "to arrive at"
+                ],
+                "parts_of_speech": [
+                    "Suru verb - special class"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "達"
     ],
-    "kanjis": [
-        {
-            "kanji": "達",
+    "kanji_data": {
+        "達": {
             "meanings": [
                 "accomplished",
                 "arrive",
                 "attain",
                 "reach"
             ],
-            "onyomi": [
+            "on_readings": [
                 "タツ",
                 "ダ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-たち"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 3,
-            "frequency": 500,
+            "freq_mainichi_shinbun": 500,
             "unicode": "9054",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "友達",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ともだち",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "friend",
-                                "companion"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "達成",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たっせい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "achievement",
-                                "attainment",
-                                "accomplishment",
-                                "realization"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means to reach, attain, or arrive, and it often shows that something has been achieved. It can also function to indicate people or a group, adding the sense of connections or companions. For example, ともだち means friend and here the kanji contributes the notion of people or companions. Another word, たっせい means achievement and here the kanji keeps the sense of reaching or attaining a goal.",
-    "explanations": {
-        "explanation": "The word \"tassuru\" means to reach, to get to, or to attain something. It's often used when talking about reaching a certain point or level, whether it's physical, like a destination, or more abstract, like an age or a goal. Essentially, it conveys the idea of achieving something.",
-        "youtube_description": "Learn how to use the Japanese word 達する (たっする) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is たっする, which you will often hear in contexts like reaching a certain age, achieving a goal, or arriving at a destination.",
-        "collocations": [
-            "目的にたっする",
-            "成功にたっする",
-            "目標にたっする",
-            "場所にたっする",
-            "年齢にたっする"
-        ],
-        "synonyms": [
-            "到達"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"tassuru\" is \"toutatsu.\" While \"tassuru\" is often used more generally for reaching or achieving something, \"toutatsu\" might be used more formally, especially in written contexts to indicate reaching a destination.",
-        "antonyms": [],
-        "antonyms_explanation": "It has no antonyms."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "目標に達する。",
-            "furigana": "目標(もくひょう)に達(たっ)する。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "目標に達する。",
-                "English": "Achieve the goal.",
-                "Persian": "هدف را به دست آوردن.",
-                "Nepali": "लक्ष्य हासिल गर्नु।",
-                "Indonesian": "Mencapai tujuan.",
-                "Filipino": "Maabot ang layunin.",
-                "Vietnamese": "Đạt được mục tiêu.",
-                "Burmese": "ရည်မှန်းချက်ကို အောင်မြင်သည်။",
-                "Korean": "목표에 도달하다.",
-                "Hindi": "लक्ष्य प्राप्त करना।",
-                "Arabic": "تحقيق الهدف.",
-                "French": "Atteindre l'objectif.",
-                "Spanish": "Alcanzar la meta.",
-                "Chinese": "达成目标。",
-                "Bengali": "লক্ষ্যে পৌঁছানো।"
-            }
-        },
-        {
-            "kanji": "彼は成功に達する。",
-            "furigana": "彼(かれ)は成功(せいこう)に達(たっ)する。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は成功に達する。",
-                "English": "He achieved success.",
-                "Persian": "او به موفقیت دست یافت.",
-                "Nepali": "उनी सफलतामा पुगे।",
-                "Indonesian": "Dia mencapai kesuksesan.",
-                "Filipino": "Naabot niya ang tagumpay.",
-                "Vietnamese": "Anh ấy đã đạt được thành công.",
-                "Burmese": "သူသည် အောင်မြင်မှုကို ရရှိခဲ့သည်။",
-                "Korean": "그는 성공에 도달했다.",
-                "Hindi": "वह सफलता प्राप्त करता है।",
-                "Arabic": "لقد وصل إلى النجاح.",
-                "French": "Il a atteint le succès.",
-                "Spanish": "Él logró el éxito.",
-                "Chinese": "他取得了成功。",
-                "Bengali": "তিনি সফলতা অর্জন করেছেন।"
-            }
-        },
-        {
-            "kanji": "彼はやっと目標に達した。",
-            "furigana": "彼(かれ)はやっと目標(もくひょう)に達(たっ)した。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼はやっと目標に達した。",
-                "English": "He finally reached his goal.",
-                "Persian": "او بالاخره به هدف خود رسید.",
-                "Nepali": "उनी अन्ततः आफ्नो लक्ष्यमा पुगे।",
-                "Indonesian": "Dia akhirnya mencapai tujuannya.",
-                "Filipino": "Sa wakas ay narating niya ang kanyang layunin.",
-                "Vietnamese": "Cuối cùng anh ấy đã đạt được mục tiêu của mình.",
-                "Burmese": "သူက အနားဂိုးလိပ်တန်းကိုရောက်လာခဲ့သည်။ ",
-                "Korean": "그는 마침내 목표에 도달했다.",
-                "Hindi": "उन्होंने अंततः अपने लक्ष्य को प्राप्त कर लिया।",
-                "Arabic": "هو أخيرًا وصل إلى هدفه.",
-                "French": "Il a enfin atteint son objectif.",
-                "Spanish": "Finalmente alcanzó su meta.",
-                "Chinese": "他终于达到了目标。",
-                "Bengali": "তিনি অবশেষে তার লক্ষ্য অর্জন করলেন।"
-            }
-        },
-        {
-            "kanji": "彼は駅に達します。",
-            "furigana": "彼(かれ)は駅(えき)に達(たっ)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は駅に達します。",
-                "English": "He reaches the station.",
-                "Persian": "او به ایستگاه می‌رسد.",
-                "Nepali": "उ उनी स्टेशनमा पुग्छन्।",
-                "Indonesian": "Dia mencapai stasiun.",
-                "Filipino": "Nakarating siya sa istasyon.",
-                "Vietnamese": "Anh ấy đến ga.",
-                "Burmese": "သူ သည် ဘူတာရုံ ရောက်လျက်ရှိသည်။",
-                "Korean": "그는 역에 도착합니다.",
-                "Hindi": "वह स्टेशन पहुंचता है।",
-                "Arabic": "وصل إلى المحطة.",
-                "French": "Il atteint la gare.",
-                "Spanish": "Él llega a la estación.",
-                "Chinese": "他到达车站。",
-                "Bengali": "সে স্টেশনে পৌঁছেছে।"
-            }
-        },
-        {
-            "kanji": "彼は十八歳に達する。",
-            "furigana": "彼(かれ)は十八歳(じゅうはっさい)に達(たっ)する。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は十八歳に達する。",
-                "English": "He reaches eighteen years of age.",
-                "Persian": "او به سن هجده سالگی می‌رسد.",
-                "Nepali": "ऊ अठार वर्षको उमेरमा पुग्छ।",
-                "Indonesian": "Dia mencapai usia delapan belas tahun.",
-                "Filipino": "Naaabot niya ang labing walong taon gulang.",
-                "Vietnamese": "Anh ấy được mười tám tuổi.",
-                "Burmese": "သူသည် အသက်တစ္ဆယ့်ရှစ်နှစ် အပြည့်ရှိပြီဖြစ်သည်။",
-                "Korean": "그는 열여덟 살에 도달한다.",
-                "Hindi": "वह अठारह साल की उम्र तक पहुंचता है।",
-                "Arabic": "يصل إلى سن الثامنة عشر.",
-                "French": "Il atteint l'âge de dix-huit ans.",
-                "Spanish": "Él alcanza los dieciocho años de edad.",
-                "Chinese": "他到达十八岁。",
-                "Bengali": "সে আঠারো বছর বয়সে পৌঁছায়।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "到達",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とうたつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "reaching",
-                        "attaining",
-                        "arrival"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": []
+    "collocations": [
+        "目的にたっする",
+        "成功にたっする",
+        "目標にたっする",
+        "場所にたっする",
+        "年齢にたっする"
+    ]
 }

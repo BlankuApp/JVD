@@ -1,117 +1,313 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "捕まる",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/-zbh_rLE168",
     "in_db": true,
-    "reading": "つかまる",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "捕まる",
+        "reading": "つかまる",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is つかまる, which you will often hear in news reports or crime-related contexts.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"つかまる\" means \"to be caught\" or \"to be arrested.\" It typically implies being captured or apprehended by someone, often by the police. The term is generally used in situations where someone needs to seize or take hold of a person or object physically.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to be caught",
                 "to be arrested"
             ],
-            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "捕まる",
-                "English": "to be caught",
-                "Persian": "دستگیر شدن",
-                "Nepali": "पक्राउ पर्नु",
-                "Indonesian": "tertangkap",
-                "Filipino": "mahuli",
-                "Vietnamese": "bị bắt",
-                "Burmese": "ဖမ်းဆီးခြင်း",
-                "Korean": "잡히다",
-                "Hindi": "पकड़ा जाना",
-                "Arabic": "أن يتم القبض عليه",
-                "French": "être attrapé",
-                "Spanish": "ser atrapado",
-                "Chinese": "被抓",
-                "Bengali": "ধরা পড়া"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to hold on to",
                 "to grasp"
             ],
-            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "捕まる",
-                "English": "to hold on to",
-                "Persian": "گرفتن داشتن",
-                "Nepali": "समात्नु",
-                "Indonesian": "untuk memegang",
-                "Filipino": "humawak sa",
-                "Vietnamese": "nắm lấy",
-                "Burmese": "ကိုင်ရနိင်သည်",
-                "Korean": "잡다",
-                "Hindi": "पकड़ना",
-                "Arabic": " للإمساك ب",
-                "French": "s'accrocher à",
-                "Spanish": "aferrarse a",
-                "Chinese": "抓住",
-                "Bengali": "ধরা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to find",
                 "to get"
             ],
-            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "捕まる",
-                "English": "to catch; to be caught",
-                "Persian": "گرفتار شدن",
-                "Nepali": "पक्रिनु",
-                "Indonesian": "menangkap; tertangkap",
-                "Filipino": "mahuli; mahuli",
-                "Vietnamese": "bị bắt; bắt giữ",
-                "Burmese": "ဖမ်းစီးသည်",
-                "Korean": "잡히다",
-                "Hindi": "पकड़ा जाना; पकड़ना",
-                "Arabic": "يتم القبض عليه; يتم الإمساك به",
-                "French": "être attrapé; être pris",
-                "Spanish": "atrapar; ser atrapado",
-                "Chinese": "被抓住；被捕获",
-                "Bengali": "ধরা পড়া; ধরতে পাওয়া"
+            [
+                "to be detained by"
+            ]
+        ],
+        "meaning_translations": {
+            "to be caught": {
+                "EN": "to be caught",
+                "ID": "tertangkap",
+                "ES": "ser atrapado",
+                "VI": "bị bắt",
+                "FR": "être attrapé",
+                "NE": "पक्राउ पर्नु",
+                "BN": "ধরা পড়া",
+                "ZH": "被抓",
+                "KO": "잡히다",
+                "TL": "mahuli",
+                "MY": "ဖမ်းဆီးခြင်း",
+                "HI": "पकड़ा जाना",
+                "AR": "أن يتم القبض عليه",
+                "FA": "دستگیر شدن"
+            },
+            "to hold on to": {
+                "EN": "to hold on to",
+                "ID": "untuk memegang",
+                "ES": "aferrarse a",
+                "VI": "nắm lấy",
+                "FR": "s'accrocher à",
+                "NE": "समात्नु",
+                "BN": "ধরা",
+                "ZH": "抓住",
+                "KO": "잡다",
+                "TL": "humawak sa",
+                "MY": "ကိုင်ရနိင်သည်",
+                "HI": "पकड़ना",
+                "AR": " للإمساك ب",
+                "FA": "گرفتن داشتن"
+            },
+            "to find": {
+                "EN": "to catch; to be caught",
+                "ID": "menangkap; tertangkap",
+                "ES": "atrapar; ser atrapado",
+                "VI": "bị bắt; bắt giữ",
+                "FR": "être attrapé; être pris",
+                "NE": "पक्रिनु",
+                "BN": "ধরা পড়া; ধরতে পাওয়া",
+                "ZH": "被抓住；被捕获",
+                "KO": "잡히다",
+                "TL": "mahuli; mahuli",
+                "MY": "ဖမ်းစီးသည်",
+                "HI": "पकड़ा जाना; पकड़ना",
+                "AR": "يتم القبض عليه; يتم الإمساك به",
+                "FA": "گرفتار شدن"
+            },
+            "to be detained by": {
+                "EN": "to be detained by",
+                "ID": "ditahan oleh",
+                "ES": "ser detenido por",
+                "VI": "bị giam giữ bởi",
+                "FR": "être détenu par",
+                "NE": "द्वारा पक्राउ पर्नु",
+                "BN": "দ্বারা আটক করা",
+                "ZH": "被......拘留",
+                "KO": "에 의해 체포되다",
+                "TL": "maaresto ng",
+                "MY": "ဖမ်းဆီးခံရသည်",
+                "HI": "द्वारा हिरासत में लिया जाना",
+                "AR": "يُعتقل بواسطة",
+                "FA": "توسط...دستگیر شدن"
             }
         },
-        {
-            "neuances": [
-                "to be detained by"
-            ],
-            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "捕まる",
-                "English": "to be detained by",
-                "Persian": "توسط...دستگیر شدن",
-                "Nepali": "द्वारा पक्राउ पर्नु",
-                "Indonesian": "ditahan oleh",
-                "Filipino": "maaresto ng",
-                "Vietnamese": "bị giam giữ bởi",
-                "Burmese": "ဖမ်းဆီးခံရသည်",
-                "Korean": "에 의해 체포되다",
-                "Hindi": "द्वारा हिरासत में लिया जाना",
-                "Arabic": "يُعتقل بواسطة",
-                "French": "être détenu par",
-                "Spanish": "ser detenido por",
-                "Chinese": "被......拘留",
-                "Bengali": "দ্বারা আটক করা"
+        "examples": [
+            {
+                "kanji": "泥棒は警察につかまる。",
+                "furigana": "泥棒(どろぼう)は警察(けいさつ)につかまる。",
+                "translations": {
+                    "EN": "The thief gets caught by the police.",
+                    "ID": "Pencuri ditangkap oleh polisi.",
+                    "ES": "El ladrón es capturado por la policía.",
+                    "VI": "Tên trộm bị cảnh sát bắt giữ.",
+                    "FR": "Le voleur est attrapé par la police.",
+                    "NE": "चोरलाई प्रहरीले समात्यो।",
+                    "BN": "চোরকে পুলিশ ধরে ফেলে।",
+                    "ZH": "小偷被警察抓住。",
+                    "KO": "도둑이 경찰에 잡힌다.",
+                    "TL": "Nahuli ng pulis ang magnanakaw.",
+                    "MY": "လုယက်သူကို ရဲများက ဖမ်းဆီးလိုက်သည်။",
+                    "HI": "चोर पुलिस द्वारा पकड़ा गया।",
+                    "AR": "القبض على السارق من قبل الشرطة.",
+                    "FA": "دزد توسط پلیس دستگیر شود."
+                }
+            },
+            {
+                "kanji": "泥棒に捕まる。",
+                "furigana": "泥棒(どろぼう)に捕(つか)まる。",
+                "translations": {
+                    "EN": "Get caught by a thief.",
+                    "ID": "Tertangkap oleh pencuri.",
+                    "ES": "Ser atrapado por un ladrón.",
+                    "VI": "Bị bắt bởi kẻ trộm.",
+                    "FR": "Être attrapé par un voleur.",
+                    "NE": "चोरद्वारा पक्डिनु।",
+                    "BN": "চোর দ্বারা ধরা পড়া।",
+                    "ZH": "被小偷偷走。",
+                    "KO": "도둑에게 잡히다.",
+                    "TL": "Nahuli ng magnanakaw.",
+                    "MY": "လုယက်မှုကျူးလွန်သူဖမ်းမိသည်။",
+                    "HI": "चोर द्वारा पकड़ा जाना।",
+                    "AR": "يُقبض عليه مِن قِبل لص.",
+                    "FA": "توسط دزد گیر افتادن."
+                }
+            },
+            {
+                "kanji": "私は電車の手すりに捕まります。",
+                "furigana": "私(わたし)は電車(でんしゃ)の手(て)すりに捕(つか)まります。",
+                "translations": {
+                    "EN": "I grab onto the train's handrail.",
+                    "ID": "Saya memegang pegangan kereta.",
+                    "ES": "Me agarro al pasamanos del tren.",
+                    "VI": "Tôi nắm tay vịn của xe lửa.",
+                    "FR": "Je me tiens à la rambarde du train.",
+                    "NE": "म रेलको ह्यान्ड्रेल समाउँछु।",
+                    "BN": "আমি ট্রেনের হ্যান্ডরেল ধরেছি।",
+                    "ZH": "我拉住火车的扶手。",
+                    "KO": "저는 기차의 손잡이를 잡습니다.",
+                    "TL": "Hinawakan ko ang handrail ng tren.",
+                    "MY": "ကျွန်ုပ်သည် ရထား၏ လက်ကိုင်ကို ငြိမ်းပါသည်။",
+                    "HI": "मैं ट्रेन के हैंडरेल को पकड़ता हूँ।",
+                    "AR": "أمسك بيد القطار.",
+                    "FA": "من دستگیرۀ قطار را می‌گیرم."
+                }
+            },
+            {
+                "kanji": "彼は縄につかまりました。",
+                "furigana": "彼(かれ)は縄(なわ)につかまりました。",
+                "translations": {
+                    "EN": "He got caught by the rope.",
+                    "ID": "Dia terjebak oleh tali.",
+                    "ES": "Él fue atrapado por la cuerda.",
+                    "VI": "Anh ấy đã bị mắc kẹt bởi dây thừng.",
+                    "FR": "Il a été attrapé par la corde.",
+                    "NE": "उहाँ डोरीले समातिन्छन्।",
+                    "BN": "সে দড়িতে ধরা পড়ল।",
+                    "ZH": "他被绳子抓住了。",
+                    "KO": "그는 밧줄에 잡혔습니다.",
+                    "TL": "Siya ay nahuli ng lubid.",
+                    "MY": "သူသည် ကြိုးဖြင့်ဖမ်းဆီးခံခဲ့ရသည်။",
+                    "HI": "वह रस्सी द्वारा पकड़ा गया।",
+                    "AR": "لقد أمسك الحبل به.",
+                    "FA": "او توسط طناب گرفتار شد."
+                }
+            },
+            {
+                "kanji": "彼は木につかまりました。",
+                "furigana": "彼(かれ)は木(き)につかまりました。",
+                "translations": {
+                    "EN": "He grabbed onto a tree.",
+                    "ID": "Dia berpegangan pada pohon.",
+                    "ES": "Él se aferró a un árbol.",
+                    "VI": "Anh ấy đã bám vào một cái cây.",
+                    "FR": "Il s'est agrippé à un arbre.",
+                    "NE": "उहाँले रुखलाई समात्नुभयो।",
+                    "BN": "তিনি গাছে ধরে ফেললেন।",
+                    "ZH": "他抓住了一棵树。",
+                    "KO": "그는 나무를 붙잡았습니다.",
+                    "TL": "Humawak siya sa puno.",
+                    "MY": "သူသည် သစ်ပင်ကို ဆုပ်ကိုင်ခဲ့သည်။",
+                    "HI": "उसने पेड़ को पकड़ लिया।",
+                    "AR": "لقد تمسك بالشجرة.",
+                    "FA": "او به درخت چسبید."
+                }
             }
-        }
+        ],
+        "synonyms": [
+            "捕らえる : とらえる : to catch",
+            "逮捕 : たいほ : arrest"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"つかまる\" are \"とらえる\" and \"たいほ.\" \"とらえる\" also means \"to capture\" or \"to seize,\" often used in broader contexts, whereas \"たいほ\" specifically refers to \"arrest\" by law enforcement.",
+        "antonyms": [
+            "逃げる : にげる : to run away"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"つかまる\" is \"にげる,\" which means \"to escape\" or \"to run away.\" While \"つかまる\" implies being caught, \"にげる\" involves successfully avoiding or fleeing from capture.",
+        "kanji_details": [
+            {
+                "kanji": "捕",
+                "common_words": [
+                    "捕獲: capture",
+                    "捕手: catcher"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "捕まる",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "捕まる",
+                "reading": "つかまる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to be caught",
+                    "to be arrested"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to hold on to",
+                    "to grasp"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to find",
+                    "to get"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be detained by"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "捕"
     ],
-    "kanjis": [
-        {
-            "kanji": "捕",
+    "kanji_data": {
+        "捕": {
             "meanings": [
                 "capture",
                 "catch"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ホ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "つか.まえる",
                 "つか.まる",
                 "と.らえる",
@@ -120,342 +316,18 @@
                 "とら.える",
                 "とら.われる"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 3,
-            "frequency": 604,
+            "freq_mainichi_shinbun": 604,
             "unicode": "6355",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "捕獲",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ほかく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "capture",
-                                "seizure"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "捕手",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ほしゅ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "catcher"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means to catch or seize. In the word ほかく it gives the idea of capturing something physically or legally. In the word ほしゅ it gives the sense of a person who catches, like a catcher in baseball. This kanji often appears when talking about arresting, capturing, or holding something.",
-    "explanations": {
-        "explanation": "The word \"つかまる\" means \"to be caught\" or \"to be arrested.\" It typically implies being captured or apprehended by someone, often by the police. The term is generally used in situations where someone needs to seize or take hold of a person or object physically.",
-        "youtube_description": "Learn how to use the Japanese word 捕まる (つかまる) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is つかまる, which you will often hear in news reports or crime-related contexts.",
-        "collocations": [
-            "警察につかまる",
-            "泥棒につかまる",
-            "電車につかまる",
-            "縄につかまる",
-            "木につかまる"
-        ],
-        "synonyms": [
-            "捕らえる",
-            "逮捕"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"つかまる\" are \"とらえる\" and \"たいほ.\" \"とらえる\" also means \"to capture\" or \"to seize,\" often used in broader contexts, whereas \"たいほ\" specifically refers to \"arrest\" by law enforcement.",
-        "antonyms": [
-            "逃げる"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"つかまる\" is \"にげる,\" which means \"to escape\" or \"to run away.\" While \"つかまる\" implies being caught, \"にげる\" involves successfully avoiding or fleeing from capture."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "泥棒は警察につかまる。",
-            "furigana": "泥棒(どろぼう)は警察(けいさつ)につかまる。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "泥棒は警察につかまる。",
-                "English": "The thief gets caught by the police.",
-                "Persian": "دزد توسط پلیس دستگیر شود.",
-                "Nepali": "चोरलाई प्रहरीले समात्यो।",
-                "Indonesian": "Pencuri ditangkap oleh polisi.",
-                "Filipino": "Nahuli ng pulis ang magnanakaw.",
-                "Vietnamese": "Tên trộm bị cảnh sát bắt giữ.",
-                "Burmese": "လုယက်သူကို ရဲများက ဖမ်းဆီးလိုက်သည်။",
-                "Korean": "도둑이 경찰에 잡힌다.",
-                "Hindi": "चोर पुलिस द्वारा पकड़ा गया।",
-                "Arabic": "القبض على السارق من قبل الشرطة.",
-                "French": "Le voleur est attrapé par la police.",
-                "Spanish": "El ladrón es capturado por la policía.",
-                "Chinese": "小偷被警察抓住。",
-                "Bengali": "চোরকে পুলিশ ধরে ফেলে।"
-            }
-        },
-        {
-            "kanji": "泥棒に捕まる。",
-            "furigana": "泥棒(どろぼう)に捕(つか)まる。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "泥棒に捕まる。",
-                "English": "Get caught by a thief.",
-                "Persian": "توسط دزد گیر افتادن.",
-                "Nepali": "चोरद्वारा पक्डिनु।",
-                "Indonesian": "Tertangkap oleh pencuri.",
-                "Filipino": "Nahuli ng magnanakaw.",
-                "Vietnamese": "Bị bắt bởi kẻ trộm.",
-                "Burmese": "လုယက်မှုကျူးလွန်သူဖမ်းမိသည်။",
-                "Korean": "도둑에게 잡히다.",
-                "Hindi": "चोर द्वारा पकड़ा जाना।",
-                "Arabic": "يُقبض عليه مِن قِبل لص.",
-                "French": "Être attrapé par un voleur.",
-                "Spanish": "Ser atrapado por un ladrón.",
-                "Chinese": "被小偷偷走。",
-                "Bengali": "চোর দ্বারা ধরা পড়া।"
-            }
-        },
-        {
-            "kanji": "私は電車の手すりに捕まります。",
-            "furigana": "私(わたし)は電車(でんしゃ)の手(て)すりに捕(つか)まります。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は電車の手すりに捕まります。",
-                "English": "I grab onto the train's handrail.",
-                "Persian": "من دستگیرۀ قطار را می‌گیرم.",
-                "Nepali": "म रेलको ह्यान्ड्रेल समाउँछु।",
-                "Indonesian": "Saya memegang pegangan kereta.",
-                "Filipino": "Hinawakan ko ang handrail ng tren.",
-                "Vietnamese": "Tôi nắm tay vịn của xe lửa.",
-                "Burmese": "ကျွန်ုပ်သည် ရထား၏ လက်ကိုင်ကို ငြိမ်းပါသည်။",
-                "Korean": "저는 기차의 손잡이를 잡습니다.",
-                "Hindi": "मैं ट्रेन के हैंडरेल को पकड़ता हूँ।",
-                "Arabic": "أمسك بيد القطار.",
-                "French": "Je me tiens à la rambarde du train.",
-                "Spanish": "Me agarro al pasamanos del tren.",
-                "Chinese": "我拉住火车的扶手。",
-                "Bengali": "আমি ট্রেনের হ্যান্ডরেল ধরেছি।"
-            }
-        },
-        {
-            "kanji": "彼は縄につかまりました。",
-            "furigana": "彼(かれ)は縄(なわ)につかまりました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は縄につかまりました。",
-                "English": "He got caught by the rope.",
-                "Persian": "او توسط طناب گرفتار شد.",
-                "Nepali": "उहाँ डोरीले समातिन्छन्।",
-                "Indonesian": "Dia terjebak oleh tali.",
-                "Filipino": "Siya ay nahuli ng lubid.",
-                "Vietnamese": "Anh ấy đã bị mắc kẹt bởi dây thừng.",
-                "Burmese": "သူသည် ကြိုးဖြင့်ဖမ်းဆီးခံခဲ့ရသည်။",
-                "Korean": "그는 밧줄에 잡혔습니다.",
-                "Hindi": "वह रस्सी द्वारा पकड़ा गया।",
-                "Arabic": "لقد أمسك الحبل به.",
-                "French": "Il a été attrapé par la corde.",
-                "Spanish": "Él fue atrapado por la cuerda.",
-                "Chinese": "他被绳子抓住了。",
-                "Bengali": "সে দড়িতে ধরা পড়ল।"
-            }
-        },
-        {
-            "kanji": "彼は木につかまりました。",
-            "furigana": "彼(かれ)は木(き)につかまりました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は木につかまりました。",
-                "English": "He grabbed onto a tree.",
-                "Persian": "او به درخت چسبید.",
-                "Nepali": "उहाँले रुखलाई समात्नुभयो।",
-                "Indonesian": "Dia berpegangan pada pohon.",
-                "Filipino": "Humawak siya sa puno.",
-                "Vietnamese": "Anh ấy đã bám vào một cái cây.",
-                "Burmese": "သူသည် သစ်ပင်ကို ဆုပ်ကိုင်ခဲ့သည်။",
-                "Korean": "그는 나무를 붙잡았습니다.",
-                "Hindi": "उसने पेड़ को पकड़ लिया।",
-                "Arabic": "لقد تمسك بالشجرة.",
-                "French": "Il s'est agrippé à un arbre.",
-                "Spanish": "Él se aferró a un árbol.",
-                "Chinese": "他抓住了一棵树。",
-                "Bengali": "তিনি গাছে ধরে ফেললেন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "捕らえる",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とらえる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to catch",
-                        "to capture",
-                        "to seize",
-                        "to arrest",
-                        "to grab",
-                        "to catch hold of"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to grasp",
-                        "to perceive",
-                        "to capture"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to captivate",
-                        "to move"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2",
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "逮捕",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "たいほ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "arrest",
-                        "apprehension",
-                        "capture"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "逃げる",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "にげる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to run away",
-                        "to flee",
-                        "to get away",
-                        "to escape",
-                        "to break out",
-                        "to leave",
-                        "to take cover"
-                    ],
-                    "part_of_speech": "Ichidan verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to avoid",
-                        "to evade",
-                        "to dodge",
-                        "to shirk",
-                        "to back away"
-                    ],
-                    "part_of_speech": "Ichidan verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to keep the lead"
-                    ],
-                    "part_of_speech": "Ichidan verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to escape",
-                        "to leak out",
-                        "to be lost"
-                    ],
-                    "part_of_speech": "Ichidan verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "警察につかまる",
+        "泥棒につかまる",
+        "電車につかまる",
+        "縄につかまる",
+        "木につかまる"
     ]
 }

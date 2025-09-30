@@ -1,122 +1,233 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "努力",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/9I1ru6u_UOI",
     "in_db": true,
-    "reading": "どりょく",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "努力",
+        "reading": "どりょく",
+        "introduction_japanese": "",
+        "introduction_english": "Today, our focus is on the word \"どりょく\" which you'll often hear in contexts related to personal goals, workplace achievements, and study routines.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"どりょく\" means effort or hard work. It's about putting in significant energy and determination to achieve something.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "effort",
                 "exertion",
                 "endeavour",
                 "endeavor",
                 "hard work",
                 "striving"
-            ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "努力",
-                "English": "effort",
-                "Persian": "تلاش",
-                "Nepali": "प्रयास",
-                "Indonesian": "usaha",
-                "Filipino": "pagsisikap",
-                "Vietnamese": "nỗ lực",
-                "Burmese": "ကြိုးစားမှု",
-                "Korean": "노력",
-                "Hindi": "प्रयास",
-                "Arabic": "جهد",
-                "French": "effort",
-                "Spanish": "esfuerzo",
-                "Chinese": "努力",
-                "Bengali": "প্রচেষ্টা"
+            ]
+        ],
+        "meaning_translations": {
+            "effort": {
+                "EN": "effort",
+                "ID": "usaha",
+                "ES": "esfuerzo",
+                "VI": "nỗ lực",
+                "FR": "effort",
+                "NE": "प्रयास",
+                "BN": "প্রচেষ্টা",
+                "ZH": "努力",
+                "KO": "노력",
+                "TL": "pagsisikap",
+                "MY": "ကြိုးစားမှု",
+                "HI": "प्रयास",
+                "AR": "جهد",
+                "FA": "تلاش"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "努力が実る。",
+                "furigana": "努力(どりょく)が実(みの)る。",
+                "translations": {
+                    "EN": "Efforts bear fruit.",
+                    "ID": "Usaha membuahkan hasil.",
+                    "ES": "Los esfuerzos dan sus frutos.",
+                    "VI": "Nỗ lực được đền đáp.",
+                    "FR": "Les efforts portent leurs fruits.",
+                    "NE": "प्रयास फलदायी हुन्छ।",
+                    "BN": "প্রচেষ্টা ফল দেয়।",
+                    "ZH": "努力会结出果实。",
+                    "KO": "노력이 결실을 맺다.",
+                    "TL": "Nagbubunga ang mga pagsisikap.",
+                    "MY": "ကြိုးပမ်းအားထုတ်မှုတွေ ကျေးဇူးတင်ပါတယ်။",
+                    "HI": "प्रयास फल देता है।",
+                    "AR": "تكلل الجهود بالنجاح.",
+                    "FA": "تلاش‌ها نتیجه می‌دهند."
+                }
+            },
+            {
+                "kanji": "私は努力を続ける。",
+                "furigana": "私(わたし)は努力(どりょく)を続(つづ)ける。",
+                "translations": {
+                    "EN": "I will continue to make an effort.",
+                    "ID": "Saya akan terus berusaha.",
+                    "ES": "Continuaré haciendo un esfuerzo.",
+                    "VI": "Tôi sẽ tiếp tục nỗ lực.",
+                    "FR": "Je continuerai à faire des efforts.",
+                    "NE": "म मिहिनेत गर्न जारी राख्नेछु।",
+                    "BN": "আমি প্রচেষ্টা চালিয়ে যাব।",
+                    "ZH": "我会继续努力。",
+                    "KO": "저는 노력을 계속할 것입니다.",
+                    "TL": "Ipagpapatuloy ko ang pagsisikap.",
+                    "MY": "ကျွန်တော်သည်ကြိုးစားဆောင်ရွက်မှုကိုဆက်လက်လုပ်ဆောင်သွားမည်။",
+                    "HI": "मैं प्रयास करना जारी रखूंगा।",
+                    "AR": "سأواصل بذل الجهد.",
+                    "FA": "من به تلاش کردن ادامه می‌دهم."
+                }
+            },
+            {
+                "kanji": "彼の努力が見える。",
+                "furigana": "彼(かれ)の努力(どりょく)が見(み)える。",
+                "translations": {
+                    "EN": "I can see his efforts.",
+                    "ID": "Aku bisa melihat usahanya.",
+                    "ES": "Puedo ver sus esfuerzos.",
+                    "VI": "Tôi có thể thấy nỗ lực của anh ấy.",
+                    "FR": "Je peux voir ses efforts.",
+                    "NE": "म उनका प्रयासहरू देख्न सक्छु।",
+                    "BN": "আমি তার প্রচেষ্টা দেখতে পারি।",
+                    "ZH": "我可以看到他的努力。",
+                    "KO": "그의 노력이 보인다.",
+                    "TL": "Nakikita ko ang kanyang pagsisikap.",
+                    "MY": "သူ၏ကြိုးပမ်းမှုများကိုတွေ့ရတယ်။",
+                    "HI": "मैं उसकी मेहनत देख सकता हूँ।",
+                    "AR": "يمكنني رؤية جهوده.",
+                    "FA": "تلاش‌های او را می‌توانم ببینم."
+                }
+            },
+            {
+                "kanji": "彼は努力を重ねます。",
+                "furigana": "彼(かれ)は努力(どりょく)を重(かさ)ねます。",
+                "translations": {
+                    "EN": "He puts in a lot of effort.",
+                    "ID": "Dia terus berusaha keras.",
+                    "ES": "Él pone mucho esfuerzo.",
+                    "VI": "Anh ấy nỗ lực rất nhiều.",
+                    "FR": "Il met beaucoup d'efforts.",
+                    "NE": "उनी धेरै कसरत गर्छन्।",
+                    "BN": "সে অনেক চেষ্টা করে।",
+                    "ZH": "他努力很多。",
+                    "KO": "그는 노력을 기울입니다.",
+                    "TL": "Patuloy siyang nagsisikap.",
+                    "MY": "သူသည် ကြိုးစားအားထုတ်သည်။",
+                    "HI": "वह बहुत प्रयास करता है।",
+                    "AR": "يبذل الكثير من الجهد.",
+                    "FA": "او تلاش زیادی می‌کند."
+                }
+            },
+            {
+                "kanji": "努力が足りない。",
+                "furigana": "努力(どりょく)が足り(たり)ない。",
+                "translations": {
+                    "EN": "The effort is not enough.",
+                    "ID": "Usaha tidak cukup.",
+                    "ES": "El esfuerzo no es suficiente.",
+                    "VI": "Nỗ lực không đủ.",
+                    "FR": "L'effort n'est pas suffisant.",
+                    "NE": "प्रयास पर्याप्त छैन।",
+                    "BN": "পরিশ্রম যথেষ্ট নয়।",
+                    "ZH": "努力不够。",
+                    "KO": "노력이 부족하다.",
+                    "TL": "Hindi sapat ang pagsisikap.",
+                    "MY": "ကြိုးပမ်းမှုလုံလောက်မှုမရှိပါ။",
+                    "HI": "प्रयास पर्याप्त नहीं है।",
+                    "AR": "الجهد ليس كافياً.",
+                    "FA": "تلاش کافی نیست."
+                }
+            }
+        ],
+        "synonyms": [
+            "頑張り : がんばり : tenacity",
+            "粘り : ねばり : stickiness"
+        ],
+        "synonyms_explanation": "The most common synonyms of \"どりょく\" are \"がんばり\" and \"ねばり\". \"がんばり\" emphasizes perseverance and striving, akin to \"doing one's best\". \"ねばり\" focuses more on tenacity and persistence, often used in contexts where sticking with something challenging is crucial.",
+        "antonyms": [
+            "怠惰 : たいだ : lazy"
+        ],
+        "antonyms_explanation": "The most common antonym of \"どりょく\" is \"たいだ\". \"たいだ\" means laziness and contrasts directly with \"どりょく\", reflecting a lack of effort or motivation.",
+        "kanji_details": [
+            {
+                "kanji": "努",
+                "common_words": [
+                    "努める: to endeavor",
+                    "努力家: hard worker"
+                ]
+            },
+            {
+                "kanji": "力",
+                "common_words": [
+                    "力持ち: muscleman",
+                    "能力: ability"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "努力",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "努力",
+                "reading": "どりょく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "effort",
+                    "exertion",
+                    "endeavour",
+                    "endeavor",
+                    "hard work",
+                    "striving"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "努",
+        "力"
     ],
-    "kanjis": [
-        {
-            "kanji": "努",
+    "kanji_data": {
+        "努": {
             "meanings": [
                 "as much as possible",
                 "diligent",
                 "toil"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ド"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "つと.める"
             ],
-            "strokes": 7,
+            "stroke_count": 7,
             "jlpt": 3,
-            "frequency": 749,
+            "freq_mainichi_shinbun": 749,
             "unicode": "52AA",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "努める",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "つとめる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to endeavor",
-                                "to endeavour",
-                                "to try hard",
-                                "to work hard",
-                                "to strive",
-                                "to make an effort",
-                                "to exert oneself",
-                                "to devote oneself",
-                                "to be committed"
-                            ],
-                            "part_of_speech": "Ichidan verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "努力家",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どりょくか",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "hard worker",
-                                "hardworking person"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         },
-        {
-            "kanji": "力",
+        "力": {
             "meanings": [
                 "bear up",
                 "exert",
@@ -125,302 +236,26 @@
                 "strength",
                 "strong"
             ],
-            "onyomi": [
+            "on_readings": [
                 "リイ",
                 "リキ",
                 "リョク"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ちから"
             ],
-            "strokes": 2,
+            "stroke_count": 2,
             "jlpt": 4,
-            "frequency": 62,
+            "freq_mainichi_shinbun": 62,
             "unicode": "529B",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "力持ち",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちからもち",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "muscleman",
-                                "strong man"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "能力",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "のうりょく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "ability",
-                                "faculty"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         }
-    ],
-    "kanji_explanation": "The first kanji means to make an effort or to strive and it carries the idea of exerting oneself. For example, つとめる uses this kanji to mean trying hard or working at something, and どりょくか shows a person characterized by continuous effort. The second kanji means power or strength and it gives the sense of force or ability. For example, ちからもち emphasizes physical strength and のうりょく shows someone’s capability or skill level.",
-    "explanations": {
-        "explanation": "The word \"どりょく\" means effort or hard work. It's about putting in significant energy and determination to achieve something.",
-        "youtube_description": "Learn how to use the Japanese word 努力 (どりょく) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.  \nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "Today, our focus is on the word \"どりょく\" which you'll often hear in contexts related to personal goals, workplace achievements, and study routines.",
-        "collocations": [
-            "どりょくがみのる",
-            "どりょくをつづける",
-            "どりょくがみえる",
-            "どりょくをかさねる",
-            "どりょくがたりない"
-        ],
-        "synonyms": [
-            "がんばり",
-            "ねばり"
-        ],
-        "synonyms_explanation": "The most common synonyms of \"どりょく\" are \"がんばり\" and \"ねばり\". \"がんばり\" emphasizes perseverance and striving, akin to \"doing one's best\". \"ねばり\" focuses more on tenacity and persistence, often used in contexts where sticking with something challenging is crucial.",
-        "antonyms": [
-            "怠惰"
-        ],
-        "antonyms_explanation": "The most common antonym of \"どりょく\" is \"たいだ\". \"たいだ\" means laziness and contrasts directly with \"どりょく\", reflecting a lack of effort or motivation."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "努力が実る。",
-            "furigana": "努力(どりょく)が実(みの)る。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "努力が実る。",
-                "English": "Efforts bear fruit.",
-                "Persian": "تلاش‌ها نتیجه می‌دهند.",
-                "Nepali": "प्रयास फलदायी हुन्छ।",
-                "Indonesian": "Usaha membuahkan hasil.",
-                "Filipino": "Nagbubunga ang mga pagsisikap.",
-                "Vietnamese": "Nỗ lực được đền đáp.",
-                "Burmese": "ကြိုးပမ်းအားထုတ်မှုတွေ ကျေးဇူးတင်ပါတယ်။",
-                "Korean": "노력이 결실을 맺다.",
-                "Hindi": "प्रयास फल देता है।",
-                "Arabic": "تكلل الجهود بالنجاح.",
-                "French": "Les efforts portent leurs fruits.",
-                "Spanish": "Los esfuerzos dan sus frutos.",
-                "Chinese": "努力会结出果实。",
-                "Bengali": "প্রচেষ্টা ফল দেয়।"
-            }
-        },
-        {
-            "kanji": "私は努力を続ける。",
-            "furigana": "私(わたし)は努力(どりょく)を続(つづ)ける。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は努力を続ける。",
-                "English": "I will continue to make an effort.",
-                "Persian": "من به تلاش کردن ادامه می‌دهم.",
-                "Nepali": "म मिहिनेत गर्न जारी राख्नेछु।",
-                "Indonesian": "Saya akan terus berusaha.",
-                "Filipino": "Ipagpapatuloy ko ang pagsisikap.",
-                "Vietnamese": "Tôi sẽ tiếp tục nỗ lực.",
-                "Burmese": "ကျွန်တော်သည်ကြိုးစားဆောင်ရွက်မှုကိုဆက်လက်လုပ်ဆောင်သွားမည်။",
-                "Korean": "저는 노력을 계속할 것입니다.",
-                "Hindi": "मैं प्रयास करना जारी रखूंगा।",
-                "Arabic": "سأواصل بذل الجهد.",
-                "French": "Je continuerai à faire des efforts.",
-                "Spanish": "Continuaré haciendo un esfuerzo.",
-                "Chinese": "我会继续努力。",
-                "Bengali": "আমি প্রচেষ্টা চালিয়ে যাব।"
-            }
-        },
-        {
-            "kanji": "彼の努力が見える。",
-            "furigana": "彼(かれ)の努力(どりょく)が見(み)える。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼の努力が見える。",
-                "English": "I can see his efforts.",
-                "Persian": "تلاش‌های او را می‌توانم ببینم.",
-                "Nepali": "म उनका प्रयासहरू देख्न सक्छु।",
-                "Indonesian": "Aku bisa melihat usahanya.",
-                "Filipino": "Nakikita ko ang kanyang pagsisikap.",
-                "Vietnamese": "Tôi có thể thấy nỗ lực của anh ấy.",
-                "Burmese": "သူ၏ကြိုးပမ်းမှုများကိုတွေ့ရတယ်။",
-                "Korean": "그의 노력이 보인다.",
-                "Hindi": "मैं उसकी मेहनत देख सकता हूँ।",
-                "Arabic": "يمكنني رؤية جهوده.",
-                "French": "Je peux voir ses efforts.",
-                "Spanish": "Puedo ver sus esfuerzos.",
-                "Chinese": "我可以看到他的努力。",
-                "Bengali": "আমি তার প্রচেষ্টা দেখতে পারি।"
-            }
-        },
-        {
-            "kanji": "彼は努力を重ねます。",
-            "furigana": "彼(かれ)は努力(どりょく)を重(かさ)ねます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は努力を重ねます。",
-                "English": "He puts in a lot of effort.",
-                "Persian": "او تلاش زیادی می‌کند.",
-                "Nepali": "उनी धेरै कसरत गर्छन्।",
-                "Indonesian": "Dia terus berusaha keras.",
-                "Filipino": "Patuloy siyang nagsisikap.",
-                "Vietnamese": "Anh ấy nỗ lực rất nhiều.",
-                "Burmese": "သူသည် ကြိုးစားအားထုတ်သည်။",
-                "Korean": "그는 노력을 기울입니다.",
-                "Hindi": "वह बहुत प्रयास करता है।",
-                "Arabic": "يبذل الكثير من الجهد.",
-                "French": "Il met beaucoup d'efforts.",
-                "Spanish": "Él pone mucho esfuerzo.",
-                "Chinese": "他努力很多。",
-                "Bengali": "সে অনেক চেষ্টা করে।"
-            }
-        },
-        {
-            "kanji": "努力が足りない。",
-            "furigana": "努力(どりょく)が足り(たり)ない。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "努力が足りない。",
-                "English": "The effort is not enough.",
-                "Persian": "تلاش کافی نیست.",
-                "Nepali": "प्रयास पर्याप्त छैन।",
-                "Indonesian": "Usaha tidak cukup.",
-                "Filipino": "Hindi sapat ang pagsisikap.",
-                "Vietnamese": "Nỗ lực không đủ.",
-                "Burmese": "ကြိုးပမ်းမှုလုံလောက်မှုမရှိပါ။",
-                "Korean": "노력이 부족하다.",
-                "Hindi": "प्रयास पर्याप्त नहीं है।",
-                "Arabic": "الجهد ليس كافياً.",
-                "French": "L'effort n'est pas suffisant.",
-                "Spanish": "El esfuerzo no es suficiente.",
-                "Chinese": "努力不够。",
-                "Bengali": "পরিশ্রম যথেষ্ট নয়।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "頑張り",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "がんばり",
-            "meanings": [
-                {
-                    "neuances": [
-                        "tenacity",
-                        "endurance"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "粘り",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ねばり",
-            "meanings": [
-                {
-                    "neuances": [
-                        "stickiness",
-                        "viscosity"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "tenacity",
-                        "persistence"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "怠惰",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "たいだ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "lazy",
-                        "idle",
-                        "indolent",
-                        "slothful"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "どりょくがみのる",
+        "どりょくをつづける",
+        "どりょくがみえる",
+        "どりょくをかさねる",
+        "どりょくがたりない"
     ]
 }

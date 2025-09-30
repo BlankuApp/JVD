@@ -1,147 +1,263 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "外出",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/mFVwZYznFvM",
     "in_db": true,
-    "reading": "がいしゅつ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "外出",
+        "reading": "がいしゅつ",
+        "introduction_japanese": "",
+        "introduction_english": "Today's highlight revolves around がいしゅつ, a term you'll frequently encounter when discussing plans to leave home or step outside for various activities, including shopping or meeting friends.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word 外出, or がいしゅつ in hiragana, means going out. It is used to describe the action of leaving one’s home or some place to go somewhere else, often for leisure, work, or errands.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "going out",
                 "outing",
                 "leaving"
             ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "外出",
-                "English": "Going out",
-                "Persian": "خارج رفتن",
-                "Nepali": "बाहिर जाने",
-                "Indonesian": "Keluar",
-                "Filipino": "Pumunta sa labas",
-                "Vietnamese": "Đi ra ngoài",
-                "Burmese": "အပြင်သွားနေ",
-                "Korean": "외출",
-                "Hindi": "बाहर जाना",
-                "Arabic": "الخروج",
-                "French": "Sortir",
-                "Spanish": "Salir",
-                "Chinese": "外出",
-                "Bengali": "বাইরে যাওয়া"
+            [
+                "Sotode"
+            ]
+        ],
+        "meaning_translations": {
+            "going out": {
+                "EN": "Going out",
+                "ID": "Keluar",
+                "ES": "Salir",
+                "VI": "Đi ra ngoài",
+                "FR": "Sortir",
+                "NE": "बाहिर जाने",
+                "BN": "বাইরে যাওয়া",
+                "ZH": "外出",
+                "KO": "외출",
+                "TL": "Pumunta sa labas",
+                "MY": "အပြင်သွားနေ",
+                "HI": "बाहर जाना",
+                "AR": "الخروج",
+                "FA": "خارج رفتن"
+            },
+            "Sotode": {
+                "EN": "Going out: Sotode",
+                "ID": "Keluar: Sotode",
+                "ES": "Salir: Sotode",
+                "VI": "Ra ngoài: Sotode",
+                "FR": "Sortir: Sotode",
+                "NE": "बाहिर जाँदै: Sotode",
+                "BN": "বাইরে যাওয়া: Sotode",
+                "ZH": "外出：Sotode",
+                "KO": "외출: Sotode",
+                "TL": "Paglabas: Sotode",
+                "MY": "ထွက်ခြင်း: Sotode",
+                "HI": "बाहर जाना: सोटोदे",
+                "AR": "الخروج: سوتودي",
+                "FA": "بیرون رفتن: سوتوده"
             }
         },
-        {
-            "neuances": [
-                "Sotode"
-            ],
-            "part_of_speech": "Place",
-            "translation": {
-                "Japanese": "外出: Sotode",
-                "English": "Going out: Sotode",
-                "Persian": "بیرون رفتن: سوتوده",
-                "Nepali": "बाहिर जाँदै: Sotode",
-                "Indonesian": "Keluar: Sotode",
-                "Filipino": "Paglabas: Sotode",
-                "Vietnamese": "Ra ngoài: Sotode",
-                "Burmese": "ထွက်ခြင်း: Sotode",
-                "Korean": "외출: Sotode",
-                "Hindi": "बाहर जाना: सोटोदे",
-                "Arabic": "الخروج: سوتودي",
-                "French": "Sortir: Sotode",
-                "Spanish": "Salir: Sotode",
-                "Chinese": "外出：Sotode",
-                "Bengali": "বাইরে যাওয়া: Sotode"
+        "examples": [
+            {
+                "kanji": "私は外出します。",
+                "furigana": "私(わたし)は外出(がいしゅつ)します。",
+                "translations": {
+                    "EN": "I am going out.",
+                    "ID": "Saya akan keluar.",
+                    "ES": "Yo salgo.",
+                    "VI": "Tôi sẽ ra ngoài.",
+                    "FR": "Je sors.",
+                    "NE": "म जाैनेछु।",
+                    "BN": "আমি বাইরে যাচ্ছি।",
+                    "ZH": "我出门。",
+                    "KO": "저는 외출합니다.",
+                    "TL": "Lalabas ako.",
+                    "MY": "ကျွန်တော် အပြင်ထွက်မယ်။",
+                    "HI": "मैं बाहर जा रहा हूँ।",
+                    "AR": "أنا ذاهب للخارج.",
+                    "FA": "من می‌روم بیرون."
+                }
+            },
+            {
+                "kanji": "外出の機会があります。",
+                "furigana": "外出(がいしゅつ)の機会(きかい)があります。",
+                "translations": {
+                    "EN": "There is an opportunity to go out.",
+                    "ID": "Ada kesempatan untuk pergi keluar.",
+                    "ES": "Hay una oportunidad de salir.",
+                    "VI": "Có cơ hội đi ra ngoài.",
+                    "FR": "Il y a une opportunité de sortir.",
+                    "NE": "बाहिर जाने अवसर छ।",
+                    "BN": "বাইরে যাওয়ার সুযোগ আছে।",
+                    "ZH": "有机会出去。",
+                    "KO": "외출할 기회가 있습니다.",
+                    "TL": "May pagkakataon na makalabas.",
+                    "MY": "ထွက်သွားချိန်အခွင့်အရေးတစ်ခုရှိသည်။",
+                    "HI": "बाहर जाने का मौका है।",
+                    "AR": "هناك فرصة للخروج.",
+                    "FA": "فرصتی برای بیرون رفتن وجود دارد."
+                }
+            },
+            {
+                "kanji": "今、外出中です。",
+                "furigana": "今(いま)、外出中(がいしゅつちゅう)です。",
+                "translations": {
+                    "EN": "I'm currently out.",
+                    "ID": "Saya sedang keluar.",
+                    "ES": "Ahora estoy afuera.",
+                    "VI": "Tôi hiện đang ra ngoài.",
+                    "FR": "Je suis actuellement dehors.",
+                    "NE": "म हाल बाहिर छु।",
+                    "BN": "আমি এখন বাইরে আছি।",
+                    "ZH": "我现在在外出。",
+                    "KO": "지금 외출 중입니다.",
+                    "TL": "Kasalukuyan akong nasa labas.",
+                    "MY": "အခုနေတုန်းမှာ နေပြန် တာ.",
+                    "HI": "मैं अभी बाहर हूँ।",
+                    "AR": "أنا خارج حاليًا.",
+                    "FA": "در حال حاضر بیرون هستم."
+                }
+            },
+            {
+                "kanji": "外出の準備をします。",
+                "furigana": "外出(がいしゅつ)の準備(じゅんび)をします。",
+                "translations": {
+                    "EN": "I will prepare to go out.",
+                    "ID": "Saya akan bersiap untuk pergi keluar.",
+                    "ES": "Me prepararé para salir.",
+                    "VI": "Tôi sẽ chuẩn bị để ra ngoài.",
+                    "FR": "Je vais me préparer à sortir.",
+                    "NE": "म बाहिर जानको लागि तयारी गर्छु।",
+                    "BN": "আমি বাইরে যাওয়ার প্রস্তুতি নিচ্ছি।",
+                    "ZH": "我准备要出去。",
+                    "KO": "외출 준비를 합니다.",
+                    "TL": "Maghahanda akong lumabas.",
+                    "MY": "ပြင်ပသို့ထွက်ရန်ပြင်ဆင်ပါသည်။",
+                    "HI": "मैं बाहर जाने की तैयारी करूँगा।",
+                    "AR": "سأستعدّ للخروج.",
+                    "FA": "من برای بیرون رفتن آماده می‌شوم."
+                }
+            },
+            {
+                "kanji": "外出のとき、かぎを忘れないで。",
+                "furigana": "外出(がいしゅつ)のとき、かぎを忘(わす)れないで。",
+                "translations": {
+                    "EN": "Don't forget the keys when you go out.",
+                    "ID": "Jangan lupa kunci saat pergi keluar.",
+                    "ES": "No olvides las llaves cuando salgas.",
+                    "VI": "Đừng quên chìa khóa khi ra ngoài.",
+                    "FR": "Ne pas oublier les clés en sortant.",
+                    "NE": "बाहिर जाँदा के चाबी बिर्सनु नभुल्नुस्।",
+                    "BN": "বাহিরে যাওয়ার সময় চাবি ভুলবেন না।",
+                    "ZH": "外出时别忘了带钥匙。",
+                    "KO": "외출할 때 열쇠를 잊지 마세요.",
+                    "TL": "Huwag kalimutan ang susi kapag lumabas.",
+                    "MY": "ပြင်ပထွက်တဲ့အချိန်တွင် သော့ရိုးတွေ မမေ့ပါနဲ့ ။",
+                    "HI": "बाहर जाते समय चाबी भूलना नहीं।",
+                    "AR": "عند الخروج، لا تنسى المفاتيح.",
+                    "FA": "هنگام خروج، کلیدها را فراموش نکن."
+                }
             }
-        }
+        ],
+        "synonyms": [
+            "外出先 : がいしゅつさき : where one has gone to"
+        ],
+        "synonyms_explanation": "The most common synonym of がいしゅつ is がいしゅつさき. This term emphasizes the specific destination or purpose for going out, unlike がいしゅつ, which is more about the action of leaving one's current location.",
+        "antonyms": [
+            "帰宅 : きたく : returning home"
+        ],
+        "antonyms_explanation": "The most common antonym of がいしゅつ is きたく. While がいしゅつ focuses on going out, きたく emphasizes the act of returning home, highlighting the contrasting directions in a daily routine.",
+        "kanji_details": [
+            {
+                "kanji": "外",
+                "common_words": [
+                    "外国: foreign country",
+                    "外側: exterior"
+                ]
+            },
+            {
+                "kanji": "出",
+                "common_words": [
+                    "出口: exit",
+                    "出席: attendance"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "外出",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "外出",
+                "reading": "がいしゅつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "going out",
+                    "outing",
+                    "leaving"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Sotode"
+                ],
+                "parts_of_speech": [
+                    "Place"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "外",
+        "出"
     ],
-    "kanjis": [
-        {
-            "kanji": "外",
+    "kanji_data": {
+        "外": {
             "meanings": [
                 "outside"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ガイ",
                 "ゲ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "そと",
                 "と-",
                 "はず.す",
                 "はず.れる",
                 "ほか"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": 5,
-            "frequency": 81,
+            "freq_mainichi_shinbun": 81,
             "unicode": "5916",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "外国",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "がいこく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "foreign country"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "外側",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "そとがわ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "exterior",
-                                "outside",
-                                "outer",
-                                "external",
-                                "lateral"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "Sotogawa"
-                            ],
-                            "part_of_speech": "Place",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         },
-        {
-            "kanji": "出",
+        "出": {
             "meanings": [
                 "come out",
                 "exit",
@@ -150,11 +266,11 @@
                 "protrude",
                 "put out"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シュツ",
                 "スイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-だ.す",
                 "-で",
                 "い.だす",
@@ -162,272 +278,18 @@
                 "だ.す",
                 "で.る"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": 5,
-            "frequency": 13,
+            "freq_mainichi_shinbun": 13,
             "unicode": "51FA",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "出口",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "でぐち",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "exit",
-                                "way out"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "outlet",
-                                "vent"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "出席",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅっせき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "attendance",
-                                "presence",
-                                "appearance"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         }
-    ],
-    "kanji_explanation": "The first kanji means outside or exterior, and it often gives the sense of something being other or beyond. For example, がいこく means a foreign country, where this kanji marks something outside of your own country. Another example is そとがわ, which literally points to the exterior side and shows the physical outside. The second kanji means to go out or to come out, and it conveys movement or emergence from an inside to an outside. For example, でぐち is an exit, showing the place where you go out, and しゅっせき uses this kanji to express showing up or being present by coming out into a group.",
-    "explanations": {
-        "explanation": "The word 外出, or がいしゅつ in hiragana, means going out. It is used to describe the action of leaving one’s home or some place to go somewhere else, often for leisure, work, or errands.",
-        "youtube_description": "Discover how to use the Japanese word 外出 (がいしゅつ) in everyday conversations! \nIn this video, we'll delve into its meanings, kanji components, and common phrases to help you confidently incorporate this word into your Japanese vocabulary.\nPerfect for all learners aiming to enhance their Japanese language skills. Remember to like, comment, and subscribe for more informative content!",
-        "motivation": "Today's highlight revolves around がいしゅつ, a term you'll frequently encounter when discussing plans to leave home or step outside for various activities, including shopping or meeting friends.",
-        "collocations": [
-            "がいしゅつする",
-            "がいしゅつのきかい",
-            "がいしゅつちゅう",
-            "がいしゅつのじゅんび",
-            "がいしゅつのとき"
-        ],
-        "synonyms": [
-            "外出先"
-        ],
-        "synonyms_explanation": "The most common synonym of がいしゅつ is がいしゅつさき. This term emphasizes the specific destination or purpose for going out, unlike がいしゅつ, which is more about the action of leaving one's current location.",
-        "antonyms": [
-            "帰宅"
-        ],
-        "antonyms_explanation": "The most common antonym of がいしゅつ is きたく. While がいしゅつ focuses on going out, きたく emphasizes the act of returning home, highlighting the contrasting directions in a daily routine."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "私は外出します。",
-            "furigana": "私(わたし)は外出(がいしゅつ)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は外出します。",
-                "English": "I am going out.",
-                "Persian": "من می‌روم بیرون.",
-                "Nepali": "म जाैनेछु।",
-                "Indonesian": "Saya akan keluar.",
-                "Filipino": "Lalabas ako.",
-                "Vietnamese": "Tôi sẽ ra ngoài.",
-                "Burmese": "ကျွန်တော် အပြင်ထွက်မယ်။",
-                "Korean": "저는 외출합니다.",
-                "Hindi": "मैं बाहर जा रहा हूँ।",
-                "Arabic": "أنا ذاهب للخارج.",
-                "French": "Je sors.",
-                "Spanish": "Yo salgo.",
-                "Chinese": "我出门。",
-                "Bengali": "আমি বাইরে যাচ্ছি।"
-            }
-        },
-        {
-            "kanji": "外出の機会があります。",
-            "furigana": "外出(がいしゅつ)の機会(きかい)があります。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "外出の機会があります。",
-                "English": "There is an opportunity to go out.",
-                "Persian": "فرصتی برای بیرون رفتن وجود دارد.",
-                "Nepali": "बाहिर जाने अवसर छ।",
-                "Indonesian": "Ada kesempatan untuk pergi keluar.",
-                "Filipino": "May pagkakataon na makalabas.",
-                "Vietnamese": "Có cơ hội đi ra ngoài.",
-                "Burmese": "ထွက်သွားချိန်အခွင့်အရေးတစ်ခုရှိသည်။",
-                "Korean": "외출할 기회가 있습니다.",
-                "Hindi": "बाहर जाने का मौका है।",
-                "Arabic": "هناك فرصة للخروج.",
-                "French": "Il y a une opportunité de sortir.",
-                "Spanish": "Hay una oportunidad de salir.",
-                "Chinese": "有机会出去。",
-                "Bengali": "বাইরে যাওয়ার সুযোগ আছে।"
-            }
-        },
-        {
-            "kanji": "今、外出中です。",
-            "furigana": "今(いま)、外出中(がいしゅつちゅう)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "今、外出中です。",
-                "English": "I'm currently out.",
-                "Persian": "در حال حاضر بیرون هستم.",
-                "Nepali": "म हाल बाहिर छु।",
-                "Indonesian": "Saya sedang keluar.",
-                "Filipino": "Kasalukuyan akong nasa labas.",
-                "Vietnamese": "Tôi hiện đang ra ngoài.",
-                "Burmese": "အခုနေတုန်းမှာ နေပြန် တာ.",
-                "Korean": "지금 외출 중입니다.",
-                "Hindi": "मैं अभी बाहर हूँ।",
-                "Arabic": "أنا خارج حاليًا.",
-                "French": "Je suis actuellement dehors.",
-                "Spanish": "Ahora estoy afuera.",
-                "Chinese": "我现在在外出。",
-                "Bengali": "আমি এখন বাইরে আছি।"
-            }
-        },
-        {
-            "kanji": "外出の準備をします。",
-            "furigana": "外出(がいしゅつ)の準備(じゅんび)をします。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "外出の準備をします。",
-                "English": "I will prepare to go out.",
-                "Persian": "من برای بیرون رفتن آماده می‌شوم.",
-                "Nepali": "म बाहिर जानको लागि तयारी गर्छु।",
-                "Indonesian": "Saya akan bersiap untuk pergi keluar.",
-                "Filipino": "Maghahanda akong lumabas.",
-                "Vietnamese": "Tôi sẽ chuẩn bị để ra ngoài.",
-                "Burmese": "ပြင်ပသို့ထွက်ရန်ပြင်ဆင်ပါသည်။",
-                "Korean": "외출 준비를 합니다.",
-                "Hindi": "मैं बाहर जाने की तैयारी करूँगा।",
-                "Arabic": "سأستعدّ للخروج.",
-                "French": "Je vais me préparer à sortir.",
-                "Spanish": "Me prepararé para salir.",
-                "Chinese": "我准备要出去。",
-                "Bengali": "আমি বাইরে যাওয়ার প্রস্তুতি নিচ্ছি।"
-            }
-        },
-        {
-            "kanji": "外出のとき、かぎを忘れないで。",
-            "furigana": "外出(がいしゅつ)のとき、かぎを忘(わす)れないで。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "外出のとき、かぎを忘れないで。",
-                "English": "Don't forget the keys when you go out.",
-                "Persian": "هنگام خروج، کلیدها را فراموش نکن.",
-                "Nepali": "बाहिर जाँदा के चाबी बिर्सनु नभुल्नुस्।",
-                "Indonesian": "Jangan lupa kunci saat pergi keluar.",
-                "Filipino": "Huwag kalimutan ang susi kapag lumabas.",
-                "Vietnamese": "Đừng quên chìa khóa khi ra ngoài.",
-                "Burmese": "ပြင်ပထွက်တဲ့အချိန်တွင် သော့ရိုးတွေ မမေ့ပါနဲ့ ။",
-                "Korean": "외출할 때 열쇠를 잊지 마세요.",
-                "Hindi": "बाहर जाते समय चाबी भूलना नहीं।",
-                "Arabic": "عند الخروج، لا تنسى المفاتيح.",
-                "French": "Ne pas oublier les clés en sortant.",
-                "Spanish": "No olvides las llaves cuando salgas.",
-                "Chinese": "外出时别忘了带钥匙。",
-                "Bengali": "বাহিরে যাওয়ার সময় চাবি ভুলবেন না।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "外出先",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "がいしゅつさき",
-            "meanings": [
-                {
-                    "neuances": [
-                        "where one has gone to",
-                        "place one has gone to",
-                        " destination"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "帰宅",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "きたく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "returning home",
-                        "going home",
-                        "coming home",
-                        "getting home"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "がいしゅつする",
+        "がいしゅつのきかい",
+        "がいしゅつちゅう",
+        "がいしゅつのじゅんび",
+        "がいしゅつのとき"
     ]
 }

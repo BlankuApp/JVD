@@ -1,421 +1,267 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "恥ずかしい",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/paW5p00YJFI",
     "in_db": true,
-    "reading": "はずかしい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "恥ずかしい",
+        "reading": "はずかしい",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is はずかしい which you will often hear in situations like feeling shy at a party, being embarrassed during a speech, or when someone compliments you.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"hazukashii\" means feeling embarrassed, shy, or ashamed in English. It's used to describe situations where someone feels a sense of awkwardness or embarrassment. It can also be used more broadly to express modesty or being self-conscious.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "embarrassing",
                 "embarrassed",
                 "ashamed",
                 "humiliated",
                 "shy"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "恥ずかしい：エンバラシング",
-                "English": "Embarrassing",
-                "Persian": "خجالت آور",
-                "Nepali": "लाजमर्दो",
-                "Indonesian": "Memalukan",
-                "Filipino": "Nakakahiya",
-                "Vietnamese": "Ngại ngùng",
-                "Burmese": "ရှက်ရမှုဖြစ်",
-                "Korean": "부끄러운",
-                "Hindi": "शर्मनाक",
-                "Arabic": "محرج",
-                "French": "Gênant",
-                "Spanish": "Vergonzoso",
-                "Chinese": "尴尬的",
-                "Bengali": "লজ্জাজনক"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "disgraceful",
                 "shameful"
-            ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "恥ずかしい",
-                "English": "embarrassing",
-                "Persian": "شرم آور",
-                "Nepali": "लाजमर्दो",
-                "Indonesian": "memalukan",
-                "Filipino": "nakakahiya",
-                "Vietnamese": "xấu hổ",
-                "Burmese": "ဆိုးရွားပျက်ကွက်သော",
-                "Korean": "부끄러운",
-                "Hindi": "शर्मनाक",
-                "Arabic": "مخجل",
-                "French": "embarrassant",
-                "Spanish": "vergonzoso",
-                "Chinese": "尴尬的",
-                "Bengali": "লজ্জাজনক"
+            ]
+        ],
+        "meaning_translations": {
+            "embarrassing": {
+                "EN": "Embarrassing",
+                "ID": "Memalukan",
+                "ES": "Vergonzoso",
+                "VI": "Ngại ngùng",
+                "FR": "Gênant",
+                "NE": "लाजमर्दो",
+                "BN": "লজ্জাজনক",
+                "ZH": "尴尬的",
+                "KO": "부끄러운",
+                "TL": "Nakakahiya",
+                "MY": "ရှက်ရမှုဖြစ်",
+                "HI": "शर्मनाक",
+                "AR": "محرج",
+                "FA": "خجالت آور"
+            },
+            "disgraceful": {
+                "EN": "embarrassing",
+                "ID": "memalukan",
+                "ES": "vergonzoso",
+                "VI": "xấu hổ",
+                "FR": "embarrassant",
+                "NE": "लाजमर्दो",
+                "BN": "লজ্জাজনক",
+                "ZH": "尴尬的",
+                "KO": "부끄러운",
+                "TL": "nakakahiya",
+                "MY": "ဆိုးရွားပျက်ကွက်သော",
+                "HI": "शर्मनाक",
+                "AR": "مخجل",
+                "FA": "شرم آور"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "私は恥ずかしいと思った。",
+                "furigana": "私(わたし)は恥(は)ずかしいと 思(おも)った。",
+                "translations": {
+                    "EN": "I felt embarrassed.",
+                    "ID": "Saya merasa malu.",
+                    "ES": "Me sentí avergonzado.",
+                    "VI": "Tôi cảm thấy xấu hổ.",
+                    "FR": "Je me suis senti(e) embarrassé(e).",
+                    "NE": "म लजाएँ लाग्यो।",
+                    "BN": "আমি লজ্জায় পড়েছিলাম।",
+                    "ZH": "我感到尴尬。",
+                    "KO": "나는 부끄러웠다.",
+                    "TL": "Nahihiya ako.",
+                    "MY": "ကျွန်တော်ရှက်ဖြစ်တယ်။",
+                    "HI": "मुझे शर्मिंदगी महसूस हुई।",
+                    "AR": "شعرت بالحرج.",
+                    "FA": "من احساس شرمندگی کردم."
+                }
+            },
+            {
+                "kanji": "彼は顔が恥ずかしいです。",
+                "furigana": "彼(かれ)は顔(かお)が恥(は)ずかしいです。",
+                "translations": {
+                    "EN": "He is embarrassed.",
+                    "ID": "Dia merasa malu.",
+                    "ES": "Él está avergonzado.",
+                    "VI": "Anh ấy ngượng ngùng.",
+                    "FR": "Il est embarrassé.",
+                    "NE": "ऊ लाज लाग्दो छ।",
+                    "BN": "সে লজ্জিত।",
+                    "ZH": "他脸红了。",
+                    "KO": "그는 얼굴이 부끄럽습니다.",
+                    "TL": "Nahihiya siya.",
+                    "MY": "သူကရှက်တယ်။",
+                    "HI": "वह शर्मिंदा है।",
+                    "AR": "إنه محرج.",
+                    "FA": "او خجالت زده است."
+                }
+            },
+            {
+                "kanji": "私はとても恥ずかしい気持ちです。",
+                "furigana": "私(わたし)はとても恥(は)ずかしい気持(きも)ちです。",
+                "translations": {
+                    "EN": "I am feeling very embarrassed.",
+                    "ID": "Saya merasa sangat malu.",
+                    "ES": "Me siento muy avergonzado.",
+                    "VI": "Tôi cảm thấy rất ngượng ngùng.",
+                    "FR": "Je me sens très embarrassé.",
+                    "NE": "म निकै लाजमर्दो अनुभव गर्दैछु।",
+                    "BN": "আমি খুব লজ্জা পাচ্ছি।",
+                    "ZH": "我感到非常尴尬。",
+                    "KO": "나는 매우 부끄러운 기분이 든다.",
+                    "TL": "Napaka-hiya naman ako.",
+                    "MY": "ကျွန်ုပ်သည် အပြုံးပျက်လွန်လွန် ရှာနေသည်။",
+                    "HI": "मैं बहुत शर्मिंदा महसूस कर रहा हूँ।",
+                    "AR": "أشعر بالحرج الشديد.",
+                    "FA": "من خیلی خجالت کشیده‌ام."
+                }
+            },
+            {
+                "kanji": "これは恥ずかしい話です。",
+                "furigana": "これは恥ずかしい話(はなし)です。",
+                "translations": {
+                    "EN": "This is an embarrassing story.",
+                    "ID": "Ini adalah cerita yang memalukan.",
+                    "ES": "Esta es una historia embarazosa.",
+                    "VI": "Đây là một câu chuyện xấu hổ.",
+                    "FR": "C'est une histoire embarrassante.",
+                    "NE": "यो एक लाजमर्दो कथा हो।",
+                    "BN": "এটি একটি লজ্জাজনক গল্প।",
+                    "ZH": "这是一个尴尬的故事。",
+                    "KO": "이것은 부끄러운 이야기입니다.",
+                    "TL": "Ito ay isang nakakahiya na kwento.",
+                    "MY": "ဤသည်မှာ ရွံရှာစရာပုံပြင်တစ်ပုဒ်ဖြစ်သည်။",
+                    "HI": "यह एक शर्मनाक कहानी है।",
+                    "AR": "هذه قصة مُحرجة.",
+                    "FA": "این یک داستان خجالت‌آور است."
+                }
+            },
+            {
+                "kanji": "これを言うのはちょっと恥ずかしいです。",
+                "furigana": "これを言(い)うのはちょっと恥(は)ずかしいです。",
+                "translations": {
+                    "EN": "It's a little embarrassing to say this.",
+                    "ID": "Agak malu untuk mengatakannya.",
+                    "ES": "Es un poco vergonzoso decir esto.",
+                    "VI": "Nói điều này hơi ngại.",
+                    "FR": "C'est un peu gênant de dire ça.",
+                    "NE": "यो कुरा भन्न अलिकति लाजमर्दो छ।",
+                    "BN": "এটি বলা একটু লজ্জা লাগে।",
+                    "ZH": "说这个有点不好意思。",
+                    "KO": "이 말을 하는 것은 조금 부끄럽습니다.",
+                    "TL": "Nakakahiya ng kaunti sabihin ito.",
+                    "MY": "ဒီဟာပြောရတာနည်းနည်းရှက်ဖွယ်ဖြစ်တယ်။",
+                    "HI": "यह कहने में थोड़ा शर्म आती है।",
+                    "AR": "من المحرج قليلاً قول هذا.",
+                    "FA": "گفتن این موضوع کمی خجالت آور است."
+                }
+            }
+        ],
+        "synonyms": [
+            "照れる : てれる : to be shy",
+            "恥じる : はじる : to feel ashamed"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"hazukashii\" are \"tereru\" and \"hajiru.\" \"Tereru\" is often used in lighter contexts, capturing the feeling of being shy or bashful. \"Hajiru,\" on the other hand, emphasizes a deeper feeling of shame or moral embarrassment, often in more serious contexts.",
+        "antonyms": [
+            "自信 : じしん : self-confidence",
+            "堂々 : どうどう : magnificent"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word \"hazukashii\" are \"jishin\" and \"doudou.\" \"Jishin\" refers to having confidence or assurance, grounding the feeling in self-belief. \"Doudou\" suggests boldness and a commanding presence, reflecting an outward projection of confidence and poise.",
+        "kanji_details": [
+            {
+                "kanji": "恥",
+                "common_words": [
+                    "恥じる: to feel ashamed",
+                    "恥知らず: shameless"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "恥ずかしい",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "恥ずかしい",
+                "reading": "はずかしい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "embarrassing",
+                    "embarrassed",
+                    "ashamed",
+                    "humiliated",
+                    "shy"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "disgraceful",
+                    "shameful"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "恥"
     ],
-    "kanjis": [
-        {
-            "kanji": "恥",
+    "kanji_data": {
+        "恥": {
             "meanings": [
                 "dishonor",
                 "shame"
             ],
-            "onyomi": [
+            "on_readings": [
                 "チ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "は.じらう",
                 "は.じる",
                 "は.ずかしい",
                 "はじ"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 3,
-            "frequency": 1575,
+            "freq_mainichi_shinbun": 1575,
             "unicode": "6065",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "恥じる",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はじる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to feel ashamed"
-                            ],
-                            "part_of_speech": "Ichidan verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "恥知らず",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はじしらず",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "shameless",
-                                "shameless person"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means shame or embarrassment and carries the idea of feeling dishonored. In the word はじる it expresses the internal feeling of being ashamed and shows how the character names that emotion. In the word はじしらず it points to the absence of shame, so the kanji helps describe someone who lacks that feeling. The character therefore centers any word around the concept of shame or disgrace.",
-    "explanations": {
-        "explanation": "The word \"hazukashii\" means feeling embarrassed, shy, or ashamed in English. It's used to describe situations where someone feels a sense of awkwardness or embarrassment. It can also be used more broadly to express modesty or being self-conscious.",
-        "youtube_description": "Learn how to use the Japanese word 恥ずかしい (はずかしい) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is はずかしい which you will often hear in situations like feeling shy at a party, being embarrassed during a speech, or when someone compliments you.",
-        "collocations": [
-            "はずかしいと思う",
-            "顔がはずかしい",
-            "はずかしい気持ち",
-            "はずかしい話",
-            "ちょっとはずかしい"
-        ],
-        "synonyms": [
-            "照れる",
-            "恥じる"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"hazukashii\" are \"tereru\" and \"hajiru.\" \"Tereru\" is often used in lighter contexts, capturing the feeling of being shy or bashful. \"Hajiru,\" on the other hand, emphasizes a deeper feeling of shame or moral embarrassment, often in more serious contexts.",
-        "antonyms": [
-            "自信",
-            "堂々"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"hazukashii\" are \"jishin\" and \"doudou.\" \"Jishin\" refers to having confidence or assurance, grounding the feeling in self-belief. \"Doudou\" suggests boldness and a commanding presence, reflecting an outward projection of confidence and poise."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "私は恥ずかしいと思った。",
-            "furigana": "私(わたし)は恥(は)ずかしいと 思(おも)った。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "私は恥ずかしいと思った。",
-                "English": "I felt embarrassed.",
-                "Persian": "من احساس شرمندگی کردم.",
-                "Nepali": "म लजाएँ लाग्यो।",
-                "Indonesian": "Saya merasa malu.",
-                "Filipino": "Nahihiya ako.",
-                "Vietnamese": "Tôi cảm thấy xấu hổ.",
-                "Burmese": "ကျွန်တော်ရှက်ဖြစ်တယ်။",
-                "Korean": "나는 부끄러웠다.",
-                "Hindi": "मुझे शर्मिंदगी महसूस हुई।",
-                "Arabic": "شعرت بالحرج.",
-                "French": "Je me suis senti(e) embarrassé(e).",
-                "Spanish": "Me sentí avergonzado.",
-                "Chinese": "我感到尴尬。",
-                "Bengali": "আমি লজ্জায় পড়েছিলাম।"
-            }
-        },
-        {
-            "kanji": "彼は顔が恥ずかしいです。",
-            "furigana": "彼(かれ)は顔(かお)が恥(は)ずかしいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は顔が恥ずかしいです。",
-                "English": "He is embarrassed.",
-                "Persian": "او خجالت زده است.",
-                "Nepali": "ऊ लाज लाग्दो छ।",
-                "Indonesian": "Dia merasa malu.",
-                "Filipino": "Nahihiya siya.",
-                "Vietnamese": "Anh ấy ngượng ngùng.",
-                "Burmese": "သူကရှက်တယ်။",
-                "Korean": "그는 얼굴이 부끄럽습니다.",
-                "Hindi": "वह शर्मिंदा है।",
-                "Arabic": "إنه محرج.",
-                "French": "Il est embarrassé.",
-                "Spanish": "Él está avergonzado.",
-                "Chinese": "他脸红了。",
-                "Bengali": "সে লজ্জিত।"
-            }
-        },
-        {
-            "kanji": "私はとても恥ずかしい気持ちです。",
-            "furigana": "私(わたし)はとても恥(は)ずかしい気持(きも)ちです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私はとても恥ずかしい気持ちです。",
-                "English": "I am feeling very embarrassed.",
-                "Persian": "من خیلی خجالت کشیده‌ام.",
-                "Nepali": "म निकै लाजमर्दो अनुभव गर्दैछु।",
-                "Indonesian": "Saya merasa sangat malu.",
-                "Filipino": "Napaka-hiya naman ako.",
-                "Vietnamese": "Tôi cảm thấy rất ngượng ngùng.",
-                "Burmese": "ကျွန်ုပ်သည် အပြုံးပျက်လွန်လွန် ရှာနေသည်။",
-                "Korean": "나는 매우 부끄러운 기분이 든다.",
-                "Hindi": "मैं बहुत शर्मिंदा महसूस कर रहा हूँ।",
-                "Arabic": "أشعر بالحرج الشديد.",
-                "French": "Je me sens très embarrassé.",
-                "Spanish": "Me siento muy avergonzado.",
-                "Chinese": "我感到非常尴尬。",
-                "Bengali": "আমি খুব লজ্জা পাচ্ছি।"
-            }
-        },
-        {
-            "kanji": "これは恥ずかしい話です。",
-            "furigana": "これは恥ずかしい話(はなし)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "これは恥ずかしい話です。",
-                "English": "This is an embarrassing story.",
-                "Persian": "این یک داستان خجالت‌آور است.",
-                "Nepali": "यो एक लाजमर्दो कथा हो।",
-                "Indonesian": "Ini adalah cerita yang memalukan.",
-                "Filipino": "Ito ay isang nakakahiya na kwento.",
-                "Vietnamese": "Đây là một câu chuyện xấu hổ.",
-                "Burmese": "ဤသည်မှာ ရွံရှာစရာပုံပြင်တစ်ပုဒ်ဖြစ်သည်။",
-                "Korean": "이것은 부끄러운 이야기입니다.",
-                "Hindi": "यह एक शर्मनाक कहानी है।",
-                "Arabic": "هذه قصة مُحرجة.",
-                "French": "C'est une histoire embarrassante.",
-                "Spanish": "Esta es una historia embarazosa.",
-                "Chinese": "这是一个尴尬的故事。",
-                "Bengali": "এটি একটি লজ্জাজনক গল্প।"
-            }
-        },
-        {
-            "kanji": "これを言うのはちょっと恥ずかしいです。",
-            "furigana": "これを言(い)うのはちょっと恥(は)ずかしいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "これを言うのはちょっと恥ずかしいです。",
-                "English": "It's a little embarrassing to say this.",
-                "Persian": "گفتن این موضوع کمی خجالت آور است.",
-                "Nepali": "यो कुरा भन्न अलिकति लाजमर्दो छ।",
-                "Indonesian": "Agak malu untuk mengatakannya.",
-                "Filipino": "Nakakahiya ng kaunti sabihin ito.",
-                "Vietnamese": "Nói điều này hơi ngại.",
-                "Burmese": "ဒီဟာပြောရတာနည်းနည်းရှက်ဖွယ်ဖြစ်တယ်။",
-                "Korean": "이 말을 하는 것은 조금 부끄럽습니다.",
-                "Hindi": "यह कहने में थोड़ा शर्म आती है।",
-                "Arabic": "من المحرج قليلاً قول هذا.",
-                "French": "C'est un peu gênant de dire ça.",
-                "Spanish": "Es un poco vergonzoso decir esto.",
-                "Chinese": "说这个有点不好意思。",
-                "Bengali": "এটি বলা একটু লজ্জা লাগে।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "照れる",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "てれる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to be shy",
-                        "to be bashful",
-                        "to feel awkward",
-                        "to feel embarrassed"
-                    ],
-                    "part_of_speech": "Ichidan verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "恥じる",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "はじる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to feel ashamed"
-                    ],
-                    "part_of_speech": "Ichidan verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "自信",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "じしん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "self-confidence",
-                        "confidence"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "堂々",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "どうどう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "magnificent",
-                        "grand",
-                        "impressive",
-                        "dignified",
-                        "majestic",
-                        "imposing",
-                        "stately"
-                    ],
-                    "part_of_speech": "'taru' adjective, Adverb taking the 'to' particle",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "fair",
-                        "square",
-                        "open",
-                        "unashamed",
-                        "brazen"
-                    ],
-                    "part_of_speech": "'taru' adjective, Adverb taking the 'to' particle",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "grandly",
-                        "boldly",
-                        "confidently"
-                    ],
-                    "part_of_speech": "Adverb taking the 'to' particle",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "fairly",
-                        "squarely",
-                        "unreservedly",
-                        "brazenly"
-                    ],
-                    "part_of_speech": "Adverb taking the 'to' particle",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "はずかしいと思う",
+        "顔がはずかしい",
+        "はずかしい気持ち",
+        "はずかしい話",
+        "ちょっとはずかしい"
     ]
 }

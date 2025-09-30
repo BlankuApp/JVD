@@ -1,88 +1,254 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "品",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/pO59CE5LnbU",
     "in_db": true,
-    "reading": "しな",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "品",
+        "reading": "しな",
+        "introduction_japanese": "",
+        "introduction_english": "In this lesson, we're diving into the realm of shopping and commerce with the word しな. This term is frequently encountered in stores, markets, and conversations about products.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word しな means \"goods\" or \"items\" in English. It refers to merchandise, products, or any tangible items that are being bought or sold. It's a versatile word often used in retail, shopping, and general commerce.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "article",
                 "item",
                 "thing",
                 "goods",
                 "stock"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "品",
-                "English": "article",
-                "Persian": "مقاله",
-                "Nepali": "लेख",
-                "Indonesian": "artikel",
-                "Filipino": "artikulo",
-                "Vietnamese": "bài viết",
-                "Burmese": "ဆောင်းပါး",
-                "Korean": "기사",
-                "Hindi": "लेख",
-                "Arabic": "مقالة",
-                "French": "article",
-                "Spanish": "artículo",
-                "Chinese": "文章",
-                "Bengali": "নিবন্ধ"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "quality"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "品質",
-                "English": "Quality",
-                "Persian": "کیفیت",
-                "Nepali": "गुणस्तर",
-                "Indonesian": "Kualitas",
-                "Filipino": "Kalidad",
-                "Vietnamese": "Chất lượng",
-                "Burmese": "အရည်အသွေး",
-                "Korean": "품질",
-                "Hindi": "गुणवत्ता",
-                "Arabic": "جودة",
-                "French": "Qualité",
-                "Spanish": "Calidad",
-                "Chinese": "质量",
-                "Bengali": "গুন"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "flirtatiousness",
                 "coquetry"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "品 : いちゃいちゃすること/フラートすること",
-                "English": "品 : flirtatiousness",
-                "Persian": "品 : عشوه گری",
-                "Nepali": "品 : छलीपूर्णता",
-                "Indonesian": "品 : menggoda",
-                "Filipino": "品 : pang-aakit",
-                "Vietnamese": "品 : sự ve vãn",
-                "Burmese": "品 : အလြဲအလွဲလွဲ အပြွဲ",
-                "Korean": "品 : 추파",
-                "Hindi": "品 : छेड़खानी",
-                "Arabic": "品 : المغازلة",
-                "French": "品 : la coquetterie",
-                "Spanish": "品 : coquetería",
-                "Chinese": "品 : 调情",
-                "Bengali": "品 : ফ্লার্টি মেজাজ"
+            ]
+        ],
+        "meaning_translations": {
+            "article": {
+                "EN": "article",
+                "ID": "artikel",
+                "ES": "artículo",
+                "VI": "bài viết",
+                "FR": "article",
+                "NE": "लेख",
+                "BN": "নিবন্ধ",
+                "ZH": "文章",
+                "KO": "기사",
+                "TL": "artikulo",
+                "MY": "ဆောင်းပါး",
+                "HI": "लेख",
+                "AR": "مقالة",
+                "FA": "مقاله"
+            },
+            "quality": {
+                "EN": "Quality",
+                "ID": "Kualitas",
+                "ES": "Calidad",
+                "VI": "Chất lượng",
+                "FR": "Qualité",
+                "NE": "गुणस्तर",
+                "BN": "গুন",
+                "ZH": "质量",
+                "KO": "품질",
+                "TL": "Kalidad",
+                "MY": "အရည်အသွေး",
+                "HI": "गुणवत्ता",
+                "AR": "جودة",
+                "FA": "کیفیت"
+            },
+            "flirtatiousness": {
+                "EN": "品 : flirtatiousness",
+                "ID": "品 : menggoda",
+                "ES": "品 : coquetería",
+                "VI": "品 : sự ve vãn",
+                "FR": "品 : la coquetterie",
+                "NE": "品 : छलीपूर्णता",
+                "BN": "品 : ফ্লার্টি মেজাজ",
+                "ZH": "品 : 调情",
+                "KO": "品 : 추파",
+                "TL": "品 : pang-aakit",
+                "MY": "品 : အလြဲအလွဲလွဲ အပြွဲ",
+                "HI": "品 : छेड़खानी",
+                "AR": "品 : المغازلة",
+                "FA": "品 : عشوه گری"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "この品は人気があります。",
+                "furigana": "この品(しな)は人気(にんき)があります。",
+                "translations": {
+                    "EN": "This item is popular.",
+                    "ID": "Barang ini populer.",
+                    "ES": "Este artículo es popular.",
+                    "VI": "Mặt hàng này đang được ưa chuộng.",
+                    "FR": "Cet article est populaire.",
+                    "NE": "यो सामान लोकप्रिय छ।",
+                    "BN": "এই পণ্যটি জনপ্রিয়।",
+                    "ZH": "这个物品很受欢迎。",
+                    "KO": "이 물품은 인기가 있습니다.",
+                    "TL": "Ang item na ito ay sikat.",
+                    "MY": "ဤသိန်းသည် လူကြိုက်များသည်။",
+                    "HI": "यह वस्तु लोकप्रिय है।",
+                    "AR": "هذا المنتج شائعٌ.",
+                    "FA": "این کالا محبوب است."
+                }
+            },
+            {
+                "kanji": "これはいい品です。",
+                "furigana": "これはいい品(しな)です。",
+                "translations": {
+                    "EN": "This is a good item.",
+                    "ID": "Ini adalah barang yang bagus.",
+                    "ES": "Esto es un buen artículo.",
+                    "VI": "Đây là món hàng tốt.",
+                    "FR": "C'est un bon article.",
+                    "NE": "यो राम्रो सामान हो।",
+                    "BN": "এটি একটি ভাল জিনিস।",
+                    "ZH": "这是一个好物品。",
+                    "KO": "이것은 좋은 물건입니다.",
+                    "TL": "Ito ay isang magandang bagay.",
+                    "MY": "ဤသည်ကောင်းသောကုန်ပစ္စည်းဖြစ်သည်။",
+                    "HI": "यह एक अच्छा सामान है।",
+                    "AR": "هذا عنصر جيد.",
+                    "FA": "این یک کالای خوب است."
+                }
+            },
+            {
+                "kanji": "しなびんの野菜がありました。",
+                "furigana": "しなびんの野菜(やさい)がありました。",
+                "translations": {
+                    "EN": "There were withered vegetables.",
+                    "ID": "Ada sayuran layu.",
+                    "ES": "Había verduras marchitas.",
+                    "VI": "Có những loại rau héo.",
+                    "FR": "Il y avait des légumes flétris.",
+                    "NE": "वर्षा भएका तरकारीहरू थिए।",
+                    "BN": "সেখানে ম্লান সবজি ছিল।",
+                    "ZH": "有枯萎的蔬菜。",
+                    "KO": "시들한 채소가 있었습니다.",
+                    "TL": "May mga gulay na lantang-lanta.",
+                    "MY": "ရွက်နုဝါများ ရှိခဲ့ပါသည်။",
+                    "HI": "वहाँ मुरझाई हुई सब्जियाँ थीं।",
+                    "AR": "كان هناك خضروات ذابلة.",
+                    "FA": "سبزیجات پژمرده ای وجود داشت."
+                }
+            },
+            {
+                "kanji": "この品は人気です。",
+                "furigana": "この品(しな)は人気(にんき)です。",
+                "translations": {
+                    "EN": "This item is popular.",
+                    "ID": "Barang ini populer.",
+                    "ES": "Este artículo es popular.",
+                    "VI": "Món hàng này nổi tiếng.",
+                    "FR": "Cet article est populaire.",
+                    "NE": "यो सामान लोकप्रिय छ।",
+                    "BN": "এই পণ্যটি জনপ্রিয়।",
+                    "ZH": "这个商品很受欢迎。",
+                    "KO": "이 품목은 인기가 있습니다.",
+                    "TL": "Ang produktong ito ay popular.",
+                    "MY": "ဒီပစ္စည်းက နာမည်ကြီးပါတယ်။",
+                    "HI": "यह सामान लोकप्रिय है।",
+                    "AR": "هذا المنتج شائع.",
+                    "FA": "این کالا محبوب است."
+                }
+            }
+        ],
+        "synonyms": [
+            "商品 : しょうひん : commodity"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word しな is \"しょうひん.\" This term shares a similar meaning, referring broadly to goods or products, primarily focusing on the notion of commercial merchandise. While しな is often about tangible items, しょうひん leans more towards commercial context, emphasizing their market value.",
+        "antonyms": [
+            "欠品 : けっぴん : stockout"
+        ],
+        "antonyms_explanation": "The most common antonym of the word しな is \"けっぴん.\" This word indicates a lack of goods or out-of-stock items, essentially the opposite of having goods available for sale. Where しな focuses on the presence of goods, けっぴん highlights their absence.",
+        "kanji_details": [
+            {
+                "kanji": "品",
+                "common_words": [
+                    "商品: commodity",
+                    "品質: quality"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "品",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "品",
+                "reading": "しな"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "article",
+                    "item",
+                    "thing",
+                    "goods",
+                    "stock"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "quality"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "flirtatiousness",
+                    "coquetry"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "品"
     ],
-    "kanjis": [
-        {
-            "kanji": "品",
+    "kanji_data": {
+        "品": {
             "meanings": [
                 "article",
                 "counter for meal courses",
@@ -90,249 +256,24 @@
                 "goods",
                 "refinement"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ヒン",
                 "ホン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "しな"
             ],
-            "strokes": 9,
+            "stroke_count": 9,
             "jlpt": 4,
-            "frequency": 225,
+            "freq_mainichi_shinbun": 225,
             "unicode": "54C1",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "商品",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しょうひん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "commodity",
-                                "article of commerce",
-                                "goods",
-                                "stock",
-                                "merchandise"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "品質",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひんしつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "quality"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means goods, articles, or quality. In しょうひん it contributes the sense of an item or product that is being sold. In ひんしつ it carries the idea of the level or standard of those goods, their quality.",
-    "explanations": {
-        "explanation": "The word しな means \"goods\" or \"items\" in English. It refers to merchandise, products, or any tangible items that are being bought or sold. It's a versatile word often used in retail, shopping, and general commerce.",
-        "youtube_description": "Learn how to use the Japanese word 品(しな) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. \nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "In this lesson, we're diving into the realm of shopping and commerce with the word しな. This term is frequently encountered in stores, markets, and conversations about products.",
-        "collocations": [
-            "しながい",
-            "しなもの",
-            "しなびん",
-            "しなひん"
-        ],
-        "synonyms": [
-            "商品"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word しな is \"しょうひん.\" This term shares a similar meaning, referring broadly to goods or products, primarily focusing on the notion of commercial merchandise. While しな is often about tangible items, しょうひん leans more towards commercial context, emphasizing their market value.",
-        "antonyms": [
-            "欠品"
-        ],
-        "antonyms_explanation": "The most common antonym of the word しな is \"けっぴん.\" This word indicates a lack of goods or out-of-stock items, essentially the opposite of having goods available for sale. Where しな focuses on the presence of goods, けっぴん highlights their absence."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "この品は人気があります。",
-            "furigana": "この品(しな)は人気(にんき)があります。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "この品は人気があります。",
-                "English": "This item is popular.",
-                "Persian": "این کالا محبوب است.",
-                "Nepali": "यो सामान लोकप्रिय छ।",
-                "Indonesian": "Barang ini populer.",
-                "Filipino": "Ang item na ito ay sikat.",
-                "Vietnamese": "Mặt hàng này đang được ưa chuộng.",
-                "Burmese": "ဤသိန်းသည် လူကြိုက်များသည်။",
-                "Korean": "이 물품은 인기가 있습니다.",
-                "Hindi": "यह वस्तु लोकप्रिय है।",
-                "Arabic": "هذا المنتج شائعٌ.",
-                "French": "Cet article est populaire.",
-                "Spanish": "Este artículo es popular.",
-                "Chinese": "这个物品很受欢迎。",
-                "Bengali": "এই পণ্যটি জনপ্রিয়।"
-            }
-        },
-        {
-            "kanji": "これはいい品です。",
-            "furigana": "これはいい品(しな)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "これはいい品です。",
-                "English": "This is a good item.",
-                "Persian": "این یک کالای خوب است.",
-                "Nepali": "यो राम्रो सामान हो।",
-                "Indonesian": "Ini adalah barang yang bagus.",
-                "Filipino": "Ito ay isang magandang bagay.",
-                "Vietnamese": "Đây là món hàng tốt.",
-                "Burmese": "ဤသည်ကောင်းသောကုန်ပစ္စည်းဖြစ်သည်။",
-                "Korean": "이것은 좋은 물건입니다.",
-                "Hindi": "यह एक अच्छा सामान है।",
-                "Arabic": "هذا عنصر جيد.",
-                "French": "C'est un bon article.",
-                "Spanish": "Esto es un buen artículo.",
-                "Chinese": "这是一个好物品。",
-                "Bengali": "এটি একটি ভাল জিনিস।"
-            }
-        },
-        {
-            "kanji": "しなびんの野菜がありました。",
-            "furigana": "しなびんの野菜(やさい)がありました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "しなびんの野菜がありました。",
-                "English": "There were withered vegetables.",
-                "Persian": "سبزیجات پژمرده ای وجود داشت.",
-                "Nepali": "वर्षा भएका तरकारीहरू थिए।",
-                "Indonesian": "Ada sayuran layu.",
-                "Filipino": "May mga gulay na lantang-lanta.",
-                "Vietnamese": "Có những loại rau héo.",
-                "Burmese": "ရွက်နုဝါများ ရှိခဲ့ပါသည်။",
-                "Korean": "시들한 채소가 있었습니다.",
-                "Hindi": "वहाँ मुरझाई हुई सब्जियाँ थीं।",
-                "Arabic": "كان هناك خضروات ذابلة.",
-                "French": "Il y avait des légumes flétris.",
-                "Spanish": "Había verduras marchitas.",
-                "Chinese": "有枯萎的蔬菜。",
-                "Bengali": "সেখানে ম্লান সবজি ছিল।"
-            }
-        },
-        {
-            "kanji": "この品は人気です。",
-            "furigana": "この品(しな)は人気(にんき)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "この品は人気です。",
-                "English": "This item is popular.",
-                "Persian": "این کالا محبوب است.",
-                "Nepali": "यो सामान लोकप्रिय छ।",
-                "Indonesian": "Barang ini populer.",
-                "Filipino": "Ang produktong ito ay popular.",
-                "Vietnamese": "Món hàng này nổi tiếng.",
-                "Burmese": "ဒီပစ္စည်းက နာမည်ကြီးပါတယ်။",
-                "Korean": "이 품목은 인기가 있습니다.",
-                "Hindi": "यह सामान लोकप्रिय है।",
-                "Arabic": "هذا المنتج شائع.",
-                "French": "Cet article est populaire.",
-                "Spanish": "Este artículo es popular.",
-                "Chinese": "这个商品很受欢迎。",
-                "Bengali": "এই পণ্যটি জনপ্রিয়।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "商品",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しょうひん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "commodity",
-                        "article of commerce",
-                        "goods",
-                        "stock",
-                        "merchandise"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "欠品",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "けっぴん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "stockout",
-                        "out of stock"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "しながい",
+        "しなもの",
+        "しなびん",
+        "しなひん"
     ]
 }

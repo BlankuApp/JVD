@@ -1,138 +1,350 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "運ぶ",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/fdPwzbbK9xE",
     "in_db": true,
-    "reading": "はこぶ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "運ぶ",
+        "reading": "はこぶ",
+        "introduction_japanese": "",
+        "introduction_english": "Today, let's delve into はこぶ, a word you might frequently hear in situations where transporting or moving things is involved, such as during cleanup, moving houses, or even in business logistics.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word はこぶ means to \"carry\" or \"transport.\" It's often used when you're moving items from one place to another, like carrying a box or transporting goods by vehicle. Additionally, it's used in broader contexts like conveying emotions or transferring responsibilities.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to carry",
                 "to transport",
                 "to move",
                 "to convey"
             ],
-            "part_of_speech": "Godan verb with 'bu' ending, Transitive verb",
-            "translation": {
-                "Japanese": "運ぶ",
-                "English": "to carry",
-                "Persian": "حمل کردن",
-                "Nepali": "बोक्नु",
-                "Indonesian": "membawa",
-                "Filipino": "dalhin",
-                "Vietnamese": "mang theo",
-                "Burmese": "ထမ်းသည်",
-                "Korean": "운반하다",
-                "Hindi": "ले जाना",
-                "Arabic": "حمل",
-                "French": "porter",
-                "Spanish": "llevar",
-                "Chinese": "運送",
-                "Bengali": "বহন করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to come",
                 "to go"
             ],
-            "part_of_speech": "Godan verb with 'bu' ending, Transitive verb",
-            "translation": {
-                "Japanese": "運ぶ : 来る",
-                "English": "Carry: Come",
-                "Persian": "حمل کردن: آمدن",
-                "Nepali": "बोक्ने: आउनु",
-                "Indonesian": "Mengangkut: Datang",
-                "Filipino": "Magdala: Dumating",
-                "Vietnamese": "Mang: Đến",
-                "Burmese": "သယ်ဆောင်: လာပါ",
-                "Korean": "운반하다 : 오다",
-                "Hindi": "ले जाना: आना",
-                "Arabic": "يحمل: يأتي",
-                "French": "Porter : Venir",
-                "Spanish": "Transportar: Venir",
-                "Chinese": "运送: 来",
-                "Bengali": "বহন করা: আসা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to use",
                 "to move"
             ],
-            "part_of_speech": "Godan verb with 'bu' ending, Transitive verb",
-            "translation": {
-                "Japanese": "運ぶ : 使用する",
-                "English": "Carry : To use",
-                "Persian": "بردن : استفاده کردن",
-                "Nepali": "बोक्नु : उपयोग गर्नु",
-                "Indonesian": "Membawa : Menggunakan",
-                "Filipino": "Magdala : Gumamit",
-                "Vietnamese": "Mang : Sử dụng",
-                "Burmese": "သယ် : အသုံးပြုရန်",
-                "Korean": "나르다 : 사용하다",
-                "Hindi": "ले जाना : उपयोग करना",
-                "Arabic": "حمل : استخدام",
-                "French": "Transporter : Utiliser",
-                "Spanish": "Llevar : Usar",
-                "Chinese": "运送 : 使用",
-                "Bengali": "বহন করা : ব্যবহার করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to carry out",
                 "to proceed with",
                 "to arrange"
             ],
-            "part_of_speech": "Godan verb with 'bu' ending, Transitive verb",
-            "translation": {
-                "Japanese": "運ぶ",
-                "English": "to carry out",
-                "Persian": "حمل کردن",
-                "Nepali": "ओढ्नु",
-                "Indonesian": "membawa",
-                "Filipino": "dalhin",
-                "Vietnamese": "mang",
-                "Burmese": "ဆောင်ကြဉ်း",
-                "Korean": "운반하다",
-                "Hindi": "ले जाना",
-                "Arabic": "حمل",
-                "French": "porter",
-                "Spanish": "llevar",
-                "Chinese": "搬运",
-                "Bengali": "বহন করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to go",
                 "to proceed",
                 "to progress"
-            ],
-            "part_of_speech": "Godan verb with 'bu' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "運ぶ",
-                "English": "to carry / to transport",
-                "Persian": "حمل کردن / رساندن",
-                "Nepali": "लानु / बोक्नु",
-                "Indonesian": "mengangkut / membawa",
-                "Filipino": "magdala / maghatid",
-                "Vietnamese": "vận chuyển / mang",
-                "Burmese": "ဖြစ်နေသော",
-                "Korean": "옮기다 / 나르다",
-                "Hindi": "ले जाना / परिवहन करना",
-                "Arabic": "النقل / حمل",
-                "French": "transporter / porter",
-                "Spanish": "transportar / llevar",
-                "Chinese": "运输 / 带",
-                "Bengali": "বহন করা / আনা"
+            ]
+        ],
+        "meaning_translations": {
+            "to carry": {
+                "EN": "to carry",
+                "ID": "membawa",
+                "ES": "llevar",
+                "VI": "mang theo",
+                "FR": "porter",
+                "NE": "बोक्नु",
+                "BN": "বহন করা",
+                "ZH": "運送",
+                "KO": "운반하다",
+                "TL": "dalhin",
+                "MY": "ထမ်းသည်",
+                "HI": "ले जाना",
+                "AR": "حمل",
+                "FA": "حمل کردن"
+            },
+            "to come": {
+                "EN": "Carry: Come",
+                "ID": "Mengangkut: Datang",
+                "ES": "Transportar: Venir",
+                "VI": "Mang: Đến",
+                "FR": "Porter : Venir",
+                "NE": "बोक्ने: आउनु",
+                "BN": "বহন করা: আসা",
+                "ZH": "运送: 来",
+                "KO": "운반하다 : 오다",
+                "TL": "Magdala: Dumating",
+                "MY": "သယ်ဆောင်: လာပါ",
+                "HI": "ले जाना: आना",
+                "AR": "يحمل: يأتي",
+                "FA": "حمل کردن: آمدن"
+            },
+            "to use": {
+                "EN": "Carry : To use",
+                "ID": "Membawa : Menggunakan",
+                "ES": "Llevar : Usar",
+                "VI": "Mang : Sử dụng",
+                "FR": "Transporter : Utiliser",
+                "NE": "बोक्नु : उपयोग गर्नु",
+                "BN": "বহন করা : ব্যবহার করা",
+                "ZH": "运送 : 使用",
+                "KO": "나르다 : 사용하다",
+                "TL": "Magdala : Gumamit",
+                "MY": "သယ် : အသုံးပြုရန်",
+                "HI": "ले जाना : उपयोग करना",
+                "AR": "حمل : استخدام",
+                "FA": "بردن : استفاده کردن"
+            },
+            "to carry out": {
+                "EN": "to carry out",
+                "ID": "membawa",
+                "ES": "llevar",
+                "VI": "mang",
+                "FR": "porter",
+                "NE": "ओढ्नु",
+                "BN": "বহন করা",
+                "ZH": "搬运",
+                "KO": "운반하다",
+                "TL": "dalhin",
+                "MY": "ဆောင်ကြဉ်း",
+                "HI": "ले जाना",
+                "AR": "حمل",
+                "FA": "حمل کردن"
+            },
+            "to go": {
+                "EN": "to carry / to transport",
+                "ID": "mengangkut / membawa",
+                "ES": "transportar / llevar",
+                "VI": "vận chuyển / mang",
+                "FR": "transporter / porter",
+                "NE": "लानु / बोक्नु",
+                "BN": "বহন করা / আনা",
+                "ZH": "运输 / 带",
+                "KO": "옮기다 / 나르다",
+                "TL": "magdala / maghatid",
+                "MY": "ဖြစ်နေသော",
+                "HI": "ले जाना / परिवहन करना",
+                "AR": "النقل / حمل",
+                "FA": "حمل کردن / رساندن"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "私は荷物を運ぶ。",
+                "furigana": "私(わたし)は荷物(にもつ)を運(はこ)ぶ。",
+                "translations": {
+                    "EN": "I carry the luggage.",
+                    "ID": "Saya membawa barang-barang.",
+                    "ES": "Yo llevo el equipaje.",
+                    "VI": "Tôi mang hành lý.",
+                    "FR": "Je porte les bagages.",
+                    "NE": "म लगेज बोक्छु।",
+                    "BN": "আমি লাগেজ বহন করি।",
+                    "ZH": "我搬运行李。",
+                    "KO": "나는 짐을 나른다.",
+                    "TL": "Ako ay nagdadala ng bagahe.",
+                    "MY": "ကျွန်တော် လက်ဆွဲအိတ်ကို တင်ဆောင်ပါတယ်။",
+                    "HI": "मैं सामान ले जा रहा हूँ।",
+                    "AR": "أحمل الأمتعة.",
+                    "FA": "من چمدان را حمل می‌کنم."
+                }
+            },
+            {
+                "kanji": "田中さんは責任を運びました。",
+                "furigana": "田中(たなか)さんは責任(せきにん)を運(はこ)びました。",
+                "translations": {
+                    "EN": "Mr. Tanaka carried the responsibility.",
+                    "ID": "Tuan Tanaka membawa tanggung jawabnya.",
+                    "ES": "El Sr. Tanaka llevó la responsabilidad.",
+                    "VI": "Ông Tanaka đã đảm nhận trách nhiệm.",
+                    "FR": "M. Tanaka a porté la responsabilité.",
+                    "NE": "तानाकासानले जिम्मेवारीलाई बोके।",
+                    "BN": "তানাকা সান দায়িত্ব বহন করেছিল।",
+                    "ZH": "田中先生承担了责任。",
+                    "KO": "다나카 씨가 책임을 맡았습니다.",
+                    "TL": "Dinala ni G. Tanaka ang responsibilidad.",
+                    "MY": "တာနာကာရှင်၏တာဝန်ကိုတင်ခဲ့သည်။",
+                    "HI": "तनाकासान ने ज़िम्मेदारी निभाई।",
+                    "AR": "السيد تاناكا حمل المسؤولية.",
+                    "FA": "آقای تاناکا مسئولیت را حمل کرد."
+                }
+            },
+            {
+                "kanji": "私は夢を運びます。",
+                "furigana": "私(わたし)は夢(ゆめ)を運(はこ)びます。",
+                "translations": {
+                    "EN": "I carry dreams.",
+                    "ID": "Saya membawa mimpi.",
+                    "ES": "Yo llevo sueños.",
+                    "VI": "Tôi mang theo những ước mơ.",
+                    "FR": "Je porte des rêves.",
+                    "NE": "म सपना बोकी हिँड्छु।",
+                    "BN": "আমি স্বপ্ন বহন করি।",
+                    "ZH": "我承载梦想。",
+                    "KO": "나는 꿈을 운반합니다.",
+                    "TL": "Ako ay nagdadala ng mga pangarap.",
+                    "MY": "ကျွန်တော် အိပ်မက်တွေကို သယ်သွားပါတယ်။",
+                    "HI": "मैं सपने ले जाता हूँ।",
+                    "AR": "أنا أحمل الأحلام.",
+                    "FA": "من رویاها را حمل می کنم."
+                }
+            },
+            {
+                "kanji": "このパッケージは希望をはこぶ。",
+                "furigana": "このパッケージは希望(きぼう)を運(はこ)ぶ。",
+                "translations": {
+                    "EN": "This package carries hope.",
+                    "ID": "Paket ini membawa harapan.",
+                    "ES": "Este paquete lleva esperanza.",
+                    "VI": "Gói hàng này mang theo hy vọng.",
+                    "FR": "Ce colis porte l'espoir.",
+                    "NE": "यस प्याकेजले आशा किताबैओँछ।",
+                    "BN": "এই প্যাকেজটি আশা বহন করে।",
+                    "ZH": "这个包裹带来了希望。",
+                    "KO": "이 패키지는 희망을 운반합니다.",
+                    "TL": "Ang paket na ito ay nagdadala ng pag-asa.",
+                    "MY": "ဒီအထုပ်ဟာလေးစားမှုကို သယ်ဆောင်နေတယ်။",
+                    "HI": "यह पैकेज उम्मीद को ले जाता है।",
+                    "AR": "تحمل هذه الحزمة الأمل.",
+                    "FA": "این بسته امید را حمل می کند."
+                }
+            },
+            {
+                "kanji": "心を運ぶのは大切です。",
+                "furigana": "心(こころ)を運(はこ)ぶのは大切(たいせつ)です。",
+                "translations": {
+                    "EN": "It is important to carry emotions.",
+                    "ID": "Penting untuk membawa perasaan.",
+                    "ES": "Es importante llevar las emociones.",
+                    "VI": "Việc truyền tải cảm xúc là quan trọng.",
+                    "FR": "Il est important de transporter les émotions.",
+                    "NE": "भावनाहरू बोकेर लैजानु महत्त्वपूर्ण छ।",
+                    "BN": "অনুভূতি বহন করা গুরুত্বপূর্ণ।",
+                    "ZH": "携带情感是很重要的。",
+                    "KO": "마음을 전하는 것은 중요합니다.",
+                    "TL": "Mahalaga ang pagdadala ng damdamin.",
+                    "MY": "စိတ်ခံစားချက်တွေကို သယ်ဆောင်ခြင်းက အရေးကြီးပါတယ်။",
+                    "HI": "भावनाओं को ले जाना महत्वपूर्ण है।",
+                    "AR": "إنه من المهم حمل المشاعر.",
+                    "FA": "مهم است که احساسات را منتقل کنید."
+                }
+            }
+        ],
+        "synonyms": [
+            "運送 : うんそう : transport"
+        ],
+        "synonyms_explanation": "The most common synonym of the word はこぶ is うんそう. While they both indicate transporting, うんそう is more formal and is often used in the context of shipping and logistics.",
+        "antonyms": [
+            "止まる : とまる : to stop"
+        ],
+        "antonyms_explanation": "The most common antonym of the word はこぶ is とどまる. はこぶ involves movement and transporting, while とどまる focuses on staying, pausing, or not moving.",
+        "kanji_details": [
+            {
+                "kanji": "運",
+                "common_words": [
+                    "運動: exercise",
+                    "運命: fate"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "運ぶ",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "運ぶ",
+                "reading": "はこぶ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to carry",
+                    "to transport",
+                    "to move",
+                    "to convey"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'bu' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to come",
+                    "to go"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'bu' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to use",
+                    "to move"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'bu' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to carry out",
+                    "to proceed with",
+                    "to arrange"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'bu' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to go",
+                    "to proceed",
+                    "to progress"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'bu' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "運"
     ],
-    "kanjis": [
-        {
-            "kanji": "運",
+    "kanji_data": {
+        "運": {
             "meanings": [
                 "advance",
                 "carry",
@@ -143,314 +355,24 @@
                 "progress",
                 "transport"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ウン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "はこ.ぶ"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 4,
-            "frequency": 255,
+            "freq_mainichi_shinbun": 255,
             "unicode": "904B",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "運動",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "うんどう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "exercise",
-                                "physical training",
-                                "workout",
-                                "sports",
-                                "athletics"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "appeal",
-                                "campaign",
-                                "drive",
-                                "crusade",
-                                "movement",
-                                "lobbying"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "motion",
-                                "movement"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "運命",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "うんめい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "fate",
-                                "destiny",
-                                "lot"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means to carry or transport and also relates to luck or fate, so it's about movement and forces that move things. In うんどう it's used for physical movement and exercise, where the kanji gives the idea of motion being carried out. In うんめい it means destiny, where the kanji suggests that fate 'carries' or moves a person's life toward something.",
-    "explanations": {
-        "explanation": "The word はこぶ means to \"carry\" or \"transport.\" It's often used when you're moving items from one place to another, like carrying a box or transporting goods by vehicle. Additionally, it's used in broader contexts like conveying emotions or transferring responsibilities.",
-        "youtube_description": "Learn how to use the Japanese word 運ぶ (はこぶ) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "Today, let's delve into はこぶ, a word you might frequently hear in situations where transporting or moving things is involved, such as during cleanup, moving houses, or even in business logistics.",
-        "collocations": [
-            "荷物をはこぶ",
-            "責任をはこぶ",
-            "夢をはこぶ",
-            "希望をはこぶ",
-            "心をはこぶ"
-        ],
-        "synonyms": [
-            "運送"
-        ],
-        "synonyms_explanation": "The most common synonym of the word はこぶ is うんそう. While they both indicate transporting, うんそう is more formal and is often used in the context of shipping and logistics.",
-        "antonyms": [
-            "留まる"
-        ],
-        "antonyms_explanation": "The most common antonym of the word はこぶ is とどまる. はこぶ involves movement and transporting, while とどまる focuses on staying, pausing, or not moving."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "私は荷物を運ぶ。",
-            "furigana": "私(わたし)は荷物(にもつ)を運(はこ)ぶ。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "私は荷物を運ぶ。",
-                "English": "I carry the luggage.",
-                "Persian": "من چمدان را حمل می‌کنم.",
-                "Nepali": "म लगेज बोक्छु।",
-                "Indonesian": "Saya membawa barang-barang.",
-                "Filipino": "Ako ay nagdadala ng bagahe.",
-                "Vietnamese": "Tôi mang hành lý.",
-                "Burmese": "ကျွန်တော် လက်ဆွဲအိတ်ကို တင်ဆောင်ပါတယ်။",
-                "Korean": "나는 짐을 나른다.",
-                "Hindi": "मैं सामान ले जा रहा हूँ।",
-                "Arabic": "أحمل الأمتعة.",
-                "French": "Je porte les bagages.",
-                "Spanish": "Yo llevo el equipaje.",
-                "Chinese": "我搬运行李。",
-                "Bengali": "আমি লাগেজ বহন করি।"
-            }
-        },
-        {
-            "kanji": "田中さんは責任を運びました。",
-            "furigana": "田中(たなか)さんは責任(せきにん)を運(はこ)びました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "田中さんは責任を運びました。",
-                "English": "Mr. Tanaka carried the responsibility.",
-                "Persian": "آقای تاناکا مسئولیت را حمل کرد.",
-                "Nepali": "तानाकासानले जिम्मेवारीलाई बोके।",
-                "Indonesian": "Tuan Tanaka membawa tanggung jawabnya.",
-                "Filipino": "Dinala ni G. Tanaka ang responsibilidad.",
-                "Vietnamese": "Ông Tanaka đã đảm nhận trách nhiệm.",
-                "Burmese": "တာနာကာရှင်၏တာဝန်ကိုတင်ခဲ့သည်။",
-                "Korean": "다나카 씨가 책임을 맡았습니다.",
-                "Hindi": "तनाकासान ने ज़िम्मेदारी निभाई।",
-                "Arabic": "السيد تاناكا حمل المسؤولية.",
-                "French": "M. Tanaka a porté la responsabilité.",
-                "Spanish": "El Sr. Tanaka llevó la responsabilidad.",
-                "Chinese": "田中先生承担了责任。",
-                "Bengali": "তানাকা সান দায়িত্ব বহন করেছিল।"
-            }
-        },
-        {
-            "kanji": "私は夢を運びます。",
-            "furigana": "私(わたし)は夢(ゆめ)を運(はこ)びます。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "私は夢を運びます。",
-                "English": "I carry dreams.",
-                "Persian": "من رویاها را حمل می کنم.",
-                "Nepali": "म सपना बोकी हिँड्छु।",
-                "Indonesian": "Saya membawa mimpi.",
-                "Filipino": "Ako ay nagdadala ng mga pangarap.",
-                "Vietnamese": "Tôi mang theo những ước mơ.",
-                "Burmese": "ကျွန်တော် အိပ်မက်တွေကို သယ်သွားပါတယ်။",
-                "Korean": "나는 꿈을 운반합니다.",
-                "Hindi": "मैं सपने ले जाता हूँ।",
-                "Arabic": "أنا أحمل الأحلام.",
-                "French": "Je porte des rêves.",
-                "Spanish": "Yo llevo sueños.",
-                "Chinese": "我承载梦想。",
-                "Bengali": "আমি স্বপ্ন বহন করি।"
-            }
-        },
-        {
-            "kanji": "このパッケージは希望をはこぶ。",
-            "furigana": "このパッケージは希望(きぼう)を運(はこ)ぶ。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "このパッケージは希望をはこぶ。",
-                "English": "This package carries hope.",
-                "Persian": "این بسته امید را حمل می کند.",
-                "Nepali": "यस प्याकेजले आशा किताबैओँछ।",
-                "Indonesian": "Paket ini membawa harapan.",
-                "Filipino": "Ang paket na ito ay nagdadala ng pag-asa.",
-                "Vietnamese": "Gói hàng này mang theo hy vọng.",
-                "Burmese": "ဒီအထုပ်ဟာလေးစားမှုကို သယ်ဆောင်နေတယ်။",
-                "Korean": "이 패키지는 희망을 운반합니다.",
-                "Hindi": "यह पैकेज उम्मीद को ले जाता है।",
-                "Arabic": "تحمل هذه الحزمة الأمل.",
-                "French": "Ce colis porte l'espoir.",
-                "Spanish": "Este paquete lleva esperanza.",
-                "Chinese": "这个包裹带来了希望。",
-                "Bengali": "এই প্যাকেজটি আশা বহন করে।"
-            }
-        },
-        {
-            "kanji": "心を運ぶのは大切です。",
-            "furigana": "心(こころ)を運(はこ)ぶのは大切(たいせつ)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "心を運ぶのは大切です。",
-                "English": "It is important to carry emotions.",
-                "Persian": "مهم است که احساسات را منتقل کنید.",
-                "Nepali": "भावनाहरू बोकेर लैजानु महत्त्वपूर्ण छ।",
-                "Indonesian": "Penting untuk membawa perasaan.",
-                "Filipino": "Mahalaga ang pagdadala ng damdamin.",
-                "Vietnamese": "Việc truyền tải cảm xúc là quan trọng.",
-                "Burmese": "စိတ်ခံစားချက်တွေကို သယ်ဆောင်ခြင်းက အရေးကြီးပါတယ်။",
-                "Korean": "마음을 전하는 것은 중요합니다.",
-                "Hindi": "भावनाओं को ले जाना महत्वपूर्ण है।",
-                "Arabic": "إنه من المهم حمل المشاعر.",
-                "French": "Il est important de transporter les émotions.",
-                "Spanish": "Es importante llevar las emociones.",
-                "Chinese": "携带情感是很重要的。",
-                "Bengali": "অনুভূতি বহন করা গুরুত্বপূর্ণ।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "運送",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "うんそう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "transport",
-                        "freight",
-                        "shipping",
-                        "moving"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "止まる",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とまる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to stop",
-                        "to come to a stop"
-                    ],
-                    "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to stop",
-                        "to come to a halt",
-                        "to cease",
-                        "to be stopped",
-                        "to be suspended"
-                    ],
-                    "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to alight",
-                        "to perch on"
-                    ],
-                    "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2",
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "荷物をはこぶ",
+        "責任をはこぶ",
+        "夢をはこぶ",
+        "希望をはこぶ",
+        "心をはこぶ"
     ]
 }

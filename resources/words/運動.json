@@ -1,39 +1,26 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "運動",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/bM1McYldS80",
     "in_db": true,
-    "reading": "うんどう",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "運動",
+        "reading": "うんどう",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is \"うんどう,\" which you will often hear in gyms, schools, or sports events. ",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"運動\" means \"exercise\" or \"physical activity\" in English. It refers to any kind of activity that involves physical movement and is often done to improve or maintain physical fitness and overall health. It can also refer to sports or any type of bodily motion intended for health purposes.\n",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "exercise",
                 "physical training",
                 "workout",
                 "sports",
                 "athletics"
             ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "運動",
-                "English": "exercise",
-                "Persian": "ورزش",
-                "Nepali": "व्यायाम",
-                "Indonesian": "latihan",
-                "Filipino": "ehersisyo",
-                "Vietnamese": "bài tập",
-                "Burmese": "လေ့ကျင့်ခန်း",
-                "Korean": "운동",
-                "Hindi": "व्यायाम",
-                "Arabic": "تمرين",
-                "French": "exercice",
-                "Spanish": "ejercicio",
-                "Chinese": "锻炼",
-                "Bengali": "ব্যায়াম"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "appeal",
                 "campaign",
                 "drive",
@@ -41,53 +28,267 @@
                 "movement",
                 "lobbying"
             ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "アピール",
-                "English": "Appeal",
-                "Persian": "درخواست",
-                "Nepali": "अपील",
-                "Indonesian": "Banding",
-                "Filipino": "Apela",
-                "Vietnamese": "Kháng cáo",
-                "Burmese": "ဝန္ခံ",
-                "Korean": "호소",
-                "Hindi": "अपील",
-                "Arabic": "نداء",
-                "French": "Appel",
-                "Spanish": "Apelación",
-                "Chinese": "上诉",
-                "Bengali": "আপিল"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "motion",
                 "movement"
-            ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "運動",
-                "English": "motion",
-                "Persian": "حرکت",
-                "Nepali": "गति",
-                "Indonesian": "gerakan",
-                "Filipino": "galaw",
-                "Vietnamese": "chuyển động",
-                "Burmese": "လှုပ်ရှားမှု",
-                "Korean": "움직임",
-                "Hindi": "गति",
-                "Arabic": "حركة",
-                "French": "mouvement",
-                "Spanish": "movimiento",
-                "Chinese": "运动",
-                "Bengali": "গতি"
+            ]
+        ],
+        "meaning_translations": {
+            "exercise": {
+                "EN": "exercise",
+                "ID": "latihan",
+                "ES": "ejercicio",
+                "VI": "bài tập",
+                "FR": "exercice",
+                "NE": "व्यायाम",
+                "BN": "ব্যায়াম",
+                "ZH": "锻炼",
+                "KO": "운동",
+                "TL": "ehersisyo",
+                "MY": "လေ့ကျင့်ခန်း",
+                "HI": "व्यायाम",
+                "AR": "تمرين",
+                "FA": "ورزش"
+            },
+            "appeal": {
+                "EN": "Appeal",
+                "ID": "Banding",
+                "ES": "Apelación",
+                "VI": "Kháng cáo",
+                "FR": "Appel",
+                "NE": "अपील",
+                "BN": "আপিল",
+                "ZH": "上诉",
+                "KO": "호소",
+                "TL": "Apela",
+                "MY": "ဝန္ခံ",
+                "HI": "अपील",
+                "AR": "نداء",
+                "FA": "درخواست"
+            },
+            "motion": {
+                "EN": "motion",
+                "ID": "gerakan",
+                "ES": "movimiento",
+                "VI": "chuyển động",
+                "FR": "mouvement",
+                "NE": "गति",
+                "BN": "গতি",
+                "ZH": "运动",
+                "KO": "움직임",
+                "TL": "galaw",
+                "MY": "လှုပ်ရှားမှု",
+                "HI": "गति",
+                "AR": "حركة",
+                "FA": "حرکت"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "毎日、日々の運動を楽しみます。",
+                "furigana": "毎(まい)日(にち)、日々(ひび)の運動(うんどう)を楽し(たの)しみます。",
+                "translations": {
+                    "EN": "Every day, I enjoy daily exercise.",
+                    "ID": "Setiap hari, saya menikmati olahraga harian.",
+                    "ES": "Cada día, disfruto del ejercicio diario.",
+                    "VI": "Mỗi ngày, tôi tận hưởng việc tập thể dục hàng ngày.",
+                    "FR": "Chaque jour, je profite de l'exercice quotidien.",
+                    "NE": "हरेक दिन, म दैनिक व्यायामको आनन्द लिन्छु।",
+                    "BN": "প্রতিদিন, আমি দৈনিক ব্যায়ামের আনন্দ উপভোগ করি।",
+                    "ZH": "每天，我都享受日常锻炼。",
+                    "KO": "매일매일의 운동을 즐깁니다.",
+                    "TL": "Araw-araw, nasisiyahan ako sa pang-araw-araw na ehersisyo.",
+                    "MY": "နေ့စဉ်အသက်ခွန်အားရယူခြင်းကို ခံစားရသည်။",
+                    "HI": "हर दिन, मैं रोज़ाना व्यायाम का आनंद लेता हूँ।",
+                    "AR": "كل يوم، أستمتع بالتمارين اليومية.",
+                    "FA": "هر روز، از ورزش روزانه لذت می‌برم."
+                }
+            },
+            {
+                "kanji": "運動会は楽しいです。",
+                "furigana": "運動会(うんどうかい)は楽(たの)しいです。",
+                "translations": {
+                    "EN": "The sports day is fun.",
+                    "ID": "Hari olahraga menyenangkan.",
+                    "ES": "El día deportivo es divertido.",
+                    "VI": "Ngày hội thể thao rất vui.",
+                    "FR": "La journée des sports est amusante.",
+                    "NE": "खेलकुद दिवस रमाइलो छ।",
+                    "BN": "ক্রীড়া দিবস মজাদার।",
+                    "ZH": "运动会很有趣。",
+                    "KO": "운동회는 재미있습니다.",
+                    "TL": "Masaya ang araw ng palaro.",
+                    "MY": "အားကစားနေ့မှာ ပျော်စရာပါ။",
+                    "HI": "खेलकूद का दिन मजेदार होता है।",
+                    "AR": "يوم الرياضة ممتع.",
+                    "FA": "روز ورزش سرگرم کننده است."
+                }
+            },
+            {
+                "kanji": "運動不足です。",
+                "furigana": "運動(うんどう)不足(ぶそく)です。",
+                "translations": {
+                    "EN": "I am lacking exercise.",
+                    "ID": "Saya kurang berolahraga.",
+                    "ES": "Estoy falto de ejercicio.",
+                    "VI": "Tôi bị thiếu vận động.",
+                    "FR": "Je manque d'exercice.",
+                    "NE": "मलाई व्यायामको कमी छ।",
+                    "BN": "আমার ব্যায়ামের অভাব আছে।",
+                    "ZH": "我缺乏运动。",
+                    "KO": "운동이 부족해요.",
+                    "TL": "Kulang ako sa ehersisyo.",
+                    "MY": "ကျွန်တော့်မှာ သက်တန့်လွန်နေပါတယ်။",
+                    "HI": "मैं व्यायाम में कमी कर रहा हूँ।",
+                    "AR": "أعاني من نقص في الرياضة.",
+                    "FA": "من فعالیت بدنی کافی ندارم."
+                }
+            },
+            {
+                "kanji": "彼は運動指導が上手です。",
+                "furigana": "彼(かれ)は運動(うんどう)指導(しどう)が上手(じょうず)です。",
+                "translations": {
+                    "EN": "He is good at sports coaching.",
+                    "ID": "Dia pandai dalam pembinaan olahraga.",
+                    "ES": "Es bueno entrenando deportes.",
+                    "VI": "Anh ấy giỏi huấn luyện thể thao.",
+                    "FR": "Il est bon en coaching sportif.",
+                    "NE": "उहाँ खेलकूद निर्देशनमा राम्रो हुनुहुन्छ।",
+                    "BN": "তিনি খেলাধুলার নির্দেশনায় ভালো।",
+                    "ZH": "他擅长运动指导。",
+                    "KO": "그는 운동 지도를 잘 합니다.",
+                    "TL": "Magaling siya sa pagpapayo sa sports.",
+                    "MY": "သူသည် အားကစားကိုယ်စားပြုမှုတွင် ကျွမ်းကျင်ပါသည်။",
+                    "HI": "वह खेल का प्रशिक्षण देने में अच्छे हैं।",
+                    "AR": "إنه جيد في تدريب الرياضة.",
+                    "FA": "او در مربیگری ورزشی خوب است."
+                }
+            },
+            {
+                "kanji": "私の運動能力は高いです。",
+                "furigana": "私(わたし)の運動能力(うんどうのうりょく)は高(たか)いです。",
+                "translations": {
+                    "EN": "My athletic ability is high.",
+                    "ID": "Kemampuan atletik saya tinggi.",
+                    "ES": "Mi capacidad atlética es alta.",
+                    "VI": "Khả năng thể thao của tôi cao.",
+                    "FR": "Ma capacité sportive est élevée.",
+                    "NE": "मेरो खेलकुद क्षमता उच्च छ।",
+                    "BN": "আমার ক্রীড়া দক্ষতা বেশি।",
+                    "ZH": "我的运动能力很高。",
+                    "KO": "제 운동 능력이 좋습니다.",
+                    "TL": "Mataas ang aking kakayahan sa pag-eehersisyo.",
+                    "MY": "ကျွန်တော်ရဲ့ာဘက်တစ်ခုရဲ့တယ်မှာရေးခဲ့သည်။",
+                    "HI": "मेरी खेल क्षमता ऊँची है।",
+                    "AR": "مستوى قدراتي الرياضية مرتفع.",
+                    "FA": "توانایی ورزشی من بالاست."
+                }
+            }
+        ],
+        "synonyms": [
+            "体操 : たいそう : gymnastics",
+            "動作 : どうさ : movement"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"運動\" are \"体操\" and \"動作.\" \"体操\" refers to gymnastics or calisthenics, focusing on structured physical exercises, often as routines. \"動作\" refers to a broader concept of movement or action, which can also include everyday physical gestures not necessarily related to exercise. \n",
+        "antonyms": [
+            "静止 : せいし : stillness",
+            "休止 : きゅうし : pause"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word \"運動\" are \"静止\" and \"休止.\" \"静止\" refers to stillness or being motionless, the complete opposite of physical activity. \"休止\" implies a pause or cessation, indicating a temporary stop to movement or activities, often offering a break from action.",
+        "kanji_details": [
+            {
+                "kanji": "運",
+                "common_words": [
+                    "運転: operation",
+                    "運命: fate"
+                ]
+            },
+            {
+                "kanji": "動",
+                "common_words": [
+                    "動く: to move",
+                    "動物: animal"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "運動",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "運動",
+                "reading": "うんどう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "exercise",
+                    "physical training",
+                    "workout",
+                    "sports",
+                    "athletics"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "appeal",
+                    "campaign",
+                    "drive",
+                    "crusade",
+                    "movement",
+                    "lobbying"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "motion",
+                    "movement"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "運",
+        "動"
     ],
-    "kanjis": [
-        {
-            "kanji": "運",
+    "kanji_data": {
+        "運": {
             "meanings": [
                 "advance",
                 "carry",
@@ -98,94 +299,19 @@
                 "progress",
                 "transport"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ウン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "はこ.ぶ"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 4,
-            "frequency": 255,
+            "freq_mainichi_shinbun": 255,
             "unicode": "904B",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "運転",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "うんてん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "operation",
-                                "running",
-                                "working"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "driving"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "use",
-                                "management",
-                                "investment"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "運命",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "うんめい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "fate",
-                                "destiny",
-                                "lot"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         },
-        {
-            "kanji": "動",
+        "動": {
             "meanings": [
                 "change",
                 "confusion",
@@ -194,415 +320,25 @@
                 "shake",
                 "shift"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ドウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "うご.かす",
                 "うご.く"
             ],
-            "strokes": 11,
+            "stroke_count": 11,
             "jlpt": 4,
-            "frequency": 73,
+            "freq_mainichi_shinbun": 73,
             "unicode": "52D5",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "動く",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "うごく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to move",
-                                "to stir",
-                                "to shift",
-                                "to shake",
-                                "to swing"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to operate",
-                                "to run",
-                                "to go",
-                                "to work"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to make a move",
-                                "to take action",
-                                "to act",
-                                "to go into action"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be touched",
-                                "to be influenced"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to change",
-                                "to vary",
-                                "to fluctuate",
-                                "to waver"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be transferred"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "動物",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どうぶつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "animal"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means movement or carrying and can also suggest luck or fate. In the word うんてん it contributes the idea of carrying or controlling motion, which is why うんてん means driving or operation. In うんめい it helps express something being carried by fate, so it means destiny. The second kanji means to move or motion and refers to physical action or change. In うごく it keeps its basic meaning of moving, so the verb means to move or to function. In どうぶつ it describes a living thing that moves, which is why the compound means animal.",
-    "explanations": {
-        "explanation": "The word \"運動\" means \"exercise\" or \"physical activity\" in English. It refers to any kind of activity that involves physical movement and is often done to improve or maintain physical fitness and overall health. It can also refer to sports or any type of bodily motion intended for health purposes.\n",
-        "youtube_description": "Learn how to use the Japanese word \"運動\" (うんどう) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!\n",
-        "motivation": "The word we'll be learning in this section is \"うんどう,\" which you will often hear in gyms, schools, or sports events. ",
-        "collocations": [
-            "日々の運動",
-            "運動会",
-            "運動不足",
-            "運動指導",
-            "運動能力"
-        ],
-        "synonyms": [
-            "体操",
-            "動作"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"運動\" are \"体操\" and \"動作.\" \"体操\" refers to gymnastics or calisthenics, focusing on structured physical exercises, often as routines. \"動作\" refers to a broader concept of movement or action, which can also include everyday physical gestures not necessarily related to exercise. \n",
-        "antonyms": [
-            "静止",
-            "休止"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"運動\" are \"静止\" and \"休止.\" \"静止\" refers to stillness or being motionless, the complete opposite of physical activity. \"休止\" implies a pause or cessation, indicating a temporary stop to movement or activities, often offering a break from action."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "毎日、日々の運動を楽しみます。",
-            "furigana": "毎(まい)日(にち)、日々(ひび)の運動(うんどう)を楽し(たの)しみます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "毎日、日々の運動を楽しみます。",
-                "English": "Every day, I enjoy daily exercise.",
-                "Persian": "هر روز، از ورزش روزانه لذت می‌برم.",
-                "Nepali": "हरेक दिन, म दैनिक व्यायामको आनन्द लिन्छु।",
-                "Indonesian": "Setiap hari, saya menikmati olahraga harian.",
-                "Filipino": "Araw-araw, nasisiyahan ako sa pang-araw-araw na ehersisyo.",
-                "Vietnamese": "Mỗi ngày, tôi tận hưởng việc tập thể dục hàng ngày.",
-                "Burmese": "နေ့စဉ်အသက်ခွန်အားရယူခြင်းကို ခံစားရသည်။",
-                "Korean": "매일매일의 운동을 즐깁니다.",
-                "Hindi": "हर दिन, मैं रोज़ाना व्यायाम का आनंद लेता हूँ।",
-                "Arabic": "كل يوم، أستمتع بالتمارين اليومية.",
-                "French": "Chaque jour, je profite de l'exercice quotidien.",
-                "Spanish": "Cada día, disfruto del ejercicio diario.",
-                "Chinese": "每天，我都享受日常锻炼。",
-                "Bengali": "প্রতিদিন, আমি দৈনিক ব্যায়ামের আনন্দ উপভোগ করি।"
-            }
-        },
-        {
-            "kanji": "運動会は楽しいです。",
-            "furigana": "運動会(うんどうかい)は楽(たの)しいです。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "運動会は楽しいです。",
-                "English": "The sports day is fun.",
-                "Persian": "روز ورزش سرگرم کننده است.",
-                "Nepali": "खेलकुद दिवस रमाइलो छ।",
-                "Indonesian": "Hari olahraga menyenangkan.",
-                "Filipino": "Masaya ang araw ng palaro.",
-                "Vietnamese": "Ngày hội thể thao rất vui.",
-                "Burmese": "အားကစားနေ့မှာ ပျော်စရာပါ။",
-                "Korean": "운동회는 재미있습니다.",
-                "Hindi": "खेलकूद का दिन मजेदार होता है।",
-                "Arabic": "يوم الرياضة ممتع.",
-                "French": "La journée des sports est amusante.",
-                "Spanish": "El día deportivo es divertido.",
-                "Chinese": "运动会很有趣。",
-                "Bengali": "ক্রীড়া দিবস মজাদার।"
-            }
-        },
-        {
-            "kanji": "運動不足です。",
-            "furigana": "運動(うんどう)不足(ぶそく)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "運動不足です。",
-                "English": "I am lacking exercise.",
-                "Persian": "من فعالیت بدنی کافی ندارم.",
-                "Nepali": "मलाई व्यायामको कमी छ।",
-                "Indonesian": "Saya kurang berolahraga.",
-                "Filipino": "Kulang ako sa ehersisyo.",
-                "Vietnamese": "Tôi bị thiếu vận động.",
-                "Burmese": "ကျွန်တော့်မှာ သက်တန့်လွန်နေပါတယ်။",
-                "Korean": "운동이 부족해요.",
-                "Hindi": "मैं व्यायाम में कमी कर रहा हूँ।",
-                "Arabic": "أعاني من نقص في الرياضة.",
-                "French": "Je manque d'exercice.",
-                "Spanish": "Estoy falto de ejercicio.",
-                "Chinese": "我缺乏运动。",
-                "Bengali": "আমার ব্যায়ামের অভাব আছে।"
-            }
-        },
-        {
-            "kanji": "彼は運動指導が上手です。",
-            "furigana": "彼(かれ)は運動(うんどう)指導(しどう)が上手(じょうず)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は運動指導が上手です。",
-                "English": "He is good at sports coaching.",
-                "Persian": "او در مربیگری ورزشی خوب است.",
-                "Nepali": "उहाँ खेलकूद निर्देशनमा राम्रो हुनुहुन्छ।",
-                "Indonesian": "Dia pandai dalam pembinaan olahraga.",
-                "Filipino": "Magaling siya sa pagpapayo sa sports.",
-                "Vietnamese": "Anh ấy giỏi huấn luyện thể thao.",
-                "Burmese": "သူသည် အားကစားကိုယ်စားပြုမှုတွင် ကျွမ်းကျင်ပါသည်။",
-                "Korean": "그는 운동 지도를 잘 합니다.",
-                "Hindi": "वह खेल का प्रशिक्षण देने में अच्छे हैं।",
-                "Arabic": "إنه جيد في تدريب الرياضة.",
-                "French": "Il est bon en coaching sportif.",
-                "Spanish": "Es bueno entrenando deportes.",
-                "Chinese": "他擅长运动指导。",
-                "Bengali": "তিনি খেলাধুলার নির্দেশনায় ভালো।"
-            }
-        },
-        {
-            "kanji": "私の運動能力は高いです。",
-            "furigana": "私(わたし)の運動能力(うんどうのうりょく)は高(たか)いです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私の運動能力は高いです。",
-                "English": "My athletic ability is high.",
-                "Persian": "توانایی ورزشی من بالاست.",
-                "Nepali": "मेरो खेलकुद क्षमता उच्च छ।",
-                "Indonesian": "Kemampuan atletik saya tinggi.",
-                "Filipino": "Mataas ang aking kakayahan sa pag-eehersisyo.",
-                "Vietnamese": "Khả năng thể thao của tôi cao.",
-                "Burmese": "ကျွန်တော်ရဲ့ာဘက်တစ်ခုရဲ့တယ်မှာရေးခဲ့သည်။",
-                "Korean": "제 운동 능력이 좋습니다.",
-                "Hindi": "मेरी खेल क्षमता ऊँची है।",
-                "Arabic": "مستوى قدراتي الرياضية مرتفع.",
-                "French": "Ma capacité sportive est élevée.",
-                "Spanish": "Mi capacidad atlética es alta.",
-                "Chinese": "我的运动能力很高。",
-                "Bengali": "আমার ক্রীড়া দক্ষতা বেশি।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "体操",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "たいそう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "gymnastics",
-                        "physical exercises"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "artistic gymnastics",
-                        "gymnastics competition"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "physical education",
-                        "PE"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "動作",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "どうさ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "movement",
-                        "action",
-                        "motion",
-                        "gesture"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "bearing",
-                        "carriage",
-                        "behaviour",
-                        "behavior",
-                        "demeanour",
-                        "demeanor"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "operation",
-                        "running",
-                        "working",
-                        "functioning"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "静止",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "せいし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "stillness",
-                        "rest",
-                        "being stationary",
-                        "standing still",
-                        "coming to a standstill"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "休止",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "きゅうし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "pause",
-                        "suspension",
-                        "rest",
-                        "stoppage"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "日々の運動",
+        "運動会",
+        "運動不足",
+        "運動指導",
+        "運動能力"
     ]
 }

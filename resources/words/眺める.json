@@ -1,90 +1,278 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "眺める",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/coU2oRkWRzc",
     "in_db": true,
-    "reading": "ながめる",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "眺める",
+        "reading": "ながめる",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is \"ながめる,\" which you will often hear when people discuss enjoying a beautiful view, observing art, or simply watching the world around them.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"ながめる\" means to look at or to gaze. It refers to the act of looking over something often with delight or interest, such as a scenic view, an artwork, or anything captivating. It can also imply observing things in a thoughtful or contemplative manner.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to look at",
                 "to gaze at",
                 "to watch",
                 "to stare at"
             ],
-            "part_of_speech": "Ichidan verb, Transitive verb",
-            "translation": {
-                "Japanese": "眺める",
-                "English": "to look at",
-                "Persian": "نگاه کردن به",
-                "Nepali": "हेर्नुहोस्",
-                "Indonesian": "melihat",
-                "Filipino": "tumingin sa",
-                "Vietnamese": "nhìn vào",
-                "Burmese": "ကြည့်ဖို့",
-                "Korean": "바라보다",
-                "Hindi": "देखना",
-                "Arabic": "للنظر إلى",
-                "French": "regarder",
-                "Spanish": "mirar",
-                "Chinese": "看",
-                "Bengali": "দেখতে"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to look out over",
                 "to get a view of",
                 "to admire"
             ],
-            "part_of_speech": "Ichidan verb, Transitive verb",
-            "translation": {
-                "Japanese": "眺める",
-                "English": "to look out over",
-                "Persian": "نگاه کردن به چیزی از بالا",
-                "Nepali": "माथिबाट हेर्नु",
-                "Indonesian": "melihat ke luar",
-                "Filipino": "tumingin sa labas",
-                "Vietnamese": "nhìn ra ngoài",
-                "Burmese": "အပြင်ကိုကြည့်သည်",
-                "Korean": "내려다보다",
-                "Hindi": "ऊपर से देखना",
-                "Arabic": "التطلع إلى الخارج",
-                "French": "regarder au loin",
-                "Spanish": "mirar hacia afuera",
-                "Chinese": "眺望",
-                "Bengali": "ওপর থেকে দেখা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to look on",
                 "to stand by and watch",
                 "to observe"
-            ],
-            "part_of_speech": "Ichidan verb, Transitive verb",
-            "translation": {
-                "Japanese": "眺める",
-                "English": "to look on",
-                "Persian": "نگاه کردن به",
-                "Nepali": "हेर्नु",
-                "Indonesian": "memandang",
-                "Filipino": "tumawad",
-                "Vietnamese": "nhìn",
-                "Burmese": "ကြည့်ရှုသည်",
-                "Korean": "바라보다",
-                "Hindi": "देखना",
-                "Arabic": "ينظر",
-                "French": "observer",
-                "Spanish": "mirar",
-                "Chinese": "观看",
-                "Bengali": "দেখা"
+            ]
+        ],
+        "meaning_translations": {
+            "to look at": {
+                "EN": "to look at",
+                "ID": "melihat",
+                "ES": "mirar",
+                "VI": "nhìn vào",
+                "FR": "regarder",
+                "NE": "हेर्नुहोस्",
+                "BN": "দেখতে",
+                "ZH": "看",
+                "KO": "바라보다",
+                "TL": "tumingin sa",
+                "MY": "ကြည့်ဖို့",
+                "HI": "देखना",
+                "AR": "للنظر إلى",
+                "FA": "نگاه کردن به"
+            },
+            "to look out over": {
+                "EN": "to look out over",
+                "ID": "melihat ke luar",
+                "ES": "mirar hacia afuera",
+                "VI": "nhìn ra ngoài",
+                "FR": "regarder au loin",
+                "NE": "माथिबाट हेर्नु",
+                "BN": "ওপর থেকে দেখা",
+                "ZH": "眺望",
+                "KO": "내려다보다",
+                "TL": "tumingin sa labas",
+                "MY": "အပြင်ကိုကြည့်သည်",
+                "HI": "ऊपर से देखना",
+                "AR": "التطلع إلى الخارج",
+                "FA": "نگاه کردن به چیزی از بالا"
+            },
+            "to look on": {
+                "EN": "to look on",
+                "ID": "memandang",
+                "ES": "mirar",
+                "VI": "nhìn",
+                "FR": "observer",
+                "NE": "हेर्नु",
+                "BN": "দেখা",
+                "ZH": "观看",
+                "KO": "바라보다",
+                "TL": "tumawad",
+                "MY": "ကြည့်ရှုသည်",
+                "HI": "देखना",
+                "AR": "ينظر",
+                "FA": "نگاه کردن به"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "山で景色を眺める。",
+                "furigana": "山(やま)で景色(けしき)を眺(なが)める。",
+                "translations": {
+                    "EN": "I gaze at the scenery on the mountain.",
+                    "ID": "Saya memandang pemandangan di gunung.",
+                    "ES": "Miro el paisaje en la montaña.",
+                    "VI": "Tôi ngắm cảnh trên núi.",
+                    "FR": "Je regarde le paysage sur la montagne.",
+                    "NE": "म पहाडमा दृश्य हेर्छु।",
+                    "BN": "আমি পাহাড়ে দৃশ্য দেখি।",
+                    "ZH": "我在山上看风景。",
+                    "KO": "산에서 경치를 바라보다.",
+                    "TL": "Ako ay nakatingin sa tanawin sa bundok.",
+                    "MY": "ကျွန်ုပ်သည် တောင်တက်သည့် ရူခိုးကို ကြည့်ရှုသည်။",
+                    "HI": "मैं पहाड़ पर दृश्य को देखता हूँ।",
+                    "AR": "أنظر إلى المناظر على الجبل.",
+                    "FA": "من به مناظر کوه می نگرم."
+                }
+            },
+            {
+                "kanji": "彼は絵を眺めています。",
+                "furigana": "彼(かれ)は絵(え)を眺(なが)めています。",
+                "translations": {
+                    "EN": "He is looking at the painting.",
+                    "ID": "Dia sedang melihat lukisan.",
+                    "ES": "Él está mirando la pintura.",
+                    "VI": "Anh ấy đang ngắm nhìn bức tranh.",
+                    "FR": "Il regarde le tableau.",
+                    "NE": "उनी चित्र हेर्दैछन्।",
+                    "BN": "সে ছবির দিকে তাকিয়ে আছে।",
+                    "ZH": "他在看画。",
+                    "KO": "그는 그림을 보고 있습니다.",
+                    "TL": "Tinitignan niya ang larawan.",
+                    "MY": "သူက ပန်းချီကားကိုကြည့်နေပါတယ်။",
+                    "HI": "वह चित्र देख रहा है।",
+                    "AR": "إنه ينظر إلى اللوحة.",
+                    "FA": "او به نقاشی نگاه می کند."
+                }
+            },
+            {
+                "kanji": "彼は空を眺める。",
+                "furigana": "彼(かれ)は空(そら)を眺(なが)める。",
+                "translations": {
+                    "EN": "He looks at the sky.",
+                    "ID": "Dia memandangi langit.",
+                    "ES": "Él mira el cielo.",
+                    "VI": "Anh ấy ngắm nhìn bầu trời.",
+                    "FR": "Il regarde le ciel.",
+                    "NE": "उनी आकाश हेर्छन्।",
+                    "BN": "সে আকাশ দেখছে।",
+                    "ZH": "他看着天空。",
+                    "KO": "그는 하늘을 바라본다.",
+                    "TL": "Tinitignan niya ang langit.",
+                    "MY": "သူ ဆီကို ကြည့်ပါတယ်။",
+                    "HI": "वह आसमान को देखता है।",
+                    "AR": "ينظر إلى السماء.",
+                    "FA": "او به آسمان نگاه می‌کند."
+                }
+            },
+            {
+                "kanji": "公園で人々を眺めました。",
+                "furigana": "公園(こうえん)で人々(ひとびと)を眺(なが)めました。",
+                "translations": {
+                    "EN": "I watched the people at the park.",
+                    "ID": "Saya mengamati orang-orang di taman.",
+                    "ES": "Observé a la gente en el parque.",
+                    "VI": "Tôi quan sát mọi người ở công viên.",
+                    "FR": "J'ai observé les gens au parc.",
+                    "NE": "मैले पार्कमा मानिसहरूलाई हेरें।",
+                    "BN": "আমি পার্কে লোকজনকে দেখেছি।",
+                    "ZH": "我在公园里看着人们。",
+                    "KO": "공원에서 사람들을 바라봤습니다.",
+                    "TL": "Pinanood ko ang mga tao sa parke.",
+                    "MY": "ပန်းခြံမှာလူတွေကိုကြည့်သွားပါတယ်။",
+                    "HI": "मैंने पार्क में लोगों को देखा।",
+                    "AR": "شاهدت الناس في الحديقة.",
+                    "FA": "به مردم در پارک نگاه کردم."
+                }
+            },
+            {
+                "kanji": "私は家を眺めます。",
+                "furigana": "私(わたし)は家(いえ)を眺(なが)めます。",
+                "translations": {
+                    "EN": "I look at the house.",
+                    "ID": "Saya melihat ke arah rumah.",
+                    "ES": "Miro la casa.",
+                    "VI": "Tôi ngắm nhìn ngôi nhà.",
+                    "FR": "Je regarde la maison.",
+                    "NE": "म घरतिर हेर्छु।",
+                    "BN": "আমি বাড়ির দিকে তাকাই।",
+                    "ZH": "我看着房子。",
+                    "KO": "나는 집을 바라봅니다.",
+                    "TL": "Tinitignan ko ang bahay.",
+                    "MY": "ငါအိမ်ကိုကြည့်ရှုတယ်။",
+                    "HI": "मैं घर को देखता हूँ।",
+                    "AR": "أنا أنظر إلى المنزل.",
+                    "FA": "من به خانه نگاه می‌کنم."
+                }
+            }
+        ],
+        "synonyms": [
+            "見る : みる : to see"
+        ],
+        "synonyms_explanation": "The most common synonym of the word \"ながめる\" is \"見る\". While \"ながめる\" emphasizes a more thoughtful or lingering observation, \"見る\" is generally a neutral term for looking or seeing. This nuance makes \"ながめる\" more suitable when expressing appreciation or contemplation.",
+        "antonyms": [
+            "見逃す : みのがす : to miss"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"ながめる\" is \"見逃す,\" which means to overlook or miss seeing something. While \"ながめる\" implies attentively looking at something, \"見逃す\" suggests failing to notice or intentionally ignoring it.",
+        "kanji_details": [
+            {
+                "kanji": "眺",
+                "common_words": [
+                    "眺望: view",
+                    "遠: distant"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "眺める",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "眺める",
+                "reading": "ながめる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to look at",
+                    "to gaze at",
+                    "to watch",
+                    "to stare at"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to look out over",
+                    "to get a view of",
+                    "to admire"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to look on",
+                    "to stand by and watch",
+                    "to observe"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "眺"
     ],
-    "kanjis": [
-        {
-            "kanji": "眺",
+    "kanji_data": {
+        "眺": {
             "meanings": [
                 "look at",
                 "scrutinize",
@@ -92,339 +280,24 @@
                 "stare",
                 "watch"
             ],
-            "onyomi": [
+            "on_readings": [
                 "チョウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "なが.める"
             ],
-            "strokes": 11,
+            "stroke_count": 11,
             "jlpt": 1,
-            "frequency": 1726,
+            "freq_mainichi_shinbun": 1726,
             "unicode": "773A",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "眺望",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちょうぼう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "view",
-                                "vista",
-                                "panorama",
-                                "outlook",
-                                "prospect"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "遠",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "とお",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "distant"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means to look or to gaze and carries the sense of watching something deliberately. In ちょうぼう it adds the idea of a sight or panorama, so the whole word becomes a wide view or outlook. In えんちょう it keeps the sense of looking while combining with 'distant', so it means gazing at something far away. Think of this kanji as the act of focusing your eyes on a scene.",
-    "explanations": {
-        "explanation": "The word \"ながめる\" means to look at or to gaze. It refers to the act of looking over something often with delight or interest, such as a scenic view, an artwork, or anything captivating. It can also imply observing things in a thoughtful or contemplative manner.",
-        "youtube_description": "Learn how to use the Japanese word 眺める (ながめる) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is \"ながめる,\" which you will often hear when people discuss enjoying a beautiful view, observing art, or simply watching the world around them.",
-        "collocations": [
-            "景色をながめる",
-            "絵をながめる",
-            "空をながめる",
-            "人々をながめる",
-            "家をながめる"
-        ],
-        "synonyms": [
-            "見る"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"ながめる\" is \"見る\". While \"ながめる\" emphasizes a more thoughtful or lingering observation, \"見る\" is generally a neutral term for looking or seeing. This nuance makes \"ながめる\" more suitable when expressing appreciation or contemplation.",
-        "antonyms": [
-            "見逃す"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"ながめる\" is \"見逃す,\" which means to overlook or miss seeing something. While \"ながめる\" implies attentively looking at something, \"見逃す\" suggests failing to notice or intentionally ignoring it."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "山で景色を眺める。",
-            "furigana": "山(やま)で景色(けしき)を眺(なが)める。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "山で景色を眺める。",
-                "English": "I gaze at the scenery on the mountain.",
-                "Persian": "من به مناظر کوه می نگرم.",
-                "Nepali": "म पहाडमा दृश्य हेर्छु।",
-                "Indonesian": "Saya memandang pemandangan di gunung.",
-                "Filipino": "Ako ay nakatingin sa tanawin sa bundok.",
-                "Vietnamese": "Tôi ngắm cảnh trên núi.",
-                "Burmese": "ကျွန်ုပ်သည် တောင်တက်သည့် ရူခိုးကို ကြည့်ရှုသည်။",
-                "Korean": "산에서 경치를 바라보다.",
-                "Hindi": "मैं पहाड़ पर दृश्य को देखता हूँ।",
-                "Arabic": "أنظر إلى المناظر على الجبل.",
-                "French": "Je regarde le paysage sur la montagne.",
-                "Spanish": "Miro el paisaje en la montaña.",
-                "Chinese": "我在山上看风景。",
-                "Bengali": "আমি পাহাড়ে দৃশ্য দেখি।"
-            }
-        },
-        {
-            "kanji": "彼は絵を眺めています。",
-            "furigana": "彼(かれ)は絵(え)を眺(なが)めています。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼は絵を眺めています。",
-                "English": "He is looking at the painting.",
-                "Persian": "او به نقاشی نگاه می کند.",
-                "Nepali": "उनी चित्र हेर्दैछन्।",
-                "Indonesian": "Dia sedang melihat lukisan.",
-                "Filipino": "Tinitignan niya ang larawan.",
-                "Vietnamese": "Anh ấy đang ngắm nhìn bức tranh.",
-                "Burmese": "သူက ပန်းချီကားကိုကြည့်နေပါတယ်။",
-                "Korean": "그는 그림을 보고 있습니다.",
-                "Hindi": "वह चित्र देख रहा है।",
-                "Arabic": "إنه ينظر إلى اللوحة.",
-                "French": "Il regarde le tableau.",
-                "Spanish": "Él está mirando la pintura.",
-                "Chinese": "他在看画。",
-                "Bengali": "সে ছবির দিকে তাকিয়ে আছে।"
-            }
-        },
-        {
-            "kanji": "彼は空を眺める。",
-            "furigana": "彼(かれ)は空(そら)を眺(なが)める。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は空を眺める。",
-                "English": "He looks at the sky.",
-                "Persian": "او به آسمان نگاه می‌کند.",
-                "Nepali": "उनी आकाश हेर्छन्।",
-                "Indonesian": "Dia memandangi langit.",
-                "Filipino": "Tinitignan niya ang langit.",
-                "Vietnamese": "Anh ấy ngắm nhìn bầu trời.",
-                "Burmese": "သူ ဆီကို ကြည့်ပါတယ်။",
-                "Korean": "그는 하늘을 바라본다.",
-                "Hindi": "वह आसमान को देखता है।",
-                "Arabic": "ينظر إلى السماء.",
-                "French": "Il regarde le ciel.",
-                "Spanish": "Él mira el cielo.",
-                "Chinese": "他看着天空。",
-                "Bengali": "সে আকাশ দেখছে।"
-            }
-        },
-        {
-            "kanji": "公園で人々を眺めました。",
-            "furigana": "公園(こうえん)で人々(ひとびと)を眺(なが)めました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "公園で人々を眺めました。",
-                "English": "I watched the people at the park.",
-                "Persian": "به مردم در پارک نگاه کردم.",
-                "Nepali": "मैले पार्कमा मानिसहरूलाई हेरें।",
-                "Indonesian": "Saya mengamati orang-orang di taman.",
-                "Filipino": "Pinanood ko ang mga tao sa parke.",
-                "Vietnamese": "Tôi quan sát mọi người ở công viên.",
-                "Burmese": "ပန်းခြံမှာလူတွေကိုကြည့်သွားပါတယ်။",
-                "Korean": "공원에서 사람들을 바라봤습니다.",
-                "Hindi": "मैंने पार्क में लोगों को देखा।",
-                "Arabic": "شاهدت الناس في الحديقة.",
-                "French": "J'ai observé les gens au parc.",
-                "Spanish": "Observé a la gente en el parque.",
-                "Chinese": "我在公园里看着人们。",
-                "Bengali": "আমি পার্কে লোকজনকে দেখেছি।"
-            }
-        },
-        {
-            "kanji": "私は家を眺めます。",
-            "furigana": "私(わたし)は家(いえ)を眺(なが)めます。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "私は家を眺めます。",
-                "English": "I look at the house.",
-                "Persian": "من به خانه نگاه می‌کنم.",
-                "Nepali": "म घरतिर हेर्छु।",
-                "Indonesian": "Saya melihat ke arah rumah.",
-                "Filipino": "Tinitignan ko ang bahay.",
-                "Vietnamese": "Tôi ngắm nhìn ngôi nhà.",
-                "Burmese": "ငါအိမ်ကိုကြည့်ရှုတယ်။",
-                "Korean": "나는 집을 바라봅니다.",
-                "Hindi": "मैं घर को देखता हूँ।",
-                "Arabic": "أنا أنظر إلى المنزل.",
-                "French": "Je regarde la maison.",
-                "Spanish": "Miro la casa.",
-                "Chinese": "我看着房子。",
-                "Bengali": "আমি বাড়ির দিকে তাকাই।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "見る",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "みる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to see",
-                        "to look",
-                        "to watch",
-                        "to view",
-                        "to observe"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to examine",
-                        "to look over",
-                        "to assess",
-                        "to check",
-                        "to judge"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to look after",
-                        "to attend to",
-                        "to take care of",
-                        "to keep an eye on"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to experience",
-                        "to meet with"
-                    ],
-                    "part_of_speech": "Ichidan verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to try ...",
-                        "to have a go at ...",
-                        "to give ... a try"
-                    ],
-                    "part_of_speech": "Auxiliary verb, Ichidan verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to see ...",
-                        "to find ..."
-                    ],
-                    "part_of_speech": "Auxiliary verb, Ichidan verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "見逃す",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "みのがす",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to miss",
-                        "to overlook",
-                        "to fail to notice"
-                    ],
-                    "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to let pass",
-                        "to overlook",
-                        "to turn a blind eye to"
-                    ],
-                    "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to pass up"
-                    ],
-                    "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to let go by"
-                    ],
-                    "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "景色をながめる",
+        "絵をながめる",
+        "空をながめる",
+        "人々をながめる",
+        "家をながめる"
     ]
 }

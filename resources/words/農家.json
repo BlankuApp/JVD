@@ -1,164 +1,273 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "農家",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/bNCMuh9xaFY",
     "in_db": true,
-    "reading": "のうか",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "農家",
+        "reading": "のうか",
+        "introduction_japanese": "",
+        "introduction_english": "Ever found yourself confused about the places where food is grown or where farmers live and work? Well, today we will dive into the word のうか, frequently used in everyday conversations about farming and agriculture.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word のうか means a farm or farmhouse, where agricultural activities are carried out. It is also used to refer to a farmer or a farming family, the people responsible for producing crops and raising animals.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "farmer",
                 "farming family"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "農家",
-                "English": "farmer",
-                "Persian": "کشاورز",
-                "Nepali": "किसान",
-                "Indonesian": "petani",
-                "Filipino": "magsasaka",
-                "Vietnamese": "nông dân",
-                "Burmese": "တောင်သူလယ်သမား",
-                "Korean": "농부",
-                "Hindi": "किसान",
-                "Arabic": "فلاح",
-                "French": "agriculteur",
-                "Spanish": "agricultor",
-                "Chinese": "农民",
-                "Bengali": "চাষী"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "farmhouse"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "農家",
-                "English": "farmhouse",
-                "Persian": "مزرعه خانه",
-                "Nepali": "खलियान",
-                "Indonesian": "rumah petani",
-                "Filipino": "bahay-sakahan",
-                "Vietnamese": "nhà nông",
-                "Burmese": "ရွာသူငယ်အိမ်",
-                "Korean": "농가",
-                "Hindi": "कृषक का घर",
-                "Arabic": "منزل المزرعة",
-                "French": "fermette",
-                "Spanish": "granja",
-                "Chinese": "农舍",
-                "Bengali": "কৃষক বাড়ি"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "School of Agrarianism",
                 "School of Agronomists"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "農家 : アグラリアニズムの学校",
-                "English": "Farmer: School of Agrarianism",
-                "Persian": "کشاورز: مدرسه زمینداری",
-                "Nepali": "किसान : कृषिवादी विद्यालय",
-                "Indonesian": "Petani: Sekolah Agrarianisme",
-                "Filipino": "Magsasaka: Paaralan ng Agrarianismo",
-                "Vietnamese": "Nông dân: Trường phái Agrarianism",
-                "Burmese": "ကျေးလက်လယ်ယာလုပ်ငန်း: ကျေးလယ်ယာဝါဒ၏ကျောင်း",
-                "Korean": "농부: 아그라리아니즘 학교",
-                "Hindi": "किसान : कृषि स्कूल",
-                "Arabic": "مزارع : مدرسة الفلاحة",
-                "French": "Agriculteur : École d'Agrarisme",
-                "Spanish": "Agricultor: Escuela de Agrarianismo",
-                "Chinese": "农民：农业主义学校",
-                "Bengali": "কৃষক : কৃষিবাদ স্কুল"
+            ]
+        ],
+        "meaning_translations": {
+            "farmer": {
+                "EN": "farmer",
+                "ID": "petani",
+                "ES": "agricultor",
+                "VI": "nông dân",
+                "FR": "agriculteur",
+                "NE": "किसान",
+                "BN": "চাষী",
+                "ZH": "农民",
+                "KO": "농부",
+                "TL": "magsasaka",
+                "MY": "တောင်သူလယ်သမား",
+                "HI": "किसान",
+                "AR": "فلاح",
+                "FA": "کشاورز"
+            },
+            "farmhouse": {
+                "EN": "farmhouse",
+                "ID": "rumah petani",
+                "ES": "granja",
+                "VI": "nhà nông",
+                "FR": "fermette",
+                "NE": "खलियान",
+                "BN": "কৃষক বাড়ি",
+                "ZH": "农舍",
+                "KO": "농가",
+                "TL": "bahay-sakahan",
+                "MY": "ရွာသူငယ်အိမ်",
+                "HI": "कृषक का घर",
+                "AR": "منزل المزرعة",
+                "FA": "مزرعه خانه"
+            },
+            "School of Agrarianism": {
+                "EN": "Farmer: School of Agrarianism",
+                "ID": "Petani: Sekolah Agrarianisme",
+                "ES": "Agricultor: Escuela de Agrarianismo",
+                "VI": "Nông dân: Trường phái Agrarianism",
+                "FR": "Agriculteur : École d'Agrarisme",
+                "NE": "किसान : कृषिवादी विद्यालय",
+                "BN": "কৃষক : কৃষিবাদ স্কুল",
+                "ZH": "农民：农业主义学校",
+                "KO": "농부: 아그라리아니즘 학교",
+                "TL": "Magsasaka: Paaralan ng Agrarianismo",
+                "MY": "ကျေးလက်လယ်ယာလုပ်ငန်း: ကျေးလယ်ယာဝါဒ၏ကျောင်း",
+                "HI": "किसान : कृषि स्कूल",
+                "AR": "مزارع : مدرسة الفلاحة",
+                "FA": "کشاورز: مدرسه زمینداری"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "農家の人は野菜を育てます。",
+                "furigana": "農家(のうか)の人(ひと)は野菜(やさい)を育(そだ)てます。",
+                "translations": {
+                    "EN": "Farmers grow vegetables.",
+                    "ID": "Orang petani menanam sayuran.",
+                    "ES": "Los agricultores cultivan vegetales.",
+                    "VI": "Người nông dân trồng rau.",
+                    "FR": "Les agriculteurs cultivent des légumes.",
+                    "NE": "किसानहरूले तरकारी उमार्छन्।",
+                    "BN": "কৃষকরা সবজি চাষ করে থাকে।",
+                    "ZH": "农民种蔬菜。",
+                    "KO": "농부는 채소를 재배합니다.",
+                    "TL": "Ang mga magsasaka ay nagtatanim ng gulay.",
+                    "MY": "လယ်သမားများသည် ဟင်းသီးဟင်းရွက်များ စိုက်ပျိုးကြသည်။",
+                    "HI": "किसान सब्जियाँ उगाते हैं।",
+                    "AR": "المزارعون يزرعون الخضروات.",
+                    "FA": "کشاورزان سبزیجات می‌کارند."
+                }
+            },
+            {
+                "kanji": "農家の暮らしは静かです。",
+                "furigana": "農家(のうか)の暮(くら)らしは静(しず)かです。",
+                "translations": {
+                    "EN": "Life on the farm is quiet.",
+                    "ID": "Kehidupan di pertanian tenang.",
+                    "ES": "La vida en la granja es tranquila.",
+                    "VI": "Cuộc sống ở nông trại yên bình.",
+                    "FR": "La vie à la ferme est tranquille.",
+                    "NE": "किसानको जीवन शान्त छ।",
+                    "BN": "ফার্মে জীবন শান্ত।",
+                    "ZH": "农场的生活很安静。",
+                    "KO": "농가 생활은 조용합니다.",
+                    "TL": "Ang pamumuhay sa bukid ay tahimik.",
+                    "MY": "ရွာလည်ကျေးရွာသက်သက်ရွက်လမ်း၌။",
+                    "HI": "फार्म पर जीवन शांत है।",
+                    "AR": "الحياة في المزرعة هادئة.",
+                    "FA": "زندگی در مزرعه آرام است."
+                }
+            },
+            {
+                "kanji": "農家の経営は大変です。",
+                "furigana": "農家(のうか)の経営(けいえい)は大変(たいへん)です。",
+                "translations": {
+                    "EN": "The management of a farm is hard.",
+                    "ID": "Pengelolaan petani itu sulit.",
+                    "ES": "La gestión de una granja es dura.",
+                    "VI": "Việc quản lý nông trại rất khó.",
+                    "FR": "La gestion d'une ferme est difficile.",
+                    "NE": "किसानको व्यवस्थापन कठिन छ।",
+                    "BN": "একটি খামার পরিচালনা করা কঠিন।",
+                    "ZH": "农场的管理很艰难。",
+                    "KO": "농가 경영은 어렵습니다.",
+                    "TL": "Ang pamamahala ng sakahan ay mahirap.",
+                    "MY": "လယ်ယာလုပ်ငန်းစီမံခန့်ခွဲမှု အမြန်မှာခက်ထန်ပါတယ်။",
+                    "HI": "किसान का प्रबंध करना कठिन है।",
+                    "AR": "إدارة المزرعة صعبة.",
+                    "FA": "مدیریت یک مزرعه سخت است."
+                }
+            },
+            {
+                "kanji": "農家の仕事は大変です。",
+                "furigana": "農家(のうか)の仕事(しごと)は大変(たいへん)です。",
+                "translations": {
+                    "EN": "A farmer's job is tough.",
+                    "ID": "Pekerjaan petani sulit.",
+                    "ES": "El trabajo de un agricultor es difícil.",
+                    "VI": "Công việc của người nông dân rất vất vả.",
+                    "FR": "Le travail d'un fermier est difficile.",
+                    "NE": "किसानको काम गाह्रो हुन्छ।",
+                    "BN": "কৃষকের কাজ কঠিন।",
+                    "ZH": "农家的工作很辛苦。",
+                    "KO": "농부의 일은 힘들어요.",
+                    "TL": "Mahirap ang trabaho ng magsasaka.",
+                    "MY": "သူသည်လယ်သမားလုပ်ငန်းသည်ခက်ခဲသည်။",
+                    "HI": "किसान का काम कठिन होता है।",
+                    "AR": "عمل المزارع صعب.",
+                    "FA": "کار کشاورز سخت است."
+                }
+            }
+        ],
+        "synonyms": [
+            "農場 : のうじょう : farm",
+            "田舎 : いなか : rural area"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word のうか are のうじょう and いなか. のうじょう is a specific term referring to a farm or ranch, usually larger and more business-like. いなか refers to the countryside, a wider area than a farm, where rural life happens.",
+        "antonyms": [
+            "都市 : とし : town",
+            "都会 : とかい : city"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word のうか are とし and とかい. Both refer to urban environments, where city life thrives and contrasts with the rural lifestyle of a のうか.",
+        "kanji_details": [
+            {
+                "kanji": "農",
+                "common_words": [
+                    "農業: agriculture",
+                    "農村: agricultural community"
+                ]
+            },
+            {
+                "kanji": "家",
+                "common_words": [
+                    "家族: family",
+                    "家庭: home"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "農家",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "農家",
+                "reading": "のうか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "farmer",
+                    "farming family"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "farmhouse"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "School of Agrarianism",
+                    "School of Agronomists"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "農",
+        "家"
     ],
-    "kanjis": [
-        {
-            "kanji": "農",
+    "kanji_data": {
+        "農": {
             "meanings": [
                 "agriculture",
                 "farmers"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ノウ"
             ],
-            "kunyomi": [],
-            "strokes": 13,
+            "kun_readings": [],
+            "stroke_count": 13,
             "jlpt": 2,
-            "frequency": 385,
+            "freq_mainichi_shinbun": 385,
             "unicode": "8FB2",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "農業",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "のうぎょう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "agriculture",
-                                "farming"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "農村",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "のうそん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "agricultural community",
-                                "farm village"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "rural"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         },
-        {
-            "kanji": "家",
+        "家": {
             "meanings": [
                 "expert",
                 "family",
@@ -167,327 +276,26 @@
                 "performer",
                 "professional"
             ],
-            "onyomi": [
+            "on_readings": [
                 "カ",
                 "ケ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "いえ",
                 "うち",
                 "や"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 4,
-            "frequency": 133,
+            "freq_mainichi_shinbun": 133,
             "unicode": "5BB6",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "家族",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かぞく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "family"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "家庭",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かてい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "home",
-                                "household",
-                                "family",
-                                "hearth"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means agriculture or farming. It appears in words like のうぎょう which means agriculture and のうそん which means a rural farming village, so the kanji brings the idea of farming activity. The second kanji means house or home and can also mean family or be used as a suffix for an expert. You can see that sense in words like かぞく meaning family and かてい meaning household, where the kanji gives the sense of home or family life.",
-    "explanations": {
-        "explanation": "The word のうか means a farm or farmhouse, where agricultural activities are carried out. It is also used to refer to a farmer or a farming family, the people responsible for producing crops and raising animals.",
-        "youtube_description": "Discover the meaning of 農家(のうか) and how to use it in Japanese conversations! \nIn this video, dive into the nuances of this essential vocabulary, its kanji origins, and real-life examples.\nIdeal for learners wanting to enrich their language skills. Stay tuned for more engaging content and subscribe for updates!",
-        "motivation": "Ever found yourself confused about the places where food is grown or where farmers live and work? Well, today we will dive into the word のうか, frequently used in everyday conversations about farming and agriculture.",
-        "collocations": [
-            "のうかのひと",
-            "のうかのくらし",
-            "のうかのけいえい",
-            "のうかのしごと"
-        ],
-        "synonyms": [
-            "農場",
-            "田舎"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word のうか are のうじょう and いなか. のうじょう is a specific term referring to a farm or ranch, usually larger and more business-like. いなか refers to the countryside, a wider area than a farm, where rural life happens.",
-        "antonyms": [
-            "都市",
-            "都会"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word のうか are とし and とかい. Both refer to urban environments, where city life thrives and contrasts with the rural lifestyle of a のうか."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "農家の人は野菜を育てます。",
-            "furigana": "農家(のうか)の人(ひと)は野菜(やさい)を育(そだ)てます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "農家の人は野菜を育てます。",
-                "English": "Farmers grow vegetables.",
-                "Persian": "کشاورزان سبزیجات می‌کارند.",
-                "Nepali": "किसानहरूले तरकारी उमार्छन्।",
-                "Indonesian": "Orang petani menanam sayuran.",
-                "Filipino": "Ang mga magsasaka ay nagtatanim ng gulay.",
-                "Vietnamese": "Người nông dân trồng rau.",
-                "Burmese": "လယ်သမားများသည် ဟင်းသီးဟင်းရွက်များ စိုက်ပျိုးကြသည်။",
-                "Korean": "농부는 채소를 재배합니다.",
-                "Hindi": "किसान सब्जियाँ उगाते हैं।",
-                "Arabic": "المزارعون يزرعون الخضروات.",
-                "French": "Les agriculteurs cultivent des légumes.",
-                "Spanish": "Los agricultores cultivan vegetales.",
-                "Chinese": "农民种蔬菜。",
-                "Bengali": "কৃষকরা সবজি চাষ করে থাকে।"
-            }
-        },
-        {
-            "kanji": "農家の暮らしは静かです。",
-            "furigana": "農家(のうか)の暮(くら)らしは静(しず)かです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "農家の暮らしは静かです。",
-                "English": "Life on the farm is quiet.",
-                "Persian": "زندگی در مزرعه آرام است.",
-                "Nepali": "किसानको जीवन शान्त छ।",
-                "Indonesian": "Kehidupan di pertanian tenang.",
-                "Filipino": "Ang pamumuhay sa bukid ay tahimik.",
-                "Vietnamese": "Cuộc sống ở nông trại yên bình.",
-                "Burmese": "ရွာလည်ကျေးရွာသက်သက်ရွက်လမ်း၌။",
-                "Korean": "농가 생활은 조용합니다.",
-                "Hindi": "फार्म पर जीवन शांत है।",
-                "Arabic": "الحياة في المزرعة هادئة.",
-                "French": "La vie à la ferme est tranquille.",
-                "Spanish": "La vida en la granja es tranquila.",
-                "Chinese": "农场的生活很安静。",
-                "Bengali": "ফার্মে জীবন শান্ত।"
-            }
-        },
-        {
-            "kanji": "農家の経営は大変です。",
-            "furigana": "農家(のうか)の経営(けいえい)は大変(たいへん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "農家の経営は大変です。",
-                "English": "The management of a farm is hard.",
-                "Persian": "مدیریت یک مزرعه سخت است.",
-                "Nepali": "किसानको व्यवस्थापन कठिन छ।",
-                "Indonesian": "Pengelolaan petani itu sulit.",
-                "Filipino": "Ang pamamahala ng sakahan ay mahirap.",
-                "Vietnamese": "Việc quản lý nông trại rất khó.",
-                "Burmese": "လယ်ယာလုပ်ငန်းစီမံခန့်ခွဲမှု အမြန်မှာခက်ထန်ပါတယ်။",
-                "Korean": "농가 경영은 어렵습니다.",
-                "Hindi": "किसान का प्रबंध करना कठिन है।",
-                "Arabic": "إدارة المزرعة صعبة.",
-                "French": "La gestion d'une ferme est difficile.",
-                "Spanish": "La gestión de una granja es dura.",
-                "Chinese": "农场的管理很艰难。",
-                "Bengali": "একটি খামার পরিচালনা করা কঠিন।"
-            }
-        },
-        {
-            "kanji": "農家の仕事は大変です。",
-            "furigana": "農家(のうか)の仕事(しごと)は大変(たいへん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "農家の仕事は大変です。",
-                "English": "A farmer's job is tough.",
-                "Persian": "کار کشاورز سخت است.",
-                "Nepali": "किसानको काम गाह्रो हुन्छ।",
-                "Indonesian": "Pekerjaan petani sulit.",
-                "Filipino": "Mahirap ang trabaho ng magsasaka.",
-                "Vietnamese": "Công việc của người nông dân rất vất vả.",
-                "Burmese": "သူသည်လယ်သမားလုပ်ငန်းသည်ခက်ခဲသည်။",
-                "Korean": "농부의 일은 힘들어요.",
-                "Hindi": "किसान का काम कठिन होता है।",
-                "Arabic": "عمل المزارع صعب.",
-                "French": "Le travail d'un fermier est difficile.",
-                "Spanish": "El trabajo de un agricultor es difícil.",
-                "Chinese": "农家的工作很辛苦。",
-                "Bengali": "কৃষকের কাজ কঠিন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "農場",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "のうじょう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "farm"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "Noujou"
-                    ],
-                    "part_of_speech": "Place",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "田舎",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "いなか",
-            "meanings": [
-                {
-                    "neuances": [
-                        "rural area",
-                        "countryside",
-                        "the sticks"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "hometown"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "都市",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とし",
-            "meanings": [
-                {
-                    "neuances": [
-                        "town",
-                        "city",
-                        "municipal",
-                        "urban"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "都会",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とかい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "city"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "Tokyo Metropolitan Assembly"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "のうかのひと",
+        "のうかのくらし",
+        "のうかのけいえい",
+        "のうかのしごと"
     ]
 }

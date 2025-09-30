@@ -1,38 +1,229 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "受取り",
+    "jlpt_level": 1,
     "youtube_link": "https://youtu.be/Xr2Y_PQTGsc",
     "in_db": true,
-    "reading": "うけとり",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "受取り",
+        "reading": "うけとり",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is うけとり which you will often hear in daily interactions such as receiving packages, documents, or daycare pickup scenarios. Get ready to explore its practical use and elevate your Japanese skills in no time!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word うけとり means receiving or acceptance in English. It is commonly used when talking about accepting a delivery, receipt, or permission.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "receiving",
                 "receipt"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "受取り",
-                "English": "Receiving",
-                "Persian": "دریافت کردن",
-                "Nepali": "प्राप्त गर्दै",
-                "Indonesian": "Menerima",
-                "Filipino": "Pagtanggap",
-                "Vietnamese": "Nhận",
-                "Burmese": "လက်ခံသည်",
-                "Korean": "받기",
-                "Hindi": "प्राप्ति",
-                "Arabic": "استلام",
-                "French": "Réception",
-                "Spanish": "Recepción",
-                "Chinese": "接收",
-                "Bengali": "গ্রহণ"
+            ]
+        ],
+        "meaning_translations": {
+            "receiving": {
+                "EN": "Receiving",
+                "ID": "Menerima",
+                "ES": "Recepción",
+                "VI": "Nhận",
+                "FR": "Réception",
+                "NE": "प्राप्त गर्दै",
+                "BN": "গ্রহণ",
+                "ZH": "接收",
+                "KO": "받기",
+                "TL": "Pagtanggap",
+                "MY": "လက်ခံသည်",
+                "HI": "प्राप्ति",
+                "AR": "استلام",
+                "FA": "دریافت کردن"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "受取の書をください。",
+                "furigana": "受取(うけとり)の書(しょ)をください。",
+                "translations": {
+                    "EN": "Please give me the receipt.",
+                    "ID": "Tolong beri saya tanda bukti penerimaan.",
+                    "ES": "Por favor, dame el recibo.",
+                    "VI": "Vui lòng đưa tôi biên lai.",
+                    "FR": "S'il vous plaît, donnez-moi la réception.",
+                    "NE": "कृपया मलाई रसिद दिनुहोस्.",
+                    "BN": "দয়া করে আমাকে প্রাপ্তি স্বীকার দিন।",
+                    "ZH": "请给我收据。",
+                    "KO": "영수증을 주세요.",
+                    "TL": "Paki-abot ng resibo, pakiusap.",
+                    "MY": "ကျေးဇူးပြု၍ ဘောင်ချာကို ပေးပါ။",
+                    "HI": "कृपया मुझे रसीद दें।",
+                    "AR": "يرجى إعطائي الإيصال.",
+                    "FA": "لطفاً رسید را به من بدهید."
+                }
+            },
+            {
+                "kanji": "受取り用紙をください。",
+                "furigana": "受(う)取り(とり)用紙(ようし)をください。",
+                "translations": {
+                    "EN": "Please give me the receipt form.",
+                    "ID": "Tolong berikan saya formulir penerimaan.",
+                    "ES": "Por favor, dame el formulario de recibo.",
+                    "VI": "Làm ơn đưa cho tôi tờ giấy nhận.",
+                    "FR": "Veuillez me donner le formulaire de reçu.",
+                    "NE": "कृपया रसीद फारम दिनुहोस्।",
+                    "BN": "অনুগ্রহ করে আমাকে রসিদ ফর্মটি দিন।",
+                    "ZH": "请给我收据表。",
+                    "KO": "영수증 양식을 주세요.",
+                    "TL": "Pakiabot ang form ng resibo.",
+                    "MY": "ကျေးဇူးပြုပြီး လက်ခံလွှာပုံစံကို ပေးပါ။",
+                    "HI": "कृपया मुझे रसीद फॉर्म दें।",
+                    "AR": "يرجى إعطائي نموذج الاستلام.",
+                    "FA": "لطفاً فرم رسید را به من بدهید."
+                }
+            },
+            {
+                "kanji": "荷物を受取りました。",
+                "furigana": "荷物(にもつ)を受取(うけと)りました。",
+                "translations": {
+                    "EN": "I received the package.",
+                    "ID": "Saya menerima paket tersebut.",
+                    "ES": "Recibí el paquete.",
+                    "VI": "Tôi đã nhận gói hàng.",
+                    "FR": "J'ai reçu le colis.",
+                    "NE": "मैले पार्सल प्राप्त गरें।",
+                    "BN": "আমি প্যাকেজটি গ্রহণ করেছি।",
+                    "ZH": "我收到了包裹。",
+                    "KO": "소포를 받았습니다.",
+                    "TL": "Natanggap ko ang pakete.",
+                    "MY": "အထုပ်ကို လက်ခံရရှိခဲ့သည်။",
+                    "HI": "मैंने पैकेज प्राप्त किया।",
+                    "AR": "تلقيت الطرد.",
+                    "FA": "بسته را دریافت کردم."
+                }
+            },
+            {
+                "kanji": "荷物の受取りはここです。",
+                "furigana": "荷物(にもつ)の受取り(うけとり)はここです。",
+                "translations": {
+                    "EN": "The package pickup is here.",
+                    "ID": "Pengambilan paket ada di sini.",
+                    "ES": "La recogida de paquetes está aquí.",
+                    "VI": "Khu vực nhận hàng ở đây.",
+                    "FR": "Le ramassage des colis est ici.",
+                    "NE": "सामानको प्राप्ति यहाँ छ।",
+                    "BN": "প্যাকেজ গ্রহণ এখানে।",
+                    "ZH": "包裹领取处在这里。",
+                    "KO": "짐 수거는 여기에서 합니다.",
+                    "TL": "Nandito ang kuha ng parsela.",
+                    "MY": "အထုပ်ကိုဒီမှာ တက်ယူပါ။",
+                    "HI": "पैकेज प्राप्ति यहाँ है।",
+                    "AR": "استلام الطرود هنا.",
+                    "FA": "تحویل بسته در اینجا است."
+                }
+            },
+            {
+                "kanji": "これは受取り証です。",
+                "furigana": "これは受取(うけと)り証(しょう)です。",
+                "translations": {
+                    "EN": "This is a receipt.",
+                    "ID": "Ini adalah tanda terima.",
+                    "ES": "Este es un recibo.",
+                    "VI": "Đây là biên lai.",
+                    "FR": "C'est un reçu.",
+                    "NE": "यो एउटा रसिद हो।",
+                    "BN": "এটি একটি রসিদ।",
+                    "ZH": "这是收据。",
+                    "KO": "이것은 영수증입니다.",
+                    "TL": "Ito ay isang resibo.",
+                    "MY": "ဒါက လက်ခံလွှာပါ။",
+                    "HI": "यह एक रसीद है।",
+                    "AR": "هذه إيصال.",
+                    "FA": "این یک رسید است."
+                }
+            },
+            {
+                "kanji": "受取管理をします。",
+                "furigana": "受取(うけとり)管理(かんり)をします。",
+                "translations": {
+                    "EN": "I will handle receipt management.",
+                    "ID": "Saya akan menangani manajemen penerimaan.",
+                    "ES": "Voy a gestionar la recepción.",
+                    "VI": "Tôi sẽ đảm nhận việc quản lý nhận hàng.",
+                    "FR": "Je gère la réception.",
+                    "NE": "म रसिद व्यवस्थापन गर्छु।",
+                    "BN": "আমি রসিদ ব্যবস্থাপনা করব।",
+                    "ZH": "我负责收据管理。",
+                    "KO": "수령 관리를 합니다.",
+                    "TL": "Ako ang magpapamahala sa pagtanggap.",
+                    "MY": "ငါသည် လက်ခံမှု စီမံခန့်ခွဲမှုကို ဖြေရှင်းပါသည်။",
+                    "HI": "मैं रसीद प्रबंधन करूंगा।",
+                    "AR": "سأقوم بإدارة الاستلام.",
+                    "FA": "من مدیریت رسید را بر عهده می‌گیرم."
+                }
+            }
+        ],
+        "synonyms": [
+            "受信 : じゅしん : receiving",
+            "取得 : しゅとく : obtaining"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word うけとり are じゅしん and しゅとく. The word じゅしん is often used when receiving electronic communications, like emails or signals, while しゅとく implies obtaining something, which is more active compared to just receiving.",
+        "antonyms": [
+            "送信 : そうしん : transmission",
+            "配布 : はいふ : distribution"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word うけとり are そうしん and はいふ. The word そうしん means sending, specifically transmitting data or messages, and is the opposite of receiving. はいふ refers to the distribution or handing out of items, contrasting directly with acceptance.",
+        "kanji_details": [
+            {
+                "kanji": "受",
+                "common_words": [
+                    "受験: taking an examination",
+                    "受信: receiving"
+                ]
+            },
+            {
+                "kanji": "取",
+                "common_words": [
+                    "取得: obtaining",
+                    "取り上げる: to pick up"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "受取り",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2",
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "受取り",
+                "reading": "うけとり"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "receiving",
+                    "receipt"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "受",
+        "取"
     ],
-    "kanjis": [
-        {
-            "kanji": "受",
+    "kanji_data": {
+        "受": {
             "meanings": [
                 "accept",
                 "answer (phone)",
@@ -42,476 +233,49 @@
                 "take",
                 "undergo"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ジュ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-う.け",
                 "う.かる",
                 "う.ける"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 3,
-            "frequency": 136,
+            "freq_mainichi_shinbun": 136,
             "unicode": "53D7",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "受験",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "じゅけん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "taking an examination"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "受信",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "じゅしん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "receiving",
-                                "reception"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         },
-        {
-            "kanji": "取",
+        "取": {
             "meanings": [
                 "fetch",
                 "take",
                 "take up"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シュ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-ど.り",
                 "と.り",
                 "と.り-",
                 "と.る",
                 "とり"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 3,
-            "frequency": 122,
+            "freq_mainichi_shinbun": 122,
             "unicode": "53D6",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "取得",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅとく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "obtaining",
-                                "acquisition",
-                                "gaining possession",
-                                "getting",
-                                "purchase"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "取り上げる",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "とりあげる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to pick up"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to adopt",
-                                "to take up",
-                                "to accept",
-                                "to listen to"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to take issue with",
-                                "to make a problem of",
-                                "to bring up"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to report",
-                                "to cover",
-                                "to feature"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to take away",
-                                "to confiscate",
-                                "to deprive of",
-                                "to revoke",
-                                "to disqualify",
-                                "to cancel"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to deliver"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to collect"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means receive or accept and often shows that something is being taken in or experienced. You can see it in じゅけん where it gives the sense of 'receiving' an exam opportunity, and in じゅしん where it means receiving a message or signal. Think of it as the kanji that marks acceptance or reception. The second kanji means to take or fetch and it usually indicates action of taking or obtaining something. In しゅとく it contributes the sense of obtaining or acquiring, and in とりあげる it shows the physical or figurative act of taking up or removing something. Remember this one when you want to talk about taking, getting, or picking something up.",
-    "explanations": {
-        "explanation": "The word うけとり means receiving or acceptance in English. It is commonly used when talking about accepting a delivery, receipt, or permission.",
-        "youtube_description": "Learn how to use the Japanese word 受取り (うけとり) in everyday conversations!\nIn this video, we'll explore its meanings and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is うけとり which you will often hear in daily interactions such as receiving packages, documents, or daycare pickup scenarios. Get ready to explore its practical use and elevate your Japanese skills in no time!",
-        "collocations": [
-            "うけとりのしょ",
-            "うけとりようし",
-            "うけとりじゅんぎょう",
-            "うけとりがさき",
-            "うけとりしょう",
-            "うけとりかんり"
-        ],
-        "synonyms": [
-            "受信",
-            "取得"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word うけとり are じゅしん and しゅとく. The word じゅしん is often used when receiving electronic communications, like emails or signals, while しゅとく implies obtaining something, which is more active compared to just receiving.",
-        "antonyms": [
-            "送信",
-            "配布"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word うけとり are そうしん and はいふ. The word そうしん means sending, specifically transmitting data or messages, and is the opposite of receiving. はいふ refers to the distribution or handing out of items, contrasting directly with acceptance."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n2",
-        "jlpt-n1"
-    ],
-    "examples": [
-        {
-            "kanji": "受取の書をください。",
-            "furigana": "受取(うけとり)の書(しょ)をください。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "受取の書をください。",
-                "English": "Please give me the receipt.",
-                "Persian": "لطفاً رسید را به من بدهید.",
-                "Nepali": "कृपया मलाई रसिद दिनुहोस्.",
-                "Indonesian": "Tolong beri saya tanda bukti penerimaan.",
-                "Filipino": "Paki-abot ng resibo, pakiusap.",
-                "Vietnamese": "Vui lòng đưa tôi biên lai.",
-                "Burmese": "ကျေးဇူးပြု၍ ဘောင်ချာကို ပေးပါ။",
-                "Korean": "영수증을 주세요.",
-                "Hindi": "कृपया मुझे रसीद दें।",
-                "Arabic": "يرجى إعطائي الإيصال.",
-                "French": "S'il vous plaît, donnez-moi la réception.",
-                "Spanish": "Por favor, dame el recibo.",
-                "Chinese": "请给我收据。",
-                "Bengali": "দয়া করে আমাকে প্রাপ্তি স্বীকার দিন।"
-            }
-        },
-        {
-            "kanji": "受取り用紙をください。",
-            "furigana": "受(う)取り(とり)用紙(ようし)をください。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "受取り用紙をください。",
-                "English": "Please give me the receipt form.",
-                "Persian": "لطفاً فرم رسید را به من بدهید.",
-                "Nepali": "कृपया रसीद फारम दिनुहोस्।",
-                "Indonesian": "Tolong berikan saya formulir penerimaan.",
-                "Filipino": "Pakiabot ang form ng resibo.",
-                "Vietnamese": "Làm ơn đưa cho tôi tờ giấy nhận.",
-                "Burmese": "ကျေးဇူးပြုပြီး လက်ခံလွှာပုံစံကို ပေးပါ။",
-                "Korean": "영수증 양식을 주세요.",
-                "Hindi": "कृपया मुझे रसीद फॉर्म दें।",
-                "Arabic": "يرجى إعطائي نموذج الاستلام.",
-                "French": "Veuillez me donner le formulaire de reçu.",
-                "Spanish": "Por favor, dame el formulario de recibo.",
-                "Chinese": "请给我收据表。",
-                "Bengali": "অনুগ্রহ করে আমাকে রসিদ ফর্মটি দিন।"
-            }
-        },
-        {
-            "kanji": "荷物を受取りました。",
-            "furigana": "荷物(にもつ)を受取(うけと)りました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "荷物を受取りました。",
-                "English": "I received the package.",
-                "Persian": "بسته را دریافت کردم.",
-                "Nepali": "मैले पार्सल प्राप्त गरें।",
-                "Indonesian": "Saya menerima paket tersebut.",
-                "Filipino": "Natanggap ko ang pakete.",
-                "Vietnamese": "Tôi đã nhận gói hàng.",
-                "Burmese": "အထုပ်ကို လက်ခံရရှိခဲ့သည်။",
-                "Korean": "소포를 받았습니다.",
-                "Hindi": "मैंने पैकेज प्राप्त किया।",
-                "Arabic": "تلقيت الطرد.",
-                "French": "J'ai reçu le colis.",
-                "Spanish": "Recibí el paquete.",
-                "Chinese": "我收到了包裹。",
-                "Bengali": "আমি প্যাকেজটি গ্রহণ করেছি।"
-            }
-        },
-        {
-            "kanji": "荷物の受取りはここです。",
-            "furigana": "荷物(にもつ)の受取り(うけとり)はここです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "荷物の受取りはここです。",
-                "English": "The package pickup is here.",
-                "Persian": "تحویل بسته در اینجا است.",
-                "Nepali": "सामानको प्राप्ति यहाँ छ।",
-                "Indonesian": "Pengambilan paket ada di sini.",
-                "Filipino": "Nandito ang kuha ng parsela.",
-                "Vietnamese": "Khu vực nhận hàng ở đây.",
-                "Burmese": "အထုပ်ကိုဒီမှာ တက်ယူပါ။",
-                "Korean": "짐 수거는 여기에서 합니다.",
-                "Hindi": "पैकेज प्राप्ति यहाँ है।",
-                "Arabic": "استلام الطرود هنا.",
-                "French": "Le ramassage des colis est ici.",
-                "Spanish": "La recogida de paquetes está aquí.",
-                "Chinese": "包裹领取处在这里。",
-                "Bengali": "প্যাকেজ গ্রহণ এখানে।"
-            }
-        },
-        {
-            "kanji": "これは受取り証です。",
-            "furigana": "これは受取(うけと)り証(しょう)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "これは受取り証です。",
-                "English": "This is a receipt.",
-                "Persian": "این یک رسید است.",
-                "Nepali": "यो एउटा रसिद हो।",
-                "Indonesian": "Ini adalah tanda terima.",
-                "Filipino": "Ito ay isang resibo.",
-                "Vietnamese": "Đây là biên lai.",
-                "Burmese": "ဒါက လက်ခံလွှာပါ။",
-                "Korean": "이것은 영수증입니다.",
-                "Hindi": "यह एक रसीद है।",
-                "Arabic": "هذه إيصال.",
-                "French": "C'est un reçu.",
-                "Spanish": "Este es un recibo.",
-                "Chinese": "这是收据。",
-                "Bengali": "এটি একটি রসিদ।"
-            }
-        },
-        {
-            "kanji": "受取管理をします。",
-            "furigana": "受取(うけとり)管理(かんり)をします。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "受取管理をします。",
-                "English": "I will handle receipt management.",
-                "Persian": "من مدیریت رسید را بر عهده می‌گیرم.",
-                "Nepali": "म रसिद व्यवस्थापन गर्छु।",
-                "Indonesian": "Saya akan menangani manajemen penerimaan.",
-                "Filipino": "Ako ang magpapamahala sa pagtanggap.",
-                "Vietnamese": "Tôi sẽ đảm nhận việc quản lý nhận hàng.",
-                "Burmese": "ငါသည် လက်ခံမှု စီမံခန့်ခွဲမှုကို ဖြေရှင်းပါသည်။",
-                "Korean": "수령 관리를 합니다.",
-                "Hindi": "मैं रसीद प्रबंधन करूंगा।",
-                "Arabic": "سأقوم بإدارة الاستلام.",
-                "French": "Je gère la réception.",
-                "Spanish": "Voy a gestionar la recepción.",
-                "Chinese": "我负责收据管理。",
-                "Bengali": "আমি রসিদ ব্যবস্থাপনা করব।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "受信",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "じゅしん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "receiving",
-                        "reception"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "取得",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しゅとく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "obtaining",
-                        "acquisition",
-                        "gaining possession",
-                        "getting",
-                        "purchase"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "送信",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "そうしん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "transmission",
-                        "sending"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "配布",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "はいふ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "distribution"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "うけとりのしょ",
+        "うけとりようし",
+        "うけとりじゅんぎょう",
+        "うけとりがさき",
+        "うけとりしょう",
+        "うけとりかんり"
     ]
 }

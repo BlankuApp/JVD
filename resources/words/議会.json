@@ -1,118 +1,223 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "議会",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/dBalg5U8lCo",
     "in_db": true,
-    "reading": "ぎかい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "議会",
+        "reading": "ぎかい",
+        "introduction_japanese": "",
+        "introduction_english": "Let's dive into an essential word often mentioned in discussions about government and politics, \"ぎかい.\" You'll frequently encounter it when talking about legislative bodies or formal decision-making gatherings.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"ぎかい\" means \"parliament\" or \"assembly.\" It refers to a formal group of elected officials who are responsible for making and passing laws in a country or region. It can also be used more broadly to describe any formal gathering of decision-makers.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "congress",
                 "parliament",
                 "diet",
                 "legislative assembly"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "議会",
-                "English": "congress",
-                "Persian": "کنگره",
-                "Nepali": "कांग्रेस",
-                "Indonesian": "kongres",
-                "Filipino": "kongreso",
-                "Vietnamese": "quốc hội",
-                "Burmese": "လွှတ်တော်",
-                "Korean": "의회",
-                "Hindi": "संसद",
-                "Arabic": "برلمان",
-                "French": "congrès",
-                "Spanish": "congreso",
-                "Chinese": "国会",
-                "Bengali": "কংগ্রেস"
+            ]
+        ],
+        "meaning_translations": {
+            "congress": {
+                "EN": "congress",
+                "ID": "kongres",
+                "ES": "congreso",
+                "VI": "quốc hội",
+                "FR": "congrès",
+                "NE": "कांग्रेस",
+                "BN": "কংগ্রেস",
+                "ZH": "国会",
+                "KO": "의회",
+                "TL": "kongreso",
+                "MY": "လွှတ်တော်",
+                "HI": "संसद",
+                "AR": "برلمان",
+                "FA": "کنگره"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "私は議会に参加します。",
+                "furigana": "私(わたし)は議会(ぎかい)に参加(さんか)します。",
+                "translations": {
+                    "EN": "I will attend the conference.",
+                    "ID": "Saya akan menghadiri sidang.",
+                    "ES": "Asistiré a la reunión.",
+                    "VI": "Tôi sẽ tham dự hội nghị.",
+                    "FR": "Je participerai à la réunion.",
+                    "NE": "म बैठकमा सहभागी हुनेछु।",
+                    "BN": "আমি সভায় অংশগ্রহণ করব।",
+                    "ZH": "我会参加会议。",
+                    "KO": "저는 회의에 참석합니다.",
+                    "TL": "Ako ay dadalo sa pulong.",
+                    "MY": "ကျွန်တော်/ကျွန်မ အစည်းအဝေးကို တက်ရောက်ပါမည်။",
+                    "HI": "मैं सभा में भाग लूँगा।",
+                    "AR": "سأحضر المؤتمر.",
+                    "FA": "من در جلسه شرکت می‌کنم."
+                }
+            },
+            {
+                "kanji": "議会で新しい法案を議論する。",
+                "furigana": "議会(ぎかい)で新しい(あたらしい)法案(ほうあん)を議論(ぎろん)する。",
+                "translations": {
+                    "EN": "Discuss the new bill in the assembly.",
+                    "ID": "Diskusikan undang-undang baru di majelis.",
+                    "ES": "Discutir el nuevo proyecto de ley en la asamblea.",
+                    "VI": "Thảo luận dự thảo luật mới tại hội nghị.",
+                    "FR": "Discuter du nouveau projet de loi à l'assemblée.",
+                    "NE": "सभा मा नयाँ विधेयकलाई छलफल गर्नुहोस्।",
+                    "BN": "সমিতিতে নতুন বিল আলোচনা করুন।",
+                    "ZH": "在会议上讨论新法案。",
+                    "KO": "의회에서 새로운 법안을 토론하다.",
+                    "TL": "Talakayin ang bagong panukalang batas sa kapulungan.",
+                    "MY": "ဗျည်းခုံးတွင် လောကီးတွင် အသဓမ္မပါသည့် စာကို ဆွေးနွေးသည်။",
+                    "HI": "विधान सभा में नए विधेयक पर चर्चा करें।",
+                    "AR": "ناقش الفاتورة الجديدة في البرلمان.",
+                    "FA": "در مجمع لایحه جدید را بحث کنید."
+                }
+            },
+            {
+                "kanji": "議会の議長は重要です。",
+                "furigana": "議会(ぎかい)の議長(ぎちょう)は重要(じゅうよう)です。",
+                "translations": {
+                    "EN": "The chairman of the assembly is important.",
+                    "ID": "Ketua dewan itu penting.",
+                    "ES": "El presidente de la asamblea es importante.",
+                    "VI": "Chủ tịch của hội đồng là quan trọng.",
+                    "FR": "Le président de l'assemblée est important.",
+                    "NE": "संसदको सभापति महत्त्वपूर्ण हुन्छ।",
+                    "BN": "বিধানসভার সভাপতি গুরুত্বপূর্ণ।",
+                    "ZH": "议会的议长很重要。",
+                    "KO": "의회의 의장은 중요하다.",
+                    "TL": "Mahalaga ang tagapangulo ng pulong.",
+                    "MY": "ပါတီဥက္ကဋ္ဌ အရေးကြီးသည်။",
+                    "HI": "संसद का अध्यक्ष महत्वपूर्ण है।",
+                    "AR": "رئيس المجلس مهم.",
+                    "FA": "رئیس مجلس مهم است."
+                }
+            },
+            {
+                "kanji": "議会を開催します。",
+                "furigana": "議会(ぎかい)を開催(かいさい)します。",
+                "translations": {
+                    "EN": "The assembly is held.",
+                    "ID": "Sidang diadakan.",
+                    "ES": "Se celebra la asamblea.",
+                    "VI": "Hội nghị được tổ chức.",
+                    "FR": "L'assemblée est tenue.",
+                    "NE": "सभा आयोजना गरिन्छ।",
+                    "BN": "সভা অনুষ্ঠিত হয়।",
+                    "ZH": "召开议会。",
+                    "KO": "회의를 개최합니다.",
+                    "TL": "Gaganapin ang pulong.",
+                    "MY": "ဥပဒေမိန့်ကို ကျင်းပသည်။",
+                    "HI": "सभा का आयोजन किया जाता है।",
+                    "AR": "يتم عقد الجمعية.",
+                    "FA": "مجلس برگزار می‌شود."
+                }
+            },
+            {
+                "kanji": "議会の会期は短いです。",
+                "furigana": "議会(ぎかい)の会期(かいき)は短(みじか)いです。",
+                "translations": {
+                    "EN": "The parliamentary session is short.",
+                    "ID": "Masa sidang parlemen singkat.",
+                    "ES": "El periodo de sesiones del parlamento es corto.",
+                    "VI": "Kỳ họp quốc hội ngắn.",
+                    "FR": "La session parlementaire est courte.",
+                    "NE": "संसदको बैठक छोटो छ।",
+                    "BN": "সংসদের অধিবেশন সংক্ষিপ্ত।",
+                    "ZH": "议会会期很短。",
+                    "KO": "의회의 회기는 짧습니다.",
+                    "TL": "Maikli ang sesyon ng parlamento.",
+                    "MY": "အစည်းဝေးကာလ နည်းနေပါတယ်။",
+                    "HI": "संसद का सत्र छोटा है।",
+                    "AR": "مدة انعقاد البرلمان قصيرة.",
+                    "FA": "جلسه پارلمان کوتاه است."
+                }
+            }
+        ],
+        "antonyms": [
+            "政府 : せいふ : government"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"ぎかい\" is \"せいふ.\" While \"ぎかい\" refers to the legislative body, \"せいふ\" refers to the government or the executive branch, highlighting the distinction between the creators of laws and their enforcers.",
+        "kanji_details": [
+            {
+                "kanji": "議",
+                "common_words": [
+                    "議論: argument",
+                    "議員: member of an assembly"
+                ]
+            },
+            {
+                "kanji": "会",
+                "common_words": [
+                    "社会: society",
+                    "会社: company"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "議会",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "議会",
+                "reading": "ぎかい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "congress",
+                    "parliament",
+                    "diet",
+                    "legislative assembly"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "議",
+        "会"
     ],
-    "kanjis": [
-        {
-            "kanji": "議",
+    "kanji_data": {
+        "議": {
             "meanings": [
                 "consideration",
                 "consultation",
                 "debate",
                 "deliberation"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ギ"
             ],
-            "kunyomi": [],
-            "strokes": 20,
+            "kun_readings": [],
+            "stroke_count": 20,
             "jlpt": 3,
-            "frequency": 25,
+            "freq_mainichi_shinbun": 25,
             "unicode": "8B70",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "議論",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ぎろん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "argument",
-                                "discussion",
-                                "dispute",
-                                "controversy"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "議員",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ぎいん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "member of an assembly",
-                                "member of the Diet",
-                                "member of parliament",
-                                "member of Congress"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         },
-        {
-            "kanji": "会",
+        "会": {
             "meanings": [
                 "association",
                 "interview",
@@ -121,261 +226,27 @@
                 "meeting",
                 "party"
             ],
-            "onyomi": [
+            "on_readings": [
                 "エ",
                 "カイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あ.う",
                 "あ.わせる",
                 "あつ.まる"
             ],
-            "strokes": 6,
+            "stroke_count": 6,
             "jlpt": 4,
-            "frequency": 4,
+            "freq_mainichi_shinbun": 4,
             "unicode": "4F1A",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "社会",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゃかい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "society",
-                                "public",
-                                "community",
-                                "the world"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "social studies"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "会社",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かいしゃ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "company",
-                                "corporation",
-                                "firm"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "one's workplace"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means deliberation and discussion, the idea of people talking things over to decide. In vocabulary like ぎろん the kanji shows the act of debating or arguing, and in ぎいん it points to a person who takes part in those deliberations. The second kanji means to meet or gather and also refers to meetings and groups. In words such as しゃかい the kanji gives the sense of people coming together as a society, and in かいしゃ it shows an organized group of people working together as a company.",
-    "explanations": {
-        "explanation": "The word \"ぎかい\" means \"parliament\" or \"assembly.\" It refers to a formal group of elected officials who are responsible for making and passing laws in a country or region. It can also be used more broadly to describe any formal gathering of decision-makers.",
-        "youtube_description": "Master the use of the Japanese word \"議会\" (ぎかい) in your daily conversations! \nIn this video, we'll dive into its meanings, break down the kanji, and explore common phrases to enhance your understanding. Ideal for both beginners and advanced learners aiming to boost their Japanese skills. Don't miss out on further language tips—like, comment, and subscribe!",
-        "motivation": "Let's dive into an essential word often mentioned in discussions about government and politics, \"ぎかい.\" You'll frequently encounter it when talking about legislative bodies or formal decision-making gatherings.",
-        "collocations": [
-            "ぎかいに参加する",
-            "新しい法案をぎかいで議論する",
-            "ぎかいの議長",
-            "ぎかいを開催する",
-            "ぎかいの会期"
-        ],
-        "synonyms": [
-            "議会制度"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"ぎかい\" is \"ぎかいせいど.\" While \"ぎかい\" refers to the parliament itself, the term \"ぎかいせいど\" specifically refers to the parliamentary system as a whole.",
-        "antonyms": [
-            "政府"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"ぎかい\" is \"せいふ.\" While \"ぎかい\" refers to the legislative body, \"せいふ\" refers to the government or the executive branch, highlighting the distinction between the creators of laws and their enforcers."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "私は議会に参加します。",
-            "furigana": "私(わたし)は議会(ぎかい)に参加(さんか)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は議会に参加します。",
-                "English": "I will attend the conference.",
-                "Persian": "من در جلسه شرکت می‌کنم.",
-                "Nepali": "म बैठकमा सहभागी हुनेछु।",
-                "Indonesian": "Saya akan menghadiri sidang.",
-                "Filipino": "Ako ay dadalo sa pulong.",
-                "Vietnamese": "Tôi sẽ tham dự hội nghị.",
-                "Burmese": "ကျွန်တော်/ကျွန်မ အစည်းအဝေးကို တက်ရောက်ပါမည်။",
-                "Korean": "저는 회의에 참석합니다.",
-                "Hindi": "मैं सभा में भाग लूँगा।",
-                "Arabic": "سأحضر المؤتمر.",
-                "French": "Je participerai à la réunion.",
-                "Spanish": "Asistiré a la reunión.",
-                "Chinese": "我会参加会议。",
-                "Bengali": "আমি সভায় অংশগ্রহণ করব।"
-            }
-        },
-        {
-            "kanji": "議会で新しい法案を議論する。",
-            "furigana": "議会(ぎかい)で新しい(あたらしい)法案(ほうあん)を議論(ぎろん)する。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "議会で新しい法案を議論する。",
-                "English": "Discuss the new bill in the assembly.",
-                "Persian": "در مجمع لایحه جدید را بحث کنید.",
-                "Nepali": "सभा मा नयाँ विधेयकलाई छलफल गर्नुहोस्।",
-                "Indonesian": "Diskusikan undang-undang baru di majelis.",
-                "Filipino": "Talakayin ang bagong panukalang batas sa kapulungan.",
-                "Vietnamese": "Thảo luận dự thảo luật mới tại hội nghị.",
-                "Burmese": "ဗျည်းခုံးတွင် လောကီးတွင် အသဓမ္မပါသည့် စာကို ဆွေးနွေးသည်။",
-                "Korean": "의회에서 새로운 법안을 토론하다.",
-                "Hindi": "विधान सभा में नए विधेयक पर चर्चा करें।",
-                "Arabic": "ناقش الفاتورة الجديدة في البرلمان.",
-                "French": "Discuter du nouveau projet de loi à l'assemblée.",
-                "Spanish": "Discutir el nuevo proyecto de ley en la asamblea.",
-                "Chinese": "在会议上讨论新法案。",
-                "Bengali": "সমিতিতে নতুন বিল আলোচনা করুন।"
-            }
-        },
-        {
-            "kanji": "議会の議長は重要です。",
-            "furigana": "議会(ぎかい)の議長(ぎちょう)は重要(じゅうよう)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "議会の議長は重要です。",
-                "English": "The chairman of the assembly is important.",
-                "Persian": "رئیس مجلس مهم است.",
-                "Nepali": "संसदको सभापति महत्त्वपूर्ण हुन्छ।",
-                "Indonesian": "Ketua dewan itu penting.",
-                "Filipino": "Mahalaga ang tagapangulo ng pulong.",
-                "Vietnamese": "Chủ tịch của hội đồng là quan trọng.",
-                "Burmese": "ပါတီဥက္ကဋ္ဌ အရေးကြီးသည်။",
-                "Korean": "의회의 의장은 중요하다.",
-                "Hindi": "संसद का अध्यक्ष महत्वपूर्ण है।",
-                "Arabic": "رئيس المجلس مهم.",
-                "French": "Le président de l'assemblée est important.",
-                "Spanish": "El presidente de la asamblea es importante.",
-                "Chinese": "议会的议长很重要。",
-                "Bengali": "বিধানসভার সভাপতি গুরুত্বপূর্ণ।"
-            }
-        },
-        {
-            "kanji": "議会を開催します。",
-            "furigana": "議会(ぎかい)を開催(かいさい)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "議会を開催します。",
-                "English": "The assembly is held.",
-                "Persian": "مجلس برگزار می‌شود.",
-                "Nepali": "सभा आयोजना गरिन्छ।",
-                "Indonesian": "Sidang diadakan.",
-                "Filipino": "Gaganapin ang pulong.",
-                "Vietnamese": "Hội nghị được tổ chức.",
-                "Burmese": "ဥပဒေမိန့်ကို ကျင်းပသည်။",
-                "Korean": "회의를 개최합니다.",
-                "Hindi": "सभा का आयोजन किया जाता है।",
-                "Arabic": "يتم عقد الجمعية.",
-                "French": "L'assemblée est tenue.",
-                "Spanish": "Se celebra la asamblea.",
-                "Chinese": "召开议会。",
-                "Bengali": "সভা অনুষ্ঠিত হয়।"
-            }
-        },
-        {
-            "kanji": "議会の会期は短いです。",
-            "furigana": "議会(ぎかい)の会期(かいき)は短(みじか)いです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "議会の会期は短いです。",
-                "English": "The parliamentary session is short.",
-                "Persian": "جلسه پارلمان کوتاه است.",
-                "Nepali": "संसदको बैठक छोटो छ।",
-                "Indonesian": "Masa sidang parlemen singkat.",
-                "Filipino": "Maikli ang sesyon ng parlamento.",
-                "Vietnamese": "Kỳ họp quốc hội ngắn.",
-                "Burmese": "အစည်းဝေးကာလ နည်းနေပါတယ်။",
-                "Korean": "의회의 회기는 짧습니다.",
-                "Hindi": "संसद का सत्र छोटा है।",
-                "Arabic": "مدة انعقاد البرلمان قصيرة.",
-                "French": "La session parlementaire est courte.",
-                "Spanish": "El periodo de sesiones del parlamento es corto.",
-                "Chinese": "议会会期很短。",
-                "Bengali": "সংসদের অধিবেশন সংক্ষিপ্ত।"
-            }
-        }
-    ],
-    "synonyms": [],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "政府",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "せいふ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "government",
-                        "administration",
-                        "ministry"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "ぎかいに参加する",
+        "新しい法案をぎかいで議論する",
+        "ぎかいの議長",
+        "ぎかいを開催する",
+        "ぎかいの会期"
     ]
 }

@@ -1,42 +1,211 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "準備",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/2IgoQaBUdK8",
     "in_db": true,
-    "reading": "じゅんび",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "準備",
+        "reading": "じゅんび",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is じゅんび which you will often hear in situations involving planning events, organizing activities, and getting ready for exams. ",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"じゅんび\" means preparation or readiness. It refers to the action of getting everything ready or set for a particular task, event, or situation. This could include making plans, organizing materials, or ensuring all necessary items are in place. It is commonly used when discussing getting ready for a trip, preparing for an exam, or setting up an event.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "preparation",
                 "arrangements",
                 "getting ready",
                 "provision",
                 "setup",
                 "reserving"
-            ],
-            "part_of_speech": "Noun, Suru verb, Transitive verb",
-            "translation": {
-                "Japanese": "準備",
-                "English": "Preparation",
-                "Persian": "آمادگی",
-                "Nepali": "तयारी",
-                "Indonesian": "Persiapan",
-                "Filipino": "Paghahanda",
-                "Vietnamese": "Chuẩn bị",
-                "Burmese": "ပြင်ဆင်မှု",
-                "Korean": "준비",
-                "Hindi": "तैयारी",
-                "Arabic": "تحضير",
-                "French": "Préparation",
-                "Spanish": "Preparación",
-                "Chinese": "准备",
-                "Bengali": "প্রস্তুতি"
+            ]
+        ],
+        "meaning_translations": {
+            "preparation": {
+                "EN": "Preparation",
+                "ID": "Persiapan",
+                "ES": "Preparación",
+                "VI": "Chuẩn bị",
+                "FR": "Préparation",
+                "NE": "तयारी",
+                "BN": "প্রস্তুতি",
+                "ZH": "准备",
+                "KO": "준비",
+                "TL": "Paghahanda",
+                "MY": "ပြင်ဆင်မှု",
+                "HI": "तैयारी",
+                "AR": "تحضير",
+                "FA": "آمادگی"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "準備が終わりました。",
+                "furigana": "準備(じゅんび)が終(お)わりました。",
+                "translations": {
+                    "EN": "The preparation is finished.",
+                    "ID": "Persiapan telah selesai.",
+                    "ES": "La preparación ha terminado.",
+                    "VI": "Sự chuẩn bị đã kết thúc.",
+                    "FR": "La préparation est terminée.",
+                    "NE": "तयारी सकियो।",
+                    "BN": "প্রস্তুতি শেষ হয়েছে।",
+                    "ZH": "准备完成了。",
+                    "KO": "준비가 끝났습니다.",
+                    "TL": "Natapos na ang paghahanda.",
+                    "MY": "ပြင်ဆင်မှုပြီးဆုံးပါပြီ။",
+                    "HI": "तैयारी समाप्त हो गई है।",
+                    "AR": "التحضير انتهى.",
+                    "FA": "آماده‌سازی تمام شد."
+                }
+            },
+            {
+                "kanji": "準備ができました。",
+                "furigana": "準備(じゅんび)ができました。",
+                "translations": {
+                    "EN": "The preparation is done.",
+                    "ID": "Persiapan sudah selesai.",
+                    "ES": "La preparación está hecha.",
+                    "VI": "Chuẩn bị xong rồi.",
+                    "FR": "La préparation est faite.",
+                    "NE": "तयारी पूरा भयो।",
+                    "BN": "প্রস্তুতি সম্পন্ন হয়েছে।",
+                    "ZH": "准备完成了。",
+                    "KO": "준비가 끝났습니다.",
+                    "TL": "Tapos na ang paghahanda.",
+                    "MY": "ပြင်ဆင်မှုများပြီးပါပြီ။",
+                    "HI": "तैयारी हो चुकी है।",
+                    "AR": "التحضير انتهى.",
+                    "FA": "آمادگی انجام شده است."
+                }
+            },
+            {
+                "kanji": "明日は旅行の準備をします。",
+                "furigana": "明日(あした)は旅行(りょこう)の準備(じゅんび)をします。",
+                "translations": {
+                    "EN": "I will prepare for the trip tomorrow.",
+                    "ID": "Besok saya akan mempersiapkan perjalanan.",
+                    "ES": "Mañana prepararé el viaje.",
+                    "VI": "Ngày mai tôi sẽ chuẩn bị cho chuyến đi.",
+                    "FR": "Je préparerai le voyage demain.",
+                    "NE": "भोलि यात्रा को तयारी गर्छु।",
+                    "BN": "আগামীকাল আমি ভ্রমণের জন্য প্রস্তুতি নেব।",
+                    "ZH": "明天我将为旅行做准备。",
+                    "KO": "내일은 여행을 준비합니다.",
+                    "TL": "Bukas maghahanda ako para sa biyahe.",
+                    "MY": "မနက်ဖြန် ခရီးစဉ်အတွက် ပြင်ဆင်ပါမည်။",
+                    "HI": "कल की यात्रा के लिए तैयारियाँ करूँगा।",
+                    "AR": "سأقوم بالاستعداد للرحلة غداً.",
+                    "FA": "فردا برای سفر آماده می‌شوم."
+                }
+            },
+            {
+                "kanji": "私は明日旅行の準備を整える。",
+                "furigana": "私は明日(あした)旅行(りょこう)の準備(じゅんび)を整(ととの)える。",
+                "translations": {
+                    "EN": "I will prepare for the trip tomorrow.",
+                    "ID": "Saya akan menyiapkan perjalanan untuk besok.",
+                    "ES": "Mañana prepararé el viaje.",
+                    "VI": "Tôi sẽ chuẩn bị cho chuyến đi vào ngày mai.",
+                    "FR": "Je vais préparer le voyage pour demain.",
+                    "NE": "म भोलि यात्रा को तयारी गर्छु।",
+                    "BN": "আমি আগামীকাল ভ্রমণের প্রস্তুতি নেবো।",
+                    "ZH": "我将为明天的旅行做准备。",
+                    "KO": "나는 내일 여행 준비를 할 것이다.",
+                    "TL": "Maghahanda ako para sa paglalakbay bukas.",
+                    "MY": "ကျွန်ုပ်သည်မနက်ဖြန်ခရီးသွားရန်ပြင်ဆင်ပါမည်။",
+                    "HI": "मैं कल यात्रा की तैयारी करूंगा।",
+                    "AR": "سأجهز للرحلة غدًا.",
+                    "FA": "من فردا برای سفر آماده می‌شوم."
+                }
+            },
+            {
+                "kanji": "準備なしで出発しました。",
+                "furigana": "準備(じゅんび)なしで出発(しゅっぱつ)しました。",
+                "translations": {
+                    "EN": "I departed without preparation.",
+                    "ID": "Saya berangkat tanpa persiapan.",
+                    "ES": "Salí sin preparación.",
+                    "VI": "Tôi khởi hành mà không chuẩn bị.",
+                    "FR": "Je suis parti sans préparation.",
+                    "NE": "तयारी नगरी प्रस्थान गरेँ।",
+                    "BN": "প্রস্তুতি ছাড়াই যাত্রা করলাম।",
+                    "ZH": "没有准备就出发了。",
+                    "KO": "준비 없이 출발했습니다.",
+                    "TL": "Umalis ako nang walang paghahanda.",
+                    "MY": "ပြင်ဆင်မှုမရှိဘဲထွက်ပြေးသွားပါတယ်။",
+                    "HI": "बिना तैयारी के रवाना हो गया।",
+                    "AR": "غادرت بدون استعداد.",
+                    "FA": "بدون آماده‌سازی حرکت کردم."
+                }
+            }
+        ],
+        "synonyms": [
+            "用意 : ようい : preparation",
+            "支度 : したく : preparation"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word \"じゅんび\" are \"ようい\" and \"したく.\" While all three words refer to preparation, \"ようい\" often emphasizes the ease and readiness of preparation, like having everything laid out and ready to go. On the other hand, \"したく\" can imply personal preparation, similar to getting dressed or ready for a personal event.",
+        "kanji_details": [
+            {
+                "kanji": "準",
+                "common_words": [
+                    "準決勝: semifinal",
+                    "準じる: to follow"
+                ]
+            },
+            {
+                "kanji": "備",
+                "common_words": [
+                    "備える: to furnish with",
+                    "備品: equipment"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "準備",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "準備",
+                "reading": "じゅんび"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "preparation",
+                    "arrangements",
+                    "getting ready",
+                    "provision",
+                    "setup",
+                    "reserving"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "準",
+        "備"
     ],
-    "kanjis": [
-        {
-            "kanji": "準",
+    "kanji_data": {
+        "準": {
             "meanings": [
                 "conform",
                 "correspond to",
@@ -44,10 +213,10 @@
                 "proportionate to",
                 "semi-"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ジュン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "じゅん.じる",
                 "じゅん.ずる",
                 "なぞら.える",
@@ -55,385 +224,38 @@
                 "ひと.しい",
                 "みずもり"
             ],
-            "strokes": 13,
+            "stroke_count": 13,
             "jlpt": 2,
-            "frequency": 425,
+            "freq_mainichi_shinbun": 425,
             "unicode": "6E96",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "準決勝",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "じゅんけっしょう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "semifinal"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "準じる",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "じゅんじる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to follow",
-                                "to conform to",
-                                "to be based on",
-                                "to apply correspondingly"
-                            ],
-                            "part_of_speech": "Ichidan verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be proportionate to"
-                            ],
-                            "part_of_speech": "Ichidan verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to correspond to",
-                                "to be equivalent to"
-                            ],
-                            "part_of_speech": "Ichidan verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         },
-        {
-            "kanji": "備",
+        "備": {
             "meanings": [
                 "equip",
                 "preparation",
                 "provision"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ビ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "そな.える",
                 "そな.わる",
                 "つぶさ.に"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 3,
-            "frequency": 356,
+            "freq_mainichi_shinbun": 356,
             "unicode": "5099",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "備える",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "そなえる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to furnish with",
-                                "to equip with",
-                                "to provide",
-                                "to install"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to prepare for",
-                                "to make preparations for",
-                                "to make provision for"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to possess",
-                                "to be endowed with",
-                                "to be equipped with"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be born with",
-                                "to have since birth"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3",
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "備品",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "びひん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "equipment",
-                                "fixtures",
-                                "furnishings",
-                                "fittings",
-                                "furniture",
-                                "supplies"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         }
-    ],
-    "kanji_explanation": "The first kanji means a standard or something like a preparation marker, and it often shows the idea of being ready or acting as a qualifier. In words like じゅんけっしょう it gives the sense of being 'quasi' or 'semi' as in semifinal, and in じゅんじる it carries the idea of conforming to a standard. The second kanji means to prepare, equip, or provide things and it expresses the action of getting ready or having provisions. In words like そなえる it directly means to prepare or furnish, and in びひん it points to the items or equipment that have been provided.",
-    "explanations": {
-        "explanation": "The word \"じゅんび\" means preparation or readiness. It refers to the action of getting everything ready or set for a particular task, event, or situation. This could include making plans, organizing materials, or ensuring all necessary items are in place. It is commonly used when discussing getting ready for a trip, preparing for an exam, or setting up an event.",
-        "youtube_description": "Learn how to use the Japanese word 準備 (じゅんび) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is じゅんび which you will often hear in situations involving planning events, organizing activities, and getting ready for exams. ",
-        "collocations": [
-            "じゅんびがおわる",
-            "じゅんびができた",
-            "じゅんびをする",
-            "じゅんびをととのえる",
-            "じゅんびなしで"
-        ],
-        "synonyms": [
-            "用意",
-            "支度"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"じゅんび\" are \"ようい\" and \"したく.\" While all three words refer to preparation, \"ようい\" often emphasizes the ease and readiness of preparation, like having everything laid out and ready to go. On the other hand, \"したく\" can imply personal preparation, similar to getting dressed or ready for a personal event.",
-        "antonyms": [],
-        "antonyms_explanation": "The word \"じゅんび\" has no commonly used antonyms."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "準備が終わりました。",
-            "furigana": "準備(じゅんび)が終(お)わりました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "準備が終わりました。",
-                "English": "The preparation is finished.",
-                "Persian": "آماده‌سازی تمام شد.",
-                "Nepali": "तयारी सकियो।",
-                "Indonesian": "Persiapan telah selesai.",
-                "Filipino": "Natapos na ang paghahanda.",
-                "Vietnamese": "Sự chuẩn bị đã kết thúc.",
-                "Burmese": "ပြင်ဆင်မှုပြီးဆုံးပါပြီ။",
-                "Korean": "준비가 끝났습니다.",
-                "Hindi": "तैयारी समाप्त हो गई है।",
-                "Arabic": "التحضير انتهى.",
-                "French": "La préparation est terminée.",
-                "Spanish": "La preparación ha terminado.",
-                "Chinese": "准备完成了。",
-                "Bengali": "প্রস্তুতি শেষ হয়েছে।"
-            }
-        },
-        {
-            "kanji": "準備ができました。",
-            "furigana": "準備(じゅんび)ができました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "準備ができました。",
-                "English": "The preparation is done.",
-                "Persian": "آمادگی انجام شده است.",
-                "Nepali": "तयारी पूरा भयो।",
-                "Indonesian": "Persiapan sudah selesai.",
-                "Filipino": "Tapos na ang paghahanda.",
-                "Vietnamese": "Chuẩn bị xong rồi.",
-                "Burmese": "ပြင်ဆင်မှုများပြီးပါပြီ။",
-                "Korean": "준비가 끝났습니다.",
-                "Hindi": "तैयारी हो चुकी है।",
-                "Arabic": "التحضير انتهى.",
-                "French": "La préparation est faite.",
-                "Spanish": "La preparación está hecha.",
-                "Chinese": "准备完成了。",
-                "Bengali": "প্রস্তুতি সম্পন্ন হয়েছে।"
-            }
-        },
-        {
-            "kanji": "明日は旅行の準備をします。",
-            "furigana": "明日(あした)は旅行(りょこう)の準備(じゅんび)をします。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "明日は旅行の準備をします。",
-                "English": "I will prepare for the trip tomorrow.",
-                "Persian": "فردا برای سفر آماده می‌شوم.",
-                "Nepali": "भोलि यात्रा को तयारी गर्छु।",
-                "Indonesian": "Besok saya akan mempersiapkan perjalanan.",
-                "Filipino": "Bukas maghahanda ako para sa biyahe.",
-                "Vietnamese": "Ngày mai tôi sẽ chuẩn bị cho chuyến đi.",
-                "Burmese": "မနက်ဖြန် ခရီးစဉ်အတွက် ပြင်ဆင်ပါမည်။",
-                "Korean": "내일은 여행을 준비합니다.",
-                "Hindi": "कल की यात्रा के लिए तैयारियाँ करूँगा।",
-                "Arabic": "سأقوم بالاستعداد للرحلة غداً.",
-                "French": "Je préparerai le voyage demain.",
-                "Spanish": "Mañana prepararé el viaje.",
-                "Chinese": "明天我将为旅行做准备。",
-                "Bengali": "আগামীকাল আমি ভ্রমণের জন্য প্রস্তুতি নেব।"
-            }
-        },
-        {
-            "kanji": "私は明日旅行の準備を整える。",
-            "furigana": "私は明日(あした)旅行(りょこう)の準備(じゅんび)を整(ととの)える。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は明日旅行の準備を整える。",
-                "English": "I will prepare for the trip tomorrow.",
-                "Persian": "من فردا برای سفر آماده می‌شوم.",
-                "Nepali": "म भोलि यात्रा को तयारी गर्छु।",
-                "Indonesian": "Saya akan menyiapkan perjalanan untuk besok.",
-                "Filipino": "Maghahanda ako para sa paglalakbay bukas.",
-                "Vietnamese": "Tôi sẽ chuẩn bị cho chuyến đi vào ngày mai.",
-                "Burmese": "ကျွန်ုပ်သည်မနက်ဖြန်ခရီးသွားရန်ပြင်ဆင်ပါမည်။",
-                "Korean": "나는 내일 여행 준비를 할 것이다.",
-                "Hindi": "मैं कल यात्रा की तैयारी करूंगा।",
-                "Arabic": "سأجهز للرحلة غدًا.",
-                "French": "Je vais préparer le voyage pour demain.",
-                "Spanish": "Mañana prepararé el viaje.",
-                "Chinese": "我将为明天的旅行做准备。",
-                "Bengali": "আমি আগামীকাল ভ্রমণের প্রস্তুতি নেবো।"
-            }
-        },
-        {
-            "kanji": "準備なしで出発しました。",
-            "furigana": "準備(じゅんび)なしで出発(しゅっぱつ)しました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "準備なしで出発しました。",
-                "English": "I departed without preparation.",
-                "Persian": "بدون آماده‌سازی حرکت کردم.",
-                "Nepali": "तयारी नगरी प्रस्थान गरेँ।",
-                "Indonesian": "Saya berangkat tanpa persiapan.",
-                "Filipino": "Umalis ako nang walang paghahanda.",
-                "Vietnamese": "Tôi khởi hành mà không chuẩn bị.",
-                "Burmese": "ပြင်ဆင်မှုမရှိဘဲထွက်ပြေးသွားပါတယ်။",
-                "Korean": "준비 없이 출발했습니다.",
-                "Hindi": "बिना तैयारी के रवाना हो गया।",
-                "Arabic": "غادرت بدون استعداد.",
-                "French": "Je suis parti sans préparation.",
-                "Spanish": "Salí sin preparación.",
-                "Chinese": "没有准备就出发了。",
-                "Bengali": "প্রস্তুতি ছাড়াই যাত্রা করলাম।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "用意",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ようい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "preparation",
-                        "arrangements",
-                        "provision",
-                        "getting ready",
-                        "laying out"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "支度",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "したく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "preparation",
-                        "arrangements"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": []
+    "collocations": [
+        "じゅんびがおわる",
+        "じゅんびができた",
+        "じゅんびをする",
+        "じゅんびをととのえる",
+        "じゅんびなしで"
+    ]
 }

@@ -1,464 +1,248 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "鉱物",
+    "jlpt_level": 2,
     "youtube_link": "https://youtu.be/_7F0ULCPjw0",
     "in_db": true,
-    "reading": "こうぶつ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "鉱物",
+        "reading": "こうぶつ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is こうぶつ which you will often hear in conversations related to geology, science, and industrial applications. ",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"こうぶつ\" means \"mineral\" in English. It refers to naturally occurring substances that have a definite chemical composition, crystalline structure, and physical properties. Minerals are typically found as part of rocks and play a crucial role in various geological and industrial processes.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "mineral"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "鉱物",
-                "English": "mineral",
-                "Persian": "کانی",
-                "Nepali": "खनि",
-                "Indonesian": "mineral",
-                "Filipino": "mineral",
-                "Vietnamese": "khoáng vật",
-                "Burmese": "သတ္တု",
-                "Korean": "광물",
-                "Hindi": "खनिज",
-                "Arabic": "معدن",
-                "French": "minéral",
-                "Spanish": "mineral",
-                "Chinese": "矿物",
-                "Bengali": "খনিজ"
+            ]
+        ],
+        "meaning_translations": {
+            "mineral": {
+                "EN": "mineral",
+                "ID": "mineral",
+                "ES": "mineral",
+                "VI": "khoáng vật",
+                "FR": "minéral",
+                "NE": "खनि",
+                "BN": "খনিজ",
+                "ZH": "矿物",
+                "KO": "광물",
+                "TL": "mineral",
+                "MY": "သတ္တု",
+                "HI": "खनिज",
+                "AR": "معدن",
+                "FA": "کانی"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "鉱物資料を見ました。",
+                "furigana": "鉱物(こうぶつ)資料(しりょう)を見(み)ました。",
+                "translations": {
+                    "EN": "I saw the mineral materials.",
+                    "ID": "Saya melihat bahan mineral.",
+                    "ES": "Vi los materiales minerales.",
+                    "VI": "Tôi đã thấy tài liệu khoáng sản.",
+                    "FR": "J'ai vu les matériaux minéraux.",
+                    "NE": "मैले खनिज सामग्रीहरू देखें।",
+                    "BN": "আমি খনিজ উপকরণগুলি দেখেছি।",
+                    "ZH": "我看到了矿物材料。",
+                    "KO": "광물 자료를 보았습니다.",
+                    "TL": "Nakakita ako ng mga mineral na materyales.",
+                    "MY": "ကျွန်တော်မင်္ဂလာစာရွက်ကိုမြင်ခဲ့သည်။",
+                    "HI": "मैंने खनिज सामग्री देखी।",
+                    "AR": "رأيت المواد المعدنية.",
+                    "FA": "من مواد معدنی را دیدم."
+                }
+            },
+            {
+                "kanji": "この国は鉱物資源が豊富です。",
+                "furigana": "この国(くに)は鉱物資源(こうぶつしげん)が豊富(ほうふ)です。",
+                "translations": {
+                    "EN": "This country is rich in mineral resources.",
+                    "ID": "Negara ini kaya akan sumber daya mineral.",
+                    "ES": "Este país tiene abundantes recursos minerales.",
+                    "VI": "Quốc gia này giàu tài nguyên khoáng sản.",
+                    "FR": "Ce pays est riche en ressources minérales.",
+                    "NE": "यो देश खनिज स्रोतमा धनी छ।",
+                    "BN": "এই দেশ খনিজ সম্পদে সমৃদ্ধ।",
+                    "ZH": "这个国家矿物资源丰富。",
+                    "KO": "이 나라는 광물 자원이 풍부하다.",
+                    "TL": "Ang bansang ito ay mayaman sa yamang mineral.",
+                    "MY": "ဒီနိုင့်ငံက သတ္တုဖယောင်းများအားဖြင့် ပေါများသည်။",
+                    "HI": "यह देश खनिज संसाधनों में समृद्ध है।",
+                    "AR": "هذا البلد غني بالموارد المعدنية.",
+                    "FA": "این کشور از منابع معدنی غنی است."
+                }
+            },
+            {
+                "kanji": "鉱物研究は楽しいです。",
+                "furigana": "鉱物(こうぶつ)研究(けんきゅう)は楽(たの)しいです。",
+                "translations": {
+                    "EN": "Research on minerals is fun.",
+                    "ID": "Penelitian tentang mineral itu menyenangkan.",
+                    "ES": "La investigación sobre minerales es divertida.",
+                    "VI": "Nghiên cứu khoáng sản rất thú vị.",
+                    "FR": "La recherche sur les minéraux est amusante.",
+                    "NE": "खानी अनुसन्धान रमाइलो छ।",
+                    "BN": "খনিজ গবেষণা মজার।",
+                    "ZH": "矿物研究很有趣。",
+                    "KO": "광물 연구는 재미있어요.",
+                    "TL": "Masaya ang pananaliksik sa mineral.",
+                    "MY": "သတ္တုသုတေသနက မိုက်တယ်။",
+                    "HI": "खनिजों पर अनुसंधान मजेदार है।",
+                    "AR": "البحث عن المعادن ممتع.",
+                    "FA": "تحقیق در مورد مواد معدنی سرگرم کننده است."
+                }
+            },
+            {
+                "kanji": "私は鉱物が好きです。",
+                "furigana": "私(わたし)は鉱物(こうぶつ)が好き(すき)です。",
+                "translations": {
+                    "EN": "I like minerals.",
+                    "ID": "Saya suka mineral.",
+                    "ES": "Me gustan los minerales.",
+                    "VI": "Tôi thích khoáng sản.",
+                    "FR": "J'aime les minéraux.",
+                    "NE": "मलाई खनिजहरू मनपर्छ।",
+                    "BN": "আমি খনিজ পছন্দ করি।",
+                    "ZH": "我喜欢矿物质。",
+                    "KO": "나는 광물을 좋아합니다.",
+                    "TL": "Gusto ko ng mga mineral.",
+                    "MY": "ငါသည် သတ္တုများကို နှစ်သက်သည်။",
+                    "HI": "मुझे खनिज पसंद हैं।",
+                    "AR": "أحب المعادن.",
+                    "FA": "من مواد معدنی را دوست دارم."
+                }
+            },
+            {
+                "kanji": "鉱物はこうぶつ設計の基本です。",
+                "furigana": "鉱物(こうぶつ)はこうぶつ設計(こうぶつせっけい)の基本(きほん)です。",
+                "translations": {
+                    "EN": "Minerals are the foundation of mineral design.",
+                    "ID": "Mineral adalah dasar dari desain mineral.",
+                    "ES": "Los minerales son la base del diseño mineral.",
+                    "VI": "Khoáng sản là nền tảng của thiết kế khoáng sản.",
+                    "FR": "Les minéraux sont la base du design minéral.",
+                    "NE": "खानीहरू खनिज डिजाइनको आधार हुन्।",
+                    "BN": "খনিজগুলি খনিজ নকশার ভিত্তি।",
+                    "ZH": "矿物是矿物设计的基础。",
+                    "KO": "광물은 광물 설계의 기초입니다.",
+                    "TL": "Ang mga mineral ay pundasyon ng disenyo ng mineral.",
+                    "MY": "သတ္တုများသည် သတ္တုဒီဇိုင်း၏ အခြေခံဖြစ်သည်။",
+                    "HI": "खनिज खनिज डिजाइन की नींव हैं।",
+                    "AR": "المعادن هي أساس تصميم المعادن.",
+                    "FA": "کانی‌ها پایه طراحی کانی هستند."
+                }
+            }
+        ],
+        "synonyms": [
+            "鉱石 : こうせき : ore",
+            "元素 : げんそ : element"
+        ],
+        "synonyms_explanation": "The most common synonyms of the \"こうぶつ\" are \"鉱石\" and \"元素.\" \"こうせき\" mainly refers to ores, which are specific types of minerals that are mined for valuable elements. \"げんそ\" refers to chemical elements, highlighting the compositional aspect of \"こうぶつ\" but on a more foundational level.",
+        "antonyms": [
+            "有機物 : ゆうきぶつ : organic matter",
+            "生物 : せいぶつ : living thing"
+        ],
+        "antonyms_explanation": "The most common antonyms of the \"こうぶつ\" are \"ゆうきぶつ\" and \"せいぶつ.\" \"ゆうきぶつ\" stands for \"organic matter,\" emphasizing the contrast between inorganic minerals and organic substances, while \"せいぶつ\" means \"living thing,\" directly opposing the non-living nature of minerals.",
+        "kanji_details": [
+            {
+                "kanji": "鉱",
+                "common_words": [
+                    "鉱山: mine",
+                    "鉱石: ore"
+                ]
+            },
+            {
+                "kanji": "物",
+                "common_words": [
+                    "食べ物: food",
+                    "物語: story"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "鉱物",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "鉱物",
+                "reading": "こうぶつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "mineral"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "鉱",
+        "物"
     ],
-    "kanjis": [
-        {
-            "kanji": "鉱",
+    "kanji_data": {
+        "鉱": {
             "meanings": [
                 "mineral",
                 "ore"
             ],
-            "onyomi": [
+            "on_readings": [
                 "コウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あらがね"
             ],
-            "strokes": 13,
+            "stroke_count": 13,
             "jlpt": 2,
-            "frequency": 1376,
+            "freq_mainichi_shinbun": 1376,
             "unicode": "9271",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "鉱山",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "こうざん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "mine"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "Kouzan"
-                            ],
-                            "part_of_speech": "Place",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "鉱石",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "こうせき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "ore",
-                                "mineral",
-                                "crystal"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         },
-        {
-            "kanji": "物",
+        "物": {
             "meanings": [
                 "matter",
                 "object",
                 "thing"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ブツ",
                 "モツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "もの",
                 "もの-"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 4,
-            "frequency": 215,
+            "freq_mainichi_shinbun": 215,
             "unicode": "7269",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "食べ物",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たべもの",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "food"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "物語",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ものがたり",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "story",
-                                "tale",
-                                "narrative",
-                                "account",
-                                "fable",
-                                "legend"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means ore and things related to mining and metals. It appears in words like こうざん and こうせき, where it contributes the idea of mineral resources or places where minerals are extracted. When you see this kanji you can think of metal, rock, and extraction. The second kanji means thing or object and is very general and concrete. It appears in words like たべもの and ものがたり, where it gives the sense of an item or matter, such as something you eat or the central 'thing' of a story.",
-    "explanations": {
-        "explanation": "The word \"こうぶつ\" means \"mineral\" in English. It refers to naturally occurring substances that have a definite chemical composition, crystalline structure, and physical properties. Minerals are typically found as part of rocks and play a crucial role in various geological and industrial processes.",
-        "youtube_description": "Learn how to use the Japanese word 鉱物 (こうぶつ) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!\n",
-        "motivation": "The word we'll be learning in this section is こうぶつ which you will often hear in conversations related to geology, science, and industrial applications. ",
-        "collocations": [
-            "こうぶつしりょう",
-            "こうぶつしげん",
-            "こうぶつけんきゅう",
-            "こうぶつぶつり",
-            "こうぶつせっけい"
-        ],
-        "synonyms": [
-            "鉱石",
-            "元素"
-        ],
-        "synonyms_explanation": "The most common synonyms of the \"こうぶつ\" are \"鉱石\" and \"元素.\" \"こうせき\" mainly refers to ores, which are specific types of minerals that are mined for valuable elements. \"げんそ\" refers to chemical elements, highlighting the compositional aspect of \"こうぶつ\" but on a more foundational level.",
-        "antonyms": [
-            "有機物",
-            "生物"
-        ],
-        "antonyms_explanation": "The most common antonyms of the \"こうぶつ\" are \"ゆうきぶつ\" and \"せいぶつ.\" \"ゆうきぶつ\" stands for \"organic matter,\" emphasizing the contrast between inorganic minerals and organic substances, while \"せいぶつ\" means \"living thing,\" directly opposing the non-living nature of minerals."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n2"
-    ],
-    "examples": [
-        {
-            "kanji": "鉱物資料を見ました。",
-            "furigana": "鉱物(こうぶつ)資料(しりょう)を見(み)ました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "鉱物資料を見ました。",
-                "English": "I saw the mineral materials.",
-                "Persian": "من مواد معدنی را دیدم.",
-                "Nepali": "मैले खनिज सामग्रीहरू देखें।",
-                "Indonesian": "Saya melihat bahan mineral.",
-                "Filipino": "Nakakita ako ng mga mineral na materyales.",
-                "Vietnamese": "Tôi đã thấy tài liệu khoáng sản.",
-                "Burmese": "ကျွန်တော်မင်္ဂလာစာရွက်ကိုမြင်ခဲ့သည်။",
-                "Korean": "광물 자료를 보았습니다.",
-                "Hindi": "मैंने खनिज सामग्री देखी।",
-                "Arabic": "رأيت المواد المعدنية.",
-                "French": "J'ai vu les matériaux minéraux.",
-                "Spanish": "Vi los materiales minerales.",
-                "Chinese": "我看到了矿物材料。",
-                "Bengali": "আমি খনিজ উপকরণগুলি দেখেছি।"
-            }
-        },
-        {
-            "kanji": "この国は鉱物資源が豊富です。",
-            "furigana": "この国(くに)は鉱物資源(こうぶつしげん)が豊富(ほうふ)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "この国は鉱物資源が豊富です。",
-                "English": "This country is rich in mineral resources.",
-                "Persian": "این کشور از منابع معدنی غنی است.",
-                "Nepali": "यो देश खनिज स्रोतमा धनी छ।",
-                "Indonesian": "Negara ini kaya akan sumber daya mineral.",
-                "Filipino": "Ang bansang ito ay mayaman sa yamang mineral.",
-                "Vietnamese": "Quốc gia này giàu tài nguyên khoáng sản.",
-                "Burmese": "ဒီနိုင့်ငံက သတ္တုဖယောင်းများအားဖြင့် ပေါများသည်။",
-                "Korean": "이 나라는 광물 자원이 풍부하다.",
-                "Hindi": "यह देश खनिज संसाधनों में समृद्ध है।",
-                "Arabic": "هذا البلد غني بالموارد المعدنية.",
-                "French": "Ce pays est riche en ressources minérales.",
-                "Spanish": "Este país tiene abundantes recursos minerales.",
-                "Chinese": "这个国家矿物资源丰富。",
-                "Bengali": "এই দেশ খনিজ সম্পদে সমৃদ্ধ।"
-            }
-        },
-        {
-            "kanji": "鉱物研究は楽しいです。",
-            "furigana": "鉱物(こうぶつ)研究(けんきゅう)は楽(たの)しいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "鉱物研究は楽しいです。",
-                "English": "Research on minerals is fun.",
-                "Persian": "تحقیق در مورد مواد معدنی سرگرم کننده است.",
-                "Nepali": "खानी अनुसन्धान रमाइलो छ।",
-                "Indonesian": "Penelitian tentang mineral itu menyenangkan.",
-                "Filipino": "Masaya ang pananaliksik sa mineral.",
-                "Vietnamese": "Nghiên cứu khoáng sản rất thú vị.",
-                "Burmese": "သတ္တုသုတေသနက မိုက်တယ်။",
-                "Korean": "광물 연구는 재미있어요.",
-                "Hindi": "खनिजों पर अनुसंधान मजेदार है।",
-                "Arabic": "البحث عن المعادن ممتع.",
-                "French": "La recherche sur les minéraux est amusante.",
-                "Spanish": "La investigación sobre minerales es divertida.",
-                "Chinese": "矿物研究很有趣。",
-                "Bengali": "খনিজ গবেষণা মজার।"
-            }
-        },
-        {
-            "kanji": "私は鉱物が好きです。",
-            "furigana": "私(わたし)は鉱物(こうぶつ)が好き(すき)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は鉱物が好きです。",
-                "English": "I like minerals.",
-                "Persian": "من مواد معدنی را دوست دارم.",
-                "Nepali": "मलाई खनिजहरू मनपर्छ।",
-                "Indonesian": "Saya suka mineral.",
-                "Filipino": "Gusto ko ng mga mineral.",
-                "Vietnamese": "Tôi thích khoáng sản.",
-                "Burmese": "ငါသည် သတ္တုများကို နှစ်သက်သည်။",
-                "Korean": "나는 광물을 좋아합니다.",
-                "Hindi": "मुझे खनिज पसंद हैं।",
-                "Arabic": "أحب المعادن.",
-                "French": "J'aime les minéraux.",
-                "Spanish": "Me gustan los minerales.",
-                "Chinese": "我喜欢矿物质。",
-                "Bengali": "আমি খনিজ পছন্দ করি।"
-            }
-        },
-        {
-            "kanji": "鉱物はこうぶつ設計の基本です。",
-            "furigana": "鉱物(こうぶつ)はこうぶつ設計(こうぶつせっけい)の基本(きほん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "鉱物はこうぶつ設計の基本です。",
-                "English": "Minerals are the foundation of mineral design.",
-                "Persian": "کانی‌ها پایه طراحی کانی هستند.",
-                "Nepali": "खानीहरू खनिज डिजाइनको आधार हुन्।",
-                "Indonesian": "Mineral adalah dasar dari desain mineral.",
-                "Filipino": "Ang mga mineral ay pundasyon ng disenyo ng mineral.",
-                "Vietnamese": "Khoáng sản là nền tảng của thiết kế khoáng sản.",
-                "Burmese": "သတ္တုများသည် သတ္တုဒီဇိုင်း၏ အခြေခံဖြစ်သည်။",
-                "Korean": "광물은 광물 설계의 기초입니다.",
-                "Hindi": "खनिज खनिज डिजाइन की नींव हैं।",
-                "Arabic": "المعادن هي أساس تصميم المعادن.",
-                "French": "Les minéraux sont la base du design minéral.",
-                "Spanish": "Los minerales son la base del diseño mineral.",
-                "Chinese": "矿物是矿物设计的基础。",
-                "Bengali": "খনিজগুলি খনিজ নকশার ভিত্তি।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "鉱石",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "こうせき",
-            "meanings": [
-                {
-                    "neuances": [
-                        "ore",
-                        "mineral",
-                        "crystal"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "元素",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "げんそ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "element",
-                        "chemical element"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        " element"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "origin",
-                        "source"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "有機物",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ゆうきぶつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "organic matter"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "生物",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "せいぶつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "living thing",
-                        "organism",
-                        "creature",
-                        "life"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "biology"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "こうぶつしりょう",
+        "こうぶつしげん",
+        "こうぶつけんきゅう",
+        "こうぶつぶつり",
+        "こうぶつせっけい"
     ]
 }

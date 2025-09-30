@@ -1,433 +1,252 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "瞬間",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/HJPjVm1pD_U",
     "in_db": true,
-    "reading": "しゅんかん",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "瞬間",
+        "reading": "しゅんかん",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is しゅんかん, which you will often hear in conversations when people are talking about events or experiences that happen very quickly.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"瞬間 (しゅんかん)\" means \"moment\" or \"instant\" in English. It refers to an extremely short period of time, sometimes even a blink of an eye.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "moment",
                 "instant",
                 "second"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "瞬間",
-                "English": "moment",
-                "Persian": "لحظه",
-                "Nepali": "क्षण",
-                "Indonesian": "momen",
-                "Filipino": "sandali",
-                "Vietnamese": "khoảnh khắc",
-                "Burmese": "ကျုံ့တန်ခိုး",
-                "Korean": "순간",
-                "Hindi": "क्षण",
-                "Arabic": "لحظة",
-                "French": "moment",
-                "Spanish": "momento",
-                "Chinese": "瞬间",
-                "Bengali": "মুহূর্ত"
+            ]
+        ],
+        "meaning_translations": {
+            "moment": {
+                "EN": "moment",
+                "ID": "momen",
+                "ES": "momento",
+                "VI": "khoảnh khắc",
+                "FR": "moment",
+                "NE": "क्षण",
+                "BN": "মুহূর্ত",
+                "ZH": "瞬间",
+                "KO": "순간",
+                "TL": "sandali",
+                "MY": "ကျုံ့တန်ခိုး",
+                "HI": "क्षण",
+                "AR": "لحظة",
+                "FA": "لحظه"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "瞬間に写真を撮りました。",
+                "furigana": "瞬間(しゅんかん)に写真(しゃしん)を撮(と)りました。",
+                "translations": {
+                    "EN": "I took a picture in a moment.",
+                    "ID": "Saya mengambil foto dalam sekejap.",
+                    "ES": "Tomé una foto en un instante.",
+                    "VI": "Tôi chụp một bức ảnh trong khoảnh khắc.",
+                    "FR": "J'ai pris une photo en un instant.",
+                    "NE": "मैले एकै क्षणमा फोटो खिचें।",
+                    "BN": "আমি এক মুহূর্তে একটি ছবি তুললাম।",
+                    "ZH": "一瞬间拍了张照。",
+                    "KO": "순간에 사진을 찍었습니다.",
+                    "TL": "Kumuha ako ng litrato sa isang iglap.",
+                    "MY": "တစ်စုံအပြိုင်မှာ ဓါတ်ပုံရိုက်ခဲ့တယ်။",
+                    "HI": "मैंने एक पल में तस्वीर ली।",
+                    "AR": "التقطتُ صورة في لحظة.",
+                    "FA": "در یک لحظه عکس گرفتم."
+                }
+            },
+            {
+                "kanji": "その瞬間に驚きました。",
+                "furigana": "その瞬間(しゅんかん)に驚(おどろ)きました。",
+                "translations": {
+                    "EN": "I was surprised at that moment.",
+                    "ID": "Saya terkejut pada saat itu.",
+                    "ES": "Me sorprendí en ese momento.",
+                    "VI": "Tôi đã ngạc nhiên ở khoảnh khắc đó.",
+                    "FR": "J'ai été surpris à ce moment-là.",
+                    "NE": "म त्यस क्षणमा अचम्ममा परें।",
+                    "BN": "আমি সেই মুহূর্তে অবাক হলাম।",
+                    "ZH": "我在那一刻感到惊讶。",
+                    "KO": "그 순간에 놀랐습니다.",
+                    "TL": "Nagulat ako sa sandaling iyon.",
+                    "MY": "ဒီအချိန်မှာ အံ့ဩတယ်။",
+                    "HI": "मैं उस पल आश्चर्यचकित हो गया।",
+                    "AR": "تفاجأت في تلك اللحظة.",
+                    "FA": "در آن لحظه متعجب شدم."
+                }
+            },
+            {
+                "kanji": "彼はその瞬間に笑った。",
+                "furigana": "彼(かれ)はその瞬間(しゅんかん)に笑(わら)った。",
+                "translations": {
+                    "EN": "He laughed at that moment.",
+                    "ID": "Dia tertawa pada saat itu.",
+                    "ES": "Él se rió en ese momento.",
+                    "VI": "Anh ấy đã cười trong khoảnh khắc đó.",
+                    "FR": "Il a ri à ce moment-là.",
+                    "NE": "ऊ त्यस क्षणमा हाँस्यो।",
+                    "BN": "তিনি সেই মুহূর্তে হেসেছিলেন।",
+                    "ZH": "他在那一刻笑了。",
+                    "KO": "그는 그 순간에 웃었다.",
+                    "TL": "Natawa siya sa sandaling iyon.",
+                    "MY": "သူဟာ အဲဒီအချိန်မှာ ရယ်နေခဲ့တယ်။",
+                    "HI": "उसने उस पल हंसी दी।",
+                    "AR": "ضحك في تلك اللحظة.",
+                    "FA": "او در آن لحظه خندید."
+                }
+            },
+            {
+                "kanji": "その瞬間を忘れる。",
+                "furigana": "その瞬間(しゅんかん)を忘(わす)れる。",
+                "translations": {
+                    "EN": "Forget that moment.",
+                    "ID": "Lupakan saat itu.",
+                    "ES": "Olvida ese momento.",
+                    "VI": "Quên khoảnh khắc đó đi.",
+                    "FR": "Oublie ce moment.",
+                    "NE": "त्यो क्षण बिर्स।",
+                    "BN": "সেই মুহূর্তটি ভুলে যাও।",
+                    "ZH": "忘掉那个瞬间。",
+                    "KO": "그 순간을 잊어라.",
+                    "TL": "Kalilimutan ang sandaling iyon.",
+                    "MY": "အဲဒီအခိုက်အတန့်ကို မေ့နေပါ။",
+                    "HI": "उस क्षण को भूल जाओ।",
+                    "AR": "انسى تلك اللحظة.",
+                    "FA": "آن لحظه را فراموش کن."
+                }
+            },
+            {
+                "kanji": "瞬間が大切です。",
+                "furigana": "瞬間(しゅんかん)が大切(たいせつ)です。",
+                "translations": {
+                    "EN": "Moments are important.",
+                    "ID": "Momen itu penting.",
+                    "ES": "Los momentos son importantes.",
+                    "VI": "Những khoảnh khắc là quan trọng.",
+                    "FR": "Les instants sont importants.",
+                    "NE": "क्षणहरू महत्त्वपूर्ण हुन्छन्।",
+                    "BN": "মুহূর্তগুলি গুরুত্বপূর্ণ।",
+                    "ZH": "瞬间很重要。",
+                    "KO": "순간이 중요합니다.",
+                    "TL": "Mahalaga ang mga sandali.",
+                    "MY": "အခိုက်အတနျးများသည် အရေးကြီးသည်။",
+                    "HI": "क्षण महत्वपूर्ण होते हैं।",
+                    "AR": "اللحظات مهمة.",
+                    "FA": "لحظات مهم هستند."
+                }
+            }
+        ],
+        "synonyms": [
+            "瞬時 : しゅんじ : instant"
+        ],
+        "synonyms_explanation": "The most common synonym of the word しゅんかん is 瞬時. Both describe a very short time frame. しゅんかん can evoke a more emotional context, whereas 瞬時 often refers more to a literal snap or split second.",
+        "antonyms": [
+            "永遠 : えいえん : eternity"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word しゅんかん are えいえん. While しゅんかん captures a fleeting moment, えいえん conveys eternity or an endless span of time. They represent opposite ends of the temporal spectrum.",
+        "kanji_details": [
+            {
+                "kanji": "瞬",
+                "common_words": [
+                    "瞬く: to twinkle",
+                    "瞬き: blink"
+                ]
+            },
+            {
+                "kanji": "間",
+                "common_words": [
+                    "間違い: mistake",
+                    "人間: human being"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "瞬間",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "瞬間",
+                "reading": "しゅんかん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "moment",
+                    "instant",
+                    "second"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "瞬",
+        "間"
     ],
-    "kanjis": [
-        {
-            "kanji": "瞬",
+    "kanji_data": {
+        "瞬": {
             "meanings": [
                 "blink",
                 "twinkle",
                 "wink"
             ],
-            "onyomi": [
+            "on_readings": [
                 "シュン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "まじろ.ぐ",
                 "またた.く"
             ],
-            "strokes": 18,
+            "stroke_count": 18,
             "jlpt": 1,
-            "frequency": 1265,
+            "freq_mainichi_shinbun": 1265,
             "unicode": "77AC",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "瞬く",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "またたく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to twinkle",
-                                "to flicker",
-                                "to waver"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to blink",
-                                "to wink",
-                                "to bat"
-                            ],
-                            "part_of_speech": "Godan verb with 'ku' ending, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "瞬き",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "まばたき",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "blink",
-                                "wink"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "twinkling",
-                                "flicker",
-                                "blink"
-                            ],
-                            "part_of_speech": "Noun, Suru verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         },
-        {
-            "kanji": "間",
+        "間": {
             "meanings": [
                 "interval",
                 "space"
             ],
-            "onyomi": [
+            "on_readings": [
                 "カン",
                 "ケン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あい",
                 "あいだ",
                 "ま"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 5,
-            "frequency": 33,
+            "freq_mainichi_shinbun": 33,
             "unicode": "9593",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "間違い",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "まちがい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "mistake",
-                                "error",
-                                "blunder"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "accident",
-                                "mishap",
-                                "trouble"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "improper conduct",
-                                "indiscretion"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "人間",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "にんげん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "human being",
-                                "human",
-                                "person",
-                                "man",
-                                "mankind",
-                                "humankind"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "character"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means a very brief instant, like a blink or flash. It shows up in words such as まばたく and まばたき, where it gives the sense of something happening in the space of an eye blink. Think of it as the tiny, split-second part of an action. The second kanji means space or interval, and also the idea of between or relational place. You see it in words like まちがい and にんげん, where it contributes the sense of a gap, relation, or positioning between things; it helps form meanings about time, space, or relationships.",
-    "explanations": {
-        "explanation": "The word \"瞬間 (しゅんかん)\" means \"moment\" or \"instant\" in English. It refers to an extremely short period of time, sometimes even a blink of an eye.",
-        "youtube_description": "Learn how to use the Japanese word 瞬間 (しゅんかん) in everyday conversations! \nIn this video, we'll explore its meanings, collocations, and examples to help you use it effectively.\nJoin us and enhance your Japanese vocabulary with this essential word. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is しゅんかん, which you will often hear in conversations when people are talking about events or experiences that happen very quickly.",
-        "collocations": [
-            "しゅんかんせんたく",
-            "しゅんかんてき",
-            "しゅんかんどうさ",
-            "しゅんかんめい",
-            "しゅんかんが"
-        ],
-        "synonyms": [
-            "瞬時"
-        ],
-        "synonyms_explanation": "The most common synonym of the word しゅんかん is 瞬時. Both describe a very short time frame. しゅんかん can evoke a more emotional context, whereas 瞬時 often refers more to a literal snap or split second.",
-        "antonyms": [
-            "永遠"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word しゅんかん are えいえん. While しゅんかん captures a fleeting moment, えいえん conveys eternity or an endless span of time. They represent opposite ends of the temporal spectrum."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "瞬間に写真を撮りました。",
-            "furigana": "瞬間(しゅんかん)に写真(しゃしん)を撮(と)りました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "瞬間に写真を撮りました。",
-                "English": "I took a picture in a moment.",
-                "Persian": "در یک لحظه عکس گرفتم.",
-                "Nepali": "मैले एकै क्षणमा फोटो खिचें।",
-                "Indonesian": "Saya mengambil foto dalam sekejap.",
-                "Filipino": "Kumuha ako ng litrato sa isang iglap.",
-                "Vietnamese": "Tôi chụp một bức ảnh trong khoảnh khắc.",
-                "Burmese": "တစ်စုံအပြိုင်မှာ ဓါတ်ပုံရိုက်ခဲ့တယ်။",
-                "Korean": "순간에 사진을 찍었습니다.",
-                "Hindi": "मैंने एक पल में तस्वीर ली।",
-                "Arabic": "التقطتُ صورة في لحظة.",
-                "French": "J'ai pris une photo en un instant.",
-                "Spanish": "Tomé una foto en un instante.",
-                "Chinese": "一瞬间拍了张照。",
-                "Bengali": "আমি এক মুহূর্তে একটি ছবি তুললাম।"
-            }
-        },
-        {
-            "kanji": "その瞬間に驚きました。",
-            "furigana": "その瞬間(しゅんかん)に驚(おどろ)きました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "その瞬間に驚きました。",
-                "English": "I was surprised at that moment.",
-                "Persian": "در آن لحظه متعجب شدم.",
-                "Nepali": "म त्यस क्षणमा अचम्ममा परें।",
-                "Indonesian": "Saya terkejut pada saat itu.",
-                "Filipino": "Nagulat ako sa sandaling iyon.",
-                "Vietnamese": "Tôi đã ngạc nhiên ở khoảnh khắc đó.",
-                "Burmese": "ဒီအချိန်မှာ အံ့ဩတယ်။",
-                "Korean": "그 순간에 놀랐습니다.",
-                "Hindi": "मैं उस पल आश्चर्यचकित हो गया।",
-                "Arabic": "تفاجأت في تلك اللحظة.",
-                "French": "J'ai été surpris à ce moment-là.",
-                "Spanish": "Me sorprendí en ese momento.",
-                "Chinese": "我在那一刻感到惊讶。",
-                "Bengali": "আমি সেই মুহূর্তে অবাক হলাম।"
-            }
-        },
-        {
-            "kanji": "彼はその瞬間に笑った。",
-            "furigana": "彼(かれ)はその瞬間(しゅんかん)に笑(わら)った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼はその瞬間に笑った。",
-                "English": "He laughed at that moment.",
-                "Persian": "او در آن لحظه خندید.",
-                "Nepali": "ऊ त्यस क्षणमा हाँस्यो।",
-                "Indonesian": "Dia tertawa pada saat itu.",
-                "Filipino": "Natawa siya sa sandaling iyon.",
-                "Vietnamese": "Anh ấy đã cười trong khoảnh khắc đó.",
-                "Burmese": "သူဟာ အဲဒီအချိန်မှာ ရယ်နေခဲ့တယ်။",
-                "Korean": "그는 그 순간에 웃었다.",
-                "Hindi": "उसने उस पल हंसी दी।",
-                "Arabic": "ضحك في تلك اللحظة.",
-                "French": "Il a ri à ce moment-là.",
-                "Spanish": "Él se rió en ese momento.",
-                "Chinese": "他在那一刻笑了。",
-                "Bengali": "তিনি সেই মুহূর্তে হেসেছিলেন।"
-            }
-        },
-        {
-            "kanji": "その瞬間を忘れる。",
-            "furigana": "その瞬間(しゅんかん)を忘(わす)れる。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "その瞬間を忘れる。",
-                "English": "Forget that moment.",
-                "Persian": "آن لحظه را فراموش کن.",
-                "Nepali": "त्यो क्षण बिर्स।",
-                "Indonesian": "Lupakan saat itu.",
-                "Filipino": "Kalilimutan ang sandaling iyon.",
-                "Vietnamese": "Quên khoảnh khắc đó đi.",
-                "Burmese": "အဲဒီအခိုက်အတန့်ကို မေ့နေပါ။",
-                "Korean": "그 순간을 잊어라.",
-                "Hindi": "उस क्षण को भूल जाओ।",
-                "Arabic": "انسى تلك اللحظة.",
-                "French": "Oublie ce moment.",
-                "Spanish": "Olvida ese momento.",
-                "Chinese": "忘掉那个瞬间。",
-                "Bengali": "সেই মুহূর্তটি ভুলে যাও।"
-            }
-        },
-        {
-            "kanji": "瞬間が大切です。",
-            "furigana": "瞬間(しゅんかん)が大切(たいせつ)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "瞬間が大切です。",
-                "English": "Moments are important.",
-                "Persian": "لحظات مهم هستند.",
-                "Nepali": "क्षणहरू महत्त्वपूर्ण हुन्छन्।",
-                "Indonesian": "Momen itu penting.",
-                "Filipino": "Mahalaga ang mga sandali.",
-                "Vietnamese": "Những khoảnh khắc là quan trọng.",
-                "Burmese": "အခိုက်အတနျးများသည် အရေးကြီးသည်။",
-                "Korean": "순간이 중요합니다.",
-                "Hindi": "क्षण महत्वपूर्ण होते हैं।",
-                "Arabic": "اللحظات مهمة.",
-                "French": "Les instants sont importants.",
-                "Spanish": "Los momentos son importantes.",
-                "Chinese": "瞬间很重要。",
-                "Bengali": "মুহূর্তগুলি গুরুত্বপূর্ণ।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "瞬時",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "しゅんじ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "instant",
-                        "moment",
-                        " second",
-                        " flash",
-                        " blink of an eye"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "永遠",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "えいえん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "eternity",
-                        "perpetuity",
-                        "permanence",
-                        "immortality"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "しゅんかんせんたく",
+        "しゅんかんてき",
+        "しゅんかんどうさ",
+        "しゅんかんめい",
+        "しゅんかんが"
     ]
 }

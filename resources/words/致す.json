@@ -1,37 +1,172 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "致す",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/kfEGCCbaK1k",
     "in_db": true,
-    "reading": "いたす",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "致す",
+        "reading": "いたす",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is \"いたす\" which you will often hear in formal business meetings or when speaking to someone of higher status. ",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"いたす\" means \"to do.\" It's a humble form used by the speaker to express politeness when talking about their own actions. By using this word, the speaker puts themselves in a lower position to show respect or formality, often used in business or formal settings.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to do"
-            ],
-            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-            "translation": {
-                "Japanese": "致す",
-                "English": "to do",
-                "Persian": "انجام دادن",
-                "Nepali": "गर्नु",
-                "Indonesian": "untuk melakukan",
-                "Filipino": "gawin",
-                "Vietnamese": "để làm",
-                "Burmese": "လုပ်ရန်",
-                "Korean": "하다",
-                "Hindi": "करना",
-                "Arabic": "للقيام",
-                "French": "faire",
-                "Spanish": "hacer",
-                "Chinese": "去做",
-                "Bengali": "করতে"
+            ]
+        ],
+        "meaning_translations": {
+            "to do": {
+                "EN": "to do",
+                "ID": "untuk melakukan",
+                "ES": "hacer",
+                "VI": "để làm",
+                "FR": "faire",
+                "NE": "गर्नु",
+                "BN": "করতে",
+                "ZH": "去做",
+                "KO": "하다",
+                "TL": "gawin",
+                "MY": "လုပ်ရန်",
+                "HI": "करना",
+                "AR": "للقيام",
+                "FA": "انجام دادن"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "どうぞよろしくいたします。",
+                "furigana": "どうぞよろしく致(いた)します。",
+                "translations": {
+                    "EN": "Nice to meet you.",
+                    "ID": "Senang bertemu denganmu.",
+                    "ES": "Encantado de conocerte.",
+                    "VI": "Rất hân hạnh được gặp bạn.",
+                    "FR": "Enchanté de vous rencontrer.",
+                    "NE": "तपाईंसँग भेट हुँदा खुशी लाग्यो।",
+                    "BN": "আপনার সাথে দেখা করে খুশি হলাম।",
+                    "ZH": "很高兴见到你。",
+                    "KO": "만나서 반갑습니다.",
+                    "TL": "Ikinalulugod kitang makilala.",
+                    "MY": "သင်နှင့်တွေ့ရတာဝမ်းသာပါတယ်။",
+                    "HI": "आपसे मिलकर खुशी हुई।",
+                    "AR": "تشرفت بمقابلتك.",
+                    "FA": "از ملاقات شما خوشوقتم."
+                }
+            },
+            {
+                "kanji": "承知いたしました。",
+                "furigana": "承知(しょうち)いたしました。",
+                "translations": {
+                    "EN": "Understood.",
+                    "ID": "Mengerti.",
+                    "ES": "Entendido.",
+                    "VI": "Đã hiểu.",
+                    "FR": "Compris.",
+                    "NE": "बुझियो।",
+                    "BN": "বুঝতে পারলাম।",
+                    "ZH": "知道了。",
+                    "KO": "알겠습니다.",
+                    "TL": "Naiintindihan.",
+                    "MY": "နားလည်ပါတယ်။",
+                    "HI": "समझ गया।",
+                    "AR": "تم الفهم.",
+                    "FA": "درک شد."
+                }
+            },
+            {
+                "kanji": "私たちはここでお待ちいたしております。",
+                "furigana": "私(わたし)たち(たち)は(は)ここ(ここ)で(で)お待(おま)ち(ち)いた(いた)して(して)おり(おり)ます(ます)。",
+                "translations": {
+                    "EN": "We are waiting here for you.",
+                    "ID": "Kami sedang menunggu Anda di sini.",
+                    "ES": "Estamos esperando aquí por usted.",
+                    "VI": "Chúng tôi đang chờ bạn ở đây.",
+                    "FR": "Nous vous attendons ici.",
+                    "NE": "हामी यहाँ तपाईँको प्रतीक्षा गर्दैछौं।",
+                    "BN": "আমরা এখানে আপনার জন্য অপেক্ষা করছি।",
+                    "ZH": "我们在这里等你。",
+                    "KO": "저희는 여기서 기다리고 있습니다.",
+                    "TL": "Naghihintay kami rito para sa iyo.",
+                    "MY": "ကျနော်တို့သည် ဒီနေရာမှာ သင့်အတွက် စောင့်နေပါတယ်။",
+                    "HI": "हम यहाँ आपकी प्रतीक्षा कर रहे हैं।",
+                    "AR": "نحن ننتظر هنا من أجلك.",
+                    "FA": "ما اینجا منتظر شما هستیم."
+                }
+            },
+            {
+                "kanji": "ご確認いたします。",
+                "furigana": "ご確認(かくにん)いたします。",
+                "translations": {
+                    "EN": "I will confirm.",
+                    "ID": "Saya akan mengkonfirmasi.",
+                    "ES": "Voy a confirmar.",
+                    "VI": "Tôi sẽ xác nhận.",
+                    "FR": "Je vais confirmer.",
+                    "NE": "म पुष्टि गर्छु।",
+                    "BN": "আমি নিশ্চিত করব।",
+                    "ZH": "我会确认。",
+                    "KO": "확인하겠습니다.",
+                    "TL": "Ako ay magkokompirma.",
+                    "MY": "ကျွန်ုပ်ကိုင်းနိုင်သည်။",
+                    "HI": "मैं पुष्टि करूँगा।",
+                    "AR": "سأقوم بالتأكيد.",
+                    "FA": "من تایید می‌کنم."
+                }
+            }
+        ],
+        "synonyms": [
+            "行う : おこなう : to perform"
+        ],
+        "synonyms_explanation": "The most common synonym of \"いたす\" is \"行う.\" Both words mean \"to do\" or \"to carry out,\" but \"行う\" is neutral without the inherent politeness of \"いたす.\" \"いたす\" indicates more respect and humility when referring to one's own actions.",
+        "kanji_details": [
+            {
+                "kanji": "致",
+                "common_words": [
+                    "致命: fatal",
+                    "送致: sending"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "致す",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "致す",
+                "reading": "いたす"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to do"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "致"
     ],
-    "kanjis": [
-        {
-            "kanji": "致",
+    "kanji_data": {
+        "致": {
             "meanings": [
                 "cause",
                 "do",
@@ -42,214 +177,23 @@
                 "incur",
                 "send"
             ],
-            "onyomi": [
+            "on_readings": [
                 "チ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "いた.す"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 1,
-            "frequency": 870,
+            "freq_mainichi_shinbun": 870,
             "unicode": "81F4",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "致命",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちめい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "fatal"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "送致",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "そうち",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "sending",
-                                "forwarding"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means to cause, bring about, or convey and also has a nuance of reaching an extreme or sending something. In the word ちめい it contributes the sense of causing death, so the compound means fatal or deadly. In the word そうち it carries the idea of sending or delivering something to someone, which is why the term means referral or sending to authorities.",
-    "explanations": {
-        "explanation": "The word \"いたす\" means \"to do.\" It's a humble form used by the speaker to express politeness when talking about their own actions. By using this word, the speaker puts themselves in a lower position to show respect or formality, often used in business or formal settings.",
-        "youtube_description": "Learn how to use the Japanese word \"いたす\" in everyday conversations!  \nIn this video, we'll explore its meanings, contextual usages, and how it adds a layer of politeness, helping you master this essential vocabulary. Whether you're a beginner or looking to deepen your understanding, this video is perfect for you. Don't forget to like, comment, and subscribe for more insights into Japanese learning!",
-        "motivation": "The word we'll be learning in this section is \"いたす\" which you will often hear in formal business meetings or when speaking to someone of higher status. ",
-        "collocations": [
-            "よろしくいたします",
-            "承知いたしました",
-            "お待ちいたしております",
-            "ご確認いたします"
-        ],
-        "synonyms": [
-            "行う"
-        ],
-        "synonyms_explanation": "The most common synonym of \"いたす\" is \"行う.\" Both words mean \"to do\" or \"to carry out,\" but \"行う\" is neutral without the inherent politeness of \"いたす.\" \"いたす\" indicates more respect and humility when referring to one's own actions.",
-        "antonyms": [
-            ""
-        ],
-        "antonyms_explanation": "It has no antonyms."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "どうぞよろしくいたします。",
-            "furigana": "どうぞよろしく致(いた)します。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "どうぞよろしくいたします。",
-                "English": "Nice to meet you.",
-                "Persian": "از ملاقات شما خوشوقتم.",
-                "Nepali": "तपाईंसँग भेट हुँदा खुशी लाग्यो।",
-                "Indonesian": "Senang bertemu denganmu.",
-                "Filipino": "Ikinalulugod kitang makilala.",
-                "Vietnamese": "Rất hân hạnh được gặp bạn.",
-                "Burmese": "သင်နှင့်တွေ့ရတာဝမ်းသာပါတယ်။",
-                "Korean": "만나서 반갑습니다.",
-                "Hindi": "आपसे मिलकर खुशी हुई।",
-                "Arabic": "تشرفت بمقابلتك.",
-                "French": "Enchanté de vous rencontrer.",
-                "Spanish": "Encantado de conocerte.",
-                "Chinese": "很高兴见到你。",
-                "Bengali": "আপনার সাথে দেখা করে খুশি হলাম।"
-            }
-        },
-        {
-            "kanji": "承知いたしました。",
-            "furigana": "承知(しょうち)いたしました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "承知いたしました。",
-                "English": "Understood.",
-                "Persian": "درک شد.",
-                "Nepali": "बुझियो।",
-                "Indonesian": "Mengerti.",
-                "Filipino": "Naiintindihan.",
-                "Vietnamese": "Đã hiểu.",
-                "Burmese": "နားလည်ပါတယ်။",
-                "Korean": "알겠습니다.",
-                "Hindi": "समझ गया।",
-                "Arabic": "تم الفهم.",
-                "French": "Compris.",
-                "Spanish": "Entendido.",
-                "Chinese": "知道了。",
-                "Bengali": "বুঝতে পারলাম।"
-            }
-        },
-        {
-            "kanji": "私たちはここでお待ちいたしております。",
-            "furigana": "私(わたし)たち(たち)は(は)ここ(ここ)で(で)お待(おま)ち(ち)いた(いた)して(して)おり(おり)ます(ます)。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私たちはここでお待ちいたしております。",
-                "English": "We are waiting here for you.",
-                "Persian": "ما اینجا منتظر شما هستیم.",
-                "Nepali": "हामी यहाँ तपाईँको प्रतीक्षा गर्दैछौं।",
-                "Indonesian": "Kami sedang menunggu Anda di sini.",
-                "Filipino": "Naghihintay kami rito para sa iyo.",
-                "Vietnamese": "Chúng tôi đang chờ bạn ở đây.",
-                "Burmese": "ကျနော်တို့သည် ဒီနေရာမှာ သင့်အတွက် စောင့်နေပါတယ်။",
-                "Korean": "저희는 여기서 기다리고 있습니다.",
-                "Hindi": "हम यहाँ आपकी प्रतीक्षा कर रहे हैं।",
-                "Arabic": "نحن ننتظر هنا من أجلك.",
-                "French": "Nous vous attendons ici.",
-                "Spanish": "Estamos esperando aquí por usted.",
-                "Chinese": "我们在这里等你。",
-                "Bengali": "আমরা এখানে আপনার জন্য অপেক্ষা করছি।"
-            }
-        },
-        {
-            "kanji": "ご確認いたします。",
-            "furigana": "ご確認(かくにん)いたします。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "ご確認いたします。",
-                "English": "I will confirm.",
-                "Persian": "من تایید می‌کنم.",
-                "Nepali": "म पुष्टि गर्छु।",
-                "Indonesian": "Saya akan mengkonfirmasi.",
-                "Filipino": "Ako ay magkokompirma.",
-                "Vietnamese": "Tôi sẽ xác nhận.",
-                "Burmese": "ကျွန်ုပ်ကိုင်းနိုင်သည်။",
-                "Korean": "확인하겠습니다.",
-                "Hindi": "मैं पुष्टि करूँगा।",
-                "Arabic": "سأقوم بالتأكيد.",
-                "French": "Je vais confirmer.",
-                "Spanish": "Voy a confirmar.",
-                "Chinese": "我会确认。",
-                "Bengali": "আমি নিশ্চিত করব।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "行う",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "おこなう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to perform",
-                        "to do",
-                        "to conduct oneself",
-                        "to carry out"
-                    ],
-                    "part_of_speech": "Godan verb with 'u' ending, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": []
+    "collocations": [
+        "よろしくいたします",
+        "承知いたしました",
+        "お待ちいたしております",
+        "ご確認いたします"
+    ]
 }

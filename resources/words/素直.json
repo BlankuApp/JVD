@@ -1,224 +1,344 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "素直",
+    "jlpt_level": 2,
     "youtube_link": "https://youtu.be/8zgYiPZsR7U",
     "in_db": true,
-    "reading": "すなお",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "素直",
+        "reading": "すなお",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this video is すなお which you will often hear in conversations about personality traits. Imagine how much more natural your Japanese will sound when you can say things like \"She is honest with her feelings,\" \"I appreciate your straightforwardness,\" and \"He is obedient to his parents\" in Japanese. Let's get started!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word すなお means honest, straightforward, or obedient. It describes someone who is frank and does not hide their feelings or thoughts.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "obedient",
                 "meek",
                 "docile",
                 "unaffected"
             ],
-            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-            "translation": {
-                "Japanese": "素直",
-                "English": "obedient",
-                "Persian": "اطاعت کننده",
-                "Nepali": "आज्ञाकारी",
-                "Indonesian": "taat",
-                "Filipino": "masunurin",
-                "Vietnamese": "vâng lời",
-                "Burmese": "အသိပေးသော",
-                "Korean": "순종하는",
-                "Hindi": "आज्ञाकारी",
-                "Arabic": "مطيع",
-                "French": "obéissant",
-                "Spanish": "obediente",
-                "Chinese": "顺从的",
-                "Bengali": "বাদ্যশীল"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "honest",
                 "frank",
                 "upfront"
             ],
-            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-            "translation": {
-                "Japanese": "素直",
-                "English": "honest",
-                "Persian": "صادق",
-                "Nepali": "इमानदार",
-                "Indonesian": "jujur",
-                "Filipino": "tapat",
-                "Vietnamese": "thành thật",
-                "Burmese": "ရယ်ယွားတယ်",
-                "Korean": "솔직한",
-                "Hindi": "ईमानदार",
-                "Arabic": "صادق",
-                "French": "honnête",
-                "Spanish": "honesto",
-                "Chinese": "诚实",
-                "Bengali": "সৎ"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "straight"
             ],
-            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-            "translation": {
-                "Japanese": "素直",
-                "English": "straight",
-                "Persian": "راست",
-                "Nepali": "सिधा",
-                "Indonesian": "lurus",
-                "Filipino": "tuwid",
-                "Vietnamese": "thẳng",
-                "Burmese": "တိုက်ရိုက်",
-                "Korean": "직선",
-                "Hindi": "सीधा",
-                "Arabic": "مستقيم",
-                "French": "droit",
-                "Spanish": "recto",
-                "Chinese": "直的",
-                "Bengali": "সোজা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "without peculiarity",
                 "without mannerisms",
                 "standard",
                 "neat"
-            ],
-            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-            "translation": {
-                "Japanese": "素直",
-                "English": "without peculiarity",
-                "Persian": "بدون ویژگی خاص",
-                "Nepali": "विशेषता बिना",
-                "Indonesian": "tanpa keanehan",
-                "Filipino": "walang kakaibang katangian",
-                "Vietnamese": "không có đặc điểm riêng",
-                "Burmese": "ကန့်သတ်သောအရာမရှိ",
-                "Korean": "특이함 없이",
-                "Hindi": "विशेषता के बिना",
-                "Arabic": "بدون خصائص",
-                "French": "sans particularité",
-                "Spanish": "sin peculiaridad",
-                "Chinese": "没有独特性",
-                "Bengali": "বিশিষ্টতা ছাড়াই"
+            ]
+        ],
+        "meaning_translations": {
+            "obedient": {
+                "EN": "obedient",
+                "ID": "taat",
+                "ES": "obediente",
+                "VI": "vâng lời",
+                "FR": "obéissant",
+                "NE": "आज्ञाकारी",
+                "BN": "বাদ্যশীল",
+                "ZH": "顺从的",
+                "KO": "순종하는",
+                "TL": "masunurin",
+                "MY": "အသိပေးသော",
+                "HI": "आज्ञाकारी",
+                "AR": "مطيع",
+                "FA": "اطاعت کننده"
+            },
+            "honest": {
+                "EN": "honest",
+                "ID": "jujur",
+                "ES": "honesto",
+                "VI": "thành thật",
+                "FR": "honnête",
+                "NE": "इमानदार",
+                "BN": "সৎ",
+                "ZH": "诚实",
+                "KO": "솔직한",
+                "TL": "tapat",
+                "MY": "ရယ်ယွားတယ်",
+                "HI": "ईमानदार",
+                "AR": "صادق",
+                "FA": "صادق"
+            },
+            "straight": {
+                "EN": "straight",
+                "ID": "lurus",
+                "ES": "recto",
+                "VI": "thẳng",
+                "FR": "droit",
+                "NE": "सिधा",
+                "BN": "সোজা",
+                "ZH": "直的",
+                "KO": "직선",
+                "TL": "tuwid",
+                "MY": "တိုက်ရိုက်",
+                "HI": "सीधा",
+                "AR": "مستقيم",
+                "FA": "راست"
+            },
+            "without peculiarity": {
+                "EN": "without peculiarity",
+                "ID": "tanpa keanehan",
+                "ES": "sin peculiaridad",
+                "VI": "không có đặc điểm riêng",
+                "FR": "sans particularité",
+                "NE": "विशेषता बिना",
+                "BN": "বিশিষ্টতা ছাড়াই",
+                "ZH": "没有独特性",
+                "KO": "특이함 없이",
+                "TL": "walang kakaibang katangian",
+                "MY": "ကန့်သတ်သောအရာမရှိ",
+                "HI": "विशेषता के बिना",
+                "AR": "بدون خصائص",
+                "FA": "بدون ویژگی خاص"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "素直な気持ちを伝えました。",
+                "furigana": "素直(すなお)な気持(きも)ちを伝(つた)えました。",
+                "translations": {
+                    "EN": "I conveyed my honest feelings.",
+                    "ID": "Saya menyampaikan perasaan tulus saya.",
+                    "ES": "Transmití mis sentimientos sinceros.",
+                    "VI": "Tôi đã truyền đạt cảm xúc chân thành của mình.",
+                    "FR": "J'ai exprimé mes sentiments sincères.",
+                    "NE": "मैले मेरो इमानदार भावना व्यक्त गरेँ।",
+                    "BN": "আমি আমার সৎ অনুভূতিটি প্রকাশ করেছি.",
+                    "ZH": "我表达了我诚实的感情。",
+                    "KO": "나는 내 솔직한 감정을 전했다.",
+                    "TL": "Ipinaabot ko ang aking tapat na nararamdamin.",
+                    "MY": "ကျွန်ုပ်၏၀န်ခံရသောခံစားချက်ကို အသိပေးခဲ့သည်။",
+                    "HI": "मैंने अपनी ईमानदार भावनाएँ व्यक्त कीं।",
+                    "AR": "لقد نقلت مشاعري الصادقة.",
+                    "FA": "احساسات صادقانه‌ام را منتقل کردم."
+                }
+            },
+            {
+                "kanji": "私は素直に言う。",
+                "furigana": "私は(わたしは)素直(すなお)に言う(いう)。",
+                "translations": {
+                    "EN": "I say it honestly.",
+                    "ID": "Saya mengatakannya dengan jujur.",
+                    "ES": "Lo digo honestamente.",
+                    "VI": "Tôi nói một cách thẳng thắn.",
+                    "FR": "Je le dis honnêtement.",
+                    "NE": "मैले सिधै भन्छु।",
+                    "BN": "আমি সরলভাবে বলি।",
+                    "ZH": "我坦率地说。",
+                    "KO": "나는 솔직하게 말해요.",
+                    "TL": "Sinasabi ko ito nang tapat.",
+                    "MY": "ကျွန်တော့ စနေနဲ့ ပြောပါတယ်။",
+                    "HI": "मैं इसे ईमानदारी से कहता हूँ।",
+                    "AR": "أقولها بصراحة.",
+                    "FA": "من صادقانه می‌گویم."
+                }
+            },
+            {
+                "kanji": "彼は素直な性格です。",
+                "furigana": "彼（かれ）は素直（すなお）な性格（せいかく）です。",
+                "translations": {
+                    "EN": "He has a frank personality.",
+                    "ID": "Dia memiliki性格 yang jujur.",
+                    "ES": "Él tiene una personalidad sincera.",
+                    "VI": "Anh ấy có tính cách chân thật.",
+                    "FR": "Il a un caractère franc.",
+                    "NE": "ऊ सरल स्वभावको धनी छ।",
+                    "BN": "তার চরিত্র সরল।",
+                    "ZH": "他有一个诚实的性格。",
+                    "KO": "그는 솔직한 성격을 가지고 있습니다.",
+                    "TL": "Siya ay may tapat na pagkatao.",
+                    "MY": "သူမှာသရုပ်မှတ်ခွင့်ရှိပြီး ဟိုင်ဒီထွက်ရှားခဲ့သည်။",
+                    "HI": "उसका स्वभाव सरल है।",
+                    "AR": "هو يمتلك شخصية صادقة.",
+                    "FA": "او یک شخصیت ساده و صادق دارد."
+                }
+            },
+            {
+                "kanji": "彼は素直に従う。",
+                "furigana": "彼(かれ)は素直(すなお)に従(したが)う。",
+                "translations": {
+                    "EN": "He follows honestly.",
+                    "ID": "Dia mengikuti dengan jujur.",
+                    "ES": "Él sigue honestamente.",
+                    "VI": "Anh ấy tuân theo một cách chân thành.",
+                    "FR": "Il suit honnêtement.",
+                    "NE": "उ सोझा रूपमा अनुसरण गर्दछ।",
+                    "BN": "সে সৎভাবে অনুসরণ করে।",
+                    "ZH": "他诚实地跟随。",
+                    "KO": "그는 솔직하게 따릅니다.",
+                    "TL": "Sumusunod siya nang tapat.",
+                    "MY": "သူသည် ရင်ခုန်လျှင် လိုက်နာပါတယ်။",
+                    "HI": "वह ईमानदारी से पालन करता है।",
+                    "AR": "هو يتبع بصدق.",
+                    "FA": "او به راحتی پیروی می کند."
+                }
+            },
+            {
+                "kanji": "彼は素直な反応を示した。",
+                "furigana": "彼(かれ)は素直(すなお)な反応(はんのう)を示(しめ)した。",
+                "translations": {
+                    "EN": "He showed a sincere reaction.",
+                    "ID": "Dia menunjukkan reaksi yang tulus.",
+                    "ES": "Él mostró una reacción sincera.",
+                    "VI": "Anh ấy đã thể hiện một phản ứng chân thành.",
+                    "FR": "Il a montré une réaction sincère.",
+                    "NE": "उसले एक सरल प्रतिक्रिया देखायो।",
+                    "BN": "সে একটি সৎ প্রতিক্রিয়া দেখিয়েছে。",
+                    "ZH": "他表现出了一个真诚的反应。",
+                    "KO": "그는 솔직한 반응을 보였다.",
+                    "TL": "Ipinakita niya ang isang taos-pusong reaksyon.",
+                    "MY": "သူက လေးစားသော တုံ့ပြန်မှုကို ပြသခဲ့သည်။",
+                    "HI": "उन्होंने एक ईमानदार प्रतिक्रिया दिखाई।",
+                    "AR": "أظهر ردة فعل صادقة.",
+                    "FA": "او یک واکنش صادقانه نشان داد."
+                }
+            }
+        ],
+        "synonyms": [
+            "純真 : じゅんしん : pure",
+            "率直 : そっちょく : frank"
+        ],
+        "synonyms_explanation": "The most common synonyms of すなお are じゅんしん and そっちょく. じゅんしん means pure or innocent, often used to describe someone who is naive or untainted by experiences. In contrast, そっちょく means frank or candid, and is used when someone speaks plainly, often without concern for politeness. While both suggest honesty, じゅんしん leans more towards innocence, while そっちょく emphasizes directness.",
+        "antonyms": [
+            "不誠実 : ふせいじつ : insincerity",
+            "ひねくれ者 : ひねくれもの : contrary person"
+        ],
+        "antonyms_explanation": "The most common antonyms of すなお are ふせいじつ and ひねくれ. ふせいじつ means dishonest or insincere, describing someone who hides their true intentions or feelings. ひねくれ means cynical or twisted, often referring to someone who has a jaded or negative outlook, making them distrustful of straightforwardness. These words highlight a lack of honesty or openness, contrasting sharply with すなお.",
+        "kanji_details": [
+            {
+                "kanji": "素",
+                "common_words": [
+                    "素材: ingredient",
+                    "素顔: face with no make-up"
+                ]
+            },
+            {
+                "kanji": "直",
+                "common_words": [
+                    "直接: direct",
+                    "治す: to repair"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "素直",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "素直",
+                "reading": "すなお"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "obedient",
+                    "meek",
+                    "docile",
+                    "unaffected"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "honest",
+                    "frank",
+                    "upfront"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "straight"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "without peculiarity",
+                    "without mannerisms",
+                    "standard",
+                    "neat"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "素",
+        "直"
     ],
-    "kanjis": [
-        {
-            "kanji": "素",
+    "kanji_data": {
+        "素": {
             "meanings": [
                 "elementary",
                 "naked",
                 "principle",
                 "uncovered"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ス",
                 "ソ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "もと"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 1,
-            "frequency": 660,
+            "freq_mainichi_shinbun": 660,
             "unicode": "7D20",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "素材",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "そざい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "ingredient",
-                                " material",
-                                "resource"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "unprocessed timber",
-                                "raw timber"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "subject matter",
-                                "topic"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "素顔",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "すがお",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "face with no make-up",
-                                "unpainted face"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "true face",
-                                "real face",
-                                "true picture",
-                                "real nature"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "sober face",
-                                "sobriety"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         },
-        {
-            "kanji": "直",
+        "直": {
             "meanings": [
                 "fix",
                 "frankness",
@@ -226,12 +346,12 @@
                 "repair",
                 "straightaway"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ジカ",
                 "ジキ",
                 "チョク"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-なお.す",
                 "す.ぐ",
                 "ただ.ちに",
@@ -239,376 +359,18 @@
                 "なお.す",
                 "なお.る"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 3,
-            "frequency": 246,
+            "freq_mainichi_shinbun": 246,
             "unicode": "76F4",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "直接",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ちょくせつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "direct",
-                                "immediate",
-                                "personal",
-                                "firsthand"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun, Noun which may take the genitive case particle 'no', Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "治す",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "なおす",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to repair",
-                                "to mend",
-                                "to fix",
-                                "to correct",
-                                "to put right",
-                                "to restore",
-                                "to straighten",
-                                "to tidy up",
-                                "to revive"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to change",
-                                "to alter",
-                                "to convert",
-                                "to translate"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to put back",
-                                "to put away"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to cure",
-                                "to heal"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to move up",
-                                "to promote"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to do over again",
-                                "to redo"
-                            ],
-                            "part_of_speech": "Suffix, Godan verb with 'su' ending",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4",
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means element or plain, the sense of something natural and unadorned. It shows up in そざい, material, where it gives the idea of basic or raw matter. It also appears in すがお, a bare face, carrying the sense of being plain or without decoration. The second kanji means straight or direct and can also mean to fix or be honest. In ちょくせつ, direct, it keeps the idea of going straight without intermediaries. In なおす, to fix, it brings the nuance of correcting something back to a straight or proper state.",
-    "explanations": {
-        "explanation": "The word すなお means honest, straightforward, or obedient. It describes someone who is frank and does not hide their feelings or thoughts.",
-        "youtube_description": "Learn how to use the Japanese word すなお in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this video is すなお which you will often hear in conversations about personality traits. Imagine how much more natural your Japanese will sound when you can say things like \"She is honest with her feelings,\" \"I appreciate your straightforwardness,\" and \"He is obedient to his parents\" in Japanese. Let's get started!",
-        "collocations": [
-            "素直な気持ち (すなおなきもち)",
-            "素直に言う (すなおにいう)",
-            "素直な性格 (すなおなせいかく)",
-            "素直に従う (すなおにしたがう)",
-            "素直な反応 (すなおなはんのう)"
-        ],
-        "synonyms": [
-            "純真",
-            "率直"
-        ],
-        "synonyms_explanation": "The most common synonyms of すなお are じゅんしん and そっちょく. じゅんしん means pure or innocent, often used to describe someone who is naive or untainted by experiences. In contrast, そっちょく means frank or candid, and is used when someone speaks plainly, often without concern for politeness. While both suggest honesty, じゅんしん leans more towards innocence, while そっちょく emphasizes directness.",
-        "antonyms": [
-            "不誠実",
-            "ひねくれ"
-        ],
-        "antonyms_explanation": "The most common antonyms of すなお are ふせいじつ and ひねくれ. ふせいじつ means dishonest or insincere, describing someone who hides their true intentions or feelings. ひねくれ means cynical or twisted, often referring to someone who has a jaded or negative outlook, making them distrustful of straightforwardness. These words highlight a lack of honesty or openness, contrasting sharply with すなお."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n2"
-    ],
-    "examples": [
-        {
-            "kanji": "素直な気持ちを伝えました。",
-            "furigana": "素直(すなお)な気持(きも)ちを伝(つた)えました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "素直な気持ちを伝えました。",
-                "English": "I conveyed my honest feelings.",
-                "Persian": "احساسات صادقانه‌ام را منتقل کردم.",
-                "Nepali": "मैले मेरो इमानदार भावना व्यक्त गरेँ।",
-                "Indonesian": "Saya menyampaikan perasaan tulus saya.",
-                "Filipino": "Ipinaabot ko ang aking tapat na nararamdamin.",
-                "Vietnamese": "Tôi đã truyền đạt cảm xúc chân thành của mình.",
-                "Burmese": "ကျွန်ုပ်၏၀န်ခံရသောခံစားချက်ကို အသိပေးခဲ့သည်။",
-                "Korean": "나는 내 솔직한 감정을 전했다.",
-                "Hindi": "मैंने अपनी ईमानदार भावनाएँ व्यक्त कीं।",
-                "Arabic": "لقد نقلت مشاعري الصادقة.",
-                "French": "J'ai exprimé mes sentiments sincères.",
-                "Spanish": "Transmití mis sentimientos sinceros.",
-                "Chinese": "我表达了我诚实的感情。",
-                "Bengali": "আমি আমার সৎ অনুভূতিটি প্রকাশ করেছি."
-            }
-        },
-        {
-            "kanji": "私は素直に言う。",
-            "furigana": "私は(わたしは)素直(すなお)に言う(いう)。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は素直に言う。",
-                "English": "I say it honestly.",
-                "Persian": "من صادقانه می‌گویم.",
-                "Nepali": "मैले सिधै भन्छु।",
-                "Indonesian": "Saya mengatakannya dengan jujur.",
-                "Filipino": "Sinasabi ko ito nang tapat.",
-                "Vietnamese": "Tôi nói một cách thẳng thắn.",
-                "Burmese": "ကျွန်တော့ စနေနဲ့ ပြောပါတယ်။",
-                "Korean": "나는 솔직하게 말해요.",
-                "Hindi": "मैं इसे ईमानदारी से कहता हूँ।",
-                "Arabic": "أقولها بصراحة.",
-                "French": "Je le dis honnêtement.",
-                "Spanish": "Lo digo honestamente.",
-                "Chinese": "我坦率地说。",
-                "Bengali": "আমি সরলভাবে বলি।"
-            }
-        },
-        {
-            "kanji": "彼は素直な性格です。",
-            "furigana": "彼（かれ）は素直（すなお）な性格（せいかく）です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は素直な性格です。",
-                "English": "He has a frank personality.",
-                "Persian": "او یک شخصیت ساده و صادق دارد.",
-                "Nepali": "ऊ सरल स्वभावको धनी छ।",
-                "Indonesian": "Dia memiliki性格 yang jujur.",
-                "Filipino": "Siya ay may tapat na pagkatao.",
-                "Vietnamese": "Anh ấy có tính cách chân thật.",
-                "Burmese": "သူမှာသရုပ်မှတ်ခွင့်ရှိပြီး ဟိုင်ဒီထွက်ရှားခဲ့သည်။",
-                "Korean": "그는 솔직한 성격을 가지고 있습니다.",
-                "Hindi": "उसका स्वभाव सरल है।",
-                "Arabic": "هو يمتلك شخصية صادقة.",
-                "French": "Il a un caractère franc.",
-                "Spanish": "Él tiene una personalidad sincera.",
-                "Chinese": "他有一个诚实的性格。",
-                "Bengali": "তার চরিত্র সরল।"
-            }
-        },
-        {
-            "kanji": "彼は素直に従う。",
-            "furigana": "彼(かれ)は素直(すなお)に従(したが)う。",
-            "difficulty": 3,
-            "translation": {
-                "Japanese": "彼は素直に従う。",
-                "English": "He follows honestly.",
-                "Persian": "او به راحتی پیروی می کند.",
-                "Nepali": "उ सोझा रूपमा अनुसरण गर्दछ।",
-                "Indonesian": "Dia mengikuti dengan jujur.",
-                "Filipino": "Sumusunod siya nang tapat.",
-                "Vietnamese": "Anh ấy tuân theo một cách chân thành.",
-                "Burmese": "သူသည် ရင်ခုန်လျှင် လိုက်နာပါတယ်။",
-                "Korean": "그는 솔직하게 따릅니다.",
-                "Hindi": "वह ईमानदारी से पालन करता है।",
-                "Arabic": "هو يتبع بصدق.",
-                "French": "Il suit honnêtement.",
-                "Spanish": "Él sigue honestamente.",
-                "Chinese": "他诚实地跟随。",
-                "Bengali": "সে সৎভাবে অনুসরণ করে।"
-            }
-        },
-        {
-            "kanji": "彼は素直な反応を示した。",
-            "furigana": "彼(かれ)は素直(すなお)な反応(はんのう)を示(しめ)した。",
-            "difficulty": 3,
-            "translation": {
-                "Japanese": "彼は素直な反応を示した。",
-                "English": "He showed a sincere reaction.",
-                "Persian": "او یک واکنش صادقانه نشان داد.",
-                "Nepali": "उसले एक सरल प्रतिक्रिया देखायो।",
-                "Indonesian": "Dia menunjukkan reaksi yang tulus.",
-                "Filipino": "Ipinakita niya ang isang taos-pusong reaksyon.",
-                "Vietnamese": "Anh ấy đã thể hiện một phản ứng chân thành.",
-                "Burmese": "သူက လေးစားသော တုံ့ပြန်မှုကို ပြသခဲ့သည်။",
-                "Korean": "그는 솔직한 반응을 보였다.",
-                "Hindi": "उन्होंने एक ईमानदार प्रतिक्रिया दिखाई।",
-                "Arabic": "أظهر ردة فعل صادقة.",
-                "French": "Il a montré une réaction sincère.",
-                "Spanish": "Él mostró una reacción sincera.",
-                "Chinese": "他表现出了一个真诚的反应。",
-                "Bengali": "সে একটি সৎ প্রতিক্রিয়া দেখিয়েছে。"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "純真",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "じゅんしん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "pure",
-                        "innocent",
-                        "naive",
-                        "unspoilt",
-                        "pure-hearted",
-                        "ingenuous"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "率直",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "そっちょく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "frank",
-                        "candid",
-                        "straightforward",
-                        "openhearted",
-                        "direct",
-                        "outspoken"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2",
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "不誠実",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ふせいじつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "insincerity",
-                        "dishonesty",
-                        "untruthfulness",
-                        "bad faith"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "ひねくれ者",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ひねくれもの",
-            "meanings": [
-                {
-                    "neuances": [
-                        "contrary person",
-                        "sourpuss",
-                        "dog-in-the-manger"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "素直な気持ち (すなおなきもち)",
+        "素直に言う (すなおにいう)",
+        "素直な性格 (すなおなせいかく)",
+        "素直に従う (すなおにしたがう)",
+        "素直な反応 (すなおなはんのう)"
     ]
 }

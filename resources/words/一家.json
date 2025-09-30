@@ -1,222 +1,283 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "一家",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/0fvYUpo0I-Y",
     "in_db": true,
-    "reading": "いっか",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "一家",
+        "reading": "いっか",
+        "introduction_japanese": "",
+        "introduction_english": "Let's dive into the usage of \"いっか\", a term you might come across in conversations about family dynamics over dinner or when talking about household compositions. ",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"いっか\" means \"a family\" or \"household.\" It is used to refer to a whole family unit living together in one residence. Additionally, it can imply a household seen in terms of its members as a unit. ",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "a family",
                 "a household",
                 "a home",
                 "one's family",
                 "whole family"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "一家",
-                "English": "a family",
-                "Persian": "یک خانواده",
-                "Nepali": "एक परिवार",
-                "Indonesian": "sebuah keluarga",
-                "Filipino": "isang pamilya",
-                "Vietnamese": "một gia đình",
-                "Burmese": "မိသားစုတစ်စု",
-                "Korean": "가족",
-                "Hindi": "एक परिवार",
-                "Arabic": "عائلة",
-                "French": "une famille",
-                "Spanish": "una familia",
-                "Chinese": "一家",
-                "Bengali": "একটি পরিবার"
-            }
-        },
-        {
-            "neuances": [
+            [
                 " style",
                 "school"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "スタイル",
-                "English": "Style",
-                "Persian": "سبک",
-                "Nepali": "शैली",
-                "Indonesian": "Gaya",
-                "Filipino": "Estilo",
-                "Vietnamese": "Phong cách",
-                "Burmese": "စတိုင်",
-                "Korean": "스타일",
-                "Hindi": "शैली",
-                "Arabic": "نمط",
-                "French": "Style",
-                "Spanish": "Estilo",
-                "Chinese": "风格",
-                "Bengali": "স্টাইল"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "gang",
                 " family"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "一家",
-                "English": "gang",
-                "Persian": "گروه",
-                "Nepali": "गैंग",
-                "Indonesian": "geng",
-                "Filipino": "gang",
-                "Vietnamese": "băng nhóm",
-                "Burmese": "အဖွဲ့",
-                "Korean": "갱",
-                "Hindi": "गैंग",
-                "Arabic": "عصابة",
-                "French": "gang",
-                "Spanish": "pandilla",
-                "Chinese": "帮派",
-                "Bengali": "গ্যাং"
+            ]
+        ],
+        "meaning_translations": {
+            "a family": {
+                "EN": "a family",
+                "ID": "sebuah keluarga",
+                "ES": "una familia",
+                "VI": "một gia đình",
+                "FR": "une famille",
+                "NE": "एक परिवार",
+                "BN": "একটি পরিবার",
+                "ZH": "一家",
+                "KO": "가족",
+                "TL": "isang pamilya",
+                "MY": "မိသားစုတစ်စု",
+                "HI": "एक परिवार",
+                "AR": "عائلة",
+                "FA": "یک خانواده"
+            },
+            " style": {
+                "EN": "Style",
+                "ID": "Gaya",
+                "ES": "Estilo",
+                "VI": "Phong cách",
+                "FR": "Style",
+                "NE": "शैली",
+                "BN": "স্টাইল",
+                "ZH": "风格",
+                "KO": "스타일",
+                "TL": "Estilo",
+                "MY": "စတိုင်",
+                "HI": "शैली",
+                "AR": "نمط",
+                "FA": "سبک"
+            },
+            "gang": {
+                "EN": "gang",
+                "ID": "geng",
+                "ES": "pandilla",
+                "VI": "băng nhóm",
+                "FR": "gang",
+                "NE": "गैंग",
+                "BN": "গ্যাং",
+                "ZH": "帮派",
+                "KO": "갱",
+                "TL": "gang",
+                "MY": "အဖွဲ့",
+                "HI": "गैंग",
+                "AR": "عصابة",
+                "FA": "گروه"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "彼の一家はパーティへ行った。",
+                "furigana": "彼(かれ)の一家(いっか)はパーティへ行った。",
+                "translations": {
+                    "EN": "His family went to the party.",
+                    "ID": "Keluarganya pergi ke pesta.",
+                    "ES": "Su familia fue a la fiesta.",
+                    "VI": "Gia đình anh ấy đã đi dự tiệc.",
+                    "FR": "Sa famille est allée à la fête.",
+                    "NE": "उनको परिवार पार्टीमा गए।",
+                    "BN": "তার পরিবার পার্টিতে গিয়েছিল।",
+                    "ZH": "他的家庭去参加聚会了。",
+                    "KO": "그의 가족은 파티에 갔다.",
+                    "TL": "Pumunta ang kanyang pamilya sa party.",
+                    "MY": "သူ၏မိသားစုသည်ပါတီသို့သွားသည်။",
+                    "HI": "उनका परिवार पार्टी में गया।",
+                    "AR": "ذهبَت أُسرته إلى الحفل.",
+                    "FA": "خانواده او به مهمانی رفتند."
+                }
+            },
+            {
+                "kanji": "昨晩は一家団欒でした。",
+                "furigana": "昨晩(さくばん)は一家(いっか)団欒(だんらん)でした。",
+                "translations": {
+                    "EN": "Last night, it was a family gathering.",
+                    "ID": "Tadi malam, ada pertemuan keluarga.",
+                    "ES": "Anoche fue una reunión familiar.",
+                    "VI": "Tối qua, có buổi sum họp gia đình.",
+                    "FR": "Hier soir, c'était un rassemblement familial.",
+                    "NE": "हिजो राति, यो एक पारिवारिक सभा थियो।",
+                    "BN": "গত রাতে, এটি ছিল একটি পারিবারিক সমাবেশ।",
+                    "ZH": "昨晚是一家人团聚。",
+                    "KO": "어제 저녁에는 가족단란이었습니다.",
+                    "TL": "Kagabi, nagkaroon ng pagtitipon ng pamilya.",
+                    "MY": "မနေ့ညက မိသားစုအိမ်စည်းလုပ်ခဲ့ပါတယ်။",
+                    "HI": "कल रात, यह एक पारिवारिक सभा थी।",
+                    "AR": "كانت ليلة أمس تجمع عائلي.",
+                    "FA": "شب گذشته، یک گردهمایی خانوادگی بود."
+                }
+            },
+            {
+                "kanji": "私たちは一家旅行に行きます。",
+                "furigana": "私(わたし)たちは一家(いっか)旅行(りょこう)に行(い)きます。",
+                "translations": {
+                    "EN": "We are going on a family trip.",
+                    "ID": "Kami akan pergi berlibur bersama keluarga.",
+                    "ES": "Vamos de viaje familiar.",
+                    "VI": "Chúng tôi đi du lịch gia đình.",
+                    "FR": "Nous partons en voyage en famille.",
+                    "NE": "हामी परिवारिक यात्रा गर्दैछौं।",
+                    "BN": "আমরা পরিবার নিয়ে ভ্রমণে যাচ্ছি।",
+                    "ZH": "我们要去家庭旅行。",
+                    "KO": "우리는 가족여행을 갑니다.",
+                    "TL": "Pupunta kami sa isang paglalakbay ng pamilya.",
+                    "MY": "ကျွန်ုပ်တို့သည် မိသားစုခရီးသွားပါသည်။",
+                    "HI": "हम पारिवारिक यात्रा पर जा रहे हैं।",
+                    "AR": "نحن ذاهبون في رحلة عائلية.",
+                    "FA": "ما به سفر خانوادگی می‌رویم."
+                }
+            },
+            {
+                "kanji": "彼らは一家です。",
+                "furigana": "彼(かれ)らは一(いっ)家(か)です。",
+                "translations": {
+                    "EN": "They are a family.",
+                    "ID": "Mereka adalah satu keluarga.",
+                    "ES": "Ellos son una familia.",
+                    "VI": "Họ là một gia đình.",
+                    "FR": "Ils sont une famille.",
+                    "NE": "उनीहरु एउटा परिवार हुन्।",
+                    "BN": "তারা একটি পরিবার।",
+                    "ZH": "他们是一家。",
+                    "KO": "그들은 한 가족입니다.",
+                    "TL": "Sila ay isang pamilya.",
+                    "MY": "သူတို့သည် မိသားစုတစ်ခုဖြစ်သည်။",
+                    "HI": "वे एक परिवार हैं।",
+                    "AR": "إنهم عائلة واحدة.",
+                    "FA": "آنها یک خانواده هستند."
+                }
+            }
+        ],
+        "synonyms": [
+            "家庭 : かてい : home"
+        ],
+        "synonyms_explanation": "The most common synonym of the word \"いっか\" is \"かてい,\" which also represents a family or household. However, \"かてい\" is often used specifically to emphasize the domestic aspect or home life of the group.",
+        "antonyms": [
+            "単身 : たんしん : alone"
+        ],
+        "antonyms_explanation": "The most common antonym of the word \"いっか\" is \"たんしん,\" which means \"single\" or \"living alone.\" While \"いっか\" emphasizes a group living together, \"たんしん\" highlights the absence of such a group, focusing on a solitary lifestyle.",
+        "kanji_details": [
+            {
+                "kanji": "一",
+                "common_words": [
+                    "一人: one person",
+                    "一緒:  together"
+                ]
+            },
+            {
+                "kanji": "家",
+                "common_words": [
+                    "家族: family",
+                    "家庭: home"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "一家",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "一家",
+                "reading": "いっか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "a family",
+                    "a household",
+                    "a home",
+                    "one's family",
+                    "whole family"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    " style",
+                    "school"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "gang",
+                    " family"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "一",
+        "家"
     ],
-    "kanjis": [
-        {
-            "kanji": "一",
+    "kanji_data": {
+        "一": {
             "meanings": [
                 "one",
                 "one radical (no.1)"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イチ",
                 "イツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ひと-",
                 "ひと.つ"
             ],
-            "strokes": 1,
+            "stroke_count": 1,
             "jlpt": 5,
-            "frequency": 2,
+            "freq_mainichi_shinbun": 2,
             "unicode": "4E00",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "一人",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひとり",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "one person"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "being alone",
-                                "being by oneself"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "being single",
-                                "being unmarried"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "by oneself",
-                                "alone"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "just",
-                                "only",
-                                "simply"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3",
-                        "jlpt-n1",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "一緒",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "いっしょ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                " together"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "one lump",
-                                "one mixture",
-                                "the same category"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "the same",
-                                "identical"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no', Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                " the same time"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "家",
+        "家": {
             "meanings": [
                 "expert",
                 "family",
@@ -225,253 +286,26 @@
                 "performer",
                 "professional"
             ],
-            "onyomi": [
+            "on_readings": [
                 "カ",
                 "ケ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "いえ",
                 "うち",
                 "や"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 4,
-            "frequency": 133,
+            "freq_mainichi_shinbun": 133,
             "unicode": "5BB6",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "家族",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かぞく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "family"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "家庭",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かてい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "home",
-                                "household",
-                                "family",
-                                "hearth"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means one, like a single unit or the number one. You see it in words like ひとり meaning a single person or alone, where the idea of one is clear, and in いっしょ meaning together, where the notion of 'one group' or unity comes through. The second kanji means house or home and also extends to family and household ideas. It appears in かぞく meaning family, showing the home-related sense, and in かてい meaning household or home life, where the kanji gives the sense of the domestic place and relationships.",
-    "explanations": {
-        "explanation": "The word \"いっか\" means \"a family\" or \"household.\" It is used to refer to a whole family unit living together in one residence. Additionally, it can imply a household seen in terms of its members as a unit. ",
-        "youtube_description": "Discover the meaning and usage of the Japanese word 家族 (いっか) in this video! Dive deep into its various contexts, kanji breakdowns, and how to employ it in daily Japanese conversations. Perfect for anyone keen on expanding their vocabulary. Don't forget to like, comment, and subscribe for more enriching language lessons!",
-        "motivation": "Let's dive into the usage of \"いっか\", a term you might come across in conversations about family dynamics over dinner or when talking about household compositions. ",
-        "collocations": [
-            "いっかずれ",
-            "いっかだんらん",
-            "いっかりょこう",
-            "いっかいっか"
-        ],
-        "synonyms": [
-            "家庭"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"いっか\" is \"かてい,\" which also represents a family or household. However, \"かてい\" is often used specifically to emphasize the domestic aspect or home life of the group.",
-        "antonyms": [
-            "単身"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"いっか\" is \"たんしん,\" which means \"single\" or \"living alone.\" While \"いっか\" emphasizes a group living together, \"たんしん\" highlights the absence of such a group, focusing on a solitary lifestyle."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "彼の一家はパーティへ行った。",
-            "furigana": "彼(かれ)の一家(いっか)はパーティへ行った。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼の一家はパーティへ行った。",
-                "English": "His family went to the party.",
-                "Persian": "خانواده او به مهمانی رفتند.",
-                "Nepali": "उनको परिवार पार्टीमा गए।",
-                "Indonesian": "Keluarganya pergi ke pesta.",
-                "Filipino": "Pumunta ang kanyang pamilya sa party.",
-                "Vietnamese": "Gia đình anh ấy đã đi dự tiệc.",
-                "Burmese": "သူ၏မိသားစုသည်ပါတီသို့သွားသည်။",
-                "Korean": "그의 가족은 파티에 갔다.",
-                "Hindi": "उनका परिवार पार्टी में गया।",
-                "Arabic": "ذهبَت أُسرته إلى الحفل.",
-                "French": "Sa famille est allée à la fête.",
-                "Spanish": "Su familia fue a la fiesta.",
-                "Chinese": "他的家庭去参加聚会了。",
-                "Bengali": "তার পরিবার পার্টিতে গিয়েছিল।"
-            }
-        },
-        {
-            "kanji": "昨晩は一家団欒でした。",
-            "furigana": "昨晩(さくばん)は一家(いっか)団欒(だんらん)でした。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "昨晩は一家団欒でした。",
-                "English": "Last night, it was a family gathering.",
-                "Persian": "شب گذشته، یک گردهمایی خانوادگی بود.",
-                "Nepali": "हिजो राति, यो एक पारिवारिक सभा थियो।",
-                "Indonesian": "Tadi malam, ada pertemuan keluarga.",
-                "Filipino": "Kagabi, nagkaroon ng pagtitipon ng pamilya.",
-                "Vietnamese": "Tối qua, có buổi sum họp gia đình.",
-                "Burmese": "မနေ့ညက မိသားစုအိမ်စည်းလုပ်ခဲ့ပါတယ်။",
-                "Korean": "어제 저녁에는 가족단란이었습니다.",
-                "Hindi": "कल रात, यह एक पारिवारिक सभा थी।",
-                "Arabic": "كانت ليلة أمس تجمع عائلي.",
-                "French": "Hier soir, c'était un rassemblement familial.",
-                "Spanish": "Anoche fue una reunión familiar.",
-                "Chinese": "昨晚是一家人团聚。",
-                "Bengali": "গত রাতে, এটি ছিল একটি পারিবারিক সমাবেশ।"
-            }
-        },
-        {
-            "kanji": "私たちは一家旅行に行きます。",
-            "furigana": "私(わたし)たちは一家(いっか)旅行(りょこう)に行(い)きます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私たちは一家旅行に行きます。",
-                "English": "We are going on a family trip.",
-                "Persian": "ما به سفر خانوادگی می‌رویم.",
-                "Nepali": "हामी परिवारिक यात्रा गर्दैछौं।",
-                "Indonesian": "Kami akan pergi berlibur bersama keluarga.",
-                "Filipino": "Pupunta kami sa isang paglalakbay ng pamilya.",
-                "Vietnamese": "Chúng tôi đi du lịch gia đình.",
-                "Burmese": "ကျွန်ုပ်တို့သည် မိသားစုခရီးသွားပါသည်။",
-                "Korean": "우리는 가족여행을 갑니다.",
-                "Hindi": "हम पारिवारिक यात्रा पर जा रहे हैं।",
-                "Arabic": "نحن ذاهبون في رحلة عائلية.",
-                "French": "Nous partons en voyage en famille.",
-                "Spanish": "Vamos de viaje familiar.",
-                "Chinese": "我们要去家庭旅行。",
-                "Bengali": "আমরা পরিবার নিয়ে ভ্রমণে যাচ্ছি।"
-            }
-        },
-        {
-            "kanji": "彼らは一家です。",
-            "furigana": "彼(かれ)らは一(いっ)家(か)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼らは一家です。",
-                "English": "They are a family.",
-                "Persian": "آنها یک خانواده هستند.",
-                "Nepali": "उनीहरु एउटा परिवार हुन्।",
-                "Indonesian": "Mereka adalah satu keluarga.",
-                "Filipino": "Sila ay isang pamilya.",
-                "Vietnamese": "Họ là một gia đình.",
-                "Burmese": "သူတို့သည် မိသားစုတစ်ခုဖြစ်သည်။",
-                "Korean": "그들은 한 가족입니다.",
-                "Hindi": "वे एक परिवार हैं।",
-                "Arabic": "إنهم عائلة واحدة.",
-                "French": "Ils sont une famille.",
-                "Spanish": "Ellos son una familia.",
-                "Chinese": "他们是一家。",
-                "Bengali": "তারা একটি পরিবার।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "家庭",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "かてい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "home",
-                        "household",
-                        "family",
-                        "hearth"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "単身",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "たんしん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "alone",
-                        "by oneself",
-                        "unaccompanied",
-                        "unaided",
-                        "single-handed",
-                        "without one's family"
-                    ],
-                    "part_of_speech": "Adverb (fukushi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "いっかずれ",
+        "いっかだんらん",
+        "いっかりょこう",
+        "いっかいっか"
     ]
 }

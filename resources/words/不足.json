@@ -1,12 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "不足",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/DGsSpJVLbvU",
     "in_db": true,
-    "reading": "ふそく",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "不足",
+        "reading": "ふそく",
+        "introduction_japanese": "",
+        "introduction_english": "In this lesson, we're diving into the word ふそく! You will often hear this word in contexts where there's not enough of something, such as time, money, or resources. Join us and enhance your vocabulary with expressions relevant to real-life situations!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word ふそく means a lack or shortage. It describes when there is not enough of something, such as resources or supplies, to meet demands or expectations. \n",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "insufficiency",
                 "deficiency",
                 "shortage",
@@ -14,54 +21,234 @@
                 "scarcity",
                 "deficit"
             ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi)",
-            "translation": {
-                "Japanese": "不足",
-                "English": "insufficiency",
-                "Persian": "کمبود",
-                "Nepali": "अभाव",
-                "Indonesian": "kekurangan",
-                "Filipino": "kakulangan",
-                "Vietnamese": "thiếu sót",
-                "Burmese": "မလုံလောက်ခြင်း",
-                "Korean": "부족",
-                "Hindi": "अपर्याप्तता",
-                "Arabic": "نقص",
-                "French": "insuffisance",
-                "Spanish": "insuficiencia",
-                "Chinese": "不足",
-                "Bengali": "অপ্রতুলতা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "dissatisfaction",
                 "discontent",
                 "complaint"
-            ],
-            "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-            "translation": {
-                "Japanese": "不足",
-                "English": "dissatisfaction",
-                "Persian": "نارضایتی",
-                "Nepali": "असन्तोष",
-                "Indonesian": "ketidakpuasan",
-                "Filipino": "kawalang-kasiyahan",
-                "Vietnamese": "sự bất mãn",
-                "Burmese": "မကျေနပ်မှု",
-                "Korean": "불만족",
-                "Hindi": "असंतोष",
-                "Arabic": "عدم الرضا",
-                "French": "insatisfaction",
-                "Spanish": "insatisfacción",
-                "Chinese": "不满",
-                "Bengali": "অসন্তোষ"
+            ]
+        ],
+        "meaning_translations": {
+            "insufficiency": {
+                "EN": "insufficiency",
+                "ID": "kekurangan",
+                "ES": "insuficiencia",
+                "VI": "thiếu sót",
+                "FR": "insuffisance",
+                "NE": "अभाव",
+                "BN": "অপ্রতুলতা",
+                "ZH": "不足",
+                "KO": "부족",
+                "TL": "kakulangan",
+                "MY": "မလုံလောက်ခြင်း",
+                "HI": "अपर्याप्तता",
+                "AR": "نقص",
+                "FA": "کمبود"
+            },
+            "dissatisfaction": {
+                "EN": "dissatisfaction",
+                "ID": "ketidakpuasan",
+                "ES": "insatisfacción",
+                "VI": "sự bất mãn",
+                "FR": "insatisfaction",
+                "NE": "असन्तोष",
+                "BN": "অসন্তোষ",
+                "ZH": "不满",
+                "KO": "불만족",
+                "TL": "kawalang-kasiyahan",
+                "MY": "မကျေနပ်မှု",
+                "HI": "असंतोष",
+                "AR": "عدم الرضا",
+                "FA": "نارضایتی"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "お金が不足します。",
+                "furigana": "お金(かね)が不足(ふそく)します。",
+                "translations": {
+                    "EN": "Money is insufficient.",
+                    "ID": "Uang tidak cukup.",
+                    "ES": "El dinero es insuficiente.",
+                    "VI": "Tiền không đủ.",
+                    "FR": "L'argent est insuffisant.",
+                    "NE": "पैसा अभाव छ।",
+                    "BN": "টাকা অপর্যাপ্ত।",
+                    "ZH": "钱不够。",
+                    "KO": "돈이 부족합니다.",
+                    "TL": "Hindi sapat ang pera.",
+                    "MY": "ငွေလုံလောက်မှုမရှိပါ။",
+                    "HI": "पैसे की कमी है।",
+                    "AR": "المال غير كافٍ.",
+                    "FA": "پول کافی نیست."
+                }
+            },
+            {
+                "kanji": "時間が不足する。",
+                "furigana": "時間(じかん)が不足(ふそく)する。",
+                "translations": {
+                    "EN": "There isn't enough time.",
+                    "ID": "Waktunya tidak cukup.",
+                    "ES": "No hay suficiente tiempo.",
+                    "VI": "Không đủ thời gian.",
+                    "FR": "Il n'y a pas assez de temps.",
+                    "NE": "समय पर्याप्त छैन।",
+                    "BN": "সময় যথেষ্ট নেই।",
+                    "ZH": "时间不够。",
+                    "KO": "시간이 부족하다.",
+                    "TL": "Hindi sapat ang oras.",
+                    "MY": "အချိန်လုံလောက်မှုမရှိပါ။",
+                    "HI": "समय पर्याप्त नहीं है।",
+                    "AR": "لا يوجد وقت كافٍ.",
+                    "FA": "زمان کافی نیست."
+                }
+            },
+            {
+                "kanji": "病院は設備が不足しています。",
+                "furigana": "病院(びょういん)は設備(せつび)が不足(ふそく)しています。",
+                "translations": {
+                    "EN": "The hospital is lacking equipment.",
+                    "ID": "Rumah sakit kekurangan peralatan.",
+                    "ES": "El hospital carece de equipo.",
+                    "VI": "Bệnh viện đang thiếu thiết bị.",
+                    "FR": "L'hôpital manque d'équipement.",
+                    "NE": "हस्पिटलमा उपकरणको कमि छ।",
+                    "BN": "হাসপাতালে সরঞ্জামের অভাব রয়েছে।",
+                    "ZH": "医院设备不足。",
+                    "KO": "병원에 설비가 부족합니다.",
+                    "TL": "Ang ospital ay kulang sa kagamitan.",
+                    "MY": "ဆေးရုံမှာ စက်ပစ္စည်း ရှားပါတယ်။",
+                    "HI": "अस्पताल में उपकरणों की कमी है।",
+                    "AR": "المستشفى يفتقر إلى المعدات.",
+                    "FA": "بیمارستان تجهیزات کمی دارد."
+                }
+            },
+            {
+                "kanji": "この村は人間が不足しています。",
+                "furigana": "この村(むら)は人間(にんげん)が不足(ふそく)しています。",
+                "translations": {
+                    "EN": "This village is lacking people.",
+                    "ID": "Desa ini kekurangan orang.",
+                    "ES": "Este pueblo carece de personas.",
+                    "VI": "Ngôi làng này thiếu người.",
+                    "FR": "Ce village manque de gens.",
+                    "NE": "यो गाउँमा मानिसहरू अभाव छ।",
+                    "BN": "এই গ্রামে মানুষের অভাব আছে।",
+                    "ZH": "这个村庄缺少人。",
+                    "KO": "이 마을은 사람이 부족합니다.",
+                    "TL": "Ang nayon na ito ay kulang sa tao.",
+                    "MY": "ဤရွာတွင် နေထိုင်သူများ မလုံလောက်ပါ။",
+                    "HI": "इस गाँव में लोग कम हैं।",
+                    "AR": "هذه القرية تفتقر إلى الناس.",
+                    "FA": "این روستا فاقد مردم است."
+                }
+            },
+            {
+                "kanji": "水が足りません。",
+                "furigana": "水(みず)が足(たり)りません。",
+                "translations": {
+                    "EN": "There is not enough water.",
+                    "ID": "Air tidak cukup.",
+                    "ES": "No hay suficiente agua.",
+                    "VI": "Không đủ nước.",
+                    "FR": "Il n'y a pas assez d'eau.",
+                    "NE": "पानी पर्याप्त छैन।",
+                    "BN": "পানি পর্যাপ্ত নেই।",
+                    "ZH": "水不够。",
+                    "KO": "물이 부족합니다.",
+                    "TL": "Kulang ang tubig.",
+                    "MY": "ရေမလုံလောက်ပါ။",
+                    "HI": "पानी पर्याप्त नहीं है।",
+                    "AR": "الماء غير كافٍ.",
+                    "FA": "آب کافی نیست."
+                }
+            }
+        ],
+        "synonyms": [
+            "欠伸 : あくび : yawn",
+            "不足分 : ふそくぶん : shortage"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word ふそく are けつぼう and ふそくぶん. けつぼう emphasizes a severe deficiency or scarcity, while ふそくぶん refers to the specific quantity that is lacking or needed.",
+        "antonyms": [
+            "過剰 : かじょう : excess",
+            "充足 : じゅうそく : sufficiency"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word ふそく are かじょう and じゅうそく. かじょう describes a surplus or an excess often beyond what is necessary, while じゅうそく implies being adequately filled or satisfied, meeting the needs or demands sufficiently. ",
+        "kanji_details": [
+            {
+                "kanji": "不",
+                "common_words": [
+                    "不便: inconvenience",
+                    "不安: anxiety"
+                ]
+            },
+            {
+                "kanji": "足",
+                "common_words": [
+                    "足りる: to be sufficient",
+                    "足跡: footprints"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "不足",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "不足",
+                "reading": "ふそく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "insufficiency",
+                    "deficiency",
+                    "shortage",
+                    "lack",
+                    "scarcity",
+                    "deficit"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "dissatisfaction",
+                    "discontent",
+                    "complaint"
+                ],
+                "parts_of_speech": [
+                    "Noun, Na-adjective (keiyodoshi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "不",
+        "足"
     ],
-    "kanjis": [
-        {
-            "kanji": "不",
+    "kanji_data": {
+        "不": {
             "meanings": [
                 "bad",
                 "clumsy",
@@ -69,437 +256,45 @@
                 "non-",
                 "ugly"
             ],
-            "onyomi": [
+            "on_readings": [
                 "フ",
                 "ブ"
             ],
-            "kunyomi": [],
-            "strokes": 4,
+            "kun_readings": [],
+            "stroke_count": 4,
             "jlpt": 4,
-            "frequency": 101,
+            "freq_mainichi_shinbun": 101,
             "unicode": "4E0D",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "不便",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ふべん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "inconvenience",
-                                "inexpediency",
-                                "unhandiness"
-                            ],
-                            "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "不安",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ふあん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "anxiety",
-                                "uneasiness",
-                                "worry",
-                                "apprehension",
-                                "fear",
-                                "insecurity",
-                                "suspense"
-                            ],
-                            "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         },
-        {
-            "kanji": "足",
+        "足": {
             "meanings": [
                 "be sufficient",
                 "counter for pairs of footwear",
                 "foot",
                 "leg"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ソク"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あし",
                 "た.す",
                 "た.りる",
                 "た.る"
             ],
-            "strokes": 7,
+            "stroke_count": 7,
             "jlpt": 4,
-            "frequency": 343,
+            "freq_mainichi_shinbun": 343,
             "unicode": "8DB3",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "足りる",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たりる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to be sufficient",
-                                "to be enough"
-                            ],
-                            "part_of_speech": "Ichidan verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be worth doing",
-                                "to be worthy of",
-                                "to deserve"
-                            ],
-                            "part_of_speech": "Ichidan verb, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to do",
-                                "to serve",
-                                "to answer"
-                            ],
-                            "part_of_speech": "Ichidan verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "足跡",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "あしあと",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "footprints"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "record of page visitors"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         }
-    ],
-    "kanji_explanation": "The first kanji means not or negative, a prefix that shows absence or negation and is often read as ふ or ぶ. It appears in words like ふべん which means inconvenience and ふあん which means anxiety, where the kanji flips the meaning to indicate lack or bad. When you see this kanji it usually makes the word negative. The second kanji means foot, leg, or to be sufficient and is commonly read as あし or たりる depending on the word. It shows up in words like たりる meaning to be enough and あしあと meaning footprint, where it gives the sense of a foot or sufficiency. You can think of it as both the body part and the idea of having enough.",
-    "explanations": {
-        "explanation": "The word ふそく means a lack or shortage. It describes when there is not enough of something, such as resources or supplies, to meet demands or expectations. \n",
-        "youtube_description": "Discover how to master the Japanese word 不足 (ふそく) in daily life! This video covers its meanings, kanji structure, and usage contexts. Perfect for learners looking to expand their vocabulary. Enjoy learning and don't forget to like and subscribe!",
-        "motivation": "In this lesson, we're diving into the word ふそく! You will often hear this word in contexts where there's not enough of something, such as time, money, or resources. Join us and enhance your vocabulary with expressions relevant to real-life situations!",
-        "collocations": [
-            "おかねがふそくする",
-            "じかんがふそくする",
-            "せつびがふそくする",
-            "にんげんがふそくする",
-            "えいりょうがふそくする"
-        ],
-        "synonyms": [
-            "欠 乏",
-            "不足 分"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word ふそく are けつぼう and ふそくぶん. けつぼう emphasizes a severe deficiency or scarcity, while ふそくぶん refers to the specific quantity that is lacking or needed.",
-        "antonyms": [
-            "過剰",
-            "充足"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word ふそく are かじょう and じゅうそく. かじょう describes a surplus or an excess often beyond what is necessary, while じゅうそく implies being adequately filled or satisfied, meeting the needs or demands sufficiently. "
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "お金が不足します。",
-            "furigana": "お金(かね)が不足(ふそく)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "お金が不足します。",
-                "English": "Money is insufficient.",
-                "Persian": "پول کافی نیست.",
-                "Nepali": "पैसा अभाव छ।",
-                "Indonesian": "Uang tidak cukup.",
-                "Filipino": "Hindi sapat ang pera.",
-                "Vietnamese": "Tiền không đủ.",
-                "Burmese": "ငွေလုံလောက်မှုမရှိပါ။",
-                "Korean": "돈이 부족합니다.",
-                "Hindi": "पैसे की कमी है।",
-                "Arabic": "المال غير كافٍ.",
-                "French": "L'argent est insuffisant.",
-                "Spanish": "El dinero es insuficiente.",
-                "Chinese": "钱不够。",
-                "Bengali": "টাকা অপর্যাপ্ত।"
-            }
-        },
-        {
-            "kanji": "時間が不足する。",
-            "furigana": "時間(じかん)が不足(ふそく)する。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "時間が不足する。",
-                "English": "There isn't enough time.",
-                "Persian": "زمان کافی نیست.",
-                "Nepali": "समय पर्याप्त छैन।",
-                "Indonesian": "Waktunya tidak cukup.",
-                "Filipino": "Hindi sapat ang oras.",
-                "Vietnamese": "Không đủ thời gian.",
-                "Burmese": "အချိန်လုံလောက်မှုမရှိပါ။",
-                "Korean": "시간이 부족하다.",
-                "Hindi": "समय पर्याप्त नहीं है।",
-                "Arabic": "لا يوجد وقت كافٍ.",
-                "French": "Il n'y a pas assez de temps.",
-                "Spanish": "No hay suficiente tiempo.",
-                "Chinese": "时间不够。",
-                "Bengali": "সময় যথেষ্ট নেই।"
-            }
-        },
-        {
-            "kanji": "病院は設備が不足しています。",
-            "furigana": "病院(びょういん)は設備(せつび)が不足(ふそく)しています。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "病院は設備が不足しています。",
-                "English": "The hospital is lacking equipment.",
-                "Persian": "بیمارستان تجهیزات کمی دارد.",
-                "Nepali": "हस्पिटलमा उपकरणको कमि छ।",
-                "Indonesian": "Rumah sakit kekurangan peralatan.",
-                "Filipino": "Ang ospital ay kulang sa kagamitan.",
-                "Vietnamese": "Bệnh viện đang thiếu thiết bị.",
-                "Burmese": "ဆေးရုံမှာ စက်ပစ္စည်း ရှားပါတယ်။",
-                "Korean": "병원에 설비가 부족합니다.",
-                "Hindi": "अस्पताल में उपकरणों की कमी है।",
-                "Arabic": "المستشفى يفتقر إلى المعدات.",
-                "French": "L'hôpital manque d'équipement.",
-                "Spanish": "El hospital carece de equipo.",
-                "Chinese": "医院设备不足。",
-                "Bengali": "হাসপাতালে সরঞ্জামের অভাব রয়েছে।"
-            }
-        },
-        {
-            "kanji": "この村は人間が不足しています。",
-            "furigana": "この村(むら)は人間(にんげん)が不足(ふそく)しています。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "この村は人間が不足しています。",
-                "English": "This village is lacking people.",
-                "Persian": "این روستا فاقد مردم است.",
-                "Nepali": "यो गाउँमा मानिसहरू अभाव छ।",
-                "Indonesian": "Desa ini kekurangan orang.",
-                "Filipino": "Ang nayon na ito ay kulang sa tao.",
-                "Vietnamese": "Ngôi làng này thiếu người.",
-                "Burmese": "ဤရွာတွင် နေထိုင်သူများ မလုံလောက်ပါ။",
-                "Korean": "이 마을은 사람이 부족합니다.",
-                "Hindi": "इस गाँव में लोग कम हैं।",
-                "Arabic": "هذه القرية تفتقر إلى الناس.",
-                "French": "Ce village manque de gens.",
-                "Spanish": "Este pueblo carece de personas.",
-                "Chinese": "这个村庄缺少人。",
-                "Bengali": "এই গ্রামে মানুষের অভাব আছে।"
-            }
-        },
-        {
-            "kanji": "水が足りません。",
-            "furigana": "水(みず)が足(たり)りません。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "水が足りません。",
-                "English": "There is not enough water.",
-                "Persian": "آب کافی نیست.",
-                "Nepali": "पानी पर्याप्त छैन।",
-                "Indonesian": "Air tidak cukup.",
-                "Filipino": "Kulang ang tubig.",
-                "Vietnamese": "Không đủ nước.",
-                "Burmese": "ရေမလုံလောက်ပါ။",
-                "Korean": "물이 부족합니다.",
-                "Hindi": "पानी पर्याप्त नहीं है।",
-                "Arabic": "الماء غير كافٍ.",
-                "French": "Il n'y a pas assez d'eau.",
-                "Spanish": "No hay suficiente agua.",
-                "Chinese": "水不够。",
-                "Bengali": "পানি পর্যাপ্ত নেই।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "欠伸",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "あくび",
-            "meanings": [
-                {
-                    "neuances": [
-                        "yawn",
-                        "yawning"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "kanji \"yawning\" radical"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "不足分",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ふそくぶん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "shortage",
-                        "amount outstanding",
-                        "deficit"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "過剰",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "かじょう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "excess",
-                        "surplus",
-                        "superabundance",
-                        "overabundance"
-                    ],
-                    "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "充足",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "じゅうそく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "sufficiency"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "おかねがふそくする",
+        "じかんがふそくする",
+        "せつびがふそくする",
+        "にんげんがふそくする",
+        "えいりょうがふそくする"
     ]
 }

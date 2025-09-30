@@ -1,715 +1,408 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "鈍い",
+    "jlpt_level": 2,
     "youtube_link": "https://youtu.be/xsmX3Fq5ttw",
     "in_db": true,
-    "reading": "にぶい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "鈍い",
+        "reading": "にぶい",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this video is にぶい which you will often hear when talking about knives and tools, people’s reactions or understanding, and reduced physical senses. Imagine how much more natural your Japanese will sound when you can say things like \"The knife is too dull to cut the tomato,\" \"He's slow to understand new instructions,\" and \"Her sense of smell has become dull since she got a cold\" in Japanese. Let's get started!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word にぶい means slow or dull in several ways; it can describe a blunt object, a slow reaction or understanding, or reduced sensitivity in a sense such as smell or pain.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "dull",
                 "blunt"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "鈍い",
-                "English": "dull",
-                "Persian": "کند",
-                "Nepali": "सुस्त",
-                "Indonesian": "tumpul",
-                "Filipino": "mapurol",
-                "Vietnamese": "cùn",
-                "Burmese": "မတောက်ပသော",
-                "Korean": "무딘",
-                "Hindi": "सुस्त",
-                "Arabic": "بليد",
-                "French": "émoussé",
-                "Spanish": "embotado",
-                "Chinese": "迟钝",
-                "Bengali": "নীরস"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "thickheaded",
                 "obtuse",
                 "stupid"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "鈍い",
-                "English": "thickheaded",
-                "Persian": "کم‌فهم",
-                "Nepali": "मन्दबुद्धि",
-                "Indonesian": "kepala tebal",
-                "Filipino": "matigas ang ulo",
-                "Vietnamese": "đần độn",
-                "Burmese": "ဉာဏ်နည်း",
-                "Korean": "둔하다",
-                "Hindi": "मंदबुद्धि",
-                "Arabic": "بليد",
-                "French": "obtus",
-                "Spanish": "obtuso",
-                "Chinese": "迟钝",
-                "Bengali": "ধীরবুদ্ধি"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "dull",
                 "dim"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "鈍い",
-                "English": "dull",
-                "Persian": "کند",
-                "Nepali": "सुस्त",
-                "Indonesian": "tumpul",
-                "Filipino": "mapurol",
-                "Vietnamese": "cùn",
-                "Burmese": "ပျင်း",
-                "Korean": "무딘",
-                "Hindi": "सुस्त",
-                "Arabic": "بليد",
-                "French": "émoussé",
-                "Spanish": "embotado",
-                "Chinese": "迟钝",
-                "Bengali": "নীরস"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "slow",
                 "sluggish",
                 "inert",
                 "lethargic"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "鈍い",
-                "English": "slow",
-                "Persian": "کند",
-                "Nepali": "धीरो",
-                "Indonesian": "lambat",
-                "Filipino": "mabagal",
-                "Vietnamese": "chậm",
-                "Burmese": "နှေး",
-                "Korean": "느리다",
-                "Hindi": "धीमा",
-                "Arabic": "بطيء",
-                "French": "lent",
-                "Spanish": "lento",
-                "Chinese": "慢",
-                "Bengali": "ধীর"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "insensitive",
                 "dull",
                 "unperceptive",
                 "unfeeling"
-            ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "鈍い",
-                "English": "insensitive",
-                "Persian": "بی‌احساس",
-                "Nepali": "असंवेदनशील",
-                "Indonesian": "tidak peka",
-                "Filipino": "hindi sensitibo",
-                "Vietnamese": "không nhạy cảm",
-                "Burmese": "ခံစားချက်မရှိသော",
-                "Korean": "둔감한",
-                "Hindi": "असंवेदनशील",
-                "Arabic": "غير حساس",
-                "French": "insensible",
-                "Spanish": "insensible",
-                "Chinese": "不敏感",
-                "Bengali": "অসংবেদনশীল"
+            ]
+        ],
+        "meaning_translations": {
+            "dull": {
+                "EN": "dull",
+                "ID": "tumpul",
+                "ES": "embotado",
+                "VI": "cùn",
+                "FR": "émoussé",
+                "NE": "सुस्त",
+                "BN": "নীরস",
+                "ZH": "迟钝",
+                "KO": "무딘",
+                "TL": "mapurol",
+                "MY": "ပျင်း",
+                "HI": "सुस्त",
+                "AR": "بليد",
+                "FA": "کند"
+            },
+            "thickheaded": {
+                "EN": "thickheaded",
+                "ID": "kepala tebal",
+                "ES": "obtuso",
+                "VI": "đần độn",
+                "FR": "obtus",
+                "NE": "मन्दबुद्धि",
+                "BN": "ধীরবুদ্ধি",
+                "ZH": "迟钝",
+                "KO": "둔하다",
+                "TL": "matigas ang ulo",
+                "MY": "ဉာဏ်နည်း",
+                "HI": "मंदबुद्धि",
+                "AR": "بليد",
+                "FA": "کم‌فهم"
+            },
+            "slow": {
+                "EN": "slow",
+                "ID": "lambat",
+                "ES": "lento",
+                "VI": "chậm",
+                "FR": "lent",
+                "NE": "धीरो",
+                "BN": "ধীর",
+                "ZH": "慢",
+                "KO": "느리다",
+                "TL": "mabagal",
+                "MY": "နှေး",
+                "HI": "धीमा",
+                "AR": "بطيء",
+                "FA": "کند"
+            },
+            "insensitive": {
+                "EN": "insensitive",
+                "ID": "tidak peka",
+                "ES": "insensible",
+                "VI": "không nhạy cảm",
+                "FR": "insensible",
+                "NE": "असंवेदनशील",
+                "BN": "অসংবেদনশীল",
+                "ZH": "不敏感",
+                "KO": "둔감한",
+                "TL": "hindi sensitibo",
+                "MY": "ခံစားချက်မရှိသော",
+                "HI": "असंवेदनशील",
+                "AR": "غير حساس",
+                "FA": "بی‌احساس"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "鈍いナイフで切れない。",
+                "furigana": "鈍(にぶ)いナイフで切(き)れない。",
+                "translations": {
+                    "EN": "I can't cut with a dull knife.",
+                    "ID": "Pisau tumpul tidak bisa memotong.",
+                    "ES": "No puedo cortar con un cuchillo sin filo.",
+                    "VI": "Dao cù không cắt được.",
+                    "FR": "Un couteau émoussé ne coupe pas.",
+                    "NE": "धारहीन छुरीले काट्न सक्दिन।",
+                    "BN": "ধারহীন ছুরি দিয়ে কাটা যায় না।",
+                    "ZH": "钝刀切不动。",
+                    "KO": "무딘 칼로는 잘 안 잘려요.",
+                    "TL": "Hindi makakatabas ang mapurol na kutsilyo.",
+                    "MY": "မတောက်သောဓားနဲ့ ဖြတ်လို့မရဘူး။",
+                    "HI": "धारहीन चाकू से कट नहीं पाता।",
+                    "AR": "لا أستطيع القطع بسكين بليد.",
+                    "FA": "با چاقوی کند نمی‌توانم برش بزنم."
+                }
+            },
+            {
+                "kanji": "彼は反応が鈍い。",
+                "furigana": "彼(かれ)は反応(はんのう)が鈍(にぶ)い。",
+                "translations": {
+                    "EN": "He is slow to react.",
+                    "ID": "Dia lambat bereaksi.",
+                    "ES": "Él reacciona lentamente.",
+                    "VI": "Anh ấy phản ứng chậm.",
+                    "FR": "Il réagit lentement.",
+                    "NE": "ऊ प्रतिक्रिया दिन सुस्त छ।",
+                    "BN": "সে প্রতিক্রিয়ায় ধীর।",
+                    "ZH": "他反应迟钝。",
+                    "KO": "그는 반응이 느리다.",
+                    "TL": "Mabagal siyang tumugon.",
+                    "MY": "သူ့တုံ့ပြန်မှု နှေးသည်။",
+                    "HI": "वह प्रतिक्रिया देने में धीमा है।",
+                    "AR": "هو بطيء في التفاعل.",
+                    "FA": "او واکنش‌های کندی دارد."
+                }
+            },
+            {
+                "kanji": "彼は感覚が鈍い。",
+                "furigana": "彼(かれ)は感覚(かんかく)が鈍(にぶ)い。",
+                "translations": {
+                    "EN": "He is not very sensitive.",
+                    "ID": "Dia tidak terlalu peka.",
+                    "ES": "Él no es muy sensible.",
+                    "VI": "Anh ấy không quá nhạy cảm.",
+                    "FR": "Il n'est pas très sensible.",
+                    "NE": "ऊ धेरै संवेदनशील छैन।",
+                    "BN": "সে খুব সংবেদনশীল নয়।",
+                    "ZH": "他不太敏感。",
+                    "KO": "그는 감각이 둔하다.",
+                    "TL": "Hindi siya masyadong sensitibo.",
+                    "MY": "သူ့အာရုံကျဆင်းနေတယ်။",
+                    "HI": "वह संवेदनशील नहीं है।",
+                    "AR": "هو غير حساس.",
+                    "FA": "او چندان حساس نیست."
+                }
+            },
+            {
+                "kanji": "彼は痛みに鈍い。",
+                "furigana": "彼(かれ)は痛(いた)みに鈍(にぶ)い。",
+                "translations": {
+                    "EN": "He is insensitive to pain.",
+                    "ID": "Dia tidak peka terhadap rasa sakit.",
+                    "ES": "Él es poco sensible al dolor.",
+                    "VI": "Anh ấy không nhạy cảm với đau.",
+                    "FR": "Il est peu sensible à la douleur.",
+                    "NE": "उ दुखाइप्रति असंवेदनशील छ।",
+                    "BN": "সে ব্যথার প্রতি অসংবেদনশীল।",
+                    "ZH": "他对疼痛不敏感。",
+                    "KO": "그는 통증에 둔하다.",
+                    "TL": "Hindi siya sensitibo sa sakit.",
+                    "MY": "သူသည် နာကျင်မှုကို မခံစားနိုင်ပါ။",
+                    "HI": "वह दर्द के प्रति संवेदनहीन है।",
+                    "AR": "هو غير حساس للألم.",
+                    "FA": "او نسبت به درد بی‌حس است."
+                }
+            },
+            {
+                "kanji": "彼は勘が鈍い。",
+                "furigana": "彼(かれ)は勘(かん)が鈍(にぶ)い。",
+                "translations": {
+                    "EN": "He has poor intuition.",
+                    "ID": "Dia kurang punya intuisi.",
+                    "ES": "Tiene poca intuición.",
+                    "VI": "Anh ấy có trực giác kém.",
+                    "FR": "Il a peu d'intuition.",
+                    "NE": "उसको सूझबुझ कम छ।",
+                    "BN": "তার অন্তর্দৃষ্টি দুর্বল।",
+                    "ZH": "他的直觉迟钝。",
+                    "KO": "그는 직감이 둔하다.",
+                    "TL": "Mahinang ang kutob niya.",
+                    "MY": "သူ့ခန့်မှန်းနိုင်စွမ်း မကောင်းပါ။",
+                    "HI": "उसका अंतर्ज्ञान कमजोर है।",
+                    "AR": "حدسه ضعيف.",
+                    "FA": "او شهود ضعیفی دارد."
+                }
+            },
+            {
+                "kanji": "彼の動きが鈍い。",
+                "furigana": "彼(かれ)の動(うご)きが鈍(にぶ)い。",
+                "translations": {
+                    "EN": "His movements are slow.",
+                    "ID": "Gerakannya lambat.",
+                    "ES": "Sus movimientos son lentos.",
+                    "VI": "Cử động của anh ấy chậm.",
+                    "FR": "Ses mouvements sont lents.",
+                    "NE": "उसको गति सुस्त छ।",
+                    "BN": "তার গতি ধীর।",
+                    "ZH": "他的动作很慢。",
+                    "KO": "그의 움직임이 느리다.",
+                    "TL": "Mabagal ang kilos niya.",
+                    "MY": "သူ့လှုပ်ရှားမှုတွေ နှေးတယ်။",
+                    "HI": "उसकी हरकतें सुस्त हैं।",
+                    "AR": "حركاته بطيئة.",
+                    "FA": "حرکت او کند است."
+                }
+            },
+            {
+                "kanji": "彼は頭が鈍い。",
+                "furigana": "彼(かれ)は頭(あたま)が鈍(にぶ)い。",
+                "translations": {
+                    "EN": "He is slow-witted.",
+                    "ID": "Dia agak lambat berpikir.",
+                    "ES": "Él es lento para entender.",
+                    "VI": "Anh ấy chậm hiểu.",
+                    "FR": "Il est lent à comprendre.",
+                    "NE": "ऊ बुझ्न ढिला हुन्छ।",
+                    "BN": "তার বুদ্ধি ধীর।",
+                    "ZH": "他反应迟钝。",
+                    "KO": "그는 머리가 둔하다.",
+                    "TL": "Mabagal siya mag-isip.",
+                    "MY": "သူနားလည်ရတာ နှေးတယ်။",
+                    "HI": "वह समझने में धीमा है।",
+                    "AR": "هو بطيء الفهم.",
+                    "FA": "او دیرفهم است."
+                }
+            }
+        ],
+        "synonyms": [
+            "鈍感 : どんかん : thickheaded",
+            "遅い : おそい : slow"
+        ],
+        "synonyms_explanation": "The most common synonyms of the にぶい are どんかん and おそい. どんかん emphasizes being insensitive or unaware, often about feelings or sensations and is stronger than にぶい in that context. おそい simply means slow in time or speed and overlaps with にぶい when talking about reactions but does not describe bluntness or reduced senses.",
+        "antonyms": [
+            "鋭い : するどい : sharp",
+            "早い : はやい : fast"
+        ],
+        "antonyms_explanation": "The most common antonyms of the にぶい are するどい and はやい. するどい means sharp or keen and is the opposite when referring to edges, senses, or quick perception. はやい means fast and opposes にぶい in terms of speed or reaction time but does not cover sharpness.",
+        "kanji_details": [
+            {
+                "kanji": "鈍",
+                "common_words": [
+                    "遅い: slow",
+                    "鈍い: dull"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "鈍い",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "鈍い",
+                "reading": "にぶい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "dull",
+                    "blunt"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "thickheaded",
+                    "obtuse",
+                    "stupid"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "dull",
+                    "dim"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "slow",
+                    "sluggish",
+                    "inert",
+                    "lethargic"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "insensitive",
+                    "dull",
+                    "unperceptive",
+                    "unfeeling"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "鈍"
     ],
-    "kanjis": [
-        {
-            "kanji": "鈍",
+    "kanji_data": {
+        "鈍": {
             "meanings": [
                 "blunt",
                 "dull",
                 "foolish",
                 "slow"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ドン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "なま.る",
                 "なまく.ら",
                 "にぶ-",
                 "にぶ.い",
                 "にぶ.る"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 2,
-            "frequency": 1574,
+            "freq_mainichi_shinbun": 1574,
             "unicode": "920D",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "遅い",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "おそい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "slow"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "late"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "too late"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "鈍い",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "にぶい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "dull",
-                                "blunt"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "thickheaded",
-                                "obtuse",
-                                "stupid"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "dull",
-                                "dim"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "slow",
-                                "sluggish",
-                                "inert",
-                                "lethargic"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "insensitive",
-                                "dull",
-                                "unperceptive",
-                                "unfeeling"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "鈍感",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "どんかん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "thickheaded",
-                                "insensitive",
-                                "dull",
-                                "thick-skinned"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "鈍る",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "にぶる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to become blunt",
-                                "to grow dull"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to become less capable",
-                                "to weaken",
-                                "to falter"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means dull or slow to react. It carries the sense of bluntness or decreased sharpness, both for objects and for senses or reactions. In the adjective にぶい it describes something blunt or someone slow to notice or react. In the noun どんかん it labels a person as insensitive or thickheaded because of that dullness. You also see it in the verb にぶる meaning to become dull or less sensitive, so the core idea is consistent across words.",
-    "explanations": {
-        "explanation": "The word にぶい means slow or dull in several ways; it can describe a blunt object, a slow reaction or understanding, or reduced sensitivity in a sense such as smell or pain.",
-        "youtube_description": "Learn how to use the Japanese word 鈍い (にぶい) in everyday conversations! In this short video we'll cover its core meanings—dull, slow, insensitive—break down the kanji, and show common collocations so you can use にぶい naturally. Perfect for learners who want to sound more fluent. Like, comment, and subscribe for more!",
-        "motivation": "The word we'll be learning in this video is にぶい which you will often hear when talking about knives and tools, people’s reactions or understanding, and reduced physical senses. Imagine how much more natural your Japanese will sound when you can say things like \"The knife is too dull to cut the tomato,\" \"He's slow to understand new instructions,\" and \"Her sense of smell has become dull since she got a cold\" in Japanese. Let's get started!",
-        "collocations": [
-            "鈍いナイフ",
-            "反応が鈍い",
-            "感覚が鈍い",
-            "痛みに鈍い",
-            "勘が鈍い",
-            "動きが鈍い",
-            "頭が鈍い"
-        ],
-        "synonyms": [
-            "鈍感",
-            "遅い"
-        ],
-        "synonyms_explanation": "The most common synonyms of the にぶい are どんかん and おそい. どんかん emphasizes being insensitive or unaware, often about feelings or sensations and is stronger than にぶい in that context. おそい simply means slow in time or speed and overlaps with にぶい when talking about reactions but does not describe bluntness or reduced senses.",
-        "antonyms": [
-            "鋭い",
-            "速い"
-        ],
-        "antonyms_explanation": "The most common antonyms of the にぶい are するどい and はやい. するどい means sharp or keen and is the opposite when referring to edges, senses, or quick perception. はやい means fast and opposes にぶい in terms of speed or reaction time but does not cover sharpness."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n2"
-    ],
-    "examples": [
-        {
-            "kanji": "鈍いナイフで切れない。",
-            "furigana": "鈍(にぶ)いナイフで切(き)れない。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "鈍いナイフで切れない。",
-                "English": "I can't cut with a dull knife.",
-                "Persian": "با چاقوی کند نمی‌توانم برش بزنم.",
-                "Nepali": "धारहीन छुरीले काट्न सक्दिन।",
-                "Indonesian": "Pisau tumpul tidak bisa memotong.",
-                "Filipino": "Hindi makakatabas ang mapurol na kutsilyo.",
-                "Vietnamese": "Dao cù không cắt được.",
-                "Burmese": "မတောက်သောဓားနဲ့ ဖြတ်လို့မရဘူး။",
-                "Korean": "무딘 칼로는 잘 안 잘려요.",
-                "Hindi": "धारहीन चाकू से कट नहीं पाता।",
-                "Arabic": "لا أستطيع القطع بسكين بليد.",
-                "French": "Un couteau émoussé ne coupe pas.",
-                "Spanish": "No puedo cortar con un cuchillo sin filo.",
-                "Chinese": "钝刀切不动。",
-                "Bengali": "ধারহীন ছুরি দিয়ে কাটা যায় না।"
-            }
-        },
-        {
-            "kanji": "彼は反応が鈍い。",
-            "furigana": "彼(かれ)は反応(はんのう)が鈍(にぶ)い。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は反応が鈍い。",
-                "English": "He is slow to react.",
-                "Persian": "او واکنش‌های کندی دارد.",
-                "Nepali": "ऊ प्रतिक्रिया दिन सुस्त छ।",
-                "Indonesian": "Dia lambat bereaksi.",
-                "Filipino": "Mabagal siyang tumugon.",
-                "Vietnamese": "Anh ấy phản ứng chậm.",
-                "Burmese": "သူ့တုံ့ပြန်မှု နှေးသည်။",
-                "Korean": "그는 반응이 느리다.",
-                "Hindi": "वह प्रतिक्रिया देने में धीमा है।",
-                "Arabic": "هو بطيء في التفاعل.",
-                "French": "Il réagit lentement.",
-                "Spanish": "Él reacciona lentamente.",
-                "Chinese": "他反应迟钝。",
-                "Bengali": "সে প্রতিক্রিয়ায় ধীর।"
-            }
-        },
-        {
-            "kanji": "彼は感覚が鈍い。",
-            "furigana": "彼(かれ)は感覚(かんかく)が鈍(にぶ)い。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は感覚が鈍い。",
-                "English": "He is not very sensitive.",
-                "Persian": "او چندان حساس نیست.",
-                "Nepali": "ऊ धेरै संवेदनशील छैन।",
-                "Indonesian": "Dia tidak terlalu peka.",
-                "Filipino": "Hindi siya masyadong sensitibo.",
-                "Vietnamese": "Anh ấy không quá nhạy cảm.",
-                "Burmese": "သူ့အာရုံကျဆင်းနေတယ်။",
-                "Korean": "그는 감각이 둔하다.",
-                "Hindi": "वह संवेदनशील नहीं है।",
-                "Arabic": "هو غير حساس.",
-                "French": "Il n'est pas très sensible.",
-                "Spanish": "Él no es muy sensible.",
-                "Chinese": "他不太敏感。",
-                "Bengali": "সে খুব সংবেদনশীল নয়।"
-            }
-        },
-        {
-            "kanji": "彼は痛みに鈍い。",
-            "furigana": "彼(かれ)は痛(いた)みに鈍(にぶ)い。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は痛みに鈍い。",
-                "English": "He is insensitive to pain.",
-                "Persian": "او نسبت به درد بی‌حس است.",
-                "Nepali": "उ दुखाइप्रति असंवेदनशील छ।",
-                "Indonesian": "Dia tidak peka terhadap rasa sakit.",
-                "Filipino": "Hindi siya sensitibo sa sakit.",
-                "Vietnamese": "Anh ấy không nhạy cảm với đau.",
-                "Burmese": "သူသည် နာကျင်မှုကို မခံစားနိုင်ပါ။",
-                "Korean": "그는 통증에 둔하다.",
-                "Hindi": "वह दर्द के प्रति संवेदनहीन है।",
-                "Arabic": "هو غير حساس للألم.",
-                "French": "Il est peu sensible à la douleur.",
-                "Spanish": "Él es poco sensible al dolor.",
-                "Chinese": "他对疼痛不敏感。",
-                "Bengali": "সে ব্যথার প্রতি অসংবেদনশীল।"
-            }
-        },
-        {
-            "kanji": "彼は勘が鈍い。",
-            "furigana": "彼(かれ)は勘(かん)が鈍(にぶ)い。",
-            "difficulty": 3,
-            "translation": {
-                "Japanese": "彼は勘が鈍い。",
-                "English": "He has poor intuition.",
-                "Persian": "او شهود ضعیفی دارد.",
-                "Nepali": "उसको सूझबुझ कम छ।",
-                "Indonesian": "Dia kurang punya intuisi.",
-                "Filipino": "Mahinang ang kutob niya.",
-                "Vietnamese": "Anh ấy có trực giác kém.",
-                "Burmese": "သူ့ခန့်မှန်းနိုင်စွမ်း မကောင်းပါ။",
-                "Korean": "그는 직감이 둔하다.",
-                "Hindi": "उसका अंतर्ज्ञान कमजोर है।",
-                "Arabic": "حدسه ضعيف.",
-                "French": "Il a peu d'intuition.",
-                "Spanish": "Tiene poca intuición.",
-                "Chinese": "他的直觉迟钝。",
-                "Bengali": "তার অন্তর্দৃষ্টি দুর্বল।"
-            }
-        },
-        {
-            "kanji": "彼の動きが鈍い。",
-            "furigana": "彼(かれ)の動(うご)きが鈍(にぶ)い。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼の動きが鈍い。",
-                "English": "His movements are slow.",
-                "Persian": "حرکت او کند است.",
-                "Nepali": "उसको गति सुस्त छ।",
-                "Indonesian": "Gerakannya lambat.",
-                "Filipino": "Mabagal ang kilos niya.",
-                "Vietnamese": "Cử động của anh ấy chậm.",
-                "Burmese": "သူ့လှုပ်ရှားမှုတွေ နှေးတယ်။",
-                "Korean": "그의 움직임이 느리다.",
-                "Hindi": "उसकी हरकतें सुस्त हैं।",
-                "Arabic": "حركاته بطيئة.",
-                "French": "Ses mouvements sont lents.",
-                "Spanish": "Sus movimientos son lentos.",
-                "Chinese": "他的动作很慢。",
-                "Bengali": "তার গতি ধীর।"
-            }
-        },
-        {
-            "kanji": "彼は頭が鈍い。",
-            "furigana": "彼(かれ)は頭(あたま)が鈍(にぶ)い。",
-            "difficulty": 3,
-            "translation": {
-                "Japanese": "彼は頭が鈍い。",
-                "English": "He is slow-witted.",
-                "Persian": "او دیرفهم است.",
-                "Nepali": "ऊ बुझ्न ढिला हुन्छ।",
-                "Indonesian": "Dia agak lambat berpikir.",
-                "Filipino": "Mabagal siya mag-isip.",
-                "Vietnamese": "Anh ấy chậm hiểu.",
-                "Burmese": "သူနားလည်ရတာ နှေးတယ်။",
-                "Korean": "그는 머리가 둔하다.",
-                "Hindi": "वह समझने में धीमा है।",
-                "Arabic": "هو بطيء الفهم.",
-                "French": "Il est lent à comprendre.",
-                "Spanish": "Él es lento para entender.",
-                "Chinese": "他反应迟钝。",
-                "Bengali": "তার বুদ্ধি ধীর।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "鈍感",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "どんかん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "thickheaded",
-                        "insensitive",
-                        "dull",
-                        "thick-skinned"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "遅い",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "おそい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "slow"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "late"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "too late"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "鋭い",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "するどい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "sharp",
-                        "pointed"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "sharp",
-                        "acute",
-                        "stabbing",
-                        "cutting",
-                        "stinging",
-                        "biting",
-                        "fierce",
-                        "pointed",
-                        "piercing",
-                        "shrill"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "keen",
-                        "acute",
-                        "sharp",
-                        "astute",
-                        "shrewd",
-                        "discerning",
-                        "penetrating",
-                        "perceptive"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "早い",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "はやい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "fast",
-                        "quick",
-                        "rapid",
-                        "swift",
-                        "speedy",
-                        "brisk",
-                        "prompt"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "early",
-                        "soon",
-                        "earlier than usual"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "premature",
-                        "too soon",
-                        "too early"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "easy",
-                        "simple",
-                        "quick",
-                        "fast"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "as soon as ...",
-                        "the moment ...",
-                        "the instant ..."
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "鈍いナイフ",
+        "反応が鈍い",
+        "感覚が鈍い",
+        "痛みに鈍い",
+        "勘が鈍い",
+        "動きが鈍い",
+        "頭が鈍い"
     ]
 }

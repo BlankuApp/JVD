@@ -1,290 +1,391 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "一体",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/Zak2JJvssks",
     "in_db": true,
-    "reading": "いったい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "一体",
+        "reading": "いったい",
+        "introduction_japanese": "",
+        "introduction_english": "Ever wondered how to express surprise or confusion in Japanese? Today, we're diving into the usage of いったい, a versatile expression you’ll frequently encounter in questions when you want to add a dramatic flair of disbelief or emphasis.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"いったい\" means \"the heck, actually, generally, or after all.\" It’s an expression often used in questions to add emphasis, indicating confusion or surprise about something unexpected. In casual conversations, it can be synonymous with \"what on earth.\"",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 " the heck",
                 " in the world",
                 " on earth"
             ],
-            "part_of_speech": "Adverb (fukushi)",
-            "translation": {
-                "Japanese": "一体何だ？",
-                "English": "What the heck?",
-                "Persian": "چه خبر است؟",
-                "Nepali": "यो के हो?",
-                "Indonesian": "Apa yang sebenarnya?",
-                "Filipino": "Ano ba ito?",
-                "Vietnamese": "Cái quái gì vậy?",
-                "Burmese": "ဒါ ဘာလဲ?",
-                "Korean": "대체 뭐야?",
-                "Hindi": "यह क्या है?",
-                "Arabic": "ما الذي يجري؟",
-                "French": "C'est quoi ça?",
-                "Spanish": "¿Qué demonios?",
-                "Chinese": "这到底是怎么回事？",
-                "Bengali": "এটা কী?"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "one object",
                 "one body",
                 "unity"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "一体 同じ物",
-                "English": "One entity, the same object.",
-                "Persian": "یک واحد، همان شی.",
-                "Nepali": "एउटा निकाय, उस्तै वस्तु।",
-                "Indonesian": "Satu kesatuan, objek yang sama.",
-                "Filipino": "Isang nilalang, ang parehong bagay.",
-                "Vietnamese": "Một thực thể, cùng một đối tượng.",
-                "Burmese": "တစ်ခုတည်းသော实体，တူညီသော对象။",
-                "Korean": "하나의 실체, 동일한 객체.",
-                "Hindi": "एक इकाई, वही वस्तु।",
-                "Arabic": "كيان واحد، نفس الكائن.",
-                "French": "Un objet, le même objet.",
-                "Spanish": "Una entidad, el mismo objeto.",
-                "Chinese": "一体，相同的物体。",
-                "Bengali": "একটি সত্তা, একই বস্তু।"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "one form",
                 "one style"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "一体",
-                "English": "one form",
-                "Persian": "یک شکل",
-                "Nepali": "एउटा रूप",
-                "Indonesian": "satu bentuk",
-                "Filipino": "isang anyo",
-                "Vietnamese": "một dạng",
-                "Burmese": "ကိစ္စတစ်ခု",
-                "Korean": "일체",
-                "Hindi": "एक रूप",
-                "Arabic": "شكل واحد",
-                "French": "une forme",
-                "Spanish": "una forma",
-                "Chinese": "一种形式",
-                "Bengali": "একটি রূপ"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "one Buddhist image"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "一体は、仏教の一つの仏像や仏画のことを指します。",
-                "English": "\"Ittai\" refers to one Buddhist image, such as a statue or painting of Buddha.",
-                "Persian": "\"ایتای\" به یک تصویر بودایی اشاره دارد، مانند تندیس یا نقاشی از بودا.",
-                "Nepali": "\"इत्ताई\"ले बुद्धको एउटा मूर्ति वा चित्रलाई जनाउँछ।",
-                "Indonesian": "\"Ittai\" merujuk pada satu gambar Buddha, seperti patung atau lukisan Buddha.",
-                "Filipino": "Ang \"Ittai\" ay tumutukoy sa isang imahen ng Buddha, tulad ng estatwa o pintura ng Buddha.",
-                "Vietnamese": "\"Ittai\" chỉ một hình ảnh Phật giáo, chẳng hạn như tượng hoặc tranh của Đức Phật.",
-                "Burmese": "\"Ittai\" သည် ဗုဒ္ဓ၏ ရုပ်တု သို့မဟုတ် ပန်းချီကားကဲ့သို့သော တစ်ခုတည်းသော ဗုဒ္ဓရုပ်ပုံကို ကိုးကားသည်။",
-                "Korean": "\"잇타이\"는 불상의 일부분 또는 불교 그림을 가리킵니다.",
-                "Hindi": "\"इत्ताई\" का अर्थ है एक बौद्ध छवि, जैसे कि बुद्ध की मूर्ति या चित्र।",
-                "Arabic": "\"إيتاي\" يشير إلى صورة بوذية واحدة، مثل تمثال أو لوحة لبوذا.",
-                "French": "\"Ittai\" désigne une image bouddhiste, telle qu'une statue ou une peinture de Bouddha.",
-                "Spanish": "\"Ittai\" se refiere a una imagen budista, como una estatua o pintura de Buda.",
-                "Chinese": "\"一体\"指一尊佛像，如佛的雕像或画作。",
-                "Bengali": "\"ইত্তাই\" বলতে একটিকে বোঝানো হয় যা বৌদ্ধ মূর্তির ছবি, যেমন বুদ্ধের মূর্তি বা চিত্র।"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "generally",
                 "in general"
-            ],
-            "part_of_speech": "Noun, Adverb (fukushi)",
-            "translation": {
-                "Japanese": "一体",
-                "English": "generally, usually, typically",
-                "Persian": "به طور کلی",
-                "Nepali": "सामान्यतया",
-                "Indonesian": "umumnya",
-                "Filipino": "karaniwan",
-                "Vietnamese": "nói chung",
-                "Burmese": "အထွေထွေ",
-                "Korean": "일반적으로",
-                "Hindi": "सामान्यतः",
-                "Arabic": "بشكل عام",
-                "French": "généralement",
-                "Spanish": "generalmente",
-                "Chinese": "一般来说",
-                "Bengali": "সাধারণত"
+            ]
+        ],
+        "meaning_translations": {
+            " the heck": {
+                "EN": "What the heck?",
+                "ID": "Apa yang sebenarnya?",
+                "ES": "¿Qué demonios?",
+                "VI": "Cái quái gì vậy?",
+                "FR": "C'est quoi ça?",
+                "NE": "यो के हो?",
+                "BN": "এটা কী?",
+                "ZH": "这到底是怎么回事？",
+                "KO": "대체 뭐야?",
+                "TL": "Ano ba ito?",
+                "MY": "ဒါ ဘာလဲ?",
+                "HI": "यह क्या है?",
+                "AR": "ما الذي يجري؟",
+                "FA": "چه خبر است؟"
+            },
+            "one object": {
+                "EN": "One entity, the same object.",
+                "ID": "Satu kesatuan, objek yang sama.",
+                "ES": "Una entidad, el mismo objeto.",
+                "VI": "Một thực thể, cùng một đối tượng.",
+                "FR": "Un objet, le même objet.",
+                "NE": "एउटा निकाय, उस्तै वस्तु।",
+                "BN": "একটি সত্তা, একই বস্তু।",
+                "ZH": "一体，相同的物体。",
+                "KO": "하나의 실체, 동일한 객체.",
+                "TL": "Isang nilalang, ang parehong bagay.",
+                "MY": "တစ်ခုတည်းသော实体，တူညီသော对象။",
+                "HI": "एक इकाई, वही वस्तु।",
+                "AR": "كيان واحد، نفس الكائن.",
+                "FA": "یک واحد، همان شی."
+            },
+            "one form": {
+                "EN": "one form",
+                "ID": "satu bentuk",
+                "ES": "una forma",
+                "VI": "một dạng",
+                "FR": "une forme",
+                "NE": "एउटा रूप",
+                "BN": "একটি রূপ",
+                "ZH": "一种形式",
+                "KO": "일체",
+                "TL": "isang anyo",
+                "MY": "ကိစ္စတစ်ခု",
+                "HI": "एक रूप",
+                "AR": "شكل واحد",
+                "FA": "یک شکل"
+            },
+            "one Buddhist image": {
+                "EN": "\"Ittai\" refers to one Buddhist image, such as a statue or painting of Buddha.",
+                "ID": "\"Ittai\" merujuk pada satu gambar Buddha, seperti patung atau lukisan Buddha.",
+                "ES": "\"Ittai\" se refiere a una imagen budista, como una estatua o pintura de Buda.",
+                "VI": "\"Ittai\" chỉ một hình ảnh Phật giáo, chẳng hạn như tượng hoặc tranh của Đức Phật.",
+                "FR": "\"Ittai\" désigne une image bouddhiste, telle qu'une statue ou une peinture de Bouddha.",
+                "NE": "\"इत्ताई\"ले बुद्धको एउटा मूर्ति वा चित्रलाई जनाउँछ।",
+                "BN": "\"ইত্তাই\" বলতে একটিকে বোঝানো হয় যা বৌদ্ধ মূর্তির ছবি, যেমন বুদ্ধের মূর্তি বা চিত্র।",
+                "ZH": "\"一体\"指一尊佛像，如佛的雕像或画作。",
+                "KO": "\"잇타이\"는 불상의 일부분 또는 불교 그림을 가리킵니다.",
+                "TL": "Ang \"Ittai\" ay tumutukoy sa isang imahen ng Buddha, tulad ng estatwa o pintura ng Buddha.",
+                "MY": "\"Ittai\" သည် ဗုဒ္ဓ၏ ရုပ်တု သို့မဟုတ် ပန်းချီကားကဲ့သို့သော တစ်ခုတည်းသော ဗုဒ္ဓရုပ်ပုံကို ကိုးကားသည်။",
+                "HI": "\"इत्ताई\" का अर्थ है एक बौद्ध छवि, जैसे कि बुद्ध की मूर्ति या चित्र।",
+                "AR": "\"إيتاي\" يشير إلى صورة بوذية واحدة، مثل تمثال أو لوحة لبوذا.",
+                "FA": "\"ایتای\" به یک تصویر بودایی اشاره دارد، مانند تندیس یا نقاشی از بودا."
+            },
+            "generally": {
+                "EN": "generally, usually, typically",
+                "ID": "umumnya",
+                "ES": "generalmente",
+                "VI": "nói chung",
+                "FR": "généralement",
+                "NE": "सामान्यतया",
+                "BN": "সাধারণত",
+                "ZH": "一般来说",
+                "KO": "일반적으로",
+                "TL": "karaniwan",
+                "MY": "အထွေထွေ",
+                "HI": "सामान्यतः",
+                "AR": "بشكل عام",
+                "FA": "به طور کلی"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "一体どうしたの？",
+                "furigana": "一体(いったい)どうしたの？",
+                "translations": {
+                    "EN": "What's the matter?",
+                    "ID": "Ada apa?",
+                    "ES": "¿Qué pasa?",
+                    "VI": "Chuyện gì đã xảy ra?",
+                    "FR": "Que se passe-t-il ?",
+                    "NE": "के भयो?",
+                    "BN": "বিষয়টি কী?",
+                    "ZH": "到底怎么了？",
+                    "KO": "도대체 무슨 일이야?",
+                    "TL": "Ano bang nangyari?",
+                    "MY": "ဘာဖြစ်ချိန်လဲ?",
+                    "HI": "आखिर हुआ क्या है?",
+                    "AR": "ما الأمر؟",
+                    "FA": "چه مشکلی پیش آمده است؟"
+                }
+            },
+            {
+                "kanji": "彼はいったい何をしているの？",
+                "furigana": "彼(かれ)はいったい何(なに)をしているの？",
+                "translations": {
+                    "EN": "What on earth is he doing?",
+                    "ID": "Apa yang sebenarnya dia lakukan?",
+                    "ES": "¿Qué demonios está haciendo?",
+                    "VI": "Anh ấy đang làm gì tại đây?",
+                    "FR": "Mais qu'est-ce qu'il fait ?",
+                    "NE": "उनी के गर्दैछन्?",
+                    "BN": "সে আসলে কী করছে?",
+                    "ZH": "他到底在做什么？",
+                    "KO": "그는 도대체 무엇을 하고 있습니까?",
+                    "TL": "Ano ba ang ginagawa niya?",
+                    "MY": "သူကဘာလုပ်နေလဲ?",
+                    "HI": "वह आख़िरकार क्या कर रहा है?",
+                    "AR": "ماذا يفعل بحق السماء؟",
+                    "FA": "او در حال انجام چه کار است؟"
+                }
+            },
+            {
+                "kanji": "あの子はいったいどこに行ったの？",
+                "furigana": "あの子(こ)はいったいどこに行(い)ったの？",
+                "translations": {
+                    "EN": "Where on earth did that child go?",
+                    "ID": "Ke mana anak itu pergi?",
+                    "ES": "¿Dónde rayos fue ese niño?",
+                    "VI": "Đứa trẻ đó rút cuộc đã đi đâu?",
+                    "FR": "Mais où est donc passé cet enfant?",
+                    "NE": "त्यो बच्चा कतो गई ?",
+                    "BN": "ওই বাচ্চা একদম কোথায় গেল?",
+                    "ZH": "那孩子到底跑到哪里去了？",
+                    "KO": "그 아이는 도대체 어디로 간 거지?",
+                    "TL": "Nasaan na ba ang batang iyon?",
+                    "MY": "ဒီကလေးကဘယ်ကိုသွားသလဲဆိုတာတင်လီမိုမဲ့ရော။",
+                    "HI": "वह बच्चा आखिर कहाँ चला गया?",
+                    "AR": "أين ذهب ذلك الطفل؟",
+                    "FA": "آن کودک به کجا رفت؟"
+                }
+            },
+            {
+                "kanji": "いったいなぜここにきたの？",
+                "furigana": "いったいなぜここにきたの？",
+                "translations": {
+                    "EN": "Why on earth did you come here?",
+                    "ID": "Kenapa sebenarnya kamu datang ke sini?",
+                    "ES": "¿Por qué viniste aquí?",
+                    "VI": "Rốt cuộc tại sao bạn lại đến đây?",
+                    "FR": "Pourquoi es-tu venu ici ?",
+                    "NE": "बास्तवमै किन यहाँ आयौ?",
+                    "BN": "একদম কেন তুমি এখানে এলে?",
+                    "ZH": "你到底为什么来这里？",
+                    "KO": "도대체 왜 여기에 왔어요?",
+                    "TL": "Bakit ka nga ba pumunta rito?",
+                    "MY": "နောင်တရမှုနဲ့ ဘာ​ကြောင့် ဒီနေရာကိုလာခဲ့တာလဲ?",
+                    "HI": "आखिरकार तुम यहाँ क्यों आए?",
+                    "AR": "لماذا جئت إلى هنا؟",
+                    "FA": "واقعاً چرا به اینجا آمدی؟"
+                }
+            },
+            {
+                "kanji": "一体誰が来たの？",
+                "furigana": "一体(いったい)誰(だれ)が来(き)たの？",
+                "translations": {
+                    "EN": "Who on earth came?",
+                    "ID": "Siapa yang datang sebenarnya?",
+                    "ES": "¿Quién diablos vino?",
+                    "VI": "Rốt cuộc ai đã đến?",
+                    "FR": "Qui est venu sur terre ?",
+                    "NE": "आखिर को आयो?",
+                    "BN": "কে আসল?",
+                    "ZH": "究竟是谁来了？",
+                    "KO": "도대체 누가 왔어?",
+                    "TL": "Sino ang dumating?",
+                    "MY": "အိုင်တိုင်ဘယ်သူလာခဲ့လဲ?",
+                    "HI": "आखिरकार कौन आया?",
+                    "AR": "من جاء على الأرض؟",
+                    "FA": "چه کسی واقعاً آمد؟"
+                }
+            },
+            {
+                "kanji": "いったい何が起こったのか？",
+                "furigana": "いったい何(なに)が起(お)こったのか？",
+                "translations": {
+                    "EN": "What on earth happened?",
+                    "ID": "Apa sebenarnya yang terjadi?",
+                    "ES": "¿Qué demonios pasó?",
+                    "VI": "Đã xảy ra chuyện gì thế?",
+                    "FR": "Mais qu'est-ce qui s'est passé ?",
+                    "NE": "संसारमा के भयो?",
+                    "BN": "ঠিক কী ঘটেছিল?",
+                    "ZH": "到底发生了什么事？",
+                    "KO": "도대체 무슨 일이 있었지?",
+                    "TL": "Ano ba talaga ang nangyari?",
+                    "MY": "ဘာတွေဖြစ်သွားခဲ့လဲ？",
+                    "HI": "आख़िर हुआ क्या?",
+                    "AR": "ماذا حدث بحق السماء؟",
+                    "FA": "در این جهان چه اتفاقی افتاد؟"
+                }
+            }
+        ],
+        "synonyms": [
+            "何を : なにを : what?"
+        ],
+        "synonyms_explanation": "The most common synonym of the word いったい is \"なにを,\" which translates to \"what\" in English. While いったい is used to add emphasis to questions and can express surprise, なにを is a simpler, direct way to ask about an object or action without additional emotional nuance.",
+        "antonyms": [
+            "全然 : ぜんぜん :  at all"
+        ],
+        "antonyms_explanation": "The most common antonym of the word いったい is \"ぜんぜん,\" which means \"not at all.\" While いったい focuses on emphasizing an inquiry or confusion, ぜんぜん is used to negate a statement or convey complete absence of something, providing a contrast in expressing certainty.",
+        "kanji_details": [
+            {
+                "kanji": "一",
+                "common_words": [
+                    "一人: one person",
+                    "一番: number one"
+                ]
+            },
+            {
+                "kanji": "体",
+                "common_words": [
+                    "体温: body temperature",
+                    "体育: physical education"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "一体",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "一体",
+                "reading": "いったい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    " the heck",
+                    " in the world",
+                    " on earth"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "one object",
+                    "one body",
+                    "unity"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "one form",
+                    "one style"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "one Buddhist image"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "generally",
+                    "in general"
+                ],
+                "parts_of_speech": [
+                    "Noun, Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "一",
+        "体"
     ],
-    "kanjis": [
-        {
-            "kanji": "一",
+    "kanji_data": {
+        "一": {
             "meanings": [
                 "one",
                 "one radical (no.1)"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イチ",
                 "イツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ひと-",
                 "ひと.つ"
             ],
-            "strokes": 1,
+            "stroke_count": 1,
             "jlpt": 5,
-            "frequency": 2,
+            "freq_mainichi_shinbun": 2,
             "unicode": "4E00",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "一人",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひとり",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "one person"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "being alone",
-                                "being by oneself"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "being single",
-                                "being unmarried"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "by oneself",
-                                "alone"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "just",
-                                "only",
-                                "simply"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3",
-                        "jlpt-n1",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "一番",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "いちばん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "number one",
-                                "first",
-                                "first place"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "best",
-                                "most"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "game",
-                                "round",
-                                "bout"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "as a test",
-                                "as an experiment",
-                                "by way of experiment",
-                                "by way of trial",
-                                "tentatively"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "song",
-                                "piece"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "Ichiban"
-                            ],
-                            "part_of_speech": "Place",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "体",
+        "体": {
             "meanings": [
                 "body",
                 "counter for images",
@@ -292,308 +393,27 @@
                 "reality",
                 "substance"
             ],
-            "onyomi": [
+            "on_readings": [
                 "タイ",
                 "テイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "かたち",
                 "からだ"
             ],
-            "strokes": 7,
+            "stroke_count": 7,
             "jlpt": 4,
-            "frequency": 88,
+            "freq_mainichi_shinbun": 88,
             "unicode": "4F53",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "体温",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たいおん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "body temperature"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "体育",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "たいいく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "physical education",
-                                "PE",
-                                "gym"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means one, single, or whole and often marks counting or unity. For example ひとり uses that sense to mean one person, showing the idea of a single individual. Another example is いちばん which uses the same 'one' to mean number one or the most. The second kanji means body, form, or physical substance and appears in words about the body or physical systems. For instance たいおん uses this kanji to talk about body temperature, connecting to the physical body. And たいいく uses it to mean physical education, where the idea of the body and physical training is central.",
-    "explanations": {
-        "explanation": "The word \"いったい\" means \"the heck, actually, generally, or after all.\" It’s an expression often used in questions to add emphasis, indicating confusion or surprise about something unexpected. In casual conversations, it can be synonymous with \"what on earth.\"",
-        "youtube_description": "Learn how to use the Japanese word 一体 (いったい) in everyday conversations! In this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "Ever wondered how to express surprise or confusion in Japanese? Today, we're diving into the usage of いったい, a versatile expression you’ll frequently encounter in questions when you want to add a dramatic flair of disbelief or emphasis.",
-        "collocations": [
-            "いったいどうしたの",
-            "いったい何をしているの",
-            "いったいどこに行った",
-            "いったいなぜ",
-            "いったい誰が",
-            "いったい何が起こったのか"
-        ],
-        "synonyms": [
-            "何を"
-        ],
-        "synonyms_explanation": "The most common synonym of the word いったい is \"なにを,\" which translates to \"what\" in English. While いったい is used to add emphasis to questions and can express surprise, なにを is a simpler, direct way to ask about an object or action without additional emotional nuance.",
-        "antonyms": [
-            "全然"
-        ],
-        "antonyms_explanation": "The most common antonym of the word いったい is \"ぜんぜん,\" which means \"not at all.\" While いったい focuses on emphasizing an inquiry or confusion, ぜんぜん is used to negate a statement or convey complete absence of something, providing a contrast in expressing certainty."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "一体どうしたの？",
-            "furigana": "一体(いったい)どうしたの？",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "一体どうしたの？",
-                "English": "What's the matter?",
-                "Persian": "چه مشکلی پیش آمده است؟",
-                "Nepali": "के भयो?",
-                "Indonesian": "Ada apa?",
-                "Filipino": "Ano bang nangyari?",
-                "Vietnamese": "Chuyện gì đã xảy ra?",
-                "Burmese": "ဘာဖြစ်ချိန်လဲ?",
-                "Korean": "도대체 무슨 일이야?",
-                "Hindi": "आखिर हुआ क्या है?",
-                "Arabic": "ما الأمر؟",
-                "French": "Que se passe-t-il ?",
-                "Spanish": "¿Qué pasa?",
-                "Chinese": "到底怎么了？",
-                "Bengali": "বিষয়টি কী?"
-            }
-        },
-        {
-            "kanji": "彼はいったい何をしているの？",
-            "furigana": "彼(かれ)はいったい何(なに)をしているの？",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼はいったい何をしているの？",
-                "English": "What on earth is he doing?",
-                "Persian": "او در حال انجام چه کار است؟",
-                "Nepali": "उनी के गर्दैछन्?",
-                "Indonesian": "Apa yang sebenarnya dia lakukan?",
-                "Filipino": "Ano ba ang ginagawa niya?",
-                "Vietnamese": "Anh ấy đang làm gì tại đây?",
-                "Burmese": "သူကဘာလုပ်နေလဲ?",
-                "Korean": "그는 도대체 무엇을 하고 있습니까?",
-                "Hindi": "वह आख़िरकार क्या कर रहा है?",
-                "Arabic": "ماذا يفعل بحق السماء؟",
-                "French": "Mais qu'est-ce qu'il fait ?",
-                "Spanish": "¿Qué demonios está haciendo?",
-                "Chinese": "他到底在做什么？",
-                "Bengali": "সে আসলে কী করছে?"
-            }
-        },
-        {
-            "kanji": "あの子はいったいどこに行ったの？",
-            "furigana": "あの子(こ)はいったいどこに行(い)ったの？",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "あの子はいったいどこに行ったの？",
-                "English": "Where on earth did that child go?",
-                "Persian": "آن کودک به کجا رفت؟",
-                "Nepali": "त्यो बच्चा कतो गई ?",
-                "Indonesian": "Ke mana anak itu pergi?",
-                "Filipino": "Nasaan na ba ang batang iyon?",
-                "Vietnamese": "Đứa trẻ đó rút cuộc đã đi đâu?",
-                "Burmese": "ဒီကလေးကဘယ်ကိုသွားသလဲဆိုတာတင်လီမိုမဲ့ရော။",
-                "Korean": "그 아이는 도대체 어디로 간 거지?",
-                "Hindi": "वह बच्चा आखिर कहाँ चला गया?",
-                "Arabic": "أين ذهب ذلك الطفل؟",
-                "French": "Mais où est donc passé cet enfant?",
-                "Spanish": "¿Dónde rayos fue ese niño?",
-                "Chinese": "那孩子到底跑到哪里去了？",
-                "Bengali": "ওই বাচ্চা একদম কোথায় গেল?"
-            }
-        },
-        {
-            "kanji": "いったいなぜここにきたの？",
-            "furigana": "いったいなぜここにきたの？",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "いったいなぜここにきたの？",
-                "English": "Why on earth did you come here?",
-                "Persian": "واقعاً چرا به اینجا آمدی؟",
-                "Nepali": "बास्तवमै किन यहाँ आयौ?",
-                "Indonesian": "Kenapa sebenarnya kamu datang ke sini?",
-                "Filipino": "Bakit ka nga ba pumunta rito?",
-                "Vietnamese": "Rốt cuộc tại sao bạn lại đến đây?",
-                "Burmese": "နောင်တရမှုနဲ့ ဘာ​ကြောင့် ဒီနေရာကိုလာခဲ့တာလဲ?",
-                "Korean": "도대체 왜 여기에 왔어요?",
-                "Hindi": "आखिरकार तुम यहाँ क्यों आए?",
-                "Arabic": "لماذا جئت إلى هنا؟",
-                "French": "Pourquoi es-tu venu ici ?",
-                "Spanish": "¿Por qué viniste aquí?",
-                "Chinese": "你到底为什么来这里？",
-                "Bengali": "একদম কেন তুমি এখানে এলে?"
-            }
-        },
-        {
-            "kanji": "一体誰が来たの？",
-            "furigana": "一体(いったい)誰(だれ)が来(き)たの？",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "一体誰が来たの？",
-                "English": "Who on earth came?",
-                "Persian": "چه کسی واقعاً آمد؟",
-                "Nepali": "आखिर को आयो?",
-                "Indonesian": "Siapa yang datang sebenarnya?",
-                "Filipino": "Sino ang dumating?",
-                "Vietnamese": "Rốt cuộc ai đã đến?",
-                "Burmese": "အိုင်တိုင်ဘယ်သူလာခဲ့လဲ?",
-                "Korean": "도대체 누가 왔어?",
-                "Hindi": "आखिरकार कौन आया?",
-                "Arabic": "من جاء على الأرض؟",
-                "French": "Qui est venu sur terre ?",
-                "Spanish": "¿Quién diablos vino?",
-                "Chinese": "究竟是谁来了？",
-                "Bengali": "কে আসল?"
-            }
-        },
-        {
-            "kanji": "いったい何が起こったのか？",
-            "furigana": "いったい何(なに)が起(お)こったのか？",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "いったい何が起こったのか？",
-                "English": "What on earth happened?",
-                "Persian": "در این جهان چه اتفاقی افتاد؟",
-                "Nepali": "संसारमा के भयो?",
-                "Indonesian": "Apa sebenarnya yang terjadi?",
-                "Filipino": "Ano ba talaga ang nangyari?",
-                "Vietnamese": "Đã xảy ra chuyện gì thế?",
-                "Burmese": "ဘာတွေဖြစ်သွားခဲ့လဲ？",
-                "Korean": "도대체 무슨 일이 있었지?",
-                "Hindi": "आख़िर हुआ क्या?",
-                "Arabic": "ماذا حدث بحق السماء؟",
-                "French": "Mais qu'est-ce qui s'est passé ?",
-                "Spanish": "¿Qué demonios pasó?",
-                "Chinese": "到底发生了什么事？",
-                "Bengali": "ঠিক কী ঘটেছিল?"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "何を",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "なにを",
-            "meanings": [
-                {
-                    "neuances": [
-                        "what?"
-                    ],
-                    "part_of_speech": "",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "全然",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ぜんぜん",
-            "meanings": [
-                {
-                    "neuances": [
-                        " at all",
-                        " in the slightest"
-                    ],
-                    "part_of_speech": "Adverb (fukushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "wholly",
-                        "entirely",
-                        "completely",
-                        "totally"
-                    ],
-                    "part_of_speech": "Adverb (fukushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "extremely",
-                        "very"
-                    ],
-                    "part_of_speech": "Adverb (fukushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "いったいどうしたの",
+        "いったい何をしているの",
+        "いったいどこに行った",
+        "いったいなぜ",
+        "いったい誰が",
+        "いったい何が起こったのか"
     ]
 }

@@ -1,61 +1,222 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "改札",
+    "jlpt_level": 2,
     "youtube_link": "https://youtu.be/w_JpSi_f8lc",
     "in_db": true,
-    "reading": "かいさつ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "改札",
+        "reading": "かいさつ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is かいさつ, which you will often hear in train stations in Japan. This is a handy term to know if you're navigating the public transportation system.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word かいさつ means \"ticket gate.\" It's the area in train stations where passengers have their tickets or passes checked before entering or exiting the station premises. ",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "examination of tickets"
             ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "改札",
-                "English": "Examination of tickets",
-                "Persian": "تفتیش بلیط‌ها",
-                "Nepali": "टिकटहरूको जांच",
-                "Indonesian": "Pemeriksaan tiket",
-                "Filipino": "Examinasyon ng mga tiket",
-                "Vietnamese": "Kiểm tra vé",
-                "Burmese": "လက်မှတ် စစ်ဆေးခြင်း",
-                "Korean": "티켓 검사",
-                "Hindi": "टिकटों की जांच",
-                "Arabic": "فحص التذاكر",
-                "French": "Examen des billets",
-                "Spanish": "Examinación de boletos",
-                "Chinese": "验票",
-                "Bengali": "টিকেট পরীক্ষার কাজ"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "ticket gate",
                 "ticket barrier"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "改札",
-                "English": "ticket gate",
-                "Persian": "دروازه بلیط",
-                "Nepali": "टिकट गेट",
-                "Indonesian": "gerbang tiket",
-                "Filipino": "gate ng tiket",
-                "Vietnamese": "cổng vé",
-                "Burmese": "လက်မှတ်အကန့်",
-                "Korean": "티켓 게이트",
-                "Hindi": "टिकट गेट",
-                "Arabic": "بوابة التذاكر",
-                "French": "portillon",
-                "Spanish": "torniquete",
-                "Chinese": "检票口",
-                "Bengali": "টিকিট গেট"
+            ]
+        ],
+        "meaning_translations": {
+            "examination of tickets": {
+                "EN": "Examination of tickets",
+                "ID": "Pemeriksaan tiket",
+                "ES": "Examinación de boletos",
+                "VI": "Kiểm tra vé",
+                "FR": "Examen des billets",
+                "NE": "टिकटहरूको जांच",
+                "BN": "টিকেট পরীক্ষার কাজ",
+                "ZH": "验票",
+                "KO": "티켓 검사",
+                "TL": "Examinasyon ng mga tiket",
+                "MY": "လက်မှတ် စစ်ဆေးခြင်း",
+                "HI": "टिकटों की जांच",
+                "AR": "فحص التذاكر",
+                "FA": "تفتیش بلیط‌ها"
+            },
+            "ticket gate": {
+                "EN": "ticket gate",
+                "ID": "gerbang tiket",
+                "ES": "torniquete",
+                "VI": "cổng vé",
+                "FR": "portillon",
+                "NE": "टिकट गेट",
+                "BN": "টিকিট গেট",
+                "ZH": "检票口",
+                "KO": "티켓 게이트",
+                "TL": "gate ng tiket",
+                "MY": "လက်မှတ်အကန့်",
+                "HI": "टिकट गेट",
+                "AR": "بوابة التذاكر",
+                "FA": "دروازه بلیط"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "改札口に友達がいます。",
+                "furigana": "改札口(かいさつぐち)に友達(ともだち)がいます。",
+                "translations": {
+                    "EN": "A friend is at the ticket gate.",
+                    "ID": "Seorang teman ada di gerbang tiket.",
+                    "ES": "Un amigo está en la taquilla de entrada.",
+                    "VI": "Một người bạn đang ở cổng soát vé.",
+                    "FR": "Un ami est à la guichet.",
+                    "NE": "साथी टिकट गेटमा छन्।",
+                    "BN": "এক বন্ধু টিকেট গেটে রয়েছে।",
+                    "ZH": "朋友在检票口。",
+                    "KO": "친구가 개찰구에 있습니다.",
+                    "TL": "May kaibigan sa gate ng ticket.",
+                    "MY": "နှစ်ချင်းမိတ်ဆွေသည် လက်မှတ်ဂိတ်၌ ရှိသည်။",
+                    "HI": "एक दोस्त टिकट गेट पर है।",
+                    "AR": "هناك صديق عند بوابة التذاكر.",
+                    "FA": "یک دوست در دروازه بلیط است."
+                }
+            },
+            {
+                "kanji": "私は改札を通る。",
+                "furigana": "私(わたし)は改札(かいさつ)を通(とお)る。",
+                "translations": {
+                    "EN": "I pass through the ticket gate.",
+                    "ID": "Saya melewati gerbang tiket.",
+                    "ES": "Paso por la taquilla.",
+                    "VI": "Tôi đi qua cổng vé.",
+                    "FR": "Je passe par la barrière de tickets.",
+                    "NE": "म टिकट गेटबाट जान्छु।",
+                    "BN": "আমি টিকিট গেট দিয়ে পার হই।",
+                    "ZH": "我通过检票口。",
+                    "KO": "나는 개찰구를 통과한다.",
+                    "TL": "Dumaan ako sa ticket gate.",
+                    "MY": "ကျွန်တော်က လက်မှတ်တံခါးကို ဖြတ်ပြီးသွားတယ်။",
+                    "HI": "मैं टिकट गेट के माध्यम से जाता हूँ।",
+                    "AR": "أنا أعبر من خلال بوابة التذاكر.",
+                    "FA": "من از دستگاه بلیط عبور می‌کنم."
+                }
+            },
+            {
+                "kanji": "改札で待つ。",
+                "furigana": "改札(かいさつ)で待(ま)つ。",
+                "translations": {
+                    "EN": "Wait at the ticket gate.",
+                    "ID": "Tunggu di gerbang tiket.",
+                    "ES": "Espera en la puerta de entrada.",
+                    "VI": "Chờ ở cổng vé.",
+                    "FR": "Attendre à la barrière de péage.",
+                    "NE": "टिकट गेटमा प्रतिक्षा गर्नुहोस्।",
+                    "BN": "টিকিট গেটে অপেক্ষা করুন।",
+                    "ZH": "在检票口等待。",
+                    "KO": "개찰구에서 기다리다.",
+                    "TL": "Maghintay sa ticket gate.",
+                    "MY": "လက်မှတ်ဝင်ပေါက်တွင်စောင့်ပေးပါ။",
+                    "HI": "टिकट द्वार पर प्रतीक्षा करें।",
+                    "AR": "انتظر عند باب التذاكر.",
+                    "FA": "در جلوی دروازه بلیط منتظر بمانید."
+                }
+            },
+            {
+                "kanji": "改札を出る。",
+                "furigana": "改札(かいさつ)を出(で)る。",
+                "translations": {
+                    "EN": "Exit the ticket gate.",
+                    "ID": "Keluar dari gerbang tiket.",
+                    "ES": "Salir de la taquilla.",
+                    "VI": "Ra khỏi cổng vé.",
+                    "FR": "Sortez de la barrière de ticket.",
+                    "NE": "टिकट गेटबाट बाहिर निस्कनुहोस्।",
+                    "BN": "টিকিট গেট থেকে বের হন।",
+                    "ZH": "出票口。",
+                    "KO": "티켓 게이트를 나간다.",
+                    "TL": "Lumabas sa pintuan ng ticket.",
+                    "MY": "လက်မှတ် တံခါးကို ထွက်ပါ။",
+                    "HI": "टिकट गेट से बाहर निकलें।",
+                    "AR": "اخرج من بوابة التذاكر.",
+                    "FA": "از دروازه بلیت خارج شوید."
+                }
+            }
+        ],
+        "synonyms": [
+            "出入り口 : でいりぐち : exit and entrance",
+            "乗車口 : じょうしゃぐち : entrance"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word かいさつ are でいりぐち andじょうしゃぐち. \"でいりぐち\" means entrance or exit without necessarily involving ticket checking, while \"じょうしゃぐち\" tends to focus on the boarding point where you enter a vehicle, most often used for buses or airplanes, providing slightly different contexts of usage.",
+        "antonyms": [
+            "出口 : でぐち : exit",
+            "閉鎖 : へいさ : closing"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word かいさつ are でぐち and へいさ. \"でぐち\" means exit, referring to leaving a location, not necessarily involving ticket checking, while \"へいさ\" implies closure, like when a gate is closed, which contrasts with an open or operational ticket gate. ",
+        "kanji_details": [
+            {
+                "kanji": "改",
+                "common_words": [
+                    "改良: improvement",
+                    "改築: structural alteration"
+                ]
+            },
+            {
+                "kanji": "札",
+                "common_words": [
+                    "名札: name plate",
+                    "札束: bundle of banknotes"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "改札",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "改札",
+                "reading": "かいさつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "examination of tickets"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "ticket gate",
+                    "ticket barrier"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "改",
+        "札"
     ],
-    "kanjis": [
-        {
-            "kanji": "改",
+    "kanji_data": {
+        "改": {
             "meanings": [
                 "change",
                 "examine",
@@ -66,78 +227,20 @@
                 "renew",
                 "search"
             ],
-            "onyomi": [
+            "on_readings": [
                 "カイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あらた.まる",
                 "あらた.める"
             ],
-            "strokes": 7,
+            "stroke_count": 7,
             "jlpt": 2,
-            "frequency": 147,
+            "freq_mainichi_shinbun": 147,
             "unicode": "6539",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "改良",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かいりょう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "improvement",
-                                "reform"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "改築",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かいちく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "structural alteration",
-                                "reconstruction",
-                                "rebuilding",
-                                "remodelling",
-                                "remodeling"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         },
-        {
-            "kanji": "札",
+        "札": {
             "meanings": [
                 "bid",
                 "counter for bonds",
@@ -145,327 +248,23 @@
                 "placard",
                 "tag"
             ],
-            "onyomi": [
+            "on_readings": [
                 "サツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ふだ"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": 2,
-            "frequency": 921,
+            "freq_mainichi_shinbun": 921,
             "unicode": "672D",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "名札",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "なふだ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "name plate",
-                                "name tag",
-                                "label"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "札束",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "さつたば",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "bundle of banknotes",
-                                "stack of bills"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "large sum of money"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means to change or revise and carries the sense of making something different or better. You see this meaning in かいりょう where it means improving something, and in かいちく where it means rebuilding or altering a structure. The second kanji means a tag or a paper token like a bill and suggests a small flat piece of paper or card. You see this in なふだ for a name tag that is literally a small card, and in さつたば where it refers to a bundle of paper money.",
-    "explanations": {
-        "explanation": "The word かいさつ means \"ticket gate.\" It's the area in train stations where passengers have their tickets or passes checked before entering or exiting the station premises. ",
-        "youtube_description": "Learn how to use the Japanese word 改札 (かいさつ) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!\n",
-        "motivation": "The word we'll be learning in this section is かいさつ, which you will often hear in train stations in Japan. This is a handy term to know if you're navigating the public transportation system.",
-        "collocations": [
-            "かいさつぐち",
-            "かいさつをとおる",
-            "かいさつでまつ",
-            "かいさつをでる"
-        ],
-        "synonyms": [
-            "出入口",
-            "乗車口"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word かいさつ are でいりぐち andじょうしゃぐち. \"でいりぐち\" means entrance or exit without necessarily involving ticket checking, while \"じょうしゃぐち\" tends to focus on the boarding point where you enter a vehicle, most often used for buses or airplanes, providing slightly different contexts of usage.",
-        "antonyms": [
-            "出口",
-            "閉鎖"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word かいさつ are でぐち and へいさ. \"でぐち\" means exit, referring to leaving a location, not necessarily involving ticket checking, while \"へいさ\" implies closure, like when a gate is closed, which contrasts with an open or operational ticket gate. "
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n2"
-    ],
-    "examples": [
-        {
-            "kanji": "改札口に友達がいます。",
-            "furigana": "改札口(かいさつぐち)に友達(ともだち)がいます。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "改札口に友達がいます。",
-                "English": "A friend is at the ticket gate.",
-                "Persian": "یک دوست در دروازه بلیط است.",
-                "Nepali": "साथी टिकट गेटमा छन्।",
-                "Indonesian": "Seorang teman ada di gerbang tiket.",
-                "Filipino": "May kaibigan sa gate ng ticket.",
-                "Vietnamese": "Một người bạn đang ở cổng soát vé.",
-                "Burmese": "နှစ်ချင်းမိတ်ဆွေသည် လက်မှတ်ဂိတ်၌ ရှိသည်။",
-                "Korean": "친구가 개찰구에 있습니다.",
-                "Hindi": "एक दोस्त टिकट गेट पर है।",
-                "Arabic": "هناك صديق عند بوابة التذاكر.",
-                "French": "Un ami est à la guichet.",
-                "Spanish": "Un amigo está en la taquilla de entrada.",
-                "Chinese": "朋友在检票口。",
-                "Bengali": "এক বন্ধু টিকেট গেটে রয়েছে।"
-            }
-        },
-        {
-            "kanji": "私は改札を通る。",
-            "furigana": "私(わたし)は改札(かいさつ)を通(とお)る。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "私は改札を通る。",
-                "English": "I pass through the ticket gate.",
-                "Persian": "من از دستگاه بلیط عبور می‌کنم.",
-                "Nepali": "म टिकट गेटबाट जान्छु।",
-                "Indonesian": "Saya melewati gerbang tiket.",
-                "Filipino": "Dumaan ako sa ticket gate.",
-                "Vietnamese": "Tôi đi qua cổng vé.",
-                "Burmese": "ကျွန်တော်က လက်မှတ်တံခါးကို ဖြတ်ပြီးသွားတယ်။",
-                "Korean": "나는 개찰구를 통과한다.",
-                "Hindi": "मैं टिकट गेट के माध्यम से जाता हूँ।",
-                "Arabic": "أنا أعبر من خلال بوابة التذاكر.",
-                "French": "Je passe par la barrière de tickets.",
-                "Spanish": "Paso por la taquilla.",
-                "Chinese": "我通过检票口。",
-                "Bengali": "আমি টিকিট গেট দিয়ে পার হই।"
-            }
-        },
-        {
-            "kanji": "改札で待つ。",
-            "furigana": "改札(かいさつ)で待(ま)つ。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "改札で待つ。",
-                "English": "Wait at the ticket gate.",
-                "Persian": "در جلوی دروازه بلیط منتظر بمانید.",
-                "Nepali": "टिकट गेटमा प्रतिक्षा गर्नुहोस्।",
-                "Indonesian": "Tunggu di gerbang tiket.",
-                "Filipino": "Maghintay sa ticket gate.",
-                "Vietnamese": "Chờ ở cổng vé.",
-                "Burmese": "လက်မှတ်ဝင်ပေါက်တွင်စောင့်ပေးပါ။",
-                "Korean": "개찰구에서 기다리다.",
-                "Hindi": "टिकट द्वार पर प्रतीक्षा करें।",
-                "Arabic": "انتظر عند باب التذاكر.",
-                "French": "Attendre à la barrière de péage.",
-                "Spanish": "Espera en la puerta de entrada.",
-                "Chinese": "在检票口等待。",
-                "Bengali": "টিকিট গেটে অপেক্ষা করুন।"
-            }
-        },
-        {
-            "kanji": "改札を出る。",
-            "furigana": "改札(かいさつ)を出(で)る。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "改札を出る。",
-                "English": "Exit the ticket gate.",
-                "Persian": "از دروازه بلیت خارج شوید.",
-                "Nepali": "टिकट गेटबाट बाहिर निस्कनुहोस्।",
-                "Indonesian": "Keluar dari gerbang tiket.",
-                "Filipino": "Lumabas sa pintuan ng ticket.",
-                "Vietnamese": "Ra khỏi cổng vé.",
-                "Burmese": "လက်မှတ် တံခါးကို ထွက်ပါ။",
-                "Korean": "티켓 게이트를 나간다.",
-                "Hindi": "टिकट गेट से बाहर निकलें।",
-                "Arabic": "اخرج من بوابة التذاكر.",
-                "French": "Sortez de la barrière de ticket.",
-                "Spanish": "Salir de la taquilla.",
-                "Chinese": "出票口。",
-                "Bengali": "টিকিট গেট থেকে বের হন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "出入り口",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "でいりぐち",
-            "meanings": [
-                {
-                    "neuances": [
-                        "exit and entrance"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2",
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "乗車口",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "じょうしゃぐち",
-            "meanings": [
-                {
-                    "neuances": [
-                        "entrance"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "passenger door"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "出口",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "でぐち",
-            "meanings": [
-                {
-                    "neuances": [
-                        "exit",
-                        "way out"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "outlet",
-                        "vent"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "閉鎖",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "へいさ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "closing",
-                        "closure"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "shutdown",
-                        "lockout"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "かいさつぐち",
+        "かいさつをとおる",
+        "かいさつでまつ",
+        "かいさつをでる"
     ]
 }

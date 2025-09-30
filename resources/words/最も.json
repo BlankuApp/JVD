@@ -1,321 +1,223 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "最も",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/3hUUlpECsb4",
     "in_db": true,
-    "reading": "もっとも",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "最も",
+        "reading": "もっとも",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is もっとも which you will often hear in conversations when people want to emphasize the highest degree of something or when they are introducing a contrasting point.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word もっとも means \"most\" or \"extremely\" in a way that indicates something being of the highest degree or rank. It can also serve as a conjunction meaning \"however,\" often used to present a counterpoint or exception to what was previously stated.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "most",
                 "extremely"
-            ],
-            "part_of_speech": "Adverb (fukushi)",
-            "translation": {
-                "Japanese": "最も",
-                "English": "most",
-                "Persian": "بیشترین",
-                "Nepali": "अधिकतम",
-                "Indonesian": "paling",
-                "Filipino": "pinaka",
-                "Vietnamese": "nhất",
-                "Burmese": "အများဆုံး",
-                "Korean": "가장",
-                "Hindi": "सबसे अधिक",
-                "Arabic": "الأكثر",
-                "French": "le plus",
-                "Spanish": "más",
-                "Chinese": "最",
-                "Bengali": "সবচেয়ে বেশি"
+            ]
+        ],
+        "meaning_translations": {
+            "most": {
+                "EN": "most",
+                "ID": "paling",
+                "ES": "más",
+                "VI": "nhất",
+                "FR": "le plus",
+                "NE": "अधिकतम",
+                "BN": "সবচেয়ে বেশি",
+                "ZH": "最",
+                "KO": "가장",
+                "TL": "pinaka",
+                "MY": "အများဆုံး",
+                "HI": "सबसे अधिक",
+                "AR": "الأكثر",
+                "FA": "بیشترین"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "この花は最も美しいです。",
+                "furigana": "このはなは最(も)も美(うつく)しいです。",
+                "translations": {
+                    "EN": "This flower is the most beautiful.",
+                    "ID": "Bunga ini adalah yang paling indah.",
+                    "ES": "Esta flor es la más hermosa.",
+                    "VI": "Bông hoa này là đẹp nhất.",
+                    "FR": "Cette fleur est la plus belle.",
+                    "NE": "यो फूल सबभन्दा सुन्दर छ।",
+                    "BN": "এই ফুলটি সবচেয়ে সুন্দর।",
+                    "ZH": "这朵花是最美的。",
+                    "KO": "이 꽃이 가장 아름다워요.",
+                    "TL": "Ang bulaklak na ito ang pinakamaganda.",
+                    "MY": "ဒီပန်းက အလှဆုံးပါ။",
+                    "HI": "यह फूल सबसे सुंदर है।",
+                    "AR": "هذه الزهرة هي الأجمل.",
+                    "FA": "این گل زیباترین است."
+                }
+            },
+            {
+                "kanji": "勉強が最も重要です。",
+                "furigana": "勉強(べんきょう)が最も重要(もっ(ともじゅうよう)です。",
+                "translations": {
+                    "EN": "Study is the most important.",
+                    "ID": "Belajar adalah yang paling penting.",
+                    "ES": "Estudiar es lo más importante.",
+                    "VI": "Học tập là quan trọng nhất.",
+                    "FR": "L'étude est la plus importante.",
+                    "NE": "पढाई सबैभन्दा महत्वपूर्ण हो।",
+                    "BN": "পঠনপাঠন সবচেয়ে গুরুত্বপূর্ণ।",
+                    "ZH": "学习是最重要的。",
+                    "KO": "공부가 가장 중요합니다.",
+                    "TL": "Ang pag-aaral ay ang pinakamahalaga.",
+                    "MY": "လေ့လာမှုမှာ အရေးကြီးဆုံးဖြစ်ပါတယ်။",
+                    "HI": "पढ़ाई सबसे महत्वपूर्ण है।",
+                    "AR": "الدراسة هي الأهم.",
+                    "FA": "تحصیل مهم‌ترین است."
+                }
+            },
+            {
+                "kanji": "富士山は日本で最も高い山です。",
+                "furigana": "富士山(ふじさん)は日本(にほん)で最(もっと)も高(たか)い山(やま)です。",
+                "translations": {
+                    "EN": "Mount Fuji is the highest mountain in Japan.",
+                    "ID": "Gunung Fuji adalah gunung tertinggi di Jepang.",
+                    "ES": "El Monte Fuji es la montaña más alta de Japón.",
+                    "VI": "Núi Phú Sĩ là ngọn núi cao nhất ở Nhật Bản.",
+                    "FR": "Le mont Fuji est la montagne la plus haute du Japon.",
+                    "NE": "फुजी पहाड जापानको सबैभन्दा अग्लो पहाड हो।",
+                    "BN": "ফুজি পর্বত জাপানের সবচেয়ে উঁচু পর্বত।",
+                    "ZH": "富士山是日本最高的山。",
+                    "KO": "후지산은 일본에서 가장 높은 산입니다.",
+                    "TL": "Ang Mount Fuji ay ang pinakamataas na bundok sa Japan.",
+                    "MY": "ဖူဂျိတောင်သည် ဂျပန်တွင် အမြင့်မားသည့် တောင်ဖြစ်သည်။",
+                    "HI": "फुजी पर्वत जापान का सबसे ऊँचा पर्वत है।",
+                    "AR": "جبل فوجي هو الجبل الأعلى في اليابان.",
+                    "FA": "کوه فوجی بلندترین کوه در ژاپن است."
+                }
+            },
+            {
+                "kanji": "それが最もです。",
+                "furigana": "それが最も(もとも)です。",
+                "translations": {
+                    "EN": "That's the most correct option.",
+                    "ID": "Itulah pilihan yang paling tepat.",
+                    "ES": "Esa es la opción más correcta.",
+                    "VI": "Đó là lựa chọn đúng nhất.",
+                    "FR": "C'est la chose la plus correcte.",
+                    "NE": "यो सबैभन्दा ठीक विकल्प हो।",
+                    "BN": "এটাই সবচেয়ে সঠিক বিকল্প।",
+                    "ZH": "这就是最正确的选择。",
+                    "KO": "그게 가장 맞아요.",
+                    "TL": "Iyan ang pinakatamang opsyon.",
+                    "MY": "အဲဒါမှာ အမှန်ဆုံးတဲ့ ရွေးချယ်မှုပါ။",
+                    "HI": "वह सबसे सही विकल्प है।",
+                    "AR": "هذا هو الخيار الأكثر صوابًا.",
+                    "FA": "این بیشترین گزینه صحیح است."
+                }
+            },
+            {
+                "kanji": "猫が最も好きです。",
+                "furigana": "猫(ねこ)が最(もっと)も好き(すき)です。",
+                "translations": {
+                    "EN": "I like cats the most.",
+                    "ID": "Saya paling suka kucing.",
+                    "ES": "Me gustan más los gatos.",
+                    "VI": "Tôi thích mèo nhất.",
+                    "FR": "J'aime les chats le plus.",
+                    "NE": "म बिरालोलाई सबैभन्दा धेरै मन पराउँछु।",
+                    "BN": "আমি বিড়ালকে সবচেয়ে বেশি পছন্দ করি।",
+                    "ZH": "我最喜欢猫。",
+                    "KO": "고양이를 가장 좋아해요.",
+                    "TL": "Pinakamagusto ko ang mga pusa.",
+                    "MY": "ကြောင်တွေကိုအကြိုက်ဆုံးဖြစ်ပါတယ်။",
+                    "HI": "मुझे बिल्लियाँ सबसे ज़्यादा पसंद हैं।",
+                    "AR": "أنا أحب القطط أكثر شيء.",
+                    "FA": "من گربه‌ها را بیشتر از همه دوست دارم."
+                }
+            }
+        ],
+        "synonyms": [
+            "非常に : ひじょうに : very"
+        ],
+        "synonyms_explanation": "The most common synonym of the word もっとも is ひじょうに, which also means \"extremely\" or \"very.\" While both are used to emphasize, ひじょうに is more frequently used in formal writing and speeches, whereas もっとも can also be used in everyday conversations to denote a counterpoint as a conjunction.",
+        "antonyms": [
+            "最小 : さいしょう : smallest"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word もっとも is さいしょう, which means \"least.\" While もっとも denotes the highest degree, さいしょう indicates the lowest or smallest degree or quantity.",
+        "kanji_details": [
+            {
+                "kanji": "最",
+                "common_words": [
+                    "最近: recently",
+                    "最初: beginning"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "最も",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "最も",
+                "reading": "もっとも"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "most",
+                    "extremely"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "最"
     ],
-    "kanjis": [
-        {
-            "kanji": "最",
+    "kanji_data": {
+        "最": {
             "meanings": [
                 "extreme",
                 "most",
                 "utmost"
             ],
-            "onyomi": [
+            "on_readings": [
                 "サイ",
                 "シュ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "つま",
                 "もっと.も"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": 3,
-            "frequency": 82,
+            "freq_mainichi_shinbun": 82,
             "unicode": "6700",
-            "grade": 4,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "最近",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "さいきん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "recently",
-                                "lately",
-                                "these days",
-                                "nowadays",
-                                "right now"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no', Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "nearest",
-                                "closest"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "最初",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "さいしょ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "beginning",
-                                "outset",
-                                "first",
-                                "onset"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no', Noun, Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 4
         }
-    ],
-    "kanji_explanation": "The first kanji means most or extreme. It gives the idea of the highest degree or the top of something. For example, さいきん uses it to mean the most recent time or these days. Another example is さいしょ which shows the idea of the very first or the beginning.",
-    "explanations": {
-        "explanation": "The word もっとも means \"most\" or \"extremely\" in a way that indicates something being of the highest degree or rank. It can also serve as a conjunction meaning \"however,\" often used to present a counterpoint or exception to what was previously stated.",
-        "youtube_description": "Learn how to use the Japanese word 最も (もっとも) in everyday conversations!  \nIn this video, we'll explore its meanings and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is もっとも which you will often hear in conversations when people want to emphasize the highest degree of something or when they are introducing a contrasting point.",
-        "collocations": [
-            "最も美しい",
-            "最も重要な",
-            "最も高い",
-            "それが最もです",
-            "最も好きな"
-        ],
-        "synonyms": [
-            "非常に"
-        ],
-        "synonyms_explanation": "The most common synonym of the word もっとも is ひじょうに, which also means \"extremely\" or \"very.\" While both are used to emphasize, ひじょうに is more frequently used in formal writing and speeches, whereas もっとも can also be used in everyday conversations to denote a counterpoint as a conjunction.",
-        "antonyms": [
-            "最小"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word もっとも is さいしょう, which means \"least.\" While もっとも denotes the highest degree, さいしょう indicates the lowest or smallest degree or quantity."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "この花は最も美しいです。",
-            "furigana": "このはなは最(も)も美(うつく)しいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "この花は最も美しいです。",
-                "English": "This flower is the most beautiful.",
-                "Persian": "این گل زیباترین است.",
-                "Nepali": "यो फूल सबभन्दा सुन्दर छ।",
-                "Indonesian": "Bunga ini adalah yang paling indah.",
-                "Filipino": "Ang bulaklak na ito ang pinakamaganda.",
-                "Vietnamese": "Bông hoa này là đẹp nhất.",
-                "Burmese": "ဒီပန်းက အလှဆုံးပါ။",
-                "Korean": "이 꽃이 가장 아름다워요.",
-                "Hindi": "यह फूल सबसे सुंदर है।",
-                "Arabic": "هذه الزهرة هي الأجمل.",
-                "French": "Cette fleur est la plus belle.",
-                "Spanish": "Esta flor es la más hermosa.",
-                "Chinese": "这朵花是最美的。",
-                "Bengali": "এই ফুলটি সবচেয়ে সুন্দর।"
-            }
-        },
-        {
-            "kanji": "勉強が最も重要です。",
-            "furigana": "勉強(べんきょう)が最も重要(もっ(ともじゅうよう)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "勉強が最も重要です。",
-                "English": "Study is the most important.",
-                "Persian": "تحصیل مهم‌ترین است.",
-                "Nepali": "पढाई सबैभन्दा महत्वपूर्ण हो।",
-                "Indonesian": "Belajar adalah yang paling penting.",
-                "Filipino": "Ang pag-aaral ay ang pinakamahalaga.",
-                "Vietnamese": "Học tập là quan trọng nhất.",
-                "Burmese": "လေ့လာမှုမှာ အရေးကြီးဆုံးဖြစ်ပါတယ်။",
-                "Korean": "공부가 가장 중요합니다.",
-                "Hindi": "पढ़ाई सबसे महत्वपूर्ण है।",
-                "Arabic": "الدراسة هي الأهم.",
-                "French": "L'étude est la plus importante.",
-                "Spanish": "Estudiar es lo más importante.",
-                "Chinese": "学习是最重要的。",
-                "Bengali": "পঠনপাঠন সবচেয়ে গুরুত্বপূর্ণ।"
-            }
-        },
-        {
-            "kanji": "富士山は日本で最も高い山です。",
-            "furigana": "富士山(ふじさん)は日本(にほん)で最(もっと)も高(たか)い山(やま)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "富士山は日本で最も高い山です。",
-                "English": "Mount Fuji is the highest mountain in Japan.",
-                "Persian": "کوه فوجی بلندترین کوه در ژاپن است.",
-                "Nepali": "फुजी पहाड जापानको सबैभन्दा अग्लो पहाड हो।",
-                "Indonesian": "Gunung Fuji adalah gunung tertinggi di Jepang.",
-                "Filipino": "Ang Mount Fuji ay ang pinakamataas na bundok sa Japan.",
-                "Vietnamese": "Núi Phú Sĩ là ngọn núi cao nhất ở Nhật Bản.",
-                "Burmese": "ဖူဂျိတောင်သည် ဂျပန်တွင် အမြင့်မားသည့် တောင်ဖြစ်သည်။",
-                "Korean": "후지산은 일본에서 가장 높은 산입니다.",
-                "Hindi": "फुजी पर्वत जापान का सबसे ऊँचा पर्वत है।",
-                "Arabic": "جبل فوجي هو الجبل الأعلى في اليابان.",
-                "French": "Le mont Fuji est la montagne la plus haute du Japon.",
-                "Spanish": "El Monte Fuji es la montaña más alta de Japón.",
-                "Chinese": "富士山是日本最高的山。",
-                "Bengali": "ফুজি পর্বত জাপানের সবচেয়ে উঁচু পর্বত।"
-            }
-        },
-        {
-            "kanji": "それが最もです。",
-            "furigana": "それが最も(もとも)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "それが最もです。",
-                "English": "That's the most correct option.",
-                "Persian": "این بیشترین گزینه صحیح است.",
-                "Nepali": "यो सबैभन्दा ठीक विकल्प हो।",
-                "Indonesian": "Itulah pilihan yang paling tepat.",
-                "Filipino": "Iyan ang pinakatamang opsyon.",
-                "Vietnamese": "Đó là lựa chọn đúng nhất.",
-                "Burmese": "အဲဒါမှာ အမှန်ဆုံးတဲ့ ရွေးချယ်မှုပါ။",
-                "Korean": "그게 가장 맞아요.",
-                "Hindi": "वह सबसे सही विकल्प है।",
-                "Arabic": "هذا هو الخيار الأكثر صوابًا.",
-                "French": "C'est la chose la plus correcte.",
-                "Spanish": "Esa es la opción más correcta.",
-                "Chinese": "这就是最正确的选择。",
-                "Bengali": "এটাই সবচেয়ে সঠিক বিকল্প।"
-            }
-        },
-        {
-            "kanji": "猫が最も好きです。",
-            "furigana": "猫(ねこ)が最(もっと)も好き(すき)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "猫が最も好きです。",
-                "English": "I like cats the most.",
-                "Persian": "من گربه‌ها را بیشتر از همه دوست دارم.",
-                "Nepali": "म बिरालोलाई सबैभन्दा धेरै मन पराउँछु।",
-                "Indonesian": "Saya paling suka kucing.",
-                "Filipino": "Pinakamagusto ko ang mga pusa.",
-                "Vietnamese": "Tôi thích mèo nhất.",
-                "Burmese": "ကြောင်တွေကိုအကြိုက်ဆုံးဖြစ်ပါတယ်။",
-                "Korean": "고양이를 가장 좋아해요.",
-                "Hindi": "मुझे बिल्लियाँ सबसे ज़्यादा पसंद हैं।",
-                "Arabic": "أنا أحب القطط أكثر شيء.",
-                "French": "J'aime les chats le plus.",
-                "Spanish": "Me gustan más los gatos.",
-                "Chinese": "我最喜欢猫。",
-                "Bengali": "আমি বিড়ালকে সবচেয়ে বেশি পছন্দ করি।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "非常に",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ひじょうに",
-            "meanings": [
-                {
-                    "neuances": [
-                        "very",
-                        "extremely",
-                        "exceedingly"
-                    ],
-                    "part_of_speech": "Adverb (fukushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "最小",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "さいしょう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "smallest",
-                        "least",
-                        "minimum",
-                        "minimal"
-                    ],
-                    "part_of_speech": "Noun which may take the genitive case particle 'no', Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "最も美しい",
+        "最も重要な",
+        "最も高い",
+        "それが最もです",
+        "最も好きな"
     ]
 }

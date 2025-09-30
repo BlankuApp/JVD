@@ -1,137 +1,330 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "激しい",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/9c55frkZiTY",
     "in_db": true,
-    "reading": "はげしい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "激しい",
+        "reading": "はげしい",
+        "introduction_japanese": "",
+        "introduction_english": "Today's lesson focuses on the intriguing word はげしい, which you're likely to encounter in conversations about emotions, weather, and situations requiring emphasis.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word 激しい means intense, fierce, or violent. This word can describe actions, emotions, or conditions that are of great intensity or force.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "violent",
                 "furious",
                 "tempestuous"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "激しい",
-                "English": "violent",
-                "Persian": "شدید",
-                "Nepali": "भीषण",
-                "Indonesian": "keras",
-                "Filipino": "marahas",
-                "Vietnamese": "dữ dội",
-                "Burmese": "ပြင်းထန်",
-                "Korean": "격렬한",
-                "Hindi": "उग्र",
-                "Arabic": "عنيف",
-                "French": "violent",
-                "Spanish": "violento",
-                "Chinese": "剧烈的",
-                "Bengali": "প্রচণ্ড"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "extreme",
                 "intense",
                 "fierce",
                 "strong"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "激しい",
-                "English": "Extreme",
-                "Persian": "شدید",
-                "Nepali": "तीव्र",
-                "Indonesian": "Ekstrem",
-                "Filipino": "Matindi",
-                "Vietnamese": "Mãnh liệt",
-                "Burmese": "ပြင်းပြင်းထန်ထန်",
-                "Korean": "극심한",
-                "Hindi": "तीव्र",
-                "Arabic": "شديدة",
-                "French": "Extrême",
-                "Spanish": "Extremo",
-                "Chinese": "极端的",
-                "Bengali": "তীব্র"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "fervent",
                 "vehement"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "激しい",
-                "English": "fervent",
-                "Persian": "پرشور",
-                "Nepali": "उत्साही",
-                "Indonesian": "bersemangat",
-                "Filipino": "masigasig",
-                "Vietnamese": "nhiệt thành",
-                "Burmese": "အားထုတ္ေသာ",
-                "Korean": "열렬한",
-                "Hindi": "उत्साही",
-                "Arabic": "متحمس",
-                "French": "fervent",
-                "Spanish": "ferviente",
-                "Chinese": "热情的",
-                "Bengali": "উৎসাহী"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "incessant",
                 "relentless"
             ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "激しい",
-                "English": "intense",
-                "Persian": "شدید",
-                "Nepali": "तीव्र",
-                "Indonesian": "intens",
-                "Filipino": "matindi",
-                "Vietnamese": "dữ dội",
-                "Burmese": "ပြင်းပြ",
-                "Korean": "격렬한",
-                "Hindi": "तीव्र",
-                "Arabic": "عنيف",
-                "French": "intense",
-                "Spanish": "intenso",
-                "Chinese": "激烈的",
-                "Bengali": "প্রচণ্ড"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "precipitous",
                 "steep"
-            ],
-            "part_of_speech": "I-adjective (keiyoushi)",
-            "translation": {
-                "Japanese": "激しい",
-                "English": "intense",
-                "Persian": "شدید",
-                "Nepali": "तीव्र",
-                "Indonesian": "intens",
-                "Filipino": "matindi",
-                "Vietnamese": "kịch liệt",
-                "Burmese": "ပြင်းထန်သော",
-                "Korean": "격렬한",
-                "Hindi": "तीव्र",
-                "Arabic": "عنيف",
-                "French": "intense",
-                "Spanish": "intenso",
-                "Chinese": "激烈的",
-                "Bengali": "তীব্র"
+            ]
+        ],
+        "meaning_translations": {
+            "violent": {
+                "EN": "violent",
+                "ID": "keras",
+                "ES": "violento",
+                "VI": "dữ dội",
+                "FR": "violent",
+                "NE": "भीषण",
+                "BN": "প্রচণ্ড",
+                "ZH": "剧烈的",
+                "KO": "격렬한",
+                "TL": "marahas",
+                "MY": "ပြင်းထန်",
+                "HI": "उग्र",
+                "AR": "عنيف",
+                "FA": "شدید"
+            },
+            "extreme": {
+                "EN": "Extreme",
+                "ID": "Ekstrem",
+                "ES": "Extremo",
+                "VI": "Mãnh liệt",
+                "FR": "Extrême",
+                "NE": "तीव्र",
+                "BN": "তীব্র",
+                "ZH": "极端的",
+                "KO": "극심한",
+                "TL": "Matindi",
+                "MY": "ပြင်းပြင်းထန်ထန်",
+                "HI": "तीव्र",
+                "AR": "شديدة",
+                "FA": "شدید"
+            },
+            "fervent": {
+                "EN": "fervent",
+                "ID": "bersemangat",
+                "ES": "ferviente",
+                "VI": "nhiệt thành",
+                "FR": "fervent",
+                "NE": "उत्साही",
+                "BN": "উৎসাহী",
+                "ZH": "热情的",
+                "KO": "열렬한",
+                "TL": "masigasig",
+                "MY": "အားထုတ္ေသာ",
+                "HI": "उत्साही",
+                "AR": "متحمس",
+                "FA": "پرشور"
+            },
+            "incessant": {
+                "EN": "intense",
+                "ID": "intens",
+                "ES": "intenso",
+                "VI": "dữ dội",
+                "FR": "intense",
+                "NE": "तीव्र",
+                "BN": "প্রচণ্ড",
+                "ZH": "激烈的",
+                "KO": "격렬한",
+                "TL": "matindi",
+                "MY": "ပြင်းပြ",
+                "HI": "तीव्र",
+                "AR": "عنيف",
+                "FA": "شدید"
+            },
+            "precipitous": {
+                "EN": "intense",
+                "ID": "intens",
+                "ES": "intenso",
+                "VI": "kịch liệt",
+                "FR": "intense",
+                "NE": "तीव्र",
+                "BN": "তীব্র",
+                "ZH": "激烈的",
+                "KO": "격렬한",
+                "TL": "matindi",
+                "MY": "ပြင်းထန်သော",
+                "HI": "तीव्र",
+                "AR": "عنيف",
+                "FA": "شدید"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "激しい雨が降っています。",
+                "furigana": "激しい(はげしい)雨(あめ)が降って(ふって)います。",
+                "translations": {
+                    "EN": "It's raining heavily.",
+                    "ID": "Hujannya sangat deras.",
+                    "ES": "Está lloviendo fuerte.",
+                    "VI": "Trời đang mưa rất to.",
+                    "FR": "Il pleut intensément.",
+                    "NE": "धेरै ठूलो पानी परिरहेको छ।",
+                    "BN": "অনেক জোরে বৃষ্টি হচ্ছে।",
+                    "ZH": "雨下得很大。",
+                    "KO": "비가 매우 많이 내리고 있습니다.",
+                    "TL": "Malakas ang ulan.",
+                    "MY": "မိုးသည်ကြီးအရမ်းရွာနေပါသည်။",
+                    "HI": "तेज़ बारिश हो रही है।",
+                    "AR": "إنها تمطر بغزارة.",
+                    "FA": "باران شدیدی می‌بارد."
+                }
+            },
+            {
+                "kanji": "昨夜は激しい風が吹いた。",
+                "furigana": "昨夜(さくや)は激(はげ)しい風(かぜ)が吹(ふ)いた。",
+                "translations": {
+                    "EN": "A strong wind blew last night.",
+                    "ID": "Angin kencang bertiup tadi malam.",
+                    "ES": "Anoche sopló un viento fuerte.",
+                    "VI": "Đêm qua gió mạnh thổi.",
+                    "FR": "Un vent fort a soufflé la nuit dernière.",
+                    "NE": "हिजो साँझ निकै कडा हावा चल्यो।",
+                    "BN": "গত রাতে একটি শক্তিশালী বাতাস ছিল।",
+                    "ZH": "昨晚刮起了大风。",
+                    "KO": "어젯밤에 강한 바람이 불었다.",
+                    "TL": "May malakas na hangin noong nakaraang gabi.",
+                    "MY": "မနေ့ညက လေပြင်းက လွှင့်ချခဲ့တယ်။",
+                    "HI": "कल रात तेज हवा चली।",
+                    "AR": "هبت رياح عاتية الليلة الماضية.",
+                    "FA": "شب گذشته باد شدیدی وزید."
+                }
+            },
+            {
+                "kanji": "激しい気持ちがあります。",
+                "furigana": "激(はげ)しい気持(きも)ちがあります。",
+                "translations": {
+                    "EN": "There is an intense feeling.",
+                    "ID": "Ada perasaan yang kuat.",
+                    "ES": "Hay un sentimiento intenso.",
+                    "VI": "Có một cảm giác mãnh liệt.",
+                    "FR": "Il y a un sentiment intense.",
+                    "NE": "तीव्र भावना छ।",
+                    "BN": "একটি তীব্র অনুভূতি আছে।",
+                    "ZH": "有一种强烈的感觉。",
+                    "KO": "격렬한 감정이 있습니다.",
+                    "TL": "Mayroong matinding damdamin.",
+                    "MY": "စိတ်ထက်ထိပ်ခံမှုရှိပါတယ်။",
+                    "HI": "एक प्रबल भावना है।",
+                    "AR": "هناك شعور قوي.",
+                    "FA": "احساس شدیدی وجود دارد."
+                }
+            },
+            {
+                "kanji": "彼は激しい怒りを感じた。",
+                "furigana": "彼(かれ)は激(はげ)しい怒(いか)りを感(かん)じた。",
+                "translations": {
+                    "EN": "He felt intense anger.",
+                    "ID": "Dia merasakan kemarahan yang sangat kuat.",
+                    "ES": "Sintió una rabia intensa.",
+                    "VI": "Anh ấy cảm thấy tức giận dữ dội.",
+                    "FR": "Il ressentait une colère intense.",
+                    "NE": "उनीले तीव्र रिस महसुस गरे।",
+                    "BN": "সে তীব্র রাগ অনুভব করলো।",
+                    "ZH": "他感到强烈的愤怒。",
+                    "KO": "그는 강렬한 분노를 느꼈다.",
+                    "TL": "Naramdaman niya ang matinding galit.",
+                    "MY": "သူသည် အငြိုးကြီးစွာရှိနေသည်။",
+                    "HI": "उसे तीव्र क्रोध का अनुभव हुआ।",
+                    "AR": "شعر بغضب شديد.",
+                    "FA": "او احساس خشم شدیدی کرد."
+                }
+            }
+        ],
+        "synonyms": [
+            "猛烈 : もうれつ : fierce",
+            "強烈 : きょうれつ : strong"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word はげしい are もうれつ and きょうれつ. The word もうれつ also means intense but can suggest an element of overwhelming force, whereas きょうれつ often emphasizes strong impact or impression.",
+        "antonyms": [
+            "穏やか : おだやか : calm",
+            "軽い : かるい : light"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word はげしい are おだやか and かるい. The word おだやか refers to something calm or gentle, contrasting the intensity of はげしい. The word かるい suggests lightness, opposite the weight of intensity in はげしい.",
+        "kanji_details": [
+            {
+                "kanji": "激",
+                "common_words": [
+                    "激怒: rage",
+                    "激増: sharp increase"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "激しい",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "激しい",
+                "reading": "はげしい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "violent",
+                    "furious",
+                    "tempestuous"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "extreme",
+                    "intense",
+                    "fierce",
+                    "strong"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "fervent",
+                    "vehement"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "incessant",
+                    "relentless"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "precipitous",
+                    "steep"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "激"
     ],
-    "kanjis": [
-        {
-            "kanji": "激",
+    "kanji_data": {
+        "激": {
             "meanings": [
                 "chafe",
                 "enraged",
@@ -139,365 +332,23 @@
                 "incite",
                 "violent"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ゲキ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "はげ.しい"
             ],
-            "strokes": 16,
+            "stroke_count": 16,
             "jlpt": 1,
-            "frequency": 560,
+            "freq_mainichi_shinbun": 560,
             "unicode": "6FC0",
-            "grade": 6,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "激怒",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "げきど",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "rage",
-                                "fury"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "激増",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "げきぞう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "sharp increase",
-                                "sudden rise"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 6
         }
-    ],
-    "kanji_explanation": "The first kanji means intense, violent, or sudden force and often adds a sense of extremeness to a word. In げきど it gives the idea of explosive, overwhelming anger. In げきぞう it shows a sudden, sharp increase. Think of it as the element that pushes a state to an extreme.",
-    "explanations": {
-        "explanation": "The word 激しい means intense, fierce, or violent. This word can describe actions, emotions, or conditions that are of great intensity or force.",
-        "youtube_description": "Explore the depth of the Japanese word 激しい (はげしい) as we break down its meanings and show real-life usage examples. Join us to learn how to express intensity in Japanese! Whether you're a beginner or an advanced learner, this video has something for everyone. Like and subscribe for more language learning tips!",
-        "motivation": "Today's lesson focuses on the intriguing word はげしい, which you're likely to encounter in conversations about emotions, weather, and situations requiring emphasis.",
-        "collocations": [
-            "はげしい あめ",
-            "はげしい かぜ",
-            "はげしい きもち",
-            "はげしい いかり"
-        ],
-        "synonyms": [
-            "猛烈",
-            "強烈"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word はげしい are もうれつ and きょうれつ. The word もうれつ also means intense but can suggest an element of overwhelming force, whereas きょうれつ often emphasizes strong impact or impression.",
-        "antonyms": [
-            "穏やか",
-            "軽い"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word はげしい are おだやか and かるい. The word おだやか refers to something calm or gentle, contrasting the intensity of はげしい. The word かるい suggests lightness, opposite the weight of intensity in はげしい."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "激しい雨が降っています。",
-            "furigana": "激しい(はげしい)雨(あめ)が降って(ふって)います。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "激しい雨が降っています。",
-                "English": "It's raining heavily.",
-                "Persian": "باران شدیدی می‌بارد.",
-                "Nepali": "धेरै ठूलो पानी परिरहेको छ।",
-                "Indonesian": "Hujannya sangat deras.",
-                "Filipino": "Malakas ang ulan.",
-                "Vietnamese": "Trời đang mưa rất to.",
-                "Burmese": "မိုးသည်ကြီးအရမ်းရွာနေပါသည်။",
-                "Korean": "비가 매우 많이 내리고 있습니다.",
-                "Hindi": "तेज़ बारिश हो रही है।",
-                "Arabic": "إنها تمطر بغزارة.",
-                "French": "Il pleut intensément.",
-                "Spanish": "Está lloviendo fuerte.",
-                "Chinese": "雨下得很大。",
-                "Bengali": "অনেক জোরে বৃষ্টি হচ্ছে।"
-            }
-        },
-        {
-            "kanji": "昨夜は激しい風が吹いた。",
-            "furigana": "昨夜(さくや)は激(はげ)しい風(かぜ)が吹(ふ)いた。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "昨夜は激しい風が吹いた。",
-                "English": "A strong wind blew last night.",
-                "Persian": "شب گذشته باد شدیدی وزید.",
-                "Nepali": "हिजो साँझ निकै कडा हावा चल्यो।",
-                "Indonesian": "Angin kencang bertiup tadi malam.",
-                "Filipino": "May malakas na hangin noong nakaraang gabi.",
-                "Vietnamese": "Đêm qua gió mạnh thổi.",
-                "Burmese": "မနေ့ညက လေပြင်းက လွှင့်ချခဲ့တယ်။",
-                "Korean": "어젯밤에 강한 바람이 불었다.",
-                "Hindi": "कल रात तेज हवा चली।",
-                "Arabic": "هبت رياح عاتية الليلة الماضية.",
-                "French": "Un vent fort a soufflé la nuit dernière.",
-                "Spanish": "Anoche sopló un viento fuerte.",
-                "Chinese": "昨晚刮起了大风。",
-                "Bengali": "গত রাতে একটি শক্তিশালী বাতাস ছিল।"
-            }
-        },
-        {
-            "kanji": "激しい気持ちがあります。",
-            "furigana": "激(はげ)しい気持(きも)ちがあります。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "激しい気持ちがあります。",
-                "English": "There is an intense feeling.",
-                "Persian": "احساس شدیدی وجود دارد.",
-                "Nepali": "तीव्र भावना छ।",
-                "Indonesian": "Ada perasaan yang kuat.",
-                "Filipino": "Mayroong matinding damdamin.",
-                "Vietnamese": "Có một cảm giác mãnh liệt.",
-                "Burmese": "စိတ်ထက်ထိပ်ခံမှုရှိပါတယ်။",
-                "Korean": "격렬한 감정이 있습니다.",
-                "Hindi": "एक प्रबल भावना है।",
-                "Arabic": "هناك شعور قوي.",
-                "French": "Il y a un sentiment intense.",
-                "Spanish": "Hay un sentimiento intenso.",
-                "Chinese": "有一种强烈的感觉。",
-                "Bengali": "একটি তীব্র অনুভূতি আছে।"
-            }
-        },
-        {
-            "kanji": "彼は激しい怒りを感じた。",
-            "furigana": "彼(かれ)は激(はげ)しい怒(いか)りを感(かん)じた。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は激しい怒りを感じた。",
-                "English": "He felt intense anger.",
-                "Persian": "او احساس خشم شدیدی کرد.",
-                "Nepali": "उनीले तीव्र रिस महसुस गरे।",
-                "Indonesian": "Dia merasakan kemarahan yang sangat kuat.",
-                "Filipino": "Naramdaman niya ang matinding galit.",
-                "Vietnamese": "Anh ấy cảm thấy tức giận dữ dội.",
-                "Burmese": "သူသည် အငြိုးကြီးစွာရှိနေသည်။",
-                "Korean": "그는 강렬한 분노를 느꼈다.",
-                "Hindi": "उसे तीव्र क्रोध का अनुभव हुआ।",
-                "Arabic": "شعر بغضب شديد.",
-                "French": "Il ressentait une colère intense.",
-                "Spanish": "Sintió una rabia intensa.",
-                "Chinese": "他感到强烈的愤怒。",
-                "Bengali": "সে তীব্র রাগ অনুভব করলো।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "猛烈",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "もうれつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "fierce",
-                        "intense",
-                        "severe",
-                        "violent",
-                        "strong",
-                        "vehement",
-                        "terrific",
-                        "terrible"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "強烈",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "きょうれつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "strong",
-                        "intense",
-                        "severe"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n1"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "穏やか",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "おだやか",
-            "meanings": [
-                {
-                    "neuances": [
-                        "calm",
-                        "quiet",
-                        "gentle",
-                        "peaceful",
-                        "mild"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "moderate",
-                        "reasonable",
-                        "amicable"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "軽い",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "かるい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "light",
-                        "feeling light"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "light",
-                        "effortless",
-                        "nimble",
-                        "agile"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "non-serious",
-                        "minor",
-                        "unimportant",
-                        "trivial"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "slight",
-                        "small",
-                        "gentle",
-                        "soft",
-                        "easy",
-                        "lighthearted"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "easy",
-                        "simple"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "indiscriminate"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n5"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "はげしい あめ",
+        "はげしい かぜ",
+        "はげしい きもち",
+        "はげしい いかり"
     ]
 }

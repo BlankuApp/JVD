@@ -1,12 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "従う",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/Xz2u3JJnK7k",
     "in_db": true,
-    "reading": "したがう",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "従う",
+        "reading": "したがう",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is したがう which you will often hear in contexts where someone is being asked to follow rules, obey commands, or go along with a process, especially in formal situations or instructions.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"したがう\" means \"to follow\" or \"obey\" in English. It's often used when referring to following rules, instructions, or someone else's lead. For instance, you might \"したがう\" when you're adhering to a teacher's instructions or when complying with company policies.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "to obey",
                 "to abide by",
                 "to follow",
@@ -14,102 +21,292 @@
                 "to conform to",
                 "to yield to"
             ],
-            "part_of_speech": "Godan verb with 'u' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "従う",
-                "English": "to obey",
-                "Persian": "اطاعت کردن",
-                "Nepali": "पालन गर्नु",
-                "Indonesian": "mematuhi",
-                "Filipino": "sumunod",
-                "Vietnamese": "tuân theo",
-                "Burmese": "နာခံပါ",
-                "Korean": "따르다",
-                "Hindi": "पालन करना",
-                "Arabic": "الطاعة",
-                "French": "obéir",
-                "Spanish": "obedecer",
-                "Chinese": "服从",
-                "Bengali": "মেনে চলা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to follow",
                 "to accompany",
                 "to go with"
             ],
-            "part_of_speech": "Godan verb with 'u' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "従う",
-                "English": "to follow",
-                "Persian": "پیروی کردن",
-                "Nepali": "पछ्याउनु",
-                "Indonesian": "mengikuti",
-                "Filipino": "sumunod",
-                "Vietnamese": "theo dõi",
-                "Burmese": "အတိုင်းလိုက်နာသည်",
-                "Korean": "따르다",
-                "Hindi": "अनुकरण करना",
-                "Arabic": "اتباع",
-                "French": "suivre",
-                "Spanish": "seguir",
-                "Chinese": "跟随",
-                "Bengali": "অনুসরণ করা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to go alongside",
                 "to follow"
             ],
-            "part_of_speech": "Godan verb with 'u' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "従う",
-                "English": "to go alongside",
-                "Persian": "همراهی کردن",
-                "Nepali": "साथमा जानु",
-                "Indonesian": "mengikuti",
-                "Filipino": "sumunod",
-                "Vietnamese": "đi cùng với",
-                "Burmese": "အတူတူသွားသည်",
-                "Korean": "따라가다",
-                "Hindi": "के साथ चलना",
-                "Arabic": "مواكبة",
-                "French": "accompagner",
-                "Spanish": "seguir",
-                "Chinese": "跟随",
-                "Bengali": "সঙ্গে চলা"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "to serve",
                 "to engage in"
-            ],
-            "part_of_speech": "Godan verb with 'u' ending, Intransitive verb",
-            "translation": {
-                "Japanese": "従う",
-                "English": "to follow",
-                "Persian": "پیروی کردن",
-                "Nepali": "अनुसरण गर्नुहोस्",
-                "Indonesian": "mengikuti",
-                "Filipino": "sumunod",
-                "Vietnamese": "tuân theo",
-                "Burmese": "လိုက်နာသည်",
-                "Korean": "따르다",
-                "Hindi": "अनुकरण करना",
-                "Arabic": "اتبع",
-                "French": "suivre",
-                "Spanish": "seguir",
-                "Chinese": "遵循",
-                "Bengali": "অনুসরণ করা"
+            ]
+        ],
+        "meaning_translations": {
+            "to obey": {
+                "EN": "to obey",
+                "ID": "mematuhi",
+                "ES": "obedecer",
+                "VI": "tuân theo",
+                "FR": "obéir",
+                "NE": "पालन गर्नु",
+                "BN": "মেনে চলা",
+                "ZH": "服从",
+                "KO": "따르다",
+                "TL": "sumunod",
+                "MY": "နာခံပါ",
+                "HI": "पालन करना",
+                "AR": "الطاعة",
+                "FA": "اطاعت کردن"
+            },
+            "to follow": {
+                "EN": "to follow",
+                "ID": "mengikuti",
+                "ES": "seguir",
+                "VI": "theo dõi",
+                "FR": "suivre",
+                "NE": "पछ्याउनु",
+                "BN": "অনুসরণ করা",
+                "ZH": "跟随",
+                "KO": "따르다",
+                "TL": "sumunod",
+                "MY": "အတိုင်းလိုက်နာသည်",
+                "HI": "अनुकरण करना",
+                "AR": "اتباع",
+                "FA": "پیروی کردن"
+            },
+            "to go alongside": {
+                "EN": "to go alongside",
+                "ID": "mengikuti",
+                "ES": "seguir",
+                "VI": "đi cùng với",
+                "FR": "accompagner",
+                "NE": "साथमा जानु",
+                "BN": "সঙ্গে চলা",
+                "ZH": "跟随",
+                "KO": "따라가다",
+                "TL": "sumunod",
+                "MY": "အတူတူသွားသည်",
+                "HI": "के साथ चलना",
+                "AR": "مواكبة",
+                "FA": "همراهی کردن"
+            },
+            "to serve": {
+                "EN": "to follow",
+                "ID": "mengikuti",
+                "ES": "seguir",
+                "VI": "tuân theo",
+                "FR": "suivre",
+                "NE": "अनुसरण गर्नुहोस्",
+                "BN": "অনুসরণ করা",
+                "ZH": "遵循",
+                "KO": "따르다",
+                "TL": "sumunod",
+                "MY": "လိုက်နာသည်",
+                "HI": "अनुकरण करना",
+                "AR": "اتبع",
+                "FA": "پیروی کردن"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "彼はルールに従いました。",
+                "furigana": "彼(かれ)はルールに従(したが)いました。",
+                "translations": {
+                    "EN": "He followed the rules.",
+                    "ID": "Dia mengikuti aturan.",
+                    "ES": "Él siguió las reglas.",
+                    "VI": "Anh ấy tuân theo các quy tắc.",
+                    "FR": "Il a suivi les règles.",
+                    "NE": "उ तिनी नियमहरू पालना गर्यो।",
+                    "BN": "তিনি নিয়ম অনুসরণ করেছিলেন।",
+                    "ZH": "他遵循了规则。",
+                    "KO": "그는 규칙을 따랐습니다.",
+                    "TL": "Sumunod siya sa mga patakaran.",
+                    "MY": "သူက စည်းမျဉ်းစည်းကမ်းတွေကို လိုက်နာခဲ့သည်။",
+                    "HI": "उसने नियमों का पालन किया।",
+                    "AR": "اتبعت هو القوانين.",
+                    "FA": "او از قوانین پیروی کرد."
+                }
+            },
+            {
+                "kanji": "彼は指示に従います。",
+                "furigana": "彼(かれ)は指示(しじ)に従(したが)います。",
+                "translations": {
+                    "EN": "He follows the instructions.",
+                    "ID": "Dia mengikuti instruksi.",
+                    "ES": "Él sigue las instrucciones.",
+                    "VI": "Anh ấy làm theo hướng dẫn.",
+                    "FR": "Il suit les instructions.",
+                    "NE": "उहाँले निर्देशनहरूको पालना गर्नुहुन्छ।",
+                    "BN": "সে নিদের্শনা অনুসরণ করে।",
+                    "ZH": "他遵循指示。",
+                    "KO": "그는 지시를 따릅니다.",
+                    "TL": "Sinusunod niya ang mga tagubilin.",
+                    "MY": "သူသည်ညွှန်ကြားချက်များကိုလိုက်နာသည်။",
+                    "HI": "वह निर्देशों का पालन करता है।",
+                    "AR": "هو يتبع التعليمات.",
+                    "FA": "او دستورالعمل‌ها را دنبال می‌کند."
+                }
+            },
+            {
+                "kanji": "彼は法律に従う。",
+                "furigana": "彼(かれ)は法律(ほうりつ)に従(したが)う。",
+                "translations": {
+                    "EN": "He follows the law.",
+                    "ID": "Dia mengikuti hukum.",
+                    "ES": "Él sigue la ley.",
+                    "VI": "Anh ấy tuân theo pháp luật.",
+                    "FR": "Il suit la loi.",
+                    "NE": "उ कानूनको पालना गर्दछ।",
+                    "BN": "সে আইনের অনুসরণ করে।",
+                    "ZH": "他遵守法律。",
+                    "KO": "그는 법을 따른다.",
+                    "TL": "Sumusunod siya sa batas.",
+                    "MY": "သူသည် ဥပဒေပုရပိုင်းကို လိုက်နာသည်။",
+                    "HI": "वह कानून का पालन करता है।",
+                    "AR": "هو يتبع القانون.",
+                    "FA": "او از قانون پیروی می کند."
+                }
+            },
+            {
+                "kanji": "彼は規則に従う。",
+                "furigana": "彼(かれ)は規則(きそく)に従(したが)う。",
+                "translations": {
+                    "EN": "He follows the rules.",
+                    "ID": "Dia mengikuti aturan.",
+                    "ES": "Él sigue las reglas.",
+                    "VI": "Anh ấy tuân theo các quy tắc.",
+                    "FR": "Il suit les règles.",
+                    "NE": "उनले नियमहरू पालना गर्छन्।",
+                    "BN": "তিনি নিয়ম অনুসরণ করেন।",
+                    "ZH": "他遵守规则。",
+                    "KO": "그는 규칙을 따릅니다.",
+                    "TL": "Sumusunod siya sa mga alituntunin.",
+                    "MY": "သူသည် စည်းမျဉ်းများကိုလိုက်နာသည်။",
+                    "HI": "वह नियमों का पालन करता है।",
+                    "AR": "هو يتبع القواعد.",
+                    "FA": "او به قوانین عمل می‌کند."
+                }
+            },
+            {
+                "kanji": "先生の指導に従う。",
+                "furigana": "先生(せんせい)の指導(しどう)に従(したが)う。",
+                "translations": {
+                    "EN": "Follow the teacher's guidance.",
+                    "ID": "Ikuti petunjuk guru.",
+                    "ES": "Sigue las indicaciones del maestro.",
+                    "VI": "Làm theo sự hướng dẫn của giáo viên.",
+                    "FR": "Suivez les instructions de l'enseignant.",
+                    "NE": "अध्यापकको निर्देशन पालन गर्नुहोस्।",
+                    "BN": "শিক্ষকের নির্দেশনা অনুসরণ করুন।",
+                    "ZH": "遵循老师的指导。",
+                    "KO": "선생님의 지도를 따르다.",
+                    "TL": "Sundin ang gabay ng guro.",
+                    "MY": "ဆရာရဲ့ညွှန်ကြားချက်ကို လိုက်နာပါ။",
+                    "HI": "शिक्षक के मार्गदर्शन का पालन करें।",
+                    "AR": "اتبع توجيهات المعلم.",
+                    "FA": "از راهنمایی معلم پیروی کن."
+                }
+            }
+        ],
+        "synonyms": [
+            "応じる : おうじる : to respond"
+        ],
+        "synonyms_explanation": "The most common synonym of the word したがう is おうじる. Both words convey the sense of following or responding to instructions, but \"おうじる\" emphasizes responding or reacting in accordance to what's asked or offered, while \"したがう\" focuses on following orders or guidance.",
+        "kanji_details": [
+            {
+                "kanji": "従",
+                "common_words": [
+                    "従業員: employee",
+                    "服従: obedience"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "従う",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "従う",
+                "reading": "したがう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to obey",
+                    "to abide by",
+                    "to follow",
+                    "to observe",
+                    "to conform to",
+                    "to yield to"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to follow",
+                    "to accompany",
+                    "to go with"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to go alongside",
+                    "to follow"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to serve",
+                    "to engage in"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "従"
     ],
-    "kanjis": [
-        {
-            "kanji": "従",
+    "kanji_data": {
+        "従": {
             "meanings": [
                 "accompany",
                 "comply",
@@ -120,244 +317,28 @@
                 "submit to",
                 "subordinate"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ショウ",
                 "ジュ",
                 "ジュウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "したが.う",
                 "したが.える",
                 "より"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 1,
-            "frequency": 601,
+            "freq_mainichi_shinbun": 601,
             "unicode": "5F93",
-            "grade": 6,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "従業員",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "じゅうぎょういん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "employee",
-                                "worker"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "服従",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ふくじゅう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "obedience",
-                                "submission",
-                                "resignation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 6
         }
-    ],
-    "kanji_explanation": "The first kanji means to follow or obey and carries the idea of being subordinate or accompanying. It often appears where someone follows rules or another person. For example, じゅうぎょういん uses this kanji to suggest a person who serves or works under an organization, and ふくじゅう shows the sense of yielding or submitting to someone or something.",
-    "explanations": {
-        "explanation": "The word \"したがう\" means \"to follow\" or \"obey\" in English. It's often used when referring to following rules, instructions, or someone else's lead. For instance, you might \"したがう\" when you're adhering to a teacher's instructions or when complying with company policies.",
-        "youtube_description": "Learn how to use the Japanese word 従う (したがう) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.  \nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is したがう which you will often hear in contexts where someone is being asked to follow rules, obey commands, or go along with a process, especially in formal situations or instructions.",
-        "collocations": [
-            "ルールにしたがう",
-            "指示にしたがう",
-            "法律にしたがう",
-            "規則にしたがう",
-            "指導にしたがう"
-        ],
-        "synonyms": [
-            "応じる"
-        ],
-        "synonyms_explanation": "The most common synonym of the word したがう is おうじる. Both words convey the sense of following or responding to instructions, but \"おうじる\" emphasizes responding or reacting in accordance to what's asked or offered, while \"したがう\" focuses on following orders or guidance.",
-        "antonyms": [],
-        "antonyms_explanation": "There are no common antonyms for the word したがう, as it specifically deals with the act of following directions or orders."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "彼はルールに従いました。",
-            "furigana": "彼(かれ)はルールに従(したが)いました。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼はルールに従いました。",
-                "English": "He followed the rules.",
-                "Persian": "او از قوانین پیروی کرد.",
-                "Nepali": "उ तिनी नियमहरू पालना गर्यो।",
-                "Indonesian": "Dia mengikuti aturan.",
-                "Filipino": "Sumunod siya sa mga patakaran.",
-                "Vietnamese": "Anh ấy tuân theo các quy tắc.",
-                "Burmese": "သူက စည်းမျဉ်းစည်းကမ်းတွေကို လိုက်နာခဲ့သည်။",
-                "Korean": "그는 규칙을 따랐습니다.",
-                "Hindi": "उसने नियमों का पालन किया।",
-                "Arabic": "اتبعت هو القوانين.",
-                "French": "Il a suivi les règles.",
-                "Spanish": "Él siguió las reglas.",
-                "Chinese": "他遵循了规则。",
-                "Bengali": "তিনি নিয়ম অনুসরণ করেছিলেন।"
-            }
-        },
-        {
-            "kanji": "彼は指示に従います。",
-            "furigana": "彼(かれ)は指示(しじ)に従(したが)います。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は指示に従います。",
-                "English": "He follows the instructions.",
-                "Persian": "او دستورالعمل‌ها را دنبال می‌کند.",
-                "Nepali": "उहाँले निर्देशनहरूको पालना गर्नुहुन्छ।",
-                "Indonesian": "Dia mengikuti instruksi.",
-                "Filipino": "Sinusunod niya ang mga tagubilin.",
-                "Vietnamese": "Anh ấy làm theo hướng dẫn.",
-                "Burmese": "သူသည်ညွှန်ကြားချက်များကိုလိုက်နာသည်။",
-                "Korean": "그는 지시를 따릅니다.",
-                "Hindi": "वह निर्देशों का पालन करता है।",
-                "Arabic": "هو يتبع التعليمات.",
-                "French": "Il suit les instructions.",
-                "Spanish": "Él sigue las instrucciones.",
-                "Chinese": "他遵循指示。",
-                "Bengali": "সে নিদের্শনা অনুসরণ করে।"
-            }
-        },
-        {
-            "kanji": "彼は法律に従う。",
-            "furigana": "彼(かれ)は法律(ほうりつ)に従(したが)う。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は法律に従う。",
-                "English": "He follows the law.",
-                "Persian": "او از قانون پیروی می کند.",
-                "Nepali": "उ कानूनको पालना गर्दछ।",
-                "Indonesian": "Dia mengikuti hukum.",
-                "Filipino": "Sumusunod siya sa batas.",
-                "Vietnamese": "Anh ấy tuân theo pháp luật.",
-                "Burmese": "သူသည် ဥပဒေပုရပိုင်းကို လိုက်နာသည်။",
-                "Korean": "그는 법을 따른다.",
-                "Hindi": "वह कानून का पालन करता है।",
-                "Arabic": "هو يتبع القانون.",
-                "French": "Il suit la loi.",
-                "Spanish": "Él sigue la ley.",
-                "Chinese": "他遵守法律。",
-                "Bengali": "সে আইনের অনুসরণ করে।"
-            }
-        },
-        {
-            "kanji": "彼は規則に従う。",
-            "furigana": "彼(かれ)は規則(きそく)に従(したが)う。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は規則に従う。",
-                "English": "He follows the rules.",
-                "Persian": "او به قوانین عمل می‌کند.",
-                "Nepali": "उनले नियमहरू पालना गर्छन्।",
-                "Indonesian": "Dia mengikuti aturan.",
-                "Filipino": "Sumusunod siya sa mga alituntunin.",
-                "Vietnamese": "Anh ấy tuân theo các quy tắc.",
-                "Burmese": "သူသည် စည်းမျဉ်းများကိုလိုက်နာသည်။",
-                "Korean": "그는 규칙을 따릅니다.",
-                "Hindi": "वह नियमों का पालन करता है।",
-                "Arabic": "هو يتبع القواعد.",
-                "French": "Il suit les règles.",
-                "Spanish": "Él sigue las reglas.",
-                "Chinese": "他遵守规则。",
-                "Bengali": "তিনি নিয়ম অনুসরণ করেন।"
-            }
-        },
-        {
-            "kanji": "先生の指導に従う。",
-            "furigana": "先生(せんせい)の指導(しどう)に従(したが)う。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "先生の指導に従う。",
-                "English": "Follow the teacher's guidance.",
-                "Persian": "از راهنمایی معلم پیروی کن.",
-                "Nepali": "अध्यापकको निर्देशन पालन गर्नुहोस्।",
-                "Indonesian": "Ikuti petunjuk guru.",
-                "Filipino": "Sundin ang gabay ng guro.",
-                "Vietnamese": "Làm theo sự hướng dẫn của giáo viên.",
-                "Burmese": "ဆရာရဲ့ညွှန်ကြားချက်ကို လိုက်နာပါ။",
-                "Korean": "선생님의 지도를 따르다.",
-                "Hindi": "शिक्षक के मार्गदर्शन का पालन करें।",
-                "Arabic": "اتبع توجيهات المعلم.",
-                "French": "Suivez les instructions de l'enseignant.",
-                "Spanish": "Sigue las indicaciones del maestro.",
-                "Chinese": "遵循老师的指导。",
-                "Bengali": "শিক্ষকের নির্দেশনা অনুসরণ করুন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "応じる",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "おうじる",
-            "meanings": [
-                {
-                    "neuances": [
-                        "to respond",
-                        "to satisfy",
-                        "to accept",
-                        "to comply with",
-                        "to apply for"
-                    ],
-                    "part_of_speech": "Ichidan verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": []
+    "collocations": [
+        "ルールにしたがう",
+        "指示にしたがう",
+        "法律にしたがう",
+        "規則にしたがう",
+        "指導にしたがう"
+    ]
 }

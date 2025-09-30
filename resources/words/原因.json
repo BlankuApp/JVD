@@ -1,39 +1,229 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "原因",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/iECTvpSFBsg",
     "in_db": true,
-    "reading": "げんいん",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "原因",
+        "reading": "げんいん",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is げんいん which you will often hear in conversations related to explanations, problem-solving, and storytelling.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"ゲンイン\" means \"cause\" or \"reason\" in English. It's used when you're discussing why something happened or the underlying reason behind an event.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "cause",
                 "origin",
                 "source"
-            ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "原因",
-                "English": "Cause",
-                "Persian": "علت",
-                "Nepali": "कारण",
-                "Indonesian": "Penyebab / Alasan",
-                "Filipino": "Sanhi",
-                "Vietnamese": "Nguyên nhân",
-                "Burmese": "အကြောင်းအရင်း",
-                "Korean": "원인",
-                "Hindi": "कारण",
-                "Arabic": "سبب",
-                "French": "Cause",
-                "Spanish": "Causa",
-                "Chinese": "原因",
-                "Bengali": "কারণ"
+            ]
+        ],
+        "meaning_translations": {
+            "cause": {
+                "EN": "Cause",
+                "ID": "Penyebab / Alasan",
+                "ES": "Causa",
+                "VI": "Nguyên nhân",
+                "FR": "Cause",
+                "NE": "कारण",
+                "BN": "কারণ",
+                "ZH": "原因",
+                "KO": "원인",
+                "TL": "Sanhi",
+                "MY": "အကြောင်းအရင်း",
+                "HI": "कारण",
+                "AR": "سبب",
+                "FA": "علت"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "事故の原因は雨です。",
+                "furigana": "事故(じこ)の原因(げんいん)は雨(あめ)です。",
+                "translations": {
+                    "EN": "The cause of the accident is rain.",
+                    "ID": "Penyebab kecelakaan adalah hujan.",
+                    "ES": "La causa del accidente es la lluvia.",
+                    "VI": "Nguyên nhân của tai nạn là mưa.",
+                    "FR": "La cause de l'accident est la pluie.",
+                    "NE": "दुर्घटनाको कारण पानी हो।",
+                    "BN": "দুর্ঘটনার কারণ বৃষ্টি।",
+                    "ZH": "事故的原因是雨。",
+                    "KO": "사고의 원인은 비다.",
+                    "TL": "Ang sanhi ng aksidente ay ulan.",
+                    "MY": "အထိန်းအကန့်ဖြစ်ခွင့်များမှာ မိုးရွာကြောင့်ဖြစ်သည်။",
+                    "HI": "दुर्घटना का कारण बारिश है।",
+                    "AR": "سبب الحادث هو المطر.",
+                    "FA": "علت حادثه باران است."
+                }
+            },
+            {
+                "kanji": "火事の原因は不明です。",
+                "furigana": "火事(かじ)の原因(げんいん)は不明(ふめい)です。",
+                "translations": {
+                    "EN": "The cause of the fire is unknown.",
+                    "ID": "Penyebab kebakaran tidak diketahui.",
+                    "ES": "La causa del incendio es desconocida.",
+                    "VI": "Nguyên nhân vụ cháy chưa rõ.",
+                    "FR": "La cause de l'incendie est inconnue.",
+                    "NE": "आगलागीको कारण अज्ञात छ।",
+                    "BN": "আগুন লাগার কারণ অজ্ঞাত।",
+                    "ZH": "火灾的原因不明。",
+                    "KO": "화재의 원인은 불명입니다.",
+                    "TL": "Hindi alam ang sanhi ng sunog.",
+                    "MY": "မီးလောင်မှုအကြောင်းအရင်း မသိနိုင်သေးပါ။",
+                    "HI": "आग का कारण अज्ञात है।",
+                    "AR": "سبب الحريق غير معلوم.",
+                    "FA": "علت آتش‌سوزی ناشناخته است."
+                }
+            },
+            {
+                "kanji": "病気の原因は疲れです。",
+                "furigana": "病気(びょうき)の原因(げんいん)は疲れ(つかれ)です。",
+                "translations": {
+                    "EN": "The cause of the illness is fatigue.",
+                    "ID": "Penyebab penyakitnya adalah kelelahan.",
+                    "ES": "La causa de la enfermedad es el cansancio.",
+                    "VI": "Nguyên nhân của bệnh là do mệt mỏi.",
+                    "FR": "La cause de la maladie est la fatigue.",
+                    "NE": "बिरामीको कारण थकान हो।",
+                    "BN": "অসুস্থতার কারণ ক্লান্তি।",
+                    "ZH": "疾病的原因是疲劳。",
+                    "KO": "병의 원인은 피로입니다.",
+                    "TL": "Ang sanhi ng sakit ay pagod.",
+                    "MY": "နာမကျန်းမှုရဲ့ အကြောင်းပြချက်က ပင်ပန်းခြင်းပါ။",
+                    "HI": "बीमारी का कारण थकान है।",
+                    "AR": "سبب المرض هو الإرهاق.",
+                    "FA": "علت بیماری، خستگی است."
+                }
+            },
+            {
+                "kanji": "トラブルの原因は天気です。",
+                "furigana": "トラブルの原因(げんいん)は天気(てんき)です。",
+                "translations": {
+                    "EN": "The cause of the trouble is the weather.",
+                    "ID": "Penyebab masalah adalah cuaca.",
+                    "ES": "La causa del problema es el clima.",
+                    "VI": "Nguyên nhân của rắc rối là thời tiết.",
+                    "FR": "La cause du problème est la météo.",
+                    "NE": "समस्याको कारण मौसम हो।",
+                    "BN": "সমস্যার কারণ হল আবহাওয়া।",
+                    "ZH": "问题的原因是天气。",
+                    "KO": "문제의 원인은 날씨입니다.",
+                    "TL": "Ang sanhi ng problema ay ang panahon.",
+                    "MY": "အခက်တွေ့ခြင်း၏ အကြောင်းမှာ ရာသီဥတုဖြစ်သည်။",
+                    "HI": "समस्या का कारण मौसम है।",
+                    "AR": "سبب المشكلة هو الطقس.",
+                    "FA": "علت مشکل هوا است."
+                }
+            },
+            {
+                "kanji": "彼の努力が成功の原因です。",
+                "furigana": "彼(かれ)の努力(どりょく)が成功(せいこう)の原因(げんいん)です。",
+                "translations": {
+                    "EN": "His efforts are the cause of his success.",
+                    "ID": "Usahanya adalah penyebab kesuksesannya.",
+                    "ES": "Sus esfuerzos son la causa de su éxito.",
+                    "VI": "Nỗ lực của anh ấy là nguyên nhân của thành công.",
+                    "FR": "Ses efforts sont la cause de son succès.",
+                    "NE": "उनको प्रयासले उनको सफलताको कारण हो।",
+                    "BN": "তার প্রচেষ্টাই তার সাফল্যের কারণ।",
+                    "ZH": "他的努力是成功的原因。",
+                    "KO": "그의 노력이 성공의 원인입니다.",
+                    "TL": "Ang kanyang pagsisikap ang dahilan ng kanyang tagumpay.",
+                    "MY": "သူ၏ကြိုးစားမှုများသည် သူ၏ အောင်မြင်မှု၏ အကြောင်းရင်းဖြစ်သည်။",
+                    "HI": "उसके प्रयास उसकी सफलता का कारण हैं।",
+                    "AR": "جهوده هي سبب نجاحه.",
+                    "FA": "تلاش‌های او دلیل موفقیت اوست."
+                }
+            },
+            {
+                "kanji": "失敗の原因は何ですか？",
+                "furigana": "失敗(しっぱい)の原因(げんいん)は何(なん)ですか？",
+                "translations": {
+                    "EN": "What is the cause of the failure?",
+                    "ID": "Apa penyebab dari kegagalan tersebut?",
+                    "ES": "¿Cuál es la causa del fracaso?",
+                    "VI": "Nguyên nhân của thất bại là gì?",
+                    "FR": "Quelle est la cause de l'échec ?",
+                    "NE": "असफलताको कारण के हो?",
+                    "BN": "ব্যর্থতার কারণ কী?",
+                    "ZH": "失败的原因是什么？",
+                    "KO": "실패의 원인이 무엇인가요?",
+                    "TL": "Ano ang sanhi ng pagkabigo?",
+                    "MY": "ဆုံးရှုံးမှုရဲ့အကြောင်းရင်းကဘာလဲ?",
+                    "HI": "विफलता का कारण क्या है?",
+                    "AR": "ما هو سبب الفشل؟",
+                    "FA": "علت شکست چیست؟"
+                }
+            }
+        ],
+        "synonyms": [
+            "理由 : りゆう : reason"
+        ],
+        "synonyms_explanation": "The most common synonyms of the \"ゲンイン\" are \"リユウ\" and \"ゲンインチ\". \"リユウ\" is similar as it also means \"reason\" but often pertains to more personal or subjective explanations, whereas \"ゲンインチ\" also refers to the source cause but in a more specific geographic or contextual sense.",
+        "antonyms": [
+            "結果 : けっか : result",
+            "影響 : えいきょう : influence"
+        ],
+        "antonyms_explanation": "The most common antonyms of the \"ゲンイン\" are \"ケッカ\" and \"エイキョウ\". \"ケッカ\" means \"result\" or \"outcome,\" highlighting what happened due to a cause. \"エイキョウ\" refers to influence or effect, focusing on the change or impact resulting from an event rather than its origin.",
+        "kanji_details": [
+            {
+                "kanji": "原",
+                "common_words": [
+                    "原料: raw materials",
+                    "原始: origin"
+                ]
+            },
+            {
+                "kanji": "因",
+                "common_words": [
+                    "因果: cause and effect",
+                    "要因: main cause"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "原因",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "原因",
+                "reading": "げんいん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "cause",
+                    "origin",
+                    "source"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "原",
+        "因"
     ],
-    "kanjis": [
-        {
-            "kanji": "原",
+    "kanji_data": {
+        "原": {
             "meanings": [
                 "field",
                 "meadow",
@@ -44,86 +234,19 @@
                 "tundra",
                 "wilderness"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ゲン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "はら"
             ],
-            "strokes": 10,
+            "stroke_count": 10,
             "jlpt": 3,
-            "frequency": 172,
+            "freq_mainichi_shinbun": 172,
             "unicode": "539F",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "原料",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "げんりょう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "raw materials",
-                                "ingredient"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "原始",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "げんし",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "origin",
-                                "beginning",
-                                "genesis"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "primeval",
-                                "primordial",
-                                "primitive"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no', Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         },
-        {
-            "kanji": "因",
+        "因": {
             "meanings": [
                 "be associated with",
                 "be limited to",
@@ -131,360 +254,26 @@
                 "depend on",
                 "factor"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ちな.む",
                 "よ.る"
             ],
-            "strokes": 6,
+            "stroke_count": 6,
             "jlpt": 3,
-            "frequency": 636,
+            "freq_mainichi_shinbun": 636,
             "unicode": "56E0",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "因果",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "いんが",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "cause and effect",
-                                "causality"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "karma",
-                                "fate"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "unfortunate",
-                                "unlucky",
-                                "ill-fated"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "要因",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "よういん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "main cause",
-                                "primary factor"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         }
-    ],
-    "kanji_explanation": "The first kanji means origin or source and often points to where something begins or comes from. In words like げんりょう it helps show that something is the raw material, the original source for production, and in げんし it carries the sense of something very original or primitive. The second kanji means cause or factor and is used when we talk about reasons behind events. In いんが it appears in the idea of cause and effect, and in よういん it highlights the key factor or main cause of a result.",
-    "explanations": {
-        "explanation": "The word \"ゲンイン\" means \"cause\" or \"reason\" in English. It's used when you're discussing why something happened or the underlying reason behind an event.",
-        "youtube_description": "Learn how to use the Japanese word 原因 (げんいん) in everyday conversations! \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary. \nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is げんいん which you will often hear in conversations related to explanations, problem-solving, and storytelling.",
-        "collocations": [
-            "事故のげんいん",
-            "火事のげんいん",
-            "病気のげんいん",
-            "トラブルのげんいん",
-            "成功のげんいん",
-            "失敗のげんいん"
-        ],
-        "synonyms": [
-            "理由",
-            "原因地"
-        ],
-        "synonyms_explanation": "The most common synonyms of the \"ゲンイン\" are \"リユウ\" and \"ゲンインチ\". \"リユウ\" is similar as it also means \"reason\" but often pertains to more personal or subjective explanations, whereas \"ゲンインチ\" also refers to the source cause but in a more specific geographic or contextual sense.",
-        "antonyms": [
-            "結果",
-            "影響"
-        ],
-        "antonyms_explanation": "The most common antonyms of the \"ゲンイン\" are \"ケッカ\" and \"エイキョウ\". \"ケッカ\" means \"result\" or \"outcome,\" highlighting what happened due to a cause. \"エイキョウ\" refers to influence or effect, focusing on the change or impact resulting from an event rather than its origin."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "事故の原因は雨です。",
-            "furigana": "事故(じこ)の原因(げんいん)は雨(あめ)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "事故の原因は雨です。",
-                "English": "The cause of the accident is rain.",
-                "Persian": "علت حادثه باران است.",
-                "Nepali": "दुर्घटनाको कारण पानी हो।",
-                "Indonesian": "Penyebab kecelakaan adalah hujan.",
-                "Filipino": "Ang sanhi ng aksidente ay ulan.",
-                "Vietnamese": "Nguyên nhân của tai nạn là mưa.",
-                "Burmese": "အထိန်းအကန့်ဖြစ်ခွင့်များမှာ မိုးရွာကြောင့်ဖြစ်သည်။",
-                "Korean": "사고의 원인은 비다.",
-                "Hindi": "दुर्घटना का कारण बारिश है।",
-                "Arabic": "سبب الحادث هو المطر.",
-                "French": "La cause de l'accident est la pluie.",
-                "Spanish": "La causa del accidente es la lluvia.",
-                "Chinese": "事故的原因是雨。",
-                "Bengali": "দুর্ঘটনার কারণ বৃষ্টি।"
-            }
-        },
-        {
-            "kanji": "火事の原因は不明です。",
-            "furigana": "火事(かじ)の原因(げんいん)は不明(ふめい)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "火事の原因は不明です。",
-                "English": "The cause of the fire is unknown.",
-                "Persian": "علت آتش‌سوزی ناشناخته است.",
-                "Nepali": "आगलागीको कारण अज्ञात छ।",
-                "Indonesian": "Penyebab kebakaran tidak diketahui.",
-                "Filipino": "Hindi alam ang sanhi ng sunog.",
-                "Vietnamese": "Nguyên nhân vụ cháy chưa rõ.",
-                "Burmese": "မီးလောင်မှုအကြောင်းအရင်း မသိနိုင်သေးပါ။",
-                "Korean": "화재의 원인은 불명입니다.",
-                "Hindi": "आग का कारण अज्ञात है।",
-                "Arabic": "سبب الحريق غير معلوم.",
-                "French": "La cause de l'incendie est inconnue.",
-                "Spanish": "La causa del incendio es desconocida.",
-                "Chinese": "火灾的原因不明。",
-                "Bengali": "আগুন লাগার কারণ অজ্ঞাত।"
-            }
-        },
-        {
-            "kanji": "病気の原因は疲れです。",
-            "furigana": "病気(びょうき)の原因(げんいん)は疲れ(つかれ)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "病気の原因は疲れです。",
-                "English": "The cause of the illness is fatigue.",
-                "Persian": "علت بیماری، خستگی است.",
-                "Nepali": "बिरामीको कारण थकान हो।",
-                "Indonesian": "Penyebab penyakitnya adalah kelelahan.",
-                "Filipino": "Ang sanhi ng sakit ay pagod.",
-                "Vietnamese": "Nguyên nhân của bệnh là do mệt mỏi.",
-                "Burmese": "နာမကျန်းမှုရဲ့ အကြောင်းပြချက်က ပင်ပန်းခြင်းပါ။",
-                "Korean": "병의 원인은 피로입니다.",
-                "Hindi": "बीमारी का कारण थकान है।",
-                "Arabic": "سبب المرض هو الإرهاق.",
-                "French": "La cause de la maladie est la fatigue.",
-                "Spanish": "La causa de la enfermedad es el cansancio.",
-                "Chinese": "疾病的原因是疲劳。",
-                "Bengali": "অসুস্থতার কারণ ক্লান্তি।"
-            }
-        },
-        {
-            "kanji": "トラブルの原因は天気です。",
-            "furigana": "トラブルの原因(げんいん)は天気(てんき)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "トラブルの原因は天気です。",
-                "English": "The cause of the trouble is the weather.",
-                "Persian": "علت مشکل هوا است.",
-                "Nepali": "समस्याको कारण मौसम हो।",
-                "Indonesian": "Penyebab masalah adalah cuaca.",
-                "Filipino": "Ang sanhi ng problema ay ang panahon.",
-                "Vietnamese": "Nguyên nhân của rắc rối là thời tiết.",
-                "Burmese": "အခက်တွေ့ခြင်း၏ အကြောင်းမှာ ရာသီဥတုဖြစ်သည်။",
-                "Korean": "문제의 원인은 날씨입니다.",
-                "Hindi": "समस्या का कारण मौसम है।",
-                "Arabic": "سبب المشكلة هو الطقس.",
-                "French": "La cause du problème est la météo.",
-                "Spanish": "La causa del problema es el clima.",
-                "Chinese": "问题的原因是天气。",
-                "Bengali": "সমস্যার কারণ হল আবহাওয়া।"
-            }
-        },
-        {
-            "kanji": "彼の努力が成功の原因です。",
-            "furigana": "彼(かれ)の努力(どりょく)が成功(せいこう)の原因(げんいん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼の努力が成功の原因です。",
-                "English": "His efforts are the cause of his success.",
-                "Persian": "تلاش‌های او دلیل موفقیت اوست.",
-                "Nepali": "उनको प्रयासले उनको सफलताको कारण हो।",
-                "Indonesian": "Usahanya adalah penyebab kesuksesannya.",
-                "Filipino": "Ang kanyang pagsisikap ang dahilan ng kanyang tagumpay.",
-                "Vietnamese": "Nỗ lực của anh ấy là nguyên nhân của thành công.",
-                "Burmese": "သူ၏ကြိုးစားမှုများသည် သူ၏ အောင်မြင်မှု၏ အကြောင်းရင်းဖြစ်သည်။",
-                "Korean": "그의 노력이 성공의 원인입니다.",
-                "Hindi": "उसके प्रयास उसकी सफलता का कारण हैं।",
-                "Arabic": "جهوده هي سبب نجاحه.",
-                "French": "Ses efforts sont la cause de son succès.",
-                "Spanish": "Sus esfuerzos son la causa de su éxito.",
-                "Chinese": "他的努力是成功的原因。",
-                "Bengali": "তার প্রচেষ্টাই তার সাফল্যের কারণ।"
-            }
-        },
-        {
-            "kanji": "失敗の原因は何ですか？",
-            "furigana": "失敗(しっぱい)の原因(げんいん)は何(なん)ですか？",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "失敗の原因は何ですか？",
-                "English": "What is the cause of the failure?",
-                "Persian": "علت شکست چیست؟",
-                "Nepali": "असफलताको कारण के हो?",
-                "Indonesian": "Apa penyebab dari kegagalan tersebut?",
-                "Filipino": "Ano ang sanhi ng pagkabigo?",
-                "Vietnamese": "Nguyên nhân của thất bại là gì?",
-                "Burmese": "ဆုံးရှုံးမှုရဲ့အကြောင်းရင်းကဘာလဲ?",
-                "Korean": "실패의 원인이 무엇인가요?",
-                "Hindi": "विफलता का कारण क्या है?",
-                "Arabic": "ما هو سبب الفشل؟",
-                "French": "Quelle est la cause de l'échec ?",
-                "Spanish": "¿Cuál es la causa del fracaso?",
-                "Chinese": "失败的原因是什么？",
-                "Bengali": "ব্যর্থতার কারণ কী?"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "理由",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "りゆう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "reason",
-                        "grounds",
-                        "pretext",
-                        "excuse",
-                        "motive"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "結果",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "けっか",
-            "meanings": [
-                {
-                    "neuances": [
-                        "result",
-                        "consequence",
-                        "outcome",
-                        "effect"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "as a result of ...",
-                        "as a consequence of ...",
-                        "after ...",
-                        "following ..."
-                    ],
-                    "part_of_speech": "Adverb (fukushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "bearing fruit",
-                        "fruiting"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "影響",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "えいきょう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "influence",
-                        "effect",
-                        "impact"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "事故のげんいん",
+        "火事のげんいん",
+        "病気のげんいん",
+        "トラブルのげんいん",
+        "成功のげんいん",
+        "失敗のげんいん"
     ]
 }

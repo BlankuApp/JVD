@@ -1,234 +1,305 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "一般",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/2a6K0U4kr_w",
     "in_db": true,
-    "reading": "いっぱん",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "一般",
+        "reading": "いっぱん",
+        "introduction_japanese": "",
+        "introduction_english": "Today's word is いっぱん, a term frequently encountered in daily conversations and written materials, especially when discussing common or broadly applicable scenarios.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word 一般 (いっぱん) means \"general\" or \"ordinary.\" It refers to something that is common to most people or situations and is not specialized or specific.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "general",
                 "universal"
             ],
-            "part_of_speech": "Noun which may take the genitive case particle 'no', Noun",
-            "translation": {
-                "Japanese": "一般",
-                "English": "general",
-                "Persian": "عمومی",
-                "Nepali": "सामान्य",
-                "Indonesian": "umum",
-                "Filipino": "pangkalahatan",
-                "Vietnamese": "chung",
-                "Burmese": "အထွေထွေ",
-                "Korean": "일반",
-                "Hindi": "सामान्य",
-                "Arabic": "عام",
-                "French": "général",
-                "Spanish": "general",
-                "Chinese": "一般",
-                "Bengali": "সাধারণ"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "ordinary",
                 "average",
                 "common",
                 "non-celebrity"
             ],
-            "part_of_speech": "Noun which may take the genitive case particle 'no', Noun",
-            "translation": {
-                "Japanese": "一般",
-                "English": "ordinary",
-                "Persian": "معمولی",
-                "Nepali": "साधारण",
-                "Indonesian": "biasa",
-                "Filipino": "karaniwan",
-                "Vietnamese": "bình thường",
-                "Burmese": "ဒေသခံ",
-                "Korean": "일반적인",
-                "Hindi": "साधारण",
-                "Arabic": "عادي",
-                "French": "ordinaire",
-                "Spanish": "ordinario",
-                "Chinese": "普通的",
-                "Bengali": "সাধারণ"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "the same",
                 "no different",
                 " as if"
-            ],
-            "part_of_speech": "Noun which may take the genitive case particle 'no', Noun",
-            "translation": {
-                "Japanese": "一般",
-                "English": "general",
-                "Persian": "عمومی",
-                "Nepali": "सामान्य",
-                "Indonesian": "umum",
-                "Filipino": "pangkalahatan",
-                "Vietnamese": "chung",
-                "Burmese": "အထွေထွေ",
-                "Korean": "일반",
-                "Hindi": "सामान्य",
-                "Arabic": "عام",
-                "French": "général",
-                "Spanish": "general",
-                "Chinese": "一般",
-                "Bengali": "সাধারণ"
+            ]
+        ],
+        "meaning_translations": {
+            "general": {
+                "EN": "general",
+                "ID": "umum",
+                "ES": "general",
+                "VI": "chung",
+                "FR": "général",
+                "NE": "सामान्य",
+                "BN": "সাধারণ",
+                "ZH": "一般",
+                "KO": "일반",
+                "TL": "pangkalahatan",
+                "MY": "အထွေထွေ",
+                "HI": "सामान्य",
+                "AR": "عام",
+                "FA": "عمومی"
+            },
+            "ordinary": {
+                "EN": "ordinary",
+                "ID": "biasa",
+                "ES": "ordinario",
+                "VI": "bình thường",
+                "FR": "ordinaire",
+                "NE": "साधारण",
+                "BN": "সাধারণ",
+                "ZH": "普通的",
+                "KO": "일반적인",
+                "TL": "karaniwan",
+                "MY": "ဒေသခံ",
+                "HI": "साधारण",
+                "AR": "عادي",
+                "FA": "معمولی"
+            },
+            "the same": {
+                "EN": "general",
+                "ID": "umum",
+                "ES": "general",
+                "VI": "chung",
+                "FR": "général",
+                "NE": "सामान्य",
+                "BN": "সাধারণ",
+                "ZH": "一般",
+                "KO": "일반",
+                "TL": "pangkalahatan",
+                "MY": "အထွေထွေ",
+                "HI": "सामान्य",
+                "AR": "عام",
+                "FA": "عمومی"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "それは一般に考えられる方法です。",
+                "furigana": "それは一般(いっぱん)に考(かんが)えられる方法(ほうほう)です。",
+                "translations": {
+                    "EN": "That's a commonly considered method.",
+                    "ID": "Itu adalah metode yang umumnya dipertimbangkan.",
+                    "ES": "Ese es un método considerado de manera general.",
+                    "VI": "Đó là phương pháp được coi là thông thường.",
+                    "FR": "C'est une méthode généralement considérée.",
+                    "NE": "यो साधारणतया विचार गरिएको विधि हो।",
+                    "BN": "এটি সাধারণত বিবেচিত একটি পদ্ধতি।",
+                    "ZH": "这是一种普遍考虑的方法。",
+                    "KO": "그것은 일반적으로 생각되는 방법입니다.",
+                    "TL": "Iyan ay isang karaniwang ikinokonsiderang pamamaraan.",
+                    "MY": "ဒါဟာ ပုံမှန် စဉ်းစိသည့် နည်းလမ်းပါ။",
+                    "HI": "यह आमतौर पर विचार किया जाने वाला तरीका है।",
+                    "AR": "هذه طريقة تُعتبر عامةً.",
+                    "FA": "این یک روش معمول در نظر گرفته شده است."
+                }
+            },
+            {
+                "kanji": "一般の人々は公園を訪れます。",
+                "furigana": "一般(いっぱん)の人々(ひとびと)は公園(こうえん)を訪(おとず)れます。",
+                "translations": {
+                    "EN": "Ordinary people visit the park.",
+                    "ID": "Orang-orang biasa mengunjungi taman.",
+                    "ES": "La gente común visita el parque.",
+                    "VI": "Người bình thường ghé thăm công viên.",
+                    "FR": "Les gens ordinaires visitent le parc.",
+                    "NE": "साधारण मानिसहरू पार्कमा जाँच्छन्।",
+                    "BN": "সাধারণ মানুষ পার্কে যান।",
+                    "ZH": "普通人去公园。",
+                    "KO": "일반 사람들은 공원을 방문합니다.",
+                    "TL": "Pumupunta ang mga karaniwang tao sa parke.",
+                    "MY": "ဆော့ကစားရန်ဟာသိပ်ရိုးဘူးဖြစ်တဲ့သူတွေဟာ ပန်းခြံကိုလာလေ့ရှိပါတယ်။",
+                    "HI": "साधारण लोग पार्क जाते हैं।",
+                    "AR": "الناس العاديين يزورون الحديقة.",
+                    "FA": "افراد عادی به پارک مراجعه می‌کنند."
+                }
+            },
+            {
+                "kanji": "その考えは一般の意見です。",
+                "furigana": "その考え(かんがえ)は一般(いっぱん)の意見(いけん)です。",
+                "translations": {
+                    "EN": "That idea is a common opinion.",
+                    "ID": "Pemikiran itu adalah pendapat umum.",
+                    "ES": "Esa idea es una opinión común.",
+                    "VI": "Ý tưởng đó là quan điểm chung.",
+                    "FR": "Cette idée est une opinion générale.",
+                    "NE": "त्यो धारणा साधारण सुझाव हो।",
+                    "BN": "এই ধারণাটি একটি সাধারণ মতামত।",
+                    "ZH": "那个想法是一种普遍的意见。",
+                    "KO": "그 생각은 일반적인 의견입니다.",
+                    "TL": "Ang ideyang iyan ay isang karaniwang opinyon.",
+                    "MY": "အဲ့ဒီတွေးခေါ်ချက်ဟာ အသိအမှတ်ပြုကြောင့် ဖြစ်ပါတယ်။",
+                    "HI": "वह विचार सामान्य राय है।",
+                    "AR": "تلك الفكرة هي رأي عام.",
+                    "FA": "آن ایده نظر رایج است."
+                }
+            },
+            {
+                "kanji": "これは一般的な考え方です。",
+                "furigana": "これは一般的(いっぱんてき)な考(かんが)え方(かた)です。",
+                "translations": {
+                    "EN": "This is a general way of thinking.",
+                    "ID": "Ini cara berpikir yang umum.",
+                    "ES": "Este es un modo de pensar general.",
+                    "VI": "Đây là cách suy nghĩ phổ biến.",
+                    "FR": "C'est une manière de penser générale.",
+                    "NE": "यो सामान्य सोचाई हो।",
+                    "BN": "এটি একটি সাধারণ চিন্তাধারা।",
+                    "ZH": "这是一般的想法方式。",
+                    "KO": "이것은 일반적인 사고방식입니다.",
+                    "TL": "Ito ay isang karaniwang paraan ng pag-iisip.",
+                    "MY": "ဤသည် ပုံမှန်စဉ်းစားနည်းဖြစ်သည်။",
+                    "HI": "यह एक सामान्य विचारधारा है।",
+                    "AR": "هذا هو أسلوب التفكير العام.",
+                    "FA": "این یک روش تفکر عمومی است."
+                }
+            },
+            {
+                "kanji": "一般的な質問です。",
+                "furigana": "一般的(いっぱんてき)な質問(しつもん)です。",
+                "translations": {
+                    "EN": "It is a general question.",
+                    "ID": "Ini adalah pertanyaan umum.",
+                    "ES": "Es una pregunta general.",
+                    "VI": "Đây là một câu hỏi chung.",
+                    "FR": "C'est une question générale.",
+                    "NE": "यो सामान्य प्रश्न हो।",
+                    "BN": "এটি একটি সাধারণ প্রশ্ন।",
+                    "ZH": "这是一个一般性问题。",
+                    "KO": "일반적인 질문입니다.",
+                    "TL": "Ito ay isang pangkalahatang tanong.",
+                    "MY": "ဤသည်မှာ အထွေထွေ မေးခွန်းတစ်ခုဖြစ်သည်။",
+                    "HI": "यह एक सामान्य प्रश्न है।",
+                    "AR": "إنه سؤال عام.",
+                    "FA": "این یک سؤال عمومی است."
+                }
+            }
+        ],
+        "synonyms": [
+            "普及 : ふきゅう : diffusion",
+            "全体 : ぜんたい : whole"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word いっぱん are ふきゅう and ぜんたい. ふきゅう means \"popular\" or \"widely spread,\" focusing on reaching a wide audience. ぜんたい means \"entire\" or \"whole,\" emphasizing completeness. Both have broader scopes than いっぱん, which specifically pertains to generality or ordinariness.",
+        "antonyms": [
+            "特殊 : とくしゅ : special",
+            "例外 : れいがい : exception"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word いっぱん are とくしゅ and れいがい. とくしゅ means \"special,\" highlighting something unique or specific. れいがい means \"exception,\" indicating something that deviates from the norm. These contrast with いっぱん by emphasizing what is distinct or not common.",
+        "kanji_details": [
+            {
+                "kanji": "一",
+                "common_words": [
+                    "一つ: one",
+                    "一人: one person"
+                ]
+            },
+            {
+                "kanji": "般",
+                "common_words": [
+                    "万般: all things",
+                    "般若: prajna"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "一般",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "一般",
+                "reading": "いっぱん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "general",
+                    "universal"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no', Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "ordinary",
+                    "average",
+                    "common",
+                    "non-celebrity"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no', Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "the same",
+                    "no different",
+                    " as if"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no', Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "一",
+        "般"
     ],
-    "kanjis": [
-        {
-            "kanji": "一",
+    "kanji_data": {
+        "一": {
             "meanings": [
                 "one",
                 "one radical (no.1)"
             ],
-            "onyomi": [
+            "on_readings": [
                 "イチ",
                 "イツ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "ひと-",
                 "ひと.つ"
             ],
-            "strokes": 1,
+            "stroke_count": 1,
             "jlpt": 5,
-            "frequency": 2,
+            "freq_mainichi_shinbun": 2,
             "unicode": "4E00",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "一つ",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひとつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "one"
-                            ],
-                            "part_of_speech": "Numeric",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "for one thing"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "only"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                " even"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "just"
-                            ],
-                            "part_of_speech": "Noun, Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "some kind of",
-                                "one type of"
-                            ],
-                            "part_of_speech": "Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "一人",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひとり",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "one person"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "being alone",
-                                "being by oneself"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "being single",
-                                "being unmarried"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "by oneself",
-                                "alone"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "just",
-                                "only",
-                                "simply"
-                            ],
-                            "part_of_speech": "Adverb (fukushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3",
-                        "jlpt-n1",
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         },
-        {
-            "kanji": "般",
+        "般": {
             "meanings": [
                 "all",
                 "carrier",
@@ -237,359 +308,22 @@
                 "kind",
                 "sort"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ハン"
             ],
-            "kunyomi": [],
-            "strokes": 10,
+            "kun_readings": [],
+            "stroke_count": 10,
             "jlpt": 2,
-            "frequency": 649,
+            "freq_mainichi_shinbun": 649,
             "unicode": "822C",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "万般",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ばんぱん",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "all things"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "般若",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はんにゃ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "prajna"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "hannya"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "dreadful face",
-                                "terrifying facial expression"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "Hannya"
-                            ],
-                            "part_of_speech": "Place",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": false,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         }
-    ],
-    "kanji_explanation": "The first kanji means one or single and it shows the idea of unity or a single item. In the word ひとつ it marks a single thing and in ひとり it marks a single person, so you can feel the sense of 'one' in those words. The second kanji means a kind or general type and it suggests a broad category or widespread nature. In words like まんぱん it contributes the sense of many kinds or all sorts and in はんにゃ it appears in a compound that refers to a broad concept of wisdom in Buddhism.",
-    "explanations": {
-        "explanation": "The word 一般 (いっぱん) means \"general\" or \"ordinary.\" It refers to something that is common to most people or situations and is not specialized or specific.",
-        "youtube_description": "Learn how to use the Japanese word 一般 (いっぱん) in everyday conversations! \nIn this video, we'll explore its meanings, nuances, and contexts to help you master this versatile vocabulary. Whether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "Today's word is いっぱん, a term frequently encountered in daily conversations and written materials, especially when discussing common or broadly applicable scenarios.",
-        "collocations": [
-            "一般に考えられる",
-            "一般の人々",
-            "一般の意見",
-            "一般的な考え方",
-            "一般的な質問"
-        ],
-        "synonyms": [
-            "普及",
-            "全体"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word いっぱん are ふきゅう and ぜんたい. ふきゅう means \"popular\" or \"widely spread,\" focusing on reaching a wide audience. ぜんたい means \"entire\" or \"whole,\" emphasizing completeness. Both have broader scopes than いっぱん, which specifically pertains to generality or ordinariness.",
-        "antonyms": [
-            "特殊",
-            "例外"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word いっぱん are とくしゅ and れいがい. とくしゅ means \"special,\" highlighting something unique or specific. れいがい means \"exception,\" indicating something that deviates from the norm. These contrast with いっぱん by emphasizing what is distinct or not common."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "それは一般に考えられる方法です。",
-            "furigana": "それは一般(いっぱん)に考(かんが)えられる方法(ほうほう)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "それは一般に考えられる方法です。",
-                "English": "That's a commonly considered method.",
-                "Persian": "این یک روش معمول در نظر گرفته شده است.",
-                "Nepali": "यो साधारणतया विचार गरिएको विधि हो।",
-                "Indonesian": "Itu adalah metode yang umumnya dipertimbangkan.",
-                "Filipino": "Iyan ay isang karaniwang ikinokonsiderang pamamaraan.",
-                "Vietnamese": "Đó là phương pháp được coi là thông thường.",
-                "Burmese": "ဒါဟာ ပုံမှန် စဉ်းစိသည့် နည်းလမ်းပါ။",
-                "Korean": "그것은 일반적으로 생각되는 방법입니다.",
-                "Hindi": "यह आमतौर पर विचार किया जाने वाला तरीका है।",
-                "Arabic": "هذه طريقة تُعتبر عامةً.",
-                "French": "C'est une méthode généralement considérée.",
-                "Spanish": "Ese es un método considerado de manera general.",
-                "Chinese": "这是一种普遍考虑的方法。",
-                "Bengali": "এটি সাধারণত বিবেচিত একটি পদ্ধতি।"
-            }
-        },
-        {
-            "kanji": "一般の人々は公園を訪れます。",
-            "furigana": "一般(いっぱん)の人々(ひとびと)は公園(こうえん)を訪(おとず)れます。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "一般の人々は公園を訪れます。",
-                "English": "Ordinary people visit the park.",
-                "Persian": "افراد عادی به پارک مراجعه می‌کنند.",
-                "Nepali": "साधारण मानिसहरू पार्कमा जाँच्छन्।",
-                "Indonesian": "Orang-orang biasa mengunjungi taman.",
-                "Filipino": "Pumupunta ang mga karaniwang tao sa parke.",
-                "Vietnamese": "Người bình thường ghé thăm công viên.",
-                "Burmese": "ဆော့ကစားရန်ဟာသိပ်ရိုးဘူးဖြစ်တဲ့သူတွေဟာ ပန်းခြံကိုလာလေ့ရှိပါတယ်။",
-                "Korean": "일반 사람들은 공원을 방문합니다.",
-                "Hindi": "साधारण लोग पार्क जाते हैं।",
-                "Arabic": "الناس العاديين يزورون الحديقة.",
-                "French": "Les gens ordinaires visitent le parc.",
-                "Spanish": "La gente común visita el parque.",
-                "Chinese": "普通人去公园。",
-                "Bengali": "সাধারণ মানুষ পার্কে যান।"
-            }
-        },
-        {
-            "kanji": "その考えは一般の意見です。",
-            "furigana": "その考え(かんがえ)は一般(いっぱん)の意見(いけん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "その考えは一般の意見です。",
-                "English": "That idea is a common opinion.",
-                "Persian": "آن ایده نظر رایج است.",
-                "Nepali": "त्यो धारणा साधारण सुझाव हो।",
-                "Indonesian": "Pemikiran itu adalah pendapat umum.",
-                "Filipino": "Ang ideyang iyan ay isang karaniwang opinyon.",
-                "Vietnamese": "Ý tưởng đó là quan điểm chung.",
-                "Burmese": "အဲ့ဒီတွေးခေါ်ချက်ဟာ အသိအမှတ်ပြုကြောင့် ဖြစ်ပါတယ်။",
-                "Korean": "그 생각은 일반적인 의견입니다.",
-                "Hindi": "वह विचार सामान्य राय है।",
-                "Arabic": "تلك الفكرة هي رأي عام.",
-                "French": "Cette idée est une opinion générale.",
-                "Spanish": "Esa idea es una opinión común.",
-                "Chinese": "那个想法是一种普遍的意见。",
-                "Bengali": "এই ধারণাটি একটি সাধারণ মতামত।"
-            }
-        },
-        {
-            "kanji": "これは一般的な考え方です。",
-            "furigana": "これは一般的(いっぱんてき)な考(かんが)え方(かた)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "これは一般的な考え方です。",
-                "English": "This is a general way of thinking.",
-                "Persian": "این یک روش تفکر عمومی است.",
-                "Nepali": "यो सामान्य सोचाई हो।",
-                "Indonesian": "Ini cara berpikir yang umum.",
-                "Filipino": "Ito ay isang karaniwang paraan ng pag-iisip.",
-                "Vietnamese": "Đây là cách suy nghĩ phổ biến.",
-                "Burmese": "ဤသည် ပုံမှန်စဉ်းစားနည်းဖြစ်သည်။",
-                "Korean": "이것은 일반적인 사고방식입니다.",
-                "Hindi": "यह एक सामान्य विचारधारा है।",
-                "Arabic": "هذا هو أسلوب التفكير العام.",
-                "French": "C'est une manière de penser générale.",
-                "Spanish": "Este es un modo de pensar general.",
-                "Chinese": "这是一般的想法方式。",
-                "Bengali": "এটি একটি সাধারণ চিন্তাধারা।"
-            }
-        },
-        {
-            "kanji": "一般的な質問です。",
-            "furigana": "一般的(いっぱんてき)な質問(しつもん)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "一般的な質問です。",
-                "English": "It is a general question.",
-                "Persian": "این یک سؤال عمومی است.",
-                "Nepali": "यो सामान्य प्रश्न हो।",
-                "Indonesian": "Ini adalah pertanyaan umum.",
-                "Filipino": "Ito ay isang pangkalahatang tanong.",
-                "Vietnamese": "Đây là một câu hỏi chung.",
-                "Burmese": "ဤသည်မှာ အထွေထွေ မေးခွန်းတစ်ခုဖြစ်သည်။",
-                "Korean": "일반적인 질문입니다.",
-                "Hindi": "यह एक सामान्य प्रश्न है।",
-                "Arabic": "إنه سؤال عام.",
-                "French": "C'est une question générale.",
-                "Spanish": "Es una pregunta general.",
-                "Chinese": "这是一个一般性问题。",
-                "Bengali": "এটি একটি সাধারণ প্রশ্ন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "普及",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ふきゅう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "diffusion",
-                        "spread",
-                        "popularization",
-                        "promulgation",
-                        "familiarization"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "全体",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ぜんたい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "whole",
-                        "entirety"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no', Adverb (fukushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "to begin with",
-                        "in the first place"
-                    ],
-                    "part_of_speech": "Adverb (fukushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "... the heck",
-                        "... in the world",
-                        "... on earth"
-                    ],
-                    "part_of_speech": "Adverb (fukushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "特殊",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とくしゅ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "special",
-                        "particular",
-                        "peculiar",
-                        "unique"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "例外",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "れいがい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "exception"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "一般に考えられる",
+        "一般の人々",
+        "一般の意見",
+        "一般的な考え方",
+        "一般的な質問"
     ]
 }

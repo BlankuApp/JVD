@@ -1,452 +1,256 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "喧嘩",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/z0cI0f5c4qI",
     "in_db": true,
-    "reading": "けんか",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "喧嘩",
+        "reading": "けんか",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is けんか which you will often hear in situations involving disagreements or conflicts between people. Dive in and discover how understanding this word can enrich your conversations!",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word けんか means a fight or quarrel. It's often used to describe a verbal or physical altercation between people.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "quarrel",
                 "brawl",
                 "fight",
                 "squabble",
                 "scuffle",
                 "argument"
-            ],
-            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-            "translation": {
-                "Japanese": "喧嘩",
-                "English": "quarrel",
-                "Persian": "دعوا",
-                "Nepali": "झगडा",
-                "Indonesian": "bertengkar",
-                "Filipino": "away",
-                "Vietnamese": "cuộc cãi vã",
-                "Burmese": "အငြင်းပွားမှု",
-                "Korean": "싸움",
-                "Hindi": "झगड़ा",
-                "Arabic": "مشاجرة",
-                "French": "querelle",
-                "Spanish": "pelea",
-                "Chinese": "争吵",
-                "Bengali": "ঝগড়া"
+            ]
+        ],
+        "meaning_translations": {
+            "quarrel": {
+                "EN": "quarrel",
+                "ID": "bertengkar",
+                "ES": "pelea",
+                "VI": "cuộc cãi vã",
+                "FR": "querelle",
+                "NE": "झगडा",
+                "BN": "ঝগড়া",
+                "ZH": "争吵",
+                "KO": "싸움",
+                "TL": "away",
+                "MY": "အငြင်းပွားမှု",
+                "HI": "झगड़ा",
+                "AR": "مشاجرة",
+                "FA": "دعوا"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "彼らは喧嘩します。",
+                "furigana": "彼(かれ)らは喧嘩(けんか)します。",
+                "translations": {
+                    "EN": "They fight.",
+                    "ID": "Mereka bertengkar.",
+                    "ES": "Ellos pelean.",
+                    "VI": "Họ cãi nhau.",
+                    "FR": "Ils se disputent.",
+                    "NE": "उनीहरूले झगडा गर्छन्।",
+                    "BN": "তারা ঝগড়া করে।",
+                    "ZH": "他们吵架。",
+                    "KO": "그들은 싸운다.",
+                    "TL": "Nag-aaway sila.",
+                    "MY": "သူတို့ ရန်ဖြစ်သည်။",
+                    "HI": "वे झगड़ा करते हैं।",
+                    "AR": "هم يتشاجرون.",
+                    "FA": "آنها دعوا می کنند."
+                }
+            },
+            {
+                "kanji": "彼らは喧嘩になる。",
+                "furigana": "彼(かれ)らは喧嘩(けんか)になる。",
+                "translations": {
+                    "EN": "They get into a fight.",
+                    "ID": "Mereka bertengkar.",
+                    "ES": "Ellos se pelean.",
+                    "VI": "Họ gây gổ.",
+                    "FR": "Ils se disputent.",
+                    "NE": "तिनीहरू झगडा गर्छन्।",
+                    "BN": "তারা ঝগড়া করে।",
+                    "ZH": "他们争吵起来。",
+                    "KO": "그들은 싸우게 된다.",
+                    "TL": "Nag-aaway sila.",
+                    "MY": "သူတို့ ရန်ဖြစ်ကြသည်။",
+                    "HI": "वे लड़ाई में पड़ जाते हैं।",
+                    "AR": "إنهم يتشاجرون.",
+                    "FA": "آنها وارد جنگ می‌شوند."
+                }
+            },
+            {
+                "kanji": "子供たちは喧嘩をやめました。",
+                "furigana": "子供(こども)たちは喧嘩(けんか)をやめました。",
+                "translations": {
+                    "EN": "The children stopped fighting.",
+                    "ID": "Anak-anak berhenti bertengkar.",
+                    "ES": "Los niños dejaron de pelear.",
+                    "VI": "Những đứa trẻ đã ngừng cãi nhau.",
+                    "FR": "Les enfants ont cessé de se battre.",
+                    "NE": "बच्चाहरूले झगडा रोके।",
+                    "BN": "ছাত্ররা ঝগড়া বন্ধ করেছে।",
+                    "ZH": "孩子们停止吵架。",
+                    "KO": "아이들이 싸움을 멈췄습니다.",
+                    "TL": "Tumigil na ang mga bata sa pag-aaway.",
+                    "MY": "ကလေးတွေက ရန်စားတာရပ်လိုက်ပြီ။",
+                    "HI": "बच्चों ने लड़ाई बंद कर दी।",
+                    "AR": "توقف الأطفال عن الشجار.",
+                    "FA": "بچه‌ها دعوا را متوقف کردند."
+                }
+            },
+            {
+                "kanji": "友達と喧嘩をしました。",
+                "furigana": "友達(ともだち)と喧嘩(けんか)をしました。",
+                "translations": {
+                    "EN": "I had a fight with my friend.",
+                    "ID": "Aku bertengkar dengan temanku.",
+                    "ES": "Tuve una pelea con mi amigo.",
+                    "VI": "Tôi đã cãi nhau với bạn.",
+                    "FR": "J'ai eu une dispute avec mon ami.",
+                    "NE": "म साथी संग झगडाएँ।",
+                    "BN": "আমি আমার বন্ধুর সাথে ঝগড়া করেছি।",
+                    "ZH": "我和朋友吵架了。",
+                    "KO": "친구와 싸웠어요.",
+                    "TL": "Nag-away kami ng kaibigan ko.",
+                    "MY": "ကျွန်တော်/ကျွန်မ မိတ်ဆွေတွေလို့ ရန်ဖြစ်ခဲ့တယ်။",
+                    "HI": "मैंने अपने दोस्त से लड़ाई की।",
+                    "AR": "لقد تشاجرت مع صديقي.",
+                    "FA": "با دوستم دعوا کردم."
+                }
+            },
+            {
+                "kanji": "彼は喧嘩を売りました。",
+                "furigana": "彼(かれ)は喧嘩(けんか)を売(う)りました。",
+                "translations": {
+                    "EN": "He picked a fight.",
+                    "ID": "Dia memicu pertengkaran.",
+                    "ES": "Él inició una pelea.",
+                    "VI": "Anh ta gây sự.",
+                    "FR": "Il a cherché la bagarre.",
+                    "NE": "उ उसले लडाई गर्यो।",
+                    "BN": "সে ঝগড়া শুরু করল।",
+                    "ZH": "他挑起了争端。",
+                    "KO": "그는 싸움을 걸었다.",
+                    "TL": "Nagsimula siya ng away.",
+                    "MY": "သူခိုက်ရန်စပြီ။",
+                    "HI": "उसने झगड़ा शुरू किया।",
+                    "AR": "لقد بدأ في الشجار.",
+                    "FA": "او دعوا زد."
+                }
+            }
+        ],
+        "synonyms": [
+            "論争 : ろんそう : dispute",
+            "口論 : こうろん : quarrel"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word けんか are ろんそう and こうろん. ろんそう is more formal, often used to describe a debate or dispute, whereas こうろん tends to refer to an argument or verbal fight.",
+        "antonyms": [
+            "和解 : わかい : reconciliation",
+            "和睦 : わぼく : reconciliation"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word けんか are わかい and わぼく. わかい refers to reconciliation, the act of making peace, while わぼく implies harmony or peaceful relations among people, both opposed to conflict.",
+        "kanji_details": [
+            {
+                "kanji": "喧",
+                "common_words": [
+                    "喧しい: noisy",
+                    "口げんか: quarrel"
+                ]
+            },
+            {
+                "kanji": "嘩",
+                "common_words": [
+                    "を: indicates an area traversed"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "喧嘩",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "喧嘩",
+                "reading": "けんか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "quarrel",
+                    "brawl",
+                    "fight",
+                    "squabble",
+                    "scuffle",
+                    "argument"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "喧",
+        "嘩"
     ],
-    "kanjis": [
-        {
-            "kanji": "喧",
+    "kanji_data": {
+        "喧": {
             "meanings": [
                 "boisterous",
                 "noisy"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ケン"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "かまびす.しい",
                 "やかま.しい"
             ],
-            "strokes": 12,
+            "stroke_count": 12,
             "jlpt": null,
-            "frequency": 2249,
+            "freq_mainichi_shinbun": 2249,
             "unicode": "55A7",
-            "grade": 9,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "喧しい",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "やかましい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "noisy",
-                                "loud",
-                                "clamorous",
-                                "boisterous"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "much talked of",
-                                "much-discussed",
-                                "vexed"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "strict",
-                                "severe",
-                                "stern"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "particular",
-                                "fussy",
-                                "fastidious",
-                                "fault-finding",
-                                "carping"
-                            ],
-                            "part_of_speech": "I-adjective (keiyoushi)",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2",
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "口げんか",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "くちげんか",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "quarrel",
-                                "dispute",
-                                "argument"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 9
         },
-        {
-            "kanji": "嘩",
+        "嘩": {
             "meanings": [
                 "noisy"
             ],
-            "onyomi": [
+            "on_readings": [
                 "カ",
                 "ケ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "かまびす.しい"
             ],
-            "strokes": 13,
+            "stroke_count": 13,
             "jlpt": null,
-            "frequency": null,
+            "freq_mainichi_shinbun": null,
             "unicode": "5629",
-            "grade": 9,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "を",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "を",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "indicates an area traversed"
-                            ],
-                            "part_of_speech": "Particle",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 9
         }
-    ],
-    "kanji_explanation": "The first kanji means noisy, clamorous, and often relates to quarrels or loud arguing. You can see it in かまびすしい which describes something very noisy, and in くちげんか where it helps show the idea of a verbal quarrel. The second kanji means clamor or uproar and is used when talking about making a scene or provoking trouble. For example かをうる uses this kanji to mean provoking someone or picking a fight, showing the sense of causing a racket or dispute.",
-    "explanations": {
-        "explanation": "The word けんか means a fight or quarrel. It's often used to describe a verbal or physical altercation between people.",
-        "youtube_description": "Learn how to use the Japanese word 喧嘩 (けんか) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!\n",
-        "motivation": "The word we'll be learning in this section is けんか which you will often hear in situations involving disagreements or conflicts between people. Dive in and discover how understanding this word can enrich your conversations!",
-        "collocations": [
-            "けんかする",
-            "けんかになる",
-            "けんかをやめる",
-            "けんかをする",
-            "けんかを売る"
-        ],
-        "synonyms": [
-            "論争",
-            "口論"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word けんか are ろんそう and こうろん. ろんそう is more formal, often used to describe a debate or dispute, whereas こうろん tends to refer to an argument or verbal fight.",
-        "antonyms": [
-            "和解",
-            "和睦"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word けんか are わかい and わぼく. わかい refers to reconciliation, the act of making peace, while わぼく implies harmony or peaceful relations among people, both opposed to conflict."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4",
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "彼らは喧嘩します。",
-            "furigana": "彼(かれ)らは喧嘩(けんか)します。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "彼らは喧嘩します。",
-                "English": "They fight.",
-                "Persian": "آنها دعوا می کنند.",
-                "Nepali": "उनीहरूले झगडा गर्छन्।",
-                "Indonesian": "Mereka bertengkar.",
-                "Filipino": "Nag-aaway sila.",
-                "Vietnamese": "Họ cãi nhau.",
-                "Burmese": "သူတို့ ရန်ဖြစ်သည်။",
-                "Korean": "그들은 싸운다.",
-                "Hindi": "वे झगड़ा करते हैं।",
-                "Arabic": "هم يتشاجرون.",
-                "French": "Ils se disputent.",
-                "Spanish": "Ellos pelean.",
-                "Chinese": "他们吵架。",
-                "Bengali": "তারা ঝগড়া করে।"
-            }
-        },
-        {
-            "kanji": "彼らは喧嘩になる。",
-            "furigana": "彼(かれ)らは喧嘩(けんか)になる。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼らは喧嘩になる。",
-                "English": "They get into a fight.",
-                "Persian": "آنها وارد جنگ می‌شوند.",
-                "Nepali": "तिनीहरू झगडा गर्छन्।",
-                "Indonesian": "Mereka bertengkar.",
-                "Filipino": "Nag-aaway sila.",
-                "Vietnamese": "Họ gây gổ.",
-                "Burmese": "သူတို့ ရန်ဖြစ်ကြသည်။",
-                "Korean": "그들은 싸우게 된다.",
-                "Hindi": "वे लड़ाई में पड़ जाते हैं।",
-                "Arabic": "إنهم يتشاجرون.",
-                "French": "Ils se disputent.",
-                "Spanish": "Ellos se pelean.",
-                "Chinese": "他们争吵起来。",
-                "Bengali": "তারা ঝগড়া করে।"
-            }
-        },
-        {
-            "kanji": "子供たちは喧嘩をやめました。",
-            "furigana": "子供(こども)たちは喧嘩(けんか)をやめました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "子供たちは喧嘩をやめました。",
-                "English": "The children stopped fighting.",
-                "Persian": "بچه‌ها دعوا را متوقف کردند.",
-                "Nepali": "बच्चाहरूले झगडा रोके।",
-                "Indonesian": "Anak-anak berhenti bertengkar.",
-                "Filipino": "Tumigil na ang mga bata sa pag-aaway.",
-                "Vietnamese": "Những đứa trẻ đã ngừng cãi nhau.",
-                "Burmese": "ကလေးတွေက ရန်စားတာရပ်လိုက်ပြီ။",
-                "Korean": "아이들이 싸움을 멈췄습니다.",
-                "Hindi": "बच्चों ने लड़ाई बंद कर दी।",
-                "Arabic": "توقف الأطفال عن الشجار.",
-                "French": "Les enfants ont cessé de se battre.",
-                "Spanish": "Los niños dejaron de pelear.",
-                "Chinese": "孩子们停止吵架。",
-                "Bengali": "ছাত্ররা ঝগড়া বন্ধ করেছে।"
-            }
-        },
-        {
-            "kanji": "友達と喧嘩をしました。",
-            "furigana": "友達(ともだち)と喧嘩(けんか)をしました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "友達と喧嘩をしました。",
-                "English": "I had a fight with my friend.",
-                "Persian": "با دوستم دعوا کردم.",
-                "Nepali": "म साथी संग झगडाएँ।",
-                "Indonesian": "Aku bertengkar dengan temanku.",
-                "Filipino": "Nag-away kami ng kaibigan ko.",
-                "Vietnamese": "Tôi đã cãi nhau với bạn.",
-                "Burmese": "ကျွန်တော်/ကျွန်မ မိတ်ဆွေတွေလို့ ရန်ဖြစ်ခဲ့တယ်။",
-                "Korean": "친구와 싸웠어요.",
-                "Hindi": "मैंने अपने दोस्त से लड़ाई की।",
-                "Arabic": "لقد تشاجرت مع صديقي.",
-                "French": "J'ai eu une dispute avec mon ami.",
-                "Spanish": "Tuve una pelea con mi amigo.",
-                "Chinese": "我和朋友吵架了。",
-                "Bengali": "আমি আমার বন্ধুর সাথে ঝগড়া করেছি।"
-            }
-        },
-        {
-            "kanji": "彼は喧嘩を売りました。",
-            "furigana": "彼(かれ)は喧嘩(けんか)を売(う)りました。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は喧嘩を売りました。",
-                "English": "He picked a fight.",
-                "Persian": "او دعوا زد.",
-                "Nepali": "उ उसले लडाई गर्यो।",
-                "Indonesian": "Dia memicu pertengkaran.",
-                "Filipino": "Nagsimula siya ng away.",
-                "Vietnamese": "Anh ta gây sự.",
-                "Burmese": "သူခိုက်ရန်စပြီ။",
-                "Korean": "그는 싸움을 걸었다.",
-                "Hindi": "उसने झगड़ा शुरू किया।",
-                "Arabic": "لقد بدأ في الشجار.",
-                "French": "Il a cherché la bagarre.",
-                "Spanish": "Él inició una pelea.",
-                "Chinese": "他挑起了争端。",
-                "Bengali": "সে ঝগড়া শুরু করল।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "論争",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ろんそう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "dispute",
-                        "controversy",
-                        "debate",
-                        "argument",
-                        "taking issue"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "口論",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "こうろん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "quarrel",
-                        "argument",
-                        "row",
-                        " dispute"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "和解",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "わかい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "reconciliation",
-                        "amicable settlement",
-                        "accommodation",
-                        "compromise",
-                        "mediation",
-                        "rapprochement"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "court-mediated settlement"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "和睦",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "わぼく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "reconciliation",
-                        "peace",
-                        "rapprochement"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "けんかする",
+        "けんかになる",
+        "けんかをやめる",
+        "けんかをする",
+        "けんかを売る"
     ]
 }

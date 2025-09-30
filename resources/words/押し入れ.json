@@ -1,38 +1,186 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "押し入れ",
+    "jlpt_level": 4,
     "youtube_link": "https://youtu.be/ztV5DhIQwcI",
     "in_db": true,
-    "reading": "おしいれ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "押し入れ",
+        "reading": "おしいれ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is おしいれ which you will often hear in conversations about traditional Japanese homes or when discussing storage space within them.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"押し入れ\" (おしいれ) means a traditional Japanese closet. It's usually a built-in storage space found in homes, typically used for storing items like futons, bedding, clothing, or household goods.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "closet",
                 " wardrobe"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "押し入れ",
-                "English": "closet",
-                "Persian": "کمد",
-                "Nepali": "अलमारी",
-                "Indonesian": "lemari",
-                "Filipino": "aparador",
-                "Vietnamese": "tủ quần áo",
-                "Burmese": "အဝတ်လှောင်အိမ်",
-                "Korean": "벽장",
-                "Hindi": "अलमारी",
-                "Arabic": "خزانة",
-                "French": "placard",
-                "Spanish": "armario",
-                "Chinese": "壁橱",
-                "Bengali": "আলমারি"
+            ]
+        ],
+        "meaning_translations": {
+            "closet": {
+                "EN": "closet",
+                "ID": "lemari",
+                "ES": "armario",
+                "VI": "tủ quần áo",
+                "FR": "placard",
+                "NE": "अलमारी",
+                "BN": "আলমারি",
+                "ZH": "壁橱",
+                "KO": "벽장",
+                "TL": "aparador",
+                "MY": "အဝတ်လှောင်အိမ်",
+                "HI": "अलमारी",
+                "AR": "خزانة",
+                "FA": "کمد"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "めんたいこを押し入れで保存します。",
+                "furigana": "めんたいこを押し入れ(おしいれ)で保存(ほぞん)します。",
+                "translations": {
+                    "EN": "I store the mentaiko in the closet.",
+                    "ID": "Saya menyimpan mentaiko di lemari.",
+                    "ES": "Guardo el mentaiko en el armario.",
+                    "VI": "Tôi cất mentaiko trong tủ.",
+                    "FR": "Je stocke le mentaiko dans le placard.",
+                    "NE": "मैले मेन्ताइकोलाई अलमारीमा राख्छु।",
+                    "BN": "আমি আলমারিতে মেনটাইকো সংরক্ষণ করি।",
+                    "ZH": "我把明太子放在橱柜里。",
+                    "KO": "저는 명태알을 벽장에 보관합니다.",
+                    "TL": "Iniimbak ko ang mentaiko sa aparador.",
+                    "MY": "ကျွန်တော် mentaiko ကို ပိတ်ခန်းထဲမှာ သိုလှောင်ပါတယ်။",
+                    "HI": "मैं कोठरी में मेंताइको रखता हूँ।",
+                    "AR": "أقوم بتخزين المينتايكو في الخزانة.",
+                    "FA": "من متناکو را در کمد نگه می‌دارم."
+                }
+            },
+            {
+                "kanji": "毎日、押し入れをきれいに整理します。",
+                "furigana": "毎日(まいにち)、押(お)し入(い)れをきれいに整理(せいり)します。",
+                "translations": {
+                    "EN": "I clean and organize the closet every day.",
+                    "ID": "Setiap hari, saya merapikan dan membersihkan lemari.",
+                    "ES": "Limpio y organizo el armario todos los días.",
+                    "VI": "Tôi dọn dẹp và sắp xếp tủ quần áo hàng ngày.",
+                    "FR": "Je nettoie et organise le placard tous les jours.",
+                    "NE": "म हरेक दिन कपाल सँगै सजिलो गर्छु।",
+                    "BN": "আমি প্রতিদিন আলমারিটি পরিষ্কার এবং গুছিয়ে রাখি।",
+                    "ZH": "我每天清洁和整理壁橱。",
+                    "KO": "매일 옷장을 깨끗하게 정리합니다.",
+                    "TL": "Araw-araw, inaayos at nililinis ko ang aparador.",
+                    "MY": "နေ့တိုင်း ဝိုက်ကန်ရောင်းကို သန့်ရှင်းပြီး စစ်တမ်းဖျောက်သည်။",
+                    "HI": "मैं हर दिन अलमारी को साफ और संगठित करता हूँ।",
+                    "AR": "أقوم بتنظيف وترتيب الخزانة كل يوم.",
+                    "FA": "هر روز کمد را تمیز و مرتب می‌کنم."
+                }
+            },
+            {
+                "kanji": "ふとんを押し入れに入れます。",
+                "furigana": "ふとんを押(お)し入(い)れに入(い)れます。",
+                "translations": {
+                    "EN": "I put the futon in the closet.",
+                    "ID": "Saya memasukkan futon ke dalam lemari.",
+                    "ES": "Pongo el futón en el armario.",
+                    "VI": "Tôi cho futon vào tủ đồ.",
+                    "FR": "Je mets le futon dans le placard.",
+                    "NE": "मैले फुतोनलाई कोठामा राखें।",
+                    "BN": "আমি ফুতনটিকে আলমারিতে রাখলাম।",
+                    "ZH": "我把被子放进壁橱。",
+                    "KO": "이불을 옷장에 넣습니다.",
+                    "TL": "Inilagay ko ang futon sa aparador.",
+                    "MY": "မြင်းခွာကို သုံ့ရှင်ထဲထည့်တယ်။",
+                    "HI": "मैंने फूटोन को अलमारी में डाला।",
+                    "AR": "أنا وضعت الفوتون في الخزانة.",
+                    "FA": "من تشک را در کمد گذاشتم."
+                }
+            },
+            {
+                "kanji": "冬の服を押し入れに保管する。",
+                "furigana": "冬(ふゆ)の服(ふく)を押(お)し入(い)れに保管(ほかん)する。",
+                "translations": {
+                    "EN": "Store winter clothes in the closet.",
+                    "ID": "Simpan pakaian musim dingin di dalam lemari.",
+                    "ES": "Almacena la ropa de invierno en el armario.",
+                    "VI": "Lưu trữ quần áo mùa đông trong tủ.",
+                    "FR": "Rangez les vêtements d'hiver dans le placard.",
+                    "NE": "जाडोको कपडा कोठामा राख्नुहोस्।",
+                    "BN": "শীতের পোশাক আলমারিতে সংরক্ষণ করুন।",
+                    "ZH": "将冬季衣物储存在壁橱中。",
+                    "KO": "겨울 옷을 옷장에 보관하다.",
+                    "TL": "Itabi ang mga damit na pambelus sa aparador.",
+                    "MY": "ဆောင်းရာသီအဝတ်များကို သိုလှောင်ထားပါ။",
+                    "HI": "सर्दी के कपड़े अलमारी में रखें।",
+                    "AR": "قم بتخزين الملابس الشتوية في الخزانة.",
+                    "FA": "لباس‌های زمستانی را در کمد نگهداری کنید."
+                }
+            }
+        ],
+        "synonyms": [
+            "戸棚 : とだな : cupboard"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word are \"戸棚\". While \"押し入れ\" refers to a built-in closet primarily found in traditional Japanese rooms, \"戸棚\" is more inclusive, referring to any cabinet or cupboard used for storage.",
+        "antonyms": [
+            "露出 : ろしゅつ : exposure"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word are \"露出\". While \"押し入れ\" refers to a space designed to conceal items, \"露出\" is the idea of exposing or revealing something, which is the opposite of storing items away.",
+        "kanji_details": [
+            {
+                "kanji": "押",
+                "common_words": [
+                    "押す: to push",
+                    "押収: seizure"
+                ]
+            },
+            {
+                "kanji": "入",
+                "common_words": [
+                    "入る-1: to enter",
+                    "入れる: to put in"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "押し入れ",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "押し入れ",
+                "reading": "おしいれ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "closet",
+                    " wardrobe"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "押",
+        "入"
     ],
-    "kanjis": [
-        {
-            "kanji": "押",
+    "kanji_data": {
+        "押": {
             "meanings": [
                 "attach",
                 "check",
@@ -46,171 +194,32 @@
                 "subdue",
                 "weight"
             ],
-            "onyomi": [
+            "on_readings": [
                 "オウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "お.さえる",
                 "お.し-",
                 "お.す",
                 "お.っ-",
                 "おさ.える"
             ],
-            "strokes": 8,
+            "stroke_count": 8,
             "jlpt": 3,
-            "frequency": 789,
+            "freq_mainichi_shinbun": 789,
             "unicode": "62BC",
-            "grade": 8,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "押す",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "おす",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to push",
-                                "to thrust",
-                                "to shove"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to press",
-                                "to push",
-                                "to exert pressure on"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to stamp",
-                                "to affix"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to affix"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to push",
-                                "to press",
-                                "to put pressure on"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to overwhelm",
-                                "to overpower",
-                                "to put under pressure",
-                                "to be superior to"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to push ahead",
-                                "to proceed",
-                                "to stick to"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to do ... in spite of ...",
-                                "to defy",
-                                "to brave",
-                                "to push aside"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to make sure"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to fall behind schedule"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to push"
-                            ],
-                            "part_of_speech": "Godan verb with 'su' ending, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "押収",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "おうしゅう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "seizure",
-                                "confiscation"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 8
         },
-        {
-            "kanji": "入",
+        "入": {
             "meanings": [
                 "enter",
                 "insert"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ジュ",
                 "ニュウ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-い.り",
                 "-い.る",
                 "-い.れ",
@@ -218,440 +227,17 @@
                 "い.れる",
                 "はい.る"
             ],
-            "strokes": 2,
+            "stroke_count": 2,
             "jlpt": 5,
-            "frequency": 56,
+            "freq_mainichi_shinbun": 56,
             "unicode": "5165",
-            "grade": 1,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "入る-1",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "はいる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to enter",
-                                "to come in",
-                                "to go in",
-                                "to get in",
-                                "to arrive"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to join",
-                                "to enter",
-                                "to enroll",
-                                "to go into",
-                                "to get into"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be contained",
-                                "to be included",
-                                "to be inside",
-                                "to come under",
-                                "to belong"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to fit",
-                                "to be held",
-                                "to be accommodated"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be introduced",
-                                "to be brought in",
-                                "to be installed"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be received",
-                                "to be obtained"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be scored",
-                                "to be won"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to turn on",
-                                "to start functioning",
-                                "to start working"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to enter",
-                                "to reach",
-                                "to get to",
-                                "to enter into",
-                                "to start",
-                                "to begin"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to form",
-                                "to develop"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be put in",
-                                "to be applied"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to be ready",
-                                "to be made"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to enter the body",
-                                "to become drunk"
-                            ],
-                            "part_of_speech": "Godan verb with 'ru' ending, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "入れる",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "いれる",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "to put in",
-                                "to let in",
-                                "to take in",
-                                "to bring in",
-                                "to insert",
-                                "to install",
-                                "to set",
-                                "to ink in"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to admit",
-                                "to accept",
-                                "to employ",
-                                "to hire"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to accept",
-                                "to comply",
-                                "to grant",
-                                "to adopt",
-                                "to take",
-                                "to listen to",
-                                "to pay attention to"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to include"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to pay"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to cast"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to make"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to turn on"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "to send",
-                                "to call"
-                            ],
-                            "part_of_speech": "Ichidan verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n5"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 1
         }
-    ],
-    "kanji_explanation": "The first kanji means push or press and gives the idea of applying force or movement. You can see that meaning in words like おす where the action is literally pushing, and in おうしゅう where the sense of forcing or taking hold is present. The second kanji means to enter or to put into something and it often shows movement into a space. That meaning appears clearly in はいる which is to go in and in いれる which is to put something into something else.",
-    "explanations": {
-        "explanation": "The word \"押し入れ\" (おしいれ) means a traditional Japanese closet. It's usually a built-in storage space found in homes, typically used for storing items like futons, bedding, clothing, or household goods.",
-        "youtube_description": "Learn how to use the Japanese word 押し入れ (おしいれ) in everyday conversations! Discover its meanings, cultural nuances, and typical uses to enrich your Japanese vocabulary. Don't miss this exploration of essential home-related terms!",
-        "motivation": "The word we'll be learning in this section is おしいれ which you will often hear in conversations about traditional Japanese homes or when discussing storage space within them.",
-        "collocations": [
-            "めんたいこをおしいれで保存する",
-            "おしいれをきれいに整理する",
-            "ふとんをおしいれに入れる",
-            "服をおしいれに保管する"
-        ],
-        "synonyms": [
-            "戸棚"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word are \"戸棚\". While \"押し入れ\" refers to a built-in closet primarily found in traditional Japanese rooms, \"戸棚\" is more inclusive, referring to any cabinet or cupboard used for storage.",
-        "antonyms": [
-            "露出"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word are \"露出\". While \"押し入れ\" refers to a space designed to conceal items, \"露出\" is the idea of exposing or revealing something, which is the opposite of storing items away."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n4"
-    ],
-    "examples": [
-        {
-            "kanji": "めんたいこを押し入れで保存します。",
-            "furigana": "めんたいこを押し入れ(おしいれ)で保存(ほぞん)します。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "めんたいこを押し入れで保存します。",
-                "English": "I store the mentaiko in the closet.",
-                "Persian": "من متناکو را در کمد نگه می‌دارم.",
-                "Nepali": "मैले मेन्ताइकोलाई अलमारीमा राख्छु।",
-                "Indonesian": "Saya menyimpan mentaiko di lemari.",
-                "Filipino": "Iniimbak ko ang mentaiko sa aparador.",
-                "Vietnamese": "Tôi cất mentaiko trong tủ.",
-                "Burmese": "ကျွန်တော် mentaiko ကို ပိတ်ခန်းထဲမှာ သိုလှောင်ပါတယ်။",
-                "Korean": "저는 명태알을 벽장에 보관합니다.",
-                "Hindi": "मैं कोठरी में मेंताइको रखता हूँ।",
-                "Arabic": "أقوم بتخزين المينتايكو في الخزانة.",
-                "French": "Je stocke le mentaiko dans le placard.",
-                "Spanish": "Guardo el mentaiko en el armario.",
-                "Chinese": "我把明太子放在橱柜里。",
-                "Bengali": "আমি আলমারিতে মেনটাইকো সংরক্ষণ করি।"
-            }
-        },
-        {
-            "kanji": "毎日、押し入れをきれいに整理します。",
-            "furigana": "毎日(まいにち)、押(お)し入(い)れをきれいに整理(せいり)します。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "毎日、押し入れをきれいに整理します。",
-                "English": "I clean and organize the closet every day.",
-                "Persian": "هر روز کمد را تمیز و مرتب می‌کنم.",
-                "Nepali": "म हरेक दिन कपाल सँगै सजिलो गर्छु।",
-                "Indonesian": "Setiap hari, saya merapikan dan membersihkan lemari.",
-                "Filipino": "Araw-araw, inaayos at nililinis ko ang aparador.",
-                "Vietnamese": "Tôi dọn dẹp và sắp xếp tủ quần áo hàng ngày.",
-                "Burmese": "နေ့တိုင်း ဝိုက်ကန်ရောင်းကို သန့်ရှင်းပြီး စစ်တမ်းဖျောက်သည်။",
-                "Korean": "매일 옷장을 깨끗하게 정리합니다.",
-                "Hindi": "मैं हर दिन अलमारी को साफ और संगठित करता हूँ।",
-                "Arabic": "أقوم بتنظيف وترتيب الخزانة كل يوم.",
-                "French": "Je nettoie et organise le placard tous les jours.",
-                "Spanish": "Limpio y organizo el armario todos los días.",
-                "Chinese": "我每天清洁和整理壁橱。",
-                "Bengali": "আমি প্রতিদিন আলমারিটি পরিষ্কার এবং গুছিয়ে রাখি।"
-            }
-        },
-        {
-            "kanji": "ふとんを押し入れに入れます。",
-            "furigana": "ふとんを押(お)し入(い)れに入(い)れます。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "ふとんを押し入れに入れます。",
-                "English": "I put the futon in the closet.",
-                "Persian": "من تشک را در کمد گذاشتم.",
-                "Nepali": "मैले फुतोनलाई कोठामा राखें।",
-                "Indonesian": "Saya memasukkan futon ke dalam lemari.",
-                "Filipino": "Inilagay ko ang futon sa aparador.",
-                "Vietnamese": "Tôi cho futon vào tủ đồ.",
-                "Burmese": "မြင်းခွာကို သုံ့ရှင်ထဲထည့်တယ်။",
-                "Korean": "이불을 옷장에 넣습니다.",
-                "Hindi": "मैंने फूटोन को अलमारी में डाला।",
-                "Arabic": "أنا وضعت الفوتون في الخزانة.",
-                "French": "Je mets le futon dans le placard.",
-                "Spanish": "Pongo el futón en el armario.",
-                "Chinese": "我把被子放进壁橱。",
-                "Bengali": "আমি ফুতনটিকে আলমারিতে রাখলাম।"
-            }
-        },
-        {
-            "kanji": "冬の服を押し入れに保管する。",
-            "furigana": "冬(ふゆ)の服(ふく)を押(お)し入(い)れに保管(ほかん)する。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "冬の服を押し入れに保管する。",
-                "English": "Store winter clothes in the closet.",
-                "Persian": "لباس‌های زمستانی را در کمد نگهداری کنید.",
-                "Nepali": "जाडोको कपडा कोठामा राख्नुहोस्।",
-                "Indonesian": "Simpan pakaian musim dingin di dalam lemari.",
-                "Filipino": "Itabi ang mga damit na pambelus sa aparador.",
-                "Vietnamese": "Lưu trữ quần áo mùa đông trong tủ.",
-                "Burmese": "ဆောင်းရာသီအဝတ်များကို သိုလှောင်ထားပါ။",
-                "Korean": "겨울 옷을 옷장에 보관하다.",
-                "Hindi": "सर्दी के कपड़े अलमारी में रखें।",
-                "Arabic": "قم بتخزين الملابس الشتوية في الخزانة.",
-                "French": "Rangez les vêtements d'hiver dans le placard.",
-                "Spanish": "Almacena la ropa de invierno en el armario.",
-                "Chinese": "将冬季衣物储存在壁橱中。",
-                "Bengali": "শীতের পোশাক আলমারিতে সংরক্ষণ করুন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "戸棚",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "とだな",
-            "meanings": [
-                {
-                    "neuances": [
-                        "cupboard",
-                        "locker",
-                        "closet",
-                        "wardrobe",
-                        "cabinet"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "露出",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ろしゅつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "exposure",
-                        "laying bare",
-                        "baring"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "exposure"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        " exposure",
-                        "appearance"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "めんたいこをおしいれで保存する",
+        "おしいれをきれいに整理する",
+        "ふとんをおしいれに入れる",
+        "服をおしいれに保管する"
     ]
 }

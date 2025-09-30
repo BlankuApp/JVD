@@ -1,139 +1,238 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "都会",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/4QGUWAU_ESg",
     "in_db": true,
-    "reading": "とかい",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "都会",
+        "reading": "とかい",
+        "introduction_japanese": "",
+        "introduction_english": "Today's fascinating word is とかい, a term you'll often hear when discussing life in bustling environments filled with towering buildings and busy streets.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word とかい means a \"city\" or an \"urban area\" in English. It's often used to describe larger, more developed areas where there is a high density of people, businesses, amenities, and infrastructure. It contrasts with rural or suburban areas and reflects a concentration of commercial activities and cultural institutions.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "city"
             ],
-            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-            "translation": {
-                "Japanese": "都会",
-                "English": "city",
-                "Persian": "شهر",
-                "Nepali": "शहर",
-                "Indonesian": "kota",
-                "Filipino": "lungsod",
-                "Vietnamese": "thành phố",
-                "Burmese": "မြို့",
-                "Korean": "도시",
-                "Hindi": "शहर",
-                "Arabic": "مدينة",
-                "French": "ville",
-                "Spanish": "ciudad",
-                "Chinese": "城市",
-                "Bengali": "শহর"
+            [
+                "Tokyo Metropolitan Assembly"
+            ]
+        ],
+        "meaning_translations": {
+            "city": {
+                "EN": "city",
+                "ID": "kota",
+                "ES": "ciudad",
+                "VI": "thành phố",
+                "FR": "ville",
+                "NE": "शहर",
+                "BN": "শহর",
+                "ZH": "城市",
+                "KO": "도시",
+                "TL": "lungsod",
+                "MY": "မြို့",
+                "HI": "शहर",
+                "AR": "مدينة",
+                "FA": "شهر"
+            },
+            "Tokyo Metropolitan Assembly": {
+                "EN": "Metropolis : Tokyo Metropolitan Assembly",
+                "ID": "Metropolis : Majelis Metropolitan Tokyo",
+                "ES": "Metrópolis : Asamblea Metropolitana de Tokio",
+                "VI": "Metropolis : Hội đồng Thành phố Tokyo",
+                "FR": "Métropole : Assemblée métropolitaine de Tokyo",
+                "NE": "महानगर : टोक्यो महानगर विधानसभा",
+                "BN": "মহানগর : টোকিও মহানগর পরিষদ",
+                "ZH": "大都会：东京大都会议会",
+                "KO": "대도시 : 도쿄도 의회",
+                "TL": "Panglungsod : Kapulungan sa Kalakhang Tokyo",
+                "MY": "ရိုက်ကြီးမြို့ : တိုကျို မြို့တော် မူရင်း စည်းကမ်း",
+                "HI": "महानगर : टोक्यो महानगरीय सदन",
+                "AR": "المدينة : الجمعية الحضرية لطوكيو",
+                "FA": "کلان‌شهر : مجمع کلانشهری توکیو"
             }
         },
-        {
-            "neuances": [
-                "Tokyo Metropolitan Assembly"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "都会 : 都議会",
-                "English": "Metropolis : Tokyo Metropolitan Assembly",
-                "Persian": "کلان‌شهر : مجمع کلانشهری توکیو",
-                "Nepali": "महानगर : टोक्यो महानगर विधानसभा",
-                "Indonesian": "Metropolis : Majelis Metropolitan Tokyo",
-                "Filipino": "Panglungsod : Kapulungan sa Kalakhang Tokyo",
-                "Vietnamese": "Metropolis : Hội đồng Thành phố Tokyo",
-                "Burmese": "ရိုက်ကြီးမြို့ : တိုကျို မြို့တော် မူရင်း စည်းကမ်း",
-                "Korean": "대도시 : 도쿄도 의회",
-                "Hindi": "महानगर : टोक्यो महानगरीय सदन",
-                "Arabic": "المدينة : الجمعية الحضرية لطوكيو",
-                "French": "Métropole : Assemblée métropolitaine de Tokyo",
-                "Spanish": "Metrópolis : Asamblea Metropolitana de Tokio",
-                "Chinese": "大都会：东京大都会议会",
-                "Bengali": "মহানগর : টোকিও মহানগর পরিষদ"
+        "examples": [
+            {
+                "kanji": "都会生活は楽しいです。",
+                "furigana": "都会(とかい)生活(せいかつ)は楽(たの)しいです。",
+                "translations": {
+                    "EN": "City life is fun.",
+                    "ID": "Hidup di kota menyenangkan.",
+                    "ES": "La vida en la ciudad es divertida.",
+                    "VI": "Cuộc sống thành phố rất vui.",
+                    "FR": "La vie urbaine est amusante.",
+                    "NE": "आधुनिक जीवन रमाइलो छ।",
+                    "BN": "শহরের জীবন মজাদার।",
+                    "ZH": "都市生活很有趣。",
+                    "KO": "도시 생활은 재미있어요.",
+                    "TL": "Masaya ang buhay sa lungsod.",
+                    "MY": "မြို့တွင်လူနေမှု ပျော်ရွှင်ဖြစ်သည်။",
+                    "HI": "शहरी जीवन मजेदार है।",
+                    "AR": "الحياة في المدينة ممتعة.",
+                    "FA": "زندگی شهری جالب است."
+                }
+            },
+            {
+                "kanji": "都会の暮らしは忙しいです。",
+                "furigana": "都会(とかい)の暮(くら)らしは忙(いそが)しいです。",
+                "translations": {
+                    "EN": "Life in the city is busy.",
+                    "ID": "Kehidupan di kota sibuk.",
+                    "ES": "La vida en la ciudad es ocupada.",
+                    "VI": "Cuộc sống ở thành phố bận rộn.",
+                    "FR": "La vie en ville est occupée.",
+                    "NE": "शहरको जीवन व्यस्त छ।",
+                    "BN": "শহরের জীবন ব্যস্ত।",
+                    "ZH": "城市生活很忙。",
+                    "KO": "도시 생활은 바쁩니다.",
+                    "TL": "Abala ang buhay sa lungsod.",
+                    "MY": "မြို့ပြတွင်အလုပ်များသည်။",
+                    "HI": "शहर की ज़िंदगी व्यस्त होती है।",
+                    "AR": "الحياة في المدينة مشغولة.",
+                    "FA": "زندگی در شهر شلوغ است."
+                }
+            },
+            {
+                "kanji": "都会はにぎやかです。",
+                "furigana": "都会(とかい)はにぎやかです。",
+                "translations": {
+                    "EN": "The city is lively.",
+                    "ID": "Kota itu ramai.",
+                    "ES": "La ciudad es animada.",
+                    "VI": "Thành phố rất sôi động.",
+                    "FR": "La ville est animée.",
+                    "NE": "सहरमा चहलपहल छ।",
+                    "BN": "শহরটি সরগরম।",
+                    "ZH": "城市很热闹。",
+                    "KO": "도시는 활기차다.",
+                    "TL": "Matao sa lungsod.",
+                    "MY": "မြို့ကြီးသည် စည်ကားသည်။",
+                    "HI": "शहर जीवंत है।",
+                    "AR": "المدينة حيوية.",
+                    "FA": "شهر پرجنب و جوش است."
+                }
+            },
+            {
+                "kanji": "都会は賑やかです。",
+                "furigana": "都会(とかい)は賑(にぎ)やかです。",
+                "translations": {
+                    "EN": "Cities are lively.",
+                    "ID": "Kota-kota ramai.",
+                    "ES": "Las ciudades son animadas.",
+                    "VI": "Thành phố rất nhộn nhịp.",
+                    "FR": "Les villes sont animées.",
+                    "NE": "शहरहरु चहलपहल छन्।",
+                    "BN": "শহরগুলো প্রাণবন্ত।",
+                    "ZH": "城市很繁华。",
+                    "KO": "도시는 활기차요.",
+                    "TL": "Makulay ang mga lungsod.",
+                    "MY": "မြို့ရဲ့တောင့်တောင့်ထွက်ပါတယ်။",
+                    "HI": "शहर जीवंत होते हैं।",
+                    "AR": "المدن مزدحمة.",
+                    "FA": "شهرها شلوغ و پرجنب‌وجوش هستند."
+                }
             }
-        }
+        ],
+        "synonyms": [
+            "都 : みやこ : capital"
+        ],
+        "synonyms_explanation": "The most common synonym of the word とかい is とかいち, both referring to urban areas. However, とかい suggests the idea of metropolitan cities, while とかいち is more general, emphasizing the urban land or area aspect.",
+        "antonyms": [
+            "田舎 : いなか : rural area"
+        ],
+        "antonyms_explanation": "The most common antonym of the word とかい is いなか. Both are about locations, but いなか refers to rural areas, often characterized by open spaces and a smaller population density. Thus, these words highlight the contrast between modern urban life and traditional rural settings.",
+        "kanji_details": [
+            {
+                "kanji": "都",
+                "common_words": [
+                    "首都: capital",
+                    "都市: town"
+                ]
+            },
+            {
+                "kanji": "会",
+                "common_words": [
+                    "社会: society",
+                    "会議: meeting"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "都会",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "都会",
+                "reading": "とかい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "city"
+                ],
+                "parts_of_speech": [
+                    "Noun, Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Tokyo Metropolitan Assembly"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "都",
+        "会"
     ],
-    "kanjis": [
-        {
-            "kanji": "都",
+    "kanji_data": {
+        "都": {
             "meanings": [
                 "all",
                 "capital",
                 "everything",
                 "metropolis"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ツ",
                 "ト"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "みやこ"
             ],
-            "strokes": 11,
+            "stroke_count": 11,
             "jlpt": 3,
-            "frequency": 123,
+            "freq_mainichi_shinbun": 123,
             "unicode": "90FD",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "首都",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゅと",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "capital",
-                                "metropolis"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "都市",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "とし",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "town",
-                                "city",
-                                "municipal",
-                                "urban"
-                            ],
-                            "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         },
-        {
-            "kanji": "会",
+        "会": {
             "meanings": [
                 "association",
                 "interview",
@@ -142,278 +241,26 @@
                 "meeting",
                 "party"
             ],
-            "onyomi": [
+            "on_readings": [
                 "エ",
                 "カイ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "あ.う",
                 "あ.わせる",
                 "あつ.まる"
             ],
-            "strokes": 6,
+            "stroke_count": 6,
             "jlpt": 4,
-            "frequency": 4,
+            "freq_mainichi_shinbun": 4,
             "unicode": "4F1A",
-            "grade": 2,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "社会",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "しゃかい",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "society",
-                                "public",
-                                "community",
-                                "the world"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "social studies"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "会議",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "かいぎ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "meeting",
-                                "conference",
-                                "session",
-                                "assembly",
-                                "council",
-                                "convention",
-                                "congress"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb, Transitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n4"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 2
         }
-    ],
-    "kanji_explanation": "The first kanji means a capital or metropolis and gives the sense of a central urban place or administrative center. For example, しゅと means the capital city, where this character carries the idea of being the main city. Also, とし means city or urban area, showing how the character relates to towns and urban centers. The second kanji means to meet or gather and expresses the idea of people coming together or an organized association. For example, しゃかい means society, where this character contributes the sense of association or group. Also, かいぎ means a meeting or conference, directly reflecting the sense of gathering.",
-    "explanations": {
-        "explanation": "The word とかい means a \"city\" or an \"urban area\" in English. It's often used to describe larger, more developed areas where there is a high density of people, businesses, amenities, and infrastructure. It contrasts with rural or suburban areas and reflects a concentration of commercial activities and cultural institutions.",
-        "youtube_description": "Discover the essence of 都会 (とかい) in our latest video! 🌆 Dive deep into understanding this essential Japanese word, its nuances, and how you can use it naturally in everyday conversations. Whether you're just starting out or looking to refine your Japanese vocabulary, this video is a valuable resource. Subscribe for more insights into the Japanese language!",
-        "motivation": "Today's fascinating word is とかい, a term you'll often hear when discussing life in bustling environments filled with towering buildings and busy streets.",
-        "collocations": [
-            "とかいせいかつ",
-            "とかいのくらし",
-            "とかいまち",
-            "とかいこうばん"
-        ],
-        "synonyms": [
-            "都会地"
-        ],
-        "synonyms_explanation": "The most common synonym of the word とかい is とかいち, both referring to urban areas. However, とかい suggests the idea of metropolitan cities, while とかいち is more general, emphasizing the urban land or area aspect.",
-        "antonyms": [
-            "田舎"
-        ],
-        "antonyms_explanation": "The most common antonym of the word とかい is いなか. Both are about locations, but いなか refers to rural areas, often characterized by open spaces and a smaller population density. Thus, these words highlight the contrast between modern urban life and traditional rural settings."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "都会生活は楽しいです。",
-            "furigana": "都会(とかい)生活(せいかつ)は楽(たの)しいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "都会生活は楽しいです。",
-                "English": "City life is fun.",
-                "Persian": "زندگی شهری جالب است.",
-                "Nepali": "आधुनिक जीवन रमाइलो छ।",
-                "Indonesian": "Hidup di kota menyenangkan.",
-                "Filipino": "Masaya ang buhay sa lungsod.",
-                "Vietnamese": "Cuộc sống thành phố rất vui.",
-                "Burmese": "မြို့တွင်လူနေမှု ပျော်ရွှင်ဖြစ်သည်။",
-                "Korean": "도시 생활은 재미있어요.",
-                "Hindi": "शहरी जीवन मजेदार है।",
-                "Arabic": "الحياة في المدينة ممتعة.",
-                "French": "La vie urbaine est amusante.",
-                "Spanish": "La vida en la ciudad es divertida.",
-                "Chinese": "都市生活很有趣。",
-                "Bengali": "শহরের জীবন মজাদার।"
-            }
-        },
-        {
-            "kanji": "都会の暮らしは忙しいです。",
-            "furigana": "都会(とかい)の暮(くら)らしは忙(いそが)しいです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "都会の暮らしは忙しいです。",
-                "English": "Life in the city is busy.",
-                "Persian": "زندگی در شهر شلوغ است.",
-                "Nepali": "शहरको जीवन व्यस्त छ।",
-                "Indonesian": "Kehidupan di kota sibuk.",
-                "Filipino": "Abala ang buhay sa lungsod.",
-                "Vietnamese": "Cuộc sống ở thành phố bận rộn.",
-                "Burmese": "မြို့ပြတွင်အလုပ်များသည်။",
-                "Korean": "도시 생활은 바쁩니다.",
-                "Hindi": "शहर की ज़िंदगी व्यस्त होती है।",
-                "Arabic": "الحياة في المدينة مشغولة.",
-                "French": "La vie en ville est occupée.",
-                "Spanish": "La vida en la ciudad es ocupada.",
-                "Chinese": "城市生活很忙。",
-                "Bengali": "শহরের জীবন ব্যস্ত।"
-            }
-        },
-        {
-            "kanji": "都会はにぎやかです。",
-            "furigana": "都会(とかい)はにぎやかです。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "都会はにぎやかです。",
-                "English": "The city is lively.",
-                "Persian": "شهر پرجنب و جوش است.",
-                "Nepali": "सहरमा चहलपहल छ।",
-                "Indonesian": "Kota itu ramai.",
-                "Filipino": "Matao sa lungsod.",
-                "Vietnamese": "Thành phố rất sôi động.",
-                "Burmese": "မြို့ကြီးသည် စည်ကားသည်။",
-                "Korean": "도시는 활기차다.",
-                "Hindi": "शहर जीवंत है।",
-                "Arabic": "المدينة حيوية.",
-                "French": "La ville est animée.",
-                "Spanish": "La ciudad es animada.",
-                "Chinese": "城市很热闹。",
-                "Bengali": "শহরটি সরগরম।"
-            }
-        },
-        {
-            "kanji": "都会は賑やかです。",
-            "furigana": "都会(とかい)は賑(にぎ)やかです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "都会は賑やかです。",
-                "English": "Cities are lively.",
-                "Persian": "شهرها شلوغ و پرجنب‌وجوش هستند.",
-                "Nepali": "शहरहरु चहलपहल छन्।",
-                "Indonesian": "Kota-kota ramai.",
-                "Filipino": "Makulay ang mga lungsod.",
-                "Vietnamese": "Thành phố rất nhộn nhịp.",
-                "Burmese": "မြို့ရဲ့တောင့်တောင့်ထွက်ပါတယ်။",
-                "Korean": "도시는 활기차요.",
-                "Hindi": "शहर जीवंत होते हैं।",
-                "Arabic": "المدن مزدحمة.",
-                "French": "Les villes sont animées.",
-                "Spanish": "Las ciudades son animadas.",
-                "Chinese": "城市很繁华。",
-                "Bengali": "শহরগুলো প্রাণবন্ত।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "都",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "みやこ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "capital",
-                        "seat of government"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "capital",
-                        "city"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "田舎",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "いなか",
-            "meanings": [
-                {
-                    "neuances": [
-                        "rural area",
-                        "countryside",
-                        "the sticks"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "hometown"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n4"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "とかいせいかつ",
+        "とかいのくらし",
+        "とかいまち",
+        "とかいこうばん"
     ]
 }

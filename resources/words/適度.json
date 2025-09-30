@@ -1,40 +1,192 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "適度",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/uqMUiHihalE",
     "in_db": true,
-    "reading": "てきど",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "適度",
+        "reading": "てきど",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is てきど which you will often hear in contexts like giving advice on portions, exercise routines, or even talking about stress levels. For example, you might say \"運動は適度に\" which means \"exercise in moderation.\"",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word \"てきど\" means a suitable amount or moderate level of something, not too much and not too little, but just right.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "moderate",
                 "proper",
                 "temperate",
                 "suitable"
-            ],
-            "part_of_speech": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
-            "translation": {
-                "Japanese": "適度",
-                "English": "moderate",
-                "Persian": "معتدل",
-                "Nepali": "मध्यम",
-                "Indonesian": "moderat",
-                "Filipino": "katamtaman",
-                "Vietnamese": "vừa phải",
-                "Burmese": "သင့်လျော်သော",
-                "Korean": "적당한",
-                "Hindi": "मध्यम",
-                "Arabic": "معتدل",
-                "French": "modéré",
-                "Spanish": "moderado",
-                "Chinese": "适度",
-                "Bengali": "মধ্যম"
+            ]
+        ],
+        "meaning_translations": {
+            "moderate": {
+                "EN": "moderate",
+                "ID": "moderat",
+                "ES": "moderado",
+                "VI": "vừa phải",
+                "FR": "modéré",
+                "NE": "मध्यम",
+                "BN": "মধ্যম",
+                "ZH": "适度",
+                "KO": "적당한",
+                "TL": "katamtaman",
+                "MY": "သင့်လျော်သော",
+                "HI": "मध्यम",
+                "AR": "معتدل",
+                "FA": "معتدل"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "あの人とは適度な距離を保ちましょう。",
+                "furigana": "あの人(ひと)とは適度(てきど)な距離(きょり)を保(たも)ちましょう。",
+                "translations": {
+                    "EN": "Let's keep a moderate distance from that person.",
+                    "ID": "Mari kita jaga jarak yang wajar dari orang itu.",
+                    "ES": "Mantengamos una distancia moderada de esa persona.",
+                    "VI": "Hãy giữ khoảng cách vừa phải với người đó.",
+                    "FR": "Gardons une distance modérée par rapport à cette personne.",
+                    "NE": "उनी व्यक्तिसँग उचित दूरी राखौं।",
+                    "BN": "চলুন সেই ব্যক্তির থেকে একটি উপযুক্ত দূরত্ব বজায় রাখি।",
+                    "ZH": "与那个人保持适当的距离吧。",
+                    "KO": "그 사람과는 적당한 거리를 유지합시다.",
+                    "TL": "Tayo'y magpanatili ng tamang layo mula sa taong iyon.",
+                    "MY": "အဲဒီလူနဲ့ လိုက်ဖက်တဲ့အကွာအဝေးကို တည်ရှိစေကြစို့။",
+                    "HI": "उस व्यक्ति से कुछ दूरी बनाए रखें।",
+                    "AR": "دعونا نحافظ على مسافة معتدلة من هذا الشخص.",
+                    "FA": "بیایید فاصله مناسب را از آن شخص حفظ کنیم."
+                }
+            },
+            {
+                "kanji": "適度な食事が大切です。",
+                "furigana": "適度(てきど)な食事(しょくじ)が大切(たいせつ)です。",
+                "translations": {
+                    "EN": "Moderate meals are important.",
+                    "ID": "Makan dalam porsi moderat itu penting.",
+                    "ES": "Las comidas moderadas son importantes.",
+                    "VI": "Bữa ăn điều độ rất quan trọng.",
+                    "FR": "Les repas modérés sont importants.",
+                    "NE": "मध्यम भोजन महत्त्वपूर्ण छ।",
+                    "BN": "মধ্যম খাবার গুরুত্বপূর্ণ।",
+                    "ZH": "适度饮食很重要。",
+                    "KO": "적당한 식사가 중요합니다.",
+                    "TL": "Mahalaga ang tamang pagkain.",
+                    "MY": "ပုံမှန်ထမင်းစာကျွေးဖို့ကအရေးကြီးပါတယ်။",
+                    "HI": "संतुलित भोजन महत्वपूर्ण है।",
+                    "AR": "الوجبات المعتدلة مهمة.",
+                    "FA": "وعده های غذایی متعادل مهم هستند."
+                }
+            },
+            {
+                "kanji": "適度な運動は健康に良いです。",
+                "furigana": "適度(てきど)な運動(うんどう)は健康(けんこう)に良(よ)いです。",
+                "translations": {
+                    "EN": "Moderate exercise is good for health.",
+                    "ID": "Olahraga yang moderat baik untuk kesehatan.",
+                    "ES": "El ejercicio moderado es bueno para la salud.",
+                    "VI": "Tập thể dục điều độ rất tốt cho sức khỏe.",
+                    "FR": "L'exercice modéré est bon pour la santé.",
+                    "NE": "मध्यम व्यायाम स्वास्थ्यको लागि राम्रो हुन्छ।",
+                    "BN": "পরিমিত ব্যায়াম স্বাস্থ্যের জন্য ভালো।",
+                    "ZH": "适度的运动对健康有益。",
+                    "KO": "적당한 운동은 건강에 좋습니다.",
+                    "TL": "Ang katamtamang ehersisyo ay mabuti para sa kalusugan.",
+                    "MY": "အသင့်အတင့်လှုပ်ရှားမှုသည် ကျန်းမာမှုအတွက် ကောင်းৰကပါတယ်။",
+                    "HI": "उचित व्यायाम स्वास्थ्य के लिए अच्छा होता है।",
+                    "AR": "التمارين المعتدلة جيدة للصحة.",
+                    "FA": "ورزش معتدل برای سلامتی مفید است."
+                }
+            },
+            {
+                "kanji": "適度な休みが必要です。",
+                "furigana": "適度(てきど)な休(やす)みが必要(ひつよう)です。",
+                "translations": {
+                    "EN": "A moderate amount of rest is necessary.",
+                    "ID": "Istirahat yang cukup itu perlu.",
+                    "ES": "Es necesario un descanso moderado.",
+                    "VI": "Nghỉ ngơi hợp lý là cần thiết.",
+                    "FR": "Un repos modéré est nécessaire.",
+                    "NE": "मध्यम मात्रामा आराम आवश्यक छ।",
+                    "BN": "উপযুক্ত বিশ্রাম প্রয়োজন।",
+                    "ZH": "适度的休息是必要的。",
+                    "KO": "적당한 휴식이 필요합니다.",
+                    "TL": "Ang katamtaman na pahinga ay kinakailangan.",
+                    "MY": "နားချိန်အဆင်ပြေတဲ့အချိန် လိုအပ်ပါတယ်။",
+                    "HI": "उचित मात्रा में आराम आवश्यक है।",
+                    "AR": "الراحة المعتدلة ضرورية.",
+                    "FA": "مقدار معقولی استراحت لازم است."
+                }
+            }
+        ],
+        "synonyms": [
+            "適切 : てきせつ : appropriate",
+            "程良い : ほどよい : moderate"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word 'てきど' are 'てきせつ' and 'ほどよい'. 'てきせつ' highlights more appropriateness in terms of a particular situation, whereas 'ほどよい' suggests a sense of balance or just right in quantity or level.",
+        "antonyms": [
+            "過剰 : かじょう : excess",
+            "不足 : ふそく : insufficiency"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word 'てきど' are 'かじょう' and 'ふそく'. 'かじょう' refers to an excessive amount, unlike 'てきど', which is moderate. 'ふそく' means a lack or deficiency, contrasting with 'てきど', which indicates a sufficient level.",
+        "kanji_details": [
+            {
+                "kanji": "適",
+                "common_words": [
+                    "適切: appropriate",
+                    "適応: adaptation"
+                ]
+            },
+            {
+                "kanji": "度",
+                "common_words": [
+                    "速度: speed",
+                    "温度: temperature"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "適度",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "適度",
+                "reading": "てきど"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "moderate",
+                    "proper",
+                    "temperate",
+                    "suitable"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "適",
+        "度"
     ],
-    "kanjis": [
-        {
-            "kanji": "適",
+    "kanji_data": {
+        "適": {
             "meanings": [
                 "capable",
                 "occasional",
@@ -42,83 +194,19 @@
                 "rare",
                 "suitable"
             ],
-            "onyomi": [
+            "on_readings": [
                 "テキ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "かな.う"
             ],
-            "strokes": 14,
+            "stroke_count": 14,
             "jlpt": 3,
-            "frequency": 670,
+            "freq_mainichi_shinbun": 670,
             "unicode": "9069",
-            "grade": 5,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "適切",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "てきせつ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "appropriate",
-                                "suitable",
-                                "fitting",
-                                "apt",
-                                "proper",
-                                "right",
-                                "pertinent",
-                                "relevant"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "適応",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "てきおう",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "adaptation",
-                                "accommodation",
-                                "conformity"
-                            ],
-                            "part_of_speech": "Noun, Suru verb, Intransitive verb",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n1"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 5
         },
-        {
-            "kanji": "度",
+        "度": {
             "meanings": [
                 "attitude",
                 "consider",
@@ -127,338 +215,26 @@
                 "occurrence",
                 "time"
             ],
-            "onyomi": [
+            "on_readings": [
                 "タク",
                 "ト",
                 "ド"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "-た.い",
                 "たび"
             ],
-            "strokes": 9,
+            "stroke_count": 9,
             "jlpt": 4,
-            "frequency": 110,
+            "freq_mainichi_shinbun": 110,
             "unicode": "5EA6",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "速度",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "そくど",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "speed",
-                                "velocity",
-                                "pace",
-                                "rate"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "velocity"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "温度",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "おんど",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "temperature"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n3"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means suitable or appropriate, something that fits or matches. It appears in words like てきせつ which means appropriate, where this kanji gives the sense of fitting or being right for the situation. It also appears in てきおう meaning to adapt, where the idea of fitting or adjusting is clear. The second kanji means degree, extent, or a counter for how many times, and it often measures amounts or levels. You see it in そくど for speed, where it marks the degree of motion, and in おんど for temperature, where it indicates the degree of heat.",
-    "explanations": {
-        "explanation": "The word \"てきど\" means a suitable amount or moderate level of something, not too much and not too little, but just right.",
-        "youtube_description": "Learn how to use the Japanese word 適度 (てきど) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!\n",
-        "motivation": "The word we'll be learning in this section is てきど which you will often hear in contexts like giving advice on portions, exercise routines, or even talking about stress levels. For example, you might say \"運動は適度に\" which means \"exercise in moderation.\"",
-        "collocations": [
-            "適度な距離",
-            "適度な食事",
-            "適度な運動",
-            "適度な休み"
-        ],
-        "synonyms": [
-            "適切",
-            "程良い"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word 'てきど' are 'てきせつ' and 'ほどよい'. 'てきせつ' highlights more appropriateness in terms of a particular situation, whereas 'ほどよい' suggests a sense of balance or just right in quantity or level.",
-        "antonyms": [
-            "過剰",
-            "不足"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word 'てきど' are 'かじょう' and 'ふそく'. 'かじょう' refers to an excessive amount, unlike 'てきど', which is moderate. 'ふそく' means a lack or deficiency, contrasting with 'てきど', which indicates a sufficient level."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "あの人とは適度な距離を保ちましょう。",
-            "furigana": "あの人(ひと)とは適度(てきど)な距離(きょり)を保(たも)ちましょう。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "あの人とは適度な距離を保ちましょう。",
-                "English": "Let's keep a moderate distance from that person.",
-                "Persian": "بیایید فاصله مناسب را از آن شخص حفظ کنیم.",
-                "Nepali": "उनी व्यक्तिसँग उचित दूरी राखौं।",
-                "Indonesian": "Mari kita jaga jarak yang wajar dari orang itu.",
-                "Filipino": "Tayo'y magpanatili ng tamang layo mula sa taong iyon.",
-                "Vietnamese": "Hãy giữ khoảng cách vừa phải với người đó.",
-                "Burmese": "အဲဒီလူနဲ့ လိုက်ဖက်တဲ့အကွာအဝေးကို တည်ရှိစေကြစို့။",
-                "Korean": "그 사람과는 적당한 거리를 유지합시다.",
-                "Hindi": "उस व्यक्ति से कुछ दूरी बनाए रखें।",
-                "Arabic": "دعونا نحافظ على مسافة معتدلة من هذا الشخص.",
-                "French": "Gardons une distance modérée par rapport à cette personne.",
-                "Spanish": "Mantengamos una distancia moderada de esa persona.",
-                "Chinese": "与那个人保持适当的距离吧。",
-                "Bengali": "চলুন সেই ব্যক্তির থেকে একটি উপযুক্ত দূরত্ব বজায় রাখি।"
-            }
-        },
-        {
-            "kanji": "適度な食事が大切です。",
-            "furigana": "適度(てきど)な食事(しょくじ)が大切(たいせつ)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "適度な食事が大切です。",
-                "English": "Moderate meals are important.",
-                "Persian": "وعده های غذایی متعادل مهم هستند.",
-                "Nepali": "मध्यम भोजन महत्त्वपूर्ण छ।",
-                "Indonesian": "Makan dalam porsi moderat itu penting.",
-                "Filipino": "Mahalaga ang tamang pagkain.",
-                "Vietnamese": "Bữa ăn điều độ rất quan trọng.",
-                "Burmese": "ပုံမှန်ထမင်းစာကျွေးဖို့ကအရေးကြီးပါတယ်။",
-                "Korean": "적당한 식사가 중요합니다.",
-                "Hindi": "संतुलित भोजन महत्वपूर्ण है।",
-                "Arabic": "الوجبات المعتدلة مهمة.",
-                "French": "Les repas modérés sont importants.",
-                "Spanish": "Las comidas moderadas son importantes.",
-                "Chinese": "适度饮食很重要。",
-                "Bengali": "মধ্যম খাবার গুরুত্বপূর্ণ।"
-            }
-        },
-        {
-            "kanji": "適度な運動は健康に良いです。",
-            "furigana": "適度(てきど)な運動(うんどう)は健康(けんこう)に良(よ)いです。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "適度な運動は健康に良いです。",
-                "English": "Moderate exercise is good for health.",
-                "Persian": "ورزش معتدل برای سلامتی مفید است.",
-                "Nepali": "मध्यम व्यायाम स्वास्थ्यको लागि राम्रो हुन्छ।",
-                "Indonesian": "Olahraga yang moderat baik untuk kesehatan.",
-                "Filipino": "Ang katamtamang ehersisyo ay mabuti para sa kalusugan.",
-                "Vietnamese": "Tập thể dục điều độ rất tốt cho sức khỏe.",
-                "Burmese": "အသင့်အတင့်လှုပ်ရှားမှုသည် ကျန်းမာမှုအတွက် ကောင်းৰကပါတယ်။",
-                "Korean": "적당한 운동은 건강에 좋습니다.",
-                "Hindi": "उचित व्यायाम स्वास्थ्य के लिए अच्छा होता है।",
-                "Arabic": "التمارين المعتدلة جيدة للصحة.",
-                "French": "L'exercice modéré est bon pour la santé.",
-                "Spanish": "El ejercicio moderado es bueno para la salud.",
-                "Chinese": "适度的运动对健康有益。",
-                "Bengali": "পরিমিত ব্যায়াম স্বাস্থ্যের জন্য ভালো।"
-            }
-        },
-        {
-            "kanji": "適度な休みが必要です。",
-            "furigana": "適度(てきど)な休(やす)みが必要(ひつよう)です。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "適度な休みが必要です。",
-                "English": "A moderate amount of rest is necessary.",
-                "Persian": "مقدار معقولی استراحت لازم است.",
-                "Nepali": "मध्यम मात्रामा आराम आवश्यक छ।",
-                "Indonesian": "Istirahat yang cukup itu perlu.",
-                "Filipino": "Ang katamtaman na pahinga ay kinakailangan.",
-                "Vietnamese": "Nghỉ ngơi hợp lý là cần thiết.",
-                "Burmese": "နားချိန်အဆင်ပြေတဲ့အချိန် လိုအပ်ပါတယ်။",
-                "Korean": "적당한 휴식이 필요합니다.",
-                "Hindi": "उचित मात्रा में आराम आवश्यक है।",
-                "Arabic": "الراحة المعتدلة ضرورية.",
-                "French": "Un repos modéré est nécessaire.",
-                "Spanish": "Es necesario un descanso moderado.",
-                "Chinese": "适度的休息是必要的。",
-                "Bengali": "উপযুক্ত বিশ্রাম প্রয়োজন।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "適切",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "てきせつ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "appropriate",
-                        "suitable",
-                        "fitting",
-                        "apt",
-                        "proper",
-                        "right",
-                        "pertinent",
-                        "relevant"
-                    ],
-                    "part_of_speech": "Na-adjective (keiyodoshi), Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "程良い",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ほどよい",
-            "meanings": [
-                {
-                    "neuances": [
-                        "moderate"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "proper",
-                        "just right"
-                    ],
-                    "part_of_speech": "I-adjective (keiyoushi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "過剰",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "かじょう",
-            "meanings": [
-                {
-                    "neuances": [
-                        "excess",
-                        "surplus",
-                        "superabundance",
-                        "overabundance"
-                    ],
-                    "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "不足",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ふそく",
-            "meanings": [
-                {
-                    "neuances": [
-                        "insufficiency",
-                        "deficiency",
-                        "shortage",
-                        "lack",
-                        "scarcity",
-                        "deficit"
-                    ],
-                    "part_of_speech": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi)",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "dissatisfaction",
-                        "discontent",
-                        "complaint"
-                    ],
-                    "part_of_speech": "Noun, Na-adjective (keiyodoshi)",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "適度な距離",
+        "適度な食事",
+        "適度な運動",
+        "適度な休み"
     ]
 }

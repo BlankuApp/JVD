@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from streamlit_cookies_controller import CookieController
 from supabase import Client, create_client
 
-from src.word.JPWord import LANGUAGES_ABBR
+from src import LANGUAGES_ABBR
 
 auth = st.session_state.get("auth", None)
 

@@ -1,115 +1,318 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "word": "皮",
+    "jlpt_level": 3,
     "youtube_link": "https://youtu.be/o6iAB64os_U",
     "in_db": true,
-    "reading": "かわ",
-    "meanings": [
-        {
-            "neuances": [
+    "ai_explanation": {
+        "kanji": "皮",
+        "reading": "かわ",
+        "introduction_japanese": "",
+        "introduction_english": "The word we'll be learning in this section is かわ which you will often hear in daily life when talking about fruits, trees, or skin care. Understanding its various applications will deepen your grasp of the language and enrich your conversations.",
+        "meaning_explanation_japanese": "",
+        "meaning_explanation_english": "The word かわ means \"skin,\" \"shell,\" or \"bark\" in English. It's often used to refer to the outer layer of something, whether it's skin on a body, the bark of a tree, or the shell of a fruit.",
+        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
+        "meanings": [
+            [
                 "skin",
                 "hide",
                 "pelt",
                 "fur"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "皮 : 皮膚",
-                "English": "Skin: Skin",
-                "Persian": "پوست : پوست",
-                "Nepali": "छाला: छाला",
-                "Indonesian": "Kulit : Kulit",
-                "Filipino": "Balat : Balat",
-                "Vietnamese": "Da: Da",
-                "Burmese": "အရေပြား : အရေပြား",
-                "Korean": "피부 : 피부",
-                "Hindi": "चमड़ी : त्वचा",
-                "Arabic": "الجلد : جلد",
-                "French": "Peau : Peau",
-                "Spanish": "Piel : Piel",
-                "Chinese": "皮肤 : 皮肤",
-                "Bengali": "চামড়া : ত্বক"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "rind",
                 "peel",
                 "husk",
                 "bark"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "皮",
-                "English": "Rind",
-                "Persian": "پوست",
-                "Nepali": "छाला",
-                "Indonesian": "Kulit",
-                "Filipino": "Balahibo",
-                "Vietnamese": "Vỏ",
-                "Burmese": "အခွံ",
-                "Korean": "껍질",
-                "Hindi": "छिलका",
-                "Arabic": "قشر",
-                "French": "Écorce",
-                "Spanish": "Corteza",
-                "Chinese": "皮",
-                "Bengali": "চামড়া"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "shell",
                 "sheath",
                 "wrapping"
             ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "皮 : shell",
-                "English": "皮 : skin, shell",
-                "Persian": "پوست : پوسته، پوست",
-                "Nepali": "छाला : खोल",
-                "Indonesian": "kulit : cangkang",
-                "Filipino": "balat : shell",
-                "Vietnamese": "da : vỏ",
-                "Burmese": "အရေပြား : ဖောင်ချယ်",
-                "Korean": "피부 : 껍데기",
-                "Hindi": "त्वचा : खोल",
-                "Arabic": "جلد : قشرة",
-                "French": "peau : coquille",
-                "Spanish": "piel: caparazón",
-                "Chinese": "皮 : 壳",
-                "Bengali": "ত্বক : শেল"
-            }
-        },
-        {
-            "neuances": [
+            [
                 "mask",
                 "seeming"
-            ],
-            "part_of_speech": "Noun",
-            "translation": {
-                "Japanese": "面 : マスク",
-                "English": "Mask",
-                "Persian": "ماسک",
-                "Nepali": "मुखौटा",
-                "Indonesian": "Topeng",
-                "Filipino": "Maskara",
-                "Vietnamese": "Mặt nạ",
-                "Burmese": "မျက်နှာဖုံး",
-                "Korean": "가면",
-                "Hindi": "मुखौटा",
-                "Arabic": "قناع",
-                "French": "Masque",
-                "Spanish": "Máscara",
-                "Chinese": "面具",
-                "Bengali": "মুখোশ"
+            ]
+        ],
+        "meaning_translations": {
+            "skin": {
+                "EN": "Skin: Skin",
+                "ID": "Kulit : Kulit",
+                "ES": "Piel : Piel",
+                "VI": "Da: Da",
+                "FR": "Peau : Peau",
+                "NE": "छाला: छाला",
+                "BN": "চামড়া : ত্বক",
+                "ZH": "皮肤 : 皮肤",
+                "KO": "피부 : 피부",
+                "TL": "Balat : Balat",
+                "MY": "အရေပြား : အရေပြား",
+                "HI": "चमड़ी : त्वचा",
+                "AR": "الجلد : جلد",
+                "FA": "پوست : پوست"
+            },
+            "rind": {
+                "EN": "Rind",
+                "ID": "Kulit",
+                "ES": "Corteza",
+                "VI": "Vỏ",
+                "FR": "Écorce",
+                "NE": "छाला",
+                "BN": "চামড়া",
+                "ZH": "皮",
+                "KO": "껍질",
+                "TL": "Balahibo",
+                "MY": "အခွံ",
+                "HI": "छिलका",
+                "AR": "قشر",
+                "FA": "پوست"
+            },
+            "shell": {
+                "EN": "皮 : skin, shell",
+                "ID": "kulit : cangkang",
+                "ES": "piel: caparazón",
+                "VI": "da : vỏ",
+                "FR": "peau : coquille",
+                "NE": "छाला : खोल",
+                "BN": "ত্বক : শেল",
+                "ZH": "皮 : 壳",
+                "KO": "피부 : 껍데기",
+                "TL": "balat : shell",
+                "MY": "အရေပြား : ဖောင်ချယ်",
+                "HI": "त्वचा : खोल",
+                "AR": "جلد : قشرة",
+                "FA": "پوست : پوسته، پوست"
+            },
+            "mask": {
+                "EN": "Mask",
+                "ID": "Topeng",
+                "ES": "Máscara",
+                "VI": "Mặt nạ",
+                "FR": "Masque",
+                "NE": "मुखौटा",
+                "BN": "মুখোশ",
+                "ZH": "面具",
+                "KO": "가면",
+                "TL": "Maskara",
+                "MY": "မျက်နှာဖုံး",
+                "HI": "मुखौटा",
+                "AR": "قناع",
+                "FA": "ماسک"
             }
-        }
+        },
+        "examples": [
+            {
+                "kanji": "りんごの皮をむく。",
+                "furigana": "りんごの皮(かわ)をむく。",
+                "translations": {
+                    "EN": "Peel the apple.",
+                    "ID": "Kupas kulit apel.",
+                    "ES": "Pela la manzana.",
+                    "VI": "Gọt vỏ táo.",
+                    "FR": "Épluche la pomme.",
+                    "NE": "स्याउको बोक्रा निकाल्नुहोस्।",
+                    "BN": "আপেলের খোসা ছাড়ুন।",
+                    "ZH": "削苹果皮。",
+                    "KO": "사과의 껍질을 벗기다.",
+                    "TL": "Balatan ang balat ng mansanas.",
+                    "MY": "ပန်းသီး၏အခွံကိုချွတ်ပါ။",
+                    "HI": "सेब का छिलका उतारो।",
+                    "AR": "قشّر تفاحة.",
+                    "FA": "پوست سیب را بکن."
+                }
+            },
+            {
+                "kanji": "このりんごはつるつるの皮です。",
+                "furigana": "このりんごはつるつるの皮(かわ)です。",
+                "translations": {
+                    "EN": "This apple has a smooth skin.",
+                    "ID": "Apel ini memiliki kulit yang halus.",
+                    "ES": "Esta manzana tiene una piel suave.",
+                    "VI": "Táo này có vỏ mịn.",
+                    "FR": "Cette pomme a une peau lisse.",
+                    "NE": "यस स्याउको छाला चिल्लो छ।",
+                    "BN": "এই আপেলের মসৃণ খোসা আছে।",
+                    "ZH": "这苹果有光滑的皮。",
+                    "KO": "이 사과는 매끈한 껍질을 가지고 있어요.",
+                    "TL": "Ang mansanas na ito ay may makinis na balat.",
+                    "MY": "ဒီပန်းသီးမှာ ကြည်လင်တောက်ပသော အရေထေးရှိပါတယ်။",
+                    "HI": "इस सेब की त्वचा चिकनी है।",
+                    "AR": "هذا التفاح لديه جلد ناعم.",
+                    "FA": "این سیب پوستی صاف دارد."
+                }
+            },
+            {
+                "kanji": "りんごの皮をむく。",
+                "furigana": "りんごの皮(かわ)をむく。",
+                "translations": {
+                    "EN": "Peel the apple.",
+                    "ID": "Kupas kulit apel.",
+                    "ES": "Pelar la manzana.",
+                    "VI": "Gọt vỏ táo.",
+                    "FR": "Épluche la pomme.",
+                    "NE": "स्याउको बोक्रा छोड्नुहोस् ।",
+                    "BN": "আপেলের খোসা ছাড়ুন।",
+                    "ZH": "削苹果皮。",
+                    "KO": "사과의 껍질을 벗기다.",
+                    "TL": "Balatan ang mansanas.",
+                    "MY": "ပန်းသီးအရေကိုခွာပါ။",
+                    "HI": "सेब का छिलका उतारें।",
+                    "AR": "قشر التفاحة.",
+                    "FA": "سیب را پوست بکنید."
+                }
+            },
+            {
+                "kanji": "このリンゴはかたい皮です。",
+                "furigana": "このリンゴはかたい皮(かわ)です。",
+                "translations": {
+                    "EN": "This apple has a hard skin.",
+                    "ID": "Apel ini memiliki kulit yang keras.",
+                    "ES": "Esta manzana tiene una piel dura.",
+                    "VI": "Quả táo này có vỏ cứng.",
+                    "FR": "Cette pomme a une peau dure.",
+                    "NE": "यस स्याउको छाला कडा छ।",
+                    "BN": "এই আপেলের ত্বক শক্ত।",
+                    "ZH": "这个苹果有一个很硬的皮。",
+                    "KO": "이 사과는 딱딱한 껍질을 가지고 있어요.",
+                    "TL": "May matigas na balat ang mansanas na ito.",
+                    "MY": "ဒီဖြူသီးမှာ မာယာတဲ့အရည်ပုပ်လေးရှိတယ်။",
+                    "HI": "इस सेब की त्वचा कठोर है।",
+                    "AR": "هذا التفاح له قشرة صلبة.",
+                    "FA": "این سیب پوست سختی دارد."
+                }
+            },
+            {
+                "kanji": "彼は困難に直面して皮を厚くする。",
+                "furigana": "彼(かれ)は困難(こんなん)に直面(ちょくめん)して皮(かわ)を厚(あつ)くする。",
+                "translations": {
+                    "EN": "He faces difficulties and thickens his skin.",
+                    "ID": "Dia menghadapi kesulitan dan mengentalkan kulitnya.",
+                    "ES": "Enfrenta dificultades y endurece su piel.",
+                    "VI": "Anh ấy đối mặt với khó khăn và làm dày da của mình.",
+                    "FR": "Il fait face à des difficultés et épaissit sa peau.",
+                    "NE": "उ ऊपत्त्यका सामना गर्दै छ र आफ्नो छालालाई बाक्लो बनाउँदै छ।",
+                    "BN": "সে বাধার সম্মুখীন হন এবং তার চামড়া মোটা করে।",
+                    "ZH": "他面临困难并使皮肤变厚。",
+                    "KO": "그는 곤란에 직면하여 마음을 굳게 한다.",
+                    "TL": "Hinaharap niya ang mga pagsubok at pinapalakas ang loob.",
+                    "MY": "သူဟာ အခက်အခဲတွေကို ရင်ဆိုင်ပြီး အသားချပ်ထူနေပါတယ်။",
+                    "HI": "वह कठिनाइयों का सामना करता है और अपनी त्वचा को मोटा करता है।",
+                    "AR": "يواجه الصعوبات ويجعل جلده أكثر سمكًا.",
+                    "FA": "او با مشکلات روبرو می‌شود و پوست خود را ضخیم می‌کند."
+                }
+            }
+        ],
+        "synonyms": [
+            "表面 : ひょうめん : surface",
+            "外皮 : がいひ : skin"
+        ],
+        "synonyms_explanation": "The most common synonyms of the word かわ are おもて and そとかわ. おもて refers to the surface or face of an object, often used to talk about appearance. そとかわ primarily refers to the exterior layer of something, emphasizing its outer shell.",
+        "antonyms": [
+            "中身 : なかみ : contents",
+            "内側 : うちがわ : inside"
+        ],
+        "antonyms_explanation": "The most common antonyms of the word かわ are なかみ and うちがわ. なかみ refers to the contents or the inside part of an object, while うちがわ means the inner side or inside, both distinguishing the internal aspect from the external one represented by かわ.",
+        "kanji_details": [
+            {
+                "kanji": "皮",
+                "common_words": [
+                    "皮膚: skin",
+                    "皮肉: irony"
+                ]
+            }
+        ]
+    },
+    "jisho_data": {
+        "slug": "皮",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "皮",
+                "reading": "かわ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "skin",
+                    "hide",
+                    "pelt",
+                    "fur"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "rind",
+                    "peel",
+                    "husk",
+                    "bark"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "shell",
+                    "sheath",
+                    "wrapping"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "mask",
+                    "seeming"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "皮"
     ],
-    "kanjis": [
-        {
-            "kanji": "皮",
+    "kanji_data": {
+        "皮": {
             "meanings": [
                 "hide",
                 "leather",
@@ -117,387 +320,24 @@
                 "skin",
                 "skin radical (no. 107)"
             ],
-            "onyomi": [
+            "on_readings": [
                 "ヒ"
             ],
-            "kunyomi": [
+            "kun_readings": [
                 "かわ"
             ],
-            "strokes": 5,
+            "stroke_count": 5,
             "jlpt": 2,
-            "frequency": 1092,
+            "freq_mainichi_shinbun": 1092,
             "unicode": "76AE",
-            "grade": 3,
-            "examples": [
-                {
-                    "version": "0.1.1",
-                    "word": "皮膚",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひふ",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "skin"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                },
-                {
-                    "version": "0.1.1",
-                    "word": "皮肉",
-                    "youtube_link": "",
-                    "in_db": false,
-                    "reading": "ひにく",
-                    "meanings": [
-                        {
-                            "neuances": [
-                                "irony",
-                                "sarcasm",
-                                "cynicism",
-                                "satire"
-                            ],
-                            "part_of_speech": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "unexpected",
-                                "not as one had planned"
-                            ],
-                            "part_of_speech": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                " surface",
-                                "something superficial"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        },
-                        {
-                            "neuances": [
-                                "skin and bone",
-                                "body"
-                            ],
-                            "part_of_speech": "Noun",
-                            "translation": null
-                        }
-                    ],
-                    "kanjis": [],
-                    "kanji_explanation": null,
-                    "explanations": null,
-                    "is_common": true,
-                    "jlpt": [
-                        "jlpt-n2"
-                    ],
-                    "examples": [],
-                    "synonyms": [],
-                    "antonyms": []
-                }
-            ]
+            "grade": 3
         }
-    ],
-    "kanji_explanation": "The first kanji means skin or hide and generally points to an outer layer or covering. In the word ひふ it keeps that literal sense of the body's outer surface. In the word ひにく the idea of a surface or layer shifts into a figurative meaning of sharpness or irony, so you can see how the kanji contributes its basic image to different contexts.",
-    "explanations": {
-        "explanation": "The word かわ means \"skin,\" \"shell,\" or \"bark\" in English. It's often used to refer to the outer layer of something, whether it's skin on a body, the bark of a tree, or the shell of a fruit.",
-        "youtube_description": "Learn how to use the Japanese word 皮 (かわ) in everyday conversations!  \nIn this video, we'll explore its meanings, kanji breakdowns, and collocations to help you master this essential vocabulary.\nWhether you're a beginner or looking to expand your Japanese skills, this video is perfect for you. Don't forget to like, comment, and subscribe for more language learning content!",
-        "motivation": "The word we'll be learning in this section is かわ which you will often hear in daily life when talking about fruits, trees, or skin care. Understanding its various applications will deepen your grasp of the language and enrich your conversations.",
-        "collocations": [
-            "りんごのかわ",
-            "つるつるのかわ",
-            "かわをむく",
-            "かたいかわ",
-            "かわをあつくする"
-        ],
-        "synonyms": [
-            "表面",
-            "外皮"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word かわ are おもて and そとかわ. おもて refers to the surface or face of an object, often used to talk about appearance. そとかわ primarily refers to the exterior layer of something, emphasizing its outer shell.",
-        "antonyms": [
-            "中身",
-            "内側"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word かわ are なかみ and うちがわ. なかみ refers to the contents or the inside part of an object, while うちがわ means the inner side or inside, both distinguishing the internal aspect from the external one represented by かわ."
     },
-    "is_common": true,
-    "jlpt": [
-        "jlpt-n3"
-    ],
-    "examples": [
-        {
-            "kanji": "りんごの皮をむく。",
-            "furigana": "りんごの皮(かわ)をむく。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "りんごの皮をむく。",
-                "English": "Peel the apple.",
-                "Persian": "پوست سیب را بکن.",
-                "Nepali": "स्याउको बोक्रा निकाल्नुहोस्।",
-                "Indonesian": "Kupas kulit apel.",
-                "Filipino": "Balatan ang balat ng mansanas.",
-                "Vietnamese": "Gọt vỏ táo.",
-                "Burmese": "ပန်းသီး၏အခွံကိုချွတ်ပါ။",
-                "Korean": "사과의 껍질을 벗기다.",
-                "Hindi": "सेब का छिलका उतारो।",
-                "Arabic": "قشّر تفاحة.",
-                "French": "Épluche la pomme.",
-                "Spanish": "Pela la manzana.",
-                "Chinese": "削苹果皮。",
-                "Bengali": "আপেলের খোসা ছাড়ুন।"
-            }
-        },
-        {
-            "kanji": "このりんごはつるつるの皮です。",
-            "furigana": "このりんごはつるつるの皮(かわ)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "このりんごはつるつるの皮です。",
-                "English": "This apple has a smooth skin.",
-                "Persian": "این سیب پوستی صاف دارد.",
-                "Nepali": "यस स्याउको छाला चिल्लो छ।",
-                "Indonesian": "Apel ini memiliki kulit yang halus.",
-                "Filipino": "Ang mansanas na ito ay may makinis na balat.",
-                "Vietnamese": "Táo này có vỏ mịn.",
-                "Burmese": "ဒီပန်းသီးမှာ ကြည်လင်တောက်ပသော အရေထေးရှိပါတယ်။",
-                "Korean": "이 사과는 매끈한 껍질을 가지고 있어요.",
-                "Hindi": "इस सेब की त्वचा चिकनी है।",
-                "Arabic": "هذا التفاح لديه جلد ناعم.",
-                "French": "Cette pomme a une peau lisse.",
-                "Spanish": "Esta manzana tiene una piel suave.",
-                "Chinese": "这苹果有光滑的皮。",
-                "Bengali": "এই আপেলের মসৃণ খোসা আছে।"
-            }
-        },
-        {
-            "kanji": "りんごの皮をむく。",
-            "furigana": "りんごの皮(かわ)をむく。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "りんごの皮をむく。",
-                "English": "Peel the apple.",
-                "Persian": "سیب را پوست بکنید.",
-                "Nepali": "स्याउको बोक्रा छोड्नुहोस् ।",
-                "Indonesian": "Kupas kulit apel.",
-                "Filipino": "Balatan ang mansanas.",
-                "Vietnamese": "Gọt vỏ táo.",
-                "Burmese": "ပန်းသီးအရေကိုခွာပါ။",
-                "Korean": "사과의 껍질을 벗기다.",
-                "Hindi": "सेब का छिलका उतारें।",
-                "Arabic": "قشر التفاحة.",
-                "French": "Épluche la pomme.",
-                "Spanish": "Pelar la manzana.",
-                "Chinese": "削苹果皮。",
-                "Bengali": "আপেলের খোসা ছাড়ুন।"
-            }
-        },
-        {
-            "kanji": "このリンゴはかたい皮です。",
-            "furigana": "このリンゴはかたい皮(かわ)です。",
-            "difficulty": 5,
-            "translation": {
-                "Japanese": "このリンゴはかたい皮です。",
-                "English": "This apple has a hard skin.",
-                "Persian": "این سیب پوست سختی دارد.",
-                "Nepali": "यस स्याउको छाला कडा छ।",
-                "Indonesian": "Apel ini memiliki kulit yang keras.",
-                "Filipino": "May matigas na balat ang mansanas na ito.",
-                "Vietnamese": "Quả táo này có vỏ cứng.",
-                "Burmese": "ဒီဖြူသီးမှာ မာယာတဲ့အရည်ပုပ်လေးရှိတယ်။",
-                "Korean": "이 사과는 딱딱한 껍질을 가지고 있어요.",
-                "Hindi": "इस सेब की त्वचा कठोर है।",
-                "Arabic": "هذا التفاح له قشرة صلبة.",
-                "French": "Cette pomme a une peau dure.",
-                "Spanish": "Esta manzana tiene una piel dura.",
-                "Chinese": "这个苹果有一个很硬的皮。",
-                "Bengali": "এই আপেলের ত্বক শক্ত।"
-            }
-        },
-        {
-            "kanji": "彼は困難に直面して皮を厚くする。",
-            "furigana": "彼(かれ)は困難(こんなん)に直面(ちょくめん)して皮(かわ)を厚(あつ)くする。",
-            "difficulty": 4,
-            "translation": {
-                "Japanese": "彼は困難に直面して皮を厚くする。",
-                "English": "He faces difficulties and thickens his skin.",
-                "Persian": "او با مشکلات روبرو می‌شود و پوست خود را ضخیم می‌کند.",
-                "Nepali": "उ ऊपत्त्यका सामना गर्दै छ र आफ्नो छालालाई बाक्लो बनाउँदै छ।",
-                "Indonesian": "Dia menghadapi kesulitan dan mengentalkan kulitnya.",
-                "Filipino": "Hinaharap niya ang mga pagsubok at pinapalakas ang loob.",
-                "Vietnamese": "Anh ấy đối mặt với khó khăn và làm dày da của mình.",
-                "Burmese": "သူဟာ အခက်အခဲတွေကို ရင်ဆိုင်ပြီး အသားချပ်ထူနေပါတယ်။",
-                "Korean": "그는 곤란에 직면하여 마음을 굳게 한다.",
-                "Hindi": "वह कठिनाइयों का सामना करता है और अपनी त्वचा को मोटा करता है।",
-                "Arabic": "يواجه الصعوبات ويجعل جلده أكثر سمكًا.",
-                "French": "Il fait face à des difficultés et épaissit sa peau.",
-                "Spanish": "Enfrenta dificultades y endurece su piel.",
-                "Chinese": "他面临困难并使皮肤变厚。",
-                "Bengali": "সে বাধার সম্মুখীন হন এবং তার চামড়া মোটা করে।"
-            }
-        }
-    ],
-    "synonyms": [
-        {
-            "version": "0.1.1",
-            "word": "表面",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "ひょうめん",
-            "meanings": [
-                {
-                    "neuances": [
-                        "surface",
-                        "face"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "outside",
-                        "exterior"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "appearances",
-                        "superficiality"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n3"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "外皮",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "がいひ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "skin",
-                        "outer skin",
-                        "integument",
-                        "husk",
-                        "hull",
-                        "shell",
-                        "crust",
-                        "rind",
-                        "envelope",
-                        "exodermis",
-                        "pellicle"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": false,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
-    ],
-    "antonyms": [
-        {
-            "version": "0.1.1",
-            "word": "中身",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "なかみ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "contents",
-                        "interior",
-                        "filling"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        "substance",
-                        "content"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                },
-                {
-                    "neuances": [
-                        " blade"
-                    ],
-                    "part_of_speech": "Noun",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [
-                "jlpt-n2"
-            ],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        },
-        {
-            "version": "0.1.1",
-            "word": "内側",
-            "youtube_link": "",
-            "in_db": false,
-            "reading": "うちがわ",
-            "meanings": [
-                {
-                    "neuances": [
-                        "inside",
-                        "interior",
-                        "inner part"
-                    ],
-                    "part_of_speech": "Noun, Noun which may take the genitive case particle 'no'",
-                    "translation": null
-                }
-            ],
-            "kanjis": [],
-            "kanji_explanation": null,
-            "explanations": null,
-            "is_common": true,
-            "jlpt": [],
-            "examples": [],
-            "synonyms": [],
-            "antonyms": []
-        }
+    "collocations": [
+        "りんごのかわ",
+        "つるつるのかわ",
+        "かわをむく",
+        "かたいかわ",
+        "かわをあつくする"
     ]
 }
