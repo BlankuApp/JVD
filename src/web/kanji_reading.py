@@ -5,9 +5,7 @@ from random import sample, shuffle
 import streamlit as st
 from dotenv import load_dotenv
 
-from src import LANGUAGES_ABBR, get_openai_client
-from src.utils import create_html_with_ruby
-from src.word.JPWord import translate_text
+from src import get_openai_client
 
 
 @st.cache_data(ttl=3600)

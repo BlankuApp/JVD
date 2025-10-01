@@ -1,4 +1,37 @@
+import os
 import re
+
+import streamlit as st
+from dotenv import load_dotenv
+from supabase import Client, create_client
+
+from src.db.db_word import get_due_cards_count
+
+
+def authenticate(controller) -> None:
+    if controller.get("jvd_token") is not None:
+        try:
+            load_dotenv()
+            url: str = os.getenv("supabaseUrl")  # type: ignore
+            key: str = os.getenv("supabaseKey")  # type: ignore
+            supabase: Client = create_client(url, key)
+
+            response = supabase.auth.get_user(controller.get("jvd_token"))
+            if response.user is not None:
+                auth = {
+                    **response.user.user_metadata,
+                    "id": response.user.id,
+                    "email": response.user.email,
+                    "access_token": controller.get("jvd_token"),
+                }
+                st.session_state["auth"] = auth
+                review_count = get_due_cards_count(auth)
+                st.session_state["due_review_count"] = review_count
+                print("auth success")
+                st.rerun()
+        except Exception as e:
+            print(f"auth error: {e}")
+            controller.remove("jvd_token", secure=True, same_site="strict")
 
 
 def create_html_with_ruby(text: str, font_size: str = "1.4rem", rt_font_size: str = "0.9rem") -> str:

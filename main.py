@@ -7,6 +7,7 @@ from streamlit_cookies_controller import CookieController
 from supabase import Client, create_client
 
 from src.db.db_word import get_due_cards_count
+from src.utils import authenticate
 
 load_dotenv()
 
@@ -20,22 +21,8 @@ review_count = st.session_state.get("due_review_count", 0)
 if auth:
     review_count = get_due_cards_count(auth)
     st.session_state["due_review_count"] = review_count
-elif controller.get("jvd_token") is not None:
-    try:
-        response = supabase.auth.get_user(controller.get("jvd_token"))
-        if response.user is not None:
-            auth = {
-                **response.user.user_metadata,
-                "id": response.user.id,
-                "email": response.user.email,
-                "access_token": controller.get("jvd_token"),
-            }
-            st.session_state["auth"] = auth
-            review_count = get_due_cards_count(auth)
-            st.session_state["due_review_count"] = review_count
-    except Exception as e:
-        # st.error(f"An error occurred: {e}")
-        controller.remove("jvd_token", secure=True, same_site="strict")
+else:
+    authenticate(controller)
 
 main_page = st.Page("src/web/main_page.py", title="Home", icon="🏠")
 jlpt_vocabularies = st.Page("src/web/v.py", title="JLPT Vocabularies", icon="📚")

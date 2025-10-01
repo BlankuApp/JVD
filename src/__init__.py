@@ -32,7 +32,8 @@ LANGUAGES_ABBR = {
     "Persian": "FA",
 }
 
-_translator_client = None
+if "_translator_client" not in globals():
+    _translator_client = None
 
 
 def get_translator_client() -> translate.Client:
@@ -78,7 +79,8 @@ def get_translator_client() -> translate.Client:
     return _translator_client
 
 
-_openai_client = None
+if "_openai_client" not in globals():
+    _openai_client = None
 
 
 def get_openai_client() -> OpenAI:
