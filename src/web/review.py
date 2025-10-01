@@ -196,16 +196,16 @@ if st.session_state.review_state == "submitting":
         sch = Scheduler(enable_fuzzing=True, desired_retention=0.95)
         review_datetime = datetime.now(timezone.utc)
         jp_word_card: JPWordCard = st.session_state.current_card["jpword"]
-        jp_word_card, review_log = sch.review_card(jp_word_card, rating, review_datetime)
+        reviewed_card, review_log = sch.review_card(jp_word_card, rating, review_datetime)
 
         success, msg = update_user_word_card(
             auth,
             word=jp_word_card.word,
-            state=str(int(jp_word_card.state)),  # Convert State enum to string of integer value
-            step=jp_word_card.step,
-            stability=jp_word_card.stability,
-            difficulty=jp_word_card.difficulty,
-            due=jp_word_card.due.isoformat() if jp_word_card.due else None,
+            state=str(int(reviewed_card.state)),  # Convert State enum to string of integer value
+            step=reviewed_card.step,
+            stability=reviewed_card.stability,
+            difficulty=reviewed_card.difficulty,
+            due=reviewed_card.due.isoformat() if reviewed_card.due else None,
             last_review=review_datetime.isoformat(),
         )
         st.session_state["due_review_count"] = max(st.session_state.get("due_review_count", 0) - 1, 0)
