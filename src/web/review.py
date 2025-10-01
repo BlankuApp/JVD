@@ -98,8 +98,9 @@ if st.session_state.review_state == "question":
         with col1:
             with st.popover("💡 Hint", use_container_width=True):
                 st.markdown("**Helpful hints:**")
-                hints_formatted = "• " + question.hints.replace(",", "\n• ")
-                st.markdown(hints_formatted)
+                hints = question.hints.split(",")
+                for hint in hints:
+                    st.markdown(f"- {hint.strip()}")
 
         with col2:
             submitted = st.form_submit_button("✅ Check Answer", type="primary", use_container_width=True)
@@ -112,8 +113,15 @@ if st.session_state.review_state == "answer":
     question = st.session_state.current_card["qa"]
 
     # Show the original question again for context
-    st.markdown("📖 Original Question")
-    st.markdown(f"*{question.question}*")
+    # st.markdown("📖 Original Question")
+    # st.markdown(f"*{question.question}*")
+    st.markdown(
+        f"<div style='background: #f8f9fa; padding: 0.5rem; border-radius: 10px; border-left: 5px solid #C4C4C4; margin-bottom: 0.5rem;'>"
+        f"<div style='font-size: 0.9rem; color: #C4C4C4;'>📖 Original Question</div>    "
+        f"<div style='text-align: center; font-size: 1.2rem;'>{question.question}</div>"
+        f"</div>",
+        unsafe_allow_html=True,
+    )
 
     if not st.session_state["has_ai_review"]:
         with st.spinner("🤖 AI is reviewing your answer... Please wait", show_time=True):
@@ -124,35 +132,25 @@ if st.session_state.review_state == "answer":
         st.session_state["ai_review"] = review
         st.session_state["has_ai_review"] = True
 
-    # Enhanced answer display section
-    col1, col2 = st.columns([1, 1])
+    # st.markdown("✅ Correct Answer")
+    ruby = create_html_with_ruby(question.answer, font_size="1.5rem", rt_font_size="1.1rem")
+    st.markdown(
+        f"<div style='background: #e8f5e8; padding: 0.5rem; border-radius: 10px; border-left: 5px solid #28a745; margin-bottom: 0.5rem;'>"
+        f"<div style='font-size: 0.9rem; color: #28a745;'>✅ Correct Answer</div>"
+        f"<div style='text-align: center;'>{ruby}</div>"
+        f"</div>",
+        unsafe_allow_html=True,
+    )
 
-    with col1:
-        st.markdown("✅ Correct Answer")
-        ruby = create_html_with_ruby(question.answer, font_size="1.5rem", rt_font_size="1.1rem")
-        st.markdown(
-            f"<div style='background: #e8f5e8; padding: 0.5rem; border-radius: 10px; border-left: 5px solid #28a745; margin-bottom: 1rem;'>"
-            f"<div style='text-align: center;'>{ruby}</div>"
-            f"</div>",
-            unsafe_allow_html=True,
-        )
-
-    with col2:
-        st.markdown("📝 Your Answer")
-        user_answer = st.session_state.get("your_answer", "")
-        if user_answer.strip() == "":
-            answer_display = "<em style='color: #6c757d;'>Skipped</em>"
-            answer_style = "background: #f8f9fa; border-left: 5px solid #6c757d;"
-        else:
-            answer_display = user_answer
-            answer_style = "background: #f8f9fa; border-left: 5px solid #007bff;"
-
-        st.markdown(
-            f"<div style='{answer_style} padding: 0.5rem; border-radius: 10px; margin-bottom: 1rem;'>"
-            f"<div style='text-align: center; font-size: 1.5rem;'>{answer_display}</div>"
-            f"</div>",
-            unsafe_allow_html=True,
-        )
+    # st.markdown("📝 Your Answer")
+    user_answer = st.session_state.get("your_answer", "")
+    st.markdown(
+        f"<div style='background: #f8f9fa; border-left: 5px solid #007bff; padding: 0.5rem; border-radius: 10px; margin-bottom: 0.5rem;'>"
+        f"<div style='font-size: 0.9rem; color: #007bff;'>📝 Your Answer</div>"
+        f"<div style='text-align: center; font-size: 1.5rem;'>{user_answer}</div>"
+        f"</div>",
+        unsafe_allow_html=True,
+    )
 
     # AI Review section with enhanced styling
     with st.container(border=True):

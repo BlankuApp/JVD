@@ -856,7 +856,6 @@ class JPWord:
 
         st.markdown("### Kanji")
         for i, k in enumerate(self.kanji_list):
-            st.markdown(f"#### {k}")
             cont = st.container(border=1)
             col1, col2 = cont.columns([2, 4])
             with col1:
