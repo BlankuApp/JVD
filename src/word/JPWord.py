@@ -221,9 +221,9 @@ class JPWord:
                             "Translation of introduction_japanese in English. Write the word in its hiragana/katakana form. Start with 'The [adjective/noun/verb ...] [word] ...",
                             "Example: 'はげしい is an adjective commonly seen in conversations about emotions, weather, and situations that require emphasis.'",
                             "## meanings: ",
-                            "List of all meanings grouped by nuance. Each nuance should have its own list of meanings. If there is no nuance, put all meanings in a single list.",
+                            "List of all meanings grouped by nuance. Each nuance should have its own list of meanings. If there is no nuance, put all meanings in a single list. Each meaning should be short, concise, and in spoken form suitable for elementary level language learners, no extra explanations in parentheses. Avoid rare meanings.",
                             "## meaning_explanation_japanese: ",
-                            "Short but complete explanation of literal meanings of the word in Japanese in spoken form suitable for elementary level language learners.",
+                            "Short but complete explanation of literal meanings of the word in Japanese in spoken form suitable for elementary level language learners. Avoid using the word itself, instead use its synonyms or antonyms.",
                             "Example: 「はげしい」は、強い感情や激しい動作を表す言葉です。例えば、激しい雨や激しい議論など、何かが非常に強いことを示します。",
                             "## meaning_explanation_english: ",
                             "Shortly provide the literal meanings of the word. Write the word in its hiragana/katakana form. The explanation should be spoken form and suitable for elementary level language learners.",
@@ -234,10 +234,12 @@ class JPWord:
                             "Write in a natural, conversational transcript of a teacher explaining the kanji and its meanings. for each kanji (in the order it appears), compose one 3-4 short sentence paragraph that: 1. Describes the kanji's core meaning. 2. except the original word, Presents the 1-2 vocabularies that use that kanji, and how this kanji gives meaning in this vocabulary. Constrains: * Explanation field is the transcription of a speech. Don't use bullet points, parenthesis, new lines, titles, or anything similar. * Do not include the original word in the vocabs. * In the explanation field only insert the hiragana for of Japanese vocabs. No kanjis. * Explanation starts with English phrases such as:  The [first/second/...] kanji means ...",
                             "## synonyms: ",
                             "List the 1 (maximum 2) most commonly used synonym for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
+                            "The format for each synonym is: kanji : reading : meaning. For example: 速い : はやい : fast, quick",
                             "## synonyms_explanation: ",
                             'provide the English transcription of a very short explanation about the synonyms listed, including their nuances and meanings. If there were no synonyms in the list, say "No common synonyms found." Constraints 1. Only insert the hiragana for of Japanese vocabs. No kanjis. 2. Explanation starts with English phrases such as:  The most common synonym[s] of the [word] [are/is] ... 3. Very shortly explain the nuances of each synonym and antonym listed, and how they look like the original word.',
                             "## antonyms: ",
                             "List the 1 (maximum 2) most commonly used antonym for the provided Japanese vocabulary word (no readings or any other extra text, perferebly in kanji). Excluding the original word.",
+                            "The format for each antonym is: kanji : reading : meaning. For example: 遅い : おそい : slow",
                             "## antonyms_explanation: ",
                             'provide the English transcription of a very short explanation about the antonyms listed, including their nuances and meanings. If there were no antonyms in the list, say "No common antonyms found." Constraints 1. Only insert the hiragana for of Japanese vocabs. No kanjis. 2. Explanation starts with English phrases such as:  The most common antonym[s] of the [word] [are/is] ... 3. Very shortly explain the nuances of each synonym and antonym listed, and how they differ from the original word.',
                             "## Examples: ",
@@ -985,13 +987,18 @@ if __name__ == "__main__":
     # "飽くまで": "飽くまで + 名詞 飽くまで 自説 飽くまで 方針 飽くまで 反対 飽くまで 可能性 飽くまで 意見 飽くまで + 動詞／句（～する／～しようとする etc.） 飽くまで 主張する 飽くまで 貫く 飽くまで 反対する 飽くまで 求める 飽くまで 守ろうとする 副詞＋飽くまで （「飽くまでも」の形で強調を加える） あくまでも 意見として あくまでも 私見だが あくまでも その範囲で あくまでも 形式的に あくまでも 名目上",
     # "髪の毛": "主語 + 動詞（～が～する／～を～する 等） 髪の毛 が抜ける 髪の毛 が伸びる 髪の毛 を切る 髪の毛 を染める 髪の毛 を洗う 形容詞／副詞 + 髪の毛 長い髪の毛 短い髪の毛 柔らかい髪の毛 ふさふさの髪の毛 傷んだ髪の毛 髪の毛 + の + 名詞 髪の毛 の量 髪の毛 の状態 髪の毛 の質 髪の毛 の色 髪の毛 の手入れ 原因・理由／条件 + で／に + 髪の毛 ストレス で 髪の毛が抜ける 加齢 に よる髪の毛の変化 栄養不足 で 髪の毛が細くなる 紫外線 に よって髪の毛が傷む シャンプー で 髪の毛を洗う 補助語＋髪の毛 髪の毛 先（例：毛先、先端） 髪の毛 束（例：一束／二束の髪の毛） 髪の毛 量（多い／少ない） 髪の毛 質（硬さ・柔らかさなど） 髪の毛 色（黒髪／白髪／茶髪など）",
     # "黒板": "主語 + 動詞（～する／～が～する など） 黒板 に書く 黒板 を消す 黒板 を拭く 黒板 を使う 黒板 が見える 形容詞／副詞 + 黒板 古い黒板 大きな黒板 壁の黒板 掲示用黒板 移動式黒板 黒板 + の + 名詞 黒板 文字 黒板 消しゴム（黒板消し） 黒板 面 黒板 板書 黒板 表面 用途・機能を表す語 + 黒板 授業用黒板 会議用黒板 電子黒板（デジタル黒板） 企業用デジタルホワイトボード 『ミライタッチBiz』 移動黒板 両面黒板 原因・手段 + で／に + 黒板 チョークで 黒板 に書く Wikipedia 指で 黒板 を触る 消しゴムで 黒板 を消す 雨で 黒板 が汚れる 風で 黒板 に粉が舞う",
+    # "集まる": "動詞 + 副詞／連体語（修飾語） ひそかに集る 次々と集る 自然に集る つい集る 無意識に集る 主語（名詞） + が + 動詞：「～が集る」 虫が集る 見物人が集る 群衆が集る ひとが集る 不良グループが集る 人 + に + 動詞：「～に集る」 （「金品をせびる・おごらせる」意味で使われる用法） 先輩に集る 友人に集る 親に集る 客に集る 仲間に集る 動詞 + 目的語（～を + 動詞） （ただし「集る」は自動詞的に使われることが多いため、目的語を取る例は限定的） 食事を集る 酒代を集る 酒を一杯集る 熟語的／慣用表現・名詞句との結びつき 黒山（のように）人が集る 人だかり（ができて）集る 黒山の人集り 見物人の集り 団体に集る",
+    # "生きる": "副詞／連体語 + 生きる（修飾語 + 動詞） 精一杯生きる たくましく生きる しぶとく生きる 死ぬまで生きる 意義をもって生きる 主語 + が + 生きる（～が生きる） 人が生きる 動物が生きる 植物が生きる 社会が生きる 細胞が生きる ～に + 生きる（～に生きる）／～で生きる 心に生きる 夢に生きる 希望に生きる 信念で生きる 真実で生きる ～を + 生きる（目的語的な語を伴う表現） 明日を生きる 今を生きる 過去を生きる 現実を生きる 自分を生きる 熟語的／慣用表現との結びつき 生きる価値 生きる意味 生きる力 生きる術 生きる証",
+    # "植える": "主語 + が + 植える（～が植える） 農家が植える 市民が植える 学校が植える 団体が植える 人が植える ～を + 植える（目的語 + 動詞） 木を植える 花を植える 野菜を植える 種を植える 草を植える 場所 + に + 植える（場所を目的語にする言い方） 庭に植える 畑に植える 公園に植える 校庭に植える 鉢（に/で）植える 副詞／修飾語 + 植える（修飾語 + 動詞） まず植える ちゃんと植える 深く植える 多く植える 少しずつ植える 熟語的／慣用表現との結びつき 植える価値 植える意義 心に植える（比喩用法） 根を植える（比喩的表現） 思想を植える（比喩的に）",
+    # "お土産": "形容詞 + お土産／お土産 + の（修飾語 + 名詞） 名物のお土産 代表的なお土産 手作りのお土産 地元のお土産 ちょっとしたお土産 お土産代 お土産屋 お土産物 お土産店 お土産選び 動詞 + お土産（動詞 + 名詞） 買うお土産 渡すお土産 送るお土産 選ぶお土産 用意するお土産 お土産を買う お土産を渡す お土産を持って帰る お土産を贈る お土産を包む ～に／から／へ + お土産（格助詞 + 名詞表現） 家族にお土産 友達にお土産 職場にお土産 地元からのお土産 海外からのお土産 数量詞＋お土産／量を示す表現 一つのお土産 二つのお土産 たくさんのお土産 少しのお土産 大きなお土産",
+    # "悲しい": "副詞／修飾語 + 悲しい（修飾語 + 形容詞） とても悲しい 本当に悲しい ひどく悲しい なんとなく悲しい 心から悲しい ずっと悲しい 静かに悲しい 悲しい + 名詞（形容詞 + 名詞） 悲しい気持ち 悲しい思い 悲しい過去 悲しい記憶 悲しい結末 悲しい知らせ 悲しい現実 悲しい別れ ～が + 悲しい（主語 + 述語） 彼女が悲しい 君が悲しい 子どもが悲しい この事実が悲しい 結果が悲しい 真実が悲しい ～を + 悲しい（目的語／対象 + 形容詞表現） この形はやや限定的ですが、比喩的・感覚的表現で使われることがあります： 涙を悲しいに変える（比喩） 音を悲しいにする（音楽などで） 熟語的表現・慣用表現との結びつき 悲しい現実 悲しい記憶 悲しい別れ 悲しい知らせ 悲しい結末 悲しみに暮れる 悲しみを背負う 悲しみを癒す 悲しさを抑える 悲しみがこみ上げる",
+    # "決める": "副詞／修飾語 + 決める（修飾語 + 動詞） はっきり決める きっぱり決める 早めに決める あらかじめ決める 自分で決める 最終的に決める ～を + 決める（目的語 + 動詞） 進路を決める 日程を決める 目標を決める 規則を決める 役割を決める 値段を決める 方法を決める 方向を決める ～に + 決める（選択対象 + 動詞） 〜を A に決める 例：部屋を A に決める 行き先に決める 店に決める 相手に決める 案に決める 例： この店に決める プランAに決める 日時に決める 主語 + が + 決める（～が決める） リーダーが決める チームが決める 社長が決める 親が決める 会議が決める 関係者が決める 熟語的／慣用表現との結びつき 決め手になる 決めごと 決め台詞 決めポーズ 決め事 決め込む（派生） 決めたもんだ 決めあぐねる",
+    # "交通": "形容詞 + 交通 ／ 交通 + の（修飾語 + 名詞） 公共交通 自動車交通 交通安全 交通機関 交通量 交通渋滞 交通規制 交通混雑 交通事情 交通網 動詞 + 交通 交通を利用する 交通が混む 交通が発達する 交通が遮断される 交通を整備する 交通を制限する 交通を確保する 交通を遮る ～を + 交通（目的語付き表現） 交通事故を起こす 交通違反をする 交通手段を選ぶ 交通費を支払う 交通信号を守る ～に + 交通（格＋名詞句） 都市に交通が発達している 地方に交通の便が悪い 市内に交通網が整っている 高速道路に交通規制がある 駅に交通アクセスがいい 熟語・慣用表現 交通事故 交通ルール 交通安全 交通機関 交通網 交通手段 交通政策 交通インフラ 交通渋滞 交通事情",
     words_dict = {}
 
     for word, raw_collocations in words_dict.items():
         w = JPWord(word, 3, raw_collocations=raw_collocations, ai_init=True)
 
-    # w = JPWord2("かなり", 3, ai_init=True)
-    # w = JPWord2.load_from_json("瞬間")
-
-    # w.tts()
-    # w.pptx_generation()
+        # w = JPWord.load_from_json(word)
+        w.tts()
+        w.pptx_generation()

@@ -71,7 +71,7 @@ def upload_video(
 
 
 if __name__ == "__main__":
-    start_datetime = datetime(2025, 9, 23, 10, 30, 0)
+    start_datetime = datetime(2025, 10, 9, 10, 30, 0)
     num_videos_a_day = 1
     youtube_service = get_authenticated_service()
     video_count = 0
@@ -101,7 +101,7 @@ if __name__ == "__main__":
                     metadata = json.load(f)
                     VIDEO_DESCRIPTION = (
                         f"https://jvdict.streamlit.app/v?w={file[:-5]}\n"
-                        + metadata["explanations"]["youtube_description"]
+                        + metadata["ai_explanation"]["introduction_english"]
                     )
                     day_index = video_count // num_videos_a_day
                     hour_index = video_count % num_videos_a_day

@@ -1,0 +1,431 @@
+{
+    "version": "0.2.0",
+    "word": "交通",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/i57o8LLiE5M",
+    "in_db": true,
+    "ai_explanation": {
+        "kanji": "交通",
+        "reading": "こうつう",
+        "introduction_japanese": "「交通」は、道路や電車、バスの話、移動や通勤について話すときによく使う名詞です。ニュースや看板、日常会話で見かけますし、人と人のやりとりについて話すときにも使えます。",
+        "introduction_english": "The noun こうつう is commonly used when talking about roads, trains, buses, commuting and other kinds of movement. You also see it in news, signs, everyday talk, and when discussing exchanges between people.",
+        "meanings": [
+            [
+                "traffic",
+                "transportation",
+                "transport"
+            ],
+            [
+                "communication",
+                "exchange (of ideas, etc.)",
+                "intercourse"
+            ]
+        ],
+        "meaning_explanation_japanese": "「交通」は、人や車が行き来すること、または移動手段そのものを指す言葉です。さらに、情報や人のやりとり、交流という意味でも使われます。",
+        "meaning_explanation_english": "The word こうつう means 'traffic' or 'transportation', referring to people or vehicles moving and the means of movement. It can also mean 'communication' or 'exchange' between people or ideas.",
+        "kanji_explanation_english": "The first kanji means mingle or come together. In words like こうかん and こうりゅう it gives the sense of exchange or mixing between people or things. The second kanji means pass through or traffic. In words like つうしん and かよう it gives the sense of passage, moving between places, or communicating.",
+        "kanji_details": [
+            {
+                "kanji": "交",
+                "common_words": [
+                    "交換 (こうかん): exchange",
+                    "交流 (こうりゅう): interaction, exchange"
+                ]
+            },
+            {
+                "kanji": "通",
+                "common_words": [
+                    "通信 (つうしん): communication",
+                    "通う (かよう): to commute; to go to frequently"
+                ]
+            }
+        ],
+        "synonyms": [
+            "輸送 : ゆそう : transport",
+            "移動 : いどう : movement"
+        ],
+        "synonyms_explanation": "The most common synonyms of the こうつう are ゆそう and いどう. ゆそう focuses on transporting goods or people (logistics/transport systems) and matches the transportation sense of こうつう. いどう means movement or relocation in general and overlaps when you talk about people or vehicles moving.",
+        "antonyms": [
+            "不通 : ふつう : not in service; no passage",
+            "停滞 : ていたい : stagnation; standstill"
+        ],
+        "antonyms_explanation": "The most common antonyms of the こうつう are ふつう and ていたい. ふつう means something is not passing or service is stopped, the direct opposite of available traffic. ていたい describes stagnation or halted movement, which contrasts with smooth こうつう.",
+        "examples": [
+            {
+                "kanji": "交通が混む。",
+                "furigana": "交通(こうつう)が混(こ)む。",
+                "translations": {
+                    "EN": "Traffic is congested.",
+                    "ID": "Lalu lintasnya padat.",
+                    "ES": "El tráfico está congestionado.",
+                    "VI": "Giao thông đang tắc nghẽn.",
+                    "FR": "La circulation est congestionnée.",
+                    "NE": "ट्राफिक जाम छ।",
+                    "BN": "যানজট বেশি।",
+                    "ZH": "交通拥挤。",
+                    "KO": "교통이 섞인다.",
+                    "TL": "Masisikip ang trapiko.",
+                    "MY": "အသွားအလာ ကြပ်တယ်။",
+                    "HI": "यातायात भीड़भाड़ वाला है।",
+                    "AR": "حركة المرور مزدحمة.",
+                    "FA": "ترافیک سنگین است."
+                }
+            },
+            {
+                "kanji": "交通事故があった。",
+                "furigana": "交通事故(こうつうじこ)があった。",
+                "translations": {
+                    "EN": "There was a traffic accident.",
+                    "ID": "Terjadi kecelakaan lalu lintas.",
+                    "ES": "Hubo un accidente de tráfico.",
+                    "VI": "Đã xảy ra một vụ tai nạn giao thông.",
+                    "FR": "Il y a eu un accident de la circulation.",
+                    "NE": "ट्राफिक दुर्घटना भयो।",
+                    "BN": "একটা ট্র্যাফিক দুর্ঘটনা ঘটেছে।",
+                    "ZH": "发生了一起交通事故。",
+                    "KO": "교통사고가 있었다.",
+                    "TL": "Nagkaroon ng aksidente sa trapiko.",
+                    "MY": "ယာဉ်မတော်တဆမှုဖြစ်ခဲ့သည်။",
+                    "HI": "वहाँ एक यातायात दुर्घटना हुई थी।",
+                    "AR": "لقد وقع حادث مروري.",
+                    "FA": "یک تصادف رانندگی رخ داده است."
+                }
+            },
+            {
+                "kanji": "公共交通機関を利用する。",
+                "furigana": "公共交通機関(こうきょうこうつうきかん)を利用(りよう)する。",
+                "translations": {
+                    "EN": "Use public transportation.",
+                    "ID": "Gunakan transportasi umum.",
+                    "ES": "Utilice el transporte público.",
+                    "VI": "Sử dụng phương tiện giao thông công cộng.",
+                    "FR": "Utilisez les transports en commun.",
+                    "NE": "सार्वजनिक यातायात प्रयोग गर्नुहोस्।",
+                    "BN": "গণপরিবহন ব্যবহার করুন।",
+                    "ZH": "使用公共交通工具。",
+                    "KO": "대중교통을 이용한다.",
+                    "TL": "Gumamit ng pampublikong transportasyon.",
+                    "MY": "အများသူငှာ သယ်ယူပို့ဆောင်ရေးသုံးပါ။",
+                    "HI": "सार्वजनिक परिवहन का उपयोग करें.",
+                    "AR": "استخدم وسائل النقل العام.",
+                    "FA": "از وسایل حمل و نقل عمومی استفاده کنید."
+                }
+            },
+            {
+                "kanji": "交通安全に注意する。",
+                "furigana": "交通安全(こうつうあんぜん)に注意(ちゅうい)する。",
+                "translations": {
+                    "EN": "Pay attention to road safety.",
+                    "ID": "Perhatikan keselamatan jalan raya.",
+                    "ES": "Preste atención a la seguridad vial.",
+                    "VI": "Chú ý đến an toàn giao thông.",
+                    "FR": "Faites attention à la sécurité routière.",
+                    "NE": "सडक सुरक्षामा ध्यान दिनुहोस्।",
+                    "BN": "সড়ক নিরাপত্তার দিকে মনোযোগ দিন।",
+                    "ZH": "注意道路安全。",
+                    "KO": "교통 안전에 주의한다.",
+                    "TL": "Bigyang-pansin ang kaligtasan sa trapiko.",
+                    "MY": "လမ်းအန္တရာယ်ကင်းရှင်းရေးကို အထူးဂရုပြုပါ။",
+                    "HI": "सड़क सुरक्षा पर ध्यान दें।",
+                    "AR": "إنتبه لسلامة المرور.",
+                    "FA": "به ایمنی جاده توجه کنید."
+                }
+            },
+            {
+                "kanji": "駅は交通アクセスがいい。",
+                "furigana": "駅(えき)は交通アクセス(こうつうあくせす)がいい。",
+                "translations": {
+                    "EN": "The station has good transport access.",
+                    "ID": "Stasiun ini memiliki akses transportasi yang baik.",
+                    "ES": "La estación tiene buen acceso al transporte.",
+                    "VI": "Nhà ga có hệ thống giao thông thuận tiện.",
+                    "FR": "La gare est bien desservie par les transports.",
+                    "NE": "स्टेशनमा राम्रो यातायात पहुँच छ।",
+                    "BN": "স্টেশনটিতে পরিবহনের ভালো ব্যবস্থা রয়েছে।",
+                    "ZH": "该车站交通便利。",
+                    "KO": "역은 교통 액세스가 좋다.",
+                    "TL": "Ang istasyon ay may mahusay na access sa transportasyon.",
+                    "MY": "ဘူတာသည် လမ်းပန်းဆက်သွယ်ရေး ကောင်းမွန်ပါသည်။",
+                    "HI": "स्टेशन तक परिवहन की अच्छी सुविधा है।",
+                    "AR": "تتمتع المحطة بإمكانية الوصول إلى وسائل النقل الجيدة.",
+                    "FA": "این ایستگاه دسترسی حمل و نقل خوبی دارد."
+                }
+            },
+            {
+                "kanji": "交通費を払う。",
+                "furigana": "交通費(こうつうひ)を払(はら)う。",
+                "translations": {
+                    "EN": "Pay for transportation costs.",
+                    "ID": "Membayar biaya transportasi.",
+                    "ES": "Pagar los costos de transporte.",
+                    "VI": "Thanh toán chi phí vận chuyển.",
+                    "FR": "Payer les frais de transport.",
+                    "NE": "ढुवानी खर्च तिर्नुहोस्।",
+                    "BN": "পরিবহন খরচ বহন করুন।",
+                    "ZH": "支付交通费用。",
+                    "KO": "교통비를 지불한다.",
+                    "TL": "Magbayad para sa mga gastos sa transportasyon.",
+                    "MY": "သယ်ယူပို့ဆောင်စရိတ်များ ပေးဆောင်ပါ။",
+                    "HI": "परिवहन लागत का भुगतान करें.",
+                    "AR": "دفع تكاليف النقل.",
+                    "FA": "هزینه‌های حمل و نقل را پرداخت کنید."
+                }
+            }
+        ],
+        "meaning_translations": {
+            "traffic": {
+                "ID": "lalu lintas",
+                "ES": "tráfico",
+                "VI": "giao thông",
+                "FR": "trafic",
+                "NE": "ट्राफिक",
+                "BN": "ট্রাফিক",
+                "ZH": "交通",
+                "KO": "교통",
+                "TL": "trapiko",
+                "MY": "အသွားအလာ",
+                "HI": "ट्रैफ़िक",
+                "AR": "مرور",
+                "FA": "ترافیک",
+                "EN": [
+                    "transportation",
+                    "transport"
+                ]
+            },
+            "communication": {
+                "ID": "komunikasi",
+                "ES": "comunicación",
+                "VI": "giao tiếp",
+                "FR": "communication",
+                "NE": "सञ्चार",
+                "BN": "যোগাযোগ",
+                "ZH": "沟通",
+                "KO": "의사소통",
+                "TL": "komunikasyon",
+                "MY": "ဆက်သွယ်ရေး",
+                "HI": "संचार",
+                "AR": "تواصل",
+                "FA": "ارتباط",
+                "EN": [
+                    "exchange (of ideas, etc.)",
+                    "intercourse"
+                ]
+            }
+        }
+    },
+    "jisho_data": {
+        "slug": "交通",
+        "is_common": true,
+        "tags": [
+            "wanikani7"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "交通",
+                "reading": "こうつう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "traffic",
+                    "transportation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "communication",
+                    "exchange (of ideas, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "intercourse"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Transport"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Transport” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Transport?oldid=494067965"
+                    },
+                    {
+                        "text": "Read “交通” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/交通?oldid=42533521"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Transport"
+        }
+    },
+    "kanji_list": [
+        "交",
+        "通"
+    ],
+    "kanji_data": {
+        "交": {
+            "freq_mainichi_shinbun": 178,
+            "grade": 2,
+            "heisig_en": "mingle",
+            "jlpt": 3,
+            "kanji": "交",
+            "kun_readings": [
+                "-か.う",
+                "か.わす",
+                "かわ.す",
+                "こもごも",
+                "ま.ざる",
+                "ま.じる",
+                "ま.ぜる",
+                "まじ.える",
+                "まじ.る",
+                "まじ.わる"
+            ],
+            "meanings": [
+                "association",
+                "coming & going",
+                "mingle",
+                "mixing"
+            ],
+            "name_readings": [
+                "かた"
+            ],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "4EA4"
+        },
+        "通": {
+            "freq_mainichi_shinbun": 80,
+            "grade": 2,
+            "heisig_en": "traffic",
+            "jlpt": 4,
+            "kanji": "通",
+            "kun_readings": [
+                "-とお.り",
+                "-どお.し",
+                "-どお.り",
+                "かよ.う",
+                "とお.し",
+                "とお.す",
+                "とお.り",
+                "とお.る"
+            ],
+            "meanings": [
+                "avenue",
+                "commute",
+                "counter for letters, notes, documents, etc.",
+                "pass through",
+                "traffic"
+            ],
+            "name_readings": [
+                "とん",
+                "どうし",
+                "どおり",
+                "みち"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ツ",
+                "ツウ"
+            ],
+            "stroke_count": 10,
+            "unicode": "901A"
+        }
+    },
+    "collocations": [
+        "公共交通",
+        "自動車交通",
+        "交通安全",
+        "交通機関",
+        "交通量",
+        "交通渋滞",
+        "交通規制",
+        "交通混雑",
+        "交通事情",
+        "交通網",
+        "交通を利用する",
+        "交通が混む",
+        "交通が発達する",
+        "交通が遮断される",
+        "交通を整備する",
+        "交通を制限する",
+        "交通を確保する",
+        "交通を遮る",
+        "交通事故を起こす",
+        "交通違反をする",
+        "交通手段を選ぶ",
+        "交通費を支払う",
+        "交通信号を守る",
+        "都市に交通が発達している",
+        "地方に交通の便が悪い",
+        "市内に交通網が整っている",
+        "高速道路に交通規制がある",
+        "駅に交通アクセスがいい",
+        "交通事故",
+        "交通ルール",
+        "交通安全",
+        "交通機関",
+        "交通網",
+        "交通手段",
+        "交通政策",
+        "交通インフラ",
+        "交通渋滞",
+        "交通事情"
+    ]
+}

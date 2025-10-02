@@ -23,12 +23,30 @@
             ]
         },
         {
-            "label": "upload new words",
+            "label": "upload to supabase",
             "type": "shell",
             "command": "${config:python.defaultInterpreterPath}",
             "args": [
                 "src/db/db_word.py"
             ]
         },
+        {
+            "label": "Generate Words",
+            "type": "shell",
+            "command": "${config:python.defaultInterpreterPath}",
+            "args": [
+                "-m",
+                "src.word.JPWord"
+            ]
+        },
+        {
+            "label": "Upload Videos",
+            "type": "shell",
+            "command": "${config:python.defaultInterpreterPath}",
+            "args": [
+                "-m",
+                "src.upload_video"
+            ]
+        }
     ]
 }

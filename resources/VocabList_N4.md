@@ -12,7 +12,7 @@
 | 味   | あじ  | flavour |
 | 明日  | あす  | tomorrow |
 | 遊び  | あそび | play |
-| 集る  | あつまる | to gather |
+| **集る**  | あつまる | to gather |
 | 集める | あつめる | to collect something |
 | 謝る  | あやまる | to apologize |
 | 安心  | あんしん | relief |
@@ -22,7 +22,7 @@
 | 以下  | いか  | less than |
 | 以外  | いがい | with the exception of |
 | 医学  | いがく | medical science |
-| 生きる | いきる | to live |
+| **生きる** | いきる | to live |
 | 意見  | いけん | opinion |
 | 石   | いし  | stone |
 |     | いじめる | to tease |
@@ -37,7 +37,7 @@
 | 田舎  | いなか | countryside |
 | 祈る  | いのる | to pray |
 |     | いらっしゃる | (respectful) to be,to come or to go |
-| 植える | うえる | to plant,to grow |
+| **植える** | うえる | to plant,to grow |
 |     | うかがう | to visit |
 | 受付  | うけつけ | receipt |
 | 受ける | うける | to take a lesson or test |
@@ -86,7 +86,7 @@
 | 驚く  | おどろく | to be surprised |
 | お祭り | おまつり | festival |
 | お見舞い | おみまい | calling on someone who is ill,enquiry |
-| お土産 | おみやげ | souvenir |
+| **お土産** | おみやげ | souvenir |
 | 思い出す | おもいだす | to remember |
 | 思う  | おもう | to think,to feel |
 |     | おもちゃ | toy |
@@ -120,7 +120,7 @@
 | 勝つ  | かつ  | to win |
 |     | かっこう | appearance |
 | 家内  | かない | housewife |
-| 悲しい | かなしい | sad |
+| **悲しい** | かなしい | sad |
 | 必ず  | かならず | certainly,necessarily |
 | お・金持ち | かねもち/おかねもち | rich man |
 | 彼女  | かのじょ | she,girlfriend |
@@ -153,7 +153,7 @@
 | 気分  | きぶん | mood |
 | 決る  | きまる | to be decided |
 | 君   | きみ  | (informal) You (used by men towards women) |
-| 決める | きめる | to decide |
+| **決める** | きめる | to decide |
 | 気持ち | きもち | feeling,mood |
 | 着物  | きもの | kimono |
 | 客   | きゃく | guest,customer |
@@ -201,7 +201,7 @@
 | 高校生 | こうこうせい | high school student |
 | 工場  | こうじょう | factory |
 | 校長  | こうちょう | headmaster |
-| 交通  | こうつう | traffic,transportation |
+| **交通**  | こうつう | traffic,transportation |
 | 講堂  | こうどう | auditorium |
 | 高等学校 | こうとうがっこう | high school |
 | 公務員 | こうむいん | government worker |
