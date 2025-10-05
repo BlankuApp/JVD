@@ -1,7 +1,9 @@
 from datetime import datetime, timezone
+from io import BytesIO
 
 import streamlit as st
 
+from src import get_openai_client
 from src.db.db_word import get_due_card, update_user_word_card
 from src.pyfsrs.card import JPWordCard
 from src.pyfsrs.review_log import Rating
@@ -84,7 +86,7 @@ if st.session_state.review_state == "question":
         )
 
     with st.form("review_form", border=False):
-        answer_input = st.text_input(
+        text_input = st.text_input(
             "Japanese Translation:",
             key="your_answer",
             label_visibility="collapsed",
@@ -93,6 +95,12 @@ if st.session_state.review_state == "question":
             help="Type your Japanese translation here",
         )
 
+        audio_input = st.audio_input(
+            "🎤 Or record your answer:",
+            key="your_voice_answer",
+            sample_rate=8000,
+            help="Record your answer in Japanese (max 1000KB)",
+        )
         # Enhanced button layout with better spacing
         col1, col2 = st.columns([1, 1])
         with col1:
@@ -106,6 +114,17 @@ if st.session_state.review_state == "question":
             submitted = st.form_submit_button("✅ Check Answer", type="primary", use_container_width=True)
 
     if submitted:
+        if (not text_input or text_input.strip() == "") and (
+            "your_voice_answer" not in st.session_state or st.session_state["your_voice_answer"] is None
+        ):
+            st.warning("Please provide an answer either by typing or recording your voice.")
+            if "your_voice_answer" in st.session_state and st.session_state["your_voice_answer"] is not None:
+                audio_bytes = st.session_state["your_voice_answer"].getvalue()
+                audio_size = len(audio_bytes) / 1024
+                st.info(f"Your audio file size: {audio_size:.2f}KB")
+                if audio_size > 200:
+                    st.warning("Your audio file is too large. Please keep it under 200KB.")
+            st.stop()
         st.session_state.review_state = "answer"
         st.rerun()
 
@@ -124,6 +143,23 @@ if st.session_state.review_state == "answer":
     )
 
     if not st.session_state["has_ai_review"]:
+        if "your_voice_answer" in st.session_state and st.session_state["your_voice_answer"] is not None:
+            with st.spinner("🤖 Transcribing your voice answer... Please wait", show_time=True):
+                openai = get_openai_client()
+                audio_bytes = st.session_state["your_voice_answer"].getvalue()
+                audio_size = len(audio_bytes) / 1024
+                st.info(f"Your audio file size: {audio_size:.2f}KB")
+                if audio_size > 1000:
+                    st.warning("Your audio file is too large. Please keep it under 1000KB.")
+                    st.stop()
+                audio_buffer = BytesIO(audio_bytes)
+                audio_buffer.name = "audio.wav"  # Whisper needs a filename to detect format
+
+                audio_response = openai.audio.transcriptions.create(
+                    file=audio_buffer, model="gpt-4o-mini-transcribe", response_format="text", language="ja"
+                )
+                st.session_state["your_answer"] = audio_response
+
         with st.spinner("🤖 AI is reviewing your answer... Please wait", show_time=True):
             review = st.session_state.current_card["jpword"].review_reverse_translation_question(
                 user_answer=st.session_state["your_answer"],
