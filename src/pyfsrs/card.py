@@ -214,7 +214,7 @@ class JPWordCard(Card):
                 ),
                 HumanMessage(
                     content=f"""# Tasks
-1. Generate a random, natural (daily life) and short, {jlpt_level} level sentence with '{self.word}' as the answer. You can use the collocation '{random_collocation}' as an sample context, but don't dirrectly use the collocation in the sentence. Except the target word '{self.word}', please make sure to use random words that are within the {jlpt_level} level.
+1. Generate a random, natural (daily life) and short, {jlpt_level} level sentence with '{self.word}' as the answer. This sentence is better to be part of a natural daily conversation to help the student memorize the word. You can use the collocation '{random_collocation}' as an sample context, but don't dirrectly use the collocation in the sentence. Except the target word '{self.word}', please make sure to use random words that are within the {jlpt_level} level.
 2. Provide an accurate and literal translation of the answer in {" and ".join(target_languages[:2])} as the question. Always perform a back-translation check: translate the generated Japanese answer back into the target language(s) and compare it to the question. If the meaning or nuance differs, correct the translation until it matches the Japanese sentence. If there is ambiguity in translating a phrase add some notes in parentheses.
 3. Hints are translations and reading of other words in the sentence except the target word. Make sure the '{self.word}' is not included in the hints. 
 4. Hints are separated by commas. nothing else.
@@ -244,8 +244,8 @@ Hints: tomorrow: 明日(あした), meeting: 会議(かいぎ)
                     content=f"""Scoring rules (apply exactly):
 1) Start from 0 points.
 2) If the target word '{self.word}' appears in the student's answer in any acceptable form (kanji, kana/reading, or any conjugated form), GRANT +5 points.
-3) If the student's answer does NOT convey the same meaning as the correct answer, DEDUCT 1 point and include a short explanation why (one sentence).
-4) For each grammatical mistake in the student's answer, DEDUCT 1 point and provide a short correction with an explanation (one sentence per mistake).
+3) If the student's answer does NOT convey the same meaning as the correct answer, DEDUCT 1 point and include an explanation.
+4) For each grammatical mistake in the student's answer, DEDUCT 1 point and provide an explanation.
 5) After applying grants and deductions, CLAMP the final score to the range 0 to 5.
 6) Keep the review text very short and focused; the breakdown table and the Overall Score line are required.
 Double-check these rules before producing the final output.
@@ -256,14 +256,14 @@ Double-check these rules before producing the final output.
 Consider the fact that the user tried to translate the following sentence to Japanese: '{getattr(self.question, "question", "")}'. So try to have fairness in your review.
 --- Scoring rules (apply exactly):
 * check if the target word '{self.word}' or its hiragana reading or its conjugated form is used in the **student's answer** ('{user_answer}'). If it is used in any acceptable form, grant +5 points (see rules above).
-* The goal is to make sure the **student's answer** conveys the general meaning of the **correct answer**. If the meaning is not conveyed, deduct 1 point and explain briefly why.
-* Correct any grammar mistakes in the **student's answer** ('{user_answer}') with a short correction and explanation (1 point deduction per mistake). Leave this blank if there are no mistakes.
+* The goal is to make sure the **student's answer** conveys the general meaning of the **correct answer**. If the meaning is not conveyed, deduct 1 point and explain why.
+* Correct any grammar mistakes in the **student's answer** ('{user_answer}') with a correction and explanation (1 point deduction per mistake). Leave this blank if there are no mistakes.
 * Ignore minor verb-form/politeness differences (e.g., する vs します, です vs だ) or small structural variations as long as meaning is preserved.
 * After counting grants and deductions, clamp the final score to the 0-5 range and present it as the Overall Score.
-* Keep the review text very short (max ~250 words for the review lines). The breakdown table may be slightly longer but keep it concise.
+* Keep the review text short (max ~250 words for the review lines). The breakdown table may be slightly longer but keep it concise.
 Output format:
 [Your review here with proper emojis (no headings at all, each sentence in a new line starting with an emoji)]
-Make a simple table showing each + or - with the reason (one line per row).
+Make a simple markdown table showing each + or - with the reason (one line per row).
 ### Overall Score: [score]/5 [with proper emojis]
 
 Double-check the scoring rules before returning the final message.
