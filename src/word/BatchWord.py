@@ -1,5 +1,6 @@
+import ast
 import json
-import pprint
+import os
 from typing import Annotated, Any, List
 
 from pydantic import BaseModel, ConfigDict, Field
@@ -21,9 +22,10 @@ def translate_text(text: str, target_language: str, source_language: str | None 
         source_language = result["language"]
 
     try:
-        result = client.translate(
-            text, target_language=target_language, source_language=source_language, format_="text"
-        )
+        # normalize language codes to lowercase for the translator API
+        tgt = target_language.lower() if isinstance(target_language, str) else target_language
+        src = source_language.lower() if isinstance(source_language, str) else source_language
+        result = client.translate(text, target_language=tgt, source_language=src, format_="text")
         logger.debug(f"🟢 Translation result: {result}")
         return result["translatedText"]
     except Exception as e:
@@ -36,7 +38,8 @@ def translate_to_all_languages(text: str, source_language: str | None = "ja") ->
     logger.debug(f"🟩 Translating text to all languages: {text}")
     translations = {}
     for lang_code in LANGUAGES_ABBR.values():
-        if lang_code.lower() == source_language.lower():
+        # skip translating to the same language as source (guard if source_language is None)
+        if source_language and lang_code.lower() == source_language.lower():
             continue
         translated_text = translate_text(text, lang_code, source_language)
         translations[lang_code] = translated_text
@@ -110,6 +113,338 @@ class JPWordInfo(BaseModel):
     meanings_translations: list[dict[str, Any]] = Field(
         default_factory=list
     )  # COMMENT OUT THIS LINE BEFORE RUNNING BATCH
+
+    def pptx_generation(self, word: str, jlpt_level: int, num_examples: int | None = 4) -> None:
+        """Generate PowerPoint presentation for the word"""
+        import os
+
+        from pptx import Presentation
+        from pptx.dml.color import RGBColor
+        from pptx.enum.text import (
+            MSO_AUTO_SIZE,
+            MSO_VERTICAL_ANCHOR,
+            PP_PARAGRAPH_ALIGNMENT,
+        )
+        from pptx.util import Inches, Pt
+
+        logger.info(f"🟦 Generating PPTX for word: {word}")
+        file_name = f"./Output/{word}/{word} JLPT N{jlpt_level} Vocabulary.pptx"
+        if os.path.exists(file_name):
+            return
+
+        prs = Presentation("resources/pptx_templates/template.pptx")
+
+        # Title slide
+        first_slide = prs.slides.add_slide(prs.slide_layouts[0])
+        presentation_title = first_slide.shapes.title
+        if presentation_title:
+            presentation_title.text = self.kanji
+            presentation_title.text_frame.paragraphs[0].font.size = Pt(160)
+            presentation_title.text_frame.paragraphs[0].font.color.rgb = RGBColor(33, 95, 154)
+
+        presentation_subtitle = first_slide.placeholders[1]
+        presentation_subtitle.text = self.reading  # type: ignore
+        presentation_subtitle.text_frame.paragraphs[0].font.size = Pt(100)  # type: ignore
+        presentation_subtitle.text_frame.paragraphs[0].font.color.rgb = RGBColor(192, 79, 21)  # type: ignore
+
+        # first_slide.shapes.add_movie(
+        #     f"./output/{word}/audio/0_introduction.wav",
+        #     left=Pt(0),
+        #     top=Pt(-50),
+        #     width=Pt(50),
+        #     height=Pt(50),
+        #     mime_type="audio/x-wav",
+        # )
+
+        # Definitions slide
+        definitions_slide = prs.slides.add_slide(prs.slide_layouts[6])
+        shape = definitions_slide.shapes.add_textbox(Inches(5), Inches(0), Inches(40 / 3 - 5), Inches(7.5))
+        shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.MIDDLE
+        shape.text_frame.word_wrap = True
+        for translations in self.meanings_translations:
+            # Extract the EN list which contains the primary nuance words
+            en_meanings = translations.get("EN", [])
+            if not en_meanings:
+                continue
+
+            # First word is the key (primary nuance)
+            en = en_meanings[0] if isinstance(en_meanings, list) else en_meanings
+
+            p = shape.text_frame.add_paragraph()
+            p.alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
+            run = p.add_run()
+            run.text = str(en) + "\n"
+            run.font.size = Pt(115)
+            run.font.name = "Berlin Sans FB Demi"
+            run.font.color.rgb = RGBColor(33, 95, 154)
+
+            # Show additional English nuances if available
+            if isinstance(en_meanings, list) and len(en_meanings) > 1:
+                run = p.add_run()
+                run.text = ", ".join(en_meanings[1:]) + "\n"
+                run.font.size = Pt(32)
+                run.font.color.rgb = RGBColor(192, 79, 21)
+                run.font.name = "Berlin Sans FB"
+                p.space_after = Pt(0)
+                p.line_spacing = 0.9
+
+            for code, translation in translations.items():
+                if code.lower() == "en":
+                    continue
+                run_code = p.add_run()
+                run_code.text = f"     {code}"
+                run_code.font.size = Pt(16)
+                run_code.font.name = "Berlin Sans FB"
+                run_code.font.color.rgb = RGBColor(127, 127, 127)
+
+                # Add ordinary run for the translation
+                run_translation = p.add_run()
+                run_translation.text = f"{translation}"
+                run_translation.font.size = Pt(20)
+                run_translation.font.name = "Berlin Sans FB"
+                run_translation.font.color.rgb = RGBColor(0, 0, 0)
+
+        # definitions_slide.shapes.add_movie(
+        #     f"./output/{word}/audio/1_definition.wav",
+        #     left=Pt(0),
+        #     top=Pt(-50),
+        #     width=Pt(50),
+        #     height=Pt(50),
+        #     mime_type="audio/x-wav",
+        # )
+
+        # Add a slide for Kanji breakdown
+        kanji_slide = prs.slides.add_slide(prs.slide_layouts[6])
+        for i, k in enumerate(self.kanji_details):
+            kanji_detail: KanjiDetail = k
+            kanji_shape = kanji_slide.shapes.add_textbox(
+                Inches(0), Inches(i * 7.5 / 2), Inches(40 / 3 * 0.3), Inches(7.5 / 2)
+            )
+            p = kanji_shape.text_frame.add_paragraph()
+            run = p.add_run()
+            run.text = kanji_detail.kanji
+            run.font.size = Pt(250)
+            run.font.bold = True
+            run.font.name = "Yu Gothic"
+            run.font.color.rgb = RGBColor(33, 95, 154)
+            p.alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
+            p.space_after = Pt(0)
+            p.line_spacing = 0.9
+
+            kanji_explanation_shape = kanji_slide.shapes.add_textbox(
+                Inches(40 / 3 * 0.3),
+                Inches(i * 7.5 / 2),
+                Inches(40 / 3 * 0.7),
+                Inches(7.5 / 2),
+            )
+            kanji_explanation_shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.MIDDLE
+            kanji_explanation_shape.text_frame.word_wrap = True
+            p = kanji_explanation_shape.text_frame.paragraphs[-1]
+            p.alignment = PP_PARAGRAPH_ALIGNMENT.LEFT
+            run = p.add_run()
+            run.text = "Meanings:"
+            run.font.size = Pt(24)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(127, 127, 127)
+            run = p.add_run()
+            run.text = f" {', '.join(kanji_detail.meanings_english)}\n"
+            run.font.size = Pt(32)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(0, 0, 0)
+            run = p.add_run()
+            run.text = "Readings:"
+            run.font.size = Pt(24)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(127, 127, 127)
+            run = p.add_run()
+            run.text = f" {', '.join(kanji_detail.kunyomi + kanji_detail.onyomi)}\n"
+            run.font.size = Pt(32)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(0, 0, 0)
+            run = p.add_run()
+            for vocab in kanji_detail.common_words:
+                run.text += f"\n{vocab}"  # type: ignore
+            run.font.size = Pt(32)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(192, 79, 21)
+            p.space_after = Pt(0)
+            p.line_spacing = 0.9
+
+        # kanji_slide.shapes.add_movie(
+        #     f"./output/{word}/audio/2_kanji_explanation.wav",
+        #     left=Pt(0),
+        #     top=Pt(-50),
+        #     width=Pt(50),
+        #     height=Pt(50),
+        #     mime_type="audio/x-wav",
+        # )
+
+        # Add a slide for examples
+        for i, example in enumerate(self.example_sentences[:num_examples]):
+            example_slide = prs.slides.add_slide(prs.slide_layouts[6])
+
+            top_shape = example_slide.shapes.add_textbox(Inches(0), Inches(0), Inches(40 / 3), Inches(3))
+            top_shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.TOP
+            top_shape.text_frame.word_wrap = True
+            top_shape.text_frame.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
+            p = top_shape.text_frame.add_paragraph()
+            p.alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
+            run = p.add_run()
+            run.text = example.kanji
+            run.font.size = Pt(70)
+            run.font.bold = True
+            run.font.name = "Yu Gothic"
+            run.font.color.rgb = RGBColor(33, 95, 154)
+            run = p.add_run()
+            run.text = f"\n{example.furigana}"  # type: ignore
+            run.font.size = Pt(33)
+            run.font.name = "Yu Gothic"
+            run.font.color.rgb = RGBColor(192, 79, 21)
+            p.alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
+            p.space_after = Pt(0)
+            p.line_spacing = 0.9
+
+            left_languages = [
+                "EN",
+                "ID",
+                "ES",
+                "VI",
+                "FR",
+                "NE",
+                "AR",
+            ]
+
+            left_shape = example_slide.shapes.add_textbox(
+                Inches(20 / 3 * 0.025), Inches(3), Inches(20 / 3 * 0.95), Inches(4.5)
+            )
+            left_shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.TOP
+            left_shape.text_frame.word_wrap = True
+            left_shape.text_frame.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
+            for lang in left_languages:
+                p = left_shape.text_frame.paragraphs[-1]
+                p.alignment = PP_PARAGRAPH_ALIGNMENT.LEFT
+                run_code = p.add_run()
+                run_code.text = f"{lang}: "
+                run_code.font.size = Pt(20)
+                run_code.font.name = "Berlin Sans FB"
+                run_code.font.color.rgb = RGBColor(127, 127, 127)
+                run_translation = p.add_run()
+                run_translation.text = f"{example.translations[lang]}\n"
+                run_translation.font.size = Pt(25)
+                run_translation.font.name = "Berlin Sans FB"
+            right_shape = example_slide.shapes.add_textbox(
+                Inches(20 / 3 * 1.025), Inches(3), Inches(20 / 3 * 0.95), Inches(4.5)
+            )
+            right_shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.TOP
+            right_shape.text_frame.word_wrap = True
+            right_shape.text_frame.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
+            right_languages = [
+                "BN",
+                "ZH",
+                "KO",
+                "TL",
+                "MY",
+                "HI",
+                "FA",
+            ]
+            for lang in right_languages:
+                p = right_shape.text_frame.paragraphs[-1]
+                p.alignment = PP_PARAGRAPH_ALIGNMENT.LEFT
+                run_code = p.add_run()
+                run_code.text = f"{lang}: "
+                run_code.font.size = Pt(20)
+                run_code.font.name = "Berlin Sans FB"
+                run_code.font.color.rgb = RGBColor(127, 127, 127)
+                run_translation = p.add_run()
+                run_translation.text = f"{example.translations[lang]}\n"  # type: ignore
+                run_translation.font.size = Pt(25)
+                run_translation.font.bold = False
+                run_translation.font.name = "Berlin Sans FB"
+
+            # example_slide.shapes.add_movie(
+            #     f"./output/{word}/audio/{3 + i}_example.wav",
+            #     left=Pt(0),
+            #     top=Pt(-50),
+            #     width=Pt(50),
+            #     height=Pt(50),
+            #     mime_type="audio/x-wav",
+            # )
+
+        # Add a slide for synonyms and antonyms
+        synonyms_slide = prs.slides.add_slide(prs.slide_layouts[6])
+
+        synonyms_shape = synonyms_slide.shapes.add_textbox(Inches(0), Inches(0), Inches(20 / 3), Inches(7.5))
+        synonyms_shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.TOP
+        synonyms_shape.text_frame.word_wrap = True
+        p = synonyms_shape.text_frame.paragraphs[-1]
+        run = p.add_run()
+        run.text = "\nSYNONYMS\n\n"
+        run.font.size = Pt(40)
+        run.font.name = "Berlin Sans FB Demi"
+        run.font.color.rgb = RGBColor(33, 95, 154)
+        for synonym in self.synonyms:
+            kanji, reading, meaning = synonym.split(":")
+            run = p.add_run()
+            run.text = f"{kanji}\n"
+            run.font.size = Pt(54)
+            run.font.bold = True  # type: ignore
+            run.font.name = "Berlin Sans FB Demi"
+            run.font.color.rgb = RGBColor(33, 95, 154)
+            run = p.add_run()
+            run.text = f"{reading}\n"  # type: ignore
+            run.font.size = Pt(32)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(0, 0, 0)
+            run = p.add_run()
+            run.text = f"{meaning}\n\n"  # type: ignore
+            run.font.size = Pt(32)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(0, 0, 0)
+            p.space_after = Pt(0)
+            p.line_spacing = 0.9
+        synonyms_shape.text_frame.paragraphs[0].alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
+
+        antonyms_shape = synonyms_slide.shapes.add_textbox(Inches(20 / 3), Inches(0), Inches(20 / 3), Inches(7.5))
+        antonyms_shape.text_frame.vertical_anchor = MSO_VERTICAL_ANCHOR.TOP
+        antonyms_shape.text_frame.word_wrap = True
+        p = antonyms_shape.text_frame.paragraphs[-1]
+        run = p.add_run()
+        run.text = "\nANTONYMS\n\n"
+        run.font.size = Pt(40)
+        run.font.name = "Berlin Sans FB Demi"
+        run.font.color.rgb = RGBColor(192, 79, 21)
+        for antonym in self.antonyms:
+            kanji, reading, meaning = antonym.split(":")
+            run = p.add_run()
+            run.text = f"{kanji}\n"
+            run.font.size = Pt(54)
+            run.font.bold = True  # type: ignore
+            run.font.name = "Berlin Sans FB Demi"
+            run.font.color.rgb = RGBColor(192, 79, 21)
+            run = p.add_run()
+            run.text = f"{reading}\n"  # type: ignore
+            run.font.size = Pt(32)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(0, 0, 0)
+            run = p.add_run()
+            run.text = f"{meaning} \n\n"  # type: ignore
+            run.font.size = Pt(32)
+            run.font.name = "Berlin Sans FB"
+            run.font.color.rgb = RGBColor(0, 0, 0)
+            p.space_after = Pt(0)
+            p.line_spacing = 0.9
+        antonyms_shape.text_frame.paragraphs[0].alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
+
+        # synonyms_slide.shapes.add_movie(
+        #     f"./output/{word}/audio/100_synonyms_antonyms.wav",
+        #     left=Pt(0),
+        #     top=Pt(-50),
+        #     width=Pt(50),
+        #     height=Pt(50),
+        #     mime_type="audio/x-wav",
+        # )
+
+        prs.save(file_name)
 
     def add_translations_to_examples(self):
         """
@@ -308,8 +643,21 @@ def read_batch_results(filepath: str, jlpt_level: int):
         for line in f:
             result = json.loads(line)
             word = result["custom_id"]
-            with open(f"{word}_batch.json", "w", encoding="utf-8") as wf:
-                data = eval(result["response"]["body"]["output"][1]["content"][0]["text"])
+            dir_path = os.path.join("output", word)
+            if not os.path.exists(dir_path):
+                os.makedirs(dir_path)
+            file_name = f"./Output/{word}/{word}.json"
+            with open(file_name, "w", encoding="utf-8") as wf:
+                data_text = result["response"]["body"]["output"][1]["content"][0]["text"]
+                try:
+                    data = json.loads(data_text)
+                except json.JSONDecodeError:
+                    try:
+                        data = ast.literal_eval(data_text)
+                    except Exception as e:
+                        logger.error(f"Failed to parse AI response for {word}: {e}")
+                        # skip this item if parsing fails
+                        continue
                 jp_w = JPWordInfo.model_validate(data)
                 jp_w.add_all_translations()
                 outputs.append((word, jp_w))
@@ -325,6 +673,7 @@ def read_batch_results(filepath: str, jlpt_level: int):
                     "kanji_data": {k: query_kanji(k) for k in extract_kanji(word)},
                 }
                 json.dump(d, wf, ensure_ascii=False, indent=2)
+            jp_w.pptx_generation(word, jlpt_level)
     return outputs
 
 
