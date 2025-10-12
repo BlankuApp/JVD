@@ -41,7 +41,7 @@
 | 嵐 | あらし | storm,tempest |
 | **新た** | あらた | new,fresh,novel |
 |  | **あらゆる** | all,every |
-| 表す | あらわす | to express,to show,to reveal |
+| **表す** | あらわす | to express,to show,to reveal |
 | 現す | あらわす | to show,to indicate,to display |
 | 現れ | あらわれ | embodiment,materialization |
 | **現れる** | あらわれる | (1) to appear,to come in sight,to become visible,(2) to express oneself |
@@ -69,7 +69,7 @@
 | 行き | いき | going |
 | 行き | ゆき | going |
 | 息 | いき | breath,tone |
-| 勢い | いきおい | force,vigor,energy,spirit |
+| **勢い** | いきおい | force,vigor,energy,spirit |
 | 生き物 | いきもの | living thing,animal |
 | 幾つ | いくつ | how many?,how old? |
 | 幾ら | いくら | how much?,how many? |
@@ -93,7 +93,7 @@
 | 痛み | いたみ | pain,ache,sore,grief,distress |
 | 至る | いたる | to come,to arrive |
 |  | いち | market,fair |
-| 位置 | いち | place,situation,position,location |
+| **位置** | いち | place,situation,position,location |
 | 一時 | いちじ | moment,time |
 | 一度に | いちどに | all at once |
 | 市場 | いちば | (the) market (as a concept) |
@@ -153,7 +153,7 @@
 | 内 | うち | inside |
 | **宇宙** | うちゅう | universe,cosmos,space |
 | 撃つ | うつ | to attack,to defeat,to destroy |
-| 移す | うつす | to remove,to transfer,to infect |
+| **移す** | うつす | to remove,to transfer,to infect |
 | 訴える | うったえる | to sue (a person),to resort to,to appeal to |
 |  | うなる | to groan,to moan |
 | 奪う | うばう | to snatch away |
@@ -174,7 +174,7 @@
 | **永遠** | えいえん | eternity,perpetuity,immortality,permanence |
 | 永久 | えいきゅう | eternity,perpetuity,immortality |
 | 影響 | えいきょう | influence,effect |
-| 営業 | えいぎょう | business,trade,management |
+| **営業** | えいぎょう | business,trade,management |
 | 衛星 | えいせい | satellite |
 | **栄養** | えいよう | nutrition,nourishment |
 | 笑顔 | えがお | smiling face |
@@ -227,7 +227,7 @@
 | 帯 | おび | band (e.g. conduction, valence) |
 | お昼 | おひる | lunch,noon |
 |  | オフィス | office |
-| 溺れる | おぼれる | to be drowned,to indulge in |
+| **溺れる** | おぼれる | to be drowned,to indulge in |
 |  | おまえ | (fam) you (sing),presence (of a high personage) |
 |  | おめでとう | Congratulations!,an auspicious occasion! |
 | お目に掛かる | おめにかかる |  |
@@ -257,7 +257,7 @@
 | 絵画 | かいが | picture |
 | **海外** | かいがい | foreign,abroad,overseas |
 | 会計 | かいけい | account,finance,accountant |
-| 解決 | かいけつ | settlement,solution,resolution |
+| **解決** | かいけつ | settlement,solution,resolution |
 | 会合 | かいごう | meeting,assembly |
 | **外交** | がいこう | diplomacy |
 | 開始 | かいし | start,commencement,beginning |
@@ -300,7 +300,7 @@
 | 過去 | かこ | the past,bygone days,the previous |
 | 籠 | かご | basket,cage |
 | 囲む | かこむ | to surround,to encircle |
-| 火災 | かさい | conflagration,fire |
+| **火災** | かさい | conflagration,fire |
 | 貸し | かし | loan,lending |
 | 菓子 | かし | pastry |
 | 家事 | かじ | housework,domestic chores |
@@ -331,7 +331,7 @@
 | 株 | かぶ | share,stock,stump (of tree) |
 | 被る | かぶる | to suffer |
 | **構う** | かまう | to mind,to care about,to be concerned about |
-| 我慢 | がまん | patience,endurance,perseverance |
+| **我慢** | がまん | patience,endurance,perseverance |
 | 上 | かみ | (1) first volume,(2) superior quality,(3) governmental |
 | 神 | かみ | god |
 | 雷 | かみなり | thunder |
@@ -355,7 +355,7 @@
 | 観客 | かんきゃく | audience,spectator(s) |
 | 環境 | かんきょう | environment,circumstance |
 | 歓迎 | かんげい | welcome,reception |
-| 観光 | かんこう | sightseeing |
+| **観光** | かんこう | sightseeing |
 | 観察 | かんさつ | observation,survey |
 | 感じ | かんじ | feeling,sense,impression |
 | 感謝 | かんしゃ | thanks,gratitude |
@@ -378,7 +378,7 @@
 | 気温 | きおん | temperature |
 | 機械 | きかい | machine,mechanism |
 | **議会** | ぎかい | Diet,congress,parliament |
-| 期間 | きかん | period,term |
+| **期間** | きかん | period,term |
 | 機関 | きかん | organ,mechanism,facility,engine |
 | 企業 | きぎょう | enterprise,undertaking |
 | 効く | きく | to be effective |
@@ -407,7 +407,7 @@
 | **基本** | きほん | foundation,basis,standard |
 | 決まり | きまり | settlement,conclusion,regulation,rule |
 | 気味 | きみ | -like,-looking,-looked |
-| 奇妙 | きみょう | strange,queer,curious |
+| **奇妙** | きみょう | strange,queer,curious |
 | 義務 | ぎむ | duty,obligation,responsibility |
 | 疑問 | ぎもん | question,problem,doubt,guess |
 | 逆 | ぎゃく | reverse,opposite |
@@ -430,7 +430,7 @@
 | 競技 | きょうぎ | game,match,contest |
 | 行儀 | ぎょうぎ | manners |
 | 供給 | きょうきゅう | supply,provision |
-| 教師 | きょうし | teacher (classroom) |
+| **教師** | きょうし | teacher (classroom) |
 | 教授 | きょうじゅ | teaching,instruction,professor |
 | **強調** | きょうちょう | emphasis,stress,stressed point |
 | 共通 | きょうつう | commonness,community |
@@ -455,7 +455,7 @@
 | 金庫 | きんこ | safe,vault,treasury,provider of funds |
 | 禁止 | きんし | prohibition,ban |
 | 金銭 | きんせん | money,cash |
-| 金属 | きんぞく | metal |
+| **金属** | きんぞく | metal |
 | 近代 | きんだい | present day |
 | 緊張 | きんちょう | tension,mental strain,nervousness |
 | **筋肉** | きんにく | muscle,sinew |
@@ -491,7 +491,7 @@
 |  | クリスマス | Christmas |
 | **狂う** | くるう | to go mad,to get out of order |
 |  | グループ | group |
-| 苦しい | くるしい | painful,difficult |
+| **苦しい** | くるしい | painful,difficult |
 | 苦しむ | くるしむ | to suffer,to groan,to be worried |
 | 暮れ | くれ | year end,sunset,nightfall,end |
 | 苦労 | くろう | troubles,hardships |
@@ -525,7 +525,7 @@
 | **化粧** | けしょう | make-up (cosmetic) |
 |  | けち | stinginess,miser,miserliness |
 | 結果 | けっか | result,consequence |
-| 欠陥 | けっかん | defect,fault,deficiency |
+| **欠陥** | けっかん | defect,fault,deficiency |
 | 結局 | けっきょく | after all,eventually |
 | 決心 | けっしん | determination,resolution |
 | 欠席 | けっせき | absence,non-attendance |
@@ -539,7 +539,7 @@
 | **喧嘩** | けんか | quarrel,(drunken) brawl,failure |
 | 見解 | けんかい | opinion,point of view |
 | 限界 | げんかい | limit,bound |
-| 現金 | げんきん | cash,ready money,mercenary,self-interested |
+| **現金** | げんきん | cash,ready money,mercenary,self-interested |
 | 言語 | げんご | language |
 | 健康 | けんこう | health,sound,wholesome |
 | **検査** | けんさ | inspection (e.g. customs, factory),examination |
@@ -575,7 +575,7 @@
 | 貢献 | こうけん | contribution,services |
 | 広告 | こうこく | advertisement |
 | 交際 | こうさい | company,friendship,association,society,acquaintance |
-| 後者 | こうしゃ | the latter |
+| **後者** | こうしゃ | the latter |
 | 工場 | こうば | factory,plant,mill,workshop |
 | 構成 | こうせい | organization,composition |
 | 高速 | こうそく | high speed,high gear |
@@ -617,7 +617,7 @@
 | 断る | ことわる | to refuse,to decline,to dismiss |
 | 粉 | こな | flour,meal,powder |
 | この | この | this |
-| 好み | このみ | liking,taste,choice |
+| **好み** | このみ | liking,taste,choice |
 | 好む | このむ | to like,to prefer |
 |  | コピー | (1) a (photo)copy,(2) blurb on a book jacket |
 | 塵 | ごみ | dust,dirt |
@@ -701,7 +701,7 @@
 | 式 | しき | equation,formula,ceremony |
 | 直 | じき | earnestly,immediately,exactly |
 | 時期 | じき | time,season,period |
-| 支給 | しきゅう | payment,allowance |
+| **支給** | しきゅう | payment,allowance |
 |  | しきりに | frequently,repeatedly,incessantly,eagerly |
 | 刺激 | しげき | stimulus,impetus,incentive |
 | 資源 | しげん | resources |
@@ -785,7 +785,7 @@
 | 主義 | しゅぎ | doctrine,rule,principle |
 | 宿泊 | しゅくはく | lodging |
 | **手術** | しゅじゅつ | surgical operation |
-| 首相 | しゅしょう | Prime Minister |
+| **首相** | しゅしょう | Prime Minister |
 | 手段 | しゅだん | means,way,measure |
 | 主張 | しゅちょう | claim,request,insistence,assertion |
 | 出身 | しゅっしん | graduate from,come from |
@@ -868,7 +868,7 @@
 | 人工 | じんこう | artificial,manmade,human work,human skill,artificiality |
 | 深刻 | しんこく | serious |
 | **診察** | しんさつ | medical examination |
-| 人種 | じんしゅ | race (of people) |
+| **人種** | じんしゅ | race (of people) |
 | 信じる | しんじる | to believe,to place trust in |
 | 人生 | じんせい | (human) life (i.e. conception to death) |
 | 親戚 | しんせき | relative |
@@ -952,7 +952,7 @@
 | **制度** | せいど | system,institution,organization |
 | 青年 | せいねん | youth,young man |
 | 製品 | せいひん | manufactured goods,finished goods |
-| 政府 | せいふ | government,administration |
+| **政府** | せいふ | government,administration |
 | 生物 | せいぶつ | raw food |
 | 生命 | せいめい | life,existence |
 | 整理 | せいり | sorting,arrangement,adjustment,regulation |
@@ -1036,7 +1036,7 @@
 | 大気 | たいき | atmosphere |
 | **代金** | だいきん | price,payment,cost,charge |
 | 退屈 | たいくつ | tedium,boredom |
-| 滞在 | たいざい | stay,sojourn |
+| **滞在** | たいざい | stay,sojourn |
 | 大使 | たいし | ambassador |
 | 大した | たいした | considerable,great,important,significant,a big deal |
 | 対象 | たいしょう | target,object (of worship, study, etc),subject (of taxation, etc) |
@@ -1120,7 +1120,7 @@
 | 地域 | ちいき | area,region |
 |  | チーズ | cheese |
 |  | チーム | team |
-| 知恵 | ちえ | wisdom,wit,sagacity,sense,intelligence,advice |
+| **知恵** | ちえ | wisdom,wit,sagacity,sense,intelligence,advice |
 | 地下 | ちか | basement,underground |
 | 違い | ちがい | difference,discrepancy |
 | 違いない | ちがいない | (phrase) sure,no mistaking it,for certain |
@@ -1243,7 +1243,7 @@
 | 同僚 | どうりょう | coworker,colleague,associate |
 | 道路 | どうろ | road,highway |
 | 十 | とお | 10,ten |
-| 通す | とおす | to let pass,to overlook,to continue |
+| **通す** | とおす | to let pass,to overlook,to continue |
 | 通り | とおり | in accordance with ~,following ~,~ Street,~ Avenue |
 | 通り過ぎる | とおりすぎる | to pass,to pass through |
 | **都会** | とかい | city |
@@ -1324,7 +1324,7 @@
 | **悩む** | なやむ | to be worried,to be troubled |
 | 為る | なる | to change,to be of use,to reach to |
 | 成る | なる | to become |
-| 縄 | なわ | rope,hemp |
+| **縄** | なわ | rope,hemp |
 | 何で | なんで | Why?,What for? |
 | 何でも | なんでも | by all means,everything |
 | 何とか | なんとか | somehow,anyhow,one way or another |
@@ -1404,7 +1404,7 @@
 | 計る | はかる | to measure,to weigh,to survey |
 | 履く | はく | to wear,to put on (lower body) |
 | 吐く | はく | (1) to breathe,(2) to tell (lies),(3) to vomit,to disgorge |
-| 拍手 | はくしゅ | clapping hands,applause |
+| **拍手** | はくしゅ | clapping hands,applause |
 | 莫大 | ばくだい | enormous,vast |
 | 爆発 | ばくはつ | explosion,detonation,eruption |
 | **博物館** | はくぶつかん | museum |
@@ -1488,7 +1488,7 @@
 | 秒 | びょう | second (60th min) |
 | **評価** | ひょうか | valuation,estimation,assessment,evaluation |
 | 表現 | ひょうげん | expression,presentation,representation (math) |
-| 表情 | ひょうじょう | facial expression |
+| **表情** | ひょうじょう | facial expression |
 | 平等 | びょうどう | equality (a),impartiality,evenness |
 | 評判 | ひょうばん | fame,reputation,popularity,arrant |
 | 表面 | ひょうめん | surface,outside,face,appearance |

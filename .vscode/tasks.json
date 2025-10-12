@@ -6,7 +6,7 @@
         {
             "label": "Current File",
             "type": "shell",
-            "command": "${config:python.defaultInterpreterPath}",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe",
             "args": [
                 "${file}"
             ],
@@ -14,7 +14,7 @@
         {
             "label": "streamlit",
             "type": "shell",
-            "command": "${config:python.defaultInterpreterPath}",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe",
             "args": [
                 "-m",
                 "streamlit",
@@ -25,7 +25,7 @@
         {
             "label": "upload to supabase",
             "type": "shell",
-            "command": "${config:python.defaultInterpreterPath}",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe",
             "args": [
                 "src/db/db_word.py"
             ]
@@ -33,7 +33,7 @@
         {
             "label": "Generate Words",
             "type": "shell",
-            "command": "${config:python.defaultInterpreterPath}",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe",
             "args": [
                 "-m",
                 "src.word.JPWord"
@@ -42,7 +42,7 @@
         {
             "label": "Upload Videos",
             "type": "shell",
-            "command": "${config:python.defaultInterpreterPath}",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe",
             "args": [
                 "-m",
                 "src.upload_video"
