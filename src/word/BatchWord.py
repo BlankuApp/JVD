@@ -1,8 +1,48 @@
-from pydantic import BaseModel, Field, ConfigDict
-from typing import Annotated
-from typing import List
-import pprint
 import json
+import pprint
+from typing import Annotated, Any, List
+
+from pydantic import BaseModel, ConfigDict, Field
+
+from src import LANGUAGES_ABBR, get_translator_client
+from src.logger_module import get_logger
+from src.word.JPWord import extract_kanji, query_jisho, query_kanji
+
+logger = get_logger("JVD")
+
+
+def translate_text(text: str, target_language: str, source_language: str | None = "ja") -> str:
+    """Translate text from source language to target language using Google Translate"""
+    logger.debug(f"🟢 Translating text: {text} from {source_language} to {target_language}")
+    client = get_translator_client()
+
+    if source_language is None:
+        result = client.detect_language(text)
+        source_language = result["language"]
+
+    try:
+        result = client.translate(
+            text, target_language=target_language, source_language=source_language, format_="text"
+        )
+        logger.debug(f"🟢 Translation result: {result}")
+        return result["translatedText"]
+    except Exception as e:
+        logger.error(f"🟢 Translation failed: {e}")
+        return f"Error: {str(e)}"
+
+
+def translate_to_all_languages(text: str, source_language: str | None = "ja") -> dict:
+    """Translate text to all supported languages"""
+    logger.debug(f"🟩 Translating text to all languages: {text}")
+    translations = {}
+    for lang_code in LANGUAGES_ABBR.values():
+        if lang_code.lower() == source_language.lower():
+            continue
+        translated_text = translate_text(text, lang_code, source_language)
+        translations[lang_code] = translated_text
+    order_list = ["EN", "ID", "ES", "VI", "FR", "NE", "BN", "ZH", "KO", "TL", "MY", "HI", "AR", "FA"]
+    sorted_x = {key: translations[key] for key in order_list if key in translations}
+    return sorted_x
 
 
 class KanjiDetail(BaseModel):
@@ -37,6 +77,7 @@ class JapaneseText(BaseModel):
     model_config = ConfigDict(extra="forbid")
     kanji: str = Field(examples=["本を読む"], max_length=100, additionalProperties=False)  # type: ignore
     furigana: str = Field(examples=["本(ほん)を読(よ)む"], max_length=100, additionalProperties=False)  # type: ignore
+    translations: dict[str, str] = Field(default_factory=dict)  # COMMENT OUT THIS LINE BEFORE RUNNING BATCH
 
 
 class JPWordInfo(BaseModel):
@@ -66,18 +107,73 @@ class JPWordInfo(BaseModel):
     antonym_explanation: str = Field(max_length=250, additionalProperties=False)  # type: ignore
     collocations: list[JapaneseText] = Field(min_items=5, max_items=8)  # type: ignore
     example_sentences: list[JapaneseText] = Field(min_items=4, max_items=5)  # type: ignore
+    meanings_translations: list[dict[str, Any]] = Field(
+        default_factory=list
+    )  # COMMENT OUT THIS LINE BEFORE RUNNING BATCH
 
+    def add_translations_to_examples(self):
+        """
+        Add translations to all example sentences by translating the kanji text
+        to all supported languages. Modifies the example_sentences in place.
+        """
+        logger.info(f"Adding translations to example sentences for word: {self.kanji}")
+        for example in self.example_sentences:
+            # Get the kanji text to translate
+            text_to_translate = example.kanji
+            logger.debug(f"Translating example: {text_to_translate}")
 
-openai_schema = {
-    "name": "jp_word_info",
-    "type": "json_schema",
-    "strict": True,
-    "schema": {**JPWordInfo.model_json_schema(), "additionalProperties": False},
-}
+            # Translate to all languages
+            translations = translate_to_all_languages(text_to_translate, source_language="ja")
 
-# openai_schema_string = str(openai_schema).replace("'", '"').replace("True", "true").replace("False", "false")
-# print(openai_schema_string)
-# pprint.pprint(openai_schema)
+            # Set translations field
+            example.translations = translations
+
+        logger.info(f"Successfully added translations to {len(self.example_sentences)} examples")
+        return self
+
+    def add_translations_to_collocations(self):
+        """
+        Add translations to all collocations by translating the kanji text
+        to all supported languages. Modifies the collocations in place.
+        """
+        logger.info(f"Adding translations to collocations for word: {self.kanji}")
+        for collocation in self.collocations:
+            # Get the kanji text to translate
+            text_to_translate = collocation.kanji
+            logger.debug(f"Translating collocation: {text_to_translate}")
+
+            # Translate to all languages
+            translations = translate_to_all_languages(text_to_translate, source_language="ja")
+
+            # Set translations field
+            collocation.translations = translations
+
+        logger.info(f"Successfully added translations to {len(self.collocations)} collocations")
+        return self
+
+    def add_translations_to_meanings(self):
+        """
+        Add translations to all meanings by translating each nuance word
+        to all supported languages. Modifies the meanings in place.
+        """
+        logger.info(f"Adding translations to meanings for word: {self.kanji}")
+        for nuance_list in self.meanings:
+            translations = translate_to_all_languages(nuance_list[0], source_language="en")
+            translations["EN"] = nuance_list
+            self.meanings_translations.append(translations)
+
+    def add_all_translations(self):
+        """
+        Add translations to both example sentences and collocations.
+        Convenience method to translate all text content.
+        """
+        logger.info(f"Adding translations to all text content for word: {self.kanji}")
+        self.add_translations_to_examples()
+        self.add_translations_to_collocations()
+        self.add_translations_to_meanings()
+        logger.info("Successfully added all translations")
+        return self
+
 
 prompt_template = """You are a friendly teacher who explains Japanese vocabulary to beginners. Use a clear, concise, spoken style (as if to a friend). Keep every section brief but complete.
 
@@ -125,11 +221,13 @@ kanji : reading : meaning
 A very short English explanation of the antonyms’ nuances and how they differ from the target word. Start with: “The most common antonym[s] of the word [are/is] …”. Write any Japanese vocab **in hiragana only** (no kanji).
 
 ## collocations
-List simple, common collocations for each pattern:
+Collocation refers to a group of two or more words that usually go together.
+List simple, common collocations based on each of the following patterns with the word ({{word}}). 
 1) Noun Phrase (Det/Num + Adj + N; N + Adj; N + N; Poss + N; N + case/PP)
 2) Verb Phrase (S + V + O; V + Adv; V + Obj + PP; Aux + V; serial V if normal)
 3) Adjective Phrase (Adv + Adj; Adj + PP; basic comparatives/superlatives)
 4) Adverbial Phrase (Adv + Adv; Adv + PP; common time/place adverbials)
+For example {kanji:鋭い痛み, furigana:鋭(するど)い痛(いた)み}, {kanji:営業を開始する, furigana:営業(えいぎょう)を開始(かいし)する}, {kanji:週末の営業, furigana:週末(しゅうまつ)の営業(えいぎょう)}.
 
 ## Examples
 Provide 5–7 short, simple sentences using the target word in different contexts aligned with the collocations. 
@@ -148,7 +246,25 @@ ws = [
 ]
 
 
+def get_schema():
+    # Make sure to comment out the translations in JPWordInfo before running this function
+    # also comment out meanings_translations in JPWordInfo and translations in JapaneseText
+
+    openai_schema = {
+        "name": "jp_word_info",
+        "type": "json_schema",
+        "strict": True,
+        "schema": {**JPWordInfo.model_json_schema(), "additionalProperties": False},
+    }
+
+    openai_schema_string = str(openai_schema).replace("'", '"').replace("True", "true").replace("False", "false")
+    return openai_schema
+
+
 def generate_word_requests(words: list[str]):
+    # fmt: off
+    # fmt: on
+    openai_schema = get_schema()
     with open("batch_words.jsonl", "w", encoding="utf-8") as f:
         for word in words:
             print(f"Processing word: {word}")
@@ -186,7 +302,7 @@ def generate_word_requests(words: list[str]):
             )
 
 
-def read_batch_results(filepath: str):
+def read_batch_results(filepath: str, jlpt_level: int):
     outputs = []
     with open(filepath, "r", encoding="utf-8") as f:
         for line in f:
@@ -194,12 +310,26 @@ def read_batch_results(filepath: str):
             word = result["custom_id"]
             with open(f"{word}_batch.json", "w", encoding="utf-8") as wf:
                 data = eval(result["response"]["body"]["output"][1]["content"][0]["text"])
-                json.dump(data, wf, ensure_ascii=False, indent=2)
-                outputs.append((word, JPWordInfo.model_validate(data)))
+                jp_w = JPWordInfo.model_validate(data)
+                jp_w.add_all_translations()
+                outputs.append((word, jp_w))
+                d = {
+                    "version": "0.3.0",
+                    "word": word,
+                    "jlpt_level": jlpt_level,
+                    "youtube_link": "",
+                    "in_db": False,
+                    **jp_w.model_dump(),
+                    "jisho_data": query_jisho(word),
+                    "kanji_list": extract_kanji(word),
+                    "kanji_data": {k: query_kanji(k) for k in extract_kanji(word)},
+                }
+                json.dump(d, wf, ensure_ascii=False, indent=2)
     return outputs
 
 
 if __name__ == "__main__":
+    # get_schema()
     # generate_word_requests(ws)
-    w = read_batch_results(r"C:\Users\eskan\Downloads\batch_68ea98bfa5a4819098e830a42e888598_output.jsonl")
+    w = read_batch_results(r"C:\Users\eskan\Downloads\batch_68ebaf6956e0819090f86166d6593f31_output.jsonl", 3)
     # print(w)
