@@ -4,8 +4,9 @@ import os
 from typing import Annotated, Any, List
 
 from pydantic import BaseModel, ConfigDict, Field
+from pydub import AudioSegment
 
-from src import LANGUAGES_ABBR, get_translator_client
+from src import LANGUAGES_ABBR, get_openai_client, get_translator_client
 from src.logger_module import get_logger
 from src.word.JPWord import extract_kanji, query_jisho, query_kanji
 
@@ -147,14 +148,14 @@ class JPWordInfo(BaseModel):
         presentation_subtitle.text_frame.paragraphs[0].font.size = Pt(100)  # type: ignore
         presentation_subtitle.text_frame.paragraphs[0].font.color.rgb = RGBColor(192, 79, 21)  # type: ignore
 
-        # first_slide.shapes.add_movie(
-        #     f"./output/{word}/audio/0_introduction.wav",
-        #     left=Pt(0),
-        #     top=Pt(-50),
-        #     width=Pt(50),
-        #     height=Pt(50),
-        #     mime_type="audio/x-wav",
-        # )
+        first_slide.shapes.add_movie(
+            f"./output/{word}/audio/0_introduction.wav",
+            left=Pt(0),
+            top=Pt(-50),
+            width=Pt(50),
+            height=Pt(50),
+            mime_type="audio/x-wav",
+        )
 
         # Definitions slide
         definitions_slide = prs.slides.add_slide(prs.slide_layouts[6])
@@ -204,14 +205,14 @@ class JPWordInfo(BaseModel):
                 run_translation.font.name = "Berlin Sans FB"
                 run_translation.font.color.rgb = RGBColor(0, 0, 0)
 
-        # definitions_slide.shapes.add_movie(
-        #     f"./output/{word}/audio/1_definition.wav",
-        #     left=Pt(0),
-        #     top=Pt(-50),
-        #     width=Pt(50),
-        #     height=Pt(50),
-        #     mime_type="audio/x-wav",
-        # )
+        definitions_slide.shapes.add_movie(
+            f"./output/{word}/audio/1_definition.wav",
+            left=Pt(0),
+            top=Pt(-50),
+            width=Pt(50),
+            height=Pt(50),
+            mime_type="audio/x-wav",
+        )
 
         # Add a slide for Kanji breakdown
         kanji_slide = prs.slides.add_slide(prs.slide_layouts[6])
@@ -270,14 +271,14 @@ class JPWordInfo(BaseModel):
             p.space_after = Pt(0)
             p.line_spacing = 0.9
 
-        # kanji_slide.shapes.add_movie(
-        #     f"./output/{word}/audio/2_kanji_explanation.wav",
-        #     left=Pt(0),
-        #     top=Pt(-50),
-        #     width=Pt(50),
-        #     height=Pt(50),
-        #     mime_type="audio/x-wav",
-        # )
+        kanji_slide.shapes.add_movie(
+            f"./output/{word}/audio/2_kanji_explanation.wav",
+            left=Pt(0),
+            top=Pt(-50),
+            width=Pt(50),
+            height=Pt(50),
+            mime_type="audio/x-wav",
+        )
 
         # Add a slide for examples
         for i, example in enumerate(self.example_sentences[:num_examples]):
@@ -361,14 +362,14 @@ class JPWordInfo(BaseModel):
                 run_translation.font.bold = False
                 run_translation.font.name = "Berlin Sans FB"
 
-            # example_slide.shapes.add_movie(
-            #     f"./output/{word}/audio/{3 + i}_example.wav",
-            #     left=Pt(0),
-            #     top=Pt(-50),
-            #     width=Pt(50),
-            #     height=Pt(50),
-            #     mime_type="audio/x-wav",
-            # )
+            example_slide.shapes.add_movie(
+                f"./output/{word}/audio/{3 + i}_example.wav",
+                left=Pt(0),
+                top=Pt(-50),
+                width=Pt(50),
+                height=Pt(50),
+                mime_type="audio/x-wav",
+            )
 
         # Add a slide for synonyms and antonyms
         synonyms_slide = prs.slides.add_slide(prs.slide_layouts[6])
@@ -435,14 +436,14 @@ class JPWordInfo(BaseModel):
             p.line_spacing = 0.9
         antonyms_shape.text_frame.paragraphs[0].alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
 
-        # synonyms_slide.shapes.add_movie(
-        #     f"./output/{word}/audio/100_synonyms_antonyms.wav",
-        #     left=Pt(0),
-        #     top=Pt(-50),
-        #     width=Pt(50),
-        #     height=Pt(50),
-        #     mime_type="audio/x-wav",
-        # )
+        synonyms_slide.shapes.add_movie(
+            f"./output/{word}/audio/100_synonyms_antonyms.wav",
+            left=Pt(0),
+            top=Pt(-50),
+            width=Pt(50),
+            height=Pt(50),
+            mime_type="audio/x-wav",
+        )
 
         prs.save(file_name)
 
@@ -508,6 +509,173 @@ class JPWordInfo(BaseModel):
         self.add_translations_to_meanings()
         logger.info("Successfully added all translations")
         return self
+
+    def tts(self, word: str, num_examples: int | None = 4) -> None:
+        """
+        Generate text-to-speech audio files for the word, including:
+        - Introduction (English and Japanese)
+        - Meaning explanations (English and Japanese)
+        - Kanji explanation
+        - Example sentences
+        - Synonyms and antonyms explanation
+
+        Args:
+            word: The Japanese word (kanji)
+            num_examples: Number of example sentences to generate audio for (default: 4)
+        """
+        os.makedirs(f"./Output/{word}/audio", exist_ok=True)
+
+        # Generate audio for introduction
+        introduction_en_audio_path = f"./output/{word}/audio/introduction_en.mp3"
+        if not os.path.exists(introduction_en_audio_path):
+            logger.info("🔊 Generating audio for english introduction")
+            response = get_openai_client().audio.speech.create(
+                model="gpt-4o-mini-tts",
+                voice="coral",
+                input=self.introduction_english,
+                instructions=f"English mixed with Japanese. calmly and gently. Correct pronunciation: {word} = {self.reading}",
+                response_format="mp3",
+                speed=0.95,
+            )
+            with open(introduction_en_audio_path, "wb") as audio_file:
+                audio_file.write(response.content)
+
+        introduction_jp_audio_path = f"./output/{word}/audio/introduction_jp.mp3"
+        if not os.path.exists(introduction_jp_audio_path):
+            logger.info("🔊 Generating audio for japanese introduction")
+            response = get_openai_client().audio.speech.create(
+                model="gpt-4o-mini-tts",
+                voice="coral",
+                input=self.introduction_japanese,
+                instructions=f"Japanese. calmly and gently. Correct pronunciation: {word} = {self.reading}",
+                response_format="mp3",
+                speed=0.95,
+            )
+            with open(introduction_jp_audio_path, "wb") as audio_file:
+                audio_file.write(response.content)
+
+        introduction_audio = AudioSegment.silent(duration=100)
+        introduction_audio += AudioSegment.from_mp3(introduction_en_audio_path).apply_gain(12)
+        introduction_audio += AudioSegment.silent(duration=500)
+        introduction_audio += AudioSegment.from_mp3(introduction_jp_audio_path).apply_gain(12)
+        with open(f"./output/{word}/audio/0_introduction.wav", "wb") as title_file:
+            introduction_audio.export(title_file, format="wav")
+
+        # Generate audio for meaning explanation
+        definition_en_audio_path = f"./output/{word}/audio/definition_en.mp3"
+        if not os.path.exists(definition_en_audio_path):
+            logger.info("🔊 Generating audio for english definition")
+            response = get_openai_client().audio.speech.create(
+                model="gpt-4o-mini-tts",
+                voice="coral",
+                input=self.meaning_explanation_english,
+                instructions=f"English mixed with Japanese. Calmly and gently. Correct pronunciation: {word}:{self.reading}",
+                response_format="mp3",
+                speed=0.95,
+            )
+            with open(definition_en_audio_path, "wb") as audio_file:
+                audio_file.write(response.content)
+
+        definition_jp_audio_path = f"./output/{word}/audio/definition_jp.mp3"
+        if not os.path.exists(definition_jp_audio_path):
+            logger.info("🔊 Generating audio for japanese definition")
+            response = get_openai_client().audio.speech.create(
+                model="gpt-4o-mini-tts",
+                voice="coral",
+                input=self.meaning_explanation_japanese,
+                instructions=f"Japanese. calmly and gently. Correct pronunciation: {word} = {self.reading}",
+                response_format="mp3",
+                speed=0.95,
+            )
+            with open(definition_jp_audio_path, "wb") as audio_file:
+                audio_file.write(response.content)
+
+        definition_audio = AudioSegment.silent(duration=100)
+        definition_audio += AudioSegment.from_mp3(definition_en_audio_path).apply_gain(12)
+        definition_audio += AudioSegment.silent(duration=500)
+        definition_audio += AudioSegment.from_mp3(definition_jp_audio_path).apply_gain(12)
+        with open(f"./output/{word}/audio/1_definition.wav", "wb") as word_file:
+            definition_audio.export(word_file, format="wav")
+
+        # Generate audio for kanji explanations
+        kanji_explanation_audio_path = f"./output/{word}/audio/kanji_explanation.mp3"
+        if not os.path.exists(kanji_explanation_audio_path):
+            logger.info("🔊 Generating audio for kanji explanation")
+            response = get_openai_client().audio.speech.create(
+                model="gpt-4o-mini-tts",
+                voice="coral",
+                input=self.kanji_explanation,
+                instructions=f"English. calmly and gently. Correct pronunciation: {word} = {self.reading}",
+                response_format="mp3",
+                speed=0.95,
+            )
+            with open(kanji_explanation_audio_path, "wb") as audio_file:
+                audio_file.write(response.content)
+
+        kanji_explanation_audio = AudioSegment.from_mp3(kanji_explanation_audio_path).apply_gain(12)
+        with open(f"./output/{word}/audio/2_kanji_explanation.wav", "wb") as kanji_file:
+            kanji_explanation_audio.export(kanji_file, format="wav")
+
+        # Generate audio for examples
+        for i, example in enumerate(self.example_sentences[:num_examples]):
+            example_jp_audio_path = f"./output/{word}/audio/example_{i + 1}_jp.mp3"
+            if not os.path.exists(example_jp_audio_path):
+                logger.info(f"🔊 Generating audio for example {i + 1}")
+                response = get_openai_client().audio.speech.create(
+                    model="gpt-4o-mini-tts",
+                    voice="coral",
+                    input=example.kanji,
+                    instructions=f"Japanese. calmly and gently. Correct pronunciation: {word} = {self.reading}",
+                    response_format="mp3",
+                    speed=0.95,
+                )
+                with open(example_jp_audio_path, "wb") as audio_file:
+                    audio_file.write(response.content)
+
+            example_en_audio_path = f"./output/{word}/audio/example_{i + 1}_en.mp3"
+            if not os.path.exists(example_en_audio_path):
+                logger.info(f"🔊 Generating audio for example {i + 1} translation")
+                response = get_openai_client().audio.speech.create(
+                    model="gpt-4o-mini-tts",
+                    voice="coral",
+                    input=example.translations.get("EN", ""),
+                    instructions=f"English. calmly and gently. Correct pronunciation: {word} = {self.reading}",
+                    response_format="mp3",
+                    speed=0.95,
+                )
+                with open(example_en_audio_path, "wb") as audio_file:
+                    audio_file.write(response.content)
+
+            example_jp_audio = AudioSegment.from_mp3(example_jp_audio_path).apply_gain(12)
+            example_en_audio = AudioSegment.from_mp3(example_en_audio_path).apply_gain(12)
+
+            example_audio = AudioSegment.silent(duration=100)
+            example_audio += example_en_audio
+            example_audio += AudioSegment.silent(duration=500)
+            example_audio += example_jp_audio
+            example_audio += AudioSegment.silent(duration=500)
+            example_audio += example_jp_audio
+            with open(f"./output/{word}/audio/{3 + i}_example.wav", "wb") as example_file:
+                example_audio.export(example_file, format="wav")
+
+        # Generate audio for synonyms and antonyms explanations
+        synonyms_explanation_audio_path = f"./output/{word}/audio/synonyms_explanation.mp3"
+        if not os.path.exists(synonyms_explanation_audio_path):
+            logger.info("🔊 Generating audio for synonyms explanation")
+            response = get_openai_client().audio.speech.create(
+                model="gpt-4o-mini-tts",
+                voice="coral",
+                input=self.synonym_explanation + " " + self.antonym_explanation,
+                instructions=f"English mixed with Japanese. calmly and gently. Correct pronunciation: {word} = {self.reading}",
+                response_format="mp3",
+                speed=0.95,
+            )
+            with open(synonyms_explanation_audio_path, "wb") as audio_file:
+                audio_file.write(response.content)
+
+        synonyms_explanation_audio = AudioSegment.from_mp3(synonyms_explanation_audio_path).apply_gain(12)
+        with open(f"./output/{word}/audio/100_synonyms_antonyms.wav", "wb") as syn_ant_file:
+            synonyms_explanation_audio.export(syn_ant_file, format="wav")
 
 
 prompt_template = """You are a friendly teacher who explains Japanese vocabulary to beginners. Use a clear, concise, spoken style (as if to a friend). Keep every section brief but complete.
@@ -673,6 +841,7 @@ def read_batch_results(filepath: str, jlpt_level: int):
                     "kanji_data": {k: query_kanji(k) for k in extract_kanji(word)},
                 }
                 json.dump(d, wf, ensure_ascii=False, indent=2)
+            jp_w.tts(word, num_examples=4)
             jp_w.pptx_generation(word, jlpt_level)
     return outputs
 
