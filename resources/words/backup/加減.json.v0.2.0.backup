@@ -1,0 +1,516 @@
+{
+  "version": "0.2.0",
+  "word": "加減",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/kCXUPSVOBmI",
+  "in_db": true,
+  "ai_explanation": {
+    "kanji": "加減",
+    "reading": "かげん",
+    "introduction_japanese": "「加減」は、料理やしおの量、火や照明の強さ、おふろの湯のようす、体調や気分、仕事や運動のペースなどの話でよく使う名詞です。会話では、少し〜っぽい様子をあらわすときに、言葉の後ろにつけて使うことも多いです。",
+    "introduction_english": "The noun かげん is commonly used when talking about cooking and seasoning, the strength of heat or light, bath water, health and mood, and the pace of work or exercise. In conversation, it also appears as a suffix to show a slight or -ish feeling.",
+    "meanings": [
+      [
+        "degree",
+        "extent",
+        "amount",
+        "balance",
+        "state",
+        "condition"
+      ],
+      [
+        "(health) condition",
+        "state of health"
+      ],
+      [
+        "adjustment",
+        "moderation",
+        "regulation"
+      ],
+      [
+        "addition and subtraction"
+      ],
+      [
+        "slight sign of ...",
+        "slight state of ...",
+        "just right for ... (as a suffix)"
+      ]
+    ],
+    "meaning_explanation_japanese": "「加減」は、ものごとの強さや量、ようすを表す言葉です。しおの量や火の強さをちょうどよくすること、体のようすを言うときにも使います。算数では、たし算とひき算の意味もあります。言葉の後ろにつけて「〜ぎみ・〜っぽい」ようすを表すこともできます。",
+    "meaning_explanation_english": "The word かげん talks about how strong, how much, or what the condition is. It also means adjusting something to make it just right, and it can refer to someone’s health. In math, it literally means addition and subtraction. As a suffix, it can mean “slightly …” or “...-ish.”",
+    "kanji_explanation_english": "The first kanji means to add or increase. You can hear it in words like さんか, where people join in, and ついか, where something is added. Both ideas come from the sense of putting more in. So it carries the feeling of including or increasing. The second kanji means to decrease or reduce. It appears in words like げんしょう, where numbers go down, and げんりょう, where you reduce weight or quantity. The core idea is making something less. So it brings the sense of cutting down or lowering.",
+    "kanji_details": [
+      {
+        "kanji": "加",
+        "common_words": [
+          "参加 (さんか): participation; joining",
+          "追加 (ついか): addition; add-on"
+        ]
+      },
+      {
+        "kanji": "減",
+        "common_words": [
+          "減少 (げんしょう): decrease; decline",
+          "減量 (げんりょう): weight loss; reduction in amount"
+        ]
+      }
+    ],
+    "synonyms": [
+      "具合 : ぐあい : condition; state; feeling",
+      "調整 : ちょうせい : adjustment; tuning"
+    ],
+    "synonyms_explanation": "The most common synonyms of the かげん are ぐあい and ちょうせい. ぐあい focuses on how something feels or the condition at the moment. ちょうせい is the act of adjusting settings or levels to make them fit.",
+    "antonyms": [
+      "極端 : きょくたん : extreme; not moderate or balanced"
+    ],
+    "antonyms_explanation": "The most common antonym of the かげん is きょくたん. It means going to an extreme, without balance or moderation, which is the opposite idea of setting things to a suitable level.",
+    "examples": [
+      {
+        "kanji": "塩の加減はどうですか。",
+        "furigana": "塩(しお)の加減(かげん)はどうですか。",
+        "translations": {
+          "EN": "How about the amount of salt?",
+          "ID": "Bagaimana dengan jumlah garamnya?",
+          "ES": "¿Qué tal la cantidad de sal?",
+          "VI": "Còn lượng muối thì sao?",
+          "FR": "Qu'en est-il de la quantité de sel ?",
+          "NE": "नुनको मात्रा कस्तो छ?",
+          "BN": "লবণের পরিমাণ কেমন?",
+          "ZH": "盐的量怎么样？",
+          "KO": "소금의 가감은 어떻습니까?",
+          "TL": "Paano ang dami ng asin?",
+          "MY": "ဆားပမာဏကရော ဘယ်လိုလဲ။",
+          "HI": "नमक की मात्रा के बारे में क्या ख्याल है?",
+          "AR": "ماذا عن كمية الملح؟",
+          "FA": "میزان نمک چطور؟"
+        }
+      },
+      {
+        "kanji": "火の加減を少し弱くしてください。",
+        "furigana": "火(ひ)の加減(かげん)を少(すこ)し弱(よわ)くしてください。",
+        "translations": {
+          "EN": "Please reduce the heat a little.",
+          "ID": "Tolong kecilkan apinya sedikit.",
+          "ES": "Por favor, reduce un poco el fuego.",
+          "VI": "Hãy giảm nhiệt độ xuống một chút.",
+          "FR": "Veuillez réduire un peu le feu.",
+          "NE": "कृपया गर्मी अलिकति कम गर्नुहोस्।",
+          "BN": "দয়া করে তাপটা একটু কমিয়ে দিন।",
+          "ZH": "请把火调小一点。",
+          "KO": "불의 가감을 조금 약하게 해주세요.",
+          "TL": "Mangyaring bawasan ang init ng kaunti.",
+          "MY": "အပူကို နည်းနည်းလျှော့ပါ။",
+          "HI": "कृपया आंच थोड़ी कम कर दीजिए।",
+          "AR": "يرجى تخفيف الحرارة قليلا.",
+          "FA": "لطفا کمی حرارت را کم کنید."
+        }
+      },
+      {
+        "kanji": "照明の加減を調整します。",
+        "furigana": "照明(しょうめい)の加減(かげん)を調整(ちょうせい)します。",
+        "translations": {
+          "EN": "Adjust the lighting.",
+          "ID": "Sesuaikan pencahayaan.",
+          "ES": "Ajustar la iluminación.",
+          "VI": "Điều chỉnh ánh sáng.",
+          "FR": "Ajuster l'éclairage.",
+          "NE": "प्रकाश समायोजन गर्नुहोस्।",
+          "BN": "আলো ঠিক করো।",
+          "ZH": "调整灯光。",
+          "KO": "조명의 가감을 조정합니다.",
+          "TL": "Ayusin ang pag-iilaw.",
+          "MY": "အလင်းရောင်ကို ချိန်ညှိပါ။",
+          "HI": "प्रकाश व्यवस्था समायोजित करें.",
+          "AR": "ضبط الإضاءة.",
+          "FA": "نورپردازی را تنظیم کنید."
+        }
+      },
+      {
+        "kanji": "今日は体の加減がよくないです。",
+        "furigana": "今日(きょう)は体(からだ)の加減(かげん)が良(よ)くないです。",
+        "translations": {
+          "EN": "I'm not feeling well today.",
+          "ID": "Saya sedang tidak enak badan hari ini.",
+          "ES": "No me siento bien hoy.",
+          "VI": "Hôm nay tôi cảm thấy không khỏe.",
+          "FR": "Je ne me sens pas bien aujourd'hui.",
+          "NE": "आज मलाई सन्चो छैन।",
+          "BN": "আজ আমার শরীরটা ভালো লাগছে না।",
+          "ZH": "我今天感觉不太舒服。",
+          "KO": "오늘은 몸의 가감이 좋지 않습니다.",
+          "TL": "Hindi maganda ang pakiramdam ko ngayon.",
+          "MY": "ငါ ဒီနေ့ နေမကောင်းဘူး။",
+          "HI": "आज मैं अच्छा महसूस नहीं कर रहा हूं.",
+          "AR": "أنا لا أشعر بأنني على ما يرام اليوم.",
+          "FA": "امروز حالم خوب نیست."
+        }
+      },
+      {
+        "kanji": "焼き加減をミディアムでお願いします。",
+        "furigana": "焼(や)き加減(かげん)をミディアムでお願い(ねが)します。",
+        "translations": {
+          "EN": "I'd like it cooked medium, please.",
+          "ID": "Saya ingin memasaknya setengah matang, ya.",
+          "ES": "Lo quiero cocinado a término medio, por favor.",
+          "VI": "Tôi muốn nấu chín vừa.",
+          "FR": "Je le voudrais cuit à point, s'il vous plaît.",
+          "NE": "कृपया मलाई यो मध्यम मात्रामा पकाएको चाहियो।",
+          "BN": "আমি এটা মাঝারি রান্না করে খেতে চাই, প্লিজ।",
+          "ZH": "我想要五分熟的。",
+          "KO": "구워 가감을 미디엄으로 부탁합니다.",
+          "TL": "Gusto ko itong luto ng medium, please.",
+          "MY": "ကျေးဇူးပြုပြီး လတ်လတ်ဆတ်ဆတ် ပြုတ်ချင်ပါတယ်",
+          "HI": "मैं इसे मध्यम स्तर पर पकाना चाहता हूं, कृपया।",
+          "AR": "أريده مطبوخًا بشكل متوسط، من فضلك.",
+          "FA": "لطفا، من می‌خواهم که به صورت متوسط پخته شود."
+        }
+      },
+      {
+        "kanji": "湯の加減を見てください。",
+        "furigana": "湯(ゆ)の加減(かげん)を見(み)てください。",
+        "translations": {
+          "EN": "Check the temperature of the water.",
+          "ID": "Periksa suhu air.",
+          "ES": "Compruebe la temperatura del agua.",
+          "VI": "Kiểm tra nhiệt độ của nước.",
+          "FR": "Vérifiez la température de l'eau.",
+          "NE": "पानीको तापक्रम जाँच गर्नुहोस्।",
+          "BN": "পানির তাপমাত্রা পরীক্ষা করুন।",
+          "ZH": "检查水温。",
+          "KO": "탕의 가감을 봐 주세요.",
+          "TL": "Suriin ang temperatura ng tubig.",
+          "MY": "ရေ၏အပူချိန်ကိုစစ်ဆေးပါ။",
+          "HI": "पानी का तापमान जांचें.",
+          "AR": "التحقق من درجة حرارة الماء.",
+          "FA": "دمای آب را بررسی کنید."
+        }
+      },
+      {
+        "kanji": "痛みの加減を先生に伝えます。",
+        "furigana": "痛(いた)みの加減(かげん)を先生(せんせい)に伝(つた)えます。",
+        "translations": {
+          "EN": "Tell your doctor how much pain you are experiencing.",
+          "ID": "Beritahukan dokter Anda seberapa parah rasa sakit yang Anda alami.",
+          "ES": "Dígale a su médico cuánto dolor está experimentando.",
+          "VI": "Hãy cho bác sĩ biết mức độ đau mà bạn đang gặp phải.",
+          "FR": "Informez votre médecin de l’intensité de la douleur que vous ressentez.",
+          "NE": "तपाईंले कति पीडा भोगिरहनुभएको छ, आफ्नो डाक्टरलाई बताउनुहोस्।",
+          "BN": "আপনার ডাক্তারকে বলুন আপনি কতটা ব্যথা অনুভব করছেন।",
+          "ZH": "告诉医生您感到的疼痛程度。",
+          "KO": "통증의 가감을 선생님에게 전합니다.",
+          "TL": "Sabihin sa iyong doktor kung gaano kasakit ang iyong nararanasan.",
+          "MY": "ဝေဒနာမည်မျှ ခံစားနေရသည်ကို သင့်ဆရာဝန်အား ပြောပြပါ။",
+          "HI": "अपने डॉक्टर को बताएं कि आपको कितना दर्द हो रहा है।",
+          "AR": "أخبر طبيبك عن مدى الألم الذي تشعر به.",
+          "FA": "به پزشک خود بگویید که چقدر درد دارید."
+        }
+      }
+    ],
+    "meaning_translations": {
+      "degree": {
+        "ID": "derajat",
+        "ES": "grado",
+        "VI": "bằng cấp",
+        "FR": "degré",
+        "NE": "डिग्री",
+        "BN": "ডিগ্রি",
+        "ZH": "程度",
+        "KO": "도",
+        "TL": "degree",
+        "MY": "ဘွဲ့",
+        "HI": "डिग्री",
+        "AR": "درجة",
+        "FA": "مدرک",
+        "EN": [
+          "extent",
+          "amount",
+          "balance",
+          "state",
+          "condition"
+        ]
+      },
+      "(health) condition": {
+        "ID": "kondisi (kesehatan)",
+        "ES": "condición (de salud)",
+        "VI": "tình trạng (sức khỏe)",
+        "FR": "état (de santé)",
+        "NE": "(स्वास्थ्य) अवस्था",
+        "BN": "(স্বাস্থ্য) অবস্থা",
+        "ZH": "（健康）状况",
+        "KO": "(건강) 상태",
+        "TL": "(kalusugan) kondisyon",
+        "MY": "(ကျန်းမာရေး) အခြေအနေ",
+        "HI": "(स्वास्थ्य दशा",
+        "AR": "الحالة (الصحية)",
+        "FA": "وضعیت (سلامتی)",
+        "EN": [
+          "state of health"
+        ]
+      },
+      "adjustment": {
+        "ID": "pengaturan",
+        "ES": "ajuste",
+        "VI": "điều chỉnh",
+        "FR": "ajustement",
+        "NE": "समायोजन",
+        "BN": "সমন্বয়",
+        "ZH": "调整",
+        "KO": "조정",
+        "TL": "pagsasaayos",
+        "MY": "ညှိနှိုင်းမှု",
+        "HI": "समायोजन",
+        "AR": "تعديل",
+        "FA": "تنظیم",
+        "EN": [
+          "moderation",
+          "regulation"
+        ]
+      },
+      "addition and subtraction": {
+        "ID": "penjumlahan dan pengurangan",
+        "ES": "suma y resta",
+        "VI": "phép cộng và phép trừ",
+        "FR": "addition et soustraction",
+        "NE": "जोड र घटाउ",
+        "BN": "যোগ এবং বিয়োগ",
+        "ZH": "加法和减法",
+        "KO": "덧셈과 뺄셈",
+        "TL": "pagdaragdag at pagbabawas",
+        "MY": "ပေါင်း၍ အနုတ်၊",
+        "HI": "जोड़ना और घटाना",
+        "AR": "الجمع والطرح",
+        "FA": "جمع و تفریق",
+        "EN": []
+      },
+      "slight sign of ...": {
+        "ID": "tanda sedikit ...",
+        "ES": "ligera señal de...",
+        "VI": "dấu hiệu nhẹ của ...",
+        "FR": "léger signe de ...",
+        "NE": "हल्का संकेत...",
+        "BN": "সামান্য লক্ষণ...",
+        "ZH": "有轻微的...迹象",
+        "KO": "...의 약간의 징후",
+        "TL": "konting senyales ng...",
+        "MY": "လက္ခဏာ အနည်းငယ်...",
+        "HI": "हल्का सा संकेत...",
+        "AR": "علامة طفيفة على ...",
+        "FA": "نشانه کوچکی از ...",
+        "EN": [
+          "slight state of ...",
+          "just right for ... (as a suffix)"
+        ]
+      }
+    }
+  },
+  "jisho_data": {
+    "slug": "加減",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "加減",
+        "reading": "かげん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "degree",
+          "extent",
+          "amount",
+          "balance",
+          "state",
+          "condition"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Noun, used as a suffix"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "(health) condition",
+          "state of health"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "adjustment",
+          "moderation",
+          "regulation"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Suru verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "addition and subtraction"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Suru verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "slight sign of ...",
+          "slight state of ..."
+        ],
+        "parts_of_speech": [
+          "Noun, used as a suffix"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "just right for ..."
+        ],
+        "parts_of_speech": [
+          "Noun, used as a suffix"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "加",
+    "減"
+  ],
+  "kanji_data": {
+    "加": {
+      "freq_mainichi_shinbun": 130,
+      "grade": 4,
+      "heisig_en": "add",
+      "jlpt": 3,
+      "kanji": "加",
+      "kun_readings": [
+        "くわ.える",
+        "くわ.わる"
+      ],
+      "meanings": [
+        "Canada",
+        "add",
+        "addition",
+        "include",
+        "increase",
+        "join"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "カ"
+      ],
+      "stroke_count": 5,
+      "unicode": "52A0"
+    },
+    "減": {
+      "freq_mainichi_shinbun": 261,
+      "grade": 5,
+      "heisig_en": "dwindle",
+      "jlpt": 2,
+      "kanji": "減",
+      "kun_readings": [
+        "へ.らす",
+        "へ.る"
+      ],
+      "meanings": [
+        "curtail",
+        "decline",
+        "decrease",
+        "dwindle",
+        "get hungry",
+        "reduce"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "ゲン"
+      ],
+      "stroke_count": 12,
+      "unicode": "6E1B"
+    }
+  },
+  "collocations": [
+    "加減をする",
+    "加減を調整する",
+    "加減を見る",
+    "加減を考える",
+    "加減をつける",
+    "塩の加減",
+    "火の加減",
+    "照明の加減",
+    "湯の加減",
+    "焼き加減",
+    "具合の加減",
+    "体の加減",
+    "痛みの加減",
+    "気分の加減",
+    "調子の加減",
+    "焼き加減",
+    "焼け加減",
+    "書き加減",
+    "歩き加減",
+    "うつむき加減",
+    "いい加減",
+    "適切な加減",
+    "程よい加減",
+    "非常に加減",
+    "やや加減"
+  ]
+}

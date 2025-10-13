@@ -1,232 +1,247 @@
 {
-    "version": "0.2.0",
-    "word": "一言",
-    "jlpt_level": 1,
-    "youtube_link": "https://youtu.be/2bGSEbngo20",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "一言",
-        "reading": "ひとこと",
-        "introduction_japanese": "",
-        "introduction_english": "Let's delve into the commonly heard Japanese word \"ひとこと,\" often found in speeches, casual comments among friends, and brief feedback in various situations.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word 一言, \"ひとこと,\" refers to a single word or a short remark. It's used to mention that someone said just one thing or when giving brief feedback or comments. You might use this to describe a brief message, a single piece of advice, or a short comment someone made about a topic.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "single word",
-                "a few words",
-                "brief comment"
-            ]
-        ],
-        "meaning_translations": {
-            "single word": {
-                "EN": "single word",
-                "ID": "kata tunggal",
-                "ES": "una sola palabra",
-                "VI": "một từ",
-                "FR": "un mot",
-                "NE": "एक शब्द",
-                "BN": "একটি শব্দ",
-                "ZH": "一个字",
-                "KO": "한 단어",
-                "TL": "salitang isa",
-                "MY": "တစ်ခွန်း",
-                "HI": "एक शब्द",
-                "AR": "كلمة واحدة",
-                "FA": "یک کلمه"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼女に一言言いました。",
-                "furigana": "彼女(かのじょ)に一言(ひとこと)言(い)いました。",
-                "translations": {
-                    "EN": "I said a word to her.",
-                    "ID": "Saya berkata satu kata padanya.",
-                    "ES": "Le dije una palabra a ella.",
-                    "VI": "Tôi đã nói một từ với cô ấy.",
-                    "FR": "J'ai dit un mot à elle.",
-                    "NE": "म उनलाई एक शब्द भनें।",
-                    "BN": "আমি তাকে একটি শব্দ বললাম।",
-                    "ZH": "我对她说了一句话。",
-                    "KO": "그녀에게 한 마디 했어요.",
-                    "TL": "Sinabi ko ang isang salita sa kanya.",
-                    "MY": "သူမကို စကားလုံးတစ်လုံးပြောတယ်။",
-                    "HI": "मैंने उससे एक शब्द कहा।",
-                    "AR": "قلت لها كلمة واحدة.",
-                    "FA": "به او یک کلمه گفتم."
-                }
-            },
-            {
-                "kanji": "一言お願いします。",
-                "furigana": "一言(ひとこと)お願いします(おねがいします)。",
-                "translations": {
-                    "EN": "A word, please.",
-                    "ID": "Tolong satu kata.",
-                    "ES": "Una palabra, por favor.",
-                    "VI": "Xin một lời.",
-                    "FR": "Un mot, s'il vous plaît.",
-                    "NE": "एउटा शब्द, कृपया।",
-                    "BN": "একটা কথা বলুন, অনুগ্রহ করে।",
-                    "ZH": "请说一句。",
-                    "KO": "한마디 부탁합니다.",
-                    "TL": "Isang salita, pakiusap.",
-                    "MY": "ရွေးစကားလေး တစ်ခွန်းပေးပါ။",
-                    "HI": "कृपया एक शब्द।",
-                    "AR": "كلمة واحدة، من فضلك.",
-                    "FA": "لطفاً یک کلمه بگویید."
-                }
-            },
-            {
-                "kanji": "彼は一言挨拶をした。",
-                "furigana": "彼(かれ)は一言(ひとこと)挨拶(あいさつ)をした。",
-                "translations": {
-                    "EN": "He gave a quick greeting.",
-                    "ID": "Dia memberikan salam singkat.",
-                    "ES": "Él dio un saludo rápido.",
-                    "VI": "Anh ấy chào hỏi một lời.",
-                    "FR": "Il a fait une brève salutation.",
-                    "NE": "उनीले एक शब्दको अभिवादन गरे।",
-                    "BN": "তিনিই একটি ছোট্ট অভ্যর্থনা দিলেন।",
-                    "ZH": "他打了一个简单的招呼。",
-                    "KO": "그는 한마디 인사를 했다.",
-                    "TL": "Nagbigay siya ng isang maikling pagbati.",
-                    "MY": "သူသည် တခေါက်သာ ရွေးချယ်၍ ဆေးမှိတ္တုပြုလုပ်ခဲ့သည်။",
-                    "HI": "उसने एक छोटा सा अभिवादन किया।",
-                    "AR": "لقد ألقى تحية سريعة.",
-                    "FA": "او یک سلام کوتاه کرد."
-                }
-            },
-            {
-                "kanji": "一言感想をお願いします。",
-                "furigana": "一言(ひとこと)感想(かんそう)をお願いします(おねがいします)。",
-                "translations": {
-                    "EN": "Please give a brief impression.",
-                    "ID": "Mohon berikan kesan singkat.",
-                    "ES": "Por favor, da una breve impresión.",
-                    "VI": "Vui lòng cho một ấn tượng ngắn.",
-                    "FR": "Veuillez donner une impression en un mot.",
-                    "NE": "कृपया एक संक्षिप्त धारण गर्नुहोस्.",
-                    "BN": "অনুগ্রহ করে এক বাক্যে অনুভূতি প্রকাশ করুন।",
-                    "ZH": "请给个简单的一句话感受。",
-                    "KO": "한 마디 감상을 부탁드립니다.",
-                    "TL": "Mangyaring magbigay ng maikling impression.",
-                    "MY": "ကျေးဇူးပြု၍ ရှုပ်ရှဲ့မှုတစ်ခု ပေးပါ။",
-                    "HI": "कृपया एक संक्षिप्त विचार दें।",
-                    "AR": "يرجى إعطاء انطباع واحد باختصار.",
-                    "FA": "لطفاً یک نظر مختصر بدهید."
-                }
-            }
-        ],
-        "synonyms": [
-            "言葉 : ことば : language"
-        ],
-        "synonyms_explanation": "The most common synonym of the word 一言 \\",
-        "antonyms": [
-            "詳細 : しょうさい : details",
-            "長文 : ちょうぶん : long sentence"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word 一言 are \"詳細\" and \"長文.\" \"詳細,\" pronounced \"しょうさい,\" refers to detailed explanations or an in-depth discussion, contrasting with a brief remark. \"長文,\" pronounced \"ちょうぶん,\" means a long sentence or passage, differing from the single word or short remark implied by \"ひとこと.\"",
-        "kanji_details": [
-            {
-                "kanji": "一",
-                "common_words": [
-                    "一つ: one",
-                    "一人: one person"
-                ]
-            },
-            {
-                "kanji": "言",
-                "common_words": [
-                    "言葉: language",
-                    "発言: statement"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "一言",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3",
-            "jlpt-n1"
-        ],
-        "japanese": [
-            {
-                "word": "一言",
-                "reading": "ひとこと"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "single word",
-                    "a few words",
-                    "brief comment"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "一",
-        "言"
-    ],
-    "kanji_data": {
-        "一": {
-            "meanings": [
-                "one",
-                "one radical (no.1)"
-            ],
-            "on_readings": [
-                "イチ",
-                "イツ"
-            ],
-            "kun_readings": [
-                "ひと-",
-                "ひと.つ"
-            ],
-            "stroke_count": 1,
-            "jlpt": 5,
-            "freq_mainichi_shinbun": 2,
-            "unicode": "4E00",
-            "grade": 1
-        },
-        "言": {
-            "meanings": [
-                "say",
-                "word"
-            ],
-            "on_readings": [
-                "ゲン",
-                "ゴン"
-            ],
-            "kun_readings": [
-                "い.う",
-                "こと"
-            ],
-            "stroke_count": 7,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 83,
-            "unicode": "8A00",
-            "grade": 2
-        }
-    },
-    "collocations": [
-        "ひとこと 言う",
-        "ひとこと お願いします",
-        "ひとこと 挨拶",
-        "ひとこと 感想"
+  "version": "0.3.0",
+  "word": "一言",
+  "jlpt_level": 1,
+  "youtube_link": "https://youtu.be/2bGSEbngo20",
+  "in_db": true,
+  "kanji": "一言",
+  "reading": "ひとこと",
+  "introduction_japanese": "",
+  "introduction_english": "Let's delve into the commonly heard Japanese word \"ひとこと,\" often found in speeches, casual comments among friends, and brief feedback in various situations.",
+  "meanings": [
+    [
+      "single word",
+      "a few words",
+      "brief comment"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word 一言, \"ひとこと,\" refers to a single word or a short remark. It's used to mention that someone said just one thing or when giving brief feedback or comments. You might use this to describe a brief message, a single piece of advice, or a short comment someone made about a topic.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "一",
+      "common_words": [
+        "一つ: one",
+        "一人: one person"
+      ]
+    },
+    {
+      "kanji": "言",
+      "common_words": [
+        "言葉: language",
+        "発言: statement"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "言葉 : ことば : language"
+  ],
+  "synonym_explanation": "The most common synonym of the word 一言 \\",
+  "antonyms": [
+    "詳細 : しょうさい : details",
+    "長文 : ちょうぶん : long sentence"
+  ],
+  "antonym_explanation": "The most common antonyms of the word 一言 are \"詳細\" and \"長文.\" \"詳細,\" pronounced \"しょうさい,\" refers to detailed explanations or an in-depth discussion, contrasting with a brief remark. \"長文,\" pronounced \"ちょうぶん,\" means a long sentence or passage, differing from the single word or short remark implied by \"ひとこと.\"",
+  "collocations": [
+    {
+      "kanji": "ひとこと 言う",
+      "furigana": "ひとこと 言う",
+      "translations": {}
+    },
+    {
+      "kanji": "ひとこと お願いします",
+      "furigana": "ひとこと お願いします",
+      "translations": {}
+    },
+    {
+      "kanji": "ひとこと 挨拶",
+      "furigana": "ひとこと 挨拶",
+      "translations": {}
+    },
+    {
+      "kanji": "ひとこと 感想",
+      "furigana": "ひとこと 感想",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼女に一言言いました。",
+      "furigana": "彼女(かのじょ)に一言(ひとこと)言(い)いました。",
+      "translations": {
+        "EN": "I said a word to her.",
+        "ID": "Saya berkata satu kata padanya.",
+        "ES": "Le dije una palabra a ella.",
+        "VI": "Tôi đã nói một từ với cô ấy.",
+        "FR": "J'ai dit un mot à elle.",
+        "NE": "म उनलाई एक शब्द भनें।",
+        "BN": "আমি তাকে একটি শব্দ বললাম।",
+        "ZH": "我对她说了一句话。",
+        "KO": "그녀에게 한 마디 했어요.",
+        "TL": "Sinabi ko ang isang salita sa kanya.",
+        "MY": "သူမကို စကားလုံးတစ်လုံးပြောတယ်။",
+        "HI": "मैंने उससे एक शब्द कहा।",
+        "AR": "قلت لها كلمة واحدة.",
+        "FA": "به او یک کلمه گفتم."
+      }
+    },
+    {
+      "kanji": "一言お願いします。",
+      "furigana": "一言(ひとこと)お願いします(おねがいします)。",
+      "translations": {
+        "EN": "A word, please.",
+        "ID": "Tolong satu kata.",
+        "ES": "Una palabra, por favor.",
+        "VI": "Xin một lời.",
+        "FR": "Un mot, s'il vous plaît.",
+        "NE": "एउटा शब्द, कृपया।",
+        "BN": "একটা কথা বলুন, অনুগ্রহ করে।",
+        "ZH": "请说一句。",
+        "KO": "한마디 부탁합니다.",
+        "TL": "Isang salita, pakiusap.",
+        "MY": "ရွေးစကားလေး တစ်ခွန်းပေးပါ။",
+        "HI": "कृपया एक शब्द।",
+        "AR": "كلمة واحدة، من فضلك.",
+        "FA": "لطفاً یک کلمه بگویید."
+      }
+    },
+    {
+      "kanji": "彼は一言挨拶をした。",
+      "furigana": "彼(かれ)は一言(ひとこと)挨拶(あいさつ)をした。",
+      "translations": {
+        "EN": "He gave a quick greeting.",
+        "ID": "Dia memberikan salam singkat.",
+        "ES": "Él dio un saludo rápido.",
+        "VI": "Anh ấy chào hỏi một lời.",
+        "FR": "Il a fait une brève salutation.",
+        "NE": "उनीले एक शब्दको अभिवादन गरे।",
+        "BN": "তিনিই একটি ছোট্ট অভ্যর্থনা দিলেন।",
+        "ZH": "他打了一个简单的招呼。",
+        "KO": "그는 한마디 인사를 했다.",
+        "TL": "Nagbigay siya ng isang maikling pagbati.",
+        "MY": "သူသည် တခေါက်သာ ရွေးချယ်၍ ဆေးမှိတ္တုပြုလုပ်ခဲ့သည်။",
+        "HI": "उसने एक छोटा सा अभिवादन किया।",
+        "AR": "لقد ألقى تحية سريعة.",
+        "FA": "او یک سلام کوتاه کرد."
+      }
+    },
+    {
+      "kanji": "一言感想をお願いします。",
+      "furigana": "一言(ひとこと)感想(かんそう)をお願いします(おねがいします)。",
+      "translations": {
+        "EN": "Please give a brief impression.",
+        "ID": "Mohon berikan kesan singkat.",
+        "ES": "Por favor, da una breve impresión.",
+        "VI": "Vui lòng cho một ấn tượng ngắn.",
+        "FR": "Veuillez donner une impression en un mot.",
+        "NE": "कृपया एक संक्षिप्त धारण गर्नुहोस्.",
+        "BN": "অনুগ্রহ করে এক বাক্যে অনুভূতি প্রকাশ করুন।",
+        "ZH": "请给个简单的一句话感受。",
+        "KO": "한 마디 감상을 부탁드립니다.",
+        "TL": "Mangyaring magbigay ng maikling impression.",
+        "MY": "ကျေးဇူးပြု၍ ရှုပ်ရှဲ့မှုတစ်ခု ပေးပါ။",
+        "HI": "कृपया एक संक्षिप्त विचार दें।",
+        "AR": "يرجى إعطاء انطباع واحد باختصار.",
+        "FA": "لطفاً یک نظر مختصر بدهید."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "single word": {
+      "EN": "single word",
+      "ID": "kata tunggal",
+      "ES": "una sola palabra",
+      "VI": "một từ",
+      "FR": "un mot",
+      "NE": "एक शब्द",
+      "BN": "একটি শব্দ",
+      "ZH": "一个字",
+      "KO": "한 단어",
+      "TL": "salitang isa",
+      "MY": "တစ်ခွန်း",
+      "HI": "एक शब्द",
+      "AR": "كلمة واحدة",
+      "FA": "یک کلمه"
+    }
+  },
+  "jisho_data": {
+    "slug": "一言",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3",
+      "jlpt-n1"
+    ],
+    "japanese": [
+      {
+        "word": "一言",
+        "reading": "ひとこと"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "single word",
+          "a few words",
+          "brief comment"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "一",
+    "言"
+  ],
+  "kanji_data": {
+    "一": {
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "on_readings": [
+        "イチ",
+        "イツ"
+      ],
+      "kun_readings": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "stroke_count": 1,
+      "jlpt": 5,
+      "freq_mainichi_shinbun": 2,
+      "unicode": "4E00",
+      "grade": 1
+    },
+    "言": {
+      "meanings": [
+        "say",
+        "word"
+      ],
+      "on_readings": [
+        "ゲン",
+        "ゴン"
+      ],
+      "kun_readings": [
+        "い.う",
+        "こと"
+      ],
+      "stroke_count": 7,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 83,
+      "unicode": "8A00",
+      "grade": 2
+    }
+  }
 }

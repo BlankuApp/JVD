@@ -1,246 +1,261 @@
 {
-    "version": "0.2.0",
-    "word": "器具",
-    "jlpt_level": 2,
-    "youtube_link": "https://youtu.be/cHGB9-xkdqM",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "器具",
-        "reading": "きぐ",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is きぐ, which you will often hear in situations involving preparing food, conducting experiments, or doing crafts.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"きぐ\" means \"tools\" or \"equipment\" in English. It typically refers to small to medium-sized instruments or devices that assist in accomplishing a task, especially in settings like kitchen, workshops, or laboratories.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "utensil",
-                "implement",
-                "tool",
-                "instrument",
-                "appliance",
-                "apparatus"
-            ]
-        ],
-        "meaning_translations": {
-            "utensil": {
-                "EN": "utensil",
-                "ID": "peralatan",
-                "ES": "utensilio",
-                "VI": "đồ dùng",
-                "FR": "ustensile",
-                "NE": "भाँडाकुँडा",
-                "BN": "যন্ত্রপাতি",
-                "ZH": "器具",
-                "KO": "도구",
-                "TL": "kasangkapang pantahanan",
-                "MY": "အသုံးအဆောင်ပစ္စည်း",
-                "HI": "उपकरण",
-                "AR": "أداة",
-                "FA": "ابزار یا وسیله"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "これは便利な計量器具です。",
-                "furigana": "これは便利(べんり)な計量器具(きんりょうきぐ)です。",
-                "translations": {
-                    "EN": "This is a convenient measuring tool.",
-                    "ID": "Ini adalah alat pengukur yang praktis.",
-                    "ES": "Esta es una herramienta de medición conveniente.",
-                    "VI": "Đây là một công cụ đo lường tiện lợi.",
-                    "FR": "C'est un outil de mesure pratique.",
-                    "NE": "यो एक सुविधाजनक मापन उपकरण हो।",
-                    "BN": "এটি একটি সুবিধা জনক মাপার যন্ত্র।",
-                    "ZH": "这是一种方便的测量工具。",
-                    "KO": "이것은 편리한 측정 도구입니다.",
-                    "TL": "Ito ay isang mahusay na kasangkapan sa pagsukat.",
-                    "MY": "ဒါဟာ အသုံးဝင်တဲ့ တိုင်းတာရေး ကိရိယာပါ။",
-                    "HI": "यह एक सुविधाजनक माप उपकरण है।",
-                    "AR": "هذه أداة قياس مريحة.",
-                    "FA": "این یک ابزار اندازه‌گیری مناسب است."
-                }
-            },
-            {
-                "kanji": "彼は新しい健康器具を買いました。",
-                "furigana": "彼(かれ)は新(あたら)しい健康器具(けんこうきぐ)を買(か)いました。",
-                "translations": {
-                    "EN": "He bought a new health device.",
-                    "ID": "Dia membeli perangkat kesehatan baru.",
-                    "ES": "Compró un nuevo dispositivo de salud.",
-                    "VI": "Anh ấy đã mua một thiết bị chăm sóc sức khỏe mới.",
-                    "FR": "Il a acheté un nouvel appareil de santé.",
-                    "NE": "उहाँले नयाँ स्वास्थ्य उपकरण किन्नुभयो।",
-                    "BN": "তিনি একটি নতুন স্বাস্থ্যযন্ত্র কিনেছেন।",
-                    "ZH": "他买了新的健康器具。",
-                    "KO": "그는 새로운 건강 기구를 샀습니다.",
-                    "TL": "Bumili siya ng bagong kagamitan sa kalusugan.",
-                    "MY": "သူက ကျန်းမာရေးပစ္စည်းအသစ်တစ်ခု ဝယ်ခဲ့သည်။",
-                    "HI": "उसने एक नया स्वास्थ्य उपकरण खरीदा।",
-                    "AR": "اشترى جهاز صحة جديد.",
-                    "FA": "او یک دستگاه سلامتی جدید خرید."
-                }
-            },
-            {
-                "kanji": "りょうり器具を買いました。",
-                "furigana": "りょうりきぐを買(か)いました。",
-                "translations": {
-                    "EN": "I bought cooking utensils.",
-                    "ID": "Saya membeli peralatan masak.",
-                    "ES": "Compré utensilios de cocina.",
-                    "VI": "Tôi đã mua đồ dùng nấu ăn.",
-                    "FR": "J'ai acheté des ustensiles de cuisine.",
-                    "NE": "मैले खाना पकाउने साधन खरीद गरें।",
-                    "BN": "আমি রান্নার যন্ত্রপাতি কিনেছি।",
-                    "ZH": "我买了烹饪用具。",
-                    "KO": "요리 기구를 샀어요.",
-                    "TL": "Bumili ako ng mga gamit pangluto.",
-                    "MY": "ငါဟင်းချက်ပစ္စည်းတွေဝယ်ခဲ့တယ်။",
-                    "HI": "मैंने खाना पकाने के बर्तन खरीदे।",
-                    "AR": "اشتريت أدوات طهي.",
-                    "FA": "من لوازم آشپزی خریدم."
-                }
-            },
-            {
-                "kanji": "私は製品製造器具を使います。",
-                "furigana": "私は製品製造器具(せいひんせいぞうきぐ)を使(つか)います。",
-                "translations": {
-                    "EN": "I use product manufacturing equipment.",
-                    "ID": "Saya menggunakan peralatan pembuatan produk.",
-                    "ES": "Utilizo equipo de fabricación de productos.",
-                    "VI": "Tôi sử dụng thiết bị sản xuất sản phẩm.",
-                    "FR": "J'utilise des équipements de fabrication de produits.",
-                    "NE": "म उत्पादन निर्माण उपकरणहरू प्रयोग गर्छु।",
-                    "BN": "আমি পণ্য উৎপাদন সরঞ্জাম ব্যবহার করি।",
-                    "ZH": "我使用产品制造设备。",
-                    "KO": "나는 제품 제조 기구를 사용합니다.",
-                    "TL": "Gumagamit ako ng kagamitan sa paggawa ng produkto.",
-                    "MY": "ကျွန်ုပ်သည်ကုန်ပစ္စည်းထုတ်လုပ်ရေးကိရိယာကိုအသုံးပြုသည်။",
-                    "HI": "मैं उत्पाद उत्पादन उपकरण का उपयोग करता हूँ।",
-                    "AR": "أستخدم معدات تصنيع المنتجات.",
-                    "FA": "من تجهیزات تولید محصولات را استفاده می‌کنم."
-                }
-            }
-        ],
-        "synonyms": [
-            "道具 : どうぐ : tool",
-            "機械 : きかい : machine"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"きぐ\" are \"どうぐ\" and \"きかい\". The word \"どうぐ\" generally refers to tools or implements used for a task, often by hand. Meanwhile, \"きかい\" indicates a machine, usually power-driven, performing a specific function.",
-        "antonyms": [
-            "消耗品 : しょうもうひん : consumable goods",
-            "生身 : なまみ : living flesh"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"きぐ\" are \"しょうもうひん\" and \"なまみ\". \"しょうもうひん\" refers to consumables or expendables, items that get used up. Conversely, \"なまみ\" indicates something live or biodegradable, contrasting with inanimate equipment.",
-        "kanji_details": [
-            {
-                "kanji": "器",
-                "common_words": [
-                    "器用: skillful",
-                    "機械: machine"
-                ]
-            },
-            {
-                "kanji": "具",
-                "common_words": [
-                    "道具: tool",
-                    "具体: concreteness"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "器具",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n2"
-        ],
-        "japanese": [
-            {
-                "word": "器具",
-                "reading": "きぐ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "utensil",
-                    "implement",
-                    "tool",
-                    "instrument",
-                    "appliance",
-                    "apparatus"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "器",
-        "具"
-    ],
-    "kanji_data": {
-        "器": {
-            "meanings": [
-                "ability",
-                "container",
-                "implement",
-                "instrument",
-                "receptacle",
-                "set",
-                "tool",
-                "utensil",
-                "vessel"
-            ],
-            "on_readings": [
-                "キ"
-            ],
-            "kun_readings": [
-                "うつわ"
-            ],
-            "stroke_count": 15,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 525,
-            "unicode": "5668",
-            "grade": 4
-        },
-        "具": {
-            "meanings": [
-                "counter for armor, suits, sets of furniture",
-                "ingredients",
-                "means",
-                "possess",
-                "tool",
-                "utensil"
-            ],
-            "on_readings": [
-                "グ"
-            ],
-            "kun_readings": [
-                "そな.える",
-                "つぶさ.に"
-            ],
-            "stroke_count": 8,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 629,
-            "unicode": "5177",
-            "grade": 3
-        }
-    },
-    "collocations": [
-        "きんりょうきぐ",
-        "けんこうきぐ",
-        "りょうりきぐ",
-        "せいひんせいぞうきぐ"
+  "version": "0.3.0",
+  "word": "器具",
+  "jlpt_level": 2,
+  "youtube_link": "https://youtu.be/cHGB9-xkdqM",
+  "in_db": true,
+  "kanji": "器具",
+  "reading": "きぐ",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is きぐ, which you will often hear in situations involving preparing food, conducting experiments, or doing crafts.",
+  "meanings": [
+    [
+      "utensil",
+      "implement",
+      "tool",
+      "instrument",
+      "appliance",
+      "apparatus"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"きぐ\" means \"tools\" or \"equipment\" in English. It typically refers to small to medium-sized instruments or devices that assist in accomplishing a task, especially in settings like kitchen, workshops, or laboratories.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "器",
+      "common_words": [
+        "器用: skillful",
+        "機械: machine"
+      ]
+    },
+    {
+      "kanji": "具",
+      "common_words": [
+        "道具: tool",
+        "具体: concreteness"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "道具 : どうぐ : tool",
+    "機械 : きかい : machine"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"きぐ\" are \"どうぐ\" and \"きかい\". The word \"どうぐ\" generally refers to tools or implements used for a task, often by hand. Meanwhile, \"きかい\" indicates a machine, usually power-driven, performing a specific function.",
+  "antonyms": [
+    "消耗品 : しょうもうひん : consumable goods",
+    "生身 : なまみ : living flesh"
+  ],
+  "antonym_explanation": "The most common antonyms of the word \"きぐ\" are \"しょうもうひん\" and \"なまみ\". \"しょうもうひん\" refers to consumables or expendables, items that get used up. Conversely, \"なまみ\" indicates something live or biodegradable, contrasting with inanimate equipment.",
+  "collocations": [
+    {
+      "kanji": "きんりょうきぐ",
+      "furigana": "きんりょうきぐ",
+      "translations": {}
+    },
+    {
+      "kanji": "けんこうきぐ",
+      "furigana": "けんこうきぐ",
+      "translations": {}
+    },
+    {
+      "kanji": "りょうりきぐ",
+      "furigana": "りょうりきぐ",
+      "translations": {}
+    },
+    {
+      "kanji": "せいひんせいぞうきぐ",
+      "furigana": "せいひんせいぞうきぐ",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "これは便利な計量器具です。",
+      "furigana": "これは便利(べんり)な計量器具(きんりょうきぐ)です。",
+      "translations": {
+        "EN": "This is a convenient measuring tool.",
+        "ID": "Ini adalah alat pengukur yang praktis.",
+        "ES": "Esta es una herramienta de medición conveniente.",
+        "VI": "Đây là một công cụ đo lường tiện lợi.",
+        "FR": "C'est un outil de mesure pratique.",
+        "NE": "यो एक सुविधाजनक मापन उपकरण हो।",
+        "BN": "এটি একটি সুবিধা জনক মাপার যন্ত্র।",
+        "ZH": "这是一种方便的测量工具。",
+        "KO": "이것은 편리한 측정 도구입니다.",
+        "TL": "Ito ay isang mahusay na kasangkapan sa pagsukat.",
+        "MY": "ဒါဟာ အသုံးဝင်တဲ့ တိုင်းတာရေး ကိရိယာပါ။",
+        "HI": "यह एक सुविधाजनक माप उपकरण है।",
+        "AR": "هذه أداة قياس مريحة.",
+        "FA": "این یک ابزار اندازه‌گیری مناسب است."
+      }
+    },
+    {
+      "kanji": "彼は新しい健康器具を買いました。",
+      "furigana": "彼(かれ)は新(あたら)しい健康器具(けんこうきぐ)を買(か)いました。",
+      "translations": {
+        "EN": "He bought a new health device.",
+        "ID": "Dia membeli perangkat kesehatan baru.",
+        "ES": "Compró un nuevo dispositivo de salud.",
+        "VI": "Anh ấy đã mua một thiết bị chăm sóc sức khỏe mới.",
+        "FR": "Il a acheté un nouvel appareil de santé.",
+        "NE": "उहाँले नयाँ स्वास्थ्य उपकरण किन्नुभयो।",
+        "BN": "তিনি একটি নতুন স্বাস্থ্যযন্ত্র কিনেছেন।",
+        "ZH": "他买了新的健康器具。",
+        "KO": "그는 새로운 건강 기구를 샀습니다.",
+        "TL": "Bumili siya ng bagong kagamitan sa kalusugan.",
+        "MY": "သူက ကျန်းမာရေးပစ္စည်းအသစ်တစ်ခု ဝယ်ခဲ့သည်။",
+        "HI": "उसने एक नया स्वास्थ्य उपकरण खरीदा।",
+        "AR": "اشترى جهاز صحة جديد.",
+        "FA": "او یک دستگاه سلامتی جدید خرید."
+      }
+    },
+    {
+      "kanji": "りょうり器具を買いました。",
+      "furigana": "りょうりきぐを買(か)いました。",
+      "translations": {
+        "EN": "I bought cooking utensils.",
+        "ID": "Saya membeli peralatan masak.",
+        "ES": "Compré utensilios de cocina.",
+        "VI": "Tôi đã mua đồ dùng nấu ăn.",
+        "FR": "J'ai acheté des ustensiles de cuisine.",
+        "NE": "मैले खाना पकाउने साधन खरीद गरें।",
+        "BN": "আমি রান্নার যন্ত্রপাতি কিনেছি।",
+        "ZH": "我买了烹饪用具。",
+        "KO": "요리 기구를 샀어요.",
+        "TL": "Bumili ako ng mga gamit pangluto.",
+        "MY": "ငါဟင်းချက်ပစ္စည်းတွေဝယ်ခဲ့တယ်။",
+        "HI": "मैंने खाना पकाने के बर्तन खरीदे।",
+        "AR": "اشتريت أدوات طهي.",
+        "FA": "من لوازم آشپزی خریدم."
+      }
+    },
+    {
+      "kanji": "私は製品製造器具を使います。",
+      "furigana": "私は製品製造器具(せいひんせいぞうきぐ)を使(つか)います。",
+      "translations": {
+        "EN": "I use product manufacturing equipment.",
+        "ID": "Saya menggunakan peralatan pembuatan produk.",
+        "ES": "Utilizo equipo de fabricación de productos.",
+        "VI": "Tôi sử dụng thiết bị sản xuất sản phẩm.",
+        "FR": "J'utilise des équipements de fabrication de produits.",
+        "NE": "म उत्पादन निर्माण उपकरणहरू प्रयोग गर्छु।",
+        "BN": "আমি পণ্য উৎপাদন সরঞ্জাম ব্যবহার করি।",
+        "ZH": "我使用产品制造设备。",
+        "KO": "나는 제품 제조 기구를 사용합니다.",
+        "TL": "Gumagamit ako ng kagamitan sa paggawa ng produkto.",
+        "MY": "ကျွန်ုပ်သည်ကုန်ပစ္စည်းထုတ်လုပ်ရေးကိရိယာကိုအသုံးပြုသည်။",
+        "HI": "मैं उत्पाद उत्पादन उपकरण का उपयोग करता हूँ।",
+        "AR": "أستخدم معدات تصنيع المنتجات.",
+        "FA": "من تجهیزات تولید محصولات را استفاده می‌کنم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "utensil": {
+      "EN": "utensil",
+      "ID": "peralatan",
+      "ES": "utensilio",
+      "VI": "đồ dùng",
+      "FR": "ustensile",
+      "NE": "भाँडाकुँडा",
+      "BN": "যন্ত্রপাতি",
+      "ZH": "器具",
+      "KO": "도구",
+      "TL": "kasangkapang pantahanan",
+      "MY": "အသုံးအဆောင်ပစ္စည်း",
+      "HI": "उपकरण",
+      "AR": "أداة",
+      "FA": "ابزار یا وسیله"
+    }
+  },
+  "jisho_data": {
+    "slug": "器具",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n2"
+    ],
+    "japanese": [
+      {
+        "word": "器具",
+        "reading": "きぐ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "utensil",
+          "implement",
+          "tool",
+          "instrument",
+          "appliance",
+          "apparatus"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "器",
+    "具"
+  ],
+  "kanji_data": {
+    "器": {
+      "meanings": [
+        "ability",
+        "container",
+        "implement",
+        "instrument",
+        "receptacle",
+        "set",
+        "tool",
+        "utensil",
+        "vessel"
+      ],
+      "on_readings": [
+        "キ"
+      ],
+      "kun_readings": [
+        "うつわ"
+      ],
+      "stroke_count": 15,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 525,
+      "unicode": "5668",
+      "grade": 4
+    },
+    "具": {
+      "meanings": [
+        "counter for armor, suits, sets of furniture",
+        "ingredients",
+        "means",
+        "possess",
+        "tool",
+        "utensil"
+      ],
+      "on_readings": [
+        "グ"
+      ],
+      "kun_readings": [
+        "そな.える",
+        "つぶさ.に"
+      ],
+      "stroke_count": 8,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 629,
+      "unicode": "5177",
+      "grade": 3
+    }
+  }
 }

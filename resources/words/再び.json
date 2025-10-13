@@ -1,224 +1,243 @@
 {
-    "version": "0.2.0",
-    "word": "再び",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/TkQo_5E2d9Y",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "再び",
-        "reading": "ふたたび",
-        "introduction_japanese": "",
-        "introduction_english": "The word we’ll explore today is ふたたび, a powerful expression you’ll often hear in moments of second chances and exciting do-overs. Master this and enhance your conversational skills!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"ふたたび\" means \"again\" or \"once more.\" It is used to indicate that something is happening for a second time or being repeated.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "again",
-                "once more",
-                "a second time"
-            ]
-        ],
-        "meaning_translations": {
-            "again": {
-                "EN": "again",
-                "ID": "lagi",
-                "ES": "otra vez",
-                "VI": "lại",
-                "FR": "encore",
-                "NE": "फेरि",
-                "BN": "আবার",
-                "ZH": "再次",
-                "KO": "다시",
-                "TL": "muli",
-                "MY": "ပြန်တစ်ကြိမ်",
-                "HI": "फिर से",
-                "AR": "مجددا",
-                "FA": "دوباره"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "友達と再び会います。",
-                "furigana": "友達(ともだち)と再(ふたた)び会(あ)います。",
-                "translations": {
-                    "EN": "I will meet my friend again.",
-                    "ID": "Saya akan bertemu teman lagi.",
-                    "ES": "Volveré a ver a mi amigo.",
-                    "VI": "Tôi sẽ gặp lại bạn của mình.",
-                    "FR": "Je vais rencontrer mon ami à nouveau.",
-                    "NE": "म फेरि साथीलाई भेट्छु।",
-                    "BN": "আমি আবার আমার বন্ধুর সাথে দেখা করবো।",
-                    "ZH": "我会再次见到我的朋友。",
-                    "KO": "친구를 다시 만납니다.",
-                    "TL": "Muli akong makikipagkita sa aking kaibigan.",
-                    "MY": "ကျွန်ုပ်၏သူငယ်ချင်းနှင့်ထပ်မံတွေ့ဆုံမည်။",
-                    "HI": "मैं फिर से अपने दोस्त से मिलूँगा।",
-                    "AR": "سألتقي بصديقي مرة أخرى.",
-                    "FA": "دوباره با دوستم ملاقات می‌کنم."
-                }
-            },
-            {
-                "kanji": "彼は再び試す。",
-                "furigana": "彼(かれ)は再(ふたた)び試(ため)す。",
-                "translations": {
-                    "EN": "He tries again.",
-                    "ID": "Dia mencoba lagi.",
-                    "ES": "Él intenta de nuevo.",
-                    "VI": "Anh ấy thử lại.",
-                    "FR": "Il essaie à nouveau.",
-                    "NE": "उनी फेरि प्रयास गर्छन्।",
-                    "BN": "সে আবার চেষ্টা করে।",
-                    "ZH": "他再次尝试。",
-                    "KO": "그는 다시 시도합니다.",
-                    "TL": "Sinusubukan niya ulit.",
-                    "MY": "သူအပြန်ပြန် ကြိုးစားဝယ်လျှက်ရှိသည်။",
-                    "HI": "वह फिर से कोशिश करता है।",
-                    "AR": "إنه يحاول مرة أخرى.",
-                    "FA": "او دوباره تلاش می‌کند."
-                }
-            },
-            {
-                "kanji": "映画を再び見る。",
-                "furigana": "映画(えいが)を再(ふたた)び見る(みる)。",
-                "translations": {
-                    "EN": "Watch the movie again.",
-                    "ID": "Tonton filmnya lagi.",
-                    "ES": "Ver la película de nuevo.",
-                    "VI": "Xem phim lại.",
-                    "FR": "Regarder le film à nouveau.",
-                    "NE": "फिल्म पुन: हेर्नुहोस्।",
-                    "BN": "চলচ্চিত্রটি আবার দেখুন।",
-                    "ZH": "再看电影。",
-                    "KO": "영화를 다시 본다.",
-                    "TL": "Panoorin ulit ang pelikula.",
-                    "MY": "ရုပ်ရှင်ကို ထပ်ပြီးကြည့်ပါ။",
-                    "HI": "फिल्म को फिर से देखें।",
-                    "AR": "شاهد الفيلم مرة أخرى.",
-                    "FA": "فیلم را دوباره ببین."
-                }
-            },
-            {
-                "kanji": "再び考える。",
-                "furigana": "再(ふたた)び考(かんが)える。",
-                "translations": {
-                    "EN": "Think again.",
-                    "ID": "Pikirkan lagi.",
-                    "ES": "Piensa de nuevo.",
-                    "VI": "Nghĩ lại.",
-                    "FR": "Réfléchissez encore.",
-                    "NE": "फेरि सोच्नुहोस्।",
-                    "BN": "আবার ভাবুন।",
-                    "ZH": "再想一想。",
-                    "KO": "다시 생각하다.",
-                    "TL": "Muling pag-isipan.",
-                    "MY": "ထပ်မံ သုံးသပ်ပါ။",
-                    "HI": "फिर से विचार करें।",
-                    "AR": "فكر مرة أخرى.",
-                    "FA": "دوباره فکر کنید."
-                }
-            },
-            {
-                "kanji": "彼は再び商品を買う。",
-                "furigana": "彼(かれ)は再(ふたた)び商品(しょうひん)を買(か)う。",
-                "translations": {
-                    "EN": "He buys the product again.",
-                    "ID": "Dia membeli produk lagi.",
-                    "ES": "Él compra el producto nuevamente.",
-                    "VI": "Anh ấy mua sản phẩm một lần nữa.",
-                    "FR": "Il achète de nouveau le produit.",
-                    "NE": "उनी पुन: उत्पादन किन्न्छन्।",
-                    "BN": "তিনি আবার পণ্যটি কেনেন।",
-                    "ZH": "他再次购买产品。",
-                    "KO": "그는 다시 상품을 삽니다.",
-                    "TL": "Binili niya muli ang produkto.",
-                    "MY": "သူသည် ထပ်မံ၍ ကုန်ပစ္စည်းကို ဝယ်ပါသည်။",
-                    "HI": "वह दुबारा उत्पाद खरीदता है।",
-                    "AR": "هو يشتري المنتج مرة أخرى.",
-                    "FA": "او دوباره محصول را می‌خرد."
-                }
-            }
-        ],
-        "synonyms": [
-            "再度 : さいど : a second time"
-        ],
-        "synonyms_explanation": "The most common synonym of ふたたび is \"さいど,\" which also means \"again.\" However, \"さいど\" can imply a more systematic or official repetition, while \"ふたたび\" is more casual.",
-        "antonyms": [
-            "一度 : いちど : once"
-        ],
-        "antonyms_explanation": "The most common antonym of ふたたび is \"いちど,\" which means \"once\" or \"one time only.\" While \"ふたたび\" indicates repetition, \"いちど\" is used when something occurs a single time, thus contrasting with the idea of doing something again.",
-        "kanji_details": [
-            {
-                "kanji": "再",
-                "common_words": [
-                    "再生: restoration to life",
-                    "再開: reopening"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "再び",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "再び",
-                "reading": "ふたたび"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "again",
-                    "once more",
-                    "a second time"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "再"
-    ],
-    "kanji_data": {
-        "再": {
-            "meanings": [
-                "again",
-                "second time",
-                "twice"
-            ],
-            "on_readings": [
-                "サ",
-                "サイ"
-            ],
-            "kun_readings": [
-                "ふたた.び"
-            ],
-            "stroke_count": 6,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 275,
-            "unicode": "518D",
-            "grade": 5
-        }
-    },
-    "collocations": [
-        "ふたたびあう",
-        "ふたたびためす",
-        "ふたたびみる",
-        "ふたたびかんがえる",
-        "ふたたびしょうひんをかう"
+  "version": "0.3.0",
+  "word": "再び",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/TkQo_5E2d9Y",
+  "in_db": true,
+  "kanji": "再び",
+  "reading": "ふたたび",
+  "introduction_japanese": "",
+  "introduction_english": "The word we’ll explore today is ふたたび, a powerful expression you’ll often hear in moments of second chances and exciting do-overs. Master this and enhance your conversational skills!",
+  "meanings": [
+    [
+      "again",
+      "once more",
+      "a second time"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"ふたたび\" means \"again\" or \"once more.\" It is used to indicate that something is happening for a second time or being repeated.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "再",
+      "common_words": [
+        "再生: restoration to life",
+        "再開: reopening"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "再度 : さいど : a second time"
+  ],
+  "synonym_explanation": "The most common synonym of ふたたび is \"さいど,\" which also means \"again.\" However, \"さいど\" can imply a more systematic or official repetition, while \"ふたたび\" is more casual.",
+  "antonyms": [
+    "一度 : いちど : once"
+  ],
+  "antonym_explanation": "The most common antonym of ふたたび is \"いちど,\" which means \"once\" or \"one time only.\" While \"ふたたび\" indicates repetition, \"いちど\" is used when something occurs a single time, thus contrasting with the idea of doing something again.",
+  "collocations": [
+    {
+      "kanji": "ふたたびあう",
+      "furigana": "ふたたびあう",
+      "translations": {}
+    },
+    {
+      "kanji": "ふたたびためす",
+      "furigana": "ふたたびためす",
+      "translations": {}
+    },
+    {
+      "kanji": "ふたたびみる",
+      "furigana": "ふたたびみる",
+      "translations": {}
+    },
+    {
+      "kanji": "ふたたびかんがえる",
+      "furigana": "ふたたびかんがえる",
+      "translations": {}
+    },
+    {
+      "kanji": "ふたたびしょうひんをかう",
+      "furigana": "ふたたびしょうひんをかう",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "友達と再び会います。",
+      "furigana": "友達(ともだち)と再(ふたた)び会(あ)います。",
+      "translations": {
+        "EN": "I will meet my friend again.",
+        "ID": "Saya akan bertemu teman lagi.",
+        "ES": "Volveré a ver a mi amigo.",
+        "VI": "Tôi sẽ gặp lại bạn của mình.",
+        "FR": "Je vais rencontrer mon ami à nouveau.",
+        "NE": "म फेरि साथीलाई भेट्छु।",
+        "BN": "আমি আবার আমার বন্ধুর সাথে দেখা করবো।",
+        "ZH": "我会再次见到我的朋友。",
+        "KO": "친구를 다시 만납니다.",
+        "TL": "Muli akong makikipagkita sa aking kaibigan.",
+        "MY": "ကျွန်ုပ်၏သူငယ်ချင်းနှင့်ထပ်မံတွေ့ဆုံမည်။",
+        "HI": "मैं फिर से अपने दोस्त से मिलूँगा।",
+        "AR": "سألتقي بصديقي مرة أخرى.",
+        "FA": "دوباره با دوستم ملاقات می‌کنم."
+      }
+    },
+    {
+      "kanji": "彼は再び試す。",
+      "furigana": "彼(かれ)は再(ふたた)び試(ため)す。",
+      "translations": {
+        "EN": "He tries again.",
+        "ID": "Dia mencoba lagi.",
+        "ES": "Él intenta de nuevo.",
+        "VI": "Anh ấy thử lại.",
+        "FR": "Il essaie à nouveau.",
+        "NE": "उनी फेरि प्रयास गर्छन्।",
+        "BN": "সে আবার চেষ্টা করে।",
+        "ZH": "他再次尝试。",
+        "KO": "그는 다시 시도합니다.",
+        "TL": "Sinusubukan niya ulit.",
+        "MY": "သူအပြန်ပြန် ကြိုးစားဝယ်လျှက်ရှိသည်။",
+        "HI": "वह फिर से कोशिश करता है।",
+        "AR": "إنه يحاول مرة أخرى.",
+        "FA": "او دوباره تلاش می‌کند."
+      }
+    },
+    {
+      "kanji": "映画を再び見る。",
+      "furigana": "映画(えいが)を再(ふたた)び見る(みる)。",
+      "translations": {
+        "EN": "Watch the movie again.",
+        "ID": "Tonton filmnya lagi.",
+        "ES": "Ver la película de nuevo.",
+        "VI": "Xem phim lại.",
+        "FR": "Regarder le film à nouveau.",
+        "NE": "फिल्म पुन: हेर्नुहोस्।",
+        "BN": "চলচ্চিত্রটি আবার দেখুন।",
+        "ZH": "再看电影。",
+        "KO": "영화를 다시 본다.",
+        "TL": "Panoorin ulit ang pelikula.",
+        "MY": "ရုပ်ရှင်ကို ထပ်ပြီးကြည့်ပါ။",
+        "HI": "फिल्म को फिर से देखें।",
+        "AR": "شاهد الفيلم مرة أخرى.",
+        "FA": "فیلم را دوباره ببین."
+      }
+    },
+    {
+      "kanji": "再び考える。",
+      "furigana": "再(ふたた)び考(かんが)える。",
+      "translations": {
+        "EN": "Think again.",
+        "ID": "Pikirkan lagi.",
+        "ES": "Piensa de nuevo.",
+        "VI": "Nghĩ lại.",
+        "FR": "Réfléchissez encore.",
+        "NE": "फेरि सोच्नुहोस्।",
+        "BN": "আবার ভাবুন।",
+        "ZH": "再想一想。",
+        "KO": "다시 생각하다.",
+        "TL": "Muling pag-isipan.",
+        "MY": "ထပ်မံ သုံးသပ်ပါ။",
+        "HI": "फिर से विचार करें।",
+        "AR": "فكر مرة أخرى.",
+        "FA": "دوباره فکر کنید."
+      }
+    },
+    {
+      "kanji": "彼は再び商品を買う。",
+      "furigana": "彼(かれ)は再(ふたた)び商品(しょうひん)を買(か)う。",
+      "translations": {
+        "EN": "He buys the product again.",
+        "ID": "Dia membeli produk lagi.",
+        "ES": "Él compra el producto nuevamente.",
+        "VI": "Anh ấy mua sản phẩm một lần nữa.",
+        "FR": "Il achète de nouveau le produit.",
+        "NE": "उनी पुन: उत्पादन किन्न्छन्।",
+        "BN": "তিনি আবার পণ্যটি কেনেন।",
+        "ZH": "他再次购买产品。",
+        "KO": "그는 다시 상품을 삽니다.",
+        "TL": "Binili niya muli ang produkto.",
+        "MY": "သူသည် ထပ်မံ၍ ကုန်ပစ္စည်းကို ဝယ်ပါသည်။",
+        "HI": "वह दुबारा उत्पाद खरीदता है।",
+        "AR": "هو يشتري المنتج مرة أخرى.",
+        "FA": "او دوباره محصول را می‌خرد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "again": {
+      "EN": "again",
+      "ID": "lagi",
+      "ES": "otra vez",
+      "VI": "lại",
+      "FR": "encore",
+      "NE": "फेरि",
+      "BN": "আবার",
+      "ZH": "再次",
+      "KO": "다시",
+      "TL": "muli",
+      "MY": "ပြန်တစ်ကြိမ်",
+      "HI": "फिर से",
+      "AR": "مجددا",
+      "FA": "دوباره"
+    }
+  },
+  "jisho_data": {
+    "slug": "再び",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "再び",
+        "reading": "ふたたび"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "again",
+          "once more",
+          "a second time"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "再"
+  ],
+  "kanji_data": {
+    "再": {
+      "meanings": [
+        "again",
+        "second time",
+        "twice"
+      ],
+      "on_readings": [
+        "サ",
+        "サイ"
+      ],
+      "kun_readings": [
+        "ふたた.び"
+      ],
+      "stroke_count": 6,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 275,
+      "unicode": "518D",
+      "grade": 5
+    }
+  }
 }

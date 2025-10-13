@@ -1,260 +1,279 @@
 {
-    "version": "0.2.0",
-    "word": "熱心",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/jIgsgz5TaBg",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "熱心",
-        "reading": "ねっしん",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is ねっしん which you will often hear in situations where people are being praised for their passion, dedication, or focus towards a particular cause, activity, or job.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"ねっしん\" means enthusiastic or zealous. It describes a state where someone is devoted or intensely eager about a task or activity. When a person shows great interest or passion, often going beyond what is necessary, they are considered \"ねっしん.\"",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "zealous",
-                "enthusiastic",
-                "ardent",
-                "fervent",
-                "keen",
-                "eager"
-            ]
-        ],
-        "meaning_translations": {
-            "zealous": {
-                "EN": "zealous",
-                "ID": "bersemangat",
-                "ES": "fervoroso",
-                "VI": "nhiệt tình",
-                "FR": "zélé",
-                "NE": "उत्साही",
-                "BN": "উৎসাহী",
-                "ZH": "热心",
-                "KO": "열성적",
-                "TL": "masigasig",
-                "MY": "လောဘ၊ စိတ်အားထက်သန်မှုရှိသော",
-                "HI": "उत्साही",
-                "AR": "متحمس",
-                "FA": "مشتاق"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は毎日ねっしんに勉強します。",
-                "furigana": "彼(かれ)は毎日(まいにち)ねっしんに勉強(べんきょう)します。",
-                "translations": {
-                    "EN": "He studies diligently every day.",
-                    "ID": "Dia belajar dengan rajin setiap hari.",
-                    "ES": "Él estudia arduamente todos los días.",
-                    "VI": "Cậu ấy học chăm chỉ mỗi ngày.",
-                    "FR": "Il étudie avec diligence tous les jours.",
-                    "NE": "उ उनी प्रत्येक दिन मिहेनतका साथ अध्ययन गर्छन।",
-                    "BN": "সে প্রতিদিন মনোযোগ সহকারে পড়াশোনা করে।",
-                    "ZH": "他每天都认真学习。",
-                    "KO": "그는 매일 열심히 공부합니다.",
-                    "TL": "Nag-aaral siya ng mabuti araw-araw.",
-                    "MY": "သူကနေ့တိုင်းစေ့စပ်စွာလေ့လာပါသည်။",
-                    "HI": "वह रोजाना बहुत मेहनत से पढ़ाई करता है।",
-                    "AR": "هو يدرس بجدية كل يوم.",
-                    "FA": "او هر روز با جدیت تحصیل می‌کند."
-                }
-            },
-            {
-                "kanji": "彼は熱心に働きます。",
-                "furigana": "彼(かれ)は熱心(ねっしん)に働(はたら)きます。",
-                "translations": {
-                    "EN": "He works diligently.",
-                    "ID": "Dia bekerja dengan rajin.",
-                    "ES": "Él trabaja diligentemente.",
-                    "VI": "Anh ấy làm việc chăm chỉ.",
-                    "FR": "Il travaille avec diligence.",
-                    "NE": "उनी सावधानीपूर्वक काम गर्छन्।",
-                    "BN": "তিনি পরিশ্রম করে কাজ করেন।",
-                    "ZH": "他努力工作。",
-                    "KO": "그는 열심히 일합니다.",
-                    "TL": "Masipag siyang magtrabaho.",
-                    "MY": "သူသည် တကြိမ်လည် လုပ်ကိုင်သည်။",
-                    "HI": "वह मेहनत से काम करता है।",
-                    "AR": "هو يعمل بجدية.",
-                    "FA": "او با دقت کار می‌کند."
-                }
-            },
-            {
-                "kanji": "彼は熱心に仕事に取り組む。",
-                "furigana": "彼(かれ)は熱心(ねっしん)に仕事(しごと)に取り組む(とりくむ)。",
-                "translations": {
-                    "EN": "He works diligently at his job.",
-                    "ID": "Dia bekerja dengan penuh semangat pada pekerjaannya.",
-                    "ES": "Él se dedica con entusiasmo a su trabajo.",
-                    "VI": "Anh ấy tận tâm làm việc của mình.",
-                    "FR": "Il travaille avec assiduité à son emploi.",
-                    "NE": "उनले तिनका काममा जोशका साथ समर्पित छन्।",
-                    "BN": "তিনি তাঁর কাজে মনোযোগ সহকারে লিপ্ত হন।",
-                    "ZH": "他认真工作。",
-                    "KO": "그는 열심히 일에 임한다.",
-                    "TL": "Masipag siyang nagtatrabaho sa kanyang trabaho.",
-                    "MY": "သူသည်အလုပ်ကိုစိတ်ကြိုက်လုပ်ဆောင်သည်။",
-                    "HI": "वह अपने काम में दिल के साथ जुट जाता है।",
-                    "AR": "هو يعمل بجد في وظيفته.",
-                    "FA": "او با علاقه به کارش می‌پردازد."
-                }
-            },
-            {
-                "kanji": "彼女は子供たちを熱心にサポートします。",
-                "furigana": "彼女(かのじょ)は子供(こども)たちを熱心(ねっしん)にサポートします。",
-                "translations": {
-                    "EN": "She supports the children eagerly.",
-                    "ID": "Dia mendukung anak-anak dengan semangat.",
-                    "ES": "Ella apoya a los niños con entusiasmo.",
-                    "VI": "Cô ấy hỗ trợ các em nhỏ một cách nhiệt tình.",
-                    "FR": "Elle soutient les enfants avec zèle.",
-                    "NE": "उनी बच्चाहरूलाई उत्साहका साथ समर्थन गर्छिन्।",
-                    "BN": "তিনি শিশুদের উৎসাহের সাথে সমর্থন করেন।",
-                    "ZH": "她热心地支持这些孩子。",
-                    "KO": "그녀는 아이들을 열심히 지원합니다.",
-                    "TL": "Sinasuportahan niya ng buong sipag ang mga bata.",
-                    "MY": "သူမသည်ကလေးများအားစိတ်အားထက်သန်စွာထောက်ပံ့ပေးသည်။",
-                    "HI": "वह बच्चों को उत्साहपूर्वक समर्थन करती है।",
-                    "AR": "إنها تدعم الأطفال بجدية.",
-                    "FA": "او با علاقه از بچه‌ها حمایت می‌کند."
-                }
-            },
-            {
-                "kanji": "先生が熱心に説明します。",
-                "furigana": "先生(せんせい)が熱心(ねっしん)に説明(せつめい)します。",
-                "translations": {
-                    "EN": "The teacher explains enthusiastically.",
-                    "ID": "Guru menjelaskan dengan antusias.",
-                    "ES": "El profesor explica con entusiasmo.",
-                    "VI": "Giáo viên giải thích một cách nhiệt tình.",
-                    "FR": "Le professeur explique avec enthousiasme.",
-                    "NE": "शिक्षकले उत्साही भएर व्याख्या गर्नुहुन्छ।",
-                    "BN": "শিক্ষক উৎসাহের সাথে ব্যাখ্যা করেন।",
-                    "ZH": "老师热心地解释。",
-                    "KO": "선생님이 열심히 설명합니다.",
-                    "TL": "Ang guro ay nagpapaliwanag nang masigasig.",
-                    "MY": "ဆရာမှ စိတ်အားထက်သန်စွာ ရှင်းပြသည်။",
-                    "HI": "शिक्षक उत्साह से समझाता है।",
-                    "AR": "المعلم يشرح بحماس.",
-                    "FA": "معلم با اشتیاق توضیح می‌دهد."
-                }
-            }
-        ],
-        "synonyms": [
-            "熱意 : ねつい : zeal",
-            "情熱 : じょうねつ : passion"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"ねっしん\" are \"ねつい\" and \"じょうねつ.\" The word \"ねつい\" refers to enthusiasm or fervor, often indicating a lively and energetic engagement. Meanwhile, \"じょうねつ\" highlights a deep passion or emotional investment towards something. While all these words express fervent interest, \"ねっしん\" tends to be more general, covering various levels of active involvement.",
-        "antonyms": [
-            "無関心 : むかんしん : apathetic"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"ねっしん\" is \"むかんしん.\" This word means indifferent or having no interest or concern about something. Unlike \"ねっしん,\" which conveys enthusiasm and eagerness, \"むかんしん\" indicates apathy or disinterest, showing no involvement or zeal.",
-        "kanji_details": [
-            {
-                "kanji": "熱",
-                "common_words": [
-                    "発熱: generation of heat",
-                    "熱い: hot"
-                ]
-            },
-            {
-                "kanji": "心",
-                "common_words": [
-                    "心配: worry",
-                    "中心: center"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "熱心",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "熱心",
-                "reading": "ねっしん"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "zealous",
-                    "enthusiastic",
-                    "ardent",
-                    "fervent",
-                    "keen",
-                    "eager"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi), Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "熱",
-        "心"
-    ],
-    "kanji_data": {
-        "熱": {
-            "meanings": [
-                "fever",
-                "heat",
-                "mania",
-                "passion",
-                "temperature"
-            ],
-            "on_readings": [
-                "ネツ"
-            ],
-            "kun_readings": [
-                "あつ.い"
-            ],
-            "stroke_count": 15,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 700,
-            "unicode": "71B1",
-            "grade": 4
-        },
-        "心": {
-            "meanings": [
-                "heart",
-                "heart radical (no. 61)",
-                "mind",
-                "spirit"
-            ],
-            "on_readings": [
-                "シン"
-            ],
-            "kun_readings": [
-                "-ごころ",
-                "こころ"
-            ],
-            "stroke_count": 4,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 157,
-            "unicode": "5FC3",
-            "grade": 2
-        }
-    },
-    "collocations": [
-        "ねっしんに勉強する",
-        "ねっしんに働く",
-        "ねっしんに取り組む",
-        "ねっしんにサポートする",
-        "ねっしんに説明する"
+  "version": "0.3.0",
+  "word": "熱心",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/jIgsgz5TaBg",
+  "in_db": true,
+  "kanji": "熱心",
+  "reading": "ねっしん",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is ねっしん which you will often hear in situations where people are being praised for their passion, dedication, or focus towards a particular cause, activity, or job.",
+  "meanings": [
+    [
+      "zealous",
+      "enthusiastic",
+      "ardent",
+      "fervent",
+      "keen",
+      "eager"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"ねっしん\" means enthusiastic or zealous. It describes a state where someone is devoted or intensely eager about a task or activity. When a person shows great interest or passion, often going beyond what is necessary, they are considered \"ねっしん.\"",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "熱",
+      "common_words": [
+        "発熱: generation of heat",
+        "熱い: hot"
+      ]
+    },
+    {
+      "kanji": "心",
+      "common_words": [
+        "心配: worry",
+        "中心: center"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "熱意 : ねつい : zeal",
+    "情熱 : じょうねつ : passion"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"ねっしん\" are \"ねつい\" and \"じょうねつ.\" The word \"ねつい\" refers to enthusiasm or fervor, often indicating a lively and energetic engagement. Meanwhile, \"じょうねつ\" highlights a deep passion or emotional investment towards something. While all these words express fervent interest, \"ねっしん\" tends to be more general, covering various levels of active involvement.",
+  "antonyms": [
+    "無関心 : むかんしん : apathetic"
+  ],
+  "antonym_explanation": "The most common antonym of the word \"ねっしん\" is \"むかんしん.\" This word means indifferent or having no interest or concern about something. Unlike \"ねっしん,\" which conveys enthusiasm and eagerness, \"むかんしん\" indicates apathy or disinterest, showing no involvement or zeal.",
+  "collocations": [
+    {
+      "kanji": "ねっしんに勉強する",
+      "furigana": "ねっしんに勉強する",
+      "translations": {}
+    },
+    {
+      "kanji": "ねっしんに働く",
+      "furigana": "ねっしんに働く",
+      "translations": {}
+    },
+    {
+      "kanji": "ねっしんに取り組む",
+      "furigana": "ねっしんに取り組む",
+      "translations": {}
+    },
+    {
+      "kanji": "ねっしんにサポートする",
+      "furigana": "ねっしんにサポートする",
+      "translations": {}
+    },
+    {
+      "kanji": "ねっしんに説明する",
+      "furigana": "ねっしんに説明する",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は毎日ねっしんに勉強します。",
+      "furigana": "彼(かれ)は毎日(まいにち)ねっしんに勉強(べんきょう)します。",
+      "translations": {
+        "EN": "He studies diligently every day.",
+        "ID": "Dia belajar dengan rajin setiap hari.",
+        "ES": "Él estudia arduamente todos los días.",
+        "VI": "Cậu ấy học chăm chỉ mỗi ngày.",
+        "FR": "Il étudie avec diligence tous les jours.",
+        "NE": "उ उनी प्रत्येक दिन मिहेनतका साथ अध्ययन गर्छन।",
+        "BN": "সে প্রতিদিন মনোযোগ সহকারে পড়াশোনা করে।",
+        "ZH": "他每天都认真学习。",
+        "KO": "그는 매일 열심히 공부합니다.",
+        "TL": "Nag-aaral siya ng mabuti araw-araw.",
+        "MY": "သူကနေ့တိုင်းစေ့စပ်စွာလေ့လာပါသည်။",
+        "HI": "वह रोजाना बहुत मेहनत से पढ़ाई करता है।",
+        "AR": "هو يدرس بجدية كل يوم.",
+        "FA": "او هر روز با جدیت تحصیل می‌کند."
+      }
+    },
+    {
+      "kanji": "彼は熱心に働きます。",
+      "furigana": "彼(かれ)は熱心(ねっしん)に働(はたら)きます。",
+      "translations": {
+        "EN": "He works diligently.",
+        "ID": "Dia bekerja dengan rajin.",
+        "ES": "Él trabaja diligentemente.",
+        "VI": "Anh ấy làm việc chăm chỉ.",
+        "FR": "Il travaille avec diligence.",
+        "NE": "उनी सावधानीपूर्वक काम गर्छन्।",
+        "BN": "তিনি পরিশ্রম করে কাজ করেন।",
+        "ZH": "他努力工作。",
+        "KO": "그는 열심히 일합니다.",
+        "TL": "Masipag siyang magtrabaho.",
+        "MY": "သူသည် တကြိမ်လည် လုပ်ကိုင်သည်။",
+        "HI": "वह मेहनत से काम करता है।",
+        "AR": "هو يعمل بجدية.",
+        "FA": "او با دقت کار می‌کند."
+      }
+    },
+    {
+      "kanji": "彼は熱心に仕事に取り組む。",
+      "furigana": "彼(かれ)は熱心(ねっしん)に仕事(しごと)に取り組む(とりくむ)。",
+      "translations": {
+        "EN": "He works diligently at his job.",
+        "ID": "Dia bekerja dengan penuh semangat pada pekerjaannya.",
+        "ES": "Él se dedica con entusiasmo a su trabajo.",
+        "VI": "Anh ấy tận tâm làm việc của mình.",
+        "FR": "Il travaille avec assiduité à son emploi.",
+        "NE": "उनले तिनका काममा जोशका साथ समर्पित छन्।",
+        "BN": "তিনি তাঁর কাজে মনোযোগ সহকারে লিপ্ত হন।",
+        "ZH": "他认真工作。",
+        "KO": "그는 열심히 일에 임한다.",
+        "TL": "Masipag siyang nagtatrabaho sa kanyang trabaho.",
+        "MY": "သူသည်အလုပ်ကိုစိတ်ကြိုက်လုပ်ဆောင်သည်။",
+        "HI": "वह अपने काम में दिल के साथ जुट जाता है।",
+        "AR": "هو يعمل بجد في وظيفته.",
+        "FA": "او با علاقه به کارش می‌پردازد."
+      }
+    },
+    {
+      "kanji": "彼女は子供たちを熱心にサポートします。",
+      "furigana": "彼女(かのじょ)は子供(こども)たちを熱心(ねっしん)にサポートします。",
+      "translations": {
+        "EN": "She supports the children eagerly.",
+        "ID": "Dia mendukung anak-anak dengan semangat.",
+        "ES": "Ella apoya a los niños con entusiasmo.",
+        "VI": "Cô ấy hỗ trợ các em nhỏ một cách nhiệt tình.",
+        "FR": "Elle soutient les enfants avec zèle.",
+        "NE": "उनी बच्चाहरूलाई उत्साहका साथ समर्थन गर्छिन्।",
+        "BN": "তিনি শিশুদের উৎসাহের সাথে সমর্থন করেন।",
+        "ZH": "她热心地支持这些孩子。",
+        "KO": "그녀는 아이들을 열심히 지원합니다.",
+        "TL": "Sinasuportahan niya ng buong sipag ang mga bata.",
+        "MY": "သူမသည်ကလေးများအားစိတ်အားထက်သန်စွာထောက်ပံ့ပေးသည်။",
+        "HI": "वह बच्चों को उत्साहपूर्वक समर्थन करती है।",
+        "AR": "إنها تدعم الأطفال بجدية.",
+        "FA": "او با علاقه از بچه‌ها حمایت می‌کند."
+      }
+    },
+    {
+      "kanji": "先生が熱心に説明します。",
+      "furigana": "先生(せんせい)が熱心(ねっしん)に説明(せつめい)します。",
+      "translations": {
+        "EN": "The teacher explains enthusiastically.",
+        "ID": "Guru menjelaskan dengan antusias.",
+        "ES": "El profesor explica con entusiasmo.",
+        "VI": "Giáo viên giải thích một cách nhiệt tình.",
+        "FR": "Le professeur explique avec enthousiasme.",
+        "NE": "शिक्षकले उत्साही भएर व्याख्या गर्नुहुन्छ।",
+        "BN": "শিক্ষক উৎসাহের সাথে ব্যাখ্যা করেন।",
+        "ZH": "老师热心地解释。",
+        "KO": "선생님이 열심히 설명합니다.",
+        "TL": "Ang guro ay nagpapaliwanag nang masigasig.",
+        "MY": "ဆရာမှ စိတ်အားထက်သန်စွာ ရှင်းပြသည်။",
+        "HI": "शिक्षक उत्साह से समझाता है।",
+        "AR": "المعلم يشرح بحماس.",
+        "FA": "معلم با اشتیاق توضیح می‌دهد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "zealous": {
+      "EN": "zealous",
+      "ID": "bersemangat",
+      "ES": "fervoroso",
+      "VI": "nhiệt tình",
+      "FR": "zélé",
+      "NE": "उत्साही",
+      "BN": "উৎসাহী",
+      "ZH": "热心",
+      "KO": "열성적",
+      "TL": "masigasig",
+      "MY": "လောဘ၊ စိတ်အားထက်သန်မှုရှိသော",
+      "HI": "उत्साही",
+      "AR": "متحمس",
+      "FA": "مشتاق"
+    }
+  },
+  "jisho_data": {
+    "slug": "熱心",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "熱心",
+        "reading": "ねっしん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "zealous",
+          "enthusiastic",
+          "ardent",
+          "fervent",
+          "keen",
+          "eager"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi), Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "熱",
+    "心"
+  ],
+  "kanji_data": {
+    "熱": {
+      "meanings": [
+        "fever",
+        "heat",
+        "mania",
+        "passion",
+        "temperature"
+      ],
+      "on_readings": [
+        "ネツ"
+      ],
+      "kun_readings": [
+        "あつ.い"
+      ],
+      "stroke_count": 15,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 700,
+      "unicode": "71B1",
+      "grade": 4
+    },
+    "心": {
+      "meanings": [
+        "heart",
+        "heart radical (no. 61)",
+        "mind",
+        "spirit"
+      ],
+      "on_readings": [
+        "シン"
+      ],
+      "kun_readings": [
+        "-ごころ",
+        "こころ"
+      ],
+      "stroke_count": 4,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 157,
+      "unicode": "5FC3",
+      "grade": 2
+    }
+  }
 }

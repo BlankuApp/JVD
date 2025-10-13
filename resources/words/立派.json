@@ -1,489 +1,588 @@
 {
-    "version": "0.2.0",
-    "word": "立派",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/FtKY7maks7w",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "立派",
-        "reading": "りっぱ",
-        "introduction_japanese": "立派は、誰かをほめるときや、正式な場面、外見や行動について話すときによく使う言葉です。学校や仕事での成果や態度についての会話でもよく出ます。",
-        "introduction_english": "The adjective りっぱ is commonly seen when praising someone, in formal situations, and when talking about appearance, behavior, or achievements.",
-        "meanings": [
-            [
-                "splendid",
-                "fine",
-                "handsome",
-                "elegant",
-                "imposing",
-                "prominent",
-                "impressive"
-            ],
-            [
-                "praiseworthy",
-                "creditable",
-                "worthy"
-            ],
-            [
-                "legal",
-                "legitimate",
-                "lawful"
-            ],
-            [
-                "undeniable",
-                "indisputable",
-                "solid"
-            ]
-        ],
-        "meaning_explanation_japanese": "「立派」は、見た目や仕事、態度などがすばらしいときに使うな形容詞です。また、正式や正当だと言いたいときや、疑いようがないことを表す時にも使います。",
-        "meaning_explanation_english": "The word りっぱ means 'splendid', 'admirable', or 'legitimate'. You use it to praise appearance, work, behavior, or to say something is proper, respectable, or undeniable.",
-        "kanji_explanation_english": "The first kanji means stand or rise. It shows the idea of standing up or being set up, which you can see in simple words. For example, たつ means to stand and どくりつ means independence, where the sense of standing or being established helps the meaning. The second kanji means faction, group, or style. It appears in words about groups or a particular way of doing things and gives a sense of belonging or style. For example, とうは means a political faction and はで means showy or flashy, where the idea of a group or style shapes the word's nuance.",
-        "kanji_details": [
-            {
-                "kanji": "立",
-                "meanings": [
-                    "erect",
-                    "rise",
-                    "set up",
-                    "stand up"
-                ],
-                "on_readings": [
-                    "リツ",
-                    "リュウ"
-                ],
-                "kun_readings": [
-                    "た.つ",
-                    "た.てる"
-                ],
-                "common_words": [
-                    "立つ (たつ): to stand",
-                    "独立 (どくりつ): independence"
-                ]
-            },
-            {
-                "kanji": "派",
-                "meanings": [
-                    "clique",
-                    "faction",
-                    "group",
-                    "party",
-                    "school",
-                    "sect"
-                ],
-                "on_readings": [
-                    "ハ"
-                ],
-                "kun_readings": [],
-                "common_words": [
-                    "派手 (はで): showy, flashy",
-                    "党派 (とうは): faction, political group"
-                ]
-            }
-        ],
-        "synonyms": [
-            "素晴らしい : すばらしい : wonderful, excellent",
-            "見事 : みごと : splendid, admirable"
-        ],
-        "synonyms_explanation": "The most common synonyms of the りっぱ are すばらしい and みごと. すばらしい is a broad praise word for something excellent, while みごとは more often expresses admiration for something impressive or striking.",
-        "antonyms": [
-            "みっともない : みっともない : shameful, disgraceful"
-        ],
-        "antonyms_explanation": "The most common antonym of the りっぱ is みっともない. みっともない describes behavior or appearance that is embarrassing or shameful, which is the opposite of being praised or respectable.",
-        "examples": [
-            {
-                "kanji": "彼は立派な人だ。",
-                "furigana": "彼(かれ)は立派(りっぱ)な人(ひと)だ。",
-                "translations": {
-                    "EN": "He is a fine man.",
-                    "ID": "Dia pria yang baik.",
-                    "ES": "Él es un buen hombre.",
-                    "VI": "Anh ấy là một người đàn ông tốt.",
-                    "FR": "C'est un homme bien.",
-                    "NE": "उहाँ असल मान्छे हुनुहुन्छ।",
-                    "BN": "সে একজন ভালো মানুষ।",
-                    "ZH": "他是一个好人。",
-                    "KO": "그는 훌륭한 사람이다.",
-                    "TL": "Siya ay isang mabuting tao.",
-                    "MY": "သူက လူကောင်းတစ်ယောက်ပါ။",
-                    "HI": "वह एक अच्छा आदमी है.",
-                    "AR": "إنه رجل جيد.",
-                    "FA": "او مرد خوبی است."
-                }
-            },
-            {
-                "kanji": "これは立派な建物だ。",
-                "furigana": "これは立派(りっぱ)な建物(たてもの)だ。",
-                "translations": {
-                    "EN": "This is a magnificent building.",
-                    "ID": "Ini adalah bangunan yang megah.",
-                    "ES": "Este es un edificio magnífico.",
-                    "VI": "Đây là một tòa nhà tráng lệ.",
-                    "FR": "C'est un bâtiment magnifique.",
-                    "NE": "यो एउटा भव्य भवन हो।",
-                    "BN": "এটি একটি অসাধারণ ভবন।",
-                    "ZH": "这是一座宏伟的建筑。",
-                    "KO": "이것은 훌륭한 건물이다.",
-                    "TL": "Ito ay isang napakagandang gusali.",
-                    "MY": "ဒါက ခမ်းနားတဲ့ အဆောက်အဦးတစ်ခုပါ။",
-                    "HI": "यह एक शानदार इमारत है.",
-                    "AR": "هذا مبنى رائع.",
-                    "FA": "این یک ساختمان باشکوه است."
-                }
-            },
-            {
-                "kanji": "彼女は立派に育った。",
-                "furigana": "彼女(かのじょ)は立派(りっぱ)に育(そだ)った。",
-                "translations": {
-                    "EN": "She grew up well.",
-                    "ID": "Dia tumbuh dengan baik.",
-                    "ES": "Ella creció bien.",
-                    "VI": "Cô bé lớn lên khỏe mạnh.",
-                    "FR": "Elle a bien grandi.",
-                    "NE": "उनी राम्ररी हुर्किइन्।",
-                    "BN": "সে ভালোভাবেই বেড়ে উঠেছে।",
-                    "ZH": "她成长得很好。",
-                    "KO": "그녀는 훌륭하게 자랐다.",
-                    "TL": "Lumaki siya ng maayos.",
-                    "MY": "သူမ ကောင်းကောင်းကြီးပြင်းလာသည်။",
-                    "HI": "वह अच्छी तरह से बड़ी हुई।",
-                    "AR": "لقد نشأت بشكل جيد.",
-                    "FA": "او خوب بزرگ شد."
-                }
-            },
-            {
-                "kanji": "それは立派な成果です。",
-                "furigana": "それは立派(りっぱ)な成果(せいか)です。",
-                "translations": {
-                    "EN": "That is a great achievement.",
-                    "ID": "Itu adalah pencapaian yang hebat.",
-                    "ES": "Esto es un gran logro.",
-                    "VI": "Đó là một thành tựu to lớn.",
-                    "FR": "C’est une grande réussite.",
-                    "NE": "त्यो ठूलो उपलब्धि हो।",
-                    "BN": "এটা একটা বিরাট অর্জন।",
-                    "ZH": "这是一个伟大的成就。",
-                    "KO": "그것은 훌륭한 성과입니다.",
-                    "TL": "Iyan ay isang malaking tagumpay.",
-                    "MY": "အဲဒါက ကြီးကျယ်တဲ့ အောင်မြင်မှုပါ။",
-                    "HI": "यह एक महान उपलब्धि है.",
-                    "AR": "وهذا إنجاز عظيم.",
-                    "FA": "این یک دستاورد بزرگ است."
-                }
-            },
-            {
-                "kanji": "彼の態度は立派だ。",
-                "furigana": "彼(かれ)の態度(たいど)は立派(りっぱ)だ。",
-                "translations": {
-                    "EN": "His attitude is admirable.",
-                    "ID": "Sikapnya mengagumkan.",
-                    "ES": "Su actitud es admirable.",
-                    "VI": "Thái độ của anh ấy thật đáng ngưỡng mộ.",
-                    "FR": "Son attitude est admirable.",
-                    "NE": "उनको मनोवृत्ति प्रशंसनीय छ।",
-                    "BN": "তার মনোভাব প্রশংসনীয়।",
-                    "ZH": "他的态度令人钦佩。",
-                    "KO": "그의 태도는 훌륭하다.",
-                    "TL": "Kahanga-hanga ang kanyang ugali.",
-                    "MY": "သူ့သဘောထားက လေးစားစရာပါ။",
-                    "HI": "उनका रवैया सराहनीय है.",
-                    "AR": "موقفه مثير للإعجاب.",
-                    "FA": "نگرش او قابل تحسین است."
-                }
-            },
-            {
-                "kanji": "立派に務めた。",
-                "furigana": "立派(りっぱ)に務(つと)めた。",
-                "translations": {
-                    "EN": "He served admirably.",
-                    "ID": "Dia mengabdi dengan mengagumkan.",
-                    "ES": "Sirvió admirablemente.",
-                    "VI": "Ông đã phục vụ rất tuyệt vời.",
-                    "FR": "Il a servi admirablement.",
-                    "NE": "उहाँले प्रशंसनीय रूपमा सेवा गर्नुभयो।",
-                    "BN": "তিনি প্রশংসনীয়ভাবে সেবা করেছেন।",
-                    "ZH": "他服务得非常好。",
-                    "KO": "훌륭하게 봉사했다.",
-                    "TL": "Kahanga-hanga siyang naglingkod.",
-                    "MY": "လေးစားအားကျစွာ ထမ်းဆောင်ခဲ့သည်။",
-                    "HI": "उन्होंने सराहनीय सेवा की।",
-                    "AR": "لقد خدم بشكل رائع.",
-                    "FA": "او به طرز شگفت انگیزی خدمت کرد."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "splendid": {
-                "ID": "bagus sekali",
-                "ES": "espléndido",
-                "VI": "tuyệt vời",
-                "FR": "splendide",
-                "NE": "भव्य",
-                "BN": "চমৎকার",
-                "ZH": "灿烂",
-                "KO": "화려한",
-                "TL": "kahanga-hanga",
-                "MY": "ခမ်းနားသည်။",
-                "HI": "उत्कृष्ट",
-                "AR": "رائع",
-                "FA": "باشکوه",
-                "EN": [
-                    "fine",
-                    "handsome",
-                    "elegant",
-                    "imposing",
-                    "prominent",
-                    "impressive"
-                ]
-            },
-            "praiseworthy": {
-                "ID": "terpuji",
-                "ES": "loable",
-                "VI": "đáng khen ngợi",
-                "FR": "louable",
-                "NE": "प्रशंसनीय",
-                "BN": "প্রশংসনীয়",
-                "ZH": "值得称赞",
-                "KO": "기특한",
-                "TL": "kapuri-puri",
-                "MY": "ချီးမွမ်းထိုက်သော",
-                "HI": "प्रशंसनीय",
-                "AR": "جدير بالثناء",
-                "FA": "قابل ستایش",
-                "EN": [
-                    "creditable",
-                    "worthy"
-                ]
-            },
-            "legal": {
-                "ID": "legal",
-                "ES": "legal",
-                "VI": "hợp pháp",
-                "FR": "légal",
-                "NE": "कानुनी",
-                "BN": "আইনগত",
-                "ZH": "合法的",
-                "KO": "합법적인",
-                "TL": "legal",
-                "MY": "တရားဝင်",
-                "HI": "कानूनी",
-                "AR": "قانوني",
-                "FA": "قانونی",
-                "EN": [
-                    "legitimate",
-                    "lawful"
-                ]
-            },
-            "undeniable": {
-                "ID": "tak terbantahkan",
-                "ES": "innegable",
-                "VI": "không thể phủ nhận",
-                "FR": "indéniable",
-                "NE": "निर्विवाद",
-                "BN": "অনস্বীকার্য",
-                "ZH": "不可否认",
-                "KO": "부인할 수 없는",
-                "TL": "hindi maikakaila",
-                "MY": "မငြင်းနိုင်သော",
-                "HI": "निर्विवाद",
-                "AR": "لا ينكر",
-                "FA": "غیرقابل انکار",
-                "EN": [
-                    "indisputable",
-                    "solid"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "立派",
-        "is_common": true,
-        "tags": [
-            "wanikani21"
-        ],
-        "jlpt": [
-            "jlpt-n3",
-            "jlpt-n5"
-        ],
-        "japanese": [
-            {
-                "word": "立派",
-                "reading": "りっぱ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "splendid",
-                    "fine",
-                    "handsome",
-                    "elegant",
-                    "imposing",
-                    "prominent",
-                    "impressive"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "praiseworthy",
-                    "creditable",
-                    "worthy"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "legal",
-                    "legitimate",
-                    "lawful"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "undeniable (e.g. crime)",
-                    "indisputable",
-                    "solid"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "立",
-        "派"
+  "version": "0.3.0",
+  "word": "立派",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/FtKY7maks7w",
+  "in_db": true,
+  "kanji": "立派",
+  "reading": "りっぱ",
+  "introduction_japanese": "立派は、誰かをほめるときや、正式な場面、外見や行動について話すときによく使う言葉です。学校や仕事での成果や態度についての会話でもよく出ます。",
+  "introduction_english": "The adjective りっぱ is commonly seen when praising someone, in formal situations, and when talking about appearance, behavior, or achievements.",
+  "meanings": [
+    [
+      "splendid",
+      "fine",
+      "handsome",
+      "elegant",
+      "imposing",
+      "prominent",
+      "impressive"
     ],
-    "kanji_data": {
-        "立": {
-            "freq_mainichi_shinbun": 58,
-            "grade": 1,
-            "heisig_en": "stand up",
-            "jlpt": 4,
-            "kanji": "立",
-            "kun_readings": [
-                "-た.つ",
-                "-た.て",
-                "-た.てる",
-                "-だ.て",
-                "-だ.てる",
-                "た.ち-",
-                "た.つ",
-                "た.て-",
-                "た.てる",
-                "たて-"
-            ],
-            "meanings": [
-                "erect",
-                "rise",
-                "set up",
-                "stand up"
-            ],
-            "name_readings": [
-                "たち",
-                "たっ",
-                "たつ",
-                "だて",
-                "つい"
-            ],
-            "notes": [],
-            "on_readings": [
-                "リットル",
-                "リツ",
-                "リュウ"
-            ],
-            "stroke_count": 5,
-            "unicode": "7ACB"
-        },
-        "派": {
-            "freq_mainichi_shinbun": 164,
-            "grade": 6,
-            "heisig_en": "faction",
-            "jlpt": 1,
-            "kanji": "派",
-            "kun_readings": [],
-            "meanings": [
-                "clique",
-                "faction",
-                "group",
-                "party",
-                "school",
-                "sect"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "ハ"
-            ],
-            "stroke_count": 9,
-            "unicode": "6D3E"
-        }
-    },
-    "collocations": [
-        "立派な人物",
-        "立派な建物",
-        "立派な仕事",
-        "立派な成果",
-        "立派な態度",
-        "人は立派だ",
-        "建物は立派である",
-        "彼は立派な人だ",
-        "それは立派なことだ",
-        "立派なものである",
-        "立派に育つ",
-        "立派に成長する",
-        "立派に振る舞う",
-        "立派に見える",
-        "立派に務める",
-        "とても立派に",
-        "実に立派に",
-        "なかなか立派に",
-        "立派に…している",
-        "見事に立派に",
-        "立派さを感じる",
-        "立派さを示す",
-        "立派さを備える",
-        "立派さを失う",
-        "立派な様子を呈する"
+    [
+      "praiseworthy",
+      "creditable",
+      "worthy"
+    ],
+    [
+      "legal",
+      "legitimate",
+      "lawful"
+    ],
+    [
+      "undeniable",
+      "indisputable",
+      "solid"
     ]
+  ],
+  "meaning_explanation_japanese": "「立派」は、見た目や仕事、態度などがすばらしいときに使うな形容詞です。また、正式や正当だと言いたいときや、疑いようがないことを表す時にも使います。",
+  "meaning_explanation_english": "The word りっぱ means 'splendid', 'admirable', or 'legitimate'. You use it to praise appearance, work, behavior, or to say something is proper, respectable, or undeniable.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "立",
+      "meanings": [
+        "erect",
+        "rise",
+        "set up",
+        "stand up"
+      ],
+      "on_readings": [
+        "リツ",
+        "リュウ"
+      ],
+      "kun_readings": [
+        "た.つ",
+        "た.てる"
+      ],
+      "common_words": [
+        "立つ (たつ): to stand",
+        "独立 (どくりつ): independence"
+      ]
+    },
+    {
+      "kanji": "派",
+      "meanings": [
+        "clique",
+        "faction",
+        "group",
+        "party",
+        "school",
+        "sect"
+      ],
+      "on_readings": [
+        "ハ"
+      ],
+      "kun_readings": [],
+      "common_words": [
+        "派手 (はで): showy, flashy",
+        "党派 (とうは): faction, political group"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means stand or rise. It shows the idea of standing up or being set up, which you can see in simple words. For example, たつ means to stand and どくりつ means independence, where the sense of standing or being established helps the meaning. The second kanji means faction, group, or style. It appears in words about groups or a particular way of doing things and gives a sense of belonging or style. For example, とうは means a political faction and はで means showy or flashy, where the idea of a group or style shapes the word's nuance.",
+  "synonyms": [
+    "素晴らしい : すばらしい : wonderful, excellent",
+    "見事 : みごと : splendid, admirable"
+  ],
+  "synonym_explanation": "The most common synonyms of the りっぱ are すばらしい and みごと. すばらしい is a broad praise word for something excellent, while みごとは more often expresses admiration for something impressive or striking.",
+  "antonyms": [
+    "みっともない : みっともない : shameful, disgraceful"
+  ],
+  "antonym_explanation": "The most common antonym of the りっぱ is みっともない. みっともない describes behavior or appearance that is embarrassing or shameful, which is the opposite of being praised or respectable.",
+  "collocations": [
+    {
+      "kanji": "立派な人物",
+      "furigana": "立派な人物",
+      "translations": {}
+    },
+    {
+      "kanji": "立派な建物",
+      "furigana": "立派な建物",
+      "translations": {}
+    },
+    {
+      "kanji": "立派な仕事",
+      "furigana": "立派な仕事",
+      "translations": {}
+    },
+    {
+      "kanji": "立派な成果",
+      "furigana": "立派な成果",
+      "translations": {}
+    },
+    {
+      "kanji": "立派な態度",
+      "furigana": "立派な態度",
+      "translations": {}
+    },
+    {
+      "kanji": "人は立派だ",
+      "furigana": "人は立派だ",
+      "translations": {}
+    },
+    {
+      "kanji": "建物は立派である",
+      "furigana": "建物は立派である",
+      "translations": {}
+    },
+    {
+      "kanji": "彼は立派な人だ",
+      "furigana": "彼は立派な人だ",
+      "translations": {}
+    },
+    {
+      "kanji": "それは立派なことだ",
+      "furigana": "それは立派なことだ",
+      "translations": {}
+    },
+    {
+      "kanji": "立派なものである",
+      "furigana": "立派なものである",
+      "translations": {}
+    },
+    {
+      "kanji": "立派に育つ",
+      "furigana": "立派に育つ",
+      "translations": {}
+    },
+    {
+      "kanji": "立派に成長する",
+      "furigana": "立派に成長する",
+      "translations": {}
+    },
+    {
+      "kanji": "立派に振る舞う",
+      "furigana": "立派に振る舞う",
+      "translations": {}
+    },
+    {
+      "kanji": "立派に見える",
+      "furigana": "立派に見える",
+      "translations": {}
+    },
+    {
+      "kanji": "立派に務める",
+      "furigana": "立派に務める",
+      "translations": {}
+    },
+    {
+      "kanji": "とても立派に",
+      "furigana": "とても立派に",
+      "translations": {}
+    },
+    {
+      "kanji": "実に立派に",
+      "furigana": "実に立派に",
+      "translations": {}
+    },
+    {
+      "kanji": "なかなか立派に",
+      "furigana": "なかなか立派に",
+      "translations": {}
+    },
+    {
+      "kanji": "立派に…している",
+      "furigana": "立派に…している",
+      "translations": {}
+    },
+    {
+      "kanji": "見事に立派に",
+      "furigana": "見事に立派に",
+      "translations": {}
+    },
+    {
+      "kanji": "立派さを感じる",
+      "furigana": "立派さを感じる",
+      "translations": {}
+    },
+    {
+      "kanji": "立派さを示す",
+      "furigana": "立派さを示す",
+      "translations": {}
+    },
+    {
+      "kanji": "立派さを備える",
+      "furigana": "立派さを備える",
+      "translations": {}
+    },
+    {
+      "kanji": "立派さを失う",
+      "furigana": "立派さを失う",
+      "translations": {}
+    },
+    {
+      "kanji": "立派な様子を呈する",
+      "furigana": "立派な様子を呈する",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は立派な人だ。",
+      "furigana": "彼(かれ)は立派(りっぱ)な人(ひと)だ。",
+      "translations": {
+        "EN": "He is a fine man.",
+        "ID": "Dia pria yang baik.",
+        "ES": "Él es un buen hombre.",
+        "VI": "Anh ấy là một người đàn ông tốt.",
+        "FR": "C'est un homme bien.",
+        "NE": "उहाँ असल मान्छे हुनुहुन्छ।",
+        "BN": "সে একজন ভালো মানুষ।",
+        "ZH": "他是一个好人。",
+        "KO": "그는 훌륭한 사람이다.",
+        "TL": "Siya ay isang mabuting tao.",
+        "MY": "သူက လူကောင်းတစ်ယောက်ပါ။",
+        "HI": "वह एक अच्छा आदमी है.",
+        "AR": "إنه رجل جيد.",
+        "FA": "او مرد خوبی است."
+      }
+    },
+    {
+      "kanji": "これは立派な建物だ。",
+      "furigana": "これは立派(りっぱ)な建物(たてもの)だ。",
+      "translations": {
+        "EN": "This is a magnificent building.",
+        "ID": "Ini adalah bangunan yang megah.",
+        "ES": "Este es un edificio magnífico.",
+        "VI": "Đây là một tòa nhà tráng lệ.",
+        "FR": "C'est un bâtiment magnifique.",
+        "NE": "यो एउटा भव्य भवन हो।",
+        "BN": "এটি একটি অসাধারণ ভবন।",
+        "ZH": "这是一座宏伟的建筑。",
+        "KO": "이것은 훌륭한 건물이다.",
+        "TL": "Ito ay isang napakagandang gusali.",
+        "MY": "ဒါက ခမ်းနားတဲ့ အဆောက်အဦးတစ်ခုပါ။",
+        "HI": "यह एक शानदार इमारत है.",
+        "AR": "هذا مبنى رائع.",
+        "FA": "این یک ساختمان باشکوه است."
+      }
+    },
+    {
+      "kanji": "彼女は立派に育った。",
+      "furigana": "彼女(かのじょ)は立派(りっぱ)に育(そだ)った。",
+      "translations": {
+        "EN": "She grew up well.",
+        "ID": "Dia tumbuh dengan baik.",
+        "ES": "Ella creció bien.",
+        "VI": "Cô bé lớn lên khỏe mạnh.",
+        "FR": "Elle a bien grandi.",
+        "NE": "उनी राम्ररी हुर्किइन्।",
+        "BN": "সে ভালোভাবেই বেড়ে উঠেছে।",
+        "ZH": "她成长得很好。",
+        "KO": "그녀는 훌륭하게 자랐다.",
+        "TL": "Lumaki siya ng maayos.",
+        "MY": "သူမ ကောင်းကောင်းကြီးပြင်းလာသည်။",
+        "HI": "वह अच्छी तरह से बड़ी हुई।",
+        "AR": "لقد نشأت بشكل جيد.",
+        "FA": "او خوب بزرگ شد."
+      }
+    },
+    {
+      "kanji": "それは立派な成果です。",
+      "furigana": "それは立派(りっぱ)な成果(せいか)です。",
+      "translations": {
+        "EN": "That is a great achievement.",
+        "ID": "Itu adalah pencapaian yang hebat.",
+        "ES": "Esto es un gran logro.",
+        "VI": "Đó là một thành tựu to lớn.",
+        "FR": "C’est une grande réussite.",
+        "NE": "त्यो ठूलो उपलब्धि हो।",
+        "BN": "এটা একটা বিরাট অর্জন।",
+        "ZH": "这是一个伟大的成就。",
+        "KO": "그것은 훌륭한 성과입니다.",
+        "TL": "Iyan ay isang malaking tagumpay.",
+        "MY": "အဲဒါက ကြီးကျယ်တဲ့ အောင်မြင်မှုပါ။",
+        "HI": "यह एक महान उपलब्धि है.",
+        "AR": "وهذا إنجاز عظيم.",
+        "FA": "این یک دستاورد بزرگ است."
+      }
+    },
+    {
+      "kanji": "彼の態度は立派だ。",
+      "furigana": "彼(かれ)の態度(たいど)は立派(りっぱ)だ。",
+      "translations": {
+        "EN": "His attitude is admirable.",
+        "ID": "Sikapnya mengagumkan.",
+        "ES": "Su actitud es admirable.",
+        "VI": "Thái độ của anh ấy thật đáng ngưỡng mộ.",
+        "FR": "Son attitude est admirable.",
+        "NE": "उनको मनोवृत्ति प्रशंसनीय छ।",
+        "BN": "তার মনোভাব প্রশংসনীয়।",
+        "ZH": "他的态度令人钦佩。",
+        "KO": "그의 태도는 훌륭하다.",
+        "TL": "Kahanga-hanga ang kanyang ugali.",
+        "MY": "သူ့သဘောထားက လေးစားစရာပါ။",
+        "HI": "उनका रवैया सराहनीय है.",
+        "AR": "موقفه مثير للإعجاب.",
+        "FA": "نگرش او قابل تحسین است."
+      }
+    },
+    {
+      "kanji": "立派に務めた。",
+      "furigana": "立派(りっぱ)に務(つと)めた。",
+      "translations": {
+        "EN": "He served admirably.",
+        "ID": "Dia mengabdi dengan mengagumkan.",
+        "ES": "Sirvió admirablemente.",
+        "VI": "Ông đã phục vụ rất tuyệt vời.",
+        "FR": "Il a servi admirablement.",
+        "NE": "उहाँले प्रशंसनीय रूपमा सेवा गर्नुभयो।",
+        "BN": "তিনি প্রশংসনীয়ভাবে সেবা করেছেন।",
+        "ZH": "他服务得非常好。",
+        "KO": "훌륭하게 봉사했다.",
+        "TL": "Kahanga-hanga siyang naglingkod.",
+        "MY": "လေးစားအားကျစွာ ထမ်းဆောင်ခဲ့သည်။",
+        "HI": "उन्होंने सराहनीय सेवा की।",
+        "AR": "لقد خدم بشكل رائع.",
+        "FA": "او به طرز شگفت انگیزی خدمت کرد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "splendid": {
+      "ID": "bagus sekali",
+      "ES": "espléndido",
+      "VI": "tuyệt vời",
+      "FR": "splendide",
+      "NE": "भव्य",
+      "BN": "চমৎকার",
+      "ZH": "灿烂",
+      "KO": "화려한",
+      "TL": "kahanga-hanga",
+      "MY": "ခမ်းနားသည်။",
+      "HI": "उत्कृष्ट",
+      "AR": "رائع",
+      "FA": "باشکوه",
+      "EN": [
+        "fine",
+        "handsome",
+        "elegant",
+        "imposing",
+        "prominent",
+        "impressive"
+      ]
+    },
+    "praiseworthy": {
+      "ID": "terpuji",
+      "ES": "loable",
+      "VI": "đáng khen ngợi",
+      "FR": "louable",
+      "NE": "प्रशंसनीय",
+      "BN": "প্রশংসনীয়",
+      "ZH": "值得称赞",
+      "KO": "기특한",
+      "TL": "kapuri-puri",
+      "MY": "ချီးမွမ်းထိုက်သော",
+      "HI": "प्रशंसनीय",
+      "AR": "جدير بالثناء",
+      "FA": "قابل ستایش",
+      "EN": [
+        "creditable",
+        "worthy"
+      ]
+    },
+    "legal": {
+      "ID": "legal",
+      "ES": "legal",
+      "VI": "hợp pháp",
+      "FR": "légal",
+      "NE": "कानुनी",
+      "BN": "আইনগত",
+      "ZH": "合法的",
+      "KO": "합법적인",
+      "TL": "legal",
+      "MY": "တရားဝင်",
+      "HI": "कानूनी",
+      "AR": "قانوني",
+      "FA": "قانونی",
+      "EN": [
+        "legitimate",
+        "lawful"
+      ]
+    },
+    "undeniable": {
+      "ID": "tak terbantahkan",
+      "ES": "innegable",
+      "VI": "không thể phủ nhận",
+      "FR": "indéniable",
+      "NE": "निर्विवाद",
+      "BN": "অনস্বীকার্য",
+      "ZH": "不可否认",
+      "KO": "부인할 수 없는",
+      "TL": "hindi maikakaila",
+      "MY": "မငြင်းနိုင်သော",
+      "HI": "निर्विवाद",
+      "AR": "لا ينكر",
+      "FA": "غیرقابل انکار",
+      "EN": [
+        "indisputable",
+        "solid"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "立派",
+    "is_common": true,
+    "tags": [
+      "wanikani21"
+    ],
+    "jlpt": [
+      "jlpt-n3",
+      "jlpt-n5"
+    ],
+    "japanese": [
+      {
+        "word": "立派",
+        "reading": "りっぱ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "splendid",
+          "fine",
+          "handsome",
+          "elegant",
+          "imposing",
+          "prominent",
+          "impressive"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "praiseworthy",
+          "creditable",
+          "worthy"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "legal",
+          "legitimate",
+          "lawful"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "undeniable (e.g. crime)",
+          "indisputable",
+          "solid"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "立",
+    "派"
+  ],
+  "kanji_data": {
+    "立": {
+      "freq_mainichi_shinbun": 58,
+      "grade": 1,
+      "heisig_en": "stand up",
+      "jlpt": 4,
+      "kanji": "立",
+      "kun_readings": [
+        "-た.つ",
+        "-た.て",
+        "-た.てる",
+        "-だ.て",
+        "-だ.てる",
+        "た.ち-",
+        "た.つ",
+        "た.て-",
+        "た.てる",
+        "たて-"
+      ],
+      "meanings": [
+        "erect",
+        "rise",
+        "set up",
+        "stand up"
+      ],
+      "name_readings": [
+        "たち",
+        "たっ",
+        "たつ",
+        "だて",
+        "つい"
+      ],
+      "notes": [],
+      "on_readings": [
+        "リットル",
+        "リツ",
+        "リュウ"
+      ],
+      "stroke_count": 5,
+      "unicode": "7ACB"
+    },
+    "派": {
+      "freq_mainichi_shinbun": 164,
+      "grade": 6,
+      "heisig_en": "faction",
+      "jlpt": 1,
+      "kanji": "派",
+      "kun_readings": [],
+      "meanings": [
+        "clique",
+        "faction",
+        "group",
+        "party",
+        "school",
+        "sect"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "ハ"
+      ],
+      "stroke_count": 9,
+      "unicode": "6D3E"
+    }
+  }
 }

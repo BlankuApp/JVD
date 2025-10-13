@@ -1,263 +1,282 @@
 {
-    "version": "0.2.0",
-    "word": "怠ける",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/rR7HdwGXhzY",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "怠ける",
-        "reading": "なまける",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is なまける, which you will often hear in contexts related to work or tasks. For example, when someone chooses to procrastinate instead of finishing a project, or when they're avoiding chores, なまける is often the word used to describe this lack of effort or motivation.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"なまける\" means to be lazy or to neglect doing something. It's often used when someone is not putting in effort or avoiding work or responsibilities. For example, if someone decides not to study for a test because they're lazy, you might use this word to describe their behavior.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "to be lazy",
-                "to be idle",
-                "to slack"
-            ],
-            [
-                "to neglect",
-                "to be neglectful of",
-                "to skip"
-            ]
-        ],
-        "meaning_translations": {
-            "to be lazy": {
-                "EN": "to be lazy",
-                "ID": "menjadi malas",
-                "ES": "ser perezoso",
-                "VI": "lười biếng",
-                "FR": "être paresseux",
-                "NE": "अल्छी हुनु",
-                "BN": "অলস হতে হয়",
-                "ZH": "懒惰",
-                "KO": "게으르다",
-                "TL": "maging tamad",
-                "MY": "အပြုံး",
-                "HI": "आलसी होना",
-                "AR": "أن تكون كسولًا",
-                "FA": "تنبل بودن"
-            },
-            "to neglect": {
-                "EN": "Neglect",
-                "ID": "Mengabaikan",
-                "ES": "Negligencia",
-                "VI": "Bỏ bê",
-                "FR": "Négliger",
-                "NE": "नज़रअन्दाज गर्नु",
-                "BN": "অহেলা করা",
-                "ZH": "忽视",
-                "KO": "무시하다",
-                "TL": "Pabayaan",
-                "MY": "လေးနက်မှုမရှိသည့်",
-                "HI": "उपेक्षा करना",
-                "AR": "إهمال",
-                "FA": "غفلت کردن"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は仕事を怠ける。",
-                "furigana": "彼(かれ)は仕事(しごと)を怠(なま)ける。",
-                "translations": {
-                    "EN": "He is lazy at work.",
-                    "ID": "Dia malas dalam pekerjaan.",
-                    "ES": "Él es perezoso en el trabajo.",
-                    "VI": "Anh ấy lười biếng trong công việc.",
-                    "FR": "Il est paresseux au travail.",
-                    "NE": "उनी काममा अल्छी गर्छन्।",
-                    "BN": "সে কাজ করতে আলসেমি করে।",
-                    "ZH": "他在工作中很懒散。",
-                    "KO": "그는 일하는 데 게으르다.",
-                    "TL": "Tamad siya sa trabaho.",
-                    "MY": "သူသည် အလုပ်မှာ ပျင်းရိသည်။",
-                    "HI": "वह काम में आलसी है।",
-                    "AR": "هو كسول في العمل.",
-                    "FA": "او در محل کار تنبلی می کند."
-                }
-            },
-            {
-                "kanji": "彼は勉強を怠けている。",
-                "furigana": "彼(かれ)は勉強(べんきょう)を怠(なま)けている。",
-                "translations": {
-                    "EN": "He is neglecting his studies.",
-                    "ID": "Dia malas belajar.",
-                    "ES": "Él está descuidando sus estudios.",
-                    "VI": "Anh ấy đang lười học.",
-                    "FR": "Il néglige ses études.",
-                    "NE": "उनी पढाइलाई बेवास्ता गर्दैछन्।",
-                    "BN": "সে পড়াশোনায় অবহেলা করছে।",
-                    "ZH": "他在偷懒不学习。",
-                    "KO": "그는 공부를 게을리하고 있다.",
-                    "TL": "Siya ay nagpapabaya sa kanyang pag-aaral.",
-                    "MY": "သူက စာလေ့လာခြင်းကို ပျင်းနေတယ်။",
-                    "HI": "वह पढ़ाई में लापरवाही कर रहा है।",
-                    "AR": "هو يُهمل دراسته.",
-                    "FA": "او در مطالعه سستی می‌کند."
-                }
-            },
-            {
-                "kanji": "掃除を怠けます。",
-                "furigana": "掃除(そうじ)を怠(なま)けます。",
-                "translations": {
-                    "EN": "I neglect cleaning.",
-                    "ID": "Saya malas membersihkannya.",
-                    "ES": "Descuidé la limpieza.",
-                    "VI": "Tôi lười dọn dẹp.",
-                    "FR": "Je néglige le ménage.",
-                    "NE": "म सफ़ाई नगर्ने गर्छु।",
-                    "BN": "আমি পরিষ্কার করা এড়িয়ে যাই।",
-                    "ZH": "我忽略打扫。",
-                    "KO": "청소를 게을리해요.",
-                    "TL": "Nagpapabaya ako sa paglilinis.",
-                    "MY": "တစ်ခါတစ်ရံ သန့်ရှင်းရေးကို ပျော်ပျက်ပစ်တတ်ပါတယ်။",
-                    "HI": "मैं सफाई के काम को टाल देता हूँ।",
-                    "AR": "أهمل التنظيف.",
-                    "FA": "من نظافت را نادیده می‌گیرم."
-                }
-            },
-            {
-                "kanji": "彼は運動を怠けます。",
-                "furigana": "彼(かれ)は運動(うんどう)を怠(なま)けます。",
-                "translations": {
-                    "EN": "He is lazy about exercising.",
-                    "ID": "Dia malas berolahraga.",
-                    "ES": "Él es flojo para hacer ejercicio.",
-                    "VI": "Anh ấy lười tập thể dục.",
-                    "FR": "Il est paresseux pour faire de l'exercice.",
-                    "NE": "ऊ व्यायाम गर्न अल्छी गर्छ।",
-                    "BN": "তিনি ব্যায়াম করতে কুঁড়েমি করেন।",
-                    "ZH": "他懒得锻炼。",
-                    "KO": "그는 운동을 게을리합니다.",
-                    "TL": "Tamad siya sa pag-eehersisyo.",
-                    "MY": "သူက အားကစားလုပ်ဖို့ကို ပျင်းနေပါတယ်။",
-                    "HI": "वह व्यायाम करने में आलसी है।",
-                    "AR": "هو كسول بشأن ممارسة الرياضة.",
-                    "FA": "او در ورزش کردن تنبلی می‌کند."
-                }
-            },
-            {
-                "kanji": "彼はなまけ者です。",
-                "furigana": "彼(かれ)はなまけ者(もの)です。",
-                "translations": {
-                    "EN": "He is a lazy person.",
-                    "ID": "Dia adalah orang malas.",
-                    "ES": "Él es una persona perezosa.",
-                    "VI": "Anh ấy là người lười biếng.",
-                    "FR": "Il est une personne paresseuse.",
-                    "NE": "ऊ अल्छी व्यक्ति हो।",
-                    "BN": "সে একজন অলস ব্যক্তি।",
-                    "ZH": "他是个懒人。",
-                    "KO": "그는 게으른 사람입니다.",
-                    "TL": "Siya ay isang tamad na tao.",
-                    "MY": "သူသည်ပျင်းစရာသူတစ်ဦးဖြစ်သည်။",
-                    "HI": "वह एक आलसी व्यक्ति है।",
-                    "AR": "هو شخص كسول.",
-                    "FA": "او یک فرد تنبل است."
-                }
-            }
-        ],
-        "synonyms": [
-            "サボる : サボる : to be truant",
-            "怠惰 : たいだ : lazy"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"なまける\" are \"さぼる\" and \"怠惰\". \n\"さぼる\" refers to the act of skipping work or lessons, often implying neglecting responsibilities. \n\"怠惰\" conveys a sense of laziness or inactivity, often used to describe a person's disposition or lifestyle, emphasizing a habitual or constant state. ",
-        "antonyms": [
-            "勤勉 : きんべん : diligent",
-            "熱心 : ねっしん : zealous"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"なまける\" are \"勤勉\" and \"熱心\". \n\"勤勉\" describes someone as diligent, highlighting their consistent effort and hard work.\n\"熱心\" means being enthusiastic or zealous, showing a passionate commitment to tasks or activities, contrasting greatly with laziness.",
-        "kanji_details": [
-            {
-                "kanji": "怠",
-                "common_words": [
-                    "怠惰: lazy",
-                    "怠慢: negligence"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "怠ける",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "怠ける",
-                "reading": "なまける"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "to be lazy",
-                    "to be idle",
-                    "to slack"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to neglect",
-                    "to be neglectful of",
-                    "to skip"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "怠"
+  "version": "0.3.0",
+  "word": "怠ける",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/rR7HdwGXhzY",
+  "in_db": true,
+  "kanji": "怠ける",
+  "reading": "なまける",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is なまける, which you will often hear in contexts related to work or tasks. For example, when someone chooses to procrastinate instead of finishing a project, or when they're avoiding chores, なまける is often the word used to describe this lack of effort or motivation.",
+  "meanings": [
+    [
+      "to be lazy",
+      "to be idle",
+      "to slack"
     ],
-    "kanji_data": {
-        "怠": {
-            "meanings": [
-                "laziness",
-                "neglect"
-            ],
-            "on_readings": [
-                "タイ"
-            ],
-            "kun_readings": [
-                "おこた.る",
-                "なま.ける"
-            ],
-            "stroke_count": 9,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 1703,
-            "unicode": "6020",
-            "grade": 8
-        }
-    },
-    "collocations": [
-        "仕事をなまける",
-        "勉強をなまけている",
-        "掃除をなまける",
-        "運動をなまける",
-        "なまけ者"
+    [
+      "to neglect",
+      "to be neglectful of",
+      "to skip"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"なまける\" means to be lazy or to neglect doing something. It's often used when someone is not putting in effort or avoiding work or responsibilities. For example, if someone decides not to study for a test because they're lazy, you might use this word to describe their behavior.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "怠",
+      "common_words": [
+        "怠惰: lazy",
+        "怠慢: negligence"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "サボる : サボる : to be truant",
+    "怠惰 : たいだ : lazy"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"なまける\" are \"さぼる\" and \"怠惰\". \n\"さぼる\" refers to the act of skipping work or lessons, often implying neglecting responsibilities. \n\"怠惰\" conveys a sense of laziness or inactivity, often used to describe a person's disposition or lifestyle, emphasizing a habitual or constant state. ",
+  "antonyms": [
+    "勤勉 : きんべん : diligent",
+    "熱心 : ねっしん : zealous"
+  ],
+  "antonym_explanation": "The most common antonyms of the word \"なまける\" are \"勤勉\" and \"熱心\". \n\"勤勉\" describes someone as diligent, highlighting their consistent effort and hard work.\n\"熱心\" means being enthusiastic or zealous, showing a passionate commitment to tasks or activities, contrasting greatly with laziness.",
+  "collocations": [
+    {
+      "kanji": "仕事をなまける",
+      "furigana": "仕事をなまける",
+      "translations": {}
+    },
+    {
+      "kanji": "勉強をなまけている",
+      "furigana": "勉強をなまけている",
+      "translations": {}
+    },
+    {
+      "kanji": "掃除をなまける",
+      "furigana": "掃除をなまける",
+      "translations": {}
+    },
+    {
+      "kanji": "運動をなまける",
+      "furigana": "運動をなまける",
+      "translations": {}
+    },
+    {
+      "kanji": "なまけ者",
+      "furigana": "なまけ者",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は仕事を怠ける。",
+      "furigana": "彼(かれ)は仕事(しごと)を怠(なま)ける。",
+      "translations": {
+        "EN": "He is lazy at work.",
+        "ID": "Dia malas dalam pekerjaan.",
+        "ES": "Él es perezoso en el trabajo.",
+        "VI": "Anh ấy lười biếng trong công việc.",
+        "FR": "Il est paresseux au travail.",
+        "NE": "उनी काममा अल्छी गर्छन्।",
+        "BN": "সে কাজ করতে আলসেমি করে।",
+        "ZH": "他在工作中很懒散。",
+        "KO": "그는 일하는 데 게으르다.",
+        "TL": "Tamad siya sa trabaho.",
+        "MY": "သူသည် အလုပ်မှာ ပျင်းရိသည်။",
+        "HI": "वह काम में आलसी है।",
+        "AR": "هو كسول في العمل.",
+        "FA": "او در محل کار تنبلی می کند."
+      }
+    },
+    {
+      "kanji": "彼は勉強を怠けている。",
+      "furigana": "彼(かれ)は勉強(べんきょう)を怠(なま)けている。",
+      "translations": {
+        "EN": "He is neglecting his studies.",
+        "ID": "Dia malas belajar.",
+        "ES": "Él está descuidando sus estudios.",
+        "VI": "Anh ấy đang lười học.",
+        "FR": "Il néglige ses études.",
+        "NE": "उनी पढाइलाई बेवास्ता गर्दैछन्।",
+        "BN": "সে পড়াশোনায় অবহেলা করছে।",
+        "ZH": "他在偷懒不学习。",
+        "KO": "그는 공부를 게을리하고 있다.",
+        "TL": "Siya ay nagpapabaya sa kanyang pag-aaral.",
+        "MY": "သူက စာလေ့လာခြင်းကို ပျင်းနေတယ်။",
+        "HI": "वह पढ़ाई में लापरवाही कर रहा है।",
+        "AR": "هو يُهمل دراسته.",
+        "FA": "او در مطالعه سستی می‌کند."
+      }
+    },
+    {
+      "kanji": "掃除を怠けます。",
+      "furigana": "掃除(そうじ)を怠(なま)けます。",
+      "translations": {
+        "EN": "I neglect cleaning.",
+        "ID": "Saya malas membersihkannya.",
+        "ES": "Descuidé la limpieza.",
+        "VI": "Tôi lười dọn dẹp.",
+        "FR": "Je néglige le ménage.",
+        "NE": "म सफ़ाई नगर्ने गर्छु।",
+        "BN": "আমি পরিষ্কার করা এড়িয়ে যাই।",
+        "ZH": "我忽略打扫。",
+        "KO": "청소를 게을리해요.",
+        "TL": "Nagpapabaya ako sa paglilinis.",
+        "MY": "တစ်ခါတစ်ရံ သန့်ရှင်းရေးကို ပျော်ပျက်ပစ်တတ်ပါတယ်။",
+        "HI": "मैं सफाई के काम को टाल देता हूँ।",
+        "AR": "أهمل التنظيف.",
+        "FA": "من نظافت را نادیده می‌گیرم."
+      }
+    },
+    {
+      "kanji": "彼は運動を怠けます。",
+      "furigana": "彼(かれ)は運動(うんどう)を怠(なま)けます。",
+      "translations": {
+        "EN": "He is lazy about exercising.",
+        "ID": "Dia malas berolahraga.",
+        "ES": "Él es flojo para hacer ejercicio.",
+        "VI": "Anh ấy lười tập thể dục.",
+        "FR": "Il est paresseux pour faire de l'exercice.",
+        "NE": "ऊ व्यायाम गर्न अल्छी गर्छ।",
+        "BN": "তিনি ব্যায়াম করতে কুঁড়েমি করেন।",
+        "ZH": "他懒得锻炼。",
+        "KO": "그는 운동을 게을리합니다.",
+        "TL": "Tamad siya sa pag-eehersisyo.",
+        "MY": "သူက အားကစားလုပ်ဖို့ကို ပျင်းနေပါတယ်။",
+        "HI": "वह व्यायाम करने में आलसी है।",
+        "AR": "هو كسول بشأن ممارسة الرياضة.",
+        "FA": "او در ورزش کردن تنبلی می‌کند."
+      }
+    },
+    {
+      "kanji": "彼はなまけ者です。",
+      "furigana": "彼(かれ)はなまけ者(もの)です。",
+      "translations": {
+        "EN": "He is a lazy person.",
+        "ID": "Dia adalah orang malas.",
+        "ES": "Él es una persona perezosa.",
+        "VI": "Anh ấy là người lười biếng.",
+        "FR": "Il est une personne paresseuse.",
+        "NE": "ऊ अल्छी व्यक्ति हो।",
+        "BN": "সে একজন অলস ব্যক্তি।",
+        "ZH": "他是个懒人。",
+        "KO": "그는 게으른 사람입니다.",
+        "TL": "Siya ay isang tamad na tao.",
+        "MY": "သူသည်ပျင်းစရာသူတစ်ဦးဖြစ်သည်။",
+        "HI": "वह एक आलसी व्यक्ति है।",
+        "AR": "هو شخص كسول.",
+        "FA": "او یک فرد تنبل است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "to be lazy": {
+      "EN": "to be lazy",
+      "ID": "menjadi malas",
+      "ES": "ser perezoso",
+      "VI": "lười biếng",
+      "FR": "être paresseux",
+      "NE": "अल्छी हुनु",
+      "BN": "অলস হতে হয়",
+      "ZH": "懒惰",
+      "KO": "게으르다",
+      "TL": "maging tamad",
+      "MY": "အပြုံး",
+      "HI": "आलसी होना",
+      "AR": "أن تكون كسولًا",
+      "FA": "تنبل بودن"
+    },
+    "to neglect": {
+      "EN": "Neglect",
+      "ID": "Mengabaikan",
+      "ES": "Negligencia",
+      "VI": "Bỏ bê",
+      "FR": "Négliger",
+      "NE": "नज़रअन्दाज गर्नु",
+      "BN": "অহেলা করা",
+      "ZH": "忽视",
+      "KO": "무시하다",
+      "TL": "Pabayaan",
+      "MY": "လေးနက်မှုမရှိသည့်",
+      "HI": "उपेक्षा करना",
+      "AR": "إهمال",
+      "FA": "غفلت کردن"
+    }
+  },
+  "jisho_data": {
+    "slug": "怠ける",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "怠ける",
+        "reading": "なまける"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to be lazy",
+          "to be idle",
+          "to slack"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to neglect",
+          "to be neglectful of",
+          "to skip"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "怠"
+  ],
+  "kanji_data": {
+    "怠": {
+      "meanings": [
+        "laziness",
+        "neglect"
+      ],
+      "on_readings": [
+        "タイ"
+      ],
+      "kun_readings": [
+        "おこた.る",
+        "なま.ける"
+      ],
+      "stroke_count": 9,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 1703,
+      "unicode": "6020",
+      "grade": 8
+    }
+  }
 }

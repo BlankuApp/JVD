@@ -1,0 +1,360 @@
+{
+  "version": "0.2.0",
+  "word": "作物",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/4RCJn8o4ROY",
+  "in_db": true,
+  "ai_explanation": {
+    "kanji": "作物",
+    "reading": "さくもつ",
+    "introduction_japanese": "作物は、農業や畑の話、天気や収穫の話でよく使う名詞です。育て方、品質、出荷、被害や保護の話にもよく出てきます。",
+    "introduction_english": "The noun さくもつ is commonly used in conversations about farming, fields, weather, and harvests. It also appears when talking about how to grow things, quality, shipping, damage, and protection.",
+    "meanings": [
+      [
+        "crop",
+        "crops"
+      ],
+      [
+        "(agricultural) produce",
+        "farm products"
+      ]
+    ],
+    "meaning_explanation_japanese": "「さくもつ」は、人が畑や田で育てる植物のこと、またはそこからできる農産物のことです。",
+    "meaning_explanation_english": "The word さくもつ means plants that people grow in fields, and also the farm products that come from them.",
+    "kanji_explanation_english": "The first kanji means to make or create. It shows up in words like さくひん, meaning a created work, and さっか, meaning a person who creates books. So it carries the idea of producing something. The second kanji means a thing or object. In たべもの, it means a thing you eat, and in ものがたり, it helps mean a story, literally a “thing that is told.” It gives the sense of a concrete thing or stuff.",
+    "kanji_details": [
+      {
+        "kanji": "作",
+        "common_words": [
+          "作品 (さくひん): a (creative) work; piece",
+          "作家 (さっか): author; writer"
+        ]
+      },
+      {
+        "kanji": "物",
+        "common_words": [
+          "食べ物 (たべもの): food",
+          "物語 (ものがたり): story; tale"
+        ]
+      }
+    ],
+    "synonyms": [
+      "農作物 : のうさくぶつ : farm crops",
+      "農産物 : のうさんぶつ : agricultural products"
+    ],
+    "synonyms_explanation": "The most common synonyms of the word are のうさくぶつ and のうさんぶつ. のうさくぶつ focuses on crops grown on farms. のうさんぶつ is broader and can include plant and animal products.",
+    "antonyms": [],
+    "antonyms_explanation": "No common antonyms found.",
+    "examples": [
+      {
+        "kanji": "農家は作物を育てる。",
+        "furigana": "農家(のうか)は作物(さくもつ)を育(そだ)てる。",
+        "translations": {
+          "EN": "Farmers grow crops.",
+          "ID": "Petani menanam tanaman.",
+          "ES": "Los agricultores cultivan cosechas.",
+          "VI": "Nông dân trồng trọt.",
+          "FR": "Les agriculteurs cultivent des cultures.",
+          "NE": "किसानहरूले बाली लगाउँछन्।",
+          "BN": "কৃষকরা ফসল ফলায়।",
+          "ZH": "农民种植庄稼。",
+          "KO": "농부는 작물을 키운다.",
+          "TL": "Ang mga magsasaka ay nagtatanim ng mga pananim.",
+          "MY": "လယ်သမားများ သီးနှံများ စိုက်ပျိုးကြသည်။",
+          "HI": "किसान फसलें उगाते हैं।",
+          "AR": "المزارعون يزرعون المحاصيل.",
+          "FA": "کشاورزان محصولات کشاورزی را پرورش می‌دهند."
+        }
+      },
+      {
+        "kanji": "秋に作物を収穫する。",
+        "furigana": "秋(あき)に作物(さくもつ)を収穫(しゅうかく)する。",
+        "translations": {
+          "EN": "Harvest crops in autumn.",
+          "ID": "Panen tanaman di musim gugur.",
+          "ES": "Cosecha de cultivos en otoño.",
+          "VI": "Thu hoạch mùa màng vào mùa thu.",
+          "FR": "Récolter les cultures en automne.",
+          "NE": "शरद ऋतुमा बाली काट्नुहोस्।",
+          "BN": "শরৎকালে ফসল কাটা।",
+          "ZH": "秋季收获庄稼。",
+          "KO": "가을에 작물을 수확한다.",
+          "TL": "Mag-ani ng mga pananim sa taglagas.",
+          "MY": "ဆောင်းဦးတွင် သီးနှံများ ရိတ်သိမ်းပါ။",
+          "HI": "शरद ऋतु में फसल काटें।",
+          "AR": "حصاد المحاصيل في الخريف.",
+          "FA": "برداشت محصولات کشاورزی در پاییز."
+        }
+      },
+      {
+        "kanji": "この畑で作物を栽培する。",
+        "furigana": "この畑(はたけ)で作物(さくもつ)を栽培(さいばい)する。",
+        "translations": {
+          "EN": "Crops are grown in this field.",
+          "ID": "Tanaman ditanam di ladang ini.",
+          "ES": "En este campo se cultivan cultivos.",
+          "VI": "Cây trồng được trồng trên cánh đồng này.",
+          "FR": "Des cultures sont cultivées dans ce champ.",
+          "NE": "यस खेतमा बाली लगाइन्छ।",
+          "BN": "এই জমিতে ফসল চাষ করা হয়।",
+          "ZH": "这块田里种植着农作物。",
+          "KO": "이 밭에서 작물을 재배한다.",
+          "TL": "Ang mga pananim ay itinatanim sa larangang ito.",
+          "MY": "သီးနှံများကို ဤလယ်တွင် စိုက်ပျိုးကြသည်။",
+          "HI": "इस खेत में फसलें उगाई जाती हैं।",
+          "AR": "يتم زراعة المحاصيل في هذا الحقل.",
+          "FA": "در این زمین کشاورزی محصولات کشاورزی کشت می‌شود."
+        }
+      },
+      {
+        "kanji": "春に作物を植える。",
+        "furigana": "春(はる)に作物(さくもつ)を植(う)える。",
+        "translations": {
+          "EN": "Plant crops in the spring.",
+          "ID": "Tanam tanaman di musim semi.",
+          "ES": "Plante cultivos en primavera.",
+          "VI": "Trồng cây vào mùa xuân.",
+          "FR": "Plantez des cultures au printemps.",
+          "NE": "वसन्त ऋतुमा बाली लगाउनुहोस्।",
+          "BN": "বসন্তে ফসল রোপণ করুন।",
+          "ZH": "春天种植农作物。",
+          "KO": "봄에 작물을 심는다.",
+          "TL": "Magtanim ng mga pananim sa tagsibol.",
+          "MY": "နွေဦးတွင် သီးနှံများစိုက်ပါ။",
+          "HI": "वसंत ऋतु में फसल बोएं।",
+          "AR": "زراعة المحاصيل في الربيع.",
+          "FA": "در بهار محصولات زراعی بکارید."
+        }
+      },
+      {
+        "kanji": "雨から作物を保護する。",
+        "furigana": "雨(あめ)から作物(さくもつ)を保護(ほご)する。",
+        "translations": {
+          "EN": "Protects crops from rain.",
+          "ID": "Melindungi tanaman dari hujan.",
+          "ES": "Protege los cultivos de la lluvia.",
+          "VI": "Bảo vệ cây trồng khỏi mưa.",
+          "FR": "Protège les cultures de la pluie.",
+          "NE": "वर्षाबाट बालीनालीलाई जोगाउँछ।",
+          "BN": "বৃষ্টিপাত থেকে ফসল রক্ষা করে।",
+          "ZH": "保护农作物免受雨水侵袭。",
+          "KO": "비로부터 작물을 보호한다.",
+          "TL": "Pinoprotektahan ang mga pananim mula sa ulan.",
+          "MY": "သီးနှံများကို မိုးဒဏ်မှ ကာကွယ်ပေးသည်။",
+          "HI": "फसलों को बारिश से बचाता है.",
+          "AR": "يحمي المحاصيل من الأمطار.",
+          "FA": "از محصولات کشاورزی در برابر باران محافظت می‌کند."
+        }
+      },
+      {
+        "kanji": "作物の品質が良い。",
+        "furigana": "作物(さくもつ)の品質(ひんしつ)が良(よ)い。",
+        "translations": {
+          "EN": "The quality of the crop is good.",
+          "ID": "Kualitas hasil panennya bagus.",
+          "ES": "La calidad de la cosecha es buena.",
+          "VI": "Chất lượng vụ mùa tốt.",
+          "FR": "La qualité de la récolte est bonne.",
+          "NE": "बालीको गुणस्तर राम्रो छ।",
+          "BN": "ফসলের মান ভালো।",
+          "ZH": "作物品质良好。",
+          "KO": "작물의 품질이 좋다.",
+          "TL": "Maganda ang kalidad ng pananim.",
+          "MY": "သီးနှံအရည်အသွေး ကောင်းပါတယ်။",
+          "HI": "फसल की गुणवत्ता अच्छी है।",
+          "AR": "جودة المحصول جيدة.",
+          "FA": "کیفیت محصول خوب است."
+        }
+      },
+      {
+        "kanji": "作物の出荷は明日です。",
+        "furigana": "作物(さくもつ)の出荷(しゅっか)は明日(あした)です。",
+        "translations": {
+          "EN": "The crop will be shipped tomorrow.",
+          "ID": "Hasil panen akan dikirim besok.",
+          "ES": "La cosecha se enviará mañana.",
+          "VI": "Sản phẩm sẽ được vận chuyển vào ngày mai.",
+          "FR": "La récolte sera expédiée demain.",
+          "NE": "बाली भोलि पठाइनेछ।",
+          "BN": "ফসল আগামীকাল পাঠানো হবে।",
+          "ZH": "农作物将于明天发货。",
+          "KO": "작물의 배송은 내일입니다.",
+          "TL": "Ipapadala ang pananim bukas.",
+          "MY": "သီးနှံများကို မနက်ဖြန် ပို့ဆောင်ပေးပါမည်။",
+          "HI": "फसल कल भेज दी जाएगी।",
+          "AR": "سيتم شحن المحصول غدا.",
+          "FA": "محصول فردا ارسال خواهد شد."
+        }
+      }
+    ],
+    "meaning_translations": {
+      "crop": {
+        "ID": "tanaman",
+        "ES": "cultivo",
+        "VI": "mùa vụ",
+        "FR": "recadrer",
+        "NE": "बाली",
+        "BN": "ফসল",
+        "ZH": "庄稼",
+        "KO": "수확고",
+        "TL": "pananim",
+        "MY": "သီးနှံ",
+        "HI": "काटना",
+        "AR": "اقتصاص",
+        "FA": "محصول",
+        "EN": [
+          "crops"
+        ]
+      },
+      "(agricultural) produce": {
+        "ID": "hasil bumi (pertanian)",
+        "ES": "productos (agrícolas)",
+        "VI": "(nông sản)",
+        "FR": "produits (agricoles)",
+        "NE": "(कृषि) उत्पादन",
+        "BN": "(কৃষি) উৎপাদিত পণ্য",
+        "ZH": "（农业）产品",
+        "KO": "(농산물) 생산물",
+        "TL": "(agrikultura) na ani",
+        "MY": "(စိုက်ပျိုးရေး) ထွက်ကုန်",
+        "HI": "(कृषि) उपज",
+        "AR": "المنتجات (الزراعية)",
+        "FA": "محصولات کشاورزی",
+        "EN": [
+          "farm products"
+        ]
+      }
+    }
+  },
+  "jisho_data": {
+    "slug": "作物-1",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "作物",
+        "reading": "さくもつ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "crop",
+          "crops",
+          "(agricultural) produce",
+          "farm products"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "作",
+    "物"
+  ],
+  "kanji_data": {
+    "作": {
+      "freq_mainichi_shinbun": 103,
+      "grade": 2,
+      "heisig_en": "make",
+      "jlpt": 4,
+      "kanji": "作",
+      "kun_readings": [
+        "-づく.り",
+        "つく.り",
+        "つく.る"
+      ],
+      "meanings": [
+        "build",
+        "make",
+        "prepare",
+        "production"
+      ],
+      "name_readings": [
+        "くり",
+        "さか",
+        "さっ",
+        "づくり",
+        "とも",
+        "なお",
+        "はぎ",
+        "まさか"
+      ],
+      "notes": [],
+      "on_readings": [
+        "サ",
+        "サク"
+      ],
+      "stroke_count": 7,
+      "unicode": "4F5C"
+    },
+    "物": {
+      "freq_mainichi_shinbun": 215,
+      "grade": 3,
+      "heisig_en": "thing",
+      "jlpt": 4,
+      "kanji": "物",
+      "kun_readings": [
+        "もの",
+        "もの-"
+      ],
+      "meanings": [
+        "matter",
+        "object",
+        "thing"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "ブツ",
+        "モツ"
+      ],
+      "stroke_count": 8,
+      "unicode": "7269"
+    }
+  },
+  "collocations": [
+    "作物を育てる",
+    "作物を収穫する",
+    "作物を栽培する",
+    "作物を植える",
+    "作物を保護する",
+    "農作物の作物",
+    "作物の収量",
+    "作物の品質",
+    "作物の出荷",
+    "作物の生育",
+    "食用作物",
+    "工芸作物",
+    "農業作物",
+    "主作物",
+    "副作物",
+    "作物に被害を与える",
+    "作物に影響を及ぼす",
+    "作物に適する",
+    "作物に対応する",
+    "作物に栄養を与える",
+    "多くの作物",
+    "よい作物",
+    "十分な作物",
+    "豊作の作物",
+    "作物全体"
+  ]
+}

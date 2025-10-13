@@ -1,360 +1,491 @@
 {
-    "version": "0.2.0",
-    "word": "悲しい",
-    "jlpt_level": 4,
-    "youtube_link": "https://youtu.be/7aIgI4n_Zs0",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "悲しい",
-        "reading": "かなしい",
-        "introduction_japanese": "悲しいは、人の感情や出来事・結果が残念で悲運だと感じる場面の会話でよく使われる形容詞です。学校や日常の会話、ニュースや物語の説明でも出てきます。",
-        "introduction_english": "The adjective かなしい is commonly seen in conversations about people's feelings and when talking about events or outcomes that are sad or unfortunate.",
-        "meanings": [
-            [
-                "sad",
-                "miserable",
-                "unhappy",
-                "sorrowful"
-            ],
-            [
-                "sad",
-                "lamentable",
-                "deplorable",
-                "grievous"
-            ]
-        ],
-        "meaning_explanation_japanese": "「悲しい」は、人が心の中で悲しみやつらさを感じるときに使う言葉です。また出来事や結果が残念で悲しいと感じるときにも使えます。",
-        "meaning_explanation_english": "The word かなしい means feeling sadness or sorrow, and it can also describe an event or result that is lamentable or sorrowful.",
-        "kanji_explanation_english": "The first kanji means sadness or grief. It appears in words that talk about tragic events or a sad view of things. For example, in ひげき it helps show a tragic, sorrowful event, and in ひかん it gives the idea of a pessimistic, sad viewpoint.",
-        "kanji_details": [
-            {
-                "kanji": "悲",
-                "meanings": [
-                    "deplore",
-                    "grieve",
-                    "regret",
-                    "sad"
-                ],
-                "on_readings": [
-                    "ヒ"
-                ],
-                "kun_readings": [
-                    "かな.しい",
-                    "かな.しむ"
-                ],
-                "common_words": [
-                    "悲劇 (ひげき): tragedy",
-                    "悲観 (ひかん): pessimism"
-                ]
-            }
-        ],
-        "synonyms": [
-            "哀しい : かなしい : sad",
-            "寂しい : さびしい : lonely, sad"
-        ],
-        "synonyms_explanation": "The most common synonyms of the かなしい are かなしい and さびしい. かなしい (alternative spelling) has essentially the same meaning as the original. さびしい often emphasizes loneliness or a quiet, empty sadness.",
-        "antonyms": [
-            "嬉しい : うれしい : happy"
-        ],
-        "antonyms_explanation": "The most common antonym of the かなしい is うれしい. うれしい expresses happiness or joy, which is the opposite feeling of sadness.",
-        "examples": [
-            {
-                "kanji": "彼女が悲しい。",
-                "furigana": "彼女(かのじょ)が悲(かな)しい。",
-                "translations": {
-                    "EN": "She is sad.",
-                    "ID": "Dia sedih.",
-                    "ES": "Ella está triste.",
-                    "VI": "Cô ấy buồn.",
-                    "FR": "Elle est triste.",
-                    "NE": "उनी दुःखी छिन्।",
-                    "BN": "সে দুঃখী।",
-                    "ZH": "她很伤心。",
-                    "KO": "그녀가 슬프다.",
-                    "TL": "Siya ay malungkot.",
-                    "MY": "သူမ ဝမ်းနည်းနေသည် ။",
-                    "HI": "वह दुखी है.",
-                    "AR": "إنها حزينة.",
-                    "FA": "او غمگین است."
-                }
-            },
-            {
-                "kanji": "悲しい知らせが届いた。",
-                "furigana": "悲(かな)しい知らせ(しらせ)が届(とど)いた。",
-                "translations": {
-                    "EN": "I received some sad news.",
-                    "ID": "Saya menerima berita sedih.",
-                    "ES": "Recibí una noticia triste.",
-                    "VI": "Tôi nhận được một số tin buồn.",
-                    "FR": "J'ai reçu une triste nouvelle.",
-                    "NE": "मैले केही दुखद खबर पाएँ।",
-                    "BN": "আমি কিছু দুঃখজনক খবর পেয়েছি।",
-                    "ZH": "我收到了一些悲伤的消息。",
-                    "KO": "슬픈 소식이 도착했다.",
-                    "TL": "Nakatanggap ako ng malungkot na balita.",
-                    "MY": "ဝမ်းနည်းစရာသတင်းတချို့ကို ကျွန်တော်ရရှိခဲ့တယ်။",
-                    "HI": "मुझे कुछ दुखद समाचार मिले।",
-                    "AR": "لقد تلقيت بعض الأخبار الحزينة.",
-                    "FA": "یه خبر ناراحت کننده بهم رسید."
-                }
-            },
-            {
-                "kanji": "なんとなく悲しい。",
-                "furigana": "なんとなく悲(かな)しい。",
-                "translations": {
-                    "EN": "I feel somehow sad.",
-                    "ID": "Entah kenapa, saya merasa sedih.",
-                    "ES": "Me siento de alguna manera triste.",
-                    "VI": "Tôi cảm thấy buồn.",
-                    "FR": "Je me sens quelque peu triste.",
-                    "NE": "म कुनै न कुनै रूपमा दुःखी छु।",
-                    "BN": "আমার একরকম খারাপ লাগছে।",
-                    "ZH": "我感觉有些难过。",
-                    "KO": "어쩐지 슬프다.",
-                    "TL": "Nalulungkot ako kahit papaano.",
-                    "MY": "တစ်နည်းနည်းနဲ့ စိတ်မကောင်းဖြစ်ရတယ်။",
-                    "HI": "मैं कुछ हद तक दुखी महसूस कर रहा हूं।",
-                    "AR": "أشعر بالحزن إلى حد ما.",
-                    "FA": "یه جورایی احساس غم می‌کنم."
-                }
-            },
-            {
-                "kanji": "彼はずっと悲しい。",
-                "furigana": "彼(かれ)はずっと悲(かな)しい。",
-                "translations": {
-                    "EN": "He's always sad.",
-                    "ID": "Dia selalu sedih.",
-                    "ES": "Él siempre está triste.",
-                    "VI": "Anh ấy lúc nào cũng buồn.",
-                    "FR": "Il est toujours triste.",
-                    "NE": "ऊ सधैं दुःखी हुन्छ।",
-                    "BN": "সে সবসময় দুঃখী।",
-                    "ZH": "他总是很伤心。",
-                    "KO": "그는 계속 슬프다.",
-                    "TL": "Lagi siyang malungkot.",
-                    "MY": "သူအမြဲတမ်းဝမ်းနည်းနေတယ်။",
-                    "HI": "वह हमेशा उदास रहता है.",
-                    "AR": "إنه حزين دائمًا.",
-                    "FA": "اون همیشه غمگینه."
-                }
-            },
-            {
-                "kanji": "昨日の別れは悲しい。",
-                "furigana": "昨日(きのう)の別(わか)れは悲(かな)しい。",
-                "translations": {
-                    "EN": "Yesterday's farewell was sad.",
-                    "ID": "Perpisahan kemarin menyedihkan.",
-                    "ES": "La despedida de ayer fue triste.",
-                    "VI": "Lời chia tay hôm qua thật buồn.",
-                    "FR": "L'adieu d'hier était triste.",
-                    "NE": "हिजोको बिदाई दुःखद थियो।",
-                    "BN": "গতকালের বিদায়টা ছিল দুঃখজনক।",
-                    "ZH": "昨天的告别令人悲伤。",
-                    "KO": "어제의 이별은 슬프다.",
-                    "TL": "Malungkot ang paalam kahapon.",
-                    "MY": "မနေ့က နှုတ်ဆက်ပွဲက ဝမ်းနည်းစရာပါ။",
-                    "HI": "कल की विदाई दुखद थी।",
-                    "AR": "وداع الأمس كان حزينا.",
-                    "FA": "خداحافظی دیروز غم انگیز بود."
-                }
-            },
-            {
-                "kanji": "この結末は本当に悲しい。",
-                "furigana": "この結末(けつまつ)は本当(ほんとう)に悲(かな)しい。",
-                "translations": {
-                    "EN": "This ending is really sad.",
-                    "ID": "Akhir cerita ini sungguh menyedihkan.",
-                    "ES": "Este final es realmente triste.",
-                    "VI": "Cái kết này thực sự buồn.",
-                    "FR": "Cette fin est vraiment triste.",
-                    "NE": "यो अन्त्य साँच्चै दुःखद छ।",
-                    "BN": "এই পরিণতি সত্যিই দুঃখজনক।",
-                    "ZH": "这个结局实在令人悲伤。",
-                    "KO": "이 결말은 정말 슬프다.",
-                    "TL": "Nakakalungkot talaga ang ending na ito.",
-                    "MY": "ဒီအဆုံးသတ်က တကယ့်ကို ဝမ်းနည်းစရာပါ။",
-                    "HI": "यह अंत सचमुच दुखद है।",
-                    "AR": "هذه النهاية حزينة حقا.",
-                    "FA": "این پایان واقعاً غم‌انگیز است."
-                }
-            },
-            {
-                "kanji": "悲しみに暮れる。",
-                "furigana": "悲(かな)しみに暮(く)れる。",
-                "translations": {
-                    "EN": "I am filled with sadness.",
-                    "ID": "Saya dipenuhi dengan kesedihan.",
-                    "ES": "Estoy lleno de tristeza.",
-                    "VI": "Tôi tràn ngập nỗi buồn.",
-                    "FR": "Je suis rempli de tristesse.",
-                    "NE": "म दुःखले भरिएको छु।",
-                    "BN": "আমি দুঃখে ভরা।",
-                    "ZH": "我心里充满了悲伤。",
-                    "KO": "슬픔에 살다.",
-                    "TL": "Napuno ako ng kalungkutan.",
-                    "MY": "ဝမ်းနည်းမှုတွေနဲ့ ပြည့်နေတယ်။",
-                    "HI": "मैं दुःख से भर गया हूं।",
-                    "AR": "أنا مليئة بالحزن.",
-                    "FA": "دلم پر از غم شده."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "sad": {
-                "ID": "sedih",
-                "ES": "triste",
-                "VI": "buồn",
-                "FR": "triste",
-                "NE": "दुःखी",
-                "BN": "দুঃখিত",
-                "ZH": "伤心",
-                "KO": "슬픈",
-                "TL": "malungkot",
-                "MY": "ဝမ်းနည်း",
-                "HI": "उदास",
-                "AR": "حزين",
-                "FA": "غمگین",
-                "EN": [
-                    "lamentable",
-                    "deplorable",
-                    "grievous"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "悲しい",
-        "is_common": true,
-        "tags": [
-            "wanikani19"
-        ],
-        "jlpt": [
-            "jlpt-n4"
-        ],
-        "japanese": [
-            {
-                "word": "悲しい",
-                "reading": "かなしい"
-            },
-            {
-                "word": "哀しい",
-                "reading": "かなしい"
-            },
-            {
-                "word": "愛しい",
-                "reading": "かなしい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "sad",
-                    "miserable",
-                    "unhappy",
-                    "sorrowful"
-                ],
-                "parts_of_speech": [
-                    "I-adjective (keiyoushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [
-                    "of a person"
-                ]
-            },
-            {
-                "english_definitions": [
-                    "sad",
-                    "lamentable",
-                    "deplorable",
-                    "grievous"
-                ],
-                "parts_of_speech": [
-                    "I-adjective (keiyoushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [
-                    "of a thing, incident, etc."
-                ]
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "悲"
+  "version": "0.3.0",
+  "word": "悲しい",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/7aIgI4n_Zs0",
+  "in_db": true,
+  "kanji": "悲しい",
+  "reading": "かなしい",
+  "introduction_japanese": "悲しいは、人の感情や出来事・結果が残念で悲運だと感じる場面の会話でよく使われる形容詞です。学校や日常の会話、ニュースや物語の説明でも出てきます。",
+  "introduction_english": "The adjective かなしい is commonly seen in conversations about people's feelings and when talking about events or outcomes that are sad or unfortunate.",
+  "meanings": [
+    [
+      "sad",
+      "miserable",
+      "unhappy",
+      "sorrowful"
     ],
-    "kanji_data": {
-        "悲": {
-            "freq_mainichi_shinbun": 1014,
-            "grade": 3,
-            "heisig_en": "sad",
-            "jlpt": 3,
-            "kanji": "悲",
-            "kun_readings": [
-                "かな.しい",
-                "かな.しむ"
-            ],
-            "meanings": [
-                "deplore",
-                "grieve",
-                "regret",
-                "sad"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "ヒ"
-            ],
-            "stroke_count": 12,
-            "unicode": "60B2"
-        }
-    },
-    "collocations": [
-        "とても悲しい",
-        "本当に悲しい",
-        "ひどく悲しい",
-        "なんとなく悲しい",
-        "心から悲しい",
-        "ずっと悲しい",
-        "静かに悲しい",
-        "悲しい気持ち",
-        "悲しい思い",
-        "悲しい過去",
-        "悲しい記憶",
-        "悲しい結末",
-        "悲しい知らせ",
-        "悲しい現実",
-        "悲しい別れ",
-        "彼女が悲しい",
-        "君が悲しい",
-        "子どもが悲しい",
-        "この事実が悲しい",
-        "結果が悲しい",
-        "真実が悲しい",
-        "涙を悲しいに変える",
-        "音を悲しいにする",
-        "悲しい現実",
-        "悲しい記憶",
-        "悲しい別れ",
-        "悲しい知らせ",
-        "悲しい結末",
-        "悲しみに暮れる",
-        "悲しみを背負う",
-        "悲しみを癒す",
-        "悲しさを抑える",
-        "悲しみがこみ上げる"
+    [
+      "sad",
+      "lamentable",
+      "deplorable",
+      "grievous"
     ]
+  ],
+  "meaning_explanation_japanese": "「悲しい」は、人が心の中で悲しみやつらさを感じるときに使う言葉です。また出来事や結果が残念で悲しいと感じるときにも使えます。",
+  "meaning_explanation_english": "The word かなしい means feeling sadness or sorrow, and it can also describe an event or result that is lamentable or sorrowful.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "悲",
+      "meanings": [
+        "deplore",
+        "grieve",
+        "regret",
+        "sad"
+      ],
+      "on_readings": [
+        "ヒ"
+      ],
+      "kun_readings": [
+        "かな.しい",
+        "かな.しむ"
+      ],
+      "common_words": [
+        "悲劇 (ひげき): tragedy",
+        "悲観 (ひかん): pessimism"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means sadness or grief. It appears in words that talk about tragic events or a sad view of things. For example, in ひげき it helps show a tragic, sorrowful event, and in ひかん it gives the idea of a pessimistic, sad viewpoint.",
+  "synonyms": [
+    "哀しい : かなしい : sad",
+    "寂しい : さびしい : lonely, sad"
+  ],
+  "synonym_explanation": "The most common synonyms of the かなしい are かなしい and さびしい. かなしい (alternative spelling) has essentially the same meaning as the original. さびしい often emphasizes loneliness or a quiet, empty sadness.",
+  "antonyms": [
+    "嬉しい : うれしい : happy"
+  ],
+  "antonym_explanation": "The most common antonym of the かなしい is うれしい. うれしい expresses happiness or joy, which is the opposite feeling of sadness.",
+  "collocations": [
+    {
+      "kanji": "とても悲しい",
+      "furigana": "とても悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "本当に悲しい",
+      "furigana": "本当に悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "ひどく悲しい",
+      "furigana": "ひどく悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "なんとなく悲しい",
+      "furigana": "なんとなく悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "心から悲しい",
+      "furigana": "心から悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "ずっと悲しい",
+      "furigana": "ずっと悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "静かに悲しい",
+      "furigana": "静かに悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい気持ち",
+      "furigana": "悲しい気持ち",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい思い",
+      "furigana": "悲しい思い",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい過去",
+      "furigana": "悲しい過去",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい記憶",
+      "furigana": "悲しい記憶",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい結末",
+      "furigana": "悲しい結末",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい知らせ",
+      "furigana": "悲しい知らせ",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい現実",
+      "furigana": "悲しい現実",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい別れ",
+      "furigana": "悲しい別れ",
+      "translations": {}
+    },
+    {
+      "kanji": "彼女が悲しい",
+      "furigana": "彼女が悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "君が悲しい",
+      "furigana": "君が悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "子どもが悲しい",
+      "furigana": "子どもが悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "この事実が悲しい",
+      "furigana": "この事実が悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "結果が悲しい",
+      "furigana": "結果が悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "真実が悲しい",
+      "furigana": "真実が悲しい",
+      "translations": {}
+    },
+    {
+      "kanji": "涙を悲しいに変える",
+      "furigana": "涙を悲しいに変える",
+      "translations": {}
+    },
+    {
+      "kanji": "音を悲しいにする",
+      "furigana": "音を悲しいにする",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい現実",
+      "furigana": "悲しい現実",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい記憶",
+      "furigana": "悲しい記憶",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい別れ",
+      "furigana": "悲しい別れ",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい知らせ",
+      "furigana": "悲しい知らせ",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しい結末",
+      "furigana": "悲しい結末",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しみに暮れる",
+      "furigana": "悲しみに暮れる",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しみを背負う",
+      "furigana": "悲しみを背負う",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しみを癒す",
+      "furigana": "悲しみを癒す",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しさを抑える",
+      "furigana": "悲しさを抑える",
+      "translations": {}
+    },
+    {
+      "kanji": "悲しみがこみ上げる",
+      "furigana": "悲しみがこみ上げる",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼女が悲しい。",
+      "furigana": "彼女(かのじょ)が悲(かな)しい。",
+      "translations": {
+        "EN": "She is sad.",
+        "ID": "Dia sedih.",
+        "ES": "Ella está triste.",
+        "VI": "Cô ấy buồn.",
+        "FR": "Elle est triste.",
+        "NE": "उनी दुःखी छिन्।",
+        "BN": "সে দুঃখী।",
+        "ZH": "她很伤心。",
+        "KO": "그녀가 슬프다.",
+        "TL": "Siya ay malungkot.",
+        "MY": "သူမ ဝမ်းနည်းနေသည် ။",
+        "HI": "वह दुखी है.",
+        "AR": "إنها حزينة.",
+        "FA": "او غمگین است."
+      }
+    },
+    {
+      "kanji": "悲しい知らせが届いた。",
+      "furigana": "悲(かな)しい知らせ(しらせ)が届(とど)いた。",
+      "translations": {
+        "EN": "I received some sad news.",
+        "ID": "Saya menerima berita sedih.",
+        "ES": "Recibí una noticia triste.",
+        "VI": "Tôi nhận được một số tin buồn.",
+        "FR": "J'ai reçu une triste nouvelle.",
+        "NE": "मैले केही दुखद खबर पाएँ।",
+        "BN": "আমি কিছু দুঃখজনক খবর পেয়েছি।",
+        "ZH": "我收到了一些悲伤的消息。",
+        "KO": "슬픈 소식이 도착했다.",
+        "TL": "Nakatanggap ako ng malungkot na balita.",
+        "MY": "ဝမ်းနည်းစရာသတင်းတချို့ကို ကျွန်တော်ရရှိခဲ့တယ်။",
+        "HI": "मुझे कुछ दुखद समाचार मिले।",
+        "AR": "لقد تلقيت بعض الأخبار الحزينة.",
+        "FA": "یه خبر ناراحت کننده بهم رسید."
+      }
+    },
+    {
+      "kanji": "なんとなく悲しい。",
+      "furigana": "なんとなく悲(かな)しい。",
+      "translations": {
+        "EN": "I feel somehow sad.",
+        "ID": "Entah kenapa, saya merasa sedih.",
+        "ES": "Me siento de alguna manera triste.",
+        "VI": "Tôi cảm thấy buồn.",
+        "FR": "Je me sens quelque peu triste.",
+        "NE": "म कुनै न कुनै रूपमा दुःखी छु।",
+        "BN": "আমার একরকম খারাপ লাগছে।",
+        "ZH": "我感觉有些难过。",
+        "KO": "어쩐지 슬프다.",
+        "TL": "Nalulungkot ako kahit papaano.",
+        "MY": "တစ်နည်းနည်းနဲ့ စိတ်မကောင်းဖြစ်ရတယ်။",
+        "HI": "मैं कुछ हद तक दुखी महसूस कर रहा हूं।",
+        "AR": "أشعر بالحزن إلى حد ما.",
+        "FA": "یه جورایی احساس غم می‌کنم."
+      }
+    },
+    {
+      "kanji": "彼はずっと悲しい。",
+      "furigana": "彼(かれ)はずっと悲(かな)しい。",
+      "translations": {
+        "EN": "He's always sad.",
+        "ID": "Dia selalu sedih.",
+        "ES": "Él siempre está triste.",
+        "VI": "Anh ấy lúc nào cũng buồn.",
+        "FR": "Il est toujours triste.",
+        "NE": "ऊ सधैं दुःखी हुन्छ।",
+        "BN": "সে সবসময় দুঃখী।",
+        "ZH": "他总是很伤心。",
+        "KO": "그는 계속 슬프다.",
+        "TL": "Lagi siyang malungkot.",
+        "MY": "သူအမြဲတမ်းဝမ်းနည်းနေတယ်။",
+        "HI": "वह हमेशा उदास रहता है.",
+        "AR": "إنه حزين دائمًا.",
+        "FA": "اون همیشه غمگینه."
+      }
+    },
+    {
+      "kanji": "昨日の別れは悲しい。",
+      "furigana": "昨日(きのう)の別(わか)れは悲(かな)しい。",
+      "translations": {
+        "EN": "Yesterday's farewell was sad.",
+        "ID": "Perpisahan kemarin menyedihkan.",
+        "ES": "La despedida de ayer fue triste.",
+        "VI": "Lời chia tay hôm qua thật buồn.",
+        "FR": "L'adieu d'hier était triste.",
+        "NE": "हिजोको बिदाई दुःखद थियो।",
+        "BN": "গতকালের বিদায়টা ছিল দুঃখজনক।",
+        "ZH": "昨天的告别令人悲伤。",
+        "KO": "어제의 이별은 슬프다.",
+        "TL": "Malungkot ang paalam kahapon.",
+        "MY": "မနေ့က နှုတ်ဆက်ပွဲက ဝမ်းနည်းစရာပါ။",
+        "HI": "कल की विदाई दुखद थी।",
+        "AR": "وداع الأمس كان حزينا.",
+        "FA": "خداحافظی دیروز غم انگیز بود."
+      }
+    },
+    {
+      "kanji": "この結末は本当に悲しい。",
+      "furigana": "この結末(けつまつ)は本当(ほんとう)に悲(かな)しい。",
+      "translations": {
+        "EN": "This ending is really sad.",
+        "ID": "Akhir cerita ini sungguh menyedihkan.",
+        "ES": "Este final es realmente triste.",
+        "VI": "Cái kết này thực sự buồn.",
+        "FR": "Cette fin est vraiment triste.",
+        "NE": "यो अन्त्य साँच्चै दुःखद छ।",
+        "BN": "এই পরিণতি সত্যিই দুঃখজনক।",
+        "ZH": "这个结局实在令人悲伤。",
+        "KO": "이 결말은 정말 슬프다.",
+        "TL": "Nakakalungkot talaga ang ending na ito.",
+        "MY": "ဒီအဆုံးသတ်က တကယ့်ကို ဝမ်းနည်းစရာပါ။",
+        "HI": "यह अंत सचमुच दुखद है।",
+        "AR": "هذه النهاية حزينة حقا.",
+        "FA": "این پایان واقعاً غم‌انگیز است."
+      }
+    },
+    {
+      "kanji": "悲しみに暮れる。",
+      "furigana": "悲(かな)しみに暮(く)れる。",
+      "translations": {
+        "EN": "I am filled with sadness.",
+        "ID": "Saya dipenuhi dengan kesedihan.",
+        "ES": "Estoy lleno de tristeza.",
+        "VI": "Tôi tràn ngập nỗi buồn.",
+        "FR": "Je suis rempli de tristesse.",
+        "NE": "म दुःखले भरिएको छु।",
+        "BN": "আমি দুঃখে ভরা।",
+        "ZH": "我心里充满了悲伤。",
+        "KO": "슬픔에 살다.",
+        "TL": "Napuno ako ng kalungkutan.",
+        "MY": "ဝမ်းနည်းမှုတွေနဲ့ ပြည့်နေတယ်။",
+        "HI": "मैं दुःख से भर गया हूं।",
+        "AR": "أنا مليئة بالحزن.",
+        "FA": "دلم پر از غم شده."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "sad": {
+      "ID": "sedih",
+      "ES": "triste",
+      "VI": "buồn",
+      "FR": "triste",
+      "NE": "दुःखी",
+      "BN": "দুঃখিত",
+      "ZH": "伤心",
+      "KO": "슬픈",
+      "TL": "malungkot",
+      "MY": "ဝမ်းနည်း",
+      "HI": "उदास",
+      "AR": "حزين",
+      "FA": "غمگین",
+      "EN": [
+        "lamentable",
+        "deplorable",
+        "grievous"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "悲しい",
+    "is_common": true,
+    "tags": [
+      "wanikani19"
+    ],
+    "jlpt": [
+      "jlpt-n4"
+    ],
+    "japanese": [
+      {
+        "word": "悲しい",
+        "reading": "かなしい"
+      },
+      {
+        "word": "哀しい",
+        "reading": "かなしい"
+      },
+      {
+        "word": "愛しい",
+        "reading": "かなしい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "sad",
+          "miserable",
+          "unhappy",
+          "sorrowful"
+        ],
+        "parts_of_speech": [
+          "I-adjective (keiyoushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+          "of a person"
+        ]
+      },
+      {
+        "english_definitions": [
+          "sad",
+          "lamentable",
+          "deplorable",
+          "grievous"
+        ],
+        "parts_of_speech": [
+          "I-adjective (keiyoushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+          "of a thing, incident, etc."
+        ]
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "悲"
+  ],
+  "kanji_data": {
+    "悲": {
+      "freq_mainichi_shinbun": 1014,
+      "grade": 3,
+      "heisig_en": "sad",
+      "jlpt": 3,
+      "kanji": "悲",
+      "kun_readings": [
+        "かな.しい",
+        "かな.しむ"
+      ],
+      "meanings": [
+        "deplore",
+        "grieve",
+        "regret",
+        "sad"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "ヒ"
+      ],
+      "stroke_count": 12,
+      "unicode": "60B2"
+    }
+  }
 }

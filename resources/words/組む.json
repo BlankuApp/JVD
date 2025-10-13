@@ -1,451 +1,550 @@
 {
-    "version": "0.2.0",
-    "word": "組む",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/137lyr4XtaM",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "組む",
-        "reading": "くむ",
-        "introduction_japanese": "「組む」は、人と一緒に何かをするときや、腕や足を交差するとき、計画や日程を作るとき、他社や人と協力して仕事を進めるときなどによく使う言葉です。",
-        "introduction_english": "The verb くむ is commonly used when talking about working with others, crossing your arms or legs, making plans or schedules, and forming teams or partnerships.",
-        "meanings": [
-            [
-                "to cross (legs or arms)",
-                "to link (arms)",
-                "to braid / to plait",
-                "to grapple / to wrestle"
-            ],
-            [
-                "to put together / to construct / to assemble",
-                "to produce (e.g., a TV program)",
-                "to set (e.g., type)",
-                "to issue (e.g., a money order)"
-            ],
-            [
-                "to unite / to join / to link up / to form an alliance",
-                "to cooperate or work together (as a team or partner)"
-            ]
-        ],
-        "meaning_explanation_japanese": "「組む」は、人や物を一緒にまとめること、腕や足を交差すること、糸やものを編むこと、協力して何かをすること、計画や日程を作ることなど、いろいろな場面で使える動詞です。",
-        "meaning_explanation_english": "The word くむ means to join or put people/things together, to cross arms or legs, to braid, to cooperate with others, or to arrange plans and schedules.",
-        "kanji_explanation_english": "The first kanji means assemble or group. It often shows the idea of putting parts or people together. In the word そしき it helps show people are arranged into an organized group, and in the word くみあい it shows people joining together as a union.",
-        "kanji_details": [
-            {
-                "kanji": "組",
-                "common_words": [
-                    "組織 (そしき): organization",
-                    "組合 (くみあい): union; association"
-                ]
-            }
-        ],
-        "synonyms": [
-            "結ぶ : むすぶ : to tie; to connect",
-            "連携する : れんけいする : to cooperate; to coordinate"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word are むすぶ and れんけいする. むすぶ often means to tie or connect things or people together physically or abstractly. れんけいする emphasizes cooperating or coordinating actions with others and is close to くむ when talking about teaming up.",
-        "antonyms": [
-            "離す : はなす : to separate; to let go",
-            "分ける : わける : to divide; to split"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word are はなす and わける. はなす means to separate or let go, which is the opposite of linking or holding together. わける means to split or divide something into parts, also opposite to assembling or joining.",
-        "examples": [
-            {
-                "kanji": "チームを組む。",
-                "furigana": "チームを組(く)む。",
-                "translations": {
-                    "EN": "Form a team.",
-                    "ID": "Bentuklah sebuah tim.",
-                    "ES": "Formar un equipo.",
-                    "VI": "Thành lập một đội.",
-                    "FR": "Former une équipe.",
-                    "NE": "एउटा टोली बनाउनुहोस्।",
-                    "BN": "একটি দল গঠন করুন।",
-                    "ZH": "组建一个团队。",
-                    "KO": "팀을 구성한다.",
-                    "TL": "Bumuo ng isang pangkat.",
-                    "MY": "အသင်းဖွဲ့ပါ။",
-                    "HI": "एक टीम बनाएं.",
-                    "AR": "تشكيل فريق.",
-                    "FA": "یک تیم تشکیل دهید."
-                }
-            },
-            {
-                "kanji": "腕を組む。",
-                "furigana": "腕(うで)を組(く)む。",
-                "translations": {
-                    "EN": "Cross your arms.",
-                    "ID": "Silangkan lengan Anda.",
-                    "ES": "Cruza los brazos.",
-                    "VI": "Khoanh tay lại.",
-                    "FR": "Croisez vos bras.",
-                    "NE": "हात काट्नुहोस्।",
-                    "BN": "তোমার বাহু পার করো।",
-                    "ZH": "交叉双臂。",
-                    "KO": "팔을 짜다.",
-                    "TL": "I-cross arms mo.",
-                    "MY": "သင်၏လက်များကိုဖြတ်ပါ။",
-                    "HI": "अपनी बाहों को क्रॉस करें।",
-                    "AR": "اعبر ذراعيك.",
-                    "FA": "دست‌هایتان را ضربدری کنید."
-                }
-            },
-            {
-                "kanji": "足を組む。",
-                "furigana": "足(あし)を組(く)む。",
-                "translations": {
-                    "EN": "Cross your legs.",
-                    "ID": "Silangkan kakimu.",
-                    "ES": "Cruza las piernas.",
-                    "VI": "Bắt chéo chân.",
-                    "FR": "Croisez vos jambes.",
-                    "NE": "आफ्नो खुट्टा पार गर्नुहोस्।",
-                    "BN": "তোমার পা দুটো পার করো।",
-                    "ZH": "交叉双腿。",
-                    "KO": "다리를 짜다.",
-                    "TL": "I-cross ang iyong mga binti.",
-                    "MY": "သင်၏ခြေထောက်များကိုဖြတ်ပါ။",
-                    "HI": "अपने सीमा को पार करना।",
-                    "AR": "ضع ساقا فوق الأخرى.",
-                    "FA": "پاهایتان را ضربدری قرار دهید."
-                }
-            },
-            {
-                "kanji": "計画を組む。",
-                "furigana": "計画(けいかく)を組(く)む。",
-                "translations": {
-                    "EN": "Make a plan.",
-                    "ID": "Buatlah rencana.",
-                    "ES": "Haz un plan.",
-                    "VI": "Lập kế hoạch.",
-                    "FR": "Faites un plan.",
-                    "NE": "योजना बनाउनुहोस्।",
-                    "BN": "একটা পরিকল্পনা করো।",
-                    "ZH": "制定计划。",
-                    "KO": "계획을 짜다.",
-                    "TL": "Gumawa ng plano.",
-                    "MY": "အစီအစဉ်တစ်ခုလုပ်ပါ။",
-                    "HI": "एक योजना बना।",
-                    "AR": "ضع خطة.",
-                    "FA": "یک برنامه ریزی کنید."
-                }
-            },
-            {
-                "kanji": "他社と組む。",
-                "furigana": "他社(たしゃ)と組(く)む。",
-                "translations": {
-                    "EN": "Partner with other companies.",
-                    "ID": "Bermitra dengan perusahaan lain.",
-                    "ES": "Asociarse con otras empresas.",
-                    "VI": "Hợp tác với các công ty khác.",
-                    "FR": "Établissez des partenariats avec d’autres entreprises.",
-                    "NE": "अन्य कम्पनीहरूसँग साझेदारी गर्नुहोस्।",
-                    "BN": "অন্যান্য কোম্পানির সাথে অংশীদারিত্ব করুন।",
-                    "ZH": "与其他公司合作。",
-                    "KO": "타사와 협력한다.",
-                    "TL": "Kasosyo sa ibang mga kumpanya.",
-                    "MY": "အခြားကုမ္ပဏီများနှင့် ပူးပေါင်းပါ။",
-                    "HI": "अन्य कंपनियों के साथ साझेदारी करें।",
-                    "AR": "الشراكة مع شركات أخرى.",
-                    "FA": "با شرکت‌های دیگر شریک شوید."
-                }
-            },
-            {
-                "kanji": "指を組む。",
-                "furigana": "指(ゆび)を組(く)む。",
-                "translations": {
-                    "EN": "Interlock your fingers.",
-                    "ID": "Kaitkan jari-jari kalian.",
-                    "ES": "Entrelaza tus dedos.",
-                    "VI": "Đan các ngón tay vào nhau.",
-                    "FR": "Entrecroisez vos doigts.",
-                    "NE": "आफ्ना औंलाहरू एकअर्कासँग जोड्नुहोस्।",
-                    "BN": "তোমার আঙ্গুলগুলো পরস্পরের সাথে মিশে যাও।",
-                    "ZH": "十指交叉。",
-                    "KO": "손가락을 짜다.",
-                    "TL": "I-interlock ang iyong mga daliri.",
-                    "MY": "သင့်လက်ချောင်းများကို ချိတ်ဆက်ပါ။",
-                    "HI": "अपनी उँगलियाँ आपस में फंसा लें।",
-                    "AR": "تشابك أصابعك.",
-                    "FA": "انگشتانتان را در هم قفل کنید."
-                }
-            },
-            {
-                "kanji": "組んで協力する。",
-                "furigana": "組(く)んで協力(きょうりょく)する。",
-                "translations": {
-                    "EN": "Team up and cooperate.",
-                    "ID": "Bersatu padu dan bekerja sama.",
-                    "ES": "Trabajar en equipo y cooperar.",
-                    "VI": "Hãy hợp tác và liên kết với nhau.",
-                    "FR": "Faites équipe et coopérez.",
-                    "NE": "टिम अप र सहकार्य गर्नुहोस्।",
-                    "BN": "দলবদ্ধ হোন এবং সহযোগিতা করুন।",
-                    "ZH": "组队合作。",
-                    "KO": "함께 협력한다.",
-                    "TL": "Magkaisa at magtulungan.",
-                    "MY": "အဖွဲ့ဖွဲ့ပြီး ပူးပေါင်းဆောင်ရွက်ပါ။",
-                    "HI": "टीम बनाएं और सहयोग करें।",
-                    "AR": "تكوين فريق والتعاون.",
-                    "FA": "با هم متحد شوید و همکاری کنید."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "to cross (legs or arms)": {
-                "ID": "menyilangkan (kaki atau lengan)",
-                "ES": "cruzar (piernas o brazos)",
-                "VI": "bắt chéo (chân hoặc tay)",
-                "FR": "croiser (jambes ou bras)",
-                "NE": "(खुट्टा वा हात) पार गर्नु",
-                "BN": "(পা বা বাহু) পার হওয়া",
-                "ZH": "交叉（腿或手臂）",
-                "KO": "(다리나 팔을) 교차하다",
-                "TL": "tumawid (binti o braso)",
-                "MY": "ဖြတ်ရန် (ခြေထောက် သို့မဟုတ် လက်များ)",
-                "HI": "(पैर या हाथ) पार करना",
-                "AR": "تقاطع (الساقين أو الذراعين)",
-                "FA": "(پاها یا دست‌ها) را روی هم انداختن",
-                "EN": [
-                    "to link (arms)",
-                    "to braid / to plait",
-                    "to grapple / to wrestle"
-                ]
-            },
-            "to put together / to construct / to assemble": {
-                "ID": "untuk menyusun / membangun / merakit",
-                "ES": "juntar / construir / ensamblar",
-                "VI": "để lắp ráp / xây dựng / lắp ráp",
-                "FR": "assembler / construire / assembler",
-                "NE": "जोड्नु / निर्माण गर्नु / जम्मा गर्नु",
-                "BN": "একত্রিত করা / নির্মাণ করা / একত্রিত করা",
-                "ZH": "组装/建造/装配",
-                "KO": "조립하다 / 건설하다 / 조립하다",
-                "TL": "upang pagsama-samahin / upang bumuo / upang tipunin",
-                "MY": "ပေါင်းစည်းရန် / တည်ဆောက်ရန် / စုဝေးရန်",
-                "HI": "एक साथ रखना / निर्माण करना / इकट्ठा करना",
-                "AR": "تجميع / بناء / تجميع",
-                "FA": "سرهم کردن/ ساختن/ مونتاژ کردن",
-                "EN": [
-                    "to produce (e.g., a TV program)",
-                    "to set (e.g., type)",
-                    "to issue (e.g., a money order)"
-                ]
-            },
-            "to unite / to join / to link up / to form an alliance": {
-                "ID": "untuk menyatukan / untuk bergabung / untuk menghubungkan / untuk membentuk aliansi",
-                "ES": "unir / unirse / enlazar / formar una alianza",
-                "VI": "đoàn kết / tham gia / liên kết / hình thành một liên minh",
-                "FR": "s'unir / se joindre / se lier / former une alliance",
-                "NE": "एकताबद्ध हुनु / सामेल हुनु / जोडिनु / गठबन्धन बनाउनु",
-                "BN": "ঐক্যবদ্ধ হওয়া / যোগদান করা / সংযুক্ত হওয়া / জোট গঠন করা",
-                "ZH": "联合/加入/联络/结成联盟",
-                "KO": "연합하다 / 가입하다 / 연결하다 / 동맹을 형성하다",
-                "TL": "upang magkaisa / upang sumali / upang mag-ugnay up / upang bumuo ng isang alyansa",
-                "MY": "ပေါင်းစည်းရန် / ပူးပေါင်းရန် / ချိတ်ဆက်ရန် / မဟာမိတ်ဖွဲ့ရန်",
-                "HI": "एकजुट होना / जुड़ना / जुड़ना / गठबंधन बनाना",
-                "AR": "توحيد / الانضمام / الارتباط / تشكيل تحالف",
-                "FA": "متحد کردن/به هم پیوستن/پیوند دادن/تشکیل اتحاد دادن",
-                "EN": [
-                    "to cooperate or work together (as a team or partner)"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "組む",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "組む",
-                "reading": "くむ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "to cross (legs or arms)",
-                    "to link (arms)"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'mu' ending"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to put together",
-                    "to construct",
-                    "to assemble",
-                    "to produce (e.g. TV program)"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'mu' ending"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to braid",
-                    "to plait"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'mu' ending"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to grapple",
-                    "to wrestle"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'mu' ending"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to unite",
-                    "to join",
-                    "to link up",
-                    "to form an alliance"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'mu' ending"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to set (e.g. type)"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'mu' ending"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to issue (e.g. money order)"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'mu' ending"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "組"
+  "version": "0.3.0",
+  "word": "組む",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/137lyr4XtaM",
+  "in_db": true,
+  "kanji": "組む",
+  "reading": "くむ",
+  "introduction_japanese": "「組む」は、人と一緒に何かをするときや、腕や足を交差するとき、計画や日程を作るとき、他社や人と協力して仕事を進めるときなどによく使う言葉です。",
+  "introduction_english": "The verb くむ is commonly used when talking about working with others, crossing your arms or legs, making plans or schedules, and forming teams or partnerships.",
+  "meanings": [
+    [
+      "to cross (legs or arms)",
+      "to link (arms)",
+      "to braid / to plait",
+      "to grapple / to wrestle"
     ],
-    "kanji_data": {
-        "組": {
-            "freq_mainichi_shinbun": 204,
-            "grade": 2,
-            "heisig_en": "association",
-            "jlpt": 3,
-            "kanji": "組",
-            "kun_readings": [
-                "-ぐみ",
-                "く.む",
-                "くみ"
-            ],
-            "meanings": [
-                "assemble",
-                "association",
-                "braid",
-                "construct",
-                "cooperate",
-                "grapple",
-                "plait",
-                "unite"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "ソ"
-            ],
-            "stroke_count": 11,
-            "unicode": "7D44"
-        }
-    },
-    "collocations": [
-        "チームを組む",
-        "組織を組む",
-        "計画を組む",
-        "時間割を組む",
-        "日程を組む",
-        "彼と組む",
-        "二人で組む",
-        "他社と組む",
-        "同盟を組む",
-        "連携を組む",
-        "腕を組む",
-        "足を組む",
-        "手を組む",
-        "膝を組む",
-        "指を組む",
-        "組んで協力する",
-        "組んで進める",
-        "組んで取り組む",
-        "組んで対応する",
-        "組んで解決する",
-        "密に組む",
-        "緊密に組む",
-        "綿密に組む",
-        "緻密に組む",
-        "強固に組む"
+    [
+      "to put together / to construct / to assemble",
+      "to produce (e.g., a TV program)",
+      "to set (e.g., type)",
+      "to issue (e.g., a money order)"
+    ],
+    [
+      "to unite / to join / to link up / to form an alliance",
+      "to cooperate or work together (as a team or partner)"
     ]
+  ],
+  "meaning_explanation_japanese": "「組む」は、人や物を一緒にまとめること、腕や足を交差すること、糸やものを編むこと、協力して何かをすること、計画や日程を作ることなど、いろいろな場面で使える動詞です。",
+  "meaning_explanation_english": "The word くむ means to join or put people/things together, to cross arms or legs, to braid, to cooperate with others, or to arrange plans and schedules.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "組",
+      "common_words": [
+        "組織 (そしき): organization",
+        "組合 (くみあい): union; association"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means assemble or group. It often shows the idea of putting parts or people together. In the word そしき it helps show people are arranged into an organized group, and in the word くみあい it shows people joining together as a union.",
+  "synonyms": [
+    "結ぶ : むすぶ : to tie; to connect",
+    "連携する : れんけいする : to cooperate; to coordinate"
+  ],
+  "synonym_explanation": "The most common synonyms of the word are むすぶ and れんけいする. むすぶ often means to tie or connect things or people together physically or abstractly. れんけいする emphasizes cooperating or coordinating actions with others and is close to くむ when talking about teaming up.",
+  "antonyms": [
+    "離す : はなす : to separate; to let go",
+    "分ける : わける : to divide; to split"
+  ],
+  "antonym_explanation": "The most common antonyms of the word are はなす and わける. はなす means to separate or let go, which is the opposite of linking or holding together. わける means to split or divide something into parts, also opposite to assembling or joining.",
+  "collocations": [
+    {
+      "kanji": "チームを組む",
+      "furigana": "チームを組む",
+      "translations": {}
+    },
+    {
+      "kanji": "組織を組む",
+      "furigana": "組織を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "計画を組む",
+      "furigana": "計画を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "時間割を組む",
+      "furigana": "時間割を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "日程を組む",
+      "furigana": "日程を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "彼と組む",
+      "furigana": "彼と組む",
+      "translations": {}
+    },
+    {
+      "kanji": "二人で組む",
+      "furigana": "二人で組む",
+      "translations": {}
+    },
+    {
+      "kanji": "他社と組む",
+      "furigana": "他社と組む",
+      "translations": {}
+    },
+    {
+      "kanji": "同盟を組む",
+      "furigana": "同盟を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "連携を組む",
+      "furigana": "連携を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "腕を組む",
+      "furigana": "腕を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "足を組む",
+      "furigana": "足を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "手を組む",
+      "furigana": "手を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "膝を組む",
+      "furigana": "膝を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "指を組む",
+      "furigana": "指を組む",
+      "translations": {}
+    },
+    {
+      "kanji": "組んで協力する",
+      "furigana": "組んで協力する",
+      "translations": {}
+    },
+    {
+      "kanji": "組んで進める",
+      "furigana": "組んで進める",
+      "translations": {}
+    },
+    {
+      "kanji": "組んで取り組む",
+      "furigana": "組んで取り組む",
+      "translations": {}
+    },
+    {
+      "kanji": "組んで対応する",
+      "furigana": "組んで対応する",
+      "translations": {}
+    },
+    {
+      "kanji": "組んで解決する",
+      "furigana": "組んで解決する",
+      "translations": {}
+    },
+    {
+      "kanji": "密に組む",
+      "furigana": "密に組む",
+      "translations": {}
+    },
+    {
+      "kanji": "緊密に組む",
+      "furigana": "緊密に組む",
+      "translations": {}
+    },
+    {
+      "kanji": "綿密に組む",
+      "furigana": "綿密に組む",
+      "translations": {}
+    },
+    {
+      "kanji": "緻密に組む",
+      "furigana": "緻密に組む",
+      "translations": {}
+    },
+    {
+      "kanji": "強固に組む",
+      "furigana": "強固に組む",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "チームを組む。",
+      "furigana": "チームを組(く)む。",
+      "translations": {
+        "EN": "Form a team.",
+        "ID": "Bentuklah sebuah tim.",
+        "ES": "Formar un equipo.",
+        "VI": "Thành lập một đội.",
+        "FR": "Former une équipe.",
+        "NE": "एउटा टोली बनाउनुहोस्।",
+        "BN": "একটি দল গঠন করুন।",
+        "ZH": "组建一个团队。",
+        "KO": "팀을 구성한다.",
+        "TL": "Bumuo ng isang pangkat.",
+        "MY": "အသင်းဖွဲ့ပါ။",
+        "HI": "एक टीम बनाएं.",
+        "AR": "تشكيل فريق.",
+        "FA": "یک تیم تشکیل دهید."
+      }
+    },
+    {
+      "kanji": "腕を組む。",
+      "furigana": "腕(うで)を組(く)む。",
+      "translations": {
+        "EN": "Cross your arms.",
+        "ID": "Silangkan lengan Anda.",
+        "ES": "Cruza los brazos.",
+        "VI": "Khoanh tay lại.",
+        "FR": "Croisez vos bras.",
+        "NE": "हात काट्नुहोस्।",
+        "BN": "তোমার বাহু পার করো।",
+        "ZH": "交叉双臂。",
+        "KO": "팔을 짜다.",
+        "TL": "I-cross arms mo.",
+        "MY": "သင်၏လက်များကိုဖြတ်ပါ။",
+        "HI": "अपनी बाहों को क्रॉस करें।",
+        "AR": "اعبر ذراعيك.",
+        "FA": "دست‌هایتان را ضربدری کنید."
+      }
+    },
+    {
+      "kanji": "足を組む。",
+      "furigana": "足(あし)を組(く)む。",
+      "translations": {
+        "EN": "Cross your legs.",
+        "ID": "Silangkan kakimu.",
+        "ES": "Cruza las piernas.",
+        "VI": "Bắt chéo chân.",
+        "FR": "Croisez vos jambes.",
+        "NE": "आफ्नो खुट्टा पार गर्नुहोस्।",
+        "BN": "তোমার পা দুটো পার করো।",
+        "ZH": "交叉双腿。",
+        "KO": "다리를 짜다.",
+        "TL": "I-cross ang iyong mga binti.",
+        "MY": "သင်၏ခြေထောက်များကိုဖြတ်ပါ။",
+        "HI": "अपने सीमा को पार करना।",
+        "AR": "ضع ساقا فوق الأخرى.",
+        "FA": "پاهایتان را ضربدری قرار دهید."
+      }
+    },
+    {
+      "kanji": "計画を組む。",
+      "furigana": "計画(けいかく)を組(く)む。",
+      "translations": {
+        "EN": "Make a plan.",
+        "ID": "Buatlah rencana.",
+        "ES": "Haz un plan.",
+        "VI": "Lập kế hoạch.",
+        "FR": "Faites un plan.",
+        "NE": "योजना बनाउनुहोस्।",
+        "BN": "একটা পরিকল্পনা করো।",
+        "ZH": "制定计划。",
+        "KO": "계획을 짜다.",
+        "TL": "Gumawa ng plano.",
+        "MY": "အစီအစဉ်တစ်ခုလုပ်ပါ။",
+        "HI": "एक योजना बना।",
+        "AR": "ضع خطة.",
+        "FA": "یک برنامه ریزی کنید."
+      }
+    },
+    {
+      "kanji": "他社と組む。",
+      "furigana": "他社(たしゃ)と組(く)む。",
+      "translations": {
+        "EN": "Partner with other companies.",
+        "ID": "Bermitra dengan perusahaan lain.",
+        "ES": "Asociarse con otras empresas.",
+        "VI": "Hợp tác với các công ty khác.",
+        "FR": "Établissez des partenariats avec d’autres entreprises.",
+        "NE": "अन्य कम्पनीहरूसँग साझेदारी गर्नुहोस्।",
+        "BN": "অন্যান্য কোম্পানির সাথে অংশীদারিত্ব করুন।",
+        "ZH": "与其他公司合作。",
+        "KO": "타사와 협력한다.",
+        "TL": "Kasosyo sa ibang mga kumpanya.",
+        "MY": "အခြားကုမ္ပဏီများနှင့် ပူးပေါင်းပါ။",
+        "HI": "अन्य कंपनियों के साथ साझेदारी करें।",
+        "AR": "الشراكة مع شركات أخرى.",
+        "FA": "با شرکت‌های دیگر شریک شوید."
+      }
+    },
+    {
+      "kanji": "指を組む。",
+      "furigana": "指(ゆび)を組(く)む。",
+      "translations": {
+        "EN": "Interlock your fingers.",
+        "ID": "Kaitkan jari-jari kalian.",
+        "ES": "Entrelaza tus dedos.",
+        "VI": "Đan các ngón tay vào nhau.",
+        "FR": "Entrecroisez vos doigts.",
+        "NE": "आफ्ना औंलाहरू एकअर्कासँग जोड्नुहोस्।",
+        "BN": "তোমার আঙ্গুলগুলো পরস্পরের সাথে মিশে যাও।",
+        "ZH": "十指交叉。",
+        "KO": "손가락을 짜다.",
+        "TL": "I-interlock ang iyong mga daliri.",
+        "MY": "သင့်လက်ချောင်းများကို ချိတ်ဆက်ပါ။",
+        "HI": "अपनी उँगलियाँ आपस में फंसा लें।",
+        "AR": "تشابك أصابعك.",
+        "FA": "انگشتانتان را در هم قفل کنید."
+      }
+    },
+    {
+      "kanji": "組んで協力する。",
+      "furigana": "組(く)んで協力(きょうりょく)する。",
+      "translations": {
+        "EN": "Team up and cooperate.",
+        "ID": "Bersatu padu dan bekerja sama.",
+        "ES": "Trabajar en equipo y cooperar.",
+        "VI": "Hãy hợp tác và liên kết với nhau.",
+        "FR": "Faites équipe et coopérez.",
+        "NE": "टिम अप र सहकार्य गर्नुहोस्।",
+        "BN": "দলবদ্ধ হোন এবং সহযোগিতা করুন।",
+        "ZH": "组队合作。",
+        "KO": "함께 협력한다.",
+        "TL": "Magkaisa at magtulungan.",
+        "MY": "အဖွဲ့ဖွဲ့ပြီး ပူးပေါင်းဆောင်ရွက်ပါ။",
+        "HI": "टीम बनाएं और सहयोग करें।",
+        "AR": "تكوين فريق والتعاون.",
+        "FA": "با هم متحد شوید و همکاری کنید."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "to cross (legs or arms)": {
+      "ID": "menyilangkan (kaki atau lengan)",
+      "ES": "cruzar (piernas o brazos)",
+      "VI": "bắt chéo (chân hoặc tay)",
+      "FR": "croiser (jambes ou bras)",
+      "NE": "(खुट्टा वा हात) पार गर्नु",
+      "BN": "(পা বা বাহু) পার হওয়া",
+      "ZH": "交叉（腿或手臂）",
+      "KO": "(다리나 팔을) 교차하다",
+      "TL": "tumawid (binti o braso)",
+      "MY": "ဖြတ်ရန် (ခြေထောက် သို့မဟုတ် လက်များ)",
+      "HI": "(पैर या हाथ) पार करना",
+      "AR": "تقاطع (الساقين أو الذراعين)",
+      "FA": "(پاها یا دست‌ها) را روی هم انداختن",
+      "EN": [
+        "to link (arms)",
+        "to braid / to plait",
+        "to grapple / to wrestle"
+      ]
+    },
+    "to put together / to construct / to assemble": {
+      "ID": "untuk menyusun / membangun / merakit",
+      "ES": "juntar / construir / ensamblar",
+      "VI": "để lắp ráp / xây dựng / lắp ráp",
+      "FR": "assembler / construire / assembler",
+      "NE": "जोड्नु / निर्माण गर्नु / जम्मा गर्नु",
+      "BN": "একত্রিত করা / নির্মাণ করা / একত্রিত করা",
+      "ZH": "组装/建造/装配",
+      "KO": "조립하다 / 건설하다 / 조립하다",
+      "TL": "upang pagsama-samahin / upang bumuo / upang tipunin",
+      "MY": "ပေါင်းစည်းရန် / တည်ဆောက်ရန် / စုဝေးရန်",
+      "HI": "एक साथ रखना / निर्माण करना / इकट्ठा करना",
+      "AR": "تجميع / بناء / تجميع",
+      "FA": "سرهم کردن/ ساختن/ مونتاژ کردن",
+      "EN": [
+        "to produce (e.g., a TV program)",
+        "to set (e.g., type)",
+        "to issue (e.g., a money order)"
+      ]
+    },
+    "to unite / to join / to link up / to form an alliance": {
+      "ID": "untuk menyatukan / untuk bergabung / untuk menghubungkan / untuk membentuk aliansi",
+      "ES": "unir / unirse / enlazar / formar una alianza",
+      "VI": "đoàn kết / tham gia / liên kết / hình thành một liên minh",
+      "FR": "s'unir / se joindre / se lier / former une alliance",
+      "NE": "एकताबद्ध हुनु / सामेल हुनु / जोडिनु / गठबन्धन बनाउनु",
+      "BN": "ঐক্যবদ্ধ হওয়া / যোগদান করা / সংযুক্ত হওয়া / জোট গঠন করা",
+      "ZH": "联合/加入/联络/结成联盟",
+      "KO": "연합하다 / 가입하다 / 연결하다 / 동맹을 형성하다",
+      "TL": "upang magkaisa / upang sumali / upang mag-ugnay up / upang bumuo ng isang alyansa",
+      "MY": "ပေါင်းစည်းရန် / ပူးပေါင်းရန် / ချိတ်ဆက်ရန် / မဟာမိတ်ဖွဲ့ရန်",
+      "HI": "एकजुट होना / जुड़ना / जुड़ना / गठबंधन बनाना",
+      "AR": "توحيد / الانضمام / الارتباط / تشكيل تحالف",
+      "FA": "متحد کردن/به هم پیوستن/پیوند دادن/تشکیل اتحاد دادن",
+      "EN": [
+        "to cooperate or work together (as a team or partner)"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "組む",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "組む",
+        "reading": "くむ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to cross (legs or arms)",
+          "to link (arms)"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to put together",
+          "to construct",
+          "to assemble",
+          "to produce (e.g. TV program)"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to braid",
+          "to plait"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to grapple",
+          "to wrestle"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to unite",
+          "to join",
+          "to link up",
+          "to form an alliance"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to set (e.g. type)"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to issue (e.g. money order)"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "組"
+  ],
+  "kanji_data": {
+    "組": {
+      "freq_mainichi_shinbun": 204,
+      "grade": 2,
+      "heisig_en": "association",
+      "jlpt": 3,
+      "kanji": "組",
+      "kun_readings": [
+        "-ぐみ",
+        "く.む",
+        "くみ"
+      ],
+      "meanings": [
+        "assemble",
+        "association",
+        "braid",
+        "construct",
+        "cooperate",
+        "grapple",
+        "plait",
+        "unite"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "ソ"
+      ],
+      "stroke_count": 11,
+      "unicode": "7D44"
+    }
+  }
 }

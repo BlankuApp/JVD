@@ -1,256 +1,271 @@
 {
-    "version": "0.2.0",
-    "word": "付き合い",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/LKnM36qNQso",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "付き合い",
-        "reading": "つきあい",
-        "introduction_japanese": "",
-        "introduction_english": "What we'll explore next is the term つきあい, which you often encounter in social settings, especially during events or gatherings where maintaining social relations is key.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"tsukiai\" means \"socializing\" or \"relationships\". It refers to the act of associating with others, especially in a social or work-related setting. This term can imply interactions and obligations, often focusing on the effort to maintain good relationships within one's circle or community.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "association",
-                "socializing",
-                "socialising",
-                "fellowship"
-            ]
-        ],
-        "meaning_translations": {
-            "association": {
-                "EN": "association",
-                "ID": "asosiasi",
-                "ES": "asociación",
-                "VI": "hiệp hội",
-                "FR": "association",
-                "NE": "सम्बन्ध",
-                "BN": "সম্পর্ক",
-                "ZH": "关联",
-                "KO": "협회",
-                "TL": "asosasyon",
-                "MY": "အသင်းအဖွဲ့",
-                "HI": "संबंध",
-                "AR": "رابط",
-                "FA": "ارتباط"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は付き合いがいいです。",
-                "furigana": "彼(かれ)は付き合(つきあ)いがいいです。",
-                "translations": {
-                    "EN": "He is sociable.",
-                    "ID": "Dia mudah bergaul.",
-                    "ES": "Él es sociable.",
-                    "VI": "Anh ấy rất thân thiện.",
-                    "FR": "Il est sociable.",
-                    "NE": "उहाँ मिलनसार व्यक्ति हो।",
-                    "BN": "সে সামাজিক।",
-                    "ZH": "他很合群。",
-                    "KO": "그는 사교적입니다.",
-                    "TL": "Siya ay masayahin makisama.",
-                    "MY": "သူသည် လူထုပေါင်းသင်းရန် အဆင်ပြေသည်။",
-                    "HI": "वह सामाजिक है।",
-                    "AR": "إنه اجتماعي.",
-                    "FA": "او اجتماعی است."
-                }
-            },
-            {
-                "kanji": "彼女は付き合いが悪い。",
-                "furigana": "彼女(かのじょ)は付き合(つきあ)いが悪(わる)い。",
-                "translations": {
-                    "EN": "She is not socially inclined.",
-                    "ID": "Dia tidak suka bersosialisasi.",
-                    "ES": "Ella no es sociable.",
-                    "VI": "Cô ấy không thích giao tiếp xã hội.",
-                    "FR": "Elle n'est pas très sociable.",
-                    "NE": "उहाँको सामाजिक सम्बन्ध राम्रो छैन।",
-                    "BN": "সে সামাজিকভাবে অভীপ্সা করেনা।",
-                    "ZH": "她不善于交际。",
-                    "KO": "그녀는 사교성이 좋지 않다.",
-                    "TL": "Hindi siya nakikisalamuha.",
-                    "MY": "သူမသည် လူမှုရေးဆက်ဆံမှု အဆင်မပြေတာဖြစ်သည်။",
-                    "HI": "वह सामाजिक नहीं है।",
-                    "AR": "هي ليست اجتماعية.",
-                    "FA": "او ارتباط اجتماعی خوبی ندارد."
-                }
-            },
-            {
-                "kanji": "彼とは付き合いをたった。",
-                "furigana": "彼(かれ)とは付き合い(つきあい)をたった。",
-                "translations": {
-                    "EN": "I cut ties with him.",
-                    "ID": "Saya menghentikan hubungan dengan dia.",
-                    "ES": "Corté la relación con él.",
-                    "VI": "Tôi đã cắt đứt quan hệ với anh ấy.",
-                    "FR": "J'ai coupé les liens avec lui.",
-                    "NE": "मैले उनीसंग सम्बन्ध तोडेँ।",
-                    "BN": "আমি তার সঙ্গে সম্পর্ক ছিন্ন করলাম।",
-                    "ZH": "我与他断绝了关系。",
-                    "KO": "그와는 관계를 끊었다.",
-                    "TL": "Pinuputol ko na ang pakikipag-ugnayan sa kanya.",
-                    "MY": "သူနဲ့ဆက်ဆံရေးကိုဖြတ်လိုက်တယ်။",
-                    "HI": "मैंने उसके साथ संबंध तोड़ दिए।",
-                    "AR": "قطعت علاقتي به.",
-                    "FA": "ارتباطم را با او قطع کردم."
-                }
-            },
-            {
-                "kanji": "友達に無理につきあうのはやめよう。",
-                "furigana": "友達(ともだち)に無理(むり)につきあうのはやめよう。",
-                "translations": {
-                    "EN": "Let's stop forcing ourselves to hang out with friends.",
-                    "ID": "Mari kita berhenti memaksakan diri untuk berkumpul dengan teman-teman.",
-                    "ES": "Dejemos de obligarnos a salir con amigos.",
-                    "VI": "Hãy dừng ép buộc bản thân phải ở bên bạn bè.",
-                    "FR": "Arrêtons de nous forcer à sortir avec des amis.",
-                    "NE": "साथीसँग नदिच्चित रुपमा घुम्न बन्द गरौं।",
-                    "BN": "বন্ধুদের সঙ্গে জোরপূর্বক মেলামেশা বন্ধ করা যাক।",
-                    "ZH": "让我们停止强迫自己和朋友聚会。",
-                    "KO": "친구와 억지로 만나는 건 그만두자.",
-                    "TL": "Tigilan na natin ang pagpilit sa sarili na makipagkita sa mga kaibigan.",
-                    "MY": "သူငယ်ချင်းတွေနဲ့ အဖွဲ့သွားဖို့ အတင်းအကျဲကြိုးစားတာရပ်ကြပါစို့။",
-                    "HI": "दोस्तों के साथ जबरन मिलना बंद करें।",
-                    "AR": "دعونا نتوقف عن إجبار أنفسنا على الترفيه عن الأصدقاء.",
-                    "FA": "بیایید مجبور کردن خودمان برای معاشرت با دوستان را متوقف کنیم."
-                }
-            }
-        ],
-        "synonyms": [
-            "交際 : こうさい : company"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \u0002つ\u0002きあ\u0002い is \u0002こうさい, which also refers to social interactions and socialization. However, 交際 prevails more in romantic or close relationships, whereas つきあい has a broader, sometimes formal context.",
-        "antonyms": [
-            "無視 : むし : disregarding"
-        ],
-        "antonyms_explanation": "The most common antonym of the word つ\u0002きあ\u0002い is \u0002むし, meaning \"disregard\" or \"ignore\". While つ\u0002きあ\u0002い signifies active engagement in social interactions, むし denotes avoiding or ignoring such interactions.",
-        "kanji_details": [
-            {
-                "kanji": "付",
-                "common_words": [
-                    "受付: reception",
-                    "付近: neighborhood"
-                ]
-            },
-            {
-                "kanji": "合",
-                "common_words": [
-                    "合図: sign",
-                    "合格: passing"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "付き合い",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "付き合い",
-                "reading": "つきあい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "association",
-                    "socializing",
-                    "socialising",
-                    "fellowship"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "付",
-        "合"
-    ],
-    "kanji_data": {
-        "付": {
-            "meanings": [
-                "adhere",
-                "append",
-                "attach",
-                "refer to"
-            ],
-            "on_readings": [
-                "フ"
-            ],
-            "kun_readings": [
-                "-つ.き",
-                "-つ.け",
-                "-つ.ける",
-                "-つき",
-                "-づ.き",
-                "-づ.く",
-                "-づ.け",
-                "-づ.ける",
-                "-づき",
-                "-づけ",
-                "つ.き",
-                "つ.く",
-                "つ.け",
-                "つ.け-",
-                "つ.ける"
-            ],
-            "stroke_count": 5,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 322,
-            "unicode": "4ED8",
-            "grade": 4
-        },
-        "合": {
-            "meanings": [
-                "0.1",
-                "fit",
-                "join",
-                "suit"
-            ],
-            "on_readings": [
-                "カッ",
-                "ガッ",
-                "ゴウ"
-            ],
-            "kun_readings": [
-                "-あ.い",
-                "-あ.う",
-                "-あ.わせる",
-                "-あい",
-                "あ.い",
-                "あ.う",
-                "あ.わす",
-                "あ.わせる",
-                "あい-"
-            ],
-            "stroke_count": 6,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 41,
-            "unicode": "5408",
-            "grade": 2
-        }
-    },
-    "collocations": [
-        "つきあいがいい",
-        "つきあいがわるい",
-        "つきあいをたつ",
-        "むりにつきあう"
+  "version": "0.3.0",
+  "word": "付き合い",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/LKnM36qNQso",
+  "in_db": true,
+  "kanji": "付き合い",
+  "reading": "つきあい",
+  "introduction_japanese": "",
+  "introduction_english": "What we'll explore next is the term つきあい, which you often encounter in social settings, especially during events or gatherings where maintaining social relations is key.",
+  "meanings": [
+    [
+      "association",
+      "socializing",
+      "socialising",
+      "fellowship"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"tsukiai\" means \"socializing\" or \"relationships\". It refers to the act of associating with others, especially in a social or work-related setting. This term can imply interactions and obligations, often focusing on the effort to maintain good relationships within one's circle or community.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "付",
+      "common_words": [
+        "受付: reception",
+        "付近: neighborhood"
+      ]
+    },
+    {
+      "kanji": "合",
+      "common_words": [
+        "合図: sign",
+        "合格: passing"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "交際 : こうさい : company"
+  ],
+  "synonym_explanation": "The most common synonym of the word \u0002つ\u0002きあ\u0002い is \u0002こうさい, which also refers to social interactions and socialization. However, 交際 prevails more in romantic or close relationships, whereas つきあい has a broader, sometimes formal context.",
+  "antonyms": [
+    "無視 : むし : disregarding"
+  ],
+  "antonym_explanation": "The most common antonym of the word つ\u0002きあ\u0002い is \u0002むし, meaning \"disregard\" or \"ignore\". While つ\u0002きあ\u0002い signifies active engagement in social interactions, むし denotes avoiding or ignoring such interactions.",
+  "collocations": [
+    {
+      "kanji": "つきあいがいい",
+      "furigana": "つきあいがいい",
+      "translations": {}
+    },
+    {
+      "kanji": "つきあいがわるい",
+      "furigana": "つきあいがわるい",
+      "translations": {}
+    },
+    {
+      "kanji": "つきあいをたつ",
+      "furigana": "つきあいをたつ",
+      "translations": {}
+    },
+    {
+      "kanji": "むりにつきあう",
+      "furigana": "むりにつきあう",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は付き合いがいいです。",
+      "furigana": "彼(かれ)は付き合(つきあ)いがいいです。",
+      "translations": {
+        "EN": "He is sociable.",
+        "ID": "Dia mudah bergaul.",
+        "ES": "Él es sociable.",
+        "VI": "Anh ấy rất thân thiện.",
+        "FR": "Il est sociable.",
+        "NE": "उहाँ मिलनसार व्यक्ति हो।",
+        "BN": "সে সামাজিক।",
+        "ZH": "他很合群。",
+        "KO": "그는 사교적입니다.",
+        "TL": "Siya ay masayahin makisama.",
+        "MY": "သူသည် လူထုပေါင်းသင်းရန် အဆင်ပြေသည်။",
+        "HI": "वह सामाजिक है।",
+        "AR": "إنه اجتماعي.",
+        "FA": "او اجتماعی است."
+      }
+    },
+    {
+      "kanji": "彼女は付き合いが悪い。",
+      "furigana": "彼女(かのじょ)は付き合(つきあ)いが悪(わる)い。",
+      "translations": {
+        "EN": "She is not socially inclined.",
+        "ID": "Dia tidak suka bersosialisasi.",
+        "ES": "Ella no es sociable.",
+        "VI": "Cô ấy không thích giao tiếp xã hội.",
+        "FR": "Elle n'est pas très sociable.",
+        "NE": "उहाँको सामाजिक सम्बन्ध राम्रो छैन।",
+        "BN": "সে সামাজিকভাবে অভীপ্সা করেনা।",
+        "ZH": "她不善于交际。",
+        "KO": "그녀는 사교성이 좋지 않다.",
+        "TL": "Hindi siya nakikisalamuha.",
+        "MY": "သူမသည် လူမှုရေးဆက်ဆံမှု အဆင်မပြေတာဖြစ်သည်။",
+        "HI": "वह सामाजिक नहीं है।",
+        "AR": "هي ليست اجتماعية.",
+        "FA": "او ارتباط اجتماعی خوبی ندارد."
+      }
+    },
+    {
+      "kanji": "彼とは付き合いをたった。",
+      "furigana": "彼(かれ)とは付き合い(つきあい)をたった。",
+      "translations": {
+        "EN": "I cut ties with him.",
+        "ID": "Saya menghentikan hubungan dengan dia.",
+        "ES": "Corté la relación con él.",
+        "VI": "Tôi đã cắt đứt quan hệ với anh ấy.",
+        "FR": "J'ai coupé les liens avec lui.",
+        "NE": "मैले उनीसंग सम्बन्ध तोडेँ।",
+        "BN": "আমি তার সঙ্গে সম্পর্ক ছিন্ন করলাম।",
+        "ZH": "我与他断绝了关系。",
+        "KO": "그와는 관계를 끊었다.",
+        "TL": "Pinuputol ko na ang pakikipag-ugnayan sa kanya.",
+        "MY": "သူနဲ့ဆက်ဆံရေးကိုဖြတ်လိုက်တယ်။",
+        "HI": "मैंने उसके साथ संबंध तोड़ दिए।",
+        "AR": "قطعت علاقتي به.",
+        "FA": "ارتباطم را با او قطع کردم."
+      }
+    },
+    {
+      "kanji": "友達に無理につきあうのはやめよう。",
+      "furigana": "友達(ともだち)に無理(むり)につきあうのはやめよう。",
+      "translations": {
+        "EN": "Let's stop forcing ourselves to hang out with friends.",
+        "ID": "Mari kita berhenti memaksakan diri untuk berkumpul dengan teman-teman.",
+        "ES": "Dejemos de obligarnos a salir con amigos.",
+        "VI": "Hãy dừng ép buộc bản thân phải ở bên bạn bè.",
+        "FR": "Arrêtons de nous forcer à sortir avec des amis.",
+        "NE": "साथीसँग नदिच्चित रुपमा घुम्न बन्द गरौं।",
+        "BN": "বন্ধুদের সঙ্গে জোরপূর্বক মেলামেশা বন্ধ করা যাক।",
+        "ZH": "让我们停止强迫自己和朋友聚会。",
+        "KO": "친구와 억지로 만나는 건 그만두자.",
+        "TL": "Tigilan na natin ang pagpilit sa sarili na makipagkita sa mga kaibigan.",
+        "MY": "သူငယ်ချင်းတွေနဲ့ အဖွဲ့သွားဖို့ အတင်းအကျဲကြိုးစားတာရပ်ကြပါစို့။",
+        "HI": "दोस्तों के साथ जबरन मिलना बंद करें।",
+        "AR": "دعونا نتوقف عن إجبار أنفسنا على الترفيه عن الأصدقاء.",
+        "FA": "بیایید مجبور کردن خودمان برای معاشرت با دوستان را متوقف کنیم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "association": {
+      "EN": "association",
+      "ID": "asosiasi",
+      "ES": "asociación",
+      "VI": "hiệp hội",
+      "FR": "association",
+      "NE": "सम्बन्ध",
+      "BN": "সম্পর্ক",
+      "ZH": "关联",
+      "KO": "협회",
+      "TL": "asosasyon",
+      "MY": "အသင်းအဖွဲ့",
+      "HI": "संबंध",
+      "AR": "رابط",
+      "FA": "ارتباط"
+    }
+  },
+  "jisho_data": {
+    "slug": "付き合い",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "付き合い",
+        "reading": "つきあい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "association",
+          "socializing",
+          "socialising",
+          "fellowship"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "付",
+    "合"
+  ],
+  "kanji_data": {
+    "付": {
+      "meanings": [
+        "adhere",
+        "append",
+        "attach",
+        "refer to"
+      ],
+      "on_readings": [
+        "フ"
+      ],
+      "kun_readings": [
+        "-つ.き",
+        "-つ.け",
+        "-つ.ける",
+        "-つき",
+        "-づ.き",
+        "-づ.く",
+        "-づ.け",
+        "-づ.ける",
+        "-づき",
+        "-づけ",
+        "つ.き",
+        "つ.く",
+        "つ.け",
+        "つ.け-",
+        "つ.ける"
+      ],
+      "stroke_count": 5,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 322,
+      "unicode": "4ED8",
+      "grade": 4
+    },
+    "合": {
+      "meanings": [
+        "0.1",
+        "fit",
+        "join",
+        "suit"
+      ],
+      "on_readings": [
+        "カッ",
+        "ガッ",
+        "ゴウ"
+      ],
+      "kun_readings": [
+        "-あ.い",
+        "-あ.う",
+        "-あ.わせる",
+        "-あい",
+        "あ.い",
+        "あ.う",
+        "あ.わす",
+        "あ.わせる",
+        "あい-"
+      ],
+      "stroke_count": 6,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 41,
+      "unicode": "5408",
+      "grade": 2
+    }
+  }
 }

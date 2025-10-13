@@ -1,307 +1,330 @@
 {
-    "version": "0.2.0",
-    "word": "習慣",
-    "jlpt_level": 4,
-    "youtube_link": "https://youtu.be/D4MJjYRkZXY",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "習慣",
-        "reading": "しゅうかん",
-        "introduction_japanese": "",
-        "introduction_english": "Let's dive into learning \"習慣 (しゅうかん)\", a word you'll hear often when discussing daily routines or cultural practices in Japan.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"習慣(しゅうかん)\" means a habit or a custom. It refers to regular practices or traditions that individuals or cultures engage in. These can be daily routines or long-standing cultural practices that are commonly followed.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "habit"
-            ],
-            [
-                " custom",
-                "practice",
-                "convention",
-                "tradition"
-            ]
-        ],
-        "meaning_translations": {
-            "habit": {
-                "EN": "habit",
-                "ID": "kebiasaan",
-                "ES": "hábito",
-                "VI": "thói quen",
-                "FR": "habitude",
-                "NE": "बानी",
-                "BN": "অভ্যাস",
-                "ZH": "习惯",
-                "KO": "습관",
-                "TL": "ugali",
-                "MY": "အလေ့အကျင့်",
-                "HI": "आदत",
-                "AR": "عادة",
-                "FA": "عادت"
-            },
-            " custom": {
-                "EN": "Habit",
-                "ID": "Kebiasaan",
-                "ES": "Hábito",
-                "VI": "Thói quen",
-                "FR": "Habitude",
-                "NE": "बानी",
-                "BN": "অভ্যাস",
-                "ZH": "习惯",
-                "KO": "습관",
-                "TL": "Ugali",
-                "MY": "အလေ့အကျင့်",
-                "HI": "आदत",
-                "AR": "عادة",
-                "FA": "عادت"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "読書が私の毎日の習慣です。",
-                "furigana": "読書(どくしょ)が私(わたし)の毎日(まいにち)の習慣(しゅうかん)です。",
-                "translations": {
-                    "EN": "Reading is my daily habit.",
-                    "ID": "Membaca adalah kebiasaan harian saya.",
-                    "ES": "Leer es mi hábito diario.",
-                    "VI": "Đọc sách là thói quen hàng ngày của tôi.",
-                    "FR": "Lire est une habitude quotidienne pour moi.",
-                    "NE": "पढाई मेरो दैनिक बानी हो।",
-                    "BN": "পড়া আমার দৈনন্দিন অভ্যাস।",
-                    "ZH": "阅读是我的日常习惯。",
-                    "KO": "독서는 매일의 습관입니다.",
-                    "TL": "Ang pagbabasa ay aking pang-araw-araw na gawi.",
-                    "MY": "စာဖတ်ခြင်းသည် ငါ့ရနေ့စဉ်ဂန်ဘှရကနေသည်။",
-                    "HI": "पढ़ना मेरी दैनिक आदत है।",
-                    "AR": "القراءة هي عاداتي اليومية.",
-                    "FA": "خواندن عادت روزانه من است."
-                }
-            },
-            {
-                "kanji": "彼はよい習慣です。",
-                "furigana": "彼(かれ)はよい習慣(しゅうかん)です。",
-                "translations": {
-                    "EN": "He has good habits.",
-                    "ID": "Dia memiliki kebiasaan baik.",
-                    "ES": "Él tiene buenos hábitos.",
-                    "VI": "Anh ấy có thói quen tốt.",
-                    "FR": "Il a de bonnes habitudes.",
-                    "NE": "उससँग राम्रो बानीहरू छन्।",
-                    "BN": "তার ভালো অভ্যাস রয়েছে।",
-                    "ZH": "他有好习惯。",
-                    "KO": "그는 좋은 습관을 가지고 있습니다.",
-                    "TL": "Mayroon siyang magagandang gawi.",
-                    "MY": "သူဟာ ကောင်းတဲ့ အမူအရာတွေရှိတယ်။",
-                    "HI": "उसके पास अच्छी आदतें हैं।",
-                    "AR": "لديه عادات جيدة.",
-                    "FA": "او عادت‌های خوبی دارد."
-                }
-            },
-            {
-                "kanji": "彼は悪い習慣があります。",
-                "furigana": "彼(かれ)は悪(わる)い習慣(しゅうかん)があります。",
-                "translations": {
-                    "EN": "He has a bad habit.",
-                    "ID": "Dia memiliki kebiasaan buruk.",
-                    "ES": "Él tiene un mal hábito.",
-                    "VI": "Anh ấy có thói quen xấu.",
-                    "FR": "Il a une mauvaise habitude.",
-                    "NE": "उसँग नराम्रो बानी छ।",
-                    "BN": "তার একটা খারাপ অভ্যাস আছে।",
-                    "ZH": "他有个坏习惯。",
-                    "KO": "그는 나쁜 습관이 있습니다.",
-                    "TL": "May masamang ugali siya.",
-                    "MY": "သူသည်ဆိုးသောအမူအရာရှိသည်။",
-                    "HI": "उसकी एक बुरी आदत है।",
-                    "AR": "لديه عادة سيئة.",
-                    "FA": "او یک عادت بد دارد."
-                }
-            },
-            {
-                "kanji": "お正月は日本の習慣です。",
-                "furigana": "お正月(しょうがつ)は日本(にほん)の習慣(しゅうかん)です。",
-                "translations": {
-                    "EN": "New Year is a Japanese custom.",
-                    "ID": "Tahun Baru adalah kebiasaan Jepang.",
-                    "ES": "El Año Nuevo es una costumbre japonesa.",
-                    "VI": "Tết là một phong tục của Nhật Bản.",
-                    "FR": "Le Nouvel An est une coutume japonaise.",
-                    "NE": "नयाँ वर्ष जापानी चलन हो।",
-                    "BN": "নববর্ষ একটি জাপানি প্রথা।",
-                    "ZH": "新年是一个日本的习俗。",
-                    "KO": "설날은 일본의 관습입니다.",
-                    "TL": "Ang New Year ay isang kaugalian ng Hapon.",
-                    "MY": "နှစ်သစ်ကူးသည် ဂျပန်ရိုးရာတစ်ခုဖြစ်သည်။",
-                    "HI": "नया साल एक जापानी प्रथा है।",
-                    "AR": "رأس السنة هو عادة يابانية.",
-                    "FA": "سال نو یک سنت ژاپنی است."
-                }
-            },
-            {
-                "kanji": "毎日走るのは習慣にする。",
-                "furigana": "毎日(まいにち)走(はし)るのは習慣(しゅうかん)にする。",
-                "translations": {
-                    "EN": "I make running every day a habit.",
-                    "ID": "Saya membuat berlari setiap hari sebagai kebiasaan.",
-                    "ES": "Hago que correr todos los días sea un hábito.",
-                    "VI": "Tôi tạo thói quen chạy mỗi ngày.",
-                    "FR": "Je fais de la course à pied tous les jours une habitude.",
-                    "NE": "हरेक दिन दौडने बानी बनाउँछु।",
-                    "BN": "প্রতিদিন দৌড়ানো আমি অভ্যাসে পরিণত করি।",
-                    "ZH": "我养成每天跑步的习惯。",
-                    "KO": "매일 달리기를 습관으로 삼다.",
-                    "TL": "Ginagawa kong ugali ang pagbabalikwasan araw-araw.",
-                    "MY": "နေ့တိုင်းဆော့တာကို အလေ့အကျင့်ဖြစ်စေပါ့။",
-                    "HI": "मैं हर दिन दौड़ने की आदत डालता हूँ।",
-                    "AR": "أجعل من الركض كل يوم عادة.",
-                    "FA": "من دویدن هر روز را به یک عادت تبدیل می‌کنم."
-                }
-            },
-            {
-                "kanji": "習慣を変えることは難しいです。",
-                "furigana": "習慣(しゅうかん)を変える(かえる)ことは難(むずか)しいです。",
-                "translations": {
-                    "EN": "Changing habits is difficult.",
-                    "ID": "Mengubah kebiasaan itu sulit.",
-                    "ES": "Cambiar los hábitos es difícil.",
-                    "VI": "Thay đổi thói quen là khó.",
-                    "FR": "Changer les habitudes est difficile.",
-                    "NE": "बानी बदल्नु गाह्रो छ।",
-                    "BN": "অভ্যাস পরিবর্তন করা কঠিন।",
-                    "ZH": "改变习惯是困难的。",
-                    "KO": "습관을 바꾸는 것은 어렵다.",
-                    "TL": "Ang pagbabago ng mga nakagawian ay mahirap.",
-                    "MY": "အလေ့အထကိုပြောင်းတာခက်ပါတယ်။",
-                    "HI": "आदतें बदलना मुश्किल होता है।",
-                    "AR": "تغيير العادات صعب.",
-                    "FA": "تغییر دادن عادت‌ها دشوار است."
-                }
-            }
-        ],
-        "synonyms": [
-            "慣習 : かんしゅう : custom"
-        ],
-        "synonyms_explanation": "The most common synonym of \"習慣(しゅうかん)\" is \"慣習(かんしゅう)\". While \"しゅうかん\" focuses more on personal habits and customs, \"かんしゅう\" often refers to cultural or social practices and traditions.",
-        "antonyms": [
-            "新奇 : しんき : novel"
-        ],
-        "antonyms_explanation": "The most common antonym of \"習慣(しゅうかん)\" is \"新奇(しんき)\". While \"しゅうかん\" means regular or customary actions, \"しんき\" refers to something new and unfamiliar, emphasizing novelty rather than established routines.",
-        "kanji_details": [
-            {
-                "kanji": "習",
-                "common_words": [
-                    "習う: to take lessons in",
-                    "練習: practice"
-                ]
-            },
-            {
-                "kanji": "慣",
-                "common_words": [
-                    "慣れる: to get used to",
-                    "慣習: custom"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "習慣",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n4"
-        ],
-        "japanese": [
-            {
-                "word": "習慣",
-                "reading": "しゅうかん"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "habit"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    " custom",
-                    "practice",
-                    "convention",
-                    "tradition"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "習",
-        "慣"
+  "version": "0.3.0",
+  "word": "習慣",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/D4MJjYRkZXY",
+  "in_db": true,
+  "kanji": "習慣",
+  "reading": "しゅうかん",
+  "introduction_japanese": "",
+  "introduction_english": "Let's dive into learning \"習慣 (しゅうかん)\", a word you'll hear often when discussing daily routines or cultural practices in Japan.",
+  "meanings": [
+    [
+      "habit"
     ],
-    "kanji_data": {
-        "習": {
-            "meanings": [
-                "learn"
-            ],
-            "on_readings": [
-                "シュウ",
-                "ジュ"
-            ],
-            "kun_readings": [
-                "なら.い",
-                "なら.う"
-            ],
-            "stroke_count": 11,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 706,
-            "unicode": "7FD2",
-            "grade": 3
-        },
-        "慣": {
-            "meanings": [
-                "accustomed",
-                "become experienced",
-                "get used to"
-            ],
-            "on_readings": [
-                "カン"
-            ],
-            "kun_readings": [
-                "な.らす",
-                "な.れる"
-            ],
-            "stroke_count": 14,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 1177,
-            "unicode": "6163",
-            "grade": 5
-        }
-    },
-    "collocations": [
-        "毎日のしゅうかん",
-        "よいしゅうかん",
-        "わるいしゅうかん",
-        "日本のしゅうかん",
-        "しゅうかんにする",
-        "しゅうかんをかえる"
+    [
+      " custom",
+      "practice",
+      "convention",
+      "tradition"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"習慣(しゅうかん)\" means a habit or a custom. It refers to regular practices or traditions that individuals or cultures engage in. These can be daily routines or long-standing cultural practices that are commonly followed.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "習",
+      "common_words": [
+        "習う: to take lessons in",
+        "練習: practice"
+      ]
+    },
+    {
+      "kanji": "慣",
+      "common_words": [
+        "慣れる: to get used to",
+        "慣習: custom"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "慣習 : かんしゅう : custom"
+  ],
+  "synonym_explanation": "The most common synonym of \"習慣(しゅうかん)\" is \"慣習(かんしゅう)\". While \"しゅうかん\" focuses more on personal habits and customs, \"かんしゅう\" often refers to cultural or social practices and traditions.",
+  "antonyms": [
+    "新奇 : しんき : novel"
+  ],
+  "antonym_explanation": "The most common antonym of \"習慣(しゅうかん)\" is \"新奇(しんき)\". While \"しゅうかん\" means regular or customary actions, \"しんき\" refers to something new and unfamiliar, emphasizing novelty rather than established routines.",
+  "collocations": [
+    {
+      "kanji": "毎日のしゅうかん",
+      "furigana": "毎日のしゅうかん",
+      "translations": {}
+    },
+    {
+      "kanji": "よいしゅうかん",
+      "furigana": "よいしゅうかん",
+      "translations": {}
+    },
+    {
+      "kanji": "わるいしゅうかん",
+      "furigana": "わるいしゅうかん",
+      "translations": {}
+    },
+    {
+      "kanji": "日本のしゅうかん",
+      "furigana": "日本のしゅうかん",
+      "translations": {}
+    },
+    {
+      "kanji": "しゅうかんにする",
+      "furigana": "しゅうかんにする",
+      "translations": {}
+    },
+    {
+      "kanji": "しゅうかんをかえる",
+      "furigana": "しゅうかんをかえる",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "読書が私の毎日の習慣です。",
+      "furigana": "読書(どくしょ)が私(わたし)の毎日(まいにち)の習慣(しゅうかん)です。",
+      "translations": {
+        "EN": "Reading is my daily habit.",
+        "ID": "Membaca adalah kebiasaan harian saya.",
+        "ES": "Leer es mi hábito diario.",
+        "VI": "Đọc sách là thói quen hàng ngày của tôi.",
+        "FR": "Lire est une habitude quotidienne pour moi.",
+        "NE": "पढाई मेरो दैनिक बानी हो।",
+        "BN": "পড়া আমার দৈনন্দিন অভ্যাস।",
+        "ZH": "阅读是我的日常习惯。",
+        "KO": "독서는 매일의 습관입니다.",
+        "TL": "Ang pagbabasa ay aking pang-araw-araw na gawi.",
+        "MY": "စာဖတ်ခြင်းသည် ငါ့ရနေ့စဉ်ဂန်ဘှရကနေသည်။",
+        "HI": "पढ़ना मेरी दैनिक आदत है।",
+        "AR": "القراءة هي عاداتي اليومية.",
+        "FA": "خواندن عادت روزانه من است."
+      }
+    },
+    {
+      "kanji": "彼はよい習慣です。",
+      "furigana": "彼(かれ)はよい習慣(しゅうかん)です。",
+      "translations": {
+        "EN": "He has good habits.",
+        "ID": "Dia memiliki kebiasaan baik.",
+        "ES": "Él tiene buenos hábitos.",
+        "VI": "Anh ấy có thói quen tốt.",
+        "FR": "Il a de bonnes habitudes.",
+        "NE": "उससँग राम्रो बानीहरू छन्।",
+        "BN": "তার ভালো অভ্যাস রয়েছে।",
+        "ZH": "他有好习惯。",
+        "KO": "그는 좋은 습관을 가지고 있습니다.",
+        "TL": "Mayroon siyang magagandang gawi.",
+        "MY": "သူဟာ ကောင်းတဲ့ အမူအရာတွေရှိတယ်။",
+        "HI": "उसके पास अच्छी आदतें हैं।",
+        "AR": "لديه عادات جيدة.",
+        "FA": "او عادت‌های خوبی دارد."
+      }
+    },
+    {
+      "kanji": "彼は悪い習慣があります。",
+      "furigana": "彼(かれ)は悪(わる)い習慣(しゅうかん)があります。",
+      "translations": {
+        "EN": "He has a bad habit.",
+        "ID": "Dia memiliki kebiasaan buruk.",
+        "ES": "Él tiene un mal hábito.",
+        "VI": "Anh ấy có thói quen xấu.",
+        "FR": "Il a une mauvaise habitude.",
+        "NE": "उसँग नराम्रो बानी छ।",
+        "BN": "তার একটা খারাপ অভ্যাস আছে।",
+        "ZH": "他有个坏习惯。",
+        "KO": "그는 나쁜 습관이 있습니다.",
+        "TL": "May masamang ugali siya.",
+        "MY": "သူသည်ဆိုးသောအမူအရာရှိသည်။",
+        "HI": "उसकी एक बुरी आदत है।",
+        "AR": "لديه عادة سيئة.",
+        "FA": "او یک عادت بد دارد."
+      }
+    },
+    {
+      "kanji": "お正月は日本の習慣です。",
+      "furigana": "お正月(しょうがつ)は日本(にほん)の習慣(しゅうかん)です。",
+      "translations": {
+        "EN": "New Year is a Japanese custom.",
+        "ID": "Tahun Baru adalah kebiasaan Jepang.",
+        "ES": "El Año Nuevo es una costumbre japonesa.",
+        "VI": "Tết là một phong tục của Nhật Bản.",
+        "FR": "Le Nouvel An est une coutume japonaise.",
+        "NE": "नयाँ वर्ष जापानी चलन हो।",
+        "BN": "নববর্ষ একটি জাপানি প্রথা।",
+        "ZH": "新年是一个日本的习俗。",
+        "KO": "설날은 일본의 관습입니다.",
+        "TL": "Ang New Year ay isang kaugalian ng Hapon.",
+        "MY": "နှစ်သစ်ကူးသည် ဂျပန်ရိုးရာတစ်ခုဖြစ်သည်။",
+        "HI": "नया साल एक जापानी प्रथा है।",
+        "AR": "رأس السنة هو عادة يابانية.",
+        "FA": "سال نو یک سنت ژاپنی است."
+      }
+    },
+    {
+      "kanji": "毎日走るのは習慣にする。",
+      "furigana": "毎日(まいにち)走(はし)るのは習慣(しゅうかん)にする。",
+      "translations": {
+        "EN": "I make running every day a habit.",
+        "ID": "Saya membuat berlari setiap hari sebagai kebiasaan.",
+        "ES": "Hago que correr todos los días sea un hábito.",
+        "VI": "Tôi tạo thói quen chạy mỗi ngày.",
+        "FR": "Je fais de la course à pied tous les jours une habitude.",
+        "NE": "हरेक दिन दौडने बानी बनाउँछु।",
+        "BN": "প্রতিদিন দৌড়ানো আমি অভ্যাসে পরিণত করি।",
+        "ZH": "我养成每天跑步的习惯。",
+        "KO": "매일 달리기를 습관으로 삼다.",
+        "TL": "Ginagawa kong ugali ang pagbabalikwasan araw-araw.",
+        "MY": "နေ့တိုင်းဆော့တာကို အလေ့အကျင့်ဖြစ်စေပါ့။",
+        "HI": "मैं हर दिन दौड़ने की आदत डालता हूँ।",
+        "AR": "أجعل من الركض كل يوم عادة.",
+        "FA": "من دویدن هر روز را به یک عادت تبدیل می‌کنم."
+      }
+    },
+    {
+      "kanji": "習慣を変えることは難しいです。",
+      "furigana": "習慣(しゅうかん)を変える(かえる)ことは難(むずか)しいです。",
+      "translations": {
+        "EN": "Changing habits is difficult.",
+        "ID": "Mengubah kebiasaan itu sulit.",
+        "ES": "Cambiar los hábitos es difícil.",
+        "VI": "Thay đổi thói quen là khó.",
+        "FR": "Changer les habitudes est difficile.",
+        "NE": "बानी बदल्नु गाह्रो छ।",
+        "BN": "অভ্যাস পরিবর্তন করা কঠিন।",
+        "ZH": "改变习惯是困难的。",
+        "KO": "습관을 바꾸는 것은 어렵다.",
+        "TL": "Ang pagbabago ng mga nakagawian ay mahirap.",
+        "MY": "အလေ့အထကိုပြောင်းတာခက်ပါတယ်။",
+        "HI": "आदतें बदलना मुश्किल होता है।",
+        "AR": "تغيير العادات صعب.",
+        "FA": "تغییر دادن عادت‌ها دشوار است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "habit": {
+      "EN": "habit",
+      "ID": "kebiasaan",
+      "ES": "hábito",
+      "VI": "thói quen",
+      "FR": "habitude",
+      "NE": "बानी",
+      "BN": "অভ্যাস",
+      "ZH": "习惯",
+      "KO": "습관",
+      "TL": "ugali",
+      "MY": "အလေ့အကျင့်",
+      "HI": "आदत",
+      "AR": "عادة",
+      "FA": "عادت"
+    },
+    " custom": {
+      "EN": "Habit",
+      "ID": "Kebiasaan",
+      "ES": "Hábito",
+      "VI": "Thói quen",
+      "FR": "Habitude",
+      "NE": "बानी",
+      "BN": "অভ্যাস",
+      "ZH": "习惯",
+      "KO": "습관",
+      "TL": "Ugali",
+      "MY": "အလေ့အကျင့်",
+      "HI": "आदत",
+      "AR": "عادة",
+      "FA": "عادت"
+    }
+  },
+  "jisho_data": {
+    "slug": "習慣",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n4"
+    ],
+    "japanese": [
+      {
+        "word": "習慣",
+        "reading": "しゅうかん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "habit"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          " custom",
+          "practice",
+          "convention",
+          "tradition"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "習",
+    "慣"
+  ],
+  "kanji_data": {
+    "習": {
+      "meanings": [
+        "learn"
+      ],
+      "on_readings": [
+        "シュウ",
+        "ジュ"
+      ],
+      "kun_readings": [
+        "なら.い",
+        "なら.う"
+      ],
+      "stroke_count": 11,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 706,
+      "unicode": "7FD2",
+      "grade": 3
+    },
+    "慣": {
+      "meanings": [
+        "accustomed",
+        "become experienced",
+        "get used to"
+      ],
+      "on_readings": [
+        "カン"
+      ],
+      "kun_readings": [
+        "な.らす",
+        "な.れる"
+      ],
+      "stroke_count": 14,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 1177,
+      "unicode": "6163",
+      "grade": 5
+    }
+  }
 }

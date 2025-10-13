@@ -1,204 +1,219 @@
 {
-    "version": "0.2.0",
-    "word": "単なる",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/S0wT4vhOhqQ",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "単なる",
-        "reading": "たんなる",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is \"たんなる,\" which you will often hear in conversations describing something basic or uncomplicated. For example, it's used to say things like \"it was just a joke\" or \"a mere formality.\"",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"たんなる\" means \"mere\" or \"just.\" It's used to describe something that is simply what it appears to be and not more significant or complicated. In many contexts, \"たんなる\" can emphasize the simplicity or basic nature of something.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "mere",
-                "simple",
-                "sheer"
-            ]
-        ],
-        "meaning_translations": {
-            "mere": {
-                "EN": "mere",
-                "ID": "sekadar",
-                "ES": "mero",
-                "VI": "chỉ là",
-                "FR": "simple",
-                "NE": "साधारण",
-                "BN": "মাত্ৰ",
-                "ZH": "仅仅",
-                "KO": "단순한",
-                "TL": "katamtaman",
-                "MY": "သာလျှင်",
-                "HI": "मात्र",
-                "AR": "مجرد",
-                "FA": "صرفاً"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "それは単なる言葉です。",
-                "furigana": "それは単なることばです。",
-                "translations": {
-                    "EN": "It's just a word.",
-                    "ID": "Ini hanya sebuah kata.",
-                    "ES": "Eso es solo una palabra.",
-                    "VI": "Nó chỉ là một từ.",
-                    "FR": "C'est juste un mot.",
-                    "NE": "यो केवल एक शब्द हो।",
-                    "BN": "এটি কেবল একটি শব্দ।",
-                    "ZH": "这只是一个词。",
-                    "KO": "그것은 단순한 말입니다.",
-                    "TL": "Ito ay isang salita lamang.",
-                    "MY": "ဒါက စကားလုံးသာ ဖြစ်ပါတယ်။",
-                    "HI": "यह सिर्फ एक शब्द है।",
-                    "AR": "إنها مجرد كلمة.",
-                    "FA": "این فقط یک کلمه ‌است."
-                }
-            },
-            {
-                "kanji": "これは単なる事件です。",
-                "furigana": "これは単(たん)なる事件(じけん)です。",
-                "translations": {
-                    "EN": "This is just an incident.",
-                    "ID": "Ini hanya sebuah insiden.",
-                    "ES": "Esto es solo un incidente.",
-                    "VI": "Đây chỉ là một sự cố.",
-                    "FR": "C'est juste un incident.",
-                    "NE": "यो केवल एक घटना हो।",
-                    "BN": "এটি শুধু একটি ঘটনা।",
-                    "ZH": "这只是个事件。",
-                    "KO": "이것은 단순한 사건입니다.",
-                    "TL": "Isa lamang itong insidente.",
-                    "MY": "ဤသည်မှာ အခိုက်အတန့်သာ ဖြစ်သည်။",
-                    "HI": "यह सिर्फ एक घटना है।",
-                    "AR": "هذا مجرد حادثة.",
-                    "FA": "این تنها یک حادثه است."
-                }
-            },
-            {
-                "kanji": "これは単なるきげんです。",
-                "furigana": "これは単(たん)なる機嫌(きげん)です。",
-                "translations": {
-                    "EN": "This is just a mood.",
-                    "ID": "Ini hanya suasana hati.",
-                    "ES": "Esto es solo un estado de ánimo.",
-                    "VI": "Đây chỉ là một tâm trạng.",
-                    "FR": "C'est juste une humeur.",
-                    "NE": "यो केवल एक मुड हो।",
-                    "BN": "এটি শুধুমাত্র একটি মেজাজ।",
-                    "ZH": "这只是一个心情。",
-                    "KO": "이것은 단순한 기분이에요.",
-                    "TL": "Ito ay isang simpleng gana lamang.",
-                    "MY": "ဒါက သူ့ရဲ့ စိတ်နှစ်ခြင်းသက်သေ သာဘဲဖြစ်ပါတယ်။",
-                    "HI": "यह केवल मूड है।",
-                    "AR": "هذا مجرد مزاج.",
-                    "FA": "این تنها یک حال و هوا است."
-                }
-            },
-            {
-                "kanji": "それは単なる思いつきです。",
-                "furigana": "それは単なる思(おも)い付き(つき)です。",
-                "translations": {
-                    "EN": "That's merely an idea.",
-                    "ID": "Itu hanya sebuah ide.",
-                    "ES": "Eso es solo una idea.",
-                    "VI": "Đó chỉ đơn giản là một ý tưởng.",
-                    "FR": "C'est juste une idée.",
-                    "NE": "त्यो केवल एक विचार हो।",
-                    "BN": "ওটা একদমই একটা ধারণা।",
-                    "ZH": "那只是一个想法。",
-                    "KO": "그건 단순한 생각입니다.",
-                    "TL": "Isa lamang yang ideya.",
-                    "MY": "ဒါက ရိုးရှင်းတဲ့ အတွေးသာဖြစ်ပါတယ်။",
-                    "HI": "वह केवल एक विचार है।",
-                    "AR": "هذه مجرد فكرة.",
-                    "FA": "آن تنها یک ایده است."
-                }
-            }
-        ],
-        "synonyms": [
-            "シンプル : シンプル : simple"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"たんなる\" are \"ただの\" and \"しんぷる.\" \"ただの\" also means \"mere\" and is used to point out the plainness of something, often interchangeably with \"たんなる.\" On the other hand, \"しんぷる\" carries the meaning of \"simple,\" emphasizing straightforwardness without complexity.",
-        "antonyms": [
-            "複雑 : ふくざつ : complex",
-            "子 : こ : child"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"たんなる\" are \"ふくざつな\" and \"こんなんな.\" \"ふくざつな\" means \"complex\" or \"complicated,\" highlighting intricacy and multiple elements. \"こんなんな\" indicates \"difficult\" or \"challenging,\" often involving complications or various facets, as opposed to the simplicity suggested by \"たんなる.\"",
-        "kanji_details": [
-            {
-                "kanji": "単",
-                "common_words": [
-                    "単語: word",
-                    "単純: simple"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "単なる",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "単なる",
-                "reading": "たんなる"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "mere",
-                    "simple",
-                    "sheer"
-                ],
-                "parts_of_speech": [
-                    "Pre-noun adjectival (rentaishi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "単"
-    ],
-    "kanji_data": {
-        "単": {
-            "meanings": [
-                "merely",
-                "one",
-                "simple",
-                "single"
-            ],
-            "on_readings": [
-                "タン"
-            ],
-            "kun_readings": [
-                "ひとえ"
-            ],
-            "stroke_count": 9,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 586,
-            "unicode": "5358",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "たんなる ことば",
-        "たんなる じけん",
-        "たんなる きげん",
-        "たんなる おもいつき"
+  "version": "0.3.0",
+  "word": "単なる",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/S0wT4vhOhqQ",
+  "in_db": true,
+  "kanji": "単なる",
+  "reading": "たんなる",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is \"たんなる,\" which you will often hear in conversations describing something basic or uncomplicated. For example, it's used to say things like \"it was just a joke\" or \"a mere formality.\"",
+  "meanings": [
+    [
+      "mere",
+      "simple",
+      "sheer"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"たんなる\" means \"mere\" or \"just.\" It's used to describe something that is simply what it appears to be and not more significant or complicated. In many contexts, \"たんなる\" can emphasize the simplicity or basic nature of something.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "単",
+      "common_words": [
+        "単語: word",
+        "単純: simple"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "シンプル : シンプル : simple"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"たんなる\" are \"ただの\" and \"しんぷる.\" \"ただの\" also means \"mere\" and is used to point out the plainness of something, often interchangeably with \"たんなる.\" On the other hand, \"しんぷる\" carries the meaning of \"simple,\" emphasizing straightforwardness without complexity.",
+  "antonyms": [
+    "複雑 : ふくざつ : complex",
+    "子 : こ : child"
+  ],
+  "antonym_explanation": "The most common antonyms of the word \"たんなる\" are \"ふくざつな\" and \"こんなんな.\" \"ふくざつな\" means \"complex\" or \"complicated,\" highlighting intricacy and multiple elements. \"こんなんな\" indicates \"difficult\" or \"challenging,\" often involving complications or various facets, as opposed to the simplicity suggested by \"たんなる.\"",
+  "collocations": [
+    {
+      "kanji": "たんなる ことば",
+      "furigana": "たんなる ことば",
+      "translations": {}
+    },
+    {
+      "kanji": "たんなる じけん",
+      "furigana": "たんなる じけん",
+      "translations": {}
+    },
+    {
+      "kanji": "たんなる きげん",
+      "furigana": "たんなる きげん",
+      "translations": {}
+    },
+    {
+      "kanji": "たんなる おもいつき",
+      "furigana": "たんなる おもいつき",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "それは単なる言葉です。",
+      "furigana": "それは単なることばです。",
+      "translations": {
+        "EN": "It's just a word.",
+        "ID": "Ini hanya sebuah kata.",
+        "ES": "Eso es solo una palabra.",
+        "VI": "Nó chỉ là một từ.",
+        "FR": "C'est juste un mot.",
+        "NE": "यो केवल एक शब्द हो।",
+        "BN": "এটি কেবল একটি শব্দ।",
+        "ZH": "这只是一个词。",
+        "KO": "그것은 단순한 말입니다.",
+        "TL": "Ito ay isang salita lamang.",
+        "MY": "ဒါက စကားလုံးသာ ဖြစ်ပါတယ်။",
+        "HI": "यह सिर्फ एक शब्द है।",
+        "AR": "إنها مجرد كلمة.",
+        "FA": "این فقط یک کلمه ‌است."
+      }
+    },
+    {
+      "kanji": "これは単なる事件です。",
+      "furigana": "これは単(たん)なる事件(じけん)です。",
+      "translations": {
+        "EN": "This is just an incident.",
+        "ID": "Ini hanya sebuah insiden.",
+        "ES": "Esto es solo un incidente.",
+        "VI": "Đây chỉ là một sự cố.",
+        "FR": "C'est juste un incident.",
+        "NE": "यो केवल एक घटना हो।",
+        "BN": "এটি শুধু একটি ঘটনা।",
+        "ZH": "这只是个事件。",
+        "KO": "이것은 단순한 사건입니다.",
+        "TL": "Isa lamang itong insidente.",
+        "MY": "ဤသည်မှာ အခိုက်အတန့်သာ ဖြစ်သည်။",
+        "HI": "यह सिर्फ एक घटना है।",
+        "AR": "هذا مجرد حادثة.",
+        "FA": "این تنها یک حادثه است."
+      }
+    },
+    {
+      "kanji": "これは単なるきげんです。",
+      "furigana": "これは単(たん)なる機嫌(きげん)です。",
+      "translations": {
+        "EN": "This is just a mood.",
+        "ID": "Ini hanya suasana hati.",
+        "ES": "Esto es solo un estado de ánimo.",
+        "VI": "Đây chỉ là một tâm trạng.",
+        "FR": "C'est juste une humeur.",
+        "NE": "यो केवल एक मुड हो।",
+        "BN": "এটি শুধুমাত্র একটি মেজাজ।",
+        "ZH": "这只是一个心情。",
+        "KO": "이것은 단순한 기분이에요.",
+        "TL": "Ito ay isang simpleng gana lamang.",
+        "MY": "ဒါက သူ့ရဲ့ စိတ်နှစ်ခြင်းသက်သေ သာဘဲဖြစ်ပါတယ်။",
+        "HI": "यह केवल मूड है।",
+        "AR": "هذا مجرد مزاج.",
+        "FA": "این تنها یک حال و هوا است."
+      }
+    },
+    {
+      "kanji": "それは単なる思いつきです。",
+      "furigana": "それは単なる思(おも)い付き(つき)です。",
+      "translations": {
+        "EN": "That's merely an idea.",
+        "ID": "Itu hanya sebuah ide.",
+        "ES": "Eso es solo una idea.",
+        "VI": "Đó chỉ đơn giản là một ý tưởng.",
+        "FR": "C'est juste une idée.",
+        "NE": "त्यो केवल एक विचार हो।",
+        "BN": "ওটা একদমই একটা ধারণা।",
+        "ZH": "那只是一个想法。",
+        "KO": "그건 단순한 생각입니다.",
+        "TL": "Isa lamang yang ideya.",
+        "MY": "ဒါက ရိုးရှင်းတဲ့ အတွေးသာဖြစ်ပါတယ်။",
+        "HI": "वह केवल एक विचार है।",
+        "AR": "هذه مجرد فكرة.",
+        "FA": "آن تنها یک ایده است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "mere": {
+      "EN": "mere",
+      "ID": "sekadar",
+      "ES": "mero",
+      "VI": "chỉ là",
+      "FR": "simple",
+      "NE": "साधारण",
+      "BN": "মাত্ৰ",
+      "ZH": "仅仅",
+      "KO": "단순한",
+      "TL": "katamtaman",
+      "MY": "သာလျှင်",
+      "HI": "मात्र",
+      "AR": "مجرد",
+      "FA": "صرفاً"
+    }
+  },
+  "jisho_data": {
+    "slug": "単なる",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "単なる",
+        "reading": "たんなる"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "mere",
+          "simple",
+          "sheer"
+        ],
+        "parts_of_speech": [
+          "Pre-noun adjectival (rentaishi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "単"
+  ],
+  "kanji_data": {
+    "単": {
+      "meanings": [
+        "merely",
+        "one",
+        "simple",
+        "single"
+      ],
+      "on_readings": [
+        "タン"
+      ],
+      "kun_readings": [
+        "ひとえ"
+      ],
+      "stroke_count": 9,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 586,
+      "unicode": "5358",
+      "grade": 4
+    }
+  }
 }

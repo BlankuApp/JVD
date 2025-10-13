@@ -1,326 +1,425 @@
 {
-    "version": "0.2.0",
-    "word": "豊富",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/yZB_9nBcxX0",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "豊富",
-        "reading": "ほうふ",
-        "introduction_japanese": "豊富は、知識や経験、資源、食材、選択肢などがたくさんあるときの会話でよく使う言葉です。商品やメニューの説明や、情報が多いことを話すときにも出てきます。",
-        "introduction_english": "The na-adjective/noun ほうふ is commonly used in conversations about having many things like knowledge, experience, resources, ingredients, or choices. You also see it when describing stores, menus, or when there is a lot of information.",
-        "meanings": [
-            [
-                "abundant",
-                "plentiful",
-                "rich",
-                "ample"
-            ]
-        ],
-        "meaning_explanation_japanese": "「豊富」は、物や情報、人手、経験などが数量的にも種類的にもたくさんあることを表す言葉です。たとえば、知識がたくさんある、人材が多い、種類が多いときに使います。",
-        "meaning_explanation_english": "The word ほうふ means 'abundant', 'plentiful', 'rich', or 'ample'. You use it when there is a large amount or many kinds of things, like knowledge, resources, or options.",
-        "kanji_explanation_english": "The first kanji means bountiful or plentiful. It shows up in words like ゆたか which describes being rich or abundant and makes the meaning feel like there is plenty. It also appears in ほうさく which means a good harvest, linking the kanji to plenty of crops. The second kanji means wealth or abundance. It appears in words like とみ which means wealth or fortune and gives the sense of having resources. It also appears in ふゆう which means affluence, showing the idea of material plenty or richness.",
-        "kanji_details": [
-            {
-                "kanji": "豊",
-                "common_words": [
-                    "豊か (ゆたか): rich; abundant",
-                    "豊作 (ほうさく): good harvest"
-                ]
-            },
-            {
-                "kanji": "富",
-                "common_words": [
-                    "富 (とみ): wealth; fortune",
-                    "富裕 (ふゆう): affluence; prosperity"
-                ]
-            }
-        ],
-        "synonyms": [
-            "豊か : ゆたか : rich; abundant"
-        ],
-        "synonyms_explanation": "The most common synonym of the ほうふ is ゆたか. ゆたか emphasizes general richness or plenty in quality or quantity and can be used in similar contexts, while ほうふ often focuses on having a large amount or many kinds of something.",
-        "antonyms": [
-            "乏しい : とぼしい : scarce; lacking"
-        ],
-        "antonyms_explanation": "The most common antonym of the ほうふ is とぼしい. とぼしい means there is little or not enough, so it contrasts with ほうふ which means there is a lot or many kinds.",
-        "examples": [
-            {
-                "kanji": "彼は豊富な知識を持っている。",
-                "furigana": "彼(かれ)は豊富(ほうふ)な知識(ちしき)を持(も)っている。",
-                "translations": {
-                    "EN": "He has a wealth of knowledge.",
-                    "ID": "Dia memiliki banyak sekali pengetahuan.",
-                    "ES": "Él tiene una riqueza de conocimientos.",
-                    "VI": "Anh ấy có rất nhiều kiến thức.",
-                    "FR": "Il a une richesse de connaissances.",
-                    "NE": "उहाँसँग ज्ञानको भण्डार छ।",
-                    "BN": "তার জ্ঞানের ভান্ডার প্রচুর।",
-                    "ZH": "他知识渊博。",
-                    "KO": "그는 풍부한 지식을 가지고 있습니다.",
-                    "TL": "Siya ay may kayamanan ng kaalaman.",
-                    "MY": "သူ့မှာ ဗဟုသုတ ကြွယ်ဝတယ်။",
-                    "HI": "उसके पास ज्ञान का भंडार है।",
-                    "AR": "فهو لديه ثروة من المعرفة.",
-                    "FA": "او گنجینه‌ای از دانش دارد."
-                }
-            },
-            {
-                "kanji": "この店は品揃えが豊富だ。",
-                "furigana": "この店(みせ)は品揃(しなぞろ)えが豊富(ほうふ)だ。",
-                "translations": {
-                    "EN": "This store has a wide selection of products.",
-                    "ID": "Toko ini memiliki banyak pilihan produk.",
-                    "ES": "Esta tienda tiene una amplia selección de productos.",
-                    "VI": "Cửa hàng này có nhiều loại sản phẩm để lựa chọn.",
-                    "FR": "Ce magasin propose un large choix de produits.",
-                    "NE": "यस पसलमा उत्पादनहरूको विस्तृत चयन छ।",
-                    "BN": "এই দোকানে পণ্যের বিস্তৃত সংগ্রহ রয়েছে।",
-                    "ZH": "这家商店的商品种类繁多。",
-                    "KO": "이 가게는 구색이 풍부하다.",
-                    "TL": "Ang tindahan na ito ay may malawak na seleksyon ng mga produkto.",
-                    "MY": "ဤဆိုင်တွင် ကုန်ပစ္စည်းရွေးချယ်မှု အများအပြားရှိသည်။",
-                    "HI": "इस स्टोर में उत्पादों का विस्तृत चयन उपलब्ध है।",
-                    "AR": "يحتوي هذا المتجر على تشكيلة واسعة من المنتجات.",
-                    "FA": "این فروشگاه طیف وسیعی از محصولات را ارائه می‌دهد."
-                }
-            },
-            {
-                "kanji": "メニューが豊富で選ぶのが楽しい。",
-                "furigana": "メニューが豊富(ほうふ)で選(えら)ぶのが楽(たの)しい。",
-                "translations": {
-                    "EN": "The menu is extensive and it's fun to choose.",
-                    "ID": "Menunya luas dan menyenangkan untuk dipilih.",
-                    "ES": "El menú es extenso y es divertido elegir.",
-                    "VI": "Thực đơn rất phong phú và dễ lựa chọn.",
-                    "FR": "Le menu est vaste et il est amusant de choisir.",
-                    "NE": "मेनु व्यापक छ र छनौट गर्न रमाइलो छ।",
-                    "BN": "মেনুটি বিস্তৃত এবং এটি বেছে নেওয়া মজাদার।",
-                    "ZH": "菜单很丰富，选择起来很有趣。",
-                    "KO": "메뉴가 풍부하고 선택하는 것이 즐겁다.",
-                    "TL": "Malawak ang menu at nakakatuwang pumili.",
-                    "MY": "မီနူးက ကျယ်ဝန်းပြီး ရွေးချယ်ရတာ ပျော်စရာကောင်းပါတယ်။",
-                    "HI": "मेनू विस्तृत है और इसमें से चुनना मजेदार है।",
-                    "AR": "القائمة واسعة النطاق ومن الممتع الاختيار.",
-                    "FA": "منوی رستوران مفصل است و انتخاب از بین آنها لذت‌بخش است."
-                }
-            },
-            {
-                "kanji": "この地域は水が豊富だ。",
-                "furigana": "この地域(ちいき)は水(みず)が豊富(ほうふ)だ。",
-                "translations": {
-                    "EN": "This region is rich in water.",
-                    "ID": "Wilayah ini kaya akan air.",
-                    "ES": "Esta región es rica en agua.",
-                    "VI": "Khu vực này có nhiều nước.",
-                    "FR": "Cette région est riche en eau.",
-                    "NE": "यो क्षेत्र पानीमा धनी छ।",
-                    "BN": "এই অঞ্চলটি জলে সমৃদ্ধ।",
-                    "ZH": "这一地区水资源丰富。",
-                    "KO": "이 지역은 물이 풍부하다.",
-                    "TL": "Ang rehiyong ito ay mayaman sa tubig.",
-                    "MY": "ဒီဒေသက ရေပေါတယ်။",
-                    "HI": "यह क्षेत्र जल से समृद्ध है।",
-                    "AR": "هذه المنطقة غنية بالمياه.",
-                    "FA": "این منطقه سرشار از آب است."
-                }
-            },
-            {
-                "kanji": "彼女は経験が豊富だ。",
-                "furigana": "彼女(かのじょ)は経験(けいけん)が豊富(ほうふ)だ。",
-                "translations": {
-                    "EN": "She has a lot of experience.",
-                    "ID": "Dia punya banyak pengalaman.",
-                    "ES": "Ella tiene mucha experiencia.",
-                    "VI": "Cô ấy có rất nhiều kinh nghiệm.",
-                    "FR": "Elle a beaucoup d'expérience.",
-                    "NE": "उनीसँग धेरै अनुभव छ।",
-                    "BN": "তার অনেক অভিজ্ঞতা আছে।",
-                    "ZH": "她经验丰富。",
-                    "KO": "그녀는 경험이 풍부하다.",
-                    "TL": "Marami siyang karanasan.",
-                    "MY": "သူမတွင် အတွေ့အကြုံများစွာရှိသည်။",
-                    "HI": "उसके पास बहुत अनुभव है.",
-                    "AR": "لديها الكثير من الخبرة.",
-                    "FA": "او تجربه زیادی دارد."
-                }
-            },
-            {
-                "kanji": "バリエーションが豊富だ。",
-                "furigana": "バリエーションが豊富(ほうふ)だ。",
-                "translations": {
-                    "EN": "There is a wide variety of options.",
-                    "ID": "Ada berbagai macam pilihan.",
-                    "ES": "Hay una amplia variedad de opciones.",
-                    "VI": "Có rất nhiều lựa chọn khác nhau.",
-                    "FR": "Il existe une grande variété d'options.",
-                    "NE": "विकल्पहरूको विस्तृत विविधता छ।",
-                    "BN": "বিভিন্ন ধরণের বিকল্প রয়েছে।",
-                    "ZH": "有多种多样的选择。",
-                    "KO": "바리에이션이 풍부하다.",
-                    "TL": "Mayroong maraming iba't ibang mga pagpipilian.",
-                    "MY": "ရွေးချယ်စရာ မြောက်များစွာရှိပါသည်။",
-                    "HI": "इसमें विकल्पों की एक विस्तृत विविधता है।",
-                    "AR": "هناك مجموعة واسعة من الخيارات.",
-                    "FA": "طیف گسترده‌ای از گزینه‌ها وجود دارد."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "abundant": {
-                "ID": "melimpah",
-                "ES": "abundante",
-                "VI": "dồi dào",
-                "FR": "abondant",
-                "NE": "प्रशस्त मात्रामा",
-                "BN": "প্রচুর পরিমাণে",
-                "ZH": "丰富",
-                "KO": "풍족한",
-                "TL": "sagana",
-                "MY": "ပေါများသည်။",
-                "HI": "प्रचुर",
-                "AR": "وفير",
-                "FA": "فراوان",
-                "EN": [
-                    "plentiful",
-                    "rich",
-                    "ample"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "豊富",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "豊富",
-                "reading": "ほうふ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "abundant",
-                    "plentiful",
-                    "rich",
-                    "ample"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi)",
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "豊",
-        "富"
-    ],
-    "kanji_data": {
-        "豊": {
-            "freq_mainichi_shinbun": 762,
-            "grade": 5,
-            "heisig_en": "bountiful",
-            "jlpt": 2,
-            "kanji": "豊",
-            "kun_readings": [
-                "とよ",
-                "ゆた.か"
-            ],
-            "meanings": [
-                "bountiful",
-                "excellent",
-                "rich"
-            ],
-            "name_readings": [
-                "て",
-                "で",
-                "と",
-                "ひろし",
-                "ふう",
-                "ぶん",
-                "ほ",
-                "ゆたか"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ブ",
-                "ホウ"
-            ],
-            "stroke_count": 13,
-            "unicode": "8C4A"
-        },
-        "富": {
-            "freq_mainichi_shinbun": 644,
-            "grade": 5,
-            "heisig_en": "wealth",
-            "jlpt": 3,
-            "kanji": "富",
-            "kun_readings": [
-                "と.む",
-                "とみ"
-            ],
-            "meanings": [
-                "abundant",
-                "enrich",
-                "wealth"
-            ],
-            "name_readings": [
-                "と",
-                "とん",
-                "ふっ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "フ",
-                "フウ"
-            ],
-            "stroke_count": 12,
-            "unicode": "5BCC"
-        }
-    },
-    "collocations": [
-        "豊富な知識",
-        "豊富な経験",
-        "豊富な資源",
-        "豊富な種類",
-        "豊富な食材",
-        "栄養が豊富だ",
-        "水が豊富だ",
-        "資金が豊富だ",
-        "人材が豊富だ",
-        "情報が豊富だ",
-        "非常に豊富に",
-        "きわめて豊富に",
-        "比較的豊富に",
-        "最も豊富に",
-        "かなり豊富に",
-        "バリエーションが豊富",
-        "メニューが豊富",
-        "選択肢が豊富",
-        "品揃えが豊富",
-        "経験が豊富",
-        "豊富な才能",
-        "豊富な感性",
-        "豊富な表現力",
-        "豊富な内容",
-        "豊富な色彩"
+  "version": "0.3.0",
+  "word": "豊富",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/yZB_9nBcxX0",
+  "in_db": true,
+  "kanji": "豊富",
+  "reading": "ほうふ",
+  "introduction_japanese": "豊富は、知識や経験、資源、食材、選択肢などがたくさんあるときの会話でよく使う言葉です。商品やメニューの説明や、情報が多いことを話すときにも出てきます。",
+  "introduction_english": "The na-adjective/noun ほうふ is commonly used in conversations about having many things like knowledge, experience, resources, ingredients, or choices. You also see it when describing stores, menus, or when there is a lot of information.",
+  "meanings": [
+    [
+      "abundant",
+      "plentiful",
+      "rich",
+      "ample"
     ]
+  ],
+  "meaning_explanation_japanese": "「豊富」は、物や情報、人手、経験などが数量的にも種類的にもたくさんあることを表す言葉です。たとえば、知識がたくさんある、人材が多い、種類が多いときに使います。",
+  "meaning_explanation_english": "The word ほうふ means 'abundant', 'plentiful', 'rich', or 'ample'. You use it when there is a large amount or many kinds of things, like knowledge, resources, or options.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "豊",
+      "common_words": [
+        "豊か (ゆたか): rich; abundant",
+        "豊作 (ほうさく): good harvest"
+      ]
+    },
+    {
+      "kanji": "富",
+      "common_words": [
+        "富 (とみ): wealth; fortune",
+        "富裕 (ふゆう): affluence; prosperity"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means bountiful or plentiful. It shows up in words like ゆたか which describes being rich or abundant and makes the meaning feel like there is plenty. It also appears in ほうさく which means a good harvest, linking the kanji to plenty of crops. The second kanji means wealth or abundance. It appears in words like とみ which means wealth or fortune and gives the sense of having resources. It also appears in ふゆう which means affluence, showing the idea of material plenty or richness.",
+  "synonyms": [
+    "豊か : ゆたか : rich; abundant"
+  ],
+  "synonym_explanation": "The most common synonym of the ほうふ is ゆたか. ゆたか emphasizes general richness or plenty in quality or quantity and can be used in similar contexts, while ほうふ often focuses on having a large amount or many kinds of something.",
+  "antonyms": [
+    "乏しい : とぼしい : scarce; lacking"
+  ],
+  "antonym_explanation": "The most common antonym of the ほうふ is とぼしい. とぼしい means there is little or not enough, so it contrasts with ほうふ which means there is a lot or many kinds.",
+  "collocations": [
+    {
+      "kanji": "豊富な知識",
+      "furigana": "豊富な知識",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な経験",
+      "furigana": "豊富な経験",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な資源",
+      "furigana": "豊富な資源",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な種類",
+      "furigana": "豊富な種類",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な食材",
+      "furigana": "豊富な食材",
+      "translations": {}
+    },
+    {
+      "kanji": "栄養が豊富だ",
+      "furigana": "栄養が豊富だ",
+      "translations": {}
+    },
+    {
+      "kanji": "水が豊富だ",
+      "furigana": "水が豊富だ",
+      "translations": {}
+    },
+    {
+      "kanji": "資金が豊富だ",
+      "furigana": "資金が豊富だ",
+      "translations": {}
+    },
+    {
+      "kanji": "人材が豊富だ",
+      "furigana": "人材が豊富だ",
+      "translations": {}
+    },
+    {
+      "kanji": "情報が豊富だ",
+      "furigana": "情報が豊富だ",
+      "translations": {}
+    },
+    {
+      "kanji": "非常に豊富に",
+      "furigana": "非常に豊富に",
+      "translations": {}
+    },
+    {
+      "kanji": "きわめて豊富に",
+      "furigana": "きわめて豊富に",
+      "translations": {}
+    },
+    {
+      "kanji": "比較的豊富に",
+      "furigana": "比較的豊富に",
+      "translations": {}
+    },
+    {
+      "kanji": "最も豊富に",
+      "furigana": "最も豊富に",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり豊富に",
+      "furigana": "かなり豊富に",
+      "translations": {}
+    },
+    {
+      "kanji": "バリエーションが豊富",
+      "furigana": "バリエーションが豊富",
+      "translations": {}
+    },
+    {
+      "kanji": "メニューが豊富",
+      "furigana": "メニューが豊富",
+      "translations": {}
+    },
+    {
+      "kanji": "選択肢が豊富",
+      "furigana": "選択肢が豊富",
+      "translations": {}
+    },
+    {
+      "kanji": "品揃えが豊富",
+      "furigana": "品揃えが豊富",
+      "translations": {}
+    },
+    {
+      "kanji": "経験が豊富",
+      "furigana": "経験が豊富",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な才能",
+      "furigana": "豊富な才能",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な感性",
+      "furigana": "豊富な感性",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な表現力",
+      "furigana": "豊富な表現力",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な内容",
+      "furigana": "豊富な内容",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な色彩",
+      "furigana": "豊富な色彩",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は豊富な知識を持っている。",
+      "furigana": "彼(かれ)は豊富(ほうふ)な知識(ちしき)を持(も)っている。",
+      "translations": {
+        "EN": "He has a wealth of knowledge.",
+        "ID": "Dia memiliki banyak sekali pengetahuan.",
+        "ES": "Él tiene una riqueza de conocimientos.",
+        "VI": "Anh ấy có rất nhiều kiến thức.",
+        "FR": "Il a une richesse de connaissances.",
+        "NE": "उहाँसँग ज्ञानको भण्डार छ।",
+        "BN": "তার জ্ঞানের ভান্ডার প্রচুর।",
+        "ZH": "他知识渊博。",
+        "KO": "그는 풍부한 지식을 가지고 있습니다.",
+        "TL": "Siya ay may kayamanan ng kaalaman.",
+        "MY": "သူ့မှာ ဗဟုသုတ ကြွယ်ဝတယ်။",
+        "HI": "उसके पास ज्ञान का भंडार है।",
+        "AR": "فهو لديه ثروة من المعرفة.",
+        "FA": "او گنجینه‌ای از دانش دارد."
+      }
+    },
+    {
+      "kanji": "この店は品揃えが豊富だ。",
+      "furigana": "この店(みせ)は品揃(しなぞろ)えが豊富(ほうふ)だ。",
+      "translations": {
+        "EN": "This store has a wide selection of products.",
+        "ID": "Toko ini memiliki banyak pilihan produk.",
+        "ES": "Esta tienda tiene una amplia selección de productos.",
+        "VI": "Cửa hàng này có nhiều loại sản phẩm để lựa chọn.",
+        "FR": "Ce magasin propose un large choix de produits.",
+        "NE": "यस पसलमा उत्पादनहरूको विस्तृत चयन छ।",
+        "BN": "এই দোকানে পণ্যের বিস্তৃত সংগ্রহ রয়েছে।",
+        "ZH": "这家商店的商品种类繁多。",
+        "KO": "이 가게는 구색이 풍부하다.",
+        "TL": "Ang tindahan na ito ay may malawak na seleksyon ng mga produkto.",
+        "MY": "ဤဆိုင်တွင် ကုန်ပစ္စည်းရွေးချယ်မှု အများအပြားရှိသည်။",
+        "HI": "इस स्टोर में उत्पादों का विस्तृत चयन उपलब्ध है।",
+        "AR": "يحتوي هذا المتجر على تشكيلة واسعة من المنتجات.",
+        "FA": "این فروشگاه طیف وسیعی از محصولات را ارائه می‌دهد."
+      }
+    },
+    {
+      "kanji": "メニューが豊富で選ぶのが楽しい。",
+      "furigana": "メニューが豊富(ほうふ)で選(えら)ぶのが楽(たの)しい。",
+      "translations": {
+        "EN": "The menu is extensive and it's fun to choose.",
+        "ID": "Menunya luas dan menyenangkan untuk dipilih.",
+        "ES": "El menú es extenso y es divertido elegir.",
+        "VI": "Thực đơn rất phong phú và dễ lựa chọn.",
+        "FR": "Le menu est vaste et il est amusant de choisir.",
+        "NE": "मेनु व्यापक छ र छनौट गर्न रमाइलो छ।",
+        "BN": "মেনুটি বিস্তৃত এবং এটি বেছে নেওয়া মজাদার।",
+        "ZH": "菜单很丰富，选择起来很有趣。",
+        "KO": "메뉴가 풍부하고 선택하는 것이 즐겁다.",
+        "TL": "Malawak ang menu at nakakatuwang pumili.",
+        "MY": "မီနူးက ကျယ်ဝန်းပြီး ရွေးချယ်ရတာ ပျော်စရာကောင်းပါတယ်။",
+        "HI": "मेनू विस्तृत है और इसमें से चुनना मजेदार है।",
+        "AR": "القائمة واسعة النطاق ومن الممتع الاختيار.",
+        "FA": "منوی رستوران مفصل است و انتخاب از بین آنها لذت‌بخش است."
+      }
+    },
+    {
+      "kanji": "この地域は水が豊富だ。",
+      "furigana": "この地域(ちいき)は水(みず)が豊富(ほうふ)だ。",
+      "translations": {
+        "EN": "This region is rich in water.",
+        "ID": "Wilayah ini kaya akan air.",
+        "ES": "Esta región es rica en agua.",
+        "VI": "Khu vực này có nhiều nước.",
+        "FR": "Cette région est riche en eau.",
+        "NE": "यो क्षेत्र पानीमा धनी छ।",
+        "BN": "এই অঞ্চলটি জলে সমৃদ্ধ।",
+        "ZH": "这一地区水资源丰富。",
+        "KO": "이 지역은 물이 풍부하다.",
+        "TL": "Ang rehiyong ito ay mayaman sa tubig.",
+        "MY": "ဒီဒေသက ရေပေါတယ်။",
+        "HI": "यह क्षेत्र जल से समृद्ध है।",
+        "AR": "هذه المنطقة غنية بالمياه.",
+        "FA": "این منطقه سرشار از آب است."
+      }
+    },
+    {
+      "kanji": "彼女は経験が豊富だ。",
+      "furigana": "彼女(かのじょ)は経験(けいけん)が豊富(ほうふ)だ。",
+      "translations": {
+        "EN": "She has a lot of experience.",
+        "ID": "Dia punya banyak pengalaman.",
+        "ES": "Ella tiene mucha experiencia.",
+        "VI": "Cô ấy có rất nhiều kinh nghiệm.",
+        "FR": "Elle a beaucoup d'expérience.",
+        "NE": "उनीसँग धेरै अनुभव छ।",
+        "BN": "তার অনেক অভিজ্ঞতা আছে।",
+        "ZH": "她经验丰富。",
+        "KO": "그녀는 경험이 풍부하다.",
+        "TL": "Marami siyang karanasan.",
+        "MY": "သူမတွင် အတွေ့အကြုံများစွာရှိသည်။",
+        "HI": "उसके पास बहुत अनुभव है.",
+        "AR": "لديها الكثير من الخبرة.",
+        "FA": "او تجربه زیادی دارد."
+      }
+    },
+    {
+      "kanji": "バリエーションが豊富だ。",
+      "furigana": "バリエーションが豊富(ほうふ)だ。",
+      "translations": {
+        "EN": "There is a wide variety of options.",
+        "ID": "Ada berbagai macam pilihan.",
+        "ES": "Hay una amplia variedad de opciones.",
+        "VI": "Có rất nhiều lựa chọn khác nhau.",
+        "FR": "Il existe une grande variété d'options.",
+        "NE": "विकल्पहरूको विस्तृत विविधता छ।",
+        "BN": "বিভিন্ন ধরণের বিকল্প রয়েছে।",
+        "ZH": "有多种多样的选择。",
+        "KO": "바리에이션이 풍부하다.",
+        "TL": "Mayroong maraming iba't ibang mga pagpipilian.",
+        "MY": "ရွေးချယ်စရာ မြောက်များစွာရှိပါသည်။",
+        "HI": "इसमें विकल्पों की एक विस्तृत विविधता है।",
+        "AR": "هناك مجموعة واسعة من الخيارات.",
+        "FA": "طیف گسترده‌ای از گزینه‌ها وجود دارد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "abundant": {
+      "ID": "melimpah",
+      "ES": "abundante",
+      "VI": "dồi dào",
+      "FR": "abondant",
+      "NE": "प्रशस्त मात्रामा",
+      "BN": "প্রচুর পরিমাণে",
+      "ZH": "丰富",
+      "KO": "풍족한",
+      "TL": "sagana",
+      "MY": "ပေါများသည်။",
+      "HI": "प्रचुर",
+      "AR": "وفير",
+      "FA": "فراوان",
+      "EN": [
+        "plentiful",
+        "rich",
+        "ample"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "豊富",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "豊富",
+        "reading": "ほうふ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "abundant",
+          "plentiful",
+          "rich",
+          "ample"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi)",
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "豊",
+    "富"
+  ],
+  "kanji_data": {
+    "豊": {
+      "freq_mainichi_shinbun": 762,
+      "grade": 5,
+      "heisig_en": "bountiful",
+      "jlpt": 2,
+      "kanji": "豊",
+      "kun_readings": [
+        "とよ",
+        "ゆた.か"
+      ],
+      "meanings": [
+        "bountiful",
+        "excellent",
+        "rich"
+      ],
+      "name_readings": [
+        "て",
+        "で",
+        "と",
+        "ひろし",
+        "ふう",
+        "ぶん",
+        "ほ",
+        "ゆたか"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ブ",
+        "ホウ"
+      ],
+      "stroke_count": 13,
+      "unicode": "8C4A"
+    },
+    "富": {
+      "freq_mainichi_shinbun": 644,
+      "grade": 5,
+      "heisig_en": "wealth",
+      "jlpt": 3,
+      "kanji": "富",
+      "kun_readings": [
+        "と.む",
+        "とみ"
+      ],
+      "meanings": [
+        "abundant",
+        "enrich",
+        "wealth"
+      ],
+      "name_readings": [
+        "と",
+        "とん",
+        "ふっ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "フ",
+        "フウ"
+      ],
+      "stroke_count": 12,
+      "unicode": "5BCC"
+    }
+  }
 }

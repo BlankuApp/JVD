@@ -1,459 +1,484 @@
 {
-    "version": "0.2.0",
-    "word": "割る",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/oMRJnqEbJMk",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "割る",
-        "reading": "わる",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is わる which you will often hear in contexts involving situations like splitting a bill at a restaurant, or when breaking something into smaller parts.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word わる means \"to divide\" or \"to split\" something into parts. It can also mean \"to break\" when something is fragile or weak, or \"to dilute\" as you mix a liquid into a solution. Each usage changes slightly based on context, but it always involves separating or changing the form of something.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "to divide"
-            ],
-            [
-                "to cut",
-                "to halve",
-                "to separate",
-                "to split",
-                "to rip"
-            ],
-            [
-                "to break",
-                "to crack",
-                "to smash"
-            ],
-            [
-                "to dilute"
-            ],
-            [
-                "to fall below"
-            ],
-            [
-                "to discount"
-            ],
-            [
-                "to step over"
-            ]
-        ],
-        "meaning_translations": {
-            "to divide": {
-                "EN": "to divide",
-                "ID": "membagi",
-                "ES": "dividir",
-                "VI": "chia",
-                "FR": "diviser",
-                "NE": "भाग लगाउनु",
-                "BN": "বিভক্ত করা",
-                "ZH": "划分",
-                "KO": "나누다",
-                "TL": "hatiin",
-                "MY": "ခွဲသည်",
-                "HI": "विभाजित करना",
-                "AR": "يقسم",
-                "FA": "تقسیم کردن"
-            },
-            "to cut": {
-                "EN": "to cut",
-                "ID": "memotong",
-                "ES": "cortar",
-                "VI": "cắt",
-                "FR": "couper",
-                "NE": "काट्नु",
-                "BN": "কাটা",
-                "ZH": "切割",
-                "KO": "자르다",
-                "TL": "gupitin",
-                "MY": "ခုတ်ခြင်း",
-                "HI": "काटना",
-                "AR": "يقطع",
-                "FA": "بریدن"
-            },
-            "to break": {
-                "EN": "to break",
-                "ID": "memecahkan",
-                "ES": "romper",
-                "VI": "phá vỡ",
-                "FR": "casser",
-                "NE": "टुट्नु",
-                "BN": "ভঙ্গ করা",
-                "ZH": "打破",
-                "KO": "깨다",
-                "TL": "magbasag",
-                "MY": "ကြဲနေသည်",
-                "HI": "तोड़ना",
-                "AR": "يكسر",
-                "FA": "شکستن"
-            },
-            "to dilute": {
-                "EN": "to dilute",
-                "ID": "mengencerkan",
-                "ES": "diluir",
-                "VI": "pha loãng",
-                "FR": "diluer",
-                "NE": "पातलो बनाउने",
-                "BN": "পানিতে গলানো",
-                "ZH": "稀释",
-                "KO": "희석하다",
-                "TL": "palabnawin",
-                "MY": "ရေမဖြည့်",
-                "HI": "पतला करना",
-                "AR": "تخفيف",
-                "FA": "رقیق کردن"
-            },
-            "to fall below": {
-                "EN": "to fall below",
-                "ID": "jatuh di bawah",
-                "ES": "caer por debajo",
-                "VI": "rơi xuống dưới",
-                "FR": "descendre en dessous",
-                "NE": "कुनै कुराको तल झर्नु",
-                "BN": "বিগতونډা নিচে সুপেকিং",
-                "ZH": "跌破",
-                "KO": "아래로 떨어지다",
-                "TL": "bumaba sa ibaba",
-                "MY": "တစ်ခုခု၏အောက်ယှက်မကား",
-                "HI": "नीचे गिरना",
-                "AR": "ĕāht ibnẓāl",
-                "FA": "به کمتر از چیزی رسیدن"
-            },
-            "to discount": {
-                "EN": "割る : to discount",
-                "ID": "割る : untuk diskon",
-                "ES": "割る : para descontar",
-                "VI": "割る : để giảm giá",
-                "FR": "割る : pour réduire",
-                "NE": "割る : छुट दिन",
-                "BN": "割る : ছাড়",
-                "ZH": "割る : 打折",
-                "KO": "割る : 할인하다",
-                "TL": "割る : para sa diskwento",
-                "MY": "割る :လျော့ဈေး",
-                "HI": "割る : छूट देना",
-                "AR": "割る : للخصم",
-                "FA": "割る : برای تخفیف"
-            },
-            "to step over": {
-                "EN": "\"割る\" (Japanese) translates to \"to step over\"",
-                "ID": "\"割る\" (Jepang) diterjemahkan menjadi \"melangkahi\" dalam bahasa Indonesia",
-                "ES": "La palabra japonesa \"割る\" se traduce al español como \"pasar por encima\".",
-                "VI": "\"割る\" (tiếng Nhật) dịch sang tiếng Việt là \"bước qua\"",
-                "FR": "Le terme japonais \"割る\" se traduit par \"enjamber\" en français.",
-                "NE": "\"割る\" (जापानी) लाई नेपालीमा \"माथि डुल्ने\" भनेर अनुवाद गरिन्छ",
-                "BN": "\"割る\" (জাপানি) এর বাংলা অনুবাদ \"উপরে হাঁটা\"।",
-                "ZH": "日语“割る”翻译为中文是“跨过”。",
-                "KO": "\"割る\"(일본어)을 한국어로 \"넘어가다\"라고 번역합니다.",
-                "TL": "Ang \"割る\" (Japanese) isinalin sa \"tumapak sa ibabaw\" sa Filipino",
-                "MY": "\"割る\" (ဂျပန်) ကို ဘာသာဗမာဘာသာစကားဖြင့် \"ကျော်လွှားသော\" ဟု ဘာသာပြန်ဆိုပါသည်",
-                "HI": "\"割る\" (जापानी) का हिंदी में अनुवाद \"ऊपर चलना\" है",
-                "AR": "كلمة \"割る\" (اليابانية) تترجم إلى \"لتخطى\" بالعربية.",
-                "FA": "واژه ژاپنی \"割る\" به معنای \"گام بر داشتن\" است"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "わたしたちは悪戯で窓を割る。",
-                "furigana": "わたしたちは悪戯(いたずら)で窓(まど)を割(わ)る。",
-                "translations": {
-                    "EN": "We mischievously break the window.",
-                    "ID": "Kami nakal memecahkan jendela.",
-                    "ES": "Rompemos la ventana traviesamente.",
-                    "VI": "Chúng tôi tinh nghịch phá vỡ cửa sổ.",
-                    "FR": "Nous brisons la fenêtre par espièglerie.",
-                    "NE": "हामीले खल्ती खेल्नको लागि झ्याल फुटाउँछौं।",
-                    "BN": "আমরা দুষ্টুমি করে জানালা ভাঙি।",
-                    "ZH": "我们恶作剧地打破窗户。",
-                    "KO": "우리는 장난스럽게 창문을 깼다.",
-                    "TL": "Kami'y mapaglarong binasag ang bintana.",
-                    "MY": "ကျနော်တို့ ရီကြီးရတောင့် စက်တင်ရင် တံခါးဖျက်တယ်။",
-                    "HI": "हम शरारत में खिड़की तोड़ते हैं।",
-                    "AR": "نحن نخرب النافذة بمكر.",
-                    "FA": "ما با شیطنت شیشه را می‌شکنیم."
-                }
-            },
-            {
-                "kanji": "私は紙をはさみで割ります。",
-                "furigana": "私(わたし)は紙(かみ)をはさみで割(わ)ります。",
-                "translations": {
-                    "EN": "I cut the paper with scissors.",
-                    "ID": "Saya memotong kertas dengan gunting.",
-                    "ES": "Corto el papel con tijeras.",
-                    "VI": "Tôi cắt giấy bằng kéo.",
-                    "FR": "Je coupe le papier avec des ciseaux.",
-                    "NE": "मैले कागजलाई काँचोले काटे।",
-                    "BN": "আমি কাঁচি দিয়ে কাগজ কাটছি।",
-                    "ZH": "我用剪刀剪纸。",
-                    "KO": "나는 가위를 사용하여 종이를 자른다.",
-                    "TL": "Pinuputol ko ang papel gamit ang gunting.",
-                    "MY": "ကျွန်ုပ်သည် စက္ကူကို ကတ်ဖြင့် ဖြတ်သည်။",
-                    "HI": "मैंने कैंची से कागज काटा।",
-                    "AR": "أقطع الورق بالمقص.",
-                    "FA": "کاغذ را با قیچی می‌برم."
-                }
-            },
-            {
-                "kanji": "りんごを割る。",
-                "furigana": "りんごを割(わ)る。",
-                "translations": {
-                    "EN": "I chop the apple.",
-                    "ID": "Saya memotong apel.",
-                    "ES": "Yo corto la manzana.",
-                    "VI": "Tôi cắt táo.",
-                    "FR": "Je coupe la pomme.",
-                    "NE": "म स्याउ काट्छु।",
-                    "BN": "আমি আপেল কাটি।",
-                    "ZH": "我切苹果。",
-                    "KO": "나는 사과를 쪼갠다.",
-                    "TL": "Pinuputol ko ang mansanas.",
-                    "MY": "ငါ လူကို ကောက်ပြက် ပါတယ် ။",
-                    "HI": "मैं सेब काटता हूँ।",
-                    "AR": "أقطع التفاحة.",
-                    "FA": "من سیب را خرد می‌کنم."
-                }
-            },
-            {
-                "kanji": "皿を割る。",
-                "furigana": "皿(さら)を割(わ)る。",
-                "translations": {
-                    "EN": "Break the plate.",
-                    "ID": "Pecahkan piring.",
-                    "ES": "Rompe el plato.",
-                    "VI": "Làm vỡ đĩa.",
-                    "FR": "Casse l'assiette.",
-                    "NE": "प्लेट भाँच्नुहोस्।",
-                    "BN": "প্লেটটি ভেঙে ফেলুন।",
-                    "ZH": "打破盘子。",
-                    "KO": "접시를 깨다.",
-                    "TL": "Basagin ang plato.",
-                    "MY": "ပန်းကန်ကျင်းကို ချိုးသည်။",
-                    "HI": "थाली को तोड़ दो।",
-                    "AR": "اكسر الطبق.",
-                    "FA": "بشقاب را بشکنید."
-                }
-            },
-            {
-                "kanji": "りんごを割る。",
-                "furigana": "りんごを割(わ)る。",
-                "translations": {
-                    "EN": "I break the apple.",
-                    "ID": "Aku membelah apel.",
-                    "ES": "Rompo la manzana.",
-                    "VI": "Tôi bẻ quả táo.",
-                    "FR": "Je casse la pomme.",
-                    "NE": "म स्याउ फुटाउँछु।",
-                    "BN": "আমি আপেল ভাঙি।",
-                    "ZH": "我把苹果打碎。",
-                    "KO": "사과를 쪼개다.",
-                    "TL": "Binabasag ko ang mansanas.",
-                    "MY": "ကျွန်ုပ်သည်ပန်းသီးကိုခွဲသည်။",
-                    "HI": "मैं सेब तोड़ता हूँ।",
-                    "AR": "أكسر التفاحة.",
-                    "FA": "من سیب را میشکنم."
-                }
-            },
-            {
-                "kanji": "りんごを割る。",
-                "furigana": "りんごを割(わ)る。",
-                "translations": {
-                    "EN": "Split the apple.",
-                    "ID": "Belah apel itu.",
-                    "ES": "Parte la manzana.",
-                    "VI": "Cắt đôi quả táo.",
-                    "FR": "Coupe la pomme.",
-                    "NE": "स्याउ टुक्र्याऊ।",
-                    "BN": "আপেলটি ভাগ করো।",
-                    "ZH": "切苹果。",
-                    "KO": "사과를 나누다.",
-                    "TL": "Hatiin ang mansanas.",
-                    "MY": "ပန်းသီးကို မြစ်မြှုပ်ပါ။",
-                    "HI": "सेब को बाँट दो।",
-                    "AR": "فتح التفاح.",
-                    "FA": "سیب را نصف کن."
-                }
-            }
-        ],
-        "synonyms": [
-            "分ける : わける : to divide"
-        ],
-        "synonyms_explanation": "The most common synonym of the word わる is わける. While わる often implies splitting or breaking a physical object, わける can be used more generally to mean dividing something, especially in terms of separation or distribution.",
-        "kanji_details": [
-            {
-                "kanji": "割",
-                "common_words": [
-                    "割合: rate",
-                    "割引: discount"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "割る",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "割る",
-                "reading": "わる"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "to divide"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to cut",
-                    "to halve",
-                    "to separate",
-                    "to split",
-                    "to rip"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to break",
-                    "to crack",
-                    "to smash"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to dilute"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to fall below"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to discount"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to step over"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "割"
+  "version": "0.3.0",
+  "word": "割る",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/oMRJnqEbJMk",
+  "in_db": true,
+  "kanji": "割る",
+  "reading": "わる",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is わる which you will often hear in contexts involving situations like splitting a bill at a restaurant, or when breaking something into smaller parts.",
+  "meanings": [
+    [
+      "to divide"
     ],
-    "kanji_data": {
-        "割": {
-            "meanings": [
-                "comparatively",
-                "cut",
-                "divide",
-                "proportion",
-                "separate",
-                "split"
-            ],
-            "on_readings": [
-                "カツ"
-            ],
-            "kun_readings": [
-                "さ.く",
-                "わ.り",
-                "わ.る",
-                "わ.れる",
-                "わり"
-            ],
-            "stroke_count": 12,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 318,
-            "unicode": "5272",
-            "grade": 6
-        }
-    },
-    "collocations": [
-        "わるがわる",
-        "はさみでわる",
-        "りょうりをわる",
-        "ばんにわる",
-        "いけるをわる",
-        "ひとをわる"
+    [
+      "to cut",
+      "to halve",
+      "to separate",
+      "to split",
+      "to rip"
+    ],
+    [
+      "to break",
+      "to crack",
+      "to smash"
+    ],
+    [
+      "to dilute"
+    ],
+    [
+      "to fall below"
+    ],
+    [
+      "to discount"
+    ],
+    [
+      "to step over"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word わる means \"to divide\" or \"to split\" something into parts. It can also mean \"to break\" when something is fragile or weak, or \"to dilute\" as you mix a liquid into a solution. Each usage changes slightly based on context, but it always involves separating or changing the form of something.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "割",
+      "common_words": [
+        "割合: rate",
+        "割引: discount"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "分ける : わける : to divide"
+  ],
+  "synonym_explanation": "The most common synonym of the word わる is わける. While わる often implies splitting or breaking a physical object, わける can be used more generally to mean dividing something, especially in terms of separation or distribution.",
+  "antonyms": [],
+  "antonym_explanation": "",
+  "collocations": [
+    {
+      "kanji": "わるがわる",
+      "furigana": "わるがわる",
+      "translations": {}
+    },
+    {
+      "kanji": "はさみでわる",
+      "furigana": "はさみでわる",
+      "translations": {}
+    },
+    {
+      "kanji": "りょうりをわる",
+      "furigana": "りょうりをわる",
+      "translations": {}
+    },
+    {
+      "kanji": "ばんにわる",
+      "furigana": "ばんにわる",
+      "translations": {}
+    },
+    {
+      "kanji": "いけるをわる",
+      "furigana": "いけるをわる",
+      "translations": {}
+    },
+    {
+      "kanji": "ひとをわる",
+      "furigana": "ひとをわる",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "わたしたちは悪戯で窓を割る。",
+      "furigana": "わたしたちは悪戯(いたずら)で窓(まど)を割(わ)る。",
+      "translations": {
+        "EN": "We mischievously break the window.",
+        "ID": "Kami nakal memecahkan jendela.",
+        "ES": "Rompemos la ventana traviesamente.",
+        "VI": "Chúng tôi tinh nghịch phá vỡ cửa sổ.",
+        "FR": "Nous brisons la fenêtre par espièglerie.",
+        "NE": "हामीले खल्ती खेल्नको लागि झ्याल फुटाउँछौं।",
+        "BN": "আমরা দুষ্টুমি করে জানালা ভাঙি।",
+        "ZH": "我们恶作剧地打破窗户。",
+        "KO": "우리는 장난스럽게 창문을 깼다.",
+        "TL": "Kami'y mapaglarong binasag ang bintana.",
+        "MY": "ကျနော်တို့ ရီကြီးရတောင့် စက်တင်ရင် တံခါးဖျက်တယ်။",
+        "HI": "हम शरारत में खिड़की तोड़ते हैं।",
+        "AR": "نحن نخرب النافذة بمكر.",
+        "FA": "ما با شیطنت شیشه را می‌شکنیم."
+      }
+    },
+    {
+      "kanji": "私は紙をはさみで割ります。",
+      "furigana": "私(わたし)は紙(かみ)をはさみで割(わ)ります。",
+      "translations": {
+        "EN": "I cut the paper with scissors.",
+        "ID": "Saya memotong kertas dengan gunting.",
+        "ES": "Corto el papel con tijeras.",
+        "VI": "Tôi cắt giấy bằng kéo.",
+        "FR": "Je coupe le papier avec des ciseaux.",
+        "NE": "मैले कागजलाई काँचोले काटे।",
+        "BN": "আমি কাঁচি দিয়ে কাগজ কাটছি।",
+        "ZH": "我用剪刀剪纸。",
+        "KO": "나는 가위를 사용하여 종이를 자른다.",
+        "TL": "Pinuputol ko ang papel gamit ang gunting.",
+        "MY": "ကျွန်ုပ်သည် စက္ကူကို ကတ်ဖြင့် ဖြတ်သည်။",
+        "HI": "मैंने कैंची से कागज काटा।",
+        "AR": "أقطع الورق بالمقص.",
+        "FA": "کاغذ را با قیچی می‌برم."
+      }
+    },
+    {
+      "kanji": "りんごを割る。",
+      "furigana": "りんごを割(わ)る。",
+      "translations": {
+        "EN": "I chop the apple.",
+        "ID": "Saya memotong apel.",
+        "ES": "Yo corto la manzana.",
+        "VI": "Tôi cắt táo.",
+        "FR": "Je coupe la pomme.",
+        "NE": "म स्याउ काट्छु।",
+        "BN": "আমি আপেল কাটি।",
+        "ZH": "我切苹果。",
+        "KO": "나는 사과를 쪼갠다.",
+        "TL": "Pinuputol ko ang mansanas.",
+        "MY": "ငါ လူကို ကောက်ပြက် ပါတယ် ။",
+        "HI": "मैं सेब काटता हूँ।",
+        "AR": "أقطع التفاحة.",
+        "FA": "من سیب را خرد می‌کنم."
+      }
+    },
+    {
+      "kanji": "皿を割る。",
+      "furigana": "皿(さら)を割(わ)る。",
+      "translations": {
+        "EN": "Break the plate.",
+        "ID": "Pecahkan piring.",
+        "ES": "Rompe el plato.",
+        "VI": "Làm vỡ đĩa.",
+        "FR": "Casse l'assiette.",
+        "NE": "प्लेट भाँच्नुहोस्।",
+        "BN": "প্লেটটি ভেঙে ফেলুন।",
+        "ZH": "打破盘子。",
+        "KO": "접시를 깨다.",
+        "TL": "Basagin ang plato.",
+        "MY": "ပန်းကန်ကျင်းကို ချိုးသည်။",
+        "HI": "थाली को तोड़ दो।",
+        "AR": "اكسر الطبق.",
+        "FA": "بشقاب را بشکنید."
+      }
+    },
+    {
+      "kanji": "りんごを割る。",
+      "furigana": "りんごを割(わ)る。",
+      "translations": {
+        "EN": "I break the apple.",
+        "ID": "Aku membelah apel.",
+        "ES": "Rompo la manzana.",
+        "VI": "Tôi bẻ quả táo.",
+        "FR": "Je casse la pomme.",
+        "NE": "म स्याउ फुटाउँछु।",
+        "BN": "আমি আপেল ভাঙি।",
+        "ZH": "我把苹果打碎。",
+        "KO": "사과를 쪼개다.",
+        "TL": "Binabasag ko ang mansanas.",
+        "MY": "ကျွန်ုပ်သည်ပန်းသီးကိုခွဲသည်။",
+        "HI": "मैं सेब तोड़ता हूँ।",
+        "AR": "أكسر التفاحة.",
+        "FA": "من سیب را میشکنم."
+      }
+    },
+    {
+      "kanji": "りんごを割る。",
+      "furigana": "りんごを割(わ)る。",
+      "translations": {
+        "EN": "Split the apple.",
+        "ID": "Belah apel itu.",
+        "ES": "Parte la manzana.",
+        "VI": "Cắt đôi quả táo.",
+        "FR": "Coupe la pomme.",
+        "NE": "स्याउ टुक्र्याऊ।",
+        "BN": "আপেলটি ভাগ করো।",
+        "ZH": "切苹果。",
+        "KO": "사과를 나누다.",
+        "TL": "Hatiin ang mansanas.",
+        "MY": "ပန်းသီးကို မြစ်မြှုပ်ပါ။",
+        "HI": "सेब को बाँट दो।",
+        "AR": "فتح التفاح.",
+        "FA": "سیب را نصف کن."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "to divide": {
+      "EN": "to divide",
+      "ID": "membagi",
+      "ES": "dividir",
+      "VI": "chia",
+      "FR": "diviser",
+      "NE": "भाग लगाउनु",
+      "BN": "বিভক্ত করা",
+      "ZH": "划分",
+      "KO": "나누다",
+      "TL": "hatiin",
+      "MY": "ခွဲသည်",
+      "HI": "विभाजित करना",
+      "AR": "يقسم",
+      "FA": "تقسیم کردن"
+    },
+    "to cut": {
+      "EN": "to cut",
+      "ID": "memotong",
+      "ES": "cortar",
+      "VI": "cắt",
+      "FR": "couper",
+      "NE": "काट्नु",
+      "BN": "কাটা",
+      "ZH": "切割",
+      "KO": "자르다",
+      "TL": "gupitin",
+      "MY": "ခုတ်ခြင်း",
+      "HI": "काटना",
+      "AR": "يقطع",
+      "FA": "بریدن"
+    },
+    "to break": {
+      "EN": "to break",
+      "ID": "memecahkan",
+      "ES": "romper",
+      "VI": "phá vỡ",
+      "FR": "casser",
+      "NE": "टुट्नु",
+      "BN": "ভঙ্গ করা",
+      "ZH": "打破",
+      "KO": "깨다",
+      "TL": "magbasag",
+      "MY": "ကြဲနေသည်",
+      "HI": "तोड़ना",
+      "AR": "يكسر",
+      "FA": "شکستن"
+    },
+    "to dilute": {
+      "EN": "to dilute",
+      "ID": "mengencerkan",
+      "ES": "diluir",
+      "VI": "pha loãng",
+      "FR": "diluer",
+      "NE": "पातलो बनाउने",
+      "BN": "পানিতে গলানো",
+      "ZH": "稀释",
+      "KO": "희석하다",
+      "TL": "palabnawin",
+      "MY": "ရေမဖြည့်",
+      "HI": "पतला करना",
+      "AR": "تخفيف",
+      "FA": "رقیق کردن"
+    },
+    "to fall below": {
+      "EN": "to fall below",
+      "ID": "jatuh di bawah",
+      "ES": "caer por debajo",
+      "VI": "rơi xuống dưới",
+      "FR": "descendre en dessous",
+      "NE": "कुनै कुराको तल झर्नु",
+      "BN": "বিগতونډা নিচে সুপেকিং",
+      "ZH": "跌破",
+      "KO": "아래로 떨어지다",
+      "TL": "bumaba sa ibaba",
+      "MY": "တစ်ခုခု၏အောက်ယှက်မကား",
+      "HI": "नीचे गिरना",
+      "AR": "ĕāht ibnẓāl",
+      "FA": "به کمتر از چیزی رسیدن"
+    },
+    "to discount": {
+      "EN": "割る : to discount",
+      "ID": "割る : untuk diskon",
+      "ES": "割る : para descontar",
+      "VI": "割る : để giảm giá",
+      "FR": "割る : pour réduire",
+      "NE": "割る : छुट दिन",
+      "BN": "割る : ছাড়",
+      "ZH": "割る : 打折",
+      "KO": "割る : 할인하다",
+      "TL": "割る : para sa diskwento",
+      "MY": "割る :လျော့ဈေး",
+      "HI": "割る : छूट देना",
+      "AR": "割る : للخصم",
+      "FA": "割る : برای تخفیف"
+    },
+    "to step over": {
+      "EN": "\"割る\" (Japanese) translates to \"to step over\"",
+      "ID": "\"割る\" (Jepang) diterjemahkan menjadi \"melangkahi\" dalam bahasa Indonesia",
+      "ES": "La palabra japonesa \"割る\" se traduce al español como \"pasar por encima\".",
+      "VI": "\"割る\" (tiếng Nhật) dịch sang tiếng Việt là \"bước qua\"",
+      "FR": "Le terme japonais \"割る\" se traduit par \"enjamber\" en français.",
+      "NE": "\"割る\" (जापानी) लाई नेपालीमा \"माथि डुल्ने\" भनेर अनुवाद गरिन्छ",
+      "BN": "\"割る\" (জাপানি) এর বাংলা অনুবাদ \"উপরে হাঁটা\"।",
+      "ZH": "日语“割る”翻译为中文是“跨过”。",
+      "KO": "\"割る\"(일본어)을 한국어로 \"넘어가다\"라고 번역합니다.",
+      "TL": "Ang \"割る\" (Japanese) isinalin sa \"tumapak sa ibabaw\" sa Filipino",
+      "MY": "\"割る\" (ဂျပန်) ကို ဘာသာဗမာဘာသာစကားဖြင့် \"ကျော်လွှားသော\" ဟု ဘာသာပြန်ဆိုပါသည်",
+      "HI": "\"割る\" (जापानी) का हिंदी में अनुवाद \"ऊपर चलना\" है",
+      "AR": "كلمة \"割る\" (اليابانية) تترجم إلى \"لتخطى\" بالعربية.",
+      "FA": "واژه ژاپنی \"割る\" به معنای \"گام بر داشتن\" است"
+    }
+  },
+  "jisho_data": {
+    "slug": "割る",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "割る",
+        "reading": "わる"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to divide"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to cut",
+          "to halve",
+          "to separate",
+          "to split",
+          "to rip"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to break",
+          "to crack",
+          "to smash"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to dilute"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to fall below"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to discount"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to step over"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "割"
+  ],
+  "kanji_data": {
+    "割": {
+      "meanings": [
+        "comparatively",
+        "cut",
+        "divide",
+        "proportion",
+        "separate",
+        "split"
+      ],
+      "on_readings": [
+        "カツ"
+      ],
+      "kun_readings": [
+        "さ.く",
+        "わ.り",
+        "わ.る",
+        "わ.れる",
+        "わり"
+      ],
+      "stroke_count": 12,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 318,
+      "unicode": "5272",
+      "grade": 6
+    }
+  }
 }

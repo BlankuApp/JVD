@@ -1,419 +1,498 @@
 {
-    "version": "0.2.0",
-    "word": "悪魔",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/njTFeaozRhI",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "悪魔",
-        "reading": "あくま",
-        "introduction_japanese": "「悪魔」は、ホラーや宗教の話、マンガやゲーム、怖い伝説の場面でよく出てくる言葉です。物語の中で悪い力や敵として使われます。",
-        "introduction_english": "The noun あくま is commonly seen in conversations and stories about horror, religion, manga, and games where scary or evil forces appear.",
-        "meanings": [
-            [
-                "devil",
-                "demon",
-                "fiend"
-            ],
-            [
-                "Satan",
-                "the Devil (Christian usage)"
-            ],
-            [
-                "Māra",
-                "evil spirits or forces that hinder one's path to enlightenment (Buddhism)"
-            ]
-        ],
-        "meaning_explanation_japanese": "「悪魔」は、一般的に人を惑わせたり害をなす恐い存在や悪い力を表す言葉です。宗教や物語、映画、ゲームなどで使われ、キリスト教ではサタンを指すこともあります。仏教の文脈では修行の妨げになる存在を指すこともあります。",
-        "meaning_explanation_english": "The word あくま means a scary or harmful supernatural being, like a devil or demon. It can refer to Satan in Christian contexts or to obstructing evil forces in Buddhist contexts.",
-        "kanji_explanation_english": "The first kanji means bad or evil and shows the idea of something harmful. For example, わるい means bad and あくにん means a bad person, and the kanji gives the sense of wrongdoing. The second kanji means demon or witch and gives a sense of magical or evil spirit. For example, まほう means magic and まじょ means witch, and the kanji contributes the idea of supernatural or magical force.",
-        "kanji_details": [
-            {
-                "kanji": "悪",
-                "common_words": [
-                    "悪い (わるい): bad",
-                    "悪人 (あくにん): villain, bad person"
-                ]
-            },
-            {
-                "kanji": "魔",
-                "common_words": [
-                    "魔法 (まほう): magic",
-                    "魔女 (まじょ): witch"
-                ]
-            }
-        ],
-        "synonyms": [
-            "悪霊 : あくりょう : evil spirit"
-        ],
-        "synonyms_explanation": "The most common synonym of the あくま is あくりょう, which usually means an evil or restless spirit and is often less personified or named than the あくま.",
-        "antonyms": [
-            "天使 : てんし : angel"
-        ],
-        "antonyms_explanation": "The most common antonym of the あくま is てんし, which means an angel or benevolent heavenly being and represents goodness and protection, the opposite of the harmful nature associated with あくま.",
-        "examples": [
-            {
-                "kanji": "悪魔がささやく。",
-                "furigana": "悪魔(あくま)がささやく。",
-                "translations": {
-                    "EN": "The devil whispers.",
-                    "ID": "Iblis berbisik.",
-                    "ES": "El diablo susurra.",
-                    "VI": "Ác quỷ thì thầm.",
-                    "FR": "Le diable murmure.",
-                    "NE": "शैतानले फुसफुसाउँछ।",
-                    "BN": "শয়তান ফিসফিস করে।",
-                    "ZH": "魔鬼低语。",
-                    "KO": "악마가 속삭인다.",
-                    "TL": "Bulong ng diyablo.",
-                    "MY": "မာရ်နတ်က တီးတိုးပြောသည် ။",
-                    "HI": "शैतान फुसफुसाता है.",
-                    "AR": "الشيطان يهمس.",
-                    "FA": "شیطان زمزمه می‌کند."
-                }
-            },
-            {
-                "kanji": "彼は悪魔に取り憑かれたと言われた。",
-                "furigana": "彼(かれ)は悪魔(あくま)に取り憑(とりつ)かれたと言(い)われた。",
-                "translations": {
-                    "EN": "He was said to be possessed by the devil.",
-                    "ID": "Dia dikatakan kerasukan setan.",
-                    "ES": "Se decía que estaba poseído por el diablo.",
-                    "VI": "Người ta nói rằng ông bị quỷ ám.",
-                    "FR": "On disait qu'il était possédé par le diable.",
-                    "NE": "उसलाई शैतानले ग्रस्त पारेको भनिएको थियो।",
-                    "BN": "বলা হত যে তাকে শয়তান গ্রাস করেছিল।",
-                    "ZH": "据说他被魔鬼附身了。",
-                    "KO": "그는 악마에 걸렸다고 들었다.",
-                    "TL": "Sinapian daw siya ng demonyo.",
-                    "MY": "နတ်ဆိုး၏ သိမ်းပိုက်ခြင်းကို ခံရသည်ဟု ဆို၏။",
-                    "HI": "कहा जाता है कि उस पर शैतान का साया था।",
-                    "AR": "قيل أنه كان ممسوسا بالشيطان.",
-                    "FA": "گفته می‌شد که او توسط شیطان تسخیر شده است."
-                }
-            },
-            {
-                "kanji": "勇者は悪魔を倒した。",
-                "furigana": "勇者(ゆうしゃ)は悪魔(あくま)を倒(たお)した。",
-                "translations": {
-                    "EN": "The hero defeated the demon.",
-                    "ID": "Sang pahlawan mengalahkan iblis.",
-                    "ES": "El héroe derrotó al demonio.",
-                    "VI": "Người anh hùng đã đánh bại con quỷ.",
-                    "FR": "Le héros a vaincu le démon.",
-                    "NE": "नायकले राक्षसलाई पराजित गर्यो।",
-                    "BN": "বীর রাক্ষসকে পরাজিত করলেন।",
-                    "ZH": "英雄打败了恶魔。",
-                    "KO": "용사는 악마를 물리 쳤다.",
-                    "TL": "Tinalo ng bayani ang demonyo.",
-                    "MY": "သူရဲကောင်းသည် နတ်ဆိုးကို အနိုင်ယူခဲ့သည်။",
-                    "HI": "नायक ने राक्षस को पराजित कर दिया।",
-                    "AR": "البطل هزم الشيطان.",
-                    "FA": "قهرمان، دیو را شکست داد."
-                }
-            },
-            {
-                "kanji": "村人たちは悪魔を追い払った。",
-                "furigana": "村人(むらびと)たちは悪魔(あくま)を追(お)い払(はら)った。",
-                "translations": {
-                    "EN": "The villagers drove away the demon.",
-                    "ID": "Penduduk desa mengusir setan itu.",
-                    "ES": "Los aldeanos ahuyentaron al demonio.",
-                    "VI": "Dân làng đã đuổi được con quỷ đi.",
-                    "FR": "Les villageois ont chassé le démon.",
-                    "NE": "गाउँलेहरूले राक्षसलाई धपाए।",
-                    "BN": "গ্রামবাসীরা রাক্ষসটিকে তাড়িয়ে দিল।",
-                    "ZH": "村民们赶走了恶魔。",
-                    "KO": "마을 사람들은 악마를 쫓아냈다.",
-                    "TL": "Itinaboy ng mga taganayon ang demonyo.",
-                    "MY": "ရွာသားတွေက နတ်ဆိုးကို မောင်းထုတ်တယ်။",
-                    "HI": "गांव वालों ने राक्षस को भगा दिया।",
-                    "AR": "طرد القرويون الشيطان.",
-                    "FA": "روستاییان دیو را راندند."
-                }
-            },
-            {
-                "kanji": "古い話に悪魔が出てくる。",
-                "furigana": "古(ふる)い話(はなし)に悪魔(あくま)が出(で)てくる。",
-                "translations": {
-                    "EN": "There's a devil in the old story.",
-                    "ID": "Ada iblis dalam cerita lama.",
-                    "ES": "Hay un diablo en la vieja historia.",
-                    "VI": "Có một con quỷ trong câu chuyện cũ.",
-                    "FR": "Il y a un diable dans la vieille histoire.",
-                    "NE": "पुरानो कथामा एउटा शैतान छ।",
-                    "BN": "পুরনো গল্পে একটা শয়তান আছে।",
-                    "ZH": "这个古老的故事里有一个魔鬼。",
-                    "KO": "낡은 이야기에 악마가 나온다.",
-                    "TL": "May demonyo sa lumang kwento.",
-                    "MY": "ဇာတ်လမ်းဟောင်းမှာ နတ်ဆိုးတစ်ကောင်ရှိတယ်။",
-                    "HI": "पुरानी कहानी में एक शैतान है।",
-                    "AR": "هناك شيطان في القصة القديمة.",
-                    "FA": "در داستان قدیمی یک شیطان وجود دارد."
-                }
-            },
-            {
-                "kanji": "悪魔と契約するシーンがある。",
-                "furigana": "悪魔(あくま)と契約(けいやく)するシーンがある。",
-                "translations": {
-                    "EN": "There is a scene where he makes a deal with the devil.",
-                    "ID": "Ada adegan di mana dia membuat kesepakatan dengan iblis.",
-                    "ES": "Hay una escena en la que hace un trato con el diablo.",
-                    "VI": "Có một cảnh anh ấy giao kèo với quỷ dữ.",
-                    "FR": "Il y a une scène où il fait un pacte avec le diable.",
-                    "NE": "त्यहाँ एउटा दृश्य छ जहाँ उसले शैतानसँग सम्झौता गर्छ।",
-                    "BN": "একটি দৃশ্য আছে যেখানে সে শয়তানের সাথে একটি চুক্তি করে।",
-                    "ZH": "有一个场景是他与魔鬼做交易。",
-                    "KO": "악마와 계약하는 장면이 있다.",
-                    "TL": "May eksenang nakipag-deal siya sa demonyo.",
-                    "MY": "မာရ်နတ်နှင့် ဆက်ဆံသည့် မြင်ကွင်းတစ်ခုရှိသည်။",
-                    "HI": "इसमें एक दृश्य है जहां वह शैतान के साथ सौदा करता है।",
-                    "AR": "هناك مشهد حيث يعقد صفقة مع الشيطان.",
-                    "FA": "صحنه‌ای هست که او با شیطان معامله می‌کند."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "devil": {
-                "ID": "iblis",
-                "ES": "demonio",
-                "VI": "quỷ dữ",
-                "FR": "diable",
-                "NE": "राक्षस",
-                "BN": "শয়তান",
-                "ZH": "魔鬼",
-                "KO": "악마",
-                "TL": "demonyo",
-                "MY": "မာရ်နတ်",
-                "HI": "शैतान",
-                "AR": "شيطان",
-                "FA": "شیطان",
-                "EN": [
-                    "demon",
-                    "fiend"
-                ]
-            },
-            "Satan": {
-                "ID": "Setan",
-                "ES": "Satán",
-                "VI": "Quỷ Satan",
-                "FR": "Satan",
-                "NE": "शैतान",
-                "BN": "শয়তান",
-                "ZH": "撒但",
-                "KO": "사탄",
-                "TL": "Satanas",
-                "MY": "စာတန်",
-                "HI": "शैतान",
-                "AR": "الشيطان",
-                "FA": "شیطان",
-                "EN": [
-                    "the Devil (Christian usage)"
-                ]
-            },
-            "Māra": {
-                "ID": "Mara",
-                "ES": "Mara",
-                "VI": "Ma vương",
-                "FR": "Mara",
-                "NE": "मारा",
-                "BN": "মারা",
-                "ZH": "魔罗",
-                "KO": "마라",
-                "TL": "Mara",
-                "MY": "မာရ်",
-                "HI": "मारा",
-                "AR": "مارا",
-                "FA": "مارا",
-                "EN": [
-                    "evil spirits or forces that hinder one's path to enlightenment (Buddhism)"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "悪魔",
-        "is_common": true,
-        "tags": [
-            "wanikani46"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "悪魔",
-                "reading": "あくま"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "devil",
-                    "demon",
-                    "fiend"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Satan",
-                    "the Devil"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [
-                    "Christianity"
-                ],
-                "restrictions": [],
-                "see_also": [
-                    "サタン"
-                ],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Māra",
-                    "evil spirits or forces that hinder one's path to enlightenment"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [
-                    "Buddhism"
-                ],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Devil"
-                ],
-                "parts_of_speech": [
-                    "Wikipedia definition"
-                ],
-                "links": [
-                    {
-                        "text": "Read “Devil” on English Wikipedia",
-                        "url": "http://en.wikipedia.org/wiki/Devil?oldid=494697919"
-                    },
-                    {
-                        "text": "Read “悪魔” on Japanese Wikipedia",
-                        "url": "http://ja.wikipedia.org/wiki/悪魔?oldid=42561689"
-                    }
-                ],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [],
-                "sentences": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": "http://dbpedia.org/resource/Devil"
-        }
-    },
-    "kanji_list": [
-        "悪",
-        "魔"
+  "version": "0.3.0",
+  "word": "悪魔",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/njTFeaozRhI",
+  "in_db": true,
+  "kanji": "悪魔",
+  "reading": "あくま",
+  "introduction_japanese": "「悪魔」は、ホラーや宗教の話、マンガやゲーム、怖い伝説の場面でよく出てくる言葉です。物語の中で悪い力や敵として使われます。",
+  "introduction_english": "The noun あくま is commonly seen in conversations and stories about horror, religion, manga, and games where scary or evil forces appear.",
+  "meanings": [
+    [
+      "devil",
+      "demon",
+      "fiend"
     ],
-    "kanji_data": {
-        "悪": {
-            "freq_mainichi_shinbun": 530,
-            "grade": 3,
-            "heisig_en": "bad",
-            "jlpt": 4,
-            "kanji": "悪",
-            "kun_readings": [
-                "-にく.い",
-                "あ.し",
-                "ああ",
-                "いずくに",
-                "いずくんぞ",
-                "にく.い",
-                "にく.む",
-                "わる-",
-                "わる.い"
-            ],
-            "meanings": [
-                "bad",
-                "evil",
-                "false",
-                "rascal",
-                "vice",
-                "wrong"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "アク",
-                "オ"
-            ],
-            "stroke_count": 11,
-            "unicode": "60AA"
-        },
-        "魔": {
-            "freq_mainichi_shinbun": 1514,
-            "grade": 8,
-            "heisig_en": "witch",
-            "jlpt": 1,
-            "kanji": "魔",
-            "kun_readings": [],
-            "meanings": [
-                "demon",
-                "evil spirit",
-                "witch"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "マ"
-            ],
-            "stroke_count": 21,
-            "unicode": "9B54"
-        }
-    },
-    "collocations": [
-        "悪魔がささやく",
-        "悪魔を召喚する",
-        "悪魔に取り憑かれる",
-        "悪魔を追い払う",
-        "悪魔と契約する",
-        "暗黒の悪魔",
-        "強大な悪魔",
-        "邪悪な悪魔",
-        "古の悪魔",
-        "醜い悪魔",
-        "悪魔の使い",
-        "悪魔の契約",
-        "悪魔のささやき",
-        "悪魔の力",
-        "悪魔の影",
-        "悪魔を呼ぶ",
-        "悪魔を封じる",
-        "悪魔を倒す",
-        "悪魔を封印する",
-        "悪魔を退ける"
+    [
+      "Satan",
+      "the Devil (Christian usage)"
+    ],
+    [
+      "Māra",
+      "evil spirits or forces that hinder one's path to enlightenment (Buddhism)"
     ]
+  ],
+  "meaning_explanation_japanese": "「悪魔」は、一般的に人を惑わせたり害をなす恐い存在や悪い力を表す言葉です。宗教や物語、映画、ゲームなどで使われ、キリスト教ではサタンを指すこともあります。仏教の文脈では修行の妨げになる存在を指すこともあります。",
+  "meaning_explanation_english": "The word あくま means a scary or harmful supernatural being, like a devil or demon. It can refer to Satan in Christian contexts or to obstructing evil forces in Buddhist contexts.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "悪",
+      "common_words": [
+        "悪い (わるい): bad",
+        "悪人 (あくにん): villain, bad person"
+      ]
+    },
+    {
+      "kanji": "魔",
+      "common_words": [
+        "魔法 (まほう): magic",
+        "魔女 (まじょ): witch"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means bad or evil and shows the idea of something harmful. For example, わるい means bad and あくにん means a bad person, and the kanji gives the sense of wrongdoing. The second kanji means demon or witch and gives a sense of magical or evil spirit. For example, まほう means magic and まじょ means witch, and the kanji contributes the idea of supernatural or magical force.",
+  "synonyms": [
+    "悪霊 : あくりょう : evil spirit"
+  ],
+  "synonym_explanation": "The most common synonym of the あくま is あくりょう, which usually means an evil or restless spirit and is often less personified or named than the あくま.",
+  "antonyms": [
+    "天使 : てんし : angel"
+  ],
+  "antonym_explanation": "The most common antonym of the あくま is てんし, which means an angel or benevolent heavenly being and represents goodness and protection, the opposite of the harmful nature associated with あくま.",
+  "collocations": [
+    {
+      "kanji": "悪魔がささやく",
+      "furigana": "悪魔がささやく",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔を召喚する",
+      "furigana": "悪魔を召喚する",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔に取り憑かれる",
+      "furigana": "悪魔に取り憑かれる",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔を追い払う",
+      "furigana": "悪魔を追い払う",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔と契約する",
+      "furigana": "悪魔と契約する",
+      "translations": {}
+    },
+    {
+      "kanji": "暗黒の悪魔",
+      "furigana": "暗黒の悪魔",
+      "translations": {}
+    },
+    {
+      "kanji": "強大な悪魔",
+      "furigana": "強大な悪魔",
+      "translations": {}
+    },
+    {
+      "kanji": "邪悪な悪魔",
+      "furigana": "邪悪な悪魔",
+      "translations": {}
+    },
+    {
+      "kanji": "古の悪魔",
+      "furigana": "古の悪魔",
+      "translations": {}
+    },
+    {
+      "kanji": "醜い悪魔",
+      "furigana": "醜い悪魔",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔の使い",
+      "furigana": "悪魔の使い",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔の契約",
+      "furigana": "悪魔の契約",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔のささやき",
+      "furigana": "悪魔のささやき",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔の力",
+      "furigana": "悪魔の力",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔の影",
+      "furigana": "悪魔の影",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔を呼ぶ",
+      "furigana": "悪魔を呼ぶ",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔を封じる",
+      "furigana": "悪魔を封じる",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔を倒す",
+      "furigana": "悪魔を倒す",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔を封印する",
+      "furigana": "悪魔を封印する",
+      "translations": {}
+    },
+    {
+      "kanji": "悪魔を退ける",
+      "furigana": "悪魔を退ける",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "悪魔がささやく。",
+      "furigana": "悪魔(あくま)がささやく。",
+      "translations": {
+        "EN": "The devil whispers.",
+        "ID": "Iblis berbisik.",
+        "ES": "El diablo susurra.",
+        "VI": "Ác quỷ thì thầm.",
+        "FR": "Le diable murmure.",
+        "NE": "शैतानले फुसफुसाउँछ।",
+        "BN": "শয়তান ফিসফিস করে।",
+        "ZH": "魔鬼低语。",
+        "KO": "악마가 속삭인다.",
+        "TL": "Bulong ng diyablo.",
+        "MY": "မာရ်နတ်က တီးတိုးပြောသည် ။",
+        "HI": "शैतान फुसफुसाता है.",
+        "AR": "الشيطان يهمس.",
+        "FA": "شیطان زمزمه می‌کند."
+      }
+    },
+    {
+      "kanji": "彼は悪魔に取り憑かれたと言われた。",
+      "furigana": "彼(かれ)は悪魔(あくま)に取り憑(とりつ)かれたと言(い)われた。",
+      "translations": {
+        "EN": "He was said to be possessed by the devil.",
+        "ID": "Dia dikatakan kerasukan setan.",
+        "ES": "Se decía que estaba poseído por el diablo.",
+        "VI": "Người ta nói rằng ông bị quỷ ám.",
+        "FR": "On disait qu'il était possédé par le diable.",
+        "NE": "उसलाई शैतानले ग्रस्त पारेको भनिएको थियो।",
+        "BN": "বলা হত যে তাকে শয়তান গ্রাস করেছিল।",
+        "ZH": "据说他被魔鬼附身了。",
+        "KO": "그는 악마에 걸렸다고 들었다.",
+        "TL": "Sinapian daw siya ng demonyo.",
+        "MY": "နတ်ဆိုး၏ သိမ်းပိုက်ခြင်းကို ခံရသည်ဟု ဆို၏။",
+        "HI": "कहा जाता है कि उस पर शैतान का साया था।",
+        "AR": "قيل أنه كان ممسوسا بالشيطان.",
+        "FA": "گفته می‌شد که او توسط شیطان تسخیر شده است."
+      }
+    },
+    {
+      "kanji": "勇者は悪魔を倒した。",
+      "furigana": "勇者(ゆうしゃ)は悪魔(あくま)を倒(たお)した。",
+      "translations": {
+        "EN": "The hero defeated the demon.",
+        "ID": "Sang pahlawan mengalahkan iblis.",
+        "ES": "El héroe derrotó al demonio.",
+        "VI": "Người anh hùng đã đánh bại con quỷ.",
+        "FR": "Le héros a vaincu le démon.",
+        "NE": "नायकले राक्षसलाई पराजित गर्यो।",
+        "BN": "বীর রাক্ষসকে পরাজিত করলেন।",
+        "ZH": "英雄打败了恶魔。",
+        "KO": "용사는 악마를 물리 쳤다.",
+        "TL": "Tinalo ng bayani ang demonyo.",
+        "MY": "သူရဲကောင်းသည် နတ်ဆိုးကို အနိုင်ယူခဲ့သည်။",
+        "HI": "नायक ने राक्षस को पराजित कर दिया।",
+        "AR": "البطل هزم الشيطان.",
+        "FA": "قهرمان، دیو را شکست داد."
+      }
+    },
+    {
+      "kanji": "村人たちは悪魔を追い払った。",
+      "furigana": "村人(むらびと)たちは悪魔(あくま)を追(お)い払(はら)った。",
+      "translations": {
+        "EN": "The villagers drove away the demon.",
+        "ID": "Penduduk desa mengusir setan itu.",
+        "ES": "Los aldeanos ahuyentaron al demonio.",
+        "VI": "Dân làng đã đuổi được con quỷ đi.",
+        "FR": "Les villageois ont chassé le démon.",
+        "NE": "गाउँलेहरूले राक्षसलाई धपाए।",
+        "BN": "গ্রামবাসীরা রাক্ষসটিকে তাড়িয়ে দিল।",
+        "ZH": "村民们赶走了恶魔。",
+        "KO": "마을 사람들은 악마를 쫓아냈다.",
+        "TL": "Itinaboy ng mga taganayon ang demonyo.",
+        "MY": "ရွာသားတွေက နတ်ဆိုးကို မောင်းထုတ်တယ်။",
+        "HI": "गांव वालों ने राक्षस को भगा दिया।",
+        "AR": "طرد القرويون الشيطان.",
+        "FA": "روستاییان دیو را راندند."
+      }
+    },
+    {
+      "kanji": "古い話に悪魔が出てくる。",
+      "furigana": "古(ふる)い話(はなし)に悪魔(あくま)が出(で)てくる。",
+      "translations": {
+        "EN": "There's a devil in the old story.",
+        "ID": "Ada iblis dalam cerita lama.",
+        "ES": "Hay un diablo en la vieja historia.",
+        "VI": "Có một con quỷ trong câu chuyện cũ.",
+        "FR": "Il y a un diable dans la vieille histoire.",
+        "NE": "पुरानो कथामा एउटा शैतान छ।",
+        "BN": "পুরনো গল্পে একটা শয়তান আছে।",
+        "ZH": "这个古老的故事里有一个魔鬼。",
+        "KO": "낡은 이야기에 악마가 나온다.",
+        "TL": "May demonyo sa lumang kwento.",
+        "MY": "ဇာတ်လမ်းဟောင်းမှာ နတ်ဆိုးတစ်ကောင်ရှိတယ်။",
+        "HI": "पुरानी कहानी में एक शैतान है।",
+        "AR": "هناك شيطان في القصة القديمة.",
+        "FA": "در داستان قدیمی یک شیطان وجود دارد."
+      }
+    },
+    {
+      "kanji": "悪魔と契約するシーンがある。",
+      "furigana": "悪魔(あくま)と契約(けいやく)するシーンがある。",
+      "translations": {
+        "EN": "There is a scene where he makes a deal with the devil.",
+        "ID": "Ada adegan di mana dia membuat kesepakatan dengan iblis.",
+        "ES": "Hay una escena en la que hace un trato con el diablo.",
+        "VI": "Có một cảnh anh ấy giao kèo với quỷ dữ.",
+        "FR": "Il y a une scène où il fait un pacte avec le diable.",
+        "NE": "त्यहाँ एउटा दृश्य छ जहाँ उसले शैतानसँग सम्झौता गर्छ।",
+        "BN": "একটি দৃশ্য আছে যেখানে সে শয়তানের সাথে একটি চুক্তি করে।",
+        "ZH": "有一个场景是他与魔鬼做交易。",
+        "KO": "악마와 계약하는 장면이 있다.",
+        "TL": "May eksenang nakipag-deal siya sa demonyo.",
+        "MY": "မာရ်နတ်နှင့် ဆက်ဆံသည့် မြင်ကွင်းတစ်ခုရှိသည်။",
+        "HI": "इसमें एक दृश्य है जहां वह शैतान के साथ सौदा करता है।",
+        "AR": "هناك مشهد حيث يعقد صفقة مع الشيطان.",
+        "FA": "صحنه‌ای هست که او با شیطان معامله می‌کند."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "devil": {
+      "ID": "iblis",
+      "ES": "demonio",
+      "VI": "quỷ dữ",
+      "FR": "diable",
+      "NE": "राक्षस",
+      "BN": "শয়তান",
+      "ZH": "魔鬼",
+      "KO": "악마",
+      "TL": "demonyo",
+      "MY": "မာရ်နတ်",
+      "HI": "शैतान",
+      "AR": "شيطان",
+      "FA": "شیطان",
+      "EN": [
+        "demon",
+        "fiend"
+      ]
+    },
+    "Satan": {
+      "ID": "Setan",
+      "ES": "Satán",
+      "VI": "Quỷ Satan",
+      "FR": "Satan",
+      "NE": "शैतान",
+      "BN": "শয়তান",
+      "ZH": "撒但",
+      "KO": "사탄",
+      "TL": "Satanas",
+      "MY": "စာတန်",
+      "HI": "शैतान",
+      "AR": "الشيطان",
+      "FA": "شیطان",
+      "EN": [
+        "the Devil (Christian usage)"
+      ]
+    },
+    "Māra": {
+      "ID": "Mara",
+      "ES": "Mara",
+      "VI": "Ma vương",
+      "FR": "Mara",
+      "NE": "मारा",
+      "BN": "মারা",
+      "ZH": "魔罗",
+      "KO": "마라",
+      "TL": "Mara",
+      "MY": "မာရ်",
+      "HI": "मारा",
+      "AR": "مارا",
+      "FA": "مارا",
+      "EN": [
+        "evil spirits or forces that hinder one's path to enlightenment (Buddhism)"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "悪魔",
+    "is_common": true,
+    "tags": [
+      "wanikani46"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "悪魔",
+        "reading": "あくま"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "devil",
+          "demon",
+          "fiend"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Satan",
+          "the Devil"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [
+          "Christianity"
+        ],
+        "restrictions": [],
+        "see_also": [
+          "サタン"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Māra",
+          "evil spirits or forces that hinder one's path to enlightenment"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [
+          "Buddhism"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Devil"
+        ],
+        "parts_of_speech": [
+          "Wikipedia definition"
+        ],
+        "links": [
+          {
+            "text": "Read “Devil” on English Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Devil?oldid=494697919"
+          },
+          {
+            "text": "Read “悪魔” on Japanese Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/悪魔?oldid=42561689"
+          }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": "http://dbpedia.org/resource/Devil"
+    }
+  },
+  "kanji_list": [
+    "悪",
+    "魔"
+  ],
+  "kanji_data": {
+    "悪": {
+      "freq_mainichi_shinbun": 530,
+      "grade": 3,
+      "heisig_en": "bad",
+      "jlpt": 4,
+      "kanji": "悪",
+      "kun_readings": [
+        "-にく.い",
+        "あ.し",
+        "ああ",
+        "いずくに",
+        "いずくんぞ",
+        "にく.い",
+        "にく.む",
+        "わる-",
+        "わる.い"
+      ],
+      "meanings": [
+        "bad",
+        "evil",
+        "false",
+        "rascal",
+        "vice",
+        "wrong"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "アク",
+        "オ"
+      ],
+      "stroke_count": 11,
+      "unicode": "60AA"
+    },
+    "魔": {
+      "freq_mainichi_shinbun": 1514,
+      "grade": 8,
+      "heisig_en": "witch",
+      "jlpt": 1,
+      "kanji": "魔",
+      "kun_readings": [],
+      "meanings": [
+        "demon",
+        "evil spirit",
+        "witch"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "マ"
+      ],
+      "stroke_count": 21,
+      "unicode": "9B54"
+    }
+  }
 }

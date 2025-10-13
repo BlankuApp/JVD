@@ -1,382 +1,409 @@
 {
-    "version": "0.2.0",
-    "word": "強調",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/PwMI6y0YHXY",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "強調",
-        "reading": "きょうちょう",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this video is きょうちょう which you will often hear in meetings, presentations, news reports, and everyday conversations when someone wants to highlight what matters most. Imagine how much more natural your Japanese will sound when you can say things like He emphasized the need for clear communication, The report places strong emphasis on safety measures, and Teachers often emphasize practice over memorization in Japanese. Let's get started!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word きょうちょう means emphasis or stress and the act of emphasizing something, used to point out importance or draw attention to a particular idea or detail.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "emphasis",
-                "stress",
-                "highlighting",
-                "underlining",
-                "underscoring"
-            ],
-            [
-                "accentuating",
-                "accenting"
-            ],
-            [
-                "strong tone",
-                "firm tone"
-            ]
-        ],
-        "meaning_translations": {
-            "emphasis": {
-                "EN": "emphasis",
-                "ID": "penekanan",
-                "ES": "énfasis",
-                "VI": "nhấn mạnh",
-                "FR": "accent",
-                "NE": "जोर",
-                "BN": "জোর",
-                "ZH": "强调",
-                "KO": "강조",
-                "TL": "pagbibigay-diin",
-                "MY": "အလေးပေးခြင်း",
-                "HI": "जोर",
-                "AR": "توكيد",
-                "FA": "تأکید"
-            },
-            "accentuating": {
-                "EN": "accentuating",
-                "ID": "menonjolkan",
-                "ES": "acentuando",
-                "VI": "làm nổi bật",
-                "FR": "accentuant",
-                "NE": "जोर दिने",
-                "BN": "জোর দেওয়া",
-                "ZH": "强调",
-                "KO": "강조",
-                "TL": "binibigyang-diin",
-                "MY": "ထင်ရှားစေခြင်း",
-                "HI": "जोर देना",
-                "AR": "إبراز",
-                "FA": "برجسته‌سازی"
-            },
-            "strong tone": {
-                "EN": "Emphasis: strong tone",
-                "ID": "Penekanan: nada kuat",
-                "ES": "Énfasis: tono fuerte",
-                "VI": "Nhấn mạnh: giọng điệu mạnh",
-                "FR": "Emphase : ton fort",
-                "NE": "जोर: कडा स्वर",
-                "BN": "জোর: শক্তিশালী স্বর",
-                "ZH": "强调：强烈的语气",
-                "KO": "강조: 강한 어조",
-                "TL": "Pagbibigay-diin: malakas na tono",
-                "MY": "အာရုံစိုက်မှု: ပြင်းထန်သော အသံ",
-                "HI": "ज़ोर देना: मजबूत लहजा",
-                "AR": "تأكيد: نبرة قوية",
-                "FA": "تأکید: لحن قوی"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "先生は安全の重要性を強調した。",
-                "furigana": "先生(せんせい)は安全(あんぜん)の重要性(じゅうようせい)を強調(きょうちょう)した。",
-                "translations": {
-                    "EN": "The teacher emphasized the importance of safety.",
-                    "ID": "Guru menekankan pentingnya keselamatan.",
-                    "ES": "El profesor enfatizó la importancia de la seguridad.",
-                    "VI": "Giáo viên nhấn mạnh tầm quan trọng của an toàn.",
-                    "FR": "Le professeur a souligné l'importance de la sécurité.",
-                    "NE": "शिक्षकले सुरक्षाको महत्व जोड दिए।",
-                    "BN": "শিক্ষক নিরাপত্তার গুরুত্বকে 강조 করলেন।",
-                    "ZH": "老师强调了安全的重要性。",
-                    "KO": "선생님은 안전의 중요성을 강조했다.",
-                    "TL": "Binigyang-diin ng guro ang kahalagahan ng kaligtasan.",
-                    "MY": "ဆရာက လုံခြုံရေးအရေးပါမှုကို အလေးထား၍ ပြောပြခဲ့သည်။",
-                    "HI": "शिक्षक ने सुरक्षा के महत्व पर जोर दिया।",
-                    "AR": "شدد المعلم على أهمية السلامة.",
-                    "FA": "معلم بر اهمیت ایمنی تأکید کرد."
-                }
-            },
-            {
-                "kanji": "彼は自分の意見を強調する。",
-                "furigana": "彼(かれ)は自分(じぶん)の意見(いけん)を強調(きょうちょう)する。",
-                "translations": {
-                    "EN": "He emphasizes his opinion.",
-                    "ID": "Dia menekankan pendapatnya.",
-                    "ES": "Él enfatiza su opinión.",
-                    "VI": "Anh ấy nhấn mạnh ý kiến của mình.",
-                    "FR": "Il met l'accent sur son opinion.",
-                    "NE": "ऊ आफ्नो विचारलाई जोड दिन्छ।",
-                    "BN": "তিনি নিজের মতামতকে জোর দেন।",
-                    "ZH": "他强调自己的意见。",
-                    "KO": "그는 자신의 의견을 강조한다.",
-                    "TL": "Binibigyang-diin niya ang kanyang opinyon.",
-                    "MY": "သူသည် သူ၏ အမြင်ကို အလေးပေးသည်။",
-                    "HI": "वह अपनी राय पर ज़ोर देता है।",
-                    "AR": "هو يؤكد على رأيه.",
-                    "FA": "او نظر خود را تأکید می‌کند."
-                }
-            },
-            {
-                "kanji": "単語を強調表示します。",
-                "furigana": "単語(たんご)を強調(きょうちょう)表示(ひょうじ)します。",
-                "translations": {
-                    "EN": "I will highlight the word.",
-                    "ID": "Saya akan menyorot kata itu.",
-                    "ES": "Voy a resaltar la palabra.",
-                    "VI": "Tôi sẽ làm nổi bật từ đó.",
-                    "FR": "Je vais surligner le mot.",
-                    "NE": "म त्यो शब्दलाई हाइलाइट गर्नेछु।",
-                    "BN": "আমি ওই শব্দটিকে হাইলাইট করব।",
-                    "ZH": "我会将该单词高亮显示。",
-                    "KO": "단어를 강조 표시하겠습니다.",
-                    "TL": "I-highlight ko ang salita.",
-                    "MY": "စကားလုံးကို ထင်ရှားအောင် ဖော်ပြပါမည်။",
-                    "HI": "मैं उस शब्द को हाइलाइट करूँगा।",
-                    "AR": "سأبرز الكلمة.",
-                    "FA": "من آن کلمه را برجسته می‌کنم."
-                }
-            },
-            {
-                "kanji": "彼は自分の意見を強調して述べた。",
-                "furigana": "彼(かれ)は自分(じぶん)の意見(いけん)を強調(きょうちょう)して述(の)べた。",
-                "translations": {
-                    "EN": "He emphasized and stated his opinion.",
-                    "ID": "Dia menekankan dan menyampaikan pendapatnya.",
-                    "ES": "Él enfatizó y expresó su opinión.",
-                    "VI": "Anh ấy nhấn mạnh và trình bày ý kiến của mình.",
-                    "FR": "Il a souligné et exprimé son opinion.",
-                    "NE": "उनले आफ्नो विचार जोड दिएर बताए।",
-                    "BN": "তিনি তাঁর মতামত জোর দিয়ে বললেন।",
-                    "ZH": "他强调并陈述了自己的意见。",
-                    "KO": "그는 자신의 의견을 강조하여 말했다.",
-                    "TL": "Binigyang-diin niya at inihayag ang kanyang opinyon.",
-                    "MY": "သူသည် သူ၏ထင်မြင်ချက်ကို အလေးပေး၍ ပြောပြခဲ့သည်။",
-                    "HI": "उसने अपनी राय पर ज़ोर देकर कहा।",
-                    "AR": "هو أكّد رأيه وصرّح به.",
-                    "FA": "او نظر خود را با تأکید بیان کرد."
-                }
-            },
-            {
-                "kanji": "この強調点は重要です。",
-                "furigana": "この強調点(きょうちょうてん)は重要(じゅうよう)です。",
-                "translations": {
-                    "EN": "This point of emphasis is important.",
-                    "ID": "Titik penekanan ini penting.",
-                    "ES": "Este punto de énfasis es importante.",
-                    "VI": "Điểm nhấn này quan trọng.",
-                    "FR": "Ce point d'accentuation est important.",
-                    "NE": "यो जोड दिने बुँदा महत्त्वपूर्ण छ।",
-                    "BN": "এই গুরুত্বারোপের বিষয়টি গুরুত্বপূর্ণ।",
-                    "ZH": "这个强调点很重要。",
-                    "KO": "이 강조점은 중요합니다.",
-                    "TL": "Mahalaga ang puntong ito ng diin.",
-                    "MY": "ဒီအလေးပေးချက်က အရေးကြီးပါတယ်။",
-                    "HI": "यह जोर देने का बिंदु महत्वपूर्ण है।",
-                    "AR": "نقطة التأكيد هذه مهمة.",
-                    "FA": "این نکتهٔ تأکیدی مهم است."
-                }
-            },
-            {
-                "kanji": "その点が強調される。",
-                "furigana": "その点(てん)が強調(きょうちょう)される。",
-                "translations": {
-                    "EN": "That point is emphasized.",
-                    "ID": "Poin itu ditekankan.",
-                    "ES": "Ese punto se enfatiza.",
-                    "VI": "Điểm đó được nhấn mạnh.",
-                    "FR": "Ce point est souligné.",
-                    "NE": "त्यो बुँदा जोडिन्छ।",
-                    "BN": "সেই বিষয়টি জোর দেওয়া হয়।",
-                    "ZH": "那一点被强调。",
-                    "KO": "그 점이 강조된다.",
-                    "TL": "Binigyang-diin ang puntong iyon.",
-                    "MY": "အချက်ကို အလေးပေးခံရသည်။",
-                    "HI": "उस बिंदु पर ज़ोर दिया जाता है।",
-                    "AR": "يتم التأكيد على تلك النقطة.",
-                    "FA": "روی آن نکته تأکید می‌شود."
-                }
-            },
-            {
-                "kanji": "このマーカーは強調色です。",
-                "furigana": "このマーカーは強調(きょうちょう)色(しょく)です。",
-                "translations": {
-                    "EN": "This marker is a highlight color.",
-                    "ID": "Spidol ini adalah warna sorotan.",
-                    "ES": "Este marcador es un color de resaltado.",
-                    "VI": "Bút đánh dấu này là màu nhấn.",
-                    "FR": "Ce marqueur est une couleur de surlignage.",
-                    "NE": "यो मार्कर हाइलाइट रंग हो।",
-                    "BN": "এই মার্কারটি হাইলাইট রং।",
-                    "ZH": "这个马克笔是强调色。",
-                    "KO": "이 마커는 강조색입니다.",
-                    "TL": "Ang marker na ito ay kulay na pang-highlight.",
-                    "MY": "ဒီ မာကာက ထင်ရှားစေသော အရောင်ဖြစ်သည်။",
-                    "HI": "यह मार्कर हाइलाइट रंग है।",
-                    "AR": "هذا الماركر لون تمييزي.",
-                    "FA": "این ماژیک رنگ برجسته است."
-                }
-            }
-        ],
-        "synonyms": [
-            "重視 : じゅうし : regarding as important",
-            "重点 : じゅうてん : important point"
-        ],
-        "synonyms_explanation": "The most common synonyms of the きょうちょう are じゅうし and じゅうてん. じゅうし focuses on valuing or regarding something as important and is often used when explaining priorities. じゅうてん refers to a focal point or the main emphasis and is more about where attention is placed rather than the act of highlighting it. きょうちょう often implies actively stressing or drawing attention to something.",
-        "antonyms": [
-            "軽視 : けいし : making light of",
-            "無視 : むし : disregarding"
-        ],
-        "antonyms_explanation": "The most common antonyms of the きょうちょう are けいし and むし. けいし means to downplay or treat something as less important and implies diminishing its significance. むし means to ignore or disregard completely and is stronger, indicating no attention given at all. Both contrast with きょうちょう, which involves highlighting or stressing importance.",
-        "kanji_details": [
-            {
-                "kanji": "強",
-                "common_words": [
-                    "強盗: robber",
-                    "勉強: study"
-                ]
-            },
-            {
-                "kanji": "調",
-                "common_words": [
-                    "調査: investigation",
-                    "同調: conformity"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "強調",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "強調",
-                "reading": "きょうちょう"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "emphasis",
-                    "stress",
-                    "highlighting",
-                    "underlining",
-                    "underscoring"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "accentuating",
-                    "accenting"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "strong tone",
-                    "firm tone"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "強",
-        "調"
+  "version": "0.3.0",
+  "word": "強調",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/PwMI6y0YHXY",
+  "in_db": true,
+  "kanji": "強調",
+  "reading": "きょうちょう",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this video is きょうちょう which you will often hear in meetings, presentations, news reports, and everyday conversations when someone wants to highlight what matters most. Imagine how much more natural your Japanese will sound when you can say things like He emphasized the need for clear communication, The report places strong emphasis on safety measures, and Teachers often emphasize practice over memorization in Japanese. Let's get started!",
+  "meanings": [
+    [
+      "emphasis",
+      "stress",
+      "highlighting",
+      "underlining",
+      "underscoring"
     ],
-    "kanji_data": {
-        "強": {
-            "meanings": [
-                "strong"
-            ],
-            "on_readings": [
-                "キョウ",
-                "ゴウ"
-            ],
-            "kun_readings": [
-                "こわ.い",
-                "し.いる",
-                "つよ.い",
-                "つよ.まる",
-                "つよ.める"
-            ],
-            "stroke_count": 11,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 112,
-            "unicode": "5F37",
-            "grade": 2
-        },
-        "調": {
-            "meanings": [
-                "exorcise",
-                "harmonize",
-                "investigate",
-                "key (music)",
-                "mediate",
-                "meter",
-                "prepare",
-                "tone",
-                "tune",
-                "writing style"
-            ],
-            "on_readings": [
-                "チョウ"
-            ],
-            "kun_readings": [
-                "しら.べ",
-                "しら.べる",
-                "ととの.う",
-                "ととの.える"
-            ],
-            "stroke_count": 15,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 87,
-            "unicode": "8ABF",
-            "grade": 3
-        }
-    },
-    "collocations": [
-        "重要性を強調する",
-        "〜を強調する",
-        "強調表示",
-        "強調して述べる",
-        "強調点",
-        "強調される",
-        "強調色"
+    [
+      "accentuating",
+      "accenting"
+    ],
+    [
+      "strong tone",
+      "firm tone"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word きょうちょう means emphasis or stress and the act of emphasizing something, used to point out importance or draw attention to a particular idea or detail.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "強",
+      "common_words": [
+        "強盗: robber",
+        "勉強: study"
+      ]
+    },
+    {
+      "kanji": "調",
+      "common_words": [
+        "調査: investigation",
+        "同調: conformity"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "重視 : じゅうし : regarding as important",
+    "重点 : じゅうてん : important point"
+  ],
+  "synonym_explanation": "The most common synonyms of the きょうちょう are じゅうし and じゅうてん. じゅうし focuses on valuing or regarding something as important and is often used when explaining priorities. じゅうてん refers to a focal point or the main emphasis and is more about where attention is placed rather than the act of highlighting it. きょうちょう often implies actively stressing or drawing attention to something.",
+  "antonyms": [
+    "軽視 : けいし : making light of",
+    "無視 : むし : disregarding"
+  ],
+  "antonym_explanation": "The most common antonyms of the きょうちょう are けいし and むし. けいし means to downplay or treat something as less important and implies diminishing its significance. むし means to ignore or disregard completely and is stronger, indicating no attention given at all. Both contrast with きょうちょう, which involves highlighting or stressing importance.",
+  "collocations": [
+    {
+      "kanji": "重要性を強調する",
+      "furigana": "重要性を強調する",
+      "translations": {}
+    },
+    {
+      "kanji": "〜を強調する",
+      "furigana": "〜を強調する",
+      "translations": {}
+    },
+    {
+      "kanji": "強調表示",
+      "furigana": "強調表示",
+      "translations": {}
+    },
+    {
+      "kanji": "強調して述べる",
+      "furigana": "強調して述べる",
+      "translations": {}
+    },
+    {
+      "kanji": "強調点",
+      "furigana": "強調点",
+      "translations": {}
+    },
+    {
+      "kanji": "強調される",
+      "furigana": "強調される",
+      "translations": {}
+    },
+    {
+      "kanji": "強調色",
+      "furigana": "強調色",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "先生は安全の重要性を強調した。",
+      "furigana": "先生(せんせい)は安全(あんぜん)の重要性(じゅうようせい)を強調(きょうちょう)した。",
+      "translations": {
+        "EN": "The teacher emphasized the importance of safety.",
+        "ID": "Guru menekankan pentingnya keselamatan.",
+        "ES": "El profesor enfatizó la importancia de la seguridad.",
+        "VI": "Giáo viên nhấn mạnh tầm quan trọng của an toàn.",
+        "FR": "Le professeur a souligné l'importance de la sécurité.",
+        "NE": "शिक्षकले सुरक्षाको महत्व जोड दिए।",
+        "BN": "শিক্ষক নিরাপত্তার গুরুত্বকে 강조 করলেন।",
+        "ZH": "老师强调了安全的重要性。",
+        "KO": "선생님은 안전의 중요성을 강조했다.",
+        "TL": "Binigyang-diin ng guro ang kahalagahan ng kaligtasan.",
+        "MY": "ဆရာက လုံခြုံရေးအရေးပါမှုကို အလေးထား၍ ပြောပြခဲ့သည်။",
+        "HI": "शिक्षक ने सुरक्षा के महत्व पर जोर दिया।",
+        "AR": "شدد المعلم على أهمية السلامة.",
+        "FA": "معلم بر اهمیت ایمنی تأکید کرد."
+      }
+    },
+    {
+      "kanji": "彼は自分の意見を強調する。",
+      "furigana": "彼(かれ)は自分(じぶん)の意見(いけん)を強調(きょうちょう)する。",
+      "translations": {
+        "EN": "He emphasizes his opinion.",
+        "ID": "Dia menekankan pendapatnya.",
+        "ES": "Él enfatiza su opinión.",
+        "VI": "Anh ấy nhấn mạnh ý kiến của mình.",
+        "FR": "Il met l'accent sur son opinion.",
+        "NE": "ऊ आफ्नो विचारलाई जोड दिन्छ।",
+        "BN": "তিনি নিজের মতামতকে জোর দেন।",
+        "ZH": "他强调自己的意见。",
+        "KO": "그는 자신의 의견을 강조한다.",
+        "TL": "Binibigyang-diin niya ang kanyang opinyon.",
+        "MY": "သူသည် သူ၏ အမြင်ကို အလေးပေးသည်။",
+        "HI": "वह अपनी राय पर ज़ोर देता है।",
+        "AR": "هو يؤكد على رأيه.",
+        "FA": "او نظر خود را تأکید می‌کند."
+      }
+    },
+    {
+      "kanji": "単語を強調表示します。",
+      "furigana": "単語(たんご)を強調(きょうちょう)表示(ひょうじ)します。",
+      "translations": {
+        "EN": "I will highlight the word.",
+        "ID": "Saya akan menyorot kata itu.",
+        "ES": "Voy a resaltar la palabra.",
+        "VI": "Tôi sẽ làm nổi bật từ đó.",
+        "FR": "Je vais surligner le mot.",
+        "NE": "म त्यो शब्दलाई हाइलाइट गर्नेछु।",
+        "BN": "আমি ওই শব্দটিকে হাইলাইট করব।",
+        "ZH": "我会将该单词高亮显示。",
+        "KO": "단어를 강조 표시하겠습니다.",
+        "TL": "I-highlight ko ang salita.",
+        "MY": "စကားလုံးကို ထင်ရှားအောင် ဖော်ပြပါမည်။",
+        "HI": "मैं उस शब्द को हाइलाइट करूँगा।",
+        "AR": "سأبرز الكلمة.",
+        "FA": "من آن کلمه را برجسته می‌کنم."
+      }
+    },
+    {
+      "kanji": "彼は自分の意見を強調して述べた。",
+      "furigana": "彼(かれ)は自分(じぶん)の意見(いけん)を強調(きょうちょう)して述(の)べた。",
+      "translations": {
+        "EN": "He emphasized and stated his opinion.",
+        "ID": "Dia menekankan dan menyampaikan pendapatnya.",
+        "ES": "Él enfatizó y expresó su opinión.",
+        "VI": "Anh ấy nhấn mạnh và trình bày ý kiến của mình.",
+        "FR": "Il a souligné et exprimé son opinion.",
+        "NE": "उनले आफ्नो विचार जोड दिएर बताए।",
+        "BN": "তিনি তাঁর মতামত জোর দিয়ে বললেন।",
+        "ZH": "他强调并陈述了自己的意见。",
+        "KO": "그는 자신의 의견을 강조하여 말했다.",
+        "TL": "Binigyang-diin niya at inihayag ang kanyang opinyon.",
+        "MY": "သူသည် သူ၏ထင်မြင်ချက်ကို အလေးပေး၍ ပြောပြခဲ့သည်။",
+        "HI": "उसने अपनी राय पर ज़ोर देकर कहा।",
+        "AR": "هو أكّد رأيه وصرّح به.",
+        "FA": "او نظر خود را با تأکید بیان کرد."
+      }
+    },
+    {
+      "kanji": "この強調点は重要です。",
+      "furigana": "この強調点(きょうちょうてん)は重要(じゅうよう)です。",
+      "translations": {
+        "EN": "This point of emphasis is important.",
+        "ID": "Titik penekanan ini penting.",
+        "ES": "Este punto de énfasis es importante.",
+        "VI": "Điểm nhấn này quan trọng.",
+        "FR": "Ce point d'accentuation est important.",
+        "NE": "यो जोड दिने बुँदा महत्त्वपूर्ण छ।",
+        "BN": "এই গুরুত্বারোপের বিষয়টি গুরুত্বপূর্ণ।",
+        "ZH": "这个强调点很重要。",
+        "KO": "이 강조점은 중요합니다.",
+        "TL": "Mahalaga ang puntong ito ng diin.",
+        "MY": "ဒီအလေးပေးချက်က အရေးကြီးပါတယ်။",
+        "HI": "यह जोर देने का बिंदु महत्वपूर्ण है।",
+        "AR": "نقطة التأكيد هذه مهمة.",
+        "FA": "این نکتهٔ تأکیدی مهم است."
+      }
+    },
+    {
+      "kanji": "その点が強調される。",
+      "furigana": "その点(てん)が強調(きょうちょう)される。",
+      "translations": {
+        "EN": "That point is emphasized.",
+        "ID": "Poin itu ditekankan.",
+        "ES": "Ese punto se enfatiza.",
+        "VI": "Điểm đó được nhấn mạnh.",
+        "FR": "Ce point est souligné.",
+        "NE": "त्यो बुँदा जोडिन्छ।",
+        "BN": "সেই বিষয়টি জোর দেওয়া হয়।",
+        "ZH": "那一点被强调。",
+        "KO": "그 점이 강조된다.",
+        "TL": "Binigyang-diin ang puntong iyon.",
+        "MY": "အချက်ကို အလေးပေးခံရသည်။",
+        "HI": "उस बिंदु पर ज़ोर दिया जाता है।",
+        "AR": "يتم التأكيد على تلك النقطة.",
+        "FA": "روی آن نکته تأکید می‌شود."
+      }
+    },
+    {
+      "kanji": "このマーカーは強調色です。",
+      "furigana": "このマーカーは強調(きょうちょう)色(しょく)です。",
+      "translations": {
+        "EN": "This marker is a highlight color.",
+        "ID": "Spidol ini adalah warna sorotan.",
+        "ES": "Este marcador es un color de resaltado.",
+        "VI": "Bút đánh dấu này là màu nhấn.",
+        "FR": "Ce marqueur est une couleur de surlignage.",
+        "NE": "यो मार्कर हाइलाइट रंग हो।",
+        "BN": "এই মার্কারটি হাইলাইট রং।",
+        "ZH": "这个马克笔是强调色。",
+        "KO": "이 마커는 강조색입니다.",
+        "TL": "Ang marker na ito ay kulay na pang-highlight.",
+        "MY": "ဒီ မာကာက ထင်ရှားစေသော အရောင်ဖြစ်သည်။",
+        "HI": "यह मार्कर हाइलाइट रंग है।",
+        "AR": "هذا الماركر لون تمييزي.",
+        "FA": "این ماژیک رنگ برجسته است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "emphasis": {
+      "EN": "emphasis",
+      "ID": "penekanan",
+      "ES": "énfasis",
+      "VI": "nhấn mạnh",
+      "FR": "accent",
+      "NE": "जोर",
+      "BN": "জোর",
+      "ZH": "强调",
+      "KO": "강조",
+      "TL": "pagbibigay-diin",
+      "MY": "အလေးပေးခြင်း",
+      "HI": "जोर",
+      "AR": "توكيد",
+      "FA": "تأکید"
+    },
+    "accentuating": {
+      "EN": "accentuating",
+      "ID": "menonjolkan",
+      "ES": "acentuando",
+      "VI": "làm nổi bật",
+      "FR": "accentuant",
+      "NE": "जोर दिने",
+      "BN": "জোর দেওয়া",
+      "ZH": "强调",
+      "KO": "강조",
+      "TL": "binibigyang-diin",
+      "MY": "ထင်ရှားစေခြင်း",
+      "HI": "जोर देना",
+      "AR": "إبراز",
+      "FA": "برجسته‌سازی"
+    },
+    "strong tone": {
+      "EN": "Emphasis: strong tone",
+      "ID": "Penekanan: nada kuat",
+      "ES": "Énfasis: tono fuerte",
+      "VI": "Nhấn mạnh: giọng điệu mạnh",
+      "FR": "Emphase : ton fort",
+      "NE": "जोर: कडा स्वर",
+      "BN": "জোর: শক্তিশালী স্বর",
+      "ZH": "强调：强烈的语气",
+      "KO": "강조: 강한 어조",
+      "TL": "Pagbibigay-diin: malakas na tono",
+      "MY": "အာရုံစိုက်မှု: ပြင်းထန်သော အသံ",
+      "HI": "ज़ोर देना: मजबूत लहजा",
+      "AR": "تأكيد: نبرة قوية",
+      "FA": "تأکید: لحن قوی"
+    }
+  },
+  "jisho_data": {
+    "slug": "強調",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "強調",
+        "reading": "きょうちょう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "emphasis",
+          "stress",
+          "highlighting",
+          "underlining",
+          "underscoring"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "accentuating",
+          "accenting"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "strong tone",
+          "firm tone"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "強",
+    "調"
+  ],
+  "kanji_data": {
+    "強": {
+      "meanings": [
+        "strong"
+      ],
+      "on_readings": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "kun_readings": [
+        "こわ.い",
+        "し.いる",
+        "つよ.い",
+        "つよ.まる",
+        "つよ.める"
+      ],
+      "stroke_count": 11,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 112,
+      "unicode": "5F37",
+      "grade": 2
+    },
+    "調": {
+      "meanings": [
+        "exorcise",
+        "harmonize",
+        "investigate",
+        "key (music)",
+        "mediate",
+        "meter",
+        "prepare",
+        "tone",
+        "tune",
+        "writing style"
+      ],
+      "on_readings": [
+        "チョウ"
+      ],
+      "kun_readings": [
+        "しら.べ",
+        "しら.べる",
+        "ととの.う",
+        "ととの.える"
+      ],
+      "stroke_count": 15,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 87,
+      "unicode": "8ABF",
+      "grade": 3
+    }
+  }
 }

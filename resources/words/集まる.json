@@ -1,307 +1,398 @@
 {
-    "version": "0.2.0",
-    "word": "集まる",
-    "jlpt_level": 4,
-    "youtube_link": "https://youtu.be/hxtRSD3uKmA",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "集まる",
-        "reading": "あつまる",
-        "introduction_japanese": "「集まる」は、イベントや待ち合わせ、祭りや公園などで人や虫が一か所に集まるとき、またお金や物が自然にたまるときによく使われる言葉です。",
-        "introduction_english": "The verb あつまる is commonly seen when people or animals come together at events, meetings, festivals, parks, or when things like money or items naturally accumulate.",
-        "meanings": [
-            [
-                "to gather (people, animals, crowd up)",
-                "to assemble (at a place)"
-            ],
-            [
-                "to collect/accumulate (objects, things, abstract items)"
-            ]
-        ],
-        "meaning_explanation_japanese": "「集まる」は、誰かがその場に来て一緒になることや、物や数が自然にたまることを表す自動詞です。人が公園に集まったり、虫が木に集まったりします。",
-        "meaning_explanation_english": "The word あつまる means that people or things come together or accumulate on their own. People can gather in a park, or insects can gather on a tree.",
-        "kanji_explanation_english": "The first kanji means 'gather'. It shows the idea of things or people coming together. In しゅうちゅう the kanji helps show focusing many things into one place, and in しゅうごう it gives the sense of people assembling together.",
-        "kanji_details": [
-            {
-                "kanji": "集",
-                "common_words": [
-                    "集中 (しゅうちゅう): concentration",
-                    "集合 (しゅうごう): gathering, meeting"
-                ]
-            }
-        ],
-        "synonyms": [
-            "集う : つどう : gather, assemble (people)",
-            "寄る : よる : come close, drop by"
-        ],
-        "synonyms_explanation": "The most common synonyms of the あつまる are つどう and よる. つどう (集う) often sounds a bit more deliberate or formal, like people meeting for a purpose. よる can be more casual and can also mean to come close or drop by.",
-        "antonyms": [
-            "散る : ちる : scatter, fall apart",
-            "離れる : はなれる : move away, leave"
-        ],
-        "antonyms_explanation": "The most common antonym[s] of the あつまる are ちる and はなれる. ちる means to scatter or fall apart, the opposite of coming together. はなれる means to move away or leave, so people or things stop being together.",
-        "examples": [
-            {
-                "kanji": "友だちが集まる。",
-                "furigana": "友(とも)だちが集(あつ)まる。",
-                "translations": {
-                    "EN": "Friends gather.",
-                    "ID": "Teman-teman berkumpul.",
-                    "ES": "Los amigos se reúnen.",
-                    "VI": "Bạn bè tụ tập.",
-                    "FR": "Les amis se rassemblent.",
-                    "NE": "साथीहरू भेला हुन्छन्।",
-                    "BN": "বন্ধুরা জড়ো হয়।",
-                    "ZH": "朋友欢聚。",
-                    "KO": "친구가 모인다.",
-                    "TL": "Nagtitipon ang mga kaibigan.",
-                    "MY": "သူငယ်ချင်းများစုဝေး။",
-                    "HI": "मित्र एकत्रित होते हैं।",
-                    "AR": "الأصدقاء يتجمعون.",
-                    "FA": "دوستان جمع می‌شوند."
-                }
-            },
-            {
-                "kanji": "公園に人が次々と集まる。",
-                "furigana": "公園(こうえん)に人(ひと)が次々(つぎつぎ)と集(あつ)まる。",
-                "translations": {
-                    "EN": "People gather in the park one after another.",
-                    "ID": "Orang-orang berkumpul di taman satu demi satu.",
-                    "ES": "La gente se reúne en el parque uno tras otro.",
-                    "VI": "Mọi người tụ tập ở công viên từng người một.",
-                    "FR": "Les gens se rassemblent dans le parc les uns après les autres.",
-                    "NE": "मानिसहरू एकपछि अर्को पार्कमा भेला हुन्छन्।",
-                    "BN": "একের পর এক পার্কে মানুষ জড়ো হচ্ছে।",
-                    "ZH": "人们陆续聚集在公园里。",
-                    "KO": "공원에 사람이 차례로 모인다.",
-                    "TL": "Sunod-sunod na nagtitipon ang mga tao sa parke.",
-                    "MY": "လူတွေက ပန်းခြံထဲမှာ တယောက်ပြီး တယောက် စုနေကြတယ်။",
-                    "HI": "लोग एक के बाद एक पार्क में इकट्ठा होते हैं।",
-                    "AR": "يتجمع الناس في الحديقة واحدًا تلو الآخر.",
-                    "FA": "مردم یکی پس از دیگری در پارک جمع می‌شوند."
-                }
-            },
-            {
-                "kanji": "店に客が集まる。",
-                "furigana": "店(みせ)に客(きゃく)が集(あつ)まる。",
-                "translations": {
-                    "EN": "Customers flock to the store.",
-                    "ID": "Pelanggan berbondong-bondong datang ke toko.",
-                    "ES": "Los clientes acuden en masa a la tienda.",
-                    "VI": "Khách hàng đổ xô đến cửa hàng.",
-                    "FR": "Les clients affluent vers le magasin.",
-                    "NE": "पसलमा ग्राहकहरूको घुइँचो लाग्छ।",
-                    "BN": "দোকানে ক্রেতাদের ভিড়।",
-                    "ZH": "顾客们蜂拥而至。",
-                    "KO": "가게에 손님이 모인다.",
-                    "TL": "Dumadagsa ang mga customer sa tindahan.",
-                    "MY": "ဖောက်သည်များ စတိုးဆိုင်သို့ လာကြသည်။",
-                    "HI": "ग्राहक दुकान पर उमड़ पड़ते हैं।",
-                    "AR": "الزبائن يتوافدون إلى المتجر.",
-                    "FA": "مشتریان به مغازه هجوم می‌آورند."
-                }
-            },
-            {
-                "kanji": "虫が木に集まる。",
-                "furigana": "虫(むし)が木(き)に集(あつ)まる。",
-                "translations": {
-                    "EN": "Insects gather on the tree.",
-                    "ID": "Serangga berkumpul di pohon.",
-                    "ES": "Los insectos se reúnen en el árbol.",
-                    "VI": "Côn trùng tụ tập trên cây.",
-                    "FR": "Les insectes se rassemblent sur l'arbre.",
-                    "NE": "रूखमा किराहरू जम्मा हुन्छन्।",
-                    "BN": "গাছে পোকামাকড় জড়ো হয়।",
-                    "ZH": "昆虫聚集在树上。",
-                    "KO": "벌레가 나무에 모인다.",
-                    "TL": "Nagtitipon ang mga insekto sa puno.",
-                    "MY": "ပိုးမွှားများသည် သစ်ပင်ပေါ်တွင် စုဝေးကြသည်။",
-                    "HI": "पेड़ पर कीड़े इकट्ठे हो जाते हैं।",
-                    "AR": "تتجمع الحشرات على الشجرة.",
-                    "FA": "حشرات روی درخت جمع می‌شوند."
-                }
-            },
-            {
-                "kanji": "学校で生徒が集まる。",
-                "furigana": "学校(がっこう)で生徒(せいと)が集(あつ)まる。",
-                "translations": {
-                    "EN": "Students gather at school.",
-                    "ID": "Siswa berkumpul di sekolah.",
-                    "ES": "Los estudiantes se reúnen en la escuela.",
-                    "VI": "Học sinh tập trung tại trường.",
-                    "FR": "Les étudiants se rassemblent à l'école.",
-                    "NE": "विद्यार्थीहरू स्कूलमा भेला हुन्छन्।",
-                    "BN": "স্কুলে শিক্ষার্থীরা জড়ো হয়।",
-                    "ZH": "学生们聚集在学校。",
-                    "KO": "학교에서 학생들이 모인다.",
-                    "TL": "Nagtitipon ang mga estudyante sa paaralan.",
-                    "MY": "ကျောင်းသားတွေ ကျောင်းမှာ စုဝေးကြတယ်။",
-                    "HI": "छात्र स्कूल में इकट्ठा होते हैं।",
-                    "AR": "يتجمع الطلاب في المدرسة.",
-                    "FA": "دانش‌آموزان در مدرسه جمع می‌شوند."
-                }
-            },
-            {
-                "kanji": "黒山のように人が集まる。",
-                "furigana": "黒山(くろやま)のように人(ひと)が集(あつ)まる。",
-                "translations": {
-                    "EN": "People gather like a black swarm.",
-                    "ID": "Orang-orang berkumpul seperti kawanan hitam.",
-                    "ES": "La gente se reúne como un enjambre negro.",
-                    "VI": "Mọi người tụ tập lại như một đàn đen.",
-                    "FR": "Les gens se rassemblent comme un essaim noir.",
-                    "NE": "मानिसहरू कालो झुण्ड जस्तै भेला हुन्छन्।",
-                    "BN": "মানুষ কালো ঝাঁকের মতো জড়ো হয়।",
-                    "ZH": "人们像黑色的蜂群一样聚集。",
-                    "KO": "쿠로야마처럼 사람이 모인다.",
-                    "TL": "Nagtitipon ang mga tao tulad ng isang itim na kuyog.",
-                    "MY": "လူတို့သည် အနက်ရောင် ဝိုင်းအုံကဲ့သို့ စုဝေးကြသည်။",
-                    "HI": "लोग काले झुंड की तरह इकट्ठा होते हैं।",
-                    "AR": "يتجمع الناس مثل سرب أسود.",
-                    "FA": "مردم مثل یک گله سیاه جمع می‌شوند."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "to gather (people, animals, crowd up)": {
-                "ID": "mengumpulkan (orang, hewan, berkerumun)",
-                "ES": "reunir (gente, animales, multitud)",
-                "VI": "tụ tập (người, động vật, đám đông)",
-                "FR": "rassembler (des gens, des animaux, se rassembler)",
-                "NE": "जम्मा हुनु (मानिसहरू, जनावरहरू, भीड जम्मा हुनु)",
-                "BN": "জড়ো করা (মানুষ, প্রাণী, ভিড়)",
-                "ZH": "聚集（人、动物、人群）",
-                "KO": "(사람, 동물, 군중을) 모으다",
-                "TL": "upang magtipon (mga tao, hayop, siksikan)",
-                "MY": "(လူ၊ တိရိစ္ဆာန်၊ စုဝေးရန်)",
-                "HI": "इकट्ठा करना (लोगों, जानवरों, भीड़ को)",
-                "AR": "التجمع (الناس، الحيوانات، الازدحام)",
-                "FA": "جمع کردن (انسان‌ها، حیوانات، ازدحام)",
-                "EN": [
-                    "to assemble (at a place)"
-                ]
-            },
-            "to collect/accumulate (objects, things, abstract items)": {
-                "ID": "untuk mengumpulkan/mengakumulasikan (objek, benda, item abstrak)",
-                "ES": "coleccionar/acumular (objetos, cosas, elementos abstractos)",
-                "VI": "thu thập/tích lũy (đồ vật, vật dụng, vật trừu tượng)",
-                "FR": "collectionner/accumuler (des objets, des choses, des éléments abstraits)",
-                "NE": "(वस्तुहरू, चीजहरू, अमूर्त वस्तुहरू) सङ्कलन/सञ्चय गर्न",
-                "BN": "(বস্তু, জিনিস, বিমূর্ত জিনিস) সংগ্রহ/সঞ্চয় করা",
-                "ZH": "收集/积累（物体、事物、抽象物品）",
-                "KO": "(사물, 사물, 추상적인 항목)을 수집/축적하다",
-                "TL": "upang mangolekta/mag-ipon (mga bagay, bagay, abstract na item)",
-                "MY": "စုဆောင်း/စုဆောင်းရန် (အရာဝတ္ထုများ၊ အရာများ၊ စိတ္တဇအရာများ)",
-                "HI": "(वस्तुएं, चीज़ें, अमूर्त वस्तुएं) इकट्ठा करना/संचित करना",
-                "AR": "جمع/تجميع (الأشياء، الأشياء، العناصر المجردة)",
-                "FA": "جمع کردن/انباشت کردن (اشیاء، چیزها، اقلام انتزاعی)",
-                "EN": []
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "集まる",
-        "is_common": true,
-        "tags": [
-            "wanikani12"
-        ],
-        "jlpt": [
-            "jlpt-n4",
-            "jlpt-n1"
-        ],
-        "japanese": [
-            {
-                "word": "集まる",
-                "reading": "あつまる"
-            },
-            {
-                "word": "集る",
-                "reading": "あつまる"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "to gather",
-                    "to collect",
-                    "to assemble"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'ru' ending",
-                    "Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "集"
+  "version": "0.3.0",
+  "word": "集まる",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/hxtRSD3uKmA",
+  "in_db": true,
+  "kanji": "集まる",
+  "reading": "あつまる",
+  "introduction_japanese": "「集まる」は、イベントや待ち合わせ、祭りや公園などで人や虫が一か所に集まるとき、またお金や物が自然にたまるときによく使われる言葉です。",
+  "introduction_english": "The verb あつまる is commonly seen when people or animals come together at events, meetings, festivals, parks, or when things like money or items naturally accumulate.",
+  "meanings": [
+    [
+      "to gather (people, animals, crowd up)",
+      "to assemble (at a place)"
     ],
-    "kanji_data": {
-        "集": {
-            "freq_mainichi_shinbun": 210,
-            "grade": 3,
-            "heisig_en": "gather",
-            "jlpt": 4,
-            "kanji": "集",
-            "kun_readings": [
-                "あつ.まる",
-                "あつ.める",
-                "つど.う"
-            ],
-            "meanings": [
-                "congregate",
-                "flock",
-                "gather",
-                "meet",
-                "swarm"
-            ],
-            "name_readings": [
-                "あつまり",
-                "ず"
-            ],
-            "notes": [],
-            "on_readings": [
-                "シュウ"
-            ],
-            "stroke_count": 12,
-            "unicode": "96C6"
-        }
-    },
-    "collocations": [
-        "ひそかに集る",
-        "次々と集る",
-        "自然に集る",
-        "つい集る",
-        "無意識に集る",
-        "虫が集る",
-        "見物人が集る",
-        "群衆が集る",
-        "ひとが集る",
-        "不良グループが集る",
-        "先輩に集る",
-        "友人に集る",
-        "親に集る",
-        "客に集る",
-        "仲間に集る",
-        "食事を集る",
-        "酒代を集る",
-        "酒を一杯集る",
-        "黒山のように人が集る",
-        "人だかりができて集る",
-        "黒山の人集り",
-        "見物人の集り",
-        "団体に集る"
+    [
+      "to collect/accumulate (objects, things, abstract items)"
     ]
+  ],
+  "meaning_explanation_japanese": "「集まる」は、誰かがその場に来て一緒になることや、物や数が自然にたまることを表す自動詞です。人が公園に集まったり、虫が木に集まったりします。",
+  "meaning_explanation_english": "The word あつまる means that people or things come together or accumulate on their own. People can gather in a park, or insects can gather on a tree.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "集",
+      "common_words": [
+        "集中 (しゅうちゅう): concentration",
+        "集合 (しゅうごう): gathering, meeting"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means 'gather'. It shows the idea of things or people coming together. In しゅうちゅう the kanji helps show focusing many things into one place, and in しゅうごう it gives the sense of people assembling together.",
+  "synonyms": [
+    "集う : つどう : gather, assemble (people)",
+    "寄る : よる : come close, drop by"
+  ],
+  "synonym_explanation": "The most common synonyms of the あつまる are つどう and よる. つどう (集う) often sounds a bit more deliberate or formal, like people meeting for a purpose. よる can be more casual and can also mean to come close or drop by.",
+  "antonyms": [
+    "散る : ちる : scatter, fall apart",
+    "離れる : はなれる : move away, leave"
+  ],
+  "antonym_explanation": "The most common antonym[s] of the あつまる are ちる and はなれる. ちる means to scatter or fall apart, the opposite of coming together. はなれる means to move away or leave, so people or things stop being together.",
+  "collocations": [
+    {
+      "kanji": "ひそかに集る",
+      "furigana": "ひそかに集る",
+      "translations": {}
+    },
+    {
+      "kanji": "次々と集る",
+      "furigana": "次々と集る",
+      "translations": {}
+    },
+    {
+      "kanji": "自然に集る",
+      "furigana": "自然に集る",
+      "translations": {}
+    },
+    {
+      "kanji": "つい集る",
+      "furigana": "つい集る",
+      "translations": {}
+    },
+    {
+      "kanji": "無意識に集る",
+      "furigana": "無意識に集る",
+      "translations": {}
+    },
+    {
+      "kanji": "虫が集る",
+      "furigana": "虫が集る",
+      "translations": {}
+    },
+    {
+      "kanji": "見物人が集る",
+      "furigana": "見物人が集る",
+      "translations": {}
+    },
+    {
+      "kanji": "群衆が集る",
+      "furigana": "群衆が集る",
+      "translations": {}
+    },
+    {
+      "kanji": "ひとが集る",
+      "furigana": "ひとが集る",
+      "translations": {}
+    },
+    {
+      "kanji": "不良グループが集る",
+      "furigana": "不良グループが集る",
+      "translations": {}
+    },
+    {
+      "kanji": "先輩に集る",
+      "furigana": "先輩に集る",
+      "translations": {}
+    },
+    {
+      "kanji": "友人に集る",
+      "furigana": "友人に集る",
+      "translations": {}
+    },
+    {
+      "kanji": "親に集る",
+      "furigana": "親に集る",
+      "translations": {}
+    },
+    {
+      "kanji": "客に集る",
+      "furigana": "客に集る",
+      "translations": {}
+    },
+    {
+      "kanji": "仲間に集る",
+      "furigana": "仲間に集る",
+      "translations": {}
+    },
+    {
+      "kanji": "食事を集る",
+      "furigana": "食事を集る",
+      "translations": {}
+    },
+    {
+      "kanji": "酒代を集る",
+      "furigana": "酒代を集る",
+      "translations": {}
+    },
+    {
+      "kanji": "酒を一杯集る",
+      "furigana": "酒を一杯集る",
+      "translations": {}
+    },
+    {
+      "kanji": "黒山のように人が集る",
+      "furigana": "黒山のように人が集る",
+      "translations": {}
+    },
+    {
+      "kanji": "人だかりができて集る",
+      "furigana": "人だかりができて集る",
+      "translations": {}
+    },
+    {
+      "kanji": "黒山の人集り",
+      "furigana": "黒山の人集り",
+      "translations": {}
+    },
+    {
+      "kanji": "見物人の集り",
+      "furigana": "見物人の集り",
+      "translations": {}
+    },
+    {
+      "kanji": "団体に集る",
+      "furigana": "団体に集る",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "友だちが集まる。",
+      "furigana": "友(とも)だちが集(あつ)まる。",
+      "translations": {
+        "EN": "Friends gather.",
+        "ID": "Teman-teman berkumpul.",
+        "ES": "Los amigos se reúnen.",
+        "VI": "Bạn bè tụ tập.",
+        "FR": "Les amis se rassemblent.",
+        "NE": "साथीहरू भेला हुन्छन्।",
+        "BN": "বন্ধুরা জড়ো হয়।",
+        "ZH": "朋友欢聚。",
+        "KO": "친구가 모인다.",
+        "TL": "Nagtitipon ang mga kaibigan.",
+        "MY": "သူငယ်ချင်းများစုဝေး။",
+        "HI": "मित्र एकत्रित होते हैं।",
+        "AR": "الأصدقاء يتجمعون.",
+        "FA": "دوستان جمع می‌شوند."
+      }
+    },
+    {
+      "kanji": "公園に人が次々と集まる。",
+      "furigana": "公園(こうえん)に人(ひと)が次々(つぎつぎ)と集(あつ)まる。",
+      "translations": {
+        "EN": "People gather in the park one after another.",
+        "ID": "Orang-orang berkumpul di taman satu demi satu.",
+        "ES": "La gente se reúne en el parque uno tras otro.",
+        "VI": "Mọi người tụ tập ở công viên từng người một.",
+        "FR": "Les gens se rassemblent dans le parc les uns après les autres.",
+        "NE": "मानिसहरू एकपछि अर्को पार्कमा भेला हुन्छन्।",
+        "BN": "একের পর এক পার্কে মানুষ জড়ো হচ্ছে।",
+        "ZH": "人们陆续聚集在公园里。",
+        "KO": "공원에 사람이 차례로 모인다.",
+        "TL": "Sunod-sunod na nagtitipon ang mga tao sa parke.",
+        "MY": "လူတွေက ပန်းခြံထဲမှာ တယောက်ပြီး တယောက် စုနေကြတယ်။",
+        "HI": "लोग एक के बाद एक पार्क में इकट्ठा होते हैं।",
+        "AR": "يتجمع الناس في الحديقة واحدًا تلو الآخر.",
+        "FA": "مردم یکی پس از دیگری در پارک جمع می‌شوند."
+      }
+    },
+    {
+      "kanji": "店に客が集まる。",
+      "furigana": "店(みせ)に客(きゃく)が集(あつ)まる。",
+      "translations": {
+        "EN": "Customers flock to the store.",
+        "ID": "Pelanggan berbondong-bondong datang ke toko.",
+        "ES": "Los clientes acuden en masa a la tienda.",
+        "VI": "Khách hàng đổ xô đến cửa hàng.",
+        "FR": "Les clients affluent vers le magasin.",
+        "NE": "पसलमा ग्राहकहरूको घुइँचो लाग्छ।",
+        "BN": "দোকানে ক্রেতাদের ভিড়।",
+        "ZH": "顾客们蜂拥而至。",
+        "KO": "가게에 손님이 모인다.",
+        "TL": "Dumadagsa ang mga customer sa tindahan.",
+        "MY": "ဖောက်သည်များ စတိုးဆိုင်သို့ လာကြသည်။",
+        "HI": "ग्राहक दुकान पर उमड़ पड़ते हैं।",
+        "AR": "الزبائن يتوافدون إلى المتجر.",
+        "FA": "مشتریان به مغازه هجوم می‌آورند."
+      }
+    },
+    {
+      "kanji": "虫が木に集まる。",
+      "furigana": "虫(むし)が木(き)に集(あつ)まる。",
+      "translations": {
+        "EN": "Insects gather on the tree.",
+        "ID": "Serangga berkumpul di pohon.",
+        "ES": "Los insectos se reúnen en el árbol.",
+        "VI": "Côn trùng tụ tập trên cây.",
+        "FR": "Les insectes se rassemblent sur l'arbre.",
+        "NE": "रूखमा किराहरू जम्मा हुन्छन्।",
+        "BN": "গাছে পোকামাকড় জড়ো হয়।",
+        "ZH": "昆虫聚集在树上。",
+        "KO": "벌레가 나무에 모인다.",
+        "TL": "Nagtitipon ang mga insekto sa puno.",
+        "MY": "ပိုးမွှားများသည် သစ်ပင်ပေါ်တွင် စုဝေးကြသည်။",
+        "HI": "पेड़ पर कीड़े इकट्ठे हो जाते हैं।",
+        "AR": "تتجمع الحشرات على الشجرة.",
+        "FA": "حشرات روی درخت جمع می‌شوند."
+      }
+    },
+    {
+      "kanji": "学校で生徒が集まる。",
+      "furigana": "学校(がっこう)で生徒(せいと)が集(あつ)まる。",
+      "translations": {
+        "EN": "Students gather at school.",
+        "ID": "Siswa berkumpul di sekolah.",
+        "ES": "Los estudiantes se reúnen en la escuela.",
+        "VI": "Học sinh tập trung tại trường.",
+        "FR": "Les étudiants se rassemblent à l'école.",
+        "NE": "विद्यार्थीहरू स्कूलमा भेला हुन्छन्।",
+        "BN": "স্কুলে শিক্ষার্থীরা জড়ো হয়।",
+        "ZH": "学生们聚集在学校。",
+        "KO": "학교에서 학생들이 모인다.",
+        "TL": "Nagtitipon ang mga estudyante sa paaralan.",
+        "MY": "ကျောင်းသားတွေ ကျောင်းမှာ စုဝေးကြတယ်။",
+        "HI": "छात्र स्कूल में इकट्ठा होते हैं।",
+        "AR": "يتجمع الطلاب في المدرسة.",
+        "FA": "دانش‌آموزان در مدرسه جمع می‌شوند."
+      }
+    },
+    {
+      "kanji": "黒山のように人が集まる。",
+      "furigana": "黒山(くろやま)のように人(ひと)が集(あつ)まる。",
+      "translations": {
+        "EN": "People gather like a black swarm.",
+        "ID": "Orang-orang berkumpul seperti kawanan hitam.",
+        "ES": "La gente se reúne como un enjambre negro.",
+        "VI": "Mọi người tụ tập lại như một đàn đen.",
+        "FR": "Les gens se rassemblent comme un essaim noir.",
+        "NE": "मानिसहरू कालो झुण्ड जस्तै भेला हुन्छन्।",
+        "BN": "মানুষ কালো ঝাঁকের মতো জড়ো হয়।",
+        "ZH": "人们像黑色的蜂群一样聚集。",
+        "KO": "쿠로야마처럼 사람이 모인다.",
+        "TL": "Nagtitipon ang mga tao tulad ng isang itim na kuyog.",
+        "MY": "လူတို့သည် အနက်ရောင် ဝိုင်းအုံကဲ့သို့ စုဝေးကြသည်။",
+        "HI": "लोग काले झुंड की तरह इकट्ठा होते हैं।",
+        "AR": "يتجمع الناس مثل سرب أسود.",
+        "FA": "مردم مثل یک گله سیاه جمع می‌شوند."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "to gather (people, animals, crowd up)": {
+      "ID": "mengumpulkan (orang, hewan, berkerumun)",
+      "ES": "reunir (gente, animales, multitud)",
+      "VI": "tụ tập (người, động vật, đám đông)",
+      "FR": "rassembler (des gens, des animaux, se rassembler)",
+      "NE": "जम्मा हुनु (मानिसहरू, जनावरहरू, भीड जम्मा हुनु)",
+      "BN": "জড়ো করা (মানুষ, প্রাণী, ভিড়)",
+      "ZH": "聚集（人、动物、人群）",
+      "KO": "(사람, 동물, 군중을) 모으다",
+      "TL": "upang magtipon (mga tao, hayop, siksikan)",
+      "MY": "(လူ၊ တိရိစ္ဆာန်၊ စုဝေးရန်)",
+      "HI": "इकट्ठा करना (लोगों, जानवरों, भीड़ को)",
+      "AR": "التجمع (الناس، الحيوانات، الازدحام)",
+      "FA": "جمع کردن (انسان‌ها، حیوانات، ازدحام)",
+      "EN": [
+        "to assemble (at a place)"
+      ]
+    },
+    "to collect/accumulate (objects, things, abstract items)": {
+      "ID": "untuk mengumpulkan/mengakumulasikan (objek, benda, item abstrak)",
+      "ES": "coleccionar/acumular (objetos, cosas, elementos abstractos)",
+      "VI": "thu thập/tích lũy (đồ vật, vật dụng, vật trừu tượng)",
+      "FR": "collectionner/accumuler (des objets, des choses, des éléments abstraits)",
+      "NE": "(वस्तुहरू, चीजहरू, अमूर्त वस्तुहरू) सङ्कलन/सञ्चय गर्न",
+      "BN": "(বস্তু, জিনিস, বিমূর্ত জিনিস) সংগ্রহ/সঞ্চয় করা",
+      "ZH": "收集/积累（物体、事物、抽象物品）",
+      "KO": "(사물, 사물, 추상적인 항목)을 수집/축적하다",
+      "TL": "upang mangolekta/mag-ipon (mga bagay, bagay, abstract na item)",
+      "MY": "စုဆောင်း/စုဆောင်းရန် (အရာဝတ္ထုများ၊ အရာများ၊ စိတ္တဇအရာများ)",
+      "HI": "(वस्तुएं, चीज़ें, अमूर्त वस्तुएं) इकट्ठा करना/संचित करना",
+      "AR": "جمع/تجميع (الأشياء، الأشياء، العناصر المجردة)",
+      "FA": "جمع کردن/انباشت کردن (اشیاء، چیزها، اقلام انتزاعی)",
+      "EN": []
+    }
+  },
+  "jisho_data": {
+    "slug": "集まる",
+    "is_common": true,
+    "tags": [
+      "wanikani12"
+    ],
+    "jlpt": [
+      "jlpt-n4",
+      "jlpt-n1"
+    ],
+    "japanese": [
+      {
+        "word": "集まる",
+        "reading": "あつまる"
+      },
+      {
+        "word": "集る",
+        "reading": "あつまる"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to gather",
+          "to collect",
+          "to assemble"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'ru' ending",
+          "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "集"
+  ],
+  "kanji_data": {
+    "集": {
+      "freq_mainichi_shinbun": 210,
+      "grade": 3,
+      "heisig_en": "gather",
+      "jlpt": 4,
+      "kanji": "集",
+      "kun_readings": [
+        "あつ.まる",
+        "あつ.める",
+        "つど.う"
+      ],
+      "meanings": [
+        "congregate",
+        "flock",
+        "gather",
+        "meet",
+        "swarm"
+      ],
+      "name_readings": [
+        "あつまり",
+        "ず"
+      ],
+      "notes": [],
+      "on_readings": [
+        "シュウ"
+      ],
+      "stroke_count": 12,
+      "unicode": "96C6"
+    }
+  }
 }

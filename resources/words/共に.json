@@ -1,303 +1,322 @@
 {
-    "version": "0.2.0",
-    "word": "共に",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/gWLQBGAHUdU",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "共に",
-        "reading": "ともに",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is ともに which you will often hear in situations involving talking about activities done with others, or events happening simultaneously.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"ともに\" means \"together\" or \"along with.\" It's used when you want to express doing something alongside someone or something else or when two actions are happening concurrently.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "together",
-                "jointly"
-            ],
-            [
-                "at the same time",
-                "with",
-                "as ...",
-                "including",
-                "along with"
-            ],
-            [
-                "both"
-            ]
-        ],
-        "meaning_translations": {
-            "together": {
-                "EN": "Together",
-                "ID": "Bersama",
-                "ES": "Juntos",
-                "VI": "Cùng nhau",
-                "FR": "Ensemble",
-                "NE": "संगै",
-                "BN": "একসাথে",
-                "ZH": "一起",
-                "KO": "함께",
-                "TL": "Magkasama",
-                "MY": "အတူတကွ",
-                "HI": "साथ में",
-                "AR": "معًا",
-                "FA": "با هم"
-            },
-            "at the same time": {
-                "EN": "Together",
-                "ID": "Bersama-sama",
-                "ES": "Juntos",
-                "VI": "Cùng nhau",
-                "FR": "Ensemble",
-                "NE": "संगै",
-                "BN": "একসঙ্গে",
-                "ZH": "一起",
-                "KO": "함께",
-                "TL": "Magkasama",
-                "MY": "အတူတူ",
-                "HI": "साथ में",
-                "AR": "معًا",
-                "FA": "با هم"
-            },
-            "both": {
-                "EN": "共に : both",
-                "ID": "kedua",
-                "ES": "ambos",
-                "VI": "cả hai",
-                "FR": "les deux",
-                "NE": "दुवै",
-                "BN": "উভয়ে",
-                "ZH": "两者/一起",
-                "KO": "둘 다",
-                "TL": "pareho",
-                "MY": "နှစ်ခုလုံး",
-                "HI": "दोनों",
-                "AR": "كلاهما",
-                "FA": "هر دو"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "友達と共に過ごす。",
-                "furigana": "友達(ともだち)と共(とも)に過(す)ごす。",
-                "translations": {
-                    "EN": "Spend time with a friend.",
-                    "ID": "Menghabiskan waktu bersama teman.",
-                    "ES": "Pasar tiempo con un amigo.",
-                    "VI": "Dành thời gian với bạn.",
-                    "FR": "Passer du temps avec un ami.",
-                    "NE": "साथीको साथ समय बिताउनुहोस्।",
-                    "BN": "বন্ধুর সাথে সময় কাটাও।",
-                    "ZH": "与朋友共度时光。",
-                    "KO": "친구와 함께 시간을 보낸다.",
-                    "TL": "Magpalipas ng oras kasama ang kaibigan.",
-                    "MY": "သူငယ်ချင်းနဲ့အတူအချိန်ဖြုန်းပါ။",
-                    "HI": "मित्र के साथ समय बिताना।",
-                    "AR": "قضاء الوقت مع صديق.",
-                    "FA": "با دوست وقت بگذرانید."
-                }
-            },
-            {
-                "kanji": "私たちは共に働きます。",
-                "furigana": "私(わたし)たちは共(とも)に働(はたら)きます。",
-                "translations": {
-                    "EN": "We work together.",
-                    "ID": "Kami bekerja bersama.",
-                    "ES": "Trabajamos juntos.",
-                    "VI": "Chúng tôi làm việc cùng nhau.",
-                    "FR": "Nous travaillons ensemble.",
-                    "NE": "हामी सँगै काम गर्छौं।",
-                    "BN": "আমরা একসাথে কাজ করি।",
-                    "ZH": "我们一起工作。",
-                    "KO": "우리는 함께 일합니다.",
-                    "TL": "Kami ay nagtatrabaho nang magkasama.",
-                    "MY": "ကျွန်တော်တို့အတူတကွလုပ်ဆောင်သည်။",
-                    "HI": "हम साथ में काम करते हैं।",
-                    "AR": "نحن نعمل معًا.",
-                    "FA": "ما با هم کار می‌کنیم."
-                }
-            },
-            {
-                "kanji": "犬と共に歩く。",
-                "furigana": "犬(いぬ)と共(とも)に歩(ある)く。",
-                "translations": {
-                    "EN": "Walk together with the dog.",
-                    "ID": "Berjalan bersama anjing.",
-                    "ES": "Caminar junto al perro.",
-                    "VI": "Đi bộ cùng với con chó.",
-                    "FR": "Marcher avec le chien.",
-                    "NE": "कुकुरसँगै हिड्नुहोस्।",
-                    "BN": "কুকুরের সাথে হাঁটা।",
-                    "ZH": "和狗一起走。",
-                    "KO": "개와 함께 걷다.",
-                    "TL": "Maglakad kasama ang aso.",
-                    "MY": "ခွေးနဲ့အတူလမ်းလျှောက်ပါ။",
-                    "HI": "कुत्ते के साथ चलें।",
-                    "AR": "المشي مع الكلب.",
-                    "FA": "همراه با سگ قدم بزنید."
-                }
-            },
-            {
-                "kanji": "彼と共に話す。",
-                "furigana": "彼(かれ)と共(とも)に話(はな)す。",
-                "translations": {
-                    "EN": "Talk together with him.",
-                    "ID": "Bicara bersamanya.",
-                    "ES": "Hablar junto con él.",
-                    "VI": "Nói chuyện cùng nhau với anh ấy.",
-                    "FR": "Parlez ensemble avec lui.",
-                    "NE": "उनीसँगै कुरा गर्नुहोस्।",
-                    "BN": "তাঁর সাথে কথা বলুন।",
-                    "ZH": "和他一起聊天。",
-                    "KO": "그와 함께 이야기하다.",
-                    "TL": "Kausapin siya nang magkasama.",
-                    "MY": "သူနှင့်အတူ စကားပြောစို့။",
-                    "HI": "उसके साथ बात करो।",
-                    "AR": "تحدث معه.",
-                    "FA": "با او صحبت کنید."
-                }
-            },
-            {
-                "kanji": "彼と共に進む。",
-                "furigana": "彼(かれ)と共(とも)に進(すす)む。",
-                "translations": {
-                    "EN": "Move forward together with him.",
-                    "ID": "Majulah bersama dengannya.",
-                    "ES": "Avanzar juntos con él.",
-                    "VI": "Tiến lên cùng anh ấy.",
-                    "FR": "Avançons ensemble avec lui.",
-                    "NE": "उसँगै अगाडि बढ्नुहोस्।",
-                    "BN": "তার সাথে এগিয়ে যান।",
-                    "ZH": "和他一起前进。",
-                    "KO": "그와 함께 나아갑니다.",
-                    "TL": "Sumulong kasama niya.",
-                    "MY": "သူနဲ႔အတူတူ ေရွ႕ဆက္လွမ္းပါ။",
-                    "HI": "उसके साथ आगे बढ़ो।",
-                    "AR": "تقدّم إلى الأمام معَه.",
-                    "FA": "با او به جلو بروید."
-                }
-            }
-        ],
-        "synonyms": [
-            "一緒 : いっしょ :  together"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"ともに\" is \"いっしょ.\" While both mean \"together,\" \"いっしょ\" is often used more conversationally, whereas \"ともに\" can have a slightly more formal tone or context.",
-        "antonyms": [
-            "別々 : べつべつ : separate"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"ともに\" is \"べつべつ.\" While \"ともに\" means \"together,\" \"べつべつ\" means \"separately.\" They are opposite in usage when describing how actions are performed or how people are dealt with.",
-        "kanji_details": [
-            {
-                "kanji": "共",
-                "common_words": [
-                    "共同: cooperation",
-                    "共感: sympathy"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "共に",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "共に",
-                "reading": "ともに"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "together",
-                    "jointly"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "at the same time",
-                    "with",
-                    "as ...",
-                    "including",
-                    "along with"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "both"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "共"
+  "version": "0.3.0",
+  "word": "共に",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/gWLQBGAHUdU",
+  "in_db": true,
+  "kanji": "共に",
+  "reading": "ともに",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is ともに which you will often hear in situations involving talking about activities done with others, or events happening simultaneously.",
+  "meanings": [
+    [
+      "together",
+      "jointly"
     ],
-    "kanji_data": {
-        "共": {
-            "meanings": [
-                "alike",
-                "all",
-                "and",
-                "both",
-                "neither",
-                "together",
-                "with"
-            ],
-            "on_readings": [
-                "キョウ"
-            ],
-            "kun_readings": [
-                "-ども",
-                "とも",
-                "とも.に"
-            ],
-            "stroke_count": 6,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 174,
-            "unicode": "5171",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "ともに過ごす",
-        "ともに働く",
-        "ともに歩く",
-        "ともに話す",
-        "ともに進む"
+    [
+      "at the same time",
+      "with",
+      "as ...",
+      "including",
+      "along with"
+    ],
+    [
+      "both"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"ともに\" means \"together\" or \"along with.\" It's used when you want to express doing something alongside someone or something else or when two actions are happening concurrently.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "共",
+      "common_words": [
+        "共同: cooperation",
+        "共感: sympathy"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "一緒 : いっしょ :  together"
+  ],
+  "synonym_explanation": "The most common synonym of the word \"ともに\" is \"いっしょ.\" While both mean \"together,\" \"いっしょ\" is often used more conversationally, whereas \"ともに\" can have a slightly more formal tone or context.",
+  "antonyms": [
+    "別々 : べつべつ : separate"
+  ],
+  "antonym_explanation": "The most common antonym of the word \"ともに\" is \"べつべつ.\" While \"ともに\" means \"together,\" \"べつべつ\" means \"separately.\" They are opposite in usage when describing how actions are performed or how people are dealt with.",
+  "collocations": [
+    {
+      "kanji": "ともに過ごす",
+      "furigana": "ともに過ごす",
+      "translations": {}
+    },
+    {
+      "kanji": "ともに働く",
+      "furigana": "ともに働く",
+      "translations": {}
+    },
+    {
+      "kanji": "ともに歩く",
+      "furigana": "ともに歩く",
+      "translations": {}
+    },
+    {
+      "kanji": "ともに話す",
+      "furigana": "ともに話す",
+      "translations": {}
+    },
+    {
+      "kanji": "ともに進む",
+      "furigana": "ともに進む",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "友達と共に過ごす。",
+      "furigana": "友達(ともだち)と共(とも)に過(す)ごす。",
+      "translations": {
+        "EN": "Spend time with a friend.",
+        "ID": "Menghabiskan waktu bersama teman.",
+        "ES": "Pasar tiempo con un amigo.",
+        "VI": "Dành thời gian với bạn.",
+        "FR": "Passer du temps avec un ami.",
+        "NE": "साथीको साथ समय बिताउनुहोस्।",
+        "BN": "বন্ধুর সাথে সময় কাটাও।",
+        "ZH": "与朋友共度时光。",
+        "KO": "친구와 함께 시간을 보낸다.",
+        "TL": "Magpalipas ng oras kasama ang kaibigan.",
+        "MY": "သူငယ်ချင်းနဲ့အတူအချိန်ဖြုန်းပါ။",
+        "HI": "मित्र के साथ समय बिताना।",
+        "AR": "قضاء الوقت مع صديق.",
+        "FA": "با دوست وقت بگذرانید."
+      }
+    },
+    {
+      "kanji": "私たちは共に働きます。",
+      "furigana": "私(わたし)たちは共(とも)に働(はたら)きます。",
+      "translations": {
+        "EN": "We work together.",
+        "ID": "Kami bekerja bersama.",
+        "ES": "Trabajamos juntos.",
+        "VI": "Chúng tôi làm việc cùng nhau.",
+        "FR": "Nous travaillons ensemble.",
+        "NE": "हामी सँगै काम गर्छौं।",
+        "BN": "আমরা একসাথে কাজ করি।",
+        "ZH": "我们一起工作。",
+        "KO": "우리는 함께 일합니다.",
+        "TL": "Kami ay nagtatrabaho nang magkasama.",
+        "MY": "ကျွန်တော်တို့အတူတကွလုပ်ဆောင်သည်။",
+        "HI": "हम साथ में काम करते हैं।",
+        "AR": "نحن نعمل معًا.",
+        "FA": "ما با هم کار می‌کنیم."
+      }
+    },
+    {
+      "kanji": "犬と共に歩く。",
+      "furigana": "犬(いぬ)と共(とも)に歩(ある)く。",
+      "translations": {
+        "EN": "Walk together with the dog.",
+        "ID": "Berjalan bersama anjing.",
+        "ES": "Caminar junto al perro.",
+        "VI": "Đi bộ cùng với con chó.",
+        "FR": "Marcher avec le chien.",
+        "NE": "कुकुरसँगै हिड्नुहोस्।",
+        "BN": "কুকুরের সাথে হাঁটা।",
+        "ZH": "和狗一起走。",
+        "KO": "개와 함께 걷다.",
+        "TL": "Maglakad kasama ang aso.",
+        "MY": "ခွေးနဲ့အတူလမ်းလျှောက်ပါ။",
+        "HI": "कुत्ते के साथ चलें।",
+        "AR": "المشي مع الكلب.",
+        "FA": "همراه با سگ قدم بزنید."
+      }
+    },
+    {
+      "kanji": "彼と共に話す。",
+      "furigana": "彼(かれ)と共(とも)に話(はな)す。",
+      "translations": {
+        "EN": "Talk together with him.",
+        "ID": "Bicara bersamanya.",
+        "ES": "Hablar junto con él.",
+        "VI": "Nói chuyện cùng nhau với anh ấy.",
+        "FR": "Parlez ensemble avec lui.",
+        "NE": "उनीसँगै कुरा गर्नुहोस्।",
+        "BN": "তাঁর সাথে কথা বলুন।",
+        "ZH": "和他一起聊天。",
+        "KO": "그와 함께 이야기하다.",
+        "TL": "Kausapin siya nang magkasama.",
+        "MY": "သူနှင့်အတူ စကားပြောစို့။",
+        "HI": "उसके साथ बात करो।",
+        "AR": "تحدث معه.",
+        "FA": "با او صحبت کنید."
+      }
+    },
+    {
+      "kanji": "彼と共に進む。",
+      "furigana": "彼(かれ)と共(とも)に進(すす)む。",
+      "translations": {
+        "EN": "Move forward together with him.",
+        "ID": "Majulah bersama dengannya.",
+        "ES": "Avanzar juntos con él.",
+        "VI": "Tiến lên cùng anh ấy.",
+        "FR": "Avançons ensemble avec lui.",
+        "NE": "उसँगै अगाडि बढ्नुहोस्।",
+        "BN": "তার সাথে এগিয়ে যান।",
+        "ZH": "和他一起前进。",
+        "KO": "그와 함께 나아갑니다.",
+        "TL": "Sumulong kasama niya.",
+        "MY": "သူနဲ႔အတူတူ ေရွ႕ဆက္လွမ္းပါ။",
+        "HI": "उसके साथ आगे बढ़ो।",
+        "AR": "تقدّم إلى الأمام معَه.",
+        "FA": "با او به جلو بروید."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "together": {
+      "EN": "Together",
+      "ID": "Bersama",
+      "ES": "Juntos",
+      "VI": "Cùng nhau",
+      "FR": "Ensemble",
+      "NE": "संगै",
+      "BN": "একসাথে",
+      "ZH": "一起",
+      "KO": "함께",
+      "TL": "Magkasama",
+      "MY": "အတူတကွ",
+      "HI": "साथ में",
+      "AR": "معًا",
+      "FA": "با هم"
+    },
+    "at the same time": {
+      "EN": "Together",
+      "ID": "Bersama-sama",
+      "ES": "Juntos",
+      "VI": "Cùng nhau",
+      "FR": "Ensemble",
+      "NE": "संगै",
+      "BN": "একসঙ্গে",
+      "ZH": "一起",
+      "KO": "함께",
+      "TL": "Magkasama",
+      "MY": "အတူတူ",
+      "HI": "साथ में",
+      "AR": "معًا",
+      "FA": "با هم"
+    },
+    "both": {
+      "EN": "共に : both",
+      "ID": "kedua",
+      "ES": "ambos",
+      "VI": "cả hai",
+      "FR": "les deux",
+      "NE": "दुवै",
+      "BN": "উভয়ে",
+      "ZH": "两者/一起",
+      "KO": "둘 다",
+      "TL": "pareho",
+      "MY": "နှစ်ခုလုံး",
+      "HI": "दोनों",
+      "AR": "كلاهما",
+      "FA": "هر دو"
+    }
+  },
+  "jisho_data": {
+    "slug": "共に",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "共に",
+        "reading": "ともに"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "together",
+          "jointly"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "at the same time",
+          "with",
+          "as ...",
+          "including",
+          "along with"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "both"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "共"
+  ],
+  "kanji_data": {
+    "共": {
+      "meanings": [
+        "alike",
+        "all",
+        "and",
+        "both",
+        "neither",
+        "together",
+        "with"
+      ],
+      "on_readings": [
+        "キョウ"
+      ],
+      "kun_readings": [
+        "-ども",
+        "とも",
+        "とも.に"
+      ],
+      "stroke_count": 6,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 174,
+      "unicode": "5171",
+      "grade": 4
+    }
+  }
 }

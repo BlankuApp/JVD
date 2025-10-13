@@ -1,301 +1,328 @@
 {
-    "version": "0.2.0",
-    "word": "体制",
-    "jlpt_level": 2,
-    "youtube_link": "https://youtu.be/gqwFkmMwtp4",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "体制",
-        "reading": "たいせい",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this video is たいせい which you will often hear in news, politics, and organizational contexts. Imagine how much more natural your Japanese will sound when you can say things like The new government introduced reforms to the political system., The company is changing its management system to improve efficiency., and Protests challenged the authoritarian regime. in Japanese. Let's get started!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word たいせい means the organized system or structure of an organization, government, or institution, referring to how it is arranged, maintained, or reformed.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "order",
-                "system",
-                "structure",
-                "set-up",
-                "organization",
-                "organisation"
-            ]
-        ],
-        "meaning_translations": {
-            "order": {
-                "EN": "system : order",
-                "ID": "sistem : tatanan",
-                "ES": "sistema : orden",
-                "VI": "thể chế : trật tự",
-                "FR": "système : ordre",
-                "NE": "व्यवस्था : क्रम",
-                "BN": "ব্যবস্থা : শৃঙ্খলা",
-                "ZH": "体制 : 秩序",
-                "KO": "체제 : 질서",
-                "TL": "sistema : kaayusan",
-                "MY": "စနစ် : အစီအစဉ်",
-                "HI": "व्यवस्था : क्रम",
-                "AR": "نظام : ترتيب",
-                "FA": "نظام : نظم"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "会社は新しい体制を整えます。",
-                "furigana": "会社(かいしゃ)は新(あたら)しい体制(たいせい)を整(ととの)えます。",
-                "translations": {
-                    "EN": "The company will set up a new system.",
-                    "ID": "Perusahaan akan menyiapkan sistem baru.",
-                    "ES": "La empresa establecerá un nuevo sistema.",
-                    "VI": "Công ty sẽ thiết lập một hệ thống mới.",
-                    "FR": "L'entreprise mettra en place un nouveau système.",
-                    "NE": "कम्पनीले नयाँ प्रणाली तयार पार्छ।",
-                    "BN": "কোম্পানি একটি নতুন ব্যবস্থা গড়ে তুলবে।",
-                    "ZH": "公司将建立新的体制。",
-                    "KO": "회사는 새로운 체제를 정비합니다.",
-                    "TL": "Ihahanda ng kumpanya ang bagong sistema.",
-                    "MY": "ကုမ္ပဏီသည် စနစ်အသစ်တစ်ခုကို ပြင်ဆင်မည်။",
-                    "HI": "कंपनी नई व्यवस्था तैयार करेगी।",
-                    "AR": "ستقوم الشركة بإعداد نظام جديد.",
-                    "FA": "شرکت یک ساختار جدید تشکیل می‌دهد."
-                }
-            },
-            {
-                "kanji": "会社の体制を維持する。",
-                "furigana": "会社(かいしゃ)の体制(たいせい)を維持(いじ)する。",
-                "translations": {
-                    "EN": "Maintain the company's structure.",
-                    "ID": "Mempertahankan struktur perusahaan.",
-                    "ES": "Mantener la estructura de la empresa.",
-                    "VI": "Duy trì cơ cấu của công ty.",
-                    "FR": "Maintenir la structure de l'entreprise.",
-                    "NE": "कम्पनीको संरचना कायम राख्नु।",
-                    "BN": "কোম্পানির কাঠামো বজায় রাখা।",
-                    "ZH": "维持公司的体制。",
-                    "KO": "회사의 체제를 유지하다.",
-                    "TL": "Panatilihin ang istruktura ng kumpanya.",
-                    "MY": "ကုမ္ပဏီ၏ ဖွဲ့စည်းမှုကို ထိန်းသိမ်းသည်။",
-                    "HI": "कंपनी की संरचना बनाए रखना।",
-                    "AR": "الحفاظ على هيكل الشركة.",
-                    "FA": "حفظ ساختار شرکت."
-                }
-            },
-            {
-                "kanji": "会社は体制を改革します。",
-                "furigana": "会社(かいしゃ)は体制(たいせい)を改革(かいかく)します。",
-                "translations": {
-                    "EN": "The company will reform the system.",
-                    "ID": "Perusahaan akan mereformasi sistem.",
-                    "ES": "La empresa reformará el sistema.",
-                    "VI": "Công ty sẽ cải cách hệ thống.",
-                    "FR": "L'entreprise va réformer le système.",
-                    "NE": "कम्पनीले प्रणाली सुधार्छ।",
-                    "BN": "কোম্পানি ব্যবস্থা সংস্কার করবে।",
-                    "ZH": "公司将改革体制。",
-                    "KO": "회사는 체제를 개혁합니다.",
-                    "TL": "Ang kumpanya ay magrereporma ng sistema.",
-                    "MY": "ကုမ္ပဏီသည် စနစ်ကို ပြုပြင်ပြောင်းလဲမည်။",
-                    "HI": "कंपनी व्यवस्था में सुधार करेगी।",
-                    "AR": "ستقوم الشركة بإصلاح النظام.",
-                    "FA": "شرکت ساختار را اصلاح می‌کند."
-                }
-            },
-            {
-                "kanji": "古い体制が崩れる。",
-                "furigana": "古(ふる)い体制(たいせい)が崩(くず)れる。",
-                "translations": {
-                    "EN": "The old system collapses.",
-                    "ID": "Sistem lama runtuh.",
-                    "ES": "El sistema antiguo se derrumba.",
-                    "VI": "Chế độ cũ sụp đổ.",
-                    "FR": "L'ancien régime s'effondre.",
-                    "NE": "पुरानो व्यवस्था भत्किन्छ।",
-                    "BN": "পুরনো ব্যবস্থা ভেঙে পড়ে।",
-                    "ZH": "旧体制正在崩溃。",
-                    "KO": "오래된 체제가 무너진다.",
-                    "TL": "Bumagsak ang lumang sistema.",
-                    "MY": "ဟောင်းစနစ် ပျက်ကျသွားသည်။",
-                    "HI": "पुरानी व्यवस्था ढह जाती है।",
-                    "AR": "النظام القديم ينهار.",
-                    "FA": "نظام قدیمی فرو می‌پاشد."
-                }
-            },
-            {
-                "kanji": "会社の体制が整っています。",
-                "furigana": "会社(かいしゃ)の体制(たいせい)が整(ととの)っています。",
-                "translations": {
-                    "EN": "The company's system is in place.",
-                    "ID": "Sistem perusahaan sudah siap.",
-                    "ES": "El sistema de la empresa está listo.",
-                    "VI": "Hệ thống công ty đã được hoàn thiện.",
-                    "FR": "Le système de l'entreprise est en place.",
-                    "NE": "कम्पनीको व्यवस्था तयार छ।",
-                    "BN": "কোম্পানির ব্যবস্থা প্রস্তুত।",
-                    "ZH": "公司的体制已经完善。",
-                    "KO": "회사의 체제가 정비되어 있습니다.",
-                    "TL": "Nakaayos na ang sistema ng kumpanya.",
-                    "MY": "ကုမ္ပဏီ၏ စနစ် ပြီးစီးပြီး ရှိသည်။",
-                    "HI": "कंपनी की व्यवस्था तैयार है।",
-                    "AR": "نظام الشركة جاهز.",
-                    "FA": "ساختار شرکت آماده است."
-                }
-            },
-            {
-                "kanji": "新体制が始まりました。",
-                "furigana": "新体制(しんたいせい)が始(はじ)まりました。",
-                "translations": {
-                    "EN": "The new system has begun.",
-                    "ID": "Sistem baru dimulai.",
-                    "ES": "El nuevo sistema ha comenzado.",
-                    "VI": "Hệ thống mới đã bắt đầu.",
-                    "FR": "Le nouveau système a commencé.",
-                    "NE": "नयाँ प्रणाली सुरु भयो।",
-                    "BN": "নতুন ব্যবস্থা শুরু হয়েছে।",
-                    "ZH": "新体制开始了。",
-                    "KO": "새 체제가 시작되었습니다.",
-                    "TL": "Nagsimula na ang bagong sistema.",
-                    "MY": "စနစ်အသစ် စတင်ခဲ့သည်။",
-                    "HI": "नई व्यवस्था शुरू हो गई।",
-                    "AR": "بدأ النظام الجديد.",
-                    "FA": "سامانه جدید آغاز شد."
-                }
-            },
-            {
-                "kanji": "旧体制のままです。",
-                "furigana": "旧体制(きゅうたいせい)のままです。",
-                "translations": {
-                    "EN": "It is still the old system.",
-                    "ID": "Masih dalam sistem lama.",
-                    "ES": "Sigue siendo el sistema antiguo.",
-                    "VI": "Vẫn là chế độ cũ.",
-                    "FR": "C'est toujours l'ancien système.",
-                    "NE": "अझै पनि पुरानो व्यवस्था नै छ।",
-                    "BN": "এটি এখনও পুরানো ব্যবস্থা।",
-                    "ZH": "仍然是旧体制。",
-                    "KO": "여전히 구체제입니다.",
-                    "TL": "Nananatili pa rin ang lumang sistema.",
-                    "MY": "ဟောင်းစနစ်အတိုင်း ရှိနေပါသည်။",
-                    "HI": "यह अभी भी पुरानी व्यवस्था है।",
-                    "AR": "لا يزال النظام القديم قائمًا.",
-                    "FA": "هنوز تحت نظام قدیمی است."
-                }
-            }
-        ],
-        "synonyms": [
-            "制度 : せいど : system",
-            "仕組み : しくみ : structure"
-        ],
-        "synonyms_explanation": "The most common synonyms of the たいせい are せいど and しくみ. せいど emphasizes formal rules, laws, or institutional frameworks, while しくみ focuses on how parts function together or the mechanism; たいせい highlights the overall organized structure or regime.",
-        "antonyms": [
-            "混乱 : こんらん : disorder",
-            "無秩序 : むちつじょ : disorder"
-        ],
-        "antonyms_explanation": "The most common antonyms of the たいせい are こんらん and むちつじょ. こんらん means chaos or confusion and implies a breakdown of order, while むちつじょ means lack of order or organization; both contrast with たいせい, which implies an established, functioning order.",
-        "kanji_details": [
-            {
-                "kanji": "体",
-                "common_words": [
-                    "体温: body temperature",
-                    "体育: physical education"
-                ]
-            },
-            {
-                "kanji": "制",
-                "common_words": [
-                    "制度: system",
-                    "制服: uniform"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "体制",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n2"
-        ],
-        "japanese": [
-            {
-                "word": "体制",
-                "reading": "たいせい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "order",
-                    "system",
-                    "structure",
-                    "set-up",
-                    "organization",
-                    "organisation"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "体",
-        "制"
-    ],
-    "kanji_data": {
-        "体": {
-            "meanings": [
-                "body",
-                "counter for images",
-                "object",
-                "reality",
-                "substance"
-            ],
-            "on_readings": [
-                "タイ",
-                "テイ"
-            ],
-            "kun_readings": [
-                "かたち",
-                "からだ"
-            ],
-            "stroke_count": 7,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 88,
-            "unicode": "4F53",
-            "grade": 2
-        },
-        "制": {
-            "meanings": [
-                "law",
-                "rule",
-                "system"
-            ],
-            "on_readings": [
-                "セイ"
-            ],
-            "kun_readings": [],
-            "stroke_count": 8,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 108,
-            "unicode": "5236",
-            "grade": 5
-        }
-    },
-    "collocations": [
-        "体制を整える",
-        "体制を維持する",
-        "体制を改革する",
-        "体制が崩れる",
-        "体制が整う",
-        "新体制",
-        "旧体制"
+  "version": "0.3.0",
+  "word": "体制",
+  "jlpt_level": 2,
+  "youtube_link": "https://youtu.be/gqwFkmMwtp4",
+  "in_db": true,
+  "kanji": "体制",
+  "reading": "たいせい",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this video is たいせい which you will often hear in news, politics, and organizational contexts. Imagine how much more natural your Japanese will sound when you can say things like The new government introduced reforms to the political system., The company is changing its management system to improve efficiency., and Protests challenged the authoritarian regime. in Japanese. Let's get started!",
+  "meanings": [
+    [
+      "order",
+      "system",
+      "structure",
+      "set-up",
+      "organization",
+      "organisation"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word たいせい means the organized system or structure of an organization, government, or institution, referring to how it is arranged, maintained, or reformed.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "体",
+      "common_words": [
+        "体温: body temperature",
+        "体育: physical education"
+      ]
+    },
+    {
+      "kanji": "制",
+      "common_words": [
+        "制度: system",
+        "制服: uniform"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "制度 : せいど : system",
+    "仕組み : しくみ : structure"
+  ],
+  "synonym_explanation": "The most common synonyms of the たいせい are せいど and しくみ. せいど emphasizes formal rules, laws, or institutional frameworks, while しくみ focuses on how parts function together or the mechanism; たいせい highlights the overall organized structure or regime.",
+  "antonyms": [
+    "混乱 : こんらん : disorder",
+    "無秩序 : むちつじょ : disorder"
+  ],
+  "antonym_explanation": "The most common antonyms of the たいせい are こんらん and むちつじょ. こんらん means chaos or confusion and implies a breakdown of order, while むちつじょ means lack of order or organization; both contrast with たいせい, which implies an established, functioning order.",
+  "collocations": [
+    {
+      "kanji": "体制を整える",
+      "furigana": "体制を整える",
+      "translations": {}
+    },
+    {
+      "kanji": "体制を維持する",
+      "furigana": "体制を維持する",
+      "translations": {}
+    },
+    {
+      "kanji": "体制を改革する",
+      "furigana": "体制を改革する",
+      "translations": {}
+    },
+    {
+      "kanji": "体制が崩れる",
+      "furigana": "体制が崩れる",
+      "translations": {}
+    },
+    {
+      "kanji": "体制が整う",
+      "furigana": "体制が整う",
+      "translations": {}
+    },
+    {
+      "kanji": "新体制",
+      "furigana": "新体制",
+      "translations": {}
+    },
+    {
+      "kanji": "旧体制",
+      "furigana": "旧体制",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "会社は新しい体制を整えます。",
+      "furigana": "会社(かいしゃ)は新(あたら)しい体制(たいせい)を整(ととの)えます。",
+      "translations": {
+        "EN": "The company will set up a new system.",
+        "ID": "Perusahaan akan menyiapkan sistem baru.",
+        "ES": "La empresa establecerá un nuevo sistema.",
+        "VI": "Công ty sẽ thiết lập một hệ thống mới.",
+        "FR": "L'entreprise mettra en place un nouveau système.",
+        "NE": "कम्पनीले नयाँ प्रणाली तयार पार्छ।",
+        "BN": "কোম্পানি একটি নতুন ব্যবস্থা গড়ে তুলবে।",
+        "ZH": "公司将建立新的体制。",
+        "KO": "회사는 새로운 체제를 정비합니다.",
+        "TL": "Ihahanda ng kumpanya ang bagong sistema.",
+        "MY": "ကုမ္ပဏီသည် စနစ်အသစ်တစ်ခုကို ပြင်ဆင်မည်။",
+        "HI": "कंपनी नई व्यवस्था तैयार करेगी।",
+        "AR": "ستقوم الشركة بإعداد نظام جديد.",
+        "FA": "شرکت یک ساختار جدید تشکیل می‌دهد."
+      }
+    },
+    {
+      "kanji": "会社の体制を維持する。",
+      "furigana": "会社(かいしゃ)の体制(たいせい)を維持(いじ)する。",
+      "translations": {
+        "EN": "Maintain the company's structure.",
+        "ID": "Mempertahankan struktur perusahaan.",
+        "ES": "Mantener la estructura de la empresa.",
+        "VI": "Duy trì cơ cấu của công ty.",
+        "FR": "Maintenir la structure de l'entreprise.",
+        "NE": "कम्पनीको संरचना कायम राख्नु।",
+        "BN": "কোম্পানির কাঠামো বজায় রাখা।",
+        "ZH": "维持公司的体制。",
+        "KO": "회사의 체제를 유지하다.",
+        "TL": "Panatilihin ang istruktura ng kumpanya.",
+        "MY": "ကုမ္ပဏီ၏ ဖွဲ့စည်းမှုကို ထိန်းသိမ်းသည်။",
+        "HI": "कंपनी की संरचना बनाए रखना।",
+        "AR": "الحفاظ على هيكل الشركة.",
+        "FA": "حفظ ساختار شرکت."
+      }
+    },
+    {
+      "kanji": "会社は体制を改革します。",
+      "furigana": "会社(かいしゃ)は体制(たいせい)を改革(かいかく)します。",
+      "translations": {
+        "EN": "The company will reform the system.",
+        "ID": "Perusahaan akan mereformasi sistem.",
+        "ES": "La empresa reformará el sistema.",
+        "VI": "Công ty sẽ cải cách hệ thống.",
+        "FR": "L'entreprise va réformer le système.",
+        "NE": "कम्पनीले प्रणाली सुधार्छ।",
+        "BN": "কোম্পানি ব্যবস্থা সংস্কার করবে।",
+        "ZH": "公司将改革体制。",
+        "KO": "회사는 체제를 개혁합니다.",
+        "TL": "Ang kumpanya ay magrereporma ng sistema.",
+        "MY": "ကုမ္ပဏီသည် စနစ်ကို ပြုပြင်ပြောင်းလဲမည်။",
+        "HI": "कंपनी व्यवस्था में सुधार करेगी।",
+        "AR": "ستقوم الشركة بإصلاح النظام.",
+        "FA": "شرکت ساختار را اصلاح می‌کند."
+      }
+    },
+    {
+      "kanji": "古い体制が崩れる。",
+      "furigana": "古(ふる)い体制(たいせい)が崩(くず)れる。",
+      "translations": {
+        "EN": "The old system collapses.",
+        "ID": "Sistem lama runtuh.",
+        "ES": "El sistema antiguo se derrumba.",
+        "VI": "Chế độ cũ sụp đổ.",
+        "FR": "L'ancien régime s'effondre.",
+        "NE": "पुरानो व्यवस्था भत्किन्छ।",
+        "BN": "পুরনো ব্যবস্থা ভেঙে পড়ে।",
+        "ZH": "旧体制正在崩溃。",
+        "KO": "오래된 체제가 무너진다.",
+        "TL": "Bumagsak ang lumang sistema.",
+        "MY": "ဟောင်းစနစ် ပျက်ကျသွားသည်။",
+        "HI": "पुरानी व्यवस्था ढह जाती है।",
+        "AR": "النظام القديم ينهار.",
+        "FA": "نظام قدیمی فرو می‌پاشد."
+      }
+    },
+    {
+      "kanji": "会社の体制が整っています。",
+      "furigana": "会社(かいしゃ)の体制(たいせい)が整(ととの)っています。",
+      "translations": {
+        "EN": "The company's system is in place.",
+        "ID": "Sistem perusahaan sudah siap.",
+        "ES": "El sistema de la empresa está listo.",
+        "VI": "Hệ thống công ty đã được hoàn thiện.",
+        "FR": "Le système de l'entreprise est en place.",
+        "NE": "कम्पनीको व्यवस्था तयार छ।",
+        "BN": "কোম্পানির ব্যবস্থা প্রস্তুত।",
+        "ZH": "公司的体制已经完善。",
+        "KO": "회사의 체제가 정비되어 있습니다.",
+        "TL": "Nakaayos na ang sistema ng kumpanya.",
+        "MY": "ကုမ္ပဏီ၏ စနစ် ပြီးစီးပြီး ရှိသည်။",
+        "HI": "कंपनी की व्यवस्था तैयार है।",
+        "AR": "نظام الشركة جاهز.",
+        "FA": "ساختار شرکت آماده است."
+      }
+    },
+    {
+      "kanji": "新体制が始まりました。",
+      "furigana": "新体制(しんたいせい)が始(はじ)まりました。",
+      "translations": {
+        "EN": "The new system has begun.",
+        "ID": "Sistem baru dimulai.",
+        "ES": "El nuevo sistema ha comenzado.",
+        "VI": "Hệ thống mới đã bắt đầu.",
+        "FR": "Le nouveau système a commencé.",
+        "NE": "नयाँ प्रणाली सुरु भयो।",
+        "BN": "নতুন ব্যবস্থা শুরু হয়েছে।",
+        "ZH": "新体制开始了。",
+        "KO": "새 체제가 시작되었습니다.",
+        "TL": "Nagsimula na ang bagong sistema.",
+        "MY": "စနစ်အသစ် စတင်ခဲ့သည်။",
+        "HI": "नई व्यवस्था शुरू हो गई।",
+        "AR": "بدأ النظام الجديد.",
+        "FA": "سامانه جدید آغاز شد."
+      }
+    },
+    {
+      "kanji": "旧体制のままです。",
+      "furigana": "旧体制(きゅうたいせい)のままです。",
+      "translations": {
+        "EN": "It is still the old system.",
+        "ID": "Masih dalam sistem lama.",
+        "ES": "Sigue siendo el sistema antiguo.",
+        "VI": "Vẫn là chế độ cũ.",
+        "FR": "C'est toujours l'ancien système.",
+        "NE": "अझै पनि पुरानो व्यवस्था नै छ।",
+        "BN": "এটি এখনও পুরানো ব্যবস্থা।",
+        "ZH": "仍然是旧体制。",
+        "KO": "여전히 구체제입니다.",
+        "TL": "Nananatili pa rin ang lumang sistema.",
+        "MY": "ဟောင်းစနစ်အတိုင်း ရှိနေပါသည်။",
+        "HI": "यह अभी भी पुरानी व्यवस्था है।",
+        "AR": "لا يزال النظام القديم قائمًا.",
+        "FA": "هنوز تحت نظام قدیمی است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "order": {
+      "EN": "system : order",
+      "ID": "sistem : tatanan",
+      "ES": "sistema : orden",
+      "VI": "thể chế : trật tự",
+      "FR": "système : ordre",
+      "NE": "व्यवस्था : क्रम",
+      "BN": "ব্যবস্থা : শৃঙ্খলা",
+      "ZH": "体制 : 秩序",
+      "KO": "체제 : 질서",
+      "TL": "sistema : kaayusan",
+      "MY": "စနစ် : အစီအစဉ်",
+      "HI": "व्यवस्था : क्रम",
+      "AR": "نظام : ترتيب",
+      "FA": "نظام : نظم"
+    }
+  },
+  "jisho_data": {
+    "slug": "体制",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n2"
+    ],
+    "japanese": [
+      {
+        "word": "体制",
+        "reading": "たいせい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "order",
+          "system",
+          "structure",
+          "set-up",
+          "organization",
+          "organisation"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "体",
+    "制"
+  ],
+  "kanji_data": {
+    "体": {
+      "meanings": [
+        "body",
+        "counter for images",
+        "object",
+        "reality",
+        "substance"
+      ],
+      "on_readings": [
+        "タイ",
+        "テイ"
+      ],
+      "kun_readings": [
+        "かたち",
+        "からだ"
+      ],
+      "stroke_count": 7,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 88,
+      "unicode": "4F53",
+      "grade": 2
+    },
+    "制": {
+      "meanings": [
+        "law",
+        "rule",
+        "system"
+      ],
+      "on_readings": [
+        "セイ"
+      ],
+      "kun_readings": [],
+      "stroke_count": 8,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 108,
+      "unicode": "5236",
+      "grade": 5
+    }
+  }
 }

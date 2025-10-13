@@ -1,348 +1,427 @@
 {
-    "version": "0.2.0",
-    "word": "歩道",
-    "jlpt_level": 3,
-    "youtube_link": "",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "歩道",
-        "reading": "ほどう",
-        "introduction_japanese": "歩道は、街中や学校や商店街での会話、歩行者の安全や道路の整備について話すときによく出てくる名詞です。",
-        "introduction_english": "The noun ほどう is commonly used when talking about city streets, schools, shopping streets, pedestrian safety, and road maintenance.",
-        "meanings": [
-            [
-                "footpath",
-                "walkway",
-                "sidewalk",
-                "pavement"
-            ]
-        ],
-        "meaning_explanation_japanese": "「歩道」は、歩行者が使うために道路の横などに設けられた道を表す言葉です。車が通る場所と区別して使います。",
-        "meaning_explanation_english": "The word ほどう means 'footpath', 'sidewalk', or 'pavement'. It refers to the part of a street made for people to walk on, separate from vehicle lanes.",
-        "kanji_explanation_english": "The first kanji means walk or step. It appears in words like あるく and いっぽ and in those words it gives the sense of moving by foot or a single step. The second kanji means road or way. It appears in words like どうろ and どうぐ and in those words it gives the idea of a path, road, or method.",
-        "kanji_details": [
-            {
-                "kanji": "歩",
-                "common_words": [
-                    "歩く (あるく): to walk",
-                    "一歩 (いっぽ): one step"
-                ]
-            },
-            {
-                "kanji": "道",
-                "common_words": [
-                    "道路 (どうろ): road",
-                    "道具 (どうぐ): tool"
-                ]
-            }
-        ],
-        "synonyms": [
-            "舗道 : ほどう : paved sidewalk"
-        ],
-        "synonyms_explanation": "The most common synonym of the ほどう is ほどう. This synonym is often used in more formal or technical contexts to emphasize a constructed or paved pedestrian path.",
-        "antonyms": [
-            "車道 : しゃどう : roadway for vehicles"
-        ],
-        "antonyms_explanation": "The most common antonym of the ほどう is しゃどう. The しゃどう is the part of the street used by cars and other vehicles, unlike the ほどう which is for people on foot.",
-        "examples": [
-            {
-                "kanji": "歩道を歩く。",
-                "furigana": "歩道(ほどう)を歩(ある)く。",
-                "translations": {
-                    "EN": "Walking on the sidewalk.",
-                    "ID": "Berjalan di trotoar.",
-                    "ES": "Caminando por la acera.",
-                    "VI": "Đi bộ trên vỉa hè.",
-                    "FR": "Marcher sur le trottoir.",
-                    "NE": "फुटपाथमा हिंड्दै।",
-                    "BN": "ফুটপাতে হাঁটছি।",
-                    "ZH": "在人行道上行走。",
-                    "KO": "보도를 걷다.",
-                    "TL": "Naglalakad sa bangketa.",
-                    "MY": "လမ်းဘေးမှာ လမ်းလျှောက်တယ်။",
-                    "HI": "फुटपाथ पर चलना.",
-                    "AR": "المشي على الرصيف.",
-                    "FA": "قدم زدن در پیاده‌رو."
-                }
-            },
-            {
-                "kanji": "狭い歩道を歩いた。",
-                "furigana": "狭(せま)い歩道(ほどう)を歩(ある)いた。",
-                "translations": {
-                    "EN": "I walked along a narrow sidewalk.",
-                    "ID": "Saya berjalan di sepanjang trotoar yang sempit.",
-                    "ES": "Caminé por una acera estrecha.",
-                    "VI": "Tôi đi dọc theo một vỉa hè hẹp.",
-                    "FR": "Je marchais le long d'un trottoir étroit.",
-                    "NE": "म साँघुरो फुटपाथमा हिँडेँ।",
-                    "BN": "আমি একটা সরু ফুটপাত ধরে হেঁটে গেলাম।",
-                    "ZH": "我沿着一条狭窄的人行道行走。",
-                    "KO": "좁은 보도를 걸었다.",
-                    "TL": "Naglakad ako sa isang makipot na bangketa.",
-                    "MY": "လမ်းကျဉ်းကျဉ်းလေးထဲ လျှောက်သွားတယ်။",
-                    "HI": "मैं एक संकरे फुटपाथ पर चला।",
-                    "AR": "كنت أمشي على طول الرصيف الضيق.",
-                    "FA": "در امتداد یک پیاده‌رو باریک قدم می‌زدم."
-                }
-            },
-            {
-                "kanji": "広い歩道がある。",
-                "furigana": "広(ひろ)い歩道(ほどう)がある。",
-                "translations": {
-                    "EN": "There is a wide sidewalk.",
-                    "ID": "Ada trotoar yang lebar.",
-                    "ES": "Hay una acera ancha.",
-                    "VI": "Có một vỉa hè rộng.",
-                    "FR": "Il y a un large trottoir.",
-                    "NE": "फराकिलो फुटपाथ छ।",
-                    "BN": "প্রশস্ত ফুটপাত আছে।",
-                    "ZH": "有一条宽阔的人行道。",
-                    "KO": "넓은 보도가 있다.",
-                    "TL": "May malawak na bangketa.",
-                    "MY": "ကျယ်ဝန်းသော လူသွားစင်္ကြံရှိပါသည်။",
-                    "HI": "वहाँ एक चौड़ा फुटपाथ है।",
-                    "AR": "هناك رصيف واسع.",
-                    "FA": "پیاده‌رو عریضی دارد."
-                }
-            },
-            {
-                "kanji": "歩道の段差に気をつけて。",
-                "furigana": "歩道(ほどう)の段差(だんさ)に気(き)をつけて。",
-                "translations": {
-                    "EN": "Be careful of the steps on the sidewalk.",
-                    "ID": "Berhati-hatilah dengan anak tangga di trotoar.",
-                    "ES": "Tenga cuidado con los escalones en la acera.",
-                    "VI": "Hãy cẩn thận với các bậc thang trên vỉa hè.",
-                    "FR": "Faites attention aux marches sur le trottoir.",
-                    "NE": "फुटपाथमा पाइलाहरूबाट सावधान रहनुहोस्।",
-                    "BN": "ফুটপাতের ধাপগুলো সাবধানে রাখবেন।",
-                    "ZH": "小心人行道上的台阶。",
-                    "KO": "보도의 단차에 조심해.",
-                    "TL": "Mag-ingat sa mga hakbang sa bangketa.",
-                    "MY": "လမ်းဘေး လှေကားထစ်များကို သတိထားပါ။",
-                    "HI": "फुटपाथ पर सीढ़ियों से सावधान रहें।",
-                    "AR": "كن حذرا من الخطوات الموجودة على الرصيف.",
-                    "FA": "مراقب پله‌های روی پیاده‌رو باشید."
-                }
-            },
-            {
-                "kanji": "学校の歩道は安全だ。",
-                "furigana": "学校(がっこう)の歩道(ほどう)は安全(あんぜん)だ。",
-                "translations": {
-                    "EN": "The school's sidewalks are safe.",
-                    "ID": "Trotoar sekolah aman.",
-                    "ES": "Las aceras de la escuela son seguras.",
-                    "VI": "Vỉa hè của trường an toàn.",
-                    "FR": "Les trottoirs de l'école sont sécuritaires.",
-                    "NE": "विद्यालयको फुटपाथ सुरक्षित छ।",
-                    "BN": "স্কুলের ফুটপাত নিরাপদ।",
-                    "ZH": "学校的人行道是安全的。",
-                    "KO": "학교 보도는 안전하다.",
-                    "TL": "Ligtas ang mga bangketa ng paaralan.",
-                    "MY": "ကျောင်းလမ်းဘေး လုံခြုံတယ်။",
-                    "HI": "स्कूल के फुटपाथ सुरक्षित हैं।",
-                    "AR": "أرصفة المدرسة آمنة.",
-                    "FA": "پیاده‌روهای مدرسه امن هستند."
-                }
-            },
-            {
-                "kanji": "歩道を整備する計画がある。",
-                "furigana": "歩道(ほどう)を整備(せいび)する計画(けいかく)がある。",
-                "translations": {
-                    "EN": "There are plans to improve the footpath.",
-                    "ID": "Ada rencana untuk memperbaiki jalan setapak.",
-                    "ES": "Hay planes para mejorar el sendero.",
-                    "VI": "Có kế hoạch cải thiện lối đi bộ.",
-                    "FR": "Des projets d'amélioration du sentier sont prévus.",
-                    "NE": "फुटपाथ सुधार गर्ने योजनाहरू छन्।",
-                    "BN": "ফুটপাত উন্নত করার পরিকল্পনা রয়েছে।",
-                    "ZH": "有计划改善人行道。",
-                    "KO": "보도를 서비스할 계획이 있다.",
-                    "TL": "May mga planong pagandahin ang footpath.",
-                    "MY": "ခြေလျင်လျှောက်ဖို့ အစီအစဉ်ရှိပါတယ်။",
-                    "HI": "फुटपाथ को बेहतर बनाने की योजना है।",
-                    "AR": "هناك خطط لتحسين الرصيف.",
-                    "FA": "برنامه‌هایی برای بهبود وضعیت پیاده‌روها در نظر گرفته شده است."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "footpath": {
-                "ID": "trotoar",
-                "ES": "sendero",
-                "VI": "lối đi bộ",
-                "FR": "sentier",
-                "NE": "पैदल मार्ग",
-                "BN": "ফুটপাত",
-                "ZH": "人行道",
-                "KO": "보도",
-                "TL": "daanan ng mga tao",
-                "MY": "ခြေကျင်",
-                "HI": "पगडंडी",
-                "AR": "ممر للمشاة",
-                "FA": "مسیر پیاده‌روی",
-                "EN": [
-                    "walkway",
-                    "sidewalk",
-                    "pavement"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "歩道",
-        "is_common": true,
-        "tags": [
-            "wanikani8"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "歩道",
-                "reading": "ほどう"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "footpath",
-                    "walkway",
-                    "sidewalk",
-                    "pavement"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Sidewalk"
-                ],
-                "parts_of_speech": [
-                    "Wikipedia definition"
-                ],
-                "links": [
-                    {
-                        "text": "Read “Sidewalk” on English Wikipedia",
-                        "url": "http://en.wikipedia.org/wiki/Sidewalk?oldid=493909410"
-                    },
-                    {
-                        "text": "Read “歩道” on Japanese Wikipedia",
-                        "url": "http://ja.wikipedia.org/wiki/歩道?oldid=40444722"
-                    }
-                ],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [],
-                "sentences": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": "http://dbpedia.org/resource/Sidewalk"
-        }
-    },
-    "kanji_list": [
-        "歩",
-        "道"
-    ],
-    "kanji_data": {
-        "歩": {
-            "freq_mainichi_shinbun": 554,
-            "grade": 2,
-            "heisig_en": "walk",
-            "jlpt": 4,
-            "kanji": "歩",
-            "kun_readings": [
-                "あゆ.む",
-                "ある.く"
-            ],
-            "meanings": [
-                "counter for steps",
-                "walk"
-            ],
-            "name_readings": [
-                "あ",
-                "ゆき",
-                "ゆみ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "フ",
-                "ブ",
-                "ホ"
-            ],
-            "stroke_count": 8,
-            "unicode": "6B69"
-        },
-        "道": {
-            "freq_mainichi_shinbun": 207,
-            "grade": 2,
-            "heisig_en": "road-way",
-            "jlpt": 4,
-            "kanji": "道",
-            "kun_readings": [
-                "いう",
-                "みち"
-            ],
-            "meanings": [
-                "course",
-                "district",
-                "journey",
-                "moral",
-                "road-way",
-                "street",
-                "teachings"
-            ],
-            "name_readings": [
-                "おさむ",
-                "さ",
-                "じ",
-                "ど",
-                "みつ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "トウ",
-                "ドウ"
-            ],
-            "stroke_count": 12,
-            "unicode": "9053"
-        }
-    },
-    "collocations": [
-        "狭い歩道",
-        "広い歩道",
-        "安全な歩道",
-        "歩きやすい歩道",
-        "車道と分離された歩道",
-        "歩道幅",
-        "歩道設置",
-        "歩道整備",
-        "歩道舗装",
-        "歩道区間",
-        "歩道を歩く",
-        "歩道を整備する",
-        "歩道を拡張する",
-        "歩道を確保する",
-        "歩道を通行する",
-        "都市の歩道",
-        "学校の歩道",
-        "商店街の歩道",
-        "歩道の段差",
-        "歩道の縁石"
+  "version": "0.3.0",
+  "word": "歩道",
+  "jlpt_level": 3,
+  "youtube_link": "",
+  "in_db": true,
+  "kanji": "歩道",
+  "reading": "ほどう",
+  "introduction_japanese": "歩道は、街中や学校や商店街での会話、歩行者の安全や道路の整備について話すときによく出てくる名詞です。",
+  "introduction_english": "The noun ほどう is commonly used when talking about city streets, schools, shopping streets, pedestrian safety, and road maintenance.",
+  "meanings": [
+    [
+      "footpath",
+      "walkway",
+      "sidewalk",
+      "pavement"
     ]
+  ],
+  "meaning_explanation_japanese": "「歩道」は、歩行者が使うために道路の横などに設けられた道を表す言葉です。車が通る場所と区別して使います。",
+  "meaning_explanation_english": "The word ほどう means 'footpath', 'sidewalk', or 'pavement'. It refers to the part of a street made for people to walk on, separate from vehicle lanes.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "歩",
+      "common_words": [
+        "歩く (あるく): to walk",
+        "一歩 (いっぽ): one step"
+      ]
+    },
+    {
+      "kanji": "道",
+      "common_words": [
+        "道路 (どうろ): road",
+        "道具 (どうぐ): tool"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means walk or step. It appears in words like あるく and いっぽ and in those words it gives the sense of moving by foot or a single step. The second kanji means road or way. It appears in words like どうろ and どうぐ and in those words it gives the idea of a path, road, or method.",
+  "synonyms": [
+    "舗道 : ほどう : paved sidewalk"
+  ],
+  "synonym_explanation": "The most common synonym of the ほどう is ほどう. This synonym is often used in more formal or technical contexts to emphasize a constructed or paved pedestrian path.",
+  "antonyms": [
+    "車道 : しゃどう : roadway for vehicles"
+  ],
+  "antonym_explanation": "The most common antonym of the ほどう is しゃどう. The しゃどう is the part of the street used by cars and other vehicles, unlike the ほどう which is for people on foot.",
+  "collocations": [
+    {
+      "kanji": "狭い歩道",
+      "furigana": "狭い歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "広い歩道",
+      "furigana": "広い歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "安全な歩道",
+      "furigana": "安全な歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "歩きやすい歩道",
+      "furigana": "歩きやすい歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "車道と分離された歩道",
+      "furigana": "車道と分離された歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道幅",
+      "furigana": "歩道幅",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道設置",
+      "furigana": "歩道設置",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道整備",
+      "furigana": "歩道整備",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道舗装",
+      "furigana": "歩道舗装",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道区間",
+      "furigana": "歩道区間",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道を歩く",
+      "furigana": "歩道を歩く",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道を整備する",
+      "furigana": "歩道を整備する",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道を拡張する",
+      "furigana": "歩道を拡張する",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道を確保する",
+      "furigana": "歩道を確保する",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道を通行する",
+      "furigana": "歩道を通行する",
+      "translations": {}
+    },
+    {
+      "kanji": "都市の歩道",
+      "furigana": "都市の歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "学校の歩道",
+      "furigana": "学校の歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "商店街の歩道",
+      "furigana": "商店街の歩道",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道の段差",
+      "furigana": "歩道の段差",
+      "translations": {}
+    },
+    {
+      "kanji": "歩道の縁石",
+      "furigana": "歩道の縁石",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "歩道を歩く。",
+      "furigana": "歩道(ほどう)を歩(ある)く。",
+      "translations": {
+        "EN": "Walking on the sidewalk.",
+        "ID": "Berjalan di trotoar.",
+        "ES": "Caminando por la acera.",
+        "VI": "Đi bộ trên vỉa hè.",
+        "FR": "Marcher sur le trottoir.",
+        "NE": "फुटपाथमा हिंड्दै।",
+        "BN": "ফুটপাতে হাঁটছি।",
+        "ZH": "在人行道上行走。",
+        "KO": "보도를 걷다.",
+        "TL": "Naglalakad sa bangketa.",
+        "MY": "လမ်းဘေးမှာ လမ်းလျှောက်တယ်။",
+        "HI": "फुटपाथ पर चलना.",
+        "AR": "المشي على الرصيف.",
+        "FA": "قدم زدن در پیاده‌رو."
+      }
+    },
+    {
+      "kanji": "狭い歩道を歩いた。",
+      "furigana": "狭(せま)い歩道(ほどう)を歩(ある)いた。",
+      "translations": {
+        "EN": "I walked along a narrow sidewalk.",
+        "ID": "Saya berjalan di sepanjang trotoar yang sempit.",
+        "ES": "Caminé por una acera estrecha.",
+        "VI": "Tôi đi dọc theo một vỉa hè hẹp.",
+        "FR": "Je marchais le long d'un trottoir étroit.",
+        "NE": "म साँघुरो फुटपाथमा हिँडेँ।",
+        "BN": "আমি একটা সরু ফুটপাত ধরে হেঁটে গেলাম।",
+        "ZH": "我沿着一条狭窄的人行道行走。",
+        "KO": "좁은 보도를 걸었다.",
+        "TL": "Naglakad ako sa isang makipot na bangketa.",
+        "MY": "လမ်းကျဉ်းကျဉ်းလေးထဲ လျှောက်သွားတယ်။",
+        "HI": "मैं एक संकरे फुटपाथ पर चला।",
+        "AR": "كنت أمشي على طول الرصيف الضيق.",
+        "FA": "در امتداد یک پیاده‌رو باریک قدم می‌زدم."
+      }
+    },
+    {
+      "kanji": "広い歩道がある。",
+      "furigana": "広(ひろ)い歩道(ほどう)がある。",
+      "translations": {
+        "EN": "There is a wide sidewalk.",
+        "ID": "Ada trotoar yang lebar.",
+        "ES": "Hay una acera ancha.",
+        "VI": "Có một vỉa hè rộng.",
+        "FR": "Il y a un large trottoir.",
+        "NE": "फराकिलो फुटपाथ छ।",
+        "BN": "প্রশস্ত ফুটপাত আছে।",
+        "ZH": "有一条宽阔的人行道。",
+        "KO": "넓은 보도가 있다.",
+        "TL": "May malawak na bangketa.",
+        "MY": "ကျယ်ဝန်းသော လူသွားစင်္ကြံရှိပါသည်။",
+        "HI": "वहाँ एक चौड़ा फुटपाथ है।",
+        "AR": "هناك رصيف واسع.",
+        "FA": "پیاده‌رو عریضی دارد."
+      }
+    },
+    {
+      "kanji": "歩道の段差に気をつけて。",
+      "furigana": "歩道(ほどう)の段差(だんさ)に気(き)をつけて。",
+      "translations": {
+        "EN": "Be careful of the steps on the sidewalk.",
+        "ID": "Berhati-hatilah dengan anak tangga di trotoar.",
+        "ES": "Tenga cuidado con los escalones en la acera.",
+        "VI": "Hãy cẩn thận với các bậc thang trên vỉa hè.",
+        "FR": "Faites attention aux marches sur le trottoir.",
+        "NE": "फुटपाथमा पाइलाहरूबाट सावधान रहनुहोस्।",
+        "BN": "ফুটপাতের ধাপগুলো সাবধানে রাখবেন।",
+        "ZH": "小心人行道上的台阶。",
+        "KO": "보도의 단차에 조심해.",
+        "TL": "Mag-ingat sa mga hakbang sa bangketa.",
+        "MY": "လမ်းဘေး လှေကားထစ်များကို သတိထားပါ။",
+        "HI": "फुटपाथ पर सीढ़ियों से सावधान रहें।",
+        "AR": "كن حذرا من الخطوات الموجودة على الرصيف.",
+        "FA": "مراقب پله‌های روی پیاده‌رو باشید."
+      }
+    },
+    {
+      "kanji": "学校の歩道は安全だ。",
+      "furigana": "学校(がっこう)の歩道(ほどう)は安全(あんぜん)だ。",
+      "translations": {
+        "EN": "The school's sidewalks are safe.",
+        "ID": "Trotoar sekolah aman.",
+        "ES": "Las aceras de la escuela son seguras.",
+        "VI": "Vỉa hè của trường an toàn.",
+        "FR": "Les trottoirs de l'école sont sécuritaires.",
+        "NE": "विद्यालयको फुटपाथ सुरक्षित छ।",
+        "BN": "স্কুলের ফুটপাত নিরাপদ।",
+        "ZH": "学校的人行道是安全的。",
+        "KO": "학교 보도는 안전하다.",
+        "TL": "Ligtas ang mga bangketa ng paaralan.",
+        "MY": "ကျောင်းလမ်းဘေး လုံခြုံတယ်။",
+        "HI": "स्कूल के फुटपाथ सुरक्षित हैं।",
+        "AR": "أرصفة المدرسة آمنة.",
+        "FA": "پیاده‌روهای مدرسه امن هستند."
+      }
+    },
+    {
+      "kanji": "歩道を整備する計画がある。",
+      "furigana": "歩道(ほどう)を整備(せいび)する計画(けいかく)がある。",
+      "translations": {
+        "EN": "There are plans to improve the footpath.",
+        "ID": "Ada rencana untuk memperbaiki jalan setapak.",
+        "ES": "Hay planes para mejorar el sendero.",
+        "VI": "Có kế hoạch cải thiện lối đi bộ.",
+        "FR": "Des projets d'amélioration du sentier sont prévus.",
+        "NE": "फुटपाथ सुधार गर्ने योजनाहरू छन्।",
+        "BN": "ফুটপাত উন্নত করার পরিকল্পনা রয়েছে।",
+        "ZH": "有计划改善人行道。",
+        "KO": "보도를 서비스할 계획이 있다.",
+        "TL": "May mga planong pagandahin ang footpath.",
+        "MY": "ခြေလျင်လျှောက်ဖို့ အစီအစဉ်ရှိပါတယ်။",
+        "HI": "फुटपाथ को बेहतर बनाने की योजना है।",
+        "AR": "هناك خطط لتحسين الرصيف.",
+        "FA": "برنامه‌هایی برای بهبود وضعیت پیاده‌روها در نظر گرفته شده است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "footpath": {
+      "ID": "trotoar",
+      "ES": "sendero",
+      "VI": "lối đi bộ",
+      "FR": "sentier",
+      "NE": "पैदल मार्ग",
+      "BN": "ফুটপাত",
+      "ZH": "人行道",
+      "KO": "보도",
+      "TL": "daanan ng mga tao",
+      "MY": "ခြေကျင်",
+      "HI": "पगडंडी",
+      "AR": "ممر للمشاة",
+      "FA": "مسیر پیاده‌روی",
+      "EN": [
+        "walkway",
+        "sidewalk",
+        "pavement"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "歩道",
+    "is_common": true,
+    "tags": [
+      "wanikani8"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "歩道",
+        "reading": "ほどう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "footpath",
+          "walkway",
+          "sidewalk",
+          "pavement"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Sidewalk"
+        ],
+        "parts_of_speech": [
+          "Wikipedia definition"
+        ],
+        "links": [
+          {
+            "text": "Read “Sidewalk” on English Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Sidewalk?oldid=493909410"
+          },
+          {
+            "text": "Read “歩道” on Japanese Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/歩道?oldid=40444722"
+          }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": "http://dbpedia.org/resource/Sidewalk"
+    }
+  },
+  "kanji_list": [
+    "歩",
+    "道"
+  ],
+  "kanji_data": {
+    "歩": {
+      "freq_mainichi_shinbun": 554,
+      "grade": 2,
+      "heisig_en": "walk",
+      "jlpt": 4,
+      "kanji": "歩",
+      "kun_readings": [
+        "あゆ.む",
+        "ある.く"
+      ],
+      "meanings": [
+        "counter for steps",
+        "walk"
+      ],
+      "name_readings": [
+        "あ",
+        "ゆき",
+        "ゆみ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "フ",
+        "ブ",
+        "ホ"
+      ],
+      "stroke_count": 8,
+      "unicode": "6B69"
+    },
+    "道": {
+      "freq_mainichi_shinbun": 207,
+      "grade": 2,
+      "heisig_en": "road-way",
+      "jlpt": 4,
+      "kanji": "道",
+      "kun_readings": [
+        "いう",
+        "みち"
+      ],
+      "meanings": [
+        "course",
+        "district",
+        "journey",
+        "moral",
+        "road-way",
+        "street",
+        "teachings"
+      ],
+      "name_readings": [
+        "おさむ",
+        "さ",
+        "じ",
+        "ど",
+        "みつ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "トウ",
+        "ドウ"
+      ],
+      "stroke_count": 12,
+      "unicode": "9053"
+    }
+  }
 }

@@ -1,0 +1,384 @@
+{
+  "version": "0.2.0",
+  "word": "植える",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/YX2m7lDwiQo",
+  "in_db": true,
+  "ai_explanation": {
+    "kanji": "植える",
+    "reading": "うえる",
+    "introduction_japanese": "「植える」は、庭や畑、公園などで植物を扱う場面や、物や考えを誰かに入れる・定着させる話をするときによく使う動詞です。学校や地域活動、農作業の会話でよく出ます。",
+    "introduction_english": "The verb うえる is commonly used in conversations about planting in gardens, fields, or parks, and also when talking about inserting or instilling things like ideas or objects.",
+    "meanings": [
+      [
+        "to plant (plants, trees, flowers)",
+        "to grow; to raise (plants)"
+      ],
+      [
+        "to insert; to transplant; to implant; to set (type)"
+      ],
+      [
+        "to inoculate (e.g. an infectious agent)",
+        "to instill; to inculcate (ideas, values)"
+      ]
+    ],
+    "meaning_explanation_japanese": "「植える」は、種や木、花などを土に入れて育て始めるときに使う言葉です。また、物をある場所に入れる、考えや価値観を人の心に入れて定着させるときにも使えます。",
+    "meaning_explanation_english": "The word うえる means to put seeds, trees, or flowers into the ground so they grow. It can also mean to place or transplant things into someplace, or to put an idea or value into someone's mind.",
+    "kanji_explanation_english": "The first kanji means plant. It shows the idea of putting living things into the ground to grow. For example, しょくぶつ is a word meaning plants, where this kanji gives the sense of living vegetation, and うえき is a word for ornamental plants or potted trees, where the kanji also carries the meaning of planting and plants.",
+    "kanji_details": [
+      {
+        "kanji": "植",
+        "meanings": [
+          "plant"
+        ],
+        "on_readings": [
+          "ショク"
+        ],
+        "kun_readings": [
+          "う.える",
+          "う.わる"
+        ],
+        "common_words": [
+          "植物 (しょくぶつ): plant; vegetation",
+          "植木 (うえき): ornamental tree; potted plant"
+        ]
+      }
+    ],
+    "synonyms": [
+      "育てる : そだてる : nurture, raise, rear (plants, animals, children)",
+      "植え付ける : うえつける : plant, set (plants in the ground)"
+    ],
+    "synonyms_explanation": "The most common synonyms of the word are そだてる and うえつける. そだてる focuses on caring for and raising something over time (nurture), while うえつける is very close to うえる and emphasizes the act of planting or setting plants in place.",
+    "antonyms": [
+      "抜く : ぬく : pull out, remove, extract (plants, objects)"
+    ],
+    "antonyms_explanation": "The most common antonym of the word is ぬく. ぬく means to pull out or remove (for example pulling a plant out of the ground), which is the opposite action of planting.",
+    "examples": [
+      {
+        "kanji": "木を植える。",
+        "furigana": "木(き)を植(う)える。",
+        "translations": {
+          "EN": "Plant a tree.",
+          "ID": "Tanam pohon.",
+          "ES": "Plantar un árbol.",
+          "VI": "Trồng cây.",
+          "FR": "Planter un arbre.",
+          "NE": "रूख रोप्नुहोस्।",
+          "BN": "একটি গাছ লাগান।",
+          "ZH": "种一棵树。",
+          "KO": "나무를 심는다.",
+          "TL": "Magtanim ng puno.",
+          "MY": "သစ်ပင်စိုက်ပါ။",
+          "HI": "एक पौधा लगाइए।",
+          "AR": "ازرع شجرة.",
+          "FA": "درخت بکارید."
+        }
+      },
+      {
+        "kanji": "庭に花を植える。",
+        "furigana": "庭(にわ)に花(はな)を植(う)える。",
+        "translations": {
+          "EN": "Plant flowers in the garden.",
+          "ID": "Tanam bunga di taman.",
+          "ES": "Planta flores en el jardín.",
+          "VI": "Trồng hoa trong vườn.",
+          "FR": "Plantez des fleurs dans le jardin.",
+          "NE": "बगैंचामा फूलहरू रोप्नुहोस्।",
+          "BN": "বাগানে ফুল লাগাও।",
+          "ZH": "在花园里种花。",
+          "KO": "정원에 꽃을 심는다.",
+          "TL": "Magtanim ng mga bulaklak sa hardin.",
+          "MY": "ပန်းခြံထဲမှာ ပန်းပင်တွေစိုက်တယ်။",
+          "HI": "बगीचे में फूल लगाएँ।",
+          "AR": "زرع الزهور في الحديقة.",
+          "FA": "در باغچه گل بکارید."
+        }
+      },
+      {
+        "kanji": "畑に野菜を植える。",
+        "furigana": "畑(はたけ)に野菜(やさい)を植(う)える。",
+        "translations": {
+          "EN": "Plant vegetables in the field.",
+          "ID": "Tanam sayuran di ladang.",
+          "ES": "Plantar verduras en el campo.",
+          "VI": "Trồng rau trên ruộng.",
+          "FR": "Planter des légumes dans le champ.",
+          "NE": "खेतमा तरकारी रोप्नुहोस्।",
+          "BN": "জমিতে সবজি লাগান।",
+          "ZH": "在田里种植蔬菜。",
+          "KO": "밭에 야채를 심는다.",
+          "TL": "Magtanim ng mga gulay sa bukid.",
+          "MY": "လယ်ထဲမှာ ဟင်းသီးဟင်းရွက်စိုက်တယ်။",
+          "HI": "खेत में सब्जियाँ उगाएँ।",
+          "AR": "زرع الخضروات في الحقل.",
+          "FA": "سبزیجات را در مزرعه بکارید."
+        }
+      },
+      {
+        "kanji": "鉢に苗を植える。",
+        "furigana": "鉢(はち)に苗(なえ)を植(う)える。",
+        "translations": {
+          "EN": "Plant the seedlings in pots.",
+          "ID": "Tanam bibit dalam pot.",
+          "ES": "Plantar las plántulas en macetas.",
+          "VI": "Trồng cây con vào chậu.",
+          "FR": "Plantez les semis dans des pots.",
+          "NE": "गमलामा बिरुवा रोप्नुहोस्।",
+          "BN": "টবে চারা রোপণ করুন।",
+          "ZH": "将幼苗栽入花盆。",
+          "KO": "화분에 모종을 심는다.",
+          "TL": "Itanim ang mga punla sa mga kaldero.",
+          "MY": "ပျိုးပင်များကို အိုးများတွင် စိုက်ပါ။",
+          "HI": "पौधों को गमलों में रोपें।",
+          "AR": "زرع الشتلات في الأواني.",
+          "FA": "نهال‌ها را در گلدان بکارید."
+        }
+      },
+      {
+        "kanji": "先生は子供の心に良い習慣を植える。",
+        "furigana": "先生(せんせい)は子供(こども)の心(こころ)に良(よ)い習慣(しゅうかん)を植(う)える。",
+        "translations": {
+          "EN": "Teachers instill good habits in children's minds.",
+          "ID": "Guru menanamkan kebiasaan baik dalam pikiran anak-anak.",
+          "ES": "Los maestros inculcan buenos hábitos en las mentes de los niños.",
+          "VI": "Giáo viên là người truyền đạt những thói quen tốt vào tâm trí trẻ em.",
+          "FR": "Les enseignants inculquent de bonnes habitudes dans l’esprit des enfants.",
+          "NE": "शिक्षकहरूले बालबालिकाको दिमागमा असल बानीहरू बसाल्छन्।",
+          "BN": "শিক্ষকরা শিশুদের মনে ভালো অভ্যাস গড়ে তোলেন।",
+          "ZH": "老师在孩子们心中灌输良好的习惯。",
+          "KO": "박사는 아이의 마음에 좋은 습관을 심는다.",
+          "TL": "Ang mga guro ay nagtatanim ng magagandang gawi sa isipan ng mga bata.",
+          "MY": "ဆရာမများသည် ကလေးများ၏ စိတ်တွင် အလေ့အထကောင်းများ မွေးမြူကြသည်။",
+          "HI": "शिक्षक बच्चों के मन में अच्छी आदतें डालते हैं।",
+          "AR": "المعلمون يغرسون العادات الجيدة في عقول الأطفال.",
+          "FA": "معلمان عادت‌های خوب را در ذهن کودکان القا می‌کنند."
+        }
+      },
+      {
+        "kanji": "市民が公園に木を植える。",
+        "furigana": "市民(しみん)が公園(こうえん)に木(き)を植(う)える。",
+        "translations": {
+          "EN": "Citizens plant trees in the park.",
+          "ID": "Warga menanam pohon di taman.",
+          "ES": "Los ciudadanos plantan árboles en el parque.",
+          "VI": "Người dân trồng cây trong công viên.",
+          "FR": "Les citoyens plantent des arbres dans le parc.",
+          "NE": "नागरिकहरूले पार्कमा रूख रोप्छन्।",
+          "BN": "নাগরিকরা পার্কে গাছ লাগান।",
+          "ZH": "市民在公园植树。",
+          "KO": "시민이 공원에 나무를 심는다.",
+          "TL": "Nagtatanim ng mga puno ang mga mamamayan sa parke.",
+          "MY": "ပန်းခြံထဲမှာ လူတွေ သစ်ပင်စိုက်တယ်။",
+          "HI": "नागरिक पार्क में पेड़ लगाते हैं।",
+          "AR": "المواطنون يزرعون الأشجار في الحديقة.",
+          "FA": "شهروندان در پارک درخت می‌کارند."
+        }
+      }
+    ],
+    "meaning_translations": {
+      "to plant (plants, trees, flowers)": {
+        "ID": "menanam (tanaman, pohon, bunga)",
+        "ES": "plantar (plantas, árboles, flores)",
+        "VI": "trồng (cây cối, cây cối, hoa)",
+        "FR": "planter (plantes, arbres, fleurs)",
+        "NE": "रोप्नु (बिरुवा, रूख, फूल)",
+        "BN": "(গাছপালা, গাছ, ফুল) লাগানো",
+        "ZH": "种植（植物、树木、花卉）",
+        "KO": "(식물, 나무, 꽃)을 심다",
+        "TL": "magtanim (halaman, puno, bulaklak)",
+        "MY": "စိုက်ပျိုးရန် (အပင်၊ သစ်ပင်၊ ပန်း)",
+        "HI": "पौधे लगाना (पौधे, पेड़, फूल)",
+        "AR": "زرع (النباتات والأشجار والزهور)",
+        "FA": "کاشتن (گیاه، درخت، گل)",
+        "EN": [
+          "to grow; to raise (plants)"
+        ]
+      },
+      "to insert; to transplant; to implant; to set (type)": {
+        "ID": "memasukkan; memindahkan; menanamkan; mengatur (mengetik)",
+        "ES": "insertar; trasplantar; implantar; fijar (tipo)",
+        "VI": "chèn; cấy ghép; cấy ghép; đặt (loại)",
+        "FR": "insérer; transplanter; implanter; fixer (taper)",
+        "NE": "घुसाउनु; प्रत्यारोपण गर्नु; प्रत्यारोपण गर्नु; सेट गर्नु (प्रकार)",
+        "BN": "সন্নিবেশ করা; প্রতিস্থাপন করা; রোপন করা; স্থাপন করা (টাইপ করা)",
+        "ZH": "插入；移植；植入；设置（类型）",
+        "KO": "삽입하다; 이식하다; 이식하다; (유형을) 설정하다",
+        "TL": "ipasok; sa transplant; upang itanim; upang itakda (uri)",
+        "MY": "ထည့်သွင်းရန်; အစားထိုးရန်; implant လုပ်ဖို့; သတ်မှတ်ရန် (အမျိုးအစား)",
+        "HI": "डालना; प्रत्यारोपित करना; प्रत्यारोपित करना; स्थापित करना (प्रकार)",
+        "AR": "إدخال؛ زرع؛ غرس؛ ضبط (النوع)",
+        "FA": "قرار دادن؛ پیوند زدن؛ کاشتن؛ نصب کردن (نوع‌سازی)",
+        "EN": []
+      },
+      "to inoculate (e.g. an infectious agent)": {
+        "ID": "untuk menginokulasi (misalnya agen infeksius)",
+        "ES": "inocular (por ejemplo, un agente infeccioso)",
+        "VI": "tiêm chủng (ví dụ: tác nhân truyền nhiễm)",
+        "FR": "inoculer (par exemple un agent infectieux)",
+        "NE": "खोप लगाउनु (जस्तै संक्रामक एजेन्ट)",
+        "BN": "টিকা দেওয়া (যেমন, সংক্রামক এজেন্ট)",
+        "ZH": "接种（例如传染源）",
+        "KO": "(예: 감염원을) 접종하다",
+        "TL": "mag-inoculate (hal. isang nakakahawang ahente)",
+        "MY": "ပိုးသတ်ရန် (ဥပမာ- ကူးစက်နိုင်သော အေးဂျင့်)",
+        "HI": "टीका लगाना (जैसे किसी संक्रामक एजेंट का)",
+        "AR": "التطعيم (على سبيل المثال، عامل معدي)",
+        "FA": "تلقیح کردن (مثلاً یک عامل عفونی)",
+        "EN": [
+          "to instill; to inculcate (ideas, values)"
+        ]
+      }
+    }
+  },
+  "jisho_data": {
+    "slug": "植える",
+    "is_common": true,
+    "tags": [
+      "wanikani12"
+    ],
+    "jlpt": [
+      "jlpt-n4"
+    ],
+    "japanese": [
+      {
+        "word": "植える",
+        "reading": "うえる"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to plant",
+          "to grow",
+          "to raise"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to insert",
+          "to transplant",
+          "to implant",
+          "to set (type)"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to inoculate (e.g. an infectious agent)"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to instill (idea, value, etc.)",
+          "to inculcate"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "植"
+  ],
+  "kanji_data": {
+    "植": {
+      "freq_mainichi_shinbun": 699,
+      "grade": 3,
+      "heisig_en": "plant",
+      "jlpt": 2,
+      "kanji": "植",
+      "kun_readings": [
+        "う.える",
+        "う.わる"
+      ],
+      "meanings": [
+        "plant"
+      ],
+      "name_readings": [
+        "うえ",
+        "え",
+        "げ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ショク"
+      ],
+      "stroke_count": 12,
+      "unicode": "690D"
+    }
+  },
+  "collocations": [
+    "農家が植える",
+    "市民が植える",
+    "学校が植える",
+    "団体が植える",
+    "人が植える",
+    "木を植える",
+    "花を植える",
+    "野菜を植える",
+    "種を植える",
+    "草を植える",
+    "庭に植える",
+    "畑に植える",
+    "公園に植える",
+    "校庭に植える",
+    "鉢に植える",
+    "鉢で植える",
+    "まず植える",
+    "ちゃんと植える",
+    "深く植える",
+    "多く植える",
+    "少しずつ植える",
+    "植える価値",
+    "植える意義",
+    "心に植える",
+    "根を植える",
+    "思想を植える"
+  ]
+}

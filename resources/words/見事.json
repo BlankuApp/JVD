@@ -1,324 +1,339 @@
 {
-    "version": "0.2.0",
-    "word": "見事",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/7v9aUmkI7WA",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "見事",
-        "reading": "みごと",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is みごと which you will often hear in contexts such as praising someone's performance, describing an accomplished feat, or admiring a breathtaking view.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"みごと\" means remarkable, splendid, and admirable. It is often used to describe something that is done with great skill or has achieved perfection.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "splendid",
-                "magnificent",
-                "excellent",
-                "fine",
-                "superb",
-                "beautiful",
-                "admirable"
-            ],
-            [
-                "utter",
-                "total",
-                "complete"
-            ],
-            [
-                "something worth seeing",
-                "sight",
-                "spectacle"
-            ]
-        ],
-        "meaning_translations": {
-            "splendid": {
-                "EN": "Splendid",
-                "ID": "Megah",
-                "ES": "Espléndido",
-                "VI": "Tuyệt vời",
-                "FR": "Splendide",
-                "NE": "शानदार",
-                "BN": "চমৎকার",
-                "ZH": "壮观的",
-                "KO": "훌륭한",
-                "TL": "Maganda",
-                "MY": "အံ့ဩသော",
-                "HI": "शानदार",
-                "AR": "رائع",
-                "FA": "شکوهمند"
-            },
-            "utter": {
-                "EN": "Splendid",
-                "ID": "Luar biasa",
-                "ES": "Espléndido",
-                "VI": "Tuyệt vời",
-                "FR": "Splendide",
-                "NE": "शानदार",
-                "BN": "অসাধারণ",
-                "ZH": "精彩",
-                "KO": "훌륭한",
-                "TL": "Napakatalino",
-                "MY": "ထူးခြားသော",
-                "HI": "शानदार",
-                "AR": "رائع",
-                "FA": "بی‌نظیر"
-            },
-            "something worth seeing": {
-                "EN": "Magnificent",
-                "ID": "Menakjubkan",
-                "ES": "Magnífico",
-                "VI": "Tuyệt Vời",
-                "FR": "Magnifique",
-                "NE": "उत्कृष्ट",
-                "BN": "দুর্দান্ত",
-                "ZH": "壮观",
-                "KO": "훌륭한",
-                "TL": "Kahanga-hanga",
-                "MY": "အံ့ဩဖွယ်",
-                "HI": "शानदार",
-                "AR": "رائع",
-                "FA": "باشکوه"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は見事な仕事をした。",
-                "furigana": "彼(かれ)は見事(みごと)な仕事(しごと)をした。",
-                "translations": {
-                    "EN": "He did a splendid job.",
-                    "ID": "Dia melakukan pekerjaan yang luar biasa.",
-                    "ES": "Él hizo un trabajo magnífico.",
-                    "VI": "Anh ta đã làm một công việc tuyệt vời.",
-                    "FR": "Il a fait un travail merveilleux.",
-                    "NE": "उनले उत्कृष्ट काम गरे।",
-                    "BN": "তিনি চমৎকার কাজ করছেন।",
-                    "ZH": "他做了一项出色的工作。",
-                    "KO": "그는 훌륭한 일을 해냈다.",
-                    "TL": "Gumanap siya ng mahusay na trabaho.",
-                    "MY": "သူသည် အထူးပြောင်မြောက်သော အလုပ် တစ်ခု လုပ်ခဲ့သည်။",
-                    "HI": "उसने शानदार काम किया।",
-                    "AR": "لقد قام بعمل رائع.",
-                    "FA": "او کار شگفت‌انگیزی انجام داد."
-                }
-            },
-            {
-                "kanji": "彼のプレーは見事な勝負だった。",
-                "furigana": "彼(かれ)のプレーは見事(みごと)な勝負(しょうぶ)だった。",
-                "translations": {
-                    "EN": "His play was an impressive match.",
-                    "ID": "Permainannya adalah pertandingan yang luar biasa.",
-                    "ES": "Su juego fue un partido impresionante.",
-                    "VI": "Trận đấu của anh ấy thật ấn tượng.",
-                    "FR": "Son jeu était un match impressionnant.",
-                    "NE": "उहाँको खेल शानदार खेल थियो।",
-                    "BN": "তার খেলা ছিল একটি অসাধারণ ম্যাচ।",
-                    "ZH": "他的比赛是场精彩的对决。",
-                    "KO": "그의 경기는 훌륭한 승부였다.",
-                    "TL": "Ang kanyang laro ay isang kamangha-manghang laban.",
-                    "MY": "သူ့ရဲ့ကစားပွဲက အံ့ဖွယ်အောင်ပွဲတစ်ခုဖြစ်ခဲ့ပါတယ်။",
-                    "HI": "उसका खेल एक शानदार मुकाबला था।",
-                    "AR": "كانت لعبته مباراة رائعة.",
-                    "FA": "بازی او یک مسابقه‌ تحسین‌برانگیز بود."
-                }
-            },
-            {
-                "kanji": "テストは見事にできた。",
-                "furigana": "テストは見事(みごと)にできた。",
-                "translations": {
-                    "EN": "The test was completed magnificently.",
-                    "ID": "Ujian selesai dengan sukses.",
-                    "ES": "El test se realizó magníficamente.",
-                    "VI": "Bài kiểm tra đã làm xuất sắc.",
-                    "FR": "Le test a été réalisé magnifiquement.",
-                    "NE": "परीक्षा राम्रोसँग सकियो।",
-                    "BN": "পরীক্ষাটি চমৎকারভাবে সম্পন্ন হয়েছে।",
-                    "ZH": "考试完美地完成了。",
-                    "KO": "테스트를 훌륭하게 해냈다.",
-                    "TL": "Maganda ang nagawa sa test.",
-                    "MY": "စာမေးပွဲကိုအံ့မခန်းဖြင့်ပြီးမြောက်ခဲ့သည်။",
-                    "HI": "परीक्षा शानदार तरीके से हुई।",
-                    "AR": "تم إجراء الاختبار بنجاح باهر.",
-                    "FA": "آزمون را با موفقیت به پایان رساندم."
-                }
-            },
-            {
-                "kanji": "彼は見事なスキルを持っている。",
-                "furigana": "彼(かれ)は見事(みごと)なスキルを持(も)っている。",
-                "translations": {
-                    "EN": "He has an impressive skill.",
-                    "ID": "Dia memiliki keterampilan yang mengesankan.",
-                    "ES": "Él tiene una habilidad impresionante.",
-                    "VI": "Anh ấy có một kỹ năng ấn tượng.",
-                    "FR": "Il a une compétence impressionnante.",
-                    "NE": "उनीसँग एक प्रभावशाली सीप छ।",
-                    "BN": "তার অসাধারণ দক্ষতা রয়েছে।",
-                    "ZH": "他有一项了不起的技能。",
-                    "KO": "그는 훌륭한 기술을 가지고 있다.",
-                    "TL": "May kahanga-hangang kakayahan siya.",
-                    "MY": "သူ့မှာ ဝေဖန်ဖွယ်ရာ ကျွမ်းကျင်မှုရှိတယ်။",
-                    "HI": "उसके पास एक उत्कृष्ट कौशल है।",
-                    "AR": "لديه مهارة رائعة.",
-                    "FA": "او یک مهارت برجسته دارد."
-                }
-            }
-        ],
-        "synonyms": [
-            "素晴らしい : すばらしい : wonderful"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"みごと\" are \"すばらしい\" and \"見事な成果\". \"すばらしい\" generally means wonderful or excellent and can be used in a broader sense, while \"見事な成果\" specifically refers to impressive results or achievements.",
-        "antonyms": [
-            "駄目 : だめ : no good"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"みごと\" are \"だめ\". \"だめ\" means no good or not successful, contrasting with \"みごと\" which is all about success and excellence.",
-        "kanji_details": [
-            {
-                "kanji": "見",
-                "common_words": [
-                    "見る: to see",
-                    "見物: sightseeing"
-                ]
-            },
-            {
-                "kanji": "事",
-                "common_words": [
-                    "仕事: work",
-                    "事件: event"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "見事",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "見事",
-                "reading": "みごと"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "splendid",
-                    "magnificent",
-                    "excellent",
-                    "fine",
-                    "superb",
-                    "beautiful",
-                    "admirable"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi), Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "utter",
-                    "total",
-                    "complete"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "something worth seeing",
-                    "sight",
-                    "spectacle"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "見",
-        "事"
+  "version": "0.3.0",
+  "word": "見事",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/7v9aUmkI7WA",
+  "in_db": true,
+  "kanji": "見事",
+  "reading": "みごと",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is みごと which you will often hear in contexts such as praising someone's performance, describing an accomplished feat, or admiring a breathtaking view.",
+  "meanings": [
+    [
+      "splendid",
+      "magnificent",
+      "excellent",
+      "fine",
+      "superb",
+      "beautiful",
+      "admirable"
     ],
-    "kanji_data": {
-        "見": {
-            "meanings": [
-                "chances",
-                "hopes",
-                "idea",
-                "look at",
-                "opinion",
-                "see",
-                "visible"
-            ],
-            "on_readings": [
-                "ケン"
-            ],
-            "kun_readings": [
-                "み.える",
-                "み.せる",
-                "み.る"
-            ],
-            "stroke_count": 7,
-            "jlpt": 5,
-            "freq_mainichi_shinbun": 22,
-            "unicode": "898B",
-            "grade": 1
-        },
-        "事": {
-            "meanings": [
-                "business",
-                "fact",
-                "matter",
-                "possibly",
-                "reason",
-                "thing"
-            ],
-            "on_readings": [
-                "ジ",
-                "ズ"
-            ],
-            "kun_readings": [
-                "こと",
-                "つか.う",
-                "つか.える"
-            ],
-            "stroke_count": 8,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 18,
-            "unicode": "4E8B",
-            "grade": 3
-        }
-    },
-    "collocations": [
-        "みごとなしごと",
-        "みごとなしょうぶ",
-        "みごとにできた",
-        "みごとのスキル"
+    [
+      "utter",
+      "total",
+      "complete"
+    ],
+    [
+      "something worth seeing",
+      "sight",
+      "spectacle"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"みごと\" means remarkable, splendid, and admirable. It is often used to describe something that is done with great skill or has achieved perfection.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "見",
+      "common_words": [
+        "見る: to see",
+        "見物: sightseeing"
+      ]
+    },
+    {
+      "kanji": "事",
+      "common_words": [
+        "仕事: work",
+        "事件: event"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "素晴らしい : すばらしい : wonderful"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"みごと\" are \"すばらしい\" and \"見事な成果\". \"すばらしい\" generally means wonderful or excellent and can be used in a broader sense, while \"見事な成果\" specifically refers to impressive results or achievements.",
+  "antonyms": [
+    "駄目 : だめ : no good"
+  ],
+  "antonym_explanation": "The most common antonyms of the word \"みごと\" are \"だめ\". \"だめ\" means no good or not successful, contrasting with \"みごと\" which is all about success and excellence.",
+  "collocations": [
+    {
+      "kanji": "みごとなしごと",
+      "furigana": "みごとなしごと",
+      "translations": {}
+    },
+    {
+      "kanji": "みごとなしょうぶ",
+      "furigana": "みごとなしょうぶ",
+      "translations": {}
+    },
+    {
+      "kanji": "みごとにできた",
+      "furigana": "みごとにできた",
+      "translations": {}
+    },
+    {
+      "kanji": "みごとのスキル",
+      "furigana": "みごとのスキル",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は見事な仕事をした。",
+      "furigana": "彼(かれ)は見事(みごと)な仕事(しごと)をした。",
+      "translations": {
+        "EN": "He did a splendid job.",
+        "ID": "Dia melakukan pekerjaan yang luar biasa.",
+        "ES": "Él hizo un trabajo magnífico.",
+        "VI": "Anh ta đã làm một công việc tuyệt vời.",
+        "FR": "Il a fait un travail merveilleux.",
+        "NE": "उनले उत्कृष्ट काम गरे।",
+        "BN": "তিনি চমৎকার কাজ করছেন।",
+        "ZH": "他做了一项出色的工作。",
+        "KO": "그는 훌륭한 일을 해냈다.",
+        "TL": "Gumanap siya ng mahusay na trabaho.",
+        "MY": "သူသည် အထူးပြောင်မြောက်သော အလုပ် တစ်ခု လုပ်ခဲ့သည်။",
+        "HI": "उसने शानदार काम किया।",
+        "AR": "لقد قام بعمل رائع.",
+        "FA": "او کار شگفت‌انگیزی انجام داد."
+      }
+    },
+    {
+      "kanji": "彼のプレーは見事な勝負だった。",
+      "furigana": "彼(かれ)のプレーは見事(みごと)な勝負(しょうぶ)だった。",
+      "translations": {
+        "EN": "His play was an impressive match.",
+        "ID": "Permainannya adalah pertandingan yang luar biasa.",
+        "ES": "Su juego fue un partido impresionante.",
+        "VI": "Trận đấu của anh ấy thật ấn tượng.",
+        "FR": "Son jeu était un match impressionnant.",
+        "NE": "उहाँको खेल शानदार खेल थियो।",
+        "BN": "তার খেলা ছিল একটি অসাধারণ ম্যাচ।",
+        "ZH": "他的比赛是场精彩的对决。",
+        "KO": "그의 경기는 훌륭한 승부였다.",
+        "TL": "Ang kanyang laro ay isang kamangha-manghang laban.",
+        "MY": "သူ့ရဲ့ကစားပွဲက အံ့ဖွယ်အောင်ပွဲတစ်ခုဖြစ်ခဲ့ပါတယ်။",
+        "HI": "उसका खेल एक शानदार मुकाबला था।",
+        "AR": "كانت لعبته مباراة رائعة.",
+        "FA": "بازی او یک مسابقه‌ تحسین‌برانگیز بود."
+      }
+    },
+    {
+      "kanji": "テストは見事にできた。",
+      "furigana": "テストは見事(みごと)にできた。",
+      "translations": {
+        "EN": "The test was completed magnificently.",
+        "ID": "Ujian selesai dengan sukses.",
+        "ES": "El test se realizó magníficamente.",
+        "VI": "Bài kiểm tra đã làm xuất sắc.",
+        "FR": "Le test a été réalisé magnifiquement.",
+        "NE": "परीक्षा राम्रोसँग सकियो।",
+        "BN": "পরীক্ষাটি চমৎকারভাবে সম্পন্ন হয়েছে।",
+        "ZH": "考试完美地完成了。",
+        "KO": "테스트를 훌륭하게 해냈다.",
+        "TL": "Maganda ang nagawa sa test.",
+        "MY": "စာမေးပွဲကိုအံ့မခန်းဖြင့်ပြီးမြောက်ခဲ့သည်။",
+        "HI": "परीक्षा शानदार तरीके से हुई।",
+        "AR": "تم إجراء الاختبار بنجاح باهر.",
+        "FA": "آزمون را با موفقیت به پایان رساندم."
+      }
+    },
+    {
+      "kanji": "彼は見事なスキルを持っている。",
+      "furigana": "彼(かれ)は見事(みごと)なスキルを持(も)っている。",
+      "translations": {
+        "EN": "He has an impressive skill.",
+        "ID": "Dia memiliki keterampilan yang mengesankan.",
+        "ES": "Él tiene una habilidad impresionante.",
+        "VI": "Anh ấy có một kỹ năng ấn tượng.",
+        "FR": "Il a une compétence impressionnante.",
+        "NE": "उनीसँग एक प्रभावशाली सीप छ।",
+        "BN": "তার অসাধারণ দক্ষতা রয়েছে।",
+        "ZH": "他有一项了不起的技能。",
+        "KO": "그는 훌륭한 기술을 가지고 있다.",
+        "TL": "May kahanga-hangang kakayahan siya.",
+        "MY": "သူ့မှာ ဝေဖန်ဖွယ်ရာ ကျွမ်းကျင်မှုရှိတယ်။",
+        "HI": "उसके पास एक उत्कृष्ट कौशल है।",
+        "AR": "لديه مهارة رائعة.",
+        "FA": "او یک مهارت برجسته دارد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "splendid": {
+      "EN": "Splendid",
+      "ID": "Megah",
+      "ES": "Espléndido",
+      "VI": "Tuyệt vời",
+      "FR": "Splendide",
+      "NE": "शानदार",
+      "BN": "চমৎকার",
+      "ZH": "壮观的",
+      "KO": "훌륭한",
+      "TL": "Maganda",
+      "MY": "အံ့ဩသော",
+      "HI": "शानदार",
+      "AR": "رائع",
+      "FA": "شکوهمند"
+    },
+    "utter": {
+      "EN": "Splendid",
+      "ID": "Luar biasa",
+      "ES": "Espléndido",
+      "VI": "Tuyệt vời",
+      "FR": "Splendide",
+      "NE": "शानदार",
+      "BN": "অসাধারণ",
+      "ZH": "精彩",
+      "KO": "훌륭한",
+      "TL": "Napakatalino",
+      "MY": "ထူးခြားသော",
+      "HI": "शानदार",
+      "AR": "رائع",
+      "FA": "بی‌نظیر"
+    },
+    "something worth seeing": {
+      "EN": "Magnificent",
+      "ID": "Menakjubkan",
+      "ES": "Magnífico",
+      "VI": "Tuyệt Vời",
+      "FR": "Magnifique",
+      "NE": "उत्कृष्ट",
+      "BN": "দুর্দান্ত",
+      "ZH": "壮观",
+      "KO": "훌륭한",
+      "TL": "Kahanga-hanga",
+      "MY": "အံ့ဩဖွယ်",
+      "HI": "शानदार",
+      "AR": "رائع",
+      "FA": "باشکوه"
+    }
+  },
+  "jisho_data": {
+    "slug": "見事",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "見事",
+        "reading": "みごと"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "splendid",
+          "magnificent",
+          "excellent",
+          "fine",
+          "superb",
+          "beautiful",
+          "admirable"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi), Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "utter",
+          "total",
+          "complete"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "something worth seeing",
+          "sight",
+          "spectacle"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "見",
+    "事"
+  ],
+  "kanji_data": {
+    "見": {
+      "meanings": [
+        "chances",
+        "hopes",
+        "idea",
+        "look at",
+        "opinion",
+        "see",
+        "visible"
+      ],
+      "on_readings": [
+        "ケン"
+      ],
+      "kun_readings": [
+        "み.える",
+        "み.せる",
+        "み.る"
+      ],
+      "stroke_count": 7,
+      "jlpt": 5,
+      "freq_mainichi_shinbun": 22,
+      "unicode": "898B",
+      "grade": 1
+    },
+    "事": {
+      "meanings": [
+        "business",
+        "fact",
+        "matter",
+        "possibly",
+        "reason",
+        "thing"
+      ],
+      "on_readings": [
+        "ジ",
+        "ズ"
+      ],
+      "kun_readings": [
+        "こと",
+        "つか.う",
+        "つか.える"
+      ],
+      "stroke_count": 8,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 18,
+      "unicode": "4E8B",
+      "grade": 3
+    }
+  }
 }

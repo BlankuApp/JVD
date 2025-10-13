@@ -1,252 +1,279 @@
 {
-    "version": "0.2.0",
-    "word": "配達",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/xqSoZAMl24Q",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "配達",
-        "reading": "はいたつ",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is はいたつ, which you will often hear in contexts related to mail and packages in everyday life. Imagine ordering online and excitedly waiting for your はいたつ to arrive! This word is essential for understanding how items move from point A to point B. Let's explore it together!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"配達\" means \"delivery\" in English. It refers to the act of conveying goods or items from one location to another, typically handled by a person or company that specializes in transporting goods such as packages or mail. ",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "delivery"
-            ]
-        ],
-        "meaning_translations": {
-            "delivery": {
-                "EN": "delivery",
-                "ID": "pengiriman",
-                "ES": "entrega",
-                "VI": "giao hàng",
-                "FR": "livraison",
-                "NE": "वितरण",
-                "BN": "বিতরণ",
-                "ZH": "交货",
-                "KO": "배달",
-                "TL": "paghahatid",
-                "MY": "ပို့ဆောင်မှု",
-                "HI": "वितरण",
-                "AR": "تسليم",
-                "FA": "تحویل"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "配達の人が来ました。",
-                "furigana": "配達(はいたつ)の人(ひと)が来(き)ました。",
-                "translations": {
-                    "EN": "The delivery person has arrived.",
-                    "ID": "Orang pengantar sudah datang.",
-                    "ES": "La persona de reparto ha llegado.",
-                    "VI": "Người giao hàng đã đến.",
-                    "FR": "La personne de livraison est arrivée.",
-                    "NE": "वितरण गर्ने व्यक्ति आएको छ।",
-                    "BN": "ডেলিভারির লোক এসেছে।",
-                    "ZH": "送货的人来了。",
-                    "KO": "배달 사람이 왔습니다.",
-                    "TL": "Dumating na ang tagapaghatid.",
-                    "MY": "ပေးပို့တဲ့သူ လာပြီ။",
-                    "HI": "डिलीवरी वाला आ गया है।",
-                    "AR": "الشخص الذي يوصل البضائع قد وصل.",
-                    "FA": "فرد تحویل‌دهنده آمده است."
-                }
-            },
-            {
-                "kanji": "配達料金はいくらですか？",
-                "furigana": "配達(はいたつ)料金(りょうきん)はいくらですか？",
-                "translations": {
-                    "EN": "How much is the delivery fee?",
-                    "ID": "Berapa biaya pengiriman?",
-                    "ES": "¿Cuánto cuesta el envío?",
-                    "VI": "Phí giao hàng là bao nhiêu?",
-                    "FR": "Quel est le frais de livraison ?",
-                    "NE": "वितरण शुल्क कति हो?",
-                    "BN": "ডেলিভারি ফি কত?",
-                    "ZH": "送货费是多少？",
-                    "KO": "배송비는 얼마인가요?",
-                    "TL": "Magkano ang bayad sa pagpapadala?",
-                    "MY": "ပို့ဆောင်ခ ဘယ်လောက်ပါလဲ?",
-                    "HI": "डिलीवरी शुल्क कितना है?",
-                    "AR": "كم هي رسوم التوصيل؟",
-                    "FA": "هزینه تحویل چقدر است؟"
-                }
-            },
-            {
-                "kanji": "配達時間は何時ですか？",
-                "furigana": "配達(はい)(たつ)時間(じ)(かん)は何時(なん)(じ)ですか？",
-                "translations": {
-                    "EN": "What time is the delivery?",
-                    "ID": "Jam berapa pengantaran?",
-                    "ES": "¿A qué hora es la entrega?",
-                    "VI": "Thời gian giao hàng vào lúc nào?",
-                    "FR": "À quelle heure est la livraison ?",
-                    "NE": "वितरण समय कति बजे हो?",
-                    "BN": "ডেলিভারির সময় কখন?",
-                    "ZH": "配送时间是什么时候？",
-                    "KO": "배송 시간은 몇 시인가요?",
-                    "TL": "Anong oras ang paghahatid?",
-                    "MY": "ပို့ဆောင်ချိန် ဘယ်အချိန်လဲ ၍ စုံစမ်းပါ။",
-                    "HI": "डिलीवरी का समय क्या है?",
-                    "AR": "متى هو وقت التسليم؟",
-                    "FA": "زمان تحویل چه ساعتی است؟"
-                }
-            },
-            {
-                "kanji": "配達物を待っています。",
-                "furigana": "配達(はいたつ)物(ぶつ)を待(ま)っています。",
-                "translations": {
-                    "EN": "I am waiting for the delivery.",
-                    "ID": "Saya menunggu kiriman.",
-                    "ES": "Estoy esperando la entrega.",
-                    "VI": "Tôi đang đợi hàng giao.",
-                    "FR": "J'attends la livraison.",
-                    "NE": "म डेलिभरी प्रतीक्षा गर्दैछु।",
-                    "BN": "আমি ডেলিভারি জন্য অপেক্ষা করছি।",
-                    "ZH": "我在等待送货。",
-                    "KO": "배송물을 기다리고 있습니다.",
-                    "TL": "Naghihintay ako sa paghahatid.",
-                    "MY": "ငါကနေထားတင်ပို့မှုရှိနေပြီ။",
-                    "HI": "मैं डिलीवरी का इंतज़ार कर रहा हूँ।",
-                    "AR": "أنتظر التوصيل.",
-                    "FA": "من در انتظار تحویل هستم."
-                }
-            },
-            {
-                "kanji": "でんわで配達をたのみます。",
-                "furigana": "でんわで配達(はいたつ)をたのみます。",
-                "translations": {
-                    "EN": "I will order delivery by phone.",
-                    "ID": "Saya akan memesan pengiriman melalui telepon.",
-                    "ES": "Pediré la entrega por teléfono.",
-                    "VI": "Tôi sẽ đặt giao hàng qua điện thoại.",
-                    "FR": "Je commanderai la livraison par téléphone.",
-                    "NE": "मैले फोनबाट डेलिभरी अर्डर गर्नेछु।",
-                    "BN": "আমি ফোনের মাধ্যমে ডেলিভারি অর্ডার করব।",
-                    "ZH": "我会通过电话订购送货。",
-                    "KO": "전화로 배달을 주문합니다.",
-                    "TL": "Magpapadeliver ako sa telepono.",
-                    "MY": "ကျွန်တော်ဖုန်းနဲ့ပို့ပေးကြောင်းမှာပါမယ်။",
-                    "HI": "मैं फोन से डिलीवरी का ऑर्डर करूँगा।",
-                    "AR": "سأطلب التوصيل عبر الهاتف.",
-                    "FA": "من تحویل را با تلفن سفارش می‌دهم."
-                }
-            }
-        ],
-        "synonyms": [
-            "配送 : はいそう : delivery",
-            "送付 : そうふ : sending"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"配達\" are \"配送\" and \"送付.\" The term \"配送\" often emphasizes the broader logistics and shipping process, whereas \"送付\" specifically refers to sending documents or letters. While all three involve the transportation of items, \"配達\" is more commonly associated with direct delivery to an address.",
-        "antonyms": [
-            "受取り : うけとり : receiving",
-            "収集 : しゅうしゅう : collecting"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"配達\" are \"受取\" and \"収集.\" \"受取\" refers to the act of receiving something, as opposed to delivering it, while \"収集\" involves the gathering or collecting of items. Together, these antonyms highlight the opposite end of the delivery process.",
-        "kanji_details": [
-            {
-                "kanji": "配",
-                "common_words": [
-                    "配る: to distribute",
-                    "配給: distribution"
-                ]
-            },
-            {
-                "kanji": "達",
-                "common_words": [
-                    "友達: friend",
-                    "達成: achievement"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "配達",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "配達",
-                "reading": "はいたつ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "delivery"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "配",
-        "達"
-    ],
-    "kanji_data": {
-        "配": {
-            "meanings": [
-                "distribute",
-                "exile",
-                "rationing",
-                "spouse"
-            ],
-            "on_readings": [
-                "ハイ"
-            ],
-            "kun_readings": [
-                "くば.る"
-            ],
-            "stroke_count": 10,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 359,
-            "unicode": "914D",
-            "grade": 3
-        },
-        "達": {
-            "meanings": [
-                "accomplished",
-                "arrive",
-                "attain",
-                "reach"
-            ],
-            "on_readings": [
-                "タツ",
-                "ダ"
-            ],
-            "kun_readings": [
-                "-たち"
-            ],
-            "stroke_count": 12,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 500,
-            "unicode": "9054",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "配達する",
-        "配達の人",
-        "配達料金",
-        "配達先",
-        "配達時間",
-        "新聞配達",
-        "配達証明"
+  "version": "0.3.0",
+  "word": "配達",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/xqSoZAMl24Q",
+  "in_db": true,
+  "kanji": "配達",
+  "reading": "はいたつ",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is はいたつ, which you will often hear in contexts related to mail and packages in everyday life. Imagine ordering online and excitedly waiting for your はいたつ to arrive! This word is essential for understanding how items move from point A to point B. Let's explore it together!",
+  "meanings": [
+    [
+      "delivery"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"配達\" means \"delivery\" in English. It refers to the act of conveying goods or items from one location to another, typically handled by a person or company that specializes in transporting goods such as packages or mail. ",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "配",
+      "common_words": [
+        "配る: to distribute",
+        "配給: distribution"
+      ]
+    },
+    {
+      "kanji": "達",
+      "common_words": [
+        "友達: friend",
+        "達成: achievement"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "配送 : はいそう : delivery",
+    "送付 : そうふ : sending"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"配達\" are \"配送\" and \"送付.\" The term \"配送\" often emphasizes the broader logistics and shipping process, whereas \"送付\" specifically refers to sending documents or letters. While all three involve the transportation of items, \"配達\" is more commonly associated with direct delivery to an address.",
+  "antonyms": [
+    "受取り : うけとり : receiving",
+    "収集 : しゅうしゅう : collecting"
+  ],
+  "antonym_explanation": "The most common antonyms of the word \"配達\" are \"受取\" and \"収集.\" \"受取\" refers to the act of receiving something, as opposed to delivering it, while \"収集\" involves the gathering or collecting of items. Together, these antonyms highlight the opposite end of the delivery process.",
+  "collocations": [
+    {
+      "kanji": "配達する",
+      "furigana": "配達する",
+      "translations": {}
+    },
+    {
+      "kanji": "配達の人",
+      "furigana": "配達の人",
+      "translations": {}
+    },
+    {
+      "kanji": "配達料金",
+      "furigana": "配達料金",
+      "translations": {}
+    },
+    {
+      "kanji": "配達先",
+      "furigana": "配達先",
+      "translations": {}
+    },
+    {
+      "kanji": "配達時間",
+      "furigana": "配達時間",
+      "translations": {}
+    },
+    {
+      "kanji": "新聞配達",
+      "furigana": "新聞配達",
+      "translations": {}
+    },
+    {
+      "kanji": "配達証明",
+      "furigana": "配達証明",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "配達の人が来ました。",
+      "furigana": "配達(はいたつ)の人(ひと)が来(き)ました。",
+      "translations": {
+        "EN": "The delivery person has arrived.",
+        "ID": "Orang pengantar sudah datang.",
+        "ES": "La persona de reparto ha llegado.",
+        "VI": "Người giao hàng đã đến.",
+        "FR": "La personne de livraison est arrivée.",
+        "NE": "वितरण गर्ने व्यक्ति आएको छ।",
+        "BN": "ডেলিভারির লোক এসেছে।",
+        "ZH": "送货的人来了。",
+        "KO": "배달 사람이 왔습니다.",
+        "TL": "Dumating na ang tagapaghatid.",
+        "MY": "ပေးပို့တဲ့သူ လာပြီ။",
+        "HI": "डिलीवरी वाला आ गया है।",
+        "AR": "الشخص الذي يوصل البضائع قد وصل.",
+        "FA": "فرد تحویل‌دهنده آمده است."
+      }
+    },
+    {
+      "kanji": "配達料金はいくらですか？",
+      "furigana": "配達(はいたつ)料金(りょうきん)はいくらですか？",
+      "translations": {
+        "EN": "How much is the delivery fee?",
+        "ID": "Berapa biaya pengiriman?",
+        "ES": "¿Cuánto cuesta el envío?",
+        "VI": "Phí giao hàng là bao nhiêu?",
+        "FR": "Quel est le frais de livraison ?",
+        "NE": "वितरण शुल्क कति हो?",
+        "BN": "ডেলিভারি ফি কত?",
+        "ZH": "送货费是多少？",
+        "KO": "배송비는 얼마인가요?",
+        "TL": "Magkano ang bayad sa pagpapadala?",
+        "MY": "ပို့ဆောင်ခ ဘယ်လောက်ပါလဲ?",
+        "HI": "डिलीवरी शुल्क कितना है?",
+        "AR": "كم هي رسوم التوصيل؟",
+        "FA": "هزینه تحویل چقدر است؟"
+      }
+    },
+    {
+      "kanji": "配達時間は何時ですか？",
+      "furigana": "配達(はい)(たつ)時間(じ)(かん)は何時(なん)(じ)ですか？",
+      "translations": {
+        "EN": "What time is the delivery?",
+        "ID": "Jam berapa pengantaran?",
+        "ES": "¿A qué hora es la entrega?",
+        "VI": "Thời gian giao hàng vào lúc nào?",
+        "FR": "À quelle heure est la livraison ?",
+        "NE": "वितरण समय कति बजे हो?",
+        "BN": "ডেলিভারির সময় কখন?",
+        "ZH": "配送时间是什么时候？",
+        "KO": "배송 시간은 몇 시인가요?",
+        "TL": "Anong oras ang paghahatid?",
+        "MY": "ပို့ဆောင်ချိန် ဘယ်အချိန်လဲ ၍ စုံစမ်းပါ။",
+        "HI": "डिलीवरी का समय क्या है?",
+        "AR": "متى هو وقت التسليم؟",
+        "FA": "زمان تحویل چه ساعتی است؟"
+      }
+    },
+    {
+      "kanji": "配達物を待っています。",
+      "furigana": "配達(はいたつ)物(ぶつ)を待(ま)っています。",
+      "translations": {
+        "EN": "I am waiting for the delivery.",
+        "ID": "Saya menunggu kiriman.",
+        "ES": "Estoy esperando la entrega.",
+        "VI": "Tôi đang đợi hàng giao.",
+        "FR": "J'attends la livraison.",
+        "NE": "म डेलिभरी प्रतीक्षा गर्दैछु।",
+        "BN": "আমি ডেলিভারি জন্য অপেক্ষা করছি।",
+        "ZH": "我在等待送货。",
+        "KO": "배송물을 기다리고 있습니다.",
+        "TL": "Naghihintay ako sa paghahatid.",
+        "MY": "ငါကနေထားတင်ပို့မှုရှိနေပြီ။",
+        "HI": "मैं डिलीवरी का इंतज़ार कर रहा हूँ।",
+        "AR": "أنتظر التوصيل.",
+        "FA": "من در انتظار تحویل هستم."
+      }
+    },
+    {
+      "kanji": "でんわで配達をたのみます。",
+      "furigana": "でんわで配達(はいたつ)をたのみます。",
+      "translations": {
+        "EN": "I will order delivery by phone.",
+        "ID": "Saya akan memesan pengiriman melalui telepon.",
+        "ES": "Pediré la entrega por teléfono.",
+        "VI": "Tôi sẽ đặt giao hàng qua điện thoại.",
+        "FR": "Je commanderai la livraison par téléphone.",
+        "NE": "मैले फोनबाट डेलिभरी अर्डर गर्नेछु।",
+        "BN": "আমি ফোনের মাধ্যমে ডেলিভারি অর্ডার করব।",
+        "ZH": "我会通过电话订购送货。",
+        "KO": "전화로 배달을 주문합니다.",
+        "TL": "Magpapadeliver ako sa telepono.",
+        "MY": "ကျွန်တော်ဖုန်းနဲ့ပို့ပေးကြောင်းမှာပါမယ်။",
+        "HI": "मैं फोन से डिलीवरी का ऑर्डर करूँगा।",
+        "AR": "سأطلب التوصيل عبر الهاتف.",
+        "FA": "من تحویل را با تلفن سفارش می‌دهم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "delivery": {
+      "EN": "delivery",
+      "ID": "pengiriman",
+      "ES": "entrega",
+      "VI": "giao hàng",
+      "FR": "livraison",
+      "NE": "वितरण",
+      "BN": "বিতরণ",
+      "ZH": "交货",
+      "KO": "배달",
+      "TL": "paghahatid",
+      "MY": "ပို့ဆောင်မှု",
+      "HI": "वितरण",
+      "AR": "تسليم",
+      "FA": "تحویل"
+    }
+  },
+  "jisho_data": {
+    "slug": "配達",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "配達",
+        "reading": "はいたつ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "delivery"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "配",
+    "達"
+  ],
+  "kanji_data": {
+    "配": {
+      "meanings": [
+        "distribute",
+        "exile",
+        "rationing",
+        "spouse"
+      ],
+      "on_readings": [
+        "ハイ"
+      ],
+      "kun_readings": [
+        "くば.る"
+      ],
+      "stroke_count": 10,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 359,
+      "unicode": "914D",
+      "grade": 3
+    },
+    "達": {
+      "meanings": [
+        "accomplished",
+        "arrive",
+        "attain",
+        "reach"
+      ],
+      "on_readings": [
+        "タツ",
+        "ダ"
+      ],
+      "kun_readings": [
+        "-たち"
+      ],
+      "stroke_count": 12,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 500,
+      "unicode": "9054",
+      "grade": 4
+    }
+  }
 }

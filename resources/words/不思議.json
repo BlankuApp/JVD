@@ -1,326 +1,345 @@
 {
-    "version": "0.2.0",
-    "word": "不思議",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/prYrfYcvG2w",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "不思議",
-        "reading": "ふしぎ",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is ふしぎ which you will often hear in situations where something odd or inexplicable is being discussed, in children's stories, or when people are trying to describe an unusual experience.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"fushigi\" means something mysterious, strange, or unexplainable. It's often used to describe things that are puzzling or beyond ordinary understanding.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "wonderful",
-                "marvelous",
-                "strange",
-                "incredible",
-                "amazing",
-                "curious",
-                "miraculous",
-                "mysterious"
-            ],
-            [
-                "strangely enough",
-                "oddly enough",
-                "for some reason",
-                "curiously"
-            ]
-        ],
-        "meaning_translations": {
-            "wonderful": {
-                "EN": "wonderful",
-                "ID": "luar biasa",
-                "ES": "maravilloso",
-                "VI": "kỳ diệu",
-                "FR": "merveilleux",
-                "NE": "शानदार",
-                "BN": "অদ্ভুত",
-                "ZH": "奇妙",
-                "KO": "신기한",
-                "TL": "kamangha-mangha",
-                "MY": "အံ့ဩဖွယ်",
-                "HI": "अद्भुत",
-                "AR": "رائع",
-                "FA": "شگفت انگیز"
-            },
-            "strangely enough": {
-                "EN": "Mysteriously: something strange happened.",
-                "ID": "Aneh: sesuatu yang aneh terjadi.",
-                "ES": "Extrañamente: sucedió algo extraño.",
-                "VI": "Lạ kỳ: có điều gì đó lạ lùng đã xảy ra.",
-                "FR": "Étrangement: quelque chose d'étrange s'est passé.",
-                "NE": "अनौठो: केही अचम्मको कुरा भयो।",
-                "BN": "অদ্ভুতভাবে: কোন একটি অদ্ভুত কিছু ঘটেছিল।",
-                "ZH": "奇怪的是，发生了一件奇怪的事情。",
-                "KO": "이상하게: 이상한 일이 일어났다.",
-                "TL": "Kakaiba: may nangyari na kakaiba.",
-                "MY": "ထူးဆန်းမှု: ထူးဆန်းသော အရာတစ်ခု ဖြစ်ပျက်ခဲ့ပါသည်။",
-                "HI": "अजीब: कुछ अजीब हुआ।",
-                "AR": "بغرابة: حدث شيء غريب.",
-                "FA": "به طرز عجیبی: چیزی شگفت‌انگیز رخ داد."
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は不思議な人です。",
-                "furigana": "彼(かれ)は不思議(ふしぎ)な人(ひと)です。",
-                "translations": {
-                    "EN": "He is a mysterious person.",
-                    "ID": "Dia orang yang misterius.",
-                    "ES": "Él es una persona misteriosa.",
-                    "VI": "Anh ấy là một người bí ẩn.",
-                    "FR": "C'est une personne mystérieuse.",
-                    "NE": "उनी रहस्यमय व्यक्ति हुन्।",
-                    "BN": "সে একজন রহস্যময় ব্যক্তি।",
-                    "ZH": "他是个神秘的人。",
-                    "KO": "그는 신비로운 사람입니다.",
-                    "TL": "Siya ay isang misteryosong tao.",
-                    "MY": "သူသည် လျှို့ဝှက်တဲ့သူတစ်ဦး ဖြစ်သည်။",
-                    "HI": "वह एक रहस्यमय व्यक्ति है।",
-                    "AR": "إنه شخص غامض.",
-                    "FA": "او شخص مرموزی است."
-                }
-            },
-            {
-                "kanji": "不思議な贈り物をもらった。",
-                "furigana": "不思議(ふしぎ)な贈り物(おくりもの)をもらった。",
-                "translations": {
-                    "EN": "I received a strange gift.",
-                    "ID": "Saya menerima hadiah yang aneh.",
-                    "ES": "Recibí un regalo extraño.",
-                    "VI": "Tôi đã nhận được một món quà kỳ lạ.",
-                    "FR": "J'ai reçu un cadeau étrange.",
-                    "NE": "म एक अजीब गिफ्ट पाएँ।",
-                    "BN": "আমি একটি অদ্ভুত উপহার পেয়েছি।",
-                    "ZH": "我收到了一份奇怪的礼物。",
-                    "KO": "나는 이상한 선물을 받았다.",
-                    "TL": "Nakakakuha ako ng kakaibang regalo.",
-                    "MY": "ကၽြန္ေတာ့္မွာ အံ့ဩဖြယ္ရာ လက္ေဆာင္တစ္ခုရရွိခဲ့ပါတယ္။",
-                    "HI": "मुझे एक अजीब उपहार मिला।",
-                    "AR": "تلقيت هدية غريبة.",
-                    "FA": "یک هدیه عجیب دریافت کردم."
-                }
-            },
-            {
-                "kanji": "あの夜は不思議な経験だった。",
-                "furigana": "あの夜(よる)は不思議(ふしぎ)な経験(けいけん)だった。",
-                "translations": {
-                    "EN": "That night was an unusual experience.",
-                    "ID": "Malam itu adalah pengalaman yang aneh.",
-                    "ES": "Esa noche fue una experiencia inusual.",
-                    "VI": "Đêm đó là một trải nghiệm kỳ lạ.",
-                    "FR": "Cette nuit fut une expérience étrange.",
-                    "NE": "त्यो रात अनौठो अनुभव थियो।",
-                    "BN": "সেদিন রাতটা ছিল একটা অদ্ভুত অভিজ্ঞতা।",
-                    "ZH": "那晚是一次奇异的体验。",
-                    "KO": "그날 밤은 신비로운 경험이었어요.",
-                    "TL": "Iyon gabi ay isang pambihirang karanasan.",
-                    "MY": "အဲ့ဒါ့ညက မှစိတ်ဝင်စားဖွယ်အတွေ့အကြုံတစ်ခုရှိတယ်။",
-                    "HI": "वो रात एक अजीब अनुभव थी।",
-                    "AR": "تلك الليلة كانت تجربة غريبة.",
-                    "FA": "آن شب تجربه عجیبی بود."
-                }
-            },
-            {
-                "kanji": "不思議な国を見ました。",
-                "furigana": "不思議(ふしぎ)な国(くに)を見(み)ました。",
-                "translations": {
-                    "EN": "I saw a land of mystery.",
-                    "ID": "Saya melihat negeri yang misterius.",
-                    "ES": "Vi una tierra de misterio.",
-                    "VI": "Tôi đã thấy một vùng đất bí ẩn.",
-                    "FR": "J'ai vu un pays mystérieux.",
-                    "NE": "मैले रहस्यमय देश देखेँ।",
-                    "BN": "আমি একটি রহস্যময় দেশ দেখেছিলাম।",
-                    "ZH": "我看到了一个神秘的国度。",
-                    "KO": "신비로운 나라를 보았습니다.",
-                    "TL": "Nakita ko ang isang misteryosong bansa.",
-                    "MY": "စိတ်ဝင်စားဖွယ်ရာနိုင်ငံကိုတွေ့မြင်ခဲ့သည်။",
-                    "HI": "मैंने एक रहस्यमय देश देखा।",
-                    "AR": "رأيت أرضًا غامضة.",
-                    "FA": "یک سرزمین مرموز دیدم."
-                }
-            },
-            {
-                "kanji": "不思議な奨学金があった。",
-                "furigana": "不思議(ふしぎ)な奨学金(しょうがくきん)があった。",
-                "translations": {
-                    "EN": "There was a puzzling scholarship.",
-                    "ID": "Ada beasiswa yang membingungkan.",
-                    "ES": "Había una beca desconcertante.",
-                    "VI": "Có một học bổng kỳ lạ.",
-                    "FR": "Il y avait une bourse étrange.",
-                    "NE": "एक अनौठो छात्रवृत्ति थियो ।",
-                    "BN": "একটি রহস্যময় বৃত্তি ছিল।",
-                    "ZH": "有个令人费解的奖学金。",
-                    "KO": "수상한 장학금이 있었다.",
-                    "TL": "Mayroong isang nakakagulat na scholarship.",
-                    "MY": "ထူးဆန်းသော ပညာသင်ဆုတစ်ခုရှိခဲ့သည်။",
-                    "HI": "एक अजीब छात्रवृत्ति थी।",
-                    "AR": "كان هناك منحة دراسية غريبة.",
-                    "FA": "یک بورس تحصیلی گیج کننده وجود داشت."
-                }
-            }
-        ],
-        "synonyms": [
-            "奇妙 : きみょう : strange",
-            "不可思議 : ふかしぎ : mystery"
-        ],
-        "synonyms_explanation": "The most common synonyms of \"fushigi\" are \"kimyo\" and \"fushigi\". \"Kimyo\" means strange or odd, often implying a sense of weirdness. \"Fushigi\" itself spells out as mysterious and unexplainable, often used in a more magical or wonder-inducing context. \"Fushigi\" as a synonym can emphasize the nature of wonder and amazement.",
-        "antonyms": [
-            "普通 : ふつう : normal"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"fushigi\" are \"futsuu\". \"Futsuu\" means ordinary or normal, which contrasts with \"fushigi\" that describes something out of the ordinary or bewildering.",
-        "kanji_details": [
-            {
-                "kanji": "不",
-                "common_words": [
-                    "不足: insufficiency",
-                    "不安: anxiety"
-                ]
-            },
-            {
-                "kanji": "思",
-                "common_words": [
-                    "思考: thought",
-                    "思い出: memories"
-                ]
-            },
-            {
-                "kanji": "議",
-                "common_words": [
-                    "会議: meeting",
-                    "議論: argument"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "不思議",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "不思議",
-                "reading": "ふしぎ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "wonderful",
-                    "marvelous",
-                    "strange",
-                    "incredible",
-                    "amazing",
-                    "curious",
-                    "miraculous",
-                    "mysterious"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi), Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "strangely enough",
-                    "oddly enough",
-                    "for some reason",
-                    "curiously"
-                ],
-                "parts_of_speech": [
-                    "Adverb taking the 'to' particle"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "不",
-        "思",
-        "議"
+  "version": "0.3.0",
+  "word": "不思議",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/prYrfYcvG2w",
+  "in_db": true,
+  "kanji": "不思議",
+  "reading": "ふしぎ",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is ふしぎ which you will often hear in situations where something odd or inexplicable is being discussed, in children's stories, or when people are trying to describe an unusual experience.",
+  "meanings": [
+    [
+      "wonderful",
+      "marvelous",
+      "strange",
+      "incredible",
+      "amazing",
+      "curious",
+      "miraculous",
+      "mysterious"
     ],
-    "kanji_data": {
-        "不": {
-            "meanings": [
-                "bad",
-                "clumsy",
-                "negative",
-                "non-",
-                "ugly"
-            ],
-            "on_readings": [
-                "フ",
-                "ブ"
-            ],
-            "kun_readings": [],
-            "stroke_count": 4,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 101,
-            "unicode": "4E0D",
-            "grade": 4
-        },
-        "思": {
-            "meanings": [
-                "think"
-            ],
-            "on_readings": [
-                "シ"
-            ],
-            "kun_readings": [
-                "おぼ.す",
-                "おも.う",
-                "おもえら.く"
-            ],
-            "stroke_count": 9,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 132,
-            "unicode": "601D",
-            "grade": 2
-        },
-        "議": {
-            "meanings": [
-                "consideration",
-                "consultation",
-                "debate",
-                "deliberation"
-            ],
-            "on_readings": [
-                "ギ"
-            ],
-            "kun_readings": [],
-            "stroke_count": 20,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 25,
-            "unicode": "8B70",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "ふしぎなひと (mysterious person)",
-        "ふしぎなおくりもの (strange gift)",
-        "ふしぎなけいけん (unusual experience)",
-        "ふしぎなくに (land of mystery)",
-        "ふしぎなしょうがく (puzzling scholarship)"
+    [
+      "strangely enough",
+      "oddly enough",
+      "for some reason",
+      "curiously"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"fushigi\" means something mysterious, strange, or unexplainable. It's often used to describe things that are puzzling or beyond ordinary understanding.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "不",
+      "common_words": [
+        "不足: insufficiency",
+        "不安: anxiety"
+      ]
+    },
+    {
+      "kanji": "思",
+      "common_words": [
+        "思考: thought",
+        "思い出: memories"
+      ]
+    },
+    {
+      "kanji": "議",
+      "common_words": [
+        "会議: meeting",
+        "議論: argument"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "奇妙 : きみょう : strange",
+    "不可思議 : ふかしぎ : mystery"
+  ],
+  "synonym_explanation": "The most common synonyms of \"fushigi\" are \"kimyo\" and \"fushigi\". \"Kimyo\" means strange or odd, often implying a sense of weirdness. \"Fushigi\" itself spells out as mysterious and unexplainable, often used in a more magical or wonder-inducing context. \"Fushigi\" as a synonym can emphasize the nature of wonder and amazement.",
+  "antonyms": [
+    "普通 : ふつう : normal"
+  ],
+  "antonym_explanation": "The most common antonyms of the word \"fushigi\" are \"futsuu\". \"Futsuu\" means ordinary or normal, which contrasts with \"fushigi\" that describes something out of the ordinary or bewildering.",
+  "collocations": [
+    {
+      "kanji": "ふしぎなひと (mysterious person)",
+      "furigana": "ふしぎなひと (mysterious person)",
+      "translations": {}
+    },
+    {
+      "kanji": "ふしぎなおくりもの (strange gift)",
+      "furigana": "ふしぎなおくりもの (strange gift)",
+      "translations": {}
+    },
+    {
+      "kanji": "ふしぎなけいけん (unusual experience)",
+      "furigana": "ふしぎなけいけん (unusual experience)",
+      "translations": {}
+    },
+    {
+      "kanji": "ふしぎなくに (land of mystery)",
+      "furigana": "ふしぎなくに (land of mystery)",
+      "translations": {}
+    },
+    {
+      "kanji": "ふしぎなしょうがく (puzzling scholarship)",
+      "furigana": "ふしぎなしょうがく (puzzling scholarship)",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は不思議な人です。",
+      "furigana": "彼(かれ)は不思議(ふしぎ)な人(ひと)です。",
+      "translations": {
+        "EN": "He is a mysterious person.",
+        "ID": "Dia orang yang misterius.",
+        "ES": "Él es una persona misteriosa.",
+        "VI": "Anh ấy là một người bí ẩn.",
+        "FR": "C'est une personne mystérieuse.",
+        "NE": "उनी रहस्यमय व्यक्ति हुन्।",
+        "BN": "সে একজন রহস্যময় ব্যক্তি।",
+        "ZH": "他是个神秘的人。",
+        "KO": "그는 신비로운 사람입니다.",
+        "TL": "Siya ay isang misteryosong tao.",
+        "MY": "သူသည် လျှို့ဝှက်တဲ့သူတစ်ဦး ဖြစ်သည်။",
+        "HI": "वह एक रहस्यमय व्यक्ति है।",
+        "AR": "إنه شخص غامض.",
+        "FA": "او شخص مرموزی است."
+      }
+    },
+    {
+      "kanji": "不思議な贈り物をもらった。",
+      "furigana": "不思議(ふしぎ)な贈り物(おくりもの)をもらった。",
+      "translations": {
+        "EN": "I received a strange gift.",
+        "ID": "Saya menerima hadiah yang aneh.",
+        "ES": "Recibí un regalo extraño.",
+        "VI": "Tôi đã nhận được một món quà kỳ lạ.",
+        "FR": "J'ai reçu un cadeau étrange.",
+        "NE": "म एक अजीब गिफ्ट पाएँ।",
+        "BN": "আমি একটি অদ্ভুত উপহার পেয়েছি।",
+        "ZH": "我收到了一份奇怪的礼物。",
+        "KO": "나는 이상한 선물을 받았다.",
+        "TL": "Nakakakuha ako ng kakaibang regalo.",
+        "MY": "ကၽြန္ေတာ့္မွာ အံ့ဩဖြယ္ရာ လက္ေဆာင္တစ္ခုရရွိခဲ့ပါတယ္။",
+        "HI": "मुझे एक अजीब उपहार मिला।",
+        "AR": "تلقيت هدية غريبة.",
+        "FA": "یک هدیه عجیب دریافت کردم."
+      }
+    },
+    {
+      "kanji": "あの夜は不思議な経験だった。",
+      "furigana": "あの夜(よる)は不思議(ふしぎ)な経験(けいけん)だった。",
+      "translations": {
+        "EN": "That night was an unusual experience.",
+        "ID": "Malam itu adalah pengalaman yang aneh.",
+        "ES": "Esa noche fue una experiencia inusual.",
+        "VI": "Đêm đó là một trải nghiệm kỳ lạ.",
+        "FR": "Cette nuit fut une expérience étrange.",
+        "NE": "त्यो रात अनौठो अनुभव थियो।",
+        "BN": "সেদিন রাতটা ছিল একটা অদ্ভুত অভিজ্ঞতা।",
+        "ZH": "那晚是一次奇异的体验。",
+        "KO": "그날 밤은 신비로운 경험이었어요.",
+        "TL": "Iyon gabi ay isang pambihirang karanasan.",
+        "MY": "အဲ့ဒါ့ညက မှစိတ်ဝင်စားဖွယ်အတွေ့အကြုံတစ်ခုရှိတယ်။",
+        "HI": "वो रात एक अजीब अनुभव थी।",
+        "AR": "تلك الليلة كانت تجربة غريبة.",
+        "FA": "آن شب تجربه عجیبی بود."
+      }
+    },
+    {
+      "kanji": "不思議な国を見ました。",
+      "furigana": "不思議(ふしぎ)な国(くに)を見(み)ました。",
+      "translations": {
+        "EN": "I saw a land of mystery.",
+        "ID": "Saya melihat negeri yang misterius.",
+        "ES": "Vi una tierra de misterio.",
+        "VI": "Tôi đã thấy một vùng đất bí ẩn.",
+        "FR": "J'ai vu un pays mystérieux.",
+        "NE": "मैले रहस्यमय देश देखेँ।",
+        "BN": "আমি একটি রহস্যময় দেশ দেখেছিলাম।",
+        "ZH": "我看到了一个神秘的国度。",
+        "KO": "신비로운 나라를 보았습니다.",
+        "TL": "Nakita ko ang isang misteryosong bansa.",
+        "MY": "စိတ်ဝင်စားဖွယ်ရာနိုင်ငံကိုတွေ့မြင်ခဲ့သည်။",
+        "HI": "मैंने एक रहस्यमय देश देखा।",
+        "AR": "رأيت أرضًا غامضة.",
+        "FA": "یک سرزمین مرموز دیدم."
+      }
+    },
+    {
+      "kanji": "不思議な奨学金があった。",
+      "furigana": "不思議(ふしぎ)な奨学金(しょうがくきん)があった。",
+      "translations": {
+        "EN": "There was a puzzling scholarship.",
+        "ID": "Ada beasiswa yang membingungkan.",
+        "ES": "Había una beca desconcertante.",
+        "VI": "Có một học bổng kỳ lạ.",
+        "FR": "Il y avait une bourse étrange.",
+        "NE": "एक अनौठो छात्रवृत्ति थियो ।",
+        "BN": "একটি রহস্যময় বৃত্তি ছিল।",
+        "ZH": "有个令人费解的奖学金。",
+        "KO": "수상한 장학금이 있었다.",
+        "TL": "Mayroong isang nakakagulat na scholarship.",
+        "MY": "ထူးဆန်းသော ပညာသင်ဆုတစ်ခုရှိခဲ့သည်။",
+        "HI": "एक अजीब छात्रवृत्ति थी।",
+        "AR": "كان هناك منحة دراسية غريبة.",
+        "FA": "یک بورس تحصیلی گیج کننده وجود داشت."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "wonderful": {
+      "EN": "wonderful",
+      "ID": "luar biasa",
+      "ES": "maravilloso",
+      "VI": "kỳ diệu",
+      "FR": "merveilleux",
+      "NE": "शानदार",
+      "BN": "অদ্ভুত",
+      "ZH": "奇妙",
+      "KO": "신기한",
+      "TL": "kamangha-mangha",
+      "MY": "အံ့ဩဖွယ်",
+      "HI": "अद्भुत",
+      "AR": "رائع",
+      "FA": "شگفت انگیز"
+    },
+    "strangely enough": {
+      "EN": "Mysteriously: something strange happened.",
+      "ID": "Aneh: sesuatu yang aneh terjadi.",
+      "ES": "Extrañamente: sucedió algo extraño.",
+      "VI": "Lạ kỳ: có điều gì đó lạ lùng đã xảy ra.",
+      "FR": "Étrangement: quelque chose d'étrange s'est passé.",
+      "NE": "अनौठो: केही अचम्मको कुरा भयो।",
+      "BN": "অদ্ভুতভাবে: কোন একটি অদ্ভুত কিছু ঘটেছিল।",
+      "ZH": "奇怪的是，发生了一件奇怪的事情。",
+      "KO": "이상하게: 이상한 일이 일어났다.",
+      "TL": "Kakaiba: may nangyari na kakaiba.",
+      "MY": "ထူးဆန်းမှု: ထူးဆန်းသော အရာတစ်ခု ဖြစ်ပျက်ခဲ့ပါသည်။",
+      "HI": "अजीब: कुछ अजीब हुआ।",
+      "AR": "بغرابة: حدث شيء غريب.",
+      "FA": "به طرز عجیبی: چیزی شگفت‌انگیز رخ داد."
+    }
+  },
+  "jisho_data": {
+    "slug": "不思議",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "不思議",
+        "reading": "ふしぎ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "wonderful",
+          "marvelous",
+          "strange",
+          "incredible",
+          "amazing",
+          "curious",
+          "miraculous",
+          "mysterious"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi), Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "strangely enough",
+          "oddly enough",
+          "for some reason",
+          "curiously"
+        ],
+        "parts_of_speech": [
+          "Adverb taking the 'to' particle"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "不",
+    "思",
+    "議"
+  ],
+  "kanji_data": {
+    "不": {
+      "meanings": [
+        "bad",
+        "clumsy",
+        "negative",
+        "non-",
+        "ugly"
+      ],
+      "on_readings": [
+        "フ",
+        "ブ"
+      ],
+      "kun_readings": [],
+      "stroke_count": 4,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 101,
+      "unicode": "4E0D",
+      "grade": 4
+    },
+    "思": {
+      "meanings": [
+        "think"
+      ],
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [
+        "おぼ.す",
+        "おも.う",
+        "おもえら.く"
+      ],
+      "stroke_count": 9,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 132,
+      "unicode": "601D",
+      "grade": 2
+    },
+    "議": {
+      "meanings": [
+        "consideration",
+        "consultation",
+        "debate",
+        "deliberation"
+      ],
+      "on_readings": [
+        "ギ"
+      ],
+      "kun_readings": [],
+      "stroke_count": 20,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 25,
+      "unicode": "8B70",
+      "grade": 4
+    }
+  }
 }

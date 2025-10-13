@@ -1,332 +1,351 @@
 {
-    "version": "0.2.0",
-    "word": "偶然",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/lT6cozTC68k",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "偶然",
-        "reading": "ぐうぜん",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is ぐうぜん, which you will often hear in situations where unexpected events occur or when talking about coincidences. ",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word ぐうぜん means an unexpected event or coincidence. It describes something that happens by chance, without any prior planning or intention. This word is often used when something surprising or improbable occurs without anticipation.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "coincidence",
-                "chance",
-                "accident",
-                "fortuity"
-            ],
-            [
-                "by chance",
-                "unexpectedly",
-                "accidentally"
-            ],
-            [
-                "contingency"
-            ]
-        ],
-        "meaning_translations": {
-            "coincidence": {
-                "EN": "coincidence",
-                "ID": "kebetulan",
-                "ES": "coincidencia",
-                "VI": "sự trùng hợp",
-                "FR": "coïncidence",
-                "NE": "संयोगवश",
-                "BN": "সংযোগ",
-                "ZH": "巧合",
-                "KO": "우연",
-                "TL": "pagkakataon",
-                "MY": "မျတ်ပါသော",
-                "HI": "संयोग",
-                "AR": "صدفة",
-                "FA": "تصادف"
-            },
-            "by chance": {
-                "EN": "by chance",
-                "ID": "secara kebetulan",
-                "ES": "por casualidad",
-                "VI": "tình cờ",
-                "FR": "par hasard",
-                "NE": "संयोगवश",
-                "BN": "যদৃচ্ছ",
-                "ZH": "偶然",
-                "KO": "우연히",
-                "TL": "sa pamamagitan ng pagkakataon",
-                "MY": "အမှတ်တရ",
-                "HI": "संयोग से",
-                "AR": "بالصدفة",
-                "FA": "با شانس"
-            },
-            "contingency": {
-                "EN": "Contingency",
-                "ID": "Kebetulan",
-                "ES": "Casualidad",
-                "VI": "Ngẫu nhiên",
-                "FR": "Hasard",
-                "NE": "संयोग",
-                "BN": "আকস্মিকতা",
-                "ZH": "偶然",
-                "KO": "우연",
-                "TL": "Nagkataon",
-                "MY": "အခိုက်အတန့်",
-                "HI": "संयोग",
-                "AR": "مصادفة",
-                "FA": "تصادف"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "昨日、偶然に友達に会った。",
-                "furigana": "昨日(きのう)、偶然(ぐうぜん)に友達(ともだち)に会(あ)った。",
-                "translations": {
-                    "EN": "Yesterday, I bumped into a friend by chance.",
-                    "ID": "Kemarin, saya bertemu teman secara kebetulan.",
-                    "ES": "Ayer me encontré con un amigo por casualidad.",
-                    "VI": "Hôm qua, tôi tình cờ gặp một người bạn.",
-                    "FR": "Hier, j'ai rencontré un ami par hasard.",
-                    "NE": "हिजो, म मित्रसँग संयोगवश भेटेँ।",
-                    "BN": "গতকাল, আমি একটি বন্ধুর সাথে আকস্মিকভাবে দেখা করলাম।",
-                    "ZH": "昨天，我偶然遇到了一位朋友。",
-                    "KO": "어제 우연히 친구를 만났다.",
-                    "TL": "Kahapon, nakatagpo ko ang isang kaibigan nang hindi inaasahan.",
-                    "MY": "မနေ့က အသိအဆန်မိသားစုကို တွေ့မိတယ်။",
-                    "HI": "कल, एक दोस्त से अचानक मुलाकात हो गई।",
-                    "AR": "بالأمس، صادفت صديقًا بالصدفة.",
-                    "FA": "دیروز، به طور تصادفی با دوستم برخورد کردم."
-                }
-            },
-            {
-                "kanji": "彼と偶然のため会った。",
-                "furigana": "彼(かれ)と偶然(ぐうぜん)のため会(あ)った。",
-                "translations": {
-                    "EN": "I met him by chance.",
-                    "ID": "Saya bertemu dengannya secara kebetulan.",
-                    "ES": "Lo conocí por casualidad.",
-                    "VI": "Tôi gặp anh ấy do tình cờ.",
-                    "FR": "Je l'ai rencontré par hasard.",
-                    "NE": "म उसलाई संयोगवश भेटें।",
-                    "BN": "আমি তাকে কাকতালীয়ভাবে দেখা করেছিলাম।",
-                    "ZH": "我碰巧遇见了他。",
-                    "KO": "나는 그를 우연히 만났다.",
-                    "TL": "Nakilala ko siya nang aksidente.",
-                    "MY": "မိမိကို လက်တွေ့ကာ ကိုယ်တိုင်တွေ့ဆုံလိုက်သည်။",
-                    "HI": "मैं उससे संयोगवश मिला।",
-                    "AR": "قابلته بالصدفة.",
-                    "FA": "من او را به طور تصادفی ملاقات کردم."
-                }
-            },
-            {
-                "kanji": "偶然にペンを見つけました。",
-                "furigana": "偶然(ぐうぜん)にペンを見つけました。",
-                "translations": {
-                    "EN": "I happened to find a pen.",
-                    "ID": "Saya kebetulan menemukan pena.",
-                    "ES": "Encontré un bolígrafo por casualidad.",
-                    "VI": "Tôi tình cờ tìm thấy một cây bút.",
-                    "FR": "J'ai trouvé un stylo par hasard.",
-                    "NE": "मैले संयोगले एउटा कलम फेला पारेँ।",
-                    "BN": "আমি ঘটনাক্রমে একটি কলম খুঁজে পেয়েছি।",
-                    "ZH": "我偶然找到了一个笔。",
-                    "KO": "우연히 펜을 찾았어요.",
-                    "TL": "Aksidente kong nakahanap ng bolpen.",
-                    "MY": "ကျွန်တော်ကတိုက်ဆိုင်ကဖြစ်လို့ ဘောပင်တစ်ချောင်းတွေ့ခဲ့တယ်။",
-                    "HI": "मुझे संयोग से एक पेन मिला।",
-                    "AR": "وجدت قلمًا بالصدفة.",
-                    "FA": "من به طور تصادفی یک خودکار پیدا کردم."
-                }
-            },
-            {
-                "kanji": "偶然ですね。",
-                "furigana": "偶然(ぐうぜん)ですね。",
-                "translations": {
-                    "EN": "It's a coincidence.",
-                    "ID": "Itu kebetulan.",
-                    "ES": "Es una coincidencia.",
-                    "VI": "Đó là sự trùng hợp.",
-                    "FR": "C'est une coïncidence.",
-                    "NE": "यसको संयोग हो.",
-                    "BN": "এটা কাকতালীয়।",
-                    "ZH": "这是个巧合。",
-                    "KO": "우연이네요.",
-                    "TL": "Pagkakataon lang yan.",
-                    "MY": "ဒါက ဆန်းကျယ်မှုပါ။",
-                    "HI": "यह एक संयोग है।",
-                    "AR": "يا له من صدفة.",
-                    "FA": "این یک تصادف است."
-                }
-            },
-            {
-                "kanji": "駅で偶然出会った。",
-                "furigana": "駅(えき)で偶然(ぐうぜん)出会(であ)った。",
-                "translations": {
-                    "EN": "I ran into him by chance at the station.",
-                    "ID": "Saya bertemu dengannya secara kebetulan di stasiun.",
-                    "ES": "Me encontré con él por casualidad en la estación.",
-                    "VI": "Tôi tình cờ gặp anh ấy ở nhà ga.",
-                    "FR": "Je l'ai rencontré par hasard à la gare.",
-                    "NE": "स्टेशनमा संयोगले भेट भयो।",
-                    "BN": "স্টেশনে তার সাথে আকস্মিকভাবে দেখা হলো।",
-                    "ZH": "我在车站偶然遇到了他。",
-                    "KO": "역에서 우연히 만났다.",
-                    "TL": "Nagkita kami nang hindi sinasadya sa istasyon.",
-                    "MY": "ဘူတာမှာ တခြေမျှမရှိ ကြုံရတယ်။",
-                    "HI": "स्टेशन पर संयोग से उनसे मिला।",
-                    "AR": "التقيته صدفةً في المحطة.",
-                    "FA": "در ایستگاه به طور تصادفی او را دیدم."
-                }
-            }
-        ],
-        "synonyms": [
-            "不意 : ふい : sudden",
-            "偶発 : ぐうはつ : sudden outbreak"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word ぐうぜん are ふい and ぐうはつ. \n* ふい implies something happening suddenly or without warning, focusing more on the element of surprise.\n* ぐうはつ refers to something that occurs spontaneously or accidentally, often with a bit of unpredictability.",
-        "antonyms": [
-            "必然 : ひつぜん : inevitable"
-        ],
-        "antonyms_explanation": "The most common antonym of the word ぐうぜん is ひつぜん, which refers to something that is inevitable or bound to happen, emphasizing the idea of certainty and predictability. ",
-        "kanji_details": [
-            {
-                "kanji": "偶",
-                "common_words": [
-                    "偶像: image",
-                    "偶数: even number"
-                ]
-            },
-            {
-                "kanji": "然",
-                "common_words": [
-                    "自然: nature",
-                    "突然: abrupt"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "偶然",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "偶然",
-                "reading": "ぐうぜん"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "coincidence",
-                    "chance",
-                    "accident",
-                    "fortuity"
-                ],
-                "parts_of_speech": [
-                    "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "by chance",
-                    "unexpectedly",
-                    "accidentally"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "contingency"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "偶",
-        "然"
+  "version": "0.3.0",
+  "word": "偶然",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/lT6cozTC68k",
+  "in_db": true,
+  "kanji": "偶然",
+  "reading": "ぐうぜん",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is ぐうぜん, which you will often hear in situations where unexpected events occur or when talking about coincidences. ",
+  "meanings": [
+    [
+      "coincidence",
+      "chance",
+      "accident",
+      "fortuity"
     ],
-    "kanji_data": {
-        "偶": {
-            "meanings": [
-                "accidentally",
-                "couple",
-                "even number",
-                "man & wife",
-                "same kind"
-            ],
-            "on_readings": [
-                "グウ"
-            ],
-            "kun_readings": [
-                "たま"
-            ],
-            "stroke_count": 11,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 1602,
-            "unicode": "5076",
-            "grade": 8
-        },
-        "然": {
-            "meanings": [
-                "if so",
-                "in that case",
-                "so",
-                "sort of thing",
-                "well"
-            ],
-            "on_readings": [
-                "ゼン",
-                "ネン"
-            ],
-            "kun_readings": [
-                "さ",
-                "しか",
-                "しか.し",
-                "しか.り"
-            ],
-            "stroke_count": 12,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 401,
-            "unicode": "7136",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "ぐうぜんにあう",
-        "ぐうぜんのため",
-        "ぐうぜんに見つける",
-        "ぐうぜんですね",
-        "ぐうぜん出会う"
+    [
+      "by chance",
+      "unexpectedly",
+      "accidentally"
+    ],
+    [
+      "contingency"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word ぐうぜん means an unexpected event or coincidence. It describes something that happens by chance, without any prior planning or intention. This word is often used when something surprising or improbable occurs without anticipation.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "偶",
+      "common_words": [
+        "偶像: image",
+        "偶数: even number"
+      ]
+    },
+    {
+      "kanji": "然",
+      "common_words": [
+        "自然: nature",
+        "突然: abrupt"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "不意 : ふい : sudden",
+    "偶発 : ぐうはつ : sudden outbreak"
+  ],
+  "synonym_explanation": "The most common synonyms of the word ぐうぜん are ふい and ぐうはつ. \n* ふい implies something happening suddenly or without warning, focusing more on the element of surprise.\n* ぐうはつ refers to something that occurs spontaneously or accidentally, often with a bit of unpredictability.",
+  "antonyms": [
+    "必然 : ひつぜん : inevitable"
+  ],
+  "antonym_explanation": "The most common antonym of the word ぐうぜん is ひつぜん, which refers to something that is inevitable or bound to happen, emphasizing the idea of certainty and predictability. ",
+  "collocations": [
+    {
+      "kanji": "ぐうぜんにあう",
+      "furigana": "ぐうぜんにあう",
+      "translations": {}
+    },
+    {
+      "kanji": "ぐうぜんのため",
+      "furigana": "ぐうぜんのため",
+      "translations": {}
+    },
+    {
+      "kanji": "ぐうぜんに見つける",
+      "furigana": "ぐうぜんに見つける",
+      "translations": {}
+    },
+    {
+      "kanji": "ぐうぜんですね",
+      "furigana": "ぐうぜんですね",
+      "translations": {}
+    },
+    {
+      "kanji": "ぐうぜん出会う",
+      "furigana": "ぐうぜん出会う",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "昨日、偶然に友達に会った。",
+      "furigana": "昨日(きのう)、偶然(ぐうぜん)に友達(ともだち)に会(あ)った。",
+      "translations": {
+        "EN": "Yesterday, I bumped into a friend by chance.",
+        "ID": "Kemarin, saya bertemu teman secara kebetulan.",
+        "ES": "Ayer me encontré con un amigo por casualidad.",
+        "VI": "Hôm qua, tôi tình cờ gặp một người bạn.",
+        "FR": "Hier, j'ai rencontré un ami par hasard.",
+        "NE": "हिजो, म मित्रसँग संयोगवश भेटेँ।",
+        "BN": "গতকাল, আমি একটি বন্ধুর সাথে আকস্মিকভাবে দেখা করলাম।",
+        "ZH": "昨天，我偶然遇到了一位朋友。",
+        "KO": "어제 우연히 친구를 만났다.",
+        "TL": "Kahapon, nakatagpo ko ang isang kaibigan nang hindi inaasahan.",
+        "MY": "မနေ့က အသိအဆန်မိသားစုကို တွေ့မိတယ်။",
+        "HI": "कल, एक दोस्त से अचानक मुलाकात हो गई।",
+        "AR": "بالأمس، صادفت صديقًا بالصدفة.",
+        "FA": "دیروز، به طور تصادفی با دوستم برخورد کردم."
+      }
+    },
+    {
+      "kanji": "彼と偶然のため会った。",
+      "furigana": "彼(かれ)と偶然(ぐうぜん)のため会(あ)った。",
+      "translations": {
+        "EN": "I met him by chance.",
+        "ID": "Saya bertemu dengannya secara kebetulan.",
+        "ES": "Lo conocí por casualidad.",
+        "VI": "Tôi gặp anh ấy do tình cờ.",
+        "FR": "Je l'ai rencontré par hasard.",
+        "NE": "म उसलाई संयोगवश भेटें।",
+        "BN": "আমি তাকে কাকতালীয়ভাবে দেখা করেছিলাম।",
+        "ZH": "我碰巧遇见了他。",
+        "KO": "나는 그를 우연히 만났다.",
+        "TL": "Nakilala ko siya nang aksidente.",
+        "MY": "မိမိကို လက်တွေ့ကာ ကိုယ်တိုင်တွေ့ဆုံလိုက်သည်။",
+        "HI": "मैं उससे संयोगवश मिला।",
+        "AR": "قابلته بالصدفة.",
+        "FA": "من او را به طور تصادفی ملاقات کردم."
+      }
+    },
+    {
+      "kanji": "偶然にペンを見つけました。",
+      "furigana": "偶然(ぐうぜん)にペンを見つけました。",
+      "translations": {
+        "EN": "I happened to find a pen.",
+        "ID": "Saya kebetulan menemukan pena.",
+        "ES": "Encontré un bolígrafo por casualidad.",
+        "VI": "Tôi tình cờ tìm thấy một cây bút.",
+        "FR": "J'ai trouvé un stylo par hasard.",
+        "NE": "मैले संयोगले एउटा कलम फेला पारेँ।",
+        "BN": "আমি ঘটনাক্রমে একটি কলম খুঁজে পেয়েছি।",
+        "ZH": "我偶然找到了一个笔。",
+        "KO": "우연히 펜을 찾았어요.",
+        "TL": "Aksidente kong nakahanap ng bolpen.",
+        "MY": "ကျွန်တော်ကတိုက်ဆိုင်ကဖြစ်လို့ ဘောပင်တစ်ချောင်းတွေ့ခဲ့တယ်။",
+        "HI": "मुझे संयोग से एक पेन मिला।",
+        "AR": "وجدت قلمًا بالصدفة.",
+        "FA": "من به طور تصادفی یک خودکار پیدا کردم."
+      }
+    },
+    {
+      "kanji": "偶然ですね。",
+      "furigana": "偶然(ぐうぜん)ですね。",
+      "translations": {
+        "EN": "It's a coincidence.",
+        "ID": "Itu kebetulan.",
+        "ES": "Es una coincidencia.",
+        "VI": "Đó là sự trùng hợp.",
+        "FR": "C'est une coïncidence.",
+        "NE": "यसको संयोग हो.",
+        "BN": "এটা কাকতালীয়।",
+        "ZH": "这是个巧合。",
+        "KO": "우연이네요.",
+        "TL": "Pagkakataon lang yan.",
+        "MY": "ဒါက ဆန်းကျယ်မှုပါ။",
+        "HI": "यह एक संयोग है।",
+        "AR": "يا له من صدفة.",
+        "FA": "این یک تصادف است."
+      }
+    },
+    {
+      "kanji": "駅で偶然出会った。",
+      "furigana": "駅(えき)で偶然(ぐうぜん)出会(であ)った。",
+      "translations": {
+        "EN": "I ran into him by chance at the station.",
+        "ID": "Saya bertemu dengannya secara kebetulan di stasiun.",
+        "ES": "Me encontré con él por casualidad en la estación.",
+        "VI": "Tôi tình cờ gặp anh ấy ở nhà ga.",
+        "FR": "Je l'ai rencontré par hasard à la gare.",
+        "NE": "स्टेशनमा संयोगले भेट भयो।",
+        "BN": "স্টেশনে তার সাথে আকস্মিকভাবে দেখা হলো।",
+        "ZH": "我在车站偶然遇到了他。",
+        "KO": "역에서 우연히 만났다.",
+        "TL": "Nagkita kami nang hindi sinasadya sa istasyon.",
+        "MY": "ဘူတာမှာ တခြေမျှမရှိ ကြုံရတယ်။",
+        "HI": "स्टेशन पर संयोग से उनसे मिला।",
+        "AR": "التقيته صدفةً في المحطة.",
+        "FA": "در ایستگاه به طور تصادفی او را دیدم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "coincidence": {
+      "EN": "coincidence",
+      "ID": "kebetulan",
+      "ES": "coincidencia",
+      "VI": "sự trùng hợp",
+      "FR": "coïncidence",
+      "NE": "संयोगवश",
+      "BN": "সংযোগ",
+      "ZH": "巧合",
+      "KO": "우연",
+      "TL": "pagkakataon",
+      "MY": "မျတ်ပါသော",
+      "HI": "संयोग",
+      "AR": "صدفة",
+      "FA": "تصادف"
+    },
+    "by chance": {
+      "EN": "by chance",
+      "ID": "secara kebetulan",
+      "ES": "por casualidad",
+      "VI": "tình cờ",
+      "FR": "par hasard",
+      "NE": "संयोगवश",
+      "BN": "যদৃচ্ছ",
+      "ZH": "偶然",
+      "KO": "우연히",
+      "TL": "sa pamamagitan ng pagkakataon",
+      "MY": "အမှတ်တရ",
+      "HI": "संयोग से",
+      "AR": "بالصدفة",
+      "FA": "با شانس"
+    },
+    "contingency": {
+      "EN": "Contingency",
+      "ID": "Kebetulan",
+      "ES": "Casualidad",
+      "VI": "Ngẫu nhiên",
+      "FR": "Hasard",
+      "NE": "संयोग",
+      "BN": "আকস্মিকতা",
+      "ZH": "偶然",
+      "KO": "우연",
+      "TL": "Nagkataon",
+      "MY": "အခိုက်အတန့်",
+      "HI": "संयोग",
+      "AR": "مصادفة",
+      "FA": "تصادف"
+    }
+  },
+  "jisho_data": {
+    "slug": "偶然",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "偶然",
+        "reading": "ぐうぜん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "coincidence",
+          "chance",
+          "accident",
+          "fortuity"
+        ],
+        "parts_of_speech": [
+          "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "by chance",
+          "unexpectedly",
+          "accidentally"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "contingency"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "偶",
+    "然"
+  ],
+  "kanji_data": {
+    "偶": {
+      "meanings": [
+        "accidentally",
+        "couple",
+        "even number",
+        "man & wife",
+        "same kind"
+      ],
+      "on_readings": [
+        "グウ"
+      ],
+      "kun_readings": [
+        "たま"
+      ],
+      "stroke_count": 11,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 1602,
+      "unicode": "5076",
+      "grade": 8
+    },
+    "然": {
+      "meanings": [
+        "if so",
+        "in that case",
+        "so",
+        "sort of thing",
+        "well"
+      ],
+      "on_readings": [
+        "ゼン",
+        "ネン"
+      ],
+      "kun_readings": [
+        "さ",
+        "しか",
+        "しか.し",
+        "しか.り"
+      ],
+      "stroke_count": 12,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 401,
+      "unicode": "7136",
+      "grade": 4
+    }
+  }
 }

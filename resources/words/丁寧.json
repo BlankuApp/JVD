@@ -1,299 +1,318 @@
 {
-    "version": "0.2.0",
-    "word": "丁寧",
-    "jlpt_level": 4,
-    "youtube_link": "https://youtu.be/-TeAGvpuWfs",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "丁寧",
-        "reading": "ていねい",
-        "introduction_japanese": "",
-        "introduction_english": "Dive into our exploration of \"ていねい\"—a word you will frequently encounter in formal settings, customer service interactions, and respectful conversations. Let's enhance your cultural understanding and language skills together!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word 'ていねい' means being polite, courteous, or careful, often describing a manner of actions or speech. It indicates a respectful and thoughtful approach, often used to show regard for others in communication.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "polite",
-                "courteous",
-                "civil"
-            ],
-            [
-                "careful",
-                "close",
-                "thorough",
-                "conscientious"
-            ]
-        ],
-        "meaning_translations": {
-            "polite": {
-                "EN": "Polite",
-                "ID": "Sopan",
-                "ES": "Cortes",
-                "VI": "Lịch sự",
-                "FR": "Poli",
-                "NE": "विनम्र",
-                "BN": "ভদ্র",
-                "ZH": "礼貌",
-                "KO": "공손한",
-                "TL": "Magalang",
-                "MY": "ယဥ်ကျေး",
-                "HI": "सभ्य",
-                "AR": "مهذب",
-                "FA": "مودب"
-            },
-            "careful": {
-                "EN": "careful",
-                "ID": "hati-hati",
-                "ES": "cuidadoso",
-                "VI": "cẩn thận",
-                "FR": "soigneux",
-                "NE": "सावधान",
-                "BN": "সাবধানী",
-                "ZH": "仔细",
-                "KO": "주의 깊은",
-                "TL": "maingat",
-                "MY": "ဂရုစိုက်",
-                "HI": "सावधान",
-                "AR": "حذر",
-                "FA": "احتیاط"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は丁寧に話す。",
-                "furigana": "彼(かれ)は丁寧(ていねい)に話(はな)す。",
-                "translations": {
-                    "EN": "He speaks politely.",
-                    "ID": "Dia berbicara dengan sopan.",
-                    "ES": "Él habla cortésmente.",
-                    "VI": "Anh ấy nói chuyện lịch sự.",
-                    "FR": "Il parle poliment.",
-                    "NE": "उहाँले सभ्य रूपमा बोल्नु हुन्छ।",
-                    "BN": "সে ভদ্রভাবে কথা বলে।",
-                    "ZH": "他礼貌地说话。",
-                    "KO": "그는 정중하게 말합니다.",
-                    "TL": "Siya ay nagsasalita ng may paggalang.",
-                    "MY": "သူဟာယဉ်ပါးစွာပြောပါတယ်။",
-                    "HI": "वह शिष्टाचार से बात करता है।",
-                    "AR": "هو يتحدث بأدب.",
-                    "FA": "او مودبانه صحبت می‌کند."
-                }
-            },
-            {
-                "kanji": "手紙を丁寧に書きます。",
-                "furigana": "手紙(てがみ)を丁寧(ていねい)に書(か)きます。",
-                "translations": {
-                    "EN": "I will write the letter neatly.",
-                    "ID": "Saya akan menulis surat dengan rapi.",
-                    "ES": "Escribiré la carta con cuidado.",
-                    "VI": "Tôi sẽ viết lá thư một cách cẩn thận.",
-                    "FR": "Je vais écrire la lettre soigneusement.",
-                    "NE": "पत्रलाई नीटसँग लेख्छु।",
-                    "BN": "আমি চিঠিটি সযত্নে লিখব।",
-                    "ZH": "我会小心地写这封信。",
-                    "KO": "편지를 정성껏 쓸 것입니다.",
-                    "TL": "Isusulat ko ang liham nang maayos.",
-                    "MY": "ကျွန်တော်အေးအေးဆေးဆေးစာရေးမယ်။",
-                    "HI": "मैं पत्र को सावधानी से लिखूँगा।",
-                    "AR": "سأكتب الرسالة بعناية.",
-                    "FA": "نامه را با دقت و ظرافت خواهم نوشت."
-                }
-            },
-            {
-                "kanji": "彼女は丁寧な対応をします。",
-                "furigana": "彼女(かのじょ)は丁寧(ていねい)な対応(たいおう)をします。",
-                "translations": {
-                    "EN": "She responds politely.",
-                    "ID": "Dia merespons dengan sopan.",
-                    "ES": "Ella responde educadamente.",
-                    "VI": "Cô ấy trả lời một cách lịch sự.",
-                    "FR": "Elle répond poliment.",
-                    "NE": "उनी शिष्टाचारपूर्वक जवाफ दिन्छिन।",
-                    "BN": "তিনি শালীনভাবে সাড়া দেন।",
-                    "ZH": "她礼貌地回应。",
-                    "KO": "그녀는 정중하게 대응합니다.",
-                    "TL": "Siya ay tumutugon nang magalang.",
-                    "MY": "သူမသည်ယဉ်ကျေးစွာဖြေကြားသည်။",
-                    "HI": "वह शिष्टतापूर्वक जवाब देती है।",
-                    "AR": "إنها ترد بأدب.",
-                    "FA": "او با ادبانه پاسخ می‌دهد."
-                }
-            },
-            {
-                "kanji": "彼は丁寧なあいさつをしました。",
-                "furigana": "彼(かれ)は丁寧(ていねい)なあいさつをしました。",
-                "translations": {
-                    "EN": "He gave a polite greeting.",
-                    "ID": "Dia memberi salam yang sopan.",
-                    "ES": "Él hizo un saludo cortés.",
-                    "VI": "Anh ấy đã chào hỏi lịch sự.",
-                    "FR": "Il a fait une salutation polie.",
-                    "NE": "उहाँले शिष्ट अभिवादन गर्नुभयो।",
-                    "BN": "তিনি ভদ্রভাবে অভিবাদন জানিয়েছেন।",
-                    "ZH": "他打了一个礼貌的招呼。",
-                    "KO": "그는 정중하게 인사했습니다.",
-                    "TL": "Nagbigay siya ng magalang na pagbati.",
-                    "MY": "သူကယဥ်ကျေး‌သောနှုတ်ခွန်းဆက်ခြင်းပေးခဲ့သည်။",
-                    "HI": "उसने विनम्र अभिवादन किया।",
-                    "AR": "لقد وجه تحية مهذبة.",
-                    "FA": "او یک سلام مودبانه داد."
-                }
-            },
-            {
-                "kanji": "彼は丁寧な説明をしました。",
-                "furigana": "彼(かれ)は丁寧(ていねい)な説明(せつめい)をしました。",
-                "translations": {
-                    "EN": "He gave a polite explanation.",
-                    "ID": "Dia memberikan penjelasan yang sopan.",
-                    "ES": "Él dio una explicación educada.",
-                    "VI": "Anh ấy đã giải thích một cách lịch sự.",
-                    "FR": "Il a donné une explication polie.",
-                    "NE": "उहाँले विनम्र व्याख्या गर्नुभयो।",
-                    "BN": "তিনি বিনয়ের সাথে ব্যাখ্যা দিয়েছেন।",
-                    "ZH": "他做了一个礼貌的解释。",
-                    "KO": "그는 정중한 설명을 했습니다.",
-                    "TL": "Nagbigay siya ng magalang na paliwanag.",
-                    "MY": "သူကယဉ်ကျေးစွာရှင်းပြခဲ့သည်။",
-                    "HI": "उन्होंने विनम्रता से व्याख्या की।",
-                    "AR": "قدم شرحًا مهذبًا.",
-                    "FA": "او توضیحات مودبانه‌ای داد."
-                }
-            }
-        ],
-        "synonyms": [
-            "丁重 : ていちょう : polite"
-        ],
-        "synonyms_explanation": "The most common synonym of 'ていねい' is 'ていちょう.' While both words imply politeness and formality, 'ていちょう' often carries a sense of more formal respectfulness used in writing and formal speeches compared to the more general and versatile usage of 'ていねい.'",
-        "antonyms": [
-            "荒い : あらい : rough",
-            "無礼 : ぶれい : rudeness"
-        ],
-        "antonyms_explanation": "The most common antonyms of 'ていねい' are 'あらい' and 'ぶれい.' 'あらい' implies roughness or crudeness, often indicating a lack of care or detail. 'ぶれい,' on the other hand, means rude or disrespectful, which stands in direct contrast to the politeness suggested by 'ていねい.'",
-        "kanji_details": [
-            {
-                "kanji": "丁",
-                "common_words": [
-                    "丁目: district of a town",
-                    "一丁: one leaf"
-                ]
-            },
-            {
-                "kanji": "寧",
-                "common_words": [
-                    "安寧:  peace",
-                    "寧ろ: rather"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "丁寧",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n4"
-        ],
-        "japanese": [
-            {
-                "word": "丁寧",
-                "reading": "ていねい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "polite",
-                    "courteous",
-                    "civil"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi), Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "careful",
-                    "close",
-                    "thorough",
-                    "conscientious"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi), Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "丁",
-        "寧"
+  "version": "0.3.0",
+  "word": "丁寧",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/-TeAGvpuWfs",
+  "in_db": true,
+  "kanji": "丁寧",
+  "reading": "ていねい",
+  "introduction_japanese": "",
+  "introduction_english": "Dive into our exploration of \"ていねい\"—a word you will frequently encounter in formal settings, customer service interactions, and respectful conversations. Let's enhance your cultural understanding and language skills together!",
+  "meanings": [
+    [
+      "polite",
+      "courteous",
+      "civil"
     ],
-    "kanji_data": {
-        "丁": {
-            "meanings": [
-                "4th calendar sign",
-                "counter for guns, tools, leaves or cakes of something",
-                "even number",
-                "street",
-                "town",
-                "ward"
-            ],
-            "on_readings": [
-                "チ",
-                "チョウ",
-                "チン",
-                "テイ",
-                "トウ"
-            ],
-            "kun_readings": [
-                "ひのと"
-            ],
-            "stroke_count": 2,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 1312,
-            "unicode": "4E01",
-            "grade": 3
-        },
-        "寧": {
-            "meanings": [
-                "peaceful",
-                "preferably",
-                "quiet",
-                "rather",
-                "tranquility"
-            ],
-            "on_readings": [
-                "ネイ"
-            ],
-            "kun_readings": [
-                "むし.ろ"
-            ],
-            "stroke_count": 14,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 1697,
-            "unicode": "5BE7",
-            "grade": 8
-        }
-    },
-    "collocations": [
-        "ていねいに話す",
-        "ていねいに書く",
-        "ていねいな対応",
-        "ていねいなあいさつ",
-        "ていねいな説明"
+    [
+      "careful",
+      "close",
+      "thorough",
+      "conscientious"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word 'ていねい' means being polite, courteous, or careful, often describing a manner of actions or speech. It indicates a respectful and thoughtful approach, often used to show regard for others in communication.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "丁",
+      "common_words": [
+        "丁目: district of a town",
+        "一丁: one leaf"
+      ]
+    },
+    {
+      "kanji": "寧",
+      "common_words": [
+        "安寧:  peace",
+        "寧ろ: rather"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "丁重 : ていちょう : polite"
+  ],
+  "synonym_explanation": "The most common synonym of 'ていねい' is 'ていちょう.' While both words imply politeness and formality, 'ていちょう' often carries a sense of more formal respectfulness used in writing and formal speeches compared to the more general and versatile usage of 'ていねい.'",
+  "antonyms": [
+    "荒い : あらい : rough",
+    "無礼 : ぶれい : rudeness"
+  ],
+  "antonym_explanation": "The most common antonyms of 'ていねい' are 'あらい' and 'ぶれい.' 'あらい' implies roughness or crudeness, often indicating a lack of care or detail. 'ぶれい,' on the other hand, means rude or disrespectful, which stands in direct contrast to the politeness suggested by 'ていねい.'",
+  "collocations": [
+    {
+      "kanji": "ていねいに話す",
+      "furigana": "ていねいに話す",
+      "translations": {}
+    },
+    {
+      "kanji": "ていねいに書く",
+      "furigana": "ていねいに書く",
+      "translations": {}
+    },
+    {
+      "kanji": "ていねいな対応",
+      "furigana": "ていねいな対応",
+      "translations": {}
+    },
+    {
+      "kanji": "ていねいなあいさつ",
+      "furigana": "ていねいなあいさつ",
+      "translations": {}
+    },
+    {
+      "kanji": "ていねいな説明",
+      "furigana": "ていねいな説明",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は丁寧に話す。",
+      "furigana": "彼(かれ)は丁寧(ていねい)に話(はな)す。",
+      "translations": {
+        "EN": "He speaks politely.",
+        "ID": "Dia berbicara dengan sopan.",
+        "ES": "Él habla cortésmente.",
+        "VI": "Anh ấy nói chuyện lịch sự.",
+        "FR": "Il parle poliment.",
+        "NE": "उहाँले सभ्य रूपमा बोल्नु हुन्छ।",
+        "BN": "সে ভদ্রভাবে কথা বলে।",
+        "ZH": "他礼貌地说话。",
+        "KO": "그는 정중하게 말합니다.",
+        "TL": "Siya ay nagsasalita ng may paggalang.",
+        "MY": "သူဟာယဉ်ပါးစွာပြောပါတယ်။",
+        "HI": "वह शिष्टाचार से बात करता है।",
+        "AR": "هو يتحدث بأدب.",
+        "FA": "او مودبانه صحبت می‌کند."
+      }
+    },
+    {
+      "kanji": "手紙を丁寧に書きます。",
+      "furigana": "手紙(てがみ)を丁寧(ていねい)に書(か)きます。",
+      "translations": {
+        "EN": "I will write the letter neatly.",
+        "ID": "Saya akan menulis surat dengan rapi.",
+        "ES": "Escribiré la carta con cuidado.",
+        "VI": "Tôi sẽ viết lá thư một cách cẩn thận.",
+        "FR": "Je vais écrire la lettre soigneusement.",
+        "NE": "पत्रलाई नीटसँग लेख्छु।",
+        "BN": "আমি চিঠিটি সযত্নে লিখব।",
+        "ZH": "我会小心地写这封信。",
+        "KO": "편지를 정성껏 쓸 것입니다.",
+        "TL": "Isusulat ko ang liham nang maayos.",
+        "MY": "ကျွန်တော်အေးအေးဆေးဆေးစာရေးမယ်။",
+        "HI": "मैं पत्र को सावधानी से लिखूँगा।",
+        "AR": "سأكتب الرسالة بعناية.",
+        "FA": "نامه را با دقت و ظرافت خواهم نوشت."
+      }
+    },
+    {
+      "kanji": "彼女は丁寧な対応をします。",
+      "furigana": "彼女(かのじょ)は丁寧(ていねい)な対応(たいおう)をします。",
+      "translations": {
+        "EN": "She responds politely.",
+        "ID": "Dia merespons dengan sopan.",
+        "ES": "Ella responde educadamente.",
+        "VI": "Cô ấy trả lời một cách lịch sự.",
+        "FR": "Elle répond poliment.",
+        "NE": "उनी शिष्टाचारपूर्वक जवाफ दिन्छिन।",
+        "BN": "তিনি শালীনভাবে সাড়া দেন।",
+        "ZH": "她礼貌地回应。",
+        "KO": "그녀는 정중하게 대응합니다.",
+        "TL": "Siya ay tumutugon nang magalang.",
+        "MY": "သူမသည်ယဉ်ကျေးစွာဖြေကြားသည်။",
+        "HI": "वह शिष्टतापूर्वक जवाब देती है।",
+        "AR": "إنها ترد بأدب.",
+        "FA": "او با ادبانه پاسخ می‌دهد."
+      }
+    },
+    {
+      "kanji": "彼は丁寧なあいさつをしました。",
+      "furigana": "彼(かれ)は丁寧(ていねい)なあいさつをしました。",
+      "translations": {
+        "EN": "He gave a polite greeting.",
+        "ID": "Dia memberi salam yang sopan.",
+        "ES": "Él hizo un saludo cortés.",
+        "VI": "Anh ấy đã chào hỏi lịch sự.",
+        "FR": "Il a fait une salutation polie.",
+        "NE": "उहाँले शिष्ट अभिवादन गर्नुभयो।",
+        "BN": "তিনি ভদ্রভাবে অভিবাদন জানিয়েছেন।",
+        "ZH": "他打了一个礼貌的招呼。",
+        "KO": "그는 정중하게 인사했습니다.",
+        "TL": "Nagbigay siya ng magalang na pagbati.",
+        "MY": "သူကယဥ်ကျေး‌သောနှုတ်ခွန်းဆက်ခြင်းပေးခဲ့သည်။",
+        "HI": "उसने विनम्र अभिवादन किया।",
+        "AR": "لقد وجه تحية مهذبة.",
+        "FA": "او یک سلام مودبانه داد."
+      }
+    },
+    {
+      "kanji": "彼は丁寧な説明をしました。",
+      "furigana": "彼(かれ)は丁寧(ていねい)な説明(せつめい)をしました。",
+      "translations": {
+        "EN": "He gave a polite explanation.",
+        "ID": "Dia memberikan penjelasan yang sopan.",
+        "ES": "Él dio una explicación educada.",
+        "VI": "Anh ấy đã giải thích một cách lịch sự.",
+        "FR": "Il a donné une explication polie.",
+        "NE": "उहाँले विनम्र व्याख्या गर्नुभयो।",
+        "BN": "তিনি বিনয়ের সাথে ব্যাখ্যা দিয়েছেন।",
+        "ZH": "他做了一个礼貌的解释。",
+        "KO": "그는 정중한 설명을 했습니다.",
+        "TL": "Nagbigay siya ng magalang na paliwanag.",
+        "MY": "သူကယဉ်ကျေးစွာရှင်းပြခဲ့သည်။",
+        "HI": "उन्होंने विनम्रता से व्याख्या की।",
+        "AR": "قدم شرحًا مهذبًا.",
+        "FA": "او توضیحات مودبانه‌ای داد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "polite": {
+      "EN": "Polite",
+      "ID": "Sopan",
+      "ES": "Cortes",
+      "VI": "Lịch sự",
+      "FR": "Poli",
+      "NE": "विनम्र",
+      "BN": "ভদ্র",
+      "ZH": "礼貌",
+      "KO": "공손한",
+      "TL": "Magalang",
+      "MY": "ယဥ်ကျေး",
+      "HI": "सभ्य",
+      "AR": "مهذب",
+      "FA": "مودب"
+    },
+    "careful": {
+      "EN": "careful",
+      "ID": "hati-hati",
+      "ES": "cuidadoso",
+      "VI": "cẩn thận",
+      "FR": "soigneux",
+      "NE": "सावधान",
+      "BN": "সাবধানী",
+      "ZH": "仔细",
+      "KO": "주의 깊은",
+      "TL": "maingat",
+      "MY": "ဂရုစိုက်",
+      "HI": "सावधान",
+      "AR": "حذر",
+      "FA": "احتیاط"
+    }
+  },
+  "jisho_data": {
+    "slug": "丁寧",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n4"
+    ],
+    "japanese": [
+      {
+        "word": "丁寧",
+        "reading": "ていねい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "polite",
+          "courteous",
+          "civil"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi), Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "careful",
+          "close",
+          "thorough",
+          "conscientious"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi), Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "丁",
+    "寧"
+  ],
+  "kanji_data": {
+    "丁": {
+      "meanings": [
+        "4th calendar sign",
+        "counter for guns, tools, leaves or cakes of something",
+        "even number",
+        "street",
+        "town",
+        "ward"
+      ],
+      "on_readings": [
+        "チ",
+        "チョウ",
+        "チン",
+        "テイ",
+        "トウ"
+      ],
+      "kun_readings": [
+        "ひのと"
+      ],
+      "stroke_count": 2,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 1312,
+      "unicode": "4E01",
+      "grade": 3
+    },
+    "寧": {
+      "meanings": [
+        "peaceful",
+        "preferably",
+        "quiet",
+        "rather",
+        "tranquility"
+      ],
+      "on_readings": [
+        "ネイ"
+      ],
+      "kun_readings": [
+        "むし.ろ"
+      ],
+      "stroke_count": 14,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 1697,
+      "unicode": "5BE7",
+      "grade": 8
+    }
+  }
 }

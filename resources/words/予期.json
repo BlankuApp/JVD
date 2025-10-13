@@ -1,348 +1,447 @@
 {
-    "version": "0.2.0",
-    "word": "予期",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/a5TJgTV7c44",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "予期",
-        "reading": "よき",
-        "introduction_japanese": "予期は、未来のことを話すとき、結果を考えるとき、計画やビジネス、研究、安全の話題でよく使う言葉です。日常会話でも、テストや天気、反応を考える場面で出てきます。",
-        "introduction_english": "The noun/suru-verb よき is used when talking about the future, considering results, and in planning, business, research, and safety topics. It also appears in daily talk about tests, weather, and people’s reactions.",
-        "meanings": [
-            [
-                "expectation",
-                "anticipation"
-            ],
-            [
-                "forecast"
-            ]
-        ],
-        "meaning_explanation_japanese": "「予期」は、前もって「そうなるだろう」と考えることです。名詞としても使え、「〜を予期する」で「〜をそうなると考える」という意味になります。天気や仕事では、先の見通しを言うときにも使います。",
-        "meaning_explanation_english": "The word よき means “expectation,” “anticipation,” or “forecast.” As a suru-verb, よきする means “to expect,” “to anticipate,” or “to forecast.”",
-        "kanji_explanation_english": "The first kanji means doing something beforehand. You see it in words like よてい, where it gives the idea of planning ahead, and よさん, where it suggests setting numbers in advance. So it carries a feeling of preparing earlier. The second kanji means a period or a set time. It appears in きかん, which is a length of time, and がっき, which is a school term. It adds the sense of a defined time frame.",
-        "kanji_details": [
-            {
-                "kanji": "予",
-                "common_words": [
-                    "予定 (よてい): schedule; plan",
-                    "予算 (よさん): budget"
-                ]
-            },
-            {
-                "kanji": "期",
-                "common_words": [
-                    "期間 (きかん): period; term",
-                    "学期 (がっき): school term"
-                ]
-            }
-        ],
-        "synonyms": [
-            "予想 : よそう : prediction; expectation",
-            "期待 : きたい : expectation; hope"
-        ],
-        "synonyms_explanation": "The most common synonyms of the よき are よそう and きたい. よそう focuses on predicting outcomes and is neutral. きたい adds a feeling of hope or desire, not just a cool prediction.",
-        "antonyms": [
-            "予想外 : よそうがい : unexpected",
-            "意外 : いがい : unexpected; surprising"
-        ],
-        "antonyms_explanation": "The most common antonyms of the よき are よそうがい and いがい. Both mean something happens outside what you expected, the opposite of thinking ahead.",
-        "examples": [
-            {
-                "kanji": "私は結果を予期する。",
-                "furigana": "私(わたし)は結果(けっか)を予(よ)期(き)する。",
-                "translations": {
-                    "EN": "I expect the outcome.",
-                    "ID": "Saya mengharapkan hasilnya.",
-                    "ES": "Espero el resultado.",
-                    "VI": "Tôi mong đợi kết quả.",
-                    "FR": "J'attends le résultat.",
-                    "NE": "म नतिजाको अपेक्षा गर्छु।",
-                    "BN": "আমি ফলাফল আশা করছি।",
-                    "ZH": "我期待结果。",
-                    "KO": "나는 결과를 예상한다.",
-                    "TL": "Inaasahan ko ang kalalabasan.",
-                    "MY": "ရလဒ်ကို ငါမျှော်လင့်တယ်။",
-                    "HI": "मैं परिणाम की उम्मीद करता हूं।",
-                    "AR": "أتوقع النتيجة.",
-                    "FA": "من انتظار نتیجه را دارم."
-                }
-            },
-            {
-                "kanji": "私たちは事前に問題を予期した。",
-                "furigana": "私(わたし)たちは事前(じぜん)に問題(もんだい)を予(よ)期(き)した。",
-                "translations": {
-                    "EN": "We anticipated the problem in advance.",
-                    "ID": "Kami mengantisipasi masalah tersebut sebelumnya.",
-                    "ES": "Previmos el problema de antemano.",
-                    "VI": "Chúng tôi đã lường trước được vấn đề này.",
-                    "FR": "Nous avions anticipé le problème à l’avance.",
-                    "NE": "हामीले पहिले नै समस्याको अनुमान गरेका थियौं।",
-                    "BN": "আমরা আগে থেকেই সমস্যাটি অনুমান করেছিলাম।",
-                    "ZH": "我们提前预见到了这个问题。",
-                    "KO": "우리는 사전에 문제를 예상했다.",
-                    "TL": "Inaasahan namin ang problema nang maaga.",
-                    "MY": "ပြဿနာကို ကျွန်တော်တို့ ကြိုပြီး မှန်းထားတယ်။",
-                    "HI": "हमने इस समस्या का पहले ही अनुमान लगा लिया था।",
-                    "AR": "لقد توقعنا المشكلة مسبقًا.",
-                    "FA": "ما از قبل مشکل را پیش‌بینی کرده بودیم."
-                }
-            },
-            {
-                "kanji": "予期せぬ出来事が起きた。",
-                "furigana": "予(よ)期(き)せぬ出来事(できごと)が起(お)きた。",
-                "translations": {
-                    "EN": "Something unexpected happened.",
-                    "ID": "Sesuatu yang tidak terduga terjadi.",
-                    "ES": "Pasó algo inesperado.",
-                    "VI": "Có điều gì đó bất ngờ đã xảy ra.",
-                    "FR": "Quelque chose d'inattendu s'est produit.",
-                    "NE": "केही अप्रत्याशित घटना भयो।",
-                    "BN": "অপ্রত্যাশিত কিছু ঘটেছে।",
-                    "ZH": "意想不到的事情发生了。",
-                    "KO": "예기치 않은 사건이 일어났다.",
-                    "TL": "May nangyaring hindi inaasahan.",
-                    "MY": "မထင်မှတ်ဘဲ တစ်ခုခုဖြစ်သွားတယ်။",
-                    "HI": "कुछ अप्रत्याशित घटित हुआ।",
-                    "AR": "لقد حدث شيء غير متوقع.",
-                    "FA": "اتفاق غیرمنتظره‌ای افتاد."
-                }
-            },
-            {
-                "kanji": "計画は予期どおりに進んだ。",
-                "furigana": "計画(けいかく)は予(よ)期(き)どおりに進(すす)んだ。",
-                "translations": {
-                    "EN": "The plan went as expected.",
-                    "ID": "Rencananya berjalan seperti yang diharapkan.",
-                    "ES": "El plan salió como se esperaba.",
-                    "VI": "Kế hoạch diễn ra đúng như mong đợi.",
-                    "FR": "Le plan s'est déroulé comme prévu.",
-                    "NE": "योजना अपेक्षा गरेअनुसार नै भयो।",
-                    "BN": "পরিকল্পনাটি প্রত্যাশা অনুযায়ীই হয়েছে।",
-                    "ZH": "计划如预期般顺利进行。",
-                    "KO": "계획은 예상대로 진행되었다.",
-                    "TL": "Natuloy ang plano tulad ng inaasahan.",
-                    "MY": "အစီအစဥ်က မျှော်လင့်ထားသလိုဖြစ်သွားတယ်။",
-                    "HI": "योजना अपेक्षा के अनुरूप ही चली।",
-                    "AR": "لقد سارت الخطة كما هو متوقع.",
-                    "FA": "نقشه همانطور که انتظار می‌رفت پیش رفت."
-                }
-            },
-            {
-                "kanji": "変化を十分に予期しておく。",
-                "furigana": "変化(へんか)を十(じゅう)分(ぶん)に予(よ)期(き)しておく。",
-                "translations": {
-                    "EN": "Anticipate change well.",
-                    "ID": "Antisipasi perubahan dengan baik.",
-                    "ES": "Anticípese bien al cambio.",
-                    "VI": "Dự đoán tốt sự thay đổi.",
-                    "FR": "Anticipez bien le changement.",
-                    "NE": "परिवर्तनको राम्रोसँग अनुमान गर्नुहोस्।",
-                    "BN": "পরিবর্তনের পূর্বাভাস ভালোভাবে নিন।",
-                    "ZH": "很好地预测变化。",
-                    "KO": "변화를 충분히 예상한다.",
-                    "TL": "Asahan ng mabuti ang pagbabago.",
-                    "MY": "အပြောင်းအလဲကို ကောင်းကောင်းကြိုတင်ခန့်မှန်းပါ။",
-                    "HI": "परिवर्तन का अच्छी तरह से पूर्वानुमान लगाएँ।",
-                    "AR": "توقع التغيير جيدا.",
-                    "FA": "تغییرات را به خوبی پیش‌بینی کنید."
-                }
-            },
-            {
-                "kanji": "彼の反応は予期外だった。",
-                "furigana": "彼(かれ)の反応(はんのう)は予(よ)期(き)外(がい)だった。",
-                "translations": {
-                    "EN": "His reaction was unexpected.",
-                    "ID": "Reaksinya tidak terduga.",
-                    "ES": "Su reacción fue inesperada.",
-                    "VI": "Phản ứng của anh ấy thật bất ngờ.",
-                    "FR": "Sa réaction était inattendue.",
-                    "NE": "उनको प्रतिक्रिया अप्रत्याशित थियो।",
-                    "BN": "তার প্রতিক্রিয়া অপ্রত্যাশিত ছিল।",
-                    "ZH": "他的反应出乎意料。",
-                    "KO": "그의 반응은 예기치 못했다.",
-                    "TL": "Ang kanyang reaksyon ay hindi inaasahan.",
-                    "MY": "သူ့တုံ့ပြန်မှုက မထင်မှတ်ဘဲ။",
-                    "HI": "उनकी प्रतिक्रिया अप्रत्याशित थी.",
-                    "AR": "وكان رد فعله غير متوقع.",
-                    "FA": "واکنش او غیرمنتظره بود."
-                }
-            },
-            {
-                "kanji": "この結果は予期以上の成果だ。",
-                "furigana": "この結果(けっか)は予(よ)期(き)以(い)上(じょう)の成(せい)果(か)だ。",
-                "translations": {
-                    "EN": "This result is better than expected.",
-                    "ID": "Hasil ini lebih baik dari yang diharapkan.",
-                    "ES": "Este resultado es mejor de lo esperado.",
-                    "VI": "Kết quả này tốt hơn mong đợi.",
-                    "FR": "Ce résultat est meilleur que prévu.",
-                    "NE": "यो नतिजा अपेक्षा गरेभन्दा राम्रो छ।",
-                    "BN": "এই ফলাফল প্রত্যাশার চেয়েও ভালো।",
-                    "ZH": "这个结果比预期的要好。",
-                    "KO": "이 결과는 예기 이상의 성과다.",
-                    "TL": "Ang resultang ito ay mas mahusay kaysa sa inaasahan.",
-                    "MY": "ဒီရလဒ်က မျှော်လင့်ထားတာထက် ပိုကောင်းပါတယ်။",
-                    "HI": "यह परिणाम अपेक्षा से बेहतर है।",
-                    "AR": "هذه النتيجة أفضل من المتوقع.",
-                    "FA": "این نتیجه بهتر از حد انتظار است."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "expectation": {
-                "ID": "ekspektasi",
-                "ES": "expectativa",
-                "VI": "kỳ vọng",
-                "FR": "attente",
-                "NE": "अपेक्षा",
-                "BN": "প্রত্যাশা",
-                "ZH": "期待",
-                "KO": "기대",
-                "TL": "pag-asa",
-                "MY": "မျှော်လင့်ချက်",
-                "HI": "अपेक्षा",
-                "AR": "توقع",
-                "FA": "انتظار",
-                "EN": [
-                    "anticipation"
-                ]
-            },
-            "forecast": {
-                "ID": "ramalan",
-                "ES": "pronóstico",
-                "VI": "dự báo",
-                "FR": "prévision",
-                "NE": "पूर्वानुमान",
-                "BN": "পূর্বাভাস",
-                "ZH": "预报",
-                "KO": "예측",
-                "TL": "pagtataya",
-                "MY": "ခန့်မှန်းချက်",
-                "HI": "पूर्वानुमान",
-                "AR": "تنبؤ بالمناخ",
-                "FA": "پیش‌بینی",
-                "EN": []
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "予期",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "予期",
-                "reading": "よき"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "expectation",
-                    "anticipation",
-                    "forecast"
-                ],
-                "parts_of_speech": [
-                    "Noun",
-                    "Suru verb",
-                    "Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "予",
-        "期"
+  "version": "0.3.0",
+  "word": "予期",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/a5TJgTV7c44",
+  "in_db": true,
+  "kanji": "予期",
+  "reading": "よき",
+  "introduction_japanese": "予期は、未来のことを話すとき、結果を考えるとき、計画やビジネス、研究、安全の話題でよく使う言葉です。日常会話でも、テストや天気、反応を考える場面で出てきます。",
+  "introduction_english": "The noun/suru-verb よき is used when talking about the future, considering results, and in planning, business, research, and safety topics. It also appears in daily talk about tests, weather, and people’s reactions.",
+  "meanings": [
+    [
+      "expectation",
+      "anticipation"
     ],
-    "kanji_data": {
-        "予": {
-            "freq_mainichi_shinbun": 180,
-            "grade": 3,
-            "heisig_en": "beforehand",
-            "jlpt": 3,
-            "kanji": "予",
-            "kun_readings": [
-                "あらかじ.め"
-            ],
-            "meanings": [
-                "I",
-                "beforehand",
-                "myself",
-                "previous"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "シャ",
-                "ヨ"
-            ],
-            "stroke_count": 4,
-            "unicode": "4E88"
-        },
-        "期": {
-            "freq_mainichi_shinbun": 117,
-            "grade": 3,
-            "heisig_en": "period",
-            "jlpt": 3,
-            "kanji": "期",
-            "kun_readings": [],
-            "meanings": [
-                "date",
-                "period",
-                "term",
-                "time"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "キ",
-                "ゴ"
-            ],
-            "stroke_count": 12,
-            "unicode": "671F"
-        }
-    },
-    "collocations": [
-        "事態を予期する",
-        "結果を予期する",
-        "変化を予期する",
-        "反応を予期する",
-        "事前に予期する",
-        "十分に予期する",
-        "おおよそ予期する",
-        "全く予期しない",
-        "まったく予期しなかった",
-        "予期せず",
-        "予期に反する",
-        "予期に沿う",
-        "予期に達する",
-        "予期に届く",
-        "予期に違わず",
-        "予期せぬ出来事",
-        "予期外の反応",
-        "予期しがたい結果",
-        "予期どおりの展開",
-        "予期以上の成果",
-        "将来の予期",
-        "期待との予期",
-        "予期の範囲",
-        "予期の違い",
-        "予期の変化"
+    [
+      "forecast"
     ]
+  ],
+  "meaning_explanation_japanese": "「予期」は、前もって「そうなるだろう」と考えることです。名詞としても使え、「〜を予期する」で「〜をそうなると考える」という意味になります。天気や仕事では、先の見通しを言うときにも使います。",
+  "meaning_explanation_english": "The word よき means “expectation,” “anticipation,” or “forecast.” As a suru-verb, よきする means “to expect,” “to anticipate,” or “to forecast.”",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "予",
+      "common_words": [
+        "予定 (よてい): schedule; plan",
+        "予算 (よさん): budget"
+      ]
+    },
+    {
+      "kanji": "期",
+      "common_words": [
+        "期間 (きかん): period; term",
+        "学期 (がっき): school term"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means doing something beforehand. You see it in words like よてい, where it gives the idea of planning ahead, and よさん, where it suggests setting numbers in advance. So it carries a feeling of preparing earlier. The second kanji means a period or a set time. It appears in きかん, which is a length of time, and がっき, which is a school term. It adds the sense of a defined time frame.",
+  "synonyms": [
+    "予想 : よそう : prediction; expectation",
+    "期待 : きたい : expectation; hope"
+  ],
+  "synonym_explanation": "The most common synonyms of the よき are よそう and きたい. よそう focuses on predicting outcomes and is neutral. きたい adds a feeling of hope or desire, not just a cool prediction.",
+  "antonyms": [
+    "予想外 : よそうがい : unexpected",
+    "意外 : いがい : unexpected; surprising"
+  ],
+  "antonym_explanation": "The most common antonyms of the よき are よそうがい and いがい. Both mean something happens outside what you expected, the opposite of thinking ahead.",
+  "collocations": [
+    {
+      "kanji": "事態を予期する",
+      "furigana": "事態を予期する",
+      "translations": {}
+    },
+    {
+      "kanji": "結果を予期する",
+      "furigana": "結果を予期する",
+      "translations": {}
+    },
+    {
+      "kanji": "変化を予期する",
+      "furigana": "変化を予期する",
+      "translations": {}
+    },
+    {
+      "kanji": "反応を予期する",
+      "furigana": "反応を予期する",
+      "translations": {}
+    },
+    {
+      "kanji": "事前に予期する",
+      "furigana": "事前に予期する",
+      "translations": {}
+    },
+    {
+      "kanji": "十分に予期する",
+      "furigana": "十分に予期する",
+      "translations": {}
+    },
+    {
+      "kanji": "おおよそ予期する",
+      "furigana": "おおよそ予期する",
+      "translations": {}
+    },
+    {
+      "kanji": "全く予期しない",
+      "furigana": "全く予期しない",
+      "translations": {}
+    },
+    {
+      "kanji": "まったく予期しなかった",
+      "furigana": "まったく予期しなかった",
+      "translations": {}
+    },
+    {
+      "kanji": "予期せず",
+      "furigana": "予期せず",
+      "translations": {}
+    },
+    {
+      "kanji": "予期に反する",
+      "furigana": "予期に反する",
+      "translations": {}
+    },
+    {
+      "kanji": "予期に沿う",
+      "furigana": "予期に沿う",
+      "translations": {}
+    },
+    {
+      "kanji": "予期に達する",
+      "furigana": "予期に達する",
+      "translations": {}
+    },
+    {
+      "kanji": "予期に届く",
+      "furigana": "予期に届く",
+      "translations": {}
+    },
+    {
+      "kanji": "予期に違わず",
+      "furigana": "予期に違わず",
+      "translations": {}
+    },
+    {
+      "kanji": "予期せぬ出来事",
+      "furigana": "予期せぬ出来事",
+      "translations": {}
+    },
+    {
+      "kanji": "予期外の反応",
+      "furigana": "予期外の反応",
+      "translations": {}
+    },
+    {
+      "kanji": "予期しがたい結果",
+      "furigana": "予期しがたい結果",
+      "translations": {}
+    },
+    {
+      "kanji": "予期どおりの展開",
+      "furigana": "予期どおりの展開",
+      "translations": {}
+    },
+    {
+      "kanji": "予期以上の成果",
+      "furigana": "予期以上の成果",
+      "translations": {}
+    },
+    {
+      "kanji": "将来の予期",
+      "furigana": "将来の予期",
+      "translations": {}
+    },
+    {
+      "kanji": "期待との予期",
+      "furigana": "期待との予期",
+      "translations": {}
+    },
+    {
+      "kanji": "予期の範囲",
+      "furigana": "予期の範囲",
+      "translations": {}
+    },
+    {
+      "kanji": "予期の違い",
+      "furigana": "予期の違い",
+      "translations": {}
+    },
+    {
+      "kanji": "予期の変化",
+      "furigana": "予期の変化",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "私は結果を予期する。",
+      "furigana": "私(わたし)は結果(けっか)を予(よ)期(き)する。",
+      "translations": {
+        "EN": "I expect the outcome.",
+        "ID": "Saya mengharapkan hasilnya.",
+        "ES": "Espero el resultado.",
+        "VI": "Tôi mong đợi kết quả.",
+        "FR": "J'attends le résultat.",
+        "NE": "म नतिजाको अपेक्षा गर्छु।",
+        "BN": "আমি ফলাফল আশা করছি।",
+        "ZH": "我期待结果。",
+        "KO": "나는 결과를 예상한다.",
+        "TL": "Inaasahan ko ang kalalabasan.",
+        "MY": "ရလဒ်ကို ငါမျှော်လင့်တယ်။",
+        "HI": "मैं परिणाम की उम्मीद करता हूं।",
+        "AR": "أتوقع النتيجة.",
+        "FA": "من انتظار نتیجه را دارم."
+      }
+    },
+    {
+      "kanji": "私たちは事前に問題を予期した。",
+      "furigana": "私(わたし)たちは事前(じぜん)に問題(もんだい)を予(よ)期(き)した。",
+      "translations": {
+        "EN": "We anticipated the problem in advance.",
+        "ID": "Kami mengantisipasi masalah tersebut sebelumnya.",
+        "ES": "Previmos el problema de antemano.",
+        "VI": "Chúng tôi đã lường trước được vấn đề này.",
+        "FR": "Nous avions anticipé le problème à l’avance.",
+        "NE": "हामीले पहिले नै समस्याको अनुमान गरेका थियौं।",
+        "BN": "আমরা আগে থেকেই সমস্যাটি অনুমান করেছিলাম।",
+        "ZH": "我们提前预见到了这个问题。",
+        "KO": "우리는 사전에 문제를 예상했다.",
+        "TL": "Inaasahan namin ang problema nang maaga.",
+        "MY": "ပြဿနာကို ကျွန်တော်တို့ ကြိုပြီး မှန်းထားတယ်။",
+        "HI": "हमने इस समस्या का पहले ही अनुमान लगा लिया था।",
+        "AR": "لقد توقعنا المشكلة مسبقًا.",
+        "FA": "ما از قبل مشکل را پیش‌بینی کرده بودیم."
+      }
+    },
+    {
+      "kanji": "予期せぬ出来事が起きた。",
+      "furigana": "予(よ)期(き)せぬ出来事(できごと)が起(お)きた。",
+      "translations": {
+        "EN": "Something unexpected happened.",
+        "ID": "Sesuatu yang tidak terduga terjadi.",
+        "ES": "Pasó algo inesperado.",
+        "VI": "Có điều gì đó bất ngờ đã xảy ra.",
+        "FR": "Quelque chose d'inattendu s'est produit.",
+        "NE": "केही अप्रत्याशित घटना भयो।",
+        "BN": "অপ্রত্যাশিত কিছু ঘটেছে।",
+        "ZH": "意想不到的事情发生了。",
+        "KO": "예기치 않은 사건이 일어났다.",
+        "TL": "May nangyaring hindi inaasahan.",
+        "MY": "မထင်မှတ်ဘဲ တစ်ခုခုဖြစ်သွားတယ်။",
+        "HI": "कुछ अप्रत्याशित घटित हुआ।",
+        "AR": "لقد حدث شيء غير متوقع.",
+        "FA": "اتفاق غیرمنتظره‌ای افتاد."
+      }
+    },
+    {
+      "kanji": "計画は予期どおりに進んだ。",
+      "furigana": "計画(けいかく)は予(よ)期(き)どおりに進(すす)んだ。",
+      "translations": {
+        "EN": "The plan went as expected.",
+        "ID": "Rencananya berjalan seperti yang diharapkan.",
+        "ES": "El plan salió como se esperaba.",
+        "VI": "Kế hoạch diễn ra đúng như mong đợi.",
+        "FR": "Le plan s'est déroulé comme prévu.",
+        "NE": "योजना अपेक्षा गरेअनुसार नै भयो।",
+        "BN": "পরিকল্পনাটি প্রত্যাশা অনুযায়ীই হয়েছে।",
+        "ZH": "计划如预期般顺利进行。",
+        "KO": "계획은 예상대로 진행되었다.",
+        "TL": "Natuloy ang plano tulad ng inaasahan.",
+        "MY": "အစီအစဥ်က မျှော်လင့်ထားသလိုဖြစ်သွားတယ်။",
+        "HI": "योजना अपेक्षा के अनुरूप ही चली।",
+        "AR": "لقد سارت الخطة كما هو متوقع.",
+        "FA": "نقشه همانطور که انتظار می‌رفت پیش رفت."
+      }
+    },
+    {
+      "kanji": "変化を十分に予期しておく。",
+      "furigana": "変化(へんか)を十(じゅう)分(ぶん)に予(よ)期(き)しておく。",
+      "translations": {
+        "EN": "Anticipate change well.",
+        "ID": "Antisipasi perubahan dengan baik.",
+        "ES": "Anticípese bien al cambio.",
+        "VI": "Dự đoán tốt sự thay đổi.",
+        "FR": "Anticipez bien le changement.",
+        "NE": "परिवर्तनको राम्रोसँग अनुमान गर्नुहोस्।",
+        "BN": "পরিবর্তনের পূর্বাভাস ভালোভাবে নিন।",
+        "ZH": "很好地预测变化。",
+        "KO": "변화를 충분히 예상한다.",
+        "TL": "Asahan ng mabuti ang pagbabago.",
+        "MY": "အပြောင်းအလဲကို ကောင်းကောင်းကြိုတင်ခန့်မှန်းပါ။",
+        "HI": "परिवर्तन का अच्छी तरह से पूर्वानुमान लगाएँ।",
+        "AR": "توقع التغيير جيدا.",
+        "FA": "تغییرات را به خوبی پیش‌بینی کنید."
+      }
+    },
+    {
+      "kanji": "彼の反応は予期外だった。",
+      "furigana": "彼(かれ)の反応(はんのう)は予(よ)期(き)外(がい)だった。",
+      "translations": {
+        "EN": "His reaction was unexpected.",
+        "ID": "Reaksinya tidak terduga.",
+        "ES": "Su reacción fue inesperada.",
+        "VI": "Phản ứng của anh ấy thật bất ngờ.",
+        "FR": "Sa réaction était inattendue.",
+        "NE": "उनको प्रतिक्रिया अप्रत्याशित थियो।",
+        "BN": "তার প্রতিক্রিয়া অপ্রত্যাশিত ছিল।",
+        "ZH": "他的反应出乎意料。",
+        "KO": "그의 반응은 예기치 못했다.",
+        "TL": "Ang kanyang reaksyon ay hindi inaasahan.",
+        "MY": "သူ့တုံ့ပြန်မှုက မထင်မှတ်ဘဲ။",
+        "HI": "उनकी प्रतिक्रिया अप्रत्याशित थी.",
+        "AR": "وكان رد فعله غير متوقع.",
+        "FA": "واکنش او غیرمنتظره بود."
+      }
+    },
+    {
+      "kanji": "この結果は予期以上の成果だ。",
+      "furigana": "この結果(けっか)は予(よ)期(き)以(い)上(じょう)の成(せい)果(か)だ。",
+      "translations": {
+        "EN": "This result is better than expected.",
+        "ID": "Hasil ini lebih baik dari yang diharapkan.",
+        "ES": "Este resultado es mejor de lo esperado.",
+        "VI": "Kết quả này tốt hơn mong đợi.",
+        "FR": "Ce résultat est meilleur que prévu.",
+        "NE": "यो नतिजा अपेक्षा गरेभन्दा राम्रो छ।",
+        "BN": "এই ফলাফল প্রত্যাশার চেয়েও ভালো।",
+        "ZH": "这个结果比预期的要好。",
+        "KO": "이 결과는 예기 이상의 성과다.",
+        "TL": "Ang resultang ito ay mas mahusay kaysa sa inaasahan.",
+        "MY": "ဒီရလဒ်က မျှော်လင့်ထားတာထက် ပိုကောင်းပါတယ်။",
+        "HI": "यह परिणाम अपेक्षा से बेहतर है।",
+        "AR": "هذه النتيجة أفضل من المتوقع.",
+        "FA": "این نتیجه بهتر از حد انتظار است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "expectation": {
+      "ID": "ekspektasi",
+      "ES": "expectativa",
+      "VI": "kỳ vọng",
+      "FR": "attente",
+      "NE": "अपेक्षा",
+      "BN": "প্রত্যাশা",
+      "ZH": "期待",
+      "KO": "기대",
+      "TL": "pag-asa",
+      "MY": "မျှော်လင့်ချက်",
+      "HI": "अपेक्षा",
+      "AR": "توقع",
+      "FA": "انتظار",
+      "EN": [
+        "anticipation"
+      ]
+    },
+    "forecast": {
+      "ID": "ramalan",
+      "ES": "pronóstico",
+      "VI": "dự báo",
+      "FR": "prévision",
+      "NE": "पूर्वानुमान",
+      "BN": "পূর্বাভাস",
+      "ZH": "预报",
+      "KO": "예측",
+      "TL": "pagtataya",
+      "MY": "ခန့်မှန်းချက်",
+      "HI": "पूर्वानुमान",
+      "AR": "تنبؤ بالمناخ",
+      "FA": "پیش‌بینی",
+      "EN": []
+    }
+  },
+  "jisho_data": {
+    "slug": "予期",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "予期",
+        "reading": "よき"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "expectation",
+          "anticipation",
+          "forecast"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Suru verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "予",
+    "期"
+  ],
+  "kanji_data": {
+    "予": {
+      "freq_mainichi_shinbun": 180,
+      "grade": 3,
+      "heisig_en": "beforehand",
+      "jlpt": 3,
+      "kanji": "予",
+      "kun_readings": [
+        "あらかじ.め"
+      ],
+      "meanings": [
+        "I",
+        "beforehand",
+        "myself",
+        "previous"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "シャ",
+        "ヨ"
+      ],
+      "stroke_count": 4,
+      "unicode": "4E88"
+    },
+    "期": {
+      "freq_mainichi_shinbun": 117,
+      "grade": 3,
+      "heisig_en": "period",
+      "jlpt": 3,
+      "kanji": "期",
+      "kun_readings": [],
+      "meanings": [
+        "date",
+        "period",
+        "term",
+        "time"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "キ",
+        "ゴ"
+      ],
+      "stroke_count": 12,
+      "unicode": "671F"
+    }
+  }
 }

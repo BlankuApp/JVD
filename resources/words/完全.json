@@ -1,310 +1,409 @@
 {
-    "version": "0.2.0",
-    "word": "完全",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/FFe0HiHRHRM",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "完全",
-        "reading": "かんぜん",
-        "introduction_japanese": "完全は、欠けや不足がない状態や、物事がきちんと終わった・達成されたときの会話でよく使われる言葉です。日常の説明や仕事、テスト、システムの動作などいろいろな場面で見かけます。",
-        "introduction_english": "The Na-adjective/noun かんぜん is commonly used to talk about things that are without缺 or fully finished; you see it in daily descriptions, work, tests, systems, and many other situations.",
-        "meanings": [
-            [
-                "perfect",
-                "complete"
-            ]
-        ],
-        "meaning_explanation_japanese": "「完全」は、何かに欠けている部分がなく、十分にそろっている状態や、仕事や処理が最後まできちんと行われたことを表す言葉です。完全に終わった、完全に理解した、というふうに使います。",
-        "meaning_explanation_english": "The word かんぜん means 'perfect' or 'complete'. It describes something with nothing missing or something done fully and correctly.",
-        "kanji_explanation_english": "The first kanji means completion and end. It appears in words like かんりょう and かんせい where it gives the sense of finishing or completion. The second kanji means whole or all. It appears in words like ぜんぶ and ぜんぜん where it gives the sense of entirety or totality.",
-        "kanji_details": [
-            {
-                "kanji": "完",
-                "common_words": [
-                    "完了 (かんりょう): completion",
-                    "完成 (かんせい): completion; being finished"
-                ]
-            },
-            {
-                "kanji": "全",
-                "common_words": [
-                    "全部 (ぜんぶ): all; everything",
-                    "全然 (ぜんぜん): completely; (often used with negatives or casually)"
-                ]
-            }
-        ],
-        "synonyms": [
-            "完璧 : かんぺき : flawless; perfect"
-        ],
-        "synonyms_explanation": "The most common synonym of the かんぜん is かんぺき. かんぺき emphasizes being flawless or without defects, while かんぜん emphasizes being complete or fully done.",
-        "antonyms": [
-            "不完全 : ふかんぜん : incomplete; imperfect"
-        ],
-        "antonyms_explanation": "The most common antonym of the かんぜん is ふかんぜん. ふかんぜん means something is missing or not finished, which is the opposite of かんぜん.",
-        "examples": [
-            {
-                "kanji": "完全な計画を立てた。",
-                "furigana": "完全(かんぜん)な計画(けいかく)を立(た)てた。",
-                "translations": {
-                    "EN": "I had a perfect plan.",
-                    "ID": "Saya punya rencana yang sempurna.",
-                    "ES": "Tenía un plan perfecto.",
-                    "VI": "Tôi đã có một kế hoạch hoàn hảo.",
-                    "FR": "J'avais un plan parfait.",
-                    "NE": "मसँग एउटा उत्तम योजना थियो।",
-                    "BN": "আমার একটা নিখুঁত পরিকল্পনা ছিল।",
-                    "ZH": "我有一个完美的计划。",
-                    "KO": "완전한 계획을 세웠다.",
-                    "TL": "Mayroon akong perpektong plano.",
-                    "MY": "ကျွန်တော့်မှာ ပြီးပြည့်စုံတဲ့ အစီအစဉ်တစ်ခု ရှိခဲ့ပါတယ်။",
-                    "HI": "मेरे पास एकदम सही योजना थी।",
-                    "AR": "لقد كانت لدي خطة مثالية.",
-                    "FA": "من یک برنامه‌ی بی‌نقص داشتم."
-                }
-            },
-            {
-                "kanji": "システムが完全に稼働する。",
-                "furigana": "システムが完全(かんぜん)に稼働(かどう)する。",
-                "translations": {
-                    "EN": "The system is fully operational.",
-                    "ID": "Sistem beroperasi sepenuhnya.",
-                    "ES": "El sistema está completamente operativo.",
-                    "VI": "Hệ thống đang hoạt động hoàn toàn.",
-                    "FR": "Le système est pleinement opérationnel.",
-                    "NE": "प्रणाली पूर्ण रूपमा सञ्चालनमा छ।",
-                    "BN": "সিস্টেমটি সম্পূর্ণরূপে কার্যকর।",
-                    "ZH": "该系统已全面投入运行。",
-                    "KO": "시스템이 완전히 작동합니다.",
-                    "TL": "Ang sistema ay ganap na gumagana.",
-                    "MY": "စနစ်က အပြည့်အဝလည်ပတ်နေပါတယ်။",
-                    "HI": "यह प्रणाली पूर्णतः क्रियाशील है।",
-                    "AR": "النظام يعمل بكامل طاقته.",
-                    "FA": "سیستم کاملاً عملیاتی است."
-                }
-            },
-            {
-                "kanji": "彼の説明は完全に理解できた。",
-                "furigana": "彼(かれ)の説明(せつめい)は完全(かんぜん)に理解(りかい)できた。",
-                "translations": {
-                    "EN": "His explanation made perfect sense.",
-                    "ID": "Penjelasannya sangat masuk akal.",
-                    "ES": "Su explicación tenía todo el sentido.",
-                    "VI": "Lời giải thích của ông hoàn toàn có lý.",
-                    "FR": "Son explication était parfaitement logique.",
-                    "NE": "उनको व्याख्या एकदमै अर्थपूर्ण थियो।",
-                    "BN": "তার ব্যাখ্যাটি নিখুঁতভাবে যুক্তিসঙ্গত ছিল।",
-                    "ZH": "他的解释非常有道理。",
-                    "KO": "그의 설명은 완전히 이해할 수 있었다.",
-                    "TL": "Ang kanyang paliwanag ay may perpektong kahulugan.",
-                    "MY": "သူ၏ ရှင်းလင်းချက်သည် ပြီးပြည့်စုံသော အဓိပ္ပါယ်ရှိသည်။",
-                    "HI": "उनका स्पष्टीकरण बिल्कुल सही था।",
-                    "AR": "لقد كان تفسيره منطقيا تماما.",
-                    "FA": "توضیح او کاملاً منطقی بود."
-                }
-            },
-            {
-                "kanji": "完全犯罪はありえない。",
-                "furigana": "完全(かんぜん)犯罪(はんざい)はありえない。",
-                "translations": {
-                    "EN": "There is no such thing as a perfect crime.",
-                    "ID": "Tidak ada kejahatan yang sempurna.",
-                    "ES": "No existe el crimen perfecto.",
-                    "VI": "Không có tội ác nào là hoàn hảo.",
-                    "FR": "Il n’existe pas de crime parfait.",
-                    "NE": "पूर्ण अपराध भन्ने कुनै चीज हुँदैन।",
-                    "BN": "নিখুঁত অপরাধ বলে কিছু নেই।",
-                    "ZH": "不存在完美的犯罪。",
-                    "KO": "완전 범죄는 있을 수 없다.",
-                    "TL": "Walang perpektong krimen.",
-                    "MY": "ပြီးပြည့်စုံတဲ့ ရာဇ၀တ်မှုဆိုတာ မရှိပါဘူး။",
-                    "HI": "पूर्ण अपराध जैसी कोई चीज नहीं होती।",
-                    "AR": "لا يوجد شيء اسمه جريمة مثالية.",
-                    "FA": "چیزی به نام جرم کامل وجود ندارد."
-                }
-            },
-            {
-                "kanji": "任務を完全に遂行した。",
-                "furigana": "任務(にんむ)を完全(かんぜん)に遂行(すいこう)した。",
-                "translations": {
-                    "EN": "The mission was accomplished perfectly.",
-                    "ID": "Misi itu tercapai dengan sempurna.",
-                    "ES": "La misión se cumplió perfectamente.",
-                    "VI": "Nhiệm vụ đã được hoàn thành một cách hoàn hảo.",
-                    "FR": "La mission a été parfaitement accomplie.",
-                    "NE": "मिसन पूर्ण रूपमा सम्पन्न भयो।",
-                    "BN": "মিশনটি নিখুঁতভাবে সম্পন্ন হয়েছিল।",
-                    "ZH": "任务完美完成。",
-                    "KO": "임무를 완전히 수행했다.",
-                    "TL": "Ang misyon ay ganap na naisakatuparan.",
-                    "MY": "မစ်ရှင်ဟာ ပြီးပြည့်စုံပါတယ်။",
-                    "HI": "मिशन पूरी तरह से पूरा हुआ।",
-                    "AR": "لقد تمت المهمة على أكمل وجه.",
-                    "FA": "ماموریت به طور کامل انجام شد."
-                }
-            },
-            {
-                "kanji": "ほぼ完全な一致があった。",
-                "furigana": "ほぼ完全(かんぜん)な一致(いっち)があった。",
-                "translations": {
-                    "EN": "There was almost perfect agreement.",
-                    "ID": "Terdapat kesepakatan yang hampir sempurna.",
-                    "ES": "Hubo un acuerdo casi perfecto.",
-                    "VI": "Gần như có sự đồng thuận hoàn toàn.",
-                    "FR": "Il y avait un accord presque parfait.",
-                    "NE": "लगभग पूर्ण सहमति भयो।",
-                    "BN": "প্রায় নিখুঁত একমত হয়ে গিয়েছিল।",
-                    "ZH": "几乎完全一致。",
-                    "KO": "거의 완전한 일치가 있었다.",
-                    "TL": "Nagkaroon ng halos perpektong kasunduan.",
-                    "MY": "ပြီးပြည့်စုံလုနီးပါး သဘောတူညီချက်ရှိခဲ့သည်။",
-                    "HI": "इस पर लगभग पूर्ण सहमति थी।",
-                    "AR": "وكان هناك اتفاق شبه كامل.",
-                    "FA": "تقریباً توافق کامل وجود داشت."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "perfect": {
-                "ID": "sempurna",
-                "ES": "perfecto",
-                "VI": "hoàn hảo ",
-                "FR": "parfait",
-                "NE": "उत्तम",
-                "BN": "নিখুঁত",
-                "ZH": "完美的",
-                "KO": "완벽한",
-                "TL": "perpekto",
-                "MY": "ပြီးပြည့်စုံသော",
-                "HI": "उत्तम",
-                "AR": "ممتاز",
-                "FA": "کامل",
-                "EN": [
-                    "complete"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "完全",
-        "is_common": true,
-        "tags": [
-            "wanikani14"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "完全",
-                "reading": "かんぜん"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "perfect",
-                    "complete"
-                ],
-                "parts_of_speech": [
-                    "Na-adjective (keiyodoshi)",
-                    "Noun which may take the genitive case particle 'no'",
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "完",
-        "全"
-    ],
-    "kanji_data": {
-        "完": {
-            "freq_mainichi_shinbun": 595,
-            "grade": 4,
-            "heisig_en": "perfect",
-            "jlpt": 3,
-            "kanji": "完",
-            "kun_readings": [],
-            "meanings": [
-                "completion",
-                "end",
-                "perfect"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "カン"
-            ],
-            "stroke_count": 7,
-            "unicode": "5B8C"
-        },
-        "全": {
-            "freq_mainichi_shinbun": 75,
-            "grade": 3,
-            "heisig_en": "whole",
-            "jlpt": 3,
-            "kanji": "全",
-            "kun_readings": [
-                "すべ.て",
-                "まった.く"
-            ],
-            "meanings": [
-                "all",
-                "complete",
-                "entire",
-                "fulfill",
-                "whole"
-            ],
-            "name_readings": [
-                "たけ",
-                "まさ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ゼン"
-            ],
-            "stroke_count": 6,
-            "unicode": "5168"
-        }
-    },
-    "collocations": [
-        "まったく完全",
-        "真の完全",
-        "ほぼ完全",
-        "完全無欠な",
-        "完全な",
-        "完全性",
-        "完全版",
-        "完全犯罪",
-        "完全一致",
-        "完全燃焼",
-        "障害を完全に克服する",
-        "任務を完全に遂行する",
-        "合意を完全に形成する",
-        "整備を完全に行う",
-        "制度を完全に整える",
-        "完全に満足する",
-        "完全に理解する",
-        "完全に消失する",
-        "完全に解決する",
-        "完全に支配する",
-        "システムが完全に稼働する",
-        "権力が完全に掌握される",
-        "支配が完全に行き届く",
-        "依存が完全に解消する",
-        "検査が完全に終了する"
+  "version": "0.3.0",
+  "word": "完全",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/FFe0HiHRHRM",
+  "in_db": true,
+  "kanji": "完全",
+  "reading": "かんぜん",
+  "introduction_japanese": "完全は、欠けや不足がない状態や、物事がきちんと終わった・達成されたときの会話でよく使われる言葉です。日常の説明や仕事、テスト、システムの動作などいろいろな場面で見かけます。",
+  "introduction_english": "The Na-adjective/noun かんぜん is commonly used to talk about things that are without缺 or fully finished; you see it in daily descriptions, work, tests, systems, and many other situations.",
+  "meanings": [
+    [
+      "perfect",
+      "complete"
     ]
+  ],
+  "meaning_explanation_japanese": "「完全」は、何かに欠けている部分がなく、十分にそろっている状態や、仕事や処理が最後まできちんと行われたことを表す言葉です。完全に終わった、完全に理解した、というふうに使います。",
+  "meaning_explanation_english": "The word かんぜん means 'perfect' or 'complete'. It describes something with nothing missing or something done fully and correctly.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "完",
+      "common_words": [
+        "完了 (かんりょう): completion",
+        "完成 (かんせい): completion; being finished"
+      ]
+    },
+    {
+      "kanji": "全",
+      "common_words": [
+        "全部 (ぜんぶ): all; everything",
+        "全然 (ぜんぜん): completely; (often used with negatives or casually)"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means completion and end. It appears in words like かんりょう and かんせい where it gives the sense of finishing or completion. The second kanji means whole or all. It appears in words like ぜんぶ and ぜんぜん where it gives the sense of entirety or totality.",
+  "synonyms": [
+    "完璧 : かんぺき : flawless; perfect"
+  ],
+  "synonym_explanation": "The most common synonym of the かんぜん is かんぺき. かんぺき emphasizes being flawless or without defects, while かんぜん emphasizes being complete or fully done.",
+  "antonyms": [
+    "不完全 : ふかんぜん : incomplete; imperfect"
+  ],
+  "antonym_explanation": "The most common antonym of the かんぜん is ふかんぜん. ふかんぜん means something is missing or not finished, which is the opposite of かんぜん.",
+  "collocations": [
+    {
+      "kanji": "まったく完全",
+      "furigana": "まったく完全",
+      "translations": {}
+    },
+    {
+      "kanji": "真の完全",
+      "furigana": "真の完全",
+      "translations": {}
+    },
+    {
+      "kanji": "ほぼ完全",
+      "furigana": "ほぼ完全",
+      "translations": {}
+    },
+    {
+      "kanji": "完全無欠な",
+      "furigana": "完全無欠な",
+      "translations": {}
+    },
+    {
+      "kanji": "完全な",
+      "furigana": "完全な",
+      "translations": {}
+    },
+    {
+      "kanji": "完全性",
+      "furigana": "完全性",
+      "translations": {}
+    },
+    {
+      "kanji": "完全版",
+      "furigana": "完全版",
+      "translations": {}
+    },
+    {
+      "kanji": "完全犯罪",
+      "furigana": "完全犯罪",
+      "translations": {}
+    },
+    {
+      "kanji": "完全一致",
+      "furigana": "完全一致",
+      "translations": {}
+    },
+    {
+      "kanji": "完全燃焼",
+      "furigana": "完全燃焼",
+      "translations": {}
+    },
+    {
+      "kanji": "障害を完全に克服する",
+      "furigana": "障害を完全に克服する",
+      "translations": {}
+    },
+    {
+      "kanji": "任務を完全に遂行する",
+      "furigana": "任務を完全に遂行する",
+      "translations": {}
+    },
+    {
+      "kanji": "合意を完全に形成する",
+      "furigana": "合意を完全に形成する",
+      "translations": {}
+    },
+    {
+      "kanji": "整備を完全に行う",
+      "furigana": "整備を完全に行う",
+      "translations": {}
+    },
+    {
+      "kanji": "制度を完全に整える",
+      "furigana": "制度を完全に整える",
+      "translations": {}
+    },
+    {
+      "kanji": "完全に満足する",
+      "furigana": "完全に満足する",
+      "translations": {}
+    },
+    {
+      "kanji": "完全に理解する",
+      "furigana": "完全に理解する",
+      "translations": {}
+    },
+    {
+      "kanji": "完全に消失する",
+      "furigana": "完全に消失する",
+      "translations": {}
+    },
+    {
+      "kanji": "完全に解決する",
+      "furigana": "完全に解決する",
+      "translations": {}
+    },
+    {
+      "kanji": "完全に支配する",
+      "furigana": "完全に支配する",
+      "translations": {}
+    },
+    {
+      "kanji": "システムが完全に稼働する",
+      "furigana": "システムが完全に稼働する",
+      "translations": {}
+    },
+    {
+      "kanji": "権力が完全に掌握される",
+      "furigana": "権力が完全に掌握される",
+      "translations": {}
+    },
+    {
+      "kanji": "支配が完全に行き届く",
+      "furigana": "支配が完全に行き届く",
+      "translations": {}
+    },
+    {
+      "kanji": "依存が完全に解消する",
+      "furigana": "依存が完全に解消する",
+      "translations": {}
+    },
+    {
+      "kanji": "検査が完全に終了する",
+      "furigana": "検査が完全に終了する",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "完全な計画を立てた。",
+      "furigana": "完全(かんぜん)な計画(けいかく)を立(た)てた。",
+      "translations": {
+        "EN": "I had a perfect plan.",
+        "ID": "Saya punya rencana yang sempurna.",
+        "ES": "Tenía un plan perfecto.",
+        "VI": "Tôi đã có một kế hoạch hoàn hảo.",
+        "FR": "J'avais un plan parfait.",
+        "NE": "मसँग एउटा उत्तम योजना थियो।",
+        "BN": "আমার একটা নিখুঁত পরিকল্পনা ছিল।",
+        "ZH": "我有一个完美的计划。",
+        "KO": "완전한 계획을 세웠다.",
+        "TL": "Mayroon akong perpektong plano.",
+        "MY": "ကျွန်တော့်မှာ ပြီးပြည့်စုံတဲ့ အစီအစဉ်တစ်ခု ရှိခဲ့ပါတယ်။",
+        "HI": "मेरे पास एकदम सही योजना थी।",
+        "AR": "لقد كانت لدي خطة مثالية.",
+        "FA": "من یک برنامه‌ی بی‌نقص داشتم."
+      }
+    },
+    {
+      "kanji": "システムが完全に稼働する。",
+      "furigana": "システムが完全(かんぜん)に稼働(かどう)する。",
+      "translations": {
+        "EN": "The system is fully operational.",
+        "ID": "Sistem beroperasi sepenuhnya.",
+        "ES": "El sistema está completamente operativo.",
+        "VI": "Hệ thống đang hoạt động hoàn toàn.",
+        "FR": "Le système est pleinement opérationnel.",
+        "NE": "प्रणाली पूर्ण रूपमा सञ्चालनमा छ।",
+        "BN": "সিস্টেমটি সম্পূর্ণরূপে কার্যকর।",
+        "ZH": "该系统已全面投入运行。",
+        "KO": "시스템이 완전히 작동합니다.",
+        "TL": "Ang sistema ay ganap na gumagana.",
+        "MY": "စနစ်က အပြည့်အဝလည်ပတ်နေပါတယ်။",
+        "HI": "यह प्रणाली पूर्णतः क्रियाशील है।",
+        "AR": "النظام يعمل بكامل طاقته.",
+        "FA": "سیستم کاملاً عملیاتی است."
+      }
+    },
+    {
+      "kanji": "彼の説明は完全に理解できた。",
+      "furigana": "彼(かれ)の説明(せつめい)は完全(かんぜん)に理解(りかい)できた。",
+      "translations": {
+        "EN": "His explanation made perfect sense.",
+        "ID": "Penjelasannya sangat masuk akal.",
+        "ES": "Su explicación tenía todo el sentido.",
+        "VI": "Lời giải thích của ông hoàn toàn có lý.",
+        "FR": "Son explication était parfaitement logique.",
+        "NE": "उनको व्याख्या एकदमै अर्थपूर्ण थियो।",
+        "BN": "তার ব্যাখ্যাটি নিখুঁতভাবে যুক্তিসঙ্গত ছিল।",
+        "ZH": "他的解释非常有道理。",
+        "KO": "그의 설명은 완전히 이해할 수 있었다.",
+        "TL": "Ang kanyang paliwanag ay may perpektong kahulugan.",
+        "MY": "သူ၏ ရှင်းလင်းချက်သည် ပြီးပြည့်စုံသော အဓိပ္ပါယ်ရှိသည်။",
+        "HI": "उनका स्पष्टीकरण बिल्कुल सही था।",
+        "AR": "لقد كان تفسيره منطقيا تماما.",
+        "FA": "توضیح او کاملاً منطقی بود."
+      }
+    },
+    {
+      "kanji": "完全犯罪はありえない。",
+      "furigana": "完全(かんぜん)犯罪(はんざい)はありえない。",
+      "translations": {
+        "EN": "There is no such thing as a perfect crime.",
+        "ID": "Tidak ada kejahatan yang sempurna.",
+        "ES": "No existe el crimen perfecto.",
+        "VI": "Không có tội ác nào là hoàn hảo.",
+        "FR": "Il n’existe pas de crime parfait.",
+        "NE": "पूर्ण अपराध भन्ने कुनै चीज हुँदैन।",
+        "BN": "নিখুঁত অপরাধ বলে কিছু নেই।",
+        "ZH": "不存在完美的犯罪。",
+        "KO": "완전 범죄는 있을 수 없다.",
+        "TL": "Walang perpektong krimen.",
+        "MY": "ပြီးပြည့်စုံတဲ့ ရာဇ၀တ်မှုဆိုတာ မရှိပါဘူး။",
+        "HI": "पूर्ण अपराध जैसी कोई चीज नहीं होती।",
+        "AR": "لا يوجد شيء اسمه جريمة مثالية.",
+        "FA": "چیزی به نام جرم کامل وجود ندارد."
+      }
+    },
+    {
+      "kanji": "任務を完全に遂行した。",
+      "furigana": "任務(にんむ)を完全(かんぜん)に遂行(すいこう)した。",
+      "translations": {
+        "EN": "The mission was accomplished perfectly.",
+        "ID": "Misi itu tercapai dengan sempurna.",
+        "ES": "La misión se cumplió perfectamente.",
+        "VI": "Nhiệm vụ đã được hoàn thành một cách hoàn hảo.",
+        "FR": "La mission a été parfaitement accomplie.",
+        "NE": "मिसन पूर्ण रूपमा सम्पन्न भयो।",
+        "BN": "মিশনটি নিখুঁতভাবে সম্পন্ন হয়েছিল।",
+        "ZH": "任务完美完成。",
+        "KO": "임무를 완전히 수행했다.",
+        "TL": "Ang misyon ay ganap na naisakatuparan.",
+        "MY": "မစ်ရှင်ဟာ ပြီးပြည့်စုံပါတယ်။",
+        "HI": "मिशन पूरी तरह से पूरा हुआ।",
+        "AR": "لقد تمت المهمة على أكمل وجه.",
+        "FA": "ماموریت به طور کامل انجام شد."
+      }
+    },
+    {
+      "kanji": "ほぼ完全な一致があった。",
+      "furigana": "ほぼ完全(かんぜん)な一致(いっち)があった。",
+      "translations": {
+        "EN": "There was almost perfect agreement.",
+        "ID": "Terdapat kesepakatan yang hampir sempurna.",
+        "ES": "Hubo un acuerdo casi perfecto.",
+        "VI": "Gần như có sự đồng thuận hoàn toàn.",
+        "FR": "Il y avait un accord presque parfait.",
+        "NE": "लगभग पूर्ण सहमति भयो।",
+        "BN": "প্রায় নিখুঁত একমত হয়ে গিয়েছিল।",
+        "ZH": "几乎完全一致。",
+        "KO": "거의 완전한 일치가 있었다.",
+        "TL": "Nagkaroon ng halos perpektong kasunduan.",
+        "MY": "ပြီးပြည့်စုံလုနီးပါး သဘောတူညီချက်ရှိခဲ့သည်။",
+        "HI": "इस पर लगभग पूर्ण सहमति थी।",
+        "AR": "وكان هناك اتفاق شبه كامل.",
+        "FA": "تقریباً توافق کامل وجود داشت."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "perfect": {
+      "ID": "sempurna",
+      "ES": "perfecto",
+      "VI": "hoàn hảo ",
+      "FR": "parfait",
+      "NE": "उत्तम",
+      "BN": "নিখুঁত",
+      "ZH": "完美的",
+      "KO": "완벽한",
+      "TL": "perpekto",
+      "MY": "ပြီးပြည့်စုံသော",
+      "HI": "उत्तम",
+      "AR": "ممتاز",
+      "FA": "کامل",
+      "EN": [
+        "complete"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "完全",
+    "is_common": true,
+    "tags": [
+      "wanikani14"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "完全",
+        "reading": "かんぜん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "perfect",
+          "complete"
+        ],
+        "parts_of_speech": [
+          "Na-adjective (keiyodoshi)",
+          "Noun which may take the genitive case particle 'no'",
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "完",
+    "全"
+  ],
+  "kanji_data": {
+    "完": {
+      "freq_mainichi_shinbun": 595,
+      "grade": 4,
+      "heisig_en": "perfect",
+      "jlpt": 3,
+      "kanji": "完",
+      "kun_readings": [],
+      "meanings": [
+        "completion",
+        "end",
+        "perfect"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "カン"
+      ],
+      "stroke_count": 7,
+      "unicode": "5B8C"
+    },
+    "全": {
+      "freq_mainichi_shinbun": 75,
+      "grade": 3,
+      "heisig_en": "whole",
+      "jlpt": 3,
+      "kanji": "全",
+      "kun_readings": [
+        "すべ.て",
+        "まった.く"
+      ],
+      "meanings": [
+        "all",
+        "complete",
+        "entire",
+        "fulfill",
+        "whole"
+      ],
+      "name_readings": [
+        "たけ",
+        "まさ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ゼン"
+      ],
+      "stroke_count": 6,
+      "unicode": "5168"
+    }
+  }
 }

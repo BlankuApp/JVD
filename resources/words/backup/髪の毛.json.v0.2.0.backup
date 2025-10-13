@@ -1,0 +1,328 @@
+{
+  "version": "0.2.0",
+  "word": "髪の毛",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/66u1MkjojU4",
+  "in_db": true,
+  "ai_explanation": {
+    "kanji": "髪の毛",
+    "reading": "かみのけ",
+    "introduction_japanese": "「髪の毛」は、身だしなみやヘアスタイル、体の変化（抜ける・伸びる）について話すときによく使う言葉です。日常会話や美容院での会話でよく出てきます。",
+    "introduction_english": "The noun かみのけ is commonly used when talking about grooming, hairstyles, and changes to the hair like falling out or growing. You'll hear it a lot in everyday conversations and at hair salons.",
+    "meanings": [
+      [
+        "hair (on the head)",
+        "(a) hair"
+      ]
+    ],
+    "meaning_explanation_japanese": "「髪の毛」は、頭についている毛のことを指す言葉です。一本の毛を指すときも、全体の髪を指すときも使えます。",
+    "meaning_explanation_english": "The word かみのけ means the hair on your head. You can use it to talk about a single hair or your hair in general.",
+    "kanji_explanation_english": "The first kanji means hair of the head. It appears in words like かみがた and しらが. In かみがた it helps describe a hairstyle and in しらが it shows the hair's color change. The second kanji means fur or hair. It appears in words like もうふ and けいと. In もうふ it refers to a soft, fuzzy blanket and in けいと it refers to yarn made of fibers similar to hair.",
+    "kanji_details": [
+      {
+        "kanji": "髪",
+        "meanings": [
+          "hair of the head"
+        ],
+        "on_readings": [
+          "ハツ"
+        ],
+        "kun_readings": [
+          "かみ"
+        ],
+        "common_words": [
+          "髪型 (かみがた): hairstyle",
+          "白髪 (しらが): gray hair"
+        ]
+      },
+      {
+        "kanji": "毛",
+        "meanings": [
+          "fur",
+          "hair",
+          "down"
+        ],
+        "on_readings": [
+          "モウ"
+        ],
+        "kun_readings": [
+          "け"
+        ],
+        "common_words": [
+          "毛布 (もうふ): blanket",
+          "毛糸 (けいと): yarn"
+        ]
+      }
+    ],
+    "synonyms": [
+      "髪 : かみ : hair"
+    ],
+    "synonyms_explanation": "The most common synonym of the word is かみ. かみ is a shorter word often used to mean hair in general, while かみのけ can sound a bit more descriptive or refer to individual hairs as well as the whole head of hair.",
+    "antonyms": [],
+    "antonyms_explanation": "No common antonyms found.",
+    "examples": [
+      {
+        "kanji": "髪の毛が抜ける。",
+        "furigana": "髪(かみ)の毛(け)が抜(ぬ)ける。",
+        "translations": {
+          "EN": "My hair is falling out.",
+          "ID": "Rambutku rontok.",
+          "ES": "Se me está cayendo el pelo.",
+          "VI": "Tóc tôi đang rụng.",
+          "FR": "Mes cheveux tombent.",
+          "NE": "मेरो कपाल झर्दै छ।",
+          "BN": "আমার চুল পড়ে যাচ্ছে।",
+          "ZH": "我的头发正在脱落。",
+          "KO": "머리카락이 빠진다.",
+          "TL": "Nalalagas na ang buhok ko.",
+          "MY": "ငါ့ဆံပင်တွေ ကျွတ်နေတယ်။",
+          "HI": "मेरे बाल झड़ रहे हैं।",
+          "AR": "شعري يتساقط",
+          "FA": "موهام داره میریزه."
+        }
+      },
+      {
+        "kanji": "髪の毛が伸びる。",
+        "furigana": "髪(かみ)の毛(け)が伸(の)びる。",
+        "translations": {
+          "EN": "My hair grows.",
+          "ID": "Rambutku tumbuh.",
+          "ES": "Mi cabello crece.",
+          "VI": "Tóc tôi dài ra.",
+          "FR": "Mes cheveux poussent.",
+          "NE": "मेरो कपाल बढ्छ।",
+          "BN": "আমার চুল গজায়।",
+          "ZH": "我的头发长出来了。",
+          "KO": "머리카락이 늘어난다.",
+          "TL": "Tumataas ang buhok ko.",
+          "MY": "ငါ့ဆံပင်ပေါက်တယ်။",
+          "HI": "मेरे बाल बढ़ते हैं.",
+          "AR": "شعري ينمو.",
+          "FA": "موهام بلند میشه."
+        }
+      },
+      {
+        "kanji": "髪の毛を切る。",
+        "furigana": "髪(かみ)の毛(け)を切(き)る。",
+        "translations": {
+          "EN": "Get a haircut.",
+          "ID": "Memotong rambut.",
+          "ES": "Hacerse cortar el pelo.",
+          "VI": "Đi cắt tóc.",
+          "FR": "Se faire couper les cheveux.",
+          "NE": "कपाल काट्नुहोस्।",
+          "BN": "চুল কাটাও।",
+          "ZH": "理发。",
+          "KO": "머리카락을 자른다.",
+          "TL": "Magpagupit ka.",
+          "MY": "ဆံပင်ညှပ်ပါ။",
+          "HI": "बाल कटवाओ।",
+          "AR": "احصل على قصة شعر.",
+          "FA": "یه مدل مو بگیر."
+        }
+      },
+      {
+        "kanji": "髪の毛を染める。",
+        "furigana": "髪(かみ)の毛(け)を染(そ)める。",
+        "translations": {
+          "EN": "Dye your hair.",
+          "ID": "Warnai rambutmu.",
+          "ES": "Teñirte el cabello.",
+          "VI": "Nhuộm tóc.",
+          "FR": "Teignez vos cheveux.",
+          "NE": "कपाल रंगाउनुहोस्।",
+          "BN": "তোমার চুল রাঙিয়ে দাও।",
+          "ZH": "染发。",
+          "KO": "머리카락을 염색한다.",
+          "TL": "Kulayan ang iyong buhok.",
+          "MY": "သင့်ဆံပင်ကို ဆေးဆိုးပါ။",
+          "HI": "अपने बाल रंगें.",
+          "AR": "صبغ شعرك.",
+          "FA": "موهایتان را رنگ کنید."
+        }
+      },
+      {
+        "kanji": "髪の毛を洗う。",
+        "furigana": "髪(かみ)の毛(け)を洗(あら)う。",
+        "translations": {
+          "EN": "Wash your hair.",
+          "ID": "Cuci rambutmu.",
+          "ES": "Lava tu cabello.",
+          "VI": "Gội đầu.",
+          "FR": "Lavez vos cheveux.",
+          "NE": "कपाल धुनुहोस्।",
+          "BN": "চুল ধুয়ে ফেলো।",
+          "ZH": "洗头发。",
+          "KO": "머리카락을 씻으십시오.",
+          "TL": "Hugasan ang iyong buhok.",
+          "MY": "သင့်ဆံပင်ကိုဆေးကြောပါ။",
+          "HI": "अपने बाल धो लीजिये।",
+          "AR": "اغسل شعرك",
+          "FA": "موهایتان را بشویید."
+        }
+      },
+      {
+        "kanji": "彼女は髪の毛が長い。",
+        "furigana": "彼女(かのじょ)は髪(かみ)の毛(け)が長(なが)い。",
+        "translations": {
+          "EN": "She has long hair.",
+          "ID": "Dia memiliki rambut panjang.",
+          "ES": "Ella tiene el pelo largo.",
+          "VI": "Cô ấy có mái tóc dài.",
+          "FR": "Elle a les cheveux longs.",
+          "NE": "उनको कपाल लामो छ।",
+          "BN": "তার লম্বা চুল।",
+          "ZH": "她有一头长发。",
+          "KO": "그녀는 머리카락이 길다.",
+          "TL": "Mahaba ang buhok niya.",
+          "MY": "သူမသည် ဆံပင်ရှည်သည်။",
+          "HI": "उसके लम्बे बाल हैं।",
+          "AR": "لديها شعر طويل.",
+          "FA": "او موهای بلندی دارد."
+        }
+      }
+    ],
+    "meaning_translations": {
+      "hair (on the head)": {
+        "ID": "rambut (di kepala)",
+        "ES": "cabello (en la cabeza)",
+        "VI": "tóc (trên đầu)",
+        "FR": "cheveux (sur la tête)",
+        "NE": "कपाल (टाउकोमा)",
+        "BN": "চুল (মাথার উপর)",
+        "ZH": "头发",
+        "KO": "머리카락",
+        "TL": "buhok (sa ulo)",
+        "MY": "ဆံပင် (ခေါင်းပေါ်)",
+        "HI": "सिर के बाल)",
+        "AR": "الشعر (على الرأس)",
+        "FA": "مو (روی سر)",
+        "EN": [
+          "(a) hair"
+        ]
+      }
+    }
+  },
+  "jisho_data": {
+    "slug": "髪の毛",
+    "is_common": true,
+    "tags": [
+      "wanikani44"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "髪の毛",
+        "reading": "かみのけ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "hair (on the head)",
+          "(a) hair"
+        ],
+        "parts_of_speech": [
+          "Expressions (phrases, clauses, etc.)",
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "髪",
+    "毛"
+  ],
+  "kanji_data": {
+    "髪": {
+      "freq_mainichi_shinbun": 1474,
+      "grade": 8,
+      "heisig_en": "hair of the head",
+      "jlpt": 3,
+      "kanji": "髪",
+      "kun_readings": [
+        "かみ"
+      ],
+      "meanings": [
+        "hair of the head"
+      ],
+      "name_readings": [
+        "がた",
+        "ひげ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ハツ"
+      ],
+      "stroke_count": 14,
+      "unicode": "9AEA"
+    },
+    "毛": {
+      "freq_mainichi_shinbun": 1179,
+      "grade": 2,
+      "heisig_en": "fur",
+      "jlpt": 2,
+      "kanji": "毛",
+      "kun_readings": [
+        "け"
+      ],
+      "meanings": [
+        "down",
+        "feather",
+        "fur",
+        "hair"
+      ],
+      "name_readings": [
+        "めん",
+        "も"
+      ],
+      "notes": [],
+      "on_readings": [
+        "モウ"
+      ],
+      "stroke_count": 4,
+      "unicode": "6BDB"
+    }
+  },
+  "collocations": [
+    "髪の毛 が抜ける",
+    "髪の毛 が伸びる",
+    "髪の毛 を切る",
+    "髪の毛 を染める",
+    "髪の毛 を洗う",
+    "長い髪の毛",
+    "短い髪の毛",
+    "柔らかい髪の毛",
+    "ふさふさの髪の毛",
+    "傷んだ髪の毛",
+    "髪の毛 の量",
+    "髪の毛 の状態",
+    "髪の毛 の質",
+    "髪の毛 の色",
+    "髪の毛 の手入れ",
+    "ストレス で 髪の毛が抜ける",
+    "加齢 に よる髪の毛の変化",
+    "栄養不足 で 髪の毛が細くなる",
+    "紫外線 に よって髪の毛が傷む",
+    "シャンプー で 髪の毛を洗う",
+    "髪の毛 先",
+    "髪の毛 束",
+    "髪の毛 量",
+    "髪の毛 質",
+    "髪の毛 色"
+  ]
+}

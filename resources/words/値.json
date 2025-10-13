@@ -1,398 +1,505 @@
 {
-    "version": "0.2.0",
-    "word": "値",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/ZmLdjupBO3I",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "値",
-        "reading": "あたい",
-        "introduction_japanese": "「値」は、買い物やニュース、経済の話、アプリや数学・コンピューターの設定やデータの話でよく使う名詞です。",
-        "introduction_english": "The noun あたい is commonly used in conversations about shopping, economic news, and in math or computing for settings and data.",
-        "meanings": [
-            [
-                "price",
-                "cost"
-            ],
-            [
-                "value",
-                "worth",
-                "merit"
-            ],
-            [
-                "value (mathematics/computing)"
-            ]
-        ],
-        "meaning_explanation_japanese": "「値（あたい）」は、ものの「ねうち」や「いくらか」を表します。また、数学やコンピューターでは、数字やデータとしての数を指します。少しフォーマルな言い方です。",
-        "meaning_explanation_english": "The word あたい means price/cost, value/worth, and the numerical value in math or computing. It sounds a bit formal in everyday speech.",
-        "kanji_explanation_english": "The first kanji means cost, price, or value. You see it in words like すうち and ねだん. In すうち, it points to a number’s value. In ねだん, it gives the sense of price.",
-        "kanji_details": [
-            {
-                "kanji": "値",
-                "common_words": [
-                    "数値 (すうち): numerical value",
-                    "値段 (ねだん): price"
-                ]
-            }
-        ],
-        "synonyms": [
-            "価格 : かかく : price; cost",
-            "価値 : かち : value; worth"
-        ],
-        "synonyms_explanation": "The most common synonyms of あたい are かかく and かち. かかく focuses on market price or listed price, while かちは general worth or merit, close to the abstract sense of あたい.",
-        "antonyms": [
-            "無価値 : むかち : worthlessness; no value"
-        ],
-        "antonyms_explanation": "The most common antonym of あたい is むかち. It means something has no worth, which contrasts with あたい that shows positive price or value.",
-        "examples": [
-            {
-                "kanji": "店は値を下げました。",
-                "furigana": "店(みせ)は値(ね)を下(さ)げました。",
-                "translations": {
-                    "EN": "The store lowered prices.",
-                    "ID": "Toko itu menurunkan harga.",
-                    "ES": "La tienda bajó los precios.",
-                    "VI": "Cửa hàng đã giảm giá.",
-                    "FR": "Le magasin a baissé les prix.",
-                    "NE": "पसलले मूल्य घटायो।",
-                    "BN": "দোকানটি দাম কমিয়ে দিয়েছে।",
-                    "ZH": "商店降低了价格。",
-                    "KO": "가게는 가격을 낮췄다.",
-                    "TL": "Ibinaba ng tindahan ang mga presyo.",
-                    "MY": "ဆိုင်က ဈေးလျှော့ပေးတယ်။",
-                    "HI": "दुकान ने कीमतें कम कर दीं।",
-                    "AR": "لقد خفض المتجر الأسعار.",
-                    "FA": "فروشگاه قیمت‌ها را کاهش داد."
-                }
-            },
-            {
-                "kanji": "会社は新しい値を付けました。",
-                "furigana": "会社(かいしゃ)は新(あたら)しい値(ね)を付(つ)けました。",
-                "translations": {
-                    "EN": "The company has set a new price.",
-                    "ID": "Perusahaan telah menetapkan harga baru.",
-                    "ES": "La empresa ha fijado un nuevo precio.",
-                    "VI": "Công ty đã đặt ra mức giá mới.",
-                    "FR": "L'entreprise a fixé un nouveau prix.",
-                    "NE": "कम्पनीले नयाँ मूल्य तोकेको छ।",
-                    "BN": "কোম্পানিটি একটি নতুন মূল্য নির্ধারণ করেছে।",
-                    "ZH": "该公司已制定了新价格。",
-                    "KO": "회사는 새로운 값을 붙였다.",
-                    "TL": "Nagtakda ang kumpanya ng bagong presyo.",
-                    "MY": "ကုမ္ပဏီက ဈေးနှုန်းအသစ် သတ်မှတ်လိုက်ပါတယ်။",
-                    "HI": "कंपनी ने नई कीमत तय कर दी है।",
-                    "AR": "حددت الشركة سعرًا جديدًا.",
-                    "FA": "این شرکت قیمت جدیدی را تعیین کرده است."
-                }
-            },
-            {
-                "kanji": "ガスの値が上がりました。",
-                "furigana": "ガスの値(ね)が上(あ)がりました。",
-                "translations": {
-                    "EN": "Gas prices have risen.",
-                    "ID": "Harga gas telah naik.",
-                    "ES": "Los precios del gas han subido.",
-                    "VI": "Giá xăng đã tăng.",
-                    "FR": "Les prix du gaz ont augmenté.",
-                    "NE": "ग्यासको मूल्य बढेको छ।",
-                    "BN": "গ্যাসের দাম বেড়েছে।",
-                    "ZH": "汽油价格上涨了。",
-                    "KO": "가스의 값이 올랐다.",
-                    "TL": "Tumaas ang presyo ng gas.",
-                    "MY": "ဓာတ်ငွေ့ဈေးတွေ တက်လာတယ်။",
-                    "HI": "गैस की कीमतें बढ़ गई हैं।",
-                    "AR": "ارتفعت أسعار الغاز.",
-                    "FA": "قیمت گاز افزایش یافته است."
-                }
-            },
-            {
-                "kanji": "この数の値は10です。",
-                "furigana": "この数(かず)の値(あたい)は10です。",
-                "translations": {
-                    "EN": "The value of this number is 10.",
-                    "ID": "Nilai angka ini adalah 10.",
-                    "ES": "El valor de este número es 10.",
-                    "VI": "Giá trị của số này là 10.",
-                    "FR": "La valeur de ce nombre est 10.",
-                    "NE": "यो संख्याको मान १० हो।",
-                    "BN": "এই সংখ্যার মান ১০।",
-                    "ZH": "这个数字的值是10。",
-                    "KO": "이 수의 값은 10입니다.",
-                    "TL": "Ang halaga ng numerong ito ay 10.",
-                    "MY": "ဤဂဏန်း၏တန်ဖိုးသည် 10 ဖြစ်သည်။",
-                    "HI": "इस संख्या का मान 10 है।",
-                    "AR": "قيمة هذا الرقم هي 10.",
-                    "FA": "مقدار این عدد 10 است."
-                }
-            },
-            {
-                "kanji": "この変数の値を表示します。",
-                "furigana": "この変数(へんすう)の値(あたい)を表示(ひょうじ)します。",
-                "translations": {
-                    "EN": "Display the value of this variable.",
-                    "ID": "Menampilkan nilai variabel ini.",
-                    "ES": "Muestra el valor de esta variable.",
-                    "VI": "Hiển thị giá trị của biến này.",
-                    "FR": "Affiche la valeur de cette variable.",
-                    "NE": "यो चरको मान प्रदर्शन गर्नुहोस्।",
-                    "BN": "এই ভেরিয়েবলের মান প্রদর্শন করো।",
-                    "ZH": "显示此变量的值。",
-                    "KO": "이 변수의 값을 표시합니다.",
-                    "TL": "Ipakita ang halaga ng variable na ito.",
-                    "MY": "ဤကိန်းရှင်၏တန်ဖိုးကိုပြသပါ။",
-                    "HI": "इस चर का मान प्रदर्शित करें.",
-                    "AR": "عرض قيمة هذا المتغير.",
-                    "FA": "مقدار این متغیر را نمایش دهید."
-                }
-            },
-            {
-                "kanji": "この店は値段が安いです。",
-                "furigana": "この店(みせ)は値段(ねだん)が安(やす)いです。",
-                "translations": {
-                    "EN": "This store is cheap.",
-                    "ID": "Toko ini murah.",
-                    "ES": "Esta tienda es barata.",
-                    "VI": "Cửa hàng này giá rẻ.",
-                    "FR": "Ce magasin est bon marché.",
-                    "NE": "यो पसल सस्तो छ।",
-                    "BN": "এই দোকানটি সস্তা।",
-                    "ZH": "这家商店很便宜。",
-                    "KO": "이 가게는 가격이 저렴합니다.",
-                    "TL": "Ang tindahan na ito ay mura.",
-                    "MY": "ဒီဆိုင်က ဈေးသက်သာတယ်။",
-                    "HI": "यह दुकान सस्ती है.",
-                    "AR": "هذا المتجر رخيص.",
-                    "FA": "این فروشگاه ارزان است."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "price": {
-                "ID": "harga",
-                "ES": "precio",
-                "VI": "giá ",
-                "FR": "prix",
-                "NE": "मूल्य",
-                "BN": "মূল্য",
-                "ZH": "价格",
-                "KO": "가격",
-                "TL": "presyo",
-                "MY": "စျေးနှုန်း",
-                "HI": "कीमत",
-                "AR": "سعر",
-                "FA": "قیمت",
-                "EN": [
-                    "cost"
-                ]
-            },
-            "value": {
-                "ID": "nilai",
-                "ES": "valor",
-                "VI": "giá trị",
-                "FR": "valeur",
-                "NE": "मूल्य",
-                "BN": "মূল্য",
-                "ZH": "价值",
-                "KO": "값",
-                "TL": "halaga",
-                "MY": "တန်ဖိုး",
-                "HI": "कीमत",
-                "AR": "قيمة",
-                "FA": "ارزش",
-                "EN": [
-                    "worth",
-                    "merit"
-                ]
-            },
-            "value (mathematics/computing)": {
-                "ID": "nilai (matematika/komputasi)",
-                "ES": "valor (matemáticas/informática)",
-                "VI": "giá trị (toán học/máy tính)",
-                "FR": "valeur (mathématiques/informatique)",
-                "NE": "मान (गणित/कम्प्युटिङ)",
-                "BN": "মান (গণিত/কম্পিউটিং)",
-                "ZH": "价值（数学/计算）",
-                "KO": "가치(수학/컴퓨팅)",
-                "TL": "halaga (matematika/computing)",
-                "MY": "တန်ဖိုး (သင်္ချာ/တွက်ချက်မှု)",
-                "HI": "मान (गणित/कंप्यूटिंग)",
-                "AR": "القيمة (الرياضيات/الحوسبة)",
-                "FA": "مقدار (ریاضیات/محاسبات)",
-                "EN": []
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "値",
-        "is_common": true,
-        "tags": [
-            "wanikani22"
-        ],
-        "jlpt": [
-            "jlpt-n3",
-            "jlpt-n1"
-        ],
-        "japanese": [
-            {
-                "word": "値",
-                "reading": "あたい"
-            },
-            {
-                "word": "価",
-                "reading": "あたい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "price",
-                    "cost"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [
-                    "Formal or literary term"
-                ],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [
-                    "esp. 価"
-                ]
-            },
-            {
-                "english_definitions": [
-                    "value",
-                    "worth",
-                    "merit"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [
-                    "Formal or literary term"
-                ],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [
-                    "esp. 値"
-                ]
-            },
-            {
-                "english_definitions": [
-                    "value"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [
-                    "Mathematics",
-                    "Computing"
-                ],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [
-                    "esp. 値"
-                ]
-            },
-            {
-                "english_definitions": [
-                    "Value"
-                ],
-                "parts_of_speech": [
-                    "Wikipedia definition"
-                ],
-                "links": [
-                    {
-                        "text": "Read “Value” on English Wikipedia",
-                        "url": "http://en.wikipedia.org/wiki/Value?oldid=488696243"
-                    },
-                    {
-                        "text": "Read “値” on Japanese Wikipedia",
-                        "url": "http://ja.wikipedia.org/wiki/値?oldid=38849414"
-                    }
-                ],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [],
-                "sentences": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": "http://dbpedia.org/resource/Value"
-        }
-    },
-    "kanji_list": [
-        "値"
+  "version": "0.3.0",
+  "word": "値",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/ZmLdjupBO3I",
+  "in_db": true,
+  "kanji": "値",
+  "reading": "あたい",
+  "introduction_japanese": "「値」は、買い物やニュース、経済の話、アプリや数学・コンピューターの設定やデータの話でよく使う名詞です。",
+  "introduction_english": "The noun あたい is commonly used in conversations about shopping, economic news, and in math or computing for settings and data.",
+  "meanings": [
+    [
+      "price",
+      "cost"
     ],
-    "kanji_data": {
-        "値": {
-            "freq_mainichi_shinbun": 518,
-            "grade": 6,
-            "heisig_en": "price",
-            "jlpt": 3,
-            "kanji": "値",
-            "kun_readings": [
-                "あたい",
-                "ね"
-            ],
-            "meanings": [
-                "cost",
-                "price",
-                "value"
-            ],
-            "name_readings": [
-                "じ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "チ"
-            ],
-            "stroke_count": 10,
-            "unicode": "5024"
-        }
-    },
-    "collocations": [
-        "値を付ける",
-        "値を下げる",
-        "値を上げる",
-        "値を見直す",
-        "値を設定する",
-        "値段",
-        "値幅",
-        "値上げ",
-        "値下げ",
-        "最低値",
-        "最高値",
-        "値が上がる",
-        "値が下がる",
-        "値が変動する",
-        "値が安定する",
-        "値が高い",
-        "値が低い",
-        "値を表示する",
-        "値を比較する",
-        "値を記録する",
-        "値を報告する",
-        "値を予測する",
-        "適正に値を付ける",
-        "大幅に値を下げる",
-        "急激に値が上がる",
-        "わずかに値を変える",
-        "比較的高い値"
+    [
+      "value",
+      "worth",
+      "merit"
+    ],
+    [
+      "value (mathematics/computing)"
     ]
+  ],
+  "meaning_explanation_japanese": "「値（あたい）」は、ものの「ねうち」や「いくらか」を表します。また、数学やコンピューターでは、数字やデータとしての数を指します。少しフォーマルな言い方です。",
+  "meaning_explanation_english": "The word あたい means price/cost, value/worth, and the numerical value in math or computing. It sounds a bit formal in everyday speech.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "値",
+      "common_words": [
+        "数値 (すうち): numerical value",
+        "値段 (ねだん): price"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means cost, price, or value. You see it in words like すうち and ねだん. In すうち, it points to a number’s value. In ねだん, it gives the sense of price.",
+  "synonyms": [
+    "価格 : かかく : price; cost",
+    "価値 : かち : value; worth"
+  ],
+  "synonym_explanation": "The most common synonyms of あたい are かかく and かち. かかく focuses on market price or listed price, while かちは general worth or merit, close to the abstract sense of あたい.",
+  "antonyms": [
+    "無価値 : むかち : worthlessness; no value"
+  ],
+  "antonym_explanation": "The most common antonym of あたい is むかち. It means something has no worth, which contrasts with あたい that shows positive price or value.",
+  "collocations": [
+    {
+      "kanji": "値を付ける",
+      "furigana": "値を付ける",
+      "translations": {}
+    },
+    {
+      "kanji": "値を下げる",
+      "furigana": "値を下げる",
+      "translations": {}
+    },
+    {
+      "kanji": "値を上げる",
+      "furigana": "値を上げる",
+      "translations": {}
+    },
+    {
+      "kanji": "値を見直す",
+      "furigana": "値を見直す",
+      "translations": {}
+    },
+    {
+      "kanji": "値を設定する",
+      "furigana": "値を設定する",
+      "translations": {}
+    },
+    {
+      "kanji": "値段",
+      "furigana": "値段",
+      "translations": {}
+    },
+    {
+      "kanji": "値幅",
+      "furigana": "値幅",
+      "translations": {}
+    },
+    {
+      "kanji": "値上げ",
+      "furigana": "値上げ",
+      "translations": {}
+    },
+    {
+      "kanji": "値下げ",
+      "furigana": "値下げ",
+      "translations": {}
+    },
+    {
+      "kanji": "最低値",
+      "furigana": "最低値",
+      "translations": {}
+    },
+    {
+      "kanji": "最高値",
+      "furigana": "最高値",
+      "translations": {}
+    },
+    {
+      "kanji": "値が上がる",
+      "furigana": "値が上がる",
+      "translations": {}
+    },
+    {
+      "kanji": "値が下がる",
+      "furigana": "値が下がる",
+      "translations": {}
+    },
+    {
+      "kanji": "値が変動する",
+      "furigana": "値が変動する",
+      "translations": {}
+    },
+    {
+      "kanji": "値が安定する",
+      "furigana": "値が安定する",
+      "translations": {}
+    },
+    {
+      "kanji": "値が高い",
+      "furigana": "値が高い",
+      "translations": {}
+    },
+    {
+      "kanji": "値が低い",
+      "furigana": "値が低い",
+      "translations": {}
+    },
+    {
+      "kanji": "値を表示する",
+      "furigana": "値を表示する",
+      "translations": {}
+    },
+    {
+      "kanji": "値を比較する",
+      "furigana": "値を比較する",
+      "translations": {}
+    },
+    {
+      "kanji": "値を記録する",
+      "furigana": "値を記録する",
+      "translations": {}
+    },
+    {
+      "kanji": "値を報告する",
+      "furigana": "値を報告する",
+      "translations": {}
+    },
+    {
+      "kanji": "値を予測する",
+      "furigana": "値を予測する",
+      "translations": {}
+    },
+    {
+      "kanji": "適正に値を付ける",
+      "furigana": "適正に値を付ける",
+      "translations": {}
+    },
+    {
+      "kanji": "大幅に値を下げる",
+      "furigana": "大幅に値を下げる",
+      "translations": {}
+    },
+    {
+      "kanji": "急激に値が上がる",
+      "furigana": "急激に値が上がる",
+      "translations": {}
+    },
+    {
+      "kanji": "わずかに値を変える",
+      "furigana": "わずかに値を変える",
+      "translations": {}
+    },
+    {
+      "kanji": "比較的高い値",
+      "furigana": "比較的高い値",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "店は値を下げました。",
+      "furigana": "店(みせ)は値(ね)を下(さ)げました。",
+      "translations": {
+        "EN": "The store lowered prices.",
+        "ID": "Toko itu menurunkan harga.",
+        "ES": "La tienda bajó los precios.",
+        "VI": "Cửa hàng đã giảm giá.",
+        "FR": "Le magasin a baissé les prix.",
+        "NE": "पसलले मूल्य घटायो।",
+        "BN": "দোকানটি দাম কমিয়ে দিয়েছে।",
+        "ZH": "商店降低了价格。",
+        "KO": "가게는 가격을 낮췄다.",
+        "TL": "Ibinaba ng tindahan ang mga presyo.",
+        "MY": "ဆိုင်က ဈေးလျှော့ပေးတယ်။",
+        "HI": "दुकान ने कीमतें कम कर दीं।",
+        "AR": "لقد خفض المتجر الأسعار.",
+        "FA": "فروشگاه قیمت‌ها را کاهش داد."
+      }
+    },
+    {
+      "kanji": "会社は新しい値を付けました。",
+      "furigana": "会社(かいしゃ)は新(あたら)しい値(ね)を付(つ)けました。",
+      "translations": {
+        "EN": "The company has set a new price.",
+        "ID": "Perusahaan telah menetapkan harga baru.",
+        "ES": "La empresa ha fijado un nuevo precio.",
+        "VI": "Công ty đã đặt ra mức giá mới.",
+        "FR": "L'entreprise a fixé un nouveau prix.",
+        "NE": "कम्पनीले नयाँ मूल्य तोकेको छ।",
+        "BN": "কোম্পানিটি একটি নতুন মূল্য নির্ধারণ করেছে।",
+        "ZH": "该公司已制定了新价格。",
+        "KO": "회사는 새로운 값을 붙였다.",
+        "TL": "Nagtakda ang kumpanya ng bagong presyo.",
+        "MY": "ကုမ္ပဏီက ဈေးနှုန်းအသစ် သတ်မှတ်လိုက်ပါတယ်။",
+        "HI": "कंपनी ने नई कीमत तय कर दी है।",
+        "AR": "حددت الشركة سعرًا جديدًا.",
+        "FA": "این شرکت قیمت جدیدی را تعیین کرده است."
+      }
+    },
+    {
+      "kanji": "ガスの値が上がりました。",
+      "furigana": "ガスの値(ね)が上(あ)がりました。",
+      "translations": {
+        "EN": "Gas prices have risen.",
+        "ID": "Harga gas telah naik.",
+        "ES": "Los precios del gas han subido.",
+        "VI": "Giá xăng đã tăng.",
+        "FR": "Les prix du gaz ont augmenté.",
+        "NE": "ग्यासको मूल्य बढेको छ।",
+        "BN": "গ্যাসের দাম বেড়েছে।",
+        "ZH": "汽油价格上涨了。",
+        "KO": "가스의 값이 올랐다.",
+        "TL": "Tumaas ang presyo ng gas.",
+        "MY": "ဓာတ်ငွေ့ဈေးတွေ တက်လာတယ်။",
+        "HI": "गैस की कीमतें बढ़ गई हैं।",
+        "AR": "ارتفعت أسعار الغاز.",
+        "FA": "قیمت گاز افزایش یافته است."
+      }
+    },
+    {
+      "kanji": "この数の値は10です。",
+      "furigana": "この数(かず)の値(あたい)は10です。",
+      "translations": {
+        "EN": "The value of this number is 10.",
+        "ID": "Nilai angka ini adalah 10.",
+        "ES": "El valor de este número es 10.",
+        "VI": "Giá trị của số này là 10.",
+        "FR": "La valeur de ce nombre est 10.",
+        "NE": "यो संख्याको मान १० हो।",
+        "BN": "এই সংখ্যার মান ১০।",
+        "ZH": "这个数字的值是10。",
+        "KO": "이 수의 값은 10입니다.",
+        "TL": "Ang halaga ng numerong ito ay 10.",
+        "MY": "ဤဂဏန်း၏တန်ဖိုးသည် 10 ဖြစ်သည်။",
+        "HI": "इस संख्या का मान 10 है।",
+        "AR": "قيمة هذا الرقم هي 10.",
+        "FA": "مقدار این عدد 10 است."
+      }
+    },
+    {
+      "kanji": "この変数の値を表示します。",
+      "furigana": "この変数(へんすう)の値(あたい)を表示(ひょうじ)します。",
+      "translations": {
+        "EN": "Display the value of this variable.",
+        "ID": "Menampilkan nilai variabel ini.",
+        "ES": "Muestra el valor de esta variable.",
+        "VI": "Hiển thị giá trị của biến này.",
+        "FR": "Affiche la valeur de cette variable.",
+        "NE": "यो चरको मान प्रदर्शन गर्नुहोस्।",
+        "BN": "এই ভেরিয়েবলের মান প্রদর্শন করো।",
+        "ZH": "显示此变量的值。",
+        "KO": "이 변수의 값을 표시합니다.",
+        "TL": "Ipakita ang halaga ng variable na ito.",
+        "MY": "ဤကိန်းရှင်၏တန်ဖိုးကိုပြသပါ။",
+        "HI": "इस चर का मान प्रदर्शित करें.",
+        "AR": "عرض قيمة هذا المتغير.",
+        "FA": "مقدار این متغیر را نمایش دهید."
+      }
+    },
+    {
+      "kanji": "この店は値段が安いです。",
+      "furigana": "この店(みせ)は値段(ねだん)が安(やす)いです。",
+      "translations": {
+        "EN": "This store is cheap.",
+        "ID": "Toko ini murah.",
+        "ES": "Esta tienda es barata.",
+        "VI": "Cửa hàng này giá rẻ.",
+        "FR": "Ce magasin est bon marché.",
+        "NE": "यो पसल सस्तो छ।",
+        "BN": "এই দোকানটি সস্তা।",
+        "ZH": "这家商店很便宜。",
+        "KO": "이 가게는 가격이 저렴합니다.",
+        "TL": "Ang tindahan na ito ay mura.",
+        "MY": "ဒီဆိုင်က ဈေးသက်သာတယ်။",
+        "HI": "यह दुकान सस्ती है.",
+        "AR": "هذا المتجر رخيص.",
+        "FA": "این فروشگاه ارزان است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "price": {
+      "ID": "harga",
+      "ES": "precio",
+      "VI": "giá ",
+      "FR": "prix",
+      "NE": "मूल्य",
+      "BN": "মূল্য",
+      "ZH": "价格",
+      "KO": "가격",
+      "TL": "presyo",
+      "MY": "စျေးနှုန်း",
+      "HI": "कीमत",
+      "AR": "سعر",
+      "FA": "قیمت",
+      "EN": [
+        "cost"
+      ]
+    },
+    "value": {
+      "ID": "nilai",
+      "ES": "valor",
+      "VI": "giá trị",
+      "FR": "valeur",
+      "NE": "मूल्य",
+      "BN": "মূল্য",
+      "ZH": "价值",
+      "KO": "값",
+      "TL": "halaga",
+      "MY": "တန်ဖိုး",
+      "HI": "कीमत",
+      "AR": "قيمة",
+      "FA": "ارزش",
+      "EN": [
+        "worth",
+        "merit"
+      ]
+    },
+    "value (mathematics/computing)": {
+      "ID": "nilai (matematika/komputasi)",
+      "ES": "valor (matemáticas/informática)",
+      "VI": "giá trị (toán học/máy tính)",
+      "FR": "valeur (mathématiques/informatique)",
+      "NE": "मान (गणित/कम्प्युटिङ)",
+      "BN": "মান (গণিত/কম্পিউটিং)",
+      "ZH": "价值（数学/计算）",
+      "KO": "가치(수학/컴퓨팅)",
+      "TL": "halaga (matematika/computing)",
+      "MY": "တန်ဖိုး (သင်္ချာ/တွက်ချက်မှု)",
+      "HI": "मान (गणित/कंप्यूटिंग)",
+      "AR": "القيمة (الرياضيات/الحوسبة)",
+      "FA": "مقدار (ریاضیات/محاسبات)",
+      "EN": []
+    }
+  },
+  "jisho_data": {
+    "slug": "値",
+    "is_common": true,
+    "tags": [
+      "wanikani22"
+    ],
+    "jlpt": [
+      "jlpt-n3",
+      "jlpt-n1"
+    ],
+    "japanese": [
+      {
+        "word": "値",
+        "reading": "あたい"
+      },
+      {
+        "word": "価",
+        "reading": "あたい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "price",
+          "cost"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [
+          "Formal or literary term"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+          "esp. 価"
+        ]
+      },
+      {
+        "english_definitions": [
+          "value",
+          "worth",
+          "merit"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [
+          "Formal or literary term"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+          "esp. 値"
+        ]
+      },
+      {
+        "english_definitions": [
+          "value"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [
+          "Mathematics",
+          "Computing"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+          "esp. 値"
+        ]
+      },
+      {
+        "english_definitions": [
+          "Value"
+        ],
+        "parts_of_speech": [
+          "Wikipedia definition"
+        ],
+        "links": [
+          {
+            "text": "Read “Value” on English Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Value?oldid=488696243"
+          },
+          {
+            "text": "Read “値” on Japanese Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/値?oldid=38849414"
+          }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": "http://dbpedia.org/resource/Value"
+    }
+  },
+  "kanji_list": [
+    "値"
+  ],
+  "kanji_data": {
+    "値": {
+      "freq_mainichi_shinbun": 518,
+      "grade": 6,
+      "heisig_en": "price",
+      "jlpt": 3,
+      "kanji": "値",
+      "kun_readings": [
+        "あたい",
+        "ね"
+      ],
+      "meanings": [
+        "cost",
+        "price",
+        "value"
+      ],
+      "name_readings": [
+        "じ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "チ"
+      ],
+      "stroke_count": 10,
+      "unicode": "5024"
+    }
+  }
 }

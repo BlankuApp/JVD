@@ -1,346 +1,441 @@
 {
-    "version": "0.2.0",
-    "word": "日常",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/gHgr3L9FtmU",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "日常",
-        "reading": "にちじょう",
-        "introduction_japanese": "日常は、毎日の生活や仕事、会話、風景など、普段のルーティンについて話すときによく使う言葉です。",
-        "introduction_english": "The noun/adverb にちじょう is commonly used in conversations about everyday life, routines, work, and ordinary situations.",
-        "meanings": [
-            [
-                "everyday",
-                "daily",
-                "ordinary",
-                "usual",
-                "routine",
-                "regular"
-            ]
-        ],
-        "meaning_explanation_japanese": "「日常」は、毎日起きる普通の出来事や生活の様子、いつものルーティンを表す言葉です。特別でない普通の毎日を指します。",
-        "meaning_explanation_english": "The word にちじょう means 'everyday', 'daily', 'ordinary', or 'routine'. It refers to the normal, usual events and life you experience on a regular basis.",
-        "kanji_explanation_english": "The first kanji means day or sun. It appears in words like にほん which refers to Japan and carries the idea of the sun or day, and in まいにち which means every day and gives the sense of daily occurrence. The second kanji means usual or normal. It appears in words like じょうしき which means common sense and shows the idea of what is normal, and in つねに which means always and gives the sense of continuity or habitual state.",
-        "kanji_details": [
-            {
-                "kanji": "日",
-                "common_words": [
-                    "日本 (にほん): Japan",
-                    "毎日 (まいにち): every day"
-                ]
-            },
-            {
-                "kanji": "常",
-                "common_words": [
-                    "常識 (じょうしき): common sense",
-                    "つねに (つねに): always"
-                ]
-            }
-        ],
-        "synonyms": [
-            "普段 : ふだん : usual, normally",
-            "日々 : ひび : daily, every day"
-        ],
-        "synonyms_explanation": "The most common synonyms of the にちじょう are ふだん and ひび. ふだん emphasizes habitual or typical state and when something is normally the case, while ひび focuses on each day or the passage of days as everyday life.",
-        "antonyms": [
-            "非日常 : ひにちじょう : extraordinary, out of the ordinary"
-        ],
-        "antonyms_explanation": "The most common antonym of the にちじょう is ひにちじょう. ひにちじょう means something unusual or out of the ordinary, the opposite of daily routine.",
-        "examples": [
-            {
-                "kanji": "日常生活を大切にしている。",
-                "furigana": "日常生活(にちじょうせいかつ)を大切(たいせつ)にしている。",
-                "translations": {
-                    "EN": "I value everyday life.",
-                    "ID": "Saya menghargai kehidupan sehari-hari.",
-                    "ES": "Valoro la vida cotidiana.",
-                    "VI": "Tôi coi trọng cuộc sống hàng ngày.",
-                    "FR": "J'accorde de la valeur à la vie quotidienne.",
-                    "NE": "म दैनिक जीवनलाई महत्व दिन्छु।",
-                    "BN": "আমি দৈনন্দিন জীবনকে মূল্য দিই।",
-                    "ZH": "我珍惜每一天的生活。",
-                    "KO": "일상생활을 소중히 하고 있다.",
-                    "TL": "Pinahahalagahan ko ang pang-araw-araw na buhay.",
-                    "MY": "ငါနေ့စဉ်ဘဝကိုတန်ဖိုးထားတယ်။",
-                    "HI": "मैं रोजमर्रा की जिंदगी को महत्व देता हूं।",
-                    "AR": "أقدر الحياة اليومية.",
-                    "FA": "من برای زندگی روزمره ارزش قائلم."
-                }
-            },
-            {
-                "kanji": "忙しい日常が続いている。",
-                "furigana": "忙(いそが)しい日常(にちじょう)が続(つづ)いている。",
-                "translations": {
-                    "EN": "Busy days continue.",
-                    "ID": "Hari-hari sibuk terus berlanjut.",
-                    "ES": "Continúan los días ocupados.",
-                    "VI": "Những ngày bận rộn vẫn tiếp tục.",
-                    "FR": "Les journées chargées continuent.",
-                    "NE": "व्यस्त दिनहरू जारी छन्।",
-                    "BN": "ব্যস্ত দিনগুলি চলতে থাকে।",
-                    "ZH": "忙碌的日子还在继续。",
-                    "KO": "바쁜 일상이 이어지고 있다.",
-                    "TL": "Patuloy ang mga abalang araw.",
-                    "MY": "အလုပ်များတဲ့နေ့တွေ ဆက်ဖြစ်။",
-                    "HI": "व्यस्त दिन जारी रहेंगे।",
-                    "AR": "تستمر الأيام المزدحمة.",
-                    "FA": "روزهای شلوغ ادامه دارد."
-                }
-            },
-            {
-                "kanji": "何気ない日常が好きだ。",
-                "furigana": "何気(なにげ)ない日常(にちじょう)が好(す)きだ。",
-                "translations": {
-                    "EN": "I like the ordinary everyday life.",
-                    "ID": "Saya menyukai kehidupan sehari-hari yang biasa saja.",
-                    "ES": "Me gusta la vida cotidiana y normal.",
-                    "VI": "Tôi thích cuộc sống bình thường hàng ngày.",
-                    "FR": "J'aime la vie quotidienne ordinaire.",
-                    "NE": "मलाई सामान्य दैनिक जीवन मन पर्छ।",
-                    "BN": "আমি সাধারণ দৈনন্দিন জীবন পছন্দ করি।",
-                    "ZH": "我喜欢平凡的日常生活。",
-                    "KO": "아무렇지도 않은 일상을 좋아한다.",
-                    "TL": "Gusto ko ang pang-araw-araw na buhay.",
-                    "MY": "သာမန်နေ့စဉ်ဘဝကို သဘောကျတယ်။",
-                    "HI": "मुझे साधारण रोजमर्रा की जिंदगी पसंद है।",
-                    "AR": "أنا أحب الحياة اليومية العادية.",
-                    "FA": "من زندگی روزمره و عادی رو دوست دارم."
-                }
-            },
-            {
-                "kanji": "日常会話を練習しよう。",
-                "furigana": "日常会話(にちじょうかいわ)を練習(れんしゅう)しよう。",
-                "translations": {
-                    "EN": "Let's practice everyday conversation.",
-                    "ID": "Mari berlatih percakapan sehari-hari.",
-                    "ES": "Practiquemos la conversación cotidiana.",
-                    "VI": "Chúng ta hãy cùng thực hành hội thoại hàng ngày.",
-                    "FR": "Pratiquons la conversation de tous les jours.",
-                    "NE": "दैनिक कुराकानी अभ्यास गरौं।",
-                    "BN": "আসুন প্রতিদিনের কথোপকথন অনুশীলন করি।",
-                    "ZH": "让我们练习日常会话。",
-                    "KO": "일상 대화를 연습하자.",
-                    "TL": "Magsanay tayo sa pang-araw-araw na pag-uusap.",
-                    "MY": "နေ့စဉ်စကားပြောလေ့ကျင့်ကြပါစို့။",
-                    "HI": "आइये, प्रतिदिन बातचीत का अभ्यास करें।",
-                    "AR": "دعونا نمارس المحادثة اليومية.",
-                    "FA": "بیایید مکالمات روزمره را تمرین کنیم."
-                }
-            },
-            {
-                "kanji": "日常に戻るのは安心する。",
-                "furigana": "日常(にちじょう)に戻(もど)るのは安心(あんしん)する。",
-                "translations": {
-                    "EN": "It's a relief to return to normal life.",
-                    "ID": "Lega rasanya bisa kembali ke kehidupan normal.",
-                    "ES": "Es un alivio volver a la vida normal.",
-                    "VI": "Thật nhẹ nhõm khi được trở lại cuộc sống bình thường.",
-                    "FR": "C'est un soulagement de revenir à la vie normale.",
-                    "NE": "सामान्य जीवनमा फर्कनु राहतको कुरा हो।",
-                    "BN": "স্বাভাবিক জীবনে ফিরে আসাটা স্বস্তির।",
-                    "ZH": "恢复正常生活真让人松了一口气。",
-                    "KO": "일상에 돌아오는 것은 안심한다.",
-                    "TL": "Nakakagaan ng loob ang bumalik sa normal na buhay.",
-                    "MY": "ပုံမှန်ဘဝသို့ ပြန်သွားရန် သက်သာရာရစေပါသည်။",
-                    "HI": "सामान्य जीवन में वापस लौटना राहत की बात है।",
-                    "AR": "من دواعي الارتياح العودة إلى الحياة الطبيعية.",
-                    "FA": "بازگشت به زندگی عادی، مایه آرامش است."
-                }
-            },
-            {
-                "kanji": "単調な日常に変化が欲しい。",
-                "furigana": "単調(たんちょう)な日常(にちじょう)に変化(へんか)が欲(ほ)しい。",
-                "translations": {
-                    "EN": "I want some change in my monotonous daily life.",
-                    "ID": "Saya ingin sedikit perubahan dalam kehidupan sehari-hari saya yang monoton.",
-                    "ES": "Quiero algún cambio en mi monótona vida diaria.",
-                    "VI": "Tôi muốn có chút thay đổi trong cuộc sống đơn điệu thường ngày của mình.",
-                    "FR": "Je veux un peu de changement dans ma vie quotidienne monotone.",
-                    "NE": "म मेरो एकरस दैनिक जीवनमा केही परिवर्तन चाहन्छु।",
-                    "BN": "আমি আমার একঘেয়ে দৈনন্দিন জীবনে কিছু পরিবর্তন চাই।",
-                    "ZH": "我想改变一下单调的日常生活。",
-                    "KO": "단조로운 일상 변화를 원한다.",
-                    "TL": "Gusto ko ng pagbabago sa aking monotonous na pang-araw-araw na buhay.",
-                    "MY": "ကျွန်တော့်ရဲ့ ငွီးငှေ့နေတဲ့ နေ့စဉ်ဘ၀မှာ အပြောင်းအလဲတချို့ လိုချင်တယ်။",
-                    "HI": "मैं अपने नीरस दैनिक जीवन में कुछ बदलाव चाहता हूँ।",
-                    "AR": "أريد بعض التغيير في حياتي اليومية الرتيبة.",
-                    "FA": "دلم یه تغییر تو زندگی یکنواخت و روزمره‌ام می‌خواد."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "everyday": {
-                "ID": "setiap hari",
-                "ES": "cada día",
-                "VI": "hàng ngày",
-                "FR": "tous les jours",
-                "NE": "दैनिक",
-                "BN": "প্রতিদিন",
-                "ZH": "每天",
-                "KO": "매일",
-                "TL": "araw-araw",
-                "MY": "နေ့တိုင်း",
-                "HI": "रोज रोज",
-                "AR": "كل يوم",
-                "FA": "روزمره",
-                "EN": [
-                    "daily",
-                    "ordinary",
-                    "usual",
-                    "routine",
-                    "regular"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "日常",
-        "is_common": true,
-        "tags": [
-            "wanikani17"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "日常",
-                "reading": "にちじょう"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "everyday",
-                    "daily",
-                    "ordinary",
-                    "usual",
-                    "routine",
-                    "regular"
-                ],
-                "parts_of_speech": [
-                    "Noun which may take the genitive case particle 'no'",
-                    "Noun",
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "日",
-        "常"
-    ],
-    "kanji_data": {
-        "日": {
-            "freq_mainichi_shinbun": 1,
-            "grade": 1,
-            "heisig_en": "day",
-            "jlpt": 5,
-            "kanji": "日",
-            "kun_readings": [
-                "-か",
-                "-び",
-                "ひ"
-            ],
-            "meanings": [
-                "Japan",
-                "counter for days",
-                "day",
-                "sun"
-            ],
-            "name_readings": [
-                "あ",
-                "あき",
-                "いる",
-                "く",
-                "くさ",
-                "こう",
-                "す",
-                "たち",
-                "に",
-                "にっ",
-                "につ",
-                "へ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ジツ",
-                "ニチ"
-            ],
-            "stroke_count": 4,
-            "unicode": "65E5"
-        },
-        "常": {
-            "freq_mainichi_shinbun": 293,
-            "grade": 5,
-            "heisig_en": "usual",
-            "jlpt": 3,
-            "kanji": "常",
-            "kun_readings": [
-                "つね",
-                "とこ-"
-            ],
-            "meanings": [
-                "always",
-                "common",
-                "continually",
-                "long-lasting",
-                "normal",
-                "ordinary",
-                "regular",
-                "usual"
-            ],
-            "name_readings": [
-                "とき",
-                "のぶ",
-                "ひ",
-                "ひた"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ジョウ"
-            ],
-            "stroke_count": 11,
-            "unicode": "5E38"
-        }
-    },
-    "collocations": [
-        "平凡の日常",
-        "忙しい日常",
-        "安定した日常",
-        "普通の日常",
-        "慣れた日常",
-        "日常生活",
-        "日常会話",
-        "日常業務",
-        "日常風景",
-        "日常感覚",
-        "日常を送る",
-        "日常を営む",
-        "日常を過ごす",
-        "日常に戻る",
-        "日常に溶け込む",
-        "日常に戻る",
-        "日常に過ごす",
-        "日常に欠かせない",
-        "日常に刺激を求める",
-        "日常に変化をつける",
-        "何気ない日常",
-        "単調な日常",
-        "平凡な日常",
-        "幸せな日常"
+  "version": "0.3.0",
+  "word": "日常",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/gHgr3L9FtmU",
+  "in_db": true,
+  "kanji": "日常",
+  "reading": "にちじょう",
+  "introduction_japanese": "日常は、毎日の生活や仕事、会話、風景など、普段のルーティンについて話すときによく使う言葉です。",
+  "introduction_english": "The noun/adverb にちじょう is commonly used in conversations about everyday life, routines, work, and ordinary situations.",
+  "meanings": [
+    [
+      "everyday",
+      "daily",
+      "ordinary",
+      "usual",
+      "routine",
+      "regular"
     ]
+  ],
+  "meaning_explanation_japanese": "「日常」は、毎日起きる普通の出来事や生活の様子、いつものルーティンを表す言葉です。特別でない普通の毎日を指します。",
+  "meaning_explanation_english": "The word にちじょう means 'everyday', 'daily', 'ordinary', or 'routine'. It refers to the normal, usual events and life you experience on a regular basis.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "日",
+      "common_words": [
+        "日本 (にほん): Japan",
+        "毎日 (まいにち): every day"
+      ]
+    },
+    {
+      "kanji": "常",
+      "common_words": [
+        "常識 (じょうしき): common sense",
+        "つねに (つねに): always"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means day or sun. It appears in words like にほん which refers to Japan and carries the idea of the sun or day, and in まいにち which means every day and gives the sense of daily occurrence. The second kanji means usual or normal. It appears in words like じょうしき which means common sense and shows the idea of what is normal, and in つねに which means always and gives the sense of continuity or habitual state.",
+  "synonyms": [
+    "普段 : ふだん : usual, normally",
+    "日々 : ひび : daily, every day"
+  ],
+  "synonym_explanation": "The most common synonyms of the にちじょう are ふだん and ひび. ふだん emphasizes habitual or typical state and when something is normally the case, while ひび focuses on each day or the passage of days as everyday life.",
+  "antonyms": [
+    "非日常 : ひにちじょう : extraordinary, out of the ordinary"
+  ],
+  "antonym_explanation": "The most common antonym of the にちじょう is ひにちじょう. ひにちじょう means something unusual or out of the ordinary, the opposite of daily routine.",
+  "collocations": [
+    {
+      "kanji": "平凡の日常",
+      "furigana": "平凡の日常",
+      "translations": {}
+    },
+    {
+      "kanji": "忙しい日常",
+      "furigana": "忙しい日常",
+      "translations": {}
+    },
+    {
+      "kanji": "安定した日常",
+      "furigana": "安定した日常",
+      "translations": {}
+    },
+    {
+      "kanji": "普通の日常",
+      "furigana": "普通の日常",
+      "translations": {}
+    },
+    {
+      "kanji": "慣れた日常",
+      "furigana": "慣れた日常",
+      "translations": {}
+    },
+    {
+      "kanji": "日常生活",
+      "furigana": "日常生活",
+      "translations": {}
+    },
+    {
+      "kanji": "日常会話",
+      "furigana": "日常会話",
+      "translations": {}
+    },
+    {
+      "kanji": "日常業務",
+      "furigana": "日常業務",
+      "translations": {}
+    },
+    {
+      "kanji": "日常風景",
+      "furigana": "日常風景",
+      "translations": {}
+    },
+    {
+      "kanji": "日常感覚",
+      "furigana": "日常感覚",
+      "translations": {}
+    },
+    {
+      "kanji": "日常を送る",
+      "furigana": "日常を送る",
+      "translations": {}
+    },
+    {
+      "kanji": "日常を営む",
+      "furigana": "日常を営む",
+      "translations": {}
+    },
+    {
+      "kanji": "日常を過ごす",
+      "furigana": "日常を過ごす",
+      "translations": {}
+    },
+    {
+      "kanji": "日常に戻る",
+      "furigana": "日常に戻る",
+      "translations": {}
+    },
+    {
+      "kanji": "日常に溶け込む",
+      "furigana": "日常に溶け込む",
+      "translations": {}
+    },
+    {
+      "kanji": "日常に戻る",
+      "furigana": "日常に戻る",
+      "translations": {}
+    },
+    {
+      "kanji": "日常に過ごす",
+      "furigana": "日常に過ごす",
+      "translations": {}
+    },
+    {
+      "kanji": "日常に欠かせない",
+      "furigana": "日常に欠かせない",
+      "translations": {}
+    },
+    {
+      "kanji": "日常に刺激を求める",
+      "furigana": "日常に刺激を求める",
+      "translations": {}
+    },
+    {
+      "kanji": "日常に変化をつける",
+      "furigana": "日常に変化をつける",
+      "translations": {}
+    },
+    {
+      "kanji": "何気ない日常",
+      "furigana": "何気ない日常",
+      "translations": {}
+    },
+    {
+      "kanji": "単調な日常",
+      "furigana": "単調な日常",
+      "translations": {}
+    },
+    {
+      "kanji": "平凡な日常",
+      "furigana": "平凡な日常",
+      "translations": {}
+    },
+    {
+      "kanji": "幸せな日常",
+      "furigana": "幸せな日常",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "日常生活を大切にしている。",
+      "furigana": "日常生活(にちじょうせいかつ)を大切(たいせつ)にしている。",
+      "translations": {
+        "EN": "I value everyday life.",
+        "ID": "Saya menghargai kehidupan sehari-hari.",
+        "ES": "Valoro la vida cotidiana.",
+        "VI": "Tôi coi trọng cuộc sống hàng ngày.",
+        "FR": "J'accorde de la valeur à la vie quotidienne.",
+        "NE": "म दैनिक जीवनलाई महत्व दिन्छु।",
+        "BN": "আমি দৈনন্দিন জীবনকে মূল্য দিই।",
+        "ZH": "我珍惜每一天的生活。",
+        "KO": "일상생활을 소중히 하고 있다.",
+        "TL": "Pinahahalagahan ko ang pang-araw-araw na buhay.",
+        "MY": "ငါနေ့စဉ်ဘဝကိုတန်ဖိုးထားတယ်။",
+        "HI": "मैं रोजमर्रा की जिंदगी को महत्व देता हूं।",
+        "AR": "أقدر الحياة اليومية.",
+        "FA": "من برای زندگی روزمره ارزش قائلم."
+      }
+    },
+    {
+      "kanji": "忙しい日常が続いている。",
+      "furigana": "忙(いそが)しい日常(にちじょう)が続(つづ)いている。",
+      "translations": {
+        "EN": "Busy days continue.",
+        "ID": "Hari-hari sibuk terus berlanjut.",
+        "ES": "Continúan los días ocupados.",
+        "VI": "Những ngày bận rộn vẫn tiếp tục.",
+        "FR": "Les journées chargées continuent.",
+        "NE": "व्यस्त दिनहरू जारी छन्।",
+        "BN": "ব্যস্ত দিনগুলি চলতে থাকে।",
+        "ZH": "忙碌的日子还在继续。",
+        "KO": "바쁜 일상이 이어지고 있다.",
+        "TL": "Patuloy ang mga abalang araw.",
+        "MY": "အလုပ်များတဲ့နေ့တွေ ဆက်ဖြစ်။",
+        "HI": "व्यस्त दिन जारी रहेंगे।",
+        "AR": "تستمر الأيام المزدحمة.",
+        "FA": "روزهای شلوغ ادامه دارد."
+      }
+    },
+    {
+      "kanji": "何気ない日常が好きだ。",
+      "furigana": "何気(なにげ)ない日常(にちじょう)が好(す)きだ。",
+      "translations": {
+        "EN": "I like the ordinary everyday life.",
+        "ID": "Saya menyukai kehidupan sehari-hari yang biasa saja.",
+        "ES": "Me gusta la vida cotidiana y normal.",
+        "VI": "Tôi thích cuộc sống bình thường hàng ngày.",
+        "FR": "J'aime la vie quotidienne ordinaire.",
+        "NE": "मलाई सामान्य दैनिक जीवन मन पर्छ।",
+        "BN": "আমি সাধারণ দৈনন্দিন জীবন পছন্দ করি।",
+        "ZH": "我喜欢平凡的日常生活。",
+        "KO": "아무렇지도 않은 일상을 좋아한다.",
+        "TL": "Gusto ko ang pang-araw-araw na buhay.",
+        "MY": "သာမန်နေ့စဉ်ဘဝကို သဘောကျတယ်။",
+        "HI": "मुझे साधारण रोजमर्रा की जिंदगी पसंद है।",
+        "AR": "أنا أحب الحياة اليومية العادية.",
+        "FA": "من زندگی روزمره و عادی رو دوست دارم."
+      }
+    },
+    {
+      "kanji": "日常会話を練習しよう。",
+      "furigana": "日常会話(にちじょうかいわ)を練習(れんしゅう)しよう。",
+      "translations": {
+        "EN": "Let's practice everyday conversation.",
+        "ID": "Mari berlatih percakapan sehari-hari.",
+        "ES": "Practiquemos la conversación cotidiana.",
+        "VI": "Chúng ta hãy cùng thực hành hội thoại hàng ngày.",
+        "FR": "Pratiquons la conversation de tous les jours.",
+        "NE": "दैनिक कुराकानी अभ्यास गरौं।",
+        "BN": "আসুন প্রতিদিনের কথোপকথন অনুশীলন করি।",
+        "ZH": "让我们练习日常会话。",
+        "KO": "일상 대화를 연습하자.",
+        "TL": "Magsanay tayo sa pang-araw-araw na pag-uusap.",
+        "MY": "နေ့စဉ်စကားပြောလေ့ကျင့်ကြပါစို့။",
+        "HI": "आइये, प्रतिदिन बातचीत का अभ्यास करें।",
+        "AR": "دعونا نمارس المحادثة اليومية.",
+        "FA": "بیایید مکالمات روزمره را تمرین کنیم."
+      }
+    },
+    {
+      "kanji": "日常に戻るのは安心する。",
+      "furigana": "日常(にちじょう)に戻(もど)るのは安心(あんしん)する。",
+      "translations": {
+        "EN": "It's a relief to return to normal life.",
+        "ID": "Lega rasanya bisa kembali ke kehidupan normal.",
+        "ES": "Es un alivio volver a la vida normal.",
+        "VI": "Thật nhẹ nhõm khi được trở lại cuộc sống bình thường.",
+        "FR": "C'est un soulagement de revenir à la vie normale.",
+        "NE": "सामान्य जीवनमा फर्कनु राहतको कुरा हो।",
+        "BN": "স্বাভাবিক জীবনে ফিরে আসাটা স্বস্তির।",
+        "ZH": "恢复正常生活真让人松了一口气。",
+        "KO": "일상에 돌아오는 것은 안심한다.",
+        "TL": "Nakakagaan ng loob ang bumalik sa normal na buhay.",
+        "MY": "ပုံမှန်ဘဝသို့ ပြန်သွားရန် သက်သာရာရစေပါသည်။",
+        "HI": "सामान्य जीवन में वापस लौटना राहत की बात है।",
+        "AR": "من دواعي الارتياح العودة إلى الحياة الطبيعية.",
+        "FA": "بازگشت به زندگی عادی، مایه آرامش است."
+      }
+    },
+    {
+      "kanji": "単調な日常に変化が欲しい。",
+      "furigana": "単調(たんちょう)な日常(にちじょう)に変化(へんか)が欲(ほ)しい。",
+      "translations": {
+        "EN": "I want some change in my monotonous daily life.",
+        "ID": "Saya ingin sedikit perubahan dalam kehidupan sehari-hari saya yang monoton.",
+        "ES": "Quiero algún cambio en mi monótona vida diaria.",
+        "VI": "Tôi muốn có chút thay đổi trong cuộc sống đơn điệu thường ngày của mình.",
+        "FR": "Je veux un peu de changement dans ma vie quotidienne monotone.",
+        "NE": "म मेरो एकरस दैनिक जीवनमा केही परिवर्तन चाहन्छु।",
+        "BN": "আমি আমার একঘেয়ে দৈনন্দিন জীবনে কিছু পরিবর্তন চাই।",
+        "ZH": "我想改变一下单调的日常生活。",
+        "KO": "단조로운 일상 변화를 원한다.",
+        "TL": "Gusto ko ng pagbabago sa aking monotonous na pang-araw-araw na buhay.",
+        "MY": "ကျွန်တော့်ရဲ့ ငွီးငှေ့နေတဲ့ နေ့စဉ်ဘ၀မှာ အပြောင်းအလဲတချို့ လိုချင်တယ်။",
+        "HI": "मैं अपने नीरस दैनिक जीवन में कुछ बदलाव चाहता हूँ।",
+        "AR": "أريد بعض التغيير في حياتي اليومية الرتيبة.",
+        "FA": "دلم یه تغییر تو زندگی یکنواخت و روزمره‌ام می‌خواد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "everyday": {
+      "ID": "setiap hari",
+      "ES": "cada día",
+      "VI": "hàng ngày",
+      "FR": "tous les jours",
+      "NE": "दैनिक",
+      "BN": "প্রতিদিন",
+      "ZH": "每天",
+      "KO": "매일",
+      "TL": "araw-araw",
+      "MY": "နေ့တိုင်း",
+      "HI": "रोज रोज",
+      "AR": "كل يوم",
+      "FA": "روزمره",
+      "EN": [
+        "daily",
+        "ordinary",
+        "usual",
+        "routine",
+        "regular"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "日常",
+    "is_common": true,
+    "tags": [
+      "wanikani17"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "日常",
+        "reading": "にちじょう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "everyday",
+          "daily",
+          "ordinary",
+          "usual",
+          "routine",
+          "regular"
+        ],
+        "parts_of_speech": [
+          "Noun which may take the genitive case particle 'no'",
+          "Noun",
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "日",
+    "常"
+  ],
+  "kanji_data": {
+    "日": {
+      "freq_mainichi_shinbun": 1,
+      "grade": 1,
+      "heisig_en": "day",
+      "jlpt": 5,
+      "kanji": "日",
+      "kun_readings": [
+        "-か",
+        "-び",
+        "ひ"
+      ],
+      "meanings": [
+        "Japan",
+        "counter for days",
+        "day",
+        "sun"
+      ],
+      "name_readings": [
+        "あ",
+        "あき",
+        "いる",
+        "く",
+        "くさ",
+        "こう",
+        "す",
+        "たち",
+        "に",
+        "にっ",
+        "につ",
+        "へ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ジツ",
+        "ニチ"
+      ],
+      "stroke_count": 4,
+      "unicode": "65E5"
+    },
+    "常": {
+      "freq_mainichi_shinbun": 293,
+      "grade": 5,
+      "heisig_en": "usual",
+      "jlpt": 3,
+      "kanji": "常",
+      "kun_readings": [
+        "つね",
+        "とこ-"
+      ],
+      "meanings": [
+        "always",
+        "common",
+        "continually",
+        "long-lasting",
+        "normal",
+        "ordinary",
+        "regular",
+        "usual"
+      ],
+      "name_readings": [
+        "とき",
+        "のぶ",
+        "ひ",
+        "ひた"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ジョウ"
+      ],
+      "stroke_count": 11,
+      "unicode": "5E38"
+    }
+  }
 }
