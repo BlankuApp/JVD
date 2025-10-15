@@ -1,488 +1,507 @@
 {
-    "version": "0.2.0",
-    "word": "合わせる",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/jPIRY2blkis",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "合わせる",
-        "reading": "あわせる",
-        "introduction_japanese": "",
-        "introduction_english": "Our focus today is あわせる, which pops up when you're talking about coordinating efforts, matching items, or harmonizing elements in various settings. \nImagine syncing your footsteps with a song or matching a puzzle piece!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word 合わせる means \"to match\" or \"to fit together.\" It's used when you're trying to align or synchronize things, like coordinating actions or combining items in harmony. It can also imply comparing or checking against something, ensuring things are in accordance with each other.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "to match"
-            ],
-            [
-                "to join together",
-                "to unite",
-                "to combine",
-                "to add up"
-            ],
-            [
-                "to face",
-                "to be opposite"
-            ],
-            [
-                "to compare",
-                "to check with"
-            ],
-            [
-                "to cause to meet"
-            ],
-            [
-                "to place together",
-                "to connect",
-                "to overlap"
-            ],
-            [
-                "to mix",
-                "to combine"
-            ],
-            [
-                "to put blade to blade",
-                "to fight"
-            ]
-        ],
-        "meaning_translations": {
-            "to match": {
-                "EN": "to match",
-                "ID": "menyesuaikan",
-                "ES": "emparejar",
-                "VI": "phù hợp",
-                "FR": "faire correspondre",
-                "NE": "मिलैमिलाउने",
-                "BN": "মিলানো",
-                "ZH": "匹配",
-                "KO": "맞추다",
-                "TL": "i-angkop",
-                "MY": "ကိုက်ညီ",
-                "HI": "मिलाना",
-                "AR": "للتطابق",
-                "FA": "هماهنگ کردن"
-            },
-            "to join together": {
-                "EN": "to join together",
-                "ID": "bergabung bersama",
-                "ES": "unir juntos",
-                "VI": "nối lại với nhau",
-                "FR": "associer",
-                "NE": "संगै जोड्नु",
-                "BN": "মিলিয়ে দেওয়া",
-                "ZH": "结合",
-                "KO": "맞추다",
-                "TL": "pagsama-sama",
-                "MY": "ပေါင်းစည်းရန်",
-                "HI": "मिलाना",
-                "AR": "لينضموا معا",
-                "FA": "بہ هم پیوستن"
-            },
-            "to face": {
-                "EN": "合わせる: to match",
-                "ID": "mencocokkan",
-                "ES": "coincidir",
-                "VI": "phù hợp",
-                "FR": "correspondre",
-                "NE": "मिलाउन",
-                "BN": "মিল করা",
-                "ZH": "匹配",
-                "KO": "맞추다",
-                "TL": "tumugma",
-                "MY": "လိုက်ဖက်စေရန်",
-                "HI": "मिलाना",
-                "AR": "مطابقة",
-                "FA": "همسان سازی کردن"
-            },
-            "to compare": {
-                "EN": "to combine",
-                "ID": "menggabungkan",
-                "ES": "combinar",
-                "VI": "kết hợp",
-                "FR": "combiner",
-                "NE": "जोड्नु",
-                "BN": "যোগ করা",
-                "ZH": "结合",
-                "KO": "합치다",
-                "TL": "pagsamahin",
-                "MY": "ပေါင်းစပ်သည်",
-                "HI": "मिलाना",
-                "AR": "الجمع بين",
-                "FA": "ترکیب کردن"
-            },
-            "to cause to meet": {
-                "EN": "to cause to meet",
-                "ID": "menyebabkan bertemu",
-                "ES": "hacer que se encuentren",
-                "VI": "để khiến gặp",
-                "FR": "faire se rencontrer",
-                "NE": "भेट गराउनको लागि",
-                "BN": "মিলিত হওয়ার কারণ",
-                "ZH": "使见面",
-                "KO": "마주치게 하다",
-                "TL": "upang magdulot ng pagkikita",
-                "MY": "တွေ့ဆုံစေရန်",
-                "HI": "मिलने के लिए कारण बनाना",
-                "AR": "لجعلهم يلتقون",
-                "FA": "برای ایجاد ملاقات"
-            },
-            "to place together": {
-                "EN": "Combine / Merge / Put together",
-                "ID": "Menggabungkan / Menggabungkan / Menyusun",
-                "ES": "Combinar / Fusionar / Juntar",
-                "VI": "Kết hợp / Nhập lại / Đặt cùng nhau",
-                "FR": "Combiner / Fusionner / Mettre ensemble",
-                "NE": "गाभ्ने / मिलाउनु / सँगै राख्नु",
-                "BN": "মিশ্রিত করা / একত্রিত করা / একসাথে রাখা",
-                "ZH": "结合 / 合并 / 放在一起",
-                "KO": "결합하다 / 합치다 / 함께 두다",
-                "TL": "Pag-ugnayin / Pagsamahin / Pagsamahin",
-                "MY": "ပေါင်းစည်းပါ / ပေါင်းစည်းပါ / အတူတကွထားပါ",
-                "HI": "मिलाना / एकीकृत करना / साथ रखना",
-                "AR": "دمج / دمج / وضع معا",
-                "FA": "ترکیب کردن / ادغام / در کنار هم قرار دادن"
-            },
-            "to mix": {
-                "EN": "To mix",
-                "ID": "Mencampur",
-                "ES": "Mezclar",
-                "VI": "Trộn",
-                "FR": "Mélanger",
-                "NE": "मिश्रण गर्न",
-                "BN": "মেশানো",
-                "ZH": "混合",
-                "KO": "섞다",
-                "TL": "Paghaluin",
-                "MY": "ရောစပ်",
-                "HI": "मिलाना",
-                "AR": "مزج",
-                "FA": "مخلوط کردن"
-            },
-            "to put blade to blade": {
-                "EN": "to put blade to blade",
-                "ID": "untuk meletakkan bilah ke bilah",
-                "ES": "poner hoja contra hoja",
-                "VI": "để đặt lưỡi kiếm đối lưỡi",
-                "FR": "mettre lame sur lame",
-                "NE": "धारलाई धारमा राख्न",
-                "BN": "ফলকে ফলের সাথে মেলানো",
-                "ZH": "刃对刃",
-                "KO": "날을 날에 맞추다",
-                "TL": "upang ilagay ang talim sa talim",
-                "MY": "ဓားခေါင်းကို ဓားခေါင်းနှင့် ဆင်ရန်",
-                "HI": "ब्लेड को ब्लेड पर रखना",
-                "AR": "لجمع شفرة على شفرة",
-                "FA": "برای قرار دادن لبه مقابل لبه"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "私たちは意見を合わせました。",
-                "furigana": "私(わたし)たちは意見(いけん)を合わせ(あわせ)ました。",
-                "translations": {
-                    "EN": "We agreed on our opinions.",
-                    "ID": "Kami menyetujui pendapat kami.",
-                    "ES": "Ajustamos nuestras opiniones.",
-                    "VI": "Chúng tôi đã thống nhất ý kiến.",
-                    "FR": "Nous avons harmonisé nos opinions.",
-                    "NE": "हामीले हाम्रा विचारहरूमा सहमति जनायौं।",
-                    "BN": "আমরা আমাদের মতামত একত্রিত করেছি।",
-                    "ZH": "我们达成了一致意见。",
-                    "KO": "우리는 의견을 맞췄습니다.",
-                    "TL": "Nagkasundo kami sa aming mga opinyon.",
-                    "MY": "ကျွန်ုပ်တို့သည်ကျွန်ုပ်တို့၏ အမြင်များကို သဘောတူခဲ့သည်။",
-                    "HI": "हमने अपनी राय पर सहमति बनाई।",
-                    "AR": "لقد توافقنا في آراءنا.",
-                    "FA": "ما بر روی نظرات خود توافق کردیم."
-                }
-            },
-            {
-                "kanji": "みんなで声を合わせて歌います。",
-                "furigana": "みんなで声(こえ)を合わせて歌(うた)います。",
-                "translations": {
-                    "EN": "Everyone sings together harmoniously.",
-                    "ID": "Semua orang bernyanyi bersama dengan harmonis.",
-                    "ES": "Todos cantan juntos en armonía.",
-                    "VI": "Mọi người cùng nhau hát.",
-                    "FR": "Tout le monde chante ensemble harmonieusement.",
-                    "NE": "सबै जनाले मिलेर गाउछन्।",
-                    "BN": "সবাই একসাথে মিলিয়ে গান গায়।",
-                    "ZH": "大家一起合声唱歌。",
-                    "KO": "모두가 함께 목소리를 맞춰 노래합니다.",
-                    "TL": "Sabay-sabay na kumakanta ang lahat.",
-                    "MY": "လူတိုင်းပေါင်းပြီးသီချင်းဆိုကြပါသည်။",
-                    "HI": "सभी ने मिलकर गाना गाया।",
-                    "AR": "الجميع يغني معًا بتناغم.",
-                    "FA": "همه با هم در هماهنگی می‌خوانند."
-                }
-            },
-            {
-                "kanji": "友達とタイミングを合わせる。",
-                "furigana": "友達(ともだち)とタイミングを合わせる(あわせる)。",
-                "translations": {
-                    "EN": "I match the timing with my friend.",
-                    "ID": "Saya menyamakan waktu dengan teman.",
-                    "ES": "Sincronizo el tiempo con mi amigo.",
-                    "VI": "Tôi phối hợp thời gian với bạn của tôi.",
-                    "FR": "Je synchronise le timing avec mon ami.",
-                    "NE": "म साथीको साथ समय मिलाउँछु।",
-                    "BN": "আমি আমার বন্ধুর সাথে সময় মিলাই।",
-                    "ZH": "我与朋友配合时间。",
-                    "KO": "친구와 타이밍을 맞추다.",
-                    "TL": "Pinagtutugma ko ang timing kasama ang kaibigan ko.",
-                    "MY": "ကျွန်ုပ်သည်သူငယ်ချင်းနှင့်အချိန်ပိုင်းကိုထပ်တူလုပ်သည်။",
-                    "HI": "मैं अपने दोस्त के साथ समय मिलाता हूँ।",
-                    "AR": "أُنسِق التوقيت مع صديقي.",
-                    "FA": "زمانبندی را با دوستم هماهنگ می‌کنم."
-                }
-            },
-            {
-                "kanji": "服の色を合わせます。",
-                "furigana": "服(ふく)の色(いろ)を合わせ(あわせ)ます。",
-                "translations": {
-                    "EN": "I match the color of my clothes.",
-                    "ID": "Saya mencocokkan warna pakaian saya.",
-                    "ES": "Hago coincidir el color de mi ropa.",
-                    "VI": "Tôi phối màu đồng đều cho quần áo.",
-                    "FR": "Je fais correspondre la couleur de mes vêtements.",
-                    "NE": "म लुगा को रङ्ग मिलाउँछु।",
-                    "BN": "আমি আমার পোশাকের রঙ মেলাই।",
-                    "ZH": "我配合衣服的颜色。",
-                    "KO": "옷 색깔을 맞춥니다.",
-                    "TL": "Tinatapat ko ang kulay ng damit ko.",
-                    "MY": "ကျွန်ုပ်သည် အဝတ်အစားအရောင်ကို ကိုက်ညီစေရန် လုပ်ဆောင်ပါသည်။",
-                    "HI": "मैं अपने कपड़ों के रंग को मिलाता हूं।",
-                    "AR": "أقوم بتنسيق لون ملابسي.",
-                    "FA": "من رنگ لباس‌هایم را مطابقت می‌دهم."
-                }
-            },
-            {
-                "kanji": "私たちはリズムを合わせる。",
-                "furigana": "私(わたし)たちはリズムを合わせる。",
-                "translations": {
-                    "EN": "We match our rhythm.",
-                    "ID": "Kami menyesuaikan ritme kami.",
-                    "ES": "Ajustamos nuestro ritmo.",
-                    "VI": "Chúng tôi điều chỉnh nhịp điệu của mình.",
-                    "FR": "Nous harmonisons notre rythme.",
-                    "NE": "हामी हाम्रो लय मिलाउँछौं।",
-                    "BN": "আমরা আমাদের তাল মিলিয়ে নিই।",
-                    "ZH": "我们调节我们的节奏。",
-                    "KO": "우리는 리듬을 맞춘다.",
-                    "TL": "Kami ay tumutugma sa aming ritmo.",
-                    "MY": "ငါတို့ရဲ့ သံစဉ်ကို အမီလျှော်ပါတယ်။",
-                    "HI": "हम अपने तालमेल को मिलाते हैं।",
-                    "AR": "نحن نحسب إيقاعنا.",
-                    "FA": "ما ریتم خود را هماهنگ می‌کنیم."
-                }
-            }
-        ],
-        "synonyms": [
-            "調整 : ちょうせい : adjustment",
-            "合致 : がっち : agreement"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word are ちょうせいする and がっちする. \nちょうせいする means \"to adjust\" and carries a more active tone of organizing or fine-tuning something. \nがっちする is about \"matching\" in the sense of fully agreeing or coinciding with something.",
-        "antonyms": [
-            "外れる : はずれる : to be disconnected",
-            "違う : ちがう : to differ"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word are はずれる and ちがう. \nはずれる means \"to come off\" or \"to miss,\" implying not fitting together properly. \nちがう suggests something \"differs\" or \"varies,\" highlighting a lack of alignment.",
-        "kanji_details": [
-            {
-                "kanji": "合",
-                "common_words": [
-                    "合図: sign",
-                    "合宿: lodging together"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "合わせる",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "合わせる",
-                "reading": "あわせる"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "to match"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to join together",
-                    "to unite",
-                    "to combine",
-                    "to add up"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to face",
-                    "to be opposite"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to compare",
-                    "to check with"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to cause to meet"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to place together",
-                    "to connect",
-                    "to overlap"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to mix",
-                    "to combine"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to put blade to blade",
-                    "to fight"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "合"
+  "version": "0.3.0",
+  "word": "合わせる",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/jPIRY2blkis",
+  "in_db": true,
+  "kanji": "合わせる",
+  "reading": "あわせる",
+  "introduction_japanese": "",
+  "introduction_english": "Our focus today is あわせる, which pops up when you're talking about coordinating efforts, matching items, or harmonizing elements in various settings. \nImagine syncing your footsteps with a song or matching a puzzle piece!",
+  "meanings": [
+    [
+      "to match"
     ],
-    "kanji_data": {
-        "合": {
-            "meanings": [
-                "0.1",
-                "fit",
-                "join",
-                "suit"
-            ],
-            "on_readings": [
-                "カッ",
-                "ガッ",
-                "ゴウ"
-            ],
-            "kun_readings": [
-                "-あ.い",
-                "-あ.う",
-                "-あ.わせる",
-                "-あい",
-                "あ.い",
-                "あ.う",
-                "あ.わす",
-                "あ.わせる",
-                "あい-"
-            ],
-            "stroke_count": 6,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 41,
-            "unicode": "5408",
-            "grade": 2
-        }
-    },
-    "collocations": [
-        "意見を合わせる",
-        "声を合わせて",
-        "タイミングを合わせる",
-        "色を合わせる",
-        "リズムを合わせる"
+    [
+      "to join together",
+      "to unite",
+      "to combine",
+      "to add up"
+    ],
+    [
+      "to face",
+      "to be opposite"
+    ],
+    [
+      "to compare",
+      "to check with"
+    ],
+    [
+      "to cause to meet"
+    ],
+    [
+      "to place together",
+      "to connect",
+      "to overlap"
+    ],
+    [
+      "to mix",
+      "to combine"
+    ],
+    [
+      "to put blade to blade",
+      "to fight"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word 合わせる means \"to match\" or \"to fit together.\" It's used when you're trying to align or synchronize things, like coordinating actions or combining items in harmony. It can also imply comparing or checking against something, ensuring things are in accordance with each other.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "合",
+      "common_words": [
+        "合図: sign",
+        "合宿: lodging together"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "調整 : ちょうせい : adjustment",
+    "合致 : がっち : agreement"
+  ],
+  "synonym_explanation": "The most common synonyms of the word are ちょうせいする and がっちする. \nちょうせいする means \"to adjust\" and carries a more active tone of organizing or fine-tuning something. \nがっちする is about \"matching\" in the sense of fully agreeing or coinciding with something.",
+  "antonyms": [
+    "外れる : はずれる : to be disconnected",
+    "違う : ちがう : to differ"
+  ],
+  "antonym_explanation": "The most common antonyms of the word are はずれる and ちがう. \nはずれる means \"to come off\" or \"to miss,\" implying not fitting together properly. \nちがう suggests something \"differs\" or \"varies,\" highlighting a lack of alignment.",
+  "collocations": [
+    {
+      "kanji": "意見を合わせる",
+      "furigana": "意見を合わせる",
+      "translations": {}
+    },
+    {
+      "kanji": "声を合わせて",
+      "furigana": "声を合わせて",
+      "translations": {}
+    },
+    {
+      "kanji": "タイミングを合わせる",
+      "furigana": "タイミングを合わせる",
+      "translations": {}
+    },
+    {
+      "kanji": "色を合わせる",
+      "furigana": "色を合わせる",
+      "translations": {}
+    },
+    {
+      "kanji": "リズムを合わせる",
+      "furigana": "リズムを合わせる",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "私たちは意見を合わせました。",
+      "furigana": "私(わたし)たちは意見(いけん)を合わせ(あわせ)ました。",
+      "translations": {
+        "EN": "We agreed on our opinions.",
+        "ID": "Kami menyetujui pendapat kami.",
+        "ES": "Ajustamos nuestras opiniones.",
+        "VI": "Chúng tôi đã thống nhất ý kiến.",
+        "FR": "Nous avons harmonisé nos opinions.",
+        "NE": "हामीले हाम्रा विचारहरूमा सहमति जनायौं।",
+        "BN": "আমরা আমাদের মতামত একত্রিত করেছি।",
+        "ZH": "我们达成了一致意见。",
+        "KO": "우리는 의견을 맞췄습니다.",
+        "TL": "Nagkasundo kami sa aming mga opinyon.",
+        "MY": "ကျွန်ုပ်တို့သည်ကျွန်ုပ်တို့၏ အမြင်များကို သဘောတူခဲ့သည်။",
+        "HI": "हमने अपनी राय पर सहमति बनाई।",
+        "AR": "لقد توافقنا في آراءنا.",
+        "FA": "ما بر روی نظرات خود توافق کردیم."
+      }
+    },
+    {
+      "kanji": "みんなで声を合わせて歌います。",
+      "furigana": "みんなで声(こえ)を合わせて歌(うた)います。",
+      "translations": {
+        "EN": "Everyone sings together harmoniously.",
+        "ID": "Semua orang bernyanyi bersama dengan harmonis.",
+        "ES": "Todos cantan juntos en armonía.",
+        "VI": "Mọi người cùng nhau hát.",
+        "FR": "Tout le monde chante ensemble harmonieusement.",
+        "NE": "सबै जनाले मिलेर गाउछन्।",
+        "BN": "সবাই একসাথে মিলিয়ে গান গায়।",
+        "ZH": "大家一起合声唱歌。",
+        "KO": "모두가 함께 목소리를 맞춰 노래합니다.",
+        "TL": "Sabay-sabay na kumakanta ang lahat.",
+        "MY": "လူတိုင်းပေါင်းပြီးသီချင်းဆိုကြပါသည်။",
+        "HI": "सभी ने मिलकर गाना गाया।",
+        "AR": "الجميع يغني معًا بتناغم.",
+        "FA": "همه با هم در هماهنگی می‌خوانند."
+      }
+    },
+    {
+      "kanji": "友達とタイミングを合わせる。",
+      "furigana": "友達(ともだち)とタイミングを合わせる(あわせる)。",
+      "translations": {
+        "EN": "I match the timing with my friend.",
+        "ID": "Saya menyamakan waktu dengan teman.",
+        "ES": "Sincronizo el tiempo con mi amigo.",
+        "VI": "Tôi phối hợp thời gian với bạn của tôi.",
+        "FR": "Je synchronise le timing avec mon ami.",
+        "NE": "म साथीको साथ समय मिलाउँछु।",
+        "BN": "আমি আমার বন্ধুর সাথে সময় মিলাই।",
+        "ZH": "我与朋友配合时间。",
+        "KO": "친구와 타이밍을 맞추다.",
+        "TL": "Pinagtutugma ko ang timing kasama ang kaibigan ko.",
+        "MY": "ကျွန်ုပ်သည်သူငယ်ချင်းနှင့်အချိန်ပိုင်းကိုထပ်တူလုပ်သည်။",
+        "HI": "मैं अपने दोस्त के साथ समय मिलाता हूँ।",
+        "AR": "أُنسِق التوقيت مع صديقي.",
+        "FA": "زمانبندی را با دوستم هماهنگ می‌کنم."
+      }
+    },
+    {
+      "kanji": "服の色を合わせます。",
+      "furigana": "服(ふく)の色(いろ)を合わせ(あわせ)ます。",
+      "translations": {
+        "EN": "I match the color of my clothes.",
+        "ID": "Saya mencocokkan warna pakaian saya.",
+        "ES": "Hago coincidir el color de mi ropa.",
+        "VI": "Tôi phối màu đồng đều cho quần áo.",
+        "FR": "Je fais correspondre la couleur de mes vêtements.",
+        "NE": "म लुगा को रङ्ग मिलाउँछु।",
+        "BN": "আমি আমার পোশাকের রঙ মেলাই।",
+        "ZH": "我配合衣服的颜色。",
+        "KO": "옷 색깔을 맞춥니다.",
+        "TL": "Tinatapat ko ang kulay ng damit ko.",
+        "MY": "ကျွန်ုပ်သည် အဝတ်အစားအရောင်ကို ကိုက်ညီစေရန် လုပ်ဆောင်ပါသည်။",
+        "HI": "मैं अपने कपड़ों के रंग को मिलाता हूं।",
+        "AR": "أقوم بتنسيق لون ملابسي.",
+        "FA": "من رنگ لباس‌هایم را مطابقت می‌دهم."
+      }
+    },
+    {
+      "kanji": "私たちはリズムを合わせる。",
+      "furigana": "私(わたし)たちはリズムを合わせる。",
+      "translations": {
+        "EN": "We match our rhythm.",
+        "ID": "Kami menyesuaikan ritme kami.",
+        "ES": "Ajustamos nuestro ritmo.",
+        "VI": "Chúng tôi điều chỉnh nhịp điệu của mình.",
+        "FR": "Nous harmonisons notre rythme.",
+        "NE": "हामी हाम्रो लय मिलाउँछौं।",
+        "BN": "আমরা আমাদের তাল মিলিয়ে নিই।",
+        "ZH": "我们调节我们的节奏。",
+        "KO": "우리는 리듬을 맞춘다.",
+        "TL": "Kami ay tumutugma sa aming ritmo.",
+        "MY": "ငါတို့ရဲ့ သံစဉ်ကို အမီလျှော်ပါတယ်။",
+        "HI": "हम अपने तालमेल को मिलाते हैं।",
+        "AR": "نحن نحسب إيقاعنا.",
+        "FA": "ما ریتم خود را هماهنگ می‌کنیم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "to match": {
+      "EN": "to match",
+      "ID": "menyesuaikan",
+      "ES": "emparejar",
+      "VI": "phù hợp",
+      "FR": "faire correspondre",
+      "NE": "मिलैमिलाउने",
+      "BN": "মিলানো",
+      "ZH": "匹配",
+      "KO": "맞추다",
+      "TL": "i-angkop",
+      "MY": "ကိုက်ညီ",
+      "HI": "मिलाना",
+      "AR": "للتطابق",
+      "FA": "هماهنگ کردن"
+    },
+    "to join together": {
+      "EN": "to join together",
+      "ID": "bergabung bersama",
+      "ES": "unir juntos",
+      "VI": "nối lại với nhau",
+      "FR": "associer",
+      "NE": "संगै जोड्नु",
+      "BN": "মিলিয়ে দেওয়া",
+      "ZH": "结合",
+      "KO": "맞추다",
+      "TL": "pagsama-sama",
+      "MY": "ပေါင်းစည်းရန်",
+      "HI": "मिलाना",
+      "AR": "لينضموا معا",
+      "FA": "بہ هم پیوستن"
+    },
+    "to face": {
+      "EN": "合わせる: to match",
+      "ID": "mencocokkan",
+      "ES": "coincidir",
+      "VI": "phù hợp",
+      "FR": "correspondre",
+      "NE": "मिलाउन",
+      "BN": "মিল করা",
+      "ZH": "匹配",
+      "KO": "맞추다",
+      "TL": "tumugma",
+      "MY": "လိုက်ဖက်စေရန်",
+      "HI": "मिलाना",
+      "AR": "مطابقة",
+      "FA": "همسان سازی کردن"
+    },
+    "to compare": {
+      "EN": "to combine",
+      "ID": "menggabungkan",
+      "ES": "combinar",
+      "VI": "kết hợp",
+      "FR": "combiner",
+      "NE": "जोड्नु",
+      "BN": "যোগ করা",
+      "ZH": "结合",
+      "KO": "합치다",
+      "TL": "pagsamahin",
+      "MY": "ပေါင်းစပ်သည်",
+      "HI": "मिलाना",
+      "AR": "الجمع بين",
+      "FA": "ترکیب کردن"
+    },
+    "to cause to meet": {
+      "EN": "to cause to meet",
+      "ID": "menyebabkan bertemu",
+      "ES": "hacer que se encuentren",
+      "VI": "để khiến gặp",
+      "FR": "faire se rencontrer",
+      "NE": "भेट गराउनको लागि",
+      "BN": "মিলিত হওয়ার কারণ",
+      "ZH": "使见面",
+      "KO": "마주치게 하다",
+      "TL": "upang magdulot ng pagkikita",
+      "MY": "တွေ့ဆုံစေရန်",
+      "HI": "मिलने के लिए कारण बनाना",
+      "AR": "لجعلهم يلتقون",
+      "FA": "برای ایجاد ملاقات"
+    },
+    "to place together": {
+      "EN": "Combine / Merge / Put together",
+      "ID": "Menggabungkan / Menggabungkan / Menyusun",
+      "ES": "Combinar / Fusionar / Juntar",
+      "VI": "Kết hợp / Nhập lại / Đặt cùng nhau",
+      "FR": "Combiner / Fusionner / Mettre ensemble",
+      "NE": "गाभ्ने / मिलाउनु / सँगै राख्नु",
+      "BN": "মিশ্রিত করা / একত্রিত করা / একসাথে রাখা",
+      "ZH": "结合 / 合并 / 放在一起",
+      "KO": "결합하다 / 합치다 / 함께 두다",
+      "TL": "Pag-ugnayin / Pagsamahin / Pagsamahin",
+      "MY": "ပေါင်းစည်းပါ / ပေါင်းစည်းပါ / အတူတကွထားပါ",
+      "HI": "मिलाना / एकीकृत करना / साथ रखना",
+      "AR": "دمج / دمج / وضع معا",
+      "FA": "ترکیب کردن / ادغام / در کنار هم قرار دادن"
+    },
+    "to mix": {
+      "EN": "To mix",
+      "ID": "Mencampur",
+      "ES": "Mezclar",
+      "VI": "Trộn",
+      "FR": "Mélanger",
+      "NE": "मिश्रण गर्न",
+      "BN": "মেশানো",
+      "ZH": "混合",
+      "KO": "섞다",
+      "TL": "Paghaluin",
+      "MY": "ရောစပ်",
+      "HI": "मिलाना",
+      "AR": "مزج",
+      "FA": "مخلوط کردن"
+    },
+    "to put blade to blade": {
+      "EN": "to put blade to blade",
+      "ID": "untuk meletakkan bilah ke bilah",
+      "ES": "poner hoja contra hoja",
+      "VI": "để đặt lưỡi kiếm đối lưỡi",
+      "FR": "mettre lame sur lame",
+      "NE": "धारलाई धारमा राख्न",
+      "BN": "ফলকে ফলের সাথে মেলানো",
+      "ZH": "刃对刃",
+      "KO": "날을 날에 맞추다",
+      "TL": "upang ilagay ang talim sa talim",
+      "MY": "ဓားခေါင်းကို ဓားခေါင်းနှင့် ဆင်ရန်",
+      "HI": "ब्लेड को ब्लेड पर रखना",
+      "AR": "لجمع شفرة على شفرة",
+      "FA": "برای قرار دادن لبه مقابل لبه"
+    }
+  },
+  "jisho_data": {
+    "slug": "合わせる",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "合わせる",
+        "reading": "あわせる"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to match"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to join together",
+          "to unite",
+          "to combine",
+          "to add up"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to face",
+          "to be opposite"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to compare",
+          "to check with"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to cause to meet"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to place together",
+          "to connect",
+          "to overlap"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to mix",
+          "to combine"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to put blade to blade",
+          "to fight"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "合"
+  ],
+  "kanji_data": {
+    "合": {
+      "meanings": [
+        "0.1",
+        "fit",
+        "join",
+        "suit"
+      ],
+      "on_readings": [
+        "カッ",
+        "ガッ",
+        "ゴウ"
+      ],
+      "kun_readings": [
+        "-あ.い",
+        "-あ.う",
+        "-あ.わせる",
+        "-あい",
+        "あ.い",
+        "あ.う",
+        "あ.わす",
+        "あ.わせる",
+        "あい-"
+      ],
+      "stroke_count": 6,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 41,
+      "unicode": "5408",
+      "grade": 2
+    }
+  }
 }

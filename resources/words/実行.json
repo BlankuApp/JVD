@@ -1,0 +1,552 @@
+{
+    "version": "0.3.0",
+    "word": "実行",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/zqoXaZJvPPk",
+    "in_db": true,
+    "kanji": "実行",
+    "reading": "じっこう",
+    "introduction_japanese": "実行。計画や命令、プログラムのときによく使います。",
+    "introduction_english": "The noun じっこう is used with plans, orders, and computer programs.",
+    "meanings": [
+        [
+            "implementation",
+            "execution",
+            "enforcement",
+            "performance"
+        ],
+        [
+            "run",
+            "execute"
+        ],
+        [
+            "practice",
+            "application"
+        ]
+    ],
+    "meaning_explanation_japanese": "計画や指示をそのとおりにやること。考えを行動に移すこと。コンピューターではプログラムを動かすこと。",
+    "meaning_explanation_english": "じっこう means doing a plan or order, putting an idea into action, or running a computer program.",
+    "youtube_description": "Learn じっこう: what it means, how to use it in daily life and in tech, and the key kanji behind it. Simple examples for beginners!",
+    "kanji_details": [
+        {
+            "kanji": "実",
+            "onyomi": [
+                "ジツ"
+            ],
+            "kunyomi": [
+                "み",
+                "まこと"
+            ],
+            "meanings_english": [
+                "real",
+                "true",
+                "fruit"
+            ],
+            "common_words": [
+                "実力（じつりょく）: real ability",
+                "実験（じっけん）: experiment"
+            ]
+        },
+        {
+            "kanji": "行",
+            "onyomi": [
+                "コウ",
+                "ギョウ"
+            ],
+            "kunyomi": [
+                "い(く)",
+                "おこな(う)"
+            ],
+            "meanings_english": [
+                "go",
+                "do",
+                "line"
+            ],
+            "common_words": [
+                "行動（こうどう）: action",
+                "行く（いく）: to go"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means real, true, and fruit. It suggests making something real or full. You see it in words like じつりょく and じっけん. That sense of reality carries into the whole word.\nThe second kanji means go, do, and line. It shows movement and action. You hear it in いく and こうどう. It adds the idea of actually doing something.",
+    "synonyms": [
+        "実施 : じっし : implementation",
+        "実践 : じっせん : practice"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are じっし and じっせん. じっし is formal and used for policies, rules, or events. じっせん is applying skills or theory in real life. じっこう is broader and neutral for doing a plan, order, or task.",
+    "antonyms": [
+        "中止 : ちゅうし : cancellation",
+        "延期 : えんき : postponement"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are ちゅうし and えんき. ちゅうし stops the plan, and えんき delays it. じっこう means you go ahead and do it.",
+    "collocations": [
+        {
+            "kanji": "計画の実行",
+            "furigana": "計画(けいかく)の実行(じっこう)",
+            "translations": {
+                "EN": "Executing the plan",
+                "ID": "Melaksanakan rencana",
+                "ES": "Ejecutando el plan",
+                "VI": "Thực hiện kế hoạch",
+                "FR": "Exécution du plan",
+                "NE": "योजना कार्यान्वयन गर्दै",
+                "BN": "পরিকল্পনা বাস্তবায়ন",
+                "ZH": "执行计划",
+                "KO": "계획 실행",
+                "TL": "Pagpapatupad ng plano",
+                "MY": "အစီအစဉ်ကို အကောင်အထည်ဖော်ခြင်း။",
+                "HI": "योजना का क्रियान्वयन",
+                "AR": "تنفيذ الخطة",
+                "FA": "اجرای طرح"
+            }
+        },
+        {
+            "kanji": "命令の実行",
+            "furigana": "命令(めいれい)の実行(じっこう)",
+            "translations": {
+                "EN": "Execution of instructions",
+                "ID": "Eksekusi instruksi",
+                "ES": "Ejecución de instrucciones",
+                "VI": "Thực hiện các hướng dẫn",
+                "FR": "Exécution des instructions",
+                "NE": "निर्देशनहरूको कार्यान्वयन",
+                "BN": "নির্দেশাবলী বাস্তবায়ন",
+                "ZH": "执行指令",
+                "KO": "명령 실행",
+                "TL": "Pagpapatupad ng mga tagubilin",
+                "MY": "ညွှန်ကြားချက်များကိုလိုက်နာခြင်း။",
+                "HI": "निर्देशों का निष्पादन",
+                "AR": "تنفيذ التعليمات",
+                "FA": "اجرای دستورالعمل‌ها"
+            }
+        },
+        {
+            "kanji": "プログラムの実行",
+            "furigana": "プログラムの実行(じっこう)",
+            "translations": {
+                "EN": "Running the program",
+                "ID": "Menjalankan program",
+                "ES": "Ejecutando el programa",
+                "VI": "Chạy chương trình",
+                "FR": "Exécution du programme",
+                "NE": "कार्यक्रम सञ्चालन गर्दै",
+                "BN": "প্রোগ্রামটি চালানো হচ্ছে",
+                "ZH": "运行程序",
+                "KO": "프로그램 실행",
+                "TL": "Pagpapatakbo ng programa",
+                "MY": "အစီအစဉ်ကိုလုပ်ဆောင်ခြင်း။",
+                "HI": "कार्यक्रम चलाना",
+                "AR": "تشغيل البرنامج",
+                "FA": "اجرای برنامه"
+            }
+        },
+        {
+            "kanji": "政策の実行",
+            "furigana": "政策(せいさく)の実行(じっこう)",
+            "translations": {
+                "EN": "Policy implementation",
+                "ID": "Implementasi kebijakan",
+                "ES": "Implementación de políticas",
+                "VI": "Thực hiện chính sách",
+                "FR": "Mise en œuvre des politiques",
+                "NE": "नीति कार्यान्वयन",
+                "BN": "নীতি বাস্তবায়ন",
+                "ZH": "政策实施",
+                "KO": "정책 실행",
+                "TL": "Pagpapatupad ng patakaran",
+                "MY": "မူဝါဒ အကောင်အထည်ဖော်ခြင်း။",
+                "HI": "नीति का कार्यान्वयन",
+                "AR": "تنفيذ السياسة",
+                "FA": "اجرای سیاست"
+            }
+        },
+        {
+            "kanji": "迅速な実行",
+            "furigana": "迅速(じんそく)な実行(じっこう)",
+            "translations": {
+                "EN": "Fast execution",
+                "ID": "Eksekusi cepat",
+                "ES": "Ejecución rápida",
+                "VI": "Thực hiện nhanh chóng",
+                "FR": "Exécution rapide",
+                "NE": "छिटो कार्यान्वयन",
+                "BN": "দ্রুত কার্যকরকরণ",
+                "ZH": "快速执行",
+                "KO": "빠른 실행",
+                "TL": "Mabilis na pagpapatupad",
+                "MY": "မြန်ဆန်စွာ ကွပ်မျက်ခြင်း။",
+                "HI": "तेज़ निष्पादन",
+                "AR": "تنفيذ سريع",
+                "FA": "اجرای سریع"
+            }
+        },
+        {
+            "kanji": "計画を実行する",
+            "furigana": "計画(けいかく)を実行(じっこう)する",
+            "translations": {
+                "EN": "Execute the plan",
+                "ID": "Melaksanakan rencana",
+                "ES": "Ejecutar el plan",
+                "VI": "Thực hiện kế hoạch",
+                "FR": "Exécuter le plan",
+                "NE": "योजना कार्यान्वयन गर्नुहोस्",
+                "BN": "পরিকল্পনাটি বাস্তবায়ন করুন",
+                "ZH": "执行计划",
+                "KO": "계획 실행",
+                "TL": "Isagawa ang plano",
+                "MY": "အစီအစဉ်ကိုအကောင်အထည်ဖော်ပါ။",
+                "HI": "योजना को क्रियान्वित करें",
+                "AR": "تنفيذ الخطة",
+                "FA": "طرح را اجرا کنید"
+            }
+        },
+        {
+            "kanji": "すぐ実行する",
+            "furigana": "すぐ実行(じっこう)する",
+            "translations": {
+                "EN": "Do it now",
+                "ID": "Lakukan sekarang",
+                "ES": "Hazlo ahora",
+                "VI": "Làm ngay bây giờ",
+                "FR": "Fais-le maintenant",
+                "NE": "अहिले नै गर।",
+                "BN": "এখনই করো।",
+                "ZH": "立即行动",
+                "KO": "즉시 실행",
+                "TL": "Gawin mo na ngayon",
+                "MY": "ယခုလုပ်ပါ။",
+                "HI": "अभी करो",
+                "AR": "افعلها الآن",
+                "FA": "همین الان انجامش بده"
+            }
+        },
+        {
+            "kanji": "プログラムを実行できる",
+            "furigana": "プログラムを実行(じっこう)できる〔る〕",
+            "translations": {
+                "EN": "Can run programs",
+                "ID": "Dapat menjalankan program",
+                "ES": "Puede ejecutar programas",
+                "VI": "Có thể chạy chương trình",
+                "FR": "Peut exécuter des programmes",
+                "NE": "कार्यक्रमहरू चलाउन सक्छ",
+                "BN": "প্রোগ্রাম চালাতে পারে",
+                "ZH": "可以运行程序",
+                "KO": "프로그램 실행 가능",
+                "TL": "Maaaring magpatakbo ng mga programa",
+                "MY": "ပရိုဂရမ်များကို run နိုင်သည်။",
+                "HI": "प्रोग्राम चला सकते हैं",
+                "AR": "يمكن تشغيل البرامج",
+                "FA": "می‌تواند برنامه‌ها را اجرا کند"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "計画を実行します。",
+            "furigana": "計画(けいかく)を実行(じっこう)します。",
+            "translations": {
+                "EN": "Execute the plan.",
+                "ID": "Jalankan rencananya.",
+                "ES": "Ejecutar el plan.",
+                "VI": "Thực hiện kế hoạch.",
+                "FR": "Exécuter le plan.",
+                "NE": "योजना कार्यान्वयन गर्नुहोस्।",
+                "BN": "পরিকল্পনাটি বাস্তবায়ন করুন।",
+                "ZH": "执行计划。",
+                "KO": "계획을 실행합니다.",
+                "TL": "Isagawa ang plano.",
+                "MY": "အစီအစဉ်ကိုအကောင်အထည်ဖော်ပါ။",
+                "HI": "योजना को क्रियान्वित करें.",
+                "AR": "تنفيذ الخطة.",
+                "FA": "طرح را اجرا کنید."
+            }
+        },
+        {
+            "kanji": "すぐ実行してください。",
+            "furigana": "すぐ実行(じっこう)してください。",
+            "translations": {
+                "EN": "Please do it now.",
+                "ID": "Tolong lakukan sekarang.",
+                "ES": "Por favor hazlo ahora.",
+                "VI": "Hãy làm ngay bây giờ.",
+                "FR": "S'il vous plaît, faites-le maintenant.",
+                "NE": "कृपया अहिले नै गर्नुहोस्।",
+                "BN": "দয়া করে এখনই করে ফেলো।",
+                "ZH": "请立即行动。",
+                "KO": "즉시 실행하십시오.",
+                "TL": "Mangyaring gawin ito ngayon.",
+                "MY": "ကျေးဇူးပြု၍ ယခုလုပ်ပါ။",
+                "HI": "कृपया इसे अभी करें।",
+                "AR": "من فضلك افعل ذلك الآن.",
+                "FA": "لطفا همین الان انجامش بده."
+            }
+        },
+        {
+            "kanji": "そのアプリを実行できますか。",
+            "furigana": "そのアプリを実行(じっこう)できますか。",
+            "translations": {
+                "EN": "Can you run the app?",
+                "ID": "Bisakah Anda menjalankan aplikasinya?",
+                "ES": "¿Puedes ejecutar la aplicación?",
+                "VI": "Bạn có thể chạy ứng dụng này không?",
+                "FR": "Pouvez-vous exécuter l'application ?",
+                "NE": "के तपाईं एप चलाउन सक्नुहुन्छ?",
+                "BN": "তুমি কি অ্যাপটি চালাতে পারো?",
+                "ZH": "你能运行该应用程序吗？",
+                "KO": "해당 앱을 실행할 수 있습니까?",
+                "TL": "Maaari mo bang patakbuhin ang app?",
+                "MY": "အက်ပ်ကို သင်သုံးနိုင်ပါသလား။",
+                "HI": "क्या आप ऐप चला सकते हैं?",
+                "AR": "هل يمكنك تشغيل التطبيق؟",
+                "FA": "آیا می‌توانید برنامه را اجرا کنید؟"
+            }
+        },
+        {
+            "kanji": "彼は命令を実行した。",
+            "furigana": "彼(かれ)は命令(めいれい)を実行(じっこう)した。",
+            "translations": {
+                "EN": "He carried out the order.",
+                "ID": "Dia melaksanakan perintah itu.",
+                "ES": "Él cumplió la orden.",
+                "VI": "Ông đã thực hiện mệnh lệnh.",
+                "FR": "Il a exécuté l'ordre.",
+                "NE": "उनले आदेश पालना गरे।",
+                "BN": "তিনি আদেশ পালন করলেন।",
+                "ZH": "他执行了命令。",
+                "KO": "그는 명령을 실행했다.",
+                "TL": "Tinupad niya ang utos.",
+                "MY": "သူက အမိန့်ကို လိုက်နာတယ်။",
+                "HI": "उसने आदेश का पालन किया।",
+                "AR": "نفذ الأمر.",
+                "FA": "او دستور را اجرا کرد."
+            }
+        },
+        {
+            "kanji": "新しいルールを実行に移します。",
+            "furigana": "新(あたら)しいルールを実行(じっこう)に移(うつ)します。",
+            "translations": {
+                "EN": "Put the new rules into action.",
+                "ID": "Terapkan aturan baru itu.",
+                "ES": "Ponga en práctica las nuevas reglas.",
+                "VI": "Áp dụng các quy định mới.",
+                "FR": "Mettez les nouvelles règles en pratique.",
+                "NE": "नयाँ नियमहरू कार्यान्वयनमा ल्याऊ।",
+                "BN": "নতুন নিয়মগুলো কার্যকর করুন।",
+                "ZH": "将新规则付诸实施。",
+                "KO": "새 규칙을 실행으로 옮깁니다.",
+                "TL": "Ipatupad ang mga bagong panuntunan.",
+                "MY": "စည်းမျဉ်းအသစ်များကို အကောင်အထည်ဖော်ပါ။",
+                "HI": "नये नियमों को अमल में लाएँ।",
+                "AR": "ضع القواعد الجديدة موضع التنفيذ.",
+                "FA": "قوانین جدید را به مرحله اجرا بگذارید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "pelaksanaan",
+            "ES": "implementación",
+            "VI": "thực hiện",
+            "FR": "mise en œuvre",
+            "NE": "कार्यान्वयन",
+            "BN": "বাস্তবায়ন",
+            "ZH": "执行",
+            "KO": "구현",
+            "TL": "pagpapatupad",
+            "MY": "အကောင်အထည်ဖော်ခြင်း။",
+            "HI": "कार्यान्वयन",
+            "AR": "تطبيق",
+            "FA": "پیاده‌سازی",
+            "EN": [
+                "implementation",
+                "execution",
+                "enforcement",
+                "performance"
+            ]
+        },
+        {
+            "ID": "berlari",
+            "ES": "correr",
+            "VI": "chạy",
+            "FR": "courir",
+            "NE": "दौडनु",
+            "BN": "দৌড়",
+            "ZH": "跑步",
+            "KO": "달리다",
+            "TL": "tumakbo",
+            "MY": "ပြေး",
+            "HI": "दौड़ना",
+            "AR": "يجري",
+            "FA": "دویدن",
+            "EN": [
+                "run",
+                "execute"
+            ]
+        },
+        {
+            "ID": "praktik",
+            "ES": "práctica",
+            "VI": "luyện tập",
+            "FR": "pratique",
+            "NE": "अभ्यास गर्नुहोस्",
+            "BN": "অনুশীলন",
+            "ZH": "实践",
+            "KO": "관행",
+            "TL": "pagsasanay",
+            "MY": "အလေ့အကျင့်",
+            "HI": "अभ्यास",
+            "AR": "يمارس",
+            "FA": "تمرین",
+            "EN": [
+                "practice",
+                "application"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "実行",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "実行",
+                "reading": "じっこう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "execution (e.g. of a plan)",
+                    "carrying out",
+                    "(putting into) practice",
+                    "action",
+                    "implementation",
+                    "fulfillment",
+                    "realization"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "execution (of a program)",
+                    "run"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Computing"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "実",
+        "行"
+    ],
+    "kanji_data": {
+        "実": {
+            "freq_mainichi_shinbun": 68,
+            "grade": 3,
+            "heisig_en": "reality",
+            "jlpt": 3,
+            "kanji": "実",
+            "kun_readings": [
+                "まこと",
+                "み",
+                "みち.る",
+                "みの",
+                "みの.る"
+            ],
+            "meanings": [
+                "fruit",
+                "nut",
+                "reality",
+                "seed",
+                "truth"
+            ],
+            "name_readings": [
+                "ぐみ",
+                "さね"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シツ",
+                "ジツ"
+            ],
+            "stroke_count": 8,
+            "unicode": "5B9F"
+        },
+        "行": {
+            "freq_mainichi_shinbun": 20,
+            "grade": 2,
+            "heisig_en": "going",
+            "jlpt": 5,
+            "kanji": "行",
+            "kun_readings": [
+                "-い.き",
+                "-いき",
+                "-ゆ.き",
+                "-ゆき",
+                "い.く",
+                "おこ.なう",
+                "おこな.う",
+                "ゆ.く"
+            ],
+            "meanings": [
+                "act",
+                "bank",
+                "carry out",
+                "conduct",
+                "going",
+                "journey",
+                "line",
+                "row"
+            ],
+            "name_readings": [
+                "いく",
+                "なみ",
+                "なめ",
+                "みち",
+                "ゆき",
+                "ゆく"
+            ],
+            "notes": [],
+            "on_readings": [
+                "アン",
+                "ギョウ",
+                "コウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "884C"
+        }
+    }
+}

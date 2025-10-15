@@ -1,232 +1,247 @@
 {
-    "version": "0.2.0",
-    "word": "騒音",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/xGd3mll_PWc",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "騒音",
-        "reading": "そうおん",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is そうおん which you will often hear in urban settings, during discussions about pollution, or when referring to disturbances caused by loud sounds.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"そうおん\" means \"noise.\" It's referring to any kind of disruptive or unwanted sound that disturbs the peace or quiet in an environment.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "noise",
-                "din"
-            ]
-        ],
-        "meaning_translations": {
-            "noise": {
-                "EN": "noise",
-                "ID": "kebisingan",
-                "ES": "ruido",
-                "VI": "tiếng ồn",
-                "FR": "bruit",
-                "NE": "शोर",
-                "BN": "শব্দ",
-                "ZH": "噪音",
-                "KO": "소음",
-                "TL": "ingay",
-                "MY": "ဆူညံသံ",
-                "HI": "शोर",
-                "AR": "ضوضاء",
-                "FA": "سر و صدا"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "騒音公害は問題です。",
-                "furigana": "騒音(そうおん)公害(こうがい)は問題(もんだい)です。",
-                "translations": {
-                    "EN": "Noise pollution is a problem.",
-                    "ID": "Pencemaran suara adalah masalah.",
-                    "ES": "La contaminación acústica es un problema.",
-                    "VI": "Ô nhiễm tiếng ồn là một vấn đề.",
-                    "FR": "La pollution sonore est un problème.",
-                    "NE": "कोलाहल प्रदूषण समस्या हो।",
-                    "BN": "শব্দ দূষণ একটি সমস্যা।",
-                    "ZH": "噪音污染是一个问题。",
-                    "KO": "소음 공해는 문제입니다.",
-                    "TL": "Ang polusyon ng ingay ay isang problema.",
-                    "MY": "ဆူညံသံညစ်ညမ်းမှုသည် ပြဿနာတစ်ခုဖြစ်သည်။",
-                    "HI": "ध्वनि प्रदूषण एक समस्या है।",
-                    "AR": "التلوث الضوضائي مشكلة.",
-                    "FA": "آلودگی صوتی یک مشکل است."
-                }
-            },
-            {
-                "kanji": "騒音問題は大変です。",
-                "furigana": "騒音(そうおん)問題(もんだい)は大変(たいへん)です。",
-                "translations": {
-                    "EN": "The noise problem is serious.",
-                    "ID": "Masalah kebisingan itu serius.",
-                    "ES": "El problema del ruido es serio.",
-                    "VI": "Vấn đề tiềng ồn rất nghiêm trọng.",
-                    "FR": "Le problème de bruit est grave.",
-                    "NE": "सायोन समस्याले कठिनाई उत्पन्न गर्दछ।",
-                    "BN": "শব্দ সমস্যা হচ্ছে গুরুতর।",
-                    "ZH": "噪音问题很严重。",
-                    "KO": "소음 문제는 심각합니다.",
-                    "TL": "Ang problemang ingay ay seryoso.",
-                    "MY": "ဆာဝုန်ပြဿနာက အရေးကြီးပါတယ်။",
-                    "HI": "शोर की समस्या गंभीर है।",
-                    "AR": "مشكلة الضجيج خطيرة.",
-                    "FA": "مشکل سر و صدا جدی است."
-                }
-            },
-            {
-                "kanji": "工事は騒音を抑える。",
-                "furigana": "工事(こうじ)は騒音(そうおん)を抑(おさ)える。",
-                "translations": {
-                    "EN": "The construction suppresses noise.",
-                    "ID": "Konstruksi menekan kebisingan.",
-                    "ES": "La construcción reduce el ruido.",
-                    "VI": "Việc xây dựng giảm thiểu tiếng ồn.",
-                    "FR": "La construction réduit le bruit.",
-                    "NE": "निर्माणले हल्लालाई दवाउँछ।",
-                    "BN": "নির্মাণ কাজ শব্দ কমায়।",
-                    "ZH": "施工抑制噪音。",
-                    "KO": "공사는 소음을 줄입니다.",
-                    "TL": "Pinipigilan ng konstruksiyon ang ingay.",
-                    "MY": "အဆောက်အအုံတည်ဆောက်ခြင်းကြောင့် ဆူညံသံများကို တွန်းလှန်သည်။",
-                    "HI": "निर्माण शोर को दबाता है।",
-                    "AR": "البناء يقلل من الضوضاء.",
-                    "FA": "ساخت و ساز نویز را کاهش می دهد."
-                }
-            },
-            {
-                "kanji": "騒音のおじさまはテレビを消しました。",
-                "furigana": "騒音(そうおん)のおじさまはテレビを消(け)しました。",
-                "translations": {
-                    "EN": "The noisy uncle turned off the TV.",
-                    "ID": "Paman yang berisik mematikan televisi.",
-                    "ES": "El tío ruidoso apagó la televisión.",
-                    "VI": "Ông chú ồn ào đã tắt TV.",
-                    "FR": "L'oncle bruyant a éteint la télévision.",
-                    "NE": "कोलाहलपूर्ण काका ले टिभी बन्द गर्नु भयो।",
-                    "BN": "গোলমালপূর্ণ কাকু টিভি বন্ধ করে দিলেন।",
-                    "ZH": "吵闹的大叔关掉了电视。",
-                    "KO": "시끄러운 삼촌이 TV를 끄셨습니다.",
-                    "TL": "Pinatay ng maingay na tito ang TV.",
-                    "MY": "ဆူညံတဲ့ ဦးလေးက တီဗွီကို ပိတ်လိုက်ပါတယ်။",
-                    "HI": "शोर मचाने वाले चाचा ने टीवी बंद कर दिया।",
-                    "AR": "العم المزعج أطفأ التلفاز.",
-                    "FA": "عموی پر سر و صدا تلویزیون را خاموش کرد."
-                }
-            }
-        ],
-        "synonyms": [
-            "雑音 : ざつおん : noise"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"そうおん\" is \"ざつおん.\" While \"そうおん\" refers broadly to any disruptive or loud noise, \"ざつおん\" specifically denotes background noise composed of various overlapping sounds.",
-        "antonyms": [
-            "静寂 : せいじゃく : silence"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"そうおん\" is \"せいじゃく,\" which means \"silence\" or \"quietness.\" While \"そうおん\" indicates disruption through noise, \"せいじゃく\" refers to an absence of sound, promoting calm and peace.",
-        "kanji_details": [
-            {
-                "kanji": "騒",
-                "common_words": [
-                    "騒ぐ: to make noise",
-                    "騒がしい: noisy"
-                ]
-            },
-            {
-                "kanji": "音",
-                "common_words": [
-                    "音楽: music",
-                    "発音: pronunciation"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "騒音",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "騒音",
-                "reading": "そうおん"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "noise",
-                    "din"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "騒",
-        "音"
-    ],
-    "kanji_data": {
-        "騒": {
-            "meanings": [
-                "boisterous",
-                "clamor",
-                "disturb",
-                "excite",
-                "make noise"
-            ],
-            "on_readings": [
-                "ソウ"
-            ],
-            "kun_readings": [
-                "うれい",
-                "さわ.がしい",
-                "さわ.ぐ"
-            ],
-            "stroke_count": 18,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 1069,
-            "unicode": "9A12",
-            "grade": 8
-        },
-        "音": {
-            "meanings": [
-                "noise",
-                "sound"
-            ],
-            "on_readings": [
-                "-ノン",
-                "イン",
-                "オン"
-            ],
-            "kun_readings": [
-                "おと",
-                "ね"
-            ],
-            "stroke_count": 9,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 491,
-            "unicode": "97F3",
-            "grade": 1
-        }
-    },
-    "collocations": [
-        "そうおんこうがい",
-        "そうおんもんだい",
-        "そうおんをおさえる",
-        "そうおんのおじさま"
+  "version": "0.3.0",
+  "word": "騒音",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/xGd3mll_PWc",
+  "in_db": true,
+  "kanji": "騒音",
+  "reading": "そうおん",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is そうおん which you will often hear in urban settings, during discussions about pollution, or when referring to disturbances caused by loud sounds.",
+  "meanings": [
+    [
+      "noise",
+      "din"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"そうおん\" means \"noise.\" It's referring to any kind of disruptive or unwanted sound that disturbs the peace or quiet in an environment.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "騒",
+      "common_words": [
+        "騒ぐ: to make noise",
+        "騒がしい: noisy"
+      ]
+    },
+    {
+      "kanji": "音",
+      "common_words": [
+        "音楽: music",
+        "発音: pronunciation"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "雑音 : ざつおん : noise"
+  ],
+  "synonym_explanation": "The most common synonym of the word \"そうおん\" is \"ざつおん.\" While \"そうおん\" refers broadly to any disruptive or loud noise, \"ざつおん\" specifically denotes background noise composed of various overlapping sounds.",
+  "antonyms": [
+    "静寂 : せいじゃく : silence"
+  ],
+  "antonym_explanation": "The most common antonym of the word \"そうおん\" is \"せいじゃく,\" which means \"silence\" or \"quietness.\" While \"そうおん\" indicates disruption through noise, \"せいじゃく\" refers to an absence of sound, promoting calm and peace.",
+  "collocations": [
+    {
+      "kanji": "そうおんこうがい",
+      "furigana": "そうおんこうがい",
+      "translations": {}
+    },
+    {
+      "kanji": "そうおんもんだい",
+      "furigana": "そうおんもんだい",
+      "translations": {}
+    },
+    {
+      "kanji": "そうおんをおさえる",
+      "furigana": "そうおんをおさえる",
+      "translations": {}
+    },
+    {
+      "kanji": "そうおんのおじさま",
+      "furigana": "そうおんのおじさま",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "騒音公害は問題です。",
+      "furigana": "騒音(そうおん)公害(こうがい)は問題(もんだい)です。",
+      "translations": {
+        "EN": "Noise pollution is a problem.",
+        "ID": "Pencemaran suara adalah masalah.",
+        "ES": "La contaminación acústica es un problema.",
+        "VI": "Ô nhiễm tiếng ồn là một vấn đề.",
+        "FR": "La pollution sonore est un problème.",
+        "NE": "कोलाहल प्रदूषण समस्या हो।",
+        "BN": "শব্দ দূষণ একটি সমস্যা।",
+        "ZH": "噪音污染是一个问题。",
+        "KO": "소음 공해는 문제입니다.",
+        "TL": "Ang polusyon ng ingay ay isang problema.",
+        "MY": "ဆူညံသံညစ်ညမ်းမှုသည် ပြဿနာတစ်ခုဖြစ်သည်။",
+        "HI": "ध्वनि प्रदूषण एक समस्या है।",
+        "AR": "التلوث الضوضائي مشكلة.",
+        "FA": "آلودگی صوتی یک مشکل است."
+      }
+    },
+    {
+      "kanji": "騒音問題は大変です。",
+      "furigana": "騒音(そうおん)問題(もんだい)は大変(たいへん)です。",
+      "translations": {
+        "EN": "The noise problem is serious.",
+        "ID": "Masalah kebisingan itu serius.",
+        "ES": "El problema del ruido es serio.",
+        "VI": "Vấn đề tiềng ồn rất nghiêm trọng.",
+        "FR": "Le problème de bruit est grave.",
+        "NE": "सायोन समस्याले कठिनाई उत्पन्न गर्दछ।",
+        "BN": "শব্দ সমস্যা হচ্ছে গুরুতর।",
+        "ZH": "噪音问题很严重。",
+        "KO": "소음 문제는 심각합니다.",
+        "TL": "Ang problemang ingay ay seryoso.",
+        "MY": "ဆာဝုန်ပြဿနာက အရေးကြီးပါတယ်။",
+        "HI": "शोर की समस्या गंभीर है।",
+        "AR": "مشكلة الضجيج خطيرة.",
+        "FA": "مشکل سر و صدا جدی است."
+      }
+    },
+    {
+      "kanji": "工事は騒音を抑える。",
+      "furigana": "工事(こうじ)は騒音(そうおん)を抑(おさ)える。",
+      "translations": {
+        "EN": "The construction suppresses noise.",
+        "ID": "Konstruksi menekan kebisingan.",
+        "ES": "La construcción reduce el ruido.",
+        "VI": "Việc xây dựng giảm thiểu tiếng ồn.",
+        "FR": "La construction réduit le bruit.",
+        "NE": "निर्माणले हल्लालाई दवाउँछ।",
+        "BN": "নির্মাণ কাজ শব্দ কমায়।",
+        "ZH": "施工抑制噪音。",
+        "KO": "공사는 소음을 줄입니다.",
+        "TL": "Pinipigilan ng konstruksiyon ang ingay.",
+        "MY": "အဆောက်အအုံတည်ဆောက်ခြင်းကြောင့် ဆူညံသံများကို တွန်းလှန်သည်။",
+        "HI": "निर्माण शोर को दबाता है।",
+        "AR": "البناء يقلل من الضوضاء.",
+        "FA": "ساخت و ساز نویز را کاهش می دهد."
+      }
+    },
+    {
+      "kanji": "騒音のおじさまはテレビを消しました。",
+      "furigana": "騒音(そうおん)のおじさまはテレビを消(け)しました。",
+      "translations": {
+        "EN": "The noisy uncle turned off the TV.",
+        "ID": "Paman yang berisik mematikan televisi.",
+        "ES": "El tío ruidoso apagó la televisión.",
+        "VI": "Ông chú ồn ào đã tắt TV.",
+        "FR": "L'oncle bruyant a éteint la télévision.",
+        "NE": "कोलाहलपूर्ण काका ले टिभी बन्द गर्नु भयो।",
+        "BN": "গোলমালপূর্ণ কাকু টিভি বন্ধ করে দিলেন।",
+        "ZH": "吵闹的大叔关掉了电视。",
+        "KO": "시끄러운 삼촌이 TV를 끄셨습니다.",
+        "TL": "Pinatay ng maingay na tito ang TV.",
+        "MY": "ဆူညံတဲ့ ဦးလေးက တီဗွီကို ပိတ်လိုက်ပါတယ်။",
+        "HI": "शोर मचाने वाले चाचा ने टीवी बंद कर दिया।",
+        "AR": "العم المزعج أطفأ التلفاز.",
+        "FA": "عموی پر سر و صدا تلویزیون را خاموش کرد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "noise": {
+      "EN": "noise",
+      "ID": "kebisingan",
+      "ES": "ruido",
+      "VI": "tiếng ồn",
+      "FR": "bruit",
+      "NE": "शोर",
+      "BN": "শব্দ",
+      "ZH": "噪音",
+      "KO": "소음",
+      "TL": "ingay",
+      "MY": "ဆူညံသံ",
+      "HI": "शोर",
+      "AR": "ضوضاء",
+      "FA": "سر و صدا"
+    }
+  },
+  "jisho_data": {
+    "slug": "騒音",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "騒音",
+        "reading": "そうおん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "noise",
+          "din"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "騒",
+    "音"
+  ],
+  "kanji_data": {
+    "騒": {
+      "meanings": [
+        "boisterous",
+        "clamor",
+        "disturb",
+        "excite",
+        "make noise"
+      ],
+      "on_readings": [
+        "ソウ"
+      ],
+      "kun_readings": [
+        "うれい",
+        "さわ.がしい",
+        "さわ.ぐ"
+      ],
+      "stroke_count": 18,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 1069,
+      "unicode": "9A12",
+      "grade": 8
+    },
+    "音": {
+      "meanings": [
+        "noise",
+        "sound"
+      ],
+      "on_readings": [
+        "-ノン",
+        "イン",
+        "オン"
+      ],
+      "kun_readings": [
+        "おと",
+        "ね"
+      ],
+      "stroke_count": 9,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 491,
+      "unicode": "97F3",
+      "grade": 1
+    }
+  }
 }

@@ -1,286 +1,305 @@
 {
-    "version": "0.2.0",
-    "word": "失業",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/VXzuF1Y1AvE",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "失業",
-        "reading": "しつぎょう",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is しつぎょう which you will often hear in discussions about the economy, job markets, or personal situations involving employment changes. ",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word しつぎょう means losing a job or being unemployed in English. It refers to the situation where someone doesn't currently have a job despite wanting to work. ",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "unemployment"
-            ],
-            [
-                "losing one's job",
-                "becoming unemployed"
-            ]
-        ],
-        "meaning_translations": {
-            "unemployment": {
-                "EN": "unemployment",
-                "ID": "pengangguran",
-                "ES": "desempleo",
-                "VI": "thất nghiệp",
-                "FR": "chômage",
-                "NE": "बेरोजगारी",
-                "BN": "বেকারত্ব",
-                "ZH": "失业",
-                "KO": "실업",
-                "TL": "kawalan ng trabaho",
-                "MY": "အလုပ်လက်မဲ့",
-                "HI": "बेरोजगारी",
-                "AR": "البطالة",
-                "FA": "بیکاری"
-            },
-            "losing one's job": {
-                "EN": "losing one's job",
-                "ID": "kehilangan pekerjaan",
-                "ES": "perder el empleo",
-                "VI": "mất việc",
-                "FR": "perdre son emploi",
-                "NE": "रोजगारी गुमाउनु",
-                "BN": "চাকরি হারানো",
-                "ZH": "失去工作",
-                "KO": "실직",
-                "TL": "mawalan ng trabaho",
-                "MY": "အလုပ်ဆုံးရှုံးခြင်း",
-                "HI": "नौकरी खोना",
-                "AR": "فقدان الوظيفة",
-                "FA": "از دست دادن شغل"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は失業した。",
-                "furigana": "彼(かれ)は失業(しつぎょう)した。",
-                "translations": {
-                    "EN": "He lost his job.",
-                    "ID": "Dia kehilangan pekerjaannya.",
-                    "ES": "Él perdió su trabajo.",
-                    "VI": "Anh ấy đã mất việc.",
-                    "FR": "Il a perdu son emploi.",
-                    "NE": "उ उहाँले जागिर गुमाउनु भयो।",
-                    "BN": "সে চাকরি হারিয়েছে।",
-                    "ZH": "他失业了。",
-                    "KO": "그는 실직했다.",
-                    "TL": "Siya ay nawalan ng trabaho.",
-                    "MY": "သူ အလုပ်ဆုံးရှုံးသွားပြီ။",
-                    "HI": "उसने नौकरी खो दी।",
-                    "AR": "فقد وظيفته.",
-                    "FA": "او شغلش را از دست داد."
-                }
-            },
-            {
-                "kanji": "彼は失業中です。",
-                "furigana": "彼(かれ)は失業(しつぎょう)中(ちゅう)です。",
-                "translations": {
-                    "EN": "He is unemployed.",
-                    "ID": "Dia sedang menganggur.",
-                    "ES": "Él está desempleado.",
-                    "VI": "Anh ấy đang thất nghiệp.",
-                    "FR": "Il est au chômage.",
-                    "NE": "उ बेरोजगार छन्।",
-                    "BN": "সে এখন বেকার।",
-                    "ZH": "他失业了。",
-                    "KO": "그는 실직 중입니다.",
-                    "TL": "Siya ay walang trabaho.",
-                    "MY": "သူအလုပ်လက်လျှော့နေတယ်။",
-                    "HI": "वह बेरोजगार है।",
-                    "AR": "هو عاطل عن العمل.",
-                    "FA": "او بیکار است."
-                }
-            },
-            {
-                "kanji": "兄は失業者です。",
-                "furigana": "兄(あに)は失業者(しつぎょうしゃ)です。",
-                "translations": {
-                    "EN": "My brother is unemployed.",
-                    "ID": "Saudaraku menganggur.",
-                    "ES": "Mi hermano está desempleado.",
-                    "VI": "Anh trai tôi thất nghiệp.",
-                    "FR": "Mon frère est au chômage.",
-                    "NE": "मेरो दाजु बेरोजगार हुनुहुन्छ।",
-                    "BN": "আমার ভাই বেকার।",
-                    "ZH": "我哥哥失业了。",
-                    "KO": "형은 실직자입니다.",
-                    "TL": "Ang aking kapatid na lalaki ay walang trabaho.",
-                    "MY": "ကျွန်ုပ်၏အကိုသည် အလုပ်လက်မဲ့ ဖြစ်သည်။",
-                    "HI": "मेरा भाई बेरोजगार है।",
-                    "AR": "أخي عاطل عن العمل.",
-                    "FA": "برادرم بیکار است."
-                }
-            },
-            {
-                "kanji": "彼は失業中です。",
-                "furigana": "彼(かれ)は失業(しつぎょう)中(ちゅう)です。",
-                "translations": {
-                    "EN": "He is unemployed.",
-                    "ID": "Dia sedang menganggur.",
-                    "ES": "Él está desempleado.",
-                    "VI": "Anh ấy đang thất nghiệp.",
-                    "FR": "Il est au chômage.",
-                    "NE": "उ बेरोजगार छ।",
-                    "BN": "সে বেকার।",
-                    "ZH": "他失业了。",
-                    "KO": "그는 실업 중입니다.",
-                    "TL": "Walang trabaho siya.",
-                    "MY": "သူ အလုပ်မရှိဘူး။",
-                    "HI": "वह बेरोजगार है।",
-                    "AR": "هو عاطل عن العمل.",
-                    "FA": "او بیکار است."
-                }
-            },
-            {
-                "kanji": "失業率は高いです。",
-                "furigana": "失業(しつぎょう)率(りつ)は高(たか)いです。",
-                "translations": {
-                    "EN": "The unemployment rate is high.",
-                    "ID": "Tingkat pengangguran tinggi.",
-                    "ES": "La tasa de desempleo es alta.",
-                    "VI": "Tỷ lệ thất nghiệp cao.",
-                    "FR": "Le taux de chômage est élevé.",
-                    "NE": "बेरोजगारी दर उच्च छ।",
-                    "BN": "বেকারত্বের হার বেশি।",
-                    "ZH": "失业率很高。",
-                    "KO": "실업률이 높습니다.",
-                    "TL": "Mataas ang rate ng kawalan ng trabaho.",
-                    "MY": "အလုပ်သိမ်းစာရင်းနှုန်းမကြီးတယ်။",
-                    "HI": "बेरोजगारी दर ऊँची है।",
-                    "AR": "معدل البطالة مرتفع.",
-                    "FA": "نرخ بیکاری بالا است."
-                }
-            }
-        ],
-        "synonyms": [
-            "無職 : むしょく : without an occupation"
-        ],
-        "synonyms_explanation": "The most common synonym of the word しつぎょう is むしょく. While しつぎょう specifically refers to the state of having lost a job, むしょく denotes a broader sense of being without a profession, often implying voluntary unemployment as well.",
-        "antonyms": [
-            "就職 : しゅうしょく : finding employment"
-        ],
-        "antonyms_explanation": "The most common antonym of the word しつぎょう is しゅうしょく. While しつぎょう means losing a job or unemployment, しゅうしょく refers to gaining employment or getting a job, indicating the opposite transitions in one's work status.",
-        "kanji_details": [
-            {
-                "kanji": "失",
-                "common_words": [
-                    "失敗: failure",
-                    "失礼: discourtesy"
-                ]
-            },
-            {
-                "kanji": "業",
-                "common_words": [
-                    "産業: industry",
-                    "業務: business"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "失業",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "失業",
-                "reading": "しつぎょう"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "unemployment"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "losing one's job",
-                    "becoming unemployed"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "失",
-        "業"
+  "version": "0.3.0",
+  "word": "失業",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/VXzuF1Y1AvE",
+  "in_db": true,
+  "kanji": "失業",
+  "reading": "しつぎょう",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is しつぎょう which you will often hear in discussions about the economy, job markets, or personal situations involving employment changes. ",
+  "meanings": [
+    [
+      "unemployment"
     ],
-    "kanji_data": {
-        "失": {
-            "meanings": [
-                "disadvantage",
-                "error",
-                "fault",
-                "lose",
-                "loss"
-            ],
-            "on_readings": [
-                "シツ"
-            ],
-            "kun_readings": [
-                "う.せる",
-                "うしな.う"
-            ],
-            "stroke_count": 5,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 447,
-            "unicode": "5931",
-            "grade": 4
-        },
-        "業": {
-            "meanings": [
-                "arts",
-                "business",
-                "performance",
-                "vocation"
-            ],
-            "on_readings": [
-                "ギョウ",
-                "ゴウ"
-            ],
-            "kun_readings": [
-                "わざ"
-            ],
-            "stroke_count": 13,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 43,
-            "unicode": "696D",
-            "grade": 3
-        }
-    },
-    "collocations": [
-        "しつぎょうした",
-        "しつぎょうちゅう",
-        "しつぎょうしゃ",
-        "しつぎょうほ",
-        "しつぎょうりつ"
+    [
+      "losing one's job",
+      "becoming unemployed"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word しつぎょう means losing a job or being unemployed in English. It refers to the situation where someone doesn't currently have a job despite wanting to work. ",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "失",
+      "common_words": [
+        "失敗: failure",
+        "失礼: discourtesy"
+      ]
+    },
+    {
+      "kanji": "業",
+      "common_words": [
+        "産業: industry",
+        "業務: business"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "無職 : むしょく : without an occupation"
+  ],
+  "synonym_explanation": "The most common synonym of the word しつぎょう is むしょく. While しつぎょう specifically refers to the state of having lost a job, むしょく denotes a broader sense of being without a profession, often implying voluntary unemployment as well.",
+  "antonyms": [
+    "就職 : しゅうしょく : finding employment"
+  ],
+  "antonym_explanation": "The most common antonym of the word しつぎょう is しゅうしょく. While しつぎょう means losing a job or unemployment, しゅうしょく refers to gaining employment or getting a job, indicating the opposite transitions in one's work status.",
+  "collocations": [
+    {
+      "kanji": "しつぎょうした",
+      "furigana": "しつぎょうした",
+      "translations": {}
+    },
+    {
+      "kanji": "しつぎょうちゅう",
+      "furigana": "しつぎょうちゅう",
+      "translations": {}
+    },
+    {
+      "kanji": "しつぎょうしゃ",
+      "furigana": "しつぎょうしゃ",
+      "translations": {}
+    },
+    {
+      "kanji": "しつぎょうほ",
+      "furigana": "しつぎょうほ",
+      "translations": {}
+    },
+    {
+      "kanji": "しつぎょうりつ",
+      "furigana": "しつぎょうりつ",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は失業した。",
+      "furigana": "彼(かれ)は失業(しつぎょう)した。",
+      "translations": {
+        "EN": "He lost his job.",
+        "ID": "Dia kehilangan pekerjaannya.",
+        "ES": "Él perdió su trabajo.",
+        "VI": "Anh ấy đã mất việc.",
+        "FR": "Il a perdu son emploi.",
+        "NE": "उ उहाँले जागिर गुमाउनु भयो।",
+        "BN": "সে চাকরি হারিয়েছে।",
+        "ZH": "他失业了。",
+        "KO": "그는 실직했다.",
+        "TL": "Siya ay nawalan ng trabaho.",
+        "MY": "သူ အလုပ်ဆုံးရှုံးသွားပြီ။",
+        "HI": "उसने नौकरी खो दी।",
+        "AR": "فقد وظيفته.",
+        "FA": "او شغلش را از دست داد."
+      }
+    },
+    {
+      "kanji": "彼は失業中です。",
+      "furigana": "彼(かれ)は失業(しつぎょう)中(ちゅう)です。",
+      "translations": {
+        "EN": "He is unemployed.",
+        "ID": "Dia sedang menganggur.",
+        "ES": "Él está desempleado.",
+        "VI": "Anh ấy đang thất nghiệp.",
+        "FR": "Il est au chômage.",
+        "NE": "उ बेरोजगार छन्।",
+        "BN": "সে এখন বেকার।",
+        "ZH": "他失业了。",
+        "KO": "그는 실직 중입니다.",
+        "TL": "Siya ay walang trabaho.",
+        "MY": "သူအလုပ်လက်လျှော့နေတယ်။",
+        "HI": "वह बेरोजगार है।",
+        "AR": "هو عاطل عن العمل.",
+        "FA": "او بیکار است."
+      }
+    },
+    {
+      "kanji": "兄は失業者です。",
+      "furigana": "兄(あに)は失業者(しつぎょうしゃ)です。",
+      "translations": {
+        "EN": "My brother is unemployed.",
+        "ID": "Saudaraku menganggur.",
+        "ES": "Mi hermano está desempleado.",
+        "VI": "Anh trai tôi thất nghiệp.",
+        "FR": "Mon frère est au chômage.",
+        "NE": "मेरो दाजु बेरोजगार हुनुहुन्छ।",
+        "BN": "আমার ভাই বেকার।",
+        "ZH": "我哥哥失业了。",
+        "KO": "형은 실직자입니다.",
+        "TL": "Ang aking kapatid na lalaki ay walang trabaho.",
+        "MY": "ကျွန်ုပ်၏အကိုသည် အလုပ်လက်မဲ့ ဖြစ်သည်။",
+        "HI": "मेरा भाई बेरोजगार है।",
+        "AR": "أخي عاطل عن العمل.",
+        "FA": "برادرم بیکار است."
+      }
+    },
+    {
+      "kanji": "彼は失業中です。",
+      "furigana": "彼(かれ)は失業(しつぎょう)中(ちゅう)です。",
+      "translations": {
+        "EN": "He is unemployed.",
+        "ID": "Dia sedang menganggur.",
+        "ES": "Él está desempleado.",
+        "VI": "Anh ấy đang thất nghiệp.",
+        "FR": "Il est au chômage.",
+        "NE": "उ बेरोजगार छ।",
+        "BN": "সে বেকার।",
+        "ZH": "他失业了。",
+        "KO": "그는 실업 중입니다.",
+        "TL": "Walang trabaho siya.",
+        "MY": "သူ အလုပ်မရှိဘူး။",
+        "HI": "वह बेरोजगार है।",
+        "AR": "هو عاطل عن العمل.",
+        "FA": "او بیکار است."
+      }
+    },
+    {
+      "kanji": "失業率は高いです。",
+      "furigana": "失業(しつぎょう)率(りつ)は高(たか)いです。",
+      "translations": {
+        "EN": "The unemployment rate is high.",
+        "ID": "Tingkat pengangguran tinggi.",
+        "ES": "La tasa de desempleo es alta.",
+        "VI": "Tỷ lệ thất nghiệp cao.",
+        "FR": "Le taux de chômage est élevé.",
+        "NE": "बेरोजगारी दर उच्च छ।",
+        "BN": "বেকারত্বের হার বেশি।",
+        "ZH": "失业率很高。",
+        "KO": "실업률이 높습니다.",
+        "TL": "Mataas ang rate ng kawalan ng trabaho.",
+        "MY": "အလုပ်သိမ်းစာရင်းနှုန်းမကြီးတယ်။",
+        "HI": "बेरोजगारी दर ऊँची है।",
+        "AR": "معدل البطالة مرتفع.",
+        "FA": "نرخ بیکاری بالا است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "unemployment": {
+      "EN": "unemployment",
+      "ID": "pengangguran",
+      "ES": "desempleo",
+      "VI": "thất nghiệp",
+      "FR": "chômage",
+      "NE": "बेरोजगारी",
+      "BN": "বেকারত্ব",
+      "ZH": "失业",
+      "KO": "실업",
+      "TL": "kawalan ng trabaho",
+      "MY": "အလုပ်လက်မဲ့",
+      "HI": "बेरोजगारी",
+      "AR": "البطالة",
+      "FA": "بیکاری"
+    },
+    "losing one's job": {
+      "EN": "losing one's job",
+      "ID": "kehilangan pekerjaan",
+      "ES": "perder el empleo",
+      "VI": "mất việc",
+      "FR": "perdre son emploi",
+      "NE": "रोजगारी गुमाउनु",
+      "BN": "চাকরি হারানো",
+      "ZH": "失去工作",
+      "KO": "실직",
+      "TL": "mawalan ng trabaho",
+      "MY": "အလုပ်ဆုံးရှုံးခြင်း",
+      "HI": "नौकरी खोना",
+      "AR": "فقدان الوظيفة",
+      "FA": "از دست دادن شغل"
+    }
+  },
+  "jisho_data": {
+    "slug": "失業",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "失業",
+        "reading": "しつぎょう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "unemployment"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "losing one's job",
+          "becoming unemployed"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "失",
+    "業"
+  ],
+  "kanji_data": {
+    "失": {
+      "meanings": [
+        "disadvantage",
+        "error",
+        "fault",
+        "lose",
+        "loss"
+      ],
+      "on_readings": [
+        "シツ"
+      ],
+      "kun_readings": [
+        "う.せる",
+        "うしな.う"
+      ],
+      "stroke_count": 5,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 447,
+      "unicode": "5931",
+      "grade": 4
+    },
+    "業": {
+      "meanings": [
+        "arts",
+        "business",
+        "performance",
+        "vocation"
+      ],
+      "on_readings": [
+        "ギョウ",
+        "ゴウ"
+      ],
+      "kun_readings": [
+        "わざ"
+      ],
+      "stroke_count": 13,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 43,
+      "unicode": "696D",
+      "grade": 3
+    }
+  }
 }

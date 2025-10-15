@@ -1,399 +1,498 @@
 {
-    "version": "0.2.0",
-    "word": "回復",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/iuffzf0VIoQ",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "回復",
-        "reading": "かいふく",
-        "introduction_japanese": "回復は、病気やけががよくなるとき、体力や気力が元に戻るとき、備蓄や信用を取り戻すとき、天候や景気が良くなるときなどに使います。",
-        "introduction_english": "The noun かいふく is commonly used when talking about getting better from illness or injury, regaining strength or energy, restoring supplies or trust, and improvements in weather or the economy.",
-        "meanings": [
-            [
-                "restoration",
-                "recovery",
-                "rehabilitation",
-                "return",
-                "improvement"
-            ],
-            [
-                "recovery (from an illness)",
-                "recuperation",
-                "convalescence"
-            ]
-        ],
-        "meaning_explanation_japanese": "「回復」は、悪い状態や不足している状態が元に戻ること、または良くなることを表す言葉です。たとえば、病気がよくなる、体力が戻る、景気が良くなる、などに使います。",
-        "meaning_explanation_english": "The word かいふく means recovery or restoration. It describes something getting back to its previous or better state, like recovering from illness, regaining strength, or an economy improving.",
-        "kanji_explanation_english": "The first kanji means turning around, times, or a counter for occurrences. In the word かいすう it gives the idea of how many times something happens and in まわる it connects to the idea of turning or going around. The second kanji means to restore, return, or resume something. In the word ふっきゅう it gives the idea of bringing something back to its former state and the reading また expresses the idea of doing something again.",
-        "kanji_details": [
-            {
-                "kanji": "回",
-                "common_words": [
-                    "回数 (かいすう): number of times",
-                    "回る (まわる): to turn; to go around"
-                ]
-            },
-            {
-                "kanji": "復",
-                "common_words": [
-                    "復旧 (ふっきゅう): restoration (e.g., systems, services)",
-                    "復習 (ふくしゅう): review (study)"
-                ]
-            }
-        ],
-        "synonyms": [
-            "復旧 : ふっきゅう : restoration of systems or status",
-            "治癒 : ちゆ : medical healing"
-        ],
-        "synonyms_explanation": "The most common synonyms of the 回復 are ふっきゅう and ちゆ. ふっきゅう is often used for restoring systems, services, or conditions and overlaps with the sense of returning to a previous state. ちゆ focuses on medical healing and emphasizes curing an illness.",
-        "antonyms": [
-            "悪化 : あっか : deterioration; getting worse"
-        ],
-        "antonyms_explanation": "The most common antonym of the 回復 is あっか. あっか means things are getting worse or deteriorating, which is the opposite of recovering or improving.",
-        "examples": [
-            {
-                "kanji": "彼は病気から回復した。",
-                "furigana": "彼(かれ)は病気(びょうき)から回復(かいふく)した。",
-                "translations": {
-                    "EN": "He recovered from his illness.",
-                    "ID": "Dia pulih dari penyakitnya.",
-                    "ES": "Se recuperó de su enfermedad.",
-                    "VI": "Ông đã bình phục sau cơn bệnh.",
-                    "FR": "Il s'est remis de sa maladie.",
-                    "NE": "उनी आफ्नो रोगबाट निको भए।",
-                    "BN": "তিনি তার অসুস্থতা থেকে আরোগ্য লাভ করেন।",
-                    "ZH": "他的病痊愈了。",
-                    "KO": "그는 질병에서 회복했다.",
-                    "TL": "Gumaling siya sa kanyang karamdaman.",
-                    "MY": "သူ့ရောဂါကနေ သက်သာလာခဲ့တယ်။",
-                    "HI": "वह अपनी बीमारी से उबर गया।",
-                    "AR": "لقد تعافى من مرضه.",
-                    "FA": "او از بیماری خود بهبود یافت."
-                }
-            },
-            {
-                "kanji": "体力がすぐに回復した。",
-                "furigana": "体力(たいりょく)がすぐに回復(かいふく)した。",
-                "translations": {
-                    "EN": "My strength quickly recovered.",
-                    "ID": "Kekuatan saya cepat pulih.",
-                    "ES": "Mis fuerzas se recuperaron rápidamente.",
-                    "VI": "Sức lực của tôi nhanh chóng hồi phục.",
-                    "FR": "Mes forces ont vite repris.",
-                    "NE": "मेरो शक्ति चाँडै निको भयो।",
-                    "BN": "আমার শক্তি দ্রুত ফিরে এলো।",
-                    "ZH": "我的体力很快就恢复了。",
-                    "KO": "체력이 빨리 회복되었다.",
-                    "TL": "Mabilis na nakabawi ang lakas ko.",
-                    "MY": "ငါ့ခွန်အားတွေ မြန်မြန်ပြန်ကောင်းလာတယ်။",
-                    "HI": "मेरी ताकत जल्दी ही वापस आ गयी।",
-                    "AR": "لقد استعادت قوتي بسرعة.",
-                    "FA": "قدرت من به سرعت بازیابی شد."
-                }
-            },
-            {
-                "kanji": "備蓄を回復する必要がある。",
-                "furigana": "備蓄(びちく)を回復(かいふく)する必要(ひつよう)がある。",
-                "translations": {
-                    "EN": "We need to restore our reserves.",
-                    "ID": "Kita perlu memulihkan cadangan kita.",
-                    "ES": "Necesitamos restaurar nuestras reservas.",
-                    "VI": "Chúng ta cần khôi phục lại nguồn dự trữ của mình.",
-                    "FR": "Nous devons reconstituer nos réserves.",
-                    "NE": "हामीले हाम्रो भण्डार पुनर्स्थापित गर्नुपर्छ।",
-                    "BN": "আমাদের রিজার্ভ পুনরুদ্ধার করতে হবে।",
-                    "ZH": "我们需要恢复我们的储备。",
-                    "KO": "비축을 회복할 필요가 있다.",
-                    "TL": "Kailangan nating ibalik ang ating mga reserba.",
-                    "MY": "ငါတို့ရဲ့ အရန်ငွေတွေကို ပြန်ယူရမယ်။",
-                    "HI": "हमें अपने भंडार को बहाल करने की जरूरत है।",
-                    "AR": "نحن بحاجة إلى استعادة احتياطياتنا.",
-                    "FA": "ما باید ذخایر خود را احیا کنیم."
-                }
-            },
-            {
-                "kanji": "信用を回復するのは難しい。",
-                "furigana": "信用(しんよう)を回復(かいふく)するのは難(むずか)しい。",
-                "translations": {
-                    "EN": "It's hard to rebuild trust.",
-                    "ID": "Sulit untuk membangun kembali kepercayaan.",
-                    "ES": "Es difícil reconstruir la confianza.",
-                    "VI": "Thật khó để xây dựng lại lòng tin.",
-                    "FR": "Il est difficile de rétablir la confiance.",
-                    "NE": "विश्वास पुनर्स्थापित गर्न गाह्रो छ।",
-                    "BN": "বিশ্বাস পুনর্নির্মাণ করা কঠিন।",
-                    "ZH": "重建信任很困难。",
-                    "KO": "신용을 회복하기는 어렵다.",
-                    "TL": "Mahirap buuin muli ang tiwala.",
-                    "MY": "ယုံကြည်မှု ပြန်လည်တည်ဆောက်ရန် ခက်ခဲသည်။",
-                    "HI": "विश्वास को पुनः स्थापित करना कठिन है।",
-                    "AR": "من الصعب إعادة بناء الثقة.",
-                    "FA": "ساختن دوباره اعتماد سخته."
-                }
-            },
-            {
-                "kanji": "天候が回復して晴れた。",
-                "furigana": "天候(てんこう)が回復(かいふく)して晴(は)れた。",
-                "translations": {
-                    "EN": "The weather improved and it became sunny.",
-                    "ID": "Cuaca membaik dan menjadi cerah.",
-                    "ES": "El tiempo mejoró y estuvo soleado.",
-                    "VI": "Thời tiết cải thiện và trời nắng.",
-                    "FR": "Le temps s’est amélioré et il est devenu ensoleillé.",
-                    "NE": "मौसममा सुधार आयो र घमाइलो भयो।",
-                    "BN": "আবহাওয়ার উন্নতি হয়েছে এবং রোদ উঠেছে।",
-                    "ZH": "天气转好，阳光明媚。",
-                    "KO": "날씨가 회복되어 맑았다.",
-                    "TL": "Bumuti ang panahon at naging maaraw.",
-                    "MY": "ရာသီဥတုကောင်းမွန်လာပြီး နေသာလာသည်။",
-                    "HI": "मौसम सुधर गया और धूप निकल आई।",
-                    "AR": "تحسن الطقس وأصبح مشمسًا.",
-                    "FA": "هوا بهتر شد و آفتابی شد."
-                }
-            },
-            {
-                "kanji": "景気が少し回復している。",
-                "furigana": "景気(けいき)が少(すこ)し回復(かいふく)している。",
-                "translations": {
-                    "EN": "The economy is recovering a little.",
-                    "ID": "Perekonomian mulai pulih sedikit.",
-                    "ES": "La economía se está recuperando un poco.",
-                    "VI": "Nền kinh tế đang phục hồi đôi chút.",
-                    "FR": "L'économie se redresse un peu.",
-                    "NE": "अर्थतन्त्र थोरै सुधार हुँदैछ।",
-                    "BN": "অর্থনীতি কিছুটা সুস্থ হয়ে উঠছে।",
-                    "ZH": "经济正在稍微复苏。",
-                    "KO": "경기가 조금 회복하고 있다.",
-                    "TL": "Medyo bumabawi na ang ekonomiya.",
-                    "MY": "စီးပွားရေးက နည်းနည်းပြန်ကောင်းလာပြီ။",
-                    "HI": "अर्थव्यवस्था थोड़ी-थोड़ी ठीक हो रही है।",
-                    "AR": "الاقتصاد يتعافى قليلا.",
-                    "FA": "اقتصاد کمی در حال بهبود است."
-                }
-            },
-            {
-                "kanji": "彼は手術後、意識を回復した。",
-                "furigana": "彼(かれ)は手術後(しゅじゅつご)、意識(いしき)を回復(かいふく)した。",
-                "translations": {
-                    "EN": "He regained consciousness after the surgery.",
-                    "ID": "Dia sadar kembali setelah operasi.",
-                    "ES": "Recuperó la conciencia después de la cirugía.",
-                    "VI": "Anh ấy đã tỉnh lại sau ca phẫu thuật.",
-                    "FR": "Il a repris connaissance après l'opération.",
-                    "NE": "शल्यक्रियापछि उनी होशमा आए।",
-                    "BN": "অস্ত্রোপচারের পর তার জ্ঞান ফিরে আসে।",
-                    "ZH": "手术后他恢复了意识。",
-                    "KO": "그는 수술 후 의식을 회복했다.",
-                    "TL": "Nagkamalay siya pagkatapos ng operasyon.",
-                    "MY": "ခွဲစိတ်ပြီးနောက် သတိပြန်ရလာသည်။",
-                    "HI": "सर्जरी के बाद उसे होश आ गया।",
-                    "AR": "لقد استعاد وعيه بعد العملية الجراحية.",
-                    "FA": "او پس از عمل جراحی به هوش آمد."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "restoration": {
-                "ID": "restorasi",
-                "ES": "restauración",
-                "VI": "phục hồi",
-                "FR": "restauration",
-                "NE": "पुनर्स्थापना",
-                "BN": "পুনরুদ্ধার",
-                "ZH": "恢复",
-                "KO": "복구",
-                "TL": "pagpapanumbalik",
-                "MY": "ပြန်လည်ထူထောင်ရေး",
-                "HI": "बहाली",
-                "AR": "استعادة",
-                "FA": "مرمت",
-                "EN": [
-                    "recovery",
-                    "rehabilitation",
-                    "return",
-                    "improvement"
-                ]
-            },
-            "recovery (from an illness)": {
-                "ID": "pemulihan (dari suatu penyakit)",
-                "ES": "recuperación (de una enfermedad)",
-                "VI": "hồi phục (sau khi bị bệnh)",
-                "FR": "guérison (d'une maladie)",
-                "NE": "रोगबाट निको हुनु (रोगबाट)",
-                "BN": "আরোগ্য (অসুস্থতা থেকে)",
-                "ZH": "（疾病）康复",
-                "KO": "회복(질병으로부터)",
-                "TL": "paggaling (mula sa isang sakit)",
-                "MY": "နာမကျန်းမှုမှ ပြန်လည်ကောင်းမွန်လာခြင်း",
-                "HI": "(बीमारी से) ठीक होना",
-                "AR": "الشفاء (من المرض)",
-                "FA": "بهبودی (از بیماری)",
-                "EN": [
-                    "recuperation",
-                    "convalescence"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "回復",
-        "is_common": true,
-        "tags": [
-            "wanikani26",
-            "wanikani28"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "回復",
-                "reading": "かいふく"
-            },
-            {
-                "word": "恢復",
-                "reading": "かいふく"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "restoration",
-                    "recovery",
-                    "rehabilitation",
-                    "return",
-                    "improvement"
-                ],
-                "parts_of_speech": [
-                    "Noun",
-                    "Suru verb",
-                    "Transitive verb",
-                    "Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "recovery (from an illness)",
-                    "recuperation",
-                    "convalescence"
-                ],
-                "parts_of_speech": [
-                    "Noun",
-                    "Suru verb",
-                    "Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [
-                    "also written as 快復"
-                ]
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "回",
-        "復"
+  "version": "0.3.0",
+  "word": "回復",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/iuffzf0VIoQ",
+  "in_db": true,
+  "kanji": "回復",
+  "reading": "かいふく",
+  "introduction_japanese": "回復は、病気やけががよくなるとき、体力や気力が元に戻るとき、備蓄や信用を取り戻すとき、天候や景気が良くなるときなどに使います。",
+  "introduction_english": "The noun かいふく is commonly used when talking about getting better from illness or injury, regaining strength or energy, restoring supplies or trust, and improvements in weather or the economy.",
+  "meanings": [
+    [
+      "restoration",
+      "recovery",
+      "rehabilitation",
+      "return",
+      "improvement"
     ],
-    "kanji_data": {
-        "回": {
-            "freq_mainichi_shinbun": 50,
-            "grade": 2,
-            "heisig_en": "-times",
-            "jlpt": 3,
-            "kanji": "回",
-            "kun_readings": [
-                "-まわ.し",
-                "-まわ.す",
-                "-まわ.り",
-                "-まわ.る",
-                "か.える",
-                "まわ.し-",
-                "まわ.す",
-                "まわ.る",
-                "もとお.る"
-            ],
-            "meanings": [
-                "-times",
-                "counter for occurrences",
-                "game",
-                "revolve",
-                "round"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "エ",
-                "カイ"
-            ],
-            "stroke_count": 6,
-            "unicode": "56DE"
-        },
-        "復": {
-            "freq_mainichi_shinbun": 438,
-            "grade": 5,
-            "heisig_en": "restore",
-            "jlpt": 2,
-            "kanji": "復",
-            "kun_readings": [
-                "また"
-            ],
-            "meanings": [
-                "restore",
-                "resume",
-                "return to",
-                "revert"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "フク"
-            ],
-            "stroke_count": 12,
-            "unicode": "5FA9"
-        }
-    },
-    "collocations": [
-        "健康が回復する",
-        "体力が回復する",
-        "備蓄を回復する",
-        "信用を回復する",
-        "名誉を回復する",
-        "天候が回復する",
-        "景気が回復する",
-        "ダイヤ（運行）が回復する",
-        "気力が回復する",
-        "意識が回復する",
-        "回復力",
-        "回復期",
-        "回復過程",
-        "回復傾向",
-        "回復速度",
-        "回復を待つ",
-        "回復を早める",
-        "回復を図る",
-        "回復を促す",
-        "回復を保証する",
-        "回復させる",
-        "回復する",
-        "回復させてくれる",
-        "回復できる",
-        "回復させようとする"
+    [
+      "recovery (from an illness)",
+      "recuperation",
+      "convalescence"
     ]
+  ],
+  "meaning_explanation_japanese": "「回復」は、悪い状態や不足している状態が元に戻ること、または良くなることを表す言葉です。たとえば、病気がよくなる、体力が戻る、景気が良くなる、などに使います。",
+  "meaning_explanation_english": "The word かいふく means recovery or restoration. It describes something getting back to its previous or better state, like recovering from illness, regaining strength, or an economy improving.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "回",
+      "common_words": [
+        "回数 (かいすう): number of times",
+        "回る (まわる): to turn; to go around"
+      ]
+    },
+    {
+      "kanji": "復",
+      "common_words": [
+        "復旧 (ふっきゅう): restoration (e.g., systems, services)",
+        "復習 (ふくしゅう): review (study)"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means turning around, times, or a counter for occurrences. In the word かいすう it gives the idea of how many times something happens and in まわる it connects to the idea of turning or going around. The second kanji means to restore, return, or resume something. In the word ふっきゅう it gives the idea of bringing something back to its former state and the reading また expresses the idea of doing something again.",
+  "synonyms": [
+    "復旧 : ふっきゅう : restoration of systems or status",
+    "治癒 : ちゆ : medical healing"
+  ],
+  "synonym_explanation": "The most common synonyms of the 回復 are ふっきゅう and ちゆ. ふっきゅう is often used for restoring systems, services, or conditions and overlaps with the sense of returning to a previous state. ちゆ focuses on medical healing and emphasizes curing an illness.",
+  "antonyms": [
+    "悪化 : あっか : deterioration; getting worse"
+  ],
+  "antonym_explanation": "The most common antonym of the 回復 is あっか. あっか means things are getting worse or deteriorating, which is the opposite of recovering or improving.",
+  "collocations": [
+    {
+      "kanji": "健康が回復する",
+      "furigana": "健康が回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "体力が回復する",
+      "furigana": "体力が回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "備蓄を回復する",
+      "furigana": "備蓄を回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "信用を回復する",
+      "furigana": "信用を回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "名誉を回復する",
+      "furigana": "名誉を回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "天候が回復する",
+      "furigana": "天候が回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "景気が回復する",
+      "furigana": "景気が回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "ダイヤ（運行）が回復する",
+      "furigana": "ダイヤ（運行）が回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "気力が回復する",
+      "furigana": "気力が回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "意識が回復する",
+      "furigana": "意識が回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "回復力",
+      "furigana": "回復力",
+      "translations": {}
+    },
+    {
+      "kanji": "回復期",
+      "furigana": "回復期",
+      "translations": {}
+    },
+    {
+      "kanji": "回復過程",
+      "furigana": "回復過程",
+      "translations": {}
+    },
+    {
+      "kanji": "回復傾向",
+      "furigana": "回復傾向",
+      "translations": {}
+    },
+    {
+      "kanji": "回復速度",
+      "furigana": "回復速度",
+      "translations": {}
+    },
+    {
+      "kanji": "回復を待つ",
+      "furigana": "回復を待つ",
+      "translations": {}
+    },
+    {
+      "kanji": "回復を早める",
+      "furigana": "回復を早める",
+      "translations": {}
+    },
+    {
+      "kanji": "回復を図る",
+      "furigana": "回復を図る",
+      "translations": {}
+    },
+    {
+      "kanji": "回復を促す",
+      "furigana": "回復を促す",
+      "translations": {}
+    },
+    {
+      "kanji": "回復を保証する",
+      "furigana": "回復を保証する",
+      "translations": {}
+    },
+    {
+      "kanji": "回復させる",
+      "furigana": "回復させる",
+      "translations": {}
+    },
+    {
+      "kanji": "回復する",
+      "furigana": "回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "回復させてくれる",
+      "furigana": "回復させてくれる",
+      "translations": {}
+    },
+    {
+      "kanji": "回復できる",
+      "furigana": "回復できる",
+      "translations": {}
+    },
+    {
+      "kanji": "回復させようとする",
+      "furigana": "回復させようとする",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は病気から回復した。",
+      "furigana": "彼(かれ)は病気(びょうき)から回復(かいふく)した。",
+      "translations": {
+        "EN": "He recovered from his illness.",
+        "ID": "Dia pulih dari penyakitnya.",
+        "ES": "Se recuperó de su enfermedad.",
+        "VI": "Ông đã bình phục sau cơn bệnh.",
+        "FR": "Il s'est remis de sa maladie.",
+        "NE": "उनी आफ्नो रोगबाट निको भए।",
+        "BN": "তিনি তার অসুস্থতা থেকে আরোগ্য লাভ করেন।",
+        "ZH": "他的病痊愈了。",
+        "KO": "그는 질병에서 회복했다.",
+        "TL": "Gumaling siya sa kanyang karamdaman.",
+        "MY": "သူ့ရောဂါကနေ သက်သာလာခဲ့တယ်။",
+        "HI": "वह अपनी बीमारी से उबर गया।",
+        "AR": "لقد تعافى من مرضه.",
+        "FA": "او از بیماری خود بهبود یافت."
+      }
+    },
+    {
+      "kanji": "体力がすぐに回復した。",
+      "furigana": "体力(たいりょく)がすぐに回復(かいふく)した。",
+      "translations": {
+        "EN": "My strength quickly recovered.",
+        "ID": "Kekuatan saya cepat pulih.",
+        "ES": "Mis fuerzas se recuperaron rápidamente.",
+        "VI": "Sức lực của tôi nhanh chóng hồi phục.",
+        "FR": "Mes forces ont vite repris.",
+        "NE": "मेरो शक्ति चाँडै निको भयो।",
+        "BN": "আমার শক্তি দ্রুত ফিরে এলো।",
+        "ZH": "我的体力很快就恢复了。",
+        "KO": "체력이 빨리 회복되었다.",
+        "TL": "Mabilis na nakabawi ang lakas ko.",
+        "MY": "ငါ့ခွန်အားတွေ မြန်မြန်ပြန်ကောင်းလာတယ်။",
+        "HI": "मेरी ताकत जल्दी ही वापस आ गयी।",
+        "AR": "لقد استعادت قوتي بسرعة.",
+        "FA": "قدرت من به سرعت بازیابی شد."
+      }
+    },
+    {
+      "kanji": "備蓄を回復する必要がある。",
+      "furigana": "備蓄(びちく)を回復(かいふく)する必要(ひつよう)がある。",
+      "translations": {
+        "EN": "We need to restore our reserves.",
+        "ID": "Kita perlu memulihkan cadangan kita.",
+        "ES": "Necesitamos restaurar nuestras reservas.",
+        "VI": "Chúng ta cần khôi phục lại nguồn dự trữ của mình.",
+        "FR": "Nous devons reconstituer nos réserves.",
+        "NE": "हामीले हाम्रो भण्डार पुनर्स्थापित गर्नुपर्छ।",
+        "BN": "আমাদের রিজার্ভ পুনরুদ্ধার করতে হবে।",
+        "ZH": "我们需要恢复我们的储备。",
+        "KO": "비축을 회복할 필요가 있다.",
+        "TL": "Kailangan nating ibalik ang ating mga reserba.",
+        "MY": "ငါတို့ရဲ့ အရန်ငွေတွေကို ပြန်ယူရမယ်။",
+        "HI": "हमें अपने भंडार को बहाल करने की जरूरत है।",
+        "AR": "نحن بحاجة إلى استعادة احتياطياتنا.",
+        "FA": "ما باید ذخایر خود را احیا کنیم."
+      }
+    },
+    {
+      "kanji": "信用を回復するのは難しい。",
+      "furigana": "信用(しんよう)を回復(かいふく)するのは難(むずか)しい。",
+      "translations": {
+        "EN": "It's hard to rebuild trust.",
+        "ID": "Sulit untuk membangun kembali kepercayaan.",
+        "ES": "Es difícil reconstruir la confianza.",
+        "VI": "Thật khó để xây dựng lại lòng tin.",
+        "FR": "Il est difficile de rétablir la confiance.",
+        "NE": "विश्वास पुनर्स्थापित गर्न गाह्रो छ।",
+        "BN": "বিশ্বাস পুনর্নির্মাণ করা কঠিন।",
+        "ZH": "重建信任很困难。",
+        "KO": "신용을 회복하기는 어렵다.",
+        "TL": "Mahirap buuin muli ang tiwala.",
+        "MY": "ယုံကြည်မှု ပြန်လည်တည်ဆောက်ရန် ခက်ခဲသည်။",
+        "HI": "विश्वास को पुनः स्थापित करना कठिन है।",
+        "AR": "من الصعب إعادة بناء الثقة.",
+        "FA": "ساختن دوباره اعتماد سخته."
+      }
+    },
+    {
+      "kanji": "天候が回復して晴れた。",
+      "furigana": "天候(てんこう)が回復(かいふく)して晴(は)れた。",
+      "translations": {
+        "EN": "The weather improved and it became sunny.",
+        "ID": "Cuaca membaik dan menjadi cerah.",
+        "ES": "El tiempo mejoró y estuvo soleado.",
+        "VI": "Thời tiết cải thiện và trời nắng.",
+        "FR": "Le temps s’est amélioré et il est devenu ensoleillé.",
+        "NE": "मौसममा सुधार आयो र घमाइलो भयो।",
+        "BN": "আবহাওয়ার উন্নতি হয়েছে এবং রোদ উঠেছে।",
+        "ZH": "天气转好，阳光明媚。",
+        "KO": "날씨가 회복되어 맑았다.",
+        "TL": "Bumuti ang panahon at naging maaraw.",
+        "MY": "ရာသီဥတုကောင်းမွန်လာပြီး နေသာလာသည်။",
+        "HI": "मौसम सुधर गया और धूप निकल आई।",
+        "AR": "تحسن الطقس وأصبح مشمسًا.",
+        "FA": "هوا بهتر شد و آفتابی شد."
+      }
+    },
+    {
+      "kanji": "景気が少し回復している。",
+      "furigana": "景気(けいき)が少(すこ)し回復(かいふく)している。",
+      "translations": {
+        "EN": "The economy is recovering a little.",
+        "ID": "Perekonomian mulai pulih sedikit.",
+        "ES": "La economía se está recuperando un poco.",
+        "VI": "Nền kinh tế đang phục hồi đôi chút.",
+        "FR": "L'économie se redresse un peu.",
+        "NE": "अर्थतन्त्र थोरै सुधार हुँदैछ।",
+        "BN": "অর্থনীতি কিছুটা সুস্থ হয়ে উঠছে।",
+        "ZH": "经济正在稍微复苏。",
+        "KO": "경기가 조금 회복하고 있다.",
+        "TL": "Medyo bumabawi na ang ekonomiya.",
+        "MY": "စီးပွားရေးက နည်းနည်းပြန်ကောင်းလာပြီ။",
+        "HI": "अर्थव्यवस्था थोड़ी-थोड़ी ठीक हो रही है।",
+        "AR": "الاقتصاد يتعافى قليلا.",
+        "FA": "اقتصاد کمی در حال بهبود است."
+      }
+    },
+    {
+      "kanji": "彼は手術後、意識を回復した。",
+      "furigana": "彼(かれ)は手術後(しゅじゅつご)、意識(いしき)を回復(かいふく)した。",
+      "translations": {
+        "EN": "He regained consciousness after the surgery.",
+        "ID": "Dia sadar kembali setelah operasi.",
+        "ES": "Recuperó la conciencia después de la cirugía.",
+        "VI": "Anh ấy đã tỉnh lại sau ca phẫu thuật.",
+        "FR": "Il a repris connaissance après l'opération.",
+        "NE": "शल्यक्रियापछि उनी होशमा आए।",
+        "BN": "অস্ত্রোপচারের পর তার জ্ঞান ফিরে আসে।",
+        "ZH": "手术后他恢复了意识。",
+        "KO": "그는 수술 후 의식을 회복했다.",
+        "TL": "Nagkamalay siya pagkatapos ng operasyon.",
+        "MY": "ခွဲစိတ်ပြီးနောက် သတိပြန်ရလာသည်။",
+        "HI": "सर्जरी के बाद उसे होश आ गया।",
+        "AR": "لقد استعاد وعيه بعد العملية الجراحية.",
+        "FA": "او پس از عمل جراحی به هوش آمد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "restoration": {
+      "ID": "restorasi",
+      "ES": "restauración",
+      "VI": "phục hồi",
+      "FR": "restauration",
+      "NE": "पुनर्स्थापना",
+      "BN": "পুনরুদ্ধার",
+      "ZH": "恢复",
+      "KO": "복구",
+      "TL": "pagpapanumbalik",
+      "MY": "ပြန်လည်ထူထောင်ရေး",
+      "HI": "बहाली",
+      "AR": "استعادة",
+      "FA": "مرمت",
+      "EN": [
+        "recovery",
+        "rehabilitation",
+        "return",
+        "improvement"
+      ]
+    },
+    "recovery (from an illness)": {
+      "ID": "pemulihan (dari suatu penyakit)",
+      "ES": "recuperación (de una enfermedad)",
+      "VI": "hồi phục (sau khi bị bệnh)",
+      "FR": "guérison (d'une maladie)",
+      "NE": "रोगबाट निको हुनु (रोगबाट)",
+      "BN": "আরোগ্য (অসুস্থতা থেকে)",
+      "ZH": "（疾病）康复",
+      "KO": "회복(질병으로부터)",
+      "TL": "paggaling (mula sa isang sakit)",
+      "MY": "နာမကျန်းမှုမှ ပြန်လည်ကောင်းမွန်လာခြင်း",
+      "HI": "(बीमारी से) ठीक होना",
+      "AR": "الشفاء (من المرض)",
+      "FA": "بهبودی (از بیماری)",
+      "EN": [
+        "recuperation",
+        "convalescence"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "回復",
+    "is_common": true,
+    "tags": [
+      "wanikani26",
+      "wanikani28"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "回復",
+        "reading": "かいふく"
+      },
+      {
+        "word": "恢復",
+        "reading": "かいふく"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "restoration",
+          "recovery",
+          "rehabilitation",
+          "return",
+          "improvement"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Suru verb",
+          "Transitive verb",
+          "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "recovery (from an illness)",
+          "recuperation",
+          "convalescence"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Suru verb",
+          "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+          "also written as 快復"
+        ]
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "回",
+    "復"
+  ],
+  "kanji_data": {
+    "回": {
+      "freq_mainichi_shinbun": 50,
+      "grade": 2,
+      "heisig_en": "-times",
+      "jlpt": 3,
+      "kanji": "回",
+      "kun_readings": [
+        "-まわ.し",
+        "-まわ.す",
+        "-まわ.り",
+        "-まわ.る",
+        "か.える",
+        "まわ.し-",
+        "まわ.す",
+        "まわ.る",
+        "もとお.る"
+      ],
+      "meanings": [
+        "-times",
+        "counter for occurrences",
+        "game",
+        "revolve",
+        "round"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "エ",
+        "カイ"
+      ],
+      "stroke_count": 6,
+      "unicode": "56DE"
+    },
+    "復": {
+      "freq_mainichi_shinbun": 438,
+      "grade": 5,
+      "heisig_en": "restore",
+      "jlpt": 2,
+      "kanji": "復",
+      "kun_readings": [
+        "また"
+      ],
+      "meanings": [
+        "restore",
+        "resume",
+        "return to",
+        "revert"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "フク"
+      ],
+      "stroke_count": 12,
+      "unicode": "5FA9"
+    }
+  }
 }

@@ -1,0 +1,369 @@
+{
+  "version": "0.2.0",
+  "word": "医療",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/cfG0mbQGnZA",
+  "in_db": true,
+  "ai_explanation": {
+    "kanji": "医療",
+    "reading": "いりょう",
+    "introduction_japanese": "「医療」は、病院やけが・病気のとき、保険や費用の話、地域のサービスや制度の話でよく使う名詞です。",
+    "introduction_english": "The noun いりょう is used in conversations about hospitals, injuries or illness, insurance and costs, and community services or systems.",
+    "meanings": [
+      [
+        "medical treatment",
+        "medical care"
+      ],
+      [
+        "health care",
+        "healthcare system",
+        "health services"
+      ]
+    ],
+    "meaning_explanation_japanese": "「医療」は、人が病気やけがのときに受けるケアや処置のことです。さらに、病院や保険などをふくむ社会のしくみ全体を言うこともあります。",
+    "meaning_explanation_english": "The word いりょう means medical treatment or medical care. It can also refer to the whole healthcare system, like hospitals, services, and insurance.",
+    "kanji_explanation_english": "The first kanji means doctor or medicine. You see it in いしゃ, which is a doctor, and いがく, which is medical science. In both, it brings the idea of medicine and medical people. Think of health and doctors when you see it. The second kanji means to heal or cure. It appears in ちりょう for treatment and りょうよう for recuperation. It gives the sense of healing and recovery. Think of curing and getting better.",
+    "kanji_details": [
+      {
+        "kanji": "医",
+        "common_words": [
+          "医者 (いしゃ): doctor",
+          "医学 (いがく): medical science"
+        ]
+      },
+      {
+        "kanji": "療",
+        "common_words": [
+          "治療 (ちりょう): treatment",
+          "療養 (りょうよう): recuperation"
+        ]
+      }
+    ],
+    "synonyms": [
+      "治療 : ちりょう : treatment"
+    ],
+    "synonyms_explanation": "The most common synonym of the word いりょう is ちりょう. ちりょう focuses on the act of treating an illness, while いりょう can also include services and the system.",
+    "antonyms": [],
+    "antonyms_explanation": "No common antonyms found.",
+    "examples": [
+      {
+        "kanji": "私は病院で医療を受けました。",
+        "furigana": "私(わたし)は病院(びょういん)で医療(いりょう)を受(う)けました。",
+        "translations": {
+          "EN": "I received medical care at the hospital.",
+          "ID": "Saya menerima perawatan medis di rumah sakit.",
+          "ES": "Recibí atención médica en el hospital.",
+          "VI": "Tôi đã được chăm sóc y tế tại bệnh viện.",
+          "FR": "J'ai reçu des soins médicaux à l'hôpital.",
+          "NE": "मैले अस्पतालमा स्वास्थ्य सेवा पाएँ।",
+          "BN": "আমি হাসপাতালে চিকিৎসা সেবা পেয়েছি।",
+          "ZH": "我在医院接受了治疗。",
+          "KO": "병원에서 의료를 받았습니다.",
+          "TL": "Nakatanggap ako ng pangangalagang medikal sa ospital.",
+          "MY": "ဆေးရုံမှာ ဆေးကုသမှု ခံယူခဲ့တယ်။",
+          "HI": "मुझे अस्पताल में चिकित्सा देखभाल मिली।",
+          "AR": "تلقيت الرعاية الطبية في المستشفى.",
+          "FA": "من در بیمارستان تحت مراقبت‌های پزشکی قرار گرفتم."
+        }
+      },
+      {
+        "kanji": "この病院は地域に医療を提供しています。",
+        "furigana": "この病院(びょういん)は地域(ちいき)に医療(いりょう)を提供(ていきょう)しています。",
+        "translations": {
+          "EN": "This hospital provides medical care to the local community.",
+          "ID": "Rumah sakit ini menyediakan perawatan medis untuk masyarakat setempat.",
+          "ES": "Este hospital brinda atención médica a la comunidad local.",
+          "VI": "Bệnh viện này cung cấp dịch vụ chăm sóc y tế cho cộng đồng địa phương.",
+          "FR": "Cet hôpital fournit des soins médicaux à la communauté locale.",
+          "NE": "यस अस्पतालले स्थानीय समुदायलाई स्वास्थ्य सेवा प्रदान गर्दछ।",
+          "BN": "এই হাসপাতালটি স্থানীয় সম্প্রদায়কে চিকিৎসা সেবা প্রদান করে।",
+          "ZH": "这家医院为当地社区提供医疗服务。",
+          "KO": "이 병원은 지역에 의료를 제공합니다.",
+          "TL": "Ang ospital na ito ay nagbibigay ng pangangalagang medikal sa lokal na komunidad.",
+          "MY": "ဒီဆေးရုံဟာ ဒေသခံပြည်သူတွေကို ဆေးကုသပေးနေပါတယ်။",
+          "HI": "यह अस्पताल स्थानीय समुदाय को चिकित्सा सेवा प्रदान करता है।",
+          "AR": "يقدم هذا المستشفى الرعاية الطبية للمجتمع المحلي.",
+          "FA": "این بیمارستان خدمات درمانی را به مردم محلی ارائه می‌دهد."
+        }
+      },
+      {
+        "kanji": "医療費が高いです。",
+        "furigana": "医療費(いりょうひ)が高(たか)いです。",
+        "translations": {
+          "EN": "Medical costs are high.",
+          "ID": "Biaya pengobatan tinggi.",
+          "ES": "Los costos médicos son altos.",
+          "VI": "Chi phí y tế cao.",
+          "FR": "Les coûts médicaux sont élevés.",
+          "NE": "चिकित्सा खर्च उच्च छ।",
+          "BN": "চিকিৎসা খরচ অনেক বেশি।",
+          "ZH": "医疗费用很高。",
+          "KO": "의료비가 높습니다.",
+          "TL": "Mataas ang gastos sa medikal.",
+          "MY": "ဆေးဖိုးတွေ ကြီးတယ်။",
+          "HI": "चिकित्सा लागत अधिक है।",
+          "AR": "التكاليف الطبية مرتفعة.",
+          "FA": "هزینه‌های پزشکی بالاست."
+        }
+      },
+      {
+        "kanji": "看護師と医師は医療の現場で働いています。",
+        "furigana": "看護師(かんごし)と医師(いし)は医療(いりょう)の現場(げんば)で働(はたら)いています。",
+        "translations": {
+          "EN": "Nurses and doctors work in the medical field.",
+          "ID": "Perawat dan dokter bekerja di bidang medis.",
+          "ES": "Las enfermeras y los médicos trabajan en el campo médico.",
+          "VI": "Y tá và bác sĩ làm việc trong lĩnh vực y tế.",
+          "FR": "Les infirmières et les médecins travaillent dans le domaine médical.",
+          "NE": "नर्स र डाक्टरहरू चिकित्सा क्षेत्रमा काम गर्छन्।",
+          "BN": "নার্স এবং ডাক্তাররা চিকিৎসা ক্ষেত্রে কাজ করেন।",
+          "ZH": "护士和医生在医疗领域工作。",
+          "KO": "간호사와 의사는 의료 현장에서 일하고 있습니다.",
+          "TL": "Ang mga nars at doktor ay nagtatrabaho sa larangang medikal.",
+          "MY": "သူနာပြုများနှင့် ဆရာဝန်များသည် ဆေးဘက်ဆိုင်ရာနယ်ပယ်တွင် အလုပ်လုပ်ကြသည်။",
+          "HI": "नर्स और डॉक्टर चिकित्सा क्षेत्र में काम करते हैं।",
+          "AR": "يعمل الممرضون والأطباء في المجال الطبي.",
+          "FA": "پرستاران و پزشکان در حوزه پزشکی فعالیت می‌کنند."
+        }
+      },
+      {
+        "kanji": "災害時に医療が不足しました。",
+        "furigana": "災害時(さいがいじ)に医療(いりょう)が不足(ふそく)しました。",
+        "translations": {
+          "EN": "There was a shortage of medical care during the disaster.",
+          "ID": "Terjadi kekurangan perawatan medis selama bencana terjadi.",
+          "ES": "Hubo escasez de atención médica durante el desastre.",
+          "VI": "Có tình trạng thiếu hụt dịch vụ chăm sóc y tế trong thảm họa.",
+          "FR": "Il y a eu une pénurie de soins médicaux pendant la catastrophe.",
+          "NE": "विपद्को समयमा स्वास्थ्य सेवाको अभाव थियो।",
+          "BN": "দুর্যোগের সময় চিকিৎসা সেবার অভাব ছিল।",
+          "ZH": "灾难发生时，医疗救护严重短缺。",
+          "KO": "재해시 의료가 부족했습니다.",
+          "TL": "Nagkaroon ng kakulangan sa pangangalagang medikal noong panahon ng sakuna.",
+          "MY": "သဘာဝဘေးအန္တရာယ်အတွင်း ဆေးဝါးကုသမှု ပြတ်လပ်မှု ရှိခဲ့သည်။",
+          "HI": "आपदा के दौरान चिकित्सा देखभाल की कमी थी।",
+          "AR": "كان هناك نقص في الرعاية الطبية أثناء الكارثة.",
+          "FA": "در طول فاجعه، کمبود مراقبت‌های پزشکی وجود داشت."
+        }
+      },
+      {
+        "kanji": "救急車で緊急医療を受けました。",
+        "furigana": "救急車(きゅうきゅうしゃ)で緊急医療(きんきゅういりょう)を受(う)けました。",
+        "translations": {
+          "EN": "I was taken to an ambulance for a medical emergency.",
+          "ID": "Saya dibawa ke ambulans untuk keadaan darurat medis.",
+          "ES": "Me llevaron a una ambulancia por una emergencia médica.",
+          "VI": "Tôi được đưa đi cấp cứu vì lý do y tế khẩn cấp.",
+          "FR": "J'ai été emmené dans une ambulance pour une urgence médicale.",
+          "NE": "मलाई मेडिकल इमर्जेन्सीको लागि एम्बुलेन्समा लगियो।",
+          "BN": "জরুরি চিকিৎসার জন্য আমাকে অ্যাম্বুলেন্সে করে নিয়ে যাওয়া হয়েছিল।",
+          "ZH": "我因紧急医疗情况被送上救护车。",
+          "KO": "구급차로 긴급 의료를 받았습니다.",
+          "TL": "Dinala ako sa ambulansya para sa isang medikal na emerhensiya.",
+          "MY": "အရေးပေါ်လူနာတင်ယာဉ်ကို ခေါ်သွားခဲ့တယ်။",
+          "HI": "मुझे चिकित्सा आपातकाल के लिए एम्बुलेंस में ले जाया गया।",
+          "AR": "تم نقلي إلى سيارة الإسعاف لحالة طبية طارئة.",
+          "FA": "برای فوریت‌های پزشکی به آمبولانس منتقل شدم."
+        }
+      },
+      {
+        "kanji": "この病院は高度な医療を提供します。",
+        "furigana": "この病院(びょういん)は高度(こうど)な医療(いりょう)を提供(ていきょう)します。",
+        "translations": {
+          "EN": "This hospital provides advanced medical care.",
+          "ID": "Rumah sakit ini menyediakan perawatan medis tingkat lanjut.",
+          "ES": "Este hospital ofrece atención médica avanzada.",
+          "VI": "Bệnh viện này cung cấp dịch vụ chăm sóc y tế tiên tiến.",
+          "FR": "Cet hôpital offre des soins médicaux avancés.",
+          "NE": "यस अस्पतालले उन्नत चिकित्सा सेवा प्रदान गर्दछ।",
+          "BN": "এই হাসপাতালটি উন্নত চিকিৎসা সেবা প্রদান করে।",
+          "ZH": "这家医院提供先进的医疗服务。",
+          "KO": "이 병원은 고급 의료를 제공합니다.",
+          "TL": "Nagbibigay ang ospital na ito ng advanced na pangangalagang medikal.",
+          "MY": "ဤဆေးရုံသည် အဆင့်မြင့် ဆေးကုသမှု ပေးသည်။",
+          "HI": "यह अस्पताल उन्नत चिकित्सा सेवा प्रदान करता है।",
+          "AR": "يقدم هذا المستشفى رعاية طبية متقدمة.",
+          "FA": "این بیمارستان خدمات درمانی پیشرفته‌ای ارائه می‌دهد."
+        }
+      }
+    ],
+    "meaning_translations": {
+      "medical treatment": {
+        "ID": "perawatan medis",
+        "ES": "tratamiento médico",
+        "VI": "điều trị y tế",
+        "FR": "traitement médical",
+        "NE": "चिकित्सा उपचार",
+        "BN": "চিকিৎসা",
+        "ZH": "医疗",
+        "KO": "의료",
+        "TL": "medikal na paggamot",
+        "MY": "ဆေးကုသမှု",
+        "HI": "चिकित्सा उपचार",
+        "AR": "العلاج الطبي",
+        "FA": "درمان پزشکی",
+        "EN": [
+          "medical care"
+        ]
+      },
+      "health care": {
+        "ID": "perawatan kesehatan",
+        "ES": "cuidado de la salud",
+        "VI": "chăm sóc sức khỏe",
+        "FR": "soins de santé",
+        "NE": "स्वास्थ्य सेवा",
+        "BN": "স্বাস্থ্যসেবা",
+        "ZH": "卫生保健",
+        "KO": "건강 관리",
+        "TL": "pangangalaga sa kalusugan",
+        "MY": "ကျန်းမာရေးစောင့်ရှောက်မှု",
+        "HI": "स्वास्थ्य देखभाल",
+        "AR": "الرعاية الصحية",
+        "FA": "مراقبت‌های بهداشتی",
+        "EN": [
+          "healthcare system",
+          "health services"
+        ]
+      }
+    }
+  },
+  "jisho_data": {
+    "slug": "医療",
+    "is_common": true,
+    "tags": [
+      "wanikani36"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "医療",
+        "reading": "いりょう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "medical treatment",
+          "medical care"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Health care"
+        ],
+        "parts_of_speech": [
+          "Wikipedia definition"
+        ],
+        "links": [
+          {
+            "text": "Read “Health care” on English Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Health_care?oldid=494446166"
+          },
+          {
+            "text": "Read “医療” on Japanese Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/医療?oldid=42307721"
+          }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": "http://dbpedia.org/resource/Health_care"
+    }
+  },
+  "kanji_list": [
+    "医",
+    "療"
+  ],
+  "kanji_data": {
+    "医": {
+      "freq_mainichi_shinbun": 437,
+      "grade": 3,
+      "heisig_en": "doctor",
+      "jlpt": 4,
+      "kanji": "医",
+      "kun_readings": [
+        "い.する",
+        "い.やす",
+        "くすし"
+      ],
+      "meanings": [
+        "doctor",
+        "medicine"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "イ"
+      ],
+      "stroke_count": 7,
+      "unicode": "533B"
+    },
+    "療": {
+      "freq_mainichi_shinbun": 600,
+      "grade": 8,
+      "heisig_en": "heal",
+      "jlpt": 2,
+      "kanji": "療",
+      "kun_readings": [],
+      "meanings": [
+        "cure",
+        "heal"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "リョウ"
+      ],
+      "stroke_count": 17,
+      "unicode": "7642"
+    }
+  },
+  "collocations": [
+    "医療の現場",
+    "医療の制度",
+    "医療の費用",
+    "医療の質",
+    "医療の提供",
+    "医療を受ける",
+    "医療を提供する",
+    "医療を改善する",
+    "医療を支える",
+    "医療を改革する",
+    "地域に医療を提供する",
+    "国に医療制度がある",
+    "社会に医療の格差がある",
+    "高齢者に医療が必要だ",
+    "災害時に医療が不足する",
+    "高度な医療",
+    "先進的な医療",
+    "公的な医療",
+    "緊急医療",
+    "必要不可欠な医療",
+    "医療機関",
+    "医療従事者",
+    "医療費",
+    "医療技術",
+    "医療サービス"
+  ]
+}

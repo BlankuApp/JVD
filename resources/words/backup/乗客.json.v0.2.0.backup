@@ -1,0 +1,334 @@
+{
+  "version": "0.2.0",
+  "word": "乗客",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/0yeRJb2AWKU",
+  "in_db": true,
+  "ai_explanation": {
+    "kanji": "乗客",
+    "reading": "じょうきゃく",
+    "introduction_japanese": "乗客は、電車、バス、飛行機、船、駅や空港のアナウンス、ニュース、旅行の話でよく使う名詞です。",
+    "introduction_english": "The noun じょうきゃく is common in talks about trains, buses, airplanes, ships, station or airport announcements, news, and travel.",
+    "meanings": [
+      [
+        "passenger"
+      ]
+    ],
+    "meaning_explanation_japanese": "「乗客」は「乗る」＋「客」で、乗り物を使って移動する人のことです。電車やバス、飛行機などでよく使います。",
+    "meaning_explanation_english": "The word じょうきゃく literally combines “ride” and “guest,” and it means a person who rides a vehicle, like a train, bus, or plane.",
+    "kanji_explanation_english": "The first kanji means to ride or get on. Think of じょうしゃ to mean riding or boarding a vehicle. You also hear のりかえ for changing from one ride to another. Both use the idea of getting on or being carried. The second kanji means guest or customer. Words like きゃく mean a guest or customer. In きゃくしつ, it points to a room for guests. So it carries the sense of someone being hosted or served.",
+    "kanji_details": [
+      {
+        "kanji": "乗",
+        "common_words": [
+          "乗車（じょうしゃ）: boarding; riding",
+          "乗り換え（のりかえ）: transfer"
+        ]
+      },
+      {
+        "kanji": "客",
+        "common_words": [
+          "客（きゃく）: guest; customer",
+          "客室（きゃくしつ）: guest room; cabin"
+        ]
+      }
+    ],
+    "synonyms": [
+      "旅客 : りょかく : passenger (formal, transport)",
+      "搭乗者 : とうじょうしゃ : passenger; person boarding (aviation)"
+    ],
+    "synonyms_explanation": "The most common synonyms of the word じょうきゃく are りょかく and とうじょうしゃ. りょかく is formal and used in transport or legal contexts. とうじょうしゃ is mainly for airplanes and means a person who boards.",
+    "antonyms": [
+      "乗員 : じょういん : crew member; staff on board"
+    ],
+    "antonyms_explanation": "The most common antonym of the word じょうきゃく is じょういん, which refers to the crew who work on the vehicle, not the people being carried.",
+    "examples": [
+      {
+        "kanji": "バスに乗客が乗る。",
+        "furigana": "バスに乗客(じょうきゃく)が乗(の)る。",
+        "translations": {
+          "EN": "Passengers board the bus.",
+          "ID": "Penumpang naik ke bus.",
+          "ES": "Los pasajeros suben al autobús.",
+          "VI": "Hành khách lên xe buýt.",
+          "FR": "Les passagers montent à bord du bus.",
+          "NE": "यात्रुहरू बसमा चढ्छन्।",
+          "BN": "যাত্রীরা বাসে উঠছে।",
+          "ZH": "乘客登上巴士。",
+          "KO": "버스에 승객이 탄다.",
+          "TL": "Sumasakay ang mga pasahero sa bus.",
+          "MY": "ခရီးသည်များ ဘတ်စ်ကားပေါ် တက်ကြသည်။",
+          "HI": "यात्री बस में चढ़ते हैं।",
+          "AR": "الركاب يصعدون إلى الحافلة.",
+          "FA": "مسافران سوار اتوبوس می‌شوند."
+        }
+      },
+      {
+        "kanji": "運転手が乗客を降ろす。",
+        "furigana": "運転手(うんてんしゅ)が乗客(じょうきゃく)を降(お)ろす。",
+        "translations": {
+          "EN": "The driver drops off the passengers.",
+          "ID": "Pengemudi menurunkan penumpang.",
+          "ES": "El conductor deja a los pasajeros.",
+          "VI": "Tài xế thả hành khách xuống xe.",
+          "FR": "Le chauffeur dépose les passagers.",
+          "NE": "चालकले यात्रुहरूलाई ओराल्छन्।",
+          "BN": "ড্রাইভার যাত্রীদের নামিয়ে দেয়।",
+          "ZH": "司机送乘客下车。",
+          "KO": "운전자가 승객을 내린다.",
+          "TL": "Ibinaba ng driver ang mga pasahero.",
+          "MY": "ယာဉ်မောင်းက ခရီးသည်တွေကို ပစ်ချတယ်။",
+          "HI": "ड्राइवर यात्रियों को उतार देता है।",
+          "AR": "السائق ينزل الركاب.",
+          "FA": "راننده مسافران را پیاده می‌کند."
+        }
+      },
+      {
+        "kanji": "係員が乗客を案内する。",
+        "furigana": "係員(かかりいん)が乗客(じょうきゃく)を案内(あんない)する。",
+        "translations": {
+          "EN": "The staff guides the passengers.",
+          "ID": "Staf memandu penumpang.",
+          "ES": "El personal guía a los pasajeros.",
+          "VI": "Nhân viên hướng dẫn hành khách.",
+          "FR": "Le personnel guide les passagers.",
+          "NE": "कर्मचारीहरूले यात्रुहरूलाई मार्गदर्शन गर्छन्।",
+          "BN": "কর্মীরা যাত্রীদের পথ দেখান।",
+          "ZH": "工作人员为乘客进行引导。",
+          "KO": "직원이 승객을 안내합니다.",
+          "TL": "Ginagabayan ng mga tauhan ang mga pasahero.",
+          "MY": "ဝန်ထမ်းတွေက ခရီးသည်တွေကို လမ်းပြပေးတယ်။",
+          "HI": "कर्मचारी यात्रियों का मार्गदर्शन करते हैं।",
+          "AR": "يقوم الموظفون بإرشاد الركاب.",
+          "FA": "کارکنان مسافران را راهنمایی می‌کنند."
+        }
+      },
+      {
+        "kanji": "電車に乗客が殺到する。",
+        "furigana": "電車(でんしゃ)に乗客(じょうきゃく)が殺到(さっとう)する。",
+        "translations": {
+          "EN": "Passengers flock to the train.",
+          "ID": "Penumpang berbondong-bondong menuju kereta.",
+          "ES": "Los pasajeros acuden en masa al tren.",
+          "VI": "Hành khách đổ xô lên tàu.",
+          "FR": "Les passagers affluent vers le train.",
+          "NE": "यात्रुहरू रेलमा ओइरिन्छन्।",
+          "BN": "যাত্রীরা ট্রেনে ভিড় জমান।",
+          "ZH": "乘客们纷纷涌向火车。",
+          "KO": "기차에 승객이 쇄도한다.",
+          "TL": "Dumadagsa ang mga pasahero sa tren.",
+          "MY": "ရထားစီးခရီးသည်များ စုပြုံလာကြသည်။",
+          "HI": "यात्री रेलगाड़ी की ओर उमड़ पड़े।",
+          "AR": "يتدفق الركاب إلى القطار.",
+          "FA": "مسافران به سمت قطار هجوم می‌آورند."
+        }
+      },
+      {
+        "kanji": "駅に乗客があふれる。",
+        "furigana": "駅(えき)に乗客(じょうきゃく)があふれる。",
+        "translations": {
+          "EN": "The station is overflowing with passengers.",
+          "ID": "Stasiun itu penuh sesak dengan penumpang.",
+          "ES": "La estación está abarrotada de pasajeros.",
+          "VI": "Nhà ga chật kín hành khách.",
+          "FR": "La gare déborde de passagers.",
+          "NE": "स्टेशन यात्रुहरूले भरिएको छ।",
+          "BN": "স্টেশনটি যাত্রীতে উপচে পড়ছে।",
+          "ZH": "车站挤满了乘客。",
+          "KO": "역에 승객이 넘친다.",
+          "TL": "Ang istasyon ay umaapaw sa mga pasahero.",
+          "MY": "ဘူတာမှာ ခရီးသည်တွေနဲ့ ပြည့်နေတယ်။",
+          "HI": "स्टेशन यात्रियों से खचाखच भरा हुआ है।",
+          "AR": "المحطة مليئة بالركاب.",
+          "FA": "ایستگاه مملو از مسافر است."
+        }
+      },
+      {
+        "kanji": "この電車の乗客数は多い。",
+        "furigana": "この電車(でんしゃ)の乗客数(じょうきゃくすう)は多(おお)い。",
+        "translations": {
+          "EN": "This train has a large number of passengers.",
+          "ID": "Kereta ini memiliki banyak penumpang.",
+          "ES": "Este tren tiene un gran número de pasajeros.",
+          "VI": "Chuyến tàu này có rất nhiều hành khách.",
+          "FR": "Ce train transporte un grand nombre de passagers.",
+          "NE": "यो रेलमा धेरै यात्रुहरू छन्।",
+          "BN": "এই ট্রেনে প্রচুর যাত্রী রয়েছে।",
+          "ZH": "这列火车上乘客很多。",
+          "KO": "이 전철의 승객수는 많다.",
+          "TL": "Ang tren na ito ay may malaking bilang ng mga pasahero.",
+          "MY": "ဒီရထားမှာ ခရီးသည်ဦးရေ များပြားပါတယ်။",
+          "HI": "इस ट्रेन में यात्रियों की संख्या बहुत अधिक है।",
+          "AR": "هذا القطار لديه عدد كبير من الركاب.",
+          "FA": "این قطار تعداد زیادی مسافر دارد."
+        }
+      },
+      {
+        "kanji": "乗客が苦情を言う。",
+        "furigana": "乗客(じょうきゃく)が苦情(くじょう)を言(い)う。",
+        "translations": {
+          "EN": "Passengers complain.",
+          "ID": "Penumpang mengeluh.",
+          "ES": "Los pasajeros se quejan.",
+          "VI": "Hành khách phàn nàn.",
+          "FR": "Les passagers se plaignent.",
+          "NE": "यात्रुहरूको गुनासो छ।",
+          "BN": "যাত্রীরা অভিযোগ করেন।",
+          "ZH": "乘客抱怨。",
+          "KO": "승객이 불만을 말한다.",
+          "TL": "Nagrereklamo ang mga pasahero.",
+          "MY": "ခရီးသည်တွေက တိုင်ကြားတယ်။",
+          "HI": "यात्री शिकायत करते हैं.",
+          "AR": "الركاب يشكون.",
+          "FA": "مسافران شکایت می‌کنند."
+        }
+      }
+    ],
+    "meaning_translations": {
+      "passenger": {
+        "ID": "penumpang",
+        "ES": "pasajero",
+        "VI": "hành khách",
+        "FR": "passager",
+        "NE": "यात्रु",
+        "BN": "যাত্রী",
+        "ZH": "乘客",
+        "KO": "승객",
+        "TL": "pasahero",
+        "MY": "ခရီးသည်",
+        "HI": "यात्री",
+        "AR": "راكب",
+        "FA": "مسافر",
+        "EN": []
+      }
+    }
+  },
+  "jisho_data": {
+    "slug": "乗客",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3",
+      "jlpt-n1"
+    ],
+    "japanese": [
+      {
+        "word": "乗客",
+        "reading": "じょうきゃく"
+      },
+      {
+        "word": "乗客",
+        "reading": "じょうかく"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "passenger"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "乗",
+    "客"
+  ],
+  "kanji_data": {
+    "乗": {
+      "freq_mainichi_shinbun": 377,
+      "grade": 3,
+      "heisig_en": "ride",
+      "jlpt": 3,
+      "kanji": "乗",
+      "kun_readings": [
+        "-の.り",
+        "の.せる",
+        "の.る"
+      ],
+      "meanings": [
+        "board",
+        "counter for vehicles",
+        "join",
+        "mount",
+        "multiplication",
+        "power",
+        "record",
+        "ride"
+      ],
+      "name_readings": [
+        "のり"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ショウ",
+        "ジョウ"
+      ],
+      "stroke_count": 9,
+      "unicode": "4E57"
+    },
+    "客": {
+      "freq_mainichi_shinbun": 557,
+      "grade": 3,
+      "heisig_en": "guest",
+      "jlpt": 3,
+      "kanji": "客",
+      "kun_readings": [],
+      "meanings": [
+        "client",
+        "customer",
+        "guest",
+        "visitor"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "カク",
+        "キャク"
+      ],
+      "stroke_count": 9,
+      "unicode": "5BA2"
+    }
+  },
+  "collocations": [
+    "乗客を乗せる",
+    "乗客を降ろす",
+    "乗客が乗る",
+    "乗客が下車する",
+    "乗客を案内する",
+    "列車に乗客を乗せる",
+    "飛行機に乗客を乗せる",
+    "バスに乗客を載せる",
+    "電車に乗客が殺到する",
+    "駅に乗客があふれる",
+    "乗客数",
+    "乗客案内",
+    "乗客サービス",
+    "乗客層",
+    "乗客運送",
+    "乗客が多い",
+    "乗客が減る",
+    "乗客が増える",
+    "乗客が混雑する",
+    "乗客が苦情を言う",
+    "多くの乗客",
+    "少数の乗客",
+    "主な乗客",
+    "観光客乗客",
+    "巨大な乗客数"
+  ]
+}

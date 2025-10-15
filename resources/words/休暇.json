@@ -1,362 +1,461 @@
 {
-    "version": "0.2.0",
-    "word": "休暇",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/Wa9J73i7wjY",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "休暇",
-        "reading": "きゅうか",
-        "introduction_japanese": "「休暇」は、仕事や学校のスケジュールの話、旅行の計画、会社での手続きの会話でよく使います。体調や家の用事で時間をあけたいときの話にもよく出ます。",
-        "introduction_english": "The noun きゅうか is used in conversations about work or school schedules, travel plans, and company procedures. It also appears when talking about health or family reasons that need time away.",
-        "meanings": [
-            [
-                "holiday",
-                "vacation",
-                "day off",
-                "time off"
-            ],
-            [
-                "leave",
-                "furlough"
-            ]
-        ],
-        "meaning_explanation_japanese": "「休暇」は、仕事や学校からはなれて、休んだり用事をしたりするための時間のことです。ふだんの旅行やお休みのことも、会社に許可をもらう正式なもののことも言います。",
-        "meaning_explanation_english": "The word きゅうか means time away from work or school to rest or take care of things. It can be a regular holiday or vacation, and it can also be formal, approved leave.",
-        "kanji_explanation_english": "The first kanji means rest or taking a break. In きゅうじつ, it points to a day set aside to rest from work or school. In きゅうけい, it shows a short rest during activities. You can feel the idea of stopping to recover. The second kanji means spare time or free time. In ひま, it directly means you have time with no tasks. In よか, it suggests leisure time outside duties. It adds the sense of personal, free time.",
-        "kanji_details": [
-            {
-                "kanji": "休",
-                "common_words": [
-                    "休日 (きゅうじつ): day off; holiday",
-                    "休憩 (きゅうけい): break; rest"
-                ]
-            },
-            {
-                "kanji": "暇",
-                "common_words": [
-                    "暇 (ひま): free time",
-                    "余暇 (よか): leisure"
-                ]
-            }
-        ],
-        "synonyms": [
-            "休日 : きゅうじつ : day off; holiday",
-            "休み : やすみ : rest; day off"
-        ],
-        "synonyms_explanation": "The most common synonyms of the きゅうか are きゅうじつ and やすみ. きゅうじつ is usually a fixed or public day off. やすみ is casual and can mean a break or a simple day off. きゅうか sounds more formal and often needs approval.",
-        "antonyms": [
-            "出勤 : しゅっきん : going to work",
-            "勤務 : きんむ : duty; work"
-        ],
-        "antonyms_explanation": "The most common antonyms of the きゅうか are しゅっきん and きんむ. しゅっきん means going to your workplace. きんむ means being on duty or working. They focus on working, which is the opposite of taking time off.",
-        "examples": [
-            {
-                "kanji": "来週、休暇を取ります。",
-                "furigana": "来週(らいしゅう)、休暇(きゅうか)を取(と)ります。",
-                "translations": {
-                    "EN": "I'm taking a vacation next week.",
-                    "ID": "Saya akan mengambil liburan minggu depan.",
-                    "ES": "La semana que viene me tomaré unas vacaciones.",
-                    "VI": "Tôi sẽ đi nghỉ vào tuần tới.",
-                    "FR": "Je prends des vacances la semaine prochaine.",
-                    "NE": "म अर्को हप्ता बिदा लिँदैछु।",
-                    "BN": "আমি আগামী সপ্তাহে ছুটি নিচ্ছি।",
-                    "ZH": "我下周要休假。",
-                    "KO": "다음 주에 휴가를 드리겠습니다.",
-                    "TL": "Magbabakasyon ako sa susunod na linggo.",
-                    "MY": "ငါ နောက်အပတ် အပန်းဖြေခရီး သွားမယ်။",
-                    "HI": "मैं अगले सप्ताह छुट्टी ले रहा हूँ।",
-                    "AR": "سأخذ إجازة في الأسبوع القادم.",
-                    "FA": "هفته دیگه مرخصی میگیرم."
-                }
-            },
-            {
-                "kanji": "上司に休暇を申請しました。",
-                "furigana": "上司(じょうし)に休暇(きゅうか)を申請(しんせい)しました。",
-                "translations": {
-                    "EN": "I applied for leave to my boss.",
-                    "ID": "Saya mengajukan cuti kepada bos saya.",
-                    "ES": "Le solicité una licencia a mi jefe.",
-                    "VI": "Tôi đã nộp đơn xin nghỉ phép cho sếp của tôi.",
-                    "FR": "J'ai demandé un congé à mon patron.",
-                    "NE": "मैले मेरो हाकिमलाई बिदाको लागि आवेदन दिएँ।",
-                    "BN": "আমি আমার বসের কাছে ছুটির জন্য আবেদন করেছি।",
-                    "ZH": "我向老板申请休假。",
-                    "KO": "상사에게 휴가를 신청했습니다.",
-                    "TL": "Nag-apply ako ng leave sa boss ko.",
-                    "MY": "ကျွန်ုပ်သည် ကျွန်ုပ်၏ သူဌေးထံ ခွင့်ပန်ရန် လျှောက်ထားခဲ့သည်။",
-                    "HI": "मैंने अपने बॉस से छुट्टी के लिए आवेदन किया।",
-                    "AR": "لقد تقدمت بطلب إجازة إلى رئيسي.",
-                    "FA": "از رئیسم درخواست مرخصی کردم."
-                }
-            },
-            {
-                "kanji": "今は休暇中です。",
-                "furigana": "今(いま)は休暇(きゅうか)中(ちゅう)です。",
-                "translations": {
-                    "EN": "I'm on vacation now.",
-                    "ID": "Saya sedang berlibur sekarang.",
-                    "ES": "Estoy de vacaciones ahora.",
-                    "VI": "Bây giờ tôi đang đi nghỉ.",
-                    "FR": "Je suis en vacances maintenant.",
-                    "NE": "म अहिले बिदामा छु।",
-                    "BN": "আমি এখন ছুটিতে আছি।",
-                    "ZH": "我现在正在度假。",
-                    "KO": "지금은 휴가 중입니다.",
-                    "TL": "Nagbakasyon ako ngayon.",
-                    "MY": "ငါ အခု အားလပ်ရက်မှာ",
-                    "HI": "मैं अभी छुट्टी पर हूं।",
-                    "AR": "أنا في إجازة الآن.",
-                    "FA": "الان در تعطیلات هستم."
-                }
-            },
-            {
-                "kanji": "有給休暇を使いました。",
-                "furigana": "有給休暇(ゆうきゅうきゅうか)を使(つか)いました。",
-                "translations": {
-                    "EN": "I used my paid leave.",
-                    "ID": "Saya menggunakan cuti berbayar saya.",
-                    "ES": "Utilicé mis vacaciones pagadas.",
-                    "VI": "Tôi đã sử dụng ngày nghỉ phép có lương của mình.",
-                    "FR": "J'ai utilisé mes congés payés.",
-                    "NE": "मैले मेरो तलबी बिदा प्रयोग गरें।",
-                    "BN": "আমি আমার বেতনভুক্ত ছুটি ব্যবহার করেছি।",
-                    "ZH": "我使用了带薪休假。",
-                    "KO": "유급 휴가를 사용했습니다.",
-                    "TL": "Ginamit ko ang aking bayad na bakasyon.",
-                    "MY": "ကျွန်ုပ်သည် ကျွန်ုပ်၏ အခကြေးငွေကို အသုံးပြုခဲ့သည်။",
-                    "HI": "मैंने अपनी सवेतन छुट्टी का उपयोग किया।",
-                    "AR": "لقد استخدمت إجازتي المدفوعة الأجر.",
-                    "FA": "از مرخصی استحقاقی‌ام استفاده کردم."
-                }
-            },
-            {
-                "kanji": "病気休暇をもらいました。",
-                "furigana": "病気休暇(びょうききゅうか)をもらいました。",
-                "translations": {
-                    "EN": "I was given sick leave.",
-                    "ID": "Saya diberi cuti sakit.",
-                    "ES": "Me dieron licencia por enfermedad.",
-                    "VI": "Tôi được nghỉ ốm.",
-                    "FR": "J'ai eu un congé de maladie.",
-                    "NE": "मलाई बिरामी बिदा दिइयो।",
-                    "BN": "আমাকে অসুস্থতার ছুটি দেওয়া হয়েছে।",
-                    "ZH": "我被准予病假。",
-                    "KO": "아픈 휴가를 받았습니다.",
-                    "TL": "Binigyan ako ng sick leave.",
-                    "MY": "ဖျားနာခွင့် ပေးခဲ့တယ်။",
-                    "HI": "मुझे बीमारी की छुट्टी दे दी गई।",
-                    "AR": "لقد تم منحي إجازة مرضية.",
-                    "FA": "به من مرخصی استعلاجی دادند."
-                }
-            },
-            {
-                "kanji": "休暇を延長したいです。",
-                "furigana": "休暇(きゅうか)を延長(えんちょう)したいです。",
-                "translations": {
-                    "EN": "I would like to extend my vacation.",
-                    "ID": "Saya ingin memperpanjang liburan saya.",
-                    "ES": "Me gustaría extender mis vacaciones.",
-                    "VI": "Tôi muốn kéo dài kỳ nghỉ của mình.",
-                    "FR": "J'aimerais prolonger mes vacances.",
-                    "NE": "म मेरो बिदा बढाउन चाहन्छु।",
-                    "BN": "আমি আমার ছুটি বাড়াতে চাই।",
-                    "ZH": "我想延长我的假期。",
-                    "KO": "휴가를 연장하고 싶습니다.",
-                    "TL": "Gusto kong i-extend ang bakasyon ko.",
-                    "MY": "အားလပ်ရက်သက်တမ်းတိုးချင်ပါတယ်။",
-                    "HI": "मैं अपनी छुट्टियाँ बढ़ाना चाहता हूँ।",
-                    "AR": "أريد تمديد إجازتي.",
-                    "FA": "من می‌خواهم مرخصی‌ام را تمدید کنم."
-                }
-            },
-            {
-                "kanji": "休暇に入ります。",
-                "furigana": "休暇(きゅうか)に入(はい)ります。",
-                "translations": {
-                    "EN": "I'm going on vacation.",
-                    "ID": "Saya akan pergi berlibur.",
-                    "ES": "Me voy de vacaciones.",
-                    "VI": "Tôi sắp đi nghỉ.",
-                    "FR": "Je pars en vacances.",
-                    "NE": "म बिदामा जाँदैछु।",
-                    "BN": "আমি ছুটিতে যাচ্ছি।",
-                    "ZH": "我要去度假。",
-                    "KO": "휴가에 들어갑니다.",
-                    "TL": "magbabakasyon ako.",
-                    "MY": "ငါ အားလပ်ရက်သွားမယ်။",
-                    "HI": "मैं छुट्टी पर जा रहा हूं.",
-                    "AR": "سأذهب في إجازة.",
-                    "FA": "دارم میرم تعطیلات."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "holiday": {
-                "ID": "hari libur",
-                "ES": "día festivo",
-                "VI": "ngày lễ",
-                "FR": "vacances",
-                "NE": "बिदा",
-                "BN": "ছুটির দিন",
-                "ZH": "假期",
-                "KO": "휴일",
-                "TL": "holiday",
-                "MY": "အားလပ်ရက်",
-                "HI": "छुट्टी",
-                "AR": "عطلة",
-                "FA": "تعطیلات",
-                "EN": [
-                    "vacation",
-                    "day off",
-                    "time off"
-                ]
-            },
-            "leave": {
-                "ID": "meninggalkan",
-                "ES": "dejar",
-                "VI": "rời khỏi",
-                "FR": "partir",
-                "NE": "छोड्नु",
-                "BN": "ছেড়ে দিন",
-                "ZH": "离开",
-                "KO": "떠나다",
-                "TL": "umalis",
-                "MY": "ထားခဲ့ပါ။",
-                "HI": "छुट्टी",
-                "AR": "يترك",
-                "FA": "ترک",
-                "EN": [
-                    "furlough"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "休暇",
-        "is_common": true,
-        "tags": [
-            "wanikani27"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "休暇",
-                "reading": "きゅうか"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "holiday",
-                    "vacation",
-                    "day off",
-                    "time off",
-                    "leave",
-                    "furlough"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "休",
-        "暇"
+  "version": "0.3.0",
+  "word": "休暇",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/Wa9J73i7wjY",
+  "in_db": true,
+  "kanji": "休暇",
+  "reading": "きゅうか",
+  "introduction_japanese": "「休暇」は、仕事や学校のスケジュールの話、旅行の計画、会社での手続きの会話でよく使います。体調や家の用事で時間をあけたいときの話にもよく出ます。",
+  "introduction_english": "The noun きゅうか is used in conversations about work or school schedules, travel plans, and company procedures. It also appears when talking about health or family reasons that need time away.",
+  "meanings": [
+    [
+      "holiday",
+      "vacation",
+      "day off",
+      "time off"
     ],
-    "kanji_data": {
-        "休": {
-            "freq_mainichi_shinbun": 642,
-            "grade": 1,
-            "heisig_en": "rest",
-            "jlpt": 5,
-            "kanji": "休",
-            "kun_readings": [
-                "やす.まる",
-                "やす.む",
-                "やす.める"
-            ],
-            "meanings": [
-                "day off",
-                "rest",
-                "retire",
-                "sleep"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "キュウ"
-            ],
-            "stroke_count": 6,
-            "unicode": "4F11"
-        },
-        "暇": {
-            "freq_mainichi_shinbun": 1386,
-            "grade": 8,
-            "heisig_en": "spare time",
-            "jlpt": 1,
-            "kanji": "暇",
-            "kun_readings": [
-                "いとま",
-                "ひま"
-            ],
-            "meanings": [
-                "leave of absence",
-                "leisure",
-                "rest",
-                "spare time",
-                "time"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "カ"
-            ],
-            "stroke_count": 13,
-            "unicode": "6687"
-        }
-    },
-    "collocations": [
-        "休暇を取る",
-        "休暇を申請する",
-        "休暇を取得する",
-        "休暇を延長する",
-        "休暇を与える",
-        "休暇中",
-        "休暇期間中",
-        "休暇の間",
-        "長期休暇中",
-        "労働休暇中",
-        "有給休暇",
-        "年次休暇",
-        "病気休暇",
-        "産休・育休（産前・育児休暇）",
-        "特別休暇",
-        "休暇にあてる",
-        "休暇に当てる",
-        "休暇に出る",
-        "休暇に充てる",
-        "休暇に入る",
-        "長期休暇",
-        "短期休暇",
-        "連休休暇",
-        "無給休暇",
-        "完全休暇"
+    [
+      "leave",
+      "furlough"
     ]
+  ],
+  "meaning_explanation_japanese": "「休暇」は、仕事や学校からはなれて、休んだり用事をしたりするための時間のことです。ふだんの旅行やお休みのことも、会社に許可をもらう正式なもののことも言います。",
+  "meaning_explanation_english": "The word きゅうか means time away from work or school to rest or take care of things. It can be a regular holiday or vacation, and it can also be formal, approved leave.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "休",
+      "common_words": [
+        "休日 (きゅうじつ): day off; holiday",
+        "休憩 (きゅうけい): break; rest"
+      ]
+    },
+    {
+      "kanji": "暇",
+      "common_words": [
+        "暇 (ひま): free time",
+        "余暇 (よか): leisure"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means rest or taking a break. In きゅうじつ, it points to a day set aside to rest from work or school. In きゅうけい, it shows a short rest during activities. You can feel the idea of stopping to recover. The second kanji means spare time or free time. In ひま, it directly means you have time with no tasks. In よか, it suggests leisure time outside duties. It adds the sense of personal, free time.",
+  "synonyms": [
+    "休日 : きゅうじつ : day off; holiday",
+    "休み : やすみ : rest; day off"
+  ],
+  "synonym_explanation": "The most common synonyms of the きゅうか are きゅうじつ and やすみ. きゅうじつ is usually a fixed or public day off. やすみ is casual and can mean a break or a simple day off. きゅうか sounds more formal and often needs approval.",
+  "antonyms": [
+    "出勤 : しゅっきん : going to work",
+    "勤務 : きんむ : duty; work"
+  ],
+  "antonym_explanation": "The most common antonyms of the きゅうか are しゅっきん and きんむ. しゅっきん means going to your workplace. きんむ means being on duty or working. They focus on working, which is the opposite of taking time off.",
+  "collocations": [
+    {
+      "kanji": "休暇を取る",
+      "furigana": "休暇を取る",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇を申請する",
+      "furigana": "休暇を申請する",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇を取得する",
+      "furigana": "休暇を取得する",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇を延長する",
+      "furigana": "休暇を延長する",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇を与える",
+      "furigana": "休暇を与える",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇中",
+      "furigana": "休暇中",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇期間中",
+      "furigana": "休暇期間中",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇の間",
+      "furigana": "休暇の間",
+      "translations": {}
+    },
+    {
+      "kanji": "長期休暇中",
+      "furigana": "長期休暇中",
+      "translations": {}
+    },
+    {
+      "kanji": "労働休暇中",
+      "furigana": "労働休暇中",
+      "translations": {}
+    },
+    {
+      "kanji": "有給休暇",
+      "furigana": "有給休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "年次休暇",
+      "furigana": "年次休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "病気休暇",
+      "furigana": "病気休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "産休・育休（産前・育児休暇）",
+      "furigana": "産休・育休（産前・育児休暇）",
+      "translations": {}
+    },
+    {
+      "kanji": "特別休暇",
+      "furigana": "特別休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇にあてる",
+      "furigana": "休暇にあてる",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇に当てる",
+      "furigana": "休暇に当てる",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇に出る",
+      "furigana": "休暇に出る",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇に充てる",
+      "furigana": "休暇に充てる",
+      "translations": {}
+    },
+    {
+      "kanji": "休暇に入る",
+      "furigana": "休暇に入る",
+      "translations": {}
+    },
+    {
+      "kanji": "長期休暇",
+      "furigana": "長期休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "短期休暇",
+      "furigana": "短期休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "連休休暇",
+      "furigana": "連休休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "無給休暇",
+      "furigana": "無給休暇",
+      "translations": {}
+    },
+    {
+      "kanji": "完全休暇",
+      "furigana": "完全休暇",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "来週、休暇を取ります。",
+      "furigana": "来週(らいしゅう)、休暇(きゅうか)を取(と)ります。",
+      "translations": {
+        "EN": "I'm taking a vacation next week.",
+        "ID": "Saya akan mengambil liburan minggu depan.",
+        "ES": "La semana que viene me tomaré unas vacaciones.",
+        "VI": "Tôi sẽ đi nghỉ vào tuần tới.",
+        "FR": "Je prends des vacances la semaine prochaine.",
+        "NE": "म अर्को हप्ता बिदा लिँदैछु।",
+        "BN": "আমি আগামী সপ্তাহে ছুটি নিচ্ছি।",
+        "ZH": "我下周要休假。",
+        "KO": "다음 주에 휴가를 드리겠습니다.",
+        "TL": "Magbabakasyon ako sa susunod na linggo.",
+        "MY": "ငါ နောက်အပတ် အပန်းဖြေခရီး သွားမယ်။",
+        "HI": "मैं अगले सप्ताह छुट्टी ले रहा हूँ।",
+        "AR": "سأخذ إجازة في الأسبوع القادم.",
+        "FA": "هفته دیگه مرخصی میگیرم."
+      }
+    },
+    {
+      "kanji": "上司に休暇を申請しました。",
+      "furigana": "上司(じょうし)に休暇(きゅうか)を申請(しんせい)しました。",
+      "translations": {
+        "EN": "I applied for leave to my boss.",
+        "ID": "Saya mengajukan cuti kepada bos saya.",
+        "ES": "Le solicité una licencia a mi jefe.",
+        "VI": "Tôi đã nộp đơn xin nghỉ phép cho sếp của tôi.",
+        "FR": "J'ai demandé un congé à mon patron.",
+        "NE": "मैले मेरो हाकिमलाई बिदाको लागि आवेदन दिएँ।",
+        "BN": "আমি আমার বসের কাছে ছুটির জন্য আবেদন করেছি।",
+        "ZH": "我向老板申请休假。",
+        "KO": "상사에게 휴가를 신청했습니다.",
+        "TL": "Nag-apply ako ng leave sa boss ko.",
+        "MY": "ကျွန်ုပ်သည် ကျွန်ုပ်၏ သူဌေးထံ ခွင့်ပန်ရန် လျှောက်ထားခဲ့သည်။",
+        "HI": "मैंने अपने बॉस से छुट्टी के लिए आवेदन किया।",
+        "AR": "لقد تقدمت بطلب إجازة إلى رئيسي.",
+        "FA": "از رئیسم درخواست مرخصی کردم."
+      }
+    },
+    {
+      "kanji": "今は休暇中です。",
+      "furigana": "今(いま)は休暇(きゅうか)中(ちゅう)です。",
+      "translations": {
+        "EN": "I'm on vacation now.",
+        "ID": "Saya sedang berlibur sekarang.",
+        "ES": "Estoy de vacaciones ahora.",
+        "VI": "Bây giờ tôi đang đi nghỉ.",
+        "FR": "Je suis en vacances maintenant.",
+        "NE": "म अहिले बिदामा छु।",
+        "BN": "আমি এখন ছুটিতে আছি।",
+        "ZH": "我现在正在度假。",
+        "KO": "지금은 휴가 중입니다.",
+        "TL": "Nagbakasyon ako ngayon.",
+        "MY": "ငါ အခု အားလပ်ရက်မှာ",
+        "HI": "मैं अभी छुट्टी पर हूं।",
+        "AR": "أنا في إجازة الآن.",
+        "FA": "الان در تعطیلات هستم."
+      }
+    },
+    {
+      "kanji": "有給休暇を使いました。",
+      "furigana": "有給休暇(ゆうきゅうきゅうか)を使(つか)いました。",
+      "translations": {
+        "EN": "I used my paid leave.",
+        "ID": "Saya menggunakan cuti berbayar saya.",
+        "ES": "Utilicé mis vacaciones pagadas.",
+        "VI": "Tôi đã sử dụng ngày nghỉ phép có lương của mình.",
+        "FR": "J'ai utilisé mes congés payés.",
+        "NE": "मैले मेरो तलबी बिदा प्रयोग गरें।",
+        "BN": "আমি আমার বেতনভুক্ত ছুটি ব্যবহার করেছি।",
+        "ZH": "我使用了带薪休假。",
+        "KO": "유급 휴가를 사용했습니다.",
+        "TL": "Ginamit ko ang aking bayad na bakasyon.",
+        "MY": "ကျွန်ုပ်သည် ကျွန်ုပ်၏ အခကြေးငွေကို အသုံးပြုခဲ့သည်။",
+        "HI": "मैंने अपनी सवेतन छुट्टी का उपयोग किया।",
+        "AR": "لقد استخدمت إجازتي المدفوعة الأجر.",
+        "FA": "از مرخصی استحقاقی‌ام استفاده کردم."
+      }
+    },
+    {
+      "kanji": "病気休暇をもらいました。",
+      "furigana": "病気休暇(びょうききゅうか)をもらいました。",
+      "translations": {
+        "EN": "I was given sick leave.",
+        "ID": "Saya diberi cuti sakit.",
+        "ES": "Me dieron licencia por enfermedad.",
+        "VI": "Tôi được nghỉ ốm.",
+        "FR": "J'ai eu un congé de maladie.",
+        "NE": "मलाई बिरामी बिदा दिइयो।",
+        "BN": "আমাকে অসুস্থতার ছুটি দেওয়া হয়েছে।",
+        "ZH": "我被准予病假。",
+        "KO": "아픈 휴가를 받았습니다.",
+        "TL": "Binigyan ako ng sick leave.",
+        "MY": "ဖျားနာခွင့် ပေးခဲ့တယ်။",
+        "HI": "मुझे बीमारी की छुट्टी दे दी गई।",
+        "AR": "لقد تم منحي إجازة مرضية.",
+        "FA": "به من مرخصی استعلاجی دادند."
+      }
+    },
+    {
+      "kanji": "休暇を延長したいです。",
+      "furigana": "休暇(きゅうか)を延長(えんちょう)したいです。",
+      "translations": {
+        "EN": "I would like to extend my vacation.",
+        "ID": "Saya ingin memperpanjang liburan saya.",
+        "ES": "Me gustaría extender mis vacaciones.",
+        "VI": "Tôi muốn kéo dài kỳ nghỉ của mình.",
+        "FR": "J'aimerais prolonger mes vacances.",
+        "NE": "म मेरो बिदा बढाउन चाहन्छु।",
+        "BN": "আমি আমার ছুটি বাড়াতে চাই।",
+        "ZH": "我想延长我的假期。",
+        "KO": "휴가를 연장하고 싶습니다.",
+        "TL": "Gusto kong i-extend ang bakasyon ko.",
+        "MY": "အားလပ်ရက်သက်တမ်းတိုးချင်ပါတယ်။",
+        "HI": "मैं अपनी छुट्टियाँ बढ़ाना चाहता हूँ।",
+        "AR": "أريد تمديد إجازتي.",
+        "FA": "من می‌خواهم مرخصی‌ام را تمدید کنم."
+      }
+    },
+    {
+      "kanji": "休暇に入ります。",
+      "furigana": "休暇(きゅうか)に入(はい)ります。",
+      "translations": {
+        "EN": "I'm going on vacation.",
+        "ID": "Saya akan pergi berlibur.",
+        "ES": "Me voy de vacaciones.",
+        "VI": "Tôi sắp đi nghỉ.",
+        "FR": "Je pars en vacances.",
+        "NE": "म बिदामा जाँदैछु।",
+        "BN": "আমি ছুটিতে যাচ্ছি।",
+        "ZH": "我要去度假。",
+        "KO": "휴가에 들어갑니다.",
+        "TL": "magbabakasyon ako.",
+        "MY": "ငါ အားလပ်ရက်သွားမယ်။",
+        "HI": "मैं छुट्टी पर जा रहा हूं.",
+        "AR": "سأذهب في إجازة.",
+        "FA": "دارم میرم تعطیلات."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "holiday": {
+      "ID": "hari libur",
+      "ES": "día festivo",
+      "VI": "ngày lễ",
+      "FR": "vacances",
+      "NE": "बिदा",
+      "BN": "ছুটির দিন",
+      "ZH": "假期",
+      "KO": "휴일",
+      "TL": "holiday",
+      "MY": "အားလပ်ရက်",
+      "HI": "छुट्टी",
+      "AR": "عطلة",
+      "FA": "تعطیلات",
+      "EN": [
+        "vacation",
+        "day off",
+        "time off"
+      ]
+    },
+    "leave": {
+      "ID": "meninggalkan",
+      "ES": "dejar",
+      "VI": "rời khỏi",
+      "FR": "partir",
+      "NE": "छोड्नु",
+      "BN": "ছেড়ে দিন",
+      "ZH": "离开",
+      "KO": "떠나다",
+      "TL": "umalis",
+      "MY": "ထားခဲ့ပါ။",
+      "HI": "छुट्टी",
+      "AR": "يترك",
+      "FA": "ترک",
+      "EN": [
+        "furlough"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "休暇",
+    "is_common": true,
+    "tags": [
+      "wanikani27"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "休暇",
+        "reading": "きゅうか"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "holiday",
+          "vacation",
+          "day off",
+          "time off",
+          "leave",
+          "furlough"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "休",
+    "暇"
+  ],
+  "kanji_data": {
+    "休": {
+      "freq_mainichi_shinbun": 642,
+      "grade": 1,
+      "heisig_en": "rest",
+      "jlpt": 5,
+      "kanji": "休",
+      "kun_readings": [
+        "やす.まる",
+        "やす.む",
+        "やす.める"
+      ],
+      "meanings": [
+        "day off",
+        "rest",
+        "retire",
+        "sleep"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "キュウ"
+      ],
+      "stroke_count": 6,
+      "unicode": "4F11"
+    },
+    "暇": {
+      "freq_mainichi_shinbun": 1386,
+      "grade": 8,
+      "heisig_en": "spare time",
+      "jlpt": 1,
+      "kanji": "暇",
+      "kun_readings": [
+        "いとま",
+        "ひま"
+      ],
+      "meanings": [
+        "leave of absence",
+        "leisure",
+        "rest",
+        "spare time",
+        "time"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "カ"
+      ],
+      "stroke_count": 13,
+      "unicode": "6687"
+    }
+  }
 }

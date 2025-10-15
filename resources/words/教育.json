@@ -1,300 +1,319 @@
 {
-    "version": "0.2.0",
-    "word": "教育",
-    "jlpt_level": 4,
-    "youtube_link": "https://youtu.be/JC8LW45-PfI",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "教育",
-        "reading": "きょういく",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is きょういく which you will often hear in educational settings, discussions about school systems or when talking about children's development.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word 教育 (きょういく) means \"education\" in English. It refers to the process of teaching, learning, and training people, particularly in schools or other academic institutions. It also encompasses the overall development and cultural training of individuals to prepare them for a knowledgeable and skilled life.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "education",
-                "schooling",
-                "training",
-                "instruction",
-                "teaching",
-                "upbringing"
-            ],
-            [
-                "culture",
-                "cultivation",
-                "education"
-            ]
-        ],
-        "meaning_translations": {
-            "education": {
-                "EN": "Education",
-                "ID": "Pendidikan",
-                "ES": "Educación",
-                "VI": "Giáo dục",
-                "FR": "Éducation",
-                "NE": "शिक्षा",
-                "BN": "শিক্ষা",
-                "ZH": "教育",
-                "KO": "교육",
-                "TL": "Edukasyon",
-                "MY": "ပညာရေး",
-                "HI": "शिक्षा",
-                "AR": "تعليم",
-                "FA": "آموزش"
-            },
-            "culture": {
-                "EN": "Education: The process of preparing children by teaching them the habits and rules of workplaces and communities. \nCulture: The beliefs, behaviors, traditions, and shared values or knowledge gathered by a society to live together.",
-                "ID": "Pendidikan: Proses mempersiapkan anak-anak dengan mengajarkan kebiasaan dan aturan di tempat kerja dan komunitas.\nBudaya: Kepercayaan, perilaku, tradisi, dan nilai atau pengetahuan bersama yang dikumpulkan oleh masyarakat untuk hidup bersama.",
-                "ES": "Educación: El proceso de preparar a los niños enseñándoles los hábitos y las reglas de los lugares de trabajo y las comunidades.\nCultura: Las creencias, comportamientos, tradiciones y valores o conocimientos compartidos que una sociedad reúne para convivir.",
-                "VI": "Giáo dục: Quá trình chuẩn bị trẻ em bằng cách dạy chúng thói quen và quy tắc của nơi làm việc và cộng đồng.\nVăn hóa: Niềm tin, hành vi, truyền thống, và giá trị hoặc kiến thức chung do xã hội thu thập để sống cùng nhau.",
-                "FR": "Éducation: Le processus de préparation des enfants en leur enseignant les habitudes et les règles des lieux de travail et des communautés.\nCulture: Les croyances, comportements, traditions, et valeurs ou connaissances partagées rassemblées par une société pour vivre ensemble.",
-                "NE": "शिक्षा: कार्यस्थल र समुदायका बानी र नियमहरू सिकाएर बच्चाहरूलाई तयारी गराउने प्रक्रिया। \nसंस्कृति: समाजको विश्वास, व्यवहार, परम्परा, र साझा थाहा वा ज्ञान समाजले सँगै बस्नका लागि सङ्कलन गरेका साझा मान्यताहरू।",
-                "BN": "শিক্ষা : কর্মক্ষেত্র এবং সম্প্রদায়ের অভ্যাস এবং নিয়ম শিক্ষার মাধ্যমে শিশুদের প্রস্তুত করার প্রক্রিয়া।\nসংস্কৃতি : সমাজের বিশ্বাস, আচরণ, ঐতিহ্য এবং সামাজিক জীবনযাপনের জন্য জ্ঞানের সংকলন।",
-                "ZH": "教育: 通过教授工作场所和社区的习惯和规则来准备孩子的过程。\n文化: 社会为了共同生活而集合的信仰、行为、传统和共享的价值观念或知识。",
-                "KO": "교육: 일터와 공동체의 습관과 규칙을 가르쳐 아이들을 준비시키는 과정.\n문화: 사회가 함께 살기 위해 모은 믿음, 행동, 전통 및 공유된 가치나 지식.",
-                "TL": "Edukasyon: Ang proseso ng paghahanda ng mga bata sa pamamagitan ng pagtuturo ng mga gawi at alituntunin ng mga lugar ng trabaho at komunidad.\nKultura: Ang mga paniniwala, pag-uugali, tradisyon, at pinagsama-samang kaalaman o pamantayan na kolektibong itinataguyod upang maging gabay sa pamumuhay ng lipunan.",
-                "MY": "ပညာရေး: အလုပ်နေရာများနှင့် လူမှုအသိုင်းအဝိုင်းဆိုင်ရာ အလေ့အကျင့်များနှင့် စည်းမျဉ်းများကို သင်ယူခြင်းဖြင့် ကလေးများကို ပြင်ဆင်သည့် အဆင့်စဉ်။\nယဉ်ကျေးမှု: လူမှုအသိုင်းအဝိုင်းက အတူတကွ နေနိုင်ရန် စုဆောင်းထားသော ယုံကြည်ချက်များ၊ အပြုအမူများ၊ ထုံးတမ်းများ၊ နှင့် မျှဝေထားသော ဥာဏ်ပေးမှုများ သို့မဟုတ် အစွဲမျဉ်းများ",
-                "HI": "शिक्षा: बच्चों को कार्यस्थलों और समुदायों के नियम और आदतें सिखाकर तैयार करने की प्रक्रिया। \nसंस्कृति: विश्वासों, व्यवहारों, परंपराओं, और साझा मूल्यों या ज्ञान का वह समूह जो समाज को एक साथ जीवन जीने के लिए एकत्र करता है।",
-                "AR": "التعليم: عملية إعداد الأطفال عن طريق تعليمهم العادات والقواعد المتعلقة بأماكن العمل والمجتمعات.\nالثقافة: المعتقدات والسلوكيات والتقاليد والقيم أو المعرفة المشتركة التي يجمعها المجتمع للعيش معًا.",
-                "FA": "آموزش: فرآیند آماده‌سازی کودکان از طریق آموزش عادات و قواعد محیط کار و جامعه.\nفرهنگ: باورها، رفتارها، سنت‌ها و ارزش‌ها یا دانش مشترکی که یک جامعه برای زندگی مشترک جمع‌آوری کرده است."
-            }
-        },
-        "examples": [
-            {
-                "kanji": "日本の教育制度は素晴らしいです。",
-                "furigana": "日本(にほん)の教育制度(きょういくせいど)は素晴(すば)らしいです。",
-                "translations": {
-                    "EN": "The Japanese education system is wonderful.",
-                    "ID": "Sistem pendidikan Jepang luar biasa.",
-                    "ES": "El sistema educativo japonés es maravilloso.",
-                    "VI": "Hệ thống giáo dục của Nhật Bản rất tuyệt vời.",
-                    "FR": "Le système éducatif japonais est formidable.",
-                    "NE": "जापानी शिक्षा प्रणाली उत्तम छ।",
-                    "BN": "জাপানের শিক্ষা ব্যবস্থা চমৎকার।",
-                    "ZH": "日本的教育制度很好。",
-                    "KO": "일본의 교육 제도는 훌륭합니다.",
-                    "TL": "Ang sistemang pang-edukasyon ng Hapon ay kamangha-mangha.",
-                    "MY": "ဂျပန်နိုင်ငံ၏ပညာရေးစနစ်ကအံ့သြဖွယ်ကောင်းပါတယ်။",
-                    "HI": "जापान की शिक्षा प्रणाली अद्भुत है।",
-                    "AR": "نظام التعليم الياباني رائع.",
-                    "FA": "سیستم آموزشی ژاپن بی‌نظیر است."
-                }
-            },
-            {
-                "kanji": "彼は高等教育を受けています。",
-                "furigana": "彼(かれ)は高等教育(こうとうきょういく)を受(う)けています。",
-                "translations": {
-                    "EN": "He is receiving higher education.",
-                    "ID": "Dia sedang menerima pendidikan tinggi.",
-                    "ES": "Él está recibiendo una educación superior.",
-                    "VI": "Anh ấy đang nhận được giáo dục cấp cao.",
-                    "FR": "Il reçoit une formation supérieure.",
-                    "NE": "उ उनी उच्च शिक्षा प्राप्त गर्दैछन्।",
-                    "BN": "সে উচ্চশিক্ষা গ্রহণ করছে।",
-                    "ZH": "他正在接受高等教育。",
-                    "KO": "그는 고등 교육을 받고 있습니다.",
-                    "TL": "Siya ay tumatanggap ng mas mataas na edukasyon.",
-                    "MY": "သူသည် အဆင့်မြင့် ပညာရေးကို လက်ခံလျက်ရှိသည်။",
-                    "HI": "वह उच्च शिक्षा प्राप्त कर रहा है।",
-                    "AR": "إنه يتلقى التعليم العالي.",
-                    "FA": "او در حال دریافت آموزش عالی است."
-                }
-            },
-            {
-                "kanji": "教育の質は大切です。",
-                "furigana": "教育(きょういく)の質(しつ)は大切(たいせつ)です。",
-                "translations": {
-                    "EN": "The quality of education is important.",
-                    "ID": "Kualitas pendidikan itu penting.",
-                    "ES": "La calidad de la educación es importante.",
-                    "VI": "Chất lượng giáo dục là quan trọng.",
-                    "FR": "La qualité de l'éducation est importante.",
-                    "NE": "शिक्षाको गुणस्तर महत्त्वपूर्ण छ।",
-                    "BN": "শিক্ষার মান গুরুত্বপূর্ণ।",
-                    "ZH": "教育质量很重要。",
-                    "KO": "교육의 질은 중요합니다.",
-                    "TL": "Mahalaga ang kalidad ng edukasyon.",
-                    "MY": "ပညာရေးအရည်အသွေးမှ အရေးကြီးပါတယ်။",
-                    "HI": "शिक्षा की गुणवत्ता महत्वपूर्ण है।",
-                    "AR": "جودة التعليم مهمة.",
-                    "FA": "کیفیت آموزش مهم است."
-                }
-            },
-            {
-                "kanji": "義務教育は大切です。",
-                "furigana": "義務教育(ぎむきょういく)は大切(たいせつ)です。",
-                "translations": {
-                    "EN": "Compulsory education is important.",
-                    "ID": "Pendidikan wajib itu penting.",
-                    "ES": "La educación obligatoria es importante.",
-                    "VI": "Giáo dục bắt buộc là quan trọng.",
-                    "FR": "L'éducation obligatoire est importante.",
-                    "NE": "अनिवार्य शिक्षा महत्त्वपूर्ण छ।",
-                    "BN": "আবশ্যিক শিক্ষা গুরুত্বপূর্ণ।",
-                    "ZH": "义务教育是重要的。",
-                    "KO": "의무교육은 중요하다.",
-                    "TL": "Ang edukasyong sapilitan ay mahalaga.",
-                    "MY": "ကျုးဘ်မီပညာရေးသည် အရေးကြီးသော အရာတစ်ခု ဖြစ်တယ်။",
-                    "HI": "अनिवार्य शिक्षा महत्वपूर्ण है।",
-                    "AR": "التعليم الإلزامي مهم.",
-                    "FA": "تحصیلات اجباری مهم است."
-                }
-            },
-            {
-                "kanji": "教育委員会が新しいルールを決めました。",
-                "furigana": "教育(きょういく)委員会(いいんかい)が新(あたら)しいルールを決(き)めました。",
-                "translations": {
-                    "EN": "The Board of Education set new rules.",
-                    "ID": "Komite Pendidikan menetapkan aturan baru.",
-                    "ES": "La Junta de Educación estableció nuevas reglas.",
-                    "VI": "Hội đồng Giáo dục đã đặt ra các quy tắc mới.",
-                    "FR": "Le conseil d'éducation a établi de nouvelles règles.",
-                    "NE": "शिक्षा समितिले नयाँ नियमहरू बनायो।",
-                    "BN": "শিক্ষা বোর্ড নতুন নিয়ম নির্ধারণ করেছে।",
-                    "ZH": "教育委员会制定了新规则。",
-                    "KO": "교육위원회가 새로운 규칙을 정했습니다.",
-                    "TL": "Nagpasya ang Lupon ng Edukasyon ng mga bagong patakaran.",
-                    "MY": "ပညာရေးအဖွဲ့က စည်းကမ်းသစ်တွေ သိမ်းမယ်။",
-                    "HI": "शिक्षा समिति ने नए नियम तय किए।",
-                    "AR": "قررت لجنة التعليم قواعد جديدة.",
-                    "FA": "هیئت آموزش قوانین جدیدی را تعیین کرد."
-                }
-            }
-        ],
-        "synonyms": [
-            "指導 : しどう : guidance",
-            "育成 : いくせい : rearing"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word 教育 (きょういく) are 指導 (しどう) and 育成 (いくせい). 指導 refers more specifically to \"guidance\" or \"instruction,\" implying a more direct or personal teaching approach. 育成, on the other hand, emphasizes \"nurturing\" or \"fostering,\" focusing on developing someone's capabilities over time. While all involve growth and learning, きょういく usually covers formal educational systems as a whole.",
-        "antonyms": [
-            "無学 : むがく : uneducated",
-            "愚行 : ぐこう : foolish act"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word 教育 (きょういく) are 無学 (むがく) and 愚行 (ぐこう). 無学 means \"illiteracy\" or \"lack of education,\" highlighting the absence or neglect of formal schooling. 愚行 suggests \"foolishness\" or \"stupid actions,\" contrasting with the acquired wisdom and knowledge that education is supposed to impart. Both emphasize the lack or opposite of the refined skills and insights associated with a solid educational background.",
-        "kanji_details": [
-            {
-                "kanji": "教",
-                "common_words": [
-                    "教室: classroom",
-                    "教師: teacher"
-                ]
-            },
-            {
-                "kanji": "育",
-                "common_words": [
-                    "育児: childcare",
-                    "体育: physical education"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "教育",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n4"
-        ],
-        "japanese": [
-            {
-                "word": "教育",
-                "reading": "きょういく"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "education",
-                    "schooling",
-                    "training",
-                    "instruction",
-                    "teaching",
-                    "upbringing"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "culture",
-                    "cultivation",
-                    "education"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "教",
-        "育"
+  "version": "0.3.0",
+  "word": "教育",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/JC8LW45-PfI",
+  "in_db": true,
+  "kanji": "教育",
+  "reading": "きょういく",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is きょういく which you will often hear in educational settings, discussions about school systems or when talking about children's development.",
+  "meanings": [
+    [
+      "education",
+      "schooling",
+      "training",
+      "instruction",
+      "teaching",
+      "upbringing"
     ],
-    "kanji_data": {
-        "教": {
-            "meanings": [
-                "doctrine",
-                "faith",
-                "teach"
-            ],
-            "on_readings": [
-                "キョウ"
-            ],
-            "kun_readings": [
-                "おし.える",
-                "おそ.わる"
-            ],
-            "stroke_count": 11,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 166,
-            "unicode": "6559",
-            "grade": 2
-        },
-        "育": {
-            "meanings": [
-                "bring up",
-                "grow up",
-                "raise",
-                "rear"
-            ],
-            "on_readings": [
-                "イク"
-            ],
-            "kun_readings": [
-                "そだ.ち",
-                "そだ.つ",
-                "そだ.てる",
-                "はぐく.む"
-            ],
-            "stroke_count": 8,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 369,
-            "unicode": "80B2",
-            "grade": 3
-        }
-    },
-    "collocations": [
-        "教育制度",
-        "高等教育",
-        "教育の質",
-        "義務教育",
-        "教育委員会"
+    [
+      "culture",
+      "cultivation",
+      "education"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word 教育 (きょういく) means \"education\" in English. It refers to the process of teaching, learning, and training people, particularly in schools or other academic institutions. It also encompasses the overall development and cultural training of individuals to prepare them for a knowledgeable and skilled life.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "教",
+      "common_words": [
+        "教室: classroom",
+        "教師: teacher"
+      ]
+    },
+    {
+      "kanji": "育",
+      "common_words": [
+        "育児: childcare",
+        "体育: physical education"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "指導 : しどう : guidance",
+    "育成 : いくせい : rearing"
+  ],
+  "synonym_explanation": "The most common synonyms of the word 教育 (きょういく) are 指導 (しどう) and 育成 (いくせい). 指導 refers more specifically to \"guidance\" or \"instruction,\" implying a more direct or personal teaching approach. 育成, on the other hand, emphasizes \"nurturing\" or \"fostering,\" focusing on developing someone's capabilities over time. While all involve growth and learning, きょういく usually covers formal educational systems as a whole.",
+  "antonyms": [
+    "無学 : むがく : uneducated",
+    "愚行 : ぐこう : foolish act"
+  ],
+  "antonym_explanation": "The most common antonyms of the word 教育 (きょういく) are 無学 (むがく) and 愚行 (ぐこう). 無学 means \"illiteracy\" or \"lack of education,\" highlighting the absence or neglect of formal schooling. 愚行 suggests \"foolishness\" or \"stupid actions,\" contrasting with the acquired wisdom and knowledge that education is supposed to impart. Both emphasize the lack or opposite of the refined skills and insights associated with a solid educational background.",
+  "collocations": [
+    {
+      "kanji": "教育制度",
+      "furigana": "教育制度",
+      "translations": {}
+    },
+    {
+      "kanji": "高等教育",
+      "furigana": "高等教育",
+      "translations": {}
+    },
+    {
+      "kanji": "教育の質",
+      "furigana": "教育の質",
+      "translations": {}
+    },
+    {
+      "kanji": "義務教育",
+      "furigana": "義務教育",
+      "translations": {}
+    },
+    {
+      "kanji": "教育委員会",
+      "furigana": "教育委員会",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "日本の教育制度は素晴らしいです。",
+      "furigana": "日本(にほん)の教育制度(きょういくせいど)は素晴(すば)らしいです。",
+      "translations": {
+        "EN": "The Japanese education system is wonderful.",
+        "ID": "Sistem pendidikan Jepang luar biasa.",
+        "ES": "El sistema educativo japonés es maravilloso.",
+        "VI": "Hệ thống giáo dục của Nhật Bản rất tuyệt vời.",
+        "FR": "Le système éducatif japonais est formidable.",
+        "NE": "जापानी शिक्षा प्रणाली उत्तम छ।",
+        "BN": "জাপানের শিক্ষা ব্যবস্থা চমৎকার।",
+        "ZH": "日本的教育制度很好。",
+        "KO": "일본의 교육 제도는 훌륭합니다.",
+        "TL": "Ang sistemang pang-edukasyon ng Hapon ay kamangha-mangha.",
+        "MY": "ဂျပန်နိုင်ငံ၏ပညာရေးစနစ်ကအံ့သြဖွယ်ကောင်းပါတယ်။",
+        "HI": "जापान की शिक्षा प्रणाली अद्भुत है।",
+        "AR": "نظام التعليم الياباني رائع.",
+        "FA": "سیستم آموزشی ژاپن بی‌نظیر است."
+      }
+    },
+    {
+      "kanji": "彼は高等教育を受けています。",
+      "furigana": "彼(かれ)は高等教育(こうとうきょういく)を受(う)けています。",
+      "translations": {
+        "EN": "He is receiving higher education.",
+        "ID": "Dia sedang menerima pendidikan tinggi.",
+        "ES": "Él está recibiendo una educación superior.",
+        "VI": "Anh ấy đang nhận được giáo dục cấp cao.",
+        "FR": "Il reçoit une formation supérieure.",
+        "NE": "उ उनी उच्च शिक्षा प्राप्त गर्दैछन्।",
+        "BN": "সে উচ্চশিক্ষা গ্রহণ করছে।",
+        "ZH": "他正在接受高等教育。",
+        "KO": "그는 고등 교육을 받고 있습니다.",
+        "TL": "Siya ay tumatanggap ng mas mataas na edukasyon.",
+        "MY": "သူသည် အဆင့်မြင့် ပညာရေးကို လက်ခံလျက်ရှိသည်။",
+        "HI": "वह उच्च शिक्षा प्राप्त कर रहा है।",
+        "AR": "إنه يتلقى التعليم العالي.",
+        "FA": "او در حال دریافت آموزش عالی است."
+      }
+    },
+    {
+      "kanji": "教育の質は大切です。",
+      "furigana": "教育(きょういく)の質(しつ)は大切(たいせつ)です。",
+      "translations": {
+        "EN": "The quality of education is important.",
+        "ID": "Kualitas pendidikan itu penting.",
+        "ES": "La calidad de la educación es importante.",
+        "VI": "Chất lượng giáo dục là quan trọng.",
+        "FR": "La qualité de l'éducation est importante.",
+        "NE": "शिक्षाको गुणस्तर महत्त्वपूर्ण छ।",
+        "BN": "শিক্ষার মান গুরুত্বপূর্ণ।",
+        "ZH": "教育质量很重要。",
+        "KO": "교육의 질은 중요합니다.",
+        "TL": "Mahalaga ang kalidad ng edukasyon.",
+        "MY": "ပညာရေးအရည်အသွေးမှ အရေးကြီးပါတယ်။",
+        "HI": "शिक्षा की गुणवत्ता महत्वपूर्ण है।",
+        "AR": "جودة التعليم مهمة.",
+        "FA": "کیفیت آموزش مهم است."
+      }
+    },
+    {
+      "kanji": "義務教育は大切です。",
+      "furigana": "義務教育(ぎむきょういく)は大切(たいせつ)です。",
+      "translations": {
+        "EN": "Compulsory education is important.",
+        "ID": "Pendidikan wajib itu penting.",
+        "ES": "La educación obligatoria es importante.",
+        "VI": "Giáo dục bắt buộc là quan trọng.",
+        "FR": "L'éducation obligatoire est importante.",
+        "NE": "अनिवार्य शिक्षा महत्त्वपूर्ण छ।",
+        "BN": "আবশ্যিক শিক্ষা গুরুত্বপূর্ণ।",
+        "ZH": "义务教育是重要的。",
+        "KO": "의무교육은 중요하다.",
+        "TL": "Ang edukasyong sapilitan ay mahalaga.",
+        "MY": "ကျုးဘ်မီပညာရေးသည် အရေးကြီးသော အရာတစ်ခု ဖြစ်တယ်။",
+        "HI": "अनिवार्य शिक्षा महत्वपूर्ण है।",
+        "AR": "التعليم الإلزامي مهم.",
+        "FA": "تحصیلات اجباری مهم است."
+      }
+    },
+    {
+      "kanji": "教育委員会が新しいルールを決めました。",
+      "furigana": "教育(きょういく)委員会(いいんかい)が新(あたら)しいルールを決(き)めました。",
+      "translations": {
+        "EN": "The Board of Education set new rules.",
+        "ID": "Komite Pendidikan menetapkan aturan baru.",
+        "ES": "La Junta de Educación estableció nuevas reglas.",
+        "VI": "Hội đồng Giáo dục đã đặt ra các quy tắc mới.",
+        "FR": "Le conseil d'éducation a établi de nouvelles règles.",
+        "NE": "शिक्षा समितिले नयाँ नियमहरू बनायो।",
+        "BN": "শিক্ষা বোর্ড নতুন নিয়ম নির্ধারণ করেছে।",
+        "ZH": "教育委员会制定了新规则。",
+        "KO": "교육위원회가 새로운 규칙을 정했습니다.",
+        "TL": "Nagpasya ang Lupon ng Edukasyon ng mga bagong patakaran.",
+        "MY": "ပညာရေးအဖွဲ့က စည်းကမ်းသစ်တွေ သိမ်းမယ်။",
+        "HI": "शिक्षा समिति ने नए नियम तय किए।",
+        "AR": "قررت لجنة التعليم قواعد جديدة.",
+        "FA": "هیئت آموزش قوانین جدیدی را تعیین کرد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "education": {
+      "EN": "Education",
+      "ID": "Pendidikan",
+      "ES": "Educación",
+      "VI": "Giáo dục",
+      "FR": "Éducation",
+      "NE": "शिक्षा",
+      "BN": "শিক্ষা",
+      "ZH": "教育",
+      "KO": "교육",
+      "TL": "Edukasyon",
+      "MY": "ပညာရေး",
+      "HI": "शिक्षा",
+      "AR": "تعليم",
+      "FA": "آموزش"
+    },
+    "culture": {
+      "EN": "Education: The process of preparing children by teaching them the habits and rules of workplaces and communities. \nCulture: The beliefs, behaviors, traditions, and shared values or knowledge gathered by a society to live together.",
+      "ID": "Pendidikan: Proses mempersiapkan anak-anak dengan mengajarkan kebiasaan dan aturan di tempat kerja dan komunitas.\nBudaya: Kepercayaan, perilaku, tradisi, dan nilai atau pengetahuan bersama yang dikumpulkan oleh masyarakat untuk hidup bersama.",
+      "ES": "Educación: El proceso de preparar a los niños enseñándoles los hábitos y las reglas de los lugares de trabajo y las comunidades.\nCultura: Las creencias, comportamientos, tradiciones y valores o conocimientos compartidos que una sociedad reúne para convivir.",
+      "VI": "Giáo dục: Quá trình chuẩn bị trẻ em bằng cách dạy chúng thói quen và quy tắc của nơi làm việc và cộng đồng.\nVăn hóa: Niềm tin, hành vi, truyền thống, và giá trị hoặc kiến thức chung do xã hội thu thập để sống cùng nhau.",
+      "FR": "Éducation: Le processus de préparation des enfants en leur enseignant les habitudes et les règles des lieux de travail et des communautés.\nCulture: Les croyances, comportements, traditions, et valeurs ou connaissances partagées rassemblées par une société pour vivre ensemble.",
+      "NE": "शिक्षा: कार्यस्थल र समुदायका बानी र नियमहरू सिकाएर बच्चाहरूलाई तयारी गराउने प्रक्रिया। \nसंस्कृति: समाजको विश्वास, व्यवहार, परम्परा, र साझा थाहा वा ज्ञान समाजले सँगै बस्नका लागि सङ्कलन गरेका साझा मान्यताहरू।",
+      "BN": "শিক্ষা : কর্মক্ষেত্র এবং সম্প্রদায়ের অভ্যাস এবং নিয়ম শিক্ষার মাধ্যমে শিশুদের প্রস্তুত করার প্রক্রিয়া।\nসংস্কৃতি : সমাজের বিশ্বাস, আচরণ, ঐতিহ্য এবং সামাজিক জীবনযাপনের জন্য জ্ঞানের সংকলন।",
+      "ZH": "教育: 通过教授工作场所和社区的习惯和规则来准备孩子的过程。\n文化: 社会为了共同生活而集合的信仰、行为、传统和共享的价值观念或知识。",
+      "KO": "교육: 일터와 공동체의 습관과 규칙을 가르쳐 아이들을 준비시키는 과정.\n문화: 사회가 함께 살기 위해 모은 믿음, 행동, 전통 및 공유된 가치나 지식.",
+      "TL": "Edukasyon: Ang proseso ng paghahanda ng mga bata sa pamamagitan ng pagtuturo ng mga gawi at alituntunin ng mga lugar ng trabaho at komunidad.\nKultura: Ang mga paniniwala, pag-uugali, tradisyon, at pinagsama-samang kaalaman o pamantayan na kolektibong itinataguyod upang maging gabay sa pamumuhay ng lipunan.",
+      "MY": "ပညာရေး: အလုပ်နေရာများနှင့် လူမှုအသိုင်းအဝိုင်းဆိုင်ရာ အလေ့အကျင့်များနှင့် စည်းမျဉ်းများကို သင်ယူခြင်းဖြင့် ကလေးများကို ပြင်ဆင်သည့် အဆင့်စဉ်။\nယဉ်ကျေးမှု: လူမှုအသိုင်းအဝိုင်းက အတူတကွ နေနိုင်ရန် စုဆောင်းထားသော ယုံကြည်ချက်များ၊ အပြုအမူများ၊ ထုံးတမ်းများ၊ နှင့် မျှဝေထားသော ဥာဏ်ပေးမှုများ သို့မဟုတ် အစွဲမျဉ်းများ",
+      "HI": "शिक्षा: बच्चों को कार्यस्थलों और समुदायों के नियम और आदतें सिखाकर तैयार करने की प्रक्रिया। \nसंस्कृति: विश्वासों, व्यवहारों, परंपराओं, और साझा मूल्यों या ज्ञान का वह समूह जो समाज को एक साथ जीवन जीने के लिए एकत्र करता है।",
+      "AR": "التعليم: عملية إعداد الأطفال عن طريق تعليمهم العادات والقواعد المتعلقة بأماكن العمل والمجتمعات.\nالثقافة: المعتقدات والسلوكيات والتقاليد والقيم أو المعرفة المشتركة التي يجمعها المجتمع للعيش معًا.",
+      "FA": "آموزش: فرآیند آماده‌سازی کودکان از طریق آموزش عادات و قواعد محیط کار و جامعه.\nفرهنگ: باورها، رفتارها، سنت‌ها و ارزش‌ها یا دانش مشترکی که یک جامعه برای زندگی مشترک جمع‌آوری کرده است."
+    }
+  },
+  "jisho_data": {
+    "slug": "教育",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n4"
+    ],
+    "japanese": [
+      {
+        "word": "教育",
+        "reading": "きょういく"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "education",
+          "schooling",
+          "training",
+          "instruction",
+          "teaching",
+          "upbringing"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "culture",
+          "cultivation",
+          "education"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "教",
+    "育"
+  ],
+  "kanji_data": {
+    "教": {
+      "meanings": [
+        "doctrine",
+        "faith",
+        "teach"
+      ],
+      "on_readings": [
+        "キョウ"
+      ],
+      "kun_readings": [
+        "おし.える",
+        "おそ.わる"
+      ],
+      "stroke_count": 11,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 166,
+      "unicode": "6559",
+      "grade": 2
+    },
+    "育": {
+      "meanings": [
+        "bring up",
+        "grow up",
+        "raise",
+        "rear"
+      ],
+      "on_readings": [
+        "イク"
+      ],
+      "kun_readings": [
+        "そだ.ち",
+        "そだ.つ",
+        "そだ.てる",
+        "はぐく.む"
+      ],
+      "stroke_count": 8,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 369,
+      "unicode": "80B2",
+      "grade": 3
+    }
+  }
 }

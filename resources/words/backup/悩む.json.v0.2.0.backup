@@ -1,0 +1,293 @@
+{
+  "version": "0.2.0",
+  "word": "悩む",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/2hGKQF4zrWE",
+  "in_db": true,
+  "ai_explanation": {
+    "kanji": "悩む",
+    "reading": "なやむ",
+    "introduction_japanese": "悩むは、将来のことや仕事の問題、人間関係、病気のこと、自分の性格について話すときによく使われる動詞です。日常の小さなことから長年の深刻な問題まで、いろいろな場面で出てきます。",
+    "introduction_english": "The verb なやむ is commonly used in conversations about the future, work problems, relationships, illnesses, and personal character. It appears in everyday situations from small worries to long-term serious issues.",
+    "meanings": [
+      [
+        "to be worried",
+        "to be troubled"
+      ]
+    ],
+    "meaning_explanation_japanese": "「なやむ」は、心の中で困っていたり、心配ごとや問題を抱えている状態を表す動詞です。誰かに相談したくなるような気持ちのときに使います。",
+    "meaning_explanation_english": "The word なやむ means 'to be worried' or 'to be troubled'. It describes a state of having concerns, problems, or mental distress—often the kind of feeling that makes you want to talk to someone.",
+    "kanji_explanation_english": "The first kanji means trouble or distress. It appears in なやみ, which means a worry, and in なやみごと, which means worries or troublesome matters; in both words the kanji gives the idea of mental trouble or concern.",
+    "kanji_details": [
+      {
+        "kanji": "悩",
+        "common_words": [
+          "悩み (なやみ): worry; concern",
+          "悩み事 (なやみごと): worries; problems"
+        ],
+        "meanings": [
+          "distress",
+          "illness",
+          "in pain",
+          "trouble",
+          "worry"
+        ],
+        "on_readings": [
+          "ノウ"
+        ],
+        "kun_readings": [
+          "なや.ましい",
+          "なや.ます",
+          "なや.む",
+          "なやみ"
+        ]
+      }
+    ],
+    "synonyms": [
+      "心配する : しんぱいする : to worry",
+      "困る : こまる : to be troubled / to be in difficulty"
+    ],
+    "synonyms_explanation": "The most common synonyms of the word are しんぱいする and こまる. しんぱいする focuses on feeling anxious or concerned about something, often a milder or more general worry. こまる means to be in trouble or have difficulty and can emphasize practical problems rather than inner distress.",
+    "antonyms": [
+      "安心する : あんしんする : to feel relieved / to be at ease",
+      "平気 : へいき : being okay, unconcerned"
+    ],
+    "antonyms_explanation": "The most common antonyms of the word are あんしんする and へいき. あんしんする means to feel relieved or safe, the opposite of holding a worry. へいき means being unbothered or unconcerned, showing no trouble in mind.",
+    "examples": [
+      {
+        "kanji": "将来に悩んでいる。",
+        "furigana": "将来(しょうらい)に悩(なや)んでいる。",
+        "translations": {
+          "EN": "I'm worried about the future.",
+          "ID": "Saya khawatir tentang masa depan.",
+          "ES": "Estoy preocupado por el futuro.",
+          "VI": "Tôi lo lắng về tương lai.",
+          "FR": "Je suis inquiet pour l'avenir.",
+          "NE": "मलाई भविष्यको चिन्ता छ।",
+          "BN": "আমি ভবিষ্যৎ নিয়ে চিন্তিত।",
+          "ZH": "我对未来感到担忧。",
+          "KO": "미래에 고민하고 있다.",
+          "TL": "Nag-aalala ako sa hinaharap.",
+          "MY": "အနာဂတ်အတွက် စိတ်ပူတယ်။",
+          "HI": "मैं भविष्य को लेकर चिंतित हूं।",
+          "AR": "أنا قلق بشأن المستقبل.",
+          "FA": "من نگران آینده هستم."
+        }
+      },
+      {
+        "kanji": "仕事の問題に悩んでいる。",
+        "furigana": "仕事(しごと)の問題(もんだい)に悩(なや)んでいる。",
+        "translations": {
+          "EN": "I'm worried about work issues.",
+          "ID": "Saya khawatir tentang masalah pekerjaan.",
+          "ES": "Estoy preocupado por cuestiones laborales.",
+          "VI": "Tôi lo lắng về vấn đề công việc.",
+          "FR": "Je suis inquiet au sujet des problèmes de travail.",
+          "NE": "म कामको समस्याले चिन्तित छु।",
+          "BN": "আমি কাজের সমস্যা নিয়ে চিন্তিত।",
+          "ZH": "我担心工作问题。",
+          "KO": "일 문제로 고민하고 있다.",
+          "TL": "Nag-aalala ako tungkol sa mga isyu sa trabaho.",
+          "MY": "အလုပ်ကိစ္စတွေအတွက် စိတ်ပူတယ်။",
+          "HI": "मैं काम से जुड़ी समस्याओं को लेकर चिंतित हूं।",
+          "AR": "أنا قلق بشأن مشاكل العمل.",
+          "FA": "نگران مسائل کاری هستم."
+        }
+      },
+      {
+        "kanji": "病気で悩んでいる友だちがいる。",
+        "furigana": "病気(びょうき)で悩(なや)んでいる友(とも)だちがいる。",
+        "translations": {
+          "EN": "I have a friend who is suffering from an illness.",
+          "ID": "Saya punya teman yang sedang menderita suatu penyakit.",
+          "ES": "Tengo un amigo que sufre de una enfermedad.",
+          "VI": "Tôi có một người bạn đang mắc bệnh.",
+          "FR": "J'ai un ami qui souffre d'une maladie.",
+          "NE": "मेरो एउटा साथी छ जो रोगबाट पीडित छ।",
+          "BN": "আমার এক বন্ধু আছে যে অসুস্থতায় ভুগছে।",
+          "ZH": "我有一个朋友，他正遭受疾病的折磨。",
+          "KO": "병으로 고민하고 있는 친구가 있다.",
+          "TL": "Mayroon akong isang kaibigan na dumaranas ng karamdaman.",
+          "MY": "ငါ့မှာ ရောဂါဝေဒနာ ခံစားနေရတဲ့ သူငယ်ချင်းတစ်ယောက်ရှိတယ်။",
+          "HI": "मेरा एक मित्र है जो बीमारी से पीड़ित है।",
+          "AR": "عندي صديق يعاني من مرض.",
+          "FA": "من دوستی دارم که از یک بیماری رنج می‌برد."
+        }
+      },
+      {
+        "kanji": "人間関係で悩むことがある。",
+        "furigana": "人間関係(にんげんかんけい)で悩(なや)むことがある。",
+        "translations": {
+          "EN": "I sometimes have trouble with relationships.",
+          "ID": "Terkadang saya memiliki masalah dalam hubungan.",
+          "ES": "A veces tengo problemas con las relaciones.",
+          "VI": "Đôi khi tôi gặp rắc rối trong các mối quan hệ.",
+          "FR": "J'ai parfois des problèmes dans mes relations.",
+          "NE": "मलाई कहिलेकाहीँ सम्बन्धहरूमा समस्या हुन्छ।",
+          "BN": "আমার মাঝে মাঝে সম্পর্ক নিয়ে সমস্যা হয়।",
+          "ZH": "我有时会遇到人际关系问题。",
+          "KO": "인간 관계로 고민하는 일이 있다.",
+          "TL": "Minsan nahihirapan ako sa mga relasyon.",
+          "MY": "တစ်ခါတလေမှာ ဆက်ဆံရေးမှာ အခက်အခဲရှိတယ်။",
+          "HI": "मुझे कभी-कभी रिश्तों को लेकर परेशानी होती है।",
+          "AR": "أواجه أحيانًا مشاكل في العلاقات.",
+          "FA": "من گاهی اوقات در روابطم مشکل دارم."
+        }
+      },
+      {
+        "kanji": "自分の性格に悩んでいる。",
+        "furigana": "自分(じぶん)の性格(せいかく)に悩(なや)んでいる。",
+        "translations": {
+          "EN": "I'm worried about my personality.",
+          "ID": "Aku khawatir dengan kepribadianku.",
+          "ES": "Estoy preocupado por mi personalidad.",
+          "VI": "Tôi lo lắng về tính cách của mình.",
+          "FR": "Je m'inquiète pour ma personnalité.",
+          "NE": "मलाई मेरो व्यक्तित्वको बारेमा चिन्ता छ।",
+          "BN": "আমি আমার ব্যক্তিত্ব নিয়ে চিন্তিত।",
+          "ZH": "我担心我的性格。",
+          "KO": "자신의 성격에 고민하고 있다.",
+          "TL": "Nag-aalala ako sa pagkatao ko.",
+          "MY": "ငါ့ကိုယ်ရည်ကိုယ်သွေးအတွက် ငါစိတ်ပူတယ်။",
+          "HI": "मैं अपने व्यक्तित्व को लेकर चिंतित हूं।",
+          "AR": "أنا قلق بشأن شخصيتي.",
+          "FA": "نگران شخصیت خودم هستم."
+        }
+      },
+      {
+        "kanji": "悩みを友達に話した。",
+        "furigana": "悩(なや)みを友達(ともだち)に話(はな)した。",
+        "translations": {
+          "EN": "I told my friends about my worries.",
+          "ID": "Aku menceritakan kekhawatiranku kepada teman-temanku.",
+          "ES": "Les conté a mis amigos sobre mis preocupaciones.",
+          "VI": "Tôi kể với bạn bè về nỗi lo lắng của mình.",
+          "FR": "J'ai parlé de mes inquiétudes à mes amis.",
+          "NE": "मैले मेरा साथीहरूलाई मेरो चिन्ताको बारेमा बताएँ।",
+          "BN": "আমি আমার বন্ধুদের আমার উদ্বেগের কথা বললাম।",
+          "ZH": "我向朋友们诉说了我的担忧。",
+          "KO": "고민을 친구에게 말했다.",
+          "TL": "Sinabi ko sa aking mga kaibigan ang tungkol sa aking mga alalahanin.",
+          "MY": "ငါ့ရဲ့စိုးရိမ်မှုတွေအကြောင်း ငါ့သူငယ်ချင်းတွေကို ပြောပြတယ်။",
+          "HI": "मैंने अपने दोस्तों को अपनी चिंताओं के बारे में बताया।",
+          "AR": "لقد أخبرت أصدقائي عن مخاوفي.",
+          "FA": "نگرانی‌هایم را به دوستانم گفتم."
+        }
+      }
+    ],
+    "meaning_translations": {
+      "to be worried": {
+        "ID": "merasa khawatir",
+        "ES": "estar preocupado",
+        "VI": "lo lắng",
+        "FR": "être inquiet",
+        "NE": "चिन्तित हुनु",
+        "BN": "চিন্তিত হওয়া",
+        "ZH": "担心",
+        "KO": "걱정하다",
+        "TL": "mag-alala",
+        "MY": "စိုးရိမ်စရာ",
+        "HI": "घबरा जाना",
+        "AR": "أن تكون قلقا",
+        "FA": "نگران بودن",
+        "EN": [
+          "to be troubled"
+        ]
+      }
+    }
+  },
+  "jisho_data": {
+    "slug": "悩む",
+    "is_common": true,
+    "tags": [
+      "wanikani27"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "悩む",
+        "reading": "なやむ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to be worried",
+          "to be troubled"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'mu' ending",
+          "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "悩"
+  ],
+  "kanji_data": {
+    "悩": {
+      "freq_mainichi_shinbun": 1084,
+      "grade": 8,
+      "heisig_en": "trouble",
+      "jlpt": 2,
+      "kanji": "悩",
+      "kun_readings": [
+        "なや.ましい",
+        "なや.ます",
+        "なや.む",
+        "なやみ"
+      ],
+      "meanings": [
+        "distress",
+        "illness",
+        "in pain",
+        "trouble",
+        "worry"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "ノウ"
+      ],
+      "stroke_count": 10,
+      "unicode": "60A9"
+    }
+  },
+  "collocations": [
+    "将来に悩む",
+    "問題に悩む",
+    "病気で悩む",
+    "人間関係で悩む",
+    "自分の性格に悩む",
+    "深刻な悩み",
+    "日常的な悩み",
+    "小さな悩み",
+    "長年の悩み",
+    "心の悩み",
+    "悩みの種",
+    "悩み相談",
+    "悩み解消",
+    "悩み事",
+    "悩み多き",
+    "悩みを抱える",
+    "悩みを聞く",
+    "悩みを話す",
+    "悩みを共有する",
+    "悩みを打ち明ける"
+  ]
+}

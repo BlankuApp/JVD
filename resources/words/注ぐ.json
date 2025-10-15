@@ -1,411 +1,430 @@
 {
-    "version": "0.2.0",
-    "word": "注ぐ",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/8GTH7Hq8RnU",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "注ぐ",
-        "reading": "そそぐ",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is \"そそぐ\" which you will often hear in contexts such as cooking, when serving drinks, or when talking about dedicating effort to a project.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"そそぐ\" means to pour liquid from one container to another. It can also imply the act of focusing great effort or attention on something, much like you pour energy into a task.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "to pour"
-            ],
-            [
-                "to sprinkle on",
-                "to water",
-                "to pour onto",
-                "to spray"
-            ],
-            [
-                "to shed"
-            ],
-            [
-                "to devote to",
-                "to fix on"
-            ],
-            [
-                "to flow into",
-                "to run into",
-                "to drain into"
-            ],
-            [
-                "to fall",
-                "to pour down"
-            ]
-        ],
-        "meaning_translations": {
-            "to pour": {
-                "EN": "to pour",
-                "ID": "menuang",
-                "ES": "verter",
-                "VI": "đổ",
-                "FR": "verser",
-                "NE": "खोल्न",
-                "BN": "ঢালা",
-                "ZH": "倒",
-                "KO": "붓다",
-                "TL": "ibuhos",
-                "MY": "ရေချိန်သည်",
-                "HI": "ढालना",
-                "AR": "يصب",
-                "FA": "ریختن"
-            },
-            "to sprinkle on": {
-                "EN": "to sprinkle on",
-                "ID": "menaburkan",
-                "ES": "espolvorear",
-                "VI": "rắc lên",
-                "FR": "saupoudrer dessus",
-                "NE": "छर्कनु",
-                "BN": "ছিটানো",
-                "ZH": "洒在...上",
-                "KO": "뿌리다",
-                "TL": "magdilig",
-                "MY": "ဆေးထိုး",
-                "HI": "छिड़कना",
-                "AR": "للرش عليه",
-                "FA": "پاشیدن روی"
-            },
-            "to shed": {
-                "EN": "注ぐ (Sosogu) means 'to shed' in English.",
-                "ID": "注ぐ (Sosogu) dalam bahasa Inggris berarti 'menumpahkan'.",
-                "ES": "注ぐ significa 'verter' en inglés.",
-                "VI": "注ぐ có nghĩa là 'đổ' trong tiếng Anh.",
-                "FR": "注ぐ (Sosogu) signifie 'verser' en Anglais.",
-                "NE": "注ぐ को अंग्रेजीमा 'खसाल्नु' भन्ने अर्थमा प्रयोग गरिएको छ।",
-                "BN": "注ぐ শব্দটির ইংরেজিতে অর্থ হল 'ঢালা'।",
-                "ZH": "注ぐ 在英语中的意思是 '倾泻'。",
-                "KO": "注ぐ는 영어로 '흘리다'를 의미합니다.",
-                "TL": "Ang 注ぐ (Sosogu) sa Ingles ay nangangahulugang 'ibuhos'.",
-                "MY": "注ぐ အဂ်လိပ်လိုဆိုရင် 'ချ မိ ထား' ဆို ဆိုလိုတာပါ။",
-                "HI": "注ぐ का अंग्रेजी में अर्थ 'गिराना' होता है।",
-                "AR": "注ぐ تعني بالإنجليزية 'يسكب'.",
-                "FA": "注ぐ به معنای 'ریختن' در زبان انگلیسی است."
-            },
-            "to devote to": {
-                "EN": "to devote to",
-                "ID": "mengerahkan",
-                "ES": "dedicar a",
-                "VI": "tận tụy với",
-                "FR": "consacrer à",
-                "NE": "समर्पित हुनु",
-                "BN": "উত্সর্গ করা",
-                "ZH": "献给",
-                "KO": "쏟다",
-                "TL": "ialay sa",
-                "MY": "ဆန္ဒပြုသည်",
-                "HI": "समर्पित करना",
-                "AR": "تكريس لـ",
-                "FA": "صرف کردن"
-            },
-            "to flow into": {
-                "EN": "to flow into",
-                "ID": "mengalir ke",
-                "ES": "fluir hacia",
-                "VI": "chảy vào",
-                "FR": "se déverser dans",
-                "NE": "पस्न पुग्नु",
-                "BN": "প্রবেশ করা",
-                "ZH": "流入",
-                "KO": "흘러들어가다",
-                "TL": "dumaloy sa",
-                "MY": "ကြောင့်ထဲသို့စီးဆင်းသည်",
-                "HI": "में बहना",
-                "AR": "التدفق في",
-                "FA": "ریختن در"
-            },
-            "to fall": {
-                "EN": "to pour/to flow/to fall (context-dependent)",
-                "ID": "menuangkan",
-                "ES": "verter",
-                "VI": "rót",
-                "FR": "verser",
-                "NE": "पसाउनु",
-                "BN": "ঢালা",
-                "ZH": "淌",
-                "KO": "붓다",
-                "TL": "ibuhos",
-                "MY": "သုတ်င်",
-                "HI": "डालना",
-                "AR": "يصب",
-                "FA": "ریختن"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "花に水を注ぐ。",
-                "furigana": "花(はな)に水(みず)を注(そそ)ぐ。",
-                "translations": {
-                    "EN": "I water the flowers.",
-                    "ID": "Saya menyiram bunga.",
-                    "ES": "Riego las flores.",
-                    "VI": "Tôi tưới hoa.",
-                    "FR": "J'arrose les fleurs.",
-                    "NE": "म फूलहरूमा पानी हाल्छु।",
-                    "BN": "আমি ফুলে জল দিই।",
-                    "ZH": "我给花浇水。",
-                    "KO": "꽃에 물을 줍니다.",
-                    "TL": "Dinidiligan ko ang mga bulaklak.",
-                    "MY": "ပန်းများကိုရေသွင်းပါ။",
-                    "HI": "मैं फूलों में पानी डालता हूँ।",
-                    "AR": "أقوم بري الأزهار.",
-                    "FA": "به گل‌ها آب می‌دهم."
-                }
-            },
-            {
-                "kanji": "母は子供に愛情を注ぐ。",
-                "furigana": "母(はは)は子供(こども)に愛情(あいじょう)を注(そそ)ぐ。",
-                "translations": {
-                    "EN": "The mother pours love into her child.",
-                    "ID": "Ibu mencurahkan kasih sayang kepada anaknya.",
-                    "ES": "La madre vierte amor en su hijo.",
-                    "VI": "Người mẹ đổ đầy tình yêu thương vào con mình.",
-                    "FR": "La mère verse de l'amour dans son enfant.",
-                    "NE": "आमाले आफ्ना बच्चामा माया पोख्नुहुन्छ।",
-                    "BN": "মা তার সন্তানের প্রতি ভালোবাসা ঢেলে দেন।",
-                    "ZH": "母亲倾注爱于孩子。",
-                    "KO": "어머니는 아이에게 애정을 쏟습니다.",
-                    "TL": "Ang ina ay nagbubuhos ng pagmamahal sa kanyang anak.",
-                    "MY": "အမေသည် သားသမီးကို မေတ္တာအပြည့်အဝ သော့တင်သည်။",
-                    "HI": "मां अपने बच्चे पर प्यार लुटाती है।",
-                    "AR": "الأم تمنح حبها لولدها.",
-                    "FA": "مادر به فرزندش عشق می‌ورزد."
-                }
-            },
-            {
-                "kanji": "彼はコーヒーを注ぐ。",
-                "furigana": "彼(かれ)はコーヒーを注(そそ)ぐ。",
-                "translations": {
-                    "EN": "He pours coffee.",
-                    "ID": "Dia menuangkan kopi.",
-                    "ES": "Él sirve café.",
-                    "VI": "Anh ấy rót cà phê.",
-                    "FR": "Il verse du café.",
-                    "NE": "ऊ कफी खन्याउँछ।",
-                    "BN": "তিনি কফি ঢালেন।",
-                    "ZH": "他倒咖啡。",
-                    "KO": "그는 커피를 따른다.",
-                    "TL": "Nagbubuhos siya ng kape.",
-                    "MY": "သူသည်ကော်ဖီထည့်သည်။",
-                    "HI": "वह कॉफी डालता है।",
-                    "AR": "هو يصب القهوة.",
-                    "FA": "او قهوه می‌ریزد."
-                }
-            },
-            {
-                "kanji": "彼は仕事に心を注ぎ込みます。",
-                "furigana": "彼(かれ)は仕事(しごと)に心(こころ)を注(そそ)ぎ込み(こ)ます。",
-                "translations": {
-                    "EN": "He pours his heart into his work.",
-                    "ID": "Dia mencurahkan hatinya dalam pekerjaannya.",
-                    "ES": "Él pone su corazón en su trabajo.",
-                    "VI": "Anh ấy dốc lòng vào công việc của mình.",
-                    "FR": "Il met tout son cœur dans son travail.",
-                    "NE": "उसले आफ्नो काममा मन समर्पण गर्छ।",
-                    "BN": "সে তার কাজে মন ঢেলে দেয়।",
-                    "ZH": "他把心投入到工作中。",
-                    "KO": "그는 일에 마음을 쏟습니다.",
-                    "TL": "Ibinuhos niya ang puso niya sa trabaho niya.",
-                    "MY": "သူ နှလုံးသားကို နစ်နာမှုရှိစွာ အလုပ်ဆောင်ကြ。でも",
-                    "HI": "वह अपने काम में दिल लगता है।",
-                    "AR": "يصب قلبه في عمله.",
-                    "FA": "او قلبش را در کارش می‌ریزد."
-                }
-            },
-            {
-                "kanji": "彼は仕事に情熱を注ぐ。",
-                "furigana": "彼（かれ）は仕事（しごと）に情熱（じょうねつ）を注（そそ）ぐ。",
-                "translations": {
-                    "EN": "He pours passion into his work.",
-                    "ID": "Dia menuangkan semangat ke dalam pekerjaannya.",
-                    "ES": "Él pone pasión en su trabajo.",
-                    "VI": "Anh ấy dồn niềm đam mê vào công việc của mình.",
-                    "FR": "Il met de la passion dans son travail.",
-                    "NE": "उनी काममा जोश राख्छन्।",
-                    "BN": "সে তার কাজের মধ্যে উদ্যম ঢালে।",
-                    "ZH": "他将激情投入工作中。",
-                    "KO": "그는 일에 열정을 쏟는다.",
-                    "TL": "Nagbuhos siya ng pagnanasa sa kanyang trabaho.",
-                    "MY": "သူ့အလုပ်ကို စိတ်အားထက်သန်စွာ ဝင်စားသည်။",
-                    "HI": "वह अपने काम में जुनून डालता है।",
-                    "AR": "يصب شغفه في عمله.",
-                    "FA": "او به کارش با اشتیاق می‌پردازد."
-                }
-            }
-        ],
-        "synonyms": [
-            "流す : ながす : to drain"
-        ],
-        "synonyms_explanation": "The most common synonyms of the \"そそぐ\" are \"ちゅうぐ\" and \"ながす.\" \"ちゅうぐ\" is also used for pouring but can be more formal and less common. \"ながす\" often refers to letting liquid flow and can imply more volume or intensity.",
-        "antonyms": [
-            "受ける : うける : to receive",
-            "溜める : ためる : to amass"
-        ],
-        "antonyms_explanation": "The most common antonyms of the \"そそぐ\" are \"うける\" and \"ためる.\" \"うける\" implies receiving something rather than pouring or giving, while \"ためる\" involves accumulating or retaining rather than releasing or directing.",
-        "kanji_details": [
-            {
-                "kanji": "注",
-                "common_words": [
-                    "注目: notice",
-                    "注意: attention"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "注ぐ",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "注ぐ",
-                "reading": "そそぐ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "to pour"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'gu' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to sprinkle on",
-                    "to water",
-                    "to pour onto",
-                    "to spray"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'gu' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to shed"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'gu' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to devote to",
-                    "to fix on"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'gu' ending, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to flow into",
-                    "to run into",
-                    "to drain into"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'gu' ending, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to fall",
-                    "to pour down"
-                ],
-                "parts_of_speech": [
-                    "Godan verb with 'gu' ending, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "注"
+  "version": "0.3.0",
+  "word": "注ぐ",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/8GTH7Hq8RnU",
+  "in_db": true,
+  "kanji": "注ぐ",
+  "reading": "そそぐ",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is \"そそぐ\" which you will often hear in contexts such as cooking, when serving drinks, or when talking about dedicating effort to a project.",
+  "meanings": [
+    [
+      "to pour"
     ],
-    "kanji_data": {
-        "注": {
-            "meanings": [
-                "annotate",
-                "comment",
-                "concentrate on",
-                "flow into",
-                "irrigate",
-                "notes",
-                "pour",
-                "shed (tears)"
-            ],
-            "on_readings": [
-                "チュウ"
-            ],
-            "kun_readings": [
-                "さ.す",
-                "そそ.ぐ",
-                "つ.ぐ"
-            ],
-            "stroke_count": 8,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 497,
-            "unicode": "6CE8",
-            "grade": 3
-        }
-    },
-    "collocations": [
-        "水をそそぐ",
-        "愛情をそそぐ",
-        "コーヒーをそそぐ",
-        "心をそそぎ込む",
-        "仕事にそそぐ"
+    [
+      "to sprinkle on",
+      "to water",
+      "to pour onto",
+      "to spray"
+    ],
+    [
+      "to shed"
+    ],
+    [
+      "to devote to",
+      "to fix on"
+    ],
+    [
+      "to flow into",
+      "to run into",
+      "to drain into"
+    ],
+    [
+      "to fall",
+      "to pour down"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"そそぐ\" means to pour liquid from one container to another. It can also imply the act of focusing great effort or attention on something, much like you pour energy into a task.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "注",
+      "common_words": [
+        "注目: notice",
+        "注意: attention"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "流す : ながす : to drain"
+  ],
+  "synonym_explanation": "The most common synonyms of the \"そそぐ\" are \"ちゅうぐ\" and \"ながす.\" \"ちゅうぐ\" is also used for pouring but can be more formal and less common. \"ながす\" often refers to letting liquid flow and can imply more volume or intensity.",
+  "antonyms": [
+    "受ける : うける : to receive",
+    "溜める : ためる : to amass"
+  ],
+  "antonym_explanation": "The most common antonyms of the \"そそぐ\" are \"うける\" and \"ためる.\" \"うける\" implies receiving something rather than pouring or giving, while \"ためる\" involves accumulating or retaining rather than releasing or directing.",
+  "collocations": [
+    {
+      "kanji": "水をそそぐ",
+      "furigana": "水をそそぐ",
+      "translations": {}
+    },
+    {
+      "kanji": "愛情をそそぐ",
+      "furigana": "愛情をそそぐ",
+      "translations": {}
+    },
+    {
+      "kanji": "コーヒーをそそぐ",
+      "furigana": "コーヒーをそそぐ",
+      "translations": {}
+    },
+    {
+      "kanji": "心をそそぎ込む",
+      "furigana": "心をそそぎ込む",
+      "translations": {}
+    },
+    {
+      "kanji": "仕事にそそぐ",
+      "furigana": "仕事にそそぐ",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "花に水を注ぐ。",
+      "furigana": "花(はな)に水(みず)を注(そそ)ぐ。",
+      "translations": {
+        "EN": "I water the flowers.",
+        "ID": "Saya menyiram bunga.",
+        "ES": "Riego las flores.",
+        "VI": "Tôi tưới hoa.",
+        "FR": "J'arrose les fleurs.",
+        "NE": "म फूलहरूमा पानी हाल्छु।",
+        "BN": "আমি ফুলে জল দিই।",
+        "ZH": "我给花浇水。",
+        "KO": "꽃에 물을 줍니다.",
+        "TL": "Dinidiligan ko ang mga bulaklak.",
+        "MY": "ပန်းများကိုရေသွင်းပါ။",
+        "HI": "मैं फूलों में पानी डालता हूँ।",
+        "AR": "أقوم بري الأزهار.",
+        "FA": "به گل‌ها آب می‌دهم."
+      }
+    },
+    {
+      "kanji": "母は子供に愛情を注ぐ。",
+      "furigana": "母(はは)は子供(こども)に愛情(あいじょう)を注(そそ)ぐ。",
+      "translations": {
+        "EN": "The mother pours love into her child.",
+        "ID": "Ibu mencurahkan kasih sayang kepada anaknya.",
+        "ES": "La madre vierte amor en su hijo.",
+        "VI": "Người mẹ đổ đầy tình yêu thương vào con mình.",
+        "FR": "La mère verse de l'amour dans son enfant.",
+        "NE": "आमाले आफ्ना बच्चामा माया पोख्नुहुन्छ।",
+        "BN": "মা তার সন্তানের প্রতি ভালোবাসা ঢেলে দেন।",
+        "ZH": "母亲倾注爱于孩子。",
+        "KO": "어머니는 아이에게 애정을 쏟습니다.",
+        "TL": "Ang ina ay nagbubuhos ng pagmamahal sa kanyang anak.",
+        "MY": "အမေသည် သားသမီးကို မေတ္တာအပြည့်အဝ သော့တင်သည်။",
+        "HI": "मां अपने बच्चे पर प्यार लुटाती है।",
+        "AR": "الأم تمنح حبها لولدها.",
+        "FA": "مادر به فرزندش عشق می‌ورزد."
+      }
+    },
+    {
+      "kanji": "彼はコーヒーを注ぐ。",
+      "furigana": "彼(かれ)はコーヒーを注(そそ)ぐ。",
+      "translations": {
+        "EN": "He pours coffee.",
+        "ID": "Dia menuangkan kopi.",
+        "ES": "Él sirve café.",
+        "VI": "Anh ấy rót cà phê.",
+        "FR": "Il verse du café.",
+        "NE": "ऊ कफी खन्याउँछ।",
+        "BN": "তিনি কফি ঢালেন।",
+        "ZH": "他倒咖啡。",
+        "KO": "그는 커피를 따른다.",
+        "TL": "Nagbubuhos siya ng kape.",
+        "MY": "သူသည်ကော်ဖီထည့်သည်။",
+        "HI": "वह कॉफी डालता है।",
+        "AR": "هو يصب القهوة.",
+        "FA": "او قهوه می‌ریزد."
+      }
+    },
+    {
+      "kanji": "彼は仕事に心を注ぎ込みます。",
+      "furigana": "彼(かれ)は仕事(しごと)に心(こころ)を注(そそ)ぎ込み(こ)ます。",
+      "translations": {
+        "EN": "He pours his heart into his work.",
+        "ID": "Dia mencurahkan hatinya dalam pekerjaannya.",
+        "ES": "Él pone su corazón en su trabajo.",
+        "VI": "Anh ấy dốc lòng vào công việc của mình.",
+        "FR": "Il met tout son cœur dans son travail.",
+        "NE": "उसले आफ्नो काममा मन समर्पण गर्छ।",
+        "BN": "সে তার কাজে মন ঢেলে দেয়।",
+        "ZH": "他把心投入到工作中。",
+        "KO": "그는 일에 마음을 쏟습니다.",
+        "TL": "Ibinuhos niya ang puso niya sa trabaho niya.",
+        "MY": "သူ နှလုံးသားကို နစ်နာမှုရှိစွာ အလုပ်ဆောင်ကြ。でも",
+        "HI": "वह अपने काम में दिल लगता है।",
+        "AR": "يصب قلبه في عمله.",
+        "FA": "او قلبش را در کارش می‌ریزد."
+      }
+    },
+    {
+      "kanji": "彼は仕事に情熱を注ぐ。",
+      "furigana": "彼（かれ）は仕事（しごと）に情熱（じょうねつ）を注（そそ）ぐ。",
+      "translations": {
+        "EN": "He pours passion into his work.",
+        "ID": "Dia menuangkan semangat ke dalam pekerjaannya.",
+        "ES": "Él pone pasión en su trabajo.",
+        "VI": "Anh ấy dồn niềm đam mê vào công việc của mình.",
+        "FR": "Il met de la passion dans son travail.",
+        "NE": "उनी काममा जोश राख्छन्।",
+        "BN": "সে তার কাজের মধ্যে উদ্যম ঢালে।",
+        "ZH": "他将激情投入工作中。",
+        "KO": "그는 일에 열정을 쏟는다.",
+        "TL": "Nagbuhos siya ng pagnanasa sa kanyang trabaho.",
+        "MY": "သူ့အလုပ်ကို စိတ်အားထက်သန်စွာ ဝင်စားသည်။",
+        "HI": "वह अपने काम में जुनून डालता है।",
+        "AR": "يصب شغفه في عمله.",
+        "FA": "او به کارش با اشتیاق می‌پردازد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "to pour": {
+      "EN": "to pour",
+      "ID": "menuang",
+      "ES": "verter",
+      "VI": "đổ",
+      "FR": "verser",
+      "NE": "खोल्न",
+      "BN": "ঢালা",
+      "ZH": "倒",
+      "KO": "붓다",
+      "TL": "ibuhos",
+      "MY": "ရေချိန်သည်",
+      "HI": "ढालना",
+      "AR": "يصب",
+      "FA": "ریختن"
+    },
+    "to sprinkle on": {
+      "EN": "to sprinkle on",
+      "ID": "menaburkan",
+      "ES": "espolvorear",
+      "VI": "rắc lên",
+      "FR": "saupoudrer dessus",
+      "NE": "छर्कनु",
+      "BN": "ছিটানো",
+      "ZH": "洒在...上",
+      "KO": "뿌리다",
+      "TL": "magdilig",
+      "MY": "ဆေးထိုး",
+      "HI": "छिड़कना",
+      "AR": "للرش عليه",
+      "FA": "پاشیدن روی"
+    },
+    "to shed": {
+      "EN": "注ぐ (Sosogu) means 'to shed' in English.",
+      "ID": "注ぐ (Sosogu) dalam bahasa Inggris berarti 'menumpahkan'.",
+      "ES": "注ぐ significa 'verter' en inglés.",
+      "VI": "注ぐ có nghĩa là 'đổ' trong tiếng Anh.",
+      "FR": "注ぐ (Sosogu) signifie 'verser' en Anglais.",
+      "NE": "注ぐ को अंग्रेजीमा 'खसाल्नु' भन्ने अर्थमा प्रयोग गरिएको छ।",
+      "BN": "注ぐ শব্দটির ইংরেজিতে অর্থ হল 'ঢালা'।",
+      "ZH": "注ぐ 在英语中的意思是 '倾泻'。",
+      "KO": "注ぐ는 영어로 '흘리다'를 의미합니다.",
+      "TL": "Ang 注ぐ (Sosogu) sa Ingles ay nangangahulugang 'ibuhos'.",
+      "MY": "注ぐ အဂ်လိပ်လိုဆိုရင် 'ချ မိ ထား' ဆို ဆိုလိုတာပါ။",
+      "HI": "注ぐ का अंग्रेजी में अर्थ 'गिराना' होता है।",
+      "AR": "注ぐ تعني بالإنجليزية 'يسكب'.",
+      "FA": "注ぐ به معنای 'ریختن' در زبان انگلیسی است."
+    },
+    "to devote to": {
+      "EN": "to devote to",
+      "ID": "mengerahkan",
+      "ES": "dedicar a",
+      "VI": "tận tụy với",
+      "FR": "consacrer à",
+      "NE": "समर्पित हुनु",
+      "BN": "উত্সর্গ করা",
+      "ZH": "献给",
+      "KO": "쏟다",
+      "TL": "ialay sa",
+      "MY": "ဆန္ဒပြုသည်",
+      "HI": "समर्पित करना",
+      "AR": "تكريس لـ",
+      "FA": "صرف کردن"
+    },
+    "to flow into": {
+      "EN": "to flow into",
+      "ID": "mengalir ke",
+      "ES": "fluir hacia",
+      "VI": "chảy vào",
+      "FR": "se déverser dans",
+      "NE": "पस्न पुग्नु",
+      "BN": "প্রবেশ করা",
+      "ZH": "流入",
+      "KO": "흘러들어가다",
+      "TL": "dumaloy sa",
+      "MY": "ကြောင့်ထဲသို့စီးဆင်းသည်",
+      "HI": "में बहना",
+      "AR": "التدفق في",
+      "FA": "ریختن در"
+    },
+    "to fall": {
+      "EN": "to pour/to flow/to fall (context-dependent)",
+      "ID": "menuangkan",
+      "ES": "verter",
+      "VI": "rót",
+      "FR": "verser",
+      "NE": "पसाउनु",
+      "BN": "ঢালা",
+      "ZH": "淌",
+      "KO": "붓다",
+      "TL": "ibuhos",
+      "MY": "သုတ်င်",
+      "HI": "डालना",
+      "AR": "يصب",
+      "FA": "ریختن"
+    }
+  },
+  "jisho_data": {
+    "slug": "注ぐ",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "注ぐ",
+        "reading": "そそぐ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to pour"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'gu' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to sprinkle on",
+          "to water",
+          "to pour onto",
+          "to spray"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'gu' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to shed"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'gu' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to devote to",
+          "to fix on"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'gu' ending, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to flow into",
+          "to run into",
+          "to drain into"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'gu' ending, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to fall",
+          "to pour down"
+        ],
+        "parts_of_speech": [
+          "Godan verb with 'gu' ending, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "注"
+  ],
+  "kanji_data": {
+    "注": {
+      "meanings": [
+        "annotate",
+        "comment",
+        "concentrate on",
+        "flow into",
+        "irrigate",
+        "notes",
+        "pour",
+        "shed (tears)"
+      ],
+      "on_readings": [
+        "チュウ"
+      ],
+      "kun_readings": [
+        "さ.す",
+        "そそ.ぐ",
+        "つ.ぐ"
+      ],
+      "stroke_count": 8,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 497,
+      "unicode": "6CE8",
+      "grade": 3
+    }
+  }
 }

@@ -1,0 +1,532 @@
+{
+    "version": "0.3.0",
+    "word": "財産",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/Uq0i8FD-hrE",
+    "in_db": true,
+    "kanji": "財産",
+    "reading": "ざいさん",
+    "introduction_japanese": "財産は、くらしやビジネス、そうぞくの話でよく出てきます。家やお金、会社のものを話すときに使います。",
+    "introduction_english": "The noun ざいさん is common in daily life, business, and inheritance topics. We use it when talking about houses, money, and things a person or company owns.",
+    "meanings": [
+        [
+            "assets",
+            "property",
+            "estate",
+            "wealth",
+            "fortune"
+        ],
+        [
+            "belongings",
+            "possessions"
+        ],
+        [
+            "asset",
+            "treasure",
+            "resource"
+        ]
+    ],
+    "meaning_explanation_japanese": "お金、家、土地などの価値があるもののまとめ。人や会社が持っている大切なもの。ときどき目に見えない強みのこともさします。",
+    "meaning_explanation_english": "ざいさん means the valuable things you own, like money, a house, or land. It can also mean an important strength or benefit, even if it’s not physical.",
+    "youtube_description": "Learn ざいさん: what it means, how to use it for money, property, and “assets” in life. Simple examples and must‑know phrases for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "財",
+            "onyomi": [
+                "ザイ",
+                "サイ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "wealth",
+                "property",
+                "money"
+            ],
+            "common_words": [
+                "財政（ざいせい）：public finance",
+                "財布（さいふ）：wallet"
+            ]
+        },
+        {
+            "kanji": "産",
+            "onyomi": [
+                "サン"
+            ],
+            "kunyomi": [
+                "う-む",
+                "う-まれる"
+            ],
+            "meanings_english": [
+                "produce",
+                "give birth",
+                "industry"
+            ],
+            "common_words": [
+                "生産（せいさん）：production",
+                "出産（しゅっさん）：childbirth"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means wealth or money. It often shows up in words about finance and things of value. Think of ざいせい or さいふ to remember it. It feels like “money matters.” The second kanji means to produce or give birth. It appears in words about making things and industry. Remember it with せいさん or さんぎょう. It feels like “creating and output.”",
+    "synonyms": [
+        "資産 : しさん : assets",
+        "富 : とみ : wealth"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are しさん and とみ. しさん is more accounting-style and focuses on calculated assets. とみ is broader “wealth,” including richness in life, not just items.",
+    "antonyms": [
+        "負債 : ふさい : liabilities/debt"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ふさい. It means what you owe, the opposite side of what you own.",
+    "collocations": [
+        {
+            "kanji": "大きな財産",
+            "furigana": "大(おお)きな財産(ざいさん)",
+            "translations": {
+                "EN": "great fortune",
+                "ID": "keberuntungan besar",
+                "ES": "gran fortuna",
+                "VI": "vận may lớn",
+                "FR": "grande fortune",
+                "NE": "ठूलो भाग्य",
+                "BN": "মহান ভাগ্য",
+                "ZH": "好运",
+                "KO": "큰 재산",
+                "TL": "malaking kapalaran",
+                "MY": "မဟာကံကြမ္မာ",
+                "HI": "महान भाग्य",
+                "AR": "ثروة عظيمة",
+                "FA": "بخت بزرگ"
+            }
+        },
+        {
+            "kanji": "個人の財産",
+            "furigana": "個人(こじん)の財産(ざいさん)",
+            "translations": {
+                "EN": "personal property",
+                "ID": "milik pribadi",
+                "ES": "propiedad personal",
+                "VI": "tài sản cá nhân",
+                "FR": "biens personnels",
+                "NE": "व्यक्तिगत सम्पत्ति",
+                "BN": "ব্যক্তিগত সম্পত্তি",
+                "ZH": "动产",
+                "KO": "개인 재산",
+                "TL": "personal na ari-arian",
+                "MY": "ကိုယ်ပိုင်ဥစ္စာ",
+                "HI": "निजी संपत्ति",
+                "AR": "الممتلكات الشخصية",
+                "FA": "ملک شخصی"
+            }
+        },
+        {
+            "kanji": "家族の財産",
+            "furigana": "家族(かぞく)の財産(ざいさん)",
+            "translations": {
+                "EN": "family wealth",
+                "ID": "kekayaan keluarga",
+                "ES": "riqueza familiar",
+                "VI": "sự giàu có của gia đình",
+                "FR": "richesse familiale",
+                "NE": "पारिवारिक सम्पत्ति",
+                "BN": "পারিবারিক সম্পদ",
+                "ZH": "家族财富",
+                "KO": "가족의 재산",
+                "TL": "kayamanan ng pamilya",
+                "MY": "မိသားစုကြွယ်ဝမှု",
+                "HI": "पारिवारिक धन",
+                "AR": "ثروة العائلة",
+                "FA": "ثروت خانوادگی"
+            }
+        },
+        {
+            "kanji": "会社の財産",
+            "furigana": "会社(かいしゃ)の財産(ざいさん)",
+            "translations": {
+                "EN": "Company assets",
+                "ID": "Aset perusahaan",
+                "ES": "Activos de la empresa",
+                "VI": "Tài sản công ty",
+                "FR": "Actifs de l'entreprise",
+                "NE": "कम्पनीको सम्पत्ति",
+                "BN": "কোম্পানির সম্পদ",
+                "ZH": "公司资产",
+                "KO": "회사의 재산",
+                "TL": "Mga ari-arian ng kumpanya",
+                "MY": "ကုမ္ပဏီပိုင်ဆိုင်မှု",
+                "HI": "कंपनी की संपत्ति",
+                "AR": "أصول الشركة",
+                "FA": "دارایی‌های شرکت"
+            }
+        },
+        {
+            "kanji": "財産管理",
+            "furigana": "財産(ざいさん)管理(かんり)",
+            "translations": {
+                "EN": "Asset Management",
+                "ID": "Manajemen Aset",
+                "ES": "Gestión de activos",
+                "VI": "Quản lý tài sản",
+                "FR": "Gestion d'actifs",
+                "NE": "सम्पत्ति व्यवस्थापन",
+                "BN": "সম্পদ ব্যবস্থাপনা",
+                "ZH": "资产管理",
+                "KO": "재산 관리",
+                "TL": "Pamamahala ng Asset",
+                "MY": "ပိုင်ဆိုင်မှုဆိုင်ရာစီမံခန့်ခွဲခြင်း",
+                "HI": "परिसंपत्ति प्रबंधन",
+                "AR": "إدارة الأصول",
+                "FA": "مدیریت دارایی"
+            }
+        },
+        {
+            "kanji": "財産の一覧",
+            "furigana": "財産(ざいさん)の一覧(いちらん)",
+            "translations": {
+                "EN": "List of assets",
+                "ID": "Daftar aset",
+                "ES": "Lista de activos",
+                "VI": "Danh sách tài sản",
+                "FR": "Liste des actifs",
+                "NE": "सम्पत्तिहरूको सूची",
+                "BN": "সম্পদের তালিকা",
+                "ZH": "资产清单",
+                "KO": "재산 목록",
+                "TL": "Listahan ng mga asset",
+                "MY": "ပိုင်ဆိုင်မှုစာရင်း",
+                "HI": "परिसंपत्तियों की सूची",
+                "AR": "قائمة الأصول",
+                "FA": "فهرست دارایی‌ها"
+            }
+        },
+        {
+            "kanji": "財産と負債",
+            "furigana": "財産(ざいさん)と負債(ふさい)",
+            "translations": {
+                "EN": "Assets and Liabilities",
+                "ID": "Aset dan Kewajiban",
+                "ES": "Activos y pasivos",
+                "VI": "Tài sản và Nợ phải trả",
+                "FR": "Actifs et passifs",
+                "NE": "सम्पत्ति र दायित्वहरू",
+                "BN": "সম্পদ এবং দায়",
+                "ZH": "资产和负债",
+                "KO": "재산과 부채",
+                "TL": "Mga Asset at Pananagutan",
+                "MY": "ပိုင်ဆိုင်မှုနှင့် တာဝန်များ",
+                "HI": "संपत्ति और देताएं",
+                "AR": "الأصول والخصوم",
+                "FA": "دارایی‌ها و بدهی‌ها"
+            }
+        },
+        {
+            "kanji": "財産を守る",
+            "furigana": "財産(ざいさん)を守(まも)る",
+            "translations": {
+                "EN": "Protect your assets",
+                "ID": "Lindungi aset Anda",
+                "ES": "Proteja sus activos",
+                "VI": "Bảo vệ tài sản của bạn",
+                "FR": "Protégez vos actifs",
+                "NE": "आफ्नो सम्पत्ति सुरक्षित गर्नुहोस्",
+                "BN": "আপনার সম্পদ রক্ষা করুন",
+                "ZH": "保护您的资产",
+                "KO": "재산을 지키다",
+                "TL": "Protektahan ang iyong mga ari-arian",
+                "MY": "သင်၏ပိုင်ဆိုင်မှုများကိုကာကွယ်ပါ။",
+                "HI": "अपनी संपत्ति की सुरक्षा करें",
+                "AR": "حماية أصولك",
+                "FA": "از دارایی‌های خود محافظت کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は少しだけ財産があります。",
+            "furigana": "私(わたし)は少(すこ)しだけ財産(ざいさん)があり(ます)。",
+            "translations": {
+                "EN": "I have a little bit of wealth.",
+                "ID": "Saya memiliki sedikit kekayaan.",
+                "ES": "Tengo un poco de riqueza.",
+                "VI": "Tôi có một ít tiền.",
+                "FR": "J'ai un peu de richesse.",
+                "NE": "मसँग थोरै धन छ।",
+                "BN": "আমার কাছে সামান্য কিছু সম্পদ আছে।",
+                "ZH": "我有一点财富。",
+                "KO": "조금만 재산이 있습니다.",
+                "TL": "Mayroon akong kaunting yaman.",
+                "MY": "ငါ့မှာ ချမ်းသာမှုနည်းနည်းရှိတယ်။",
+                "HI": "मेरे पास थोड़ी सी संपत्ति है।",
+                "AR": "لدي القليل من الثروة.",
+                "FA": "من کمی ثروت دارم."
+            }
+        },
+        {
+            "kanji": "祖父の財産を兄と分けました。",
+            "furigana": "祖父(そふ)の財産(ざいさん)を兄(あに)と分(わ)けました。",
+            "translations": {
+                "EN": "I shared my grandfather's estate with my brother.",
+                "ID": "Aku membagi tanah milik kakekku dengan saudaraku.",
+                "ES": "Compartí la herencia de mi abuelo con mi hermano.",
+                "VI": "Tôi chia sẻ tài sản của ông nội với anh trai tôi.",
+                "FR": "J'ai partagé la succession de mon grand-père avec mon frère.",
+                "NE": "मैले मेरो हजुरबुबाको सम्पत्ति मेरो भाइसँग बाँडेर खाएँ।",
+                "BN": "আমি আমার দাদার সম্পত্তি আমার ভাইয়ের সাথে ভাগ করে নিয়েছিলাম।",
+                "ZH": "我与我的兄弟分享了我祖父的财产。",
+                "KO": "할아버지의 재산을 형으로 나누었습니다.",
+                "TL": "Ibinahagi ko ang ari-arian ng aking lolo sa aking kapatid.",
+                "MY": "အဘိုးရဲ့ ခြံမြေကို အစ်ကို့ကို မျှဝေခဲ့တယ်။",
+                "HI": "मैंने अपने दादा की संपत्ति अपने भाई के साथ साझा की।",
+                "AR": "لقد تقاسمت ممتلكات جدي مع أخي.",
+                "FA": "من دارایی پدربزرگم را با برادرم تقسیم کردم."
+            }
+        },
+        {
+            "kanji": "この家は私の大切な財産です。",
+            "furigana": "この家(いえ)は私(わたし)の大切(たいせつ)な財産(ざいさん)です。",
+            "translations": {
+                "EN": "This house is my most precious possession.",
+                "ID": "Rumah ini adalah harta saya yang paling berharga.",
+                "ES": "Esta casa es mi posesión más preciada.",
+                "VI": "Ngôi nhà này là tài sản quý giá nhất của tôi.",
+                "FR": "Cette maison est mon bien le plus précieux.",
+                "NE": "यो घर मेरो सबैभन्दा बहुमूल्य सम्पत्ति हो।",
+                "BN": "এই বাড়িটি আমার সবচেয়ে মূল্যবান সম্পত্তি।",
+                "ZH": "这房子是我最珍贵的财产。",
+                "KO": "이 집은 내 소중한 재산입니다.",
+                "TL": "Ang bahay na ito ang aking pinakamahalagang pag-aari.",
+                "MY": "ဤအိမ်သည် ကျွန်ုပ်၏ တန်ဖိုးအရှိဆုံး အပိုင်ဖြစ်သည်။",
+                "HI": "यह घर मेरी सबसे कीमती संपत्ति है।",
+                "AR": "هذا البيت هو أغلى ما أملك.",
+                "FA": "این خانه گرانبهاترین دارایی من است."
+            }
+        },
+        {
+            "kanji": "彼は事故で財産を失いました。",
+            "furigana": "彼(かれ)は事故(じこ)で財産(ざいさん)を失(うしな)いました。",
+            "translations": {
+                "EN": "He lost his fortune in an accident.",
+                "ID": "Dia kehilangan kekayaannya dalam suatu kecelakaan.",
+                "ES": "Perdió su fortuna en un accidente.",
+                "VI": "Ông ấy đã mất hết tài sản trong một vụ tai nạn.",
+                "FR": "Il a perdu sa fortune dans un accident.",
+                "NE": "दुर्घटनामा उनले आफ्नो सम्पत्ति गुमाए।",
+                "BN": "এক দুর্ঘটনায় সে তার সম্পদ হারিয়েছে।",
+                "ZH": "他在一次事故中失去了财产。",
+                "KO": "그는 사고로 재산을 잃었습니다.",
+                "TL": "Nawalan siya ng kapalaran sa isang aksidente.",
+                "MY": "မတော်တဆမှုတစ်ခုတွင် သူ၏ကံကြမ္မာကို ဆုံးရှုံးခဲ့သည်။",
+                "HI": "एक दुर्घटना में उसने अपना भाग्य खो दिया।",
+                "AR": "لقد فقد ثروته في حادث.",
+                "FA": "او ثروتش را در یک تصادف از دست داد."
+            }
+        },
+        {
+            "kanji": "私たちは子どもに財産を残します。",
+            "furigana": "私(わたし)たちは子(こ)どもに財産(ざいさん)を残(のこ)します。",
+            "translations": {
+                "EN": "We leave our inheritance to our children.",
+                "ID": "Kami mewariskan warisan kepada anak cucu kami.",
+                "ES": "Dejamos nuestra herencia a nuestros hijos.",
+                "VI": "Chúng ta để lại tài sản thừa kế cho con cháu.",
+                "FR": "Nous laissons notre héritage à nos enfants.",
+                "NE": "हामी हाम्रो उत्तराधिकार हाम्रा सन्तानलाई छोडेर जान्छौं।",
+                "BN": "আমরা আমাদের সন্তানদের জন্য আমাদের উত্তরাধিকার রেখে যাই।",
+                "ZH": "我们将遗产留给我们的孩子。",
+                "KO": "우리는 아이에게 재산을 남깁니다.",
+                "TL": "Iniiwan natin ang ating mana sa ating mga anak.",
+                "MY": "ငါတို့ရဲ့ အမွေကို ငါတို့ သားသမီးတွေဆီ ထားခဲ့မယ်။",
+                "HI": "हम अपनी विरासत अपने बच्चों के लिए छोड़ जाते हैं।",
+                "AR": "نترك ميراثنا لأطفالنا.",
+                "FA": "ما میراث خود را برای فرزندانمان به ارث می‌گذاریم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "aktiva",
+            "ES": "activos",
+            "VI": "tài sản",
+            "FR": "actifs",
+            "NE": "सम्पत्तिहरू",
+            "BN": "সম্পদ",
+            "ZH": "资产",
+            "KO": "자산",
+            "TL": "mga ari-arian",
+            "MY": "ပိုင်ဆိုင်မှု",
+            "HI": "संपत्ति",
+            "AR": "أصول",
+            "FA": "دارایی‌ها",
+            "EN": [
+                "assets",
+                "property",
+                "estate",
+                "wealth",
+                "fortune"
+            ]
+        },
+        {
+            "ID": "barang-barang milik",
+            "ES": "pertenencias",
+            "VI": "đồ đạc",
+            "FR": "affaires",
+            "NE": "सामानहरू",
+            "BN": "জিনিসপত্র",
+            "ZH": "财物",
+            "KO": "소지품",
+            "TL": "mga gamit",
+            "MY": "ဥစ္စာ",
+            "HI": "संपत्ति",
+            "AR": "متاع",
+            "FA": "متعلقات",
+            "EN": [
+                "belongings",
+                "possessions"
+            ]
+        },
+        {
+            "ID": "aset",
+            "ES": "activo",
+            "VI": "tài sản",
+            "FR": "actif",
+            "NE": "सम्पत्ति",
+            "BN": "সম্পদ",
+            "ZH": "资产",
+            "KO": "유산",
+            "TL": "asset",
+            "MY": "ပိုင်ဆိုင်မှု",
+            "HI": "संपत्ति",
+            "AR": "أصل",
+            "FA": "دارایی",
+            "EN": [
+                "asset",
+                "treasure",
+                "resource"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "財産",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "財産",
+                "reading": "ざいさん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "property",
+                    "fortune",
+                    "assets"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Estate (law)"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Estate (law)” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Estate_(law)?oldid=480239930"
+                    },
+                    {
+                        "text": "Read “財産” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/財産?oldid=42610515"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Estate_(law)"
+        }
+    },
+    "kanji_list": [
+        "財",
+        "産"
+    ],
+    "kanji_data": {
+        "財": {
+            "freq_mainichi_shinbun": 494,
+            "grade": 5,
+            "heisig_en": "property",
+            "jlpt": 3,
+            "kanji": "財",
+            "kun_readings": [
+                "たから"
+            ],
+            "meanings": [
+                "assets",
+                "money",
+                "property",
+                "wealth"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "サイ",
+                "ザイ",
+                "ゾク"
+            ],
+            "stroke_count": 10,
+            "unicode": "8CA1"
+        },
+        "産": {
+            "freq_mainichi_shinbun": 161,
+            "grade": 4,
+            "heisig_en": "products",
+            "jlpt": 3,
+            "kanji": "産",
+            "kun_readings": [
+                "う.まれる",
+                "う.む",
+                "うぶ-",
+                "む.す"
+            ],
+            "meanings": [
+                "bear",
+                "childbirth",
+                "give birth",
+                "native",
+                "products",
+                "property",
+                "yield"
+            ],
+            "name_readings": [
+                "もと"
+            ],
+            "notes": [],
+            "on_readings": [
+                "サン"
+            ],
+            "stroke_count": 11,
+            "unicode": "7523"
+        }
+    }
+}

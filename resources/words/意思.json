@@ -1,331 +1,414 @@
 {
-    "version": "0.2.0",
-    "word": "意思",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/cwRfZpOfG5U",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "意思",
-        "reading": "いし",
-        "introduction_japanese": "意思は、計画や決断、自分の考えや望みを伝えるとき、確認するとき、また他人の意向を尊重するときによく使う言葉です。",
-        "introduction_english": "The noun いし is commonly used when talking about plans, decisions, expressing what you want, confirming someone's intention, or respecting someone's will.",
-        "meanings": [
-            [
-                "intention",
-                "wish",
-                "purpose",
-                "mind (to do)"
-            ]
-        ],
-        "meaning_explanation_japanese": "「意思」は人が何をしたいか、どんなつもりかという心の向きや決まりごとを表す言葉です。例えば、やりたいことや決めたことを示すときに使います。",
-        "meaning_explanation_english": "The word いし means a person's intention, wish, purpose, or the will/mind to do something. You use it to show what someone wants or has decided to do.",
-        "kanji_explanation_english": "The first kanji means idea or mind. For example the word いみ uses this kanji to mean meaning. The word いがい uses this kanji to mean unexpected. The second kanji means think. For example the word おもう uses this kanji to mean to think. The word しこう uses this kanji to mean thought or thinking.",
-        "kanji_details": [
-            {
-                "kanji": "意",
-                "common_words": [
-                    "意味 (いみ): meaning",
-                    "意外 (いがい): unexpected"
-                ]
-            },
-            {
-                "kanji": "思",
-                "common_words": [
-                    "思う (おもう): to think",
-                    "思考 (しこう): thought, thinking"
-                ]
-            }
-        ],
-        "synonyms": [
-            "意志 : いし : will, volition",
-            "意向 : いこう : intention, inclination"
-        ],
-        "synonyms_explanation": "The most common synonyms of the いし are いし and いこう. いし (same reading but different nuance) tends to mean personal will or determination, while いこう focuses on a person's inclination or plan and is a bit more formal.",
-        "antonyms": [
-            "無関心 : むかんしん : indifference, lack of interest"
-        ],
-        "antonyms_explanation": "The most common antonym of the いし is むかんしん. むかんしん means not caring or having no interest, which is the opposite of having an intention or will.",
-        "examples": [
-            {
-                "kanji": "意思を伝える。",
-                "furigana": "意思(いし)を伝(つた)える。",
-                "translations": {
-                    "EN": "Communicate your intentions.",
-                    "ID": "Komunikasikan niat Anda.",
-                    "ES": "Comunica tus intenciones.",
-                    "VI": "Truyền đạt ý định của bạn.",
-                    "FR": "Communiquez vos intentions.",
-                    "NE": "आफ्नो मनसाय व्यक्त गर्नुहोस्।",
-                    "BN": "আপনার উদ্দেশ্যগুলো জানান।",
-                    "ZH": "传达你的意图。",
-                    "KO": "의사를 전한다.",
-                    "TL": "Ipahayag ang iyong mga intensyon.",
-                    "MY": "သင်၏ရည်ရွယ်ချက်များကိုဆက်သွယ်ပါ။",
-                    "HI": "अपने इरादे बताइये।",
-                    "AR": "تواصل بشأن نواياك.",
-                    "FA": "نیت خود را بیان کنید."
-                }
-            },
-            {
-                "kanji": "意思を示す。",
-                "furigana": "意思(いし)を示(しめ)す。",
-                "translations": {
-                    "EN": "Show your intentions.",
-                    "ID": "Tunjukkan niat Anda.",
-                    "ES": "Muestra tus intenciones.",
-                    "VI": "Thể hiện ý định của bạn.",
-                    "FR": "Montrez vos intentions.",
-                    "NE": "आफ्नो मनसाय देखाउनुहोस्।",
-                    "BN": "তোমার উদ্দেশ্য প্রকাশ করো।",
-                    "ZH": "表明你的意图。",
-                    "KO": "의사를 보여줍니다.",
-                    "TL": "Ipakita ang iyong mga intensyon.",
-                    "MY": "သင်၏ရည်ရွယ်ချက်များကိုပြသပါ။",
-                    "HI": "अपने इरादे दिखाओ.",
-                    "AR": "أظهر نواياك.",
-                    "FA": "نیت خود را نشان دهید."
-                }
-            },
-            {
-                "kanji": "意思を確認する。",
-                "furigana": "意思(いし)を確認(かくにん)する。",
-                "translations": {
-                    "EN": "Confirm your intentions.",
-                    "ID": "Konfirmasikan niat Anda.",
-                    "ES": "Confirma tus intenciones.",
-                    "VI": "Xác nhận ý định của bạn.",
-                    "FR": "Confirmez vos intentions.",
-                    "NE": "आफ्नो मनसाय पुष्टि गर्नुहोस्।",
-                    "BN": "আপনার উদ্দেশ্য নিশ্চিত করুন।",
-                    "ZH": "确认你的意图。",
-                    "KO": "의사를 확인합니다.",
-                    "TL": "Kumpirmahin ang iyong mga intensyon.",
-                    "MY": "သင်၏ရည်ရွယ်ချက်များကိုအတည်ပြုပါ။",
-                    "HI": "अपने इरादों की पुष्टि करें.",
-                    "AR": "تأكيد نواياك.",
-                    "FA": "نیت خود را تأیید کنید."
-                }
-            },
-            {
-                "kanji": "自分の意思を尊重する。",
-                "furigana": "自分(じぶん)の意思(いし)を尊重(そんちょう)する。",
-                "translations": {
-                    "EN": "Respect your own will.",
-                    "ID": "Hargai keinginanmu sendiri.",
-                    "ES": "Respeta tu propia voluntad.",
-                    "VI": "Tôn trọng ý muốn của chính mình.",
-                    "FR": "Respectez votre propre volonté.",
-                    "NE": "आफ्नो इच्छाको सम्मान गर्नुहोस्।",
-                    "BN": "নিজের ইচ্ছাকে সম্মান করো।",
-                    "ZH": "尊重自己的意愿。",
-                    "KO": "자신의 의사를 존중한다.",
-                    "TL": "Igalang ang iyong sariling kalooban.",
-                    "MY": "ကိုယ့်ဆန္ဒကို လေးစားပါ။",
-                    "HI": "अपनी इच्छा का सम्मान करें.",
-                    "AR": "احترم إرادتك الخاصة.",
-                    "FA": "به اراده خودت احترام بذار."
-                }
-            },
-            {
-                "kanji": "明確な意思を持つ。",
-                "furigana": "明確(めいかく)な意思(いし)を持(も)つ。",
-                "translations": {
-                    "EN": "Have a clear intention.",
-                    "ID": "Miliki niat yang jelas.",
-                    "ES": "Tenga una intención clara.",
-                    "VI": "Có ý định rõ ràng.",
-                    "FR": "Ayez une intention claire.",
-                    "NE": "स्पष्ट नियत राख्नुहोस्।",
-                    "BN": "স্পষ্ট উদ্দেশ্য রাখুন।",
-                    "ZH": "有明确的意图。",
-                    "KO": "명확한 의사를 가진다.",
-                    "TL": "Magkaroon ng malinaw na intensyon.",
-                    "MY": "ပြတ်သားတဲ့ ရည်ရွယ်ချက်ရှိပါစေ။",
-                    "HI": "स्पष्ट इरादा रखें.",
-                    "AR": "لديك نية واضحة.",
-                    "FA": "نیت واضح و روشنی داشته باشید."
-                }
-            },
-            {
-                "kanji": "意思決定を下す。",
-                "furigana": "意思決定(いしけってい)を下(くだ)す。",
-                "translations": {
-                    "EN": "Make decisions.",
-                    "ID": "Mengambil keputusan.",
-                    "ES": "Tomar decisiones.",
-                    "VI": "Đưa ra quyết định.",
-                    "FR": "Prendre des décisions.",
-                    "NE": "निर्णय लिनुहोस्।",
-                    "BN": "সিদ্ধান্ত নাও।",
-                    "ZH": "做出决定。",
-                    "KO": "의사 결정을 내린다.",
-                    "TL": "Gumawa ng mga desisyon.",
-                    "MY": "ဆုံးဖြတ်ချက်များချပါ။",
-                    "HI": "निर्णय ले।",
-                    "AR": "إتخاذ القرارات.",
-                    "FA": "تصمیماتی بگیرید."
-                }
-            },
-            {
-                "kanji": "彼は強い意思を見せた。",
-                "furigana": "彼(かれ)は強(つよ)い意思(いし)を見(み)せた。",
-                "translations": {
-                    "EN": "He showed strong will.",
-                    "ID": "Dia menunjukkan kemauan yang kuat.",
-                    "ES": "Demostró una fuerte voluntad.",
-                    "VI": "Ông ấy đã thể hiện ý chí mạnh mẽ.",
-                    "FR": "Il a fait preuve d'une forte volonté.",
-                    "NE": "उनले दृढ इच्छाशक्ति देखाए।",
-                    "BN": "তিনি দৃঢ় ইচ্ছাশক্তি প্রদর্শন করেছিলেন।",
-                    "ZH": "他表现出了坚强的意志。",
-                    "KO": "그는 강한 의사를 보였다.",
-                    "TL": "Nagpakita siya ng malakas na kalooban.",
-                    "MY": "ပြင်းပြသောဆန္ဒကိုပြသခဲ့သည်။",
-                    "HI": "उन्होंने दृढ़ इच्छाशक्ति दिखाई।",
-                    "AR": "لقد أظهر إرادة قوية.",
-                    "FA": "اراده قوی از خود نشان داد."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "intention": {
-                "ID": "maksud",
-                "ES": "intención",
-                "VI": "chủ đích",
-                "FR": "intention",
-                "NE": "नियत",
-                "BN": "উদ্দেশ্য",
-                "ZH": "意图",
-                "KO": "의도",
-                "TL": "intensyon",
-                "MY": "ရည်ရွယ်ချက်",
-                "HI": "इरादा",
-                "AR": "نيّة",
-                "FA": "نیت",
-                "EN": [
-                    "wish",
-                    "purpose",
-                    "mind (to do)"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "意思",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "意思",
-                "reading": "いし"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "intention",
-                    "wish",
-                    "purpose",
-                    "mind (to do)"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "意",
-        "思"
-    ],
-    "kanji_data": {
-        "意": {
-            "freq_mainichi_shinbun": 99,
-            "grade": 3,
-            "heisig_en": "idea",
-            "jlpt": 4,
-            "kanji": "意",
-            "kun_readings": [],
-            "meanings": [
-                "care",
-                "desire",
-                "heart",
-                "idea",
-                "liking",
-                "mind",
-                "taste",
-                "thought"
-            ],
-            "name_readings": [
-                "もと",
-                "よし"
-            ],
-            "notes": [],
-            "on_readings": [
-                "イ"
-            ],
-            "stroke_count": 13,
-            "unicode": "610F"
-        },
-        "思": {
-            "freq_mainichi_shinbun": 132,
-            "grade": 2,
-            "heisig_en": "think",
-            "jlpt": 4,
-            "kanji": "思",
-            "kun_readings": [
-                "おぼ.す",
-                "おも.う",
-                "おもえら.く"
-            ],
-            "meanings": [
-                "think"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "シ"
-            ],
-            "stroke_count": 9,
-            "unicode": "601D"
-        }
-    },
-    "collocations": [
-        "意思を伝える",
-        "意思を表示する",
-        "意思を示す",
-        "意思を確認する",
-        "意思を尊重する",
-        "明確な意思",
-        "強い意思",
-        "固い意思",
-        "自分の意思",
-        "自覚的な意思",
-        "意思表示",
-        "意思決定",
-        "意思疎通",
-        "意思表示書",
-        "意思表明書",
-        "意思確認",
-        "意思を固める",
-        "意思を曲げる",
-        "意思を持つ",
-        "意思表示を行う",
-        "意思決定を下す"
+  "version": "0.3.0",
+  "word": "意思",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/cwRfZpOfG5U",
+  "in_db": true,
+  "kanji": "意思",
+  "reading": "いし",
+  "introduction_japanese": "意思は、計画や決断、自分の考えや望みを伝えるとき、確認するとき、また他人の意向を尊重するときによく使う言葉です。",
+  "introduction_english": "The noun いし is commonly used when talking about plans, decisions, expressing what you want, confirming someone's intention, or respecting someone's will.",
+  "meanings": [
+    [
+      "intention",
+      "wish",
+      "purpose",
+      "mind (to do)"
     ]
+  ],
+  "meaning_explanation_japanese": "「意思」は人が何をしたいか、どんなつもりかという心の向きや決まりごとを表す言葉です。例えば、やりたいことや決めたことを示すときに使います。",
+  "meaning_explanation_english": "The word いし means a person's intention, wish, purpose, or the will/mind to do something. You use it to show what someone wants or has decided to do.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "意",
+      "common_words": [
+        "意味 (いみ): meaning",
+        "意外 (いがい): unexpected"
+      ]
+    },
+    {
+      "kanji": "思",
+      "common_words": [
+        "思う (おもう): to think",
+        "思考 (しこう): thought, thinking"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means idea or mind. For example the word いみ uses this kanji to mean meaning. The word いがい uses this kanji to mean unexpected. The second kanji means think. For example the word おもう uses this kanji to mean to think. The word しこう uses this kanji to mean thought or thinking.",
+  "synonyms": [
+    "意志 : いし : will, volition",
+    "意向 : いこう : intention, inclination"
+  ],
+  "synonym_explanation": "The most common synonyms of the いし are いし and いこう. いし (same reading but different nuance) tends to mean personal will or determination, while いこう focuses on a person's inclination or plan and is a bit more formal.",
+  "antonyms": [
+    "無関心 : むかんしん : indifference, lack of interest"
+  ],
+  "antonym_explanation": "The most common antonym of the いし is むかんしん. むかんしん means not caring or having no interest, which is the opposite of having an intention or will.",
+  "collocations": [
+    {
+      "kanji": "意思を伝える",
+      "furigana": "意思を伝える",
+      "translations": {}
+    },
+    {
+      "kanji": "意思を表示する",
+      "furigana": "意思を表示する",
+      "translations": {}
+    },
+    {
+      "kanji": "意思を示す",
+      "furigana": "意思を示す",
+      "translations": {}
+    },
+    {
+      "kanji": "意思を確認する",
+      "furigana": "意思を確認する",
+      "translations": {}
+    },
+    {
+      "kanji": "意思を尊重する",
+      "furigana": "意思を尊重する",
+      "translations": {}
+    },
+    {
+      "kanji": "明確な意思",
+      "furigana": "明確な意思",
+      "translations": {}
+    },
+    {
+      "kanji": "強い意思",
+      "furigana": "強い意思",
+      "translations": {}
+    },
+    {
+      "kanji": "固い意思",
+      "furigana": "固い意思",
+      "translations": {}
+    },
+    {
+      "kanji": "自分の意思",
+      "furigana": "自分の意思",
+      "translations": {}
+    },
+    {
+      "kanji": "自覚的な意思",
+      "furigana": "自覚的な意思",
+      "translations": {}
+    },
+    {
+      "kanji": "意思表示",
+      "furigana": "意思表示",
+      "translations": {}
+    },
+    {
+      "kanji": "意思決定",
+      "furigana": "意思決定",
+      "translations": {}
+    },
+    {
+      "kanji": "意思疎通",
+      "furigana": "意思疎通",
+      "translations": {}
+    },
+    {
+      "kanji": "意思表示書",
+      "furigana": "意思表示書",
+      "translations": {}
+    },
+    {
+      "kanji": "意思表明書",
+      "furigana": "意思表明書",
+      "translations": {}
+    },
+    {
+      "kanji": "意思確認",
+      "furigana": "意思確認",
+      "translations": {}
+    },
+    {
+      "kanji": "意思を固める",
+      "furigana": "意思を固める",
+      "translations": {}
+    },
+    {
+      "kanji": "意思を曲げる",
+      "furigana": "意思を曲げる",
+      "translations": {}
+    },
+    {
+      "kanji": "意思を持つ",
+      "furigana": "意思を持つ",
+      "translations": {}
+    },
+    {
+      "kanji": "意思表示を行う",
+      "furigana": "意思表示を行う",
+      "translations": {}
+    },
+    {
+      "kanji": "意思決定を下す",
+      "furigana": "意思決定を下す",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "意思を伝える。",
+      "furigana": "意思(いし)を伝(つた)える。",
+      "translations": {
+        "EN": "Communicate your intentions.",
+        "ID": "Komunikasikan niat Anda.",
+        "ES": "Comunica tus intenciones.",
+        "VI": "Truyền đạt ý định của bạn.",
+        "FR": "Communiquez vos intentions.",
+        "NE": "आफ्नो मनसाय व्यक्त गर्नुहोस्।",
+        "BN": "আপনার উদ্দেশ্যগুলো জানান।",
+        "ZH": "传达你的意图。",
+        "KO": "의사를 전한다.",
+        "TL": "Ipahayag ang iyong mga intensyon.",
+        "MY": "သင်၏ရည်ရွယ်ချက်များကိုဆက်သွယ်ပါ။",
+        "HI": "अपने इरादे बताइये।",
+        "AR": "تواصل بشأن نواياك.",
+        "FA": "نیت خود را بیان کنید."
+      }
+    },
+    {
+      "kanji": "意思を示す。",
+      "furigana": "意思(いし)を示(しめ)す。",
+      "translations": {
+        "EN": "Show your intentions.",
+        "ID": "Tunjukkan niat Anda.",
+        "ES": "Muestra tus intenciones.",
+        "VI": "Thể hiện ý định của bạn.",
+        "FR": "Montrez vos intentions.",
+        "NE": "आफ्नो मनसाय देखाउनुहोस्।",
+        "BN": "তোমার উদ্দেশ্য প্রকাশ করো।",
+        "ZH": "表明你的意图。",
+        "KO": "의사를 보여줍니다.",
+        "TL": "Ipakita ang iyong mga intensyon.",
+        "MY": "သင်၏ရည်ရွယ်ချက်များကိုပြသပါ။",
+        "HI": "अपने इरादे दिखाओ.",
+        "AR": "أظهر نواياك.",
+        "FA": "نیت خود را نشان دهید."
+      }
+    },
+    {
+      "kanji": "意思を確認する。",
+      "furigana": "意思(いし)を確認(かくにん)する。",
+      "translations": {
+        "EN": "Confirm your intentions.",
+        "ID": "Konfirmasikan niat Anda.",
+        "ES": "Confirma tus intenciones.",
+        "VI": "Xác nhận ý định của bạn.",
+        "FR": "Confirmez vos intentions.",
+        "NE": "आफ्नो मनसाय पुष्टि गर्नुहोस्।",
+        "BN": "আপনার উদ্দেশ্য নিশ্চিত করুন।",
+        "ZH": "确认你的意图。",
+        "KO": "의사를 확인합니다.",
+        "TL": "Kumpirmahin ang iyong mga intensyon.",
+        "MY": "သင်၏ရည်ရွယ်ချက်များကိုအတည်ပြုပါ။",
+        "HI": "अपने इरादों की पुष्टि करें.",
+        "AR": "تأكيد نواياك.",
+        "FA": "نیت خود را تأیید کنید."
+      }
+    },
+    {
+      "kanji": "自分の意思を尊重する。",
+      "furigana": "自分(じぶん)の意思(いし)を尊重(そんちょう)する。",
+      "translations": {
+        "EN": "Respect your own will.",
+        "ID": "Hargai keinginanmu sendiri.",
+        "ES": "Respeta tu propia voluntad.",
+        "VI": "Tôn trọng ý muốn của chính mình.",
+        "FR": "Respectez votre propre volonté.",
+        "NE": "आफ्नो इच्छाको सम्मान गर्नुहोस्।",
+        "BN": "নিজের ইচ্ছাকে সম্মান করো।",
+        "ZH": "尊重自己的意愿。",
+        "KO": "자신의 의사를 존중한다.",
+        "TL": "Igalang ang iyong sariling kalooban.",
+        "MY": "ကိုယ့်ဆန္ဒကို လေးစားပါ။",
+        "HI": "अपनी इच्छा का सम्मान करें.",
+        "AR": "احترم إرادتك الخاصة.",
+        "FA": "به اراده خودت احترام بذار."
+      }
+    },
+    {
+      "kanji": "明確な意思を持つ。",
+      "furigana": "明確(めいかく)な意思(いし)を持(も)つ。",
+      "translations": {
+        "EN": "Have a clear intention.",
+        "ID": "Miliki niat yang jelas.",
+        "ES": "Tenga una intención clara.",
+        "VI": "Có ý định rõ ràng.",
+        "FR": "Ayez une intention claire.",
+        "NE": "स्पष्ट नियत राख्नुहोस्।",
+        "BN": "স্পষ্ট উদ্দেশ্য রাখুন।",
+        "ZH": "有明确的意图。",
+        "KO": "명확한 의사를 가진다.",
+        "TL": "Magkaroon ng malinaw na intensyon.",
+        "MY": "ပြတ်သားတဲ့ ရည်ရွယ်ချက်ရှိပါစေ။",
+        "HI": "स्पष्ट इरादा रखें.",
+        "AR": "لديك نية واضحة.",
+        "FA": "نیت واضح و روشنی داشته باشید."
+      }
+    },
+    {
+      "kanji": "意思決定を下す。",
+      "furigana": "意思決定(いしけってい)を下(くだ)す。",
+      "translations": {
+        "EN": "Make decisions.",
+        "ID": "Mengambil keputusan.",
+        "ES": "Tomar decisiones.",
+        "VI": "Đưa ra quyết định.",
+        "FR": "Prendre des décisions.",
+        "NE": "निर्णय लिनुहोस्।",
+        "BN": "সিদ্ধান্ত নাও।",
+        "ZH": "做出决定。",
+        "KO": "의사 결정을 내린다.",
+        "TL": "Gumawa ng mga desisyon.",
+        "MY": "ဆုံးဖြတ်ချက်များချပါ။",
+        "HI": "निर्णय ले।",
+        "AR": "إتخاذ القرارات.",
+        "FA": "تصمیماتی بگیرید."
+      }
+    },
+    {
+      "kanji": "彼は強い意思を見せた。",
+      "furigana": "彼(かれ)は強(つよ)い意思(いし)を見(み)せた。",
+      "translations": {
+        "EN": "He showed strong will.",
+        "ID": "Dia menunjukkan kemauan yang kuat.",
+        "ES": "Demostró una fuerte voluntad.",
+        "VI": "Ông ấy đã thể hiện ý chí mạnh mẽ.",
+        "FR": "Il a fait preuve d'une forte volonté.",
+        "NE": "उनले दृढ इच्छाशक्ति देखाए।",
+        "BN": "তিনি দৃঢ় ইচ্ছাশক্তি প্রদর্শন করেছিলেন।",
+        "ZH": "他表现出了坚强的意志。",
+        "KO": "그는 강한 의사를 보였다.",
+        "TL": "Nagpakita siya ng malakas na kalooban.",
+        "MY": "ပြင်းပြသောဆန္ဒကိုပြသခဲ့သည်။",
+        "HI": "उन्होंने दृढ़ इच्छाशक्ति दिखाई।",
+        "AR": "لقد أظهر إرادة قوية.",
+        "FA": "اراده قوی از خود نشان داد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "intention": {
+      "ID": "maksud",
+      "ES": "intención",
+      "VI": "chủ đích",
+      "FR": "intention",
+      "NE": "नियत",
+      "BN": "উদ্দেশ্য",
+      "ZH": "意图",
+      "KO": "의도",
+      "TL": "intensyon",
+      "MY": "ရည်ရွယ်ချက်",
+      "HI": "इरादा",
+      "AR": "نيّة",
+      "FA": "نیت",
+      "EN": [
+        "wish",
+        "purpose",
+        "mind (to do)"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "意思",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "意思",
+        "reading": "いし"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "intention",
+          "wish",
+          "purpose",
+          "mind (to do)"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "意",
+    "思"
+  ],
+  "kanji_data": {
+    "意": {
+      "freq_mainichi_shinbun": 99,
+      "grade": 3,
+      "heisig_en": "idea",
+      "jlpt": 4,
+      "kanji": "意",
+      "kun_readings": [],
+      "meanings": [
+        "care",
+        "desire",
+        "heart",
+        "idea",
+        "liking",
+        "mind",
+        "taste",
+        "thought"
+      ],
+      "name_readings": [
+        "もと",
+        "よし"
+      ],
+      "notes": [],
+      "on_readings": [
+        "イ"
+      ],
+      "stroke_count": 13,
+      "unicode": "610F"
+    },
+    "思": {
+      "freq_mainichi_shinbun": 132,
+      "grade": 2,
+      "heisig_en": "think",
+      "jlpt": 4,
+      "kanji": "思",
+      "kun_readings": [
+        "おぼ.す",
+        "おも.う",
+        "おもえら.く"
+      ],
+      "meanings": [
+        "think"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "シ"
+      ],
+      "stroke_count": 9,
+      "unicode": "601D"
+    }
+  }
 }

@@ -1,354 +1,433 @@
 {
-    "version": "0.2.0",
-    "word": "芸能",
-    "jlpt_level": 2,
-    "youtube_link": "https://youtu.be/2LwvOwcRNxI",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "芸能",
-        "reading": "げいのう",
-        "introduction_japanese": "芸能は、テレビや映画、舞台、音楽などで活躍する人や活動についての話でよく使われます。芸能界や芸能活動、芸能人の話をするときに出てきます。",
-        "introduction_english": "The noun げいのう is commonly used in conversations about people and activities in TV, movies, stage, and music. You hear it when talking about the entertainment industry, entertainers, or entertainment activities.",
-        "meanings": [
-            [
-                "public entertainment",
-                "performing arts",
-                "show business"
-            ],
-            [
-                "accomplishments",
-                "attainments"
-            ]
-        ],
-        "meaning_explanation_japanese": "「げいのう」は、人を楽しませる舞台やテレビ・映画でのパフォーマンスや、その業界全体を指す言葉です。文脈によっては、技術や達成、習得した成果という意味でも使われます。",
-        "meaning_explanation_english": "The word げいのう means 'public entertainment' or 'performing arts', referring to performances and the entertainment industry. It can also mean 'accomplishments' or 'attainments' when talking about skills or achievements.",
-        "kanji_explanation_english": "The first kanji means art, craft, or technique. It appears in words like げいじゅつ which means art, where the kanji gives the sense of artistic skill, and in げいにん meaning performer, showing its relation to performance and craft. The second kanji means ability, capacity, or talent. It appears in words like のうりょく meaning ability, where the kanji contributes the idea of capability, and in さいのう meaning talent, emphasizing natural skill.",
-        "kanji_details": [
-            {
-                "kanji": "芸",
-                "common_words": [
-                    "芸術 (げいじゅつ): art, the fine arts",
-                    "芸人 (げいにん): performer, comedian"
-                ]
-            },
-            {
-                "kanji": "能",
-                "common_words": [
-                    "能力 (のうりょく): ability, capability",
-                    "才能 (さいのう): talent"
-                ]
-            }
-        ],
-        "synonyms": [
-            "芸術 : げいじゅつ : fine arts, art",
-            "娯楽 : ごらく : entertainment, amusement"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word are げいじゅつ and ごらく. げいじゅつ focuses on fine arts and artistic creation and feels more formal or art-centered, while ごらく is broader and refers to entertainment or amusement for enjoyment.",
-        "antonyms": [],
-        "antonyms_explanation": "No common antonyms found.",
-        "examples": [
-            {
-                "kanji": "彼(かれ)は芸能界で働いている。",
-                "furigana": "彼(かれ)は芸能界(げいのうかい)で働(はたら)いている。",
-                "translations": {
-                    "EN": "He works in the entertainment industry.",
-                    "ID": "Dia bekerja di industri hiburan.",
-                    "ES": "Trabaja en la industria del entretenimiento.",
-                    "VI": "Anh ấy làm việc trong ngành giải trí.",
-                    "FR": "Il travaille dans l'industrie du divertissement.",
-                    "NE": "उनी मनोरञ्जन उद्योगमा काम गर्छन्।",
-                    "BN": "তিনি বিনোদন জগতে কাজ করেন।",
-                    "ZH": "他在娱乐行业工作。",
-                    "KO": "그는 연예계에서 일하고 있다.",
-                    "TL": "Nagtatrabaho siya sa entertainment industry.",
-                    "MY": "သူက ဖျော်ဖြေရေး လုပ်ငန်းမှာ အလုပ်လုပ်တယ်။",
-                    "HI": "वह मनोरंजन उद्योग में काम करते हैं।",
-                    "AR": "يعمل في مجال الترفيه.",
-                    "FA": "او در صنعت سرگرمی فعالیت می‌کند."
-                }
-            },
-            {
-                "kanji": "彼女(かのじょ)は芸能人になる夢がある。",
-                "furigana": "彼女(かのじょ)は芸能人(げいのうじん)になる夢(ゆめ)がある。",
-                "translations": {
-                    "EN": "She dreams of becoming a celebrity.",
-                    "ID": "Dia bermimpi menjadi seorang selebriti.",
-                    "ES": "Ella sueña con convertirse en una celebridad.",
-                    "VI": "Cô ấy mơ ước trở thành người nổi tiếng.",
-                    "FR": "Elle rêve de devenir une célébrité.",
-                    "NE": "उनी सेलिब्रेटी बन्ने सपना देख्छिन्।",
-                    "BN": "সে সেলিব্রিটি হওয়ার স্বপ্ন দেখে।",
-                    "ZH": "她梦想成为一名名人。",
-                    "KO": "그녀(카노죠)는 연예인이 되는 꿈이 있다.",
-                    "TL": "Pangarap niyang maging celebrity.",
-                    "MY": "သူမသည် နာမည်ကြီးတစ်ယောက်ဖြစ်ဖို့ အိပ်မက်မက်သည်။",
-                    "HI": "वह एक सेलिब्रिटी बनने का सपना देखती है।",
-                    "AR": "إنها تحلم بأن تصبح مشهورة.",
-                    "FA": "او رویای تبدیل شدن به یک سلبریتی را در سر می‌پروراند."
-                }
-            },
-            {
-                "kanji": "彼は芸能活動を始めた。",
-                "furigana": "彼(かれ)は芸能活動(げいのうかつどう)を始(はじ)めた。",
-                "translations": {
-                    "EN": "He began his acting career.",
-                    "ID": "Dia memulai karier aktingnya.",
-                    "ES": "Comenzó su carrera como actor.",
-                    "VI": "Ông bắt đầu sự nghiệp diễn xuất của mình.",
-                    "FR": "Il a commencé sa carrière d'acteur.",
-                    "NE": "उनले आफ्नो अभिनय करियर सुरु गरे।",
-                    "BN": "তিনি তার অভিনয় জীবন শুরু করেন।",
-                    "ZH": "他开始了自己的演艺生涯。",
-                    "KO": "그는 연예 활동을 시작했다.",
-                    "TL": "Sinimulan niya ang kanyang karera sa pag-arte.",
-                    "MY": "သူ့ရဲ့ သရုပ်ဆောင်အလုပ်ကို စတင်ခဲ့ပါတယ်။",
-                    "HI": "उन्होंने अपने अभिनय करियर की शुरुआत की।",
-                    "AR": "بدأ مسيرته التمثيلية.",
-                    "FA": "او فعالیت بازیگری خود را آغاز کرد."
-                }
-            },
-            {
-                "kanji": "彼女(かのじょ)は芸能界デビューした。",
-                "furigana": "彼女(かのじょ)は芸能界(げいのうかい)デビューした。",
-                "translations": {
-                    "EN": "She made her debut in the entertainment industry.",
-                    "ID": "Dia memulai debutnya di industri hiburan.",
-                    "ES": "Hizo su debut en la industria del entretenimiento.",
-                    "VI": "Cô đã ra mắt trong ngành giải trí.",
-                    "FR": "Elle a fait ses débuts dans l'industrie du divertissement.",
-                    "NE": "उनले मनोरञ्जन उद्योगमा डेब्यू गरिन्।",
-                    "BN": "তিনি বিনোদন জগতে আত্মপ্রকাশ করেন।",
-                    "ZH": "她正式进入娱乐圈。",
-                    "KO": "그녀(카노죠)는 연예계 데뷔했다.",
-                    "TL": "Nag-debut siya sa entertainment industry.",
-                    "MY": "သူမဟာ ဖျော်ဖြေရေးလောကထဲကို စတင်ဝင်ရောက်ခဲ့ပါတယ်။",
-                    "HI": "उन्होंने मनोरंजन उद्योग में अपनी शुरुआत की।",
-                    "AR": "لقد ظهرت لأول مرة في صناعة الترفيه.",
-                    "FA": "او اولین حضور خود را در صنعت سرگرمی تجربه کرد."
-                }
-            },
-            {
-                "kanji": "芸能界の事情を知っている。",
-                "furigana": "芸能界(げいのうかい)の事情(じじょう)を知(し)っている。",
-                "translations": {
-                    "EN": "I know what goes on in the entertainment industry.",
-                    "ID": "Saya tahu apa yang terjadi di industri hiburan.",
-                    "ES": "Sé lo que pasa en la industria del entretenimiento.",
-                    "VI": "Tôi biết những gì diễn ra trong ngành giải trí.",
-                    "FR": "Je sais ce qui se passe dans l’industrie du divertissement.",
-                    "NE": "मलाई थाहा छ मनोरञ्जन उद्योगमा के भइरहेको छ।",
-                    "BN": "আমি জানি বিনোদন জগতে কী ঘটছে।",
-                    "ZH": "我知道娱乐圈里发生的一切。",
-                    "KO": "연예계의 사정을 알고 있다.",
-                    "TL": "Alam ko ang nangyayari sa entertainment industry.",
-                    "MY": "ဖျော်ဖြေရေးနယ်ပယ်မှာ ဘာတွေဖြစ်နေလဲ သိတယ်။",
-                    "HI": "मैं जानता हूं कि मनोरंजन उद्योग में क्या चल रहा है।",
-                    "AR": "أنا أعلم ما يحدث في صناعة الترفيه.",
-                    "FA": "من می‌دانم در صنعت سرگرمی چه می‌گذرد."
-                }
-            },
-            {
-                "kanji": "彼は芸能界を引退した。",
-                "furigana": "彼(かれ)は芸能界(げいのうかい)を引退(いんたい)した。",
-                "translations": {
-                    "EN": "He retired from the entertainment industry.",
-                    "ID": "Dia pensiun dari industri hiburan.",
-                    "ES": "Se retiró de la industria del entretenimiento.",
-                    "VI": "Ông đã nghỉ hưu khỏi ngành giải trí.",
-                    "FR": "Il a pris sa retraite de l'industrie du divertissement.",
-                    "NE": "उनले मनोरञ्जन उद्योगबाट अवकाश लिए।",
-                    "BN": "তিনি বিনোদন জগৎ থেকে অবসর গ্রহণ করেন।",
-                    "ZH": "他退出了娱乐圈。",
-                    "KO": "그는 연예계를 은퇴했다.",
-                    "TL": "Nagretiro na siya sa entertainment industry.",
-                    "MY": "ဖျော်ဖြေရေး လုပ်ငန်းကနေ အနားယူခဲ့ပါတယ်။",
-                    "HI": "उन्होंने मनोरंजन उद्योग से संन्यास ले लिया।",
-                    "AR": "تقاعد من صناعة الترفيه.",
-                    "FA": "او از صنعت سرگرمی بازنشسته شد."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "public entertainment": {
-                "ID": "hiburan publik",
-                "ES": "entretenimiento público",
-                "VI": "giải trí công cộng",
-                "FR": "divertissement public",
-                "NE": "सार्वजनिक मनोरञ्जन",
-                "BN": "জনসাধারণের বিনোদন",
-                "ZH": "公共娱乐",
-                "KO": "대중 오락",
-                "TL": "pampublikong libangan",
-                "MY": "လူထုဖျော်ဖြေရေး",
-                "HI": "सार्वजनिक मनोरंजन",
-                "AR": "الترفيه العام",
-                "FA": "سرگرمی عمومی",
-                "EN": [
-                    "performing arts",
-                    "show business"
-                ]
-            },
-            "accomplishments": {
-                "ID": "prestasi",
-                "ES": "logros",
-                "VI": "thành tựu",
-                "FR": "réalisations",
-                "NE": "उपलब्धिहरू",
-                "BN": "কৃতিত্ব",
-                "ZH": "成就",
-                "KO": "교양",
-                "TL": "mga nagawa",
-                "MY": "အောင်မြင်မှုများ",
-                "HI": "उपलब्धियां",
-                "AR": "الإنجازات",
-                "FA": "دستاوردها",
-                "EN": [
-                    "attainments"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "芸能",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n2"
-        ],
-        "japanese": [
-            {
-                "word": "芸能",
-                "reading": "げいのう"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "public entertainment",
-                    "performing arts"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "accomplishments",
-                    "attainments"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "芸",
-        "能"
+  "version": "0.3.0",
+  "word": "芸能",
+  "jlpt_level": 2,
+  "youtube_link": "https://youtu.be/2LwvOwcRNxI",
+  "in_db": true,
+  "kanji": "芸能",
+  "reading": "げいのう",
+  "introduction_japanese": "芸能は、テレビや映画、舞台、音楽などで活躍する人や活動についての話でよく使われます。芸能界や芸能活動、芸能人の話をするときに出てきます。",
+  "introduction_english": "The noun げいのう is commonly used in conversations about people and activities in TV, movies, stage, and music. You hear it when talking about the entertainment industry, entertainers, or entertainment activities.",
+  "meanings": [
+    [
+      "public entertainment",
+      "performing arts",
+      "show business"
     ],
-    "kanji_data": {
-        "芸": {
-            "freq_mainichi_shinbun": 719,
-            "grade": 4,
-            "heisig_en": "technique",
-            "jlpt": 2,
-            "kanji": "芸",
-            "kun_readings": [
-                "う.える",
-                "のり",
-                "わざ"
-            ],
-            "meanings": [
-                "acting",
-                "art",
-                "craft",
-                "performance",
-                "stunt",
-                "technique",
-                "trick"
-            ],
-            "name_readings": [
-                "き",
-                "げ",
-                "なり"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ウン",
-                "ゲイ"
-            ],
-            "stroke_count": 7,
-            "unicode": "82B8"
-        },
-        "能": {
-            "freq_mainichi_shinbun": 273,
-            "grade": 5,
-            "heisig_en": "ability",
-            "jlpt": 3,
-            "kanji": "能",
-            "kun_readings": [
-                "あた.う",
-                "よ.く"
-            ],
-            "meanings": [
-                "ability",
-                "capacity",
-                "skill",
-                "talent"
-            ],
-            "name_readings": [
-                "たか",
-                "の",
-                "のり",
-                "よし"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ノウ"
-            ],
-            "stroke_count": 10,
-            "unicode": "80FD"
-        }
-    },
-    "collocations": [
-        "芸能界の",
-        "芸能活動の",
-        "芸能界の事情",
-        "芸能界の人脈",
-        "芸能界の常識",
-        "芸能界",
-        "芸能人",
-        "芸能活動",
-        "芸能界入り",
-        "芸能界デビュー",
-        "芸能界に入る",
-        "芸能活動をする",
-        "芸能界で活躍する",
-        "芸能界を引退する",
-        "芸能界を席巻する",
-        "精力的に芸能活動をする",
-        "本格的に芸能界入りする",
-        "積極的に芸能活動を行う",
-        "着々と芸能界でキャリアを積む",
-        "間もなく芸能界デビューする"
+    [
+      "accomplishments",
+      "attainments"
     ]
+  ],
+  "meaning_explanation_japanese": "「げいのう」は、人を楽しませる舞台やテレビ・映画でのパフォーマンスや、その業界全体を指す言葉です。文脈によっては、技術や達成、習得した成果という意味でも使われます。",
+  "meaning_explanation_english": "The word げいのう means 'public entertainment' or 'performing arts', referring to performances and the entertainment industry. It can also mean 'accomplishments' or 'attainments' when talking about skills or achievements.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "芸",
+      "common_words": [
+        "芸術 (げいじゅつ): art, the fine arts",
+        "芸人 (げいにん): performer, comedian"
+      ]
+    },
+    {
+      "kanji": "能",
+      "common_words": [
+        "能力 (のうりょく): ability, capability",
+        "才能 (さいのう): talent"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means art, craft, or technique. It appears in words like げいじゅつ which means art, where the kanji gives the sense of artistic skill, and in げいにん meaning performer, showing its relation to performance and craft. The second kanji means ability, capacity, or talent. It appears in words like のうりょく meaning ability, where the kanji contributes the idea of capability, and in さいのう meaning talent, emphasizing natural skill.",
+  "synonyms": [
+    "芸術 : げいじゅつ : fine arts, art",
+    "娯楽 : ごらく : entertainment, amusement"
+  ],
+  "synonym_explanation": "The most common synonyms of the word are げいじゅつ and ごらく. げいじゅつ focuses on fine arts and artistic creation and feels more formal or art-centered, while ごらく is broader and refers to entertainment or amusement for enjoyment.",
+  "antonyms": [],
+  "antonym_explanation": "No common antonyms found.",
+  "collocations": [
+    {
+      "kanji": "芸能界の",
+      "furigana": "芸能界の",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能活動の",
+      "furigana": "芸能活動の",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界の事情",
+      "furigana": "芸能界の事情",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界の人脈",
+      "furigana": "芸能界の人脈",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界の常識",
+      "furigana": "芸能界の常識",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界",
+      "furigana": "芸能界",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能人",
+      "furigana": "芸能人",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能活動",
+      "furigana": "芸能活動",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界入り",
+      "furigana": "芸能界入り",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界デビュー",
+      "furigana": "芸能界デビュー",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界に入る",
+      "furigana": "芸能界に入る",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能活動をする",
+      "furigana": "芸能活動をする",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界で活躍する",
+      "furigana": "芸能界で活躍する",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界を引退する",
+      "furigana": "芸能界を引退する",
+      "translations": {}
+    },
+    {
+      "kanji": "芸能界を席巻する",
+      "furigana": "芸能界を席巻する",
+      "translations": {}
+    },
+    {
+      "kanji": "精力的に芸能活動をする",
+      "furigana": "精力的に芸能活動をする",
+      "translations": {}
+    },
+    {
+      "kanji": "本格的に芸能界入りする",
+      "furigana": "本格的に芸能界入りする",
+      "translations": {}
+    },
+    {
+      "kanji": "積極的に芸能活動を行う",
+      "furigana": "積極的に芸能活動を行う",
+      "translations": {}
+    },
+    {
+      "kanji": "着々と芸能界でキャリアを積む",
+      "furigana": "着々と芸能界でキャリアを積む",
+      "translations": {}
+    },
+    {
+      "kanji": "間もなく芸能界デビューする",
+      "furigana": "間もなく芸能界デビューする",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼(かれ)は芸能界で働いている。",
+      "furigana": "彼(かれ)は芸能界(げいのうかい)で働(はたら)いている。",
+      "translations": {
+        "EN": "He works in the entertainment industry.",
+        "ID": "Dia bekerja di industri hiburan.",
+        "ES": "Trabaja en la industria del entretenimiento.",
+        "VI": "Anh ấy làm việc trong ngành giải trí.",
+        "FR": "Il travaille dans l'industrie du divertissement.",
+        "NE": "उनी मनोरञ्जन उद्योगमा काम गर्छन्।",
+        "BN": "তিনি বিনোদন জগতে কাজ করেন।",
+        "ZH": "他在娱乐行业工作。",
+        "KO": "그는 연예계에서 일하고 있다.",
+        "TL": "Nagtatrabaho siya sa entertainment industry.",
+        "MY": "သူက ဖျော်ဖြေရေး လုပ်ငန်းမှာ အလုပ်လုပ်တယ်။",
+        "HI": "वह मनोरंजन उद्योग में काम करते हैं।",
+        "AR": "يعمل في مجال الترفيه.",
+        "FA": "او در صنعت سرگرمی فعالیت می‌کند."
+      }
+    },
+    {
+      "kanji": "彼女(かのじょ)は芸能人になる夢がある。",
+      "furigana": "彼女(かのじょ)は芸能人(げいのうじん)になる夢(ゆめ)がある。",
+      "translations": {
+        "EN": "She dreams of becoming a celebrity.",
+        "ID": "Dia bermimpi menjadi seorang selebriti.",
+        "ES": "Ella sueña con convertirse en una celebridad.",
+        "VI": "Cô ấy mơ ước trở thành người nổi tiếng.",
+        "FR": "Elle rêve de devenir une célébrité.",
+        "NE": "उनी सेलिब्रेटी बन्ने सपना देख्छिन्।",
+        "BN": "সে সেলিব্রিটি হওয়ার স্বপ্ন দেখে।",
+        "ZH": "她梦想成为一名名人。",
+        "KO": "그녀(카노죠)는 연예인이 되는 꿈이 있다.",
+        "TL": "Pangarap niyang maging celebrity.",
+        "MY": "သူမသည် နာမည်ကြီးတစ်ယောက်ဖြစ်ဖို့ အိပ်မက်မက်သည်။",
+        "HI": "वह एक सेलिब्रिटी बनने का सपना देखती है।",
+        "AR": "إنها تحلم بأن تصبح مشهورة.",
+        "FA": "او رویای تبدیل شدن به یک سلبریتی را در سر می‌پروراند."
+      }
+    },
+    {
+      "kanji": "彼は芸能活動を始めた。",
+      "furigana": "彼(かれ)は芸能活動(げいのうかつどう)を始(はじ)めた。",
+      "translations": {
+        "EN": "He began his acting career.",
+        "ID": "Dia memulai karier aktingnya.",
+        "ES": "Comenzó su carrera como actor.",
+        "VI": "Ông bắt đầu sự nghiệp diễn xuất của mình.",
+        "FR": "Il a commencé sa carrière d'acteur.",
+        "NE": "उनले आफ्नो अभिनय करियर सुरु गरे।",
+        "BN": "তিনি তার অভিনয় জীবন শুরু করেন।",
+        "ZH": "他开始了自己的演艺生涯。",
+        "KO": "그는 연예 활동을 시작했다.",
+        "TL": "Sinimulan niya ang kanyang karera sa pag-arte.",
+        "MY": "သူ့ရဲ့ သရုပ်ဆောင်အလုပ်ကို စတင်ခဲ့ပါတယ်။",
+        "HI": "उन्होंने अपने अभिनय करियर की शुरुआत की।",
+        "AR": "بدأ مسيرته التمثيلية.",
+        "FA": "او فعالیت بازیگری خود را آغاز کرد."
+      }
+    },
+    {
+      "kanji": "彼女(かのじょ)は芸能界デビューした。",
+      "furigana": "彼女(かのじょ)は芸能界(げいのうかい)デビューした。",
+      "translations": {
+        "EN": "She made her debut in the entertainment industry.",
+        "ID": "Dia memulai debutnya di industri hiburan.",
+        "ES": "Hizo su debut en la industria del entretenimiento.",
+        "VI": "Cô đã ra mắt trong ngành giải trí.",
+        "FR": "Elle a fait ses débuts dans l'industrie du divertissement.",
+        "NE": "उनले मनोरञ्जन उद्योगमा डेब्यू गरिन्।",
+        "BN": "তিনি বিনোদন জগতে আত্মপ্রকাশ করেন।",
+        "ZH": "她正式进入娱乐圈。",
+        "KO": "그녀(카노죠)는 연예계 데뷔했다.",
+        "TL": "Nag-debut siya sa entertainment industry.",
+        "MY": "သူမဟာ ဖျော်ဖြေရေးလောကထဲကို စတင်ဝင်ရောက်ခဲ့ပါတယ်။",
+        "HI": "उन्होंने मनोरंजन उद्योग में अपनी शुरुआत की।",
+        "AR": "لقد ظهرت لأول مرة في صناعة الترفيه.",
+        "FA": "او اولین حضور خود را در صنعت سرگرمی تجربه کرد."
+      }
+    },
+    {
+      "kanji": "芸能界の事情を知っている。",
+      "furigana": "芸能界(げいのうかい)の事情(じじょう)を知(し)っている。",
+      "translations": {
+        "EN": "I know what goes on in the entertainment industry.",
+        "ID": "Saya tahu apa yang terjadi di industri hiburan.",
+        "ES": "Sé lo que pasa en la industria del entretenimiento.",
+        "VI": "Tôi biết những gì diễn ra trong ngành giải trí.",
+        "FR": "Je sais ce qui se passe dans l’industrie du divertissement.",
+        "NE": "मलाई थाहा छ मनोरञ्जन उद्योगमा के भइरहेको छ।",
+        "BN": "আমি জানি বিনোদন জগতে কী ঘটছে।",
+        "ZH": "我知道娱乐圈里发生的一切。",
+        "KO": "연예계의 사정을 알고 있다.",
+        "TL": "Alam ko ang nangyayari sa entertainment industry.",
+        "MY": "ဖျော်ဖြေရေးနယ်ပယ်မှာ ဘာတွေဖြစ်နေလဲ သိတယ်။",
+        "HI": "मैं जानता हूं कि मनोरंजन उद्योग में क्या चल रहा है।",
+        "AR": "أنا أعلم ما يحدث في صناعة الترفيه.",
+        "FA": "من می‌دانم در صنعت سرگرمی چه می‌گذرد."
+      }
+    },
+    {
+      "kanji": "彼は芸能界を引退した。",
+      "furigana": "彼(かれ)は芸能界(げいのうかい)を引退(いんたい)した。",
+      "translations": {
+        "EN": "He retired from the entertainment industry.",
+        "ID": "Dia pensiun dari industri hiburan.",
+        "ES": "Se retiró de la industria del entretenimiento.",
+        "VI": "Ông đã nghỉ hưu khỏi ngành giải trí.",
+        "FR": "Il a pris sa retraite de l'industrie du divertissement.",
+        "NE": "उनले मनोरञ्जन उद्योगबाट अवकाश लिए।",
+        "BN": "তিনি বিনোদন জগৎ থেকে অবসর গ্রহণ করেন।",
+        "ZH": "他退出了娱乐圈。",
+        "KO": "그는 연예계를 은퇴했다.",
+        "TL": "Nagretiro na siya sa entertainment industry.",
+        "MY": "ဖျော်ဖြေရေး လုပ်ငန်းကနေ အနားယူခဲ့ပါတယ်။",
+        "HI": "उन्होंने मनोरंजन उद्योग से संन्यास ले लिया।",
+        "AR": "تقاعد من صناعة الترفيه.",
+        "FA": "او از صنعت سرگرمی بازنشسته شد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "public entertainment": {
+      "ID": "hiburan publik",
+      "ES": "entretenimiento público",
+      "VI": "giải trí công cộng",
+      "FR": "divertissement public",
+      "NE": "सार्वजनिक मनोरञ्जन",
+      "BN": "জনসাধারণের বিনোদন",
+      "ZH": "公共娱乐",
+      "KO": "대중 오락",
+      "TL": "pampublikong libangan",
+      "MY": "လူထုဖျော်ဖြေရေး",
+      "HI": "सार्वजनिक मनोरंजन",
+      "AR": "الترفيه العام",
+      "FA": "سرگرمی عمومی",
+      "EN": [
+        "performing arts",
+        "show business"
+      ]
+    },
+    "accomplishments": {
+      "ID": "prestasi",
+      "ES": "logros",
+      "VI": "thành tựu",
+      "FR": "réalisations",
+      "NE": "उपलब्धिहरू",
+      "BN": "কৃতিত্ব",
+      "ZH": "成就",
+      "KO": "교양",
+      "TL": "mga nagawa",
+      "MY": "အောင်မြင်မှုများ",
+      "HI": "उपलब्धियां",
+      "AR": "الإنجازات",
+      "FA": "دستاوردها",
+      "EN": [
+        "attainments"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "芸能",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n2"
+    ],
+    "japanese": [
+      {
+        "word": "芸能",
+        "reading": "げいのう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "public entertainment",
+          "performing arts"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "accomplishments",
+          "attainments"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "芸",
+    "能"
+  ],
+  "kanji_data": {
+    "芸": {
+      "freq_mainichi_shinbun": 719,
+      "grade": 4,
+      "heisig_en": "technique",
+      "jlpt": 2,
+      "kanji": "芸",
+      "kun_readings": [
+        "う.える",
+        "のり",
+        "わざ"
+      ],
+      "meanings": [
+        "acting",
+        "art",
+        "craft",
+        "performance",
+        "stunt",
+        "technique",
+        "trick"
+      ],
+      "name_readings": [
+        "き",
+        "げ",
+        "なり"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ウン",
+        "ゲイ"
+      ],
+      "stroke_count": 7,
+      "unicode": "82B8"
+    },
+    "能": {
+      "freq_mainichi_shinbun": 273,
+      "grade": 5,
+      "heisig_en": "ability",
+      "jlpt": 3,
+      "kanji": "能",
+      "kun_readings": [
+        "あた.う",
+        "よ.く"
+      ],
+      "meanings": [
+        "ability",
+        "capacity",
+        "skill",
+        "talent"
+      ],
+      "name_readings": [
+        "たか",
+        "の",
+        "のり",
+        "よし"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ノウ"
+      ],
+      "stroke_count": 10,
+      "unicode": "80FD"
+    }
+  }
 }

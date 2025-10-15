@@ -1,260 +1,279 @@
 {
-    "version": "0.2.0",
-    "word": "思い出",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/5SKYkbNY1o0",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "思い出",
-        "reading": "おもいで",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this video is おもいで which you will often hear when people share their past experiences, stories, or nostalgic moments.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word おもいで means a memory or recollection of a past event. It conveys the feeling associated with remembering something significant or nostalgic.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "memories",
-                "recollections",
-                "reminiscence"
-            ]
-        ],
-        "meaning_translations": {
-            "memories": {
-                "EN": "memories",
-                "ID": "kenangan",
-                "ES": "recuerdos",
-                "VI": "kỷ niệm",
-                "FR": "souvenirs",
-                "NE": "स्मृतिहरू",
-                "BN": "স্মৃতি",
-                "ZH": "回忆",
-                "KO": "추억",
-                "TL": "mga alaala",
-                "MY": "မှတ်ဉာဏ်များ",
-                "HI": "यादें",
-                "AR": "ذكريات",
-                "FA": "خاطرات"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "楽しい思い出があります。",
-                "furigana": "楽しい(たのしい)思い出(おもいで)があります。",
-                "translations": {
-                    "EN": "I have happy memories.",
-                    "ID": "Saya memiliki kenangan menyenangkan.",
-                    "ES": "Tengo recuerdos felices.",
-                    "VI": "Tôi có những kỷ niệm vui vẻ.",
-                    "FR": "J'ai des souvenirs heureux.",
-                    "NE": "मसँग रमाइलो सम्झना छ।",
-                    "BN": "আমার সুখী স্মৃতি রয়েছে.",
-                    "ZH": "我有快乐的回忆。",
-                    "KO": "나는 즐거운 추억이 있어요.",
-                    "TL": "Mayroon akong masayang alaala.",
-                    "MY": "ငါ့မှာဖျော်ဖြေရန်အမှတ်တရရှိပြီးပါပြီ။",
-                    "HI": "मेरे पास खुश यादें हैं।",
-                    "AR": "لدي ذكريات سعيدة.",
-                    "FA": "من یادهای شادی دارم."
-                }
-            },
-            {
-                "kanji": "昔の思い出は楽しいです。",
-                "furigana": "昔(むかし)の思い出(おもいで)は楽しい(たのしい)です。",
-                "translations": {
-                    "EN": "Old memories are fun.",
-                    "ID": "Kenangan lama itu menyenangkan.",
-                    "ES": "Los recuerdos antiguos son divertidos.",
-                    "VI": "Ký ức cũ rất vui.",
-                    "FR": "Les vieux souvenirs sont amusants.",
-                    "NE": "पुराना सम्झनाहरू रमाइलो छन्।",
-                    "BN": "পুরনো স্মৃতিগুলি মজা।",
-                    "ZH": "旧的回忆很有趣。",
-                    "KO": "예전의 추억은 즐겁습니다.",
-                    "TL": "Ang mga old na alaala ay masaya.",
-                    "MY": "ဟောင်းတမ်း၏ အမှတ်တရများသည် ရင်ခုန်မှုကောင်းမွန်သည်။",
-                    "HI": "पुरानी यादें मजेदार होती हैं।",
-                    "AR": "الذكريات القديمة ممتعة.",
-                    "FA": "خاطرات قدیمی جالب هستند."
-                }
-            },
-            {
-                "kanji": "いい思い出ができました。",
-                "furigana": "いいおもいでができました。",
-                "translations": {
-                    "EN": "I made good memories.",
-                    "ID": "Saya membuat kenangan yang baik.",
-                    "ES": "Hice buenos recuerdos.",
-                    "VI": "Tôi đã tạo ra những kỷ niệm đẹp.",
-                    "FR": "J'ai créé de bons souvenirs.",
-                    "NE": "म राम्रो सम्झनाहरू बनाएँ।",
-                    "BN": "আমি ভালো স্মৃতি তৈরি করেছি.",
-                    "ZH": "我创造了美好的回忆。",
-                    "KO": "좋은 추억을 만들었어요.",
-                    "TL": "Nakagawa ako ng magagandang alaala.",
-                    "MY": "ငါကောင်းသောမှတ်လောက်များ ဖန်တီးခဲ့သည်။",
-                    "HI": "मैंने अच्छे यादें बनाई।",
-                    "AR": "لقد صنعت ذكريات جميلة.",
-                    "FA": "من خاطرات خوبی درست کردم."
-                }
-            },
-            {
-                "kanji": "彼は子供のころの思い出を語る。",
-                "furigana": "彼(かれ)は子供(こども)のころの思い出(おもいで)を語(かた)る。",
-                "translations": {
-                    "EN": "He talks about his childhood memories.",
-                    "ID": "Dia menceritakan tentang kenangan masa kecilnya.",
-                    "ES": "Él habla sobre sus recuerdos de la infancia.",
-                    "VI": "Anh ấy nói về những kỷ niệm thời thơ ấu của mình.",
-                    "FR": "Il parle de ses souvenirs d'enfance.",
-                    "NE": "उहाँले आफ्नो बच्चाकालको सम्झनाहरूबारे कुरा गर्नुहुन्छ।",
-                    "BN": "সে তার শিশু কাল এর স্মৃতি নিয়ে কথা বলে।",
-                    "ZH": "他讲述他的童年回忆。",
-                    "KO": "그는 어린 시절의 추억에 대해 이야기한다.",
-                    "TL": "Sinasalaysay niya ang kanyang mga alaala noong pagkabata.",
-                    "MY": "သူသည် မိနစ်အချို့၏ အမှတ်တရအကြောင်း ပြောပြသည်။",
-                    "HI": "वह अपने बचपन की यादों के बारे में बताता है।",
-                    "AR": "يتحدث عن ذكرياته في طفولته.",
-                    "FA": "او درباره خاطرات کودکی‌اش صحبت می‌کند."
-                }
-            },
-            {
-                "kanji": "私は本を見ておもいでを思い出します。",
-                "furigana": "私は本(\u0001ほん)を見(\u0001み)ておもいで(\u0001おもいで)を思い出す(\u0001おもいだす)します。",
-                "translations": {
-                    "EN": "I remember memories when I look at the book.",
-                    "ID": "Saya mengingat kenangan saat melihat buku.",
-                    "ES": "Recuerdo los recuerdos cuando miro el libro.",
-                    "VI": "Tôi nhớ lại những kỷ niệm khi nhìn vào cuốn sách.",
-                    "FR": "Je me souviens des souvenirs en regardant le livre.",
-                    "NE": "मैले पुस्तकलाई हेर्दा यादहरु सम्झना गर्छु।",
-                    "BN": "আমি বইটি দেখলে স্মৃতিগুলো মনে পড়ে।",
-                    "ZH": "我看书的时候记忆涌上心头。",
-                    "KO": "책을 보면서 추억을 기억합니다.",
-                    "TL": "Naalala ko ang mga alaala kapag tinitingnan ko ang libro.",
-                    "MY": "စာအုပ်ကိုကြည့်ရင် အမှတ်အမှတ်များကို သတိရတယ်။",
-                    "HI": "जब मैं किताब देखता हूं तो यादें याद आती हैं।",
-                    "AR": "أتذكر الذكريات عندما أنظر إلى الكتاب.",
-                    "FA": "وقتی به کتاب نگاه می‌کنم، یادها را به یاد می‌آورم."
-                }
-            }
-        ],
-        "synonyms": [
-            "記憶 : きおく : memory",
-            "思い出す : おもいだす : to recall"
-        ],
-        "synonyms_explanation": "The most common synonyms of the おもいで are 記憶 and 思い出す. 記憶 refers to the concept of memory as a mental process, while 思い出す means to recall or remember something. Although they are related, 記憶 emphasizes the mental aspect, whereas 思い出す focuses more on the action of remembering.",
-        "antonyms": [
-            "忘却 : ぼうきゃく : lapse of memory",
-            "無関心 : むかんしん : apathetic"
-        ],
-        "antonyms_explanation": "The most common antonyms of the おもいで are 忘却 and 無関心. 忘却 means forgetting, the opposite of holding onto a memory, while 無関心 conveys a lack of interest or emotional connection, contrasting with the warm feelings often associated with おもいで.",
-        "kanji_details": [
-            {
-                "kanji": "思",
-                "common_words": [
-                    "思考: thought",
-                    "思いやり: consideration"
-                ]
-            },
-            {
-                "kanji": "出",
-                "common_words": [
-                    "出口: exit",
-                    "出発: departure"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "思い出",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "思い出",
-                "reading": "おもいで"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "memories",
-                    "recollections",
-                    "reminiscence"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "思",
-        "出"
-    ],
-    "kanji_data": {
-        "思": {
-            "meanings": [
-                "think"
-            ],
-            "on_readings": [
-                "シ"
-            ],
-            "kun_readings": [
-                "おぼ.す",
-                "おも.う",
-                "おもえら.く"
-            ],
-            "stroke_count": 9,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 132,
-            "unicode": "601D",
-            "grade": 2
-        },
-        "出": {
-            "meanings": [
-                "come out",
-                "exit",
-                "go out",
-                "leave",
-                "protrude",
-                "put out"
-            ],
-            "on_readings": [
-                "シュツ",
-                "スイ"
-            ],
-            "kun_readings": [
-                "-だ.す",
-                "-で",
-                "い.だす",
-                "い.でる",
-                "だ.す",
-                "で.る"
-            ],
-            "stroke_count": 5,
-            "jlpt": 5,
-            "freq_mainichi_shinbun": 13,
-            "unicode": "51FA",
-            "grade": 1
-        }
-    },
-    "collocations": [
-        "楽しいおもいで",
-        "昔のおもいで",
-        "いいおもいで",
-        "おもいでを語る",
-        "おもいでを思い出す"
+  "version": "0.3.0",
+  "word": "思い出",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/5SKYkbNY1o0",
+  "in_db": true,
+  "kanji": "思い出",
+  "reading": "おもいで",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this video is おもいで which you will often hear when people share their past experiences, stories, or nostalgic moments.",
+  "meanings": [
+    [
+      "memories",
+      "recollections",
+      "reminiscence"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word おもいで means a memory or recollection of a past event. It conveys the feeling associated with remembering something significant or nostalgic.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "思",
+      "common_words": [
+        "思考: thought",
+        "思いやり: consideration"
+      ]
+    },
+    {
+      "kanji": "出",
+      "common_words": [
+        "出口: exit",
+        "出発: departure"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "記憶 : きおく : memory",
+    "思い出す : おもいだす : to recall"
+  ],
+  "synonym_explanation": "The most common synonyms of the おもいで are 記憶 and 思い出す. 記憶 refers to the concept of memory as a mental process, while 思い出す means to recall or remember something. Although they are related, 記憶 emphasizes the mental aspect, whereas 思い出す focuses more on the action of remembering.",
+  "antonyms": [
+    "忘却 : ぼうきゃく : lapse of memory",
+    "無関心 : むかんしん : apathetic"
+  ],
+  "antonym_explanation": "The most common antonyms of the おもいで are 忘却 and 無関心. 忘却 means forgetting, the opposite of holding onto a memory, while 無関心 conveys a lack of interest or emotional connection, contrasting with the warm feelings often associated with おもいで.",
+  "collocations": [
+    {
+      "kanji": "楽しいおもいで",
+      "furigana": "楽しいおもいで",
+      "translations": {}
+    },
+    {
+      "kanji": "昔のおもいで",
+      "furigana": "昔のおもいで",
+      "translations": {}
+    },
+    {
+      "kanji": "いいおもいで",
+      "furigana": "いいおもいで",
+      "translations": {}
+    },
+    {
+      "kanji": "おもいでを語る",
+      "furigana": "おもいでを語る",
+      "translations": {}
+    },
+    {
+      "kanji": "おもいでを思い出す",
+      "furigana": "おもいでを思い出す",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "楽しい思い出があります。",
+      "furigana": "楽しい(たのしい)思い出(おもいで)があります。",
+      "translations": {
+        "EN": "I have happy memories.",
+        "ID": "Saya memiliki kenangan menyenangkan.",
+        "ES": "Tengo recuerdos felices.",
+        "VI": "Tôi có những kỷ niệm vui vẻ.",
+        "FR": "J'ai des souvenirs heureux.",
+        "NE": "मसँग रमाइलो सम्झना छ।",
+        "BN": "আমার সুখী স্মৃতি রয়েছে.",
+        "ZH": "我有快乐的回忆。",
+        "KO": "나는 즐거운 추억이 있어요.",
+        "TL": "Mayroon akong masayang alaala.",
+        "MY": "ငါ့မှာဖျော်ဖြေရန်အမှတ်တရရှိပြီးပါပြီ။",
+        "HI": "मेरे पास खुश यादें हैं।",
+        "AR": "لدي ذكريات سعيدة.",
+        "FA": "من یادهای شادی دارم."
+      }
+    },
+    {
+      "kanji": "昔の思い出は楽しいです。",
+      "furigana": "昔(むかし)の思い出(おもいで)は楽しい(たのしい)です。",
+      "translations": {
+        "EN": "Old memories are fun.",
+        "ID": "Kenangan lama itu menyenangkan.",
+        "ES": "Los recuerdos antiguos son divertidos.",
+        "VI": "Ký ức cũ rất vui.",
+        "FR": "Les vieux souvenirs sont amusants.",
+        "NE": "पुराना सम्झनाहरू रमाइलो छन्।",
+        "BN": "পুরনো স্মৃতিগুলি মজা।",
+        "ZH": "旧的回忆很有趣。",
+        "KO": "예전의 추억은 즐겁습니다.",
+        "TL": "Ang mga old na alaala ay masaya.",
+        "MY": "ဟောင်းတမ်း၏ အမှတ်တရများသည် ရင်ခုန်မှုကောင်းမွန်သည်။",
+        "HI": "पुरानी यादें मजेदार होती हैं।",
+        "AR": "الذكريات القديمة ممتعة.",
+        "FA": "خاطرات قدیمی جالب هستند."
+      }
+    },
+    {
+      "kanji": "いい思い出ができました。",
+      "furigana": "いいおもいでができました。",
+      "translations": {
+        "EN": "I made good memories.",
+        "ID": "Saya membuat kenangan yang baik.",
+        "ES": "Hice buenos recuerdos.",
+        "VI": "Tôi đã tạo ra những kỷ niệm đẹp.",
+        "FR": "J'ai créé de bons souvenirs.",
+        "NE": "म राम्रो सम्झनाहरू बनाएँ।",
+        "BN": "আমি ভালো স্মৃতি তৈরি করেছি.",
+        "ZH": "我创造了美好的回忆。",
+        "KO": "좋은 추억을 만들었어요.",
+        "TL": "Nakagawa ako ng magagandang alaala.",
+        "MY": "ငါကောင်းသောမှတ်လောက်များ ဖန်တီးခဲ့သည်။",
+        "HI": "मैंने अच्छे यादें बनाई।",
+        "AR": "لقد صنعت ذكريات جميلة.",
+        "FA": "من خاطرات خوبی درست کردم."
+      }
+    },
+    {
+      "kanji": "彼は子供のころの思い出を語る。",
+      "furigana": "彼(かれ)は子供(こども)のころの思い出(おもいで)を語(かた)る。",
+      "translations": {
+        "EN": "He talks about his childhood memories.",
+        "ID": "Dia menceritakan tentang kenangan masa kecilnya.",
+        "ES": "Él habla sobre sus recuerdos de la infancia.",
+        "VI": "Anh ấy nói về những kỷ niệm thời thơ ấu của mình.",
+        "FR": "Il parle de ses souvenirs d'enfance.",
+        "NE": "उहाँले आफ्नो बच्चाकालको सम्झनाहरूबारे कुरा गर्नुहुन्छ।",
+        "BN": "সে তার শিশু কাল এর স্মৃতি নিয়ে কথা বলে।",
+        "ZH": "他讲述他的童年回忆。",
+        "KO": "그는 어린 시절의 추억에 대해 이야기한다.",
+        "TL": "Sinasalaysay niya ang kanyang mga alaala noong pagkabata.",
+        "MY": "သူသည် မိနစ်အချို့၏ အမှတ်တရအကြောင်း ပြောပြသည်။",
+        "HI": "वह अपने बचपन की यादों के बारे में बताता है।",
+        "AR": "يتحدث عن ذكرياته في طفولته.",
+        "FA": "او درباره خاطرات کودکی‌اش صحبت می‌کند."
+      }
+    },
+    {
+      "kanji": "私は本を見ておもいでを思い出します。",
+      "furigana": "私は本(\u0001ほん)を見(\u0001み)ておもいで(\u0001おもいで)を思い出す(\u0001おもいだす)します。",
+      "translations": {
+        "EN": "I remember memories when I look at the book.",
+        "ID": "Saya mengingat kenangan saat melihat buku.",
+        "ES": "Recuerdo los recuerdos cuando miro el libro.",
+        "VI": "Tôi nhớ lại những kỷ niệm khi nhìn vào cuốn sách.",
+        "FR": "Je me souviens des souvenirs en regardant le livre.",
+        "NE": "मैले पुस्तकलाई हेर्दा यादहरु सम्झना गर्छु।",
+        "BN": "আমি বইটি দেখলে স্মৃতিগুলো মনে পড়ে।",
+        "ZH": "我看书的时候记忆涌上心头。",
+        "KO": "책을 보면서 추억을 기억합니다.",
+        "TL": "Naalala ko ang mga alaala kapag tinitingnan ko ang libro.",
+        "MY": "စာအုပ်ကိုကြည့်ရင် အမှတ်အမှတ်များကို သတိရတယ်။",
+        "HI": "जब मैं किताब देखता हूं तो यादें याद आती हैं।",
+        "AR": "أتذكر الذكريات عندما أنظر إلى الكتاب.",
+        "FA": "وقتی به کتاب نگاه می‌کنم، یادها را به یاد می‌آورم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "memories": {
+      "EN": "memories",
+      "ID": "kenangan",
+      "ES": "recuerdos",
+      "VI": "kỷ niệm",
+      "FR": "souvenirs",
+      "NE": "स्मृतिहरू",
+      "BN": "স্মৃতি",
+      "ZH": "回忆",
+      "KO": "추억",
+      "TL": "mga alaala",
+      "MY": "မှတ်ဉာဏ်များ",
+      "HI": "यादें",
+      "AR": "ذكريات",
+      "FA": "خاطرات"
+    }
+  },
+  "jisho_data": {
+    "slug": "思い出",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "思い出",
+        "reading": "おもいで"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "memories",
+          "recollections",
+          "reminiscence"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "思",
+    "出"
+  ],
+  "kanji_data": {
+    "思": {
+      "meanings": [
+        "think"
+      ],
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [
+        "おぼ.す",
+        "おも.う",
+        "おもえら.く"
+      ],
+      "stroke_count": 9,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 132,
+      "unicode": "601D",
+      "grade": 2
+    },
+    "出": {
+      "meanings": [
+        "come out",
+        "exit",
+        "go out",
+        "leave",
+        "protrude",
+        "put out"
+      ],
+      "on_readings": [
+        "シュツ",
+        "スイ"
+      ],
+      "kun_readings": [
+        "-だ.す",
+        "-で",
+        "い.だす",
+        "い.でる",
+        "だ.す",
+        "で.る"
+      ],
+      "stroke_count": 5,
+      "jlpt": 5,
+      "freq_mainichi_shinbun": 13,
+      "unicode": "51FA",
+      "grade": 1
+    }
+  }
 }

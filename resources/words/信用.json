@@ -1,386 +1,505 @@
 {
-    "version": "0.2.0",
-    "word": "信用",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/OE95fERK1YY",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "信用",
-        "reading": "しんよう",
-        "introduction_japanese": "「信用」は、人間関係の会話、報告や証言の話、会社の評判、ビジネスや金融、カードの取引の場面でよく使う言葉です。",
-        "introduction_english": "The noun/suru-verb しんよう is commonly used in conversations about relationships, reports and testimonies, company reputation, business and finance, and credit card dealings.",
-        "meanings": [
-            [
-                "confidence",
-                "trust",
-                "faith",
-                "reputation"
-            ],
-            [
-                "credit"
-            ]
-        ],
-        "meaning_explanation_japanese": "「信用」は、人や情報を本当だと思って任せる気持ちや、社会でのよい評価を表します。お金の分野では、あとで払うことを許す「クレジット」の意味でも使います。",
-        "meaning_explanation_english": "The word しんよう means confidence, trust, faith, or reputation. In finance, it also means credit, like allowing payment later.",
-        "kanji_explanation_english": "The first kanji means faith or trust. Its on-yomi is しん. You see it in words like しんごう where it helps mean a signal you can trust, and じしん where it adds the idea of trusting yourself. The second kanji means use or using something. Its on-yomi is よう and the kun-yomi is もちいる. It appears in words like ようじ for personal business to take care of, and りよう for using a service or thing.",
-        "kanji_details": [
-            {
-                "kanji": "信",
-                "common_words": [
-                    "信号 (しんごう): traffic light; signal",
-                    "自信 (じしん): self-confidence"
-                ]
-            },
-            {
-                "kanji": "用",
-                "common_words": [
-                    "用事 (ようじ): errand; business",
-                    "利用 (りよう): use; utilization"
-                ]
-            }
-        ],
-        "synonyms": [
-            "信頼 : しんらい : trust; reliance"
-        ],
-        "synonyms_explanation": "The most common synonym of the word しんよう is しんらい, which feels more personal and strong reliance on someone’s ability, while しんよう also covers public image and financial credit.",
-        "antonyms": [
-            "不信 : ふしん : distrust; mistrust"
-        ],
-        "antonyms_explanation": "The most common antonym of the word しんよう is ふしん, which means not believing or doubting someone or something.",
-        "examples": [
-            {
-                "kanji": "人を信用する。",
-                "furigana": "人(ひと)を信用(しんよう)する。",
-                "translations": {
-                    "EN": "Trust people.",
-                    "ID": "Percaya pada orang lain.",
-                    "ES": "Confía en la gente.",
-                    "VI": "Hãy tin tưởng mọi người.",
-                    "FR": "Faites confiance aux gens.",
-                    "NE": "मानिसहरूलाई विश्वास गर्नुहोस्।",
-                    "BN": "মানুষকে বিশ্বাস করো।",
-                    "ZH": "相信别人。",
-                    "KO": "사람을 신용한다.",
-                    "TL": "Magtiwala sa mga tao.",
-                    "MY": "လူတွေကို ယုံကြည်ပါ။",
-                    "HI": "लोगों पर भरोसा करें.",
-                    "AR": "ثق بالناس.",
-                    "FA": "به مردم اعتماد کنید."
-                }
-            },
-            {
-                "kanji": "相手を信用していいですか。",
-                "furigana": "相手(あいて)を信用(しんよう)していいですか。",
-                "translations": {
-                    "EN": "Can I trust the other person?",
-                    "ID": "Bisakah saya memercayai orang lain?",
-                    "ES": "¿Puedo confiar en la otra persona?",
-                    "VI": "Tôi có thể tin tưởng người kia không?",
-                    "FR": "Puis-je faire confiance à l’autre personne ?",
-                    "NE": "के म अर्को व्यक्तिलाई विश्वास गर्न सक्छु?",
-                    "BN": "আমি কি অন্য ব্যক্তিকে বিশ্বাস করতে পারি?",
-                    "ZH": "我可以相信对方吗？",
-                    "KO": "상대방을 신뢰할 수 있습니까?",
-                    "TL": "Maaari ba akong magtiwala sa ibang tao?",
-                    "MY": "တစ်ဖက်လူကို ယုံလို့ရမလား။",
-                    "HI": "क्या मैं दूसरे व्यक्ति पर भरोसा कर सकता हूं?",
-                    "AR": "هل يمكنني أن أثق بالشخص الآخر؟",
-                    "FA": "آیا می‌توانم به طرف مقابل اعتماد کنم؟"
-                }
-            },
-            {
-                "kanji": "証言を信用する。",
-                "furigana": "証言(しょうげん)を信用(しんよう)する。",
-                "translations": {
-                    "EN": "Trust the testimony.",
-                    "ID": "Percayalah pada kesaksiannya.",
-                    "ES": "Confía en el testimonio.",
-                    "VI": "Hãy tin vào lời khai.",
-                    "FR": "Faites confiance au témoignage.",
-                    "NE": "गवाहीमाथि विश्वास गर्नुहोस्।",
-                    "BN": "সাক্ষ্য বিশ্বাস করুন।",
-                    "ZH": "相信证词。",
-                    "KO": "증언을 신용한다.",
-                    "TL": "Magtiwala sa patotoo.",
-                    "MY": "သက်သေခံချက်ကို ယုံကြည်ပါ။",
-                    "HI": "गवाही पर भरोसा करें.",
-                    "AR": "ثق بالشهادة.",
-                    "FA": "به شهادت اعتماد کنید."
-                }
-            },
-            {
-                "kanji": "社会的信用を築く。",
-                "furigana": "社会的(しゃかいてき)信用(しんよう)を築(きず)く。",
-                "translations": {
-                    "EN": "Build social credibility.",
-                    "ID": "Membangun kredibilitas sosial.",
-                    "ES": "Construir credibilidad social.",
-                    "VI": "Xây dựng uy tín xã hội.",
-                    "FR": "Construire une crédibilité sociale.",
-                    "NE": "सामाजिक विश्वसनीयता निर्माण गर्नुहोस्।",
-                    "BN": "সামাজিক বিশ্বাসযোগ্যতা তৈরি করুন।",
-                    "ZH": "树立社会公信力。",
-                    "KO": "사회적 신용을 구축한다.",
-                    "TL": "Bumuo ng kredibilidad sa lipunan.",
-                    "MY": "လူမှုရေးယုံကြည်မှုတည်ဆောက်ပါ။",
-                    "HI": "सामाजिक विश्वसनीयता बनाएं.",
-                    "AR": "بناء المصداقية الاجتماعية.",
-                    "FA": "اعتبار اجتماعی ایجاد کنید."
-                }
-            },
-            {
-                "kanji": "信用を失う。",
-                "furigana": "信用(しんよう)を失(うしな)う。",
-                "translations": {
-                    "EN": "Lose credibility.",
-                    "ID": "Kehilangan kredibilitas.",
-                    "ES": "Perder credibilidad.",
-                    "VI": "Mất uy tín.",
-                    "FR": "Perdre sa crédibilité.",
-                    "NE": "विश्वसनीयता गुमाउनु।",
-                    "BN": "বিশ্বাসযোগ্যতা হারান।",
-                    "ZH": "失去信誉。",
-                    "KO": "신용을 잃는다.",
-                    "TL": "Mawalan ng kredibilidad.",
-                    "MY": "ယုံကြည်ကိုးစားမှု ဆုံးရှုံးတယ်။",
-                    "HI": "विश्वसनीयता खोना.",
-                    "AR": "فقدان المصداقية.",
-                    "FA": "اعتبار را از دست بدهد."
-                }
-            },
-            {
-                "kanji": "信用を回復する。",
-                "furigana": "信用(しんよう)を回復(かいふく)する。",
-                "translations": {
-                    "EN": "Restore trust.",
-                    "ID": "Mengembalikan kepercayaan.",
-                    "ES": "Restaurar la confianza.",
-                    "VI": "Khôi phục lòng tin.",
-                    "FR": "Restaurer la confiance.",
-                    "NE": "विश्वास पुनर्स्थापित गर्नुहोस्।",
-                    "BN": "আস্থা পুনরুদ্ধার করুন।",
-                    "ZH": "恢复信任。",
-                    "KO": "신용을 회복한다.",
-                    "TL": "Ibalik ang tiwala.",
-                    "MY": "ယုံကြည်မှုကို ပြန်လည်ရယူပါ။",
-                    "HI": "विश्वास बहाल करें.",
-                    "AR": "استعادة الثقة.",
-                    "FA": "اعتماد را بازیابی کنید."
-                }
-            },
-            {
-                "kanji": "信用取引を始める。",
-                "furigana": "信用(しんよう)取引(とりひき)を始(はじ)める。",
-                "translations": {
-                    "EN": "Start margin trading.",
-                    "ID": "Mulai perdagangan margin.",
-                    "ES": "Comience a operar con margen.",
-                    "VI": "Bắt đầu giao dịch ký quỹ.",
-                    "FR": "Commencez le trading sur marge.",
-                    "NE": "मार्जिन ट्रेडिंग सुरु गर्नुहोस्।",
-                    "BN": "মার্জিন ট্রেডিং শুরু করুন।",
-                    "ZH": "开始保证金交易。",
-                    "KO": "신용 거래를 시작합니다.",
-                    "TL": "Simulan ang margin trading.",
-                    "MY": "margin အရောင်းအဝယ်စတင်ပါ။",
-                    "HI": "मार्जिन ट्रेडिंग शुरू करें.",
-                    "AR": "ابدأ التداول بالهامش.",
-                    "FA": "معاملات مارجین را شروع کنید."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "confidence": {
-                "ID": "kepercayaan diri",
-                "ES": "confianza",
-                "VI": "sự tự tin",
-                "FR": "confiance",
-                "NE": "आत्मविश्वास",
-                "BN": "আত্মবিশ্বাস",
-                "ZH": "信心",
-                "KO": "신뢰",
-                "TL": "kumpiyansa",
-                "MY": "ယုံကြည်မှု",
-                "HI": "आत्मविश्वास",
-                "AR": "ثقة",
-                "FA": "اعتماد به نفس",
-                "EN": [
-                    "trust",
-                    "faith",
-                    "reputation"
-                ]
-            },
-            "credit": {
-                "ID": "kredit",
-                "ES": "crédito",
-                "VI": "tín dụng",
-                "FR": "crédit",
-                "NE": "क्रेडिट",
-                "BN": "ক্রেডিট",
-                "ZH": "信用",
-                "KO": "신용 거래",
-                "TL": "pautang",
-                "MY": "credit ပါ။",
-                "HI": "श्रेय",
-                "AR": "ائتمان",
-                "FA": "اعتبار",
-                "EN": []
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "信用",
-        "is_common": true,
-        "tags": [
-            "wanikani15"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "信用",
-                "reading": "しんよう"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "confidence",
-                    "trust",
-                    "faith",
-                    "reputation"
-                ],
-                "parts_of_speech": [
-                    "Noun",
-                    "Suru verb",
-                    "Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "credit"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [
-                    "Finance"
-                ],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "信",
-        "用"
+  "version": "0.3.0",
+  "word": "信用",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/OE95fERK1YY",
+  "in_db": true,
+  "kanji": "信用",
+  "reading": "しんよう",
+  "introduction_japanese": "「信用」は、人間関係の会話、報告や証言の話、会社の評判、ビジネスや金融、カードの取引の場面でよく使う言葉です。",
+  "introduction_english": "The noun/suru-verb しんよう is commonly used in conversations about relationships, reports and testimonies, company reputation, business and finance, and credit card dealings.",
+  "meanings": [
+    [
+      "confidence",
+      "trust",
+      "faith",
+      "reputation"
     ],
-    "kanji_data": {
-        "信": {
-            "freq_mainichi_shinbun": 208,
-            "grade": 4,
-            "heisig_en": "faith",
-            "jlpt": 3,
-            "kanji": "信",
-            "kun_readings": [],
-            "meanings": [
-                "faith",
-                "fidelity",
-                "trust",
-                "truth"
-            ],
-            "name_readings": [
-                "し",
-                "しが",
-                "しな",
-                "しの",
-                "しぶ",
-                "とき",
-                "のび",
-                "のぶ",
-                "まこと"
-            ],
-            "notes": [],
-            "on_readings": [
-                "シン"
-            ],
-            "stroke_count": 9,
-            "unicode": "4FE1"
-        },
-        "用": {
-            "freq_mainichi_shinbun": 107,
-            "grade": 2,
-            "heisig_en": "utilize",
-            "jlpt": 4,
-            "kanji": "用",
-            "kun_readings": [
-                "もち.いる"
-            ],
-            "meanings": [
-                "business",
-                "employ",
-                "service",
-                "use",
-                "utilize"
-            ],
-            "name_readings": [
-                "たから"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ヨウ"
-            ],
-            "stroke_count": 5,
-            "unicode": "7528"
-        }
-    },
-    "collocations": [
-        "人を信用する",
-        "相手を信用する",
-        "自分を信用する",
-        "報告を信用する",
-        "証言を信用する",
-        "信用度",
-        "信用調査",
-        "信用格付け",
-        "信用取引",
-        "信用保証",
-        "信用と裏切り",
-        "信用と信頼を結ぶ",
-        "信用と期待を寄せる",
-        "信用と実績を重ねる",
-        "信用と義務を果たす",
-        "高い信用",
-        "強い信用",
-        "絶対の信用",
-        "社会的信用",
-        "長期信用",
-        "安易に信用する",
-        "安心して信用する",
-        "完全に信用する",
-        "半ば信用する",
-        "十分に信用する",
-        "信用を失う",
-        "信用を回復する",
-        "信用を築く",
-        "信用を損なう",
-        "信用を高める"
+    [
+      "credit"
     ]
+  ],
+  "meaning_explanation_japanese": "「信用」は、人や情報を本当だと思って任せる気持ちや、社会でのよい評価を表します。お金の分野では、あとで払うことを許す「クレジット」の意味でも使います。",
+  "meaning_explanation_english": "The word しんよう means confidence, trust, faith, or reputation. In finance, it also means credit, like allowing payment later.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "信",
+      "common_words": [
+        "信号 (しんごう): traffic light; signal",
+        "自信 (じしん): self-confidence"
+      ]
+    },
+    {
+      "kanji": "用",
+      "common_words": [
+        "用事 (ようじ): errand; business",
+        "利用 (りよう): use; utilization"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means faith or trust. Its on-yomi is しん. You see it in words like しんごう where it helps mean a signal you can trust, and じしん where it adds the idea of trusting yourself. The second kanji means use or using something. Its on-yomi is よう and the kun-yomi is もちいる. It appears in words like ようじ for personal business to take care of, and りよう for using a service or thing.",
+  "synonyms": [
+    "信頼 : しんらい : trust; reliance"
+  ],
+  "synonym_explanation": "The most common synonym of the word しんよう is しんらい, which feels more personal and strong reliance on someone’s ability, while しんよう also covers public image and financial credit.",
+  "antonyms": [
+    "不信 : ふしん : distrust; mistrust"
+  ],
+  "antonym_explanation": "The most common antonym of the word しんよう is ふしん, which means not believing or doubting someone or something.",
+  "collocations": [
+    {
+      "kanji": "人を信用する",
+      "furigana": "人を信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "相手を信用する",
+      "furigana": "相手を信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "自分を信用する",
+      "furigana": "自分を信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "報告を信用する",
+      "furigana": "報告を信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "証言を信用する",
+      "furigana": "証言を信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "信用度",
+      "furigana": "信用度",
+      "translations": {}
+    },
+    {
+      "kanji": "信用調査",
+      "furigana": "信用調査",
+      "translations": {}
+    },
+    {
+      "kanji": "信用格付け",
+      "furigana": "信用格付け",
+      "translations": {}
+    },
+    {
+      "kanji": "信用取引",
+      "furigana": "信用取引",
+      "translations": {}
+    },
+    {
+      "kanji": "信用保証",
+      "furigana": "信用保証",
+      "translations": {}
+    },
+    {
+      "kanji": "信用と裏切り",
+      "furigana": "信用と裏切り",
+      "translations": {}
+    },
+    {
+      "kanji": "信用と信頼を結ぶ",
+      "furigana": "信用と信頼を結ぶ",
+      "translations": {}
+    },
+    {
+      "kanji": "信用と期待を寄せる",
+      "furigana": "信用と期待を寄せる",
+      "translations": {}
+    },
+    {
+      "kanji": "信用と実績を重ねる",
+      "furigana": "信用と実績を重ねる",
+      "translations": {}
+    },
+    {
+      "kanji": "信用と義務を果たす",
+      "furigana": "信用と義務を果たす",
+      "translations": {}
+    },
+    {
+      "kanji": "高い信用",
+      "furigana": "高い信用",
+      "translations": {}
+    },
+    {
+      "kanji": "強い信用",
+      "furigana": "強い信用",
+      "translations": {}
+    },
+    {
+      "kanji": "絶対の信用",
+      "furigana": "絶対の信用",
+      "translations": {}
+    },
+    {
+      "kanji": "社会的信用",
+      "furigana": "社会的信用",
+      "translations": {}
+    },
+    {
+      "kanji": "長期信用",
+      "furigana": "長期信用",
+      "translations": {}
+    },
+    {
+      "kanji": "安易に信用する",
+      "furigana": "安易に信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "安心して信用する",
+      "furigana": "安心して信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "完全に信用する",
+      "furigana": "完全に信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "半ば信用する",
+      "furigana": "半ば信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "十分に信用する",
+      "furigana": "十分に信用する",
+      "translations": {}
+    },
+    {
+      "kanji": "信用を失う",
+      "furigana": "信用を失う",
+      "translations": {}
+    },
+    {
+      "kanji": "信用を回復する",
+      "furigana": "信用を回復する",
+      "translations": {}
+    },
+    {
+      "kanji": "信用を築く",
+      "furigana": "信用を築く",
+      "translations": {}
+    },
+    {
+      "kanji": "信用を損なう",
+      "furigana": "信用を損なう",
+      "translations": {}
+    },
+    {
+      "kanji": "信用を高める",
+      "furigana": "信用を高める",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "人を信用する。",
+      "furigana": "人(ひと)を信用(しんよう)する。",
+      "translations": {
+        "EN": "Trust people.",
+        "ID": "Percaya pada orang lain.",
+        "ES": "Confía en la gente.",
+        "VI": "Hãy tin tưởng mọi người.",
+        "FR": "Faites confiance aux gens.",
+        "NE": "मानिसहरूलाई विश्वास गर्नुहोस्।",
+        "BN": "মানুষকে বিশ্বাস করো।",
+        "ZH": "相信别人。",
+        "KO": "사람을 신용한다.",
+        "TL": "Magtiwala sa mga tao.",
+        "MY": "လူတွေကို ယုံကြည်ပါ။",
+        "HI": "लोगों पर भरोसा करें.",
+        "AR": "ثق بالناس.",
+        "FA": "به مردم اعتماد کنید."
+      }
+    },
+    {
+      "kanji": "相手を信用していいですか。",
+      "furigana": "相手(あいて)を信用(しんよう)していいですか。",
+      "translations": {
+        "EN": "Can I trust the other person?",
+        "ID": "Bisakah saya memercayai orang lain?",
+        "ES": "¿Puedo confiar en la otra persona?",
+        "VI": "Tôi có thể tin tưởng người kia không?",
+        "FR": "Puis-je faire confiance à l’autre personne ?",
+        "NE": "के म अर्को व्यक्तिलाई विश्वास गर्न सक्छु?",
+        "BN": "আমি কি অন্য ব্যক্তিকে বিশ্বাস করতে পারি?",
+        "ZH": "我可以相信对方吗？",
+        "KO": "상대방을 신뢰할 수 있습니까?",
+        "TL": "Maaari ba akong magtiwala sa ibang tao?",
+        "MY": "တစ်ဖက်လူကို ယုံလို့ရမလား။",
+        "HI": "क्या मैं दूसरे व्यक्ति पर भरोसा कर सकता हूं?",
+        "AR": "هل يمكنني أن أثق بالشخص الآخر؟",
+        "FA": "آیا می‌توانم به طرف مقابل اعتماد کنم؟"
+      }
+    },
+    {
+      "kanji": "証言を信用する。",
+      "furigana": "証言(しょうげん)を信用(しんよう)する。",
+      "translations": {
+        "EN": "Trust the testimony.",
+        "ID": "Percayalah pada kesaksiannya.",
+        "ES": "Confía en el testimonio.",
+        "VI": "Hãy tin vào lời khai.",
+        "FR": "Faites confiance au témoignage.",
+        "NE": "गवाहीमाथि विश्वास गर्नुहोस्।",
+        "BN": "সাক্ষ্য বিশ্বাস করুন।",
+        "ZH": "相信证词。",
+        "KO": "증언을 신용한다.",
+        "TL": "Magtiwala sa patotoo.",
+        "MY": "သက်သေခံချက်ကို ယုံကြည်ပါ။",
+        "HI": "गवाही पर भरोसा करें.",
+        "AR": "ثق بالشهادة.",
+        "FA": "به شهادت اعتماد کنید."
+      }
+    },
+    {
+      "kanji": "社会的信用を築く。",
+      "furigana": "社会的(しゃかいてき)信用(しんよう)を築(きず)く。",
+      "translations": {
+        "EN": "Build social credibility.",
+        "ID": "Membangun kredibilitas sosial.",
+        "ES": "Construir credibilidad social.",
+        "VI": "Xây dựng uy tín xã hội.",
+        "FR": "Construire une crédibilité sociale.",
+        "NE": "सामाजिक विश्वसनीयता निर्माण गर्नुहोस्।",
+        "BN": "সামাজিক বিশ্বাসযোগ্যতা তৈরি করুন।",
+        "ZH": "树立社会公信力。",
+        "KO": "사회적 신용을 구축한다.",
+        "TL": "Bumuo ng kredibilidad sa lipunan.",
+        "MY": "လူမှုရေးယုံကြည်မှုတည်ဆောက်ပါ။",
+        "HI": "सामाजिक विश्वसनीयता बनाएं.",
+        "AR": "بناء المصداقية الاجتماعية.",
+        "FA": "اعتبار اجتماعی ایجاد کنید."
+      }
+    },
+    {
+      "kanji": "信用を失う。",
+      "furigana": "信用(しんよう)を失(うしな)う。",
+      "translations": {
+        "EN": "Lose credibility.",
+        "ID": "Kehilangan kredibilitas.",
+        "ES": "Perder credibilidad.",
+        "VI": "Mất uy tín.",
+        "FR": "Perdre sa crédibilité.",
+        "NE": "विश्वसनीयता गुमाउनु।",
+        "BN": "বিশ্বাসযোগ্যতা হারান।",
+        "ZH": "失去信誉。",
+        "KO": "신용을 잃는다.",
+        "TL": "Mawalan ng kredibilidad.",
+        "MY": "ယုံကြည်ကိုးစားမှု ဆုံးရှုံးတယ်။",
+        "HI": "विश्वसनीयता खोना.",
+        "AR": "فقدان المصداقية.",
+        "FA": "اعتبار را از دست بدهد."
+      }
+    },
+    {
+      "kanji": "信用を回復する。",
+      "furigana": "信用(しんよう)を回復(かいふく)する。",
+      "translations": {
+        "EN": "Restore trust.",
+        "ID": "Mengembalikan kepercayaan.",
+        "ES": "Restaurar la confianza.",
+        "VI": "Khôi phục lòng tin.",
+        "FR": "Restaurer la confiance.",
+        "NE": "विश्वास पुनर्स्थापित गर्नुहोस्।",
+        "BN": "আস্থা পুনরুদ্ধার করুন।",
+        "ZH": "恢复信任。",
+        "KO": "신용을 회복한다.",
+        "TL": "Ibalik ang tiwala.",
+        "MY": "ယုံကြည်မှုကို ပြန်လည်ရယူပါ။",
+        "HI": "विश्वास बहाल करें.",
+        "AR": "استعادة الثقة.",
+        "FA": "اعتماد را بازیابی کنید."
+      }
+    },
+    {
+      "kanji": "信用取引を始める。",
+      "furigana": "信用(しんよう)取引(とりひき)を始(はじ)める。",
+      "translations": {
+        "EN": "Start margin trading.",
+        "ID": "Mulai perdagangan margin.",
+        "ES": "Comience a operar con margen.",
+        "VI": "Bắt đầu giao dịch ký quỹ.",
+        "FR": "Commencez le trading sur marge.",
+        "NE": "मार्जिन ट्रेडिंग सुरु गर्नुहोस्।",
+        "BN": "মার্জিন ট্রেডিং শুরু করুন।",
+        "ZH": "开始保证金交易。",
+        "KO": "신용 거래를 시작합니다.",
+        "TL": "Simulan ang margin trading.",
+        "MY": "margin အရောင်းအဝယ်စတင်ပါ။",
+        "HI": "मार्जिन ट्रेडिंग शुरू करें.",
+        "AR": "ابدأ التداول بالهامش.",
+        "FA": "معاملات مارجین را شروع کنید."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "confidence": {
+      "ID": "kepercayaan diri",
+      "ES": "confianza",
+      "VI": "sự tự tin",
+      "FR": "confiance",
+      "NE": "आत्मविश्वास",
+      "BN": "আত্মবিশ্বাস",
+      "ZH": "信心",
+      "KO": "신뢰",
+      "TL": "kumpiyansa",
+      "MY": "ယုံကြည်မှု",
+      "HI": "आत्मविश्वास",
+      "AR": "ثقة",
+      "FA": "اعتماد به نفس",
+      "EN": [
+        "trust",
+        "faith",
+        "reputation"
+      ]
+    },
+    "credit": {
+      "ID": "kredit",
+      "ES": "crédito",
+      "VI": "tín dụng",
+      "FR": "crédit",
+      "NE": "क्रेडिट",
+      "BN": "ক্রেডিট",
+      "ZH": "信用",
+      "KO": "신용 거래",
+      "TL": "pautang",
+      "MY": "credit ပါ။",
+      "HI": "श्रेय",
+      "AR": "ائتمان",
+      "FA": "اعتبار",
+      "EN": []
+    }
+  },
+  "jisho_data": {
+    "slug": "信用",
+    "is_common": true,
+    "tags": [
+      "wanikani15"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "信用",
+        "reading": "しんよう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "confidence",
+          "trust",
+          "faith",
+          "reputation"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Suru verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "credit"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [
+          "Finance"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "信",
+    "用"
+  ],
+  "kanji_data": {
+    "信": {
+      "freq_mainichi_shinbun": 208,
+      "grade": 4,
+      "heisig_en": "faith",
+      "jlpt": 3,
+      "kanji": "信",
+      "kun_readings": [],
+      "meanings": [
+        "faith",
+        "fidelity",
+        "trust",
+        "truth"
+      ],
+      "name_readings": [
+        "し",
+        "しが",
+        "しな",
+        "しの",
+        "しぶ",
+        "とき",
+        "のび",
+        "のぶ",
+        "まこと"
+      ],
+      "notes": [],
+      "on_readings": [
+        "シン"
+      ],
+      "stroke_count": 9,
+      "unicode": "4FE1"
+    },
+    "用": {
+      "freq_mainichi_shinbun": 107,
+      "grade": 2,
+      "heisig_en": "utilize",
+      "jlpt": 4,
+      "kanji": "用",
+      "kun_readings": [
+        "もち.いる"
+      ],
+      "meanings": [
+        "business",
+        "employ",
+        "service",
+        "use",
+        "utilize"
+      ],
+      "name_readings": [
+        "たから"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ヨウ"
+      ],
+      "stroke_count": 5,
+      "unicode": "7528"
+    }
+  }
 }

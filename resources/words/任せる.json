@@ -1,395 +1,498 @@
 {
-    "version": "0.2.0",
-    "word": "任せる",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/I2Bs5-H3tv4",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "任せる",
-        "reading": "まかせる",
-        "introduction_japanese": "「任せる」は、仕事や学校の分担、会議での決めごと、家事や片付け、旅行の手配、プロや専門家にお願いするときの会話でよく使う動詞です。ときどき、物事を自然の流れにゆだねる話でも使います。",
-        "introduction_english": "The verb まかせる is commonly used when talking about dividing tasks at work or school, making decisions in meetings, chores and tidying, arranging travel, and asking a professional to handle something. It also appears when you talk about letting things follow their natural course.",
-        "meanings": [
-            [
-                "to leave a matter or decision to someone",
-                "to entrust to someone",
-                "to entrust someone with"
-            ],
-            [
-                "to leave to chance or one's imagination",
-                "to let take its own course; to let happen",
-                "to give oneself to something"
-            ],
-            [
-                "to use something to the full (as ～に任せて)",
-                "to use freely",
-                "to use without reserve"
-            ]
-        ],
-        "meaning_explanation_japanese": "「任せる」は、人に決めてもらったり仕事をしてもらったりすること、または成り行きにゆだねることを表します。さらに「〜に任せて」で、お金や力・時間などを思いきり使うという意味にもなります。",
-        "meaning_explanation_english": "The word まかせる means to leave something to someone or have them decide or do it, and also to let things take their natural course. With the pattern ～に任せて, it can mean using money, strength, or time to the full.",
-        "kanji_explanation_english": "The first kanji means responsibility and entrusting something. You see it in words like にんむ, a duty or mission you are assigned. It also appears in せきにん, the responsibility you carry. So it gives the feeling of being appointed to handle something.",
-        "kanji_details": [
-            {
-                "kanji": "任",
-                "common_words": [
-                    "任務 (にんむ): duty; mission",
-                    "責任 (せきにん): responsibility"
-                ]
-            }
-        ],
-        "synonyms": [
-            "委ねる : ゆだねる : to entrust; to hand over control"
-        ],
-        "synonyms_explanation": "The most common synonym of the まかせる is ゆだねる. It sounds a bit more formal or literary and suggests yielding control or judgment, very close to entrusting.",
-        "antonyms": [
-            "引き受ける : ひきうける : to take on; to undertake oneself"
-        ],
-        "antonyms_explanation": "The most common antonym of the まかせる is ひきうける. It means you take the task or responsibility yourself, the opposite of handing it to someone else.",
-        "examples": [
-            {
-                "kanji": "この仕事を先輩に任せます。",
-                "furigana": "この仕事(しごと)を先輩(せんぱい)に任(まか)せます。",
-                "translations": {
-                    "EN": "I will leave this job to my superiors.",
-                    "ID": "Saya akan menyerahkan pekerjaan ini kepada atasan saya.",
-                    "ES": "Dejaré este trabajo a mis superiores.",
-                    "VI": "Tôi sẽ giao công việc này cho cấp trên của tôi.",
-                    "FR": "Je laisserai ce travail à mes supérieurs.",
-                    "NE": "म यो काम मेरा वरिष्ठहरूलाई छोड्नेछु।",
-                    "BN": "আমি এই কাজটি আমার ঊর্ধ্বতনদের উপর ছেড়ে দেব।",
-                    "ZH": "我会把这个工作交给我的上级。",
-                    "KO": "이 일을 선배에게 맡깁니다.",
-                    "TL": "Ipapaubaya ko ang trabahong ito sa aking mga nakatataas.",
-                    "MY": "ဒီအလုပ်က အထက်လူကြီးကို ထားခဲ့မယ်။",
-                    "HI": "मैं यह काम अपने वरिष्ठों पर छोड़ दूंगा।",
-                    "AR": "سأترك هذه المهمة لرؤسائي.",
-                    "FA": "این کار را به مافوق‌هایم واگذار می‌کنم."
-                }
-            },
-            {
-                "kanji": "判断は他人に任せます。",
-                "furigana": "判断(はんだん)は他人(たにん)に任(まか)せます。",
-                "translations": {
-                    "EN": "I leave the decision to others.",
-                    "ID": "Saya serahkan keputusannya pada orang lain.",
-                    "ES": "Dejo la decisión a otros.",
-                    "VI": "Tôi để người khác quyết định.",
-                    "FR": "Je laisse la décision à d'autres.",
-                    "NE": "म निर्णय अरूलाई छोड्छु।",
-                    "BN": "আমি সিদ্ধান্ত অন্যদের উপর ছেড়ে দিচ্ছি।",
-                    "ZH": "我把决定权留给其他人。",
-                    "KO": "판단은 타인에게 맡깁니다.",
-                    "TL": "Ipinapaubaya ko sa iba ang desisyon.",
-                    "MY": "ငါ ဆုံးဖြတ်ချက်ကို တခြားသူတွေကို ထားခဲ့ပါ။",
-                    "HI": "मैं निर्णय दूसरों पर छोड़ता हूं।",
-                    "AR": "أترك القرار للآخرين.",
-                    "FA": "تصمیم گیری را به دیگران واگذار می کنم."
-                }
-            },
-            {
-                "kanji": "この問題は専門家に任せましょう。",
-                "furigana": "この問題(もんだい)は専門家(せんもんか)に任(まか)せましょう。",
-                "translations": {
-                    "EN": "Leave this issue to the experts.",
-                    "ID": "Serahkan masalah ini pada ahlinya.",
-                    "ES": "Deje este asunto en manos de los expertos.",
-                    "VI": "Hãy để vấn đề này cho các chuyên gia.",
-                    "FR": "Laissez cette question aux experts.",
-                    "NE": "यो मुद्दा विज्ञहरूलाई छोड्नुहोस्।",
-                    "BN": "এই বিষয়টি বিশেষজ্ঞদের উপর ছেড়ে দিন।",
-                    "ZH": "把这个问题留给专家去解决吧。",
-                    "KO": "이 문제는 전문가에게 맡기십시오.",
-                    "TL": "Ipaubaya ang isyung ito sa mga eksperto.",
-                    "MY": "ဒီကိစ္စကို ကျွမ်းကျင်သူတွေဆီ ထားခဲ့ပါ။",
-                    "HI": "इस मुद्दे को विशेषज्ञों पर छोड़ दें।",
-                    "AR": "اترك هذه المسألة للخبراء.",
-                    "FA": "این موضوع را به متخصصان بسپارید."
-                }
-            },
-            {
-                "kanji": "それは私に任せてください。",
-                "furigana": "それは私(わたし)に任(まか)せてください。",
-                "translations": {
-                    "EN": "Leave that to me.",
-                    "ID": "Serahkan saja padaku.",
-                    "ES": "Déjamelo a mí.",
-                    "VI": "Để tôi lo việc đó.",
-                    "FR": "Laissez-moi faire.",
-                    "NE": "त्यो मलाई छोडिदिनुहोस्।",
-                    "BN": "ওটা আমার উপর ছেড়ে দাও।",
-                    "ZH": "交给我吧。",
-                    "KO": "그것은 나에게 맡겨주세요.",
-                    "TL": "Iwanan mo na yan sa akin.",
-                    "MY": "ငါ့ကိုထားခဲ့ပါ။",
-                    "HI": "इसे मुझ पर छोड़ दो.",
-                    "AR": "اترك هذا لي.",
-                    "FA": "اون رو به من بسپار."
-                }
-            },
-            {
-                "kanji": "旅行の手配は完全に任せます。",
-                "furigana": "旅行(りょこう)の手配(てはい)は完全(かんぜん)に任(まか)せます。",
-                "translations": {
-                    "EN": "Travel arrangements are entirely up to you.",
-                    "ID": "Pengaturan perjalanan sepenuhnya terserah Anda.",
-                    "ES": "Los arreglos de viaje dependen completamente de usted.",
-                    "VI": "Việc sắp xếp chuyến đi hoàn toàn phụ thuộc vào bạn.",
-                    "FR": "Les modalités de votre voyage dépendent entièrement de vous.",
-                    "NE": "यात्राको व्यवस्था पूर्णतया तपाईंमा निर्भर छ।",
-                    "BN": "ভ্রমণের ব্যবস্থা সম্পূর্ণ আপনার উপর নির্ভর করে।",
-                    "ZH": "旅行安排完全由您决定。",
-                    "KO": "여행 준비는 완전히 맡깁니다.",
-                    "TL": "Ang mga kaayusan sa paglalakbay ay ganap na nakasalalay sa iyo.",
-                    "MY": "ခရီးသွားအစီအစဉ်များသည် သင့်အတွက် လုံးလုံးလျားလျားဖြစ်သည်။",
-                    "HI": "यात्रा की व्यवस्था पूरी तरह आप पर निर्भर है।",
-                    "AR": "ترتيبات السفر تعتمد عليك بالكامل.",
-                    "FA": "برنامه‌ریزی سفر کاملاً به خودتان بستگی دارد."
-                }
-            },
-            {
-                "kanji": "流れに任せておきます。",
-                "furigana": "流(なが)れに任(まか)せておきます。",
-                "translations": {
-                    "EN": "I'll just go with the flow.",
-                    "ID": "Saya akan mengikuti arus saja.",
-                    "ES": "Simplemente me dejaré llevar por la corriente.",
-                    "VI": "Tôi chỉ cần thuận theo tự nhiên thôi.",
-                    "FR": "Je vais juste suivre le courant.",
-                    "NE": "म बग्ने बाटोमा हिँड्छु।",
-                    "BN": "আমি শুধু স্রোতের সাথেই চলবো।",
-                    "ZH": "我只是顺其自然。",
-                    "KO": "흐름에 맡겨 둡니다.",
-                    "TL": "I'll just go with the flow.",
-                    "MY": "စီးဆင်းမှုနဲ့အတူ ငါသွားလိုက်မယ်။",
-                    "HI": "मैं बस बहाव के साथ चलूंगा।",
-                    "AR": "سأذهب مع التدفق فقط.",
-                    "FA": "من فقط با جریان پیش خواهم رفت."
-                }
-            },
-            {
-                "kanji": "彼は企画を任されました。",
-                "furigana": "彼(かれ)は企画(きかく)を任(まか)されました。",
-                "translations": {
-                    "EN": "He was put in charge of the planning.",
-                    "ID": "Dia ditugaskan untuk merencanakannya.",
-                    "ES": "Se le encargó la planificación.",
-                    "VI": "Ông được giao phụ trách việc lập kế hoạch.",
-                    "FR": "Il a été chargé de la planification.",
-                    "NE": "उनलाई योजनाको जिम्मा दिइयो।",
-                    "BN": "তাকে পরিকল্পনার দায়িত্ব দেওয়া হয়।",
-                    "ZH": "他被任命负责这项规划。",
-                    "KO": "그는 기획을 맡겼다.",
-                    "TL": "Siya ang inilagay na namamahala sa pagpaplano.",
-                    "MY": "အစီအစဥ်ကို တာဝန်ယူဆောင်ရွက်ခဲ့သည်။",
-                    "HI": "उन्हें योजना का प्रभारी बनाया गया।",
-                    "AR": "لقد تم تكليفه بالتخطيط.",
-                    "FA": "او مسئول برنامه‌ریزی شد."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "to leave a matter or decision to someone": {
-                "ID": "menyerahkan suatu masalah atau keputusan kepada seseorang",
-                "ES": "dejar un asunto o decisión en manos de alguien",
-                "VI": "để lại một vấn đề hoặc quyết định cho ai đó",
-                "FR": "laisser une affaire ou une décision à quelqu'un",
-                "NE": "कुनै कुरा वा निर्णय कसैलाई छोड्नु",
-                "BN": "কোনও বিষয় বা সিদ্ধান্ত কারো উপর ছেড়ে দেওয়া",
-                "ZH": "将某事或决定留给某人",
-                "KO": "문제나 결정을 누군가에게 맡기다",
-                "TL": "upang iwanan ang isang bagay o desisyon sa isang tao",
-                "MY": "ကိစ္စတစ်ခု သို့မဟုတ် ဆုံးဖြတ်ချက်တစ်ခုကို တစ်စုံတစ်ဦးထံ ထားခဲ့ရန်",
-                "HI": "किसी मामले या निर्णय को किसी पर छोड़ना",
-                "AR": "ترك أمر أو قرار لشخص ما",
-                "FA": "واگذار کردن کاری یا تصمیمی به کسی",
-                "EN": [
-                    "to entrust to someone",
-                    "to entrust someone with"
-                ]
-            },
-            "to leave to chance or one's imagination": {
-                "ID": "menyerahkannya pada kesempatan atau imajinasi seseorang",
-                "ES": "dejar al azar o a la imaginación",
-                "VI": "để mặc cho sự may rủi hoặc trí tưởng tượng của một người",
-                "FR": "laisser au hasard ou à son imagination",
-                "NE": "संयोग वा कल्पनामा छोड्नु",
-                "BN": "ভাগ্য বা কল্পনার উপর ছেড়ে দেওয়া",
-                "ZH": "听凭机会或想象",
-                "KO": "우연이나 상상에 맡기다",
-                "TL": "iwan sa pagkakataon o imahinasyon ng isa",
-                "MY": "အခွင့်အလမ်း သို့မဟုတ် စိတ်ကူးယဉ်မှုဆီသို့ ထွက်ခွာရန်",
-                "HI": "संयोग या अपनी कल्पना पर छोड़ देना",
-                "AR": "ترك الأمر للصدفة أو للخيال",
-                "FA": "به شانس یا تخیل خود واگذار کردن",
-                "EN": [
-                    "to let take its own course; to let happen",
-                    "to give oneself to something"
-                ]
-            },
-            "to use something to the full (as ～に任せて)": {
-                "ID": "untuk menggunakan sesuatu secara penuh (sebagai ～に任せて)",
-                "ES": "usar algo al máximo (como ～に任せて)",
-                "VI": "sử dụng cái gì đó một cách triệt để (như ～に任せて)",
-                "FR": "utiliser quelque chose au maximum (comme ～に任せて)",
-                "NE": "पूर्ण रूपमा केहि प्रयोग गर्न (जस्तै ～に任せて)",
-                "BN": "সম্পূর্ণরূপে কিছু ব্যবহার করতে (যেমন ～に任せて)",
-                "ZH": "充分利用某物（如～に任せて）",
-                "KO": "어떤 것을 최대한 활용하다 (~に任せて)",
-                "TL": "gumamit ng isang bagay nang buo (bilang ～に任せて)",
-                "MY": "တစ်ခုခုကို အပြည့်အဝသုံးရန် (～に任せて)၊",
-                "HI": "किसी चीज़ का पूर्ण उपयोग करना (जैसे ～に任せて)",
-                "AR": "لاستخدام شيء ما إلى أقصى حد (مثل ～に任せて)",
-                "FA": "استفاده کامل از چیزی (به عنوان ～に任せて)",
-                "EN": [
-                    "to use freely",
-                    "to use without reserve"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "任せる",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "任せる",
-                "reading": "まかせる"
-            },
-            {
-                "word": "委せる",
-                "reading": "まかせる"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "to leave (a matter, decision, etc. to someone)",
-                    "to entrust (to someone)",
-                    "to entrust (someone) with"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb",
-                    "Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to leave (to chance, one's imagination, etc.)",
-                    "to let (take its own course)",
-                    "to let (happen)",
-                    "to give (oneself to something)"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb",
-                    "Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "to use (money, strength, spare time, etc.) to the full",
-                    "to use freely",
-                    "to use without reserve"
-                ],
-                "parts_of_speech": [
-                    "Ichidan verb",
-                    "Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [
-                    "as ...に任せて"
-                ]
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "任"
+  "version": "0.3.0",
+  "word": "任せる",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/I2Bs5-H3tv4",
+  "in_db": true,
+  "kanji": "任せる",
+  "reading": "まかせる",
+  "introduction_japanese": "「任せる」は、仕事や学校の分担、会議での決めごと、家事や片付け、旅行の手配、プロや専門家にお願いするときの会話でよく使う動詞です。ときどき、物事を自然の流れにゆだねる話でも使います。",
+  "introduction_english": "The verb まかせる is commonly used when talking about dividing tasks at work or school, making decisions in meetings, chores and tidying, arranging travel, and asking a professional to handle something. It also appears when you talk about letting things follow their natural course.",
+  "meanings": [
+    [
+      "to leave a matter or decision to someone",
+      "to entrust to someone",
+      "to entrust someone with"
     ],
-    "kanji_data": {
-        "任": {
-            "freq_mainichi_shinbun": 217,
-            "grade": 5,
-            "heisig_en": "responsibility",
-            "jlpt": 3,
-            "kanji": "任",
-            "kun_readings": [
-                "まか.す",
-                "まか.せる"
-            ],
-            "meanings": [
-                "appoint",
-                "duty",
-                "entrust to",
-                "responsibility",
-                "term"
-            ],
-            "name_readings": [
-                "さ",
-                "とう",
-                "ひで"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ニン"
-            ],
-            "stroke_count": 6,
-            "unicode": "4EFB"
-        }
-    },
-    "collocations": [
-        "仕事を先輩に任せる",
-        "責任を部下に任せる",
-        "判断を他人に任せる",
-        "決定を幹部に任せる",
-        "管理を専門業者に任せる",
-        "掃除を全面的に任せる",
-        "交渉を丸ごと任せる",
-        "企画をすべて任せる",
-        "片付けを後任者に任せる",
-        "手配を現地スタッフに任せる",
-        "部下に任せる",
-        "専門家に任せる",
-        "家族に任せる",
-        "友人に任せる",
-        "プロに任せる",
-        "完全に任せる",
-        "思い切って任せる",
-        "安心して任せる",
-        "すべて任せる",
-        "ほとんど任せる",
-        "任せてください",
-        "任せっきりにする",
-        "任せっきりだ",
-        "任せるしかない",
-        "～に任せておく",
-        "～に任される"
+    [
+      "to leave to chance or one's imagination",
+      "to let take its own course; to let happen",
+      "to give oneself to something"
+    ],
+    [
+      "to use something to the full (as ～に任せて)",
+      "to use freely",
+      "to use without reserve"
     ]
+  ],
+  "meaning_explanation_japanese": "「任せる」は、人に決めてもらったり仕事をしてもらったりすること、または成り行きにゆだねることを表します。さらに「〜に任せて」で、お金や力・時間などを思いきり使うという意味にもなります。",
+  "meaning_explanation_english": "The word まかせる means to leave something to someone or have them decide or do it, and also to let things take their natural course. With the pattern ～に任せて, it can mean using money, strength, or time to the full.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "任",
+      "common_words": [
+        "任務 (にんむ): duty; mission",
+        "責任 (せきにん): responsibility"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means responsibility and entrusting something. You see it in words like にんむ, a duty or mission you are assigned. It also appears in せきにん, the responsibility you carry. So it gives the feeling of being appointed to handle something.",
+  "synonyms": [
+    "委ねる : ゆだねる : to entrust; to hand over control"
+  ],
+  "synonym_explanation": "The most common synonym of the まかせる is ゆだねる. It sounds a bit more formal or literary and suggests yielding control or judgment, very close to entrusting.",
+  "antonyms": [
+    "引き受ける : ひきうける : to take on; to undertake oneself"
+  ],
+  "antonym_explanation": "The most common antonym of the まかせる is ひきうける. It means you take the task or responsibility yourself, the opposite of handing it to someone else.",
+  "collocations": [
+    {
+      "kanji": "仕事を先輩に任せる",
+      "furigana": "仕事を先輩に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "責任を部下に任せる",
+      "furigana": "責任を部下に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "判断を他人に任せる",
+      "furigana": "判断を他人に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "決定を幹部に任せる",
+      "furigana": "決定を幹部に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "管理を専門業者に任せる",
+      "furigana": "管理を専門業者に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "掃除を全面的に任せる",
+      "furigana": "掃除を全面的に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "交渉を丸ごと任せる",
+      "furigana": "交渉を丸ごと任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "企画をすべて任せる",
+      "furigana": "企画をすべて任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "片付けを後任者に任せる",
+      "furigana": "片付けを後任者に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "手配を現地スタッフに任せる",
+      "furigana": "手配を現地スタッフに任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "部下に任せる",
+      "furigana": "部下に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "専門家に任せる",
+      "furigana": "専門家に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "家族に任せる",
+      "furigana": "家族に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "友人に任せる",
+      "furigana": "友人に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "プロに任せる",
+      "furigana": "プロに任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "完全に任せる",
+      "furigana": "完全に任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "思い切って任せる",
+      "furigana": "思い切って任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "安心して任せる",
+      "furigana": "安心して任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "すべて任せる",
+      "furigana": "すべて任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "ほとんど任せる",
+      "furigana": "ほとんど任せる",
+      "translations": {}
+    },
+    {
+      "kanji": "任せてください",
+      "furigana": "任せてください",
+      "translations": {}
+    },
+    {
+      "kanji": "任せっきりにする",
+      "furigana": "任せっきりにする",
+      "translations": {}
+    },
+    {
+      "kanji": "任せっきりだ",
+      "furigana": "任せっきりだ",
+      "translations": {}
+    },
+    {
+      "kanji": "任せるしかない",
+      "furigana": "任せるしかない",
+      "translations": {}
+    },
+    {
+      "kanji": "～に任せておく",
+      "furigana": "～に任せておく",
+      "translations": {}
+    },
+    {
+      "kanji": "～に任される",
+      "furigana": "～に任される",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "この仕事を先輩に任せます。",
+      "furigana": "この仕事(しごと)を先輩(せんぱい)に任(まか)せます。",
+      "translations": {
+        "EN": "I will leave this job to my superiors.",
+        "ID": "Saya akan menyerahkan pekerjaan ini kepada atasan saya.",
+        "ES": "Dejaré este trabajo a mis superiores.",
+        "VI": "Tôi sẽ giao công việc này cho cấp trên của tôi.",
+        "FR": "Je laisserai ce travail à mes supérieurs.",
+        "NE": "म यो काम मेरा वरिष्ठहरूलाई छोड्नेछु।",
+        "BN": "আমি এই কাজটি আমার ঊর্ধ্বতনদের উপর ছেড়ে দেব।",
+        "ZH": "我会把这个工作交给我的上级。",
+        "KO": "이 일을 선배에게 맡깁니다.",
+        "TL": "Ipapaubaya ko ang trabahong ito sa aking mga nakatataas.",
+        "MY": "ဒီအလုပ်က အထက်လူကြီးကို ထားခဲ့မယ်။",
+        "HI": "मैं यह काम अपने वरिष्ठों पर छोड़ दूंगा।",
+        "AR": "سأترك هذه المهمة لرؤسائي.",
+        "FA": "این کار را به مافوق‌هایم واگذار می‌کنم."
+      }
+    },
+    {
+      "kanji": "判断は他人に任せます。",
+      "furigana": "判断(はんだん)は他人(たにん)に任(まか)せます。",
+      "translations": {
+        "EN": "I leave the decision to others.",
+        "ID": "Saya serahkan keputusannya pada orang lain.",
+        "ES": "Dejo la decisión a otros.",
+        "VI": "Tôi để người khác quyết định.",
+        "FR": "Je laisse la décision à d'autres.",
+        "NE": "म निर्णय अरूलाई छोड्छु।",
+        "BN": "আমি সিদ্ধান্ত অন্যদের উপর ছেড়ে দিচ্ছি।",
+        "ZH": "我把决定权留给其他人。",
+        "KO": "판단은 타인에게 맡깁니다.",
+        "TL": "Ipinapaubaya ko sa iba ang desisyon.",
+        "MY": "ငါ ဆုံးဖြတ်ချက်ကို တခြားသူတွေကို ထားခဲ့ပါ။",
+        "HI": "मैं निर्णय दूसरों पर छोड़ता हूं।",
+        "AR": "أترك القرار للآخرين.",
+        "FA": "تصمیم گیری را به دیگران واگذار می کنم."
+      }
+    },
+    {
+      "kanji": "この問題は専門家に任せましょう。",
+      "furigana": "この問題(もんだい)は専門家(せんもんか)に任(まか)せましょう。",
+      "translations": {
+        "EN": "Leave this issue to the experts.",
+        "ID": "Serahkan masalah ini pada ahlinya.",
+        "ES": "Deje este asunto en manos de los expertos.",
+        "VI": "Hãy để vấn đề này cho các chuyên gia.",
+        "FR": "Laissez cette question aux experts.",
+        "NE": "यो मुद्दा विज्ञहरूलाई छोड्नुहोस्।",
+        "BN": "এই বিষয়টি বিশেষজ্ঞদের উপর ছেড়ে দিন।",
+        "ZH": "把这个问题留给专家去解决吧。",
+        "KO": "이 문제는 전문가에게 맡기십시오.",
+        "TL": "Ipaubaya ang isyung ito sa mga eksperto.",
+        "MY": "ဒီကိစ္စကို ကျွမ်းကျင်သူတွေဆီ ထားခဲ့ပါ။",
+        "HI": "इस मुद्दे को विशेषज्ञों पर छोड़ दें।",
+        "AR": "اترك هذه المسألة للخبراء.",
+        "FA": "این موضوع را به متخصصان بسپارید."
+      }
+    },
+    {
+      "kanji": "それは私に任せてください。",
+      "furigana": "それは私(わたし)に任(まか)せてください。",
+      "translations": {
+        "EN": "Leave that to me.",
+        "ID": "Serahkan saja padaku.",
+        "ES": "Déjamelo a mí.",
+        "VI": "Để tôi lo việc đó.",
+        "FR": "Laissez-moi faire.",
+        "NE": "त्यो मलाई छोडिदिनुहोस्।",
+        "BN": "ওটা আমার উপর ছেড়ে দাও।",
+        "ZH": "交给我吧。",
+        "KO": "그것은 나에게 맡겨주세요.",
+        "TL": "Iwanan mo na yan sa akin.",
+        "MY": "ငါ့ကိုထားခဲ့ပါ။",
+        "HI": "इसे मुझ पर छोड़ दो.",
+        "AR": "اترك هذا لي.",
+        "FA": "اون رو به من بسپار."
+      }
+    },
+    {
+      "kanji": "旅行の手配は完全に任せます。",
+      "furigana": "旅行(りょこう)の手配(てはい)は完全(かんぜん)に任(まか)せます。",
+      "translations": {
+        "EN": "Travel arrangements are entirely up to you.",
+        "ID": "Pengaturan perjalanan sepenuhnya terserah Anda.",
+        "ES": "Los arreglos de viaje dependen completamente de usted.",
+        "VI": "Việc sắp xếp chuyến đi hoàn toàn phụ thuộc vào bạn.",
+        "FR": "Les modalités de votre voyage dépendent entièrement de vous.",
+        "NE": "यात्राको व्यवस्था पूर्णतया तपाईंमा निर्भर छ।",
+        "BN": "ভ্রমণের ব্যবস্থা সম্পূর্ণ আপনার উপর নির্ভর করে।",
+        "ZH": "旅行安排完全由您决定。",
+        "KO": "여행 준비는 완전히 맡깁니다.",
+        "TL": "Ang mga kaayusan sa paglalakbay ay ganap na nakasalalay sa iyo.",
+        "MY": "ခရီးသွားအစီအစဉ်များသည် သင့်အတွက် လုံးလုံးလျားလျားဖြစ်သည်။",
+        "HI": "यात्रा की व्यवस्था पूरी तरह आप पर निर्भर है।",
+        "AR": "ترتيبات السفر تعتمد عليك بالكامل.",
+        "FA": "برنامه‌ریزی سفر کاملاً به خودتان بستگی دارد."
+      }
+    },
+    {
+      "kanji": "流れに任せておきます。",
+      "furigana": "流(なが)れに任(まか)せておきます。",
+      "translations": {
+        "EN": "I'll just go with the flow.",
+        "ID": "Saya akan mengikuti arus saja.",
+        "ES": "Simplemente me dejaré llevar por la corriente.",
+        "VI": "Tôi chỉ cần thuận theo tự nhiên thôi.",
+        "FR": "Je vais juste suivre le courant.",
+        "NE": "म बग्ने बाटोमा हिँड्छु।",
+        "BN": "আমি শুধু স্রোতের সাথেই চলবো।",
+        "ZH": "我只是顺其自然。",
+        "KO": "흐름에 맡겨 둡니다.",
+        "TL": "I'll just go with the flow.",
+        "MY": "စီးဆင်းမှုနဲ့အတူ ငါသွားလိုက်မယ်။",
+        "HI": "मैं बस बहाव के साथ चलूंगा।",
+        "AR": "سأذهب مع التدفق فقط.",
+        "FA": "من فقط با جریان پیش خواهم رفت."
+      }
+    },
+    {
+      "kanji": "彼は企画を任されました。",
+      "furigana": "彼(かれ)は企画(きかく)を任(まか)されました。",
+      "translations": {
+        "EN": "He was put in charge of the planning.",
+        "ID": "Dia ditugaskan untuk merencanakannya.",
+        "ES": "Se le encargó la planificación.",
+        "VI": "Ông được giao phụ trách việc lập kế hoạch.",
+        "FR": "Il a été chargé de la planification.",
+        "NE": "उनलाई योजनाको जिम्मा दिइयो।",
+        "BN": "তাকে পরিকল্পনার দায়িত্ব দেওয়া হয়।",
+        "ZH": "他被任命负责这项规划。",
+        "KO": "그는 기획을 맡겼다.",
+        "TL": "Siya ang inilagay na namamahala sa pagpaplano.",
+        "MY": "အစီအစဥ်ကို တာဝန်ယူဆောင်ရွက်ခဲ့သည်။",
+        "HI": "उन्हें योजना का प्रभारी बनाया गया।",
+        "AR": "لقد تم تكليفه بالتخطيط.",
+        "FA": "او مسئول برنامه‌ریزی شد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "to leave a matter or decision to someone": {
+      "ID": "menyerahkan suatu masalah atau keputusan kepada seseorang",
+      "ES": "dejar un asunto o decisión en manos de alguien",
+      "VI": "để lại một vấn đề hoặc quyết định cho ai đó",
+      "FR": "laisser une affaire ou une décision à quelqu'un",
+      "NE": "कुनै कुरा वा निर्णय कसैलाई छोड्नु",
+      "BN": "কোনও বিষয় বা সিদ্ধান্ত কারো উপর ছেড়ে দেওয়া",
+      "ZH": "将某事或决定留给某人",
+      "KO": "문제나 결정을 누군가에게 맡기다",
+      "TL": "upang iwanan ang isang bagay o desisyon sa isang tao",
+      "MY": "ကိစ္စတစ်ခု သို့မဟုတ် ဆုံးဖြတ်ချက်တစ်ခုကို တစ်စုံတစ်ဦးထံ ထားခဲ့ရန်",
+      "HI": "किसी मामले या निर्णय को किसी पर छोड़ना",
+      "AR": "ترك أمر أو قرار لشخص ما",
+      "FA": "واگذار کردن کاری یا تصمیمی به کسی",
+      "EN": [
+        "to entrust to someone",
+        "to entrust someone with"
+      ]
+    },
+    "to leave to chance or one's imagination": {
+      "ID": "menyerahkannya pada kesempatan atau imajinasi seseorang",
+      "ES": "dejar al azar o a la imaginación",
+      "VI": "để mặc cho sự may rủi hoặc trí tưởng tượng của một người",
+      "FR": "laisser au hasard ou à son imagination",
+      "NE": "संयोग वा कल्पनामा छोड्नु",
+      "BN": "ভাগ্য বা কল্পনার উপর ছেড়ে দেওয়া",
+      "ZH": "听凭机会或想象",
+      "KO": "우연이나 상상에 맡기다",
+      "TL": "iwan sa pagkakataon o imahinasyon ng isa",
+      "MY": "အခွင့်အလမ်း သို့မဟုတ် စိတ်ကူးယဉ်မှုဆီသို့ ထွက်ခွာရန်",
+      "HI": "संयोग या अपनी कल्पना पर छोड़ देना",
+      "AR": "ترك الأمر للصدفة أو للخيال",
+      "FA": "به شانس یا تخیل خود واگذار کردن",
+      "EN": [
+        "to let take its own course; to let happen",
+        "to give oneself to something"
+      ]
+    },
+    "to use something to the full (as ～に任せて)": {
+      "ID": "untuk menggunakan sesuatu secara penuh (sebagai ～に任せて)",
+      "ES": "usar algo al máximo (como ～に任せて)",
+      "VI": "sử dụng cái gì đó một cách triệt để (như ～に任せて)",
+      "FR": "utiliser quelque chose au maximum (comme ～に任せて)",
+      "NE": "पूर्ण रूपमा केहि प्रयोग गर्न (जस्तै ～に任せて)",
+      "BN": "সম্পূর্ণরূপে কিছু ব্যবহার করতে (যেমন ～に任せて)",
+      "ZH": "充分利用某物（如～に任せて）",
+      "KO": "어떤 것을 최대한 활용하다 (~に任せて)",
+      "TL": "gumamit ng isang bagay nang buo (bilang ～に任せて)",
+      "MY": "တစ်ခုခုကို အပြည့်အဝသုံးရန် (～に任せて)၊",
+      "HI": "किसी चीज़ का पूर्ण उपयोग करना (जैसे ～に任せて)",
+      "AR": "لاستخدام شيء ما إلى أقصى حد (مثل ～に任せて)",
+      "FA": "استفاده کامل از چیزی (به عنوان ～に任せて)",
+      "EN": [
+        "to use freely",
+        "to use without reserve"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "任せる",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "任せる",
+        "reading": "まかせる"
+      },
+      {
+        "word": "委せる",
+        "reading": "まかせる"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "to leave (a matter, decision, etc. to someone)",
+          "to entrust (to someone)",
+          "to entrust (someone) with"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to leave (to chance, one's imagination, etc.)",
+          "to let (take its own course)",
+          "to let (happen)",
+          "to give (oneself to something)"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "to use (money, strength, spare time, etc.) to the full",
+          "to use freely",
+          "to use without reserve"
+        ],
+        "parts_of_speech": [
+          "Ichidan verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+          "as ...に任せて"
+        ]
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "任"
+  ],
+  "kanji_data": {
+    "任": {
+      "freq_mainichi_shinbun": 217,
+      "grade": 5,
+      "heisig_en": "responsibility",
+      "jlpt": 3,
+      "kanji": "任",
+      "kun_readings": [
+        "まか.す",
+        "まか.せる"
+      ],
+      "meanings": [
+        "appoint",
+        "duty",
+        "entrust to",
+        "responsibility",
+        "term"
+      ],
+      "name_readings": [
+        "さ",
+        "とう",
+        "ひで"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ニン"
+      ],
+      "stroke_count": 6,
+      "unicode": "4EFB"
+    }
+  }
 }

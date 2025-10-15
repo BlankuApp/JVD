@@ -1,314 +1,409 @@
 {
-    "version": "0.2.0",
-    "word": "延期",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/HkQIcdQYp28",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "延期",
-        "reading": "えんき",
-        "introduction_japanese": "延期は、イベントや会議、出発、締切などの予定を後にする場面でよく使う言葉です。急な天候や準備不足、関係者の都合で予定を変えるときに使います。",
-        "introduction_english": "The noun えんき is commonly used when talking about moving events, meetings, departures, or deadlines to a later time. You hear it when plans change because of weather, lack of preparation, or people's schedules.",
-        "meanings": [
-            [
-                "postponement",
-                "deferment",
-                "adjournment"
-            ]
-        ],
-        "meaning_explanation_japanese": "「延期」は、元の予定を後の日時にずらすことを表す言葉です。会議やイベント、締切などが予定より先になるときに使います。",
-        "meaning_explanation_english": "The word えんき means moving a scheduled event or deadline to a later time. You use it when meetings, events, or deadlines are pushed back.",
-        "kanji_explanation_english": "The first kanji means prolong or stretch. It often appears in words about making something longer or delaying it. For example えんちょう means extension and のびる means to stretch or be delayed. The second kanji means period or time. It is used for dates, terms, or deadlines. For example きかん means period and きげん means deadline.",
-        "kanji_details": [
-            {
-                "kanji": "延",
-                "common_words": [
-                    "延長 (えんちょう): extension",
-                    "延びる (のびる): to stretch; to be delayed"
-                ]
-            },
-            {
-                "kanji": "期",
-                "common_words": [
-                    "期間 (きかん): period",
-                    "期限 (きげん): deadline"
-                ]
-            }
-        ],
-        "synonyms": [
-            "先送り : さきおくり : postponement"
-        ],
-        "synonyms_explanation": "The most common synonym of the えんき is さきおくり. さきおくり is more casual and often used in spoken situations to mean putting something off, while えんき is neutral and can be used in formal announcements.",
-        "antonyms": [
-            "前倒し : まえだおし : moving forward; bringing earlier"
-        ],
-        "antonyms_explanation": "The most common antonym of the えんき is まえだおし. まえだおし means moving a plan earlier, the opposite of pushing it later, and is used when you advance a schedule instead of delaying it.",
-        "examples": [
-            {
-                "kanji": "会議は延期になった。",
-                "furigana": "会議(かいぎ)は延期(えんき)になった。",
-                "translations": {
-                    "EN": "The meeting was postponed.",
-                    "ID": "Pertemuan itu ditunda.",
-                    "ES": "La reunión fue pospuesta.",
-                    "VI": "Cuộc họp đã bị hoãn lại.",
-                    "FR": "La réunion a été reportée.",
-                    "NE": "बैठक स्थगित गरियो।",
-                    "BN": "সভাটি স্থগিত করা হয়েছিল।",
-                    "ZH": "会议被推迟了。",
-                    "KO": "회의는 연기가 되었다.",
-                    "TL": "Ang pagpupulong ay ipinagpaliban.",
-                    "MY": "အစည်းအဝေးကို ရွှေ့ဆိုင်းခဲ့သည်။",
-                    "HI": "बैठक स्थगित कर दी गई।",
-                    "AR": "تم تأجيل الاجتماع.",
-                    "FA": "جلسه به تعویق افتاد."
-                }
-            },
-            {
-                "kanji": "コンサートは延期になりました。",
-                "furigana": "コンサートは延期(えんき)になりました。",
-                "translations": {
-                    "EN": "The concert has been postponed.",
-                    "ID": "Konser telah ditunda.",
-                    "ES": "El concierto ha sido pospuesto.",
-                    "VI": "Buổi hòa nhạc đã bị hoãn lại.",
-                    "FR": "Le concert a été reporté.",
-                    "NE": "कन्सर्ट स्थगित गरिएको छ।",
-                    "BN": "কনসার্টটি স্থগিত করা হয়েছে।",
-                    "ZH": "音乐会已推迟。",
-                    "KO": "콘서트는 연기되었습니다.",
-                    "TL": "Na-postpone ang concert.",
-                    "MY": "ဖျော်ဖြေပွဲကို ရွှေ့ဆိုင်းထားပါတယ်။",
-                    "HI": "संगीत समारोह स्थगित कर दिया गया है।",
-                    "AR": "تم تأجيل الحفل.",
-                    "FA": "کنسرت به تعویق افتاده است."
-                }
-            },
-            {
-                "kanji": "大会の延期を発表した。",
-                "furigana": "大会(たいかい)の延期(えんき)を発表(はっぴょう)した。",
-                "translations": {
-                    "EN": "The postponement of the tournament was announced.",
-                    "ID": "Penundaan turnamen diumumkan.",
-                    "ES": "Se anunció el aplazamiento del torneo.",
-                    "VI": "Thông báo hoãn giải đấu đã được đưa ra.",
-                    "FR": "Le report du tournoi a été annoncé.",
-                    "NE": "प्रतियोगिता स्थगित भएको घोषणा गरियो।",
-                    "BN": "টুর্নামেন্ট স্থগিত ঘোষণা করা হয়েছিল।",
-                    "ZH": "比赛宣布推迟。",
-                    "KO": "대회 연기를 발표했다.",
-                    "TL": "Ang pagpapaliban ng paligsahan ay inihayag.",
-                    "MY": "ပြိုင်ပွဲကို ရွှေ့ဆိုင်းကြောင်း ကြေညာခဲ့သည်။",
-                    "HI": "टूर्नामेंट के स्थगन की घोषणा की गई।",
-                    "AR": "تم الإعلان عن تأجيل البطولة.",
-                    "FA": "تعویق مسابقات اعلام شد."
-                }
-            },
-            {
-                "kanji": "締切を延期してください。",
-                "furigana": "締切(しめきり)を延期(えんき)してください。",
-                "translations": {
-                    "EN": "Please extend the deadline.",
-                    "ID": "Harap perpanjang batas waktunya.",
-                    "ES": "Por favor, amplíe el plazo.",
-                    "VI": "Xin hãy gia hạn thời hạn.",
-                    "FR": "Veuillez prolonger le délai.",
-                    "NE": "कृपया म्याद थप गर्नुहोस्।",
-                    "BN": "দয়া করে সময়সীমা বাড়িয়ে দিন।",
-                    "ZH": "请延长截止日期。",
-                    "KO": "마감을 연기하십시오.",
-                    "TL": "Paki-extend ang deadline.",
-                    "MY": "ကျေးဇူးပြု၍ နောက်ဆုံးရက်ကို သက်တမ်းတိုးပါ။",
-                    "HI": "कृपया समय सीमा बढ़ाएँ।",
-                    "AR": "يرجى تمديد الموعد النهائي.",
-                    "FA": "لطفا مهلت رو تمدید کنید."
-                }
-            },
-            {
-                "kanji": "急な延期でごめんなさい。",
-                "furigana": "急(きゅう)な延期(えんき)でごめんなさい。",
-                "translations": {
-                    "EN": "Sorry for the sudden postponement.",
-                    "ID": "Maaf atas penundaan yang tiba-tiba.",
-                    "ES": "Perdón por el aplazamiento repentino.",
-                    "VI": "Xin lỗi vì sự hoãn đột ngột này.",
-                    "FR": "Désolé pour le report soudain.",
-                    "NE": "अचानक स्थगित भएकोमा माफ गर्नुहोस्।",
-                    "BN": "হঠাৎ স্থগিতের জন্য দুঃখিত।",
-                    "ZH": "抱歉突然延期。",
-                    "KO": "갑작스러운 연기로 미안해.",
-                    "TL": "Sorry sa biglaang postponement.",
-                    "MY": "ရုတ်တရက် ရွှေ့ဆိုင်းလိုက်ရတဲ့အတွက် တောင်းပန်ပါတယ်။",
-                    "HI": "अचानक स्थगन के लिए खेद है।",
-                    "AR": "عذرا على التأجيل المفاجئ.",
-                    "FA": "بابت تعویق ناگهانی عذرخواهی می‌کنم."
-                }
-            },
-            {
-                "kanji": "出発が延期になりました。",
-                "furigana": "出発(しゅっぱつ)が延期(えんき)になりました。",
-                "translations": {
-                    "EN": "The departure has been postponed.",
-                    "ID": "Keberangkatan telah ditunda.",
-                    "ES": "La salida ha sido pospuesta.",
-                    "VI": "Việc khởi hành đã bị hoãn lại.",
-                    "FR": "Le départ a été reporté.",
-                    "NE": "प्रस्थान स्थगित गरिएको छ।",
-                    "BN": "প্রস্থান স্থগিত করা হয়েছে।",
-                    "ZH": "出发日期已推迟。",
-                    "KO": "출발이 연기되었습니다.",
-                    "TL": "Ang pag-alis ay ipinagpaliban.",
-                    "MY": "ထွက်ခွာမှုကို ရွှေ့ဆိုင်းလိုက်ပါပြီ။",
-                    "HI": "प्रस्थान स्थगित कर दिया गया है।",
-                    "AR": "تم تأجيل المغادرة.",
-                    "FA": "عزیمت به تعویق افتاده است."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "postponement": {
-                "ID": "penundaan",
-                "ES": "aplazamiento",
-                "VI": "sự hoãn lại",
-                "FR": "report",
-                "NE": "स्थगित",
-                "BN": "স্থগিতকরণ",
-                "ZH": "延期",
-                "KO": "연기",
-                "TL": "pagpapaliban",
-                "MY": "ရွှေ့ဆိုင်းခြင်း။",
-                "HI": "स्थगन",
-                "AR": "تأجيل",
-                "FA": "تعویق",
-                "EN": [
-                    "deferment",
-                    "adjournment"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "延期",
-        "is_common": true,
-        "tags": [
-            "wanikani30"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "延期",
-                "reading": "えんき"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "postponement",
-                    "deferment",
-                    "adjournment"
-                ],
-                "parts_of_speech": [
-                    "Noun",
-                    "Suru verb",
-                    "Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [
-        "延",
-        "期"
-    ],
-    "kanji_data": {
-        "延": {
-            "freq_mainichi_shinbun": 747,
-            "grade": 6,
-            "heisig_en": "prolong",
-            "jlpt": 2,
-            "kanji": "延",
-            "kun_readings": [
-                "の.ばす",
-                "の.びる",
-                "の.べ",
-                "の.べる"
-            ],
-            "meanings": [
-                "prolong",
-                "stretching"
-            ],
-            "name_readings": [
-                "たか",
-                "のぶ",
-                "のべ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "エン"
-            ],
-            "stroke_count": 8,
-            "unicode": "5EF6"
-        },
-        "期": {
-            "freq_mainichi_shinbun": 117,
-            "grade": 3,
-            "heisig_en": "period",
-            "jlpt": 3,
-            "kanji": "期",
-            "kun_readings": [],
-            "meanings": [
-                "date",
-                "period",
-                "term",
-                "time"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "キ",
-                "ゴ"
-            ],
-            "stroke_count": 12,
-            "unicode": "671F"
-        }
-    },
-    "collocations": [
-        "名詞 + 動詞",
-        "延期する",
-        "延期になる",
-        "延期を決定する",
-        "延期を発表する",
-        "延期を要請する",
-        "形容詞 + 名詞",
-        "急な延期",
-        "不可避な延期",
-        "大幅な延期",
-        "臨時の延期",
-        "長期の延期",
-        "名詞 + 名詞",
-        "延期決定",
-        "延期通知",
-        "延期措置",
-        "延期期間",
-        "延期理由",
-        "動詞 + 名詞",
-        "行事の延期",
-        "会議の延期",
-        "出発の延期",
-        "発表の延期",
-        "締切の延期"
+  "version": "0.3.0",
+  "word": "延期",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/HkQIcdQYp28",
+  "in_db": true,
+  "kanji": "延期",
+  "reading": "えんき",
+  "introduction_japanese": "延期は、イベントや会議、出発、締切などの予定を後にする場面でよく使う言葉です。急な天候や準備不足、関係者の都合で予定を変えるときに使います。",
+  "introduction_english": "The noun えんき is commonly used when talking about moving events, meetings, departures, or deadlines to a later time. You hear it when plans change because of weather, lack of preparation, or people's schedules.",
+  "meanings": [
+    [
+      "postponement",
+      "deferment",
+      "adjournment"
     ]
+  ],
+  "meaning_explanation_japanese": "「延期」は、元の予定を後の日時にずらすことを表す言葉です。会議やイベント、締切などが予定より先になるときに使います。",
+  "meaning_explanation_english": "The word えんき means moving a scheduled event or deadline to a later time. You use it when meetings, events, or deadlines are pushed back.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "延",
+      "common_words": [
+        "延長 (えんちょう): extension",
+        "延びる (のびる): to stretch; to be delayed"
+      ]
+    },
+    {
+      "kanji": "期",
+      "common_words": [
+        "期間 (きかん): period",
+        "期限 (きげん): deadline"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means prolong or stretch. It often appears in words about making something longer or delaying it. For example えんちょう means extension and のびる means to stretch or be delayed. The second kanji means period or time. It is used for dates, terms, or deadlines. For example きかん means period and きげん means deadline.",
+  "synonyms": [
+    "先送り : さきおくり : postponement"
+  ],
+  "synonym_explanation": "The most common synonym of the えんき is さきおくり. さきおくり is more casual and often used in spoken situations to mean putting something off, while えんき is neutral and can be used in formal announcements.",
+  "antonyms": [
+    "前倒し : まえだおし : moving forward; bringing earlier"
+  ],
+  "antonym_explanation": "The most common antonym of the えんき is まえだおし. まえだおし means moving a plan earlier, the opposite of pushing it later, and is used when you advance a schedule instead of delaying it.",
+  "collocations": [
+    {
+      "kanji": "名詞 + 動詞",
+      "furigana": "名詞 + 動詞",
+      "translations": {}
+    },
+    {
+      "kanji": "延期する",
+      "furigana": "延期する",
+      "translations": {}
+    },
+    {
+      "kanji": "延期になる",
+      "furigana": "延期になる",
+      "translations": {}
+    },
+    {
+      "kanji": "延期を決定する",
+      "furigana": "延期を決定する",
+      "translations": {}
+    },
+    {
+      "kanji": "延期を発表する",
+      "furigana": "延期を発表する",
+      "translations": {}
+    },
+    {
+      "kanji": "延期を要請する",
+      "furigana": "延期を要請する",
+      "translations": {}
+    },
+    {
+      "kanji": "形容詞 + 名詞",
+      "furigana": "形容詞 + 名詞",
+      "translations": {}
+    },
+    {
+      "kanji": "急な延期",
+      "furigana": "急な延期",
+      "translations": {}
+    },
+    {
+      "kanji": "不可避な延期",
+      "furigana": "不可避な延期",
+      "translations": {}
+    },
+    {
+      "kanji": "大幅な延期",
+      "furigana": "大幅な延期",
+      "translations": {}
+    },
+    {
+      "kanji": "臨時の延期",
+      "furigana": "臨時の延期",
+      "translations": {}
+    },
+    {
+      "kanji": "長期の延期",
+      "furigana": "長期の延期",
+      "translations": {}
+    },
+    {
+      "kanji": "名詞 + 名詞",
+      "furigana": "名詞 + 名詞",
+      "translations": {}
+    },
+    {
+      "kanji": "延期決定",
+      "furigana": "延期決定",
+      "translations": {}
+    },
+    {
+      "kanji": "延期通知",
+      "furigana": "延期通知",
+      "translations": {}
+    },
+    {
+      "kanji": "延期措置",
+      "furigana": "延期措置",
+      "translations": {}
+    },
+    {
+      "kanji": "延期期間",
+      "furigana": "延期期間",
+      "translations": {}
+    },
+    {
+      "kanji": "延期理由",
+      "furigana": "延期理由",
+      "translations": {}
+    },
+    {
+      "kanji": "動詞 + 名詞",
+      "furigana": "動詞 + 名詞",
+      "translations": {}
+    },
+    {
+      "kanji": "行事の延期",
+      "furigana": "行事の延期",
+      "translations": {}
+    },
+    {
+      "kanji": "会議の延期",
+      "furigana": "会議の延期",
+      "translations": {}
+    },
+    {
+      "kanji": "出発の延期",
+      "furigana": "出発の延期",
+      "translations": {}
+    },
+    {
+      "kanji": "発表の延期",
+      "furigana": "発表の延期",
+      "translations": {}
+    },
+    {
+      "kanji": "締切の延期",
+      "furigana": "締切の延期",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "会議は延期になった。",
+      "furigana": "会議(かいぎ)は延期(えんき)になった。",
+      "translations": {
+        "EN": "The meeting was postponed.",
+        "ID": "Pertemuan itu ditunda.",
+        "ES": "La reunión fue pospuesta.",
+        "VI": "Cuộc họp đã bị hoãn lại.",
+        "FR": "La réunion a été reportée.",
+        "NE": "बैठक स्थगित गरियो।",
+        "BN": "সভাটি স্থগিত করা হয়েছিল।",
+        "ZH": "会议被推迟了。",
+        "KO": "회의는 연기가 되었다.",
+        "TL": "Ang pagpupulong ay ipinagpaliban.",
+        "MY": "အစည်းအဝေးကို ရွှေ့ဆိုင်းခဲ့သည်။",
+        "HI": "बैठक स्थगित कर दी गई।",
+        "AR": "تم تأجيل الاجتماع.",
+        "FA": "جلسه به تعویق افتاد."
+      }
+    },
+    {
+      "kanji": "コンサートは延期になりました。",
+      "furigana": "コンサートは延期(えんき)になりました。",
+      "translations": {
+        "EN": "The concert has been postponed.",
+        "ID": "Konser telah ditunda.",
+        "ES": "El concierto ha sido pospuesto.",
+        "VI": "Buổi hòa nhạc đã bị hoãn lại.",
+        "FR": "Le concert a été reporté.",
+        "NE": "कन्सर्ट स्थगित गरिएको छ।",
+        "BN": "কনসার্টটি স্থগিত করা হয়েছে।",
+        "ZH": "音乐会已推迟。",
+        "KO": "콘서트는 연기되었습니다.",
+        "TL": "Na-postpone ang concert.",
+        "MY": "ဖျော်ဖြေပွဲကို ရွှေ့ဆိုင်းထားပါတယ်။",
+        "HI": "संगीत समारोह स्थगित कर दिया गया है।",
+        "AR": "تم تأجيل الحفل.",
+        "FA": "کنسرت به تعویق افتاده است."
+      }
+    },
+    {
+      "kanji": "大会の延期を発表した。",
+      "furigana": "大会(たいかい)の延期(えんき)を発表(はっぴょう)した。",
+      "translations": {
+        "EN": "The postponement of the tournament was announced.",
+        "ID": "Penundaan turnamen diumumkan.",
+        "ES": "Se anunció el aplazamiento del torneo.",
+        "VI": "Thông báo hoãn giải đấu đã được đưa ra.",
+        "FR": "Le report du tournoi a été annoncé.",
+        "NE": "प्रतियोगिता स्थगित भएको घोषणा गरियो।",
+        "BN": "টুর্নামেন্ট স্থগিত ঘোষণা করা হয়েছিল।",
+        "ZH": "比赛宣布推迟。",
+        "KO": "대회 연기를 발표했다.",
+        "TL": "Ang pagpapaliban ng paligsahan ay inihayag.",
+        "MY": "ပြိုင်ပွဲကို ရွှေ့ဆိုင်းကြောင်း ကြေညာခဲ့သည်။",
+        "HI": "टूर्नामेंट के स्थगन की घोषणा की गई।",
+        "AR": "تم الإعلان عن تأجيل البطولة.",
+        "FA": "تعویق مسابقات اعلام شد."
+      }
+    },
+    {
+      "kanji": "締切を延期してください。",
+      "furigana": "締切(しめきり)を延期(えんき)してください。",
+      "translations": {
+        "EN": "Please extend the deadline.",
+        "ID": "Harap perpanjang batas waktunya.",
+        "ES": "Por favor, amplíe el plazo.",
+        "VI": "Xin hãy gia hạn thời hạn.",
+        "FR": "Veuillez prolonger le délai.",
+        "NE": "कृपया म्याद थप गर्नुहोस्।",
+        "BN": "দয়া করে সময়সীমা বাড়িয়ে দিন।",
+        "ZH": "请延长截止日期。",
+        "KO": "마감을 연기하십시오.",
+        "TL": "Paki-extend ang deadline.",
+        "MY": "ကျေးဇူးပြု၍ နောက်ဆုံးရက်ကို သက်တမ်းတိုးပါ။",
+        "HI": "कृपया समय सीमा बढ़ाएँ।",
+        "AR": "يرجى تمديد الموعد النهائي.",
+        "FA": "لطفا مهلت رو تمدید کنید."
+      }
+    },
+    {
+      "kanji": "急な延期でごめんなさい。",
+      "furigana": "急(きゅう)な延期(えんき)でごめんなさい。",
+      "translations": {
+        "EN": "Sorry for the sudden postponement.",
+        "ID": "Maaf atas penundaan yang tiba-tiba.",
+        "ES": "Perdón por el aplazamiento repentino.",
+        "VI": "Xin lỗi vì sự hoãn đột ngột này.",
+        "FR": "Désolé pour le report soudain.",
+        "NE": "अचानक स्थगित भएकोमा माफ गर्नुहोस्।",
+        "BN": "হঠাৎ স্থগিতের জন্য দুঃখিত।",
+        "ZH": "抱歉突然延期。",
+        "KO": "갑작스러운 연기로 미안해.",
+        "TL": "Sorry sa biglaang postponement.",
+        "MY": "ရုတ်တရက် ရွှေ့ဆိုင်းလိုက်ရတဲ့အတွက် တောင်းပန်ပါတယ်။",
+        "HI": "अचानक स्थगन के लिए खेद है।",
+        "AR": "عذرا على التأجيل المفاجئ.",
+        "FA": "بابت تعویق ناگهانی عذرخواهی می‌کنم."
+      }
+    },
+    {
+      "kanji": "出発が延期になりました。",
+      "furigana": "出発(しゅっぱつ)が延期(えんき)になりました。",
+      "translations": {
+        "EN": "The departure has been postponed.",
+        "ID": "Keberangkatan telah ditunda.",
+        "ES": "La salida ha sido pospuesta.",
+        "VI": "Việc khởi hành đã bị hoãn lại.",
+        "FR": "Le départ a été reporté.",
+        "NE": "प्रस्थान स्थगित गरिएको छ।",
+        "BN": "প্রস্থান স্থগিত করা হয়েছে।",
+        "ZH": "出发日期已推迟。",
+        "KO": "출발이 연기되었습니다.",
+        "TL": "Ang pag-alis ay ipinagpaliban.",
+        "MY": "ထွက်ခွာမှုကို ရွှေ့ဆိုင်းလိုက်ပါပြီ။",
+        "HI": "प्रस्थान स्थगित कर दिया गया है।",
+        "AR": "تم تأجيل المغادرة.",
+        "FA": "عزیمت به تعویق افتاده است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "postponement": {
+      "ID": "penundaan",
+      "ES": "aplazamiento",
+      "VI": "sự hoãn lại",
+      "FR": "report",
+      "NE": "स्थगित",
+      "BN": "স্থগিতকরণ",
+      "ZH": "延期",
+      "KO": "연기",
+      "TL": "pagpapaliban",
+      "MY": "ရွှေ့ဆိုင်းခြင်း။",
+      "HI": "स्थगन",
+      "AR": "تأجيل",
+      "FA": "تعویق",
+      "EN": [
+        "deferment",
+        "adjournment"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "延期",
+    "is_common": true,
+    "tags": [
+      "wanikani30"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "延期",
+        "reading": "えんき"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "postponement",
+          "deferment",
+          "adjournment"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Suru verb",
+          "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [
+    "延",
+    "期"
+  ],
+  "kanji_data": {
+    "延": {
+      "freq_mainichi_shinbun": 747,
+      "grade": 6,
+      "heisig_en": "prolong",
+      "jlpt": 2,
+      "kanji": "延",
+      "kun_readings": [
+        "の.ばす",
+        "の.びる",
+        "の.べ",
+        "の.べる"
+      ],
+      "meanings": [
+        "prolong",
+        "stretching"
+      ],
+      "name_readings": [
+        "たか",
+        "のぶ",
+        "のべ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "エン"
+      ],
+      "stroke_count": 8,
+      "unicode": "5EF6"
+    },
+    "期": {
+      "freq_mainichi_shinbun": 117,
+      "grade": 3,
+      "heisig_en": "period",
+      "jlpt": 3,
+      "kanji": "期",
+      "kun_readings": [],
+      "meanings": [
+        "date",
+        "period",
+        "term",
+        "time"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "キ",
+        "ゴ"
+      ],
+      "stroke_count": 12,
+      "unicode": "671F"
+    }
+  }
 }

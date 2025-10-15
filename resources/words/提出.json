@@ -1,0 +1,519 @@
+{
+    "version": "0.3.0",
+    "word": "提出",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/pJxbsQBA6Xc",
+    "in_db": true,
+    "kanji": "提出",
+    "reading": "ていしゅつ",
+    "introduction_japanese": "提出。宿題や書類を先生や会社に出すときによく使います。役所で手続きするときにも使います。",
+    "introduction_english": "The noun-verb ていしゅつ is used when you hand in homework or documents to a teacher or a company. It’s also used when you file an application at a government office.",
+    "meanings": [
+        [
+            "submission",
+            "hand-in",
+            "turn-in"
+        ],
+        [
+            "filing",
+            "lodgment",
+            "tender"
+        ],
+        [
+            "presentation",
+            "proposal",
+            "submittal"
+        ]
+    ],
+    "meaning_explanation_japanese": "書類や課題を相手に渡すこと、公的機関に正式に出すこと、案や資料を相手の前に示すことを表します。",
+    "meaning_explanation_english": "ていしゅつ means giving documents to someone, officially filing them, or presenting materials or ideas.",
+    "youtube_description": "Learn 提出 (ていしゅつ): what it means, when to use it, and natural examples like submitting homework, filing forms, and presenting IDs. Short, simple, and beginner-friendly!",
+    "kanji_details": [
+        {
+            "kanji": "提",
+            "onyomi": [
+                "テイ"
+            ],
+            "kunyomi": [
+                "さげる"
+            ],
+            "meanings_english": [
+                "offer",
+                "present",
+                "lift"
+            ],
+            "common_words": [
+                "提供 : ていきょう : offering; supply",
+                "提案 : ていあん : proposal"
+            ]
+        },
+        {
+            "kanji": "出",
+            "onyomi": [
+                "シュツ"
+            ],
+            "kunyomi": [
+                "でる",
+                "だす"
+            ],
+            "meanings_english": [
+                "go out",
+                "put out"
+            ],
+            "common_words": [
+                "出口 : でぐち : exit",
+                "出発 : しゅっぱつ : departure"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to offer or to bring forward. It has a feeling of lifting something up to show it. Think of giving something to others. Examples you will see include ていきょう and ていあん.\nThe second kanji means to go out or to take out. It is about moving something from inside to outside. So it often appears when you send or bring something out. Examples you will hear include でぐち and しゅっぱつ.",
+    "synonyms": [
+        "提示 : ていじ : presentation/showing",
+        "申請 : しんせい : application"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ていじ and しんせい. ていじ overlaps when you show an ID or ticket on the spot. しんせい overlaps when you apply to an office and hand in forms. ていしゅつ is broader: handing in, filing, or presenting in general.",
+    "antonyms": [
+        "未提出 : みていしゅつ : not submitted"
+    ],
+    "antonym_explanation": "The most common antonym of the word is みていしゅつ. It marks that something has not been turned in yet, while ていしゅつ means it has been handed in or filed.",
+    "collocations": [
+        {
+            "kanji": "書類の提出",
+            "furigana": "書類(しょるい)の提出(ていしゅつ)",
+            "translations": {
+                "EN": "Submission of documents",
+                "ID": "Penyerahan dokumen",
+                "ES": "Presentación de documentos",
+                "VI": "Nộp tài liệu",
+                "FR": "Dépôt de documents",
+                "NE": "कागजातहरू पेश गर्ने",
+                "BN": "নথি জমা দেওয়া",
+                "ZH": "提交文件",
+                "KO": "서류 제출",
+                "TL": "Pagsusumite ng mga dokumento",
+                "MY": "စာရွက်စာတမ်းများတင်ပြခြင်း။",
+                "HI": "दस्तावेज़ प्रस्तुत करना",
+                "AR": "تقديم المستندات",
+                "FA": "ارائه مدارک"
+            }
+        },
+        {
+            "kanji": "宿題の提出",
+            "furigana": "宿題(しゅくだい)の提出(ていしゅつ)",
+            "translations": {
+                "EN": "Submitting homework",
+                "ID": "Menyerahkan pekerjaan rumah",
+                "ES": "Entrega de tareas",
+                "VI": "Nộp bài tập về nhà",
+                "FR": "Soumettre les devoirs",
+                "NE": "गृहकार्य बुझाउँदै",
+                "BN": "হোমওয়ার্ক জমা দেওয়া",
+                "ZH": "提交作业",
+                "KO": "숙제 제출",
+                "TL": "Pagsusumite ng takdang-aralin",
+                "MY": "အိမ်စာတွေတင်တယ်။",
+                "HI": "होमवर्क जमा करना",
+                "AR": "تسليم الواجبات المنزلية",
+                "FA": "ارسال تکالیف"
+            }
+        },
+        {
+            "kanji": "オンラインでの提出",
+            "furigana": "オンラインでの提出(ていしゅつ)",
+            "translations": {
+                "EN": "Online submission",
+                "ID": "Pengiriman online",
+                "ES": "Envío en línea",
+                "VI": "Nộp trực tuyến",
+                "FR": "Soumission en ligne",
+                "NE": "अनलाइन सबमिशन",
+                "BN": "অনলাইন জমা",
+                "ZH": "在线提交",
+                "KO": "온라인으로 제출",
+                "TL": "Online na pagsusumite",
+                "MY": "အွန်လိုင်းတင်သွင်းမှု",
+                "HI": "ऑनलाइन सबमिशन",
+                "AR": "التقديم عبر الإنترنت",
+                "FA": "ارسال آنلاین"
+            }
+        },
+        {
+            "kanji": "提出期限",
+            "furigana": "提出(ていしゅつ)期限(きげん)",
+            "translations": {
+                "EN": "Submission deadline",
+                "ID": "Batas waktu penyerahan",
+                "ES": "Fecha límite de presentación",
+                "VI": "Hạn chót nộp bài",
+                "FR": "Date limite de soumission",
+                "NE": "बुझाउने अन्तिम मिति",
+                "BN": "জমা দেওয়ার শেষ তারিখ",
+                "ZH": "提交截止日期",
+                "KO": "제출 마감",
+                "TL": "Deadline ng pagsusumite",
+                "MY": "တင်ပြရန်နောက်ဆုံးရက်",
+                "HI": "प्रस्तुत करने की समय सीमा",
+                "AR": "الموعد النهائي للتقديم",
+                "FA": "مهلت ارسال"
+            }
+        },
+        {
+            "kanji": "提出先",
+            "furigana": "提出(ていしゅつ)先(さき)",
+            "translations": {
+                "EN": "Where to submit",
+                "ID": "Ke mana harus mengirimkan",
+                "ES": "Dónde enviar",
+                "VI": "Nơi nộp hồ sơ",
+                "FR": "Où soumettre",
+                "NE": "कहाँ बुझाउने",
+                "BN": "কোথায় জমা দিতে হবে",
+                "ZH": "提交地点",
+                "KO": "제출처",
+                "TL": "Kung saan isusumite",
+                "MY": "ဘယ်မှာတင်ရမလဲ",
+                "HI": "कहां जमा करें",
+                "AR": "أين يتم التقديم",
+                "FA": "کجا ارسال کنیم"
+            }
+        },
+        {
+            "kanji": "提出用フォーム",
+            "furigana": "提出(ていしゅつ)用(よう)フォーム",
+            "translations": {
+                "EN": "Submission Form",
+                "ID": "Formulir Pengajuan",
+                "ES": "Formulario de envío",
+                "VI": "Mẫu đơn nộp",
+                "FR": "Formulaire de soumission",
+                "NE": "बुझाउने फारम",
+                "BN": "জমা দেওয়ার ফর্ম",
+                "ZH": "提交表格",
+                "KO": "제출용 양식",
+                "TL": "Form ng Pagsusumite",
+                "MY": "တင်ပြမှုပုံစံ",
+                "HI": "सबमिशन फॉर्म",
+                "AR": "نموذج التقديم",
+                "FA": "فرم ارسال"
+            }
+        },
+        {
+            "kanji": "会社への提出",
+            "furigana": "会社(かいしゃ)への提出(ていしゅつ)",
+            "translations": {
+                "EN": "Submission to the company",
+                "ID": "Pengajuan ke perusahaan",
+                "ES": "Presentación a la empresa",
+                "VI": "Nộp cho công ty",
+                "FR": "Soumission à l'entreprise",
+                "NE": "कम्पनीमा बुझाउने",
+                "BN": "কোম্পানির কাছে জমা দেওয়া",
+                "ZH": "提交给公司",
+                "KO": "회사에 제출",
+                "TL": "Pagsusumite sa kumpanya",
+                "MY": "ကုမ္ပဏီသို့တင်ပြခြင်း။",
+                "HI": "कंपनी को प्रस्तुत करना",
+                "AR": "التقديم للشركة",
+                "FA": "ارائه به شرکت"
+            }
+        },
+        {
+            "kanji": "書類を提出する",
+            "furigana": "書類(しょるい)を提出(ていしゅつ)する",
+            "translations": {
+                "EN": "Submit documents",
+                "ID": "Kirimkan dokumen",
+                "ES": "Presentar documentos",
+                "VI": "Nộp tài liệu",
+                "FR": "Soumettre des documents",
+                "NE": "कागजातहरू बुझाउनुहोस्",
+                "BN": "ডকুমেন্ট জমা দিন",
+                "ZH": "提交文件",
+                "KO": "서류 제출",
+                "TL": "Magsumite ng mga dokumento",
+                "MY": "စာရွက်စာတမ်းများ တင်ပြပါ။",
+                "HI": "दस्तावेज़ जमा करें",
+                "AR": "إرسال المستندات",
+                "FA": "ارسال مدارک"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "宿題を提出します。",
+            "furigana": "宿題(しゅくだい)を提出(ていしゅつ)します。",
+            "translations": {
+                "EN": "I will submit my homework.",
+                "ID": "Aku akan menyerahkan pekerjaan rumahku.",
+                "ES": "Entregaré mi tarea.",
+                "VI": "Tôi sẽ nộp bài tập về nhà.",
+                "FR": "Je vais soumettre mes devoirs.",
+                "NE": "म मेरो गृहकार्य बुझाउनेछु।",
+                "BN": "আমি আমার হোমওয়ার্ক জমা দেব।",
+                "ZH": "我会提交我的作业。",
+                "KO": "숙제를 제출합니다.",
+                "TL": "Isusumite ko ang aking takdang-aralin.",
+                "MY": "အိမ်စာတွေတင်မယ်။",
+                "HI": "मैं अपना गृहकार्य प्रस्तुत करूंगा।",
+                "AR": "سأسلم واجباتي المنزلية.",
+                "FA": "تکالیفم را تحویل خواهم داد."
+            }
+        },
+        {
+            "kanji": "明日までにレポートを提出してください。",
+            "furigana": "明日(あした)までにレポートを提出(ていしゅつ)してください。",
+            "translations": {
+                "EN": "Please submit the report by tomorrow.",
+                "ID": "Harap serahkan laporannya paling lambat besok.",
+                "ES": "Por favor envíe el informe mañana.",
+                "VI": "Vui lòng nộp báo cáo trước ngày mai.",
+                "FR": "Veuillez soumettre le rapport d'ici demain.",
+                "NE": "कृपया भोलिसम्ममा रिपोर्ट बुझाउनुहोस्।",
+                "BN": "আগামীকালের মধ্যে রিপোর্ট জমা দিন।",
+                "ZH": "请在明天之前提交报告。",
+                "KO": "내일까지 보고서를 제출하십시오.",
+                "TL": "Mangyaring isumite ang ulat hanggang bukas.",
+                "MY": "မနက်ဖြန် နောက်ဆုံးထားပြီး အစီရင်ခံစာ တင်သွင်းပါ။",
+                "HI": "कृपया कल तक रिपोर्ट प्रस्तुत करें।",
+                "AR": "يرجى تقديم التقرير بحلول يوم غد.",
+                "FA": "لطفا گزارش را تا فردا ارسال کنید."
+            }
+        },
+        {
+            "kanji": "この書類をオンラインで提出できます。",
+            "furigana": "この書類(しょるい)をオンラインで提出(ていしゅつ)できます。",
+            "translations": {
+                "EN": "You can submit this document online.",
+                "ID": "Anda dapat menyerahkan dokumen ini secara daring.",
+                "ES": "Puede enviar este documento en línea.",
+                "VI": "Bạn có thể nộp tài liệu này trực tuyến.",
+                "FR": "Vous pouvez soumettre ce document en ligne.",
+                "NE": "तपाईंले यो कागजात अनलाइन पेश गर्न सक्नुहुन्छ।",
+                "BN": "আপনি এই নথিটি অনলাইনে জমা দিতে পারেন।",
+                "ZH": "您可以在线提交此文件。",
+                "KO": "이 문서를 온라인으로 제출할 수 있습니다.",
+                "TL": "Maaari mong isumite ang dokumentong ito online.",
+                "MY": "ဤစာတမ်းကို အွန်လိုင်းတွင် တင်သွင်းနိုင်သည်။",
+                "HI": "आप यह दस्तावेज़ ऑनलाइन प्रस्तुत कर सकते हैं।",
+                "AR": "يمكنك تقديم هذه الوثيقة عبر الإنترنت.",
+                "FA": "شما می‌توانید این سند را به صورت آنلاین ارسال کنید."
+            }
+        },
+        {
+            "kanji": "受付で身分証の提出が必要です。",
+            "furigana": "受付(うけつけ)で身分証(みぶんしょう)の提出(ていしゅつ)が必要(ひつよう)です。",
+            "translations": {
+                "EN": "You will need to present your ID at the reception.",
+                "ID": "Anda harus menunjukkan tanda pengenal Anda di bagian penerima tamu.",
+                "ES": "Será necesario que presentes tu documento de identidad en la recepción.",
+                "VI": "Bạn sẽ cần xuất trình giấy tờ tùy thân tại quầy lễ tân.",
+                "FR": "Vous devrez présenter votre pièce d'identité à l'accueil.",
+                "NE": "तपाईंले स्वागत स्थलमा आफ्नो परिचयपत्र प्रस्तुत गर्नुपर्नेछ।",
+                "BN": "অভ্যর্থনা কক্ষে আপনাকে আপনার পরিচয়পত্র দেখাতে হবে।",
+                "ZH": "您需要在接待处出示您的身份证。",
+                "KO": "리셉션에서 신분증을 제출해야 합니다.",
+                "TL": "Kakailanganin mong ipakita ang iyong ID sa reception.",
+                "MY": "Reception တွင် သင်၏ ID ကိုတင်ပြရပါမည်။",
+                "HI": "आपको रिसेप्शन पर अपना पहचान पत्र प्रस्तुत करना होगा।",
+                "AR": "سوف تحتاج إلى تقديم هويتك في مكتب الاستقبال.",
+                "FA": "شما باید کارت شناسایی خود را در پذیرش ارائه دهید."
+            }
+        },
+        {
+            "kanji": "私は期限までに提出しました。",
+            "furigana": "私(わたし)は期限(きげん)までに提出(ていしゅつ)しました。",
+            "translations": {
+                "EN": "I submitted it by the deadline.",
+                "ID": "Saya menyerahkannya sebelum batas waktu.",
+                "ES": "Lo envié antes de la fecha límite.",
+                "VI": "Tôi đã nộp bài đúng hạn.",
+                "FR": "Je l'ai soumis avant la date limite.",
+                "NE": "मैले समयसीमा भित्र बुझाएँ।",
+                "BN": "আমি নির্ধারিত সময়ের মধ্যে জমা দিয়েছি।",
+                "ZH": "我在截止日期前提交了它。",
+                "KO": "기한까지 제출했습니다.",
+                "TL": "Naisumite ko ito sa deadline.",
+                "MY": "နောက်ဆုံးရက်မှာ တင်ပေးလိုက်တာပါ။",
+                "HI": "मैंने इसे समय सीमा तक जमा कर दिया।",
+                "AR": "لقد قدمته في الموعد النهائي.",
+                "FA": "من آن را تا مهلت مقرر ارسال کردم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "penyerahan",
+            "ES": "envío",
+            "VI": "sự trình bày",
+            "FR": "soumission",
+            "NE": "पेश्की",
+            "BN": "জমা দেওয়া",
+            "ZH": "提交",
+            "KO": "제출",
+            "TL": "pagsusumite",
+            "MY": "တင်ပြချက်",
+            "HI": "जमा करना",
+            "AR": "استسلام",
+            "FA": "تسلیم",
+            "EN": [
+                "submission",
+                "hand-in",
+                "turn-in"
+            ]
+        },
+        {
+            "ID": "pengarsipan",
+            "ES": "presentación",
+            "VI": "nộp hồ sơ",
+            "FR": "dépôt",
+            "NE": "फाइलिङ",
+            "BN": "ফাইলিং",
+            "ZH": "备案",
+            "KO": "줄질",
+            "TL": "paghahain",
+            "MY": "ဖိုလ်",
+            "HI": "दाखिल",
+            "AR": "تقديم الملفات",
+            "FA": "بایگانی کردن",
+            "EN": [
+                "filing",
+                "lodgment",
+                "tender"
+            ]
+        },
+        {
+            "ID": "presentasi",
+            "ES": "presentación",
+            "VI": "bài thuyết trình",
+            "FR": "présentation",
+            "NE": "प्रस्तुति",
+            "BN": "উপস্থাপনা",
+            "ZH": "推介会",
+            "KO": "프레젠테이션",
+            "TL": "pagtatanghal",
+            "MY": "တင်ပြချက်",
+            "HI": "प्रस्तुति",
+            "AR": "عرض تقديمي",
+            "FA": "ارائه",
+            "EN": [
+                "presentation",
+                "proposal",
+                "submittal"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "提出",
+        "is_common": true,
+        "tags": [
+            "wanikani22"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "提出",
+                "reading": "ていしゅつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "presentation (of documents)",
+                    "submission (of an application, report, etc.)",
+                    "production (e.g. of evidence)",
+                    "introduction (e.g. of a bill)",
+                    "filing",
+                    "turning in"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "提",
+        "出"
+    ],
+    "kanji_data": {
+        "提": {
+            "freq_mainichi_shinbun": 254,
+            "grade": 5,
+            "heisig_en": "propose",
+            "jlpt": 1,
+            "kanji": "提",
+            "kun_readings": [
+                "さ.げる"
+            ],
+            "meanings": [
+                "carry in hand",
+                "propose",
+                "take along"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ダイ",
+                "チョウ",
+                "テイ"
+            ],
+            "stroke_count": 12,
+            "unicode": "63D0"
+        },
+        "出": {
+            "freq_mainichi_shinbun": 13,
+            "grade": 1,
+            "heisig_en": "exit",
+            "jlpt": 5,
+            "kanji": "出",
+            "kun_readings": [
+                "-だ.す",
+                "-で",
+                "い.だす",
+                "い.でる",
+                "だ.す",
+                "で.る"
+            ],
+            "meanings": [
+                "come out",
+                "exit",
+                "go out",
+                "leave",
+                "protrude",
+                "put out"
+            ],
+            "name_readings": [
+                "いず",
+                "いづ",
+                "いで",
+                "じ",
+                "すっ",
+                "すつ",
+                "てん"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シュツ",
+                "スイ"
+            ],
+            "stroke_count": 5,
+            "unicode": "51FA"
+        }
+    }
+}

@@ -1,358 +1,377 @@
 {
-    "version": "0.2.0",
-    "word": "一層",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/612Kwk8qpPE",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "一層",
-        "reading": "いっそう",
-        "introduction_japanese": "",
-        "introduction_english": "Let's jump right into learning about いっそう, a word that's often heard when describing changes in intensity or degree.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"いっそう\" means \"even more\" or \"further.\" It can express an increase in degree or intensity. Sometimes, it can also be used to indicate \"all the more\" or \"still more\" when comparing levels, stages, or situations.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "even more",
-                "still more",
-                "all the more",
-                "more than ever"
-            ],
-            [
-                "one layer"
-            ],
-            [
-                "lowest floor"
-            ],
-            [
-                "rather",
-                "sooner",
-                "preferably"
-            ]
-        ],
-        "meaning_translations": {
-            "even more": {
-                "EN": "さらに",
-                "ID": "bahkan lebih",
-                "ES": "aún más",
-                "VI": "nhiều hơn nữa",
-                "FR": "encore plus",
-                "NE": "अझ बढी",
-                "BN": "আরও বেশি",
-                "ZH": "更多",
-                "KO": "더욱",
-                "TL": "lalo na",
-                "MY": "ပိုပြီး",
-                "HI": "और भी",
-                "AR": "حتى أكثر",
-                "FA": "حتی بیشتر"
-            },
-            "one layer": {
-                "EN": "one layer",
-                "ID": "satu lapisan",
-                "ES": "una capa",
-                "VI": "một lớp",
-                "FR": "une couche",
-                "NE": "एक तह",
-                "BN": "একটি স্তর",
-                "ZH": "一层",
-                "KO": "한 층",
-                "TL": "isang layer",
-                "MY": "တစ်လွှာ",
-                "HI": "एक परत",
-                "AR": "طبقة واحدة",
-                "FA": "یک لایه"
-            },
-            "lowest floor": {
-                "EN": "lowest floor",
-                "ID": "lantai terendah",
-                "ES": "planta más baja",
-                "VI": "tầng thấp nhất",
-                "FR": "le rez-de-chaussée",
-                "NE": "तल्लो फर्श",
-                "BN": "সবচেয়ে নীচে তলা",
-                "ZH": "最低层",
-                "KO": "가장 낮은 층",
-                "TL": "pinakamababang sahig",
-                "MY": "အောက်ဆုံးထပ်",
-                "HI": "सबसे नीचे का तल",
-                "AR": "الطابق السفلي",
-                "FA": "پایین ترین طبقه"
-            },
-            "rather": {
-                "EN": "more/level/an additional layer",
-                "ID": "lebih/tingkat/lapisan tambahan",
-                "ES": "más/nivel/una capa adicional",
-                "VI": "một lớp nữa",
-                "FR": "davantage/niveau/une couche supplémentaire",
-                "NE": "अर्को तह",
-                "BN": "আরও স্তর/অতিরিক্ত স্তর",
-                "ZH": "更/层/额外一层",
-                "KO": "더/한 겹 더",
-                "TL": "isang antas pa",
-                "MY": "တစ်ထပ်",
-                "HI": "एक और स्तर",
-                "AR": "أكثر/طبقة إضافية",
-                "FA": "یک لایه دیگر"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "祭りは夜になると一層にぎやかになります。",
-                "furigana": "祭り(まつり)は夜(よる)になると一層(いっそう)にぎやかになります。",
-                "translations": {
-                    "EN": "The festival becomes even more lively at night.",
-                    "ID": "Festival menjadi lebih meriah di malam hari.",
-                    "ES": "El festival se vuelve aún más animado por la noche.",
-                    "VI": "Lễ hội trở nên nhộn nhịp hơn vào ban đêm.",
-                    "FR": "Le festival devient encore plus animé la nuit.",
-                    "NE": "चाडपर्व राति अझ बढी रमाइलो हुन्छ।",
-                    "BN": "মেলা রাতে আরও প্রাণবন্ত হয়ে ওঠে।",
-                    "ZH": "节日晚上更加热闹。",
-                    "KO": "축제는 밤이 되면 더욱 활기차집니다.",
-                    "TL": "Lalong sumasaya ang pagdiriwang sa gabi.",
-                    "MY": "ပွဲတော်သည် ညနေပို၍ စည်ကားလာတတ်သည်။",
-                    "HI": "त्योहार रात में और भी जश्नमय हो जाता है।",
-                    "AR": "يصبح المهرجان أكثر حيوية في الليل.",
-                    "FA": "جشنواره در شب حتی پر رونق‌تر می‌شود."
-                }
-            },
-            {
-                "kanji": "この問題は一層難しくなる。",
-                "furigana": "この問題(もんだい)は一層(いっそう)難(むずか)しくなる。",
-                "translations": {
-                    "EN": "This problem becomes even more difficult.",
-                    "ID": "Masalah ini menjadi lebih sulit.",
-                    "ES": "Este problema se vuelve aún más difícil.",
-                    "VI": "Vấn đề này trở nên khó khăn hơn.",
-                    "FR": "Ce problème devient encore plus difficile.",
-                    "NE": "यो समस्या झन् गाह्रो हुन्छ।",
-                    "BN": "এই সমস্যাটি আরও কঠিন হয়ে ওঠে।",
-                    "ZH": "这个问题变得更加困难。",
-                    "KO": "이 문제는 더욱 어려워진다.",
-                    "TL": "Mas lalong nagiging mahirap ang problemang ito.",
-                    "MY": "ဤပြဿနာသည် ထပ်မံ၍ ခက်ခဲသည်။",
-                    "HI": "यह समस्या और भी कठिन हो जाती है।",
-                    "AR": "هذه المشكلة تصبح أكثر صعوبة.",
-                    "FA": "این مسئله حتی بیشتر دشوار می‌شود."
-                }
-            },
-            {
-                "kanji": "家族は一層大切なことです。",
-                "furigana": "家族(かぞく)は一層(いっそう)大切(たいせつ)なことです。",
-                "translations": {
-                    "EN": "Family is even more important.",
-                    "ID": "Keluarga menjadi semakin penting.",
-                    "ES": "La familia es aún más importante.",
-                    "VI": "Gia đình là điều quan trọng hơn.",
-                    "FR": "La famille est encore plus importante.",
-                    "NE": "परिवार धेरै महत्वपूर्ण कुरा हो।",
-                    "BN": "পরিবার সবচেয়ে গুরুত্বপূর্ণ জিনিস।",
-                    "ZH": "家庭更重要。",
-                    "KO": "가족은 더욱 중요한 것입니다.",
-                    "TL": "Ang pamilya ay lalo pang mahalaga.",
-                    "MY": "မိသားစုသည် ပို၍ အရေးကြီးသည်။",
-                    "HI": "परिवार सबसे अधिक महत्वपूर्ण बात है।",
-                    "AR": "العائلة هي الشيء الأكثر أهمية.",
-                    "FA": "خانواده مهم‌ترین چیز است."
-                }
-            },
-            {
-                "kanji": "薬を飲んで、一層元気になりました。",
-                "furigana": "薬(くすり)を飲(の)んで、一層(いっそう)元気(げんき)になりました。",
-                "translations": {
-                    "EN": "I took the medicine and became even more energetic.",
-                    "ID": "Saya minum obat dan menjadi lebih bersemangat.",
-                    "ES": "Tomé la medicina y me sentí aún más enérgico.",
-                    "VI": "Tôi đã uống thuốc và trở nên năng động hơn.",
-                    "FR": "J'ai pris le médicament et je suis devenu encore plus énergique.",
-                    "NE": "औषधि लिएपछि म झन् ऊर्जावान बनें।",
-                    "BN": "ঔষধ খাওয়ার পর আরও বেশি চাঙ্গা হয়ে গেলাম।",
-                    "ZH": "我吃了药，变得更加精神了。",
-                    "KO": "약을 먹고 한층 더 건강해졌습니다.",
-                    "TL": "Uminom ako ng gamot at naging mas masigla pa ako.",
-                    "MY": "ဆေးသောက်ပြီးရင် ပိုပြီးလန်းဆန်းလာတယ်။",
-                    "HI": "दवा लेने के बाद मैं और भी अधिक ऊर्जावान हो गया।",
-                    "AR": "تناولتُ الدواء وأصبحتُ أكثر نشاطًا.",
-                    "FA": "دارو را خوردم و انرژی بیشتری پیدا کردم."
-                }
-            },
-            {
-                "kanji": "このマンガは一層面白くなる。",
-                "furigana": "このマンガはいっそう面白くなる。",
-                "translations": {
-                    "EN": "This manga becomes even more interesting.",
-                    "ID": "Manga ini menjadi semakin menarik.",
-                    "ES": "Este manga se vuelve aún más interesante.",
-                    "VI": "Truyện tranh này trở nên thú vị hơn.",
-                    "FR": "Ce manga devient encore plus intéressant.",
-                    "NE": "यो मंगा झनै चाखलाग्दो बन्न जान्छ।",
-                    "BN": "এই মাঙ্গা আরও মজাদার হয়ে ওঠে।",
-                    "ZH": "这本漫画变得更有趣了。",
-                    "KO": "이 만화는 더욱 재미있어집니다.",
-                    "TL": "Ang manga na ito ay mas lalo pang naging interesante.",
-                    "MY": "ဒီမာန်ဂါဝတ္ထု ရင်လှည်းထက်ဆင့်မြှင့်ဖြုတ်စွာ ရင်သပ်ရှုမောဖွယ်ဖြစ်လာခဲ့သည်။",
-                    "HI": "यह मंगा अधिक रोचक बन जाता है।",
-                    "AR": "هذا المانغا يصبح أكثر إثارة للاهتمام.",
-                    "FA": "این مانگا حتی جذاب‌تر می‌شود."
-                }
-            }
-        ],
-        "synonyms": [
-            "更に : さらに : furthermore"
-        ],
-        "synonyms_explanation": "The most common synonym of the word いっそう is さらに. Both words convey the meaning of \"even more\" or \"further.\" The difference is that さらに can sometimes express additional actions or occurrences rather than just an increased degree.",
-        "antonyms": [
-            "其の儘 : そのまま : without change"
-        ],
-        "antonyms_explanation": "The most common antonym of the word いっそう is そのまま. While いっそう suggests an increase or an additional degree, そのまま means \"as it is\" or \"unchanged,\" indicating no further increase or alteration.",
-        "kanji_details": [
-            {
-                "kanji": "一",
-                "common_words": [
-                    "一人: one person",
-                    "一度: once"
-                ]
-            },
-            {
-                "kanji": "層",
-                "common_words": [
-                    "地層: stratum",
-                    "高層: high-rise"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "一層",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "一層",
-                "reading": "いっそう"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "even more",
-                    "still more",
-                    "all the more",
-                    "more than ever"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "one layer"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "lowest floor"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "rather",
-                    "sooner",
-                    "preferably"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "一",
-        "層"
+  "version": "0.3.0",
+  "word": "一層",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/612Kwk8qpPE",
+  "in_db": true,
+  "kanji": "一層",
+  "reading": "いっそう",
+  "introduction_japanese": "",
+  "introduction_english": "Let's jump right into learning about いっそう, a word that's often heard when describing changes in intensity or degree.",
+  "meanings": [
+    [
+      "even more",
+      "still more",
+      "all the more",
+      "more than ever"
     ],
-    "kanji_data": {
-        "一": {
-            "meanings": [
-                "one",
-                "one radical (no.1)"
-            ],
-            "on_readings": [
-                "イチ",
-                "イツ"
-            ],
-            "kun_readings": [
-                "ひと-",
-                "ひと.つ"
-            ],
-            "stroke_count": 1,
-            "jlpt": 5,
-            "freq_mainichi_shinbun": 2,
-            "unicode": "4E00",
-            "grade": 1
-        },
-        "層": {
-            "meanings": [
-                "floor",
-                "layer",
-                "social class",
-                "story",
-                "stratum"
-            ],
-            "on_readings": [
-                "ソウ"
-            ],
-            "kun_readings": [],
-            "stroke_count": 14,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 801,
-            "unicode": "5C64",
-            "grade": 6
-        }
-    },
-    "collocations": [
-        "いっそうにぎやかになる",
-        "いっそうむずかしくなる",
-        "いっそうたいせつなこと",
-        "いっそう元気になる",
-        "いっそう面白くなる"
+    [
+      "one layer"
+    ],
+    [
+      "lowest floor"
+    ],
+    [
+      "rather",
+      "sooner",
+      "preferably"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"いっそう\" means \"even more\" or \"further.\" It can express an increase in degree or intensity. Sometimes, it can also be used to indicate \"all the more\" or \"still more\" when comparing levels, stages, or situations.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "一",
+      "common_words": [
+        "一人: one person",
+        "一度: once"
+      ]
+    },
+    {
+      "kanji": "層",
+      "common_words": [
+        "地層: stratum",
+        "高層: high-rise"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "更に : さらに : furthermore"
+  ],
+  "synonym_explanation": "The most common synonym of the word いっそう is さらに. Both words convey the meaning of \"even more\" or \"further.\" The difference is that さらに can sometimes express additional actions or occurrences rather than just an increased degree.",
+  "antonyms": [
+    "其の儘 : そのまま : without change"
+  ],
+  "antonym_explanation": "The most common antonym of the word いっそう is そのまま. While いっそう suggests an increase or an additional degree, そのまま means \"as it is\" or \"unchanged,\" indicating no further increase or alteration.",
+  "collocations": [
+    {
+      "kanji": "いっそうにぎやかになる",
+      "furigana": "いっそうにぎやかになる",
+      "translations": {}
+    },
+    {
+      "kanji": "いっそうむずかしくなる",
+      "furigana": "いっそうむずかしくなる",
+      "translations": {}
+    },
+    {
+      "kanji": "いっそうたいせつなこと",
+      "furigana": "いっそうたいせつなこと",
+      "translations": {}
+    },
+    {
+      "kanji": "いっそう元気になる",
+      "furigana": "いっそう元気になる",
+      "translations": {}
+    },
+    {
+      "kanji": "いっそう面白くなる",
+      "furigana": "いっそう面白くなる",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "祭りは夜になると一層にぎやかになります。",
+      "furigana": "祭り(まつり)は夜(よる)になると一層(いっそう)にぎやかになります。",
+      "translations": {
+        "EN": "The festival becomes even more lively at night.",
+        "ID": "Festival menjadi lebih meriah di malam hari.",
+        "ES": "El festival se vuelve aún más animado por la noche.",
+        "VI": "Lễ hội trở nên nhộn nhịp hơn vào ban đêm.",
+        "FR": "Le festival devient encore plus animé la nuit.",
+        "NE": "चाडपर्व राति अझ बढी रमाइलो हुन्छ।",
+        "BN": "মেলা রাতে আরও প্রাণবন্ত হয়ে ওঠে।",
+        "ZH": "节日晚上更加热闹。",
+        "KO": "축제는 밤이 되면 더욱 활기차집니다.",
+        "TL": "Lalong sumasaya ang pagdiriwang sa gabi.",
+        "MY": "ပွဲတော်သည် ညနေပို၍ စည်ကားလာတတ်သည်။",
+        "HI": "त्योहार रात में और भी जश्नमय हो जाता है।",
+        "AR": "يصبح المهرجان أكثر حيوية في الليل.",
+        "FA": "جشنواره در شب حتی پر رونق‌تر می‌شود."
+      }
+    },
+    {
+      "kanji": "この問題は一層難しくなる。",
+      "furigana": "この問題(もんだい)は一層(いっそう)難(むずか)しくなる。",
+      "translations": {
+        "EN": "This problem becomes even more difficult.",
+        "ID": "Masalah ini menjadi lebih sulit.",
+        "ES": "Este problema se vuelve aún más difícil.",
+        "VI": "Vấn đề này trở nên khó khăn hơn.",
+        "FR": "Ce problème devient encore plus difficile.",
+        "NE": "यो समस्या झन् गाह्रो हुन्छ।",
+        "BN": "এই সমস্যাটি আরও কঠিন হয়ে ওঠে।",
+        "ZH": "这个问题变得更加困难。",
+        "KO": "이 문제는 더욱 어려워진다.",
+        "TL": "Mas lalong nagiging mahirap ang problemang ito.",
+        "MY": "ဤပြဿနာသည် ထပ်မံ၍ ခက်ခဲသည်။",
+        "HI": "यह समस्या और भी कठिन हो जाती है।",
+        "AR": "هذه المشكلة تصبح أكثر صعوبة.",
+        "FA": "این مسئله حتی بیشتر دشوار می‌شود."
+      }
+    },
+    {
+      "kanji": "家族は一層大切なことです。",
+      "furigana": "家族(かぞく)は一層(いっそう)大切(たいせつ)なことです。",
+      "translations": {
+        "EN": "Family is even more important.",
+        "ID": "Keluarga menjadi semakin penting.",
+        "ES": "La familia es aún más importante.",
+        "VI": "Gia đình là điều quan trọng hơn.",
+        "FR": "La famille est encore plus importante.",
+        "NE": "परिवार धेरै महत्वपूर्ण कुरा हो।",
+        "BN": "পরিবার সবচেয়ে গুরুত্বপূর্ণ জিনিস।",
+        "ZH": "家庭更重要。",
+        "KO": "가족은 더욱 중요한 것입니다.",
+        "TL": "Ang pamilya ay lalo pang mahalaga.",
+        "MY": "မိသားစုသည် ပို၍ အရေးကြီးသည်။",
+        "HI": "परिवार सबसे अधिक महत्वपूर्ण बात है।",
+        "AR": "العائلة هي الشيء الأكثر أهمية.",
+        "FA": "خانواده مهم‌ترین چیز است."
+      }
+    },
+    {
+      "kanji": "薬を飲んで、一層元気になりました。",
+      "furigana": "薬(くすり)を飲(の)んで、一層(いっそう)元気(げんき)になりました。",
+      "translations": {
+        "EN": "I took the medicine and became even more energetic.",
+        "ID": "Saya minum obat dan menjadi lebih bersemangat.",
+        "ES": "Tomé la medicina y me sentí aún más enérgico.",
+        "VI": "Tôi đã uống thuốc và trở nên năng động hơn.",
+        "FR": "J'ai pris le médicament et je suis devenu encore plus énergique.",
+        "NE": "औषधि लिएपछि म झन् ऊर्जावान बनें।",
+        "BN": "ঔষধ খাওয়ার পর আরও বেশি চাঙ্গা হয়ে গেলাম।",
+        "ZH": "我吃了药，变得更加精神了。",
+        "KO": "약을 먹고 한층 더 건강해졌습니다.",
+        "TL": "Uminom ako ng gamot at naging mas masigla pa ako.",
+        "MY": "ဆေးသောက်ပြီးရင် ပိုပြီးလန်းဆန်းလာတယ်။",
+        "HI": "दवा लेने के बाद मैं और भी अधिक ऊर्जावान हो गया।",
+        "AR": "تناولتُ الدواء وأصبحتُ أكثر نشاطًا.",
+        "FA": "دارو را خوردم و انرژی بیشتری پیدا کردم."
+      }
+    },
+    {
+      "kanji": "このマンガは一層面白くなる。",
+      "furigana": "このマンガはいっそう面白くなる。",
+      "translations": {
+        "EN": "This manga becomes even more interesting.",
+        "ID": "Manga ini menjadi semakin menarik.",
+        "ES": "Este manga se vuelve aún más interesante.",
+        "VI": "Truyện tranh này trở nên thú vị hơn.",
+        "FR": "Ce manga devient encore plus intéressant.",
+        "NE": "यो मंगा झनै चाखलाग्दो बन्न जान्छ।",
+        "BN": "এই মাঙ্গা আরও মজাদার হয়ে ওঠে।",
+        "ZH": "这本漫画变得更有趣了。",
+        "KO": "이 만화는 더욱 재미있어집니다.",
+        "TL": "Ang manga na ito ay mas lalo pang naging interesante.",
+        "MY": "ဒီမာန်ဂါဝတ္ထု ရင်လှည်းထက်ဆင့်မြှင့်ဖြုတ်စွာ ရင်သပ်ရှုမောဖွယ်ဖြစ်လာခဲ့သည်။",
+        "HI": "यह मंगा अधिक रोचक बन जाता है।",
+        "AR": "هذا المانغا يصبح أكثر إثارة للاهتمام.",
+        "FA": "این مانگا حتی جذاب‌تر می‌شود."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "even more": {
+      "EN": "さらに",
+      "ID": "bahkan lebih",
+      "ES": "aún más",
+      "VI": "nhiều hơn nữa",
+      "FR": "encore plus",
+      "NE": "अझ बढी",
+      "BN": "আরও বেশি",
+      "ZH": "更多",
+      "KO": "더욱",
+      "TL": "lalo na",
+      "MY": "ပိုပြီး",
+      "HI": "और भी",
+      "AR": "حتى أكثر",
+      "FA": "حتی بیشتر"
+    },
+    "one layer": {
+      "EN": "one layer",
+      "ID": "satu lapisan",
+      "ES": "una capa",
+      "VI": "một lớp",
+      "FR": "une couche",
+      "NE": "एक तह",
+      "BN": "একটি স্তর",
+      "ZH": "一层",
+      "KO": "한 층",
+      "TL": "isang layer",
+      "MY": "တစ်လွှာ",
+      "HI": "एक परत",
+      "AR": "طبقة واحدة",
+      "FA": "یک لایه"
+    },
+    "lowest floor": {
+      "EN": "lowest floor",
+      "ID": "lantai terendah",
+      "ES": "planta más baja",
+      "VI": "tầng thấp nhất",
+      "FR": "le rez-de-chaussée",
+      "NE": "तल्लो फर्श",
+      "BN": "সবচেয়ে নীচে তলা",
+      "ZH": "最低层",
+      "KO": "가장 낮은 층",
+      "TL": "pinakamababang sahig",
+      "MY": "အောက်ဆုံးထပ်",
+      "HI": "सबसे नीचे का तल",
+      "AR": "الطابق السفلي",
+      "FA": "پایین ترین طبقه"
+    },
+    "rather": {
+      "EN": "more/level/an additional layer",
+      "ID": "lebih/tingkat/lapisan tambahan",
+      "ES": "más/nivel/una capa adicional",
+      "VI": "một lớp nữa",
+      "FR": "davantage/niveau/une couche supplémentaire",
+      "NE": "अर्को तह",
+      "BN": "আরও স্তর/অতিরিক্ত স্তর",
+      "ZH": "更/层/额外一层",
+      "KO": "더/한 겹 더",
+      "TL": "isang antas pa",
+      "MY": "တစ်ထပ်",
+      "HI": "एक और स्तर",
+      "AR": "أكثر/طبقة إضافية",
+      "FA": "یک لایه دیگر"
+    }
+  },
+  "jisho_data": {
+    "slug": "一層",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "一層",
+        "reading": "いっそう"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "even more",
+          "still more",
+          "all the more",
+          "more than ever"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "one layer"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "lowest floor"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "rather",
+          "sooner",
+          "preferably"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "一",
+    "層"
+  ],
+  "kanji_data": {
+    "一": {
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "on_readings": [
+        "イチ",
+        "イツ"
+      ],
+      "kun_readings": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "stroke_count": 1,
+      "jlpt": 5,
+      "freq_mainichi_shinbun": 2,
+      "unicode": "4E00",
+      "grade": 1
+    },
+    "層": {
+      "meanings": [
+        "floor",
+        "layer",
+        "social class",
+        "story",
+        "stratum"
+      ],
+      "on_readings": [
+        "ソウ"
+      ],
+      "kun_readings": [],
+      "stroke_count": 14,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 801,
+      "unicode": "5C64",
+      "grade": 6
+    }
+  }
 }

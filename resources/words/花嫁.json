@@ -1,288 +1,315 @@
 {
-    "version": "0.2.0",
-    "word": "花嫁",
-    "jlpt_level": 2,
-    "youtube_link": "https://youtu.be/-tK6c3M4t8M",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "花嫁",
-        "reading": "はなよめ",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this video is はなよめ which you will often hear in wedding contexts. Imagine how much more natural your Japanese will sound when you can say things like 'The bride looked beautiful today', 'She is my best friend and a lovely bride', and 'The bride and groom are ready to start their new life' in Japanese. Let's get started!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word はなよめ means 'bride' in English, referring to a woman on her wedding day or in the process of getting married.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "bride"
-            ]
-        ],
-        "meaning_translations": {
-            "bride": {
-                "EN": "bride",
-                "ID": "pengantin wanita",
-                "ES": "novia",
-                "VI": "cô dâu",
-                "FR": "mariée",
-                "NE": "विवाहिता",
-                "BN": "বিবাহিত",
-                "ZH": "新娘",
-                "KO": "신부",
-                "TL": "naka-asawa",
-                "MY": "လိပ်ပြာ",
-                "HI": "दुल्हन",
-                "AR": "عروس",
-                "FA": "عروس"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼女は花嫁衣装を着ています。",
-                "furigana": "彼女(かのじょ)は花嫁衣装(はなよめいしょう)を着(き)ています。",
-                "translations": {
-                    "EN": "She is wearing a wedding dress.",
-                    "ID": "Dia mengenakan gaun pengantin.",
-                    "ES": "Ella está usando un vestido de novia.",
-                    "VI": "Cô ấy đang mặc váy cô dâu.",
-                    "FR": "Elle porte une robe de mariée.",
-                    "NE": "उले विवाहको कपडा लगाएको छ।",
-                    "BN": "সে বউয়ের একটি পোশাক পরিধান করছে。",
-                    "ZH": "她穿着婚纱。",
-                    "KO": "그녀는 웨딩 드레스를 입고 있습니다.",
-                    "TL": "Naka suot siya ng damit pangkasal.",
-                    "MY": "သူမသည် မင်္ဂလာဆောင် ဝတ်စုံ ဝတ်ဆင်နေသည်။",
-                    "HI": "वह दुल्हन के कपड़े पहन रही है।",
-                    "AR": "هي ترتدي فستان الزفاف.",
-                    "FA": "او لباس عروس پوشیده است."
-                }
-            },
-            {
-                "kanji": "花嫁の父はとても優しいです。",
-                "furigana": "花嫁(\u0001はなよめ)の父(\u0001ちち)はとても優しい(\u0001やさしい)です。",
-                "translations": {
-                    "EN": "The bride's father is very kind.",
-                    "ID": "Ayah pengantin sangat baik.",
-                    "ES": "El padre de la novia es muy amable.",
-                    "VI": "B父 của cô dâu rất tốt bụng.",
-                    "FR": "Le père de la mariée est très gentil.",
-                    "NE": "वरको बुवा धेरै दयालु छन्।",
-                    "BN": "বরের বাবা খুব দয়ালু।",
-                    "ZH": "新娘的父亲非常善良。",
-                    "KO": "신부의 아버지는 매우 친절합니다.",
-                    "TL": "Ang ama ng ikakasal ay napakahusay.",
-                    "MY": "ဇနီး၏ဖခင်သည်အလွန်ကျေးဇူးပြုသည်။",
-                    "HI": "दुल्हन के पिता बहुत दयालु हैं।",
-                    "AR": "والد العروس لطيف للغاية.",
-                    "FA": "پدر عروس بسیار مهربان است."
-                }
-            },
-            {
-                "kanji": "花嫁は手紙を書きました。",
-                "furigana": "花嫁（はなよめ）は手紙（てがみ）をを書（か）きました。",
-                "translations": {
-                    "EN": "The bride wrote a letter.",
-                    "ID": "Pengantin wanita menulis surat.",
-                    "ES": "La novia escribió una carta.",
-                    "VI": "Cô dâu đã viết một bức thư.",
-                    "FR": "La mariée a écrit une lettre.",
-                    "NE": "विवाहिता ले चिठी लेख्यो।",
-                    "BN": "বিবাহিতা একটি চিঠি লিখলেন。",
-                    "ZH": "新娘写了一封信。",
-                    "KO": "신부가 편지를 썼습니다.",
-                    "TL": "Sumulat ng liham ang ikakasal.",
-                    "MY": "နာမည်ကြီး အိမ်ထောင်သမားက စာရေးခဲ့သည်။",
-                    "HI": "दुल्हन ने एक पत्र लिखा।",
-                    "AR": "كتبت العروس رسالة.",
-                    "FA": "عروس نامه‌ای نوشت."
-                }
-            },
-            {
-                "kanji": "花嫁がパーティーに行きます。",
-                "furigana": "花嫁(はなよめ)がパーティーに行(い)きます。",
-                "translations": {
-                    "EN": "The bride is going to the party.",
-                    "ID": "Pengantin wanita pergi ke pesta.",
-                    "ES": "La novia va a la fiesta.",
-                    "VI": "Cô dâu đi đến bữa tiệc.",
-                    "FR": "La mariée va à la fête.",
-                    "NE": "विवाहिता पार्टीमा जान्छे।",
-                    "BN": "বিবাহিতা পার্টিতে যাচ্ছে।",
-                    "ZH": "新娘去参加聚会。",
-                    "KO": "신부가 파티에 가요.",
-                    "TL": "Ang ikakasal ay pupunta sa party.",
-                    "MY": "လက်ထပ်ထာဝရအမျိုးသမီးသည်ပါတီသို့သွားနေသည်။",
-                    "HI": "दुल्हन पार्टी में जा रही है।",
-                    "AR": "العروس تذهب إلى الحفلة.",
-                    "FA": "عروس به مهمانی می‌رود."
-                }
-            },
-            {
-                "kanji": "花嫁の小物はとてもかわいいです。",
-                "furigana": "花嫁(\u0001はなよめ)の小物(\u0001こもの)はとてもかわいいです。",
-                "translations": {
-                    "EN": "The bride’s accessories are very cute.",
-                    "ID": "Aksesori pengantin sangat lucu.",
-                    "ES": "Los accesorios de la novia son muy lindos.",
-                    "VI": "Đồ trang sức của cô dâu thì rất dễ thương.",
-                    "FR": "Les accessoires de la mariée sont très mignons.",
-                    "NE": "दुलहीका सामानहरू धेरै राम्रो छन्।",
-                    "BN": "বধূর আনুষাঙ্গিক গুলো খুব সুন্দর।",
-                    "ZH": "新娘的配饰非常可爱。",
-                    "KO": "신부의 소품은 정말 귀엽습니다.",
-                    "TL": "Napaka-cute ng mga aksesory ng bride.",
-                    "MY": "အထေါးမျိုး (နေထိုင်ဆဲလီ၊ အကြောင်း)တွေက ကောင်းမွန်နေပါတယ်။",
-                    "HI": "ब्रह्मा के छोटे सामान बहुत प्यारे हैं।",
-                    "AR": "إكسسوارات العروس جميلة جداً.",
-                    "FA": "اکسسوری های عروس بسیار زیبا هستند."
-                }
-            },
-            {
-                "kanji": "花嫁の友人が来ました。",
-                "furigana": "花嫁(はなよめ)の友人(ゆうじん)が来(き)ました。",
-                "translations": {
-                    "EN": "The bride's friend came.",
-                    "ID": "Teman pengantin datang.",
-                    "ES": "Vino la amiga de la novia.",
-                    "VI": "Bạn của cô dâu đã đến.",
-                    "FR": "L'ami de la mariée est venu.",
-                    "NE": "विवाहिताको साथी आयो।",
-                    "BN": "বিবাহিতার বন্ধু এসেছে।",
-                    "ZH": "新娘的朋友来了。",
-                    "KO": "신부의 친구가 왔습니다.",
-                    "TL": "Dumating ang kaibigan ng ikakasal.",
-                    "MY": "တိုက်ခန်းမင်္ဂလာဆောင်ကျောင်းသားလာပါသည်။",
-                    "HI": "दुल्हन का दोस्त आया।",
-                    "AR": "جاء صديق العروس.",
-                    "FA": "دوست عروس آمد."
-                }
-            },
-            {
-                "kanji": "彼女は新婚花嫁です。",
-                "furigana": "彼女(かのじょ)は新婚(しんこん)花嫁(はなよめ)です。",
-                "translations": {
-                    "EN": "She is a newlywed bride.",
-                    "ID": "Dia adalah pengantin baru.",
-                    "ES": "Ella es una novia recién casada.",
-                    "VI": "Cô ấy là cô dâu mới cưới.",
-                    "FR": "Elle est une nouvelle mariée.",
-                    "NE": "उ नयाँ विवाहित दुलही हो।",
-                    "BN": "তিনি একজন নতুন কনে।",
-                    "ZH": "她是新婚的花嫁。",
-                    "KO": "그녀는 신혼 신부입니다.",
-                    "TL": "Siya ay bagong kasal na bride.",
-                    "MY": "သူမသည် အသစ်အထောင်ကျခဲ့သော သားနားဖြစ်သည်။",
-                    "HI": "वह एक नई दुल्हन है।",
-                    "AR": "هي عروس جديدة.",
-                    "FA": "او یک عروس تازه عروسی است."
-                }
-            }
-        ],
-        "synonyms": [
-            "嫁 : よめ : bride"
-        ],
-        "synonyms_explanation": "The most common synonyms of the はなよめ are よめ and はなよめさん. よめ generally refers to a wife or bride, but it's more casual and can be used in various contexts beyond weddings. On the other hand, はなよめさん is a more respectful and formal way to refer to a bride, often used in wedding contexts.",
-        "antonyms": [
-            "花婿 : はなむこ : bridegroom"
-        ],
-        "antonyms_explanation": "The most common antonyms of the はなよめ are はなむこ. はなむこ means 'groom' in English and refers specifically to the man getting married, contrasting with はなよめ, which focuses on the bride's role in the wedding.",
-        "kanji_details": [
-            {
-                "kanji": "花",
-                "common_words": [
-                    "花: flower",
-                    "花瓶:  vase"
-                ]
-            },
-            {
-                "kanji": "嫁",
-                "common_words": [
-                    "片付ける: to put in order",
-                    "嫁: bride"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "花嫁",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n2"
-        ],
-        "japanese": [
-            {
-                "word": "花嫁",
-                "reading": "はなよめ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "bride"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "花",
-        "嫁"
-    ],
-    "kanji_data": {
-        "花": {
-            "meanings": [
-                "flower"
-            ],
-            "on_readings": [
-                "カ",
-                "ケ"
-            ],
-            "kun_readings": [
-                "はな"
-            ],
-            "stroke_count": 7,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 578,
-            "unicode": "82B1",
-            "grade": 1
-        },
-        "嫁": {
-            "meanings": [
-                "bride",
-                "marry into"
-            ],
-            "on_readings": [
-                "カ"
-            ],
-            "kun_readings": [
-                "い.く",
-                "とつ.ぐ",
-                "ゆ.く",
-                "よめ"
-            ],
-            "stroke_count": 13,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 1581,
-            "unicode": "5AC1",
-            "grade": 8
-        }
-    },
-    "collocations": [
-        "花嫁衣装",
-        "花嫁の父",
-        "花嫁の手紙",
-        "花嫁パーティー",
-        "花嫁の小物",
-        "花嫁の友人",
-        "新婚花嫁"
+  "version": "0.3.0",
+  "word": "花嫁",
+  "jlpt_level": 2,
+  "youtube_link": "https://youtu.be/-tK6c3M4t8M",
+  "in_db": true,
+  "kanji": "花嫁",
+  "reading": "はなよめ",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this video is はなよめ which you will often hear in wedding contexts. Imagine how much more natural your Japanese will sound when you can say things like 'The bride looked beautiful today', 'She is my best friend and a lovely bride', and 'The bride and groom are ready to start their new life' in Japanese. Let's get started!",
+  "meanings": [
+    [
+      "bride"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word はなよめ means 'bride' in English, referring to a woman on her wedding day or in the process of getting married.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "花",
+      "common_words": [
+        "花: flower",
+        "花瓶:  vase"
+      ]
+    },
+    {
+      "kanji": "嫁",
+      "common_words": [
+        "片付ける: to put in order",
+        "嫁: bride"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "嫁 : よめ : bride"
+  ],
+  "synonym_explanation": "The most common synonyms of the はなよめ are よめ and はなよめさん. よめ generally refers to a wife or bride, but it's more casual and can be used in various contexts beyond weddings. On the other hand, はなよめさん is a more respectful and formal way to refer to a bride, often used in wedding contexts.",
+  "antonyms": [
+    "花婿 : はなむこ : bridegroom"
+  ],
+  "antonym_explanation": "The most common antonyms of the はなよめ are はなむこ. はなむこ means 'groom' in English and refers specifically to the man getting married, contrasting with はなよめ, which focuses on the bride's role in the wedding.",
+  "collocations": [
+    {
+      "kanji": "花嫁衣装",
+      "furigana": "花嫁衣装",
+      "translations": {}
+    },
+    {
+      "kanji": "花嫁の父",
+      "furigana": "花嫁の父",
+      "translations": {}
+    },
+    {
+      "kanji": "花嫁の手紙",
+      "furigana": "花嫁の手紙",
+      "translations": {}
+    },
+    {
+      "kanji": "花嫁パーティー",
+      "furigana": "花嫁パーティー",
+      "translations": {}
+    },
+    {
+      "kanji": "花嫁の小物",
+      "furigana": "花嫁の小物",
+      "translations": {}
+    },
+    {
+      "kanji": "花嫁の友人",
+      "furigana": "花嫁の友人",
+      "translations": {}
+    },
+    {
+      "kanji": "新婚花嫁",
+      "furigana": "新婚花嫁",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼女は花嫁衣装を着ています。",
+      "furigana": "彼女(かのじょ)は花嫁衣装(はなよめいしょう)を着(き)ています。",
+      "translations": {
+        "EN": "She is wearing a wedding dress.",
+        "ID": "Dia mengenakan gaun pengantin.",
+        "ES": "Ella está usando un vestido de novia.",
+        "VI": "Cô ấy đang mặc váy cô dâu.",
+        "FR": "Elle porte une robe de mariée.",
+        "NE": "उले विवाहको कपडा लगाएको छ।",
+        "BN": "সে বউয়ের একটি পোশাক পরিধান করছে。",
+        "ZH": "她穿着婚纱。",
+        "KO": "그녀는 웨딩 드레스를 입고 있습니다.",
+        "TL": "Naka suot siya ng damit pangkasal.",
+        "MY": "သူမသည် မင်္ဂလာဆောင် ဝတ်စုံ ဝတ်ဆင်နေသည်။",
+        "HI": "वह दुल्हन के कपड़े पहन रही है।",
+        "AR": "هي ترتدي فستان الزفاف.",
+        "FA": "او لباس عروس پوشیده است."
+      }
+    },
+    {
+      "kanji": "花嫁の父はとても優しいです。",
+      "furigana": "花嫁(\u0001はなよめ)の父(\u0001ちち)はとても優しい(\u0001やさしい)です。",
+      "translations": {
+        "EN": "The bride's father is very kind.",
+        "ID": "Ayah pengantin sangat baik.",
+        "ES": "El padre de la novia es muy amable.",
+        "VI": "B父 của cô dâu rất tốt bụng.",
+        "FR": "Le père de la mariée est très gentil.",
+        "NE": "वरको बुवा धेरै दयालु छन्।",
+        "BN": "বরের বাবা খুব দয়ালু।",
+        "ZH": "新娘的父亲非常善良。",
+        "KO": "신부의 아버지는 매우 친절합니다.",
+        "TL": "Ang ama ng ikakasal ay napakahusay.",
+        "MY": "ဇနီး၏ဖခင်သည်အလွန်ကျေးဇူးပြုသည်။",
+        "HI": "दुल्हन के पिता बहुत दयालु हैं।",
+        "AR": "والد العروس لطيف للغاية.",
+        "FA": "پدر عروس بسیار مهربان است."
+      }
+    },
+    {
+      "kanji": "花嫁は手紙を書きました。",
+      "furigana": "花嫁（はなよめ）は手紙（てがみ）をを書（か）きました。",
+      "translations": {
+        "EN": "The bride wrote a letter.",
+        "ID": "Pengantin wanita menulis surat.",
+        "ES": "La novia escribió una carta.",
+        "VI": "Cô dâu đã viết một bức thư.",
+        "FR": "La mariée a écrit une lettre.",
+        "NE": "विवाहिता ले चिठी लेख्यो।",
+        "BN": "বিবাহিতা একটি চিঠি লিখলেন。",
+        "ZH": "新娘写了一封信。",
+        "KO": "신부가 편지를 썼습니다.",
+        "TL": "Sumulat ng liham ang ikakasal.",
+        "MY": "နာမည်ကြီး အိမ်ထောင်သမားက စာရေးခဲ့သည်။",
+        "HI": "दुल्हन ने एक पत्र लिखा।",
+        "AR": "كتبت العروس رسالة.",
+        "FA": "عروس نامه‌ای نوشت."
+      }
+    },
+    {
+      "kanji": "花嫁がパーティーに行きます。",
+      "furigana": "花嫁(はなよめ)がパーティーに行(い)きます。",
+      "translations": {
+        "EN": "The bride is going to the party.",
+        "ID": "Pengantin wanita pergi ke pesta.",
+        "ES": "La novia va a la fiesta.",
+        "VI": "Cô dâu đi đến bữa tiệc.",
+        "FR": "La mariée va à la fête.",
+        "NE": "विवाहिता पार्टीमा जान्छे।",
+        "BN": "বিবাহিতা পার্টিতে যাচ্ছে।",
+        "ZH": "新娘去参加聚会。",
+        "KO": "신부가 파티에 가요.",
+        "TL": "Ang ikakasal ay pupunta sa party.",
+        "MY": "လက်ထပ်ထာဝရအမျိုးသမီးသည်ပါတီသို့သွားနေသည်။",
+        "HI": "दुल्हन पार्टी में जा रही है।",
+        "AR": "العروس تذهب إلى الحفلة.",
+        "FA": "عروس به مهمانی می‌رود."
+      }
+    },
+    {
+      "kanji": "花嫁の小物はとてもかわいいです。",
+      "furigana": "花嫁(\u0001はなよめ)の小物(\u0001こもの)はとてもかわいいです。",
+      "translations": {
+        "EN": "The bride’s accessories are very cute.",
+        "ID": "Aksesori pengantin sangat lucu.",
+        "ES": "Los accesorios de la novia son muy lindos.",
+        "VI": "Đồ trang sức của cô dâu thì rất dễ thương.",
+        "FR": "Les accessoires de la mariée sont très mignons.",
+        "NE": "दुलहीका सामानहरू धेरै राम्रो छन्।",
+        "BN": "বধূর আনুষাঙ্গিক গুলো খুব সুন্দর।",
+        "ZH": "新娘的配饰非常可爱。",
+        "KO": "신부의 소품은 정말 귀엽습니다.",
+        "TL": "Napaka-cute ng mga aksesory ng bride.",
+        "MY": "အထေါးမျိုး (နေထိုင်ဆဲလီ၊ အကြောင်း)တွေက ကောင်းမွန်နေပါတယ်။",
+        "HI": "ब्रह्मा के छोटे सामान बहुत प्यारे हैं।",
+        "AR": "إكسسوارات العروس جميلة جداً.",
+        "FA": "اکسسوری های عروس بسیار زیبا هستند."
+      }
+    },
+    {
+      "kanji": "花嫁の友人が来ました。",
+      "furigana": "花嫁(はなよめ)の友人(ゆうじん)が来(き)ました。",
+      "translations": {
+        "EN": "The bride's friend came.",
+        "ID": "Teman pengantin datang.",
+        "ES": "Vino la amiga de la novia.",
+        "VI": "Bạn của cô dâu đã đến.",
+        "FR": "L'ami de la mariée est venu.",
+        "NE": "विवाहिताको साथी आयो।",
+        "BN": "বিবাহিতার বন্ধু এসেছে।",
+        "ZH": "新娘的朋友来了。",
+        "KO": "신부의 친구가 왔습니다.",
+        "TL": "Dumating ang kaibigan ng ikakasal.",
+        "MY": "တိုက်ခန်းမင်္ဂလာဆောင်ကျောင်းသားလာပါသည်။",
+        "HI": "दुल्हन का दोस्त आया।",
+        "AR": "جاء صديق العروس.",
+        "FA": "دوست عروس آمد."
+      }
+    },
+    {
+      "kanji": "彼女は新婚花嫁です。",
+      "furigana": "彼女(かのじょ)は新婚(しんこん)花嫁(はなよめ)です。",
+      "translations": {
+        "EN": "She is a newlywed bride.",
+        "ID": "Dia adalah pengantin baru.",
+        "ES": "Ella es una novia recién casada.",
+        "VI": "Cô ấy là cô dâu mới cưới.",
+        "FR": "Elle est une nouvelle mariée.",
+        "NE": "उ नयाँ विवाहित दुलही हो।",
+        "BN": "তিনি একজন নতুন কনে।",
+        "ZH": "她是新婚的花嫁。",
+        "KO": "그녀는 신혼 신부입니다.",
+        "TL": "Siya ay bagong kasal na bride.",
+        "MY": "သူမသည် အသစ်အထောင်ကျခဲ့သော သားနားဖြစ်သည်။",
+        "HI": "वह एक नई दुल्हन है।",
+        "AR": "هي عروس جديدة.",
+        "FA": "او یک عروس تازه عروسی است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "bride": {
+      "EN": "bride",
+      "ID": "pengantin wanita",
+      "ES": "novia",
+      "VI": "cô dâu",
+      "FR": "mariée",
+      "NE": "विवाहिता",
+      "BN": "বিবাহিত",
+      "ZH": "新娘",
+      "KO": "신부",
+      "TL": "naka-asawa",
+      "MY": "လိပ်ပြာ",
+      "HI": "दुल्हन",
+      "AR": "عروس",
+      "FA": "عروس"
+    }
+  },
+  "jisho_data": {
+    "slug": "花嫁",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n2"
+    ],
+    "japanese": [
+      {
+        "word": "花嫁",
+        "reading": "はなよめ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "bride"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "花",
+    "嫁"
+  ],
+  "kanji_data": {
+    "花": {
+      "meanings": [
+        "flower"
+      ],
+      "on_readings": [
+        "カ",
+        "ケ"
+      ],
+      "kun_readings": [
+        "はな"
+      ],
+      "stroke_count": 7,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 578,
+      "unicode": "82B1",
+      "grade": 1
+    },
+    "嫁": {
+      "meanings": [
+        "bride",
+        "marry into"
+      ],
+      "on_readings": [
+        "カ"
+      ],
+      "kun_readings": [
+        "い.く",
+        "とつ.ぐ",
+        "ゆ.く",
+        "よめ"
+      ],
+      "stroke_count": 13,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 1581,
+      "unicode": "5AC1",
+      "grade": 8
+    }
+  }
 }

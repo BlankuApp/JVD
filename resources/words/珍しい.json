@@ -1,304 +1,323 @@
 {
-    "version": "0.2.0",
-    "word": "珍しい",
-    "jlpt_level": 4,
-    "youtube_link": "https://youtu.be/v-bZBVMk238",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "珍しい",
-        "reading": "めずらしい",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is めずらしい, which you will often hear in situations when something unexpected or uncommon appears. People might use it when they find a new type of food, an unusual animal, or even during a special event that doesn't happen frequently.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"めずらしい\" means something that is unusual or rare. It's used when you encounter something that you don't see very often or when something is different from the norm or expected. It can be used to describe unique experiences, rare objects, or special occurrences.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "rare",
-                "uncommon",
-                "unusual",
-                "curious"
-            ],
-            [
-                "new",
-                "novel"
-            ],
-            [
-                "fine",
-                "nice",
-                "splendid",
-                "precious"
-            ]
-        ],
-        "meaning_translations": {
-            "rare": {
-                "EN": "rare",
-                "ID": "langka",
-                "ES": "raro",
-                "VI": "hiếm",
-                "FR": "rare",
-                "NE": "दुर्लभ",
-                "BN": "বিরল",
-                "ZH": "稀有",
-                "KO": "희귀한",
-                "TL": "bihira",
-                "MY": "အလွယ်တကူ မရပါ",
-                "HI": "दुर्लभ",
-                "AR": "نادر",
-                "FA": "نادر"
-            },
-            "new": {
-                "EN": "Rare, Uncommon, Extraordinary, New",
-                "ID": "Langka, Tidak umum, Luar biasa, Baru",
-                "ES": "Raro, Poco común, Extraordinario, Nuevo",
-                "VI": "Hiếm, Không phổ biến, Phi thường, Mới",
-                "FR": "Rare, Inhabituel, Extraordinaire, Nouveau",
-                "NE": "दुर्लभ, दुर्लभ, असाधारण, नयाँ",
-                "BN": "বিরল, অপ্রিয়, অসাধারণ, নতুন",
-                "ZH": "稀有，罕见，非凡，新颖",
-                "KO": "드문, 희귀한, 비범한, 새로운",
-                "TL": "Bihira, Hindi pangkaraniwan, Pambihira, Bago",
-                "MY": "ရှားပါးသော၊ ရှားလအိပ်သော၊ ထူးခြားသော၊ သစ်",
-                "HI": "दुर्लभ, असामान्य, असाधारण, नया",
-                "AR": "نادر, غير مألوف, استثنائي, جديد",
-                "FA": "نادر، کمیاب، خارق‌العاده، جدید"
-            },
-            "fine": {
-                "EN": "Rare",
-                "ID": "Langka",
-                "ES": "Raro",
-                "VI": "Hiếm",
-                "FR": "Rare",
-                "NE": "दुर्लभ",
-                "BN": "বিরল",
-                "ZH": "稀有",
-                "KO": "희귀한",
-                "TL": "Bihira",
-                "MY": "နည်းပါးသော",
-                "HI": "दुर्लभ",
-                "AR": "نادر",
-                "FA": "نادر"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "この店には珍しい食べ物があります。",
-                "furigana": "この店(みせ)には珍(めずら)しい食(た)べ物(もの)があります。",
-                "translations": {
-                    "EN": "This shop has rare food.",
-                    "ID": "Toko ini memiliki makanan yang langka.",
-                    "ES": "Esta tienda tiene comida rara.",
-                    "VI": "Cửa hàng này có món ăn hiếm.",
-                    "FR": "Ce magasin a des aliments rares.",
-                    "NE": "यो पसलमा दुर्लभ खाना छ।",
-                    "BN": "এই দোকানে বিরল খাবার আছে।",
-                    "ZH": "这家店有稀有的食物。",
-                    "KO": "이 가게에는 희귀한 음식이 있습니다.",
-                    "TL": "May kakaibang pagkain ang tindahang ito.",
-                    "MY": "ဒီဆိုင်မှာ ရှားပါးတဲ့ အစားအစာရှိတယ်။",
-                    "HI": "इस दुकान में दुर्लभ भोजन है।",
-                    "AR": "يوجد في هذا المحل طعام نادر.",
-                    "FA": "این فروشگاه غذای کمیاب دارد."
-                }
-            },
-            {
-                "kanji": "私は珍しい経験をしました。",
-                "furigana": "私(わたし)は珍(めずら)しい経験(けいけん)をしました。",
-                "translations": {
-                    "EN": "I had a rare experience.",
-                    "ID": "Saya mengalami pengalaman langka.",
-                    "ES": "Tuve una experiencia rara.",
-                    "VI": "Tôi đã có một trải nghiệm hiếm có.",
-                    "FR": "J'ai eu une expérience rare.",
-                    "NE": "मैले एउटा दुर्लभ अनुभव गरे।",
-                    "BN": "আমি একটি বিরল অভিজ্ঞতা পেয়েছি।",
-                    "ZH": "我有过一次难得的经历。",
-                    "KO": "나는 드문 경험을 했습니다.",
-                    "TL": "Nagkaroon ako ng bihirang karanasan.",
-                    "MY": "ငါ့မှာတစ်ခါမျှမရဘူးသောအတွေ့အကြုံတစ်ခုရှိပါတယ်.",
-                    "HI": "मेरे पास एक दुर्लभ अनुभव था।",
-                    "AR": "خضتُ تجربة نادرة.",
-                    "FA": "من یک تجربه نادر داشتن."
-                }
-            },
-            {
-                "kanji": "めずらしい景色を見ました。",
-                "furigana": "めずらしい景色(けしき)を見(み)ました。",
-                "translations": {
-                    "EN": "I saw a rare scenery.",
-                    "ID": "Saya melihat pemandangan yang langka.",
-                    "ES": "Vi un paisaje raro.",
-                    "VI": "Tôi đã thấy một cảnh hiếm hoi.",
-                    "FR": "J'ai vu un paysage rare.",
-                    "NE": "म एक दुर्लभ दृश्य देखें।",
-                    "BN": "আমি বিরল দৃশ্য দেখেছি।",
-                    "ZH": "我看到了罕见的景色。",
-                    "KO": "드문 경치를 봤어요.",
-                    "TL": "Nakita ko ang isang bihirang tanawin.",
-                    "MY": "ကောင်လေးတွေ မမြင်ဖူးတဲ့ ရှုခင်းကို မြင်ခဲ့တယ်။",
-                    "HI": "मैंने एक दुर्लभ दृश्य देखा।",
-                    "AR": "رأيت منظرًا نادرًا.",
-                    "FA": "من یک منظره نادر دیدم."
-                }
-            },
-            {
-                "kanji": "これは珍しい名前です。",
-                "furigana": "これは珍(めずら)しい名(な)前(まえ)です。",
-                "translations": {
-                    "EN": "This is an unusual name.",
-                    "ID": "Ini adalah nama yang tidak biasa.",
-                    "ES": "Este es un nombre inusual.",
-                    "VI": "Đây là một cái tên hiếm có.",
-                    "FR": "C'est un prénom rare.",
-                    "NE": "यो अनौठो नाम हो।",
-                    "BN": "এটি একটি অসাধারণ নাম।",
-                    "ZH": "这是一个特别的名字。",
-                    "KO": "이것은 특이한 이름입니다.",
-                    "TL": "Ito ay isang hindi karaniwang pangalan.",
-                    "MY": "ဒါဟာမှန်တယ်ဘာသာစကား.",
-                    "HI": "यह एक अजीब नाम है।",
-                    "AR": "هذا اسم غير مألوف.",
-                    "FA": "این یک نام غیر معمول است."
-                }
-            },
-            {
-                "kanji": "それは珍しい文化です。",
-                "furigana": "それは珍（めずら）しい文化（ぶんか）です。",
-                "translations": {
-                    "EN": "That's a rare culture.",
-                    "ID": "Itu adalah budaya yang langka.",
-                    "ES": "Es una cultura rara.",
-                    "VI": "Đó là một văn hóa hiếm.",
-                    "FR": "C'est une culture rare.",
-                    "NE": "यो एक दुर्लभ संस्कृति हो।",
-                    "BN": "এটি একটি বিরল সংস্কৃতি।",
-                    "ZH": "那是一个罕见的文化。",
-                    "KO": "그것은 드문 문화입니다.",
-                    "TL": "Iyan ay isang bihirang kultura.",
-                    "MY": "ဒါဟာ လူ့ အဖွဲ့အစည်းအတွင်း ရှားပါးတဲ့ ယဉ်ကျေးမှုပါ။",
-                    "HI": "यह एक दुर्लभ संस्कृति है।",
-                    "AR": "تلك ثقافة نادرة.",
-                    "FA": "این یک فرهنگ نادر است."
-                }
-            }
-        ],
-        "synonyms": [
-            "珍奇 : ちんき : strange",
-            "異常 : いじょう : abnormal"
-        ],
-        "synonyms_explanation": "The most common synonyms of the \"めずらしい\" are ちんき and いじょう. ちんき generally denotes something novel or unusually interesting, much like curiosity. On the other hand, いじょう implies something abnormal, which may have a slightly negative connotation, unlike “めずらしい,” which is more neutral. ",
-        "antonyms": [
-            "普通 : ふつう : normal",
-            "一般 : いっぱん : general"
-        ],
-        "antonyms_explanation": "The most common antonyms of the \"めずらしい\" are ふつう and いっぱん. ふつう refers to something regular, everyday, or standard, unlike \"めずらしい,\" which is remarkable. いっぱん means generally or typically, often used when referring to commonly observed elements or occurrences, juxtaposed with rarity.",
-        "kanji_details": [
-            {
-                "kanji": "珍",
-                "common_words": [
-                    "珍味: delicacy",
-                    "珍客: unexpected visitor"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "珍しい",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n4"
-        ],
-        "japanese": [
-            {
-                "word": "珍しい",
-                "reading": "めずらしい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "rare",
-                    "uncommon",
-                    "unusual",
-                    "curious"
-                ],
-                "parts_of_speech": [
-                    "I-adjective (keiyoushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "new",
-                    "novel"
-                ],
-                "parts_of_speech": [
-                    "I-adjective (keiyoushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "fine",
-                    "nice",
-                    "splendid",
-                    "precious"
-                ],
-                "parts_of_speech": [
-                    "I-adjective (keiyoushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "珍"
+  "version": "0.3.0",
+  "word": "珍しい",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/v-bZBVMk238",
+  "in_db": true,
+  "kanji": "珍しい",
+  "reading": "めずらしい",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is めずらしい, which you will often hear in situations when something unexpected or uncommon appears. People might use it when they find a new type of food, an unusual animal, or even during a special event that doesn't happen frequently.",
+  "meanings": [
+    [
+      "rare",
+      "uncommon",
+      "unusual",
+      "curious"
     ],
-    "kanji_data": {
-        "珍": {
-            "meanings": [
-                "curious",
-                "rare",
-                "strange"
-            ],
-            "on_readings": [
-                "チン"
-            ],
-            "kun_readings": [
-                "たから",
-                "めずら.しい"
-            ],
-            "stroke_count": 9,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 1330,
-            "unicode": "73CD",
-            "grade": 8
-        }
-    },
-    "collocations": [
-        "めずらしい食べ物",
-        "めずらしい経験",
-        "めずらしい景色",
-        "めずらしい名前",
-        "めずらしい文化"
+    [
+      "new",
+      "novel"
+    ],
+    [
+      "fine",
+      "nice",
+      "splendid",
+      "precious"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"めずらしい\" means something that is unusual or rare. It's used when you encounter something that you don't see very often or when something is different from the norm or expected. It can be used to describe unique experiences, rare objects, or special occurrences.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "珍",
+      "common_words": [
+        "珍味: delicacy",
+        "珍客: unexpected visitor"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "珍奇 : ちんき : strange",
+    "異常 : いじょう : abnormal"
+  ],
+  "synonym_explanation": "The most common synonyms of the \"めずらしい\" are ちんき and いじょう. ちんき generally denotes something novel or unusually interesting, much like curiosity. On the other hand, いじょう implies something abnormal, which may have a slightly negative connotation, unlike “めずらしい,” which is more neutral. ",
+  "antonyms": [
+    "普通 : ふつう : normal",
+    "一般 : いっぱん : general"
+  ],
+  "antonym_explanation": "The most common antonyms of the \"めずらしい\" are ふつう and いっぱん. ふつう refers to something regular, everyday, or standard, unlike \"めずらしい,\" which is remarkable. いっぱん means generally or typically, often used when referring to commonly observed elements or occurrences, juxtaposed with rarity.",
+  "collocations": [
+    {
+      "kanji": "めずらしい食べ物",
+      "furigana": "めずらしい食べ物",
+      "translations": {}
+    },
+    {
+      "kanji": "めずらしい経験",
+      "furigana": "めずらしい経験",
+      "translations": {}
+    },
+    {
+      "kanji": "めずらしい景色",
+      "furigana": "めずらしい景色",
+      "translations": {}
+    },
+    {
+      "kanji": "めずらしい名前",
+      "furigana": "めずらしい名前",
+      "translations": {}
+    },
+    {
+      "kanji": "めずらしい文化",
+      "furigana": "めずらしい文化",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "この店には珍しい食べ物があります。",
+      "furigana": "この店(みせ)には珍(めずら)しい食(た)べ物(もの)があります。",
+      "translations": {
+        "EN": "This shop has rare food.",
+        "ID": "Toko ini memiliki makanan yang langka.",
+        "ES": "Esta tienda tiene comida rara.",
+        "VI": "Cửa hàng này có món ăn hiếm.",
+        "FR": "Ce magasin a des aliments rares.",
+        "NE": "यो पसलमा दुर्लभ खाना छ।",
+        "BN": "এই দোকানে বিরল খাবার আছে।",
+        "ZH": "这家店有稀有的食物。",
+        "KO": "이 가게에는 희귀한 음식이 있습니다.",
+        "TL": "May kakaibang pagkain ang tindahang ito.",
+        "MY": "ဒီဆိုင်မှာ ရှားပါးတဲ့ အစားအစာရှိတယ်။",
+        "HI": "इस दुकान में दुर्लभ भोजन है।",
+        "AR": "يوجد في هذا المحل طعام نادر.",
+        "FA": "این فروشگاه غذای کمیاب دارد."
+      }
+    },
+    {
+      "kanji": "私は珍しい経験をしました。",
+      "furigana": "私(わたし)は珍(めずら)しい経験(けいけん)をしました。",
+      "translations": {
+        "EN": "I had a rare experience.",
+        "ID": "Saya mengalami pengalaman langka.",
+        "ES": "Tuve una experiencia rara.",
+        "VI": "Tôi đã có một trải nghiệm hiếm có.",
+        "FR": "J'ai eu une expérience rare.",
+        "NE": "मैले एउटा दुर्लभ अनुभव गरे।",
+        "BN": "আমি একটি বিরল অভিজ্ঞতা পেয়েছি।",
+        "ZH": "我有过一次难得的经历。",
+        "KO": "나는 드문 경험을 했습니다.",
+        "TL": "Nagkaroon ako ng bihirang karanasan.",
+        "MY": "ငါ့မှာတစ်ခါမျှမရဘူးသောအတွေ့အကြုံတစ်ခုရှိပါတယ်.",
+        "HI": "मेरे पास एक दुर्लभ अनुभव था।",
+        "AR": "خضتُ تجربة نادرة.",
+        "FA": "من یک تجربه نادر داشتن."
+      }
+    },
+    {
+      "kanji": "めずらしい景色を見ました。",
+      "furigana": "めずらしい景色(けしき)を見(み)ました。",
+      "translations": {
+        "EN": "I saw a rare scenery.",
+        "ID": "Saya melihat pemandangan yang langka.",
+        "ES": "Vi un paisaje raro.",
+        "VI": "Tôi đã thấy một cảnh hiếm hoi.",
+        "FR": "J'ai vu un paysage rare.",
+        "NE": "म एक दुर्लभ दृश्य देखें।",
+        "BN": "আমি বিরল দৃশ্য দেখেছি।",
+        "ZH": "我看到了罕见的景色。",
+        "KO": "드문 경치를 봤어요.",
+        "TL": "Nakita ko ang isang bihirang tanawin.",
+        "MY": "ကောင်လေးတွေ မမြင်ဖူးတဲ့ ရှုခင်းကို မြင်ခဲ့တယ်။",
+        "HI": "मैंने एक दुर्लभ दृश्य देखा।",
+        "AR": "رأيت منظرًا نادرًا.",
+        "FA": "من یک منظره نادر دیدم."
+      }
+    },
+    {
+      "kanji": "これは珍しい名前です。",
+      "furigana": "これは珍(めずら)しい名(な)前(まえ)です。",
+      "translations": {
+        "EN": "This is an unusual name.",
+        "ID": "Ini adalah nama yang tidak biasa.",
+        "ES": "Este es un nombre inusual.",
+        "VI": "Đây là một cái tên hiếm có.",
+        "FR": "C'est un prénom rare.",
+        "NE": "यो अनौठो नाम हो।",
+        "BN": "এটি একটি অসাধারণ নাম।",
+        "ZH": "这是一个特别的名字。",
+        "KO": "이것은 특이한 이름입니다.",
+        "TL": "Ito ay isang hindi karaniwang pangalan.",
+        "MY": "ဒါဟာမှန်တယ်ဘာသာစကား.",
+        "HI": "यह एक अजीब नाम है।",
+        "AR": "هذا اسم غير مألوف.",
+        "FA": "این یک نام غیر معمول است."
+      }
+    },
+    {
+      "kanji": "それは珍しい文化です。",
+      "furigana": "それは珍（めずら）しい文化（ぶんか）です。",
+      "translations": {
+        "EN": "That's a rare culture.",
+        "ID": "Itu adalah budaya yang langka.",
+        "ES": "Es una cultura rara.",
+        "VI": "Đó là một văn hóa hiếm.",
+        "FR": "C'est une culture rare.",
+        "NE": "यो एक दुर्लभ संस्कृति हो।",
+        "BN": "এটি একটি বিরল সংস্কৃতি।",
+        "ZH": "那是一个罕见的文化。",
+        "KO": "그것은 드문 문화입니다.",
+        "TL": "Iyan ay isang bihirang kultura.",
+        "MY": "ဒါဟာ လူ့ အဖွဲ့အစည်းအတွင်း ရှားပါးတဲ့ ယဉ်ကျေးမှုပါ။",
+        "HI": "यह एक दुर्लभ संस्कृति है।",
+        "AR": "تلك ثقافة نادرة.",
+        "FA": "این یک فرهنگ نادر است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "rare": {
+      "EN": "rare",
+      "ID": "langka",
+      "ES": "raro",
+      "VI": "hiếm",
+      "FR": "rare",
+      "NE": "दुर्लभ",
+      "BN": "বিরল",
+      "ZH": "稀有",
+      "KO": "희귀한",
+      "TL": "bihira",
+      "MY": "အလွယ်တကူ မရပါ",
+      "HI": "दुर्लभ",
+      "AR": "نادر",
+      "FA": "نادر"
+    },
+    "new": {
+      "EN": "Rare, Uncommon, Extraordinary, New",
+      "ID": "Langka, Tidak umum, Luar biasa, Baru",
+      "ES": "Raro, Poco común, Extraordinario, Nuevo",
+      "VI": "Hiếm, Không phổ biến, Phi thường, Mới",
+      "FR": "Rare, Inhabituel, Extraordinaire, Nouveau",
+      "NE": "दुर्लभ, दुर्लभ, असाधारण, नयाँ",
+      "BN": "বিরল, অপ্রিয়, অসাধারণ, নতুন",
+      "ZH": "稀有，罕见，非凡，新颖",
+      "KO": "드문, 희귀한, 비범한, 새로운",
+      "TL": "Bihira, Hindi pangkaraniwan, Pambihira, Bago",
+      "MY": "ရှားပါးသော၊ ရှားလအိပ်သော၊ ထူးခြားသော၊ သစ်",
+      "HI": "दुर्लभ, असामान्य, असाधारण, नया",
+      "AR": "نادر, غير مألوف, استثنائي, جديد",
+      "FA": "نادر، کمیاب، خارق‌العاده، جدید"
+    },
+    "fine": {
+      "EN": "Rare",
+      "ID": "Langka",
+      "ES": "Raro",
+      "VI": "Hiếm",
+      "FR": "Rare",
+      "NE": "दुर्लभ",
+      "BN": "বিরল",
+      "ZH": "稀有",
+      "KO": "희귀한",
+      "TL": "Bihira",
+      "MY": "နည်းပါးသော",
+      "HI": "दुर्लभ",
+      "AR": "نادر",
+      "FA": "نادر"
+    }
+  },
+  "jisho_data": {
+    "slug": "珍しい",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n4"
+    ],
+    "japanese": [
+      {
+        "word": "珍しい",
+        "reading": "めずらしい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "rare",
+          "uncommon",
+          "unusual",
+          "curious"
+        ],
+        "parts_of_speech": [
+          "I-adjective (keiyoushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "new",
+          "novel"
+        ],
+        "parts_of_speech": [
+          "I-adjective (keiyoushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "fine",
+          "nice",
+          "splendid",
+          "precious"
+        ],
+        "parts_of_speech": [
+          "I-adjective (keiyoushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "珍"
+  ],
+  "kanji_data": {
+    "珍": {
+      "meanings": [
+        "curious",
+        "rare",
+        "strange"
+      ],
+      "on_readings": [
+        "チン"
+      ],
+      "kun_readings": [
+        "たから",
+        "めずら.しい"
+      ],
+      "stroke_count": 9,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 1330,
+      "unicode": "73CD",
+      "grade": 8
+    }
+  }
 }

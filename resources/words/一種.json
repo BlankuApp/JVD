@@ -1,308 +1,323 @@
 {
-    "version": "0.2.0",
-    "word": "一種",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/UHf4kAG-vxk",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "一種",
-        "reading": "いっしゅ",
-        "introduction_japanese": "",
-        "introduction_english": "Today, let's look at \"いっしゅ,\" a word you'll often encounter when categorizing things or expressing a variety of something.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"いっしゅ\" means a kind, a type, or a sort. It's used when you want to categorize something into a certain kind or variety. It can be used for both tangible items like animals, foods, or objects, and more abstract things like feelings or ideas.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "a kind",
-                "a sort",
-                "a variety",
-                "a species"
-            ],
-            [
-                "of sorts",
-                "something of a",
-                "a sort of"
-            ],
-            [
-                "sort of",
-                "somewhat"
-            ]
-        ],
-        "meaning_translations": {
-            "a kind": {
-                "EN": "One kind: a kind",
-                "ID": "Satu jenis: satu jenis",
-                "ES": "Una especie: una clase",
-                "VI": "Một loại: một loại",
-                "FR": "Une espèce : une sorte",
-                "NE": "एक प्रकार: एक प्रकार",
-                "BN": "এক প্রকার: এক ধরণ",
-                "ZH": "一种: 一种",
-                "KO": "일종 : 한 종류",
-                "TL": "Isang uri: isang uri",
-                "MY": "အမျိုးအစားတစ်မျိုး - အမျိုးအစားတစ်မျိုး",
-                "HI": "एक प्रकार: एक प्रकार",
-                "AR": "نوع واحد: نوع واحد",
-                "FA": "یک نوع: یک گونه"
-            },
-            "of sorts": {
-                "EN": "of sorts",
-                "ID": "sejenis",
-                "ES": "una especie",
-                "VI": "một loại",
-                "FR": "d'une sorte",
-                "NE": "केही प्रकारको",
-                "BN": "এক প্রকারের",
-                "ZH": "某种",
-                "KO": "일종",
-                "TL": "uri ng",
-                "MY": "တစ်မျိုးမျိုး",
-                "HI": "कामचलाऊ",
-                "AR": "نوع من",
-                "FA": "از نوعی"
-            },
-            "sort of": {
-                "EN": "sort of",
-                "ID": "semacam",
-                "ES": "una especie de",
-                "VI": "một loại",
-                "FR": "une sorte de",
-                "NE": "प्रकारको",
-                "BN": "এক ধরনের",
-                "ZH": "一种",
-                "KO": "일종",
-                "TL": "isang uri ng",
-                "MY": "အမျိုးအစားတစ်ခု",
-                "HI": "एक प्रकार का",
-                "AR": "نوع من",
-                "FA": "نوعی از"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "この庭は一種の静かさがあります。",
-                "furigana": "この庭(にわ)は一種(いっしゅ)の静(しず)かさがあります。",
-                "translations": {
-                    "EN": "This garden has a kind of tranquility.",
-                    "ID": "Taman ini memiliki semacam ketenangan.",
-                    "ES": "Este jardín tiene una especie de tranquilidad.",
-                    "VI": "Khu vườn này có một loại yên tĩnh.",
-                    "FR": "Ce jardin a une sorte de tranquillité.",
-                    "NE": "यस बगैँचामा एक प्रकारको शान्ति छ।",
-                    "BN": "এ বাগানে একপ্রকারের প্রশান্তি আছে।",
-                    "ZH": "这个花园有一种宁静。",
-                    "KO": "이 정원은 일종의 고요함이 있습니다.",
-                    "TL": "Ang hardin na ito ay may isang uri ng katahimikan.",
-                    "MY": "ဤဥယျာဉ်တွင် တစ်မျိုးမျိုးသော တိတ်ဆိတ်မှုရှိသည်။",
-                    "HI": "यह बगीचा एक प्रकार की शांति प्रदान करता है।",
-                    "AR": "تتمتع هذه الحديقة بنوع من الهدوء.",
-                    "FA": "این باغ نوعی آرامش دارد."
-                }
-            },
-            {
-                "kanji": "この料理は一種の味があります。",
-                "furigana": "この料理(りょうり)は一種(いっしゅ)の味(あじ)があります。",
-                "translations": {
-                    "EN": "This dish has a unique taste.",
-                    "ID": "Hidangan ini memiliki cita rasa yang unik.",
-                    "ES": "Este plato tiene un sabor único.",
-                    "VI": "Món ăn này có một hương vị đặc trưng.",
-                    "FR": "Ce plat a un goût unique.",
-                    "NE": "यो परिकारको एउटा छुट्टै स्वाद छ।",
-                    "BN": "এই খাবারের একটি বিশেষ স্বাদ আছে।",
-                    "ZH": "这道菜有一种独特的味道。",
-                    "KO": "이 요리는 독특한 맛이 있습니다.",
-                    "TL": "Itong ulam ay may natatanging lasa.",
-                    "MY": "ဤဟင်းလျာသည် ထူးခြားသော အရသာရှိသည်။",
-                    "HI": "इस खाने का एक अनोखा स्वाद है।",
-                    "AR": "هذا الطبق له نكهة فريدة.",
-                    "FA": "این غذا طعم خاصی دارد."
-                }
-            },
-            {
-                "kanji": "彼の言葉には一種の優しさがある。",
-                "furigana": "彼(かれ)の言葉(ことば)には一種(いっしゅ)の優(やさ)しさがある。",
-                "translations": {
-                    "EN": "His words have a kind of gentleness.",
-                    "ID": "Kata-katanya memiliki semacam kelembutan.",
-                    "ES": "Sus palabras tienen un tipo de suavidad.",
-                    "VI": "Những lời nói của anh ấy có một loại mềm mỏng.",
-                    "FR": "Ses paroles ont une certaine douceur.",
-                    "NE": "उनका शब्दहरूमा एक प्रकारको मिठास छ।",
-                    "BN": "তার কথায় এক ধরনের কোমলতা রয়েছে।",
-                    "ZH": "他的话中有一种温柔。",
-                    "KO": "그의 말에는 일종의 부드러움이 있다.",
-                    "TL": "May uri ng kabaitan sa kanyang mga salita.",
-                    "MY": "သူ၏စကားများတွင်မျိုးစုံသောနှုတ်ခွန်းရှိသည်။",
-                    "HI": "उनके शब्दों में एक प्रकार की कोमलता है।",
-                    "AR": "كلماته تمتلك نوعًا من الرقة.",
-                    "FA": "کلمات او نوعی لطافت دارند."
-                }
-            },
-            {
-                "kanji": "これは、一種の痛みです。",
-                "furigana": "これは、一種(いっしゅ)の痛み(いたみ)です。",
-                "translations": {
-                    "EN": "This is a kind of pain.",
-                    "ID": "Ini adalah semacam rasa sakit.",
-                    "ES": "Esto es un tipo de dolor.",
-                    "VI": "Đây là một loại đau.",
-                    "FR": "C'est une sorte de douleur.",
-                    "NE": "यो एउटा किसिमको पीडा हो।",
-                    "BN": "এটি এক ধরনের ব্যথা।",
-                    "ZH": "这是一种痛。",
-                    "KO": "이것은 일종의 고통입니다.",
-                    "TL": "Ito ay isang uri ng sakit.",
-                    "MY": "ဒါဟာ အမျိုးအမျိုးသော အနာတရ ဖြစ်ပါတယ်။",
-                    "HI": "यह एक प्रकार का दर्द है।",
-                    "AR": "هذا نوع من الألم.",
-                    "FA": "این یک نوع درد است."
-                }
-            }
-        ],
-        "synonyms": [
-            "種類 : しゅるい : variety"
-        ],
-        "synonyms_explanation": "The most common synonym of いっしゅ is \"しゅるい.\" While both refer to a type or category, \"しゅるい\" often emphasizes variety within a broader group of items.",
-        "antonyms": [
-            "多様 : たよう : diverse"
-        ],
-        "antonyms_explanation": "The most common antonym of いっしゅ is \"たよう.\" While \"いっしゅ\" implies a single type or kind, \"たよう\" refers to diversity or multiple types, highlighting variety and difference.",
-        "kanji_details": [
-            {
-                "kanji": "一",
-                "common_words": [
-                    "一人: one person",
-                    "一番: number one"
-                ]
-            },
-            {
-                "kanji": "種",
-                "common_words": [
-                    "種類: variety",
-                    "品種: type"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "一種",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "一種",
-                "reading": "いっしゅ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "a kind",
-                    "a sort",
-                    "a variety",
-                    "a species"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "of sorts",
-                    "something of a",
-                    "a sort of"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "sort of",
-                    "somewhat"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "一",
-        "種"
+  "version": "0.3.0",
+  "word": "一種",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/UHf4kAG-vxk",
+  "in_db": true,
+  "kanji": "一種",
+  "reading": "いっしゅ",
+  "introduction_japanese": "",
+  "introduction_english": "Today, let's look at \"いっしゅ,\" a word you'll often encounter when categorizing things or expressing a variety of something.",
+  "meanings": [
+    [
+      "a kind",
+      "a sort",
+      "a variety",
+      "a species"
     ],
-    "kanji_data": {
-        "一": {
-            "meanings": [
-                "one",
-                "one radical (no.1)"
-            ],
-            "on_readings": [
-                "イチ",
-                "イツ"
-            ],
-            "kun_readings": [
-                "ひと-",
-                "ひと.つ"
-            ],
-            "stroke_count": 1,
-            "jlpt": 5,
-            "freq_mainichi_shinbun": 2,
-            "unicode": "4E00",
-            "grade": 1
-        },
-        "種": {
-            "meanings": [
-                "class",
-                "kind",
-                "seed",
-                "species",
-                "variety"
-            ],
-            "on_readings": [
-                "シュ"
-            ],
-            "kun_readings": [
-                "-ぐさ",
-                "たね"
-            ],
-            "stroke_count": 14,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 461,
-            "unicode": "7A2E",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "いっしゅのしずかさ",
-        "いっしゅのあじ",
-        "いっしゅのやさしさ",
-        "いっしゅのいたみ"
+    [
+      "of sorts",
+      "something of a",
+      "a sort of"
+    ],
+    [
+      "sort of",
+      "somewhat"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"いっしゅ\" means a kind, a type, or a sort. It's used when you want to categorize something into a certain kind or variety. It can be used for both tangible items like animals, foods, or objects, and more abstract things like feelings or ideas.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "一",
+      "common_words": [
+        "一人: one person",
+        "一番: number one"
+      ]
+    },
+    {
+      "kanji": "種",
+      "common_words": [
+        "種類: variety",
+        "品種: type"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "種類 : しゅるい : variety"
+  ],
+  "synonym_explanation": "The most common synonym of いっしゅ is \"しゅるい.\" While both refer to a type or category, \"しゅるい\" often emphasizes variety within a broader group of items.",
+  "antonyms": [
+    "多様 : たよう : diverse"
+  ],
+  "antonym_explanation": "The most common antonym of いっしゅ is \"たよう.\" While \"いっしゅ\" implies a single type or kind, \"たよう\" refers to diversity or multiple types, highlighting variety and difference.",
+  "collocations": [
+    {
+      "kanji": "いっしゅのしずかさ",
+      "furigana": "いっしゅのしずかさ",
+      "translations": {}
+    },
+    {
+      "kanji": "いっしゅのあじ",
+      "furigana": "いっしゅのあじ",
+      "translations": {}
+    },
+    {
+      "kanji": "いっしゅのやさしさ",
+      "furigana": "いっしゅのやさしさ",
+      "translations": {}
+    },
+    {
+      "kanji": "いっしゅのいたみ",
+      "furigana": "いっしゅのいたみ",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "この庭は一種の静かさがあります。",
+      "furigana": "この庭(にわ)は一種(いっしゅ)の静(しず)かさがあります。",
+      "translations": {
+        "EN": "This garden has a kind of tranquility.",
+        "ID": "Taman ini memiliki semacam ketenangan.",
+        "ES": "Este jardín tiene una especie de tranquilidad.",
+        "VI": "Khu vườn này có một loại yên tĩnh.",
+        "FR": "Ce jardin a une sorte de tranquillité.",
+        "NE": "यस बगैँचामा एक प्रकारको शान्ति छ।",
+        "BN": "এ বাগানে একপ্রকারের প্রশান্তি আছে।",
+        "ZH": "这个花园有一种宁静。",
+        "KO": "이 정원은 일종의 고요함이 있습니다.",
+        "TL": "Ang hardin na ito ay may isang uri ng katahimikan.",
+        "MY": "ဤဥယျာဉ်တွင် တစ်မျိုးမျိုးသော တိတ်ဆိတ်မှုရှိသည်။",
+        "HI": "यह बगीचा एक प्रकार की शांति प्रदान करता है।",
+        "AR": "تتمتع هذه الحديقة بنوع من الهدوء.",
+        "FA": "این باغ نوعی آرامش دارد."
+      }
+    },
+    {
+      "kanji": "この料理は一種の味があります。",
+      "furigana": "この料理(りょうり)は一種(いっしゅ)の味(あじ)があります。",
+      "translations": {
+        "EN": "This dish has a unique taste.",
+        "ID": "Hidangan ini memiliki cita rasa yang unik.",
+        "ES": "Este plato tiene un sabor único.",
+        "VI": "Món ăn này có một hương vị đặc trưng.",
+        "FR": "Ce plat a un goût unique.",
+        "NE": "यो परिकारको एउटा छुट्टै स्वाद छ।",
+        "BN": "এই খাবারের একটি বিশেষ স্বাদ আছে।",
+        "ZH": "这道菜有一种独特的味道。",
+        "KO": "이 요리는 독특한 맛이 있습니다.",
+        "TL": "Itong ulam ay may natatanging lasa.",
+        "MY": "ဤဟင်းလျာသည် ထူးခြားသော အရသာရှိသည်။",
+        "HI": "इस खाने का एक अनोखा स्वाद है।",
+        "AR": "هذا الطبق له نكهة فريدة.",
+        "FA": "این غذا طعم خاصی دارد."
+      }
+    },
+    {
+      "kanji": "彼の言葉には一種の優しさがある。",
+      "furigana": "彼(かれ)の言葉(ことば)には一種(いっしゅ)の優(やさ)しさがある。",
+      "translations": {
+        "EN": "His words have a kind of gentleness.",
+        "ID": "Kata-katanya memiliki semacam kelembutan.",
+        "ES": "Sus palabras tienen un tipo de suavidad.",
+        "VI": "Những lời nói của anh ấy có một loại mềm mỏng.",
+        "FR": "Ses paroles ont une certaine douceur.",
+        "NE": "उनका शब्दहरूमा एक प्रकारको मिठास छ।",
+        "BN": "তার কথায় এক ধরনের কোমলতা রয়েছে।",
+        "ZH": "他的话中有一种温柔。",
+        "KO": "그의 말에는 일종의 부드러움이 있다.",
+        "TL": "May uri ng kabaitan sa kanyang mga salita.",
+        "MY": "သူ၏စကားများတွင်မျိုးစုံသောနှုတ်ခွန်းရှိသည်။",
+        "HI": "उनके शब्दों में एक प्रकार की कोमलता है।",
+        "AR": "كلماته تمتلك نوعًا من الرقة.",
+        "FA": "کلمات او نوعی لطافت دارند."
+      }
+    },
+    {
+      "kanji": "これは、一種の痛みです。",
+      "furigana": "これは、一種(いっしゅ)の痛み(いたみ)です。",
+      "translations": {
+        "EN": "This is a kind of pain.",
+        "ID": "Ini adalah semacam rasa sakit.",
+        "ES": "Esto es un tipo de dolor.",
+        "VI": "Đây là một loại đau.",
+        "FR": "C'est une sorte de douleur.",
+        "NE": "यो एउटा किसिमको पीडा हो।",
+        "BN": "এটি এক ধরনের ব্যথা।",
+        "ZH": "这是一种痛。",
+        "KO": "이것은 일종의 고통입니다.",
+        "TL": "Ito ay isang uri ng sakit.",
+        "MY": "ဒါဟာ အမျိုးအမျိုးသော အနာတရ ဖြစ်ပါတယ်။",
+        "HI": "यह एक प्रकार का दर्द है।",
+        "AR": "هذا نوع من الألم.",
+        "FA": "این یک نوع درد است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "a kind": {
+      "EN": "One kind: a kind",
+      "ID": "Satu jenis: satu jenis",
+      "ES": "Una especie: una clase",
+      "VI": "Một loại: một loại",
+      "FR": "Une espèce : une sorte",
+      "NE": "एक प्रकार: एक प्रकार",
+      "BN": "এক প্রকার: এক ধরণ",
+      "ZH": "一种: 一种",
+      "KO": "일종 : 한 종류",
+      "TL": "Isang uri: isang uri",
+      "MY": "အမျိုးအစားတစ်မျိုး - အမျိုးအစားတစ်မျိုး",
+      "HI": "एक प्रकार: एक प्रकार",
+      "AR": "نوع واحد: نوع واحد",
+      "FA": "یک نوع: یک گونه"
+    },
+    "of sorts": {
+      "EN": "of sorts",
+      "ID": "sejenis",
+      "ES": "una especie",
+      "VI": "một loại",
+      "FR": "d'une sorte",
+      "NE": "केही प्रकारको",
+      "BN": "এক প্রকারের",
+      "ZH": "某种",
+      "KO": "일종",
+      "TL": "uri ng",
+      "MY": "တစ်မျိုးမျိုး",
+      "HI": "कामचलाऊ",
+      "AR": "نوع من",
+      "FA": "از نوعی"
+    },
+    "sort of": {
+      "EN": "sort of",
+      "ID": "semacam",
+      "ES": "una especie de",
+      "VI": "một loại",
+      "FR": "une sorte de",
+      "NE": "प्रकारको",
+      "BN": "এক ধরনের",
+      "ZH": "一种",
+      "KO": "일종",
+      "TL": "isang uri ng",
+      "MY": "အမျိုးအစားတစ်ခု",
+      "HI": "एक प्रकार का",
+      "AR": "نوع من",
+      "FA": "نوعی از"
+    }
+  },
+  "jisho_data": {
+    "slug": "一種",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "一種",
+        "reading": "いっしゅ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "a kind",
+          "a sort",
+          "a variety",
+          "a species"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "of sorts",
+          "something of a",
+          "a sort of"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "sort of",
+          "somewhat"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "一",
+    "種"
+  ],
+  "kanji_data": {
+    "一": {
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "on_readings": [
+        "イチ",
+        "イツ"
+      ],
+      "kun_readings": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "stroke_count": 1,
+      "jlpt": 5,
+      "freq_mainichi_shinbun": 2,
+      "unicode": "4E00",
+      "grade": 1
+    },
+    "種": {
+      "meanings": [
+        "class",
+        "kind",
+        "seed",
+        "species",
+        "variety"
+      ],
+      "on_readings": [
+        "シュ"
+      ],
+      "kun_readings": [
+        "-ぐさ",
+        "たね"
+      ],
+      "stroke_count": 14,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 461,
+      "unicode": "7A2E",
+      "grade": 4
+    }
+  }
 }

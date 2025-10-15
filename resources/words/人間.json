@@ -1,0 +1,554 @@
+{
+    "version": "0.3.0",
+    "word": "人間",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/vrMR-2JG3_s",
+    "in_db": true,
+    "kanji": "人間",
+    "reading": "にんげん",
+    "introduction_japanese": "人間。性格や社会、感情、生活の話でよく使います。仕事や関係、道徳の話にも出ます。",
+    "introduction_english": "The noun にんげん is used when talking about personality, society, feelings, and daily life. It also appears in topics like work, relationships, and ethics.",
+    "meanings": [
+        [
+            "human",
+            "person",
+            "people"
+        ],
+        [
+            "humankind",
+            "mankind",
+            "humanity"
+        ],
+        [
+            "nature",
+            "character",
+            "qualities"
+        ]
+    ],
+    "meaning_explanation_japanese": "ひと・ひとびとをさす意味と、じんるいぜんたいをさす意味があります。さらに、その人のせいかくやほんしょうを言うこともあります。",
+    "meaning_explanation_english": "にんげん can mean an individual person or people, the whole human species, and also someone’s character or nature.",
+    "youtube_description": "Learn にんげん: clear meanings, everyday uses, nuances like ‘people,’ ‘humankind,’ and ‘human nature,’ plus easy examples and collocations for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "人",
+            "onyomi": [
+                "ジン",
+                "ニン"
+            ],
+            "kunyomi": [
+                "ひと"
+            ],
+            "meanings_english": [
+                "person",
+                "people"
+            ],
+            "common_words": [
+                "人生（じんせい）：life",
+                "人口（じんこう）：population"
+            ]
+        },
+        {
+            "kanji": "間",
+            "onyomi": [
+                "カン",
+                "ケン"
+            ],
+            "kunyomi": [
+                "あいだ",
+                "ま"
+            ],
+            "meanings_english": [
+                "interval",
+                "space",
+                "time"
+            ],
+            "common_words": [
+                "時間（じかん）：time",
+                "期間（きかん）：period"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means person. It appears in words like じんせい and じんこう. It suggests an individual or people. Picture a single figure. The second kanji means interval or space. It shows up in words like じかん and きかん. It suggests a gap or span. It also connects to time passing.",
+    "synonyms": [
+        "人 : ひと : person",
+        "人類 : じんるい : humankind"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ひと and じんるい. ひと overlaps when you mean one individual. じんるい overlaps when you mean the whole species. にんげん often sits between them and can also hint at personality or nature.",
+    "antonyms": [
+        "機械 : きかい : machine"
+    ],
+    "antonym_explanation": "The most common antonym of the word is きかい. It contrasts living people with machines or robots. にんげん implies feelings and judgment, while きかい does not.",
+    "collocations": [
+        {
+            "kanji": "人間関係",
+            "furigana": "人間(にんげん)関係(かんけい)",
+            "translations": {
+                "EN": "human relationships",
+                "ID": "hubungan antarmanusia",
+                "ES": "relaciones humanas",
+                "VI": "mối quan hệ giữa con người",
+                "FR": "relations humaines",
+                "NE": "मानवीय सम्बन्धहरू",
+                "BN": "মানবিক সম্পর্ক",
+                "ZH": "人际关系",
+                "KO": "인간 관계",
+                "TL": "relasyon ng tao",
+                "MY": "လူ့ဆက်ဆံရေး",
+                "HI": "मानवीय रिश्ते",
+                "AR": "العلاقات الإنسانية",
+                "FA": "روابط انسانی"
+            }
+        },
+        {
+            "kanji": "人間社会",
+            "furigana": "人間(にんげん)社会(しゃかい)",
+            "translations": {
+                "EN": "human society",
+                "ID": "masyarakat manusia",
+                "ES": "sociedad humana",
+                "VI": "xã hội loài người",
+                "FR": "société humaine",
+                "NE": "मानव समाज",
+                "BN": "মানব সমাজ",
+                "ZH": "人类社会",
+                "KO": "인간 사회",
+                "TL": "lipunan ng tao",
+                "MY": "လူ့အသိုင်းအဝိုင်း",
+                "HI": "मनुष्य समाज",
+                "AR": "المجتمع البشري",
+                "FA": "جامعه بشری"
+            }
+        },
+        {
+            "kanji": "人間の体",
+            "furigana": "人間(にんげん)の体(からだ)",
+            "translations": {
+                "EN": "the human body",
+                "ID": "tubuh manusia",
+                "ES": "el cuerpo humano",
+                "VI": "cơ thể con người",
+                "FR": "le corps humain",
+                "NE": "मानव शरीर",
+                "BN": "মানুষের শরীর",
+                "ZH": "人体",
+                "KO": "인간의 몸",
+                "TL": "ang katawan ng tao",
+                "MY": "လူ့ခန္ဓာကိုယ်",
+                "HI": "मानव शरीर",
+                "AR": "جسم الإنسان",
+                "FA": "بدن انسان"
+            }
+        },
+        {
+            "kanji": "人間の心",
+            "furigana": "人間(にんげん)の心(こころ)",
+            "translations": {
+                "EN": "the human heart",
+                "ID": "hati manusia",
+                "ES": "el corazón humano",
+                "VI": "trái tim con người",
+                "FR": "le cœur humain",
+                "NE": "मानव हृदय",
+                "BN": "মানুষের হৃদয়",
+                "ZH": "人类的心脏",
+                "KO": "인간의 마음",
+                "TL": "ang puso ng tao",
+                "MY": "လူ့နှလုံးသား",
+                "HI": "मानव हृदय",
+                "AR": "القلب البشري",
+                "FA": "قلب انسان"
+            }
+        },
+        {
+            "kanji": "多くの人間",
+            "furigana": "多(おお)くの人間(にんげん)",
+            "translations": {
+                "EN": "Many people",
+                "ID": "Banyak orang",
+                "ES": "Mucha gente",
+                "VI": "Nhiều người",
+                "FR": "Beaucoup de gens",
+                "NE": "धेरै मानिसहरू",
+                "BN": "অনেক মানুষ",
+                "ZH": "很多人",
+                "KO": "많은 인간",
+                "TL": "Maraming tao",
+                "MY": "လူတော်တော်များများ",
+                "HI": "कई लोग",
+                "AR": "كثير من الناس",
+                "FA": "بسیاری از مردم"
+            }
+        },
+        {
+            "kanji": "普通の人間",
+            "furigana": "普通(ふつう)の人間(にんげん)",
+            "translations": {
+                "EN": "Ordinary human beings",
+                "ID": "Manusia biasa",
+                "ES": "Seres humanos comunes y corrientes",
+                "VI": "Con người bình thường",
+                "FR": "Des êtres humains ordinaires",
+                "NE": "साधारण मानवहरू",
+                "BN": "সাধারণ মানুষ",
+                "ZH": "普通人",
+                "KO": "평범한 인간",
+                "TL": "Mga ordinaryong tao",
+                "MY": "ပုထုဇဉ်လူသားများ",
+                "HI": "साधारण मनुष्य",
+                "AR": "البشر العاديون",
+                "FA": "انسان‌های معمولی"
+            }
+        },
+        {
+            "kanji": "人間として",
+            "furigana": "人間(にんげん)として",
+            "translations": {
+                "EN": "As a human being",
+                "ID": "Sebagai manusia",
+                "ES": "Como ser humano",
+                "VI": "Là một con người",
+                "FR": "En tant qu'être humain",
+                "NE": "मानिसको रूपमा",
+                "BN": "একজন মানুষ হিসেবে",
+                "ZH": "作为一个人",
+                "KO": "인간으로서",
+                "TL": "Bilang isang tao",
+                "MY": "လူသားတစ်ယောက်အနေနဲ့ပေါ့။",
+                "HI": "एक इंसान की तरह",
+                "AR": "كإنسان",
+                "FA": "به عنوان یک انسان"
+            }
+        },
+        {
+            "kanji": "人間にとって",
+            "furigana": "人間(にんげん)にとって",
+            "translations": {
+                "EN": "For humans",
+                "ID": "Untuk manusia",
+                "ES": "Para los humanos",
+                "VI": "Đối với con người",
+                "FR": "Pour les humains",
+                "NE": "मानिसहरूको लागि",
+                "BN": "মানুষের জন্য",
+                "ZH": "对于人类来说",
+                "KO": "인간에게",
+                "TL": "Para sa mga tao",
+                "MY": "လူသားများအတွက်",
+                "HI": "मनुष्यों के लिए",
+                "AR": "للبشر",
+                "FA": "برای انسان‌ها"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "人間は水が必要です。",
+            "furigana": "人間(にんげん)は水(みず)が必要(ひつよう)です。",
+            "translations": {
+                "EN": "Humans need water.",
+                "ID": "Manusia membutuhkan air.",
+                "ES": "Los humanos necesitan agua.",
+                "VI": "Con người cần nước.",
+                "FR": "Les humains ont besoin d’eau.",
+                "NE": "मानिसलाई पानी चाहिन्छ।",
+                "BN": "মানুষের জল প্রয়োজন।",
+                "ZH": "人类需要水。",
+                "KO": "인간은 물이 필요합니다.",
+                "TL": "Ang mga tao ay nangangailangan ng tubig.",
+                "MY": "လူတွေဟာ ရေလိုတယ်။",
+                "HI": "मनुष्य को पानी की आवश्यकता है।",
+                "AR": "يحتاج البشر إلى الماء.",
+                "FA": "انسان‌ها به آب نیاز دارند."
+            }
+        },
+        {
+            "kanji": "私は人間だよ。",
+            "furigana": "私(わたし)は人間(にんげん)だよ。",
+            "translations": {
+                "EN": "I'm human.",
+                "ID": "Saya manusia.",
+                "ES": "Soy humano",
+                "VI": "Tôi là con người.",
+                "FR": "Je suis humain.",
+                "NE": "म मान्छे हुँ।",
+                "BN": "আমি মানুষ।",
+                "ZH": "我是人。",
+                "KO": "나는 인간이야.",
+                "TL": "tao ako.",
+                "MY": "ငါက လူသားပါ။",
+                "HI": "मैं इंसान हूं.",
+                "AR": "أنا إنسان.",
+                "FA": "من انسانم."
+            }
+        },
+        {
+            "kanji": "人間関係はむずかしいです。",
+            "furigana": "人間(にんげん)関係(かんけい)はむずかしいです。",
+            "translations": {
+                "EN": "Human relationships are difficult.",
+                "ID": "Hubungan antarmanusia itu sulit.",
+                "ES": "Las relaciones humanas son difíciles.",
+                "VI": "Mối quan hệ giữa con người với nhau rất khó khăn.",
+                "FR": "Les relations humaines sont difficiles.",
+                "NE": "मानवीय सम्बन्धहरू कठिन हुन्छन्।",
+                "BN": "মানবিক সম্পর্কগুলো কঠিন।",
+                "ZH": "人际关系很难。",
+                "KO": "인간 관계는 어렵다.",
+                "TL": "Mahirap ang relasyon ng tao.",
+                "MY": "လူ့ဆက်ဆံရေးက ခက်တယ်။",
+                "HI": "मानवीय रिश्ते कठिन होते हैं।",
+                "AR": "العلاقات الإنسانية صعبة.",
+                "FA": "روابط انسانی دشوار است."
+            }
+        },
+        {
+            "kanji": "人間の体はあたたかいです。",
+            "furigana": "人間(にんげん)の体(からだ)はあたたかいです。",
+            "translations": {
+                "EN": "The human body is warm.",
+                "ID": "Tubuh manusia itu hangat.",
+                "ES": "El cuerpo humano está caliente.",
+                "VI": "Cơ thể con người ấm áp.",
+                "FR": "Le corps humain est chaud.",
+                "NE": "मानव शरीर तातो हुन्छ।",
+                "BN": "মানুষের শরীর উষ্ণ।",
+                "ZH": "人体是温暖的。",
+                "KO": "인간의 몸은 따뜻합니다.",
+                "TL": "Mainit ang katawan ng tao.",
+                "MY": "လူ့ခန္ဓာကိုယ်က နွေးထွေးတယ်။",
+                "HI": "मानव शरीर गर्म है.",
+                "AR": "جسم الإنسان دافئ.",
+                "FA": "بدن انسان گرم است."
+            }
+        },
+        {
+            "kanji": "ロボットより人間が好きです。",
+            "furigana": "ロボットより人間(にんげん)が好(す)きです。},{",
+            "translations": {
+                "EN": "I prefer humans to robots.",
+                "ID": "Saya lebih suka manusia daripada robot.",
+                "ES": "Prefiero los humanos a los robots.",
+                "VI": "Tôi thích con người hơn robot.",
+                "FR": "Je préfère les humains aux robots.",
+                "NE": "मलाई रोबोटभन्दा मानिस मन पर्छ।",
+                "BN": "আমি রোবটের চেয়ে মানুষ বেশি পছন্দ করি।",
+                "ZH": "我更喜欢人类而不是机器人。",
+                "KO": "로봇보다 인간을 좋아합니다.",
+                "TL": "Mas gusto ko ang tao kaysa robot.",
+                "MY": "လူသားတွေကို စက်ရုပ်တွေကို ပိုကြိုက်တယ်။",
+                "HI": "मैं रोबोट की अपेक्षा मनुष्य को अधिक पसंद करता हूं।",
+                "AR": "أفضّل البشر على الروبوتات.",
+                "FA": "من انسان‌ها را به ربات‌ها ترجیح می‌دهم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "manusia",
+            "ES": "humano",
+            "VI": "nhân loại",
+            "FR": "humain",
+            "NE": "मानव",
+            "BN": "মানুষ",
+            "ZH": "人类",
+            "KO": "인간",
+            "TL": "tao",
+            "MY": "လူသား",
+            "HI": "इंसान",
+            "AR": "بشر",
+            "FA": "انسان",
+            "EN": [
+                "human",
+                "person",
+                "people"
+            ]
+        },
+        {
+            "ID": "umat manusia",
+            "ES": "humanidad",
+            "VI": "nhân loại",
+            "FR": "humanité",
+            "NE": "मानवजाति",
+            "BN": "মানবজাতি",
+            "ZH": "人类",
+            "KO": "인류",
+            "TL": "sangkatauhan",
+            "MY": "လူသားမျိုးနွယ်",
+            "HI": "मानवजाति",
+            "AR": "البشرية",
+            "FA": "نوع بشر",
+            "EN": [
+                "humankind",
+                "mankind",
+                "humanity"
+            ]
+        },
+        {
+            "ID": "alam",
+            "ES": "naturaleza",
+            "VI": "thiên nhiên",
+            "FR": "nature",
+            "NE": "प्रकृति",
+            "BN": "প্রকৃতি",
+            "ZH": "自然",
+            "KO": "자연",
+            "TL": "kalikasan",
+            "MY": "သဘာဝ",
+            "HI": "प्रकृति",
+            "AR": "طبيعة",
+            "FA": "طبیعت",
+            "EN": [
+                "nature",
+                "character",
+                "qualities"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "人間",
+        "is_common": true,
+        "tags": [
+            "wanikani8"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "人間",
+                "reading": "にんげん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "human being",
+                    "human",
+                    "person",
+                    "man",
+                    "mankind",
+                    "humankind"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "character (of a person)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Human"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Human” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Human?oldid=495511955"
+                    },
+                    {
+                        "text": "Read “人間” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/人間?oldid=42767068"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Human"
+        }
+    },
+    "kanji_list": [
+        "人",
+        "間"
+    ],
+    "kanji_data": {
+        "人": {
+            "freq_mainichi_shinbun": 5,
+            "grade": 1,
+            "heisig_en": "person",
+            "jlpt": 5,
+            "kanji": "人",
+            "kun_readings": [
+                "-と",
+                "-り",
+                "ひと"
+            ],
+            "meanings": [
+                "person"
+            ],
+            "name_readings": [
+                "じ",
+                "と",
+                "ね",
+                "ひこ",
+                "ふみ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ジン",
+                "ニン"
+            ],
+            "stroke_count": 2,
+            "unicode": "4EBA"
+        },
+        "間": {
+            "freq_mainichi_shinbun": 33,
+            "grade": 2,
+            "heisig_en": "interval",
+            "jlpt": 5,
+            "kanji": "間",
+            "kun_readings": [
+                "あい",
+                "あいだ",
+                "ま"
+            ],
+            "meanings": [
+                "interval",
+                "space"
+            ],
+            "name_readings": [
+                "ちか",
+                "は",
+                "はざ",
+                "はし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カン",
+                "ケン"
+            ],
+            "stroke_count": 12,
+            "unicode": "9593"
+        }
+    }
+}

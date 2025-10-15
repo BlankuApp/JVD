@@ -1,213 +1,228 @@
 {
-    "version": "0.2.0",
-    "word": "恐らく",
-    "jlpt_level": 1,
-    "youtube_link": "https://youtu.be/7E1ILmgOvxM",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "恐らく",
-        "reading": "おそらく",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is おそらく, which you will often hear in conversations about events that might or might not occur, or when someone is predicting or guessing about something.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"osoraku\" means probably or perhaps in English. It is used to express the likelihood or probability that something is true or may happen.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "probably",
-                " likely",
-                "in all likelihood",
-                "I suspect",
-                "I dare say",
-                "I'm afraid"
-            ]
-        ],
-        "meaning_translations": {
-            "probably": {
-                "EN": "probably",
-                "ID": "mungkin",
-                "ES": "probablemente",
-                "VI": "có thể",
-                "FR": "probablement",
-                "NE": "सायद",
-                "BN": "সম্ভবত",
-                "ZH": "可能",
-                "KO": "아마도",
-                "TL": "marahil",
-                "MY": "မဖြစ်မနေ",
-                "HI": "शायद",
-                "AR": "ربما",
-                "FA": "احتمالاً"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は恐らく忙しいと思います。",
-                "furigana": "彼(かれ)は恐らく(おそらく)忙しい(いそがしい)と思います(おもいます)。",
-                "translations": {
-                    "EN": "I think he is probably busy.",
-                    "ID": "Saya pikir dia mungkin sibuk.",
-                    "ES": "Creo que probablemente está ocupado.",
-                    "VI": "Tôi nghĩ có thể anh ấy đang bận.",
-                    "FR": "Je pense qu'il est probablement occupé.",
-                    "NE": "म सोचन्छु कि शायद ऊ व्यस्त हुनेछ।",
-                    "BN": "আমি মনে করি তিনি সম্ভবত ব্যস্ত।",
-                    "ZH": "我想他可能很忙。",
-                    "KO": "그는 아마 바쁠 것입니다.",
-                    "TL": "Sa tingin ko, baka abala siya.",
-                    "MY": "သူကမဖြစ်မဖြစ်အလုပ်ရှုပ်နေတယ်ထင်တယ်။",
-                    "HI": "मुझे लगता है कि वह शायद व्यस्त है।",
-                    "AR": "أعتقد أنه ربما مشغول.",
-                    "FA": "فکر می‌کنم او احتمالاً مشغول است."
-                }
-            },
-            {
-                "kanji": "彼はおそらく来ないでしょう。",
-                "furigana": "彼(かれ)はおそらく来(こ)ないでしょう。",
-                "translations": {
-                    "EN": "He probably won't come.",
-                    "ID": "Dia mungkin tidak akan datang.",
-                    "ES": "Probablemente él no vendrá.",
-                    "VI": "Anh ấy có lẽ sẽ không đến.",
-                    "FR": "Il ne viendra probablement pas.",
-                    "NE": "ऊ सायद आउँदैन।",
-                    "BN": "তিনি সম্ভবত আসবেন না।",
-                    "ZH": "他可能不会来。",
-                    "KO": "그는 아마도 오지 않을 것입니다.",
-                    "TL": "Malamang hindi siya darating.",
-                    "MY": "သူလာမှာမဟုတ်ဘူးဆိုတာတော်တော်နိုင်ပါတယ်။",
-                    "HI": "वह शायद नहीं आएगा।",
-                    "AR": "ربما لن يأتي.",
-                    "FA": "او احتمالاً نمی‌آید."
-                }
-            },
-            {
-                "kanji": "恐らく明日は雨が降る。",
-                "furigana": "恐(おそ)らく明日(あした)は雨(あめ)が降(ふ)る。",
-                "translations": {
-                    "EN": "Perhaps it will rain tomorrow.",
-                    "ID": "Mungkin besok akan hujan.",
-                    "ES": "Es probable que llueva mañana.",
-                    "VI": "Có lẽ ngày mai trời sẽ mưa.",
-                    "FR": "Il pleuvra peut-être demain.",
-                    "NE": "शायद भोलि वर्षा हुनेछ।",
-                    "BN": "সম্ভবত আগামীকাল বৃষ্টি হবে।",
-                    "ZH": "可能明天会下雨。",
-                    "KO": "아마 내일 비가 올 것이다.",
-                    "TL": "Baka umulan bukas.",
-                    "MY": "စားဆီ မနက်ဖြန် မိုးရွာနိုင်သည်။",
-                    "HI": "संभवतः कल बारिश होगी।",
-                    "AR": "ربما ستمطر غداً.",
-                    "FA": "احتمالاً فردا باران خواهد بارید."
-                }
-            },
-            {
-                "kanji": "おそらく彼女は知っている。",
-                "furigana": "おそらくかのじょはしっている。",
-                "translations": {
-                    "EN": "Perhaps she knows.",
-                    "ID": "Mungkin dia tahu.",
-                    "ES": "Tal vez ella sepa.",
-                    "VI": "Có lẽ cô ấy biết.",
-                    "FR": "Peut-être qu'elle sait.",
-                    "NE": "सायद उनी जान्छिन्।",
-                    "BN": "বোধহয় সে জানে।",
-                    "ZH": "也许她知道。",
-                    "KO": "아마 그녀는 알고 있다.",
-                    "TL": "Marahil alam niya.",
-                    "MY": "တကယ်လို့သူမသိရင်.",
-                    "HI": "शायद वह जानती है।",
-                    "AR": "ربما هي تعرف.",
-                    "FA": "شاید او می‌داند."
-                }
-            }
-        ],
-        "synonyms": [
-            "多分 : たぶん : probably"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"osoraku\" is \"tabun.\" Both words imply possibility or likelihood. However, \"tabun\" is often used in a more casual context and is more common in everyday speech. ",
-        "antonyms": [
-            "確実 : かくじつ : certain"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"osoraku\" is \"kakujitsu.\" \"Kakujitsu\" means certainty or surety, expressing that something is definitely true or will happen, differing from the uncertainty implied by \"osoraku.\"",
-        "kanji_details": [
-            {
-                "kanji": "恐",
-                "common_words": [
-                    "恐怖: fear",
-                    "恐れる: to fear"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "恐らく",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3",
-            "jlpt-n1"
-        ],
-        "japanese": [
-            {
-                "word": "恐らく",
-                "reading": "おそらく"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "probably",
-                    " likely",
-                    "in all likelihood",
-                    "I suspect",
-                    "I dare say",
-                    "I'm afraid"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "恐"
-    ],
-    "kanji_data": {
-        "恐": {
-            "meanings": [
-                "awe",
-                "dread",
-                "fear"
-            ],
-            "on_readings": [
-                "キョウ"
-            ],
-            "kun_readings": [
-                "おそ.る",
-                "おそ.れる",
-                "おそ.ろしい",
-                "こわ.い",
-                "こわ.がる"
-            ],
-            "stroke_count": 10,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 878,
-            "unicode": "6050",
-            "grade": 8
-        }
-    },
-    "collocations": [
-        "おそらくそうだと思います。",
-        "彼はおそらく来ないでしょう。",
-        "おそらく明日は雨が降る。",
-        "おそらく彼女は知っている。"
+  "version": "0.3.0",
+  "word": "恐らく",
+  "jlpt_level": 1,
+  "youtube_link": "https://youtu.be/7E1ILmgOvxM",
+  "in_db": true,
+  "kanji": "恐らく",
+  "reading": "おそらく",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is おそらく, which you will often hear in conversations about events that might or might not occur, or when someone is predicting or guessing about something.",
+  "meanings": [
+    [
+      "probably",
+      " likely",
+      "in all likelihood",
+      "I suspect",
+      "I dare say",
+      "I'm afraid"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"osoraku\" means probably or perhaps in English. It is used to express the likelihood or probability that something is true or may happen.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "恐",
+      "common_words": [
+        "恐怖: fear",
+        "恐れる: to fear"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "多分 : たぶん : probably"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"osoraku\" is \"tabun.\" Both words imply possibility or likelihood. However, \"tabun\" is often used in a more casual context and is more common in everyday speech. ",
+  "antonyms": [
+    "確実 : かくじつ : certain"
+  ],
+  "antonym_explanation": "The most common antonym of the word \"osoraku\" is \"kakujitsu.\" \"Kakujitsu\" means certainty or surety, expressing that something is definitely true or will happen, differing from the uncertainty implied by \"osoraku.\"",
+  "collocations": [
+    {
+      "kanji": "おそらくそうだと思います。",
+      "furigana": "おそらくそうだと思います。",
+      "translations": {}
+    },
+    {
+      "kanji": "彼はおそらく来ないでしょう。",
+      "furigana": "彼はおそらく来ないでしょう。",
+      "translations": {}
+    },
+    {
+      "kanji": "おそらく明日は雨が降る。",
+      "furigana": "おそらく明日は雨が降る。",
+      "translations": {}
+    },
+    {
+      "kanji": "おそらく彼女は知っている。",
+      "furigana": "おそらく彼女は知っている。",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は恐らく忙しいと思います。",
+      "furigana": "彼(かれ)は恐らく(おそらく)忙しい(いそがしい)と思います(おもいます)。",
+      "translations": {
+        "EN": "I think he is probably busy.",
+        "ID": "Saya pikir dia mungkin sibuk.",
+        "ES": "Creo que probablemente está ocupado.",
+        "VI": "Tôi nghĩ có thể anh ấy đang bận.",
+        "FR": "Je pense qu'il est probablement occupé.",
+        "NE": "म सोचन्छु कि शायद ऊ व्यस्त हुनेछ।",
+        "BN": "আমি মনে করি তিনি সম্ভবত ব্যস্ত।",
+        "ZH": "我想他可能很忙。",
+        "KO": "그는 아마 바쁠 것입니다.",
+        "TL": "Sa tingin ko, baka abala siya.",
+        "MY": "သူကမဖြစ်မဖြစ်အလုပ်ရှုပ်နေတယ်ထင်တယ်။",
+        "HI": "मुझे लगता है कि वह शायद व्यस्त है।",
+        "AR": "أعتقد أنه ربما مشغول.",
+        "FA": "فکر می‌کنم او احتمالاً مشغول است."
+      }
+    },
+    {
+      "kanji": "彼はおそらく来ないでしょう。",
+      "furigana": "彼(かれ)はおそらく来(こ)ないでしょう。",
+      "translations": {
+        "EN": "He probably won't come.",
+        "ID": "Dia mungkin tidak akan datang.",
+        "ES": "Probablemente él no vendrá.",
+        "VI": "Anh ấy có lẽ sẽ không đến.",
+        "FR": "Il ne viendra probablement pas.",
+        "NE": "ऊ सायद आउँदैन।",
+        "BN": "তিনি সম্ভবত আসবেন না।",
+        "ZH": "他可能不会来。",
+        "KO": "그는 아마도 오지 않을 것입니다.",
+        "TL": "Malamang hindi siya darating.",
+        "MY": "သူလာမှာမဟုတ်ဘူးဆိုတာတော်တော်နိုင်ပါတယ်။",
+        "HI": "वह शायद नहीं आएगा।",
+        "AR": "ربما لن يأتي.",
+        "FA": "او احتمالاً نمی‌آید."
+      }
+    },
+    {
+      "kanji": "恐らく明日は雨が降る。",
+      "furigana": "恐(おそ)らく明日(あした)は雨(あめ)が降(ふ)る。",
+      "translations": {
+        "EN": "Perhaps it will rain tomorrow.",
+        "ID": "Mungkin besok akan hujan.",
+        "ES": "Es probable que llueva mañana.",
+        "VI": "Có lẽ ngày mai trời sẽ mưa.",
+        "FR": "Il pleuvra peut-être demain.",
+        "NE": "शायद भोलि वर्षा हुनेछ।",
+        "BN": "সম্ভবত আগামীকাল বৃষ্টি হবে।",
+        "ZH": "可能明天会下雨。",
+        "KO": "아마 내일 비가 올 것이다.",
+        "TL": "Baka umulan bukas.",
+        "MY": "စားဆီ မနက်ဖြန် မိုးရွာနိုင်သည်။",
+        "HI": "संभवतः कल बारिश होगी।",
+        "AR": "ربما ستمطر غداً.",
+        "FA": "احتمالاً فردا باران خواهد بارید."
+      }
+    },
+    {
+      "kanji": "おそらく彼女は知っている。",
+      "furigana": "おそらくかのじょはしっている。",
+      "translations": {
+        "EN": "Perhaps she knows.",
+        "ID": "Mungkin dia tahu.",
+        "ES": "Tal vez ella sepa.",
+        "VI": "Có lẽ cô ấy biết.",
+        "FR": "Peut-être qu'elle sait.",
+        "NE": "सायद उनी जान्छिन्।",
+        "BN": "বোধহয় সে জানে।",
+        "ZH": "也许她知道。",
+        "KO": "아마 그녀는 알고 있다.",
+        "TL": "Marahil alam niya.",
+        "MY": "တကယ်လို့သူမသိရင်.",
+        "HI": "शायद वह जानती है।",
+        "AR": "ربما هي تعرف.",
+        "FA": "شاید او می‌داند."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "probably": {
+      "EN": "probably",
+      "ID": "mungkin",
+      "ES": "probablemente",
+      "VI": "có thể",
+      "FR": "probablement",
+      "NE": "सायद",
+      "BN": "সম্ভবত",
+      "ZH": "可能",
+      "KO": "아마도",
+      "TL": "marahil",
+      "MY": "မဖြစ်မနေ",
+      "HI": "शायद",
+      "AR": "ربما",
+      "FA": "احتمالاً"
+    }
+  },
+  "jisho_data": {
+    "slug": "恐らく",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3",
+      "jlpt-n1"
+    ],
+    "japanese": [
+      {
+        "word": "恐らく",
+        "reading": "おそらく"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "probably",
+          " likely",
+          "in all likelihood",
+          "I suspect",
+          "I dare say",
+          "I'm afraid"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "恐"
+  ],
+  "kanji_data": {
+    "恐": {
+      "meanings": [
+        "awe",
+        "dread",
+        "fear"
+      ],
+      "on_readings": [
+        "キョウ"
+      ],
+      "kun_readings": [
+        "おそ.る",
+        "おそ.れる",
+        "おそ.ろしい",
+        "こわ.い",
+        "こわ.がる"
+      ],
+      "stroke_count": 10,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 878,
+      "unicode": "6050",
+      "grade": 8
+    }
+  }
 }

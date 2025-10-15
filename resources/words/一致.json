@@ -1,333 +1,352 @@
 {
-    "version": "0.2.0",
-    "word": "一致",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/oXMhPmkvwkI",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "一致",
-        "reading": "いっち",
-        "introduction_japanese": "",
-        "introduction_english": "Let's dive right into a word you'll frequently encounter in business meetings and discussions: いっち. This word is essential whenever you want to convey alignment or agreement with someone else's views or plans.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word 一致, pronounced as いっち, means \"consistency,\" \"agreement,\" or \"coincidence\" in English. It's used when things align, match, or coincide well with each other. You might use this word to describe a situation where opinions, ideas, or results are in harmony.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "agreement",
-                "accord",
-                "correspondence",
-                "consistency",
-                "coincidence",
-                "match"
-            ],
-            [
-                "union",
-                "unity",
-                "cooperation"
-            ],
-            [
-                "Icchi"
-            ]
-        ],
-        "meaning_translations": {
-            "agreement": {
-                "EN": "agreement",
-                "ID": "kesepakatan",
-                "ES": "acuerdo",
-                "VI": "thỏa thuận",
-                "FR": "accord",
-                "NE": "समझौता",
-                "BN": "সমঝোতা",
-                "ZH": "协议",
-                "KO": "합의",
-                "TL": "kasunduan",
-                "MY": "သဘောတူညီချက်",
-                "HI": "समझौता",
-                "AR": "اتفاق",
-                "FA": "توافق"
-            },
-            "union": {
-                "EN": "Union",
-                "ID": "Persatuan",
-                "ES": "Unión",
-                "VI": "Liên hợp",
-                "FR": "Union",
-                "NE": "संघ",
-                "BN": "মিলন",
-                "ZH": "联合",
-                "KO": "통합",
-                "TL": "Pagsasama",
-                "MY": "သမဂ္ဂ",
-                "HI": "संघ",
-                "AR": "اتحاد",
-                "FA": "اتحاد"
-            },
-            "Icchi": {
-                "EN": "Agreement / Consistency",
-                "ID": "Kesepakatan / Konsistensi",
-                "ES": "Acuerdo / Consistencia",
-                "VI": "Sự đồng ý / Nhất quán",
-                "FR": "Accord / Cohérence",
-                "NE": "सहमति / स्थिरता",
-                "BN": "একতা / সামঞ্জস্যতা",
-                "ZH": "一致 / 一致性",
-                "KO": "일치 / 일관성",
-                "TL": "Kasunduan / Pagkakaugnay",
-                "MY": "သဘောတူခြင်း / တူညီမှု",
-                "HI": "सहमति / संगति",
-                "AR": "اتفاق / توافق",
-                "FA": "توافق / ثبات"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "私たちの意見が一致する。",
-                "furigana": "私(わたし)たちの意見(いけん)が一致(いっち)する。",
-                "translations": {
-                    "EN": "Our opinions agree.",
-                    "ID": "Pendapat kami sejalan.",
-                    "ES": "Nuestras opiniones coinciden.",
-                    "VI": "Ý kiến của chúng tôi dung hòa.",
-                    "FR": "Nos opinions concordent.",
-                    "NE": "हाम्रो धारणा मिल्दछन्।",
-                    "BN": "আমাদের মতামত মিলে যায়।",
-                    "ZH": "我们的意见一致。",
-                    "KO": "우리 의견이 일치합니다.",
-                    "TL": "Nagkakatugma ang aming mga opinyon.",
-                    "MY": "ကျွန်တော်တို့ရဲ့အမြင်တွေကအညီတူနေပါတယ်။",
-                    "HI": "हमारी राय मिलती है।",
-                    "AR": "تتفق آراؤنا.",
-                    "FA": "نظرهای ما مطابقت دارند."
-                }
-            },
-            {
-                "kanji": "二人の計画が一致しない。",
-                "furigana": "二(ふた)人(り)の計画(けいかく)が一致(いっち)しない。",
-                "translations": {
-                    "EN": "Their plans do not match.",
-                    "ID": "Rencana mereka tidak sesuai.",
-                    "ES": "Sus planes no coinciden.",
-                    "VI": "Kế hoạch của họ không phù hợp.",
-                    "FR": "Leurs plans ne correspondent pas.",
-                    "NE": "तिनीहरूको योजना मेल खाँदैन।",
-                    "BN": "তাদের পরিকল্পনা মেলে না।",
-                    "ZH": "他们的计划不一致。",
-                    "KO": "그들의 계획이 일치하지 않다.",
-                    "TL": "Hindi tugma ang kanilang mga plano.",
-                    "MY": "သူတို့ရဲ့အစီအစဉ်တွေလျော်ညီမှုမရှိပါဘူး။",
-                    "HI": "उनकी योजनाएँ मेल नहीं खातीं।",
-                    "AR": "خططهم لا تتطابق.",
-                    "FA": "برنامه‌هایشان با هم تطابق ندارد."
-                }
-            },
-            {
-                "kanji": "彼の話は事実と一致する。",
-                "furigana": "彼(かれ)の話(はなし)は事実(じじつ)と一致(いっち)する。",
-                "translations": {
-                    "EN": "His story matches the facts.",
-                    "ID": "Ceritanya sesuai dengan kenyataan.",
-                    "ES": "Su historia coincide con los hechos.",
-                    "VI": "Câu chuyện của anh ấy phù hợp với thực tế.",
-                    "FR": "Son histoire correspond aux faits.",
-                    "NE": "उहाँको कथा तथ्यसँग मेल खाँदछ।",
-                    "BN": "তার গল্পটি বাস্তবতার সাথে মেলে।",
-                    "ZH": "他的故事与事实相符。",
-                    "KO": "그의 이야기는 사실과 일치한다.",
-                    "TL": "Ang kwento niya ay tumutugma sa katotohanan.",
-                    "MY": "သူရဲ့အကြောင်းပြချက်က အဖြစ်မှန်တွေနဲ့ကိုက်ညီပါတယ်။",
-                    "HI": "उनकी कहानी सच्चाई से मेल खाती है।",
-                    "AR": "قصته تطابق الحقائق.",
-                    "FA": "داستان او با واقعیت مطابقت دارد."
-                }
-            },
-            {
-                "kanji": "形と一致する",
-                "furigana": "形(かたち)と一致(いっち)する",
-                "translations": {
-                    "EN": "Match the shape",
-                    "ID": "Cocok dengan bentuknya",
-                    "ES": "Coincide con la forma",
-                    "VI": "Phù hợp với hình dạng",
-                    "FR": "Correspond à la forme",
-                    "NE": "आकारसँग मेल खानुहोस्",
-                    "BN": "আকৃতির সাথে মিলে যায়",
-                    "ZH": "与形状匹配",
-                    "KO": "형태와 일치하다",
-                    "TL": "Tugma sa hugis",
-                    "MY": "အရိပ်အတူတူရှိသည်",
-                    "HI": "आकार से मेल खाता है",
-                    "AR": "يتطابق مع الشكل",
-                    "FA": "مطابقت با شکل"
-                }
-            },
-            {
-                "kanji": "彼の話は一致している記録と合う。",
-                "furigana": "彼(かれ)の話(はなし)は一致(いっち)している記録(きろく)と合(あ)う。",
-                "translations": {
-                    "EN": "His story matches the recorded documents.",
-                    "ID": "Ceritanya sesuai dengan catatan yang ada.",
-                    "ES": "Su historia coincide con los documentos registrados.",
-                    "VI": "Câu chuyện của anh ấy phù hợp với các tài liệu đã ghi.",
-                    "FR": "Son histoire correspond aux documents enregistrés.",
-                    "NE": "उनीहरूको कथा रेकर्ड भएका कागजातहरूसँग मिल्दोजुल्दो छ।",
-                    "BN": "তার গল্প রেকর্ড করা নথির সাথে মিলে যায়।",
-                    "ZH": "他的故事与记录一致。",
-                    "KO": "그의 이야기는 기록된 문서와 일치합니다.",
-                    "TL": "Ang kwento niya ay tumutugma sa mga naitala.",
-                    "MY": "သူ့ရဲ့ပုံပြင်က အသွင်သွင်ပြင်ဆင်ထားတဲ့စစ်မှန်မှုတွေနဲ့တိုက်နေရပါတယ်။",
-                    "HI": "उनकी कहानी रिकॉर्ड की गई दस्तावेज़ों से मेल खाती है।",
-                    "AR": "قصته تتطابق مع الوثائق المسجلة.",
-                    "FA": "داستان او با مدارک ثبت شده مطابقت دارد."
-                }
-            }
-        ],
-        "synonyms": [
-            "同意 : どうい : agreement"
-        ],
-        "synonyms_explanation": "The most common synonyms of いっち are どうい. While both terms involve agreement, どうい is more focused on mutual consent or approval, particularly in contexts like agreeing to a proposal or idea. Meanwhile, いっち is broader, indicating alignment or coincidence beyond just agreement.",
-        "antonyms": [
-            "対立 : たいりつ : confrontation"
-        ],
-        "antonyms_explanation": "The most common antonyms of いっち are たいりつ. While いっち relates to agreement or alignment, たいりつ means conflict or opposition, marking when two or more parties do not see eye to eye or have diverging views or interests.",
-        "kanji_details": [
-            {
-                "kanji": "一",
-                "common_words": [
-                    "一人: one person",
-                    "一度: once"
-                ]
-            },
-            {
-                "kanji": "致",
-                "common_words": [
-                    "致す: to do",
-                    "致命的: fatal"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "一致",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "一致",
-                "reading": "いっち"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "agreement",
-                    "accord",
-                    "correspondence",
-                    "consistency",
-                    "coincidence",
-                    "match"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "union",
-                    "unity",
-                    "cooperation"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Icchi"
-                ],
-                "parts_of_speech": [
-                    "Place"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "一",
-        "致"
+  "version": "0.3.0",
+  "word": "一致",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/oXMhPmkvwkI",
+  "in_db": true,
+  "kanji": "一致",
+  "reading": "いっち",
+  "introduction_japanese": "",
+  "introduction_english": "Let's dive right into a word you'll frequently encounter in business meetings and discussions: いっち. This word is essential whenever you want to convey alignment or agreement with someone else's views or plans.",
+  "meanings": [
+    [
+      "agreement",
+      "accord",
+      "correspondence",
+      "consistency",
+      "coincidence",
+      "match"
     ],
-    "kanji_data": {
-        "一": {
-            "meanings": [
-                "one",
-                "one radical (no.1)"
-            ],
-            "on_readings": [
-                "イチ",
-                "イツ"
-            ],
-            "kun_readings": [
-                "ひと-",
-                "ひと.つ"
-            ],
-            "stroke_count": 1,
-            "jlpt": 5,
-            "freq_mainichi_shinbun": 2,
-            "unicode": "4E00",
-            "grade": 1
-        },
-        "致": {
-            "meanings": [
-                "cause",
-                "do",
-                "doth",
-                "engage",
-                "exert",
-                "forward",
-                "incur",
-                "send"
-            ],
-            "on_readings": [
-                "チ"
-            ],
-            "kun_readings": [
-                "いた.す"
-            ],
-            "stroke_count": 10,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 870,
-            "unicode": "81F4",
-            "grade": 8
-        }
-    },
-    "collocations": [
-        "意見がいっちする",
-        "計画がいっちしない",
-        "事実といっちする",
-        "形といっちする",
-        "いっちしている記録"
+    [
+      "union",
+      "unity",
+      "cooperation"
+    ],
+    [
+      "Icchi"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word 一致, pronounced as いっち, means \"consistency,\" \"agreement,\" or \"coincidence\" in English. It's used when things align, match, or coincide well with each other. You might use this word to describe a situation where opinions, ideas, or results are in harmony.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "一",
+      "common_words": [
+        "一人: one person",
+        "一度: once"
+      ]
+    },
+    {
+      "kanji": "致",
+      "common_words": [
+        "致す: to do",
+        "致命的: fatal"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "同意 : どうい : agreement"
+  ],
+  "synonym_explanation": "The most common synonyms of いっち are どうい. While both terms involve agreement, どうい is more focused on mutual consent or approval, particularly in contexts like agreeing to a proposal or idea. Meanwhile, いっち is broader, indicating alignment or coincidence beyond just agreement.",
+  "antonyms": [
+    "対立 : たいりつ : confrontation"
+  ],
+  "antonym_explanation": "The most common antonyms of いっち are たいりつ. While いっち relates to agreement or alignment, たいりつ means conflict or opposition, marking when two or more parties do not see eye to eye or have diverging views or interests.",
+  "collocations": [
+    {
+      "kanji": "意見がいっちする",
+      "furigana": "意見がいっちする",
+      "translations": {}
+    },
+    {
+      "kanji": "計画がいっちしない",
+      "furigana": "計画がいっちしない",
+      "translations": {}
+    },
+    {
+      "kanji": "事実といっちする",
+      "furigana": "事実といっちする",
+      "translations": {}
+    },
+    {
+      "kanji": "形といっちする",
+      "furigana": "形といっちする",
+      "translations": {}
+    },
+    {
+      "kanji": "いっちしている記録",
+      "furigana": "いっちしている記録",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "私たちの意見が一致する。",
+      "furigana": "私(わたし)たちの意見(いけん)が一致(いっち)する。",
+      "translations": {
+        "EN": "Our opinions agree.",
+        "ID": "Pendapat kami sejalan.",
+        "ES": "Nuestras opiniones coinciden.",
+        "VI": "Ý kiến của chúng tôi dung hòa.",
+        "FR": "Nos opinions concordent.",
+        "NE": "हाम्रो धारणा मिल्दछन्।",
+        "BN": "আমাদের মতামত মিলে যায়।",
+        "ZH": "我们的意见一致。",
+        "KO": "우리 의견이 일치합니다.",
+        "TL": "Nagkakatugma ang aming mga opinyon.",
+        "MY": "ကျွန်တော်တို့ရဲ့အမြင်တွေကအညီတူနေပါတယ်။",
+        "HI": "हमारी राय मिलती है।",
+        "AR": "تتفق آراؤنا.",
+        "FA": "نظرهای ما مطابقت دارند."
+      }
+    },
+    {
+      "kanji": "二人の計画が一致しない。",
+      "furigana": "二(ふた)人(り)の計画(けいかく)が一致(いっち)しない。",
+      "translations": {
+        "EN": "Their plans do not match.",
+        "ID": "Rencana mereka tidak sesuai.",
+        "ES": "Sus planes no coinciden.",
+        "VI": "Kế hoạch của họ không phù hợp.",
+        "FR": "Leurs plans ne correspondent pas.",
+        "NE": "तिनीहरूको योजना मेल खाँदैन।",
+        "BN": "তাদের পরিকল্পনা মেলে না।",
+        "ZH": "他们的计划不一致。",
+        "KO": "그들의 계획이 일치하지 않다.",
+        "TL": "Hindi tugma ang kanilang mga plano.",
+        "MY": "သူတို့ရဲ့အစီအစဉ်တွေလျော်ညီမှုမရှိပါဘူး။",
+        "HI": "उनकी योजनाएँ मेल नहीं खातीं।",
+        "AR": "خططهم لا تتطابق.",
+        "FA": "برنامه‌هایشان با هم تطابق ندارد."
+      }
+    },
+    {
+      "kanji": "彼の話は事実と一致する。",
+      "furigana": "彼(かれ)の話(はなし)は事実(じじつ)と一致(いっち)する。",
+      "translations": {
+        "EN": "His story matches the facts.",
+        "ID": "Ceritanya sesuai dengan kenyataan.",
+        "ES": "Su historia coincide con los hechos.",
+        "VI": "Câu chuyện của anh ấy phù hợp với thực tế.",
+        "FR": "Son histoire correspond aux faits.",
+        "NE": "उहाँको कथा तथ्यसँग मेल खाँदछ।",
+        "BN": "তার গল্পটি বাস্তবতার সাথে মেলে।",
+        "ZH": "他的故事与事实相符。",
+        "KO": "그의 이야기는 사실과 일치한다.",
+        "TL": "Ang kwento niya ay tumutugma sa katotohanan.",
+        "MY": "သူရဲ့အကြောင်းပြချက်က အဖြစ်မှန်တွေနဲ့ကိုက်ညီပါတယ်။",
+        "HI": "उनकी कहानी सच्चाई से मेल खाती है।",
+        "AR": "قصته تطابق الحقائق.",
+        "FA": "داستان او با واقعیت مطابقت دارد."
+      }
+    },
+    {
+      "kanji": "形と一致する",
+      "furigana": "形(かたち)と一致(いっち)する",
+      "translations": {
+        "EN": "Match the shape",
+        "ID": "Cocok dengan bentuknya",
+        "ES": "Coincide con la forma",
+        "VI": "Phù hợp với hình dạng",
+        "FR": "Correspond à la forme",
+        "NE": "आकारसँग मेल खानुहोस्",
+        "BN": "আকৃতির সাথে মিলে যায়",
+        "ZH": "与形状匹配",
+        "KO": "형태와 일치하다",
+        "TL": "Tugma sa hugis",
+        "MY": "အရိပ်အတူတူရှိသည်",
+        "HI": "आकार से मेल खाता है",
+        "AR": "يتطابق مع الشكل",
+        "FA": "مطابقت با شکل"
+      }
+    },
+    {
+      "kanji": "彼の話は一致している記録と合う。",
+      "furigana": "彼(かれ)の話(はなし)は一致(いっち)している記録(きろく)と合(あ)う。",
+      "translations": {
+        "EN": "His story matches the recorded documents.",
+        "ID": "Ceritanya sesuai dengan catatan yang ada.",
+        "ES": "Su historia coincide con los documentos registrados.",
+        "VI": "Câu chuyện của anh ấy phù hợp với các tài liệu đã ghi.",
+        "FR": "Son histoire correspond aux documents enregistrés.",
+        "NE": "उनीहरूको कथा रेकर्ड भएका कागजातहरूसँग मिल्दोजुल्दो छ।",
+        "BN": "তার গল্প রেকর্ড করা নথির সাথে মিলে যায়।",
+        "ZH": "他的故事与记录一致。",
+        "KO": "그의 이야기는 기록된 문서와 일치합니다.",
+        "TL": "Ang kwento niya ay tumutugma sa mga naitala.",
+        "MY": "သူ့ရဲ့ပုံပြင်က အသွင်သွင်ပြင်ဆင်ထားတဲ့စစ်မှန်မှုတွေနဲ့တိုက်နေရပါတယ်။",
+        "HI": "उनकी कहानी रिकॉर्ड की गई दस्तावेज़ों से मेल खाती है।",
+        "AR": "قصته تتطابق مع الوثائق المسجلة.",
+        "FA": "داستان او با مدارک ثبت شده مطابقت دارد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "agreement": {
+      "EN": "agreement",
+      "ID": "kesepakatan",
+      "ES": "acuerdo",
+      "VI": "thỏa thuận",
+      "FR": "accord",
+      "NE": "समझौता",
+      "BN": "সমঝোতা",
+      "ZH": "协议",
+      "KO": "합의",
+      "TL": "kasunduan",
+      "MY": "သဘောတူညီချက်",
+      "HI": "समझौता",
+      "AR": "اتفاق",
+      "FA": "توافق"
+    },
+    "union": {
+      "EN": "Union",
+      "ID": "Persatuan",
+      "ES": "Unión",
+      "VI": "Liên hợp",
+      "FR": "Union",
+      "NE": "संघ",
+      "BN": "মিলন",
+      "ZH": "联合",
+      "KO": "통합",
+      "TL": "Pagsasama",
+      "MY": "သမဂ္ဂ",
+      "HI": "संघ",
+      "AR": "اتحاد",
+      "FA": "اتحاد"
+    },
+    "Icchi": {
+      "EN": "Agreement / Consistency",
+      "ID": "Kesepakatan / Konsistensi",
+      "ES": "Acuerdo / Consistencia",
+      "VI": "Sự đồng ý / Nhất quán",
+      "FR": "Accord / Cohérence",
+      "NE": "सहमति / स्थिरता",
+      "BN": "একতা / সামঞ্জস্যতা",
+      "ZH": "一致 / 一致性",
+      "KO": "일치 / 일관성",
+      "TL": "Kasunduan / Pagkakaugnay",
+      "MY": "သဘောတူခြင်း / တူညီမှု",
+      "HI": "सहमति / संगति",
+      "AR": "اتفاق / توافق",
+      "FA": "توافق / ثبات"
+    }
+  },
+  "jisho_data": {
+    "slug": "一致",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "一致",
+        "reading": "いっち"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "agreement",
+          "accord",
+          "correspondence",
+          "consistency",
+          "coincidence",
+          "match"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "union",
+          "unity",
+          "cooperation"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Icchi"
+        ],
+        "parts_of_speech": [
+          "Place"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "一",
+    "致"
+  ],
+  "kanji_data": {
+    "一": {
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "on_readings": [
+        "イチ",
+        "イツ"
+      ],
+      "kun_readings": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "stroke_count": 1,
+      "jlpt": 5,
+      "freq_mainichi_shinbun": 2,
+      "unicode": "4E00",
+      "grade": 1
+    },
+    "致": {
+      "meanings": [
+        "cause",
+        "do",
+        "doth",
+        "engage",
+        "exert",
+        "forward",
+        "incur",
+        "send"
+      ],
+      "on_readings": [
+        "チ"
+      ],
+      "kun_readings": [
+        "いた.す"
+      ],
+      "stroke_count": 10,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 870,
+      "unicode": "81F4",
+      "grade": 8
+    }
+  }
 }

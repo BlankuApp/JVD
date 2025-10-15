@@ -1,233 +1,268 @@
 {
-    "version": "0.2.0",
-    "word": "誤り",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/IkyVol2k_vg",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "誤り",
-        "reading": "あやまり",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is あやまり, which you will often hear in situations like when discussing errors in exams, acknowledging faults in a speech, or correcting mistakes. Mastering this word will help you confidently navigate conversations where errors or mistakes are the topic! Let's dive into expanding your Japanese vocabulary with あやまり!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"ayama ri\" means a mistake or an error in something. It's used when someone has made an error, a blunder, or when there is something incorrect that needs to be corrected.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "error",
-                "mistake",
-                "slip",
-                "bug"
-            ]
-        ],
-        "meaning_translations": {
-            "error": {
-                "EN": "error",
-                "ID": "kesalahan",
-                "ES": "error",
-                "VI": "lỗi",
-                "FR": "erreur",
-                "NE": "गल्ती",
-                "BN": "ত্রুটি",
-                "ZH": "错误",
-                "KO": "오류",
-                "TL": "pagkakamali",
-                "MY": "အမှား",
-                "HI": "त्रुटि",
-                "AR": "خلل",
-                "FA": "خطا"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は誤りを認めた。",
-                "furigana": "彼(かれ)は誤(あやま)りを認(みと)めた。",
-                "translations": {
-                    "EN": "He admitted his mistake.",
-                    "ID": "Dia mengakui kesalahannya.",
-                    "ES": "Él admitió su error.",
-                    "VI": "Anh ấy đã thừa nhận lỗi của mình.",
-                    "FR": "Il a admis son erreur.",
-                    "NE": "उनले आफ्नो गल्ती स्वीकार गरे।",
-                    "BN": "তিনি তার ভুল স্বীকার করেছেন।",
-                    "ZH": "他承认了自己的错误。",
-                    "KO": "그는 자신의 실수를 인정했습니다.",
-                    "TL": "Inamin niya ang kanyang pagkakamali.",
-                    "MY": "သူသည် သူ့အမှားကို ဝန်ခံခဲ့သည်။",
-                    "HI": "उसने अपनी गलती मान ली।",
-                    "AR": "اعترف بخطأه.",
-                    "FA": "او اشتباهش را پذیرفت."
-                }
-            },
-            {
-                "kanji": "彼はすぐに誤りを直します。",
-                "furigana": "彼(かれ)はすぐに誤(あやま)りを直(なお)します。",
-                "translations": {
-                    "EN": "He quickly fixes the mistake.",
-                    "ID": "Dia segera memperbaiki kesalahan itu.",
-                    "ES": "Él corrige rápidamente el error.",
-                    "VI": "Anh ấy nhanh chóng sửa lỗi.",
-                    "FR": "Il corrige rapidement l'erreur.",
-                    "NE": "ऊ तुरुन्तै गल्तीलाई सुधार गर्छ।",
-                    "BN": "সে দ্রুত ভুলটা ঠিক করে দেয়।",
-                    "ZH": "他马上修正错误。",
-                    "KO": "그는 바로 잘못을 고칩니다.",
-                    "TL": "Agad niyang inaayos ang kamalian.",
-                    "MY": "သူက အားလုံးကို အမြန် ပြန်ဖြေပါတယ်။",
-                    "HI": "वह जल्दी से गलती को सुधारता है।",
-                    "AR": "يقوم بتصحيح الخطأ بسرعة.",
-                    "FA": "او به سرعت اشتباه را رفع می‌کند."
-                }
-            },
-            {
-                "kanji": "彼は誤りを指摘した。",
-                "furigana": "彼(かれ)は誤(あやま)りを指摘(してき)した。",
-                "translations": {
-                    "EN": "He pointed out the mistake.",
-                    "ID": "Dia menunjukkan kesalahan itu.",
-                    "ES": "Él señaló el error.",
-                    "VI": "Anh ấy chỉ ra sai lầm.",
-                    "FR": "Il a signalé l'erreur.",
-                    "NE": "उनि गल्तीलाई औंल्याए।",
-                    "BN": "সে ভুলটি নির্দেশ করল।",
-                    "ZH": "他指出了错误。",
-                    "KO": "그는 실수를 지적했다.",
-                    "TL": "Itinuro niya ang pagkakamali.",
-                    "MY": "သူက အမှားကို ညွှန်ပြခဲ့သည်။",
-                    "HI": "उसने गलती की ओर इशारा किया।",
-                    "AR": "أشار إلى الخطأ.",
-                    "FA": "او اشتباهی را نشان داد."
-                }
-            },
-            {
-                "kanji": "彼は誤りを訂正しました。",
-                "furigana": "彼(かれ)は誤(あやま)りを訂正(ていせい)しました。",
-                "translations": {
-                    "EN": "He corrected the mistake.",
-                    "ID": "Dia memperbaiki kesalahan itu.",
-                    "ES": "Él corrigió el error.",
-                    "VI": "Anh ấy đã sửa lỗi.",
-                    "FR": "Il a corrigé l'erreur.",
-                    "NE": "उहाँले गल्तीलाई सुधार गर्नुभयो।",
-                    "BN": "সে ভুল ঠিক করেছিল।",
-                    "ZH": "他改正了错误。",
-                    "KO": "그는 실수를 수정했습니다.",
-                    "TL": "Itinama niya ang pagkakamali.",
-                    "MY": "သူသည် အမှားကို မျှမိခဲ့သည်။",
-                    "HI": "उसने गलती को सुधार दिया।",
-                    "AR": "لقد صحح الخطأ.",
-                    "FA": "او اشتباه را تصحیح کرد."
-                }
-            },
-            {
-                "kanji": "彼は誤りを犯しました。",
-                "furigana": "彼(かれ)は誤(あやま)りを犯(おか)しました。",
-                "translations": {
-                    "EN": "He made a mistake.",
-                    "ID": "Dia membuat kesalahan.",
-                    "ES": "Él cometió un error.",
-                    "VI": "Anh ấy mắc lỗi.",
-                    "FR": "Il a fait une erreur.",
-                    "NE": "उनीले गल्ती गरे।",
-                    "BN": "তিনি একটি ভুল করেছেন।",
-                    "ZH": "他犯了一个错误。",
-                    "KO": "그는 실수를 저질렀습니다.",
-                    "TL": "Gumawa siya ng pagkakamali.",
-                    "MY": "သူကမှားယွင်းတယ်။",
-                    "HI": "उसने गलती की।",
-                    "AR": "لقد ارتكب خطأ.",
-                    "FA": "او اشتباهی کرد."
-                }
-            }
-        ],
-        "synonyms": [
-            "間違い : まちがい : mistake",
-            "エラー : エラー : error"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word \"ayama ri\" are \"ma chi gai\" and \"e ra\". \"Ma chi gai\" generally refers to mistakes or errors, often used interchangeably with \"ayama ri\" but may be seen as slightly less formal. \"E ra,\" a borrowed word, is specific to errors concerning systems or processes, such as technical errors in computing or machinery.",
-        "antonyms": [
-            "正解 : せいかい : correct answer",
-            "正確 : せいかく : accurate"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word \"ayama ri\" are \"se i kai\" and \"se i kaku.\" \"Se i kai\" refers to the correct answer or solution often applied in academic or testing contexts. \"Se i kaku\" indicates accuracy or correctness, often contrasting with errors or mistakes found in \"ayama ri.\"",
-        "kanji_details": [
-            {
-                "kanji": "誤",
-                "common_words": [
-                    "誤解: misunderstanding",
-                    "誤診: wrong diagnosis"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "誤り",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "誤り",
-                "reading": "あやまり"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "error",
-                    "mistake",
-                    "slip",
-                    "bug"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "誤"
-    ],
-    "kanji_data": {
-        "誤": {
-            "meanings": [
-                "do wrong",
-                "err",
-                "mislead",
-                "mistake"
-            ],
-            "on_readings": [
-                "ゴ"
-            ],
-            "kun_readings": [
-                "-あやま.る",
-                "あやま.る"
-            ],
-            "stroke_count": 14,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 1150,
-            "unicode": "8AA4",
-            "grade": 6
-        }
-    },
-    "collocations": [
-        "誤りを認める",
-        "誤りを直す",
-        "誤りを指摘する",
-        "誤りを訂正する",
-        "誤りを犯す",
-        "計算の誤り",
-        "書き誤り",
-        "誤りがある",
-        "理解の誤り"
+  "version": "0.3.0",
+  "word": "誤り",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/IkyVol2k_vg",
+  "in_db": true,
+  "kanji": "誤り",
+  "reading": "あやまり",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is あやまり, which you will often hear in situations like when discussing errors in exams, acknowledging faults in a speech, or correcting mistakes. Mastering this word will help you confidently navigate conversations where errors or mistakes are the topic! Let's dive into expanding your Japanese vocabulary with あやまり!",
+  "meanings": [
+    [
+      "error",
+      "mistake",
+      "slip",
+      "bug"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"ayama ri\" means a mistake or an error in something. It's used when someone has made an error, a blunder, or when there is something incorrect that needs to be corrected.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "誤",
+      "common_words": [
+        "誤解: misunderstanding",
+        "誤診: wrong diagnosis"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "間違い : まちがい : mistake",
+    "エラー : エラー : error"
+  ],
+  "synonym_explanation": "The most common synonyms of the word \"ayama ri\" are \"ma chi gai\" and \"e ra\". \"Ma chi gai\" generally refers to mistakes or errors, often used interchangeably with \"ayama ri\" but may be seen as slightly less formal. \"E ra,\" a borrowed word, is specific to errors concerning systems or processes, such as technical errors in computing or machinery.",
+  "antonyms": [
+    "正解 : せいかい : correct answer",
+    "正確 : せいかく : accurate"
+  ],
+  "antonym_explanation": "The most common antonyms of the word \"ayama ri\" are \"se i kai\" and \"se i kaku.\" \"Se i kai\" refers to the correct answer or solution often applied in academic or testing contexts. \"Se i kaku\" indicates accuracy or correctness, often contrasting with errors or mistakes found in \"ayama ri.\"",
+  "collocations": [
+    {
+      "kanji": "誤りを認める",
+      "furigana": "誤りを認める",
+      "translations": {}
+    },
+    {
+      "kanji": "誤りを直す",
+      "furigana": "誤りを直す",
+      "translations": {}
+    },
+    {
+      "kanji": "誤りを指摘する",
+      "furigana": "誤りを指摘する",
+      "translations": {}
+    },
+    {
+      "kanji": "誤りを訂正する",
+      "furigana": "誤りを訂正する",
+      "translations": {}
+    },
+    {
+      "kanji": "誤りを犯す",
+      "furigana": "誤りを犯す",
+      "translations": {}
+    },
+    {
+      "kanji": "計算の誤り",
+      "furigana": "計算の誤り",
+      "translations": {}
+    },
+    {
+      "kanji": "書き誤り",
+      "furigana": "書き誤り",
+      "translations": {}
+    },
+    {
+      "kanji": "誤りがある",
+      "furigana": "誤りがある",
+      "translations": {}
+    },
+    {
+      "kanji": "理解の誤り",
+      "furigana": "理解の誤り",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は誤りを認めた。",
+      "furigana": "彼(かれ)は誤(あやま)りを認(みと)めた。",
+      "translations": {
+        "EN": "He admitted his mistake.",
+        "ID": "Dia mengakui kesalahannya.",
+        "ES": "Él admitió su error.",
+        "VI": "Anh ấy đã thừa nhận lỗi của mình.",
+        "FR": "Il a admis son erreur.",
+        "NE": "उनले आफ्नो गल्ती स्वीकार गरे।",
+        "BN": "তিনি তার ভুল স্বীকার করেছেন।",
+        "ZH": "他承认了自己的错误。",
+        "KO": "그는 자신의 실수를 인정했습니다.",
+        "TL": "Inamin niya ang kanyang pagkakamali.",
+        "MY": "သူသည် သူ့အမှားကို ဝန်ခံခဲ့သည်။",
+        "HI": "उसने अपनी गलती मान ली।",
+        "AR": "اعترف بخطأه.",
+        "FA": "او اشتباهش را پذیرفت."
+      }
+    },
+    {
+      "kanji": "彼はすぐに誤りを直します。",
+      "furigana": "彼(かれ)はすぐに誤(あやま)りを直(なお)します。",
+      "translations": {
+        "EN": "He quickly fixes the mistake.",
+        "ID": "Dia segera memperbaiki kesalahan itu.",
+        "ES": "Él corrige rápidamente el error.",
+        "VI": "Anh ấy nhanh chóng sửa lỗi.",
+        "FR": "Il corrige rapidement l'erreur.",
+        "NE": "ऊ तुरुन्तै गल्तीलाई सुधार गर्छ।",
+        "BN": "সে দ্রুত ভুলটা ঠিক করে দেয়।",
+        "ZH": "他马上修正错误。",
+        "KO": "그는 바로 잘못을 고칩니다.",
+        "TL": "Agad niyang inaayos ang kamalian.",
+        "MY": "သူက အားလုံးကို အမြန် ပြန်ဖြေပါတယ်။",
+        "HI": "वह जल्दी से गलती को सुधारता है।",
+        "AR": "يقوم بتصحيح الخطأ بسرعة.",
+        "FA": "او به سرعت اشتباه را رفع می‌کند."
+      }
+    },
+    {
+      "kanji": "彼は誤りを指摘した。",
+      "furigana": "彼(かれ)は誤(あやま)りを指摘(してき)した。",
+      "translations": {
+        "EN": "He pointed out the mistake.",
+        "ID": "Dia menunjukkan kesalahan itu.",
+        "ES": "Él señaló el error.",
+        "VI": "Anh ấy chỉ ra sai lầm.",
+        "FR": "Il a signalé l'erreur.",
+        "NE": "उनि गल्तीलाई औंल्याए।",
+        "BN": "সে ভুলটি নির্দেশ করল।",
+        "ZH": "他指出了错误。",
+        "KO": "그는 실수를 지적했다.",
+        "TL": "Itinuro niya ang pagkakamali.",
+        "MY": "သူက အမှားကို ညွှန်ပြခဲ့သည်။",
+        "HI": "उसने गलती की ओर इशारा किया।",
+        "AR": "أشار إلى الخطأ.",
+        "FA": "او اشتباهی را نشان داد."
+      }
+    },
+    {
+      "kanji": "彼は誤りを訂正しました。",
+      "furigana": "彼(かれ)は誤(あやま)りを訂正(ていせい)しました。",
+      "translations": {
+        "EN": "He corrected the mistake.",
+        "ID": "Dia memperbaiki kesalahan itu.",
+        "ES": "Él corrigió el error.",
+        "VI": "Anh ấy đã sửa lỗi.",
+        "FR": "Il a corrigé l'erreur.",
+        "NE": "उहाँले गल्तीलाई सुधार गर्नुभयो।",
+        "BN": "সে ভুল ঠিক করেছিল।",
+        "ZH": "他改正了错误。",
+        "KO": "그는 실수를 수정했습니다.",
+        "TL": "Itinama niya ang pagkakamali.",
+        "MY": "သူသည် အမှားကို မျှမိခဲ့သည်။",
+        "HI": "उसने गलती को सुधार दिया।",
+        "AR": "لقد صحح الخطأ.",
+        "FA": "او اشتباه را تصحیح کرد."
+      }
+    },
+    {
+      "kanji": "彼は誤りを犯しました。",
+      "furigana": "彼(かれ)は誤(あやま)りを犯(おか)しました。",
+      "translations": {
+        "EN": "He made a mistake.",
+        "ID": "Dia membuat kesalahan.",
+        "ES": "Él cometió un error.",
+        "VI": "Anh ấy mắc lỗi.",
+        "FR": "Il a fait une erreur.",
+        "NE": "उनीले गल्ती गरे।",
+        "BN": "তিনি একটি ভুল করেছেন।",
+        "ZH": "他犯了一个错误。",
+        "KO": "그는 실수를 저질렀습니다.",
+        "TL": "Gumawa siya ng pagkakamali.",
+        "MY": "သူကမှားယွင်းတယ်။",
+        "HI": "उसने गलती की।",
+        "AR": "لقد ارتكب خطأ.",
+        "FA": "او اشتباهی کرد."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "error": {
+      "EN": "error",
+      "ID": "kesalahan",
+      "ES": "error",
+      "VI": "lỗi",
+      "FR": "erreur",
+      "NE": "गल्ती",
+      "BN": "ত্রুটি",
+      "ZH": "错误",
+      "KO": "오류",
+      "TL": "pagkakamali",
+      "MY": "အမှား",
+      "HI": "त्रुटि",
+      "AR": "خلل",
+      "FA": "خطا"
+    }
+  },
+  "jisho_data": {
+    "slug": "誤り",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "誤り",
+        "reading": "あやまり"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "error",
+          "mistake",
+          "slip",
+          "bug"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "誤"
+  ],
+  "kanji_data": {
+    "誤": {
+      "meanings": [
+        "do wrong",
+        "err",
+        "mislead",
+        "mistake"
+      ],
+      "on_readings": [
+        "ゴ"
+      ],
+      "kun_readings": [
+        "-あやま.る",
+        "あやま.る"
+      ],
+      "stroke_count": 14,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 1150,
+      "unicode": "8AA4",
+      "grade": 6
+    }
+  }
 }

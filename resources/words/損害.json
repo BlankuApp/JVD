@@ -1,254 +1,273 @@
 {
-    "version": "0.2.0",
-    "word": "損害",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/wbTGy8j_bJs",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "損害",
-        "reading": "そんがい",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is そんがい, which you will often hear in situations involving financial discussions, insurance claims, or when talking about reparations for harm caused. Discover how to effectively use this word and broaden your understanding of Japanese language and culture. Make sure to tune in and enhance your vocabulary skills today!",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word そんがい means \"damage\" in English. It refers to harm or injury that causes loss or destruction, either in a physical, financial, or reputational context. You might hear this term used when talking about a damaged object, a financial loss, or a negative effect on one's reputation.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "damage",
-                "injury",
-                "loss"
-            ]
-        ],
-        "meaning_translations": {
-            "damage": {
-                "EN": "Damage",
-                "ID": "Kerusakan",
-                "ES": "Daño",
-                "VI": "Thiệt hại",
-                "FR": "Dommage",
-                "NE": "क्षति",
-                "BN": "ক্ষতি",
-                "ZH": "损害",
-                "KO": "손해",
-                "TL": "Pinsala",
-                "MY": "ပျက်စီးမှု",
-                "HI": "क्षति",
-                "AR": "ضرر",
-                "FA": "آسیب"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は損害を受けた。",
-                "furigana": "彼(かれ)は損害(そんがい)を受(う)けた。",
-                "translations": {
-                    "EN": "He suffered damage.",
-                    "ID": "Dia mengalami kerugian.",
-                    "ES": "Él sufrió daños.",
-                    "VI": "Anh ấy chịu thiệt hại.",
-                    "FR": "Il a subi des dommages.",
-                    "NE": "उनले क्षति बेहोरे।",
-                    "BN": "তিনি ক্ষতির সম্মুখীন হয়েছেন।",
-                    "ZH": "他遭受了损失。",
-                    "KO": "그는 손해를 입었다.",
-                    "TL": "Nakatanggap siya ng pinsala.",
-                    "MY": "သူသည် ထိခိုက်ခြင်းကို ခံရခဲ့သည်။",
-                    "HI": "उसे नुकसान हुआ।",
-                    "AR": "تعرّض للضرر.",
-                    "FA": "او خسارت دید."
-                }
-            },
-            {
-                "kanji": "台風が損害を与えた。",
-                "furigana": "台風(たいふう)が損害(そんがい)を与(あた)えた。",
-                "translations": {
-                    "EN": "The typhoon caused damage.",
-                    "ID": "Topan menyebabkan kerusakan.",
-                    "ES": "El tifón causó daños.",
-                    "VI": "Bão gây ra thiệt hại.",
-                    "FR": "Le typhon a causé des dégâts.",
-                    "NE": "तूफानले क्षति पुर्‍यायो।",
-                    "BN": "টর্নেডো ক্ষতি করেছে।",
-                    "ZH": "台风造成了损害。",
-                    "KO": "태풍이 피해를 입혔다.",
-                    "TL": "Nagdulot ng pinsala ang bagyo.",
-                    "MY": "မုန်တိုင်းကြောင့် နစ်နာမှုဖြစ်ပွားခဲ့သည်။",
-                    "HI": "तूफान ने नुकसान पहुंचाया।",
-                    "AR": "تسببت الإعصار في أضرار.",
-                    "FA": "توفان باعث آسیب شد."
-                }
-            },
-            {
-                "kanji": "損害の補償を受けます。",
-                "furigana": "損害(そんがい)の補償(ほしょう)を受(う)けます。",
-                "translations": {
-                    "EN": "I receive compensation for the damage.",
-                    "ID": "Saya menerima kompensasi untuk kerugian.",
-                    "ES": "Recibo una compensación por el daño.",
-                    "VI": "Tôi nhận được bồi thường cho thiệt hại.",
-                    "FR": "Je reçois une compensation pour les dommages.",
-                    "NE": "मैले क्षतिको क्षतिपूर्त्ति पाएँ।",
-                    "BN": "আমি ক্ষতির জন্য ক্ষতিপূরণ পাই।",
-                    "ZH": "收到损害的赔偿。",
-                    "KO": "손해의 보상을 받습니다.",
-                    "TL": "Tumatanggap ako ng kabayaran para sa pinsala.",
-                    "MY": "ထိခိုက်နစ္နာမှုအတွက် အစားထိုးပေးစရာကို လက်ခံပါတယ်။",
-                    "HI": "मुझे क्षति के लिए मुआवजा मिलता है।",
-                    "AR": "أستلم تعويضًا عن الأضرار.",
-                    "FA": "من خسارت را جبران می‌کنم."
-                }
-            },
-            {
-                "kanji": "彼は損害に会った。",
-                "furigana": "彼(かれ)は損害(そんがい)に会(あ)った。",
-                "translations": {
-                    "EN": "He suffered a loss.",
-                    "ID": "Dia menderita kerugian.",
-                    "ES": "Él sufrió una pérdida.",
-                    "VI": "Anh ấy bị thiệt hại.",
-                    "FR": "Il a subi une perte.",
-                    "NE": "उ कष्टमा पर्‍यो।",
-                    "BN": "সে ক্ষতির সম্মুখীন হয়েছে।",
-                    "ZH": "他遭受了损失。",
-                    "KO": "그는 손해를 입었다.",
-                    "TL": "Siya ay nakaranas ng pinsala.",
-                    "MY": "သူ စီးပွားဆိုးများကို ကြုံတွေ့ခဲ့သည်။",
-                    "HI": "उसे नुकसान हुआ।",
-                    "AR": "لقد تعرض لخسارة.",
-                    "FA": "او دچار خسارت شد."
-                }
-            },
-            {
-                "kanji": "私は損害を被ります。",
-                "furigana": "私(わたし)は損害(そんがい)を被(こうむ)ります。",
-                "translations": {
-                    "EN": "I suffer a loss.",
-                    "ID": "Saya mengalami kerugian.",
-                    "ES": "Sufro una pérdida.",
-                    "VI": "Tôi chịu thiệt hại.",
-                    "FR": "Je subis une perte.",
-                    "NE": "म नोक्सानीमा परेको छु।",
-                    "BN": "আমি ক্ষতির সম্মুখীন হয়েছি।",
-                    "ZH": "我遭受损失。",
-                    "KO": "나는 손해를 본다.",
-                    "TL": "Ako ay nagdusa sa pagkawala.",
-                    "MY": "ကျွန်ုပ်သည် ထိခိုက်မှုကို ခံစားရပါသည်။",
-                    "HI": "मुझे नुकसान हुआ है।",
-                    "AR": "أنا أعاني من خسارة.",
-                    "FA": "من دچار خسارت شدم."
-                }
-            }
-        ],
-        "synonyms": [
-            "被害 : ひがい :  damage",
-            "損失 : そんしつ : loss"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word そんがい are ひがい and そんしつ. ひがい is often used to refer to actual harm or damage suffered, particularly by people. It's commonly heard in news about disasters. そんしつ focuses more on losses, especially in financial contexts, indicating a reduction in value or resources.",
-        "antonyms": [
-            "利益 : りえき : profit",
-            "得 : とく : profit"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word そんがい are りえき and とく. りえき refers to gain or profit, often in a business context, signifying a positive outcome or advantage. とく is more about receiving benefit or advantage, and it indicates a favorable condition or circumstance distinct from damage or loss.",
-        "kanji_details": [
-            {
-                "kanji": "損",
-                "common_words": [
-                    "損失: loss",
-                    "損する: to lose"
-                ]
-            },
-            {
-                "kanji": "害",
-                "common_words": [
-                    "害虫: harmful insect",
-                    "無害: harmless"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "損害",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "損害",
-                "reading": "そんがい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "damage",
-                    "injury",
-                    "loss"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "損",
-        "害"
-    ],
-    "kanji_data": {
-        "損": {
-            "meanings": [
-                "damage",
-                "disadvantage",
-                "hurt",
-                "injure",
-                "loss"
-            ],
-            "on_readings": [
-                "ソン"
-            ],
-            "kun_readings": [
-                "-そこ.なう",
-                "-そこ.ねる",
-                "そこ.なう",
-                "そこ.ねる",
-                "そこな.う"
-            ],
-            "stroke_count": 13,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 807,
-            "unicode": "640D",
-            "grade": 5
-        },
-        "害": {
-            "meanings": [
-                "harm",
-                "injury"
-            ],
-            "on_readings": [
-                "ガイ"
-            ],
-            "kun_readings": [],
-            "stroke_count": 10,
-            "jlpt": 3,
-            "freq_mainichi_shinbun": 358,
-            "unicode": "5BB3",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "そんがいをうける",
-        "そんがいをあたえる",
-        "そんがいのほしょう",
-        "そんがいにあう",
-        "そんがいをこうむる"
+  "version": "0.3.0",
+  "word": "損害",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/wbTGy8j_bJs",
+  "in_db": true,
+  "kanji": "損害",
+  "reading": "そんがい",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is そんがい, which you will often hear in situations involving financial discussions, insurance claims, or when talking about reparations for harm caused. Discover how to effectively use this word and broaden your understanding of Japanese language and culture. Make sure to tune in and enhance your vocabulary skills today!",
+  "meanings": [
+    [
+      "damage",
+      "injury",
+      "loss"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word そんがい means \"damage\" in English. It refers to harm or injury that causes loss or destruction, either in a physical, financial, or reputational context. You might hear this term used when talking about a damaged object, a financial loss, or a negative effect on one's reputation.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "損",
+      "common_words": [
+        "損失: loss",
+        "損する: to lose"
+      ]
+    },
+    {
+      "kanji": "害",
+      "common_words": [
+        "害虫: harmful insect",
+        "無害: harmless"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "被害 : ひがい :  damage",
+    "損失 : そんしつ : loss"
+  ],
+  "synonym_explanation": "The most common synonyms of the word そんがい are ひがい and そんしつ. ひがい is often used to refer to actual harm or damage suffered, particularly by people. It's commonly heard in news about disasters. そんしつ focuses more on losses, especially in financial contexts, indicating a reduction in value or resources.",
+  "antonyms": [
+    "利益 : りえき : profit",
+    "得 : とく : profit"
+  ],
+  "antonym_explanation": "The most common antonyms of the word そんがい are りえき and とく. りえき refers to gain or profit, often in a business context, signifying a positive outcome or advantage. とく is more about receiving benefit or advantage, and it indicates a favorable condition or circumstance distinct from damage or loss.",
+  "collocations": [
+    {
+      "kanji": "そんがいをうける",
+      "furigana": "そんがいをうける",
+      "translations": {}
+    },
+    {
+      "kanji": "そんがいをあたえる",
+      "furigana": "そんがいをあたえる",
+      "translations": {}
+    },
+    {
+      "kanji": "そんがいのほしょう",
+      "furigana": "そんがいのほしょう",
+      "translations": {}
+    },
+    {
+      "kanji": "そんがいにあう",
+      "furigana": "そんがいにあう",
+      "translations": {}
+    },
+    {
+      "kanji": "そんがいをこうむる",
+      "furigana": "そんがいをこうむる",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は損害を受けた。",
+      "furigana": "彼(かれ)は損害(そんがい)を受(う)けた。",
+      "translations": {
+        "EN": "He suffered damage.",
+        "ID": "Dia mengalami kerugian.",
+        "ES": "Él sufrió daños.",
+        "VI": "Anh ấy chịu thiệt hại.",
+        "FR": "Il a subi des dommages.",
+        "NE": "उनले क्षति बेहोरे।",
+        "BN": "তিনি ক্ষতির সম্মুখীন হয়েছেন।",
+        "ZH": "他遭受了损失。",
+        "KO": "그는 손해를 입었다.",
+        "TL": "Nakatanggap siya ng pinsala.",
+        "MY": "သူသည် ထိခိုက်ခြင်းကို ခံရခဲ့သည်။",
+        "HI": "उसे नुकसान हुआ।",
+        "AR": "تعرّض للضرر.",
+        "FA": "او خسارت دید."
+      }
+    },
+    {
+      "kanji": "台風が損害を与えた。",
+      "furigana": "台風(たいふう)が損害(そんがい)を与(あた)えた。",
+      "translations": {
+        "EN": "The typhoon caused damage.",
+        "ID": "Topan menyebabkan kerusakan.",
+        "ES": "El tifón causó daños.",
+        "VI": "Bão gây ra thiệt hại.",
+        "FR": "Le typhon a causé des dégâts.",
+        "NE": "तूफानले क्षति पुर्‍यायो।",
+        "BN": "টর্নেডো ক্ষতি করেছে।",
+        "ZH": "台风造成了损害。",
+        "KO": "태풍이 피해를 입혔다.",
+        "TL": "Nagdulot ng pinsala ang bagyo.",
+        "MY": "မုန်တိုင်းကြောင့် နစ်နာမှုဖြစ်ပွားခဲ့သည်။",
+        "HI": "तूफान ने नुकसान पहुंचाया।",
+        "AR": "تسببت الإعصار في أضرار.",
+        "FA": "توفان باعث آسیب شد."
+      }
+    },
+    {
+      "kanji": "損害の補償を受けます。",
+      "furigana": "損害(そんがい)の補償(ほしょう)を受(う)けます。",
+      "translations": {
+        "EN": "I receive compensation for the damage.",
+        "ID": "Saya menerima kompensasi untuk kerugian.",
+        "ES": "Recibo una compensación por el daño.",
+        "VI": "Tôi nhận được bồi thường cho thiệt hại.",
+        "FR": "Je reçois une compensation pour les dommages.",
+        "NE": "मैले क्षतिको क्षतिपूर्त्ति पाएँ।",
+        "BN": "আমি ক্ষতির জন্য ক্ষতিপূরণ পাই।",
+        "ZH": "收到损害的赔偿。",
+        "KO": "손해의 보상을 받습니다.",
+        "TL": "Tumatanggap ako ng kabayaran para sa pinsala.",
+        "MY": "ထိခိုက်နစ္နာမှုအတွက် အစားထိုးပေးစရာကို လက်ခံပါတယ်။",
+        "HI": "मुझे क्षति के लिए मुआवजा मिलता है।",
+        "AR": "أستلم تعويضًا عن الأضرار.",
+        "FA": "من خسارت را جبران می‌کنم."
+      }
+    },
+    {
+      "kanji": "彼は損害に会った。",
+      "furigana": "彼(かれ)は損害(そんがい)に会(あ)った。",
+      "translations": {
+        "EN": "He suffered a loss.",
+        "ID": "Dia menderita kerugian.",
+        "ES": "Él sufrió una pérdida.",
+        "VI": "Anh ấy bị thiệt hại.",
+        "FR": "Il a subi une perte.",
+        "NE": "उ कष्टमा पर्‍यो।",
+        "BN": "সে ক্ষতির সম্মুখীন হয়েছে।",
+        "ZH": "他遭受了损失。",
+        "KO": "그는 손해를 입었다.",
+        "TL": "Siya ay nakaranas ng pinsala.",
+        "MY": "သူ စီးပွားဆိုးများကို ကြုံတွေ့ခဲ့သည်။",
+        "HI": "उसे नुकसान हुआ।",
+        "AR": "لقد تعرض لخسارة.",
+        "FA": "او دچار خسارت شد."
+      }
+    },
+    {
+      "kanji": "私は損害を被ります。",
+      "furigana": "私(わたし)は損害(そんがい)を被(こうむ)ります。",
+      "translations": {
+        "EN": "I suffer a loss.",
+        "ID": "Saya mengalami kerugian.",
+        "ES": "Sufro una pérdida.",
+        "VI": "Tôi chịu thiệt hại.",
+        "FR": "Je subis une perte.",
+        "NE": "म नोक्सानीमा परेको छु।",
+        "BN": "আমি ক্ষতির সম্মুখীন হয়েছি।",
+        "ZH": "我遭受损失。",
+        "KO": "나는 손해를 본다.",
+        "TL": "Ako ay nagdusa sa pagkawala.",
+        "MY": "ကျွန်ုပ်သည် ထိခိုက်မှုကို ခံစားရပါသည်။",
+        "HI": "मुझे नुकसान हुआ है।",
+        "AR": "أنا أعاني من خسارة.",
+        "FA": "من دچار خسارت شدم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "damage": {
+      "EN": "Damage",
+      "ID": "Kerusakan",
+      "ES": "Daño",
+      "VI": "Thiệt hại",
+      "FR": "Dommage",
+      "NE": "क्षति",
+      "BN": "ক্ষতি",
+      "ZH": "损害",
+      "KO": "손해",
+      "TL": "Pinsala",
+      "MY": "ပျက်စီးမှု",
+      "HI": "क्षति",
+      "AR": "ضرر",
+      "FA": "آسیب"
+    }
+  },
+  "jisho_data": {
+    "slug": "損害",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "損害",
+        "reading": "そんがい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "damage",
+          "injury",
+          "loss"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "損",
+    "害"
+  ],
+  "kanji_data": {
+    "損": {
+      "meanings": [
+        "damage",
+        "disadvantage",
+        "hurt",
+        "injure",
+        "loss"
+      ],
+      "on_readings": [
+        "ソン"
+      ],
+      "kun_readings": [
+        "-そこ.なう",
+        "-そこ.ねる",
+        "そこ.なう",
+        "そこ.ねる",
+        "そこな.う"
+      ],
+      "stroke_count": 13,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 807,
+      "unicode": "640D",
+      "grade": 5
+    },
+    "害": {
+      "meanings": [
+        "harm",
+        "injury"
+      ],
+      "on_readings": [
+        "ガイ"
+      ],
+      "kun_readings": [],
+      "stroke_count": 10,
+      "jlpt": 3,
+      "freq_mainichi_shinbun": 358,
+      "unicode": "5BB3",
+      "grade": 4
+    }
+  }
 }

@@ -1,0 +1,498 @@
+{
+    "version": "0.3.0",
+    "word": "香り",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/f1KpTUubsd4",
+    "in_db": true,
+    "kanji": "香り",
+    "reading": "かおり",
+    "introduction_japanese": "香り。花やコーヒー、せっけん、料理や季節を感じるときに使うよ。",
+    "introduction_english": "The noun かおり is used when talking about flowers, coffee, soap, cooking, and sensing seasons.",
+    "meanings": [
+        [
+            "fragrance",
+            "aroma",
+            "scent",
+            "perfume"
+        ],
+        [
+            "bouquet",
+            "nose"
+        ],
+        [
+            "hint",
+            "air",
+            "touch"
+        ]
+    ],
+    "meaning_explanation_japanese": "いいにおい、飲み物や食べ物の独特のにおい、または比喩でその場のふんいきのことだよ。",
+    "meaning_explanation_english": "The word かおり mainly means a pleasant smell. For drinks and foods, it can mean the bouquet or nose. It can also figuratively mean a hint or air of a season or style.",
+    "youtube_description": "Learn the meaning and use of かおり: easy pronunciation, everyday examples, bouquet vs. smell, and beginner-friendly tips with collocations.",
+    "kanji_details": [
+        {
+            "kanji": "香",
+            "onyomi": [
+                "コウ",
+                "キョウ"
+            ],
+            "kunyomi": [
+                "か",
+                "かお"
+            ],
+            "meanings_english": [
+                "fragrance",
+                "incense",
+                "aroma"
+            ],
+            "common_words": [
+                "香水（こうすい）: perfume",
+                "線香（せんこう）: incense stick"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means fragrance or incense. It often shows something that smells nice or is aromatic. You see it in common words like こうすい and せんこう. Remember it to talk about pleasant smells.",
+    "synonyms": [
+        "匂い : におい : smell",
+        "芳香 : ほうこう : fragrance"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are におい and ほうこう. におい is general and can be good or bad, while ほうこう is formal and clearly positive. かおり overlaps with the positive side of におい.",
+    "antonyms": [
+        "悪臭 : あくしゅう : stench"
+    ],
+    "antonym_explanation": "The most common antonym of the word is あくしゅう. It means a strong, unpleasant smell, the opposite of the pleasant sense in かおり.",
+    "collocations": [
+        {
+            "kanji": "花の香り",
+            "furigana": "花(はな)の香(かお)り",
+            "translations": {
+                "EN": "The scent of flowers",
+                "ID": "Aroma bunga",
+                "ES": "El aroma de las flores",
+                "VI": "Hương thơm của hoa",
+                "FR": "Le parfum des fleurs",
+                "NE": "फूलहरूको सुगन्ध",
+                "BN": "ফুলের সুবাস",
+                "ZH": "花香",
+                "KO": "꽃향기",
+                "TL": "Ang bango ng mga bulaklak",
+                "MY": "ပန်းရနံ့",
+                "HI": "फूलों की खुशबू",
+                "AR": "رائحة الزهور",
+                "FA": "عطر گل‌ها"
+            }
+        },
+        {
+            "kanji": "コーヒーの香り",
+            "furigana": "コーヒーの香(かお)り",
+            "translations": {
+                "EN": "The smell of coffee",
+                "ID": "Bau kopi",
+                "ES": "El olor del café",
+                "VI": "Mùi cà phê",
+                "FR": "L'odeur du café",
+                "NE": "कफीको गन्ध",
+                "BN": "কফির গন্ধ",
+                "ZH": "咖啡的香味",
+                "KO": "커피의 향기",
+                "TL": "Ang amoy ng kape",
+                "MY": "ကော်ဖီနံ့",
+                "HI": "कॉफी की गंध",
+                "AR": "رائحة القهوة",
+                "FA": "بوی قهوه"
+            }
+        },
+        {
+            "kanji": "春の香り",
+            "furigana": "春(はる)の香(かお)り",
+            "translations": {
+                "EN": "The scent of spring",
+                "ID": "Aroma musim semi",
+                "ES": "El aroma de la primavera",
+                "VI": "Hương thơm của mùa xuân",
+                "FR": "Le parfum du printemps",
+                "NE": "वसन्तको सुगन्ध",
+                "BN": "বসন্তের সুবাস",
+                "ZH": "春天的气息",
+                "KO": "봄의 향기",
+                "TL": "Ang bango ng tagsibol",
+                "MY": "နွေဦး၏ရနံ့",
+                "HI": "वसंत की सुगंध",
+                "AR": "رائحة الربيع",
+                "FA": "بوی بهار."
+            }
+        },
+        {
+            "kanji": "新しい石鹸の香り",
+            "furigana": "新(あたら)しい石鹸(せっけん)の香(かお)り",
+            "translations": {
+                "EN": "New soap scent",
+                "ID": "Aroma sabun baru",
+                "ES": "Nuevo aroma a jabón",
+                "VI": "Mùi xà phòng mới",
+                "FR": "Nouveau parfum de savon",
+                "NE": "नयाँ साबुनको सुगन्ध",
+                "BN": "নতুন সাবানের সুগন্ধ",
+                "ZH": "新的肥皂香味",
+                "KO": "새로운 비누의 향기",
+                "TL": "Bagong amoy ng sabon",
+                "MY": "ဆပ်ပြာရနံ့အသစ်",
+                "HI": "नए साबुन की खुशबू",
+                "AR": "رائحة الصابون الجديدة",
+                "FA": "رایحه صابون جدید"
+            }
+        },
+        {
+            "kanji": "甘い香り",
+            "furigana": "甘(あま)い香(かお)り",
+            "translations": {
+                "EN": "Sweet scent",
+                "ID": "Aroma manis",
+                "ES": "Aroma dulce",
+                "VI": "Hương thơm ngọt ngào",
+                "FR": "Doux parfum",
+                "NE": "मीठो बास्ना",
+                "BN": "মিষ্টি সুবাস",
+                "ZH": "甜美的香气",
+                "KO": "달콤한 향기",
+                "TL": "Matamis na bango",
+                "MY": "မွှေးရနံ့",
+                "HI": "मीठी खुशबू",
+                "AR": "رائحة حلوة",
+                "FA": "رایحه شیرین"
+            }
+        },
+        {
+            "kanji": "強い香り",
+            "furigana": "強(つよ)い香(かお)り",
+            "translations": {
+                "EN": "Strong scent",
+                "ID": "Aroma yang kuat",
+                "ES": "Olor fuerte",
+                "VI": "Mùi hương nồng",
+                "FR": "Parfum fort",
+                "NE": "कडा गन्ध",
+                "BN": "তীব্র গন্ধ",
+                "ZH": "浓郁的香味",
+                "KO": "강한 향기",
+                "TL": "Malakas na bango",
+                "MY": "အနံ့ပြင်းတယ်။",
+                "HI": "तेज गंध",
+                "AR": "رائحة قوية",
+                "FA": "رایحه قوی"
+            }
+        },
+        {
+            "kanji": "この香り",
+            "furigana": "この香(かお)り",
+            "translations": {
+                "EN": "This scent",
+                "ID": "Aroma ini",
+                "ES": "Este aroma",
+                "VI": "Mùi hương này",
+                "FR": "Ce parfum",
+                "NE": "यो सुगन्ध",
+                "BN": "এই সুগন্ধি",
+                "ZH": "这种香味",
+                "KO": "이 향기",
+                "TL": "Ang bango na ito",
+                "MY": "ဒီရနံ့",
+                "HI": "यह सुगंध",
+                "AR": "هذه الرائحة",
+                "FA": "این عطر"
+            }
+        },
+        {
+            "kanji": "香りがする",
+            "furigana": "香(かお)りがする",
+            "translations": {
+                "EN": "It smells",
+                "ID": "Baunya",
+                "ES": "Huele",
+                "VI": "Nó có mùi",
+                "FR": "Ça sent",
+                "NE": "गन्हाउँछ।",
+                "BN": "গন্ধ পাচ্ছি।",
+                "ZH": "闻起来",
+                "KO": "향기로운",
+                "TL": "Mabango ito",
+                "MY": "အနံ့",
+                "HI": "इससे बदबू आ रही है",
+                "AR": "رائحتها كريهة",
+                "FA": "بو می‌دهد."
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "花の香りがします。",
+            "furigana": "花(はな)の香(かお)りがします.",
+            "translations": {
+                "EN": "It smells like flowers.",
+                "ID": "Baunya seperti bunga.",
+                "ES": "Huele a flores.",
+                "VI": "Nó có mùi như hoa.",
+                "FR": "Ça sent les fleurs.",
+                "NE": "यसको गन्ध फूल जस्तै छ।",
+                "BN": "ফুলের মতো গন্ধ।",
+                "ZH": "闻起来有花香。",
+                "KO": "꽃의 향기가 있습니다.",
+                "TL": "Amoy bulaklak.",
+                "MY": "ပန်းများကဲ့သို့ အနံ့ရှိသည်။",
+                "HI": "इसमें फूलों जैसी खुशबू आती है।",
+                "AR": "رائحتها مثل الزهور.",
+                "FA": "بوی گل می‌دهد."
+            }
+        },
+        {
+            "kanji": "このコーヒーは香りがいいです。",
+            "furigana": "このコーヒーは香(かお)りがいいです.",
+            "translations": {
+                "EN": "This coffee has a nice aroma.",
+                "ID": "Kopi ini memiliki aroma yang enak.",
+                "ES": "Este café tiene un aroma agradable.",
+                "VI": "Cà phê này có mùi thơm dễ chịu.",
+                "FR": "Ce café a un arôme agréable.",
+                "NE": "यो कफीको बास्ना राम्रो छ।",
+                "BN": "এই কফির একটা সুন্দর সুবাস আছে।",
+                "ZH": "这咖啡香气宜人。",
+                "KO": "이 커피는 향기가 좋다.",
+                "TL": "Mabango ang aroma ng kape na ito.",
+                "MY": "ဒီကော်ဖီက အနံ့ကောင်းကောင်းရှိတယ်။",
+                "HI": "इस कॉफी की सुगंध बहुत अच्छी है।",
+                "AR": "هذه القهوة لها رائحة لطيفة.",
+                "FA": "این قهوه عطر و طعم خوبی دارد."
+            }
+        },
+        {
+            "kanji": "石鹸の香りが好きです。",
+            "furigana": "石鹸(せっけん)の香(かお)りが好(す)きです.",
+            "translations": {
+                "EN": "I like the smell of soap.",
+                "ID": "Saya suka bau sabun.",
+                "ES": "Me gusta el olor del jabón.",
+                "VI": "Tôi thích mùi xà phòng.",
+                "FR": "J'aime l'odeur du savon.",
+                "NE": "मलाई साबुनको गन्ध मन पर्छ।",
+                "BN": "আমি সাবানের গন্ধ পছন্দ করি।",
+                "ZH": "我喜欢肥皂的味道。",
+                "KO": "비누의 향기를 좋아합니다.",
+                "TL": "Gusto ko ang amoy ng sabon.",
+                "MY": "ဆပ်ပြာနံ့ကြိုက်တယ်။",
+                "HI": "मुझे साबुन की गंध पसंद है.",
+                "AR": "أنا أحب رائحة الصابون.",
+                "FA": "من بوی صابون را دوست دارم."
+            }
+        },
+        {
+            "kanji": "ワインの香りをかいでください。",
+            "furigana": "ワインの香(かお)りをかいでください.",
+            "translations": {
+                "EN": "Smell the wine.",
+                "ID": "Hiruplah aroma anggurnya.",
+                "ES": "Huele el vino.",
+                "VI": "Ngửi mùi rượu.",
+                "FR": "Sentez le vin.",
+                "NE": "वाइनको गन्ध लिनुहोस्।",
+                "BN": "ওয়াইনের গন্ধ নাও।",
+                "ZH": "闻一闻酒香。",
+                "KO": "와인의 향기를 맛보십시오.",
+                "TL": "Amoy ang alak.",
+                "MY": "ဝိုင်ကို အနံ့ခံပါ။",
+                "HI": "शराब की गंध सूंघो.",
+                "AR": "إشم رائحة النبيذ.",
+                "FA": "بوی شراب را استشمام کنید."
+            }
+        },
+        {
+            "kanji": "朝、部屋に香りが広がりました。",
+            "furigana": "朝(あさ)、部屋(へや)に香(かお)りが広(ひろ)がりました.",
+            "translations": {
+                "EN": "In the morning, the scent filled the room.",
+                "ID": "Di pagi hari, wanginya memenuhi ruangan.",
+                "ES": "Por la mañana, el aroma llenó la habitación.",
+                "VI": "Buổi sáng, mùi hương tràn ngập căn phòng.",
+                "FR": "Le matin, le parfum emplissait la pièce.",
+                "NE": "बिहान, कोठाभरि सुगन्ध फैलियो।",
+                "BN": "সকালে, ঘরটা সুগন্ধে ভরে গেল।",
+                "ZH": "早晨，香味充满了整个房间。",
+                "KO": "아침, 방에 향기가 퍼졌습니다.",
+                "TL": "Sa umaga, napuno ng amoy ang silid.",
+                "MY": "မနက်ခင်းမှာ ရနံ့က တစ်ခန်းလုံးကို လွှမ်းသွားတယ်။",
+                "HI": "सुबह होते ही कमरा खुशबू से भर गया।",
+                "AR": "في الصباح، امتلأت الغرفة بالرائحة.",
+                "FA": "صبح، بوی عطرش تمام اتاق را پر کرده بود."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "parfum",
+            "ES": "fragancia",
+            "VI": "hương thơm",
+            "FR": "parfum",
+            "NE": "सुगन्ध",
+            "BN": "সুগন্ধি",
+            "ZH": "香味",
+            "KO": "향기",
+            "TL": "bango",
+            "MY": "မွှေးရနံ့",
+            "HI": "सुगंध",
+            "AR": "العطر",
+            "FA": "عطر",
+            "EN": [
+                "fragrance",
+                "aroma",
+                "scent",
+                "perfume"
+            ]
+        },
+        {
+            "ID": "buket",
+            "ES": "ramo",
+            "VI": "bó hoa",
+            "FR": "bouquet",
+            "NE": "गुलदस्ता",
+            "BN": "তোড়া",
+            "ZH": "花束",
+            "KO": "꽃다발",
+            "TL": "palumpon",
+            "MY": "ပန်းစည်း",
+            "HI": "पुष्प गुच्छ",
+            "AR": "باقة",
+            "FA": "دسته گل",
+            "EN": [
+                "bouquet",
+                "nose"
+            ]
+        },
+        {
+            "ID": "petunjuk",
+            "ES": "pista",
+            "VI": "gợi ý",
+            "FR": "indice",
+            "NE": "सङ्केत",
+            "BN": "ইঙ্গিত",
+            "ZH": "暗示",
+            "KO": "힌트",
+            "TL": "pahiwatig",
+            "MY": "အရိပ်အမြွက်",
+            "HI": "संकेत देना",
+            "AR": "تَلمِيح",
+            "FA": "اشاره",
+            "EN": [
+                "hint",
+                "air",
+                "touch"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "香り",
+        "is_common": true,
+        "tags": [
+            "wanikani37"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "香り",
+                "reading": "かおり"
+            },
+            {
+                "word": "薫り",
+                "reading": "かおり"
+            },
+            {
+                "word": "馨り",
+                "reading": "かおり"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "aroma",
+                    "fragrance",
+                    "scent",
+                    "smell"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Kaoru Genji"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Kaoru Genji” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Kaoru_Genji?oldid=464433124"
+                    },
+                    {
+                        "text": "Read “薫” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/薫?oldid=40732900"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Kaoru_Genji"
+        }
+    },
+    "kanji_list": [
+        "香"
+    ],
+    "kanji_data": {
+        "香": {
+            "freq_mainichi_shinbun": 859,
+            "grade": 8,
+            "heisig_en": "incense",
+            "jlpt": 2,
+            "kanji": "香",
+            "kun_readings": [
+                "か",
+                "かお.り",
+                "かお.る"
+            ],
+            "meanings": [
+                "incense",
+                "perfume",
+                "smell"
+            ],
+            "name_readings": [
+                "こ",
+                "こお",
+                "ひゃん",
+                "よし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "キョウ",
+                "コウ"
+            ],
+            "stroke_count": 9,
+            "unicode": "9999"
+        }
+    }
+}

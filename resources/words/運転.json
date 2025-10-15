@@ -1,0 +1,547 @@
+{
+    "version": "0.3.0",
+    "word": "運転",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/zo3igsGSfXs",
+    "in_db": true,
+    "kanji": "運転",
+    "reading": "うんてん",
+    "introduction_japanese": "運転。車やバスを扱うとき、機械を動かすとき、お金の回し方を話すときによく使います。",
+    "introduction_english": "The noun-verb うんてん is used when talking about handling cars or buses, operating machines, and how money is moved.",
+    "meanings": [
+        [
+            "driving",
+            "operating",
+            "piloting"
+        ],
+        [
+            "operation",
+            "running",
+            "function"
+        ],
+        [
+            "management",
+            "circulation",
+            "turnover"
+        ]
+    ],
+    "meaning_explanation_japanese": "乗り物を動かすこと、機械を動作させること、お金を回して使うことをまとめた言い方です。",
+    "meaning_explanation_english": "The word うんてん covers moving a vehicle, operating a machine, and managing the flow of money.",
+    "youtube_description": "Learn うんてん (運転): how to say driving a car, operating machines, and even managing money. Clear examples, kanji tips, and beginner-friendly practice.",
+    "kanji_details": [
+        {
+            "kanji": "運",
+            "onyomi": [
+                "うん"
+            ],
+            "kunyomi": [
+                "はこ.ぶ"
+            ],
+            "meanings_english": [
+                "carry",
+                "luck",
+                "move"
+            ],
+            "common_words": [
+                "運命（うんめい）：fate",
+                "運搬（うんぱん）：transport"
+            ]
+        },
+        {
+            "kanji": "転",
+            "onyomi": [
+                "てん"
+            ],
+            "kunyomi": [
+                "ころ.ぶ",
+                "ころ.がる"
+            ],
+            "meanings_english": [
+                "turn",
+                "roll",
+                "change"
+            ],
+            "common_words": [
+                "自転車（じてんしゃ）：bicycle",
+                "転校（てんこう）：school transfer"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means carry, move, or luck. It often shows movement or fortune. You can see it in うんめい and こううん. It gives a feeling of moving or fate. The second kanji means turn or roll. It shows changing direction or rotation. You can see it in じてんしゃ and てんこう. It adds the idea of turning or shifting.",
+    "synonyms": [
+        "操作 : そうさ : operation",
+        "操縦 : そうじゅう : piloting"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are そうさ and そうじゅう. そうさ overlaps when you mean operating a machine in general. そうじゅう overlaps when you control vehicles like planes or boats, while うんてん is everyday driving of cars, buses, or trains.",
+    "antonyms": [
+        "停止 : ていし : stop, halt"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ていし. ていし means stopping a machine or movement, while うんてん is about moving or running it.",
+    "collocations": [
+        {
+            "kanji": "安全運転",
+            "furigana": "安全(あんぜん)運転(うんてん)",
+            "translations": {
+                "EN": "Safe driving",
+                "ID": "Mengemudi dengan aman",
+                "ES": "Conducción segura",
+                "VI": "Lái xe an toàn",
+                "FR": "Conduite sécuritaire",
+                "NE": "सुरक्षित ड्राइभिङ",
+                "BN": "নিরাপদ ড্রাইভিং",
+                "ZH": "安全驾驶",
+                "KO": "안전운전",
+                "TL": "Ligtas na pagmamaneho",
+                "MY": "အန္တရာယ်ကင်းစွာမောင်းနှင်ပါ။",
+                "HI": "सुरक्षित ड्राइविंग",
+                "AR": "القيادة الآمنة",
+                "FA": "رانندگی ایمن"
+            }
+        },
+        {
+            "kanji": "車の運転",
+            "furigana": "車(くるま)の運転(うんてん)",
+            "translations": {
+                "EN": "Driving a car",
+                "ID": "Mengemudi mobil",
+                "ES": "Conducir un coche",
+                "VI": "Lái xe ô tô",
+                "FR": "Conduire une voiture",
+                "NE": "कार चलाउँदै",
+                "BN": "গাড়ি চালানো",
+                "ZH": "驾驶汽车",
+                "KO": "자동차 운전",
+                "TL": "Pagmamaneho ng kotse",
+                "MY": "ကားကို မောင်းတယ်။",
+                "HI": "एक कार ड्राइविंग",
+                "AR": "قيادة السيارة",
+                "FA": "رانندگی با ماشین"
+            }
+        },
+        {
+            "kanji": "夜の運転",
+            "furigana": "夜(よる)の運転(うんてん)",
+            "translations": {
+                "EN": "Night driving",
+                "ID": "Mengemudi di malam hari",
+                "ES": "Conducción nocturna",
+                "VI": "Lái xe ban đêm",
+                "FR": "Conduite de nuit",
+                "NE": "रात्रिकालीन ड्राइभिङ",
+                "BN": "রাতে গাড়ি চালানো",
+                "ZH": "夜间驾驶",
+                "KO": "야간 운전",
+                "TL": "Pagmamaneho sa gabi",
+                "MY": "ညဘက် ကားမောင်းတယ်။",
+                "HI": "रात्रि ड्राइविंग",
+                "AR": "القيادة الليلية",
+                "FA": "رانندگی در شب"
+            }
+        },
+        {
+            "kanji": "初心者の運転",
+            "furigana": "初心者(しょしんしゃ)の運転(うんてん)",
+            "translations": {
+                "EN": "Beginner driving",
+                "ID": "Mengemudi untuk pemula",
+                "ES": "Conducción para principiantes",
+                "VI": "Người mới bắt đầu lái xe",
+                "FR": "Conduite débutante",
+                "NE": "शुरुआती ड्राइभिङ",
+                "BN": "নতুনদের জন্য ড্রাইভিং",
+                "ZH": "初学者驾驶",
+                "KO": "초보자 운전",
+                "TL": "Baguhan sa pagmamaneho",
+                "MY": "စတင်မောင်းနှင်ခြင်း။",
+                "HI": "शुरुआती ड्राइविंग",
+                "AR": "القيادة المبتدئة",
+                "FA": "رانندگی مبتدی"
+            }
+        },
+        {
+            "kanji": "高速道路での運転",
+            "furigana": "高速道路(こうそくどうろ)での運転(うんてん)",
+            "translations": {
+                "EN": "Driving on the highway",
+                "ID": "Mengemudi di jalan raya",
+                "ES": "Conducir por la autopista",
+                "VI": "Lái xe trên đường cao tốc",
+                "FR": "Conduire sur l'autoroute",
+                "NE": "राजमार्गमा गाडी चलाउँदै",
+                "BN": "হাইওয়েতে গাড়ি চালানো",
+                "ZH": "在高速公路上行驶",
+                "KO": "고속도로에서 운전",
+                "TL": "Pagmamaneho sa highway",
+                "MY": "အဝေးပြေးလမ်းမကြီးပေါ်တွင် မောင်းနှင်သည်။",
+                "HI": "राजमार्ग पर वाहन चलाना",
+                "AR": "القيادة على الطريق السريع",
+                "FA": "رانندگی در بزرگراه"
+            }
+        },
+        {
+            "kanji": "運転免許",
+            "furigana": "運転(うんてん)免許(めんきょ)",
+            "translations": {
+                "EN": "driver's license",
+                "ID": "SIM",
+                "ES": "Licencia de conducir",
+                "VI": "giấy phép lái xe",
+                "FR": "le permis de conduire",
+                "NE": "चालक अनुमतिपत्र",
+                "BN": "ড্রাইভিং লাইসেন্স",
+                "ZH": "驾照",
+                "KO": "운전면허",
+                "TL": "lisensya sa pagmamaneho",
+                "MY": "ယာဥ်မောင်းလိုင်စင်",
+                "HI": "ड्राइवर का लाइसेंस",
+                "AR": "رخصة السائق",
+                "FA": "گواهینامه رانندگی"
+            }
+        },
+        {
+            "kanji": "運転手",
+            "furigana": "運転(うんてん)手(しゅ)",
+            "translations": {
+                "EN": "driver",
+                "ID": "pengemudi",
+                "ES": "conductor",
+                "VI": "tài xế",
+                "FR": "conducteur",
+                "NE": "चालक",
+                "BN": "ড্রাইভার",
+                "ZH": "司机",
+                "KO": "운전자",
+                "TL": "driver",
+                "MY": "ကားသမား",
+                "HI": "ड्राइवर",
+                "AR": "سائق",
+                "FA": "راننده"
+            }
+        },
+        {
+            "kanji": "車を運転する",
+            "furigana": "車(くるま)を運転(うんてん)する},{",
+            "translations": {
+                "EN": "Driving a car",
+                "ID": "Mengemudi mobil",
+                "ES": "Conducir un coche",
+                "VI": "Lái xe ô tô",
+                "FR": "Conduire une voiture",
+                "NE": "कार चलाउँदै",
+                "BN": "গাড়ি চালানো",
+                "ZH": "驾驶汽车",
+                "KO": "자동차 운전",
+                "TL": "Pagmamaneho ng kotse",
+                "MY": "ကားကို မောင်းတယ်။",
+                "HI": "एक कार ड्राइविंग",
+                "AR": "قيادة السيارة",
+                "FA": "رانندگی با ماشین"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は毎日車を運転します。",
+            "furigana": "私(わたし)は毎日(まいにち)車(くるま)を運転(うんてん)します。",
+            "translations": {
+                "EN": "I drive a car every day.",
+                "ID": "Saya mengendarai mobil setiap hari.",
+                "ES": "Conduzco un coche todos los días.",
+                "VI": "Tôi lái xe ô tô mỗi ngày.",
+                "FR": "Je conduis une voiture tous les jours.",
+                "NE": "म हरेक दिन गाडी चलाउँछु।",
+                "BN": "আমি প্রতিদিন গাড়ি চালাই।",
+                "ZH": "我每天都开车。",
+                "KO": "매일 차를 운전합니다.",
+                "TL": "Nagmamaneho ako ng kotse araw-araw.",
+                "MY": "ကျွန်တော် နေ့တိုင်း ကားမောင်းတယ်။",
+                "HI": "मैं हर दिन कार चलाता हूं।",
+                "AR": "أنا أقود السيارة كل يوم.",
+                "FA": "من هر روز ماشین می رانم."
+            }
+        },
+        {
+            "kanji": "今日は兄が運転します。",
+            "furigana": "今日(きょう)は兄(あに)が運転(うんてん)します。",
+            "translations": {
+                "EN": "My brother is driving today.",
+                "ID": "Kakak saya yang menyetir hari ini.",
+                "ES": "Mi hermano conduce hoy.",
+                "VI": "Hôm nay anh trai tôi lái xe.",
+                "FR": "Mon frère conduit aujourd'hui.",
+                "NE": "मेरो भाइ आज गाडी चलाउँदै छ।",
+                "BN": "আমার ভাই আজ গাড়ি চালাচ্ছে।",
+                "ZH": "今天我哥哥开车。",
+                "KO": "오늘은 형이 운전합니다.",
+                "TL": "Si kuya ang nagmamaneho ngayon.",
+                "MY": "အစ်ကို ဒီနေ့ ကားမောင်းနေတယ်။",
+                "HI": "आज मेरा भाई गाड़ी चला रहा है।",
+                "AR": "أخي يقود السيارة اليوم.",
+                "FA": "برادرم امروز رانندگی می‌کند."
+            }
+        },
+        {
+            "kanji": "ゆっくり運転してください。",
+            "furigana": "ゆっくり運転(うんてん)してください。",
+            "translations": {
+                "EN": "Please drive slowly.",
+                "ID": "Harap berkendara pelan-pelan.",
+                "ES": "Por favor, conduzca despacio.",
+                "VI": "Xin hãy lái xe chậm.",
+                "FR": "S'il vous plaît conduisez lentement.",
+                "NE": "कृपया बिस्तारै चलाउनुहोस्।",
+                "BN": "দয়া করে ধীরে গাড়ি চালান।",
+                "ZH": "请开慢点。",
+                "KO": "천천히 운전하십시오.",
+                "TL": "Mangyaring magmaneho nang dahan-dahan.",
+                "MY": "ကျေးဇူးပြုပြီး ဖြည်းဖြည်းမောင်းပါ။",
+                "HI": "कृपया धीरे चलायें.",
+                "AR": "من فضلك قد ببطء.",
+                "FA": "لطفا آهسته رانندگی کنید."
+            }
+        },
+        {
+            "kanji": "雨の日は運転がこわいです。",
+            "furigana": "雨(あめ)の 日(ひ) は 運転(うんてん) が こわいです。",
+            "translations": {
+                "EN": "I'm scared to drive on rainy days.",
+                "ID": "Saya takut mengemudi pada hari hujan.",
+                "ES": "Tengo miedo de conducir en días lluviosos.",
+                "VI": "Tôi sợ lái xe vào những ngày mưa.",
+                "FR": "J'ai peur de conduire les jours de pluie.",
+                "NE": "मलाई पानी परेको दिनमा गाडी चलाउन डर लाग्छ।",
+                "BN": "বৃষ্টির দিনে গাড়ি চালাতে আমার ভয় লাগে।",
+                "ZH": "我害怕在雨天开车。",
+                "KO": "비오는 날은 운전이 어색합니다.",
+                "TL": "Takot akong magmaneho kapag tag-ulan.",
+                "MY": "မိုးရွာတဲ့နေ့တွေမှာ ကားစီးရမှာ ကြောက်တယ်။",
+                "HI": "मुझे बरसात के दिनों में गाड़ी चलाने में डर लगता है।",
+                "AR": "أنا خائف من القيادة في الأيام الممطرة.",
+                "FA": "من از رانندگی در روزهای بارانی می‌ترسم."
+            }
+        },
+        {
+            "kanji": "彼女はバスを運転しています。",
+            "furigana": "彼女(かのじょ)はバスを運転(うんてん)しています。",
+            "translations": {
+                "EN": "She drives a bus.",
+                "ID": "Dia mengendarai bus.",
+                "ES": "Ella conduce un autobús.",
+                "VI": "Cô ấy lái xe buýt.",
+                "FR": "Elle conduit un bus.",
+                "NE": "उनी बस चलाउँछिन्।",
+                "BN": "সে বাস চালায়।",
+                "ZH": "她开公共汽车。",
+                "KO": "그녀는 버스를 운전하고 있습니다.",
+                "TL": "Siya ang nagmamaneho ng bus.",
+                "MY": "သူမသည် ဘတ်စ်ကားစီးသည်။",
+                "HI": "वह बस चलाती है.",
+                "AR": "إنها تقود الحافلة.",
+                "FA": "او (مونث) اتوبوس می‌راند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "penggerak",
+            "ES": "conduciendo",
+            "VI": "lái xe",
+            "FR": "conduite",
+            "NE": "ड्राइभिङ",
+            "BN": "ড্রাইভিং",
+            "ZH": "驾驶",
+            "KO": "운전",
+            "TL": "pagmamaneho",
+            "MY": "ကားမောင်းသည်။",
+            "HI": "ड्राइविंग",
+            "AR": "القيادة",
+            "FA": "رانندگی",
+            "EN": [
+                "driving",
+                "operating",
+                "piloting"
+            ]
+        },
+        {
+            "ID": "operasi",
+            "ES": "operación",
+            "VI": "hoạt động",
+            "FR": "opération",
+            "NE": "सञ्चालन",
+            "BN": "অপারেশন",
+            "ZH": "手术",
+            "KO": "작업",
+            "TL": "operasyon",
+            "MY": "စစ်ဆင်ရေး",
+            "HI": "संचालन",
+            "AR": "عملية",
+            "FA": "عملیات",
+            "EN": [
+                "operation",
+                "running",
+                "function"
+            ]
+        },
+        {
+            "ID": "pengelolaan",
+            "ES": "gestión",
+            "VI": "sự quản lý",
+            "FR": "gestion",
+            "NE": "व्यवस्थापन",
+            "BN": "ব্যবস্থাপনা",
+            "ZH": "管理",
+            "KO": "관리",
+            "TL": "pamamahala",
+            "MY": "စီမံခန့်ခွဲမှု",
+            "HI": "प्रबंध",
+            "AR": "إدارة",
+            "FA": "مدیریت",
+            "EN": [
+                "management",
+                "circulation",
+                "turnover"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "運転",
+        "is_common": true,
+        "tags": [
+            "wanikani10"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "運転",
+                "reading": "うんてん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "operation (of a machine)",
+                    "running",
+                    "working"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "driving (a vehicle)"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "use (of capital, funds, etc.)",
+                    "management",
+                    "investment"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "運",
+        "転"
+    ],
+    "kanji_data": {
+        "運": {
+            "freq_mainichi_shinbun": 255,
+            "grade": 3,
+            "heisig_en": "carry",
+            "jlpt": 4,
+            "kanji": "運",
+            "kun_readings": [
+                "はこ.ぶ"
+            ],
+            "meanings": [
+                "advance",
+                "carry",
+                "destiny",
+                "fate",
+                "lot",
+                "luck",
+                "progress",
+                "transport"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ウン"
+            ],
+            "stroke_count": 12,
+            "unicode": "904B"
+        },
+        "転": {
+            "freq_mainichi_shinbun": 327,
+            "grade": 3,
+            "heisig_en": "revolve",
+            "jlpt": 4,
+            "kanji": "転",
+            "kun_readings": [
+                "うたた",
+                "うつ.る",
+                "くる.めく",
+                "ころ.がす",
+                "ころ.がる",
+                "ころ.げる",
+                "ころ.ぶ",
+                "まろ.ぶ"
+            ],
+            "meanings": [
+                "change",
+                "revolve",
+                "turn around"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "テン"
+            ],
+            "stroke_count": 11,
+            "unicode": "8EE2"
+        }
+    }
+}

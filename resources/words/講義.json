@@ -1,244 +1,263 @@
 {
-    "version": "0.2.0",
-    "word": "講義",
-    "jlpt_level": 4,
-    "youtube_link": "https://youtu.be/4Lw3oq0Vy7U",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "講義",
-        "reading": "こうぎ",
-        "introduction_japanese": "",
-        "introduction_english": "Today's focus is the term こうぎ, which you'll frequently encounter in academic settings and educational institutions. It captures the essence of educational exchanges and shared knowledge.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"こうぎ\" means a lecture, class, or talk given by a professor or speaker, usually at a school or university. It refers to an educational session or course where topics are explained in detail.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "lecture"
-            ]
-        ],
-        "meaning_translations": {
-            "lecture": {
-                "EN": "lecture",
-                "ID": "kuliah",
-                "ES": "conferencia",
-                "VI": "bài giảng",
-                "FR": "conférence",
-                "NE": "व्याख्यान",
-                "BN": "বক্তৃতা",
-                "ZH": "讲座",
-                "KO": "강의",
-                "TL": "lektura",
-                "MY": "စာသင်ခန်း",
-                "HI": "व्याख्यान",
-                "AR": "محاضرة",
-                "FA": "سخنرانی"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "彼は毎日講義を受けます。",
-                "furigana": "彼(かれ)は毎日(まいにち)講義(こうぎ)を受(う)けます。",
-                "translations": {
-                    "EN": "He attends lectures every day.",
-                    "ID": "Dia menghadiri kuliah setiap hari.",
-                    "ES": "Él asiste a las clases todos los días.",
-                    "VI": "Anh ấy tham dự bài giảng mỗi ngày.",
-                    "FR": "Il assiste aux cours chaque jour.",
-                    "NE": "उहाँ हरेक दिन व्याख्यानहरूमा सहभागी हुनुहुन्छ।",
-                    "BN": "তিনি প্রতিদিন লেকচার করেন।",
-                    "ZH": "他每天上课。",
-                    "KO": "그는 매일 강의를 듣습니다.",
-                    "TL": "Araw-araw siyang dumadalo sa lektura.",
-                    "MY": "သူသည်နေ့တိုင်း ဒုသမ္ဗာငိကုပ်သို အရောက်လာလော့သည်။",
-                    "HI": "वह रोज़ाना व्याख्यान में भाग लेते हैं।",
-                    "AR": "هو يحضر محاضرات كل يوم.",
-                    "FA": "او هر روز در کلاس‌ها شرکت می‌کند."
-                }
-            },
-            {
-                "kanji": "先生は講義をします。",
-                "furigana": "先生（せんせい）は講義（こうぎ）をします。",
-                "translations": {
-                    "EN": "The teacher gives a lecture.",
-                    "ID": "Guru memberikan kuliah.",
-                    "ES": "El profesor da una conferencia.",
-                    "VI": "Giáo viên giảng bài.",
-                    "FR": "Le professeur donne une conférence.",
-                    "NE": "शिक्षकले प्रवचन दिनुहुन्छ।",
-                    "BN": "শিক্ষক বক্তৃতা দেন।",
-                    "ZH": "老师讲授课程。",
-                    "KO": "선생님은 강의를 합니다.",
-                    "TL": "Ang guro ay nagbigay ng lektura.",
-                    "MY": "ဆရာက ဒပ်စီတင်ပြသည်။",
-                    "HI": "शिक्षक व्याख्यान देते हैं।",
-                    "AR": "المعلم يقدم محاضرة.",
-                    "FA": "معلم یک سخنرانی ارائه می‌دهد."
-                }
-            },
-            {
-                "kanji": "彼はいつも講義に出席します。",
-                "furigana": "彼(かれ)はいつも講義(こうぎ)に出席(しゅっせき)します。",
-                "translations": {
-                    "EN": "He always attends the lecture.",
-                    "ID": "Dia selalu menghadiri kuliah.",
-                    "ES": "Él siempre asiste a la clase.",
-                    "VI": "Anh ấy luôn tham dự bài giảng.",
-                    "FR": "Il assiste toujours à la conférence.",
-                    "NE": "उ सधैं कक्षा मा उपस्थित हुन्छ।",
-                    "BN": "তিনি সবসময় বক্তৃতায় উপস্থিত থাকেন।",
-                    "ZH": "他总是出席讲座。",
-                    "KO": "그는 항상 강의에 참석합니다.",
-                    "TL": "Palagi siyang dumadalo sa lektura.",
-                    "MY": "သူသည် အမြဲတမ်းစာသင်ခန်းမသို့တက်ရောက်တတ်သည်။",
-                    "HI": "वह हमेशा व्याख्यान में भाग लेता है।",
-                    "AR": "دائماً ما يحضر المحاضرة.",
-                    "FA": "او همیشه در کلاس شرکت می‌کند."
-                }
-            },
-            {
-                "kanji": "講義ノートをとります。",
-                "furigana": "講義(こうぎ)ノートをとります。",
-                "translations": {
-                    "EN": "Take lecture notes.",
-                    "ID": "Mencatat catatan perkuliahan.",
-                    "ES": "Tomar notas de clase.",
-                    "VI": "Ghi chép bài giảng.",
-                    "FR": "Prendre des notes de cours.",
-                    "NE": "व्याख्यान नोटहरू लिन्छु।",
-                    "BN": "বক্তব্যের নোট গ্রহণ করুন।",
-                    "ZH": "做讲义笔记。",
-                    "KO": "강의 노트를 받습니다.",
-                    "TL": "Kumuha ng mga tala para sa lecture.",
-                    "MY": "စာသင်ခန်းမှတ်စုများကိုယူပါ။",
-                    "HI": "लेक्चर नोट्स लिखते हैं।",
-                    "AR": "أخذ ملاحظات المحاضرة.",
-                    "FA": "یادداشت‌های درسی برمی‌دارم."
-                }
-            },
-            {
-                "kanji": "私は講義レポートを書く。",
-                "furigana": "私(わたし)は講義(こうぎ)レポートを書く(かく)。",
-                "translations": {
-                    "EN": "I write a lecture report.",
-                    "ID": "Saya menulis laporan kuliah.",
-                    "ES": "Escribo un informe de la clase.",
-                    "VI": "Tôi viết một báo cáo bài giảng.",
-                    "FR": "J'écris un rapport de cours.",
-                    "NE": "म व्याख्यान प्रतिवेदन लेख्छु।",
-                    "BN": "আমি একটি বক্তৃতা রিপোর্ট লিখি।",
-                    "ZH": "我写讲义报告。",
-                    "KO": "나는 강의 보고서를 쓴다.",
-                    "TL": "Nagsusulat ako ng ulat ng lektura.",
-                    "MY": "ကျွန်တော်သည် (lectures) အစီရင်ခံစာကိုရေးသည်။",
-                    "HI": "मैं व्याख्यान रिपोर्ट लिखता हूँ।",
-                    "AR": "أكتب تقرير المحاضرة.",
-                    "FA": "من گزارشی از کلاس مینویسم."
-                }
-            }
-        ],
-        "synonyms": [
-            "授業 : じゅぎょう : lesson"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"こうぎ\" is \"じゅぎょう\". While \"こうぎ\" specifically refers to a lecture or formal presentation given by a speaker, usually in higher education, \"じゅぎょう\" can mean any class or lesson, including those in school settings where students engage with the teacher interactively.",
-        "antonyms": [
-            "実践 : じっせん : practice"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"こうぎ\" is \"じっせん\". While \"こうぎ\" denotes a theoretical and instructional session, \"じっせん\" focuses on practical experience and application, often referring to hands-on work or practice to apply the knowledge taught.",
-        "kanji_details": [
-            {
-                "kanji": "講",
-                "common_words": [
-                    "講座: course",
-                    "講演: lecture"
-                ]
-            },
-            {
-                "kanji": "義",
-                "common_words": [
-                    "意義: meaning",
-                    "義務: duty"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "講義",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n4"
-        ],
-        "japanese": [
-            {
-                "word": "講義",
-                "reading": "こうぎ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "lecture"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "講",
-        "義"
-    ],
-    "kanji_data": {
-        "講": {
-            "meanings": [
-                "association",
-                "club",
-                "lecture"
-            ],
-            "on_readings": [
-                "コウ"
-            ],
-            "kun_readings": [],
-            "stroke_count": 17,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 653,
-            "unicode": "8B1B",
-            "grade": 5
-        },
-        "義": {
-            "meanings": [
-                "honor",
-                "justice",
-                "loyalty",
-                "meaning",
-                "morality",
-                "righteousness"
-            ],
-            "on_readings": [
-                "ギ"
-            ],
-            "kun_readings": [],
-            "stroke_count": 13,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 415,
-            "unicode": "7FA9",
-            "grade": 5
-        }
-    },
-    "collocations": [
-        "こうぎを受ける",
-        "こうぎをする",
-        "こうぎに出席する",
-        "こうぎノートをとる",
-        "こうぎレポートを書く"
+  "version": "0.3.0",
+  "word": "講義",
+  "jlpt_level": 4,
+  "youtube_link": "https://youtu.be/4Lw3oq0Vy7U",
+  "in_db": true,
+  "kanji": "講義",
+  "reading": "こうぎ",
+  "introduction_japanese": "",
+  "introduction_english": "Today's focus is the term こうぎ, which you'll frequently encounter in academic settings and educational institutions. It captures the essence of educational exchanges and shared knowledge.",
+  "meanings": [
+    [
+      "lecture"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"こうぎ\" means a lecture, class, or talk given by a professor or speaker, usually at a school or university. It refers to an educational session or course where topics are explained in detail.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "講",
+      "common_words": [
+        "講座: course",
+        "講演: lecture"
+      ]
+    },
+    {
+      "kanji": "義",
+      "common_words": [
+        "意義: meaning",
+        "義務: duty"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "授業 : じゅぎょう : lesson"
+  ],
+  "synonym_explanation": "The most common synonym of the word \"こうぎ\" is \"じゅぎょう\". While \"こうぎ\" specifically refers to a lecture or formal presentation given by a speaker, usually in higher education, \"じゅぎょう\" can mean any class or lesson, including those in school settings where students engage with the teacher interactively.",
+  "antonyms": [
+    "実践 : じっせん : practice"
+  ],
+  "antonym_explanation": "The most common antonym of the word \"こうぎ\" is \"じっせん\". While \"こうぎ\" denotes a theoretical and instructional session, \"じっせん\" focuses on practical experience and application, often referring to hands-on work or practice to apply the knowledge taught.",
+  "collocations": [
+    {
+      "kanji": "こうぎを受ける",
+      "furigana": "こうぎを受ける",
+      "translations": {}
+    },
+    {
+      "kanji": "こうぎをする",
+      "furigana": "こうぎをする",
+      "translations": {}
+    },
+    {
+      "kanji": "こうぎに出席する",
+      "furigana": "こうぎに出席する",
+      "translations": {}
+    },
+    {
+      "kanji": "こうぎノートをとる",
+      "furigana": "こうぎノートをとる",
+      "translations": {}
+    },
+    {
+      "kanji": "こうぎレポートを書く",
+      "furigana": "こうぎレポートを書く",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "彼は毎日講義を受けます。",
+      "furigana": "彼(かれ)は毎日(まいにち)講義(こうぎ)を受(う)けます。",
+      "translations": {
+        "EN": "He attends lectures every day.",
+        "ID": "Dia menghadiri kuliah setiap hari.",
+        "ES": "Él asiste a las clases todos los días.",
+        "VI": "Anh ấy tham dự bài giảng mỗi ngày.",
+        "FR": "Il assiste aux cours chaque jour.",
+        "NE": "उहाँ हरेक दिन व्याख्यानहरूमा सहभागी हुनुहुन्छ।",
+        "BN": "তিনি প্রতিদিন লেকচার করেন।",
+        "ZH": "他每天上课。",
+        "KO": "그는 매일 강의를 듣습니다.",
+        "TL": "Araw-araw siyang dumadalo sa lektura.",
+        "MY": "သူသည်နေ့တိုင်း ဒုသမ္ဗာငိကုပ်သို အရောက်လာလော့သည်။",
+        "HI": "वह रोज़ाना व्याख्यान में भाग लेते हैं।",
+        "AR": "هو يحضر محاضرات كل يوم.",
+        "FA": "او هر روز در کلاس‌ها شرکت می‌کند."
+      }
+    },
+    {
+      "kanji": "先生は講義をします。",
+      "furigana": "先生（せんせい）は講義（こうぎ）をします。",
+      "translations": {
+        "EN": "The teacher gives a lecture.",
+        "ID": "Guru memberikan kuliah.",
+        "ES": "El profesor da una conferencia.",
+        "VI": "Giáo viên giảng bài.",
+        "FR": "Le professeur donne une conférence.",
+        "NE": "शिक्षकले प्रवचन दिनुहुन्छ।",
+        "BN": "শিক্ষক বক্তৃতা দেন।",
+        "ZH": "老师讲授课程。",
+        "KO": "선생님은 강의를 합니다.",
+        "TL": "Ang guro ay nagbigay ng lektura.",
+        "MY": "ဆရာက ဒပ်စီတင်ပြသည်။",
+        "HI": "शिक्षक व्याख्यान देते हैं।",
+        "AR": "المعلم يقدم محاضرة.",
+        "FA": "معلم یک سخنرانی ارائه می‌دهد."
+      }
+    },
+    {
+      "kanji": "彼はいつも講義に出席します。",
+      "furigana": "彼(かれ)はいつも講義(こうぎ)に出席(しゅっせき)します。",
+      "translations": {
+        "EN": "He always attends the lecture.",
+        "ID": "Dia selalu menghadiri kuliah.",
+        "ES": "Él siempre asiste a la clase.",
+        "VI": "Anh ấy luôn tham dự bài giảng.",
+        "FR": "Il assiste toujours à la conférence.",
+        "NE": "उ सधैं कक्षा मा उपस्थित हुन्छ।",
+        "BN": "তিনি সবসময় বক্তৃতায় উপস্থিত থাকেন।",
+        "ZH": "他总是出席讲座。",
+        "KO": "그는 항상 강의에 참석합니다.",
+        "TL": "Palagi siyang dumadalo sa lektura.",
+        "MY": "သူသည် အမြဲတမ်းစာသင်ခန်းမသို့တက်ရောက်တတ်သည်။",
+        "HI": "वह हमेशा व्याख्यान में भाग लेता है।",
+        "AR": "دائماً ما يحضر المحاضرة.",
+        "FA": "او همیشه در کلاس شرکت می‌کند."
+      }
+    },
+    {
+      "kanji": "講義ノートをとります。",
+      "furigana": "講義(こうぎ)ノートをとります。",
+      "translations": {
+        "EN": "Take lecture notes.",
+        "ID": "Mencatat catatan perkuliahan.",
+        "ES": "Tomar notas de clase.",
+        "VI": "Ghi chép bài giảng.",
+        "FR": "Prendre des notes de cours.",
+        "NE": "व्याख्यान नोटहरू लिन्छु।",
+        "BN": "বক্তব্যের নোট গ্রহণ করুন।",
+        "ZH": "做讲义笔记。",
+        "KO": "강의 노트를 받습니다.",
+        "TL": "Kumuha ng mga tala para sa lecture.",
+        "MY": "စာသင်ခန်းမှတ်စုများကိုယူပါ။",
+        "HI": "लेक्चर नोट्स लिखते हैं।",
+        "AR": "أخذ ملاحظات المحاضرة.",
+        "FA": "یادداشت‌های درسی برمی‌دارم."
+      }
+    },
+    {
+      "kanji": "私は講義レポートを書く。",
+      "furigana": "私(わたし)は講義(こうぎ)レポートを書く(かく)。",
+      "translations": {
+        "EN": "I write a lecture report.",
+        "ID": "Saya menulis laporan kuliah.",
+        "ES": "Escribo un informe de la clase.",
+        "VI": "Tôi viết một báo cáo bài giảng.",
+        "FR": "J'écris un rapport de cours.",
+        "NE": "म व्याख्यान प्रतिवेदन लेख्छु।",
+        "BN": "আমি একটি বক্তৃতা রিপোর্ট লিখি।",
+        "ZH": "我写讲义报告。",
+        "KO": "나는 강의 보고서를 쓴다.",
+        "TL": "Nagsusulat ako ng ulat ng lektura.",
+        "MY": "ကျွန်တော်သည် (lectures) အစီရင်ခံစာကိုရေးသည်။",
+        "HI": "मैं व्याख्यान रिपोर्ट लिखता हूँ।",
+        "AR": "أكتب تقرير المحاضرة.",
+        "FA": "من گزارشی از کلاس مینویسم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "lecture": {
+      "EN": "lecture",
+      "ID": "kuliah",
+      "ES": "conferencia",
+      "VI": "bài giảng",
+      "FR": "conférence",
+      "NE": "व्याख्यान",
+      "BN": "বক্তৃতা",
+      "ZH": "讲座",
+      "KO": "강의",
+      "TL": "lektura",
+      "MY": "စာသင်ခန်း",
+      "HI": "व्याख्यान",
+      "AR": "محاضرة",
+      "FA": "سخنرانی"
+    }
+  },
+  "jisho_data": {
+    "slug": "講義",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n4"
+    ],
+    "japanese": [
+      {
+        "word": "講義",
+        "reading": "こうぎ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "lecture"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "講",
+    "義"
+  ],
+  "kanji_data": {
+    "講": {
+      "meanings": [
+        "association",
+        "club",
+        "lecture"
+      ],
+      "on_readings": [
+        "コウ"
+      ],
+      "kun_readings": [],
+      "stroke_count": 17,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 653,
+      "unicode": "8B1B",
+      "grade": 5
+    },
+    "義": {
+      "meanings": [
+        "honor",
+        "justice",
+        "loyalty",
+        "meaning",
+        "morality",
+        "righteousness"
+      ],
+      "on_readings": [
+        "ギ"
+      ],
+      "kun_readings": [],
+      "stroke_count": 13,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 415,
+      "unicode": "7FA9",
+      "grade": 5
+    }
+  }
 }

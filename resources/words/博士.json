@@ -1,324 +1,343 @@
 {
-    "version": "0.2.0",
-    "word": "博士",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/0FoDtOVh0sA",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "博士",
-        "reading": "はかせ",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is はかせ, which you will often hear in academic, scholarly, and educational contexts. For example, a \"はかせ\" might be called upon to share their expertise during a university lecture or to present findings at a research conference.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word はかせ means \"a doctor or doctorate holder,\" typically referring to someone who has achieved the highest level of education in a specific field. It emphasizes academic and scholarly expertise. ",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "expert",
-                "learned person"
-            ],
-            [
-                "doctor",
-                "PhD",
-                "Dr."
-            ],
-            [
-                "pitch and length marks"
-            ]
-        ],
-        "meaning_translations": {
-            "expert": {
-                "EN": "Doctor : Expert",
-                "ID": "Doktor : Ahli",
-                "ES": "Doctor : Experto",
-                "VI": "Tiến sĩ : Chuyên gia",
-                "FR": "Docteur : Expert",
-                "NE": "डाक्टर : विशेषज्ञ",
-                "BN": "ডাক্তার : বিশেষজ্ঞ",
-                "ZH": "博士 : 专家",
-                "KO": "박사 : 전문가",
-                "TL": "Doktor : Dalubhasa",
-                "MY": "ဒေါက်တာ: ကျွမ်းကျင်သူ",
-                "HI": "डॉक्टर : विशेषज्ञ",
-                "AR": "دكتور : خبير",
-                "FA": "دکتر : متخصص"
-            },
-            "doctor": {
-                "EN": "doctor",
-                "ID": "dokter",
-                "ES": "doctor",
-                "VI": "bác sĩ",
-                "FR": "docteur",
-                "NE": "डाक्टर",
-                "BN": "ডাক্তার",
-                "ZH": "医生",
-                "KO": "의사",
-                "TL": "doktor",
-                "MY": "ဆရာဝန်",
-                "HI": "डॉक्टर",
-                "AR": "طبيب",
-                "FA": "دکتر"
-            },
-            "pitch and length marks": {
-                "EN": "Doctor: pitch and length marks",
-                "ID": "Doktor: tanda nada dan panjang",
-                "ES": "Doctor: marcas de tono y longitud",
-                "VI": "Giáo sư: dấu hiệu cao độ và độ dài",
-                "FR": "Docteur : marques de hauteur et de longueur",
-                "NE": "डाक्टर: पिच र लम्बाइका चिन्हहरू",
-                "BN": "ডাক্তার: পিচ এবং দৈর্ঘ্যের চিহ্নগুলি",
-                "ZH": "博士：音调和长度标记",
-                "KO": "박사: 음 높이 및 길이 표시",
-                "TL": "Doktor: pitch at haba na marka",
-                "MY": "ဆရာဝန်: ရွယ်ချိန်နှင့် အရှည်မှတ်ကြားချက်များ",
-                "HI": "डॉक्टर: पिच और लंबाई के चिह्न",
-                "AR": "الدكتور: علامات النغمة والطول",
-                "FA": "دکتر: علامت‌های تن و طول"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "博士の学者です。",
-                "furigana": "博士(はかせ)の学者(がくしゃ)です。",
-                "translations": {
-                    "EN": "I am a scholar with a doctorate.",
-                    "ID": "Saya adalah seorang sarjana dengan gelar doktor.",
-                    "ES": "Soy un erudito con un doctorado.",
-                    "VI": "Tôi là một học giả có học vị tiến sĩ.",
-                    "FR": "Je suis un érudit avec un doctorat.",
-                    "NE": "म डिग्री प्राप्त विद्वान हुँ।",
-                    "BN": "আমি একজন পণ্ডিত, যার ডক্টরেট ডিগ্রি আছে।",
-                    "ZH": "我是拥有博士学位的学者。",
-                    "KO": "나는 박사 학위를 가진 학자입니다.",
-                    "TL": "Isa akong iskolar na may doktorado.",
-                    "MY": "ကျွန်တော်က ဒေါက်တာဘွဲ့ရ ပညာရှင်တစ်ယောက်ပါ။",
-                    "HI": "मैं एक विद्वान हूँ जो डॉक्टरेट की डिग्री रखता हूँ।",
-                    "AR": "أنا عالم حامل للدرجة العلمية.",
-                    "FA": "من یک دانشمند با مدرک دکترا هستم."
-                }
-            },
-            {
-                "kanji": "田中さんは博士号をとりました。",
-                "furigana": "田中(たなか)さんは博士号(はかせごう)をとりました。",
-                "translations": {
-                    "EN": "Mr. Tanaka received his doctorate.",
-                    "ID": "Bapak Tanaka mendapatkan gelar doktornya.",
-                    "ES": "El Sr. Tanaka recibió su doctorado.",
-                    "VI": "Ông Tanaka đã nhận bằng tiến sĩ.",
-                    "FR": "M. Tanaka a reçu son doctorat.",
-                    "NE": "तपाईंको डाक्टरेट दिए।",
-                    "BN": "মিঃ তানাকা তার পিএইচডি ডিগ্রী লাভ করেছেন।",
-                    "ZH": "田中先生获得了博士学位。",
-                    "KO": "타나카 씨는 박사 학위를 받았습니다.",
-                    "TL": "Nakuha ni G. Tanaka ang doctorate niya.",
-                    "MY": "ခင်ဗျာ.တာနာကာသည် သူ၏ ဘွဲ့ရပြီ။",
-                    "HI": "मिस्टर तनाका ने अपनी डॉक्टरेट पूरी की।",
-                    "AR": "حصل السيد تاناكا على شهادة الدكتوراه.",
-                    "FA": "آقای تاناکا دکترای خود را دریافت کرد."
-                }
-            },
-            {
-                "kanji": "博士館へ行きましょう。",
-                "furigana": "博士(はかせ)館(かん)へ行(い)きましょう。",
-                "translations": {
-                    "EN": "Let's go to the Doctor's House.",
-                    "ID": "Mari pergi ke Rumah Dokter.",
-                    "ES": "Vamos a la casa del doctor.",
-                    "VI": "Hãy đi đến Nhà của Bác sĩ.",
-                    "FR": "Allons à la maison du docteur.",
-                    "NE": "डाक्टरको घर जाऊँ।",
-                    "BN": "ডাক্তারের বাড়ি চলুন।",
-                    "ZH": "去博士馆吧。",
-                    "KO": "박사관에 갑시다.",
-                    "TL": "Pumunta tayo sa Bahay ng Doktor.",
-                    "MY": "ဆရာဝန်၏ အိမ်သို့ သွားကြစို့။",
-                    "HI": "चलो डॉक्टर के घर चलें।",
-                    "AR": "لنذهب إلى بيت الدكتور.",
-                    "FA": "بیا به خانه دکتر برویم."
-                }
-            },
-            {
-                "kanji": "博士は論文を書きます。",
-                "furigana": "博士(はかせ)は論文(ろんぶん)を書(か)きます。",
-                "translations": {
-                    "EN": "The doctor writes a thesis.",
-                    "ID": "Doktor menulis tesis.",
-                    "ES": "El doctor escribe una tesis.",
-                    "VI": "Tiến sĩ viết luận văn.",
-                    "FR": "Le docteur écrit une thèse.",
-                    "NE": "डाक्टरले शोधपत्र लेख्छन्।",
-                    "BN": "ডাক্তার একটি থিসিস লিখেন।",
-                    "ZH": "博士写论文。",
-                    "KO": "박사는 논문을 씁니다.",
-                    "TL": "Ang doktor ay nagsusulat ng tesis.",
-                    "MY": "ဒါက်တာသည် နိဒါန်းရေးသားနေသည်။",
-                    "HI": "डॉक्टर एक शोध प्रबंध लिखते हैं।",
-                    "AR": "الدكتور يكتب أطروحة.",
-                    "FA": "دکتر پایان‌نامه می‌نویسد."
-                }
-            },
-            {
-                "kanji": "私は大学で博士生活をしています。",
-                "furigana": "私(わたし)は大学(だいがく)で博士生活(はかせせいかつ)をしています。",
-                "translations": {
-                    "EN": "I am living a life as a PhD student at the university.",
-                    "ID": "Saya menjalani kehidupan sebagai mahasiswa doktor di universitas.",
-                    "ES": "Estoy viviendo una vida como estudiante de doctorado en la universidad.",
-                    "VI": "Tôi đang sống như một nghiên cứu sinh tiến sĩ tại trường đại học.",
-                    "FR": "Je mène une vie de doctorant à l'université.",
-                    "NE": "म विश्वविद्यालयमा पीएचडी विद्यार्थीको रूपमा बाँचिरहेको छु।",
-                    "BN": "আমি বিশ্ববিদ্যালয়ে পিএইচডি ছাত্র হিসেবে জীবন যাপন করছি।",
-                    "ZH": "我在大学过着博士生活。",
-                    "KO": "저는 대학교에서 박사 생활을 하고 있습니다.",
-                    "TL": "Nabubuhay ako bilang isang estudyanteng PhD sa unibersidad.",
-                    "MY": "ကျွန်တော်က တက္ကသိုလ်မှာ ဒေါက်တာဘဝနေထိုင်ပါတယ်။",
-                    "HI": "मैं विश्वविद्यालय में पीएचडी का छात्र हूँ।",
-                    "AR": "أنا أعيش حياة طالب دكتوراه في الجامعة.",
-                    "FA": "من به عنوان دانشجوی دکترا در دانشگاه زندگی می‌کنم."
-                }
-            }
-        ],
-        "synonyms": [
-            "教授 : きょうじゅ : professor",
-            "専門家 : せんもんか : specialist"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word はかせ are \"きょうじゅ\" and \"せんもんか.\" \"きょうじゅ\" refers to a professor, typically someone who teaches at a university level, and \"せんもんか\" denotes a specialist or expert in a particular area, rather than holding an academic title. Both differ from はかせ based on the specific roles they fulfill outside the realm of completing a doctorate degree.",
-        "antonyms": [
-            "初心者 : しょしんしゃ : beginner"
-        ],
-        "antonyms_explanation": "The most common antonym of the word はかせ is \"しょしんしゃ,\" which means \"beginner.\" While はかせ connotes a high level of expertise and academic accomplishment, \"しょしんしゃ\" refers to someone just starting out or learning something new, reflecting a basic or foundational level of knowledge.",
-        "kanji_details": [
-            {
-                "kanji": "博",
-                "common_words": [
-                    "博物館: museum",
-                    "博学: erudition"
-                ]
-            },
-            {
-                "kanji": "士",
-                "common_words": [
-                    "武士: samurai",
-                    "弁護士: lawyer"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "博士",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "博士",
-                "reading": "はかせ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "expert",
-                    "learned person"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "doctor",
-                    "PhD",
-                    "Dr."
-                ],
-                "parts_of_speech": [
-                    "Noun, Noun, used as a suffix"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "pitch and length marks"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "博",
-        "士"
+  "version": "0.3.0",
+  "word": "博士",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/0FoDtOVh0sA",
+  "in_db": true,
+  "kanji": "博士",
+  "reading": "はかせ",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is はかせ, which you will often hear in academic, scholarly, and educational contexts. For example, a \"はかせ\" might be called upon to share their expertise during a university lecture or to present findings at a research conference.",
+  "meanings": [
+    [
+      "expert",
+      "learned person"
     ],
-    "kanji_data": {
-        "博": {
-            "meanings": [
-                "Dr.",
-                "Ph.D.",
-                "command",
-                "esteem",
-                "exposition",
-                "fair",
-                "win acclaim"
-            ],
-            "on_readings": [
-                "ハク",
-                "バク"
-            ],
-            "kun_readings": [],
-            "stroke_count": 12,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 794,
-            "unicode": "535A",
-            "grade": 4
-        },
-        "士": {
-            "meanings": [
-                "gentleman",
-                "samurai",
-                "samurai radical (no. 33)",
-                "scholar"
-            ],
-            "on_readings": [
-                "シ"
-            ],
-            "kun_readings": [
-                "さむらい"
-            ],
-            "stroke_count": 3,
-            "jlpt": 1,
-            "freq_mainichi_shinbun": 526,
-            "unicode": "58EB",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "はかせのがくしゃ",
-        "はかせごう",
-        "はかせかん",
-        "はかせろんぶん",
-        "はかせせいかつ"
+    [
+      "doctor",
+      "PhD",
+      "Dr."
+    ],
+    [
+      "pitch and length marks"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word はかせ means \"a doctor or doctorate holder,\" typically referring to someone who has achieved the highest level of education in a specific field. It emphasizes academic and scholarly expertise. ",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "博",
+      "common_words": [
+        "博物館: museum",
+        "博学: erudition"
+      ]
+    },
+    {
+      "kanji": "士",
+      "common_words": [
+        "武士: samurai",
+        "弁護士: lawyer"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "教授 : きょうじゅ : professor",
+    "専門家 : せんもんか : specialist"
+  ],
+  "synonym_explanation": "The most common synonyms of the word はかせ are \"きょうじゅ\" and \"せんもんか.\" \"きょうじゅ\" refers to a professor, typically someone who teaches at a university level, and \"せんもんか\" denotes a specialist or expert in a particular area, rather than holding an academic title. Both differ from はかせ based on the specific roles they fulfill outside the realm of completing a doctorate degree.",
+  "antonyms": [
+    "初心者 : しょしんしゃ : beginner"
+  ],
+  "antonym_explanation": "The most common antonym of the word はかせ is \"しょしんしゃ,\" which means \"beginner.\" While はかせ connotes a high level of expertise and academic accomplishment, \"しょしんしゃ\" refers to someone just starting out or learning something new, reflecting a basic or foundational level of knowledge.",
+  "collocations": [
+    {
+      "kanji": "はかせのがくしゃ",
+      "furigana": "はかせのがくしゃ",
+      "translations": {}
+    },
+    {
+      "kanji": "はかせごう",
+      "furigana": "はかせごう",
+      "translations": {}
+    },
+    {
+      "kanji": "はかせかん",
+      "furigana": "はかせかん",
+      "translations": {}
+    },
+    {
+      "kanji": "はかせろんぶん",
+      "furigana": "はかせろんぶん",
+      "translations": {}
+    },
+    {
+      "kanji": "はかせせいかつ",
+      "furigana": "はかせせいかつ",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "博士の学者です。",
+      "furigana": "博士(はかせ)の学者(がくしゃ)です。",
+      "translations": {
+        "EN": "I am a scholar with a doctorate.",
+        "ID": "Saya adalah seorang sarjana dengan gelar doktor.",
+        "ES": "Soy un erudito con un doctorado.",
+        "VI": "Tôi là một học giả có học vị tiến sĩ.",
+        "FR": "Je suis un érudit avec un doctorat.",
+        "NE": "म डिग्री प्राप्त विद्वान हुँ।",
+        "BN": "আমি একজন পণ্ডিত, যার ডক্টরেট ডিগ্রি আছে।",
+        "ZH": "我是拥有博士学位的学者。",
+        "KO": "나는 박사 학위를 가진 학자입니다.",
+        "TL": "Isa akong iskolar na may doktorado.",
+        "MY": "ကျွန်တော်က ဒေါက်တာဘွဲ့ရ ပညာရှင်တစ်ယောက်ပါ။",
+        "HI": "मैं एक विद्वान हूँ जो डॉक्टरेट की डिग्री रखता हूँ।",
+        "AR": "أنا عالم حامل للدرجة العلمية.",
+        "FA": "من یک دانشمند با مدرک دکترا هستم."
+      }
+    },
+    {
+      "kanji": "田中さんは博士号をとりました。",
+      "furigana": "田中(たなか)さんは博士号(はかせごう)をとりました。",
+      "translations": {
+        "EN": "Mr. Tanaka received his doctorate.",
+        "ID": "Bapak Tanaka mendapatkan gelar doktornya.",
+        "ES": "El Sr. Tanaka recibió su doctorado.",
+        "VI": "Ông Tanaka đã nhận bằng tiến sĩ.",
+        "FR": "M. Tanaka a reçu son doctorat.",
+        "NE": "तपाईंको डाक्टरेट दिए।",
+        "BN": "মিঃ তানাকা তার পিএইচডি ডিগ্রী লাভ করেছেন।",
+        "ZH": "田中先生获得了博士学位。",
+        "KO": "타나카 씨는 박사 학위를 받았습니다.",
+        "TL": "Nakuha ni G. Tanaka ang doctorate niya.",
+        "MY": "ခင်ဗျာ.တာနာကာသည် သူ၏ ဘွဲ့ရပြီ။",
+        "HI": "मिस्टर तनाका ने अपनी डॉक्टरेट पूरी की।",
+        "AR": "حصل السيد تاناكا على شهادة الدكتوراه.",
+        "FA": "آقای تاناکا دکترای خود را دریافت کرد."
+      }
+    },
+    {
+      "kanji": "博士館へ行きましょう。",
+      "furigana": "博士(はかせ)館(かん)へ行(い)きましょう。",
+      "translations": {
+        "EN": "Let's go to the Doctor's House.",
+        "ID": "Mari pergi ke Rumah Dokter.",
+        "ES": "Vamos a la casa del doctor.",
+        "VI": "Hãy đi đến Nhà của Bác sĩ.",
+        "FR": "Allons à la maison du docteur.",
+        "NE": "डाक्टरको घर जाऊँ।",
+        "BN": "ডাক্তারের বাড়ি চলুন।",
+        "ZH": "去博士馆吧。",
+        "KO": "박사관에 갑시다.",
+        "TL": "Pumunta tayo sa Bahay ng Doktor.",
+        "MY": "ဆရာဝန်၏ အိမ်သို့ သွားကြစို့။",
+        "HI": "चलो डॉक्टर के घर चलें।",
+        "AR": "لنذهب إلى بيت الدكتور.",
+        "FA": "بیا به خانه دکتر برویم."
+      }
+    },
+    {
+      "kanji": "博士は論文を書きます。",
+      "furigana": "博士(はかせ)は論文(ろんぶん)を書(か)きます。",
+      "translations": {
+        "EN": "The doctor writes a thesis.",
+        "ID": "Doktor menulis tesis.",
+        "ES": "El doctor escribe una tesis.",
+        "VI": "Tiến sĩ viết luận văn.",
+        "FR": "Le docteur écrit une thèse.",
+        "NE": "डाक्टरले शोधपत्र लेख्छन्।",
+        "BN": "ডাক্তার একটি থিসিস লিখেন।",
+        "ZH": "博士写论文。",
+        "KO": "박사는 논문을 씁니다.",
+        "TL": "Ang doktor ay nagsusulat ng tesis.",
+        "MY": "ဒါက်တာသည် နိဒါန်းရေးသားနေသည်။",
+        "HI": "डॉक्टर एक शोध प्रबंध लिखते हैं।",
+        "AR": "الدكتور يكتب أطروحة.",
+        "FA": "دکتر پایان‌نامه می‌نویسد."
+      }
+    },
+    {
+      "kanji": "私は大学で博士生活をしています。",
+      "furigana": "私(わたし)は大学(だいがく)で博士生活(はかせせいかつ)をしています。",
+      "translations": {
+        "EN": "I am living a life as a PhD student at the university.",
+        "ID": "Saya menjalani kehidupan sebagai mahasiswa doktor di universitas.",
+        "ES": "Estoy viviendo una vida como estudiante de doctorado en la universidad.",
+        "VI": "Tôi đang sống như một nghiên cứu sinh tiến sĩ tại trường đại học.",
+        "FR": "Je mène une vie de doctorant à l'université.",
+        "NE": "म विश्वविद्यालयमा पीएचडी विद्यार्थीको रूपमा बाँचिरहेको छु।",
+        "BN": "আমি বিশ্ববিদ্যালয়ে পিএইচডি ছাত্র হিসেবে জীবন যাপন করছি।",
+        "ZH": "我在大学过着博士生活。",
+        "KO": "저는 대학교에서 박사 생활을 하고 있습니다.",
+        "TL": "Nabubuhay ako bilang isang estudyanteng PhD sa unibersidad.",
+        "MY": "ကျွန်တော်က တက္ကသိုလ်မှာ ဒေါက်တာဘဝနေထိုင်ပါတယ်။",
+        "HI": "मैं विश्वविद्यालय में पीएचडी का छात्र हूँ।",
+        "AR": "أنا أعيش حياة طالب دكتوراه في الجامعة.",
+        "FA": "من به عنوان دانشجوی دکترا در دانشگاه زندگی می‌کنم."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "expert": {
+      "EN": "Doctor : Expert",
+      "ID": "Doktor : Ahli",
+      "ES": "Doctor : Experto",
+      "VI": "Tiến sĩ : Chuyên gia",
+      "FR": "Docteur : Expert",
+      "NE": "डाक्टर : विशेषज्ञ",
+      "BN": "ডাক্তার : বিশেষজ্ঞ",
+      "ZH": "博士 : 专家",
+      "KO": "박사 : 전문가",
+      "TL": "Doktor : Dalubhasa",
+      "MY": "ဒေါက်တာ: ကျွမ်းကျင်သူ",
+      "HI": "डॉक्टर : विशेषज्ञ",
+      "AR": "دكتور : خبير",
+      "FA": "دکتر : متخصص"
+    },
+    "doctor": {
+      "EN": "doctor",
+      "ID": "dokter",
+      "ES": "doctor",
+      "VI": "bác sĩ",
+      "FR": "docteur",
+      "NE": "डाक्टर",
+      "BN": "ডাক্তার",
+      "ZH": "医生",
+      "KO": "의사",
+      "TL": "doktor",
+      "MY": "ဆရာဝန်",
+      "HI": "डॉक्टर",
+      "AR": "طبيب",
+      "FA": "دکتر"
+    },
+    "pitch and length marks": {
+      "EN": "Doctor: pitch and length marks",
+      "ID": "Doktor: tanda nada dan panjang",
+      "ES": "Doctor: marcas de tono y longitud",
+      "VI": "Giáo sư: dấu hiệu cao độ và độ dài",
+      "FR": "Docteur : marques de hauteur et de longueur",
+      "NE": "डाक्टर: पिच र लम्बाइका चिन्हहरू",
+      "BN": "ডাক্তার: পিচ এবং দৈর্ঘ্যের চিহ্নগুলি",
+      "ZH": "博士：音调和长度标记",
+      "KO": "박사: 음 높이 및 길이 표시",
+      "TL": "Doktor: pitch at haba na marka",
+      "MY": "ဆရာဝန်: ရွယ်ချိန်နှင့် အရှည်မှတ်ကြားချက်များ",
+      "HI": "डॉक्टर: पिच और लंबाई के चिह्न",
+      "AR": "الدكتور: علامات النغمة والطول",
+      "FA": "دکتر: علامت‌های تن و طول"
+    }
+  },
+  "jisho_data": {
+    "slug": "博士",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "博士",
+        "reading": "はかせ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "expert",
+          "learned person"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "doctor",
+          "PhD",
+          "Dr."
+        ],
+        "parts_of_speech": [
+          "Noun, Noun, used as a suffix"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "pitch and length marks"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "博",
+    "士"
+  ],
+  "kanji_data": {
+    "博": {
+      "meanings": [
+        "Dr.",
+        "Ph.D.",
+        "command",
+        "esteem",
+        "exposition",
+        "fair",
+        "win acclaim"
+      ],
+      "on_readings": [
+        "ハク",
+        "バク"
+      ],
+      "kun_readings": [],
+      "stroke_count": 12,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 794,
+      "unicode": "535A",
+      "grade": 4
+    },
+    "士": {
+      "meanings": [
+        "gentleman",
+        "samurai",
+        "samurai radical (no. 33)",
+        "scholar"
+      ],
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [
+        "さむらい"
+      ],
+      "stroke_count": 3,
+      "jlpt": 1,
+      "freq_mainichi_shinbun": 526,
+      "unicode": "58EB",
+      "grade": 4
+    }
+  }
 }

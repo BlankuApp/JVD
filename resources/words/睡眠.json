@@ -1,362 +1,485 @@
 {
-    "version": "0.2.0",
-    "word": "睡眠",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/cmzxicTsUH0",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "睡眠",
-        "reading": "すいみん",
-        "introduction_japanese": "睡眠は、健康や生活習慣の話、疲れや病気の相談、睡眠時間や睡眠の質について話すときによく使われる言葉です。夜の生活や病院、研究の話にも出てきます。",
-        "introduction_english": "The noun すいみん is commonly seen in conversations about health, daily routines, and issues related to sleeping, such as sleep duration or sleep quality.",
-        "meanings": [
-            [
-                "sleep"
-            ]
-        ],
-        "meaning_explanation_japanese": "「睡眠」は、体や脳を休めるために眠っている状態のことを指す言葉です。夜に眠ることや昼寝など、眠る行為全般について使います。",
-        "meaning_explanation_english": "The word すいみん means 'sleep'. It refers to the state of resting your body and brain, including sleeping at night or taking naps.",
-        "kanji_explanation_english": "The first kanji means drowsy or related to sleep. It appears in words like すいま and すいみんやく, where it adds the idea of sleepiness or something that affects sleep. The second kanji means sleep or sleepy. It appears in words like ねむい and ねむる, where it gives the meaning of being sleepy or the action of sleeping.",
-        "kanji_details": [
-            {
-                "kanji": "睡",
-                "meanings": [
-                    "die",
-                    "drowsy",
-                    "sleep"
-                ],
-                "on_readings": [
-                    "スイ"
-                ],
-                "kun_readings": [
-                    "ねむ.い",
-                    "ねむ.る"
-                ],
-                "common_words": [
-                    "睡魔 (すいま): drowsiness",
-                    "睡眠薬 (すいみんやく): sleeping pill"
-                ]
-            },
-            {
-                "kanji": "眠",
-                "meanings": [
-                    "die",
-                    "sleep",
-                    "sleepy"
-                ],
-                "on_readings": [
-                    "ミン"
-                ],
-                "kun_readings": [
-                    "ねむ.い",
-                    "ねむ.る"
-                ],
-                "common_words": [
-                    "眠い (ねむい): sleepy",
-                    "眠る (ねむる): to sleep"
-                ]
-            }
-        ],
-        "synonyms": [
-            "眠り : ねむり : sleep",
-            "就寝 : しゅうしん : going to bed"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word are ねむり and しゅうしん. ねむり is the everyday noun for the state of sleeping and is casual. しゅうしん refers to going to bed or the act of retiring for the night and is more formal.",
-        "antonyms": [
-            "覚醒 : かくせい : wakefulness",
-            "起床 : きしょう : getting up"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word are かくせい and きしょう. かくせい means being awake or wakefulness, the opposite state of sleep. きしょう focuses on the action of getting up or rising, the time when sleep ends.",
-        "examples": [
-            {
-                "kanji": "十分な睡眠を取る。",
-                "furigana": "十分(じゅうぶん)な睡眠(すいみん)を取(と)る。",
-                "translations": {
-                    "EN": "Get enough sleep.",
-                    "ID": "Tidur yang cukup.",
-                    "ES": "Duerma lo suficiente.",
-                    "VI": "Ngủ đủ giấc.",
-                    "FR": "Dormez suffisamment.",
-                    "NE": "पर्याप्त सुत्नुहोस्।",
-                    "BN": "পর্যাপ্ত ঘুমাও।",
-                    "ZH": "保证充足的睡眠。",
-                    "KO": "충분한 수면을 취하십시오.",
-                    "TL": "Kumuha ng sapat na tulog.",
-                    "MY": "လုံလောက်အောင် အိပ်ပါ။",
-                    "HI": "पर्याप्त नींद।",
-                    "AR": "احصل على قسط كاف من النوم.",
-                    "FA": "به اندازه کافی بخوابید."
-                }
-            },
-            {
-                "kanji": "昨夜は睡眠不足だ。",
-                "furigana": "昨夜(さくや)は睡眠不足(すいみんぶそく)だ。",
-                "translations": {
-                    "EN": "I didn't get enough sleep last night.",
-                    "ID": "Aku tidak cukup tidur tadi malam.",
-                    "ES": "No dormí lo suficiente anoche.",
-                    "VI": "Đêm qua tôi không ngủ đủ giấc.",
-                    "FR": "Je n'ai pas assez dormi la nuit dernière.",
-                    "NE": "हिजो राती मलाई पर्याप्त निद्रा लागेन।",
-                    "BN": "গত রাতে আমার যথেষ্ট ঘুম হয়নি।",
-                    "ZH": "我昨晚没睡够。",
-                    "KO": "어젯밤은 수면 부족이다.",
-                    "TL": "Kulang ang tulog ko kagabi.",
-                    "MY": "မနေ့ညက အိပ်မပျော်ဘူး။",
-                    "HI": "कल रात मुझे पर्याप्त नींद नहीं मिली।",
-                    "AR": "لم أحصل على قسط كاف من النوم الليلة الماضية.",
-                    "FA": "دیشب به اندازه کافی نخوابیدم."
-                }
-            },
-            {
-                "kanji": "睡眠時間が短い。",
-                "furigana": "睡眠時間(すいみんじかん)が短(みじか)い。",
-                "translations": {
-                    "EN": "I sleep for a short time.",
-                    "ID": "Saya tidur sebentar saja.",
-                    "ES": "Duermo un rato.",
-                    "VI": "Tôi ngủ một lúc.",
-                    "FR": "Je dors un peu.",
-                    "NE": "म छोटो समयको लागि सुत्छु।",
-                    "BN": "আমি অল্প সময়ের জন্য ঘুমাই।",
-                    "ZH": "我睡了一小会儿。",
-                    "KO": "수면 시간이 짧다.",
-                    "TL": "Nakatulog ako saglit.",
-                    "MY": "ငါ ခဏလောက် အိပ်တယ်။",
-                    "HI": "मैं थोड़े समय के लिए सोता हूं.",
-                    "AR": "أنا أنام لفترة قصيرة.",
-                    "FA": "برای مدت کوتاهی می‌خوابم."
-                }
-            },
-            {
-                "kanji": "睡眠が浅い。",
-                "furigana": "睡眠(すいみん)が浅(あさ)い。",
-                "translations": {
-                    "EN": "I have shallow sleep.",
-                    "ID": "Saya memiliki tidur yang dangkal.",
-                    "ES": "Tengo un sueño superficial.",
-                    "VI": "Tôi ngủ không sâu.",
-                    "FR": "J'ai un sommeil superficiel.",
-                    "NE": "मलाई कम निद्रा लाग्छ।",
-                    "BN": "আমার ঘুম কম।",
-                    "ZH": "我睡眠很浅。",
-                    "KO": "수면이 얕다.",
-                    "TL": "Mababaw ang tulog ko.",
-                    "MY": "ငါ တိမ်မြုပ်နေတယ်။",
-                    "HI": "मेरी नींद उथली है.",
-                    "AR": "لدي نوم ضحل.",
-                    "FA": "خوابم کم و نامنظمه."
-                }
-            },
-            {
-                "kanji": "睡眠を改善したい。",
-                "furigana": "睡眠(すいみん)を改善(かいぜん)したい。",
-                "translations": {
-                    "EN": "I want to improve my sleep.",
-                    "ID": "Aku ingin memperbaiki kualitas tidurku.",
-                    "ES": "Quiero mejorar mi sueño.",
-                    "VI": "Tôi muốn cải thiện giấc ngủ của mình.",
-                    "FR": "Je veux améliorer mon sommeil.",
-                    "NE": "म मेरो निद्रा सुधार्न चाहन्छु।",
-                    "BN": "আমি আমার ঘুমের উন্নতি করতে চাই।",
-                    "ZH": "我想改善我的睡眠。",
-                    "KO": "수면을 개선하고 싶습니다.",
-                    "TL": "Gusto kong mapabuti ang aking pagtulog.",
-                    "MY": "ငါ့ရဲ့အိပ်စက်မှုကို တိုးတက်စေချင်တယ်။",
-                    "HI": "मैं अपनी नींद में सुधार करना चाहता हूं।",
-                    "AR": "أريد تحسين نومي.",
-                    "FA": "می‌خواهم خوابم را بهبود ببخشم."
-                }
-            },
-            {
-                "kanji": "良質な睡眠を得る。",
-                "furigana": "良質(りょうしつ)な睡眠(すいみん)を得(え)る。",
-                "translations": {
-                    "EN": "Get good quality sleep.",
-                    "ID": "Dapatkan tidur berkualitas baik.",
-                    "ES": "Obtenga un sueño de buena calidad.",
-                    "VI": "Có giấc ngủ chất lượng.",
-                    "FR": "Ayez un sommeil de qualité.",
-                    "NE": "राम्रो गुणस्तरको निद्रा लिनुहोस्।",
-                    "BN": "ভালো মানের ঘুম পান।",
-                    "ZH": "获得高质量的睡眠。",
-                    "KO": "좋은 품질의 수면을 얻으십시오.",
-                    "TL": "Kumuha ng magandang kalidad ng pagtulog.",
-                    "MY": "အရည်အသွေးကောင်း အိပ်စက်ပါ။",
-                    "HI": "अच्छी गुणवत्ता वाली नींद लें.",
-                    "AR": "احصل على نوم جيد.",
-                    "FA": "خواب با کیفیتی داشته باشید."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "sleep": {
-                "ID": "tidur",
-                "ES": "dormir",
-                "VI": "ngủ",
-                "FR": "dormir",
-                "NE": "निद्रा",
-                "BN": "ঘুম",
-                "ZH": "睡觉",
-                "KO": "잠",
-                "TL": "matulog",
-                "MY": "အိပ်ပါ။",
-                "HI": "नींद",
-                "AR": "ينام",
-                "FA": "خواب",
-                "EN": []
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "睡眠",
-        "is_common": true,
-        "tags": [
-            "wanikani27"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "睡眠",
-                "reading": "すいみん"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "sleep"
-                ],
-                "parts_of_speech": [
-                    "Noun",
-                    "Noun which may take the genitive case particle 'no'"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Sleep"
-                ],
-                "parts_of_speech": [
-                    "Wikipedia definition"
-                ],
-                "links": [
-                    {
-                        "text": "Read “Sleep” on English Wikipedia",
-                        "url": "http://en.wikipedia.org/wiki/Sleep?oldid=494172096"
-                    },
-                    {
-                        "text": "Read “睡眠” on Japanese Wikipedia",
-                        "url": "http://ja.wikipedia.org/wiki/睡眠?oldid=42774874"
-                    }
-                ],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [],
-                "sentences": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": "http://dbpedia.org/resource/Sleep"
-        }
-    },
-    "kanji_list": [
-        "睡",
-        "眠"
-    ],
-    "kanji_data": {
-        "睡": {
-            "freq_mainichi_shinbun": 1739,
-            "grade": 8,
-            "heisig_en": "drowsy",
-            "jlpt": 1,
-            "kanji": "睡",
-            "kun_readings": [
-                "ねむ.い",
-                "ねむ.る"
-            ],
-            "meanings": [
-                "die",
-                "drowsy",
-                "sleep"
-            ],
-            "name_readings": [],
-            "notes": [],
-            "on_readings": [
-                "スイ"
-            ],
-            "stroke_count": 13,
-            "unicode": "7761"
-        },
-        "眠": {
-            "freq_mainichi_shinbun": 1315,
-            "grade": 8,
-            "heisig_en": "sleep",
-            "jlpt": 3,
-            "kanji": "眠",
-            "kun_readings": [
-                "ねむ.い",
-                "ねむ.る"
-            ],
-            "meanings": [
-                "die",
-                "sleep",
-                "sleepy"
-            ],
-            "name_readings": [
-                "ね"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ミン"
-            ],
-            "stroke_count": 10,
-            "unicode": "7720"
-        }
-    },
-    "collocations": [
-        "睡眠を取る",
-        "睡眠をとる",
-        "睡眠をとるようにする",
-        "睡眠を確保する",
-        "睡眠を妨げる",
-        "睡眠を改善する",
-        "睡眠が浅い",
-        "睡眠が深い",
-        "睡眠が乱れる",
-        "睡眠が足りない",
-        "十分な睡眠を取る",
-        "適切な睡眠を確保する",
-        "良質な睡眠をとる",
-        "長時間の睡眠をとる",
-        "十分な睡眠が取れていない",
-        "質の高い睡眠を得る",
-        "睡眠時間",
-        "睡眠不足",
-        "睡眠障害",
-        "睡眠状態",
-        "睡眠習慣",
-        "良質な睡眠",
-        "深い睡眠",
-        "快適な睡眠",
-        "十分な睡眠",
-        "睡眠不足の",
-        "睡眠が妨げられる",
-        "睡眠が妨害される",
-        "睡眠の質が低下する",
-        "睡眠の質を高める",
-        "睡眠のサイクルを整える"
+  "version": "0.3.0",
+  "word": "睡眠",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/cmzxicTsUH0",
+  "in_db": true,
+  "kanji": "睡眠",
+  "reading": "すいみん",
+  "introduction_japanese": "睡眠は、健康や生活習慣の話、疲れや病気の相談、睡眠時間や睡眠の質について話すときによく使われる言葉です。夜の生活や病院、研究の話にも出てきます。",
+  "introduction_english": "The noun すいみん is commonly seen in conversations about health, daily routines, and issues related to sleeping, such as sleep duration or sleep quality.",
+  "meanings": [
+    [
+      "sleep"
     ]
+  ],
+  "meaning_explanation_japanese": "「睡眠」は、体や脳を休めるために眠っている状態のことを指す言葉です。夜に眠ることや昼寝など、眠る行為全般について使います。",
+  "meaning_explanation_english": "The word すいみん means 'sleep'. It refers to the state of resting your body and brain, including sleeping at night or taking naps.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "睡",
+      "meanings": [
+        "die",
+        "drowsy",
+        "sleep"
+      ],
+      "on_readings": [
+        "スイ"
+      ],
+      "kun_readings": [
+        "ねむ.い",
+        "ねむ.る"
+      ],
+      "common_words": [
+        "睡魔 (すいま): drowsiness",
+        "睡眠薬 (すいみんやく): sleeping pill"
+      ]
+    },
+    {
+      "kanji": "眠",
+      "meanings": [
+        "die",
+        "sleep",
+        "sleepy"
+      ],
+      "on_readings": [
+        "ミン"
+      ],
+      "kun_readings": [
+        "ねむ.い",
+        "ねむ.る"
+      ],
+      "common_words": [
+        "眠い (ねむい): sleepy",
+        "眠る (ねむる): to sleep"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means drowsy or related to sleep. It appears in words like すいま and すいみんやく, where it adds the idea of sleepiness or something that affects sleep. The second kanji means sleep or sleepy. It appears in words like ねむい and ねむる, where it gives the meaning of being sleepy or the action of sleeping.",
+  "synonyms": [
+    "眠り : ねむり : sleep",
+    "就寝 : しゅうしん : going to bed"
+  ],
+  "synonym_explanation": "The most common synonyms of the word are ねむり and しゅうしん. ねむり is the everyday noun for the state of sleeping and is casual. しゅうしん refers to going to bed or the act of retiring for the night and is more formal.",
+  "antonyms": [
+    "覚醒 : かくせい : wakefulness",
+    "起床 : きしょう : getting up"
+  ],
+  "antonym_explanation": "The most common antonyms of the word are かくせい and きしょう. かくせい means being awake or wakefulness, the opposite state of sleep. きしょう focuses on the action of getting up or rising, the time when sleep ends.",
+  "collocations": [
+    {
+      "kanji": "睡眠を取る",
+      "furigana": "睡眠を取る",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠をとる",
+      "furigana": "睡眠をとる",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠をとるようにする",
+      "furigana": "睡眠をとるようにする",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠を確保する",
+      "furigana": "睡眠を確保する",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠を妨げる",
+      "furigana": "睡眠を妨げる",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠を改善する",
+      "furigana": "睡眠を改善する",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠が浅い",
+      "furigana": "睡眠が浅い",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠が深い",
+      "furigana": "睡眠が深い",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠が乱れる",
+      "furigana": "睡眠が乱れる",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠が足りない",
+      "furigana": "睡眠が足りない",
+      "translations": {}
+    },
+    {
+      "kanji": "十分な睡眠を取る",
+      "furigana": "十分な睡眠を取る",
+      "translations": {}
+    },
+    {
+      "kanji": "適切な睡眠を確保する",
+      "furigana": "適切な睡眠を確保する",
+      "translations": {}
+    },
+    {
+      "kanji": "良質な睡眠をとる",
+      "furigana": "良質な睡眠をとる",
+      "translations": {}
+    },
+    {
+      "kanji": "長時間の睡眠をとる",
+      "furigana": "長時間の睡眠をとる",
+      "translations": {}
+    },
+    {
+      "kanji": "十分な睡眠が取れていない",
+      "furigana": "十分な睡眠が取れていない",
+      "translations": {}
+    },
+    {
+      "kanji": "質の高い睡眠を得る",
+      "furigana": "質の高い睡眠を得る",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠時間",
+      "furigana": "睡眠時間",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠不足",
+      "furigana": "睡眠不足",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠障害",
+      "furigana": "睡眠障害",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠状態",
+      "furigana": "睡眠状態",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠習慣",
+      "furigana": "睡眠習慣",
+      "translations": {}
+    },
+    {
+      "kanji": "良質な睡眠",
+      "furigana": "良質な睡眠",
+      "translations": {}
+    },
+    {
+      "kanji": "深い睡眠",
+      "furigana": "深い睡眠",
+      "translations": {}
+    },
+    {
+      "kanji": "快適な睡眠",
+      "furigana": "快適な睡眠",
+      "translations": {}
+    },
+    {
+      "kanji": "十分な睡眠",
+      "furigana": "十分な睡眠",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠不足の",
+      "furigana": "睡眠不足の",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠が妨げられる",
+      "furigana": "睡眠が妨げられる",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠が妨害される",
+      "furigana": "睡眠が妨害される",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠の質が低下する",
+      "furigana": "睡眠の質が低下する",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠の質を高める",
+      "furigana": "睡眠の質を高める",
+      "translations": {}
+    },
+    {
+      "kanji": "睡眠のサイクルを整える",
+      "furigana": "睡眠のサイクルを整える",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "十分な睡眠を取る。",
+      "furigana": "十分(じゅうぶん)な睡眠(すいみん)を取(と)る。",
+      "translations": {
+        "EN": "Get enough sleep.",
+        "ID": "Tidur yang cukup.",
+        "ES": "Duerma lo suficiente.",
+        "VI": "Ngủ đủ giấc.",
+        "FR": "Dormez suffisamment.",
+        "NE": "पर्याप्त सुत्नुहोस्।",
+        "BN": "পর্যাপ্ত ঘুমাও।",
+        "ZH": "保证充足的睡眠。",
+        "KO": "충분한 수면을 취하십시오.",
+        "TL": "Kumuha ng sapat na tulog.",
+        "MY": "လုံလောက်အောင် အိပ်ပါ။",
+        "HI": "पर्याप्त नींद।",
+        "AR": "احصل على قسط كاف من النوم.",
+        "FA": "به اندازه کافی بخوابید."
+      }
+    },
+    {
+      "kanji": "昨夜は睡眠不足だ。",
+      "furigana": "昨夜(さくや)は睡眠不足(すいみんぶそく)だ。",
+      "translations": {
+        "EN": "I didn't get enough sleep last night.",
+        "ID": "Aku tidak cukup tidur tadi malam.",
+        "ES": "No dormí lo suficiente anoche.",
+        "VI": "Đêm qua tôi không ngủ đủ giấc.",
+        "FR": "Je n'ai pas assez dormi la nuit dernière.",
+        "NE": "हिजो राती मलाई पर्याप्त निद्रा लागेन।",
+        "BN": "গত রাতে আমার যথেষ্ট ঘুম হয়নি।",
+        "ZH": "我昨晚没睡够。",
+        "KO": "어젯밤은 수면 부족이다.",
+        "TL": "Kulang ang tulog ko kagabi.",
+        "MY": "မနေ့ညက အိပ်မပျော်ဘူး။",
+        "HI": "कल रात मुझे पर्याप्त नींद नहीं मिली।",
+        "AR": "لم أحصل على قسط كاف من النوم الليلة الماضية.",
+        "FA": "دیشب به اندازه کافی نخوابیدم."
+      }
+    },
+    {
+      "kanji": "睡眠時間が短い。",
+      "furigana": "睡眠時間(すいみんじかん)が短(みじか)い。",
+      "translations": {
+        "EN": "I sleep for a short time.",
+        "ID": "Saya tidur sebentar saja.",
+        "ES": "Duermo un rato.",
+        "VI": "Tôi ngủ một lúc.",
+        "FR": "Je dors un peu.",
+        "NE": "म छोटो समयको लागि सुत्छु।",
+        "BN": "আমি অল্প সময়ের জন্য ঘুমাই।",
+        "ZH": "我睡了一小会儿。",
+        "KO": "수면 시간이 짧다.",
+        "TL": "Nakatulog ako saglit.",
+        "MY": "ငါ ခဏလောက် အိပ်တယ်။",
+        "HI": "मैं थोड़े समय के लिए सोता हूं.",
+        "AR": "أنا أنام لفترة قصيرة.",
+        "FA": "برای مدت کوتاهی می‌خوابم."
+      }
+    },
+    {
+      "kanji": "睡眠が浅い。",
+      "furigana": "睡眠(すいみん)が浅(あさ)い。",
+      "translations": {
+        "EN": "I have shallow sleep.",
+        "ID": "Saya memiliki tidur yang dangkal.",
+        "ES": "Tengo un sueño superficial.",
+        "VI": "Tôi ngủ không sâu.",
+        "FR": "J'ai un sommeil superficiel.",
+        "NE": "मलाई कम निद्रा लाग्छ।",
+        "BN": "আমার ঘুম কম।",
+        "ZH": "我睡眠很浅。",
+        "KO": "수면이 얕다.",
+        "TL": "Mababaw ang tulog ko.",
+        "MY": "ငါ တိမ်မြုပ်နေတယ်။",
+        "HI": "मेरी नींद उथली है.",
+        "AR": "لدي نوم ضحل.",
+        "FA": "خوابم کم و نامنظمه."
+      }
+    },
+    {
+      "kanji": "睡眠を改善したい。",
+      "furigana": "睡眠(すいみん)を改善(かいぜん)したい。",
+      "translations": {
+        "EN": "I want to improve my sleep.",
+        "ID": "Aku ingin memperbaiki kualitas tidurku.",
+        "ES": "Quiero mejorar mi sueño.",
+        "VI": "Tôi muốn cải thiện giấc ngủ của mình.",
+        "FR": "Je veux améliorer mon sommeil.",
+        "NE": "म मेरो निद्रा सुधार्न चाहन्छु।",
+        "BN": "আমি আমার ঘুমের উন্নতি করতে চাই।",
+        "ZH": "我想改善我的睡眠。",
+        "KO": "수면을 개선하고 싶습니다.",
+        "TL": "Gusto kong mapabuti ang aking pagtulog.",
+        "MY": "ငါ့ရဲ့အိပ်စက်မှုကို တိုးတက်စေချင်တယ်။",
+        "HI": "मैं अपनी नींद में सुधार करना चाहता हूं।",
+        "AR": "أريد تحسين نومي.",
+        "FA": "می‌خواهم خوابم را بهبود ببخشم."
+      }
+    },
+    {
+      "kanji": "良質な睡眠を得る。",
+      "furigana": "良質(りょうしつ)な睡眠(すいみん)を得(え)る。",
+      "translations": {
+        "EN": "Get good quality sleep.",
+        "ID": "Dapatkan tidur berkualitas baik.",
+        "ES": "Obtenga un sueño de buena calidad.",
+        "VI": "Có giấc ngủ chất lượng.",
+        "FR": "Ayez un sommeil de qualité.",
+        "NE": "राम्रो गुणस्तरको निद्रा लिनुहोस्।",
+        "BN": "ভালো মানের ঘুম পান।",
+        "ZH": "获得高质量的睡眠。",
+        "KO": "좋은 품질의 수면을 얻으십시오.",
+        "TL": "Kumuha ng magandang kalidad ng pagtulog.",
+        "MY": "အရည်အသွေးကောင်း အိပ်စက်ပါ။",
+        "HI": "अच्छी गुणवत्ता वाली नींद लें.",
+        "AR": "احصل على نوم جيد.",
+        "FA": "خواب با کیفیتی داشته باشید."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "sleep": {
+      "ID": "tidur",
+      "ES": "dormir",
+      "VI": "ngủ",
+      "FR": "dormir",
+      "NE": "निद्रा",
+      "BN": "ঘুম",
+      "ZH": "睡觉",
+      "KO": "잠",
+      "TL": "matulog",
+      "MY": "အိပ်ပါ။",
+      "HI": "नींद",
+      "AR": "ينام",
+      "FA": "خواب",
+      "EN": []
+    }
+  },
+  "jisho_data": {
+    "slug": "睡眠",
+    "is_common": true,
+    "tags": [
+      "wanikani27"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "睡眠",
+        "reading": "すいみん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "sleep"
+        ],
+        "parts_of_speech": [
+          "Noun",
+          "Noun which may take the genitive case particle 'no'"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Sleep"
+        ],
+        "parts_of_speech": [
+          "Wikipedia definition"
+        ],
+        "links": [
+          {
+            "text": "Read “Sleep” on English Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Sleep?oldid=494172096"
+          },
+          {
+            "text": "Read “睡眠” on Japanese Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/睡眠?oldid=42774874"
+          }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": "http://dbpedia.org/resource/Sleep"
+    }
+  },
+  "kanji_list": [
+    "睡",
+    "眠"
+  ],
+  "kanji_data": {
+    "睡": {
+      "freq_mainichi_shinbun": 1739,
+      "grade": 8,
+      "heisig_en": "drowsy",
+      "jlpt": 1,
+      "kanji": "睡",
+      "kun_readings": [
+        "ねむ.い",
+        "ねむ.る"
+      ],
+      "meanings": [
+        "die",
+        "drowsy",
+        "sleep"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "スイ"
+      ],
+      "stroke_count": 13,
+      "unicode": "7761"
+    },
+    "眠": {
+      "freq_mainichi_shinbun": 1315,
+      "grade": 8,
+      "heisig_en": "sleep",
+      "jlpt": 3,
+      "kanji": "眠",
+      "kun_readings": [
+        "ねむ.い",
+        "ねむ.る"
+      ],
+      "meanings": [
+        "die",
+        "sleep",
+        "sleepy"
+      ],
+      "name_readings": [
+        "ね"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ミン"
+      ],
+      "stroke_count": 10,
+      "unicode": "7720"
+    }
+  }
 }

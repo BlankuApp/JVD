@@ -1,367 +1,466 @@
 {
-    "version": "0.2.0",
-    "word": "教科書",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/0hWCICyOk5w",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "教科書",
-        "reading": "きょうかしょ",
-        "introduction_japanese": "教科書は、学校の授業や勉強でよく使う本について話すときによく出てくる言葉です。授業で読むとき、授業に持っていくとき、買うときに使います。",
-        "introduction_english": "The noun きょうかしょ is commonly used when talking about books used in school lessons or study. You hear it when people read in class, bring books to class, or buy them.",
-        "meanings": [
-            [
-                "textbook",
-                "coursebook",
-                "schoolbook"
-            ]
-        ],
-        "meaning_explanation_japanese": "「教科書」は、学校の授業で使う勉強のための本を指す言葉です。授業の内容や問題、説明が書いてあります。",
-        "meaning_explanation_english": "The word きょうかしょ means a book used for study in school lessons. It contains lesson content, explanations, and exercises.",
-        "kanji_explanation_english": "The first kanji means teach. It shows the idea of teaching or giving instruction. In the word おしえる this kanji gives the sense of teaching someone something, and in the word きょういく it points to education and learning. The second kanji means department or course. It suggests a subject area or section. In the word かがく it indicates the science field, and in the word かもく it means a school subject. The third kanji means write. It relates to writing and documents. In the word しょるい it refers to written documents, and in the word じしょ it means a book that contains words and their meanings.",
-        "kanji_details": [
-            {
-                "kanji": "教",
-                "common_words": [
-                    "教える (おしえる): to teach",
-                    "教育 (きょういく): education"
-                ]
-            },
-            {
-                "kanji": "科",
-                "common_words": [
-                    "科学 (かがく): science",
-                    "科目 (かもく): subject (school subject)"
-                ]
-            },
-            {
-                "kanji": "書",
-                "common_words": [
-                    "書く (かく): to write",
-                    "書類 (しょるい): documents"
-                ]
-            }
-        ],
-        "synonyms": [
-            "教材 : きょうざい : teaching materials",
-            "テキスト : てきすと : text/textbook"
-        ],
-        "synonyms_explanation": "The most common synonyms of the きょうかしょ are きょうざい and てきすと. きょうざい is broader and can include handouts or any teaching material, while てきすと is a casual word often used to mean the lesson text or coursebook.",
-        "antonyms": [],
-        "antonyms_explanation": "No common antonyms found.",
-        "examples": [
-            {
-                "kanji": "国語の教科書を読む。",
-                "furigana": "国語(こくご)の教科書(きょうかしょ)を読む(よ)。",
-                "translations": {
-                    "EN": "Read the Japanese textbook.",
-                    "ID": "Baca buku teks bahasa Jepang.",
-                    "ES": "Lea el libro de texto japonés.",
-                    "VI": "Đọc sách giáo khoa tiếng Nhật.",
-                    "FR": "Lisez le manuel japonais.",
-                    "NE": "जापानी पाठ्यपुस्तक पढ्नुहोस्।",
-                    "BN": "জাপানি পাঠ্যপুস্তকটি পড়ো।",
-                    "ZH": "看日语教科书。",
-                    "KO": "국어 교과서를 읽으십시오.",
-                    "TL": "Basahin ang Japanese textbook.",
-                    "MY": "ဂျပန်ဖတ်စာအုပ်ကိုဖတ်ပါ။",
-                    "HI": "जापानी पाठ्यपुस्तक पढ़ें.",
-                    "AR": "اقرأ الكتاب المدرسي الياباني.",
-                    "FA": "کتاب درسی ژاپنی را بخوانید."
-                }
-            },
-            {
-                "kanji": "数学の教科書を買った。",
-                "furigana": "数学(すうがく)の教科書(きょうかしょ)を買(か)った。",
-                "translations": {
-                    "EN": "I bought a math textbook.",
-                    "ID": "Saya membeli buku teks matematika.",
-                    "ES": "Compré un libro de texto de matemáticas.",
-                    "VI": "Tôi đã mua một cuốn sách giáo khoa toán.",
-                    "FR": "J'ai acheté un manuel de mathématiques.",
-                    "NE": "मैले गणितको पाठ्यपुस्तक किनें।",
-                    "BN": "আমি একটা গণিতের বই কিনেছি।",
-                    "ZH": "我买了一本数学教科书。",
-                    "KO": "수학 교과서를 샀다.",
-                    "TL": "Bumili ako ng math textbook.",
-                    "MY": "သင်္ချာစာအုပ်တစ်အုပ်ဝယ်ခဲ့တယ်။",
-                    "HI": "मैंने एक गणित की पाठ्यपुस्तक खरीदी।",
-                    "AR": "لقد اشتريت كتابًا مدرسيًا للرياضيات.",
-                    "FA": "من یه کتاب ریاضی خریدم."
-                }
-            },
-            {
-                "kanji": "英語の教科書を使う。",
-                "furigana": "英語(えいご)の教科書(きょうかしょ)を使(つか)う。",
-                "translations": {
-                    "EN": "Use an English textbook.",
-                    "ID": "Gunakan buku teks bahasa Inggris.",
-                    "ES": "Utilice un libro de texto de inglés.",
-                    "VI": "Sử dụng sách giáo khoa tiếng Anh.",
-                    "FR": "Utilisez un manuel d'anglais.",
-                    "NE": "अंग्रेजी पाठ्यपुस्तक प्रयोग गर्नुहोस्।",
-                    "BN": "একটি ইংরেজি পাঠ্যপুস্তক ব্যবহার করুন।",
-                    "ZH": "使用英语教科书。",
-                    "KO": "영어 교과서를 사용한다.",
-                    "TL": "Gumamit ng English textbook.",
-                    "MY": "အင်္ဂလိပ်ဖတ်စာအုပ်ကိုသုံးပါ။",
-                    "HI": "अंग्रेजी पाठ्यपुस्तक का उपयोग करें.",
-                    "AR": "استخدم كتابًا مدرسيًا باللغة الإنجليزية.",
-                    "FA": "از یک کتاب درسی انگلیسی استفاده کنید."
-                }
-            },
-            {
-                "kanji": "新しい教科書を買いました。",
-                "furigana": "新(あたら)しい教科書(きょうかしょ)を買(か)いました。",
-                "translations": {
-                    "EN": "I bought a new textbook.",
-                    "ID": "Saya membeli buku teks baru.",
-                    "ES": "Compré un nuevo libro de texto.",
-                    "VI": "Tôi đã mua một cuốn sách giáo khoa mới.",
-                    "FR": "J'ai acheté un nouveau manuel.",
-                    "NE": "मैले नयाँ पाठ्यपुस्तक किनें।",
-                    "BN": "আমি একটি নতুন পাঠ্যপুস্তক কিনেছি।",
-                    "ZH": "我买了一本新教科书。",
-                    "KO": "새로운 교과서를 샀다.",
-                    "TL": "Bumili ako ng bagong textbook.",
-                    "MY": "ကျောင်းစာအုပ်အသစ်ဝယ်ခဲ့တယ်။",
-                    "HI": "मैंने एक नई पाठ्यपुस्तक खरीदी।",
-                    "AR": "لقد اشتريت كتابًا مدرسيًا جديدًا.",
-                    "FA": "یه کتاب درسی جدید خریدم."
-                }
-            },
-            {
-                "kanji": "教科書を配布する。",
-                "furigana": "教科書(きょうかしょ)を配布(はいふ)する。",
-                "translations": {
-                    "EN": "Distribute textbooks.",
-                    "ID": "Mendistribusikan buku pelajaran.",
-                    "ES": "Distribuir libros de texto.",
-                    "VI": "Phân phát sách giáo khoa.",
-                    "FR": "Distribuer des manuels scolaires.",
-                    "NE": "पाठ्यपुस्तकहरू वितरण गर्नुहोस्।",
-                    "BN": "পাঠ্যপুস্তক বিতরণ করুন।",
-                    "ZH": "分发教科书。",
-                    "KO": "교과서를 배포한다.",
-                    "TL": "Ipamahagi ang mga aklat-aralin.",
-                    "MY": "ပြဋ္ဌာန်းစာအုပ်များ ဖြန့်ဝေပါ။",
-                    "HI": "पाठ्यपुस्तकें वितरित करें.",
-                    "AR": "توزيع الكتب المدرسية.",
-                    "FA": "توزیع کتاب‌های درسی."
-                }
-            },
-            {
-                "kanji": "教科書を返す。",
-                "furigana": "教科書(きょうかしょ)を返(かえ)す。",
-                "translations": {
-                    "EN": "Return the textbook.",
-                    "ID": "Kembalikan buku teksnya.",
-                    "ES": "Devuelve el libro de texto.",
-                    "VI": "Trả lại sách giáo khoa.",
-                    "FR": "Rends le manuel.",
-                    "NE": "पाठ्यपुस्तक फिर्ता गर।",
-                    "BN": "পাঠ্যপুস্তকটি ফেরত দাও।",
-                    "ZH": "归还教科书。",
-                    "KO": "교과서를 반환합니다.",
-                    "TL": "Ibalik ang aklat-aralin.",
-                    "MY": "ကျောင်းစာအုပ်ကို ပြန်ပေးတယ်။",
-                    "HI": "पाठ्यपुस्तक लौटा दो।",
-                    "AR": "إرجاع الكتاب المدرسي.",
-                    "FA": "کتاب درسی را برگردانید."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "textbook": {
-                "ID": "buku pelajaran",
-                "ES": "libro de texto",
-                "VI": "sách giáo khoa",
-                "FR": "manuel",
-                "NE": "पाठ्यपुस्तक",
-                "BN": "পাঠ্যপুস্তক",
-                "ZH": "教科书",
-                "KO": "교과서",
-                "TL": "aklat-aralin",
-                "MY": "ကျောင်းစာအုပ်",
-                "HI": "पाठयपुस्तक",
-                "AR": "كتاب مدرسي",
-                "FA": "کتاب درسی",
-                "EN": [
-                    "coursebook",
-                    "schoolbook"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "教科書",
-        "is_common": true,
-        "tags": [
-            "wanikani16"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "教科書",
-                "reading": "きょうかしょ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "textbook",
-                    "coursebook",
-                    "schoolbook"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Textbook"
-                ],
-                "parts_of_speech": [
-                    "Wikipedia definition"
-                ],
-                "links": [
-                    {
-                        "text": "Read “Textbook” on English Wikipedia",
-                        "url": "http://en.wikipedia.org/wiki/Textbook?oldid=488879794"
-                    },
-                    {
-                        "text": "Read “教科書” on Japanese Wikipedia",
-                        "url": "http://ja.wikipedia.org/wiki/教科書?oldid=41972811"
-                    }
-                ],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [],
-                "sentences": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": "http://dbpedia.org/resource/Textbook"
-        }
-    },
-    "kanji_list": [
-        "教",
-        "科",
-        "書"
-    ],
-    "kanji_data": {
-        "教": {
-            "freq_mainichi_shinbun": 166,
-            "grade": 2,
-            "heisig_en": "teach",
-            "jlpt": 4,
-            "kanji": "教",
-            "kun_readings": [
-                "おし.える",
-                "おそ.わる"
-            ],
-            "meanings": [
-                "doctrine",
-                "faith",
-                "teach"
-            ],
-            "name_readings": [
-                "のり",
-                "ひさ"
-            ],
-            "notes": [],
-            "on_readings": [
-                "キョウ"
-            ],
-            "stroke_count": 11,
-            "unicode": "6559"
-        },
-        "科": {
-            "freq_mainichi_shinbun": 531,
-            "grade": 2,
-            "heisig_en": "department",
-            "jlpt": 3,
-            "kanji": "科",
-            "kun_readings": [],
-            "meanings": [
-                "course",
-                "department",
-                "section"
-            ],
-            "name_readings": [
-                "しな"
-            ],
-            "notes": [],
-            "on_readings": [
-                "カ"
-            ],
-            "stroke_count": 9,
-            "unicode": "79D1"
-        },
-        "書": {
-            "freq_mainichi_shinbun": 169,
-            "grade": 2,
-            "heisig_en": "write",
-            "jlpt": 5,
-            "kanji": "書",
-            "kun_readings": [
-                "-が.き",
-                "-がき",
-                "か.く"
-            ],
-            "meanings": [
-                "write"
-            ],
-            "name_readings": [
-                "かき"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ショ"
-            ],
-            "stroke_count": 10,
-            "unicode": "66F8"
-        }
-    },
-    "collocations": [
-        "国語の教科書",
-        "数学の教科書",
-        "英語の教科書",
-        "理科の教科書",
-        "歴史の教科書",
-        "教科書代",
-        "教科書代金",
-        "教科書編集",
-        "教科書本文",
-        "教科書採択",
-        "教科書を使う",
-        "教科書を読む",
-        "教科書を買う",
-        "教科書を配布する",
-        "教科書を改訂する",
-        "教科書を補足する",
-        "教科書を持参する",
-        "教科書を提出する",
-        "教科書を返却する",
-        "教科書を持ち運ぶ",
-        "新しい教科書",
-        "分かりやすい教科書",
-        "厚い教科書",
-        "小型の教科書",
-        "高価な教科書"
+  "version": "0.3.0",
+  "word": "教科書",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/0hWCICyOk5w",
+  "in_db": true,
+  "kanji": "教科書",
+  "reading": "きょうかしょ",
+  "introduction_japanese": "教科書は、学校の授業や勉強でよく使う本について話すときによく出てくる言葉です。授業で読むとき、授業に持っていくとき、買うときに使います。",
+  "introduction_english": "The noun きょうかしょ is commonly used when talking about books used in school lessons or study. You hear it when people read in class, bring books to class, or buy them.",
+  "meanings": [
+    [
+      "textbook",
+      "coursebook",
+      "schoolbook"
     ]
+  ],
+  "meaning_explanation_japanese": "「教科書」は、学校の授業で使う勉強のための本を指す言葉です。授業の内容や問題、説明が書いてあります。",
+  "meaning_explanation_english": "The word きょうかしょ means a book used for study in school lessons. It contains lesson content, explanations, and exercises.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "教",
+      "common_words": [
+        "教える (おしえる): to teach",
+        "教育 (きょういく): education"
+      ]
+    },
+    {
+      "kanji": "科",
+      "common_words": [
+        "科学 (かがく): science",
+        "科目 (かもく): subject (school subject)"
+      ]
+    },
+    {
+      "kanji": "書",
+      "common_words": [
+        "書く (かく): to write",
+        "書類 (しょるい): documents"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means teach. It shows the idea of teaching or giving instruction. In the word おしえる this kanji gives the sense of teaching someone something, and in the word きょういく it points to education and learning. The second kanji means department or course. It suggests a subject area or section. In the word かがく it indicates the science field, and in the word かもく it means a school subject. The third kanji means write. It relates to writing and documents. In the word しょるい it refers to written documents, and in the word じしょ it means a book that contains words and their meanings.",
+  "synonyms": [
+    "教材 : きょうざい : teaching materials",
+    "テキスト : てきすと : text/textbook"
+  ],
+  "synonym_explanation": "The most common synonyms of the きょうかしょ are きょうざい and てきすと. きょうざい is broader and can include handouts or any teaching material, while てきすと is a casual word often used to mean the lesson text or coursebook.",
+  "antonyms": [],
+  "antonym_explanation": "No common antonyms found.",
+  "collocations": [
+    {
+      "kanji": "国語の教科書",
+      "furigana": "国語の教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "数学の教科書",
+      "furigana": "数学の教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "英語の教科書",
+      "furigana": "英語の教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "理科の教科書",
+      "furigana": "理科の教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "歴史の教科書",
+      "furigana": "歴史の教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書代",
+      "furigana": "教科書代",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書代金",
+      "furigana": "教科書代金",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書編集",
+      "furigana": "教科書編集",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書本文",
+      "furigana": "教科書本文",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書採択",
+      "furigana": "教科書採択",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を使う",
+      "furigana": "教科書を使う",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を読む",
+      "furigana": "教科書を読む",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を買う",
+      "furigana": "教科書を買う",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を配布する",
+      "furigana": "教科書を配布する",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を改訂する",
+      "furigana": "教科書を改訂する",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を補足する",
+      "furigana": "教科書を補足する",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を持参する",
+      "furigana": "教科書を持参する",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を提出する",
+      "furigana": "教科書を提出する",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を返却する",
+      "furigana": "教科書を返却する",
+      "translations": {}
+    },
+    {
+      "kanji": "教科書を持ち運ぶ",
+      "furigana": "教科書を持ち運ぶ",
+      "translations": {}
+    },
+    {
+      "kanji": "新しい教科書",
+      "furigana": "新しい教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "分かりやすい教科書",
+      "furigana": "分かりやすい教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "厚い教科書",
+      "furigana": "厚い教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "小型の教科書",
+      "furigana": "小型の教科書",
+      "translations": {}
+    },
+    {
+      "kanji": "高価な教科書",
+      "furigana": "高価な教科書",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "国語の教科書を読む。",
+      "furigana": "国語(こくご)の教科書(きょうかしょ)を読む(よ)。",
+      "translations": {
+        "EN": "Read the Japanese textbook.",
+        "ID": "Baca buku teks bahasa Jepang.",
+        "ES": "Lea el libro de texto japonés.",
+        "VI": "Đọc sách giáo khoa tiếng Nhật.",
+        "FR": "Lisez le manuel japonais.",
+        "NE": "जापानी पाठ्यपुस्तक पढ्नुहोस्।",
+        "BN": "জাপানি পাঠ্যপুস্তকটি পড়ো।",
+        "ZH": "看日语教科书。",
+        "KO": "국어 교과서를 읽으십시오.",
+        "TL": "Basahin ang Japanese textbook.",
+        "MY": "ဂျပန်ဖတ်စာအုပ်ကိုဖတ်ပါ။",
+        "HI": "जापानी पाठ्यपुस्तक पढ़ें.",
+        "AR": "اقرأ الكتاب المدرسي الياباني.",
+        "FA": "کتاب درسی ژاپنی را بخوانید."
+      }
+    },
+    {
+      "kanji": "数学の教科書を買った。",
+      "furigana": "数学(すうがく)の教科書(きょうかしょ)を買(か)った。",
+      "translations": {
+        "EN": "I bought a math textbook.",
+        "ID": "Saya membeli buku teks matematika.",
+        "ES": "Compré un libro de texto de matemáticas.",
+        "VI": "Tôi đã mua một cuốn sách giáo khoa toán.",
+        "FR": "J'ai acheté un manuel de mathématiques.",
+        "NE": "मैले गणितको पाठ्यपुस्तक किनें।",
+        "BN": "আমি একটা গণিতের বই কিনেছি।",
+        "ZH": "我买了一本数学教科书。",
+        "KO": "수학 교과서를 샀다.",
+        "TL": "Bumili ako ng math textbook.",
+        "MY": "သင်္ချာစာအုပ်တစ်အုပ်ဝယ်ခဲ့တယ်။",
+        "HI": "मैंने एक गणित की पाठ्यपुस्तक खरीदी।",
+        "AR": "لقد اشتريت كتابًا مدرسيًا للرياضيات.",
+        "FA": "من یه کتاب ریاضی خریدم."
+      }
+    },
+    {
+      "kanji": "英語の教科書を使う。",
+      "furigana": "英語(えいご)の教科書(きょうかしょ)を使(つか)う。",
+      "translations": {
+        "EN": "Use an English textbook.",
+        "ID": "Gunakan buku teks bahasa Inggris.",
+        "ES": "Utilice un libro de texto de inglés.",
+        "VI": "Sử dụng sách giáo khoa tiếng Anh.",
+        "FR": "Utilisez un manuel d'anglais.",
+        "NE": "अंग्रेजी पाठ्यपुस्तक प्रयोग गर्नुहोस्।",
+        "BN": "একটি ইংরেজি পাঠ্যপুস্তক ব্যবহার করুন।",
+        "ZH": "使用英语教科书。",
+        "KO": "영어 교과서를 사용한다.",
+        "TL": "Gumamit ng English textbook.",
+        "MY": "အင်္ဂလိပ်ဖတ်စာအုပ်ကိုသုံးပါ။",
+        "HI": "अंग्रेजी पाठ्यपुस्तक का उपयोग करें.",
+        "AR": "استخدم كتابًا مدرسيًا باللغة الإنجليزية.",
+        "FA": "از یک کتاب درسی انگلیسی استفاده کنید."
+      }
+    },
+    {
+      "kanji": "新しい教科書を買いました。",
+      "furigana": "新(あたら)しい教科書(きょうかしょ)を買(か)いました。",
+      "translations": {
+        "EN": "I bought a new textbook.",
+        "ID": "Saya membeli buku teks baru.",
+        "ES": "Compré un nuevo libro de texto.",
+        "VI": "Tôi đã mua một cuốn sách giáo khoa mới.",
+        "FR": "J'ai acheté un nouveau manuel.",
+        "NE": "मैले नयाँ पाठ्यपुस्तक किनें।",
+        "BN": "আমি একটি নতুন পাঠ্যপুস্তক কিনেছি।",
+        "ZH": "我买了一本新教科书。",
+        "KO": "새로운 교과서를 샀다.",
+        "TL": "Bumili ako ng bagong textbook.",
+        "MY": "ကျောင်းစာအုပ်အသစ်ဝယ်ခဲ့တယ်။",
+        "HI": "मैंने एक नई पाठ्यपुस्तक खरीदी।",
+        "AR": "لقد اشتريت كتابًا مدرسيًا جديدًا.",
+        "FA": "یه کتاب درسی جدید خریدم."
+      }
+    },
+    {
+      "kanji": "教科書を配布する。",
+      "furigana": "教科書(きょうかしょ)を配布(はいふ)する。",
+      "translations": {
+        "EN": "Distribute textbooks.",
+        "ID": "Mendistribusikan buku pelajaran.",
+        "ES": "Distribuir libros de texto.",
+        "VI": "Phân phát sách giáo khoa.",
+        "FR": "Distribuer des manuels scolaires.",
+        "NE": "पाठ्यपुस्तकहरू वितरण गर्नुहोस्।",
+        "BN": "পাঠ্যপুস্তক বিতরণ করুন।",
+        "ZH": "分发教科书。",
+        "KO": "교과서를 배포한다.",
+        "TL": "Ipamahagi ang mga aklat-aralin.",
+        "MY": "ပြဋ္ဌာန်းစာအုပ်များ ဖြန့်ဝေပါ။",
+        "HI": "पाठ्यपुस्तकें वितरित करें.",
+        "AR": "توزيع الكتب المدرسية.",
+        "FA": "توزیع کتاب‌های درسی."
+      }
+    },
+    {
+      "kanji": "教科書を返す。",
+      "furigana": "教科書(きょうかしょ)を返(かえ)す。",
+      "translations": {
+        "EN": "Return the textbook.",
+        "ID": "Kembalikan buku teksnya.",
+        "ES": "Devuelve el libro de texto.",
+        "VI": "Trả lại sách giáo khoa.",
+        "FR": "Rends le manuel.",
+        "NE": "पाठ्यपुस्तक फिर्ता गर।",
+        "BN": "পাঠ্যপুস্তকটি ফেরত দাও।",
+        "ZH": "归还教科书。",
+        "KO": "교과서를 반환합니다.",
+        "TL": "Ibalik ang aklat-aralin.",
+        "MY": "ကျောင်းစာအုပ်ကို ပြန်ပေးတယ်။",
+        "HI": "पाठ्यपुस्तक लौटा दो।",
+        "AR": "إرجاع الكتاب المدرسي.",
+        "FA": "کتاب درسی را برگردانید."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "textbook": {
+      "ID": "buku pelajaran",
+      "ES": "libro de texto",
+      "VI": "sách giáo khoa",
+      "FR": "manuel",
+      "NE": "पाठ्यपुस्तक",
+      "BN": "পাঠ্যপুস্তক",
+      "ZH": "教科书",
+      "KO": "교과서",
+      "TL": "aklat-aralin",
+      "MY": "ကျောင်းစာအုပ်",
+      "HI": "पाठयपुस्तक",
+      "AR": "كتاب مدرسي",
+      "FA": "کتاب درسی",
+      "EN": [
+        "coursebook",
+        "schoolbook"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "教科書",
+    "is_common": true,
+    "tags": [
+      "wanikani16"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "教科書",
+        "reading": "きょうかしょ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "textbook",
+          "coursebook",
+          "schoolbook"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Textbook"
+        ],
+        "parts_of_speech": [
+          "Wikipedia definition"
+        ],
+        "links": [
+          {
+            "text": "Read “Textbook” on English Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Textbook?oldid=488879794"
+          },
+          {
+            "text": "Read “教科書” on Japanese Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/教科書?oldid=41972811"
+          }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": "http://dbpedia.org/resource/Textbook"
+    }
+  },
+  "kanji_list": [
+    "教",
+    "科",
+    "書"
+  ],
+  "kanji_data": {
+    "教": {
+      "freq_mainichi_shinbun": 166,
+      "grade": 2,
+      "heisig_en": "teach",
+      "jlpt": 4,
+      "kanji": "教",
+      "kun_readings": [
+        "おし.える",
+        "おそ.わる"
+      ],
+      "meanings": [
+        "doctrine",
+        "faith",
+        "teach"
+      ],
+      "name_readings": [
+        "のり",
+        "ひさ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "キョウ"
+      ],
+      "stroke_count": 11,
+      "unicode": "6559"
+    },
+    "科": {
+      "freq_mainichi_shinbun": 531,
+      "grade": 2,
+      "heisig_en": "department",
+      "jlpt": 3,
+      "kanji": "科",
+      "kun_readings": [],
+      "meanings": [
+        "course",
+        "department",
+        "section"
+      ],
+      "name_readings": [
+        "しな"
+      ],
+      "notes": [],
+      "on_readings": [
+        "カ"
+      ],
+      "stroke_count": 9,
+      "unicode": "79D1"
+    },
+    "書": {
+      "freq_mainichi_shinbun": 169,
+      "grade": 2,
+      "heisig_en": "write",
+      "jlpt": 5,
+      "kanji": "書",
+      "kun_readings": [
+        "-が.き",
+        "-がき",
+        "か.く"
+      ],
+      "meanings": [
+        "write"
+      ],
+      "name_readings": [
+        "かき"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ショ"
+      ],
+      "stroke_count": 10,
+      "unicode": "66F8"
+    }
+  }
 }

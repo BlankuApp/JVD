@@ -1,270 +1,285 @@
 {
-    "version": "0.2.0",
-    "word": "改札",
-    "jlpt_level": 2,
-    "youtube_link": "https://youtu.be/w_JpSi_f8lc",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "改札",
-        "reading": "かいさつ",
-        "introduction_japanese": "",
-        "introduction_english": "The word we'll be learning in this section is かいさつ, which you will often hear in train stations in Japan. This is a handy term to know if you're navigating the public transportation system.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word かいさつ means \"ticket gate.\" It's the area in train stations where passengers have their tickets or passes checked before entering or exiting the station premises. ",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "examination of tickets"
-            ],
-            [
-                "ticket gate",
-                "ticket barrier"
-            ]
-        ],
-        "meaning_translations": {
-            "examination of tickets": {
-                "EN": "Examination of tickets",
-                "ID": "Pemeriksaan tiket",
-                "ES": "Examinación de boletos",
-                "VI": "Kiểm tra vé",
-                "FR": "Examen des billets",
-                "NE": "टिकटहरूको जांच",
-                "BN": "টিকেট পরীক্ষার কাজ",
-                "ZH": "验票",
-                "KO": "티켓 검사",
-                "TL": "Examinasyon ng mga tiket",
-                "MY": "လက်မှတ် စစ်ဆေးခြင်း",
-                "HI": "टिकटों की जांच",
-                "AR": "فحص التذاكر",
-                "FA": "تفتیش بلیط‌ها"
-            },
-            "ticket gate": {
-                "EN": "ticket gate",
-                "ID": "gerbang tiket",
-                "ES": "torniquete",
-                "VI": "cổng vé",
-                "FR": "portillon",
-                "NE": "टिकट गेट",
-                "BN": "টিকিট গেট",
-                "ZH": "检票口",
-                "KO": "티켓 게이트",
-                "TL": "gate ng tiket",
-                "MY": "လက်မှတ်အကန့်",
-                "HI": "टिकट गेट",
-                "AR": "بوابة التذاكر",
-                "FA": "دروازه بلیط"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "改札口に友達がいます。",
-                "furigana": "改札口(かいさつぐち)に友達(ともだち)がいます。",
-                "translations": {
-                    "EN": "A friend is at the ticket gate.",
-                    "ID": "Seorang teman ada di gerbang tiket.",
-                    "ES": "Un amigo está en la taquilla de entrada.",
-                    "VI": "Một người bạn đang ở cổng soát vé.",
-                    "FR": "Un ami est à la guichet.",
-                    "NE": "साथी टिकट गेटमा छन्।",
-                    "BN": "এক বন্ধু টিকেট গেটে রয়েছে।",
-                    "ZH": "朋友在检票口。",
-                    "KO": "친구가 개찰구에 있습니다.",
-                    "TL": "May kaibigan sa gate ng ticket.",
-                    "MY": "နှစ်ချင်းမိတ်ဆွေသည် လက်မှတ်ဂိတ်၌ ရှိသည်။",
-                    "HI": "एक दोस्त टिकट गेट पर है।",
-                    "AR": "هناك صديق عند بوابة التذاكر.",
-                    "FA": "یک دوست در دروازه بلیط است."
-                }
-            },
-            {
-                "kanji": "私は改札を通る。",
-                "furigana": "私(わたし)は改札(かいさつ)を通(とお)る。",
-                "translations": {
-                    "EN": "I pass through the ticket gate.",
-                    "ID": "Saya melewati gerbang tiket.",
-                    "ES": "Paso por la taquilla.",
-                    "VI": "Tôi đi qua cổng vé.",
-                    "FR": "Je passe par la barrière de tickets.",
-                    "NE": "म टिकट गेटबाट जान्छु।",
-                    "BN": "আমি টিকিট গেট দিয়ে পার হই।",
-                    "ZH": "我通过检票口。",
-                    "KO": "나는 개찰구를 통과한다.",
-                    "TL": "Dumaan ako sa ticket gate.",
-                    "MY": "ကျွန်တော်က လက်မှတ်တံခါးကို ဖြတ်ပြီးသွားတယ်။",
-                    "HI": "मैं टिकट गेट के माध्यम से जाता हूँ।",
-                    "AR": "أنا أعبر من خلال بوابة التذاكر.",
-                    "FA": "من از دستگاه بلیط عبور می‌کنم."
-                }
-            },
-            {
-                "kanji": "改札で待つ。",
-                "furigana": "改札(かいさつ)で待(ま)つ。",
-                "translations": {
-                    "EN": "Wait at the ticket gate.",
-                    "ID": "Tunggu di gerbang tiket.",
-                    "ES": "Espera en la puerta de entrada.",
-                    "VI": "Chờ ở cổng vé.",
-                    "FR": "Attendre à la barrière de péage.",
-                    "NE": "टिकट गेटमा प्रतिक्षा गर्नुहोस्।",
-                    "BN": "টিকিট গেটে অপেক্ষা করুন।",
-                    "ZH": "在检票口等待。",
-                    "KO": "개찰구에서 기다리다.",
-                    "TL": "Maghintay sa ticket gate.",
-                    "MY": "လက်မှတ်ဝင်ပေါက်တွင်စောင့်ပေးပါ။",
-                    "HI": "टिकट द्वार पर प्रतीक्षा करें।",
-                    "AR": "انتظر عند باب التذاكر.",
-                    "FA": "در جلوی دروازه بلیط منتظر بمانید."
-                }
-            },
-            {
-                "kanji": "改札を出る。",
-                "furigana": "改札(かいさつ)を出(で)る。",
-                "translations": {
-                    "EN": "Exit the ticket gate.",
-                    "ID": "Keluar dari gerbang tiket.",
-                    "ES": "Salir de la taquilla.",
-                    "VI": "Ra khỏi cổng vé.",
-                    "FR": "Sortez de la barrière de ticket.",
-                    "NE": "टिकट गेटबाट बाहिर निस्कनुहोस्।",
-                    "BN": "টিকিট গেট থেকে বের হন।",
-                    "ZH": "出票口。",
-                    "KO": "티켓 게이트를 나간다.",
-                    "TL": "Lumabas sa pintuan ng ticket.",
-                    "MY": "လက်မှတ် တံခါးကို ထွက်ပါ။",
-                    "HI": "टिकट गेट से बाहर निकलें।",
-                    "AR": "اخرج من بوابة التذاكر.",
-                    "FA": "از دروازه بلیت خارج شوید."
-                }
-            }
-        ],
-        "synonyms": [
-            "出入り口 : でいりぐち : exit and entrance",
-            "乗車口 : じょうしゃぐち : entrance"
-        ],
-        "synonyms_explanation": "The most common synonyms of the word かいさつ are でいりぐち andじょうしゃぐち. \"でいりぐち\" means entrance or exit without necessarily involving ticket checking, while \"じょうしゃぐち\" tends to focus on the boarding point where you enter a vehicle, most often used for buses or airplanes, providing slightly different contexts of usage.",
-        "antonyms": [
-            "出口 : でぐち : exit",
-            "閉鎖 : へいさ : closing"
-        ],
-        "antonyms_explanation": "The most common antonyms of the word かいさつ are でぐち and へいさ. \"でぐち\" means exit, referring to leaving a location, not necessarily involving ticket checking, while \"へいさ\" implies closure, like when a gate is closed, which contrasts with an open or operational ticket gate. ",
-        "kanji_details": [
-            {
-                "kanji": "改",
-                "common_words": [
-                    "改良: improvement",
-                    "改築: structural alteration"
-                ]
-            },
-            {
-                "kanji": "札",
-                "common_words": [
-                    "名札: name plate",
-                    "札束: bundle of banknotes"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "改札",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n2"
-        ],
-        "japanese": [
-            {
-                "word": "改札",
-                "reading": "かいさつ"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "examination of tickets"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Intransitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "ticket gate",
-                    "ticket barrier"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "改",
-        "札"
+  "version": "0.3.0",
+  "word": "改札",
+  "jlpt_level": 2,
+  "youtube_link": "https://youtu.be/w_JpSi_f8lc",
+  "in_db": true,
+  "kanji": "改札",
+  "reading": "かいさつ",
+  "introduction_japanese": "",
+  "introduction_english": "The word we'll be learning in this section is かいさつ, which you will often hear in train stations in Japan. This is a handy term to know if you're navigating the public transportation system.",
+  "meanings": [
+    [
+      "examination of tickets"
     ],
-    "kanji_data": {
-        "改": {
-            "meanings": [
-                "change",
-                "examine",
-                "inspect",
-                "mend",
-                "modify",
-                "reformation",
-                "renew",
-                "search"
-            ],
-            "on_readings": [
-                "カイ"
-            ],
-            "kun_readings": [
-                "あらた.まる",
-                "あらた.める"
-            ],
-            "stroke_count": 7,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 147,
-            "unicode": "6539",
-            "grade": 4
-        },
-        "札": {
-            "meanings": [
-                "bid",
-                "counter for bonds",
-                "paper money",
-                "placard",
-                "tag"
-            ],
-            "on_readings": [
-                "サツ"
-            ],
-            "kun_readings": [
-                "ふだ"
-            ],
-            "stroke_count": 5,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 921,
-            "unicode": "672D",
-            "grade": 4
-        }
-    },
-    "collocations": [
-        "かいさつぐち",
-        "かいさつをとおる",
-        "かいさつでまつ",
-        "かいさつをでる"
+    [
+      "ticket gate",
+      "ticket barrier"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word かいさつ means \"ticket gate.\" It's the area in train stations where passengers have their tickets or passes checked before entering or exiting the station premises. ",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "改",
+      "common_words": [
+        "改良: improvement",
+        "改築: structural alteration"
+      ]
+    },
+    {
+      "kanji": "札",
+      "common_words": [
+        "名札: name plate",
+        "札束: bundle of banknotes"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "出入り口 : でいりぐち : exit and entrance",
+    "乗車口 : じょうしゃぐち : entrance"
+  ],
+  "synonym_explanation": "The most common synonyms of the word かいさつ are でいりぐち andじょうしゃぐち. \"でいりぐち\" means entrance or exit without necessarily involving ticket checking, while \"じょうしゃぐち\" tends to focus on the boarding point where you enter a vehicle, most often used for buses or airplanes, providing slightly different contexts of usage.",
+  "antonyms": [
+    "出口 : でぐち : exit",
+    "閉鎖 : へいさ : closing"
+  ],
+  "antonym_explanation": "The most common antonyms of the word かいさつ are でぐち and へいさ. \"でぐち\" means exit, referring to leaving a location, not necessarily involving ticket checking, while \"へいさ\" implies closure, like when a gate is closed, which contrasts with an open or operational ticket gate. ",
+  "collocations": [
+    {
+      "kanji": "かいさつぐち",
+      "furigana": "かいさつぐち",
+      "translations": {}
+    },
+    {
+      "kanji": "かいさつをとおる",
+      "furigana": "かいさつをとおる",
+      "translations": {}
+    },
+    {
+      "kanji": "かいさつでまつ",
+      "furigana": "かいさつでまつ",
+      "translations": {}
+    },
+    {
+      "kanji": "かいさつをでる",
+      "furigana": "かいさつをでる",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "改札口に友達がいます。",
+      "furigana": "改札口(かいさつぐち)に友達(ともだち)がいます。",
+      "translations": {
+        "EN": "A friend is at the ticket gate.",
+        "ID": "Seorang teman ada di gerbang tiket.",
+        "ES": "Un amigo está en la taquilla de entrada.",
+        "VI": "Một người bạn đang ở cổng soát vé.",
+        "FR": "Un ami est à la guichet.",
+        "NE": "साथी टिकट गेटमा छन्।",
+        "BN": "এক বন্ধু টিকেট গেটে রয়েছে।",
+        "ZH": "朋友在检票口。",
+        "KO": "친구가 개찰구에 있습니다.",
+        "TL": "May kaibigan sa gate ng ticket.",
+        "MY": "နှစ်ချင်းမိတ်ဆွေသည် လက်မှတ်ဂိတ်၌ ရှိသည်။",
+        "HI": "एक दोस्त टिकट गेट पर है।",
+        "AR": "هناك صديق عند بوابة التذاكر.",
+        "FA": "یک دوست در دروازه بلیط است."
+      }
+    },
+    {
+      "kanji": "私は改札を通る。",
+      "furigana": "私(わたし)は改札(かいさつ)を通(とお)る。",
+      "translations": {
+        "EN": "I pass through the ticket gate.",
+        "ID": "Saya melewati gerbang tiket.",
+        "ES": "Paso por la taquilla.",
+        "VI": "Tôi đi qua cổng vé.",
+        "FR": "Je passe par la barrière de tickets.",
+        "NE": "म टिकट गेटबाट जान्छु।",
+        "BN": "আমি টিকিট গেট দিয়ে পার হই।",
+        "ZH": "我通过检票口。",
+        "KO": "나는 개찰구를 통과한다.",
+        "TL": "Dumaan ako sa ticket gate.",
+        "MY": "ကျွန်တော်က လက်မှတ်တံခါးကို ဖြတ်ပြီးသွားတယ်။",
+        "HI": "मैं टिकट गेट के माध्यम से जाता हूँ।",
+        "AR": "أنا أعبر من خلال بوابة التذاكر.",
+        "FA": "من از دستگاه بلیط عبور می‌کنم."
+      }
+    },
+    {
+      "kanji": "改札で待つ。",
+      "furigana": "改札(かいさつ)で待(ま)つ。",
+      "translations": {
+        "EN": "Wait at the ticket gate.",
+        "ID": "Tunggu di gerbang tiket.",
+        "ES": "Espera en la puerta de entrada.",
+        "VI": "Chờ ở cổng vé.",
+        "FR": "Attendre à la barrière de péage.",
+        "NE": "टिकट गेटमा प्रतिक्षा गर्नुहोस्।",
+        "BN": "টিকিট গেটে অপেক্ষা করুন।",
+        "ZH": "在检票口等待。",
+        "KO": "개찰구에서 기다리다.",
+        "TL": "Maghintay sa ticket gate.",
+        "MY": "လက်မှတ်ဝင်ပေါက်တွင်စောင့်ပေးပါ။",
+        "HI": "टिकट द्वार पर प्रतीक्षा करें।",
+        "AR": "انتظر عند باب التذاكر.",
+        "FA": "در جلوی دروازه بلیط منتظر بمانید."
+      }
+    },
+    {
+      "kanji": "改札を出る。",
+      "furigana": "改札(かいさつ)を出(で)る。",
+      "translations": {
+        "EN": "Exit the ticket gate.",
+        "ID": "Keluar dari gerbang tiket.",
+        "ES": "Salir de la taquilla.",
+        "VI": "Ra khỏi cổng vé.",
+        "FR": "Sortez de la barrière de ticket.",
+        "NE": "टिकट गेटबाट बाहिर निस्कनुहोस्।",
+        "BN": "টিকিট গেট থেকে বের হন।",
+        "ZH": "出票口。",
+        "KO": "티켓 게이트를 나간다.",
+        "TL": "Lumabas sa pintuan ng ticket.",
+        "MY": "လက်မှတ် တံခါးကို ထွက်ပါ။",
+        "HI": "टिकट गेट से बाहर निकलें।",
+        "AR": "اخرج من بوابة التذاكر.",
+        "FA": "از دروازه بلیت خارج شوید."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "examination of tickets": {
+      "EN": "Examination of tickets",
+      "ID": "Pemeriksaan tiket",
+      "ES": "Examinación de boletos",
+      "VI": "Kiểm tra vé",
+      "FR": "Examen des billets",
+      "NE": "टिकटहरूको जांच",
+      "BN": "টিকেট পরীক্ষার কাজ",
+      "ZH": "验票",
+      "KO": "티켓 검사",
+      "TL": "Examinasyon ng mga tiket",
+      "MY": "လက်မှတ် စစ်ဆေးခြင်း",
+      "HI": "टिकटों की जांच",
+      "AR": "فحص التذاكر",
+      "FA": "تفتیش بلیط‌ها"
+    },
+    "ticket gate": {
+      "EN": "ticket gate",
+      "ID": "gerbang tiket",
+      "ES": "torniquete",
+      "VI": "cổng vé",
+      "FR": "portillon",
+      "NE": "टिकट गेट",
+      "BN": "টিকিট গেট",
+      "ZH": "检票口",
+      "KO": "티켓 게이트",
+      "TL": "gate ng tiket",
+      "MY": "လက်မှတ်အကန့်",
+      "HI": "टिकट गेट",
+      "AR": "بوابة التذاكر",
+      "FA": "دروازه بلیط"
+    }
+  },
+  "jisho_data": {
+    "slug": "改札",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n2"
+    ],
+    "japanese": [
+      {
+        "word": "改札",
+        "reading": "かいさつ"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "examination of tickets"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "ticket gate",
+          "ticket barrier"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "改",
+    "札"
+  ],
+  "kanji_data": {
+    "改": {
+      "meanings": [
+        "change",
+        "examine",
+        "inspect",
+        "mend",
+        "modify",
+        "reformation",
+        "renew",
+        "search"
+      ],
+      "on_readings": [
+        "カイ"
+      ],
+      "kun_readings": [
+        "あらた.まる",
+        "あらた.める"
+      ],
+      "stroke_count": 7,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 147,
+      "unicode": "6539",
+      "grade": 4
+    },
+    "札": {
+      "meanings": [
+        "bid",
+        "counter for bonds",
+        "paper money",
+        "placard",
+        "tag"
+      ],
+      "on_readings": [
+        "サツ"
+      ],
+      "kun_readings": [
+        "ふだ"
+      ],
+      "stroke_count": 5,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 921,
+      "unicode": "672D",
+      "grade": 4
+    }
+  }
 }

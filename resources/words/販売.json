@@ -1,248 +1,267 @@
 {
-    "version": "0.2.0",
-    "word": "販売",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/DGtrImrOJog",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "販売",
-        "reading": "はんばい",
-        "introduction_japanese": "",
-        "introduction_english": "Discover the meaning and usage of \"はんばい.\" You often encounter this term in business environments and shopping contexts. Let's dive into how it helps in everyday conversations.",
-        "meaning_explanation_japanese": "",
-        "meaning_explanation_english": "The word \"はんばい\" means \"sale\" or \"selling\" in English. It refers to the action or process of selling goods, products, or services. This term is often used in business contexts related to commercial transactions and can imply both the act of selling and the state of goods being available for purchase.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "meanings": [
-            [
-                "sale",
-                "sales",
-                "selling",
-                "marketing"
-            ]
-        ],
-        "meaning_translations": {
-            "sale": {
-                "EN": "sale",
-                "ID": "penjualan",
-                "ES": "venta",
-                "VI": "bán hàng",
-                "FR": "vente",
-                "NE": "बिक्री",
-                "BN": "বিক্রয়",
-                "ZH": "销售",
-                "KO": "판매",
-                "TL": "benta",
-                "MY": "အရောင်း",
-                "HI": "बिक्री",
-                "AR": "بيع",
-                "FA": "فروش"
-            }
-        },
-        "examples": [
-            {
-                "kanji": "この商品は販売中です。",
-                "furigana": "この商品(しょうひん)は販売(はんばい)中(ちゅう)です。",
-                "translations": {
-                    "EN": "This product is on sale.",
-                    "ID": "Produk ini sedang dijual.",
-                    "ES": "Este producto está en venta.",
-                    "VI": "Sản phẩm này đang được bán.",
-                    "FR": "Ce produit est en vente.",
-                    "NE": "यो उत्पादन बिक्रीमा छ।",
-                    "BN": "এই পণ্যটি বিক্রি চলছে।",
-                    "ZH": "这款产品正在销售。",
-                    "KO": "이 상품은 판매 중입니다.",
-                    "TL": "Ang produktong ito ay ibinebenta.",
-                    "MY": "ဒီကုန်ပစ္စည်းကို ရောင်းချနေပါသည်။",
-                    "HI": "यह उत्पाद बिक्री में है।",
-                    "AR": "هذا المنتج متوفر للبيع.",
-                    "FA": "این محصول در حال فروش است."
-                }
-            },
-            {
-                "kanji": "この販売店は大きいです。",
-                "furigana": "この販売(はんばい)店(てん)は大(おお)きいです。",
-                "translations": {
-                    "EN": "This store is big.",
-                    "ID": "Toko ini besar.",
-                    "ES": "Esta tienda es grande.",
-                    "VI": "Cửa hàng này lớn.",
-                    "FR": "Ce magasin est grand.",
-                    "NE": "यो पसल ठूलो छ।",
-                    "BN": "এই দোকানটি বড়।",
-                    "ZH": "这家商店很大。",
-                    "KO": "이 가게는 큽니다.",
-                    "TL": "Malaki ang tindahang ito.",
-                    "MY": "ဒီဆိုင်လေး တော်တော်ကြီးတယ်။",
-                    "HI": "यह दुकान बड़ी है।",
-                    "AR": "هذا المتجر كبير.",
-                    "FA": "این فروشگاه بزرگ است."
-                }
-            },
-            {
-                "kanji": "彼は販売者です。",
-                "furigana": "彼(かれ)は販売者(はんばいしゃ)です。",
-                "translations": {
-                    "EN": "He is a salesperson.",
-                    "ID": "Dia adalah seorang penjual.",
-                    "ES": "Él es un vendedor.",
-                    "VI": "Anh ấy là người bán hàng.",
-                    "FR": "Il est vendeur.",
-                    "NE": "ऊ एक विक्रेता हो।",
-                    "BN": "সে একজন বিক্রেতা।",
-                    "ZH": "他是销售人员。",
-                    "KO": "그는 판매자입니다.",
-                    "TL": "Siya ay isang tindero.",
-                    "MY": "သူသည်အရောင်း၀န်ထမ်းတစ်‌ယောက်ဖြစ်သည်။",
-                    "HI": "वह एक विक्रेता है।",
-                    "AR": "هو بائع.",
-                    "FA": "او فروشنده است."
-                }
-            },
-            {
-                "kanji": "販売量が増えました。",
-                "furigana": "販売(はんばい)量(りょう)が増(ふ)えました。",
-                "translations": {
-                    "EN": "Sales volume increased.",
-                    "ID": "Volume penjualan meningkat.",
-                    "ES": "El volumen de ventas aumentó.",
-                    "VI": "Khối lượng bán đã tăng lên.",
-                    "FR": "Le volume des ventes a augmenté.",
-                    "NE": "बिक्रीको मात्रा बढ्यो।",
-                    "BN": "বিক্রয় পরিমাণ বেড়েছে।",
-                    "ZH": "销售量增加了。",
-                    "KO": "판매량이 증가했어요.",
-                    "TL": "Tumaas ang dami ng bentahan.",
-                    "MY": "ရောင်းချမှုအရေအတွက်တိုးလာပြီ။",
-                    "HI": "बिक्री की मात्रा बढ़ गई।",
-                    "AR": "زادت كمية المبيعات.",
-                    "FA": "حجم فروش افزایش یافت."
-                }
-            },
-            {
-                "kanji": "販売速度が速い。",
-                "furigana": "販売(はんばい)速度(そくどう)が速(はや)い。",
-                "translations": {
-                    "EN": "The sales speed is fast.",
-                    "ID": "Kecepatan penjualan cepat.",
-                    "ES": "La velocidad de venta es rápida.",
-                    "VI": "Tốc độ bán hàng nhanh.",
-                    "FR": "La vitesse de vente est rapide.",
-                    "NE": "बिक्रीको गति छिटो छ।",
-                    "BN": "বিক্রির গতি দ্রুত।",
-                    "ZH": "销售速度很快。",
-                    "KO": "판매 속도가 빠르다.",
-                    "TL": "Mabilis ang bilis ng benta.",
-                    "MY": "အရောင်းနှုန်းမြန်သည်။",
-                    "HI": "बिक्री की गति तेज है।",
-                    "AR": "سرعة المبيعات سريعة.",
-                    "FA": "سرعت فروش سریع است."
-                }
-            }
-        ],
-        "synonyms": [
-            "販売促進 : はんばいそくしん : sales promotion"
-        ],
-        "synonyms_explanation": "The most common synonym of the word \"はんばい\" is \"販売促進\" which refers to \"sales promotion.\" While \"はんばい\" is the general act of selling, \"販売促進\" specifically focuses on the activities and strategies associated with boosting sales.",
-        "antonyms": [
-            "購入 : こうにゅう : purchase"
-        ],
-        "antonyms_explanation": "The most common antonym of the word \"はんばい\" is \"購入,\" which means \"purchase\" or \"buying.\" While \"はんばい\" involves selling or offering goods to customers, \"購入\" is about acquiring goods or services as a consumer.",
-        "kanji_details": [
-            {
-                "kanji": "販",
-                "common_words": [
-                    "販路: market",
-                    "販促: sales promotion"
-                ]
-            },
-            {
-                "kanji": "売",
-                "common_words": [
-                    "売店: stand",
-                    "売り上げ: amount sold"
-                ]
-            }
-        ]
-    },
-    "jisho_data": {
-        "slug": "販売",
-        "is_common": true,
-        "tags": [],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "販売",
-                "reading": "はんばい"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "sale",
-                    "sales",
-                    "selling",
-                    "marketing"
-                ],
-                "parts_of_speech": [
-                    "Noun, Suru verb, Transitive verb"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ]
-    },
-    "kanji_list": [
-        "販",
-        "売"
-    ],
-    "kanji_data": {
-        "販": {
-            "meanings": [
-                "marketing",
-                "sell",
-                "trade"
-            ],
-            "on_readings": [
-                "ハン"
-            ],
-            "kun_readings": [],
-            "stroke_count": 11,
-            "jlpt": 2,
-            "freq_mainichi_shinbun": 627,
-            "unicode": "8CA9",
-            "grade": 8
-        },
-        "売": {
-            "meanings": [
-                "sell"
-            ],
-            "on_readings": [
-                "バイ"
-            ],
-            "kun_readings": [
-                "う.る",
-                "う.れる"
-            ],
-            "stroke_count": 7,
-            "jlpt": 4,
-            "freq_mainichi_shinbun": 202,
-            "unicode": "58F2",
-            "grade": 2
-        }
-    },
-    "collocations": [
-        "はんばいちゅう",
-        "はんばいてん",
-        "はんばいしゃ",
-        "はんばいりょう",
-        "はんばいそくどう"
+  "version": "0.3.0",
+  "word": "販売",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/DGtrImrOJog",
+  "in_db": true,
+  "kanji": "販売",
+  "reading": "はんばい",
+  "introduction_japanese": "",
+  "introduction_english": "Discover the meaning and usage of \"はんばい.\" You often encounter this term in business environments and shopping contexts. Let's dive into how it helps in everyday conversations.",
+  "meanings": [
+    [
+      "sale",
+      "sales",
+      "selling",
+      "marketing"
     ]
+  ],
+  "meaning_explanation_japanese": "",
+  "meaning_explanation_english": "The word \"はんばい\" means \"sale\" or \"selling\" in English. It refers to the action or process of selling goods, products, or services. This term is often used in business contexts related to commercial transactions and can imply both the act of selling and the state of goods being available for purchase.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "販",
+      "common_words": [
+        "販路: market",
+        "販促: sales promotion"
+      ]
+    },
+    {
+      "kanji": "売",
+      "common_words": [
+        "売店: stand",
+        "売り上げ: amount sold"
+      ]
+    }
+  ],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "販売促進 : はんばいそくしん : sales promotion"
+  ],
+  "synonym_explanation": "The most common synonym of the word \"はんばい\" is \"販売促進\" which refers to \"sales promotion.\" While \"はんばい\" is the general act of selling, \"販売促進\" specifically focuses on the activities and strategies associated with boosting sales.",
+  "antonyms": [
+    "購入 : こうにゅう : purchase"
+  ],
+  "antonym_explanation": "The most common antonym of the word \"はんばい\" is \"購入,\" which means \"purchase\" or \"buying.\" While \"はんばい\" involves selling or offering goods to customers, \"購入\" is about acquiring goods or services as a consumer.",
+  "collocations": [
+    {
+      "kanji": "はんばいちゅう",
+      "furigana": "はんばいちゅう",
+      "translations": {}
+    },
+    {
+      "kanji": "はんばいてん",
+      "furigana": "はんばいてん",
+      "translations": {}
+    },
+    {
+      "kanji": "はんばいしゃ",
+      "furigana": "はんばいしゃ",
+      "translations": {}
+    },
+    {
+      "kanji": "はんばいりょう",
+      "furigana": "はんばいりょう",
+      "translations": {}
+    },
+    {
+      "kanji": "はんばいそくどう",
+      "furigana": "はんばいそくどう",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "この商品は販売中です。",
+      "furigana": "この商品(しょうひん)は販売(はんばい)中(ちゅう)です。",
+      "translations": {
+        "EN": "This product is on sale.",
+        "ID": "Produk ini sedang dijual.",
+        "ES": "Este producto está en venta.",
+        "VI": "Sản phẩm này đang được bán.",
+        "FR": "Ce produit est en vente.",
+        "NE": "यो उत्पादन बिक्रीमा छ।",
+        "BN": "এই পণ্যটি বিক্রি চলছে।",
+        "ZH": "这款产品正在销售。",
+        "KO": "이 상품은 판매 중입니다.",
+        "TL": "Ang produktong ito ay ibinebenta.",
+        "MY": "ဒီကုန်ပစ္စည်းကို ရောင်းချနေပါသည်။",
+        "HI": "यह उत्पाद बिक्री में है।",
+        "AR": "هذا المنتج متوفر للبيع.",
+        "FA": "این محصول در حال فروش است."
+      }
+    },
+    {
+      "kanji": "この販売店は大きいです。",
+      "furigana": "この販売(はんばい)店(てん)は大(おお)きいです。",
+      "translations": {
+        "EN": "This store is big.",
+        "ID": "Toko ini besar.",
+        "ES": "Esta tienda es grande.",
+        "VI": "Cửa hàng này lớn.",
+        "FR": "Ce magasin est grand.",
+        "NE": "यो पसल ठूलो छ।",
+        "BN": "এই দোকানটি বড়।",
+        "ZH": "这家商店很大。",
+        "KO": "이 가게는 큽니다.",
+        "TL": "Malaki ang tindahang ito.",
+        "MY": "ဒီဆိုင်လေး တော်တော်ကြီးတယ်။",
+        "HI": "यह दुकान बड़ी है।",
+        "AR": "هذا المتجر كبير.",
+        "FA": "این فروشگاه بزرگ است."
+      }
+    },
+    {
+      "kanji": "彼は販売者です。",
+      "furigana": "彼(かれ)は販売者(はんばいしゃ)です。",
+      "translations": {
+        "EN": "He is a salesperson.",
+        "ID": "Dia adalah seorang penjual.",
+        "ES": "Él es un vendedor.",
+        "VI": "Anh ấy là người bán hàng.",
+        "FR": "Il est vendeur.",
+        "NE": "ऊ एक विक्रेता हो।",
+        "BN": "সে একজন বিক্রেতা।",
+        "ZH": "他是销售人员。",
+        "KO": "그는 판매자입니다.",
+        "TL": "Siya ay isang tindero.",
+        "MY": "သူသည်အရောင်း၀န်ထမ်းတစ်‌ယောက်ဖြစ်သည်။",
+        "HI": "वह एक विक्रेता है।",
+        "AR": "هو بائع.",
+        "FA": "او فروشنده است."
+      }
+    },
+    {
+      "kanji": "販売量が増えました。",
+      "furigana": "販売(はんばい)量(りょう)が増(ふ)えました。",
+      "translations": {
+        "EN": "Sales volume increased.",
+        "ID": "Volume penjualan meningkat.",
+        "ES": "El volumen de ventas aumentó.",
+        "VI": "Khối lượng bán đã tăng lên.",
+        "FR": "Le volume des ventes a augmenté.",
+        "NE": "बिक्रीको मात्रा बढ्यो।",
+        "BN": "বিক্রয় পরিমাণ বেড়েছে।",
+        "ZH": "销售量增加了。",
+        "KO": "판매량이 증가했어요.",
+        "TL": "Tumaas ang dami ng bentahan.",
+        "MY": "ရောင်းချမှုအရေအတွက်တိုးလာပြီ။",
+        "HI": "बिक्री की मात्रा बढ़ गई।",
+        "AR": "زادت كمية المبيعات.",
+        "FA": "حجم فروش افزایش یافت."
+      }
+    },
+    {
+      "kanji": "販売速度が速い。",
+      "furigana": "販売(はんばい)速度(そくどう)が速(はや)い。",
+      "translations": {
+        "EN": "The sales speed is fast.",
+        "ID": "Kecepatan penjualan cepat.",
+        "ES": "La velocidad de venta es rápida.",
+        "VI": "Tốc độ bán hàng nhanh.",
+        "FR": "La vitesse de vente est rapide.",
+        "NE": "बिक्रीको गति छिटो छ।",
+        "BN": "বিক্রির গতি দ্রুত।",
+        "ZH": "销售速度很快。",
+        "KO": "판매 속도가 빠르다.",
+        "TL": "Mabilis ang bilis ng benta.",
+        "MY": "အရောင်းနှုန်းမြန်သည်။",
+        "HI": "बिक्री की गति तेज है।",
+        "AR": "سرعة المبيعات سريعة.",
+        "FA": "سرعت فروش سریع است."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "sale": {
+      "EN": "sale",
+      "ID": "penjualan",
+      "ES": "venta",
+      "VI": "bán hàng",
+      "FR": "vente",
+      "NE": "बिक्री",
+      "BN": "বিক্রয়",
+      "ZH": "销售",
+      "KO": "판매",
+      "TL": "benta",
+      "MY": "အရောင်း",
+      "HI": "बिक्री",
+      "AR": "بيع",
+      "FA": "فروش"
+    }
+  },
+  "jisho_data": {
+    "slug": "販売",
+    "is_common": true,
+    "tags": [],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "販売",
+        "reading": "はんばい"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "sale",
+          "sales",
+          "selling",
+          "marketing"
+        ],
+        "parts_of_speech": [
+          "Noun, Suru verb, Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ]
+  },
+  "kanji_list": [
+    "販",
+    "売"
+  ],
+  "kanji_data": {
+    "販": {
+      "meanings": [
+        "marketing",
+        "sell",
+        "trade"
+      ],
+      "on_readings": [
+        "ハン"
+      ],
+      "kun_readings": [],
+      "stroke_count": 11,
+      "jlpt": 2,
+      "freq_mainichi_shinbun": 627,
+      "unicode": "8CA9",
+      "grade": 8
+    },
+    "売": {
+      "meanings": [
+        "sell"
+      ],
+      "on_readings": [
+        "バイ"
+      ],
+      "kun_readings": [
+        "う.る",
+        "う.れる"
+      ],
+      "stroke_count": 7,
+      "jlpt": 4,
+      "freq_mainichi_shinbun": 202,
+      "unicode": "58F2",
+      "grade": 2
+    }
+  }
 }

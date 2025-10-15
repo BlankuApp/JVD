@@ -1,269 +1,328 @@
 {
-    "version": "0.2.0",
-    "word": "かなり",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/Aes_4_qKdHo",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "かなり",
-        "reading": "かなり",
-        "introduction_japanese": "「かなり」は、物事の程度を強く言いたいとき、比較をするとき、数・時間・距離などを多めに伝えたいときに、日常会話や文章でよく使う言葉です。",
-        "introduction_english": "The adverb かなり is common in daily talk to show degree, make comparisons, and emphasize amounts like numbers, time, or distance. It also appears as かなりの before nouns.",
-        "meanings": [
-            [
-                "considerably",
-                "fairly",
-                "quite",
-                "rather",
-                "pretty"
-            ]
-        ],
-        "meaning_explanation_japanese": "「かなり」は、ふつうよりも強い程度を表す言葉です。とてもほどではないけれど、思った以上に強い・多い・大きいという感じを伝えます。「かなりの＋名詞」という形でも使います。",
-        "meaning_explanation_english": "The word かなり means a higher-than-expected degree, like “considerably” or “quite.” It shows that something is more than normal but not the absolute maximum. It also appears as かなりの + noun.",
-        "kanji_explanation_english": "This word is usually written in kana, so there are no kanji to explain.",
-        "kanji_details": [],
-        "synonyms": [
-            "相当 : そうとう : considerably; quite"
-        ],
-        "synonyms_explanation": "The most common synonym of the word かなり is そうとう. そうとう feels a bit more formal and is often used in writing, but in many cases it matches かなり in strength.",
-        "antonyms": [
-            "少し : すこし : a little; slightly"
-        ],
-        "antonyms_explanation": "The most common antonym of the word かなり is すこし. すこし shows a small degree, which is the opposite of the larger degree expressed by かなり.",
-        "examples": [
-            {
-                "kanji": "この店はかなり高い。",
-                "furigana": "この店(みせ)はかなり高(たか)い。",
-                "translations": {
-                    "EN": "This restaurant is quite expensive.",
-                    "ID": "Restoran ini cukup mahal.",
-                    "ES": "Este restaurante es bastante caro.",
-                    "VI": "Nhà hàng này khá đắt.",
-                    "FR": "Ce restaurant est assez cher.",
-                    "NE": "यो रेस्टुरेन्ट एकदमै महँगो छ।",
-                    "BN": "এই রেস্তোরাঁটি বেশ ব্যয়বহুল।",
-                    "ZH": "这家餐厅相当贵。",
-                    "KO": "이 가게는 꽤 비싸다.",
-                    "TL": "Medyo mahal ang restaurant na ito.",
-                    "MY": "ဒီစားသောက်ဆိုင်က တော်တော်ဈေးကြီးတယ်။",
-                    "HI": "यह रेस्तरां काफी महंगा है।",
-                    "AR": "هذا المطعم غالي الثمن إلى حد ما.",
-                    "FA": "این رستوران نسبتاً گران است."
-                }
-            },
-            {
-                "kanji": "この問題はかなり難しい。",
-                "furigana": "この問題(もんだい)はかなり難(むずか)しい。",
-                "translations": {
-                    "EN": "This problem is quite difficult.",
-                    "ID": "Masalah ini cukup sulit.",
-                    "ES": "Este problema es bastante difícil.",
-                    "VI": "Vấn đề này khá khó.",
-                    "FR": "Ce problème est assez difficile.",
-                    "NE": "यो समस्या एकदमै गाह्रो छ।",
-                    "BN": "এই সমস্যাটি বেশ কঠিন।",
-                    "ZH": "这个问题相当困难。",
-                    "KO": "이 문제는 꽤 어렵다.",
-                    "TL": "Ang problemang ito ay medyo mahirap.",
-                    "MY": "ဒီပြဿနာက တော်တော်ခက်တယ်။",
-                    "HI": "यह समस्या काफी कठिन है.",
-                    "AR": "هذه المشكلة صعبة جداً.",
-                    "FA": "این مشکل کاملاً دشوار است."
-                }
-            },
-            {
-                "kanji": "今日はかなり疲れた。",
-                "furigana": "今日(きょう)はかなり疲(つか)れた。",
-                "translations": {
-                    "EN": "I'm pretty tired today.",
-                    "ID": "Saya cukup lelah hari ini.",
-                    "ES": "Estoy bastante cansado hoy.",
-                    "VI": "Hôm nay tôi khá mệt.",
-                    "FR": "Je suis assez fatigué aujourd'hui.",
-                    "NE": "आज म धेरै थाकेको छु।",
-                    "BN": "আজ আমি বেশ ক্লান্ত।",
-                    "ZH": "我今天很累。",
-                    "KO": "오늘은 꽤 피곤했다.",
-                    "TL": "Medyo pagod ako ngayong araw.",
-                    "MY": "ငါဒီနေ့တော်တော်ပင်ပန်းတယ်။",
-                    "HI": "मैं आज बहुत थक गया हूँ.",
-                    "AR": "أنا متعب جدًا اليوم.",
-                    "FA": "امروز حسابی خسته‌ام."
-                }
-            },
-            {
-                "kanji": "バスをかなり待った。",
-                "furigana": "バスをかなり待(ま)った。",
-                "translations": {
-                    "EN": "I waited quite a while for the bus.",
-                    "ID": "Saya menunggu bus cukup lama.",
-                    "ES": "Esperé bastante tiempo el autobús.",
-                    "VI": "Tôi đã đợi xe buýt khá lâu.",
-                    "FR": "J'ai attendu le bus un bon moment.",
-                    "NE": "म बसको लागि धेरै बेर पर्खिएँ।",
-                    "BN": "আমি বাসের জন্য বেশ কিছুক্ষণ অপেক্ষা করলাম।",
-                    "ZH": "我等公共汽车等了好一会儿。",
-                    "KO": "버스를 꽤 기다렸다.",
-                    "TL": "Medyo matagal akong naghintay ng bus.",
-                    "MY": "ဘတ်စ်ကားကို စောင့်ရတာ တော်တော်ကြာတယ်။",
-                    "HI": "मैंने बस के लिए काफी देर तक इंतजार किया।",
-                    "AR": "لقد انتظرت الحافلة لفترة طويلة.",
-                    "FA": "خیلی منتظر اتوبوس ماندم."
-                }
-            },
-            {
-                "kanji": "彼はかなり働く。",
-                "furigana": "彼(かれ)はかなり働(はたら)く。",
-                "translations": {
-                    "EN": "He works quite a bit.",
-                    "ID": "Dia bekerja cukup banyak.",
-                    "ES": "Él trabaja bastante.",
-                    "VI": "Anh ấy làm việc khá nhiều.",
-                    "FR": "Il travaille beaucoup.",
-                    "NE": "ऊ एकदमै काम गर्छ।",
-                    "BN": "সে বেশ কাজ করে।",
-                    "ZH": "他工作很忙。",
-                    "KO": "그는 꽤 일한다.",
-                    "TL": "Medyo nagtatrabaho siya.",
-                    "MY": "သူတော်တော်လေးအလုပ်လုပ်တယ်။",
-                    "HI": "वह काफी काम करता है.",
-                    "AR": "إنه يعمل كثيرًا.",
-                    "FA": "او خیلی کم کار می‌کند."
-                }
-            },
-            {
-                "kanji": "かなりの人数が来た。",
-                "furigana": "かなりの人数(にんずう)が来(き)た。",
-                "translations": {
-                    "EN": "Quite a number of people came.",
-                    "ID": "Cukup banyak orang yang datang.",
-                    "ES": "Vino mucha gente.",
-                    "VI": "Có khá nhiều người đến.",
-                    "FR": "Un certain nombre de personnes sont venues.",
-                    "NE": "धेरै मानिसहरू आए।",
-                    "BN": "বেশ কিছু লোক এসেছিল।",
-                    "ZH": "来的人不少。",
-                    "KO": "상당한 인원이 왔다.",
-                    "TL": "Medyo maraming tao ang dumating.",
-                    "MY": "လူအတော်လေးများလာပါသည်။",
-                    "HI": "काफी संख्या में लोग आये।",
-                    "AR": "لقد حضر عدد كبير من الناس.",
-                    "FA": "جمعیت نسبتاً زیادی آمده بودند."
-                }
-            },
-            {
-                "kanji": "駅までかなりの距離がある。",
-                "furigana": "駅(えき)までかなりの距離(きょり)がある。",
-                "translations": {
-                    "EN": "It's quite a distance to the station.",
-                    "ID": "Jaraknya cukup jauh ke stasiun.",
-                    "ES": "La estación está a una distancia considerable.",
-                    "VI": "Từ đây đến nhà ga khá xa.",
-                    "FR": "C'est assez loin de la gare.",
-                    "NE": "स्टेशनबाट धेरै टाढा छ।",
-                    "BN": "স্টেশন থেকে বেশ দূরে।",
-                    "ZH": "到车站还有一段距离。",
-                    "KO": "역까지 상당한 거리가 있다.",
-                    "TL": "Medyo may kalayuan sa istasyon.",
-                    "MY": "ဘူတာနဲ့ တော်တော်ဝေးတယ်။",
-                    "HI": "स्टेशन तक काफ़ी दूरी है.",
-                    "AR": "إنها مسافة كبيرة إلى المحطة.",
-                    "FA": "تا ایستگاه خیلی فاصله داره."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "considerably": {
-                "ID": "sangat",
-                "ES": "importantemente",
-                "VI": "đáng kể",
-                "FR": "considérablement",
-                "NE": "उल्लेखनीय रूपमा",
-                "BN": "যথেষ্ট পরিমাণে",
-                "ZH": "相当",
-                "KO": "상당히",
-                "TL": "malaki",
-                "MY": "သိသိသာသာ",
-                "HI": "काफी",
-                "AR": "إلى حد كبير",
-                "FA": "به طور قابل توجهی",
-                "EN": [
-                    "fairly",
-                    "quite",
-                    "rather",
-                    "pretty"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "可也",
-        "is_common": true,
-        "tags": [
-            "wanikani45"
-        ],
-        "jlpt": [
-            "jlpt-n3",
-            "jlpt-n1"
-        ],
-        "japanese": [
-            {
-                "word": "可也",
-                "reading": "かなり"
-            },
-            {
-                "word": "可成り",
-                "reading": "かなり"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "considerably",
-                    "fairly",
-                    "quite",
-                    "rather",
-                    "pretty"
-                ],
-                "parts_of_speech": [
-                    "Adverb (fukushi)",
-                    "Noun which may take the genitive case particle 'no'",
-                    "Na-adjective (keiyodoshi)"
-                ],
-                "links": [],
-                "tags": [
-                    "Usually written using kana alone"
-                ],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": false
-        }
-    },
-    "kanji_list": [],
-    "kanji_data": {},
-    "collocations": [
-        "かなり高い",
-        "かなり難しい",
-        "かなり大きい",
-        "かなり速い",
-        "かなり新しい",
-        "かなり疲れる",
-        "かなり待つ",
-        "かなり働く",
-        "かなり飲む",
-        "かなり勉強する",
-        "かなりの人数",
-        "かなりの時間",
-        "かなりの距離",
-        "かなりの費用",
-        "かなりの経験"
+  "version": "0.3.0",
+  "word": "かなり",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/Aes_4_qKdHo",
+  "in_db": true,
+  "kanji": "かなり",
+  "reading": "かなり",
+  "introduction_japanese": "「かなり」は、物事の程度を強く言いたいとき、比較をするとき、数・時間・距離などを多めに伝えたいときに、日常会話や文章でよく使う言葉です。",
+  "introduction_english": "The adverb かなり is common in daily talk to show degree, make comparisons, and emphasize amounts like numbers, time, or distance. It also appears as かなりの before nouns.",
+  "meanings": [
+    [
+      "considerably",
+      "fairly",
+      "quite",
+      "rather",
+      "pretty"
     ]
+  ],
+  "meaning_explanation_japanese": "「かなり」は、ふつうよりも強い程度を表す言葉です。とてもほどではないけれど、思った以上に強い・多い・大きいという感じを伝えます。「かなりの＋名詞」という形でも使います。",
+  "meaning_explanation_english": "The word かなり means a higher-than-expected degree, like “considerably” or “quite.” It shows that something is more than normal but not the absolute maximum. It also appears as かなりの + noun.",
+  "youtube_description": "",
+  "kanji_details": [],
+  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+  "synonyms": [
+    "相当 : そうとう : considerably; quite"
+  ],
+  "synonym_explanation": "The most common synonym of the word かなり is そうとう. そうとう feels a bit more formal and is often used in writing, but in many cases it matches かなり in strength.",
+  "antonyms": [
+    "少し : すこし : a little; slightly"
+  ],
+  "antonym_explanation": "The most common antonym of the word かなり is すこし. すこし shows a small degree, which is the opposite of the larger degree expressed by かなり.",
+  "collocations": [
+    {
+      "kanji": "かなり高い",
+      "furigana": "かなり高い",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり難しい",
+      "furigana": "かなり難しい",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり大きい",
+      "furigana": "かなり大きい",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり速い",
+      "furigana": "かなり速い",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり新しい",
+      "furigana": "かなり新しい",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり疲れる",
+      "furigana": "かなり疲れる",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり待つ",
+      "furigana": "かなり待つ",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり働く",
+      "furigana": "かなり働く",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり飲む",
+      "furigana": "かなり飲む",
+      "translations": {}
+    },
+    {
+      "kanji": "かなり勉強する",
+      "furigana": "かなり勉強する",
+      "translations": {}
+    },
+    {
+      "kanji": "かなりの人数",
+      "furigana": "かなりの人数",
+      "translations": {}
+    },
+    {
+      "kanji": "かなりの時間",
+      "furigana": "かなりの時間",
+      "translations": {}
+    },
+    {
+      "kanji": "かなりの距離",
+      "furigana": "かなりの距離",
+      "translations": {}
+    },
+    {
+      "kanji": "かなりの費用",
+      "furigana": "かなりの費用",
+      "translations": {}
+    },
+    {
+      "kanji": "かなりの経験",
+      "furigana": "かなりの経験",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "この店はかなり高い。",
+      "furigana": "この店(みせ)はかなり高(たか)い。",
+      "translations": {
+        "EN": "This restaurant is quite expensive.",
+        "ID": "Restoran ini cukup mahal.",
+        "ES": "Este restaurante es bastante caro.",
+        "VI": "Nhà hàng này khá đắt.",
+        "FR": "Ce restaurant est assez cher.",
+        "NE": "यो रेस्टुरेन्ट एकदमै महँगो छ।",
+        "BN": "এই রেস্তোরাঁটি বেশ ব্যয়বহুল।",
+        "ZH": "这家餐厅相当贵。",
+        "KO": "이 가게는 꽤 비싸다.",
+        "TL": "Medyo mahal ang restaurant na ito.",
+        "MY": "ဒီစားသောက်ဆိုင်က တော်တော်ဈေးကြီးတယ်။",
+        "HI": "यह रेस्तरां काफी महंगा है।",
+        "AR": "هذا المطعم غالي الثمن إلى حد ما.",
+        "FA": "این رستوران نسبتاً گران است."
+      }
+    },
+    {
+      "kanji": "この問題はかなり難しい。",
+      "furigana": "この問題(もんだい)はかなり難(むずか)しい。",
+      "translations": {
+        "EN": "This problem is quite difficult.",
+        "ID": "Masalah ini cukup sulit.",
+        "ES": "Este problema es bastante difícil.",
+        "VI": "Vấn đề này khá khó.",
+        "FR": "Ce problème est assez difficile.",
+        "NE": "यो समस्या एकदमै गाह्रो छ।",
+        "BN": "এই সমস্যাটি বেশ কঠিন।",
+        "ZH": "这个问题相当困难。",
+        "KO": "이 문제는 꽤 어렵다.",
+        "TL": "Ang problemang ito ay medyo mahirap.",
+        "MY": "ဒီပြဿနာက တော်တော်ခက်တယ်။",
+        "HI": "यह समस्या काफी कठिन है.",
+        "AR": "هذه المشكلة صعبة جداً.",
+        "FA": "این مشکل کاملاً دشوار است."
+      }
+    },
+    {
+      "kanji": "今日はかなり疲れた。",
+      "furigana": "今日(きょう)はかなり疲(つか)れた。",
+      "translations": {
+        "EN": "I'm pretty tired today.",
+        "ID": "Saya cukup lelah hari ini.",
+        "ES": "Estoy bastante cansado hoy.",
+        "VI": "Hôm nay tôi khá mệt.",
+        "FR": "Je suis assez fatigué aujourd'hui.",
+        "NE": "आज म धेरै थाकेको छु।",
+        "BN": "আজ আমি বেশ ক্লান্ত।",
+        "ZH": "我今天很累。",
+        "KO": "오늘은 꽤 피곤했다.",
+        "TL": "Medyo pagod ako ngayong araw.",
+        "MY": "ငါဒီနေ့တော်တော်ပင်ပန်းတယ်။",
+        "HI": "मैं आज बहुत थक गया हूँ.",
+        "AR": "أنا متعب جدًا اليوم.",
+        "FA": "امروز حسابی خسته‌ام."
+      }
+    },
+    {
+      "kanji": "バスをかなり待った。",
+      "furigana": "バスをかなり待(ま)った。",
+      "translations": {
+        "EN": "I waited quite a while for the bus.",
+        "ID": "Saya menunggu bus cukup lama.",
+        "ES": "Esperé bastante tiempo el autobús.",
+        "VI": "Tôi đã đợi xe buýt khá lâu.",
+        "FR": "J'ai attendu le bus un bon moment.",
+        "NE": "म बसको लागि धेरै बेर पर्खिएँ।",
+        "BN": "আমি বাসের জন্য বেশ কিছুক্ষণ অপেক্ষা করলাম।",
+        "ZH": "我等公共汽车等了好一会儿。",
+        "KO": "버스를 꽤 기다렸다.",
+        "TL": "Medyo matagal akong naghintay ng bus.",
+        "MY": "ဘတ်စ်ကားကို စောင့်ရတာ တော်တော်ကြာတယ်။",
+        "HI": "मैंने बस के लिए काफी देर तक इंतजार किया।",
+        "AR": "لقد انتظرت الحافلة لفترة طويلة.",
+        "FA": "خیلی منتظر اتوبوس ماندم."
+      }
+    },
+    {
+      "kanji": "彼はかなり働く。",
+      "furigana": "彼(かれ)はかなり働(はたら)く。",
+      "translations": {
+        "EN": "He works quite a bit.",
+        "ID": "Dia bekerja cukup banyak.",
+        "ES": "Él trabaja bastante.",
+        "VI": "Anh ấy làm việc khá nhiều.",
+        "FR": "Il travaille beaucoup.",
+        "NE": "ऊ एकदमै काम गर्छ।",
+        "BN": "সে বেশ কাজ করে।",
+        "ZH": "他工作很忙。",
+        "KO": "그는 꽤 일한다.",
+        "TL": "Medyo nagtatrabaho siya.",
+        "MY": "သူတော်တော်လေးအလုပ်လုပ်တယ်။",
+        "HI": "वह काफी काम करता है.",
+        "AR": "إنه يعمل كثيرًا.",
+        "FA": "او خیلی کم کار می‌کند."
+      }
+    },
+    {
+      "kanji": "かなりの人数が来た。",
+      "furigana": "かなりの人数(にんずう)が来(き)た。",
+      "translations": {
+        "EN": "Quite a number of people came.",
+        "ID": "Cukup banyak orang yang datang.",
+        "ES": "Vino mucha gente.",
+        "VI": "Có khá nhiều người đến.",
+        "FR": "Un certain nombre de personnes sont venues.",
+        "NE": "धेरै मानिसहरू आए।",
+        "BN": "বেশ কিছু লোক এসেছিল।",
+        "ZH": "来的人不少。",
+        "KO": "상당한 인원이 왔다.",
+        "TL": "Medyo maraming tao ang dumating.",
+        "MY": "လူအတော်လေးများလာပါသည်။",
+        "HI": "काफी संख्या में लोग आये।",
+        "AR": "لقد حضر عدد كبير من الناس.",
+        "FA": "جمعیت نسبتاً زیادی آمده بودند."
+      }
+    },
+    {
+      "kanji": "駅までかなりの距離がある。",
+      "furigana": "駅(えき)までかなりの距離(きょり)がある。",
+      "translations": {
+        "EN": "It's quite a distance to the station.",
+        "ID": "Jaraknya cukup jauh ke stasiun.",
+        "ES": "La estación está a una distancia considerable.",
+        "VI": "Từ đây đến nhà ga khá xa.",
+        "FR": "C'est assez loin de la gare.",
+        "NE": "स्टेशनबाट धेरै टाढा छ।",
+        "BN": "স্টেশন থেকে বেশ দূরে।",
+        "ZH": "到车站还有一段距离。",
+        "KO": "역까지 상당한 거리가 있다.",
+        "TL": "Medyo may kalayuan sa istasyon.",
+        "MY": "ဘူတာနဲ့ တော်တော်ဝေးတယ်။",
+        "HI": "स्टेशन तक काफ़ी दूरी है.",
+        "AR": "إنها مسافة كبيرة إلى المحطة.",
+        "FA": "تا ایستگاه خیلی فاصله داره."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "considerably": {
+      "ID": "sangat",
+      "ES": "importantemente",
+      "VI": "đáng kể",
+      "FR": "considérablement",
+      "NE": "उल्लेखनीय रूपमा",
+      "BN": "যথেষ্ট পরিমাণে",
+      "ZH": "相当",
+      "KO": "상당히",
+      "TL": "malaki",
+      "MY": "သိသိသာသာ",
+      "HI": "काफी",
+      "AR": "إلى حد كبير",
+      "FA": "به طور قابل توجهی",
+      "EN": [
+        "fairly",
+        "quite",
+        "rather",
+        "pretty"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "可也",
+    "is_common": true,
+    "tags": [
+      "wanikani45"
+    ],
+    "jlpt": [
+      "jlpt-n3",
+      "jlpt-n1"
+    ],
+    "japanese": [
+      {
+        "word": "可也",
+        "reading": "かなり"
+      },
+      {
+        "word": "可成り",
+        "reading": "かなり"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "considerably",
+          "fairly",
+          "quite",
+          "rather",
+          "pretty"
+        ],
+        "parts_of_speech": [
+          "Adverb (fukushi)",
+          "Noun which may take the genitive case particle 'no'",
+          "Na-adjective (keiyodoshi)"
+        ],
+        "links": [],
+        "tags": [
+          "Usually written using kana alone"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": false
+    }
+  },
+  "kanji_list": [],
+  "kanji_data": {}
 }

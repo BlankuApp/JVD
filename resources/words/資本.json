@@ -1,390 +1,489 @@
 {
-    "version": "0.2.0",
-    "word": "資本",
-    "jlpt_level": 3,
-    "youtube_link": "https://youtu.be/BQCC45CfSCc",
-    "in_db": true,
-    "ai_explanation": {
-        "kanji": "資本",
-        "reading": "しほん",
-        "introduction_japanese": "「資本」は、会社やビジネス、お金や投資、経済の話でよく出てくる言葉です。外国からの投資や企業の話、人や知識を強みとして使う場面でも使います。",
-        "introduction_english": "The noun しほん is commonly seen in conversations about companies, business, money and investment, and in economic contexts. It is also used when talking about foreign investment or using people, knowledge, or experience as a resource.",
-        "meanings": [
-            [
-                "funds, money used for business or investment",
-                "capital (money or assets owned by a company or person)"
-            ],
-            [
-                "capital as a broader economic concept (resources used to produce value)",
-                "intangible resources used as capital (knowledge, experience, networks)"
-            ]
-        ],
-        "meaning_explanation_japanese": "資本は、会社や事業で使うお金や資産のことを指します。広い意味では、知識や経験、人脈など価値を生む資源を指すこともあります。",
-        "meaning_explanation_english": "The word しほん means money or assets used in business or investment. It can also mean resources that create value, like knowledge, experience, or networks.",
-        "kanji_explanation_english": "The first kanji means assets, funds, or resources. In words like しげん it helps mean natural or available resources, and in しきん it contributes the idea of money or funds used for projects. The second kanji means origin, book, or main. In words like ほんとう it gives the sense of something being real or true, and in ほんや it helps mean a place that sells books.",
-        "kanji_details": [
-            {
-                "kanji": "資",
-                "meanings": [
-                    "assets",
-                    "be conducive to",
-                    "capital",
-                    "contribute to",
-                    "data",
-                    "funds",
-                    "resources"
-                ],
-                "on_readings": [
-                    "シ"
-                ],
-                "kun_readings": [],
-                "common_words": [
-                    "資源 (しげん): resources",
-                    "資金 (しきん): funds"
-                ]
-            },
-            {
-                "kanji": "本",
-                "meanings": [
-                    "book",
-                    "counter for long cylindrical things",
-                    "main",
-                    "origin",
-                    "present",
-                    "real",
-                    "true"
-                ],
-                "on_readings": [
-                    "ホン"
-                ],
-                "kun_readings": [
-                    "もと"
-                ],
-                "common_words": [
-                    "本当 (ほんとう): truth/reality",
-                    "本屋 (ほんや): bookstore"
-                ]
-            }
-        ],
-        "synonyms": [
-            "資金 : しきん : funds",
-            "財産 : ざいさん : assets"
-        ],
-        "synonyms_explanation": "The most common synonyms of the 資本 are しきん and ざいさん. しきん focuses on money or monetary funds and is very close to 資本 when talking about financing. ざいさん means assets or property and is broader, including possessions beyond just business capital.",
-        "antonyms": [],
-        "antonyms_explanation": "No common antonyms found.",
-        "examples": [
-            {
-                "kanji": "企業の資本は大切だ。",
-                "furigana": "企業(きぎょう)の資本(しほん)は大切(たいせつ)だ。",
-                "translations": {
-                    "EN": "Corporate capital is important.",
-                    "ID": "Modal perusahaan itu penting.",
-                    "ES": "El capital corporativo es importante.",
-                    "VI": "Vốn doanh nghiệp rất quan trọng.",
-                    "FR": "Le capital des entreprises est important.",
-                    "NE": "कर्पोरेट पूँजी महत्त्वपूर्ण छ।",
-                    "BN": "কর্পোরেট মূলধন গুরুত্বপূর্ণ।",
-                    "ZH": "企业资本很重要。",
-                    "KO": "기업의 자본은 중요하다.",
-                    "TL": "Mahalaga ang corporate capital.",
-                    "MY": "ကော်ပိုရိတ်အရင်းအနှီးက အရေးကြီးတယ်။",
-                    "HI": "कॉर्पोरेट पूंजी महत्वपूर्ण है।",
-                    "AR": "رأس مال الشركة مهم.",
-                    "FA": "سرمایه شرکت مهم است."
-                }
-            },
-            {
-                "kanji": "外国の資本が入った。",
-                "furigana": "外国(がいこく)の資本(しほん)が入(はい)った。",
-                "translations": {
-                    "EN": "Foreign capital came in.",
-                    "ID": "Modal asing masuk.",
-                    "ES": "Llegó capital extranjero.",
-                    "VI": "Vốn nước ngoài đã đổ vào.",
-                    "FR": "Les capitaux étrangers sont arrivés.",
-                    "NE": "विदेशी पूँजी भित्रियो।",
-                    "BN": "বিদেশী পুঁজি এসেছিল।",
-                    "ZH": "外资进来了。",
-                    "KO": "외국 자본이 들어갔다.",
-                    "TL": "Pumasok ang dayuhang kapital.",
-                    "MY": "နိုင်ငံခြား အရင်းအနှီးတွေ ဝင်လာတယ်။",
-                    "HI": "विदेशी पूंजी आई।",
-                    "AR": "لقد جاء رأس المال الأجنبي.",
-                    "FA": "سرمایه خارجی وارد شد."
-                }
-            },
-            {
-                "kanji": "彼は知識を資本にして働く。",
-                "furigana": "彼(かれ)は知識(ちしき)を資本(しほん)にして働(はたら)く。",
-                "translations": {
-                    "EN": "He works with knowledge as his capital.",
-                    "ID": "Dia bekerja dengan pengetahuan sebagai modalnya.",
-                    "ES": "Trabaja con el conocimiento como su capital.",
-                    "VI": "Ông làm việc với kiến thức là vốn liếng của mình.",
-                    "FR": "Il travaille avec la connaissance comme capital.",
-                    "NE": "उनी ज्ञानलाई आफ्नो पूँजीको रूपमा लिएर काम गर्छन्।",
-                    "BN": "সে জ্ঞানকে তার মূলধন হিসেবে নিয়ে কাজ করে।",
-                    "ZH": "他以知识作为自己的资本来工作。",
-                    "KO": "그는 지식을 자본으로 하여 일한다.",
-                    "TL": "Nagtatrabaho siya na may kaalaman bilang kanyang kapital.",
-                    "MY": "အရင်းအနှီးအဖြစ် အသိပညာဖြင့် အလုပ်လုပ်သည်။",
-                    "HI": "वह ज्ञान को अपनी पूंजी मानकर काम करता है।",
-                    "AR": "يعمل بالمعرفة كرأس ماله.",
-                    "FA": "او با دانش به عنوان سرمایه خود کار می‌کند."
-                }
-            },
-            {
-                "kanji": "経験を資本にすることは大事だ。",
-                "furigana": "経験(けいけん)を資本(しほん)にすることは大事(だいじ)だ。",
-                "translations": {
-                    "EN": "It's important to capitalize on experience.",
-                    "ID": "Penting untuk memanfaatkan pengalaman.",
-                    "ES": "Es importante aprovechar la experiencia.",
-                    "VI": "Điều quan trọng là phải tận dụng kinh nghiệm.",
-                    "FR": "Il est important de capitaliser sur l’expérience.",
-                    "NE": "अनुभवलाई पूँजीकृत गर्नु महत्त्वपूर्ण छ।",
-                    "BN": "অভিজ্ঞতাকে কাজে লাগানো গুরুত্বপূর্ণ।",
-                    "ZH": "利用经验很重要。",
-                    "KO": "경험을 자본으로 만드는 것은 중요하다.",
-                    "TL": "Mahalagang gamitin ang karanasan.",
-                    "MY": "အတွေ့အကြုံကို အသုံးချတတ်ဖို့ အရေးကြီးပါတယ်။",
-                    "HI": "अनुभव का लाभ उठाना महत्वपूर्ण है।",
-                    "AR": "من المهم الاستفادة من الخبرة.",
-                    "FA": "مهم این است که از تجربه استفاده کنیم."
-                }
-            },
-            {
-                "kanji": "資本を集める。",
-                "furigana": "資本(しほん)を集(あつ)める。",
-                "translations": {
-                    "EN": "Raise capital.",
-                    "ID": "Mengumpulkan modal.",
-                    "ES": "Recaudar capital.",
-                    "VI": "Huy động vốn.",
-                    "FR": "Lever des capitaux.",
-                    "NE": "पूँजी जुटाउनुहोस्।",
-                    "BN": "মূলধন সংগ্রহ করুন।",
-                    "ZH": "筹集资金。",
-                    "KO": "자본을 모은다.",
-                    "TL": "Itaas ang kapital.",
-                    "MY": "အရင်းအနှီးကို မြှင့်တင်ပါ။",
-                    "HI": "पूंजी जुटाना।",
-                    "AR": "جمع رأس المال.",
-                    "FA": "سرمایه جذب کنید."
-                }
-            },
-            {
-                "kanji": "資本市場は変化している。",
-                "furigana": "資本(しほん)市場(しじょう)は変化(へんか)している。",
-                "translations": {
-                    "EN": "Capital markets are changing.",
-                    "ID": "Pasar modal sedang berubah.",
-                    "ES": "Los mercados de capitales están cambiando.",
-                    "VI": "Thị trường vốn đang thay đổi.",
-                    "FR": "Les marchés financiers évoluent.",
-                    "NE": "पूँजी बजार परिवर्तन हुँदैछ।",
-                    "BN": "পুঁজিবাজার পরিবর্তন হচ্ছে।",
-                    "ZH": "资本市场正在发生变化。",
-                    "KO": "자본시장은 변화하고 있다.",
-                    "TL": "Ang mga capital market ay nagbabago.",
-                    "MY": "အရင်းအနှီးဈေးကွက်များ ပြောင်းလဲလာသည်။",
-                    "HI": "पूंजी बाजार बदल रहे हैं।",
-                    "AR": "أسواق رأس المال تتغير.",
-                    "FA": "بازارهای سرمایه در حال تغییر هستند."
-                }
-            }
-        ],
-        "meaning_translations": {
-            "funds, money used for business or investment": {
-                "ID": "dana, uang yang digunakan untuk bisnis atau investasi",
-                "ES": "fondos, dinero utilizado para negocios o inversiones",
-                "VI": "quỹ, tiền dùng cho kinh doanh hoặc đầu tư",
-                "FR": "fonds, argent utilisé à des fins commerciales ou d'investissement",
-                "NE": "कोष, व्यवसाय वा लगानीको लागि प्रयोग गरिएको पैसा",
-                "BN": "তহবিল, ব্যবসা বা বিনিয়োগের জন্য ব্যবহৃত অর্থ",
-                "ZH": "资金，用于商业或投资的钱",
-                "KO": "자금, 사업이나 투자에 사용되는 돈",
-                "TL": "pondo, pera na ginagamit para sa negosyo o pamumuhunan",
-                "MY": "ရန်ပုံငွေ၊ လုပ်ငန်း သို့မဟုတ် ရင်းနှီးမြှုပ်နှံမှုအတွက် အသုံးပြုသောငွေ",
-                "HI": "धन, व्यवसाय या निवेश के लिए उपयोग किया जाने वाला धन",
-                "AR": "الأموال، الأموال المستخدمة في الأعمال أو الاستثمار",
-                "FA": "وجوه، پولی که برای تجارت یا سرمایه‌گذاری استفاده می‌شود",
-                "EN": [
-                    "capital (money or assets owned by a company or person)"
-                ]
-            },
-            "capital as a broader economic concept (resources used to produce value)": {
-                "ID": "modal sebagai konsep ekonomi yang lebih luas (sumber daya yang digunakan untuk menghasilkan nilai)",
-                "ES": "El capital como concepto económico más amplio (recursos utilizados para producir valor)",
-                "VI": "vốn như một khái niệm kinh tế rộng hơn (nguồn lực được sử dụng để tạo ra giá trị)",
-                "FR": "le capital en tant que concept économique plus large (ressources utilisées pour produire de la valeur)",
-                "NE": "पूँजी एक व्यापक आर्थिक अवधारणाको रूपमा (मूल्य उत्पादन गर्न प्रयोग गरिने स्रोतहरू)",
-                "BN": "একটি বৃহত্তর অর্থনৈতিক ধারণা হিসেবে মূলধন (মূল্য উৎপাদনে ব্যবহৃত সম্পদ)",
-                "ZH": "资本作为更广泛的经济概念（用于创造价值的资源）",
-                "KO": "더 넓은 경제적 개념으로서의 자본(가치를 생산하는 데 사용되는 자원)",
-                "TL": "kapital bilang isang mas malawak na konseptong pang-ekonomiya (mga mapagkukunang ginagamit upang makabuo ng halaga)",
-                "MY": "အရင်းအနှီးကို ပိုမိုကျယ်ပြန့်သော စီးပွားရေးအယူအဆအဖြစ် (တန်ဖိုးထုတ်လုပ်ရန်အသုံးပြုသည့် အရင်းအမြစ်များ)၊",
-                "HI": "पूंजी एक व्यापक आर्थिक अवधारणा के रूप में (मूल्य उत्पादन के लिए प्रयुक्त संसाधन)",
-                "AR": "رأس المال كمفهوم اقتصادي أوسع (الموارد المستخدمة لإنتاج القيمة)",
-                "FA": "سرمایه به عنوان یک مفهوم اقتصادی گسترده‌تر (منابعی که برای تولید ارزش استفاده می‌شوند)",
-                "EN": [
-                    "intangible resources used as capital (knowledge, experience, networks)"
-                ]
-            }
-        }
-    },
-    "jisho_data": {
-        "slug": "資本",
-        "is_common": true,
-        "tags": [
-            "wanikani21"
-        ],
-        "jlpt": [
-            "jlpt-n3"
-        ],
-        "japanese": [
-            {
-                "word": "資本",
-                "reading": "しほん"
-            }
-        ],
-        "senses": [
-            {
-                "english_definitions": [
-                    "funds",
-                    "capital"
-                ],
-                "parts_of_speech": [
-                    "Noun"
-                ],
-                "links": [],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": []
-            },
-            {
-                "english_definitions": [
-                    "Capital (economics)"
-                ],
-                "parts_of_speech": [
-                    "Wikipedia definition"
-                ],
-                "links": [
-                    {
-                        "text": "Read “Capital (economics)” on English Wikipedia",
-                        "url": "http://en.wikipedia.org/wiki/Capital_(economics)?oldid=489506522"
-                    },
-                    {
-                        "text": "Read “資本” on Japanese Wikipedia",
-                        "url": "http://ja.wikipedia.org/wiki/資本?oldid=41760511"
-                    }
-                ],
-                "tags": [],
-                "restrictions": [],
-                "see_also": [],
-                "antonyms": [],
-                "source": [],
-                "info": [],
-                "sentences": []
-            }
-        ],
-        "attribution": {
-            "jmdict": true,
-            "jmnedict": false,
-            "dbpedia": "http://dbpedia.org/resource/Capital_(economics)"
-        }
-    },
-    "kanji_list": [
-        "資",
-        "本"
+  "version": "0.3.0",
+  "word": "資本",
+  "jlpt_level": 3,
+  "youtube_link": "https://youtu.be/BQCC45CfSCc",
+  "in_db": true,
+  "kanji": "資本",
+  "reading": "しほん",
+  "introduction_japanese": "「資本」は、会社やビジネス、お金や投資、経済の話でよく出てくる言葉です。外国からの投資や企業の話、人や知識を強みとして使う場面でも使います。",
+  "introduction_english": "The noun しほん is commonly seen in conversations about companies, business, money and investment, and in economic contexts. It is also used when talking about foreign investment or using people, knowledge, or experience as a resource.",
+  "meanings": [
+    [
+      "funds, money used for business or investment",
+      "capital (money or assets owned by a company or person)"
     ],
-    "kanji_data": {
-        "資": {
-            "freq_mainichi_shinbun": 179,
-            "grade": 5,
-            "heisig_en": "assets",
-            "jlpt": 3,
-            "kanji": "資",
-            "kun_readings": [],
-            "meanings": [
-                "assets",
-                "be conducive to",
-                "capital",
-                "contribute to",
-                "data",
-                "funds",
-                "resources"
-            ],
-            "name_readings": [
-                "すけ",
-                "もと"
-            ],
-            "notes": [],
-            "on_readings": [
-                "シ"
-            ],
-            "stroke_count": 13,
-            "unicode": "8CC7"
-        },
-        "本": {
-            "freq_mainichi_shinbun": 10,
-            "grade": 1,
-            "heisig_en": "book",
-            "jlpt": 5,
-            "kanji": "本",
-            "kun_readings": [
-                "もと"
-            ],
-            "meanings": [
-                "book",
-                "counter for long cylindrical things",
-                "main",
-                "origin",
-                "present",
-                "real",
-                "true"
-            ],
-            "name_readings": [
-                "ごう",
-                "まと"
-            ],
-            "notes": [],
-            "on_readings": [
-                "ホン"
-            ],
-            "stroke_count": 5,
-            "unicode": "672C"
-        }
-    },
-    "collocations": [
-        "企業の資本",
-        "国家の資本",
-        "外国の資本",
-        "金融の資本",
-        "株主の資本",
-        "知識を資本にする",
-        "経験を資本にする",
-        "技術を資本にする",
-        "人脈を資本にする",
-        "労働力を資本とする",
-        "資本主義",
-        "資本政策",
-        "資本提携",
-        "資本金",
-        "資本市場",
-        "資本を投入する",
-        "資本を集める",
-        "資本を導入する",
-        "資本を持つ",
-        "資本を運用する",
-        "外国資本",
-        "多額の資本",
-        "巨大な資本",
-        "豊富な資本",
-        "不足する資本"
+    [
+      "capital as a broader economic concept (resources used to produce value)",
+      "intangible resources used as capital (knowledge, experience, networks)"
     ]
+  ],
+  "meaning_explanation_japanese": "資本は、会社や事業で使うお金や資産のことを指します。広い意味では、知識や経験、人脈など価値を生む資源を指すこともあります。",
+  "meaning_explanation_english": "The word しほん means money or assets used in business or investment. It can also mean resources that create value, like knowledge, experience, or networks.",
+  "youtube_description": "",
+  "kanji_details": [
+    {
+      "kanji": "資",
+      "meanings": [
+        "assets",
+        "be conducive to",
+        "capital",
+        "contribute to",
+        "data",
+        "funds",
+        "resources"
+      ],
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [],
+      "common_words": [
+        "資源 (しげん): resources",
+        "資金 (しきん): funds"
+      ]
+    },
+    {
+      "kanji": "本",
+      "meanings": [
+        "book",
+        "counter for long cylindrical things",
+        "main",
+        "origin",
+        "present",
+        "real",
+        "true"
+      ],
+      "on_readings": [
+        "ホン"
+      ],
+      "kun_readings": [
+        "もと"
+      ],
+      "common_words": [
+        "本当 (ほんとう): truth/reality",
+        "本屋 (ほんや): bookstore"
+      ]
+    }
+  ],
+  "kanji_explanation": "The first kanji means assets, funds, or resources. In words like しげん it helps mean natural or available resources, and in しきん it contributes the idea of money or funds used for projects. The second kanji means origin, book, or main. In words like ほんとう it gives the sense of something being real or true, and in ほんや it helps mean a place that sells books.",
+  "synonyms": [
+    "資金 : しきん : funds",
+    "財産 : ざいさん : assets"
+  ],
+  "synonym_explanation": "The most common synonyms of the 資本 are しきん and ざいさん. しきん focuses on money or monetary funds and is very close to 資本 when talking about financing. ざいさん means assets or property and is broader, including possessions beyond just business capital.",
+  "antonyms": [],
+  "antonym_explanation": "No common antonyms found.",
+  "collocations": [
+    {
+      "kanji": "企業の資本",
+      "furigana": "企業の資本",
+      "translations": {}
+    },
+    {
+      "kanji": "国家の資本",
+      "furigana": "国家の資本",
+      "translations": {}
+    },
+    {
+      "kanji": "外国の資本",
+      "furigana": "外国の資本",
+      "translations": {}
+    },
+    {
+      "kanji": "金融の資本",
+      "furigana": "金融の資本",
+      "translations": {}
+    },
+    {
+      "kanji": "株主の資本",
+      "furigana": "株主の資本",
+      "translations": {}
+    },
+    {
+      "kanji": "知識を資本にする",
+      "furigana": "知識を資本にする",
+      "translations": {}
+    },
+    {
+      "kanji": "経験を資本にする",
+      "furigana": "経験を資本にする",
+      "translations": {}
+    },
+    {
+      "kanji": "技術を資本にする",
+      "furigana": "技術を資本にする",
+      "translations": {}
+    },
+    {
+      "kanji": "人脈を資本にする",
+      "furigana": "人脈を資本にする",
+      "translations": {}
+    },
+    {
+      "kanji": "労働力を資本とする",
+      "furigana": "労働力を資本とする",
+      "translations": {}
+    },
+    {
+      "kanji": "資本主義",
+      "furigana": "資本主義",
+      "translations": {}
+    },
+    {
+      "kanji": "資本政策",
+      "furigana": "資本政策",
+      "translations": {}
+    },
+    {
+      "kanji": "資本提携",
+      "furigana": "資本提携",
+      "translations": {}
+    },
+    {
+      "kanji": "資本金",
+      "furigana": "資本金",
+      "translations": {}
+    },
+    {
+      "kanji": "資本市場",
+      "furigana": "資本市場",
+      "translations": {}
+    },
+    {
+      "kanji": "資本を投入する",
+      "furigana": "資本を投入する",
+      "translations": {}
+    },
+    {
+      "kanji": "資本を集める",
+      "furigana": "資本を集める",
+      "translations": {}
+    },
+    {
+      "kanji": "資本を導入する",
+      "furigana": "資本を導入する",
+      "translations": {}
+    },
+    {
+      "kanji": "資本を持つ",
+      "furigana": "資本を持つ",
+      "translations": {}
+    },
+    {
+      "kanji": "資本を運用する",
+      "furigana": "資本を運用する",
+      "translations": {}
+    },
+    {
+      "kanji": "外国資本",
+      "furigana": "外国資本",
+      "translations": {}
+    },
+    {
+      "kanji": "多額の資本",
+      "furigana": "多額の資本",
+      "translations": {}
+    },
+    {
+      "kanji": "巨大な資本",
+      "furigana": "巨大な資本",
+      "translations": {}
+    },
+    {
+      "kanji": "豊富な資本",
+      "furigana": "豊富な資本",
+      "translations": {}
+    },
+    {
+      "kanji": "不足する資本",
+      "furigana": "不足する資本",
+      "translations": {}
+    }
+  ],
+  "example_sentences": [
+    {
+      "kanji": "企業の資本は大切だ。",
+      "furigana": "企業(きぎょう)の資本(しほん)は大切(たいせつ)だ。",
+      "translations": {
+        "EN": "Corporate capital is important.",
+        "ID": "Modal perusahaan itu penting.",
+        "ES": "El capital corporativo es importante.",
+        "VI": "Vốn doanh nghiệp rất quan trọng.",
+        "FR": "Le capital des entreprises est important.",
+        "NE": "कर्पोरेट पूँजी महत्त्वपूर्ण छ।",
+        "BN": "কর্পোরেট মূলধন গুরুত্বপূর্ণ।",
+        "ZH": "企业资本很重要。",
+        "KO": "기업의 자본은 중요하다.",
+        "TL": "Mahalaga ang corporate capital.",
+        "MY": "ကော်ပိုရိတ်အရင်းအနှီးက အရေးကြီးတယ်။",
+        "HI": "कॉर्पोरेट पूंजी महत्वपूर्ण है।",
+        "AR": "رأس مال الشركة مهم.",
+        "FA": "سرمایه شرکت مهم است."
+      }
+    },
+    {
+      "kanji": "外国の資本が入った。",
+      "furigana": "外国(がいこく)の資本(しほん)が入(はい)った。",
+      "translations": {
+        "EN": "Foreign capital came in.",
+        "ID": "Modal asing masuk.",
+        "ES": "Llegó capital extranjero.",
+        "VI": "Vốn nước ngoài đã đổ vào.",
+        "FR": "Les capitaux étrangers sont arrivés.",
+        "NE": "विदेशी पूँजी भित्रियो।",
+        "BN": "বিদেশী পুঁজি এসেছিল।",
+        "ZH": "外资进来了。",
+        "KO": "외국 자본이 들어갔다.",
+        "TL": "Pumasok ang dayuhang kapital.",
+        "MY": "နိုင်ငံခြား အရင်းအနှီးတွေ ဝင်လာတယ်။",
+        "HI": "विदेशी पूंजी आई।",
+        "AR": "لقد جاء رأس المال الأجنبي.",
+        "FA": "سرمایه خارجی وارد شد."
+      }
+    },
+    {
+      "kanji": "彼は知識を資本にして働く。",
+      "furigana": "彼(かれ)は知識(ちしき)を資本(しほん)にして働(はたら)く。",
+      "translations": {
+        "EN": "He works with knowledge as his capital.",
+        "ID": "Dia bekerja dengan pengetahuan sebagai modalnya.",
+        "ES": "Trabaja con el conocimiento como su capital.",
+        "VI": "Ông làm việc với kiến thức là vốn liếng của mình.",
+        "FR": "Il travaille avec la connaissance comme capital.",
+        "NE": "उनी ज्ञानलाई आफ्नो पूँजीको रूपमा लिएर काम गर्छन्।",
+        "BN": "সে জ্ঞানকে তার মূলধন হিসেবে নিয়ে কাজ করে।",
+        "ZH": "他以知识作为自己的资本来工作。",
+        "KO": "그는 지식을 자본으로 하여 일한다.",
+        "TL": "Nagtatrabaho siya na may kaalaman bilang kanyang kapital.",
+        "MY": "အရင်းအနှီးအဖြစ် အသိပညာဖြင့် အလုပ်လုပ်သည်။",
+        "HI": "वह ज्ञान को अपनी पूंजी मानकर काम करता है।",
+        "AR": "يعمل بالمعرفة كرأس ماله.",
+        "FA": "او با دانش به عنوان سرمایه خود کار می‌کند."
+      }
+    },
+    {
+      "kanji": "経験を資本にすることは大事だ。",
+      "furigana": "経験(けいけん)を資本(しほん)にすることは大事(だいじ)だ。",
+      "translations": {
+        "EN": "It's important to capitalize on experience.",
+        "ID": "Penting untuk memanfaatkan pengalaman.",
+        "ES": "Es importante aprovechar la experiencia.",
+        "VI": "Điều quan trọng là phải tận dụng kinh nghiệm.",
+        "FR": "Il est important de capitaliser sur l’expérience.",
+        "NE": "अनुभवलाई पूँजीकृत गर्नु महत्त्वपूर्ण छ।",
+        "BN": "অভিজ্ঞতাকে কাজে লাগানো গুরুত্বপূর্ণ।",
+        "ZH": "利用经验很重要。",
+        "KO": "경험을 자본으로 만드는 것은 중요하다.",
+        "TL": "Mahalagang gamitin ang karanasan.",
+        "MY": "အတွေ့အကြုံကို အသုံးချတတ်ဖို့ အရေးကြီးပါတယ်။",
+        "HI": "अनुभव का लाभ उठाना महत्वपूर्ण है।",
+        "AR": "من المهم الاستفادة من الخبرة.",
+        "FA": "مهم این است که از تجربه استفاده کنیم."
+      }
+    },
+    {
+      "kanji": "資本を集める。",
+      "furigana": "資本(しほん)を集(あつ)める。",
+      "translations": {
+        "EN": "Raise capital.",
+        "ID": "Mengumpulkan modal.",
+        "ES": "Recaudar capital.",
+        "VI": "Huy động vốn.",
+        "FR": "Lever des capitaux.",
+        "NE": "पूँजी जुटाउनुहोस्।",
+        "BN": "মূলধন সংগ্রহ করুন।",
+        "ZH": "筹集资金。",
+        "KO": "자본을 모은다.",
+        "TL": "Itaas ang kapital.",
+        "MY": "အရင်းအနှီးကို မြှင့်တင်ပါ။",
+        "HI": "पूंजी जुटाना।",
+        "AR": "جمع رأس المال.",
+        "FA": "سرمایه جذب کنید."
+      }
+    },
+    {
+      "kanji": "資本市場は変化している。",
+      "furigana": "資本(しほん)市場(しじょう)は変化(へんか)している。",
+      "translations": {
+        "EN": "Capital markets are changing.",
+        "ID": "Pasar modal sedang berubah.",
+        "ES": "Los mercados de capitales están cambiando.",
+        "VI": "Thị trường vốn đang thay đổi.",
+        "FR": "Les marchés financiers évoluent.",
+        "NE": "पूँजी बजार परिवर्तन हुँदैछ।",
+        "BN": "পুঁজিবাজার পরিবর্তন হচ্ছে।",
+        "ZH": "资本市场正在发生变化。",
+        "KO": "자본시장은 변화하고 있다.",
+        "TL": "Ang mga capital market ay nagbabago.",
+        "MY": "အရင်းအနှီးဈေးကွက်များ ပြောင်းလဲလာသည်။",
+        "HI": "पूंजी बाजार बदल रहे हैं।",
+        "AR": "أسواق رأس المال تتغير.",
+        "FA": "بازارهای سرمایه در حال تغییر هستند."
+      }
+    }
+  ],
+  "meanings_translations": {
+    "funds, money used for business or investment": {
+      "ID": "dana, uang yang digunakan untuk bisnis atau investasi",
+      "ES": "fondos, dinero utilizado para negocios o inversiones",
+      "VI": "quỹ, tiền dùng cho kinh doanh hoặc đầu tư",
+      "FR": "fonds, argent utilisé à des fins commerciales ou d'investissement",
+      "NE": "कोष, व्यवसाय वा लगानीको लागि प्रयोग गरिएको पैसा",
+      "BN": "তহবিল, ব্যবসা বা বিনিয়োগের জন্য ব্যবহৃত অর্থ",
+      "ZH": "资金，用于商业或投资的钱",
+      "KO": "자금, 사업이나 투자에 사용되는 돈",
+      "TL": "pondo, pera na ginagamit para sa negosyo o pamumuhunan",
+      "MY": "ရန်ပုံငွေ၊ လုပ်ငန်း သို့မဟုတ် ရင်းနှီးမြှုပ်နှံမှုအတွက် အသုံးပြုသောငွေ",
+      "HI": "धन, व्यवसाय या निवेश के लिए उपयोग किया जाने वाला धन",
+      "AR": "الأموال، الأموال المستخدمة في الأعمال أو الاستثمار",
+      "FA": "وجوه، پولی که برای تجارت یا سرمایه‌گذاری استفاده می‌شود",
+      "EN": [
+        "capital (money or assets owned by a company or person)"
+      ]
+    },
+    "capital as a broader economic concept (resources used to produce value)": {
+      "ID": "modal sebagai konsep ekonomi yang lebih luas (sumber daya yang digunakan untuk menghasilkan nilai)",
+      "ES": "El capital como concepto económico más amplio (recursos utilizados para producir valor)",
+      "VI": "vốn như một khái niệm kinh tế rộng hơn (nguồn lực được sử dụng để tạo ra giá trị)",
+      "FR": "le capital en tant que concept économique plus large (ressources utilisées pour produire de la valeur)",
+      "NE": "पूँजी एक व्यापक आर्थिक अवधारणाको रूपमा (मूल्य उत्पादन गर्न प्रयोग गरिने स्रोतहरू)",
+      "BN": "একটি বৃহত্তর অর্থনৈতিক ধারণা হিসেবে মূলধন (মূল্য উৎপাদনে ব্যবহৃত সম্পদ)",
+      "ZH": "资本作为更广泛的经济概念（用于创造价值的资源）",
+      "KO": "더 넓은 경제적 개념으로서의 자본(가치를 생산하는 데 사용되는 자원)",
+      "TL": "kapital bilang isang mas malawak na konseptong pang-ekonomiya (mga mapagkukunang ginagamit upang makabuo ng halaga)",
+      "MY": "အရင်းအနှီးကို ပိုမိုကျယ်ပြန့်သော စီးပွားရေးအယူအဆအဖြစ် (တန်ဖိုးထုတ်လုပ်ရန်အသုံးပြုသည့် အရင်းအမြစ်များ)၊",
+      "HI": "पूंजी एक व्यापक आर्थिक अवधारणा के रूप में (मूल्य उत्पादन के लिए प्रयुक्त संसाधन)",
+      "AR": "رأس المال كمفهوم اقتصادي أوسع (الموارد المستخدمة لإنتاج القيمة)",
+      "FA": "سرمایه به عنوان یک مفهوم اقتصادی گسترده‌تر (منابعی که برای تولید ارزش استفاده می‌شوند)",
+      "EN": [
+        "intangible resources used as capital (knowledge, experience, networks)"
+      ]
+    }
+  },
+  "jisho_data": {
+    "slug": "資本",
+    "is_common": true,
+    "tags": [
+      "wanikani21"
+    ],
+    "jlpt": [
+      "jlpt-n3"
+    ],
+    "japanese": [
+      {
+        "word": "資本",
+        "reading": "しほん"
+      }
+    ],
+    "senses": [
+      {
+        "english_definitions": [
+          "funds",
+          "capital"
+        ],
+        "parts_of_speech": [
+          "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+      },
+      {
+        "english_definitions": [
+          "Capital (economics)"
+        ],
+        "parts_of_speech": [
+          "Wikipedia definition"
+        ],
+        "links": [
+          {
+            "text": "Read “Capital (economics)” on English Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Capital_(economics)?oldid=489506522"
+          },
+          {
+            "text": "Read “資本” on Japanese Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/資本?oldid=41760511"
+          }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+      }
+    ],
+    "attribution": {
+      "jmdict": true,
+      "jmnedict": false,
+      "dbpedia": "http://dbpedia.org/resource/Capital_(economics)"
+    }
+  },
+  "kanji_list": [
+    "資",
+    "本"
+  ],
+  "kanji_data": {
+    "資": {
+      "freq_mainichi_shinbun": 179,
+      "grade": 5,
+      "heisig_en": "assets",
+      "jlpt": 3,
+      "kanji": "資",
+      "kun_readings": [],
+      "meanings": [
+        "assets",
+        "be conducive to",
+        "capital",
+        "contribute to",
+        "data",
+        "funds",
+        "resources"
+      ],
+      "name_readings": [
+        "すけ",
+        "もと"
+      ],
+      "notes": [],
+      "on_readings": [
+        "シ"
+      ],
+      "stroke_count": 13,
+      "unicode": "8CC7"
+    },
+    "本": {
+      "freq_mainichi_shinbun": 10,
+      "grade": 1,
+      "heisig_en": "book",
+      "jlpt": 5,
+      "kanji": "本",
+      "kun_readings": [
+        "もと"
+      ],
+      "meanings": [
+        "book",
+        "counter for long cylindrical things",
+        "main",
+        "origin",
+        "present",
+        "real",
+        "true"
+      ],
+      "name_readings": [
+        "ごう",
+        "まと"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ホン"
+      ],
+      "stroke_count": 5,
+      "unicode": "672C"
+    }
+  }
 }
