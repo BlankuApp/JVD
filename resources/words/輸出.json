@@ -1,0 +1,509 @@
+{
+    "version": "0.3.0",
+    "word": "輸出",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/VN1ykpF_MC0",
+    "in_db": true,
+    "kanji": "輸出",
+    "reading": "ゆしゅつ",
+    "introduction_japanese": "輸出は、会社や国の取引でよく出てくる言葉だよ。ニュースやビジネスの会話、社会の授業で使うよ。",
+    "introduction_english": "The noun ゆしゅつ is used when talking about business and trade by companies or countries. You’ll hear it in news and school topics.",
+    "meanings": [
+        [
+            "export",
+            "exporting",
+            "exportation"
+        ]
+    ],
+    "meaning_explanation_japanese": "国内から外国へ、しょうひんを売って外へ出すことを指すよ。国どうしの商売で使う、少しかたい言い方だよ。",
+    "meaning_explanation_english": "The word ゆしゅつ means sending goods out of your country to another country to sell. It’s a formal trade term in economics and business.",
+    "youtube_description": "Learn ゆしゅつ (export): meaning, reading, and how to use it in simple sentences, plus kanji tips, synonyms, and collocations.",
+    "kanji_details": [
+        {
+            "kanji": "輸",
+            "onyomi": [
+                "ユ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "transport",
+                "carry"
+            ],
+            "common_words": [
+                "輸入 ・ ゆにゅう ・ import",
+                "輸送 ・ ゆそう ・ transport"
+            ]
+        },
+        {
+            "kanji": "出",
+            "onyomi": [
+                "シュツ"
+            ],
+            "kunyomi": [
+                "で・る",
+                "だ・す"
+            ],
+            "meanings_english": [
+                "exit",
+                "go out",
+                "take out"
+            ],
+            "common_words": [
+                "出口 ・ でぐち ・ exit",
+                "出発 ・ しゅっぱつ ・ departure"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means transport or carry. It suggests moving things from place to place. You see it in words like ゆにゅう and ゆそう. Picture trucks and ships at work. The second kanji means go out or take out. It is very common and basic. You see it in words like でぐち and しゅっぱつ. Think of something leaving a place.",
+    "synonyms": [
+        "海外販売 : かいがいはんばい : overseas sales"
+    ],
+    "synonym_explanation": "The most common synonym of the word is かいがいはんばい. It focuses on sales activity abroad, while ゆしゅつ is a formal trade term about sending goods across borders.",
+    "antonyms": [
+        "輸入 : ゆにゅう : import"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ゆにゅう. It means bringing goods into your country, the opposite direction of ゆしゅつ.",
+    "collocations": [
+        {
+            "kanji": "日本の輸出",
+            "furigana": "日(に)本(ほん)の輸(ゆ)出(しゅつ)",
+            "translations": {
+                "EN": "Japanese exports",
+                "ID": "Ekspor Jepang",
+                "ES": "exportaciones japonesas",
+                "VI": "Xuất khẩu của Nhật Bản",
+                "FR": "exportations japonaises",
+                "NE": "जापानी निर्यात",
+                "BN": "জাপানি রপ্তানি",
+                "ZH": "日本出口",
+                "KO": "일본 수출",
+                "TL": "Mga pag-export ng Hapon",
+                "MY": "ဂျပန်တင်ပို့မှု",
+                "HI": "जापानी निर्यात",
+                "AR": "الصادرات اليابانية",
+                "FA": "صادرات ژاپن"
+            }
+        },
+        {
+            "kanji": "輸出額",
+            "furigana": "輸(ゆ)出(しゅつ)額(がく)",
+            "translations": {
+                "EN": "Export value",
+                "ID": "Nilai ekspor",
+                "ES": "Valor de exportación",
+                "VI": "Giá trị xuất khẩu",
+                "FR": "Valeur d'exportation",
+                "NE": "निर्यात मूल्य",
+                "BN": "রপ্তানি মূল্য",
+                "ZH": "出口额",
+                "KO": "수출액",
+                "TL": "Halaga ng pag-export",
+                "MY": "ပို့ကုန်တန်ဖိုး",
+                "HI": "निर्यात मूल्य",
+                "AR": "قيمة التصدير",
+                "FA": "ارزش صادرات"
+            }
+        },
+        {
+            "kanji": "輸出会社",
+            "furigana": "輸(ゆ)出(しゅつ)会(かい)社(しゃ)",
+            "translations": {
+                "EN": "export company",
+                "ID": "perusahaan ekspor",
+                "ES": "empresa exportadora",
+                "VI": "công ty xuất khẩu",
+                "FR": "société d'exportation",
+                "NE": "निर्यात कम्पनी",
+                "BN": "রপ্তানি কোম্পানি",
+                "ZH": "出口公司",
+                "KO": "수출 회사",
+                "TL": "kumpanya sa pag-export",
+                "MY": "ပို့ကုန်ကုမ္ပဏီ",
+                "HI": "निर्यात कंपनी",
+                "AR": "شركة تصدير",
+                "FA": "شرکت صادرات"
+            }
+        },
+        {
+            "kanji": "農産物の輸出",
+            "furigana": "農(のう)産(さん)物(ぶつ)の輸(ゆ)出(しゅつ)",
+            "translations": {
+                "EN": "Agricultural exports",
+                "ID": "Ekspor pertanian",
+                "ES": "Exportaciones agrícolas",
+                "VI": "Xuất khẩu nông sản",
+                "FR": "Exportations agricoles",
+                "NE": "कृषि निर्यात",
+                "BN": "কৃষি রপ্তানি",
+                "ZH": "农产品出口",
+                "KO": "농산물 수출",
+                "TL": "Pang-agrikulturang pag-export",
+                "MY": "လယ်ယာထွက်ကုန်များ",
+                "HI": "कृषि निर्यात",
+                "AR": "الصادرات الزراعية",
+                "FA": "صادرات کشاورزی"
+            }
+        },
+        {
+            "kanji": "輸出先へ",
+            "furigana": "輸(ゆ)出(しゅつ)先(さき)へ",
+            "translations": {
+                "EN": "To export destination",
+                "ID": "Untuk mengekspor tujuan",
+                "ES": "Para exportar destino",
+                "VI": "Để xuất điểm đến",
+                "FR": "Pour exporter la destination",
+                "NE": "गन्तव्य निर्यात गर्न",
+                "BN": "গন্তব্য রপ্তানি করতে",
+                "ZH": "至出口目的地",
+                "KO": "수출처로",
+                "TL": "Upang i-export ang destinasyon",
+                "MY": "ဦးတည်ရာ တင်ပို့ရန်",
+                "HI": "गंतव्य निर्यात करने के लिए",
+                "AR": "لتصدير الوجهة",
+                "FA": "برای صادرات به مقصد"
+            }
+        },
+        {
+            "kanji": "製品を輸出する",
+            "furigana": "製(せい)品(ひん)を輸(ゆ)出(しゅつ)する",
+            "translations": {
+                "EN": "Exporting products",
+                "ID": "Mengekspor produk",
+                "ES": "Exportación de productos",
+                "VI": "Xuất khẩu sản phẩm",
+                "FR": "Exportation de produits",
+                "NE": "उत्पादनहरू निर्यात गर्दै",
+                "BN": "পণ্য রপ্তানি",
+                "ZH": "出口产品",
+                "KO": "제품 수출",
+                "TL": "Pag-export ng mga produkto",
+                "MY": "ထုတ်ကုန်များ တင်ပို့ခြင်း။",
+                "HI": "उत्पादों का निर्यात",
+                "AR": "تصدير المنتجات",
+                "FA": "صادرات محصولات"
+            }
+        },
+        {
+            "kanji": "海外へ輸出する",
+            "furigana": "海(かい)外(がい)へ輸(ゆ)出(しゅつ)する",
+            "translations": {
+                "EN": "Export overseas",
+                "ID": "Ekspor ke luar negeri",
+                "ES": "Exportación al extranjero",
+                "VI": "Xuất khẩu ra nước ngoài",
+                "FR": "Exporter à l'étranger",
+                "NE": "विदेशमा निर्यात गर्नुहोस्",
+                "BN": "বিদেশে রপ্তানি করুন",
+                "ZH": "出口海外",
+                "KO": "해외로 수출",
+                "TL": "I-export sa ibang bansa",
+                "MY": "ပြည်ပကို တင်ပို့တယ်။",
+                "HI": "विदेशों में निर्यात",
+                "AR": "التصدير إلى الخارج",
+                "FA": "صادرات به خارج از کشور"
+            }
+        },
+        {
+            "kanji": "多く輸出する",
+            "furigana": "多く輸(ゆ)出(しゅつ)する)",
+            "translations": {
+                "EN": "export a lot",
+                "ID": "banyak ekspor",
+                "ES": "exportar mucho",
+                "VI": "xuất khẩu rất nhiều",
+                "FR": "exporter beaucoup",
+                "NE": "धेरै निर्यात गर्नुहोस्",
+                "BN": "প্রচুর রপ্তানি করুন",
+                "ZH": "大量出口",
+                "KO": "많은 수출",
+                "TL": "mag-export ng marami",
+                "MY": "export အများကြီးလုပ်တယ်။",
+                "HI": "बहुत सारा निर्यात",
+                "AR": "تصدير الكثير",
+                "FA": "صادرات زیاد"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "会社は車を海外へ輸出します。",
+            "furigana": "会(かい)社(しゃ)は車(くるま)を海(かい)外(がい)へ輸(ゆ)出(しゅつ)します。",
+            "translations": {
+                "EN": "The company exports cars overseas.",
+                "ID": "Perusahaan itu mengekspor mobil ke luar negeri.",
+                "ES": "La empresa exporta automóviles al extranjero.",
+                "VI": "Công ty xuất khẩu ô tô ra nước ngoài.",
+                "FR": "L'entreprise exporte des voitures à l'étranger.",
+                "NE": "कम्पनीले विदेशमा कार निर्यात गर्छ।",
+                "BN": "কোম্পানিটি বিদেশে গাড়ি রপ্তানি করে।",
+                "ZH": "该公司向海外出口汽车。",
+                "KO": "회사는 자동차를 해외로 수출합니다.",
+                "TL": "Ang kumpanya ay nag-export ng mga sasakyan sa ibang bansa.",
+                "MY": "ကုမ္ပဏီသည် ပြည်ပသို့ ကားများ တင်ပို့သည်။",
+                "HI": "कंपनी विदेशों में कारों का निर्यात करती है।",
+                "AR": "تقوم الشركة بتصدير السيارات إلى الخارج.",
+                "FA": "این شرکت به خارج از کشور خودرو صادر می‌کند."
+            }
+        },
+        {
+            "kanji": "日本は果物を少し輸出しています。",
+            "furigana": "日(に)本(ほん)は果(くだ)物(もの)を少(すこ)し輸(ゆ)出(しゅつ)しています。",
+            "translations": {
+                "EN": "Japan exports a small amount of fruit.",
+                "ID": "Jepang mengekspor sejumlah kecil buah.",
+                "ES": "Japón exporta una pequeña cantidad de fruta.",
+                "VI": "Nhật Bản xuất khẩu một lượng nhỏ trái cây.",
+                "FR": "Le Japon exporte une petite quantité de fruits.",
+                "NE": "जापानले थोरै मात्रामा फलफूल निर्यात गर्छ।",
+                "BN": "জাপান অল্প পরিমাণে ফল রপ্তানি করে।",
+                "ZH": "日本出口少量水果。",
+                "KO": "일본은 과일을 조금 수출하고 있습니다.",
+                "TL": "Ang Japan ay nagluluwas ng kaunting prutas.",
+                "MY": "ဂျပန်နိုင်ငံသို့ သစ်သီးတင်ပို့မှု အနည်းငယ်သာရှိသည်။",
+                "HI": "जापान थोड़ी मात्रा में फल निर्यात करता है।",
+                "AR": "تصدر اليابان كمية صغيرة من الفاكهة.",
+                "FA": "ژاپن مقدار کمی میوه صادر می‌کند."
+            }
+        },
+        {
+            "kanji": "その国は今年、輸出が増えました。",
+            "furigana": "その国(くに)は今(こと)年(し)、輸(ゆ)出(しゅつ)が増(ふ)えました。",
+            "translations": {
+                "EN": "The country has seen an increase in exports this year.",
+                "ID": "Negara ini telah melihat peningkatan ekspor tahun ini.",
+                "ES": "El país ha experimentado un aumento en las exportaciones este año.",
+                "VI": "Đất nước này đã chứng kiến sự gia tăng xuất khẩu trong năm nay.",
+                "FR": "Le pays a connu une augmentation des exportations cette année.",
+                "NE": "यस वर्ष देशको निर्यातमा वृद्धि भएको छ।",
+                "BN": "এ বছর দেশটিতে রপ্তানি বৃদ্ধি পেয়েছে।",
+                "ZH": "该国今年的出口有所增长。",
+                "KO": "그 나라는 올해 수출이 늘어났습니다.",
+                "TL": "Ang bansa ay nakakita ng pagtaas sa mga eksport ngayong taon.",
+                "MY": "မြန်မာနိုင်ငံသည် ယခုနှစ်အတွင်း ပို့ကုန်များ တိုးလာခဲ့သည်။",
+                "HI": "इस वर्ष देश के निर्यात में वृद्धि देखी गई है।",
+                "AR": "وشهدت البلاد زيادة في الصادرات هذا العام.",
+                "FA": "امسال صادرات کشور افزایش یافته است."
+            }
+        },
+        {
+            "kanji": "新しい会社はアジアに輸出を開始しました。",
+            "furigana": "新(あたら)しい会(かい)社(しゃ)はアジアに輸(ゆ)出(しゅつ)を開(かい)始(し)しました。",
+            "translations": {
+                "EN": "The new company began exporting to Asia.",
+                "ID": "Perusahaan baru itu mulai mengekspor ke Asia.",
+                "ES": "La nueva empresa comenzó a exportar a Asia.",
+                "VI": "Công ty mới bắt đầu xuất khẩu sang Châu Á.",
+                "FR": "La nouvelle société a commencé à exporter vers l’Asie.",
+                "NE": "नयाँ कम्पनीले एसियामा निर्यात गर्न थाल्यो।",
+                "BN": "নতুন কোম্পানিটি এশিয়ায় রপ্তানি শুরু করে।",
+                "ZH": "新公司开始向亚洲出口。",
+                "KO": "새로운 회사는 아시아로 수출을 시작했습니다.",
+                "TL": "Ang bagong kumpanya ay nagsimulang mag-export sa Asya.",
+                "MY": "ကုမ္ပဏီအသစ်သည် အာရှသို့ စတင်တင်ပို့သည်။",
+                "HI": "नई कंपनी ने एशिया को निर्यात करना शुरू कर दिया।",
+                "AR": "بدأت الشركة الجديدة بالتصدير إلى آسيا.",
+                "FA": "این شرکت جدید صادرات به آسیا را آغاز کرد."
+            }
+        },
+        {
+            "kanji": "政府は一時、肉の輸出を禁止しました。",
+            "furigana": "政(せい)府(ふ)は一(いち)時(じ)、肉(にく)の輸(ゆ)出(しゅつ)を禁(きん)止(し)しました。",
+            "translations": {
+                "EN": "The government temporarily banned meat exports.",
+                "ID": "Pemerintah untuk sementara melarang ekspor daging.",
+                "ES": "El gobierno prohibió temporalmente las exportaciones de carne.",
+                "VI": "Chính phủ tạm thời cấm xuất khẩu thịt.",
+                "FR": "Le gouvernement a temporairement interdit les exportations de viande.",
+                "NE": "सरकारले मासु निर्यातमा अस्थायी रूपमा प्रतिबन्ध लगाएको छ।",
+                "BN": "সরকার সাময়িকভাবে মাংস রপ্তানি নিষিদ্ধ করেছে।",
+                "ZH": "政府暂时禁止肉类出口。",
+                "KO": "정부는 한때 고기 수출을 금지했다.",
+                "TL": "Pansamantalang ipinagbawal ng gobyerno ang pag-export ng karne.",
+                "MY": "အစိုးရက အသားတင်ပို့မှုကို ယာယီ ပိတ်ပင်ထားပါတယ်။",
+                "HI": "सरकार ने मांस निर्यात पर अस्थायी रूप से प्रतिबंध लगा दिया।",
+                "AR": "حظرت الحكومة تصدير اللحوم مؤقتًا.",
+                "FA": "دولت موقتاً صادرات گوشت را ممنوع کرد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "ekspor",
+            "ES": "exportar",
+            "VI": "xuất khẩu",
+            "FR": "exporter",
+            "NE": "निर्यात गर्नुहोस्",
+            "BN": "রপ্তানি",
+            "ZH": "出口",
+            "KO": "내보내다",
+            "TL": "i-export",
+            "MY": "တင်ပို့ခြင်း။",
+            "HI": "निर्यात",
+            "AR": "يصدّر",
+            "FA": "صادرات",
+            "EN": [
+                "export",
+                "exporting",
+                "exportation"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "輸出",
+        "is_common": true,
+        "tags": [
+            "wanikani24",
+            "wanikani26"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "輸出",
+                "reading": "ゆしゅつ"
+            },
+            {
+                "word": "輸出",
+                "reading": "しゅしゅつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "export",
+                    "exportation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [
+                    "輸入"
+                ],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "efferent"
+                ],
+                "parts_of_speech": [
+                    "Noun or verb acting prenominally"
+                ],
+                "links": [],
+                "tags": [
+                    "Biology"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [
+                    "輸入 ゆにゅう"
+                ],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Export"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Export” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Export?oldid=488497131"
+                    },
+                    {
+                        "text": "Read “輸出” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/輸出?oldid=42177140"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Export"
+        }
+    },
+    "kanji_list": [
+        "輸",
+        "出"
+    ],
+    "kanji_data": {
+        "輸": {
+            "freq_mainichi_shinbun": 371,
+            "grade": 5,
+            "heisig_en": "transport",
+            "jlpt": 2,
+            "kanji": "輸",
+            "kun_readings": [],
+            "meanings": [
+                "be inferior",
+                "send",
+                "transport"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シュ",
+                "ユ"
+            ],
+            "stroke_count": 16,
+            "unicode": "8F38"
+        },
+        "出": {
+            "freq_mainichi_shinbun": 13,
+            "grade": 1,
+            "heisig_en": "exit",
+            "jlpt": 5,
+            "kanji": "出",
+            "kun_readings": [
+                "-だ.す",
+                "-で",
+                "い.だす",
+                "い.でる",
+                "だ.す",
+                "で.る"
+            ],
+            "meanings": [
+                "come out",
+                "exit",
+                "go out",
+                "leave",
+                "protrude",
+                "put out"
+            ],
+            "name_readings": [
+                "いず",
+                "いづ",
+                "いで",
+                "じ",
+                "すっ",
+                "すつ",
+                "てん"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シュツ",
+                "スイ"
+            ],
+            "stroke_count": 5,
+            "unicode": "51FA"
+        }
+    }
+}

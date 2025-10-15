@@ -1,0 +1,533 @@
+{
+    "version": "0.3.0",
+    "word": "話題",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/NK_JJh2axxQ",
+    "in_db": true,
+    "kanji": "話題",
+    "reading": "わだい",
+    "introduction_japanese": "話題。ニュース、会話、SNS、会議でよく使います。友だちとの雑談でもよく出ます。",
+    "introduction_english": "The noun わだい is used in news, everyday conversations, social media, and meetings. It also appears in small talk with friends.",
+    "meanings": [
+        [
+            "topic",
+            "subject",
+            "theme"
+        ],
+        [
+            "buzz",
+            "sensation",
+            "craze",
+            "hype"
+        ],
+        [
+            "material",
+            "fodder"
+        ]
+    ],
+    "meaning_explanation_japanese": "「テーマ」や「話のネタ」のことです。みんなが注目していること、またはおしゃべりの材料を指します。",
+    "meaning_explanation_english": "The word わだい means the topic or theme people talk about. It can also mean a hot buzz everyone notices. Sometimes it simply means material for conversation.",
+    "youtube_description": "Learn わだい: what it means, how to use it in daily talk, and the difference between a “topic” and a “hot topic,” with easy examples and collocations.",
+    "kanji_details": [
+        {
+            "kanji": "話",
+            "onyomi": [
+                "ワ"
+            ],
+            "kunyomi": [
+                "はな(す)",
+                "はなし"
+            ],
+            "meanings_english": [
+                "talk",
+                "speech",
+                "story"
+            ],
+            "common_words": [
+                "会話（かいわ）：conversation",
+                "電話（でんわ）：telephone"
+            ]
+        },
+        {
+            "kanji": "題",
+            "onyomi": [
+                "ダイ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "title",
+                "topic",
+                "problem"
+            ],
+            "common_words": [
+                "問題（もんだい）：problem",
+                "題名（だいめい）：title"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means talk or speech. It often appears in words about speaking and stories. Think of かいわ for conversation. Also remember でんわ for telephone. The second kanji means title or subject. It is used for names of works and items on a list. You see it in もんだい for problem. You also see it in だいめい for title.",
+    "synonyms": [
+        "題目 : だいもく : subject",
+        "議題 : ぎだい : agenda"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are だいもく and ぎだい. だいもく overlaps as a formal subject or title in books or ceremonies. ぎだい is the item to discuss in meetings, while わだい is broader and natural in daily chat or when something is trending.",
+    "antonyms": [
+        "無関心 : むかんしん : indifference"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むかんしん. わだい is something people talk about or pay attention to, but むかんしん shows no interest, so nothing becomes a talking point.",
+    "collocations": [
+        {
+            "kanji": "最新の話題",
+            "furigana": "最(さい)新(しん)の話題(わだい)",
+            "translations": {
+                "EN": "Latest Topics",
+                "ID": "Topik Terbaru",
+                "ES": "Últimos temas",
+                "VI": "Chủ đề mới nhất",
+                "FR": "Sujets récents",
+                "NE": "पछिल्ला विषयहरू",
+                "BN": "সাম্প্রতিক বিষয়গুলি",
+                "ZH": "最新主题",
+                "KO": "최신 화제",
+                "TL": "Pinakabagong Paksa",
+                "MY": "နောက်ဆုံးရအကြောင်းအရာများ",
+                "HI": "नवीनतम विषय",
+                "AR": "أحدث المواضيع",
+                "FA": "آخرین مباحث"
+            }
+        },
+        {
+            "kanji": "今日の話題",
+            "furigana": "今(きょう)日(の)の話題(わだい)",
+            "translations": {
+                "EN": "Today's Topic",
+                "ID": "Topik Hari Ini",
+                "ES": "Tema de hoy",
+                "VI": "Chủ đề hôm nay",
+                "FR": "Sujet du jour",
+                "NE": "आजको विषय",
+                "BN": "আজকের বিষয়",
+                "ZH": "今日话题",
+                "KO": "오늘의 주제",
+                "TL": "Paksa Ngayon",
+                "MY": "ယနေ့အကြောင်းအရာ",
+                "HI": "आज का विषय",
+                "AR": "موضوع اليوم",
+                "FA": "موضوع امروز"
+            }
+        },
+        {
+            "kanji": "人気の話題",
+            "furigana": "人(にん)気(き)の話題(わだい)",
+            "translations": {
+                "EN": "Popular Topics",
+                "ID": "Topik Populer",
+                "ES": "Temas populares",
+                "VI": "Chủ đề phổ biến",
+                "FR": "Sujets populaires",
+                "NE": "लोकप्रिय विषयहरू",
+                "BN": "জনপ্রিয় বিষয়গুলি",
+                "ZH": "热门话题",
+                "KO": "인기 화제",
+                "TL": "Mga Popular na Paksa",
+                "MY": "လူကြိုက်များသော အကြောင်းအရာများ",
+                "HI": "लोकप्रिय विषय",
+                "AR": "المواضيع الشائعة",
+                "FA": "مباحث پرطرفدار"
+            }
+        },
+        {
+            "kanji": "ネットの話題",
+            "furigana": "ネットの話題(わだい)",
+            "translations": {
+                "EN": "Internet Hot Topics",
+                "ID": "Topik Hangat Internet",
+                "ES": "Temas de actualidad en Internet",
+                "VI": "Chủ đề nóng trên Internet",
+                "FR": "Sujets d'actualité sur Internet",
+                "NE": "इन्टरनेटका तातो विषयहरू",
+                "BN": "ইন্টারনেটের আলোচিত বিষয়গুলি",
+                "ZH": "互联网热点话题",
+                "KO": "그물의 주제",
+                "TL": "Mga Mainit na Paksa sa Internet",
+                "MY": "အင်တာနက် Hot Topics",
+                "HI": "इंटरनेट हॉट टॉपिक्स",
+                "AR": "مواضيع ساخنة على الإنترنت",
+                "FA": "موضوعات داغ اینترنت"
+            }
+        },
+        {
+            "kanji": "会議の話題",
+            "furigana": "会(かい)議(ぎ)の話題(わだい)",
+            "translations": {
+                "EN": "Meeting Topics",
+                "ID": "Topik Pertemuan",
+                "ES": "Temas de la reunión",
+                "VI": "Chủ đề cuộc họp",
+                "FR": "Thèmes de la réunion",
+                "NE": "बैठकका विषयहरू",
+                "BN": "সভার বিষয়বস্তু",
+                "ZH": "会议主题",
+                "KO": "회의 주제",
+                "TL": "Mga Paksa sa Pagpupulong",
+                "MY": "အစည်းအဝေးအကြောင်းအရာများ",
+                "HI": "बैठक के विषय",
+                "AR": "مواضيع الاجتماع",
+                "FA": "مباحث جلسه"
+            }
+        },
+        {
+            "kanji": "話題の映画",
+            "furigana": "話題(わだい)の映(えい)画(が)",
+            "translations": {
+                "EN": "Popular Movies",
+                "ID": "Film Populer",
+                "ES": "Películas populares",
+                "VI": "Phim Phổ Biến",
+                "FR": "Films populaires",
+                "NE": "लोकप्रिय चलचित्रहरू",
+                "BN": "জনপ্রিয় সিনেমা",
+                "ZH": "热门电影",
+                "KO": "화제 영화",
+                "TL": "Mga Sikat na Pelikula",
+                "MY": "လူကြိုက်များသော ရုပ်ရှင်များ",
+                "HI": "लोकप्रिय फिल्में",
+                "AR": "الأفلام الشعبية",
+                "FA": "فیلم‌های محبوب"
+            }
+        },
+        {
+            "kanji": "話題になる",
+            "furigana": "話題(わだい)になる",
+            "translations": {
+                "EN": "Become a hot topic",
+                "ID": "Menjadi topik hangat",
+                "ES": "Conviértete en un tema candente",
+                "VI": "Trở thành chủ đề nóng",
+                "FR": "Devenir un sujet brûlant",
+                "NE": "तातो विषय बन्नुहोस्",
+                "BN": "একটি আলোচিত বিষয় হয়ে উঠুন",
+                "ZH": "成为热门话题",
+                "KO": "화제가 되다",
+                "TL": "Maging mainit na paksa",
+                "MY": "ပူလောင်သောအကြောင်းအရာဖြစ်လာသည်။",
+                "HI": "एक गर्म विषय बनें",
+                "AR": "أصبح موضوعا ساخنا",
+                "FA": "تبدیل شدن به یک موضوع داغ"
+            }
+        },
+        {
+            "kanji": "話題を変える",
+            "furigana": "話題(わだい)を変(か)える",
+            "translations": {
+                "EN": "Change the topic",
+                "ID": "Ganti topik",
+                "ES": "Cambiar el tema",
+                "VI": "Thay đổi chủ đề",
+                "FR": "Changer de sujet",
+                "NE": "विषय परिवर्तन गर्नुहोस्",
+                "BN": "বিষয় পরিবর্তন করুন",
+                "ZH": "改变话题",
+                "KO": "화제를 바꾸다",
+                "TL": "Baguhin ang paksa",
+                "MY": "ခေါင်းစဉ်ပြောင်းပါ။",
+                "HI": "विषय बदलें",
+                "AR": "تغيير الموضوع",
+                "FA": "موضوع را تغییر دهید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "その映画は今、話題になっています。",
+            "furigana": "その映(えい)画(が)は今(いま)、話題(わだい)になっています。",
+            "translations": {
+                "EN": "The movie is currently a hot topic.",
+                "ID": "Film ini saat ini menjadi topik hangat.",
+                "ES": "La película es un tema candente actualmente.",
+                "VI": "Bộ phim hiện đang là chủ đề nóng.",
+                "FR": "Le film est actuellement un sujet brûlant.",
+                "NE": "यो चलचित्र अहिले निकै चर्चामा छ।",
+                "BN": "ছবিটি বর্তমানে একটি আলোচিত বিষয়।",
+                "ZH": "这部电影目前是一个热门话题。",
+                "KO": "그 영화는 지금 화제가 되고 있습니다.",
+                "TL": "Ang pelikula ay kasalukuyang mainit na paksa.",
+                "MY": "ဒီဇာတ်ကားဟာ လတ်တလောမှာ ရင်ဖိုစရာအကြောင်းအရာတစ်ခုပါ။",
+                "HI": "यह फिल्म इस समय चर्चा का विषय बनी हुई है।",
+                "AR": "يعد الفيلم موضوعًا ساخنًا حاليًا.",
+                "FA": "این فیلم در حال حاضر موضوع داغی است."
+            }
+        },
+        {
+            "kanji": "ニュースの話題を見ましたか。",
+            "furigana": "ニュースの話題(わだい)を見(み)ましたか。",
+            "translations": {
+                "EN": "Did you see the news story?",
+                "ID": "Apakah Anda melihat beritanya?",
+                "ES": "¿Viste la noticia?",
+                "VI": "Bạn đã xem tin tức chưa?",
+                "FR": "Avez-vous vu le reportage ?",
+                "NE": "के तपाईंले समाचार हेर्नुभयो?",
+                "BN": "তুমি কি খবরটা দেখেছো?",
+                "ZH": "你看到那条新闻了吗？",
+                "KO": "뉴스의 화제를 보았습니까?",
+                "TL": "Nakita mo ba ang kwento ng balita?",
+                "MY": "သတင်းကို ကြည့်ပြီးပြီလား။",
+                "HI": "क्या आपने समाचार देखा?",
+                "AR": "هل رأيتم الخبر؟",
+                "FA": "متن خبر رو دیدی؟"
+            }
+        },
+        {
+            "kanji": "彼はすぐ話題を変えました。",
+            "furigana": "彼(かれ)はすぐ話題(わだい)を変(か)えました。",
+            "translations": {
+                "EN": "He quickly changed the topic.",
+                "ID": "Dia segera mengganti topik.",
+                "ES": "Cambió rápidamente de tema.",
+                "VI": "Anh ấy nhanh chóng chuyển chủ đề.",
+                "FR": "Il a rapidement changé de sujet.",
+                "NE": "उसले तुरुन्तै विषय परिवर्तन गर्यो।",
+                "BN": "সে দ্রুত প্রসঙ্গ পরিবর্তন করল।",
+                "ZH": "他很快就改变了话题。",
+                "KO": "그는 곧 화제를 바꿨다.",
+                "TL": "Mabilis niyang iniba ang topic.",
+                "MY": "သူက ခေါင်းစဉ်ကို မြန်မြန်ပြောင်းလိုက်တယ်။",
+                "HI": "उसने तुरन्त विषय बदल दिया।",
+                "AR": "لقد غيّر الموضوع بسرعة.",
+                "FA": "سریع بحث رو عوض کرد."
+            }
+        },
+        {
+            "kanji": "会議でその案が話題にのぼりました。",
+            "furigana": "会(かい)議(ぎ)でその案(あん)が話題(わだい)にのぼりました。",
+            "translations": {
+                "EN": "The idea came up in the meeting.",
+                "ID": "Ide itu muncul pada pertemuan tersebut.",
+                "ES": "La idea surgió en la reunión.",
+                "VI": "Ý tưởng này nảy sinh trong cuộc họp.",
+                "FR": "L’idée est venue lors de la réunion.",
+                "NE": "बैठकमा यो विचार आयो।",
+                "BN": "বৈঠকে এই ধারণাটি উঠে আসে।",
+                "ZH": "这个想法是在会议上提出的。",
+                "KO": "회의에서 그 안이 화제에 올랐습니다.",
+                "TL": "Ang ideya ay lumabas sa pulong.",
+                "MY": "အစည်းအဝေးမှာ အကြံတစ်ခု ပေါ်လာတယ်။",
+                "HI": "यह विचार बैठक में आया।",
+                "AR": "لقد ظهرت الفكرة في الاجتماع.",
+                "FA": "این ایده در جلسه مطرح شد."
+            }
+        },
+        {
+            "kanji": "最近、天気の話題が多いです。",
+            "furigana": "最(さい)近(きん)、天(てん)気(き)の話題(わだい)が多(おお)いです。",
+            "translations": {
+                "EN": "There's been a lot of talk about the weather lately.",
+                "ID": "Akhir-akhir ini banyak sekali pembicaraan tentang cuaca.",
+                "ES": "Se ha hablado mucho sobre el tiempo últimamente.",
+                "VI": "Gần đây có rất nhiều cuộc thảo luận về thời tiết.",
+                "FR": "On parle beaucoup de la météo ces derniers temps.",
+                "NE": "पछिल्लो समय मौसमको बारेमा धेरै चर्चा भइरहेको छ।",
+                "BN": "সম্প্রতি আবহাওয়া নিয়ে অনেক আলোচনা হচ্ছে।",
+                "ZH": "最近有很多关于天气的讨论。",
+                "KO": "최근 날씨 화제가 많습니다.",
+                "TL": "Napakaraming usapan tungkol sa lagay ng panahon kamakailan.",
+                "MY": "မကြာသေးမီက ရာသီဥတုနှင့် ပတ်သက်၍ ပြောဆိုမှုများ အများအပြားရှိခဲ့သည်။",
+                "HI": "हाल ही में मौसम के बारे में बहुत चर्चा हुई है।",
+                "AR": "لقد كان هناك الكثير من الحديث عن الطقس في الآونة الأخيرة.",
+                "FA": "اخیراً بحث‌های زیادی در مورد آب و هوا مطرح شده است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "topik",
+            "ES": "tema",
+            "VI": "đề tài",
+            "FR": "sujet",
+            "NE": "विषय",
+            "BN": "বিষয়",
+            "ZH": "话题",
+            "KO": "주제",
+            "TL": "paksa",
+            "MY": "အကြောင်းအရာ",
+            "HI": "विषय",
+            "AR": "عنوان",
+            "FA": "موضوع",
+            "EN": [
+                "topic",
+                "subject",
+                "theme"
+            ]
+        },
+        {
+            "ID": "berdengung",
+            "ES": "zumbido",
+            "VI": "tiếng vo ve",
+            "FR": "bourdonner",
+            "NE": "बज",
+            "BN": "গুঞ্জন",
+            "ZH": "嗡嗡声",
+            "KO": "버저 소리",
+            "TL": "buzz",
+            "MY": "buzz",
+            "HI": "चर्चा",
+            "AR": "شرب حتى الثمالة",
+            "FA": "وزوز",
+            "EN": [
+                "buzz",
+                "sensation",
+                "craze",
+                "hype"
+            ]
+        },
+        {
+            "ID": "bahan",
+            "ES": "material",
+            "VI": "vật liệu",
+            "FR": "matériel",
+            "NE": "सामग्री",
+            "BN": "উপাদান",
+            "ZH": "材料",
+            "KO": "재료",
+            "TL": "materyal",
+            "MY": "ပစ္စည်း",
+            "HI": "सामग्री",
+            "AR": "مادة",
+            "FA": "مواد",
+            "EN": [
+                "material",
+                "fodder"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "話題",
+        "is_common": true,
+        "tags": [
+            "wanikani13"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "話題",
+                "reading": "わだい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "topic",
+                    "subject"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "much talked about",
+                    "topical",
+                    "in the news",
+                    "hot"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Topic–comment"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Topic–comment” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Topic–comment?oldid=494759740"
+                    },
+                    {
+                        "text": "Read “話題” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/話題?oldid=42694053"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Topic–comment"
+        }
+    },
+    "kanji_list": [
+        "話",
+        "題"
+    ],
+    "kanji_data": {
+        "話": {
+            "freq_mainichi_shinbun": 134,
+            "grade": 2,
+            "heisig_en": "tale",
+            "jlpt": 5,
+            "kanji": "話",
+            "kun_readings": [
+                "はな.す",
+                "はなし"
+            ],
+            "meanings": [
+                "tale",
+                "talk"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ワ"
+            ],
+            "stroke_count": 13,
+            "unicode": "8A71"
+        },
+        "題": {
+            "freq_mainichi_shinbun": 96,
+            "grade": 3,
+            "heisig_en": "topic",
+            "jlpt": 4,
+            "kanji": "題",
+            "kun_readings": [],
+            "meanings": [
+                "subject",
+                "topic"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ダイ"
+            ],
+            "stroke_count": 18,
+            "unicode": "984C"
+        }
+    }
+}

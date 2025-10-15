@@ -1,0 +1,583 @@
+{
+    "version": "0.3.0",
+    "word": "移す",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/zdYdiKgmY6o",
+    "in_db": true,
+    "kanji": "移す",
+    "reading": "うつす",
+    "introduction_japanese": "移す。物や人、データや話題を別のところへ動かすときに使います。病気を人に広げる場面でもよく出ます。",
+    "introduction_english": "The verb うつす is used when moving things or people, or shifting data or a topic to another place or person. It’s also used when passing an illness to someone.",
+    "meanings": [
+        [
+            "move",
+            "shift",
+            "relocate",
+            "transfer"
+        ],
+        [
+            "shift",
+            "transfer",
+            "switch",
+            "redirect",
+            "reschedule"
+        ],
+        [
+            "transfer",
+            "copy",
+            "migrate",
+            "pour",
+            "decant"
+        ]
+    ],
+    "meaning_explanation_japanese": "ある物や人を一方から別の場所へ動かしたり、時間・話題・注意を別のほうへ変えたりすることです。中身やデータを別の入れ物や機器へうつし替える感じです。さらに、病気を人に感染させる意味もあります。",
+    "meaning_explanation_english": "うつす means moving or shifting something from A to B. You can also use it for changing time, topic, or attention, and for transferring contents or data between containers or devices. It also means to infect someone with an illness.",
+    "youtube_description": "Learn うつす the easy way: move/shift things, transfer data, reschedule, and even “to infect.” Clear examples, common mistakes, and quick practice.",
+    "kanji_details": [
+        {
+            "kanji": "移",
+            "onyomi": [
+                "イ"
+            ],
+            "kunyomi": [
+                "うつ(る)",
+                "うつ(す)"
+            ],
+            "meanings_english": [
+                "move",
+                "shift",
+                "transfer"
+            ],
+            "common_words": [
+                "移動（いどう）: movement",
+                "移転（いてん）: relocation"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means move or shift. You see it in いどう, which is about movement. Another common word is いてん, a more formal “relocation.” Think of sliding from one place to another.",
+    "synonyms": [
+        "動かす : うごかす : to move (something)",
+        "移転する : いてんする : to relocate"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are うごかす and いてんする. うごかす overlaps for physically moving an object. いてんする is formal and is used for offices, shops, or addresses moving to a new location.",
+    "antonyms": [
+        "固定する : こていする : to fix in place"
+    ],
+    "antonym_explanation": "The most common antonym of the word is こていする, which means to keep something in one place and not change it. It contrasts with moving or shifting something elsewhere.",
+    "collocations": [
+        {
+            "kanji": "場所を移す",
+            "furigana": "場(ば)所(しょ)を移(うつ)す",
+            "translations": {
+                "EN": "Move location",
+                "ID": "Pindahkan lokasi",
+                "ES": "Mover ubicación",
+                "VI": "Di chuyển vị trí",
+                "FR": "Déplacer l'emplacement",
+                "NE": "स्थान सार्नुहोस्",
+                "BN": "অবস্থান সরান",
+                "ZH": "移动位置",
+                "KO": "장소 이동",
+                "TL": "Ilipat ang lokasyon",
+                "MY": "တည်နေရာကိုရွှေ့ပါ။",
+                "HI": "स्थान बदलें",
+                "AR": "نقل الموقع",
+                "FA": "مکان را جابجا کنید"
+            }
+        },
+        {
+            "kanji": "席を前に移す",
+            "furigana": "席(せき)を前(まえ)に移(うつ)す",
+            "translations": {
+                "EN": "Move your seat forward",
+                "ID": "Pindahkan tempat dudukmu ke depan",
+                "ES": "Mueva su asiento hacia adelante",
+                "VI": "Di chuyển ghế của bạn về phía trước",
+                "FR": "Avancez votre siège",
+                "NE": "आफ्नो सिट अगाडि सार्नुहोस्",
+                "BN": "তোমার আসনটি সামনের দিকে সরান।",
+                "ZH": "把座位往前挪",
+                "KO": "자리를 앞으로 옮기다",
+                "TL": "Ilipat ang iyong upuan pasulong",
+                "MY": "သင့်ထိုင်ခုံကို ရှေ့သို့ရွှေ့ပါ။",
+                "HI": "अपनी सीट आगे बढ़ाएँ",
+                "AR": "حرك مقعدك للأمام",
+                "FA": "صندلی خود را به جلو حرکت دهید"
+            }
+        },
+        {
+            "kanji": "店を郊外に移す",
+            "furigana": "店(みせ)を郊外(こうがい)に移(うつ)す",
+            "translations": {
+                "EN": "move one's store to the suburbs",
+                "ID": "memindahkan toko ke pinggiran kota",
+                "ES": "trasladar su tienda a los suburbios",
+                "VI": "chuyển cửa hàng của một người ra vùng ngoại ô",
+                "FR": "déménager son magasin en banlieue",
+                "NE": "आफ्नो पसल उपनगरमा सार्नुहोस्",
+                "BN": "শহরতলিতে দোকান স্থানান্তর করা",
+                "ZH": "把商店搬到郊区",
+                "KO": "상점을 교외로 옮기기",
+                "TL": "ilipat ang isang tindahan sa mga suburb",
+                "MY": "စတိုးဆိုင်ကို ဆင်ခြေဖုံးသို့ ရွှေ့ပါ။",
+                "HI": "अपनी दुकान को उपनगरों में ले जाना",
+                "AR": "نقل متجره إلى الضواحي",
+                "FA": "مغازه خود را به حومه شهر منتقل کردن"
+            }
+        },
+        {
+            "kanji": "本社を東京に移す",
+            "furigana": "本(ほん)社(しゃ)を東(とう)京(きょう)に移(うつ)す",
+            "translations": {
+                "EN": "Head office moved to Tokyo",
+                "ID": "Kantor pusat pindah ke Tokyo",
+                "ES": "La oficina central se trasladó a Tokio",
+                "VI": "Trụ sở chính chuyển đến Tokyo",
+                "FR": "Le siège social a déménagé à Tokyo",
+                "NE": "मुख्य कार्यालय टोकियोमा सारियो",
+                "BN": "সদর দপ্তর টোকিওতে স্থানান্তরিত হয়েছে",
+                "ZH": "总部迁至东京",
+                "KO": "본사를 도쿄로 옮기기",
+                "TL": "Ang punong tanggapan ay lumipat sa Tokyo",
+                "MY": "ရုံးချုပ်ကို တိုကျိုသို့ ပြောင်းရွှေ့ခဲ့သည်။",
+                "HI": "मुख्यालय टोक्यो स्थानांतरित",
+                "AR": "تم نقل المكتب الرئيسي إلى طوكيو",
+                "FA": "دفتر مرکزی به توکیو منتقل شد"
+            }
+        },
+        {
+            "kanji": "期日を来週に移す",
+            "furigana": "期(き)日(じつ)を来(らい)週(しゅう)に移(うつ)す",
+            "translations": {
+                "EN": "Move the due date to next week",
+                "ID": "Pindahkan tanggal jatuh tempo ke minggu depan",
+                "ES": "Mover la fecha de vencimiento a la próxima semana",
+                "VI": "Chuyển ngày đến hạn sang tuần sau",
+                "FR": "Déplacer la date d'échéance à la semaine prochaine",
+                "NE": "अन्तिम मिति अर्को हप्तामा सार्नुहोस्",
+                "BN": "নির্ধারিত তারিখ পরবর্তী সপ্তাহে সরিয়ে নিন",
+                "ZH": "将截止日期移至下周",
+                "KO": "마감일을 다음 주로 이전",
+                "TL": "Ilipat ang takdang petsa sa susunod na linggo",
+                "MY": "သတ်မှတ်ရက်ကို နောက်အပတ်သို့ ရွှေ့ပါ။",
+                "HI": "नियत तारीख को अगले सप्ताह तक ले जाएं",
+                "AR": "نقل تاريخ الاستحقاق إلى الأسبوع المقبل",
+                "FA": "تاریخ تحویل را به هفته آینده منتقل کنید"
+            }
+        },
+        {
+            "kanji": "話題を別のテーマに移す",
+            "furigana": "話(わ)題(だい)を別(べつ)のテーマに移(うつ)す",
+            "translations": {
+                "EN": "Change the topic to another topic",
+                "ID": "Ganti topik ke topik lain",
+                "ES": "Cambiar el tema a otro tema",
+                "VI": "Thay đổi chủ đề sang chủ đề khác",
+                "FR": "Changer de sujet vers un autre sujet",
+                "NE": "विषयलाई अर्को विषयमा परिवर्तन गर्नुहोस्",
+                "BN": "বিষয় পরিবর্তন করে অন্য বিষয়ে যান",
+                "ZH": "换个话题",
+                "KO": "화제를 다른 테마로 옮기기",
+                "TL": "Baguhin ang paksa sa ibang paksa",
+                "MY": "ခေါင်းစဉ်ကို အခြားအကြောင်းအရာသို့ ပြောင်းပါ။",
+                "HI": "विषय को दूसरे विषय में बदलें",
+                "AR": "تغيير الموضوع إلى موضوع آخر",
+                "FA": "تغییر موضوع به موضوع دیگر"
+            }
+        },
+        {
+            "kanji": "注意を画面に移す",
+            "furigana": "注(ちゅう)意(い)を画(が)面(めん)に移(うつ)す",
+            "translations": {
+                "EN": "Shift your attention to the screen",
+                "ID": "Alihkan perhatian Anda ke layar",
+                "ES": "Dirige tu atención a la pantalla",
+                "VI": "Chuyển sự chú ý của bạn vào màn hình",
+                "FR": "Déplacez votre attention vers l'écran",
+                "NE": "आफ्नो ध्यान स्क्रिनमा केन्द्रित गर्नुहोस्",
+                "BN": "আপনার মনোযোগ স্ক্রিনের দিকে সরিয়ে নিন।",
+                "ZH": "将注意力转移到屏幕上",
+                "KO": "주의를 화면으로 옮기기",
+                "TL": "Ilipat ang iyong atensyon sa screen",
+                "MY": "မျက်နှာပြင်ကို အာရုံပြောင်းပါ။",
+                "HI": "अपना ध्यान स्क्रीन पर केंद्रित करें",
+                "AR": "حوّل انتباهك إلى الشاشة",
+                "FA": "توجه خود را به صفحه نمایش معطوف کنید"
+            }
+        },
+        {
+            "kanji": "関心を海外に移す",
+            "furigana": "関(かん)心(しん)を海(かい)外(がい)に移(うつ)す},{",
+            "translations": {
+                "EN": "shift one's attention overseas",
+                "ID": "mengalihkan perhatian ke luar negeri",
+                "ES": "desviar la atención al extranjero",
+                "VI": "chuyển sự chú ý của một người ra nước ngoài",
+                "FR": "déplacer son attention vers l'étranger",
+                "NE": "विदेशतिर ध्यान केन्द्रित गर्नु",
+                "BN": "বিদেশে মনোযোগ স্থানান্তর করা",
+                "ZH": "将注意力转移到海外",
+                "KO": "관심을 해외로 옮기다",
+                "TL": "ilipat ang atensyon sa ibang bansa",
+                "MY": "နိုင်ငံရပ်ခြားကို အာရုံစိုက်ပါ။",
+                "HI": "अपना ध्यान विदेश की ओर मोड़ना",
+                "AR": "تحويل الاهتمام إلى الخارج",
+                "FA": "توجه خود را به خارج از کشور معطوف کردن"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "店を郊外に移す。",
+            "furigana": "店(みせ)を郊外(こうがい)に移(うつ)す。",
+            "translations": {
+                "EN": "Move the store to the suburbs.",
+                "ID": "Pindahkan toko ke pinggiran kota.",
+                "ES": "Trasladar la tienda a los suburbios.",
+                "VI": "Chuyển cửa hàng ra vùng ngoại ô.",
+                "FR": "Déplacer le magasin en banlieue.",
+                "NE": "पसललाई उपनगरमा सार्नुहोस्।",
+                "BN": "দোকানটি শহরতলিতে স্থানান্তর করুন।",
+                "ZH": "将商店搬到郊区。",
+                "KO": "가게를 교외로 옮긴다.",
+                "TL": "Ilipat ang tindahan sa mga suburb.",
+                "MY": "ဆိုင်ကို ဆင်ခြေဖုံးသို့ ရွှေ့ပါ။",
+                "HI": "दुकान को उपनगरों में ले जाएं।",
+                "AR": "نقل المتجر إلى الضواحي.",
+                "FA": "فروشگاه را به حومه شهر منتقل کنید."
+            }
+        },
+        {
+            "kanji": "席を前に移してください。",
+            "furigana": "席(せき)を前(まえ)に移(うつ)して下(くだ)さい。",
+            "translations": {
+                "EN": "Please move your seat forward.",
+                "ID": "Silakan majukan tempat duduk Anda.",
+                "ES": "Por favor, mueva su asiento hacia adelante.",
+                "VI": "Xin hãy di chuyển ghế của bạn về phía trước.",
+                "FR": "Veuillez avancer votre siège.",
+                "NE": "कृपया आफ्नो सिट अगाडि सार्नुहोस्।",
+                "BN": "দয়া করে আপনার আসনটি সামনের দিকে সরিয়ে নিন।",
+                "ZH": "请将您的座位向前移动。",
+                "KO": "자리를 앞으로 옮기십시오.",
+                "TL": "Mangyaring ilipat ang iyong upuan pasulong.",
+                "MY": "သင့်ထိုင်ခုံကို ရှေ့သို့ရွှေ့ပါ။",
+                "HI": "कृपया अपनी सीट आगे बढ़ा लें।",
+                "AR": "من فضلك حرك مقعدك إلى الأمام.",
+                "FA": "لطفا صندلی خود را جلوتر بیاورید."
+            }
+        },
+        {
+            "kanji": "話題を次に移そう。",
+            "furigana": "話(わ)題(だい)を次(つぎ)に移(うつ)そう。",
+            "translations": {
+                "EN": "Let's move on to the next topic.",
+                "ID": "Mari kita lanjut ke topik berikutnya.",
+                "ES": "Pasemos al siguiente tema.",
+                "VI": "Chúng ta hãy chuyển sang chủ đề tiếp theo.",
+                "FR": "Passons au sujet suivant.",
+                "NE": "अर्को विषयमा जाऔं।",
+                "BN": "চলুন পরবর্তী বিষয়ে যাওয়া যাক।",
+                "ZH": "我们继续下一个话题。",
+                "KO": "화제를 다음으로 옮기자.",
+                "TL": "Lumipat tayo sa susunod na paksa.",
+                "MY": "နောက်အကြောင်းအရာတစ်ခုသို့ ဆက်သွားကြပါစို့။",
+                "HI": "आइये अगले विषय पर चलते हैं।",
+                "AR": "لننتقل إلى الموضوع التالي.",
+                "FA": "بریم سراغ مبحث بعدی."
+            }
+        },
+        {
+            "kanji": "ファイルを新しいフォルダに移しました。",
+            "furigana": "ファイルを新(あたら)しいフォルダに移(うつ)しました。",
+            "translations": {
+                "EN": "I moved the files to a new folder.",
+                "ID": "Saya memindahkan file-file tersebut ke folder baru.",
+                "ES": "Moví los archivos a una nueva carpeta.",
+                "VI": "Tôi đã di chuyển các tập tin vào một thư mục mới.",
+                "FR": "J'ai déplacé les fichiers vers un nouveau dossier.",
+                "NE": "मैले फाइलहरू नयाँ फोल्डरमा सारें।",
+                "BN": "আমি ফাইলগুলো নতুন ফোল্ডারে সরিয়েছি।",
+                "ZH": "我将文件移动到了一个新文件夹。",
+                "KO": "파일을 새 폴더로 옮겼습니다.",
+                "TL": "Inilipat ko ang mga file sa isang bagong folder.",
+                "MY": "ဖိုင်များကို ဖိုင်တွဲအသစ်တစ်ခုသို့ ရွှေ့လိုက်ပါသည်။",
+                "HI": "मैंने फ़ाइलों को एक नए फ़ोल्डर में स्थानांतरित कर दिया।",
+                "AR": "نقلت الملفات إلى مجلد جديد.",
+                "FA": "فایل‌ها را به یک پوشه جدید منتقل کردم."
+            }
+        },
+        {
+            "kanji": "彼は風邪を私に移した。",
+            "furigana": "彼(かれ)は風(かぜ)邪(かぜ)を私(わたし)に移(うつ)した。",
+            "translations": {
+                "EN": "He passed the cold on to me.",
+                "ID": "Dia menularkan flu itu kepadaku.",
+                "ES": "Él me contagió el resfriado.",
+                "VI": "Anh ấy đã truyền bệnh cảm lạnh cho tôi.",
+                "FR": "Il m'a transmis le rhume.",
+                "NE": "उसले मलाई चिसो सारिदियो।",
+                "BN": "সে আমার মধ্যে ঠান্ডাটা ঢুকিয়ে দিল।",
+                "ZH": "他把感冒传染给了我。",
+                "KO": "그는 감기를 나에게 옮겼다.",
+                "TL": "Pinasa niya sa akin ang lamig.",
+                "MY": "အအေးဓာတ်က ငါ့ဆီ ကူးသွားတယ်။",
+                "HI": "उसने सर्दी मुझे दे दी।",
+                "AR": "لقد نقل لي البرد.",
+                "FA": "سرما رو به منم منتقل کرد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "bergerak",
+            "ES": "mover",
+            "VI": "di chuyển",
+            "FR": "se déplacer",
+            "NE": "सार्नु",
+            "BN": "সরানো",
+            "ZH": "移动",
+            "KO": "이동하다",
+            "TL": "gumalaw",
+            "MY": "ရွှေ့",
+            "HI": "कदम",
+            "AR": "يتحرك",
+            "FA": "حرکت",
+            "EN": [
+                "move",
+                "shift",
+                "relocate",
+                "transfer"
+            ]
+        },
+        {
+            "ID": "menggeser",
+            "ES": "cambio",
+            "VI": "sự thay đổi",
+            "FR": "changement",
+            "NE": "सिफ्ट",
+            "BN": "স্থানান্তর",
+            "ZH": "转移",
+            "KO": "옮기다",
+            "TL": "shift",
+            "MY": "ပြောင်း",
+            "HI": "बदलाव",
+            "AR": "يحول",
+            "FA": "شیفت",
+            "EN": [
+                "shift",
+                "transfer",
+                "switch",
+                "redirect",
+                "reschedule"
+            ]
+        },
+        {
+            "ID": "transfer",
+            "ES": "transferir",
+            "VI": "chuyển khoản",
+            "FR": "transfert",
+            "NE": "स्थानान्तरण",
+            "BN": "স্থানান্তর",
+            "ZH": "转移",
+            "KO": "옮기다",
+            "TL": "paglipat",
+            "MY": "လွှဲပြောင်း",
+            "HI": "स्थानांतरण",
+            "AR": "تحويل",
+            "FA": "انتقال",
+            "EN": [
+                "transfer",
+                "copy",
+                "migrate",
+                "pour",
+                "decant'],["
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "移す",
+        "is_common": true,
+        "tags": [
+            "wanikani28"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "移す",
+                "reading": "うつす"
+            },
+            {
+                "word": "遷す",
+                "reading": "うつす"
+            },
+            {
+                "word": "感染す",
+                "reading": "うつす"
+            },
+            {
+                "word": "伝染す",
+                "reading": "うつす"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to transfer (to a different place, group, etc.)",
+                    "to change",
+                    "to swap",
+                    "to substitute"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "移す",
+                    "遷す"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to move to the next stage (of a plan, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "移す"
+                ],
+                "see_also": [
+                    "実行に移す"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to divert (one's attention) to"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "移す"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to spend (time)",
+                    "to let (time) pass"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "移す"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to infect"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "移す",
+                    "感染す",
+                    "伝染す"
+                ],
+                "see_also": [
+                    "風邪を移す"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to permeate something (with a color, smell, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "移す"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "移"
+    ],
+    "kanji_data": {
+        "移": {
+            "freq_mainichi_shinbun": 448,
+            "grade": 5,
+            "heisig_en": "shift",
+            "jlpt": 2,
+            "kanji": "移",
+            "kun_readings": [
+                "うつ.す",
+                "うつ.る"
+            ],
+            "meanings": [
+                "catch (cold, fire)",
+                "change",
+                "drift",
+                "move",
+                "pass into",
+                "shift"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "イ"
+            ],
+            "stroke_count": 11,
+            "unicode": "79FB"
+        }
+    }
+}

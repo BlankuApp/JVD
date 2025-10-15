@@ -1,0 +1,510 @@
+{
+    "version": "0.3.0",
+    "word": "要点",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/rhOrpmhJSrQ",
+    "in_db": true,
+    "kanji": "要点",
+    "reading": "ようてん",
+    "introduction_japanese": "要点。会議や説明、プレゼン、テストの復習でよく使います。",
+    "introduction_english": "The noun ようてん is used in meetings, explanations, presentations, and test review.",
+    "meanings": [
+        [
+            "gist",
+            "crux",
+            "essence",
+            "core"
+        ],
+        [
+            "highlights",
+            "takeaways",
+            "essentials",
+            "points"
+        ],
+        [
+            "outline",
+            "bullets"
+        ]
+    ],
+    "meaning_explanation_japanese": "物事のいちばん大事な部分、中心になるところ、まとめたポイントを指します。こまかい部分ではなく、核となる内容のことです。",
+    "meaning_explanation_english": "ようてん means the core idea. It’s the gist or crux that you should focus on. Not the small details, but the key parts you must remember.",
+    "youtube_description": "Learn ようてん (要点): what it means, when to use it, and how to sound clear in meetings, classes, and presentations—with simple examples and tips.",
+    "kanji_details": [
+        {
+            "kanji": "要",
+            "onyomi": [
+                "ヨウ"
+            ],
+            "kunyomi": [
+                "い(る)"
+            ],
+            "meanings_english": [
+                "need",
+                "important",
+                "main"
+            ],
+            "common_words": [
+                "重要（じゅうよう）: important",
+                "必要（ひつよう）: necessary"
+            ]
+        },
+        {
+            "kanji": "点",
+            "onyomi": [
+                "テン"
+            ],
+            "kunyomi": [
+                "つ(ける)",
+                "つ(く)"
+            ],
+            "meanings_english": [
+                "point",
+                "dot",
+                "score"
+            ],
+            "common_words": [
+                "点数（てんすう）: score",
+                "視点（してん）: viewpoint"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means “important” or “to need.” It often carries the idea of something essential. You hear it in じゅうよう and ひつよう. Both words point to what is necessary or important. The second kanji means “point” or “dot.” It can be a score or a viewpoint. You see it in てんすう and してん. It marks a single spot or idea.",
+    "synonyms": [
+        "要旨 : ようし : gist",
+        "重要点 : じゅうようてん : key point"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ようし and じゅうようてん. ようし is the overall gist or summary, often for texts. じゅうようてん is very close in meaning, stressing the key point to focus on.",
+    "antonyms": [
+        "細部 : さいぶ : details"
+    ],
+    "antonym_explanation": "The most common antonym of the word is さいぶ. It focuses on small parts and details, which is the opposite of the main point that ようてん highlights.",
+    "collocations": [
+        {
+            "kanji": "会議の要点",
+            "furigana": "会議(かいぎ)の要点(ようてん)",
+            "translations": {
+                "EN": "Key points from the meeting",
+                "ID": "Poin-poin penting dari pertemuan tersebut",
+                "ES": "Puntos clave de la reunión",
+                "VI": "Những điểm chính từ cuộc họp",
+                "FR": "Points clés de la réunion",
+                "NE": "बैठकका मुख्य बुँदाहरू",
+                "BN": "সভার মূল বিষয়গুলি",
+                "ZH": "会议要点",
+                "KO": "회의의 요점",
+                "TL": "Mga pangunahing punto mula sa pulong",
+                "MY": "အစည်းအဝေးမှ အဓိကအချက်များ",
+                "HI": "बैठक के मुख्य बिंदु",
+                "AR": "النقاط الرئيسية من الاجتماع",
+                "FA": "نکات کلیدی از جلسه"
+            }
+        },
+        {
+            "kanji": "今日の要点",
+            "furigana": "今日(きょう)の要点(ようてん)",
+            "translations": {
+                "EN": "Today's takeaways",
+                "ID": "Pelajaran hari ini",
+                "ES": "Las conclusiones del día",
+                "VI": "Những điều cần biết hôm nay",
+                "FR": "Les plats à emporter du jour",
+                "NE": "आजका टिप्सहरू",
+                "BN": "আজকের গুরুত্বপূর্ণ বিষয়গুলি",
+                "ZH": "今日要点",
+                "KO": "오늘의 요점",
+                "TL": "Mga takeaway ngayon",
+                "MY": "ယနေ့ မှာယူမှုများ",
+                "HI": "आज की मुख्य बातें",
+                "AR": "وجبات اليوم",
+                "FA": "خوراکی‌های امروز"
+            }
+        },
+        {
+            "kanji": "発表の要点",
+            "furigana": "発表(はっぴょう)の要点(ようてん)",
+            "translations": {
+                "EN": "Key points of the announcement",
+                "ID": "Poin-poin penting pengumuman",
+                "ES": "Puntos clave de la presentación",
+                "VI": "Những điểm chính của thông báo",
+                "FR": "Points clés de la présentation",
+                "NE": "घोषणाका मुख्य बुँदाहरू",
+                "BN": "উপস্থাপনার মূল বিষয়গুলি",
+                "ZH": "演讲要点",
+                "KO": "발표의 요점",
+                "TL": "Mga pangunahing punto ng pagtatanghal",
+                "MY": "တင်ပြခြင်း၏ အဓိကအချက်များ",
+                "HI": "घोषणा के मुख्य बिंदु",
+                "AR": "النقاط الرئيسية للعرض التقديمي",
+                "FA": "نکات کلیدی اطلاعیه"
+            }
+        },
+        {
+            "kanji": "報告書の要点",
+            "furigana": "報告書(ほうこくしょ)の要点(ようてん)",
+            "translations": {
+                "EN": "Key points of the report",
+                "ID": "Poin-poin penting laporan",
+                "ES": "Puntos clave del informe",
+                "VI": "Những điểm chính của báo cáo",
+                "FR": "Points clés du rapport",
+                "NE": "प्रतिवेदनका मुख्य बुँदाहरू",
+                "BN": "প্রতিবেদনের মূল বিষয়গুলি",
+                "ZH": "报告要点",
+                "KO": "보고서의 요점",
+                "TL": "Mga pangunahing punto ng ulat",
+                "MY": "အစီရင်ခံစာ၏အဓိကအချက်များ",
+                "HI": "रिपोर्ट के मुख्य बिंदु",
+                "AR": "النقاط الرئيسية للتقرير",
+                "FA": "نکات کلیدی گزارش"
+            }
+        },
+        {
+            "kanji": "要点の確認",
+            "furigana": "要点(ようてん)の確認(かくにん)",
+            "translations": {
+                "EN": "Review the main points",
+                "ID": "Tinjau kembali poin-poin utama",
+                "ES": "Revisar los puntos principales",
+                "VI": "Xem lại các điểm chính",
+                "FR": "Revoyez les points principaux",
+                "NE": "मुख्य बुँदाहरूको समीक्षा गर्नुहोस्",
+                "BN": "মূল বিষয়গুলি পর্যালোচনা করুন",
+                "ZH": "回顾要点",
+                "KO": "요점 확인",
+                "TL": "Repasuhin ang mga pangunahing punto",
+                "MY": "အဓိကအချက်တွေကို ပြန်သုံးသပ်ပါ။",
+                "HI": "मुख्य बिंदुओं की समीक्षा करें",
+                "AR": "مراجعة النقاط الرئيسية",
+                "FA": "نکات اصلی را مرور کنید"
+            }
+        },
+        {
+            "kanji": "要点だけ",
+            "furigana": "要点(ようてん)だけ",
+            "translations": {
+                "EN": "Just the main points",
+                "ID": "Hanya poin-poin utama",
+                "ES": "Sólo los puntos principales",
+                "VI": "Chỉ những điểm chính",
+                "FR": "Juste les points principaux",
+                "NE": "मुख्य बुँदाहरू मात्र",
+                "BN": "শুধু মূল বিষয়গুলো",
+                "ZH": "仅重点",
+                "KO": "요점만",
+                "TL": "Ang mga pangunahing punto lamang",
+                "MY": "အဓိကအချက်များသာဖြစ်သည်။",
+                "HI": "केवल मुख्य बिंदु",
+                "AR": "فقط النقاط الرئيسية",
+                "FA": "فقط نکات اصلی"
+            }
+        },
+        {
+            "kanji": "三つの要点",
+            "furigana": "三(みっ)つの要点(ようてん)",
+            "translations": {
+                "EN": "Three key points",
+                "ID": "Tiga poin penting",
+                "ES": "Tres puntos clave",
+                "VI": "Ba điểm chính",
+                "FR": "Trois points clés",
+                "NE": "तीन मुख्य बुँदाहरू",
+                "BN": "তিনটি গুরুত্বপূর্ণ বিষয়",
+                "ZH": "三个关键点",
+                "KO": "세 가지 요점",
+                "TL": "Tatlong pangunahing punto",
+                "MY": "အဓိကအချက်သုံးချက်",
+                "HI": "तीन प्रमुख बिंदु",
+                "AR": "ثلاث نقاط رئيسية",
+                "FA": "سه نکته کلیدی"
+            }
+        },
+        {
+            "kanji": "要点をまとめる",
+            "furigana": "要点(ようてん)をまとめる{",
+            "translations": {
+                "EN": "Summary",
+                "ID": "Ringkasan",
+                "ES": "Resumen",
+                "VI": "Bản tóm tắt",
+                "FR": "Résumé",
+                "NE": "निष्कर्षमा",
+                "BN": "সারাংশ",
+                "ZH": "概括",
+                "KO": "요점 정리",
+                "TL": "Buod",
+                "MY": "အနှစ်ချုပ်",
+                "HI": "सारांश",
+                "AR": "ملخص",
+                "FA": "خلاصه"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "会議の要点をまとめます。",
+            "furigana": "会議(かいぎ)の要点(ようてん)をまとめます。",
+            "translations": {
+                "EN": "Summarize the key points of the meeting.",
+                "ID": "Ringkaslah poin-poin utama pertemuan tersebut.",
+                "ES": "Resuma los puntos clave de la reunión.",
+                "VI": "Tóm tắt những điểm chính của cuộc họp.",
+                "FR": "Résumez les points clés de la réunion.",
+                "NE": "बैठकका मुख्य बुँदाहरू संक्षेपमा बताउनुहोस्।",
+                "BN": "সভার মূল বিষয়গুলি সংক্ষেপে বর্ণনা করুন।",
+                "ZH": "总结会议要点。",
+                "KO": "회의의 요점을 정리합니다.",
+                "TL": "Ibuod ang mahahalagang punto ng pulong.",
+                "MY": "အစည်းအဝေး၏ အဓိကအချက်များကို အကျဉ်းချုပ်ဖော်ပြပါ။",
+                "HI": "बैठक के मुख्य बिंदुओं का सारांश प्रस्तुत करें।",
+                "AR": "تلخيص النقاط الرئيسية للاجتماع.",
+                "FA": "نکات کلیدی جلسه را خلاصه کنید."
+            }
+        },
+        {
+            "kanji": "先生は要点をゆっくり説明しました。",
+            "furigana": "先生(せんせい)は要点(ようてん)をゆっくり説明(せつめい)しました。",
+            "translations": {
+                "EN": "The teacher explained the main points slowly.",
+                "ID": "Guru menjelaskan poin-poin utama secara perlahan.",
+                "ES": "El profesor explicó los puntos principales lentamente.",
+                "VI": "Giáo viên giải thích những điểm chính một cách chậm rãi.",
+                "FR": "Le professeur a expliqué les points principaux lentement.",
+                "NE": "शिक्षकले मुख्य बुँदाहरू बिस्तारै व्याख्या गर्नुभयो।",
+                "BN": "শিক্ষক মূল বিষয়গুলো ধীরে ধীরে ব্যাখ্যা করলেন।",
+                "ZH": "老师慢慢地讲解要点。",
+                "KO": "선생님은 요점을 천천히 설명했습니다.",
+                "TL": "Dahan-dahang ipinaliwanag ng guro ang mga pangunahing punto.",
+                "MY": "ဆရာက အဓိက အချက်တွေကို ဖြည်းဖြည်းချင်း ရှင်းပြတယ်။",
+                "HI": "शिक्षक ने मुख्य बिंदुओं को धीरे-धीरे समझाया।",
+                "AR": "شرح المعلم النقاط الرئيسية ببطء.",
+                "FA": "معلم نکات اصلی را به آرامی توضیح داد."
+            }
+        },
+        {
+            "kanji": "この資料は要点だけです。",
+            "furigana": "この資料(しりょう)は要点(ようてん)だけです。",
+            "translations": {
+                "EN": "This document is just the highlights.",
+                "ID": "Dokumen ini hanya berisi hal-hal penting saja.",
+                "ES": "Este documento es sólo lo más destacado.",
+                "VI": "Tài liệu này chỉ là những điểm nổi bật.",
+                "FR": "Ce document ne présente que les points saillants.",
+                "NE": "यो कागजात केवल मुख्य झलकहरू मात्र हुन्।",
+                "BN": "এই নথিটি কেবল হাইলাইটস।",
+                "ZH": "本文件仅列举重点内容。",
+                "KO": "이 자료는 요점뿐입니다.",
+                "TL": "Ang dokumentong ito ay ang mga highlight lamang.",
+                "MY": "ဤစာတမ်းသည် မီးမောင်းထိုးပြရုံသာဖြစ်သည်။",
+                "HI": "यह दस्तावेज़ केवल मुख्य अंश है।",
+                "AR": "هذه الوثيقة هي مجرد النقاط البارزة.",
+                "FA": "این سند فقط نکات برجسته را نشان می‌دهد."
+            }
+        },
+        {
+            "kanji": "今日の要点は三つあります。",
+            "furigana": "今日(きょう)の要点(ようてん)は三(みっ)つあります。",
+            "translations": {
+                "EN": "There are three main points today.",
+                "ID": "Ada tiga poin utama hari ini.",
+                "ES": "Hoy hay tres puntos principales:",
+                "VI": "Hôm nay có ba điểm chính.",
+                "FR": "Il y a trois points principaux aujourd’hui.",
+                "NE": "आज तीन मुख्य बुँदाहरू छन्।",
+                "BN": "আজ তিনটি প্রধান বিষয় আছে।",
+                "ZH": "今天主要讲三个点。",
+                "KO": "오늘의 요점은 세 가지입니다.",
+                "TL": "May tatlong pangunahing punto ngayon.",
+                "MY": "ဒီနေ့မှာ အဓိက အချက်သုံးချက်ရှိပါတယ်။",
+                "HI": "आज तीन मुख्य बिंदु हैं।",
+                "AR": "هناك ثلاث نقاط رئيسية اليوم.",
+                "FA": "امروز سه نکته اساسی وجود دارد."
+            }
+        },
+        {
+            "kanji": "プレゼンでは要点に絞りましょう。",
+            "furigana": "プレゼンでは要点(ようてん)に絞(しぼ)りましょう。{",
+            "translations": {
+                "EN": "Keep your presentation focused on the main points.",
+                "ID": "Jaga presentasi Anda tetap fokus pada poin utama.",
+                "ES": "Mantenga su presentación centrada en los puntos principales.",
+                "VI": "Tập trung vào những điểm chính trong bài thuyết trình.",
+                "FR": "Gardez votre présentation concentrée sur les points principaux.",
+                "NE": "आफ्नो प्रस्तुति मुख्य बुँदाहरूमा केन्द्रित राख्नुहोस्।",
+                "BN": "আপনার উপস্থাপনাটি মূল বিষয়গুলির উপর কেন্দ্রীভূত রাখুন।",
+                "ZH": "让你的演讲集中于要点。",
+                "KO": "프레젠테이션에서는 요점으로 좁히자.",
+                "TL": "Panatilihing nakatuon ang iyong presentasyon sa mga pangunahing punto.",
+                "MY": "သင်၏တင်ပြမှုကို အဓိကအချက်များပေါ်တွင် အာရုံစိုက်ထားပါ။",
+                "HI": "अपनी प्रस्तुति को मुख्य बिंदुओं पर केंद्रित रखें।",
+                "AR": "حافظ على تركيز عرضك التقديمي على النقاط الرئيسية.",
+                "FA": "ارائه خود را بر نکات اصلی متمرکز نگه دارید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "inti",
+            "ES": "esencia",
+            "VI": "ý chính",
+            "FR": "essentiel",
+            "NE": "सारांश",
+            "BN": "সারাংশ",
+            "ZH": "要旨",
+            "KO": "요점",
+            "TL": "diwa",
+            "MY": "အနှစ်ချုပ်",
+            "HI": "सार",
+            "AR": "جوهر",
+            "FA": "اصل مطلب",
+            "EN": [
+                "gist",
+                "crux",
+                "essence",
+                "core"
+            ]
+        },
+        {
+            "ID": "highlight",
+            "ES": "reflejos",
+            "VI": "điểm nổi bật",
+            "FR": "points forts",
+            "NE": "हाइलाइटहरू",
+            "BN": "হাইলাইটস",
+            "ZH": "亮点",
+            "KO": "하이라이트",
+            "TL": "mga highlight",
+            "MY": "မီးမောင်းထိုးပြသည်။",
+            "HI": "पर प्रकाश डाला गया",
+            "AR": "أبرز الأحداث",
+            "FA": "نکات برجسته",
+            "EN": [
+                "highlights",
+                "takeaways",
+                "essentials",
+                "points"
+            ]
+        },
+        {
+            "ID": "garis besar",
+            "ES": "describir",
+            "VI": "phác thảo",
+            "FR": "contour",
+            "NE": "रूपरेखा",
+            "BN": "রূপরেখা",
+            "ZH": "大纲",
+            "KO": "개요",
+            "TL": "balangkas",
+            "MY": "ကောက်ကြောင်း",
+            "HI": "रूपरेखा",
+            "AR": "مخطط تفصيلي",
+            "FA": "طرح کلی",
+            "EN": [
+                "outline",
+                "bullets"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "要点",
+        "is_common": true,
+        "tags": [
+            "wanikani9"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "要点",
+                "reading": "ようてん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "gist",
+                    "main point"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "要",
+        "点"
+    ],
+    "kanji_data": {
+        "要": {
+            "freq_mainichi_shinbun": 106,
+            "grade": 4,
+            "heisig_en": "need",
+            "jlpt": 3,
+            "kanji": "要",
+            "kun_readings": [
+                "い.る",
+                "かなめ"
+            ],
+            "meanings": [
+                "essence",
+                "key to",
+                "main point",
+                "need",
+                "pivot"
+            ],
+            "name_readings": [
+                "とし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ヨウ"
+            ],
+            "stroke_count": 9,
+            "unicode": "8981"
+        },
+        "点": {
+            "freq_mainichi_shinbun": 165,
+            "grade": 2,
+            "heisig_en": "spot",
+            "jlpt": 3,
+            "kanji": "点",
+            "kun_readings": [
+                "さ.す",
+                "た.てる",
+                "つ.く",
+                "つ.ける",
+                "とぼ.す",
+                "とも.す",
+                "ぼち"
+            ],
+            "meanings": [
+                "decimal point",
+                "mark",
+                "point",
+                "speck",
+                "spot"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "テン"
+            ],
+            "stroke_count": 9,
+            "unicode": "70B9"
+        }
+    }
+}

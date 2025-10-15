@@ -13,42 +13,6 @@ from src.word.JPWord import extract_kanji, query_jisho, query_kanji
 logger = get_logger("JVD")
 
 
-def translate_text(text: str, target_language: str, source_language: str | None = "ja") -> str:
-    """Translate text from source language to target language using Google Translate"""
-    logger.debug(f"🟢 Translating text: {text} from {source_language} to {target_language}")
-    client = get_translator_client()
-
-    if source_language is None:
-        result = client.detect_language(text)
-        source_language = result["language"]
-
-    try:
-        # normalize language codes to lowercase for the translator API
-        tgt = target_language.lower() if isinstance(target_language, str) else target_language
-        src = source_language.lower() if isinstance(source_language, str) else source_language
-        result = client.translate(text, target_language=tgt, source_language=src, format_="text")
-        logger.debug(f"🟢 Translation result: {result}")
-        return result["translatedText"]
-    except Exception as e:
-        logger.error(f"🟢 Translation failed: {e}")
-        return f"Error: {str(e)}"
-
-
-def translate_to_all_languages(text: str, source_language: str | None = "ja") -> dict:
-    """Translate text to all supported languages"""
-    logger.debug(f"🟩 Translating text to all languages: {text}")
-    translations = {}
-    for lang_code in LANGUAGES_ABBR.values():
-        # skip translating to the same language as source (guard if source_language is None)
-        if source_language and lang_code.lower() == source_language.lower():
-            continue
-        translated_text = translate_text(text, lang_code, source_language)
-        translations[lang_code] = translated_text
-    order_list = ["EN", "ID", "ES", "VI", "FR", "NE", "BN", "ZH", "KO", "TL", "MY", "HI", "AR", "FA"]
-    sorted_x = {key: translations[key] for key in order_list if key in translations}
-    return sorted_x
-
-
 class KanjiDetail(BaseModel):
     model_config = ConfigDict(extra="forbid")
     kanji: str = Field(examples=["学", "校"], max_length=1, additionalProperties=False)  # type: ignore
@@ -685,13 +649,13 @@ Target word: {{word}}
 Output the sections below using **exactly** these headings and this order—no extra commentary.
 
 ## introduction_japanese
-In Japanese only. Without giving the meaning or reading, name typical situations/contexts where this word is used. Start with the word itself. 1–2 short spoken sentences suitable for elementary learners.
+In Japanese only. Without giving the meaning or reading, name typical situations/contexts where this word is used. Start with the word itself. 1-2 short spoken sentences suitable for elementary learners.
 
 ## introduction_english
 English translation of **introduction_japanese**. Write the word in kana. Start with: “The [adjective/noun/verb …] [word] …”
 
 ## youtube_description
-A short English YouTube description for a video explaining the word’s meaning and use.
+A short English YouTube description for a video explaining the word meaning and use.
 
 ## meanings
 List **all** meanings grouped by nuance. Each nuance is a list of single-word English glosses. Return a nested list, e.g.:
@@ -704,36 +668,36 @@ A short, complete spoken explanation (Japanese) of the literal meanings based on
 A short spoken explanation (English) of the literal meanings  based on the previous meanings section. Include the word in kana.
 
 ## kanji_details
-For **each kanji** in the word: give 1–2 common words (excluding the target word). For each, provide: kanji word, reading, and meaning.
+For **each kanji** in the word: give 1-2 common words (excluding the target word). For each, provide: kanji word, reading, and meaning.
 
 ## kanji_explanation_english
-For **each kanji** (in order), write one paragraph of 3–4 short sentences in a teacher’s spoken voice. Start with “The [first/second/…] kanji means …”. Mention 1–2 example vocab items (not the target word) **written in hiragana only**. No bullet points, parentheses, line breaks, titles, or kanji inside the example vocab.
+For **each kanji** (in order), write one paragraph of 3-4 short sentences in a teacher spoken voice. Start with “The [first/second/…] kanji means …”. Mention 1-2 example vocab items (not the target word) **written in hiragana only**. No bullet points, parentheses, line breaks, titles, or kanji inside the example vocab.
 
 ## synonyms
 List 1 (max 2) common synonyms **excluding the target word**. Format exactly:
 kanji : reading : meaning
 
 ## synonyms_explanation
-A very short English explanation of the synonyms’ nuances and how they overlap with the target word. Start with: “The most common synonym[s] of the word [are/is] …”. Write any Japanese vocab **in hiragana only** (no kanji).
+A very short English explanation of the synonyms nuances and how they overlap with the target word. Start with: “The most common synonym[s] of the word [are/is] …”. Write any Japanese vocab **in hiragana only** (no kanji).
 
 ## antonyms
 List 1 (max 2) common antonyms **excluding the target word**. Format exactly:
 kanji : reading : meaning
 
 ## antonyms_explanation
-A very short English explanation of the antonyms’ nuances and how they differ from the target word. Start with: “The most common antonym[s] of the word [are/is] …”. Write any Japanese vocab **in hiragana only** (no kanji).
+A very short English explanation of the antonyms nuances and how they differ from the target word. Start with: “The most common antonym[s] of the word [are/is] …”. Write any Japanese vocab **in hiragana only** (no kanji).
 
 ## collocations
 Collocation refers to a group of two or more words that usually go together.
 List simple, common collocations based on each of the following patterns with the word ({{word}}). 
-1) Noun Phrase (Det/Num + Adj + N; N + Adj; N + N; Poss + N; N + case/PP)
-2) Verb Phrase (S + V + O; V + Adv; V + Obj + PP; Aux + V; serial V if normal)
-3) Adjective Phrase (Adv + Adj; Adj + PP; basic comparatives/superlatives)
-4) Adverbial Phrase (Adv + Adv; Adv + PP; common time/place adverbials)
-For example {kanji:鋭い痛み, furigana:鋭(するど)い痛(いた)み}, {kanji:営業を開始する, furigana:営業(えいぎょう)を開始(かいし)する}, {kanji:週末の営業, furigana:週末(しゅうまつ)の営業(えいぎょう)}.
+1) Noun collocation (Det/Num + Adj + N; N + Adj; N + N; Poss + N; N + case/PP)
+2) Verb collocation (S + V + O; V + Adv; V + Obj + PP; Aux + V; serial V if normal)
+3) Adjective collocation (Adv + Adj; Adj + PP; basic comparatives/superlatives)
+4) Adverbial collocation (Adv + Adv; Adv + PP; common time/place adverbials)
+For example {kanji:鋭い痛み, furigana:鋭(するど)い痛(いた)み} of Adj+N, {kanji:営業を開始する, furigana:営業(えいぎょう)を開始(かいし)する} of N+V, {kanji:週末の営業, furigana:週末(しゅうまつ)の営業(えいぎょう)} of N+N. Use other common patterns above as needed.
 
 ## Examples
-Provide 5–7 short, simple sentences using the target word in different contexts aligned with the collocations. 
+Provide 5-7 short, simple and commonly used sentences using the target word ({{word}}) in different random contexts. Each sentence should be suitable for elementary learners. Use a variety of sentence patterns and structures.
 
 For each collocation and example, give:
 - Kanji sentence
@@ -741,12 +705,41 @@ For each collocation and example, give:
 Keep everything beginner-friendly.
 """
 
-ws = [
-    "移す",
-    "営業",
-    "解決",
-    "火災",
-]
+
+def translate_text(text: str, target_language: str, source_language: str | None = "ja") -> str:
+    """Translate text from source language to target language using Google Translate"""
+    logger.debug(f"🟢 Translating text: {text} from {source_language} to {target_language}")
+    client = get_translator_client()
+
+    if source_language is None:
+        result = client.detect_language(text)
+        source_language = result["language"]
+
+    try:
+        # normalize language codes to lowercase for the translator API
+        tgt = target_language.lower() if isinstance(target_language, str) else target_language
+        src = source_language.lower() if isinstance(source_language, str) else source_language
+        result = client.translate(text, target_language=tgt, source_language=src, format_="text")
+        logger.debug(f"🟢 Translation result: {result}")
+        return result["translatedText"]
+    except Exception as e:
+        logger.error(f"🟢 Translation failed: {e}")
+        return f"Error: {str(e)}"
+
+
+def translate_to_all_languages(text: str, source_language: str | None = "ja") -> dict:
+    """Translate text to all supported languages"""
+    logger.debug(f"🟩 Translating text to all languages: {text}")
+    translations = {}
+    for lang_code in LANGUAGES_ABBR.values():
+        # skip translating to the same language as source (guard if source_language is None)
+        if source_language and lang_code.lower() == source_language.lower():
+            continue
+        translated_text = translate_text(text, lang_code, source_language)
+        translations[lang_code] = translated_text
+    order_list = ["EN", "ID", "ES", "VI", "FR", "NE", "BN", "ZH", "KO", "TL", "MY", "HI", "AR", "FA"]
+    sorted_x = {key: translations[key] for key in order_list if key in translations}
+    return sorted_x
 
 
 def get_schema():
@@ -845,6 +838,54 @@ def read_batch_results(filepath: str, jlpt_level: int):
             jp_w.pptx_generation(word, jlpt_level)
     return outputs
 
+
+ws = [
+    "与える",
+    "穴",
+    "あんなに",
+    "市場",
+    "従兄弟",
+    "伺う",
+    "運転",
+    "描く",
+    "贈る",
+    "香り",
+    "財産",
+    "幸せ",
+    "自身",
+    "実行",
+    "失望",
+    "芝居",
+    "示す",
+    "症状",
+    "審判",
+    "速度",
+    "袖",
+    "他人",
+    "注目",
+    "著者",
+    "掴む",
+    "包み",
+    "提出",
+    "適用",
+    "手伝い",
+    "日光",
+    "人間",
+    "年代",
+    "別に",
+    "迷惑",
+    "優勝",
+    "輸出",
+    "夜明け",
+    "要点",
+    "止す",
+    "余分",
+    "宜しい",
+    "利口",
+    "流行",
+    "話題",
+    "湾",
+]
 
 if __name__ == "__main__":
     # get_schema()

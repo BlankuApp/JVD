@@ -1,0 +1,459 @@
+{
+    "version": "0.3.0",
+    "word": "症状",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/QX5zL8LS1Dw",
+    "in_db": true,
+    "kanji": "症状",
+    "reading": "しょうじょう",
+    "introduction_japanese": "症状。病院でお医者さんに話すときや、体の変化について説明するときによく使います。",
+    "introduction_english": "The noun しょうじょう is used at the hospital when speaking to a doctor and when describing changes in your body.",
+    "meanings": [
+        [
+            "symptom",
+            "sign",
+            "manifestation"
+        ],
+        [
+            "condition",
+            "state"
+        ]
+    ],
+    "meaning_explanation_japanese": "病気やけがで現れる合図やようす、またそのときの体の状態を表します。人が感じるものも、見て分かるものも含みます。",
+    "meaning_explanation_english": "しょうじょう means the signs or manifestations of an illness and the patient’s condition at that time. It covers what you feel and what others can observe.",
+    "youtube_description": "Learn the Japanese word しょうじょう (症状): clear meanings, common phrases, and easy examples you can use at the doctor or in daily life.",
+    "kanji_details": [
+        {
+            "kanji": "症",
+            "onyomi": [
+                "ショウ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "illness",
+                "symptom"
+            ],
+            "common_words": [
+                "重症（じゅうしょう）：serious case",
+                "症候群（しょうこうぐん）：syndrome"
+            ]
+        },
+        {
+            "kanji": "状",
+            "onyomi": [
+                "ジョウ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "state",
+                "condition",
+                "form"
+            ],
+            "common_words": [
+                "状態（じょうたい）：state; condition",
+                "状況（じょうきょう）：situation; circumstances"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means illness or syndrome. It often appears in medical words. Think of words like じゅうしょう and しょうこうぐん. It points to the presence or degree of a problem.\nThe second kanji means state or condition. We use it for how things are at a moment. You meet it in words like じょうたい and じょうきょう. It describes the situation or appearance.",
+    "synonyms": [
+        "兆候 : ちょうこう : sign",
+        "病状 : びょうじょう : condition"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ちょうこう and びょうじょう. ちょうこう is a sign that something may happen or is beginning, not limited to sickness. びょうじょう is the overall state of an illness. しょうじょう focuses on specific signs you feel or see.",
+    "antonyms": [
+        "無症状 : むしょうじょう : asymptomatic"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むしょうじょう. It means there are no noticeable signs, even if the cause may exist. しょうじょう is about what appears, while むしょうじょう is when nothing appears.",
+    "collocations": [
+        {
+            "kanji": "初期の症状",
+            "furigana": "初(しょ)期(き)の症状(しょうじょう)",
+            "translations": {
+                "EN": "Early symptoms",
+                "ID": "Gejala awal",
+                "ES": "Síntomas tempranos",
+                "VI": "Các triệu chứng sớm",
+                "FR": "Premiers symptômes",
+                "NE": "प्रारम्भिक लक्षणहरू",
+                "BN": "প্রাথমিক লক্ষণ",
+                "ZH": "早期症状",
+                "KO": "초기 증상",
+                "TL": "Maagang sintomas",
+                "MY": "အစောပိုင်းရောဂါလက္ခဏာများ",
+                "HI": "प्रारंभिक लक्षण",
+                "AR": "الأعراض المبكرة",
+                "FA": "علائم اولیه"
+            }
+        },
+        {
+            "kanji": "典型的な症状",
+            "furigana": "典(てん)型(けい)的(てき)な症状(しょうじょう)",
+            "translations": {
+                "EN": "Typical symptoms",
+                "ID": "Gejala khas",
+                "ES": "Síntomas típicos",
+                "VI": "Các triệu chứng điển hình",
+                "FR": "Symptômes typiques",
+                "NE": "सामान्य लक्षणहरू",
+                "BN": "সাধারণ লক্ষণ",
+                "ZH": "典型症状",
+                "KO": "일반적인 증상",
+                "TL": "Mga tipikal na sintomas",
+                "MY": "ပုံမှန်လက္ခဏာများ",
+                "HI": "विशिष्ट लक्षण",
+                "AR": "الأعراض النموذجية",
+                "FA": "علائم معمول"
+            }
+        },
+        {
+            "kanji": "風邪の症状",
+            "furigana": "風邪(かぜ)の症状(しょうじょう)",
+            "translations": {
+                "EN": "Cold symptoms",
+                "ID": "Gejala pilek",
+                "ES": "Síntomas del resfriado",
+                "VI": "Các triệu chứng cảm lạnh",
+                "FR": "Symptômes du rhume",
+                "NE": "चिसोका लक्षणहरू",
+                "BN": "ঠান্ডা লাগার লক্ষণ",
+                "ZH": "感冒症状",
+                "KO": "감기 증상",
+                "TL": "Mga sintomas ng sipon",
+                "MY": "အအေးမိစေတယ်။",
+                "HI": "सर्दी के लक्षण",
+                "AR": "أعراض البرد",
+                "FA": "علائم سرماخوردگی"
+            }
+        },
+        {
+            "kanji": "呼吸器の症状",
+            "furigana": "呼(こ)吸(きゅう)器(き)の症状(しょうじょう)",
+            "translations": {
+                "EN": "Respiratory symptoms",
+                "ID": "Gejala pernapasan",
+                "ES": "Síntomas respiratorios",
+                "VI": "Các triệu chứng về hô hấp",
+                "FR": "Symptômes respiratoires",
+                "NE": "श्वासप्रश्वासका लक्षणहरू",
+                "BN": "শ্বাসযন্ত্রের লক্ষণ",
+                "ZH": "呼吸道症状",
+                "KO": "호흡기 증상",
+                "TL": "Mga sintomas ng paghinga",
+                "MY": "အသက်ရှူလမ်းကြောင်းဆိုင်ရာ လက္ခဏာများ",
+                "HI": "श्वसन संबंधी लक्षण",
+                "AR": "أعراض الجهاز التنفسي",
+                "FA": "علائم تنفسی"
+            }
+        },
+        {
+            "kanji": "症状が出る",
+            "furigana": "症状(しょうじょう)が出(で)る",
+            "translations": {
+                "EN": "Symptoms appear",
+                "ID": "Gejala muncul",
+                "ES": "Los síntomas aparecen",
+                "VI": "Các triệu chứng xuất hiện",
+                "FR": "Les symptômes apparaissent",
+                "NE": "लक्षणहरू देखा पर्छन्",
+                "BN": "লক্ষণ দেখা দেয়",
+                "ZH": "出现症状",
+                "KO": "증상이 나온다",
+                "TL": "Lumilitaw ang mga sintomas",
+                "MY": "လက္ခဏာများပေါ်လာသည်။",
+                "HI": "लक्षण दिखाई देते हैं",
+                "AR": "تظهر الأعراض",
+                "FA": "علائم ظاهر می‌شوند"
+            }
+        },
+        {
+            "kanji": "症状を訴える",
+            "furigana": "症状(しょうじょう)を訴(うった)える",
+            "translations": {
+                "EN": "Complaining of symptoms",
+                "ID": "Mengeluh tentang gejala",
+                "ES": "Quejarse de síntomas",
+                "VI": "Khiếu nại về các triệu chứng",
+                "FR": "Se plaindre de symptômes",
+                "NE": "लक्षणहरूको गुनासो",
+                "BN": "লক্ষণগুলির অভিযোগ",
+                "ZH": "抱怨症状",
+                "KO": "증상을 호소하는",
+                "TL": "Pagrereklamo ng mga sintomas",
+                "MY": "လက္ခဏာများကို တိုင်ကြားခြင်း။",
+                "HI": "लक्षणों की शिकायत",
+                "AR": "الشكوى من الأعراض",
+                "FA": "شکایت از علائم"
+            }
+        },
+        {
+            "kanji": "症状が悪化する",
+            "furigana": "症状(しょうじょう)が悪(あっ)化(か)する",
+            "translations": {
+                "EN": "Symptoms worsen",
+                "ID": "Gejalanya semakin parah",
+                "ES": "Los síntomas empeoran",
+                "VI": "Các triệu chứng trở nên tồi tệ hơn",
+                "FR": "Les symptômes s'aggravent",
+                "NE": "लक्षणहरू बिग्रन्छन्",
+                "BN": "লক্ষণগুলি আরও খারাপ হয়",
+                "ZH": "症状恶化",
+                "KO": "증상이 악화됨",
+                "TL": "Lumalala ang mga sintomas",
+                "MY": "ရောဂါလက္ခဏာများ ပိုဆိုးလာပါသည်။",
+                "HI": "लक्षण बिगड़ जाते हैं",
+                "AR": "تزداد الأعراض سوءًا",
+                "FA": "علائم بدتر می‌شوند"
+            }
+        },
+        {
+            "kanji": "症状を記録する",
+            "furigana": "症状(しょうじょう)を記(き)録(ろく)する",
+            "translations": {
+                "EN": "Record your symptoms",
+                "ID": "Catat gejala Anda",
+                "ES": "Registre sus síntomas",
+                "VI": "Ghi lại các triệu chứng của bạn",
+                "FR": "Enregistrez vos symptômes",
+                "NE": "आफ्ना लक्षणहरू रेकर्ड गर्नुहोस्",
+                "BN": "আপনার লক্ষণগুলি রেকর্ড করুন",
+                "ZH": "记录你的症状",
+                "KO": "증상 기록",
+                "TL": "Itala ang iyong mga sintomas",
+                "MY": "သင်၏ရောဂါလက္ခဏာများကိုမှတ်တမ်းတင်ပါ။",
+                "HI": "अपने लक्षण रिकॉर्ड करें",
+                "AR": "سجل أعراضك",
+                "FA": "علائم خود را ثبت کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "どんな症状ですか。",
+            "furigana": "どんな症状(しょうじょう)ですか。",
+            "translations": {
+                "EN": "What are the symptoms?",
+                "ID": "Apa saja gejalanya?",
+                "ES": "¿Cuales son los síntomas?",
+                "VI": "Các triệu chứng là gì?",
+                "FR": "Quels sont les symptômes ?",
+                "NE": "लक्षणहरू के के हुन्?",
+                "BN": "লক্ষণগুলো কী কী?",
+                "ZH": "有哪些症状？",
+                "KO": "어떤 증상입니까?",
+                "TL": "Ano ang mga sintomas?",
+                "MY": "လက္ခဏာတွေက ဘာတွေလဲ။",
+                "HI": "क्या लक्षण हैं?",
+                "AR": "ما هي الأعراض؟",
+                "FA": "علائم چیست؟"
+            }
+        },
+        {
+            "kanji": "症状があります。",
+            "furigana": "症状(しょうじょう)があります。",
+            "translations": {
+                "EN": "There are symptoms.",
+                "ID": "Ada gejalanya.",
+                "ES": "Hay síntomas.",
+                "VI": "Có triệu chứng.",
+                "FR": "Il y a des symptômes.",
+                "NE": "लक्षणहरू छन्।",
+                "BN": "লক্ষণ আছে।",
+                "ZH": "有症状。",
+                "KO": "증상이 있습니다.",
+                "TL": "May mga sintomas.",
+                "MY": "လက္ခဏာတွေရှိတယ်။",
+                "HI": "इसके लक्षण हैं।",
+                "AR": "هناك أعراض.",
+                "FA": "علائمی وجود دارد."
+            }
+        },
+        {
+            "kanji": "症状がひどくなりました。",
+            "furigana": "症状(しょうじょう)が酷(ひど)くなりました。",
+            "translations": {
+                "EN": "My symptoms got worse.",
+                "ID": "Gejala saya makin parah.",
+                "ES": "Mis síntomas empeoraron.",
+                "VI": "Các triệu chứng của tôi trở nên tồi tệ hơn.",
+                "FR": "Mes symptômes se sont aggravés.",
+                "NE": "मेरा लक्षणहरू झन् खराब हुँदै गए।",
+                "BN": "আমার লক্ষণগুলি আরও খারাপ হয়ে গেল।",
+                "ZH": "我的症状变得更严重了。",
+                "KO": "증상이 심해졌습니다.",
+                "TL": "Lumala ang aking mga sintomas.",
+                "MY": "ငါ့ရောဂါလက္ခဏာတွေ ပိုဆိုးလာတယ်။",
+                "HI": "मेरे लक्षण बदतर हो गये।",
+                "AR": "أصبحت أعراضي أسوأ.",
+                "FA": "علائمم بدتر شد."
+            }
+        },
+        {
+            "kanji": "症状は昨日からです。",
+            "furigana": "症状(しょうじょう)は昨日(きのう)からです。",
+            "translations": {
+                "EN": "The symptoms started yesterday.",
+                "ID": "Gejalanya mulai muncul kemarin.",
+                "ES": "Los síntomas comenzaron ayer.",
+                "VI": "Các triệu chứng bắt đầu xuất hiện vào ngày hôm qua.",
+                "FR": "Les symptômes ont commencé hier.",
+                "NE": "लक्षणहरू हिजोदेखि नै देखिन थालेका थिए।",
+                "BN": "গতকাল থেকেই লক্ষণগুলি দেখা দিতে শুরু করেছে।",
+                "ZH": "症状从昨天开始出现。",
+                "KO": "증상은 어제부터입니다.",
+                "TL": "Nagsimula ang mga sintomas kahapon.",
+                "MY": "ရောဂါလက္ခဏာတွေက မနေ့ကစတယ်။",
+                "HI": "ये लक्षण कल से शुरू हुए।",
+                "AR": "بدأت الأعراض بالأمس.",
+                "FA": "علائم از دیروز شروع شده."
+            }
+        },
+        {
+            "kanji": "症状を医者に伝えます。",
+            "furigana": "症状(しょうじょう)を医者(いしゃ)に伝(つた)えます。",
+            "translations": {
+                "EN": "Tell your doctor about your symptoms.",
+                "ID": "Beritahukan dokter Anda tentang gejala-gejala Anda.",
+                "ES": "Informe a su médico sobre sus síntomas.",
+                "VI": "Hãy cho bác sĩ biết về các triệu chứng của bạn.",
+                "FR": "Informez votre médecin de vos symptômes.",
+                "NE": "आफ्नो लक्षणहरूको बारेमा आफ्नो डाक्टरलाई भन्नुहोस्।",
+                "BN": "আপনার লক্ষণগুলি সম্পর্কে আপনার ডাক্তারকে বলুন।",
+                "ZH": "告诉医生你的症状。",
+                "KO": "증상을 의사에게 알립니다.",
+                "TL": "Sabihin sa iyong doktor ang tungkol sa iyong mga sintomas.",
+                "MY": "သင့်ရောဂါလက္ခဏာများအကြောင်း သင့်ဆရာဝန်ကို ပြောပြပါ။",
+                "HI": "अपने लक्षणों के बारे में अपने डॉक्टर को बताएं।",
+                "AR": "أخبر طبيبك عن الأعراض التي تعاني منها.",
+                "FA": "علائم خود را به پزشک اطلاع دهید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "gejala",
+            "ES": "síntoma",
+            "VI": "triệu chứng",
+            "FR": "symptôme",
+            "NE": "लक्षण",
+            "BN": "লক্ষণ",
+            "ZH": "症状",
+            "KO": "징후",
+            "TL": "sintomas",
+            "MY": "ရောဂါလက္ခဏာ",
+            "HI": "लक्षण",
+            "AR": "الأعراض",
+            "FA": "علامت",
+            "EN": [
+                "symptom",
+                "sign",
+                "manifestation"
+            ]
+        },
+        {
+            "ID": "kondisi",
+            "ES": "condición",
+            "VI": "tình trạng",
+            "FR": "condition",
+            "NE": "अवस्था",
+            "BN": "অবস্থা",
+            "ZH": "状况",
+            "KO": "상태",
+            "TL": "kundisyon",
+            "MY": "အခြေအနေ",
+            "HI": "स्थिति",
+            "AR": "حالة",
+            "FA": "وضعیت",
+            "EN": [
+                "condition",
+                "state"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "症状",
+        "is_common": true,
+        "tags": [
+            "wanikani27"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "症状",
+                "reading": "しょうじょう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "symptoms",
+                    "condition (of a patient)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "症",
+        "状"
+    ],
+    "kanji_data": {
+        "症": {
+            "freq_mainichi_shinbun": 1111,
+            "grade": 8,
+            "heisig_en": "symptoms",
+            "jlpt": 1,
+            "kanji": "症",
+            "kun_readings": [],
+            "meanings": [
+                "illness",
+                "symptoms"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ショウ"
+            ],
+            "stroke_count": 10,
+            "unicode": "75C7"
+        },
+        "状": {
+            "freq_mainichi_shinbun": 298,
+            "grade": 5,
+            "heisig_en": "status quo",
+            "jlpt": 3,
+            "kanji": "状",
+            "kun_readings": [],
+            "meanings": [
+                "appearance",
+                "circumstances",
+                "conditions",
+                "form",
+                "status quo"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ジョウ"
+            ],
+            "stroke_count": 7,
+            "unicode": "72B6"
+        }
+    }
+}
