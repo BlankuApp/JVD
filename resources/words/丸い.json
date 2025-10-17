@@ -1,527 +1,530 @@
 {
-  "version": "0.3.0",
-  "word": "丸い",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/EN5dkMi2sNc",
-  "in_db": true,
-  "kanji": "丸い",
-  "reading": "まるい",
-  "introduction_japanese": "「丸い」は、ものの形や見た目を言うとき、顔や目やお腹のような体のようすを言うとき、月やコイン・皿などの話でよく使います。人間関係や話し合いがうまくいく表現にも出てきます。",
-  "introduction_english": "The adjective まるい is used when talking about shapes and appearances of things, body parts like faces and eyes, and items like the moon, coins, and plates. It also appears in phrases about keeping relationships or discussions calm and smooth.",
-  "meanings": [
-    [
-      "round",
-      "circular",
-      "spherical"
-    ],
-    [
-      "curved",
-      "smooth"
-    ],
-    [
-      "harmonious",
-      "calm",
-      "peaceful",
-      "amiable",
-      "amicable"
-    ]
-  ],
-  "meaning_explanation_japanese": "「丸い」は、球のような形や円のような形を表す形容詞です。角が少なく、なめらかな感じも言えます。人や物事のようすが穏やかで、もめごとがなく収まる感じにも使われます（例：丸く収まる）。表記が「円い」だと、コインや皿のような平たい形に使われることが多いです。",
-  "meaning_explanation_english": "The word まるい describes shapes like a ball or a circle. It can also mean curved or smooth, with few sharp edges. It can describe a gentle or peaceful mood in people or situations, like things settling down nicely.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "丸",
-      "meanings": [
-        "round",
-        "make round",
-        "roll up",
-        "pill",
-        "perfection"
-      ],
-      "on_readings": [
-        "がん"
-      ],
-      "kun_readings": [
-        "まる",
-        "まるい",
-        "まるめる"
-      ],
-      "common_words": [
-        "丸める (まるめる): to make round; to round off",
-        "丸ごと (まるごと): wholly; entirely"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means “round” or “to make round.” You can hear it in まるめる, which means to make something round or to round off details. It also appears in まるごと, meaning wholly or entirely, showing the idea of something as a complete round whole.",
-  "synonyms": [
-    "円い : まるい : circular; disc-shaped"
-  ],
-  "synonym_explanation": "The most common synonym of the word まるい is まるい with a different kanji. It often describes flat, disk-like things such as さら or コイン, while まるい can feel more ball-like or overall rounded.",
-  "antonyms": [
-    "四角い : しかくい : square; angular"
-  ],
-  "antonym_explanation": "The most common antonym of the word まるい is しかくい, which means square or angular. Unlike まるい with smooth curves, しかくい has clear corners and straight edges.",
-  "collocations": [
-    {
-      "kanji": "丸い形",
-      "furigana": "丸い形",
-      "translations": {}
-    },
-    {
-      "kanji": "丸い頭",
-      "furigana": "丸い頭",
-      "translations": {}
-    },
-    {
-      "kanji": "丸い目",
-      "furigana": "丸い目",
-      "translations": {}
-    },
-    {
-      "kanji": "丸い顔",
-      "furigana": "丸い顔",
-      "translations": {}
-    },
-    {
-      "kanji": "丸い机",
-      "furigana": "丸い机",
-      "translations": {}
-    },
-    {
-      "kanji": "丸い石を投げる",
-      "furigana": "丸い石を投げる",
-      "translations": {}
-    },
-    {
-      "kanji": "丸いコインを手に取る",
-      "furigana": "丸いコインを手に取る",
-      "translations": {}
-    },
-    {
-      "kanji": "丸い皿を洗う",
-      "furigana": "丸い皿を洗う",
-      "translations": {}
-    },
-    {
-      "kanji": "丸い風船を膨らませる",
-      "furigana": "丸い風船を膨らませる",
-      "translations": {}
-    },
-    {
-      "kanji": "丸いボールを打つ",
-      "furigana": "丸いボールを打つ",
-      "translations": {}
-    },
-    {
-      "kanji": "非常に丸い",
-      "furigana": "非常に丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "比較的丸い",
-      "furigana": "比較的丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "丸くて光る",
-      "furigana": "丸くて光る",
-      "translations": {}
-    },
-    {
-      "kanji": "きれいに丸い",
-      "furigana": "きれいに丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "ほぼ丸い",
-      "furigana": "ほぼ丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "月が丸い",
-      "furigana": "月が丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "顔が丸い",
-      "furigana": "顔が丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "目が丸い",
-      "furigana": "目が丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "お腹が丸い",
-      "furigana": "お腹が丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "魚が丸い",
-      "furigana": "魚が丸い",
-      "translations": {}
-    },
-    {
-      "kanji": "丸く収める",
-      "furigana": "丸く収める",
-      "translations": {}
-    },
-    {
-      "kanji": "丸くなる",
-      "furigana": "丸くなる",
-      "translations": {}
-    },
-    {
-      "kanji": "丸く治める",
-      "furigana": "丸く治める",
-      "translations": {}
-    },
-    {
-      "kanji": "丸く言う",
-      "furigana": "丸く言う",
-      "translations": {}
-    },
-    {
-      "kanji": "丸く収まる",
-      "furigana": "丸く収まる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "月が丸い。",
-      "furigana": "月(つき)が丸(まる)い。",
-      "translations": {
-        "EN": "The moon is round.",
-        "ID": "Bulan itu bulat.",
-        "ES": "La luna es redonda.",
-        "VI": "Mặt trăng thì tròn.",
-        "FR": "La lune est ronde.",
-        "NE": "चन्द्रमा गोलो छ।",
-        "BN": "চাঁদ গোলাকার।",
-        "ZH": "月亮是圆的。",
-        "KO": "달이 둥글다.",
-        "TL": "Bilog ang buwan.",
-        "MY": "လသည် လှည့်ပတ်သည်။",
-        "HI": "चाँद गोल है.",
-        "AR": "القمر مستدير.",
-        "FA": "ماه گرد است."
-      }
-    },
-    {
-      "kanji": "このコインは丸い。",
-      "furigana": "このコインは丸(まる)い。",
-      "translations": {
-        "EN": "This coin is round.",
-        "ID": "Koin ini berbentuk bulat.",
-        "ES": "Esta moneda es redonda.",
-        "VI": "Đồng xu này có hình tròn.",
-        "FR": "Cette pièce est ronde.",
-        "NE": "यो सिक्का गोलो छ।",
-        "BN": "এই মুদ্রাটি গোলাকার।",
-        "ZH": "这枚硬币是圆形的。",
-        "KO": "이 동전은 둥글다.",
-        "TL": "Ang barya na ito ay bilog.",
-        "MY": "ဤဒင်္ဂါးသည် အဝိုင်းဖြစ်သည်။",
-        "HI": "यह सिक्का गोल है.",
-        "AR": "هذه العملة مستديرة.",
-        "FA": "این سکه گرد است."
-      }
-    },
-    {
-      "kanji": "丸い皿を洗う。",
-      "furigana": "丸(まる)い皿(さら)を洗(あら)う。",
-      "translations": {
-        "EN": "Wash the round plates.",
-        "ID": "Cuci piring bundar.",
-        "ES": "Lavar los platos redondos.",
-        "VI": "Rửa sạch đĩa tròn.",
-        "FR": "Laver les assiettes rondes.",
-        "NE": "गोलो प्लेटहरू धुनुहोस्।",
-        "BN": "গোল প্লেটগুলো ধুয়ে ফেলুন।",
-        "ZH": "清洗圆盘子。",
-        "KO": "둥근 접시를 씻으십시오.",
-        "TL": "Hugasan ang mga bilog na plato.",
-        "MY": "အဝိုင်းပြားများကို ဆေးကြောပါ။",
-        "HI": "गोल प्लेटें धो लें.",
-        "AR": "اغسل الأطباق المستديرة.",
-        "FA": "بشقاب‌های گرد را بشویید."
-      }
-    },
-    {
-      "kanji": "子供の目は丸い。",
-      "furigana": "子供(こども)の目(め)は丸(まる)い。",
-      "translations": {
-        "EN": "The child's eyes are round.",
-        "ID": "Mata anak itu bulat.",
-        "ES": "Los ojos del niño son redondos.",
-        "VI": "Đôi mắt của đứa trẻ tròn.",
-        "FR": "Les yeux de l'enfant sont ronds.",
-        "NE": "बच्चाको आँखा गोलो छ।",
-        "BN": "বাচ্চাটির চোখ গোল।",
-        "ZH": "孩子的眼睛是圆的。",
-        "KO": "아이의 눈은 둥글다.",
-        "TL": "Bilog ang mata ng bata.",
-        "MY": "ကလေး၏ မျက်လုံးများသည် ဝိုင်းစက်နေသည်။",
-        "HI": "बच्चे की आँखें गोल हैं।",
-        "AR": "عيون الطفل مستديرة.",
-        "FA": "چشم‌های کودک گرد شده است."
-      }
-    },
-    {
-      "kanji": "彼の顔は丸い。",
-      "furigana": "彼(かれ)の顔(かお)は丸(まる)い。",
-      "translations": {
-        "EN": "His face is round.",
-        "ID": "Wajahnya bulat.",
-        "ES": "Su cara es redonda.",
-        "VI": "Khuôn mặt anh ấy tròn.",
-        "FR": "Son visage est rond.",
-        "NE": "उसको अनुहार गोलो छ।",
-        "BN": "তার মুখ গোলাকার।",
-        "ZH": "他的脸是圆的。",
-        "KO": "그의 얼굴은 둥글다.",
-        "TL": "Bilog ang mukha niya.",
-        "MY": "သူ့မျက်နှာက ဝိုင်းစက်နေတယ်။",
-        "HI": "उसका चेहरा गोल है.",
-        "AR": "وجهه مستدير.",
-        "FA": "صورتش گرد است."
-      }
-    },
-    {
-      "kanji": "話が丸く収まった。",
-      "furigana": "話(はなし)が丸(まる)く収(おさ)まった。",
-      "translations": {
-        "EN": "The matter was resolved amicably.",
-        "ID": "Masalah ini diselesaikan secara damai.",
-        "ES": "El asunto se resolvió amistosamente.",
-        "VI": "Vấn đề đã được giải quyết một cách thân thiện.",
-        "FR": "L’affaire a été résolue à l’amiable.",
-        "NE": "यो मुद्दा सौहार्दपूर्ण ढंगले समाधान भयो।",
-        "BN": "বিষয়টি সৌহার্দ্যপূর্ণভাবে সমাধান করা হয়েছিল।",
-        "ZH": "此事已得到友好解决。",
-        "KO": "이야기가 둥글게 맞았다.",
-        "TL": "Ang usapin ay nalutas nang maayos.",
-        "MY": "ဒီကိစ္စကို ချစ်ကြည်ရင်းနှီးစွာ ဖြေရှင်းခဲ့ပါတယ်။",
-        "HI": "मामला सौहार्दपूर्ण ढंग से सुलझा लिया गया।",
-        "AR": "لقد تم حل المسألة ودياً.",
-        "FA": "موضوع به صورت دوستانه حل و فصل شد."
-      }
-    },
-    {
-      "kanji": "丸い石を投げる。",
-      "furigana": "丸(まる)い石(いし)を投(な)げる。",
-      "translations": {
-        "EN": "Throw a round stone.",
-        "ID": "Lempar batu bulat.",
-        "ES": "Lanzar una piedra redonda.",
-        "VI": "Ném một hòn đá tròn.",
-        "FR": "Lancer une pierre ronde.",
-        "NE": "गोलो ढुङ्गा हान।",
-        "BN": "একটি গোলাকার পাথর নিক্ষেপ করুন।",
-        "ZH": "扔一块圆石头。",
-        "KO": "둥근 돌을 던진다.",
-        "TL": "Magbato ng bilog na bato.",
-        "MY": "ကျောက်တုံးတစ်ဝိုင်းကို ပစ်ပါ။",
-        "HI": "एक गोल पत्थर फेंको.",
-        "AR": "رمي حجر دائري.",
-        "FA": "یک سنگ گرد پرتاب کنید."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "round": {
-      "ID": "bulat",
-      "ES": "redondo",
-      "VI": "tròn",
-      "FR": "rond",
-      "NE": "गोलो",
-      "BN": "গোলাকার",
-      "ZH": "圆形的",
-      "KO": "둥근",
-      "TL": "bilog",
-      "MY": "ပတ်ပတ်လည်",
-      "HI": "गोल",
-      "AR": "دائري",
-      "FA": "گرد",
-      "EN": [
-        "circular",
-        "spherical"
-      ]
-    },
-    "curved": {
-      "ID": "lengkung",
-      "ES": "curvo",
-      "VI": "cong",
-      "FR": "courbé",
-      "NE": "घुमाउरो",
-      "BN": "বাঁকা",
-      "ZH": "弯曲",
-      "KO": "구부러진",
-      "TL": "hubog",
-      "MY": "ကွေးသည်။",
-      "HI": "घुमावदार",
-      "AR": "منحني",
-      "FA": "منحنی",
-      "EN": [
-        "smooth"
-      ]
-    },
-    "harmonious": {
-      "ID": "harmonis",
-      "ES": "armonioso",
-      "VI": "hài hòa",
-      "FR": "harmonieux",
-      "NE": "सामंजस्यपूर्ण",
-      "BN": "সুরেলা",
-      "ZH": "和谐",
-      "KO": "조화로운",
-      "TL": "magkakasuwato",
-      "MY": "လိုက်ဖက်ညီသော",
-      "HI": "सामंजस्यपूर्ण",
-      "AR": "متناغم",
-      "FA": "هماهنگ",
-      "EN": [
-        "calm",
-        "peaceful",
-        "amiable",
-        "amicable"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "丸い",
-    "is_common": true,
-    "tags": [
-      "wanikani2"
-    ],
-    "jlpt": [
-      "jlpt-n3",
-      "jlpt-n2",
-      "jlpt-n5"
-    ],
-    "japanese": [
-      {
-        "word": "丸い",
-        "reading": "まるい"
-      },
-      {
-        "word": "丸い",
-        "reading": "まろい"
-      },
-      {
-        "word": "円い",
-        "reading": "まるい"
-      },
-      {
-        "word": "円い",
-        "reading": "まろい"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "round",
-          "circular",
-          "spherical"
+    "version": "0.3.0",
+    "word": "丸い",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/EN5dkMi2sNc",
+    "in_db": true,
+    "kanji": "丸い",
+    "reading": "まるい",
+    "introduction_japanese": "「丸い」は、ものの形や見た目を言うとき、顔や目やお腹のような体のようすを言うとき、月やコイン・皿などの話でよく使います。人間関係や話し合いがうまくいく表現にも出てきます。",
+    "introduction_english": "The adjective まるい is used when talking about shapes and appearances of things, body parts like faces and eyes, and items like the moon, coins, and plates. It also appears in phrases about keeping relationships or discussions calm and smooth.",
+    "meanings": [
+        [
+            "round",
+            "circular",
+            "spherical"
         ],
-        "parts_of_speech": [
-          "I-adjective (keiyoushi)"
+        [
+            "curved",
+            "smooth"
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [
-          "丸い usu. refers to ball-shaped, and 円い to disc-shaped objects"
+        [
+            "harmonious",
+            "calm",
+            "peaceful",
+            "amiable",
+            "amicable"
         ]
-      },
-      {
-        "english_definitions": [
-          "curved",
-          "smooth"
-        ],
-        "parts_of_speech": [
-          "I-adjective (keiyoushi)"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "harmonious",
-          "calm",
-          "peaceful",
-          "amiable",
-          "amicable"
-        ],
-        "parts_of_speech": [
-          "I-adjective (keiyoushi)"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [
-          "丸く収まる"
-        ],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "meaning_explanation_japanese": "「丸い」は、球のような形や円のような形を表す形容詞です。角が少なく、なめらかな感じも言えます。人や物事のようすが穏やかで、もめごとがなく収まる感じにも使われます（例：丸く収まる）。表記が「円い」だと、コインや皿のような平たい形に使われることが多いです。",
+    "meaning_explanation_english": "The word まるい describes shapes like a ball or a circle. It can also mean curved or smooth, with few sharp edges. It can describe a gentle or peaceful mood in people or situations, like things settling down nicely.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "丸",
+            "meanings": [
+                "round",
+                "make round",
+                "roll up",
+                "pill",
+                "perfection"
+            ],
+            "on_readings": [
+                "がん"
+            ],
+            "kun_readings": [
+                "まる",
+                "まるい",
+                "まるめる"
+            ],
+            "common_words": [
+                "丸める (まるめる): to make round; to round off",
+                "丸ごと (まるごと): wholly; entirely"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means “round” or “to make round.” You can hear it in まるめる, which means to make something round or to round off details. It also appears in まるごと, meaning wholly or entirely, showing the idea of something as a complete round whole.",
+    "synonyms": [
+        "円い : まるい : circular; disc-shaped"
+    ],
+    "synonym_explanation": "The most common synonym of the word まるい is まるい with a different kanji. It often describes flat, disk-like things such as さら or コイン, while まるい can feel more ball-like or overall rounded.",
+    "antonyms": [
+        "四角い : しかくい : square; angular"
+    ],
+    "antonym_explanation": "The most common antonym of the word まるい is しかくい, which means square or angular. Unlike まるい with smooth curves, しかくい has clear corners and straight edges.",
+    "collocations": [
+        {
+            "kanji": "丸い形",
+            "furigana": "丸い形",
+            "translations": {}
+        },
+        {
+            "kanji": "丸い頭",
+            "furigana": "丸い頭",
+            "translations": {}
+        },
+        {
+            "kanji": "丸い目",
+            "furigana": "丸い目",
+            "translations": {}
+        },
+        {
+            "kanji": "丸い顔",
+            "furigana": "丸い顔",
+            "translations": {}
+        },
+        {
+            "kanji": "丸い机",
+            "furigana": "丸い机",
+            "translations": {}
+        },
+        {
+            "kanji": "丸い石を投げる",
+            "furigana": "丸い石を投げる",
+            "translations": {}
+        },
+        {
+            "kanji": "丸いコインを手に取る",
+            "furigana": "丸いコインを手に取る",
+            "translations": {}
+        },
+        {
+            "kanji": "丸い皿を洗う",
+            "furigana": "丸い皿を洗う",
+            "translations": {}
+        },
+        {
+            "kanji": "丸い風船を膨らませる",
+            "furigana": "丸い風船を膨らませる",
+            "translations": {}
+        },
+        {
+            "kanji": "丸いボールを打つ",
+            "furigana": "丸いボールを打つ",
+            "translations": {}
+        },
+        {
+            "kanji": "非常に丸い",
+            "furigana": "非常に丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "比較的丸い",
+            "furigana": "比較的丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "丸くて光る",
+            "furigana": "丸くて光る",
+            "translations": {}
+        },
+        {
+            "kanji": "きれいに丸い",
+            "furigana": "きれいに丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "ほぼ丸い",
+            "furigana": "ほぼ丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "月が丸い",
+            "furigana": "月が丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "顔が丸い",
+            "furigana": "顔が丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "目が丸い",
+            "furigana": "目が丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "お腹が丸い",
+            "furigana": "お腹が丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "魚が丸い",
+            "furigana": "魚が丸い",
+            "translations": {}
+        },
+        {
+            "kanji": "丸く収める",
+            "furigana": "丸く収める",
+            "translations": {}
+        },
+        {
+            "kanji": "丸くなる",
+            "furigana": "丸くなる",
+            "translations": {}
+        },
+        {
+            "kanji": "丸く治める",
+            "furigana": "丸く治める",
+            "translations": {}
+        },
+        {
+            "kanji": "丸く言う",
+            "furigana": "丸く言う",
+            "translations": {}
+        },
+        {
+            "kanji": "丸く収まる",
+            "furigana": "丸く収まる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "月が丸い。",
+            "furigana": "月(つき)が丸(まる)い。",
+            "translations": {
+                "EN": "The moon is round.",
+                "ID": "Bulan itu bulat.",
+                "ES": "La luna es redonda.",
+                "VI": "Mặt trăng thì tròn.",
+                "FR": "La lune est ronde.",
+                "NE": "चन्द्रमा गोलो छ।",
+                "BN": "চাঁদ গোলাকার।",
+                "ZH": "月亮是圆的。",
+                "KO": "달이 둥글다.",
+                "TL": "Bilog ang buwan.",
+                "MY": "လသည် လှည့်ပတ်သည်။",
+                "HI": "चाँद गोल है.",
+                "AR": "القمر مستدير.",
+                "FA": "ماه گرد است."
+            }
+        },
+        {
+            "kanji": "このコインは丸い。",
+            "furigana": "このコインは丸(まる)い。",
+            "translations": {
+                "EN": "This coin is round.",
+                "ID": "Koin ini berbentuk bulat.",
+                "ES": "Esta moneda es redonda.",
+                "VI": "Đồng xu này có hình tròn.",
+                "FR": "Cette pièce est ronde.",
+                "NE": "यो सिक्का गोलो छ।",
+                "BN": "এই মুদ্রাটি গোলাকার।",
+                "ZH": "这枚硬币是圆形的。",
+                "KO": "이 동전은 둥글다.",
+                "TL": "Ang barya na ito ay bilog.",
+                "MY": "ဤဒင်္ဂါးသည် အဝိုင်းဖြစ်သည်။",
+                "HI": "यह सिक्का गोल है.",
+                "AR": "هذه العملة مستديرة.",
+                "FA": "این سکه گرد است."
+            }
+        },
+        {
+            "kanji": "丸い皿を洗う。",
+            "furigana": "丸(まる)い皿(さら)を洗(あら)う。",
+            "translations": {
+                "EN": "Wash the round plates.",
+                "ID": "Cuci piring bundar.",
+                "ES": "Lavar los platos redondos.",
+                "VI": "Rửa sạch đĩa tròn.",
+                "FR": "Laver les assiettes rondes.",
+                "NE": "गोलो प्लेटहरू धुनुहोस्।",
+                "BN": "গোল প্লেটগুলো ধুয়ে ফেলুন।",
+                "ZH": "清洗圆盘子。",
+                "KO": "둥근 접시를 씻으십시오.",
+                "TL": "Hugasan ang mga bilog na plato.",
+                "MY": "အဝိုင်းပြားများကို ဆေးကြောပါ။",
+                "HI": "गोल प्लेटें धो लें.",
+                "AR": "اغسل الأطباق المستديرة.",
+                "FA": "بشقاب‌های گرد را بشویید."
+            }
+        },
+        {
+            "kanji": "子供の目は丸い。",
+            "furigana": "子供(こども)の目(め)は丸(まる)い。",
+            "translations": {
+                "EN": "The child's eyes are round.",
+                "ID": "Mata anak itu bulat.",
+                "ES": "Los ojos del niño son redondos.",
+                "VI": "Đôi mắt của đứa trẻ tròn.",
+                "FR": "Les yeux de l'enfant sont ronds.",
+                "NE": "बच्चाको आँखा गोलो छ।",
+                "BN": "বাচ্চাটির চোখ গোল।",
+                "ZH": "孩子的眼睛是圆的。",
+                "KO": "아이의 눈은 둥글다.",
+                "TL": "Bilog ang mata ng bata.",
+                "MY": "ကလေး၏ မျက်လုံးများသည် ဝိုင်းစက်နေသည်။",
+                "HI": "बच्चे की आँखें गोल हैं।",
+                "AR": "عيون الطفل مستديرة.",
+                "FA": "چشم‌های کودک گرد شده است."
+            }
+        },
+        {
+            "kanji": "彼の顔は丸い。",
+            "furigana": "彼(かれ)の顔(かお)は丸(まる)い。",
+            "translations": {
+                "EN": "His face is round.",
+                "ID": "Wajahnya bulat.",
+                "ES": "Su cara es redonda.",
+                "VI": "Khuôn mặt anh ấy tròn.",
+                "FR": "Son visage est rond.",
+                "NE": "उसको अनुहार गोलो छ।",
+                "BN": "তার মুখ গোলাকার।",
+                "ZH": "他的脸是圆的。",
+                "KO": "그의 얼굴은 둥글다.",
+                "TL": "Bilog ang mukha niya.",
+                "MY": "သူ့မျက်နှာက ဝိုင်းစက်နေတယ်။",
+                "HI": "उसका चेहरा गोल है.",
+                "AR": "وجهه مستدير.",
+                "FA": "صورتش گرد است."
+            }
+        },
+        {
+            "kanji": "話が丸く収まった。",
+            "furigana": "話(はなし)が丸(まる)く収(おさ)まった。",
+            "translations": {
+                "EN": "The matter was resolved amicably.",
+                "ID": "Masalah ini diselesaikan secara damai.",
+                "ES": "El asunto se resolvió amistosamente.",
+                "VI": "Vấn đề đã được giải quyết một cách thân thiện.",
+                "FR": "L’affaire a été résolue à l’amiable.",
+                "NE": "यो मुद्दा सौहार्दपूर्ण ढंगले समाधान भयो।",
+                "BN": "বিষয়টি সৌহার্দ্যপূর্ণভাবে সমাধান করা হয়েছিল।",
+                "ZH": "此事已得到友好解决。",
+                "KO": "이야기가 둥글게 맞았다.",
+                "TL": "Ang usapin ay nalutas nang maayos.",
+                "MY": "ဒီကိစ္စကို ချစ်ကြည်ရင်းနှီးစွာ ဖြေရှင်းခဲ့ပါတယ်။",
+                "HI": "मामला सौहार्दपूर्ण ढंग से सुलझा लिया गया।",
+                "AR": "لقد تم حل المسألة ودياً.",
+                "FA": "موضوع به صورت دوستانه حل و فصل شد."
+            }
+        },
+        {
+            "kanji": "丸い石を投げる。",
+            "furigana": "丸(まる)い石(いし)を投(な)げる。",
+            "translations": {
+                "EN": "Throw a round stone.",
+                "ID": "Lempar batu bulat.",
+                "ES": "Lanzar una piedra redonda.",
+                "VI": "Ném một hòn đá tròn.",
+                "FR": "Lancer une pierre ronde.",
+                "NE": "गोलो ढुङ्गा हान।",
+                "BN": "একটি গোলাকার পাথর নিক্ষেপ করুন।",
+                "ZH": "扔一块圆石头。",
+                "KO": "둥근 돌을 던진다.",
+                "TL": "Magbato ng bilog na bato.",
+                "MY": "ကျောက်တုံးတစ်ဝိုင်းကို ပစ်ပါ။",
+                "HI": "एक गोल पत्थर फेंको.",
+                "AR": "رمي حجر دائري.",
+                "FA": "یک سنگ گرد پرتاب کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "bulat",
+            "ES": "redondo",
+            "VI": "tròn",
+            "FR": "rond",
+            "NE": "गोलो",
+            "BN": "গোলাকার",
+            "ZH": "圆形的",
+            "KO": "둥근",
+            "TL": "bilog",
+            "MY": "ပတ်ပတ်လည်",
+            "HI": "गोल",
+            "AR": "دائري",
+            "FA": "گرد",
+            "EN": [
+                "round",
+                "circular",
+                "spherical"
+            ]
+        },
+        {
+            "ID": "lengkung",
+            "ES": "curvo",
+            "VI": "cong",
+            "FR": "courbé",
+            "NE": "घुमाउरो",
+            "BN": "বাঁকা",
+            "ZH": "弯曲",
+            "KO": "구부러진",
+            "TL": "hubog",
+            "MY": "ကွေးသည်။",
+            "HI": "घुमावदार",
+            "AR": "منحني",
+            "FA": "منحنی",
+            "EN": [
+                "curved",
+                "smooth"
+            ]
+        },
+        {
+            "ID": "harmonis",
+            "ES": "armonioso",
+            "VI": "hài hòa",
+            "FR": "harmonieux",
+            "NE": "सामंजस्यपूर्ण",
+            "BN": "সুরেলা",
+            "ZH": "和谐",
+            "KO": "조화로운",
+            "TL": "magkakasuwato",
+            "MY": "လိုက်ဖက်ညီသော",
+            "HI": "सामंजस्यपूर्ण",
+            "AR": "متناغم",
+            "FA": "هماهنگ",
+            "EN": [
+                "harmonious",
+                "calm",
+                "peaceful",
+                "amiable",
+                "amicable"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "丸い",
+        "is_common": true,
+        "tags": [
+            "wanikani2"
+        ],
+        "jlpt": [
+            "jlpt-n3",
+            "jlpt-n2",
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "丸い",
+                "reading": "まるい"
+            },
+            {
+                "word": "丸い",
+                "reading": "まろい"
+            },
+            {
+                "word": "円い",
+                "reading": "まるい"
+            },
+            {
+                "word": "円い",
+                "reading": "まろい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "round",
+                    "circular",
+                    "spherical"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "丸い usu. refers to ball-shaped, and 円い to disc-shaped objects"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "curved",
+                    "smooth"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "harmonious",
+                    "calm",
+                    "peaceful",
+                    "amiable",
+                    "amicable"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "丸く収まる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "丸"
+    ],
+    "kanji_data": {
+        "丸": {
+            "freq_mainichi_shinbun": 542,
+            "grade": 2,
+            "heisig_en": "round",
+            "jlpt": 2,
+            "kanji": "丸",
+            "kun_readings": [
+                "まる",
+                "まる.い",
+                "まる.める"
+            ],
+            "meanings": [
+                "-ship",
+                "curl up",
+                "explain away",
+                "full (month)",
+                "make round",
+                "perfection",
+                "pills",
+                "roll up",
+                "round",
+                "seduce"
+            ],
+            "name_readings": [
+                "ま",
+                "わ",
+                "わに"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ガン"
+            ],
+            "stroke_count": 3,
+            "unicode": "4E38"
+        }
     }
-  },
-  "kanji_list": [
-    "丸"
-  ],
-  "kanji_data": {
-    "丸": {
-      "freq_mainichi_shinbun": 542,
-      "grade": 2,
-      "heisig_en": "round",
-      "jlpt": 2,
-      "kanji": "丸",
-      "kun_readings": [
-        "まる",
-        "まる.い",
-        "まる.める"
-      ],
-      "meanings": [
-        "-ship",
-        "curl up",
-        "explain away",
-        "full (month)",
-        "make round",
-        "perfection",
-        "pills",
-        "roll up",
-        "round",
-        "seduce"
-      ],
-      "name_readings": [
-        "ま",
-        "わ",
-        "わに"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ガン"
-      ],
-      "stroke_count": 3,
-      "unicode": "4E38"
-    }
-  }
 }

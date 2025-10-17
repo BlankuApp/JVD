@@ -1,724 +1,730 @@
 {
-  "version": "0.3.0",
-  "word": "収める",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/O1sNIMS5a1g",
-  "in_db": true,
-  "kanji": "収める",
-  "reading": "おさめる",
-  "introduction_japanese": "「収める」は、物をしまう話、成果や成功の話、お金や税金の手続き、写真や本に記録する場面、問題を静める場面でよく使う動詞です。",
-  "introduction_english": "The verb おさめる is used when talking about putting things away, achieving results, paying fees or taxes, recording in photos or books, and calming or ending problems.",
-  "meanings": [
-    [
-      "to put (into)",
-      "to put away",
-      "to put back",
-      "to keep",
-      "to store",
-      "to restore to its place"
+    "version": "0.3.0",
+    "word": "収める",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/O1sNIMS5a1g",
+    "in_db": true,
+    "kanji": "収める",
+    "reading": "おさめる",
+    "introduction_japanese": "「収める」は、物をしまう話、成果や成功の話、お金や税金の手続き、写真や本に記録する場面、問題を静める場面でよく使う動詞です。",
+    "introduction_english": "The verb おさめる is used when talking about putting things away, achieving results, paying fees or taxes, recording in photos or books, and calming or ending problems.",
+    "meanings": [
+        [
+            "to put (into)",
+            "to put away",
+            "to put back",
+            "to keep",
+            "to store",
+            "to restore to its place"
+        ],
+        [
+            "to include (in an anthology or catalogue)",
+            "to contain",
+            "to publish (in)",
+            "to capture (on film)"
+        ],
+        [
+            "to achieve (results or success)",
+            "to obtain",
+            "to get",
+            "to gain",
+            "to win",
+            "to make a profit"
+        ],
+        [
+            "to pay (fees or taxes)",
+            "to deliver",
+            "to supply"
+        ],
+        [
+            "to subdue",
+            "to suppress",
+            "to settle",
+            "to finish",
+            "to conclude",
+            "to bring to a close"
+        ],
+        [
+            "to accept (a gift or money)",
+            "to keep (within a limit)",
+            "to offer or dedicate (to a shrine or deity)"
+        ]
     ],
-    [
-      "to include (in an anthology or catalogue)",
-      "to contain",
-      "to publish (in)",
-      "to capture (on film)"
+    "meaning_explanation_japanese": "「おさめる」は、物を中に入れてしまうこと、記録や本に入れること、成功や利益を手に入れること、お金を支払うこと、問題を静めて終わらせることなどを表します。書くときは意味で漢字が分かれます。成果・記録・しまう→「収める」。支払う・納入・終える→「納める」。",
+    "meaning_explanation_english": "The word おさめる can mean to put or store something, to include or record something, to achieve or gain results, to pay or deliver, and to calm or finish something. The kanji changes by nuance: 収める for storing, recording, or achieving; 納める for paying, delivering, or bringing to a close.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "収",
+            "meanings": [
+                "income",
+                "obtain",
+                "pay",
+                "reap",
+                "store",
+                "supply"
+            ],
+            "on_readings": [
+                "シュウ"
+            ],
+            "kun_readings": [
+                "おさ.まる",
+                "おさ.める"
+            ],
+            "common_words": [
+                "収入 (しゅうにゅう): income",
+                "回収 (かいしゅう): collection; recovery"
+            ]
+        }
     ],
-    [
-      "to achieve (results or success)",
-      "to obtain",
-      "to get",
-      "to gain",
-      "to win",
-      "to make a profit"
+    "kanji_explanation": "The first kanji means gathering and bringing things under control, like income or storage. It often feels like collecting something into one place. In しゅうにゅう, it points to money that comes in. In かいしゅう, it shows taking things back or collecting them.",
+    "synonyms": [
+        "入れる : いれる : to put in; to insert",
+        "支払う : しはらう : to pay"
     ],
-    [
-      "to pay (fees or taxes)",
-      "to deliver",
-      "to supply"
+    "synonym_explanation": "The most common synonyms of the word おさめる are いれる and しはらう. いれる is a casual, physical \"put in,\" while おさめる can mean \"put away neatly\" or \"store.\" しはらう is general everyday paying, but おさめる sounds more formal or official for fees, taxes, or deliveries.",
+    "antonyms": [
+        "出す : だす : to take out",
+        "失う : うしなう : to lose"
     ],
-    [
-      "to subdue",
-      "to suppress",
-      "to settle",
-      "to finish",
-      "to conclude",
-      "to bring to a close"
+    "antonym_explanation": "The most common antonyms of the word おさめる are だす and うしなう. だす is the opposite of putting away, so it means taking something out. うしなう is the opposite of achieving or gaining a result, so it means to lose it.",
+    "collocations": [
+        {
+            "kanji": "成功を収める",
+            "furigana": "成功を収める",
+            "translations": {}
+        },
+        {
+            "kanji": "利益を収める",
+            "furigana": "利益を収める",
+            "translations": {}
+        },
+        {
+            "kanji": "学費を納める",
+            "furigana": "学費を納める",
+            "translations": {}
+        },
+        {
+            "kanji": "税金を納める",
+            "furigana": "税金を納める",
+            "translations": {}
+        },
+        {
+            "kanji": "紛争を収める",
+            "furigana": "紛争を収める",
+            "translations": {}
+        },
+        {
+            "kanji": "鋼材を倉庫に収める",
+            "furigana": "鋼材を倉庫に収める",
+            "translations": {}
+        },
+        {
+            "kanji": "書物を目録に収める",
+            "furigana": "書物を目録に収める",
+            "translations": {}
+        },
+        {
+            "kanji": "注文の品を納める",
+            "furigana": "注文の品を納める",
+            "translations": {}
+        },
+        {
+            "kanji": "売上を市に納める",
+            "furigana": "売上を市に納める",
+            "translations": {}
+        },
+        {
+            "kanji": "本を本棚に収める",
+            "furigana": "本を本棚に収める",
+            "translations": {}
+        },
+        {
+            "kanji": "収める成果",
+            "furigana": "収める成果",
+            "translations": {}
+        },
+        {
+            "kanji": "収める勝利",
+            "furigana": "収める勝利",
+            "translations": {}
+        },
+        {
+            "kanji": "納める金額",
+            "furigana": "納める金額",
+            "translations": {}
+        },
+        {
+            "kanji": "納める義務",
+            "furigana": "納める義務",
+            "translations": {}
+        },
+        {
+            "kanji": "収める利益",
+            "furigana": "収める利益",
+            "translations": {}
+        },
+        {
+            "kanji": "顧客に利益を収める",
+            "furigana": "顧客に利益を収める",
+            "translations": {}
+        },
+        {
+            "kanji": "国へ税金を納める",
+            "furigana": "国へ税金を納める",
+            "translations": {}
+        },
+        {
+            "kanji": "書庫に資料を収める",
+            "furigana": "書庫に資料を収める",
+            "translations": {}
+        },
+        {
+            "kanji": "工場に製品を収める",
+            "furigana": "工場に製品を収める",
+            "translations": {}
+        },
+        {
+            "kanji": "渋滞を収める",
+            "furigana": "渋滞を収める",
+            "translations": {}
+        },
+        {
+            "kanji": "無事に収める",
+            "furigana": "無事に収める",
+            "translations": {}
+        },
+        {
+            "kanji": "きちんと納める",
+            "furigana": "きちんと納める",
+            "translations": {}
+        },
+        {
+            "kanji": "早く収める",
+            "furigana": "早く収める",
+            "translations": {}
+        },
+        {
+            "kanji": "適切に納める",
+            "furigana": "適切に納める",
+            "translations": {}
+        },
+        {
+            "kanji": "確実に収める",
+            "furigana": "確実に収める",
+            "translations": {}
+        }
     ],
-    [
-      "to accept (a gift or money)",
-      "to keep (within a limit)",
-      "to offer or dedicate (to a shrine or deity)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「おさめる」は、物を中に入れてしまうこと、記録や本に入れること、成功や利益を手に入れること、お金を支払うこと、問題を静めて終わらせることなどを表します。書くときは意味で漢字が分かれます。成果・記録・しまう→「収める」。支払う・納入・終える→「納める」。",
-  "meaning_explanation_english": "The word おさめる can mean to put or store something, to include or record something, to achieve or gain results, to pay or deliver, and to calm or finish something. The kanji changes by nuance: 収める for storing, recording, or achieving; 納める for paying, delivering, or bringing to a close.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "収",
-      "meanings": [
-        "income",
-        "obtain",
-        "pay",
-        "reap",
-        "store",
-        "supply"
-      ],
-      "on_readings": [
-        "シュウ"
-      ],
-      "kun_readings": [
-        "おさ.まる",
-        "おさ.める"
-      ],
-      "common_words": [
-        "収入 (しゅうにゅう): income",
-        "回収 (かいしゅう): collection; recovery"
-      ]
+    "example_sentences": [
+        {
+            "kanji": "本を本棚に収めます。",
+            "furigana": "本(ほん)を本棚(ほんだな)に収(おさ)めます。",
+            "translations": {
+                "EN": "Put the books on the bookshelf.",
+                "ID": "Taruh buku-buku di rak buku.",
+                "ES": "Coloque los libros en la estantería.",
+                "VI": "Đặt những cuốn sách lên giá sách.",
+                "FR": "Mettez les livres sur l'étagère.",
+                "NE": "किताबहरू बुकशेल्फमा राख्नुहोस्।",
+                "BN": "বইগুলো বুকশেলফে রাখো।",
+                "ZH": "把书放在书架上。",
+                "KO": "책을 책장에 넣습니다.",
+                "TL": "Ilagay ang mga libro sa bookshelf.",
+                "MY": "စာအုပ်များကို စာအုပ်စင်ပေါ်တင်ပါ။",
+                "HI": "किताबों को बुकशेल्फ़ पर रखें।",
+                "AR": "ضع الكتب على الرف.",
+                "FA": "کتاب‌ها را روی قفسه کتاب‌ها گذاشت."
+            }
+        },
+        {
+            "kanji": "写真に景色を収めました。",
+            "furigana": "写真(しゃしん)に景色(けしき)を収(おさ)めました。",
+            "translations": {
+                "EN": "I captured the view in the photo.",
+                "ID": "Saya mengabadikan pemandangan dalam foto tersebut.",
+                "ES": "Capturé la vista en la foto.",
+                "VI": "Tôi đã chụp lại quang cảnh đó trong bức ảnh.",
+                "FR": "J'ai capturé la vue sur la photo.",
+                "NE": "मैले तस्बिरमा त्यो दृश्य कैद गरें।",
+                "BN": "আমি ছবিতে দৃশ্যটি ধারণ করেছি।",
+                "ZH": "我把这个景色拍成了照片。",
+                "KO": "사진에 경치를 담았습니다.",
+                "TL": "Nakuha ko ang view sa litrato.",
+                "MY": "ဓါတ်ပုံထဲက မြင်ကွင်းကို ဖမ်းမိခဲ့တယ်။",
+                "HI": "मैंने उस दृश्य को फोटो में कैद कर लिया।",
+                "AR": "لقد التقطت المنظر في الصورة.",
+                "FA": "من منظره را در عکس ثبت کردم."
+            }
+        },
+        {
+            "kanji": "会社は利益を収めました。",
+            "furigana": "会社(かいしゃ)は利益(りえき)を収(おさ)めました。",
+            "translations": {
+                "EN": "The company made a profit.",
+                "ID": "Perusahaan itu mendapat keuntungan.",
+                "ES": "La empresa obtuvo beneficios.",
+                "VI": "Công ty đã có lãi.",
+                "FR": "L'entreprise a réalisé un bénéfice.",
+                "NE": "कम्पनीले नाफा कमायो।",
+                "BN": "কোম্পানিটি লাভ করেছে।",
+                "ZH": "该公司盈利了。",
+                "KO": "회사는 이익을 얻었다.",
+                "TL": "Kumita ang kumpanya.",
+                "MY": "ကုမ္ပဏီက အမြတ်ထုတ်တယ်။",
+                "HI": "कंपनी ने लाभ कमाया।",
+                "AR": "حققت الشركة ربحًا.",
+                "FA": "شرکت سود کرد."
+            }
+        },
+        {
+            "kanji": "私は毎年税金を納めます。",
+            "furigana": "私(わたし)は毎年(まいとし)税金(ぜいきん)を納(おさ)めます。",
+            "translations": {
+                "EN": "I pay taxes every year.",
+                "ID": "Saya membayar pajak setiap tahun.",
+                "ES": "Pago impuestos todos los años.",
+                "VI": "Tôi nộp thuế hàng năm.",
+                "FR": "Je paie des impôts chaque année.",
+                "NE": "म हरेक वर्ष कर तिर्छु।",
+                "BN": "আমি প্রতি বছর কর দেই।",
+                "ZH": "我每年都缴税。",
+                "KO": "매년 세금을 납부합니다.",
+                "TL": "Nagbabayad ako ng buwis taun-taon.",
+                "MY": "နှစ်တိုင်း အခွန်ပေးတယ်။",
+                "HI": "मैं हर साल कर चुकाता हूं।",
+                "AR": "أدفع الضرائب كل عام.",
+                "FA": "من هر سال مالیات پرداخت می‌کنم."
+            }
+        },
+        {
+            "kanji": "店は注文の品を納めました。",
+            "furigana": "店(みせ)は注文(ちゅうもん)の品(しな)を納(おさ)めました。",
+            "translations": {
+                "EN": "The store delivered the order.",
+                "ID": "Toko itu mengantarkan pesanan.",
+                "ES": "La tienda entregó el pedido.",
+                "VI": "Cửa hàng đã giao đơn hàng.",
+                "FR": "Le magasin a livré la commande.",
+                "NE": "पसलले अर्डर डेलिभरी गर्‍यो।",
+                "BN": "দোকানটি অর্ডারটি ডেলিভারি করেছে।",
+                "ZH": "商店已发货。",
+                "KO": "가게는 주문 상품을 납품했습니다.",
+                "TL": "Inihatid ng tindahan ang order.",
+                "MY": "ဆိုင်က အော်ဒါပို့ပေးပါတယ်။",
+                "HI": "स्टोर ने ऑर्डर डिलीवर कर दिया।",
+                "AR": "لقد قام المتجر بتسليم الطلب.",
+                "FA": "فروشگاه سفارش را تحویل داد."
+            }
+        },
+        {
+            "kanji": "政府は紛争を収めました。",
+            "furigana": "政府(せいふ)は紛争(ふんそう)を収(おさ)めました。",
+            "translations": {
+                "EN": "The government settled the dispute.",
+                "ID": "Pemerintah menyelesaikan pertikaian tersebut.",
+                "ES": "El gobierno resolvió la disputa.",
+                "VI": "Chính phủ đã giải quyết tranh chấp.",
+                "FR": "Le gouvernement a réglé le différend.",
+                "NE": "सरकारले विवाद समाधान गर्‍यो।",
+                "BN": "সরকার বিরোধ নিষ্পত্তি করেছে।",
+                "ZH": "政府解决了这场争端。",
+                "KO": "정부는 분쟁을 받았다.",
+                "TL": "Inayos ng gobyerno ang alitan.",
+                "MY": "အစိုးရက အငြင်းပွားမှုကို ဖြေရှင်းပေးခဲ့သည်။",
+                "HI": "सरकार ने विवाद सुलझा लिया।",
+                "AR": "وقد قامت الحكومة بتسوية النزاع.",
+                "FA": "دولت اختلاف را حل و فصل کرد."
+            }
+        },
+        {
+            "kanji": "彼は成功を収めました。",
+            "furigana": "彼(かれ)は成功(せいこう)を収(おさ)めました。",
+            "translations": {
+                "EN": "He was successful.",
+                "ID": "Dia berhasil.",
+                "ES": "Tuvo éxito.",
+                "VI": "Ông đã thành công.",
+                "FR": "Il a réussi.",
+                "NE": "उनी सफल भए।",
+                "BN": "সে সফল হয়েছিল।",
+                "ZH": "他成功了。",
+                "KO": "그는 성공을 거두었습니다.",
+                "TL": "Naging matagumpay siya.",
+                "MY": "သူအောင်မြင်ခဲ့တယ်။",
+                "HI": "वह सफल रहा.",
+                "AR": "لقد كان ناجحا.",
+                "FA": "او موفق بود."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "untuk menaruh (ke dalam)",
+            "ES": "poner (en)",
+            "VI": "để đưa (vào)",
+            "FR": "mettre (dans)",
+            "NE": "(भित्र) राख्नु",
+            "BN": "(এর মধ্যে) রাখা",
+            "ZH": "放入",
+            "KO": "(에) 넣다",
+            "TL": "ilagay (sa)",
+            "MY": "ထည့်ရန် (သို့)",
+            "HI": "में रखने के लिए)",
+            "AR": "وضع (في)",
+            "FA": "قرار دادن (در)",
+            "EN": [
+                "to put (into)",
+                "to put away",
+                "to put back",
+                "to keep",
+                "to store",
+                "to restore to its place"
+            ]
+        },
+        {
+            "ID": "untuk memasukkan (dalam antologi atau katalog)",
+            "ES": "incluir (en una antología o catálogo)",
+            "VI": "để đưa vào (trong một tuyển tập hoặc danh mục)",
+            "FR": "inclure (dans une anthologie ou un catalogue)",
+            "NE": "(संग्रह वा सूचीमा) समावेश गर्न",
+            "BN": "(একটি সংকলন বা ক্যাটালগে) অন্তর্ভুক্ত করা",
+            "ZH": "收录（在选集或目录中）",
+            "KO": "(선집이나 카탈로그에) 포함시키다",
+            "TL": "isama (sa isang antolohiya o katalogo)",
+            "MY": "ပါဝင်ရန် (ကဗျာစာအုပ် သို့မဟုတ် ကတ်တလောက်တွင်)",
+            "HI": "(संग्रह या सूची में) शामिल करना",
+            "AR": "لتضمين (في مختارات أو كتالوج)",
+            "FA": "گنجاندن (در گلچین یا فهرست)",
+            "EN": [
+                "to include (in an anthology or catalogue)",
+                "to contain",
+                "to publish (in)",
+                "to capture (on film)"
+            ]
+        },
+        {
+            "ID": "untuk mencapai (hasil atau kesuksesan)",
+            "ES": "lograr (resultados o éxito)",
+            "VI": "đạt được (kết quả hoặc thành công)",
+            "FR": "atteindre (des résultats ou du succès)",
+            "NE": "(परिणाम वा सफलता) प्राप्त गर्नु",
+            "BN": "(ফলাফল বা সাফল্য) অর্জন করা",
+            "ZH": "实现（结果或成功）",
+            "KO": "(결과나 성공을) 달성하다",
+            "TL": "upang makamit (mga resulta o tagumpay)",
+            "MY": "အောင်မြင်ရန် (ရလဒ်များ သို့မဟုတ် အောင်မြင်မှု)",
+            "HI": "(परिणाम या सफलता) प्राप्त करना",
+            "AR": "لتحقيق (النتائج أو النجاح)",
+            "FA": "به (نتیجه یا موفقیت) رسیدن",
+            "EN": [
+                "to achieve (results or success)",
+                "to obtain",
+                "to get",
+                "to gain",
+                "to win",
+                "to make a profit"
+            ]
+        },
+        {
+            "ID": "untuk membayar (biaya atau pajak)",
+            "ES": "pagar (tasas o impuestos)",
+            "VI": "trả (phí hoặc thuế)",
+            "FR": "payer (des frais ou des taxes)",
+            "NE": "(शुल्क वा कर) तिर्नु",
+            "BN": "(ফি বা কর) প্রদান করা",
+            "ZH": "支付（费用或税款）",
+            "KO": "(수수료나 세금을) 지불하다",
+            "TL": "magbayad (mga bayarin o buwis)",
+            "MY": "ပေးဆောင်ရန် (အခကြေးငွေ သို့မဟုတ် အခွန်များ)",
+            "HI": "(शुल्क या कर) का भुगतान करना",
+            "AR": "دفع (الرسوم أو الضرائب)",
+            "FA": "پرداخت کردن (هزینه یا مالیات)",
+            "EN": [
+                "to pay (fees or taxes)",
+                "to deliver",
+                "to supply"
+            ]
+        },
+        {
+            "ID": "untuk menaklukkan",
+            "ES": "someter",
+            "VI": "khuất phục",
+            "FR": "soumettre",
+            "NE": "वशमा पार्नु",
+            "BN": "দমন করা",
+            "ZH": "制服",
+            "KO": "정복하다",
+            "TL": "magpasuko",
+            "MY": "နှိမ်နင်းရန်",
+            "HI": "वश में करना",
+            "AR": "لإخضاع",
+            "FA": "مطیع کردن",
+            "EN": [
+                "to subdue",
+                "to suppress",
+                "to settle",
+                "to finish",
+                "to conclude",
+                "to bring to a close"
+            ]
+        },
+        {
+            "ID": "menerima (hadiah atau uang)",
+            "ES": "aceptar (un regalo o dinero)",
+            "VI": "chấp nhận (một món quà hoặc tiền)",
+            "FR": "accepter (un cadeau ou de l'argent)",
+            "NE": "(उपहार वा पैसा) स्वीकार गर्नु",
+            "BN": "(উপহার বা টাকা) গ্রহণ করা",
+            "ZH": "接受（礼物或金钱）",
+            "KO": "(선물이나 돈을) 받아들이다",
+            "TL": "tanggapin (isang regalo o pera)",
+            "MY": "လက်ခံရန် (လက်ဆောင် သို့မဟုတ် ငွေ)",
+            "HI": "(उपहार या धन) स्वीकार करना",
+            "AR": "قبول (هدية أو مال)",
+            "FA": "پذیرفتن (هدیه یا پول)",
+            "EN": [
+                "to accept (a gift or money)",
+                "to keep (within a limit)",
+                "to offer or dedicate (to a shrine or deity)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "収める",
+        "is_common": true,
+        "tags": [
+            "wanikani25",
+            "wanikani33"
+        ],
+        "jlpt": [
+            "jlpt-n3",
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "収める",
+                "reading": "おさめる"
+            },
+            {
+                "word": "納める",
+                "reading": "おさめる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to put (into)",
+                    "to put away (in)",
+                    "to put back (in)",
+                    "to keep (in)",
+                    "to store (in)",
+                    "to restore (to its place)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to include (in an anthology, catalogue, etc.)",
+                    "to contain",
+                    "to publish (in)",
+                    "to capture (on film)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "収める"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to achieve (results, success, etc.)",
+                    "to obtain",
+                    "to get",
+                    "to gain",
+                    "to win",
+                    "to make (a profit)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "収める"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to pay (fees, taxes, etc.)",
+                    "to deliver",
+                    "to supply"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "納める"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to accept (a gift or money)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to keep (within a limit)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to offer (to a shrine, deity, etc.)",
+                    "to dedicate"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to subdue",
+                    "to suppress",
+                    "to settle"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "治める"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to finish",
+                    "to conclude",
+                    "to wind up",
+                    "to bring to a close"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb",
+                    "Suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "納める"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "収"
+    ],
+    "kanji_data": {
+        "収": {
+            "freq_mainichi_shinbun": 337,
+            "grade": 6,
+            "heisig_en": "income",
+            "jlpt": 3,
+            "kanji": "収",
+            "kun_readings": [
+                "おさ.まる",
+                "おさ.める"
+            ],
+            "meanings": [
+                "income",
+                "obtain",
+                "pay",
+                "reap",
+                "store",
+                "supply"
+            ],
+            "name_readings": [
+                "のぶ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シュウ"
+            ],
+            "stroke_count": 4,
+            "unicode": "53CE"
+        }
     }
-  ],
-  "kanji_explanation": "The first kanji means gathering and bringing things under control, like income or storage. It often feels like collecting something into one place. In しゅうにゅう, it points to money that comes in. In かいしゅう, it shows taking things back or collecting them.",
-  "synonyms": [
-    "入れる : いれる : to put in; to insert",
-    "支払う : しはらう : to pay"
-  ],
-  "synonym_explanation": "The most common synonyms of the word おさめる are いれる and しはらう. いれる is a casual, physical \"put in,\" while おさめる can mean \"put away neatly\" or \"store.\" しはらう is general everyday paying, but おさめる sounds more formal or official for fees, taxes, or deliveries.",
-  "antonyms": [
-    "出す : だす : to take out",
-    "失う : うしなう : to lose"
-  ],
-  "antonym_explanation": "The most common antonyms of the word おさめる are だす and うしなう. だす is the opposite of putting away, so it means taking something out. うしなう is the opposite of achieving or gaining a result, so it means to lose it.",
-  "collocations": [
-    {
-      "kanji": "成功を収める",
-      "furigana": "成功を収める",
-      "translations": {}
-    },
-    {
-      "kanji": "利益を収める",
-      "furigana": "利益を収める",
-      "translations": {}
-    },
-    {
-      "kanji": "学費を納める",
-      "furigana": "学費を納める",
-      "translations": {}
-    },
-    {
-      "kanji": "税金を納める",
-      "furigana": "税金を納める",
-      "translations": {}
-    },
-    {
-      "kanji": "紛争を収める",
-      "furigana": "紛争を収める",
-      "translations": {}
-    },
-    {
-      "kanji": "鋼材を倉庫に収める",
-      "furigana": "鋼材を倉庫に収める",
-      "translations": {}
-    },
-    {
-      "kanji": "書物を目録に収める",
-      "furigana": "書物を目録に収める",
-      "translations": {}
-    },
-    {
-      "kanji": "注文の品を納める",
-      "furigana": "注文の品を納める",
-      "translations": {}
-    },
-    {
-      "kanji": "売上を市に納める",
-      "furigana": "売上を市に納める",
-      "translations": {}
-    },
-    {
-      "kanji": "本を本棚に収める",
-      "furigana": "本を本棚に収める",
-      "translations": {}
-    },
-    {
-      "kanji": "収める成果",
-      "furigana": "収める成果",
-      "translations": {}
-    },
-    {
-      "kanji": "収める勝利",
-      "furigana": "収める勝利",
-      "translations": {}
-    },
-    {
-      "kanji": "納める金額",
-      "furigana": "納める金額",
-      "translations": {}
-    },
-    {
-      "kanji": "納める義務",
-      "furigana": "納める義務",
-      "translations": {}
-    },
-    {
-      "kanji": "収める利益",
-      "furigana": "収める利益",
-      "translations": {}
-    },
-    {
-      "kanji": "顧客に利益を収める",
-      "furigana": "顧客に利益を収める",
-      "translations": {}
-    },
-    {
-      "kanji": "国へ税金を納める",
-      "furigana": "国へ税金を納める",
-      "translations": {}
-    },
-    {
-      "kanji": "書庫に資料を収める",
-      "furigana": "書庫に資料を収める",
-      "translations": {}
-    },
-    {
-      "kanji": "工場に製品を収める",
-      "furigana": "工場に製品を収める",
-      "translations": {}
-    },
-    {
-      "kanji": "渋滞を収める",
-      "furigana": "渋滞を収める",
-      "translations": {}
-    },
-    {
-      "kanji": "無事に収める",
-      "furigana": "無事に収める",
-      "translations": {}
-    },
-    {
-      "kanji": "きちんと納める",
-      "furigana": "きちんと納める",
-      "translations": {}
-    },
-    {
-      "kanji": "早く収める",
-      "furigana": "早く収める",
-      "translations": {}
-    },
-    {
-      "kanji": "適切に納める",
-      "furigana": "適切に納める",
-      "translations": {}
-    },
-    {
-      "kanji": "確実に収める",
-      "furigana": "確実に収める",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "本を本棚に収めます。",
-      "furigana": "本(ほん)を本棚(ほんだな)に収(おさ)めます。",
-      "translations": {
-        "EN": "Put the books on the bookshelf.",
-        "ID": "Taruh buku-buku di rak buku.",
-        "ES": "Coloque los libros en la estantería.",
-        "VI": "Đặt những cuốn sách lên giá sách.",
-        "FR": "Mettez les livres sur l'étagère.",
-        "NE": "किताबहरू बुकशेल्फमा राख्नुहोस्।",
-        "BN": "বইগুলো বুকশেলফে রাখো।",
-        "ZH": "把书放在书架上。",
-        "KO": "책을 책장에 넣습니다.",
-        "TL": "Ilagay ang mga libro sa bookshelf.",
-        "MY": "စာအုပ်များကို စာအုပ်စင်ပေါ်တင်ပါ။",
-        "HI": "किताबों को बुकशेल्फ़ पर रखें।",
-        "AR": "ضع الكتب على الرف.",
-        "FA": "کتاب‌ها را روی قفسه کتاب‌ها گذاشت."
-      }
-    },
-    {
-      "kanji": "写真に景色を収めました。",
-      "furigana": "写真(しゃしん)に景色(けしき)を収(おさ)めました。",
-      "translations": {
-        "EN": "I captured the view in the photo.",
-        "ID": "Saya mengabadikan pemandangan dalam foto tersebut.",
-        "ES": "Capturé la vista en la foto.",
-        "VI": "Tôi đã chụp lại quang cảnh đó trong bức ảnh.",
-        "FR": "J'ai capturé la vue sur la photo.",
-        "NE": "मैले तस्बिरमा त्यो दृश्य कैद गरें।",
-        "BN": "আমি ছবিতে দৃশ্যটি ধারণ করেছি।",
-        "ZH": "我把这个景色拍成了照片。",
-        "KO": "사진에 경치를 담았습니다.",
-        "TL": "Nakuha ko ang view sa litrato.",
-        "MY": "ဓါတ်ပုံထဲက မြင်ကွင်းကို ဖမ်းမိခဲ့တယ်။",
-        "HI": "मैंने उस दृश्य को फोटो में कैद कर लिया।",
-        "AR": "لقد التقطت المنظر في الصورة.",
-        "FA": "من منظره را در عکس ثبت کردم."
-      }
-    },
-    {
-      "kanji": "会社は利益を収めました。",
-      "furigana": "会社(かいしゃ)は利益(りえき)を収(おさ)めました。",
-      "translations": {
-        "EN": "The company made a profit.",
-        "ID": "Perusahaan itu mendapat keuntungan.",
-        "ES": "La empresa obtuvo beneficios.",
-        "VI": "Công ty đã có lãi.",
-        "FR": "L'entreprise a réalisé un bénéfice.",
-        "NE": "कम्पनीले नाफा कमायो।",
-        "BN": "কোম্পানিটি লাভ করেছে।",
-        "ZH": "该公司盈利了。",
-        "KO": "회사는 이익을 얻었다.",
-        "TL": "Kumita ang kumpanya.",
-        "MY": "ကုမ္ပဏီက အမြတ်ထုတ်တယ်။",
-        "HI": "कंपनी ने लाभ कमाया।",
-        "AR": "حققت الشركة ربحًا.",
-        "FA": "شرکت سود کرد."
-      }
-    },
-    {
-      "kanji": "私は毎年税金を納めます。",
-      "furigana": "私(わたし)は毎年(まいとし)税金(ぜいきん)を納(おさ)めます。",
-      "translations": {
-        "EN": "I pay taxes every year.",
-        "ID": "Saya membayar pajak setiap tahun.",
-        "ES": "Pago impuestos todos los años.",
-        "VI": "Tôi nộp thuế hàng năm.",
-        "FR": "Je paie des impôts chaque année.",
-        "NE": "म हरेक वर्ष कर तिर्छु।",
-        "BN": "আমি প্রতি বছর কর দেই।",
-        "ZH": "我每年都缴税。",
-        "KO": "매년 세금을 납부합니다.",
-        "TL": "Nagbabayad ako ng buwis taun-taon.",
-        "MY": "နှစ်တိုင်း အခွန်ပေးတယ်။",
-        "HI": "मैं हर साल कर चुकाता हूं।",
-        "AR": "أدفع الضرائب كل عام.",
-        "FA": "من هر سال مالیات پرداخت می‌کنم."
-      }
-    },
-    {
-      "kanji": "店は注文の品を納めました。",
-      "furigana": "店(みせ)は注文(ちゅうもん)の品(しな)を納(おさ)めました。",
-      "translations": {
-        "EN": "The store delivered the order.",
-        "ID": "Toko itu mengantarkan pesanan.",
-        "ES": "La tienda entregó el pedido.",
-        "VI": "Cửa hàng đã giao đơn hàng.",
-        "FR": "Le magasin a livré la commande.",
-        "NE": "पसलले अर्डर डेलिभरी गर्‍यो।",
-        "BN": "দোকানটি অর্ডারটি ডেলিভারি করেছে।",
-        "ZH": "商店已发货。",
-        "KO": "가게는 주문 상품을 납품했습니다.",
-        "TL": "Inihatid ng tindahan ang order.",
-        "MY": "ဆိုင်က အော်ဒါပို့ပေးပါတယ်။",
-        "HI": "स्टोर ने ऑर्डर डिलीवर कर दिया।",
-        "AR": "لقد قام المتجر بتسليم الطلب.",
-        "FA": "فروشگاه سفارش را تحویل داد."
-      }
-    },
-    {
-      "kanji": "政府は紛争を収めました。",
-      "furigana": "政府(せいふ)は紛争(ふんそう)を収(おさ)めました。",
-      "translations": {
-        "EN": "The government settled the dispute.",
-        "ID": "Pemerintah menyelesaikan pertikaian tersebut.",
-        "ES": "El gobierno resolvió la disputa.",
-        "VI": "Chính phủ đã giải quyết tranh chấp.",
-        "FR": "Le gouvernement a réglé le différend.",
-        "NE": "सरकारले विवाद समाधान गर्‍यो।",
-        "BN": "সরকার বিরোধ নিষ্পত্তি করেছে।",
-        "ZH": "政府解决了这场争端。",
-        "KO": "정부는 분쟁을 받았다.",
-        "TL": "Inayos ng gobyerno ang alitan.",
-        "MY": "အစိုးရက အငြင်းပွားမှုကို ဖြေရှင်းပေးခဲ့သည်။",
-        "HI": "सरकार ने विवाद सुलझा लिया।",
-        "AR": "وقد قامت الحكومة بتسوية النزاع.",
-        "FA": "دولت اختلاف را حل و فصل کرد."
-      }
-    },
-    {
-      "kanji": "彼は成功を収めました。",
-      "furigana": "彼(かれ)は成功(せいこう)を収(おさ)めました。",
-      "translations": {
-        "EN": "He was successful.",
-        "ID": "Dia berhasil.",
-        "ES": "Tuvo éxito.",
-        "VI": "Ông đã thành công.",
-        "FR": "Il a réussi.",
-        "NE": "उनी सफल भए।",
-        "BN": "সে সফল হয়েছিল।",
-        "ZH": "他成功了。",
-        "KO": "그는 성공을 거두었습니다.",
-        "TL": "Naging matagumpay siya.",
-        "MY": "သူအောင်မြင်ခဲ့တယ်။",
-        "HI": "वह सफल रहा.",
-        "AR": "لقد كان ناجحا.",
-        "FA": "او موفق بود."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to put (into)": {
-      "ID": "untuk menaruh (ke dalam)",
-      "ES": "poner (en)",
-      "VI": "để đưa (vào)",
-      "FR": "mettre (dans)",
-      "NE": "(भित्र) राख्नु",
-      "BN": "(এর মধ্যে) রাখা",
-      "ZH": "放入",
-      "KO": "(에) 넣다",
-      "TL": "ilagay (sa)",
-      "MY": "ထည့်ရန် (သို့)",
-      "HI": "में रखने के लिए)",
-      "AR": "وضع (في)",
-      "FA": "قرار دادن (در)",
-      "EN": [
-        "to put away",
-        "to put back",
-        "to keep",
-        "to store",
-        "to restore to its place"
-      ]
-    },
-    "to include (in an anthology or catalogue)": {
-      "ID": "untuk memasukkan (dalam antologi atau katalog)",
-      "ES": "incluir (en una antología o catálogo)",
-      "VI": "để đưa vào (trong một tuyển tập hoặc danh mục)",
-      "FR": "inclure (dans une anthologie ou un catalogue)",
-      "NE": "(संग्रह वा सूचीमा) समावेश गर्न",
-      "BN": "(একটি সংকলন বা ক্যাটালগে) অন্তর্ভুক্ত করা",
-      "ZH": "收录（在选集或目录中）",
-      "KO": "(선집이나 카탈로그에) 포함시키다",
-      "TL": "isama (sa isang antolohiya o katalogo)",
-      "MY": "ပါဝင်ရန် (ကဗျာစာအုပ် သို့မဟုတ် ကတ်တလောက်တွင်)",
-      "HI": "(संग्रह या सूची में) शामिल करना",
-      "AR": "لتضمين (في مختارات أو كتالوج)",
-      "FA": "گنجاندن (در گلچین یا فهرست)",
-      "EN": [
-        "to contain",
-        "to publish (in)",
-        "to capture (on film)"
-      ]
-    },
-    "to achieve (results or success)": {
-      "ID": "untuk mencapai (hasil atau kesuksesan)",
-      "ES": "lograr (resultados o éxito)",
-      "VI": "đạt được (kết quả hoặc thành công)",
-      "FR": "atteindre (des résultats ou du succès)",
-      "NE": "(परिणाम वा सफलता) प्राप्त गर्नु",
-      "BN": "(ফলাফল বা সাফল্য) অর্জন করা",
-      "ZH": "实现（结果或成功）",
-      "KO": "(결과나 성공을) 달성하다",
-      "TL": "upang makamit (mga resulta o tagumpay)",
-      "MY": "အောင်မြင်ရန် (ရလဒ်များ သို့မဟုတ် အောင်မြင်မှု)",
-      "HI": "(परिणाम या सफलता) प्राप्त करना",
-      "AR": "لتحقيق (النتائج أو النجاح)",
-      "FA": "به (نتیجه یا موفقیت) رسیدن",
-      "EN": [
-        "to obtain",
-        "to get",
-        "to gain",
-        "to win",
-        "to make a profit"
-      ]
-    },
-    "to pay (fees or taxes)": {
-      "ID": "untuk membayar (biaya atau pajak)",
-      "ES": "pagar (tasas o impuestos)",
-      "VI": "trả (phí hoặc thuế)",
-      "FR": "payer (des frais ou des taxes)",
-      "NE": "(शुल्क वा कर) तिर्नु",
-      "BN": "(ফি বা কর) প্রদান করা",
-      "ZH": "支付（费用或税款）",
-      "KO": "(수수료나 세금을) 지불하다",
-      "TL": "magbayad (mga bayarin o buwis)",
-      "MY": "ပေးဆောင်ရန် (အခကြေးငွေ သို့မဟုတ် အခွန်များ)",
-      "HI": "(शुल्क या कर) का भुगतान करना",
-      "AR": "دفع (الرسوم أو الضرائب)",
-      "FA": "پرداخت کردن (هزینه یا مالیات)",
-      "EN": [
-        "to deliver",
-        "to supply"
-      ]
-    },
-    "to subdue": {
-      "ID": "untuk menaklukkan",
-      "ES": "someter",
-      "VI": "khuất phục",
-      "FR": "soumettre",
-      "NE": "वशमा पार्नु",
-      "BN": "দমন করা",
-      "ZH": "制服",
-      "KO": "정복하다",
-      "TL": "magpasuko",
-      "MY": "နှိမ်နင်းရန်",
-      "HI": "वश में करना",
-      "AR": "لإخضاع",
-      "FA": "مطیع کردن",
-      "EN": [
-        "to suppress",
-        "to settle",
-        "to finish",
-        "to conclude",
-        "to bring to a close"
-      ]
-    },
-    "to accept (a gift or money)": {
-      "ID": "menerima (hadiah atau uang)",
-      "ES": "aceptar (un regalo o dinero)",
-      "VI": "chấp nhận (một món quà hoặc tiền)",
-      "FR": "accepter (un cadeau ou de l'argent)",
-      "NE": "(उपहार वा पैसा) स्वीकार गर्नु",
-      "BN": "(উপহার বা টাকা) গ্রহণ করা",
-      "ZH": "接受（礼物或金钱）",
-      "KO": "(선물이나 돈을) 받아들이다",
-      "TL": "tanggapin (isang regalo o pera)",
-      "MY": "လက်ခံရန် (လက်ဆောင် သို့မဟုတ် ငွေ)",
-      "HI": "(उपहार या धन) स्वीकार करना",
-      "AR": "قبول (هدية أو مال)",
-      "FA": "پذیرفتن (هدیه یا پول)",
-      "EN": [
-        "to keep (within a limit)",
-        "to offer or dedicate (to a shrine or deity)"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "収める",
-    "is_common": true,
-    "tags": [
-      "wanikani25",
-      "wanikani33"
-    ],
-    "jlpt": [
-      "jlpt-n3",
-      "jlpt-n2"
-    ],
-    "japanese": [
-      {
-        "word": "収める",
-        "reading": "おさめる"
-      },
-      {
-        "word": "納める",
-        "reading": "おさめる"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to put (into)",
-          "to put away (in)",
-          "to put back (in)",
-          "to keep (in)",
-          "to store (in)",
-          "to restore (to its place)"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to include (in an anthology, catalogue, etc.)",
-          "to contain",
-          "to publish (in)",
-          "to capture (on film)"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [
-          "収める"
-        ],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to achieve (results, success, etc.)",
-          "to obtain",
-          "to get",
-          "to gain",
-          "to win",
-          "to make (a profit)"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [
-          "収める"
-        ],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to pay (fees, taxes, etc.)",
-          "to deliver",
-          "to supply"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [
-          "納める"
-        ],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to accept (a gift or money)"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to keep (within a limit)"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to offer (to a shrine, deity, etc.)",
-          "to dedicate"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to subdue",
-          "to suppress",
-          "to settle"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [
-          "治める"
-        ],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to finish",
-          "to conclude",
-          "to wind up",
-          "to bring to a close"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Transitive verb",
-          "Suffix"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [
-          "納める"
-        ],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
-    }
-  },
-  "kanji_list": [
-    "収"
-  ],
-  "kanji_data": {
-    "収": {
-      "freq_mainichi_shinbun": 337,
-      "grade": 6,
-      "heisig_en": "income",
-      "jlpt": 3,
-      "kanji": "収",
-      "kun_readings": [
-        "おさ.まる",
-        "おさ.める"
-      ],
-      "meanings": [
-        "income",
-        "obtain",
-        "pay",
-        "reap",
-        "store",
-        "supply"
-      ],
-      "name_readings": [
-        "のぶ"
-      ],
-      "notes": [],
-      "on_readings": [
-        "シュウ"
-      ],
-      "stroke_count": 4,
-      "unicode": "53CE"
-    }
-  }
 }

@@ -1,456 +1,458 @@
 {
-  "version": "0.3.0",
-  "word": "僅か",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/T14CvtiWX1c",
-  "in_db": true,
-  "kanji": "わずか",
-  "reading": "わずか",
-  "introduction_japanese": "「僅か」は、数や時間の話、差をくらべる場面、数字の前で「〜だけ」と言うとき、音や光がかすかに感じられる場面でよく使います。",
-  "introduction_english": "The adverb and na-adjective わずか is used in talks about amounts and time, comparing small differences, saying 'only' before numbers, and describing faint sounds or light.",
-  "meanings": [
-    [
-      "a little",
-      "a few",
-      "small",
-      "slight",
-      "trifling",
-      "meager",
-      "narrow (margin)"
+    "version": "0.3.0",
+    "word": "僅か",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/T14CvtiWX1c",
+    "in_db": true,
+    "kanji": "わずか",
+    "reading": "わずか",
+    "introduction_japanese": "「僅か」は、数や時間の話、差をくらべる場面、数字の前で「〜だけ」と言うとき、音や光がかすかに感じられる場面でよく使います。",
+    "introduction_english": "The adverb and na-adjective わずか is used in talks about amounts and time, comparing small differences, saying 'only' before numbers, and describing faint sounds or light.",
+    "meanings": [
+        [
+            "a little",
+            "a few",
+            "small",
+            "slight",
+            "trifling",
+            "meager",
+            "narrow (margin)"
+        ],
+        [
+            "only",
+            "just",
+            "merely",
+            "no more than"
+        ]
     ],
-    [
-      "only",
-      "just",
-      "merely",
-      "no more than"
-    ]
-  ],
-  "meaning_explanation_japanese": "「わずか」は、量や時間、差がとても小さいことを表します。数字の前につけて「たった〜だけ」という気持ちも表せます。",
-  "meaning_explanation_english": "The word わずか shows that the amount, time, or difference is very small. You can also put it before numbers to mean 'only' or 'no more than.'",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "僅",
-      "common_words": [
-        "僅少 (きんしょう): few; scanty; meager",
-        "僅差 (きんさ): narrow margin; a very small difference"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means a tiny amount or a trifle. You see it in きんしょう, which means scarcity, and in きんさ, which means a very small difference. In both words, it adds the idea of something small or slight.",
-  "synonyms": [
-    "少し : すこし : a little; a bit",
-    "たった : たった : only; just"
-  ],
-  "synonym_explanation": "The most common synonyms of the わずか are すこし and たった. すこし is a gentle, general 'a little' about amount or degree. たった strongly means 'only' before numbers.",
-  "antonyms": [
-    "多い : おおい : many; much",
-    "たくさん : たくさん : a lot; many"
-  ],
-  "antonym_explanation": "The most common antonyms of the わずか are おおい and たくさん. おおい is an adjective for having many or much. たくさん means 'a lot' and sounds casual.",
-  "collocations": [
-    {
-      "kanji": "僅かな時間",
-      "furigana": "僅かな時間",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かな差",
-      "furigana": "僅かな差",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かな利益",
-      "furigana": "僅かな利益",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かな期待",
-      "furigana": "僅かな期待",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かな可能性",
-      "furigana": "僅かな可能性",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かに見える",
-      "furigana": "僅かに見える",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かにずれる",
-      "furigana": "僅かにずれる",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かに違う",
-      "furigana": "僅かに違う",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かに傾く",
-      "furigana": "僅かに傾く",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かに聞こえる",
-      "furigana": "僅かに聞こえる",
-      "translations": {}
-    },
-    {
-      "kanji": "残りが僅か",
-      "furigana": "残りが僅か",
-      "translations": {}
-    },
-    {
-      "kanji": "差が僅か",
-      "furigana": "差が僅か",
-      "translations": {}
-    },
-    {
-      "kanji": "余裕が僅か",
-      "furigana": "余裕が僅か",
-      "translations": {}
-    },
-    {
-      "kanji": "在庫が僅か",
-      "furigana": "在庫が僅か",
-      "translations": {}
-    },
-    {
-      "kanji": "変化が僅か",
-      "furigana": "変化が僅か",
-      "translations": {}
-    },
-    {
-      "kanji": "僅か1人",
-      "furigana": "僅か1人",
-      "translations": {}
-    },
-    {
-      "kanji": "僅か数分",
-      "furigana": "僅か数分",
-      "translations": {}
-    },
-    {
-      "kanji": "僅か数日",
-      "furigana": "僅か数日",
-      "translations": {}
-    },
-    {
-      "kanji": "僅か1回",
-      "furigana": "僅か1回",
-      "translations": {}
-    },
-    {
-      "kanji": "僅か数個",
-      "furigana": "僅か数個",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かに変化する",
-      "furigana": "僅かに変化する",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かに違う",
-      "furigana": "僅かに違う",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かである",
-      "furigana": "僅かである",
-      "translations": {}
-    },
-    {
-      "kanji": "僅かでしかない",
-      "furigana": "僅かでしかない",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "残りが僅かです。",
-      "furigana": "残(のこ)りが僅(わず)かです。",
-      "translations": {
-        "EN": "There are only a few left.",
-        "ID": "Hanya ada sedikit yang tersisa.",
-        "ES": "Ya sólo quedan unos pocos.",
-        "VI": "Chỉ còn lại một ít thôi.",
-        "FR": "Il n'en reste que quelques uns.",
-        "NE": "केही मात्र बाँकी छन्।",
-        "BN": "আর মাত্র কয়েকটা বাকি আছে।",
-        "ZH": "只剩下几个了。",
-        "KO": "나머지는 적습니다.",
-        "TL": "Kaunti na lang ang natitira.",
-        "MY": "အနည်းငယ်သာကျန်တော့သည် ။",
-        "HI": "अब तो कुछ ही बचे हैं।",
-        "AR": "لم يبق إلا القليل.",
-        "FA": "فقط تعداد کمی باقی مانده است."
-      }
-    },
-    {
-      "kanji": "僅かな時間で終わりました。",
-      "furigana": "僅(わず)かな時間(じかん)で終(お)わりました。",
-      "translations": {
-        "EN": "It was finished in just a short time.",
-        "ID": "Itu selesai dalam waktu singkat.",
-        "ES": "Se terminó en poco tiempo.",
-        "VI": "Nó đã được hoàn thành chỉ trong một thời gian ngắn.",
-        "FR": "Cela a été terminé en peu de temps.",
-        "NE": "यो छोटो समयमै सकियो।",
-        "BN": "এটি খুব অল্প সময়ের মধ্যেই সম্পন্ন হয়েছিল।",
-        "ZH": "没过多久就完成了。",
-        "KO": "약간의 시간으로 끝났습니다.",
-        "TL": "Ito ay natapos sa loob lamang ng maikling panahon.",
-        "MY": "အချိန်တိုလေးအတွင်းမှာပဲ ပြီးသွားတယ်။",
-        "HI": "यह बहुत कम समय में ही समाप्त हो गया।",
-        "AR": "لقد تم الانتهاء منه في وقت قصير.",
-        "FA": "فقط در مدت زمان کوتاهی تمام شد."
-      }
-    },
-    {
-      "kanji": "差は僅かでした。",
-      "furigana": "差(さ)は僅(わず)かでした。",
-      "translations": {
-        "EN": "The difference was slight.",
-        "ID": "Perbedaannya sedikit.",
-        "ES": "La diferencia era leve.",
-        "VI": "Sự khác biệt là không đáng kể.",
-        "FR": "La différence était légère.",
-        "NE": "भिन्नता थोरै थियो।",
-        "BN": "পার্থক্যটা সামান্য ছিল।",
-        "ZH": "差别很小。",
-        "KO": "차이는 적었다.",
-        "TL": "Ang pagkakaiba ay bahagyang.",
-        "MY": "ကွာခြားချက်အနည်းငယ်ရှိခဲ့သည်။",
-        "HI": "अंतर मामूली था.",
-        "AR": "وكان الفرق طفيفا.",
-        "FA": "تفاوت ناچیز بود."
-      }
-    },
-    {
-      "kanji": "期待は僅かですが、頑張ります。",
-      "furigana": "期待(きたい)は僅(わず)かですが、頑張(がんば)ります。",
-      "translations": {
-        "EN": "My expectations are low, but I'll do my best.",
-        "ID": "Harapan saya rendah, tetapi saya akan melakukan yang terbaik.",
-        "ES": "Mis expectativas son bajas, pero haré lo mejor que pueda.",
-        "VI": "Tôi không kỳ vọng nhiều nhưng tôi sẽ cố gắng hết sức.",
-        "FR": "Mes attentes sont faibles, mais je ferai de mon mieux.",
-        "NE": "मेरा अपेक्षाहरू कम छन्, तर म मेरो सक्दो प्रयास गर्नेछु।",
-        "BN": "আমার প্রত্যাশা কম, কিন্তু আমি আমার সেরাটা দেব।",
-        "ZH": "我的期望值不高，但我会尽力。",
-        "KO": "기대는 작지만 최선을 다할 것입니다.",
-        "TL": "Ang aking mga inaasahan ay mababa, ngunit gagawin ko ang aking makakaya.",
-        "MY": "မျှော်လင့်ချက်တွေ နည်းနေပေမယ့် အစွမ်းကုန်လုပ်မယ်။",
-        "HI": "मेरी उम्मीदें कम हैं, लेकिन मैं अपना सर्वश्रेष्ठ प्रयास करूंगा।",
-        "AR": "توقعاتي منخفضة، ولكنني سأبذل قصارى جهدي.",
-        "FA": "انتظاراتم پایین است، اما تمام تلاشم را خواهم کرد."
-      }
-    },
-    {
-      "kanji": "ここから海が僅かに見える。",
-      "furigana": "ここから海(うみ)が僅(わず)かに見(み)える。",
-      "translations": {
-        "EN": "You can see a little of the sea from here.",
-        "ID": "Anda dapat melihat sedikit laut dari sini.",
-        "ES": "Desde aquí se puede ver un poco del mar.",
-        "VI": "Bạn có thể nhìn thấy một chút biển từ đây.",
-        "FR": "D'ici, on peut voir un peu la mer.",
-        "NE": "यहाँबाट तपाईंले समुद्रको केही भाग देख्न सक्नुहुन्छ।",
-        "BN": "এখান থেকে তুমি সমুদ্রের কিছুটা অংশ দেখতে পাবে।",
-        "ZH": "从这里你可以看到一点海。",
-        "KO": "여기에서 바다가 약간 보인다.",
-        "TL": "Makikita mo ang kaunti sa dagat mula dito.",
-        "MY": "ဒီကနေ ပင်လယ်ကို နည်းနည်းမြင်ရတယ်။",
-        "HI": "आप यहाँ से समुद्र का थोड़ा सा हिस्सा देख सकते हैं।",
-        "AR": "يمكنك رؤية القليل من البحر من هنا.",
-        "FA": "از اینجا می‌توان کمی از دریا را دید."
-      }
-    },
-    {
-      "kanji": "参加者は僅か1人でした。",
-      "furigana": "参加者(さんかしゃ)は僅(わず)か1人(ひとり)でした。",
-      "translations": {
-        "EN": "There was only one participant.",
-        "ID": "Hanya ada satu peserta.",
-        "ES": "Sólo hubo un participante.",
-        "VI": "Chỉ có một người tham gia.",
-        "FR": "Il n'y avait qu'un seul participant.",
-        "NE": "सहभागी एक जना मात्र थिए।",
-        "BN": "অংশগ্রহণকারী ছিলেন মাত্র একজন।",
-        "ZH": "只有一个参与者。",
-        "KO": "참가자는 단 한 명이었습니다.",
-        "TL": "May isang kalahok lamang.",
-        "MY": "ပါဝင်သူ တစ်ဦးသာ ရှိခဲ့သည်။",
-        "HI": "वहाँ केवल एक ही प्रतिभागी था।",
-        "AR": "لم يكن هناك سوى مشارك واحد.",
-        "FA": "فقط یک شرکت کننده داشت."
-      }
-    },
-    {
-      "kanji": "私たちは僅か数分待ちました。",
-      "furigana": "私(わたし)たちは僅(わず)か数分(すうふん)待(ま)ちました。",
-      "translations": {
-        "EN": "We only waited a few minutes.",
-        "ID": "Kami hanya menunggu beberapa menit.",
-        "ES": "Sólo esperamos unos minutos.",
-        "VI": "Chúng tôi chỉ đợi vài phút.",
-        "FR": "Nous n'avons attendu que quelques minutes.",
-        "NE": "हामीले केही मिनेट मात्र पर्ख्यौं।",
-        "BN": "আমরা মাত্র কয়েক মিনিট অপেক্ষা করলাম।",
-        "ZH": "我们只等了几分钟。",
-        "KO": "우리는 몇 분 정도 기다렸다.",
-        "TL": "Naghintay lang kami ng ilang minuto.",
-        "MY": "မိနစ်အနည်းငယ်ပဲ စောင့်ခဲ့ကြတယ်။",
-        "HI": "हमने केवल कुछ मिनट इंतजार किया।",
-        "AR": "لقد انتظرنا بضع دقائق فقط.",
-        "FA": "ما فقط چند دقیقه منتظر ماندیم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "a little": {
-      "ID": "sedikit",
-      "ES": "un poco",
-      "VI": "một chút",
-      "FR": "un peu",
-      "NE": "थोरै",
-      "BN": "একটু",
-      "ZH": "一点",
-      "KO": "조금",
-      "TL": "kaunti",
-      "MY": "အနည်းငယ်",
-      "HI": "थोड़ा",
-      "AR": "قليلا",
-      "FA": "کمی",
-      "EN": [
-        "a few",
-        "small",
-        "slight",
-        "trifling",
-        "meager",
-        "narrow (margin)"
-      ]
-    },
-    "only": {
-      "ID": "hanya",
-      "ES": "solo",
-      "VI": "chỉ một",
-      "FR": "seulement",
-      "NE": "मात्र",
-      "BN": "কেবল",
-      "ZH": "仅有的",
-      "KO": "오직",
-      "TL": "lamang",
-      "MY": "အားလုံးအတွက်",
-      "HI": "केवल",
-      "AR": "فقط",
-      "FA": "فقط",
-      "EN": [
-        "just",
-        "merely",
-        "no more than"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "僅か",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
+    "meaning_explanation_japanese": "「わずか」は、量や時間、差がとても小さいことを表します。数字の前につけて「たった〜だけ」という気持ちも表せます。",
+    "meaning_explanation_english": "The word わずか shows that the amount, time, or difference is very small. You can also put it before numbers to mean 'only' or 'no more than.'",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "僅",
+            "common_words": [
+                "僅少 (きんしょう): few; scanty; meager",
+                "僅差 (きんさ): narrow margin; a very small difference"
+            ]
+        }
     ],
-    "japanese": [
-      {
-        "word": "僅か",
-        "reading": "わずか"
-      },
-      {
-        "word": "纔か",
-        "reading": "わずか"
-      }
+    "kanji_explanation": "The first kanji means a tiny amount or a trifle. You see it in きんしょう, which means scarcity, and in きんさ, which means a very small difference. In both words, it adds the idea of something small or slight.",
+    "synonyms": [
+        "少し : すこし : a little; a bit",
+        "たった : たった : only; just"
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "a little",
-          "a few",
-          "small",
-          "slight",
-          "trifling",
-          "meagre",
-          "meager",
-          "narrow (margin)"
-        ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi)",
-          "Noun which may take the genitive case particle 'no'"
-        ],
-        "links": [],
-        "tags": [
-          "Usually written using kana alone"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "only",
-          "just",
-          "merely",
-          "no more than"
-        ],
-        "parts_of_speech": [
-          "Adverb (fukushi)"
-        ],
-        "links": [],
-        "tags": [
-          "Usually written using kana alone"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
+    "synonym_explanation": "The most common synonyms of the わずか are すこし and たった. すこし is a gentle, general 'a little' about amount or degree. たった strongly means 'only' before numbers.",
+    "antonyms": [
+        "多い : おおい : many; much",
+        "たくさん : たくさん : a lot; many"
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "antonym_explanation": "The most common antonyms of the わずか are おおい and たくさん. おおい is an adjective for having many or much. たくさん means 'a lot' and sounds casual.",
+    "collocations": [
+        {
+            "kanji": "僅かな時間",
+            "furigana": "僅かな時間",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かな差",
+            "furigana": "僅かな差",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かな利益",
+            "furigana": "僅かな利益",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かな期待",
+            "furigana": "僅かな期待",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かな可能性",
+            "furigana": "僅かな可能性",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かに見える",
+            "furigana": "僅かに見える",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かにずれる",
+            "furigana": "僅かにずれる",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かに違う",
+            "furigana": "僅かに違う",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かに傾く",
+            "furigana": "僅かに傾く",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かに聞こえる",
+            "furigana": "僅かに聞こえる",
+            "translations": {}
+        },
+        {
+            "kanji": "残りが僅か",
+            "furigana": "残りが僅か",
+            "translations": {}
+        },
+        {
+            "kanji": "差が僅か",
+            "furigana": "差が僅か",
+            "translations": {}
+        },
+        {
+            "kanji": "余裕が僅か",
+            "furigana": "余裕が僅か",
+            "translations": {}
+        },
+        {
+            "kanji": "在庫が僅か",
+            "furigana": "在庫が僅か",
+            "translations": {}
+        },
+        {
+            "kanji": "変化が僅か",
+            "furigana": "変化が僅か",
+            "translations": {}
+        },
+        {
+            "kanji": "僅か1人",
+            "furigana": "僅か1人",
+            "translations": {}
+        },
+        {
+            "kanji": "僅か数分",
+            "furigana": "僅か数分",
+            "translations": {}
+        },
+        {
+            "kanji": "僅か数日",
+            "furigana": "僅か数日",
+            "translations": {}
+        },
+        {
+            "kanji": "僅か1回",
+            "furigana": "僅か1回",
+            "translations": {}
+        },
+        {
+            "kanji": "僅か数個",
+            "furigana": "僅か数個",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かに変化する",
+            "furigana": "僅かに変化する",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かに違う",
+            "furigana": "僅かに違う",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かである",
+            "furigana": "僅かである",
+            "translations": {}
+        },
+        {
+            "kanji": "僅かでしかない",
+            "furigana": "僅かでしかない",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "残りが僅かです。",
+            "furigana": "残(のこ)りが僅(わず)かです。",
+            "translations": {
+                "EN": "There are only a few left.",
+                "ID": "Hanya ada sedikit yang tersisa.",
+                "ES": "Ya sólo quedan unos pocos.",
+                "VI": "Chỉ còn lại một ít thôi.",
+                "FR": "Il n'en reste que quelques uns.",
+                "NE": "केही मात्र बाँकी छन्।",
+                "BN": "আর মাত্র কয়েকটা বাকি আছে।",
+                "ZH": "只剩下几个了。",
+                "KO": "나머지는 적습니다.",
+                "TL": "Kaunti na lang ang natitira.",
+                "MY": "အနည်းငယ်သာကျန်တော့သည် ။",
+                "HI": "अब तो कुछ ही बचे हैं।",
+                "AR": "لم يبق إلا القليل.",
+                "FA": "فقط تعداد کمی باقی مانده است."
+            }
+        },
+        {
+            "kanji": "僅かな時間で終わりました。",
+            "furigana": "僅(わず)かな時間(じかん)で終(お)わりました。",
+            "translations": {
+                "EN": "It was finished in just a short time.",
+                "ID": "Itu selesai dalam waktu singkat.",
+                "ES": "Se terminó en poco tiempo.",
+                "VI": "Nó đã được hoàn thành chỉ trong một thời gian ngắn.",
+                "FR": "Cela a été terminé en peu de temps.",
+                "NE": "यो छोटो समयमै सकियो।",
+                "BN": "এটি খুব অল্প সময়ের মধ্যেই সম্পন্ন হয়েছিল।",
+                "ZH": "没过多久就完成了。",
+                "KO": "약간의 시간으로 끝났습니다.",
+                "TL": "Ito ay natapos sa loob lamang ng maikling panahon.",
+                "MY": "အချိန်တိုလေးအတွင်းမှာပဲ ပြီးသွားတယ်။",
+                "HI": "यह बहुत कम समय में ही समाप्त हो गया।",
+                "AR": "لقد تم الانتهاء منه في وقت قصير.",
+                "FA": "فقط در مدت زمان کوتاهی تمام شد."
+            }
+        },
+        {
+            "kanji": "差は僅かでした。",
+            "furigana": "差(さ)は僅(わず)かでした。",
+            "translations": {
+                "EN": "The difference was slight.",
+                "ID": "Perbedaannya sedikit.",
+                "ES": "La diferencia era leve.",
+                "VI": "Sự khác biệt là không đáng kể.",
+                "FR": "La différence était légère.",
+                "NE": "भिन्नता थोरै थियो।",
+                "BN": "পার্থক্যটা সামান্য ছিল।",
+                "ZH": "差别很小。",
+                "KO": "차이는 적었다.",
+                "TL": "Ang pagkakaiba ay bahagyang.",
+                "MY": "ကွာခြားချက်အနည်းငယ်ရှိခဲ့သည်။",
+                "HI": "अंतर मामूली था.",
+                "AR": "وكان الفرق طفيفا.",
+                "FA": "تفاوت ناچیز بود."
+            }
+        },
+        {
+            "kanji": "期待は僅かですが、頑張ります。",
+            "furigana": "期待(きたい)は僅(わず)かですが、頑張(がんば)ります。",
+            "translations": {
+                "EN": "My expectations are low, but I'll do my best.",
+                "ID": "Harapan saya rendah, tetapi saya akan melakukan yang terbaik.",
+                "ES": "Mis expectativas son bajas, pero haré lo mejor que pueda.",
+                "VI": "Tôi không kỳ vọng nhiều nhưng tôi sẽ cố gắng hết sức.",
+                "FR": "Mes attentes sont faibles, mais je ferai de mon mieux.",
+                "NE": "मेरा अपेक्षाहरू कम छन्, तर म मेरो सक्दो प्रयास गर्नेछु।",
+                "BN": "আমার প্রত্যাশা কম, কিন্তু আমি আমার সেরাটা দেব।",
+                "ZH": "我的期望值不高，但我会尽力。",
+                "KO": "기대는 작지만 최선을 다할 것입니다.",
+                "TL": "Ang aking mga inaasahan ay mababa, ngunit gagawin ko ang aking makakaya.",
+                "MY": "မျှော်လင့်ချက်တွေ နည်းနေပေမယ့် အစွမ်းကုန်လုပ်မယ်။",
+                "HI": "मेरी उम्मीदें कम हैं, लेकिन मैं अपना सर्वश्रेष्ठ प्रयास करूंगा।",
+                "AR": "توقعاتي منخفضة، ولكنني سأبذل قصارى جهدي.",
+                "FA": "انتظاراتم پایین است، اما تمام تلاشم را خواهم کرد."
+            }
+        },
+        {
+            "kanji": "ここから海が僅かに見える。",
+            "furigana": "ここから海(うみ)が僅(わず)かに見(み)える。",
+            "translations": {
+                "EN": "You can see a little of the sea from here.",
+                "ID": "Anda dapat melihat sedikit laut dari sini.",
+                "ES": "Desde aquí se puede ver un poco del mar.",
+                "VI": "Bạn có thể nhìn thấy một chút biển từ đây.",
+                "FR": "D'ici, on peut voir un peu la mer.",
+                "NE": "यहाँबाट तपाईंले समुद्रको केही भाग देख्न सक्नुहुन्छ।",
+                "BN": "এখান থেকে তুমি সমুদ্রের কিছুটা অংশ দেখতে পাবে।",
+                "ZH": "从这里你可以看到一点海。",
+                "KO": "여기에서 바다가 약간 보인다.",
+                "TL": "Makikita mo ang kaunti sa dagat mula dito.",
+                "MY": "ဒီကနေ ပင်လယ်ကို နည်းနည်းမြင်ရတယ်။",
+                "HI": "आप यहाँ से समुद्र का थोड़ा सा हिस्सा देख सकते हैं।",
+                "AR": "يمكنك رؤية القليل من البحر من هنا.",
+                "FA": "از اینجا می‌توان کمی از دریا را دید."
+            }
+        },
+        {
+            "kanji": "参加者は僅か1人でした。",
+            "furigana": "参加者(さんかしゃ)は僅(わず)か1人(ひとり)でした。",
+            "translations": {
+                "EN": "There was only one participant.",
+                "ID": "Hanya ada satu peserta.",
+                "ES": "Sólo hubo un participante.",
+                "VI": "Chỉ có một người tham gia.",
+                "FR": "Il n'y avait qu'un seul participant.",
+                "NE": "सहभागी एक जना मात्र थिए।",
+                "BN": "অংশগ্রহণকারী ছিলেন মাত্র একজন।",
+                "ZH": "只有一个参与者。",
+                "KO": "참가자는 단 한 명이었습니다.",
+                "TL": "May isang kalahok lamang.",
+                "MY": "ပါဝင်သူ တစ်ဦးသာ ရှိခဲ့သည်။",
+                "HI": "वहाँ केवल एक ही प्रतिभागी था।",
+                "AR": "لم يكن هناك سوى مشارك واحد.",
+                "FA": "فقط یک شرکت کننده داشت."
+            }
+        },
+        {
+            "kanji": "私たちは僅か数分待ちました。",
+            "furigana": "私(わたし)たちは僅(わず)か数分(すうふん)待(ま)ちました。",
+            "translations": {
+                "EN": "We only waited a few minutes.",
+                "ID": "Kami hanya menunggu beberapa menit.",
+                "ES": "Sólo esperamos unos minutos.",
+                "VI": "Chúng tôi chỉ đợi vài phút.",
+                "FR": "Nous n'avons attendu que quelques minutes.",
+                "NE": "हामीले केही मिनेट मात्र पर्ख्यौं।",
+                "BN": "আমরা মাত্র কয়েক মিনিট অপেক্ষা করলাম।",
+                "ZH": "我们只等了几分钟。",
+                "KO": "우리는 몇 분 정도 기다렸다.",
+                "TL": "Naghintay lang kami ng ilang minuto.",
+                "MY": "မိနစ်အနည်းငယ်ပဲ စောင့်ခဲ့ကြတယ်။",
+                "HI": "हमने केवल कुछ मिनट इंतजार किया।",
+                "AR": "لقد انتظرنا بضع دقائق فقط.",
+                "FA": "ما فقط چند دقیقه منتظر ماندیم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "sedikit",
+            "ES": "un poco",
+            "VI": "một chút",
+            "FR": "un peu",
+            "NE": "थोरै",
+            "BN": "একটু",
+            "ZH": "一点",
+            "KO": "조금",
+            "TL": "kaunti",
+            "MY": "အနည်းငယ်",
+            "HI": "थोड़ा",
+            "AR": "قليلا",
+            "FA": "کمی",
+            "EN": [
+                "a little",
+                "a few",
+                "small",
+                "slight",
+                "trifling",
+                "meager",
+                "narrow (margin)"
+            ]
+        },
+        {
+            "ID": "hanya",
+            "ES": "solo",
+            "VI": "chỉ một",
+            "FR": "seulement",
+            "NE": "मात्र",
+            "BN": "কেবল",
+            "ZH": "仅有的",
+            "KO": "오직",
+            "TL": "lamang",
+            "MY": "အားလုံးအတွက်",
+            "HI": "केवल",
+            "AR": "فقط",
+            "FA": "فقط",
+            "EN": [
+                "only",
+                "just",
+                "merely",
+                "no more than"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "僅か",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "僅か",
+                "reading": "わずか"
+            },
+            {
+                "word": "纔か",
+                "reading": "わずか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "a little",
+                    "a few",
+                    "small",
+                    "slight",
+                    "trifling",
+                    "meagre",
+                    "meager",
+                    "narrow (margin)"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi)",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "only",
+                    "just",
+                    "merely",
+                    "no more than"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "僅"
+    ],
+    "kanji_data": {
+        "僅": {
+            "freq_mainichi_shinbun": null,
+            "grade": 8,
+            "heisig_en": "trifle",
+            "jlpt": null,
+            "kanji": "僅",
+            "kun_readings": [
+                "わず.か"
+            ],
+            "meanings": [
+                "a wee bit"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "キン",
+                "ゴン"
+            ],
+            "stroke_count": 12,
+            "unicode": "50C5"
+        }
     }
-  },
-  "kanji_list": [
-    "僅"
-  ],
-  "kanji_data": {
-    "僅": {
-      "freq_mainichi_shinbun": null,
-      "grade": 8,
-      "heisig_en": "trifle",
-      "jlpt": null,
-      "kanji": "僅",
-      "kun_readings": [
-        "わず.か"
-      ],
-      "meanings": [
-        "a wee bit"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "キン",
-        "ゴン"
-      ],
-      "stroke_count": 12,
-      "unicode": "50C5"
-    }
-  }
 }

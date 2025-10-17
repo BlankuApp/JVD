@@ -1,527 +1,546 @@
 {
-  "version": "0.3.0",
-  "word": "駄目",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/rc7zPyABUlY",
-  "in_db": true,
-  "kanji": "駄目",
-  "reading": "だめ",
-  "introduction_japanese": "",
-  "introduction_english": "Here’s the term we’ll focus on today: だめ which you will often hear in warnings, on signs, in casual conversations with friends and family, from parents or teachers, and when talking about outcomes at work or school.",
-  "meanings": [
-    [
-      "no good",
-      "not serving its purpose",
-      "useless",
-      "broken"
-    ],
-    [
-      "hopeless",
-      "wasted",
-      "in vain",
-      "purposeless"
-    ],
-    [
-      "cannot",
-      "must not",
-      "not allowed"
-    ],
-    [
-      "neutral point"
-    ],
-    [
-      "no!",
-      "stop!"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word だめ means not allowed, unacceptable, or no good and can be used to refuse permission, to say something failed or is useless, or to warn someone that something should not be done.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "駄",
-      "common_words": [
-        "駄菓子: penny candy",
-        "駄作: poor piece of work"
-      ]
-    },
-    {
-      "kanji": "目",
-      "common_words": [
-        "目的: purpose",
-        "目次: table of contents"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "行けない : いけない : bad"
-  ],
-  "synonym_explanation": "The most common synonyms of the だめ are いけない. いけない often emphasizes that something is not allowed or inappropriate and can sound a bit softer or more formal in some situations, while だめ is broader and can also mean useless or failed.",
-  "antonyms": [
-    "良い : よい : good"
-  ],
-  "antonym_explanation": "The most common antonyms of the だめ are いい. いい means good or acceptable and is used to say something is allowed or satisfactory, the opposite of だめ which marks something as unacceptable, unusable, or failed.",
-  "collocations": [
-    {
-      "kanji": "だめだ",
-      "furigana": "だめだ",
-      "translations": {}
-    },
-    {
-      "kanji": "だめです",
-      "furigana": "だめです",
-      "translations": {}
-    },
-    {
-      "kanji": "だめだよ",
-      "furigana": "だめだよ",
-      "translations": {}
-    },
-    {
-      "kanji": "それはだめ",
-      "furigana": "それはだめ",
-      "translations": {}
-    },
-    {
-      "kanji": "ここではだめ",
-      "furigana": "ここではだめ",
-      "translations": {}
-    },
-    {
-      "kanji": "だめになる",
-      "furigana": "だめになる",
-      "translations": {}
-    },
-    {
-      "kanji": "だめにする",
-      "furigana": "だめにする",
-      "translations": {}
-    },
-    {
-      "kanji": "ぜったいだめ",
-      "furigana": "ぜったいだめ",
-      "translations": {}
-    },
-    {
-      "kanji": "だめそうだ",
-      "furigana": "だめそうだ",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "それは駄目だ。",
-      "furigana": "それは駄目(だめ)だ。",
-      "translations": {
-        "EN": "That's no good.",
-        "ID": "Itu tidak bagus.",
-        "ES": "Eso no está bien.",
-        "VI": "Cái đó không được.",
-        "FR": "Ce n'est pas bon.",
-        "NE": "त्यो ठीक छैन।",
-        "BN": "এটা ঠিক না।",
-        "ZH": "那不行。",
-        "KO": "그건 안 돼.",
-        "TL": "Hindi pwede iyon.",
-        "MY": "ဒါ မရဘူး။",
-        "HI": "यह ठीक नहीं है।",
-        "AR": "هذا لا يصلح.",
-        "FA": "آن خوب نیست."
-      }
-    },
-    {
-      "kanji": "これは駄目です。",
-      "furigana": "これは駄目(だめ)です。",
-      "translations": {
-        "EN": "This is no good.",
-        "ID": "Ini tidak bagus.",
-        "ES": "Esto no está bien.",
-        "VI": "Cái này không được.",
-        "FR": "Ce n'est pas bon.",
-        "NE": "यो राम्रो छैन।",
-        "BN": "এটি ঠিক না।",
-        "ZH": "这个不行。",
-        "KO": "이것은 안 돼요.",
-        "TL": "Ito ay hindi maganda.",
-        "MY": "ဒါက မကောင်းဘူး။",
-        "HI": "यह ठीक नहीं है।",
-        "AR": "هذا غير جيد.",
-        "FA": "این خوب نیست."
-      }
-    },
-    {
-      "kanji": "ここで遊ぶのは駄目だよ。",
-      "furigana": "ここで遊(あそ)ぶのは駄目(だめ)だよ。",
-      "translations": {
-        "EN": "Don't play here.",
-        "ID": "Jangan main di sini.",
-        "ES": "No juegues aquí.",
-        "VI": "Đừng chơi ở đây.",
-        "FR": "Ne joue pas ici.",
-        "NE": "यहाँ खेल्नु हुँदैन।",
-        "BN": "এখানে খেলো না।",
-        "ZH": "不要在这里玩。",
-        "KO": "여기서 놀면 안 돼.",
-        "TL": "Huwag maglaro dito.",
-        "MY": "ဒီမှာ ကစားမနေပါနဲ့။",
-        "HI": "यहाँ खेलना मना है।",
-        "AR": "لا تلعب هنا.",
-        "FA": "اینجا بازی نکن."
-      }
-    },
-    {
-      "kanji": "それは駄目です。",
-      "furigana": "それは駄目(だめ)です。",
-      "translations": {
-        "EN": "That's not allowed.",
-        "ID": "Itu tidak boleh.",
-        "ES": "Eso no está permitido.",
-        "VI": "Đó không được.",
-        "FR": "Ce n'est pas permis.",
-        "NE": "त्यो अनुमति छैन।",
-        "BN": "এটা চলবে না।",
-        "ZH": "那不行。",
-        "KO": "그건 안 돼요.",
-        "TL": "Hindi pwede iyon.",
-        "MY": "ဒါလုပ်လို့မရဘူး။",
-        "HI": "वह नहीं चलेगा।",
-        "AR": "هذا ممنوع.",
-        "FA": "آن مجاز نیست."
-      }
-    },
-    {
-      "kanji": "ここでは駄目です。",
-      "furigana": "ここでは駄目(だめ)です。",
-      "translations": {
-        "EN": "It's not allowed here.",
-        "ID": "Di sini tidak boleh.",
-        "ES": "Aquí no está permitido.",
-        "VI": "Ở đây không được.",
-        "FR": "Ici, ce n'est pas permis.",
-        "NE": "यहाँ हुँदैन।",
-        "BN": "এখানে চলবে না।",
-        "ZH": "这里不行。",
-        "KO": "여기서는 안 돼요.",
-        "TL": "Dito hindi pwede.",
-        "MY": "ဒီမှာ မရပါ။",
-        "HI": "यहाँ नहीं चलेगा।",
-        "AR": "هنا غير مسموح.",
-        "FA": "اینجا مجاز نیست."
-      }
-    },
-    {
-      "kanji": "牛乳が駄目になる。",
-      "furigana": "牛乳(ぎゅうにゅう)が駄目(だめ)になる。",
-      "translations": {
-        "EN": "The milk goes bad.",
-        "ID": "Susu menjadi basi.",
-        "ES": "La leche se echa a perder.",
-        "VI": "Sữa bị hỏng.",
-        "FR": "Le lait devient mauvais.",
-        "NE": "दूध बिग्रन्छ।",
-        "BN": "দুধ নষ্ট হয়ে যায়।",
-        "ZH": "牛奶变坏了。",
-        "KO": "우유가 상해요.",
-        "TL": "Nasisira ang gatas.",
-        "MY": "နို့ပျက်သွားတယ်။",
-        "HI": "दूध खराब हो जाता है।",
-        "AR": "الحليب يفسد.",
-        "FA": "شیر خراب می‌شود."
-      }
-    },
-    {
-      "kanji": "雨で本を駄目にした。",
-      "furigana": "雨(あめ)で本(ほん)を駄目(だめ)にした。",
-      "translations": {
-        "EN": "The rain ruined the book.",
-        "ID": "Hujan merusak bukunya.",
-        "ES": "La lluvia arruinó el libro.",
-        "VI": "Mưa làm hỏng cuốn sách.",
-        "FR": "La pluie a abîmé le livre.",
-        "NE": "बाराले किताब बिगारे।",
-        "BN": "বৃষ্টি বইটি নষ্ট করে দিয়েছে।",
-        "ZH": "雨把书弄坏了。",
-        "KO": "비 때문에 책을 망가뜨렸어요.",
-        "TL": "Sinira ng ulan ang libro.",
-        "MY": "မိုးကြောင့် စာအုပ် ပျက်သွားတယ်။",
-        "HI": "बारिश ने किताब खराब कर दी।",
-        "AR": "المطر أفسد الكتاب.",
-        "FA": "باران کتاب را خراب کرد."
-      }
-    },
-    {
-      "kanji": "それはぜったい駄目です。",
-      "furigana": "それはぜったい駄目(だめ)です。",
-      "translations": {
-        "EN": "That's absolutely not allowed.",
-        "ID": "Itu benar-benar tidak boleh.",
-        "ES": "Eso está totalmente prohibido.",
-        "VI": "Cái đó tuyệt đối không được.",
-        "FR": "C'est absolument interdit.",
-        "NE": "यो पक्कै पनि हुँदैन।",
-        "BN": "এটা একদম চলবে না।",
-        "ZH": "那绝对不行。",
-        "KO": "그건 절대 안 돼요.",
-        "TL": "Hindi talaga iyon pwede.",
-        "MY": "ဒါကို အပြင်းအထန် တားမြစ်ထားပါတယ်။",
-        "HI": "यह बिल्कुल मना है।",
-        "AR": "هذا ممنوع تمامًا.",
-        "FA": "این قطعا ممنوع است."
-      }
-    },
-    {
-      "kanji": "きょうは駄目そうだ。",
-      "furigana": "きょうは駄目(だめ)そうだ。",
-      "translations": {
-        "EN": "It looks like today won't work.",
-        "ID": "Sepertinya hari ini tidak bisa.",
-        "ES": "Parece que hoy no va a funcionar.",
-        "VI": "Có vẻ hôm nay không được.",
-        "FR": "On dirait que ça ne marche pas aujourd'hui.",
-        "NE": "आज सम्भव नहोला जस्तो देखिन्छ।",
-        "BN": "আজ সম্ভবত হবে না।",
-        "ZH": "今天看起来不行。",
-        "KO": "오늘은 안 될 것 같다.",
-        "TL": "Mukhang hindi pwede ngayon.",
-        "MY": "ဒီနေ့ မဖြစ်နိုင်ဘူးလို့ မြင်ပါတယ်။",
-        "HI": "आज शायद नहीं होगा।",
-        "AR": "يبدو أن اليوم لن ينجح.",
-        "FA": "به نظر می‌رسد امروز ممکن نیست."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "no good": {
-      "EN": "no good",
-      "ID": "tidak baik",
-      "ES": "no bueno",
-      "VI": "không tốt",
-      "FR": "pas bon",
-      "NE": "बेकार",
-      "BN": "খারাপ",
-      "ZH": "不行",
-      "KO": "안 돼",
-      "TL": "hindi maganda",
-      "MY": "မကောင်း",
-      "HI": "ठीक नहीं",
-      "AR": "غير جيد",
-      "FA": "بد"
-    },
-    "hopeless": {
-      "EN": "hopeless",
-      "ID": "putus asa",
-      "ES": "sin esperanza",
-      "VI": "vô vọng",
-      "FR": "sans espoir",
-      "NE": "निराश",
-      "BN": "নিরাশ",
-      "ZH": "绝望的",
-      "KO": "절망적인",
-      "TL": "walang pag-asa",
-      "MY": "မျှော်လင့်ချက်မရှိသော",
-      "HI": "निराश",
-      "AR": "يائس",
-      "FA": "بی‌امید"
-    },
-    "cannot": {
-      "EN": "cannot",
-      "ID": "tidak bisa",
-      "ES": "no puede",
-      "VI": "không thể",
-      "FR": "ne peut pas",
-      "NE": "सक्दैन",
-      "BN": "পারি না",
-      "ZH": "不能",
-      "KO": "할 수 없다",
-      "TL": "hindi maaaring",
-      "MY": "မဖြစ်နိုင်",
-      "HI": "नहीं कर सकता",
-      "AR": "لا يمكن",
-      "FA": "نمی‌تواند"
-    },
-    "neutral point": {
-      "EN": "No good",
-      "ID": "Tidak bagus",
-      "ES": "No sirve",
-      "VI": "Không tốt",
-      "FR": "Pas bon",
-      "NE": "बेकार",
-      "BN": "খারাপ",
-      "ZH": "不行",
-      "KO": "안 됨",
-      "TL": "Hindi maganda",
-      "MY": "မကောင်း",
-      "HI": "ठीक नहीं",
-      "AR": "لا يصلح",
-      "FA": "بی‌فایده"
-    },
-    "no!": {
-      "EN": "No!",
-      "ID": "Tidak!",
-      "ES": "¡No!",
-      "VI": "Không!",
-      "FR": "Non!",
-      "NE": "होइन!",
-      "BN": "না!",
-      "ZH": "不行!",
-      "KO": "안돼!",
-      "TL": "Hindi!",
-      "MY": "မဟုတ်ဘူး!",
-      "HI": "नहीं!",
-      "AR": "لا!",
-      "FA": "نه!"
-    }
-  },
-  "jisho_data": {
-    "slug": "駄目",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "駄目",
-        "reading": "だめ"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "no good",
-          "not serving its purpose",
-          "useless",
-          "broken"
+    "version": "0.3.0",
+    "word": "駄目",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/rc7zPyABUlY",
+    "in_db": true,
+    "kanji": "駄目",
+    "reading": "だめ",
+    "introduction_japanese": "",
+    "introduction_english": "Here’s the term we’ll focus on today: だめ which you will often hear in warnings, on signs, in casual conversations with friends and family, from parents or teachers, and when talking about outcomes at work or school.",
+    "meanings": [
+        [
+            "no good",
+            "not serving its purpose",
+            "useless",
+            "broken"
         ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi), Noun"
+        [
+            "hopeless",
+            "wasted",
+            "in vain",
+            "purposeless"
         ],
-        "links": [],
+        [
+            "cannot",
+            "must not",
+            "not allowed"
+        ],
+        [
+            "neutral point"
+        ],
+        [
+            "no!",
+            "stop!"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word だめ means not allowed, unacceptable, or no good and can be used to refuse permission, to say something failed or is useless, or to warn someone that something should not be done.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "駄",
+            "common_words": [
+                "駄菓子: penny candy",
+                "駄作: poor piece of work"
+            ]
+        },
+        {
+            "kanji": "目",
+            "common_words": [
+                "目的: purpose",
+                "目次: table of contents"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "行けない : いけない : bad"
+    ],
+    "synonym_explanation": "The most common synonyms of the だめ are いけない. いけない often emphasizes that something is not allowed or inappropriate and can sound a bit softer or more formal in some situations, while だめ is broader and can also mean useless or failed.",
+    "antonyms": [
+        "良い : よい : good"
+    ],
+    "antonym_explanation": "The most common antonyms of the だめ are いい. いい means good or acceptable and is used to say something is allowed or satisfactory, the opposite of だめ which marks something as unacceptable, unusable, or failed.",
+    "collocations": [
+        {
+            "kanji": "だめだ",
+            "furigana": "だめだ",
+            "translations": {}
+        },
+        {
+            "kanji": "だめです",
+            "furigana": "だめです",
+            "translations": {}
+        },
+        {
+            "kanji": "だめだよ",
+            "furigana": "だめだよ",
+            "translations": {}
+        },
+        {
+            "kanji": "それはだめ",
+            "furigana": "それはだめ",
+            "translations": {}
+        },
+        {
+            "kanji": "ここではだめ",
+            "furigana": "ここではだめ",
+            "translations": {}
+        },
+        {
+            "kanji": "だめになる",
+            "furigana": "だめになる",
+            "translations": {}
+        },
+        {
+            "kanji": "だめにする",
+            "furigana": "だめにする",
+            "translations": {}
+        },
+        {
+            "kanji": "ぜったいだめ",
+            "furigana": "ぜったいだめ",
+            "translations": {}
+        },
+        {
+            "kanji": "だめそうだ",
+            "furigana": "だめそうだ",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "それは駄目だ。",
+            "furigana": "それは駄目(だめ)だ。",
+            "translations": {
+                "EN": "That's no good.",
+                "ID": "Itu tidak bagus.",
+                "ES": "Eso no está bien.",
+                "VI": "Cái đó không được.",
+                "FR": "Ce n'est pas bon.",
+                "NE": "त्यो ठीक छैन।",
+                "BN": "এটা ঠিক না।",
+                "ZH": "那不行。",
+                "KO": "그건 안 돼.",
+                "TL": "Hindi pwede iyon.",
+                "MY": "ဒါ မရဘူး။",
+                "HI": "यह ठीक नहीं है।",
+                "AR": "هذا لا يصلح.",
+                "FA": "آن خوب نیست."
+            }
+        },
+        {
+            "kanji": "これは駄目です。",
+            "furigana": "これは駄目(だめ)です。",
+            "translations": {
+                "EN": "This is no good.",
+                "ID": "Ini tidak bagus.",
+                "ES": "Esto no está bien.",
+                "VI": "Cái này không được.",
+                "FR": "Ce n'est pas bon.",
+                "NE": "यो राम्रो छैन।",
+                "BN": "এটি ঠিক না।",
+                "ZH": "这个不行。",
+                "KO": "이것은 안 돼요.",
+                "TL": "Ito ay hindi maganda.",
+                "MY": "ဒါက မကောင်းဘူး။",
+                "HI": "यह ठीक नहीं है।",
+                "AR": "هذا غير جيد.",
+                "FA": "این خوب نیست."
+            }
+        },
+        {
+            "kanji": "ここで遊ぶのは駄目だよ。",
+            "furigana": "ここで遊(あそ)ぶのは駄目(だめ)だよ。",
+            "translations": {
+                "EN": "Don't play here.",
+                "ID": "Jangan main di sini.",
+                "ES": "No juegues aquí.",
+                "VI": "Đừng chơi ở đây.",
+                "FR": "Ne joue pas ici.",
+                "NE": "यहाँ खेल्नु हुँदैन।",
+                "BN": "এখানে খেলো না।",
+                "ZH": "不要在这里玩。",
+                "KO": "여기서 놀면 안 돼.",
+                "TL": "Huwag maglaro dito.",
+                "MY": "ဒီမှာ ကစားမနေပါနဲ့။",
+                "HI": "यहाँ खेलना मना है।",
+                "AR": "لا تلعب هنا.",
+                "FA": "اینجا بازی نکن."
+            }
+        },
+        {
+            "kanji": "それは駄目です。",
+            "furigana": "それは駄目(だめ)です。",
+            "translations": {
+                "EN": "That's not allowed.",
+                "ID": "Itu tidak boleh.",
+                "ES": "Eso no está permitido.",
+                "VI": "Đó không được.",
+                "FR": "Ce n'est pas permis.",
+                "NE": "त्यो अनुमति छैन।",
+                "BN": "এটা চলবে না।",
+                "ZH": "那不行。",
+                "KO": "그건 안 돼요.",
+                "TL": "Hindi pwede iyon.",
+                "MY": "ဒါလုပ်လို့မရဘူး။",
+                "HI": "वह नहीं चलेगा।",
+                "AR": "هذا ممنوع.",
+                "FA": "آن مجاز نیست."
+            }
+        },
+        {
+            "kanji": "ここでは駄目です。",
+            "furigana": "ここでは駄目(だめ)です。",
+            "translations": {
+                "EN": "It's not allowed here.",
+                "ID": "Di sini tidak boleh.",
+                "ES": "Aquí no está permitido.",
+                "VI": "Ở đây không được.",
+                "FR": "Ici, ce n'est pas permis.",
+                "NE": "यहाँ हुँदैन।",
+                "BN": "এখানে চলবে না।",
+                "ZH": "这里不行。",
+                "KO": "여기서는 안 돼요.",
+                "TL": "Dito hindi pwede.",
+                "MY": "ဒီမှာ မရပါ။",
+                "HI": "यहाँ नहीं चलेगा।",
+                "AR": "هنا غير مسموح.",
+                "FA": "اینجا مجاز نیست."
+            }
+        },
+        {
+            "kanji": "牛乳が駄目になる。",
+            "furigana": "牛乳(ぎゅうにゅう)が駄目(だめ)になる。",
+            "translations": {
+                "EN": "The milk goes bad.",
+                "ID": "Susu menjadi basi.",
+                "ES": "La leche se echa a perder.",
+                "VI": "Sữa bị hỏng.",
+                "FR": "Le lait devient mauvais.",
+                "NE": "दूध बिग्रन्छ।",
+                "BN": "দুধ নষ্ট হয়ে যায়।",
+                "ZH": "牛奶变坏了。",
+                "KO": "우유가 상해요.",
+                "TL": "Nasisira ang gatas.",
+                "MY": "နို့ပျက်သွားတယ်။",
+                "HI": "दूध खराब हो जाता है।",
+                "AR": "الحليب يفسد.",
+                "FA": "شیر خراب می‌شود."
+            }
+        },
+        {
+            "kanji": "雨で本を駄目にした。",
+            "furigana": "雨(あめ)で本(ほん)を駄目(だめ)にした。",
+            "translations": {
+                "EN": "The rain ruined the book.",
+                "ID": "Hujan merusak bukunya.",
+                "ES": "La lluvia arruinó el libro.",
+                "VI": "Mưa làm hỏng cuốn sách.",
+                "FR": "La pluie a abîmé le livre.",
+                "NE": "बाराले किताब बिगारे।",
+                "BN": "বৃষ্টি বইটি নষ্ট করে দিয়েছে।",
+                "ZH": "雨把书弄坏了。",
+                "KO": "비 때문에 책을 망가뜨렸어요.",
+                "TL": "Sinira ng ulan ang libro.",
+                "MY": "မိုးကြောင့် စာအုပ် ပျက်သွားတယ်။",
+                "HI": "बारिश ने किताब खराब कर दी।",
+                "AR": "المطر أفسد الكتاب.",
+                "FA": "باران کتاب را خراب کرد."
+            }
+        },
+        {
+            "kanji": "それはぜったい駄目です。",
+            "furigana": "それはぜったい駄目(だめ)です。",
+            "translations": {
+                "EN": "That's absolutely not allowed.",
+                "ID": "Itu benar-benar tidak boleh.",
+                "ES": "Eso está totalmente prohibido.",
+                "VI": "Cái đó tuyệt đối không được.",
+                "FR": "C'est absolument interdit.",
+                "NE": "यो पक्कै पनि हुँदैन।",
+                "BN": "এটা একদম চলবে না।",
+                "ZH": "那绝对不行。",
+                "KO": "그건 절대 안 돼요.",
+                "TL": "Hindi talaga iyon pwede.",
+                "MY": "ဒါကို အပြင်းအထန် တားမြစ်ထားပါတယ်။",
+                "HI": "यह बिल्कुल मना है।",
+                "AR": "هذا ممنوع تمامًا.",
+                "FA": "این قطعا ممنوع است."
+            }
+        },
+        {
+            "kanji": "きょうは駄目そうだ。",
+            "furigana": "きょうは駄目(だめ)そうだ。",
+            "translations": {
+                "EN": "It looks like today won't work.",
+                "ID": "Sepertinya hari ini tidak bisa.",
+                "ES": "Parece que hoy no va a funcionar.",
+                "VI": "Có vẻ hôm nay không được.",
+                "FR": "On dirait que ça ne marche pas aujourd'hui.",
+                "NE": "आज सम्भव नहोला जस्तो देखिन्छ।",
+                "BN": "আজ সম্ভবত হবে না।",
+                "ZH": "今天看起来不行。",
+                "KO": "오늘은 안 될 것 같다.",
+                "TL": "Mukhang hindi pwede ngayon.",
+                "MY": "ဒီနေ့ မဖြစ်နိုင်ဘူးလို့ မြင်ပါတယ်။",
+                "HI": "आज शायद नहीं होगा।",
+                "AR": "يبدو أن اليوم لن ينجح.",
+                "FA": "به نظر می‌رسد امروز ممکن نیست."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "no good",
+                "not serving its purpose",
+                "useless",
+                "broken"
+            ],
+            "ID": "tidak baik",
+            "ES": "no bueno",
+            "VI": "không tốt",
+            "FR": "pas bon",
+            "NE": "बेकार",
+            "BN": "খারাপ",
+            "ZH": "不行",
+            "KO": "안 돼",
+            "TL": "hindi maganda",
+            "MY": "မကောင်း",
+            "HI": "ठीक नहीं",
+            "AR": "غير جيد",
+            "FA": "بد"
+        },
+        {
+            "EN": [
+                "hopeless",
+                "wasted",
+                "in vain",
+                "purposeless"
+            ],
+            "ID": "putus asa",
+            "ES": "sin esperanza",
+            "VI": "vô vọng",
+            "FR": "sans espoir",
+            "NE": "निराश",
+            "BN": "নিরাশ",
+            "ZH": "绝望的",
+            "KO": "절망적인",
+            "TL": "walang pag-asa",
+            "MY": "မျှော်လင့်ချက်မရှိသော",
+            "HI": "निराश",
+            "AR": "يائس",
+            "FA": "بی‌امید"
+        },
+        {
+            "EN": [
+                "cannot",
+                "must not",
+                "not allowed"
+            ],
+            "ID": "tidak bisa",
+            "ES": "no puede",
+            "VI": "không thể",
+            "FR": "ne peut pas",
+            "NE": "सक्दैन",
+            "BN": "পারি না",
+            "ZH": "不能",
+            "KO": "할 수 없다",
+            "TL": "hindi maaaring",
+            "MY": "မဖြစ်နိုင်",
+            "HI": "नहीं कर सकता",
+            "AR": "لا يمكن",
+            "FA": "نمی‌تواند"
+        },
+        {
+            "EN": [
+                "neutral point"
+            ],
+            "ID": "Tidak bagus",
+            "ES": "No sirve",
+            "VI": "Không tốt",
+            "FR": "Pas bon",
+            "NE": "बेकार",
+            "BN": "খারাপ",
+            "ZH": "不行",
+            "KO": "안 됨",
+            "TL": "Hindi maganda",
+            "MY": "မကောင်း",
+            "HI": "ठीक नहीं",
+            "AR": "لا يصلح",
+            "FA": "بی‌فایده"
+        },
+        {
+            "EN": [
+                "no!",
+                "stop!"
+            ],
+            "ID": "Tidak!",
+            "ES": "¡No!",
+            "VI": "Không!",
+            "FR": "Non!",
+            "NE": "होइन!",
+            "BN": "না!",
+            "ZH": "不行!",
+            "KO": "안돼!",
+            "TL": "Hindi!",
+            "MY": "မဟုတ်ဘူး!",
+            "HI": "नहीं!",
+            "AR": "لا!",
+            "FA": "نه!"
+        }
+    ],
+    "jisho_data": {
+        "slug": "駄目",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "hopeless",
-          "wasted",
-          "in vain",
-          "purposeless"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi), Noun"
+        "japanese": [
+            {
+                "word": "駄目",
+                "reading": "だめ"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "cannot",
-          "must not",
-          "not allowed"
-        ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi), Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "neutral point"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "no!",
-          "stop!"
-        ],
-        "parts_of_speech": [
-          ""
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "駄",
-    "目"
-  ],
-  "kanji_data": {
-    "駄": {
-      "meanings": [
-        "burdensome",
-        "horse load",
-        "pack horse",
-        "send by horse",
-        "trivial",
-        "worthless"
-      ],
-      "on_readings": [
-        "タ",
-        "ダ"
-      ],
-      "kun_readings": [],
-      "stroke_count": 14,
-      "jlpt": 1,
-      "freq_mainichi_shinbun": 1500,
-      "unicode": "99C4",
-      "grade": 8
+        "senses": [
+            {
+                "english_definitions": [
+                    "no good",
+                    "not serving its purpose",
+                    "useless",
+                    "broken"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "hopeless",
+                    "wasted",
+                    "in vain",
+                    "purposeless"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "cannot",
+                    "must not",
+                    "not allowed"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "neutral point"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "no!",
+                    "stop!"
+                ],
+                "parts_of_speech": [
+                    ""
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "目": {
-      "meanings": [
-        "care",
-        "class",
-        "experience",
-        "eye",
-        "favor",
-        "insight",
-        "look"
-      ],
-      "on_readings": [
-        "ボク",
-        "モク"
-      ],
-      "kun_readings": [
-        "-め",
-        "ま-",
-        "め"
-      ],
-      "stroke_count": 5,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 76,
-      "unicode": "76EE",
-      "grade": 1
+    "kanji_list": [
+        "駄",
+        "目"
+    ],
+    "kanji_data": {
+        "駄": {
+            "meanings": [
+                "burdensome",
+                "horse load",
+                "pack horse",
+                "send by horse",
+                "trivial",
+                "worthless"
+            ],
+            "on_readings": [
+                "タ",
+                "ダ"
+            ],
+            "kun_readings": [],
+            "stroke_count": 14,
+            "jlpt": 1,
+            "freq_mainichi_shinbun": 1500,
+            "unicode": "99C4",
+            "grade": 8
+        },
+        "目": {
+            "meanings": [
+                "care",
+                "class",
+                "experience",
+                "eye",
+                "favor",
+                "insight",
+                "look"
+            ],
+            "on_readings": [
+                "ボク",
+                "モク"
+            ],
+            "kun_readings": [
+                "-め",
+                "ま-",
+                "め"
+            ],
+            "stroke_count": 5,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 76,
+            "unicode": "76EE",
+            "grade": 1
+        }
     }
-  }
 }

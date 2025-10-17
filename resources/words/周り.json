@@ -1,291 +1,302 @@
 {
-  "version": "0.3.0",
-  "word": "周り",
-  "jlpt_level": 4,
-  "youtube_link": "https://youtu.be/ElPqt_mW18I",
-  "in_db": true,
-  "kanji": "周り",
-  "reading": "まわり",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is まわり which you will often hear in conversations describing location, neighborhood settings, and social dynamics.",
-  "meanings": [
-    [
-      "circumference",
-      "girth"
-    ],
-    [
-      "surroundings",
-      "neighbourhood",
-      "neighborhood",
-      "vicinity"
-    ],
-    [
-      "people surrounding oneself",
-      "surrounding circumstances"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"まわり\" means the area or space that surrounds someone or something, basically the surroundings. It can refer to the objects or environment near you, your immediate vicinity, or even people around you. It can also imply how things are positioned around a central point, emphasizing the aspect of encirclement.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "周",
-      "common_words": [
-        "周期: cycle",
-        "周年: whole year"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "周囲 : しゅうい : surroundings"
-  ],
-  "synonym_explanation": "The most common synonym of the word \"まわり\" is \"しゅうい.\" While both refer to surroundings or the environment around something, \"しゅうい\" often has a more formal tone and can imply a broader area around something. ",
-  "antonyms": [
-    "中央 : ちゅうおう : centre"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"まわり\" is \"ちゅうおう.\" While \"まわり\" refers to the surroundings or the area around something, \"ちゅうおう\" means the center or the middle point where things converge. ",
-  "collocations": [
-    {
-      "kanji": "まわりのひとたち",
-      "furigana": "まわりのひとたち",
-      "translations": {}
-    },
-    {
-      "kanji": "まわりをみわたす",
-      "furigana": "まわりをみわたす",
-      "translations": {}
-    },
-    {
-      "kanji": "まわりをかこむ",
-      "furigana": "まわりをかこむ",
-      "translations": {}
-    },
-    {
-      "kanji": "まわりにものがたくさんある",
-      "furigana": "まわりにものがたくさんある",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "周りの人たちは親切です。",
-      "furigana": "周(まわ)りの人(ひと)たちは親切(しんせつ)です。",
-      "translations": {
-        "EN": "The people around are kind.",
-        "ID": "Orang-orang di sekitar itu baik.",
-        "ES": "Las personas alrededor son amables.",
-        "VI": "Những người xung quanh đều tốt bụng.",
-        "FR": "Les personnes autour sont gentilles.",
-        "NE": "वरिपरिका मानिसहरू दयालु छन्।",
-        "BN": "পাশের মানুষরা দয়ালু।",
-        "ZH": "周围的人都很亲切。",
-        "KO": "주변 사람들은 친절합니다.",
-        "TL": "Mabait ang mga tao sa paligid.",
-        "MY": "ေနရာေဘး ဦးႀကီးတို႕သည္ ကုသၫၫိ်ရင့္မင္ပါတယ္။",
-        "HI": "आसपास के लोग दयालु हैं।",
-        "AR": "الناس المحيطون لطفاء.",
-        "FA": "مردم اطراف مهربان هستند."
-      }
-    },
-    {
-      "kanji": "周りを見渡すと人がたくさんいた。",
-      "furigana": "周り(まわり)を見渡(みわた)すと人(ひと)がたくさんいた。",
-      "translations": {
-        "EN": "When I looked around, there were many people.",
-        "ID": "Ketika saya melihat-lihat, ada banyak orang.",
-        "ES": "Cuando miré a mi alrededor, había mucha gente.",
-        "VI": "Khi tôi nhìn quanh, có rất nhiều người.",
-        "FR": "Quand j'ai regardé autour de moi, il y avait beaucoup de gens.",
-        "NE": "वरिपरि हेर्दा, धेरै मान्छेहरू थिए।",
-        "BN": "চারদিকে তাকালে, অনেক লোকে দেখতে পেলাম।",
-        "ZH": "环顾四周，有很多人。",
-        "KO": "주위를 둘러보니 많은 사람들이 있었다.",
-        "TL": "Nang tumingin ako sa paligid, maraming tao.",
-        "MY": "ကျွန်တော်ကြည့်ကြည့်မိတော့ လူများခဲ့ပါတယ်။",
-        "HI": "जब मैंने चारों ओर देखा, तो बहुत लोग थे।",
-        "AR": "عندما نظرت إلى جوانب رأيت الكثير من الناس.",
-        "FA": "وقتی به اطراف نگاه کردم، خیلی فرد بود."
-      }
-    },
-    {
-      "kanji": "机の周りを囲む。",
-      "furigana": "机(つくえ)の周(まわ)りを囲(かこ)む。",
-      "translations": {
-        "EN": "Surround the desk.",
-        "ID": "Mengelilingi meja.",
-        "ES": "Rodea la mesa.",
-        "VI": "Vây quanh bàn.",
-        "FR": "Entourez le bureau.",
-        "NE": "टेबललाई घेर्नुहोस्।",
-        "BN": "ডেস্কটি ঘিরে ফেলুন।",
-        "ZH": "围住桌子。",
-        "KO": "책상을 둘러싸다.",
-        "TL": "Palibutan ang mesa.",
-        "MY": "စားပွဲကို ဝိုင်းထားပါ။",
-        "HI": "टेबल के चारों ओर घेर लें।",
-        "AR": "أحيطوا بالطاولة.",
-        "FA": "میز را احاطه کنید."
-      }
-    },
-    {
-      "kanji": "周りにものがたくさんある。",
-      "furigana": "周り(まわり)に ものが たくさん ある。",
-      "translations": {
-        "EN": "There are many things around.",
-        "ID": "Banyak barang di sekitarnya.",
-        "ES": "Hay muchas cosas alrededor.",
-        "VI": "Có nhiều thứ xung quanh.",
-        "FR": "Il y a beaucoup de choses autour.",
-        "NE": "वरिपरि धेरै कुरा छन्।",
-        "BN": "চারপাশে অনেক জিনিস আছে।",
-        "ZH": "周围有很多东西。",
-        "KO": "주변에 물건이 많이 있어요.",
-        "TL": "Maraming mga bagay sa paligid.",
-        "MY": "ပတ်ဝန်းကျင်မှာ အရာတွေ အများကြီး ရှိပါတယ်။",
-        "HI": "आस-पास बहुत सारी चीज़ें हैं।",
-        "AR": "هناك العديد من الأشياء حولها.",
-        "FA": "اشیای زیادی اطراف وجود دارد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "circumference": {
-      "EN": "Circumference",
-      "ID": "Lingkaran",
-      "ES": "Circunferencia",
-      "VI": "Chu vi",
-      "FR": "Circonférence",
-      "NE": "चाल",
-      "BN": "পরিধি",
-      "ZH": "周长",
-      "KO": "둘레",
-      "TL": "Paligid",
-      "MY": "လှည့်ပတ်ပတ်လည်",
-      "HI": "परिधि",
-      "AR": "محیط",
-      "FA": "محیط"
-    },
-    "surroundings": {
-      "EN": "surroundings",
-      "ID": "sekitar",
-      "ES": "alrededores",
-      "VI": "xung quanh",
-      "FR": "alentours",
-      "NE": "वरपर",
-      "BN": "পাশাপাশি",
-      "ZH": "周围",
-      "KO": "주위",
-      "TL": "paligid",
-      "MY": "ပတ်ပတ်လည်",
-      "HI": "आस-पास का इलाका",
-      "AR": "المحيط",
-      "FA": "محیط"
-    },
-    "people surrounding oneself": {
-      "EN": "People surrounding oneself",
-      "ID": "Orang-orang yang mengelilingi diri sendiri",
-      "ES": "Personas que nos rodean",
-      "VI": "Những người xung quanh mình",
-      "FR": "Les personnes qui nous entourent",
-      "NE": "आफ्नो वरपरका मानिसहरू",
-      "BN": "নিজেকে ঘিরে থাকা মানুষসমূহ",
-      "ZH": "周围的人",
-      "KO": "주위에 있는 사람들",
-      "TL": "Mga tao na nakapaligid sa sarili",
-      "MY": "ပတ်ဝန်းကျင်ယှဉ်တွဲနေသူများ",
-      "HI": "चारों ओर के लोग",
-      "AR": "الأشخاص المحيطين بالمرء",
-      "FA": "افرادی که دور و بر ما هستند"
-    }
-  },
-  "jisho_data": {
-    "slug": "周り",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n4"
-    ],
-    "japanese": [
-      {
-        "word": "周り",
-        "reading": "まわり"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "circumference",
-          "girth"
+    "version": "0.3.0",
+    "word": "周り",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/ElPqt_mW18I",
+    "in_db": true,
+    "kanji": "周り",
+    "reading": "まわり",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is まわり which you will often hear in conversations describing location, neighborhood settings, and social dynamics.",
+    "meanings": [
+        [
+            "circumference",
+            "girth"
         ],
-        "parts_of_speech": [
-          "Noun"
+        [
+            "surroundings",
+            "neighbourhood",
+            "neighborhood",
+            "vicinity"
         ],
-        "links": [],
+        [
+            "people surrounding oneself",
+            "surrounding circumstances"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"まわり\" means the area or space that surrounds someone or something, basically the surroundings. It can refer to the objects or environment near you, your immediate vicinity, or even people around you. It can also imply how things are positioned around a central point, emphasizing the aspect of encirclement.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "周",
+            "common_words": [
+                "周期: cycle",
+                "周年: whole year"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "周囲 : しゅうい : surroundings"
+    ],
+    "synonym_explanation": "The most common synonym of the word \"まわり\" is \"しゅうい.\" While both refer to surroundings or the environment around something, \"しゅうい\" often has a more formal tone and can imply a broader area around something. ",
+    "antonyms": [
+        "中央 : ちゅうおう : centre"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"まわり\" is \"ちゅうおう.\" While \"まわり\" refers to the surroundings or the area around something, \"ちゅうおう\" means the center or the middle point where things converge. ",
+    "collocations": [
+        {
+            "kanji": "まわりのひとたち",
+            "furigana": "まわりのひとたち",
+            "translations": {}
+        },
+        {
+            "kanji": "まわりをみわたす",
+            "furigana": "まわりをみわたす",
+            "translations": {}
+        },
+        {
+            "kanji": "まわりをかこむ",
+            "furigana": "まわりをかこむ",
+            "translations": {}
+        },
+        {
+            "kanji": "まわりにものがたくさんある",
+            "furigana": "まわりにものがたくさんある",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "周りの人たちは親切です。",
+            "furigana": "周(まわ)りの人(ひと)たちは親切(しんせつ)です。",
+            "translations": {
+                "EN": "The people around are kind.",
+                "ID": "Orang-orang di sekitar itu baik.",
+                "ES": "Las personas alrededor son amables.",
+                "VI": "Những người xung quanh đều tốt bụng.",
+                "FR": "Les personnes autour sont gentilles.",
+                "NE": "वरिपरिका मानिसहरू दयालु छन्।",
+                "BN": "পাশের মানুষরা দয়ালু।",
+                "ZH": "周围的人都很亲切。",
+                "KO": "주변 사람들은 친절합니다.",
+                "TL": "Mabait ang mga tao sa paligid.",
+                "MY": "ေနရာေဘး ဦးႀကီးတို႕သည္ ကုသၫၫိ်ရင့္မင္ပါတယ္။",
+                "HI": "आसपास के लोग दयालु हैं।",
+                "AR": "الناس المحيطون لطفاء.",
+                "FA": "مردم اطراف مهربان هستند."
+            }
+        },
+        {
+            "kanji": "周りを見渡すと人がたくさんいた。",
+            "furigana": "周り(まわり)を見渡(みわた)すと人(ひと)がたくさんいた。",
+            "translations": {
+                "EN": "When I looked around, there were many people.",
+                "ID": "Ketika saya melihat-lihat, ada banyak orang.",
+                "ES": "Cuando miré a mi alrededor, había mucha gente.",
+                "VI": "Khi tôi nhìn quanh, có rất nhiều người.",
+                "FR": "Quand j'ai regardé autour de moi, il y avait beaucoup de gens.",
+                "NE": "वरिपरि हेर्दा, धेरै मान्छेहरू थिए।",
+                "BN": "চারদিকে তাকালে, অনেক লোকে দেখতে পেলাম।",
+                "ZH": "环顾四周，有很多人。",
+                "KO": "주위를 둘러보니 많은 사람들이 있었다.",
+                "TL": "Nang tumingin ako sa paligid, maraming tao.",
+                "MY": "ကျွန်တော်ကြည့်ကြည့်မိတော့ လူများခဲ့ပါတယ်။",
+                "HI": "जब मैंने चारों ओर देखा, तो बहुत लोग थे।",
+                "AR": "عندما نظرت إلى جوانب رأيت الكثير من الناس.",
+                "FA": "وقتی به اطراف نگاه کردم، خیلی فرد بود."
+            }
+        },
+        {
+            "kanji": "机の周りを囲む。",
+            "furigana": "机(つくえ)の周(まわ)りを囲(かこ)む。",
+            "translations": {
+                "EN": "Surround the desk.",
+                "ID": "Mengelilingi meja.",
+                "ES": "Rodea la mesa.",
+                "VI": "Vây quanh bàn.",
+                "FR": "Entourez le bureau.",
+                "NE": "टेबललाई घेर्नुहोस्।",
+                "BN": "ডেস্কটি ঘিরে ফেলুন।",
+                "ZH": "围住桌子。",
+                "KO": "책상을 둘러싸다.",
+                "TL": "Palibutan ang mesa.",
+                "MY": "စားပွဲကို ဝိုင်းထားပါ။",
+                "HI": "टेबल के चारों ओर घेर लें।",
+                "AR": "أحيطوا بالطاولة.",
+                "FA": "میز را احاطه کنید."
+            }
+        },
+        {
+            "kanji": "周りにものがたくさんある。",
+            "furigana": "周り(まわり)に ものが たくさん ある。",
+            "translations": {
+                "EN": "There are many things around.",
+                "ID": "Banyak barang di sekitarnya.",
+                "ES": "Hay muchas cosas alrededor.",
+                "VI": "Có nhiều thứ xung quanh.",
+                "FR": "Il y a beaucoup de choses autour.",
+                "NE": "वरिपरि धेरै कुरा छन्।",
+                "BN": "চারপাশে অনেক জিনিস আছে।",
+                "ZH": "周围有很多东西。",
+                "KO": "주변에 물건이 많이 있어요.",
+                "TL": "Maraming mga bagay sa paligid.",
+                "MY": "ပတ်ဝန်းကျင်မှာ အရာတွေ အများကြီး ရှိပါတယ်။",
+                "HI": "आस-पास बहुत सारी चीज़ें हैं।",
+                "AR": "هناك العديد من الأشياء حولها.",
+                "FA": "اشیای زیادی اطراف وجود دارد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "circumference",
+                "girth"
+            ],
+            "ID": "Lingkaran",
+            "ES": "Circunferencia",
+            "VI": "Chu vi",
+            "FR": "Circonférence",
+            "NE": "चाल",
+            "BN": "পরিধি",
+            "ZH": "周长",
+            "KO": "둘레",
+            "TL": "Paligid",
+            "MY": "လှည့်ပတ်ပတ်လည်",
+            "HI": "परिधि",
+            "AR": "محیط",
+            "FA": "محیط"
+        },
+        {
+            "EN": [
+                "surroundings",
+                "neighbourhood",
+                "neighborhood",
+                "vicinity"
+            ],
+            "ID": "sekitar",
+            "ES": "alrededores",
+            "VI": "xung quanh",
+            "FR": "alentours",
+            "NE": "वरपर",
+            "BN": "পাশাপাশি",
+            "ZH": "周围",
+            "KO": "주위",
+            "TL": "paligid",
+            "MY": "ပတ်ပတ်လည်",
+            "HI": "आस-पास का इलाका",
+            "AR": "المحيط",
+            "FA": "محیط"
+        },
+        {
+            "EN": [
+                "people surrounding oneself",
+                "surrounding circumstances"
+            ],
+            "ID": "Orang-orang yang mengelilingi diri sendiri",
+            "ES": "Personas que nos rodean",
+            "VI": "Những người xung quanh mình",
+            "FR": "Les personnes qui nous entourent",
+            "NE": "आफ्नो वरपरका मानिसहरू",
+            "BN": "নিজেকে ঘিরে থাকা মানুষসমূহ",
+            "ZH": "周围的人",
+            "KO": "주위에 있는 사람들",
+            "TL": "Mga tao na nakapaligid sa sarili",
+            "MY": "ပတ်ဝန်းကျင်ယှဉ်တွဲနေသူများ",
+            "HI": "चारों ओर के लोग",
+            "AR": "الأشخاص المحيطين بالمرء",
+            "FA": "افرادی که دور و بر ما هستند"
+        }
+    ],
+    "jisho_data": {
+        "slug": "周り",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "surroundings",
-          "neighbourhood",
-          "neighborhood",
-          "vicinity"
+        "jlpt": [
+            "jlpt-n4"
         ],
-        "parts_of_speech": [
-          "Noun"
+        "japanese": [
+            {
+                "word": "周り",
+                "reading": "まわり"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "people surrounding oneself",
-          "surrounding circumstances"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "周"
-  ],
-  "kanji_data": {
-    "周": {
-      "meanings": [
-        "circuit",
-        "circumference",
-        "lap"
-      ],
-      "on_readings": [
-        "シュウ"
-      ],
-      "kun_readings": [
-        "まわ.り"
-      ],
-      "stroke_count": 8,
-      "jlpt": 2,
-      "freq_mainichi_shinbun": 562,
-      "unicode": "5468",
-      "grade": 4
+        "senses": [
+            {
+                "english_definitions": [
+                    "circumference",
+                    "girth"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "surroundings",
+                    "neighbourhood",
+                    "neighborhood",
+                    "vicinity"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "people surrounding oneself",
+                    "surrounding circumstances"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "周"
+    ],
+    "kanji_data": {
+        "周": {
+            "meanings": [
+                "circuit",
+                "circumference",
+                "lap"
+            ],
+            "on_readings": [
+                "シュウ"
+            ],
+            "kun_readings": [
+                "まわ.り"
+            ],
+            "stroke_count": 8,
+            "jlpt": 2,
+            "freq_mainichi_shinbun": 562,
+            "unicode": "5468",
+            "grade": 4
+        }
     }
-  }
 }

@@ -1,362 +1,380 @@
 {
-  "version": "0.3.0",
-  "word": "加える",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/HqlyNuK_jSk",
-  "in_db": true,
-  "kanji": "加える",
-  "reading": "くわえる",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is くわえる which you will often hear in situations where adding or including something is discussed, such as cooking, group activities, or conversations about joining.",
-  "meanings": [
-    [
-      "to add",
-      "to add up",
-      "to sum up",
-      "to append",
-      "to annex"
-    ],
-    [
-      "to increase",
-      "to gather",
-      "to pick up"
-    ],
-    [
-      "to include",
-      "to count in",
-      "to let join"
-    ],
-    [
-      "to inflict",
-      "to deal",
-      "to give"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word くわえる means to add or to append something, often referring to including additional items or quantities. It can also imply the action of joining something into a group.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "加",
-      "common_words": [
-        "加速: acceleration",
-        "追加: addition"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "殖やす : ふやす : to increase"
-  ],
-  "synonym_explanation": "The most common synonym of the word くわえる is ふやす. While くわえる often implies adding in a more static or one-time manner, ふやす emphasizes the action of increasing or multiplying, often used for quantities or improving numbers.",
-  "antonyms": [],
-  "antonym_explanation": "",
-  "collocations": [
-    {
-      "kanji": "さとうをくわえる",
-      "furigana": "さとうをくわえる",
-      "translations": {}
-    },
-    {
-      "kanji": "かいぎにくわえる",
-      "furigana": "かいぎにくわえる",
-      "translations": {}
-    },
-    {
-      "kanji": "しまりにくわえる",
-      "furigana": "しまりにくわえる",
-      "translations": {}
-    },
-    {
-      "kanji": "めんばをくわえる",
-      "furigana": "めんばをくわえる",
-      "translations": {}
-    },
-    {
-      "kanji": "ひょうかにくわえる",
-      "furigana": "ひょうかにくわえる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "コーヒーに砂糖を加える。",
-      "furigana": "コーヒーに砂糖(さとう)を加(くわ)える。",
-      "translations": {
-        "EN": "Add sugar to the coffee.",
-        "ID": "Tambahkan gula ke dalam kopi.",
-        "ES": "Añadir azúcar al café.",
-        "VI": "Thêm đường vào cà phê.",
-        "FR": "Ajoutez du sucre au café.",
-        "NE": "कफीमा चिनी थप्नुहोस्।",
-        "BN": "কফিতে চিনি যোগ করুন।",
-        "ZH": "在咖啡中加糖。",
-        "KO": "커피에 설탕을 추가하다.",
-        "TL": "Magdagdag ng asukal sa kape.",
-        "MY": "ကော်ဖီထဲမှာ သကြားထည့်ပါ။",
-        "HI": "कॉफी में चीनी डालें।",
-        "AR": "أضف السكر إلى القهوة.",
-        "FA": "شکر را به قهوه اضافه کنید."
-      }
-    },
-    {
-      "kanji": "私は会議に新しいアイデアを加えます。",
-      "furigana": "私(わたし)は会議(かいぎ)に新(あたら)しいアイデアを加(くわ)えます。",
-      "translations": {
-        "EN": "I add new ideas to the meeting.",
-        "ID": "Saya menambahkan ide baru ke dalam rapat.",
-        "ES": "Agrego nuevas ideas a la reunión.",
-        "VI": "Tôi thêm ý tưởng mới vào cuộc họp.",
-        "FR": "J'ajoute de nouvelles idées à la réunion.",
-        "NE": "म बैठकमा नयाँ विचारहरू थप्छु।",
-        "BN": "আমি মিটিংয়ে নতুন আইডিয়া যোগ করি।",
-        "ZH": "我在会议上添加新的想法。",
-        "KO": "나는 회의에 새로운 아이디어를 추가합니다.",
-        "TL": "Nagdagdag ako ng mga bagong ideya sa pulong.",
-        "MY": "ငါက အစည်းအဝေးမှာ အဖွဲ့သစ်တွေ ထည့်ပြောတော့မယ်။",
-        "HI": "मैं बैठक में नए विचार जोड़ता हूँ।",
-        "AR": "أضيف أفكار جديدة إلى الاجتماع.",
-        "FA": "من ایده‌های جدیدی به جلسه اضافه می‌کنم."
-      }
-    },
-    {
-      "kanji": "塩を料理に加えます。",
-      "furigana": "塩(しお)を料理(りょうり)に加(くわ)えます。",
-      "translations": {
-        "EN": "Add salt to the dish.",
-        "ID": "Tambahkan garam ke dalam masakan.",
-        "ES": "Añade sal al plato.",
-        "VI": "Thêm muối vào món ăn.",
-        "FR": "Ajoutez du sel au plat.",
-        "NE": "परिकारमा नुन थप्नुहोस्।",
-        "BN": "ডিশে লবণ যোগ করুন।",
-        "ZH": "在菜里加盐。",
-        "KO": "요리에 소금을 더합니다.",
-        "TL": "Magdagdag ng asin sa ulam.",
-        "MY": "ဟင်းချိုတွင် ဆား ဖြည့်ပါ။",
-        "HI": "बर्तन में नमक डालें।",
-        "AR": "أضف الملح إلى الطبق.",
-        "FA": "به غذا نمک اضافه کنید."
-      }
-    },
-    {
-      "kanji": "新しいメンバーを加える。",
-      "furigana": "新(あたら)しいメンバーを加(くわ)える。",
-      "translations": {
-        "EN": "Add a new member.",
-        "ID": "Tambahkan anggota baru.",
-        "ES": "Agregar un nuevo miembro.",
-        "VI": "Thêm thành viên mới.",
-        "FR": "Ajouter un nouveau membre.",
-        "NE": "नयाँ सदस्य थप्नुहोस्।",
-        "BN": "নতুন সদস্য যোগ করো।",
-        "ZH": "添加新成员。",
-        "KO": "새로운 멤버를 추가하다.",
-        "TL": "Magdagdag ng bagong miyembro.",
-        "MY": "အသစ်သောအဖွဲ့ဝင်ကိုထည့်ပါ။",
-        "HI": "एक नया सदस्य जोड़ें।",
-        "AR": "إضافة عضو جديد.",
-        "FA": "یک عضو جدید اضافه کنید."
-      }
-    },
-    {
-      "kanji": "彼は新しいアイデアを評価に加えた。",
-      "furigana": "彼(かれ)は新(あたら)しいアイデアを評価(ひょうか)に加(くわ)えた。",
-      "translations": {
-        "EN": "He added a new idea to the evaluation.",
-        "ID": "Dia menambahkan ide baru ke penilaian.",
-        "ES": "Él agregó una nueva idea a la evaluación.",
-        "VI": "Anh ấy đã thêm một ý tưởng mới vào đánh giá.",
-        "FR": "Il a ajouté une nouvelle idée à l'évaluation.",
-        "NE": "उनले मूल्याङ्कनमा नयाँ विचार थपे।",
-        "BN": "তিনি মূল্যায়নে একটি নতুন ধারণা যোগ করেছেন।",
-        "ZH": "他在评估中加入了一个新想法。",
-        "KO": "그는 평가에 새로운 아이디어를 추가했다.",
-        "TL": "Nagdagdag siya ng bagong ideya sa pagsusuri.",
-        "MY": "သူက အဆင့်သတ်မှတ်မှုမှာ အမှတ်အသစ်ထည့်ပြောလိုက်တယ်။",
-        "HI": "उन्होंने मूल्यांकन में एक नया विचार जोड़ा।",
-        "AR": "أضاف هو فكرة جديدة إلى التقييم.",
-        "FA": "او یک ایده جدید به ارزیابی اضافه کرد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to add": {
-      "EN": "The given Japanese word is \"加える,\" which means \"to add.\"",
-      "ID": "Kata Jepang yang diberikan adalah \"加える\", yang berarti \"menambahkan\".",
-      "ES": "La palabra japonesa dada es \"加える\", que significa \"añadir\".",
-      "VI": "Từ tiếng Nhật được đưa ra là \"加える\", có nghĩa là \"thêm vào.\"",
-      "FR": "Le mot japonais donné est \"加える\", qui signifie \"ajouter\".",
-      "NE": "दिइएको जापानी शब्द \"加える\" हो, जसको अर्थ \"थप्नु\" हुन्छ।",
-      "BN": "প্রদত্ত জাপানি শব্দটি হচ্ছে \"加える\", যার অর্থ \"যোগ করা\"।",
-      "ZH": "给出的日语词是“加える”，意思是“添加”。",
-      "KO": "주어진 일본어 단어는 \"加える\"이며, \"추가하다\"라는 의미입니다.",
-      "TL": "Ang salitang Hapon na ibinigay ay \"加える,\" na nangangahulugang \"magdagdag.\"",
-      "MY": "ပေးထားသော ဂျပန်စကားလုံးမှာ \"加える\" ဖြစ်ပြီး \"ထည့်သွင်းသည်\" ဟု အဓိပ္ပါယ်ရသည်။",
-      "HI": "दिया गया जापानी शब्द \"加える\" है, जिसका अर्थ है \"जोड़ना।\"",
-      "AR": "الكلمة اليابانية المقدمة هي \"加える\" والتي تعني \"إضافة\".",
-      "FA": "کلمه ژاپنی ارائه شده \"加える\" است که به معنای \"اضافه کردن\" می باشد."
-    },
-    "to increase": {
-      "EN": "加える : to add; to append; to increase",
-      "ID": "menambah : to add; menyisipkan; meningkatkan",
-      "ES": "agregar : to add; aumentar",
-      "VI": "thêm : to add; tăng cường; nâng cao",
-      "FR": "ajouter : to add; augmenter",
-      "NE": "थप्नु : to add; थप गर्न; बृद्धि गर्नु",
-      "BN": "যোগ করা : to add; বৃদ্ধি করা",
-      "ZH": "添加 : to add; 增加",
-      "KO": "더하다 : to add; 증가시키다",
-      "TL": "magdagdag : to add; itaas; palakihin",
-      "MY": "လေးသော: to add; တိုးရန်; တိုးတက်စေချင်; အသိပေး",
-      "HI": "जोड़ना : to add; सम्मिलित करना; बढ़ाना",
-      "AR": "أضاف : to add; زيادة; توسيع",
-      "FA": "افزودن : to add; کنترل کردن; افزایش دادن"
-    },
-    "to include": {
-      "EN": "to include",
-      "ID": "menyertakan",
-      "ES": "incluir",
-      "VI": "bao gồm",
-      "FR": "inclure",
-      "NE": "समावेश गर्नु",
-      "BN": "অন্তর্ভুক্ত করা",
-      "ZH": "包括",
-      "KO": "포함하다",
-      "TL": "isama",
-      "MY": "ထည့်စရာ",
-      "HI": "शामिल करना",
-      "AR": "يشمل",
-      "FA": "اضافه کردن"
-    },
-    "to inflict": {
-      "EN": "to inflict",
-      "ID": "mengenakan",
-      "ES": "infligir",
-      "VI": "gây ra",
-      "FR": "infliger",
-      "NE": "नकार्नु",
-      "BN": "আরোপ করা",
-      "ZH": "施加",
-      "KO": "가하다",
-      "TL": "magpataw",
-      "MY": "ပေးသည်",
-      "HI": "लगाना",
-      "AR": "إلحاق",
-      "FA": "تحمیل کردن"
-    }
-  },
-  "jisho_data": {
-    "slug": "加える",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "加える",
-        "reading": "くわえる"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to add",
-          "to add up",
-          "to sum up",
-          "to append",
-          "to annex"
+    "version": "0.3.0",
+    "word": "加える",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/HqlyNuK_jSk",
+    "in_db": true,
+    "kanji": "加える",
+    "reading": "くわえる",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is くわえる which you will often hear in situations where adding or including something is discussed, such as cooking, group activities, or conversations about joining.",
+    "meanings": [
+        [
+            "to add",
+            "to add up",
+            "to sum up",
+            "to append",
+            "to annex"
         ],
-        "parts_of_speech": [
-          "Ichidan verb, Transitive verb"
+        [
+            "to increase",
+            "to gather",
+            "to pick up"
         ],
-        "links": [],
+        [
+            "to include",
+            "to count in",
+            "to let join"
+        ],
+        [
+            "to inflict",
+            "to deal",
+            "to give"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word くわえる means to add or to append something, often referring to including additional items or quantities. It can also imply the action of joining something into a group.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "加",
+            "common_words": [
+                "加速: acceleration",
+                "追加: addition"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "殖やす : ふやす : to increase"
+    ],
+    "synonym_explanation": "The most common synonym of the word くわえる is ふやす. While くわえる often implies adding in a more static or one-time manner, ふやす emphasizes the action of increasing or multiplying, often used for quantities or improving numbers.",
+    "antonyms": [],
+    "antonym_explanation": "",
+    "collocations": [
+        {
+            "kanji": "さとうをくわえる",
+            "furigana": "さとうをくわえる",
+            "translations": {}
+        },
+        {
+            "kanji": "かいぎにくわえる",
+            "furigana": "かいぎにくわえる",
+            "translations": {}
+        },
+        {
+            "kanji": "しまりにくわえる",
+            "furigana": "しまりにくわえる",
+            "translations": {}
+        },
+        {
+            "kanji": "めんばをくわえる",
+            "furigana": "めんばをくわえる",
+            "translations": {}
+        },
+        {
+            "kanji": "ひょうかにくわえる",
+            "furigana": "ひょうかにくわえる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "コーヒーに砂糖を加える。",
+            "furigana": "コーヒーに砂糖(さとう)を加(くわ)える。",
+            "translations": {
+                "EN": "Add sugar to the coffee.",
+                "ID": "Tambahkan gula ke dalam kopi.",
+                "ES": "Añadir azúcar al café.",
+                "VI": "Thêm đường vào cà phê.",
+                "FR": "Ajoutez du sucre au café.",
+                "NE": "कफीमा चिनी थप्नुहोस्।",
+                "BN": "কফিতে চিনি যোগ করুন।",
+                "ZH": "在咖啡中加糖。",
+                "KO": "커피에 설탕을 추가하다.",
+                "TL": "Magdagdag ng asukal sa kape.",
+                "MY": "ကော်ဖီထဲမှာ သကြားထည့်ပါ။",
+                "HI": "कॉफी में चीनी डालें।",
+                "AR": "أضف السكر إلى القهوة.",
+                "FA": "شکر را به قهوه اضافه کنید."
+            }
+        },
+        {
+            "kanji": "私は会議に新しいアイデアを加えます。",
+            "furigana": "私(わたし)は会議(かいぎ)に新(あたら)しいアイデアを加(くわ)えます。",
+            "translations": {
+                "EN": "I add new ideas to the meeting.",
+                "ID": "Saya menambahkan ide baru ke dalam rapat.",
+                "ES": "Agrego nuevas ideas a la reunión.",
+                "VI": "Tôi thêm ý tưởng mới vào cuộc họp.",
+                "FR": "J'ajoute de nouvelles idées à la réunion.",
+                "NE": "म बैठकमा नयाँ विचारहरू थप्छु।",
+                "BN": "আমি মিটিংয়ে নতুন আইডিয়া যোগ করি।",
+                "ZH": "我在会议上添加新的想法。",
+                "KO": "나는 회의에 새로운 아이디어를 추가합니다.",
+                "TL": "Nagdagdag ako ng mga bagong ideya sa pulong.",
+                "MY": "ငါက အစည်းအဝေးမှာ အဖွဲ့သစ်တွေ ထည့်ပြောတော့မယ်။",
+                "HI": "मैं बैठक में नए विचार जोड़ता हूँ।",
+                "AR": "أضيف أفكار جديدة إلى الاجتماع.",
+                "FA": "من ایده‌های جدیدی به جلسه اضافه می‌کنم."
+            }
+        },
+        {
+            "kanji": "塩を料理に加えます。",
+            "furigana": "塩(しお)を料理(りょうり)に加(くわ)えます。",
+            "translations": {
+                "EN": "Add salt to the dish.",
+                "ID": "Tambahkan garam ke dalam masakan.",
+                "ES": "Añade sal al plato.",
+                "VI": "Thêm muối vào món ăn.",
+                "FR": "Ajoutez du sel au plat.",
+                "NE": "परिकारमा नुन थप्नुहोस्।",
+                "BN": "ডিশে লবণ যোগ করুন।",
+                "ZH": "在菜里加盐。",
+                "KO": "요리에 소금을 더합니다.",
+                "TL": "Magdagdag ng asin sa ulam.",
+                "MY": "ဟင်းချိုတွင် ဆား ဖြည့်ပါ။",
+                "HI": "बर्तन में नमक डालें।",
+                "AR": "أضف الملح إلى الطبق.",
+                "FA": "به غذا نمک اضافه کنید."
+            }
+        },
+        {
+            "kanji": "新しいメンバーを加える。",
+            "furigana": "新(あたら)しいメンバーを加(くわ)える。",
+            "translations": {
+                "EN": "Add a new member.",
+                "ID": "Tambahkan anggota baru.",
+                "ES": "Agregar un nuevo miembro.",
+                "VI": "Thêm thành viên mới.",
+                "FR": "Ajouter un nouveau membre.",
+                "NE": "नयाँ सदस्य थप्नुहोस्।",
+                "BN": "নতুন সদস্য যোগ করো।",
+                "ZH": "添加新成员。",
+                "KO": "새로운 멤버를 추가하다.",
+                "TL": "Magdagdag ng bagong miyembro.",
+                "MY": "အသစ်သောအဖွဲ့ဝင်ကိုထည့်ပါ။",
+                "HI": "एक नया सदस्य जोड़ें।",
+                "AR": "إضافة عضو جديد.",
+                "FA": "یک عضو جدید اضافه کنید."
+            }
+        },
+        {
+            "kanji": "彼は新しいアイデアを評価に加えた。",
+            "furigana": "彼(かれ)は新(あたら)しいアイデアを評価(ひょうか)に加(くわ)えた。",
+            "translations": {
+                "EN": "He added a new idea to the evaluation.",
+                "ID": "Dia menambahkan ide baru ke penilaian.",
+                "ES": "Él agregó una nueva idea a la evaluación.",
+                "VI": "Anh ấy đã thêm một ý tưởng mới vào đánh giá.",
+                "FR": "Il a ajouté une nouvelle idée à l'évaluation.",
+                "NE": "उनले मूल्याङ्कनमा नयाँ विचार थपे।",
+                "BN": "তিনি মূল্যায়নে একটি নতুন ধারণা যোগ করেছেন।",
+                "ZH": "他在评估中加入了一个新想法。",
+                "KO": "그는 평가에 새로운 아이디어를 추가했다.",
+                "TL": "Nagdagdag siya ng bagong ideya sa pagsusuri.",
+                "MY": "သူက အဆင့်သတ်မှတ်မှုမှာ အမှတ်အသစ်ထည့်ပြောလိုက်တယ်။",
+                "HI": "उन्होंने मूल्यांकन में एक नया विचार जोड़ा।",
+                "AR": "أضاف هو فكرة جديدة إلى التقييم.",
+                "FA": "او یک ایده جدید به ارزیابی اضافه کرد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "to add",
+                "to add up",
+                "to sum up",
+                "to append",
+                "to annex"
+            ],
+            "ID": "Kata Jepang yang diberikan adalah \"加える\", yang berarti \"menambahkan\".",
+            "ES": "La palabra japonesa dada es \"加える\", que significa \"añadir\".",
+            "VI": "Từ tiếng Nhật được đưa ra là \"加える\", có nghĩa là \"thêm vào.\"",
+            "FR": "Le mot japonais donné est \"加える\", qui signifie \"ajouter\".",
+            "NE": "दिइएको जापानी शब्द \"加える\" हो, जसको अर्थ \"थप्नु\" हुन्छ।",
+            "BN": "প্রদত্ত জাপানি শব্দটি হচ্ছে \"加える\", যার অর্থ \"যোগ করা\"।",
+            "ZH": "给出的日语词是“加える”，意思是“添加”。",
+            "KO": "주어진 일본어 단어는 \"加える\"이며, \"추가하다\"라는 의미입니다.",
+            "TL": "Ang salitang Hapon na ibinigay ay \"加える,\" na nangangahulugang \"magdagdag.\"",
+            "MY": "ပေးထားသော ဂျပန်စကားလုံးမှာ \"加える\" ဖြစ်ပြီး \"ထည့်သွင်းသည်\" ဟု အဓိပ္ပါယ်ရသည်။",
+            "HI": "दिया गया जापानी शब्द \"加える\" है, जिसका अर्थ है \"जोड़ना।\"",
+            "AR": "الكلمة اليابانية المقدمة هي \"加える\" والتي تعني \"إضافة\".",
+            "FA": "کلمه ژاپنی ارائه شده \"加える\" است که به معنای \"اضافه کردن\" می باشد."
+        },
+        {
+            "EN": [
+                "to increase",
+                "to gather",
+                "to pick up"
+            ],
+            "ID": "menambah : to add; menyisipkan; meningkatkan",
+            "ES": "agregar : to add; aumentar",
+            "VI": "thêm : to add; tăng cường; nâng cao",
+            "FR": "ajouter : to add; augmenter",
+            "NE": "थप्नु : to add; थप गर्न; बृद्धि गर्नु",
+            "BN": "যোগ করা : to add; বৃদ্ধি করা",
+            "ZH": "添加 : to add; 增加",
+            "KO": "더하다 : to add; 증가시키다",
+            "TL": "magdagdag : to add; itaas; palakihin",
+            "MY": "လေးသော: to add; တိုးရန်; တိုးတက်စေချင်; အသိပေး",
+            "HI": "जोड़ना : to add; सम्मिलित करना; बढ़ाना",
+            "AR": "أضاف : to add; زيادة; توسيع",
+            "FA": "افزودن : to add; کنترل کردن; افزایش دادن"
+        },
+        {
+            "EN": [
+                "to include",
+                "to count in",
+                "to let join"
+            ],
+            "ID": "menyertakan",
+            "ES": "incluir",
+            "VI": "bao gồm",
+            "FR": "inclure",
+            "NE": "समावेश गर्नु",
+            "BN": "অন্তর্ভুক্ত করা",
+            "ZH": "包括",
+            "KO": "포함하다",
+            "TL": "isama",
+            "MY": "ထည့်စရာ",
+            "HI": "शामिल करना",
+            "AR": "يشمل",
+            "FA": "اضافه کردن"
+        },
+        {
+            "EN": [
+                "to inflict",
+                "to deal",
+                "to give"
+            ],
+            "ID": "mengenakan",
+            "ES": "infligir",
+            "VI": "gây ra",
+            "FR": "infliger",
+            "NE": "नकार्नु",
+            "BN": "আরোপ করা",
+            "ZH": "施加",
+            "KO": "가하다",
+            "TL": "magpataw",
+            "MY": "ပေးသည်",
+            "HI": "लगाना",
+            "AR": "إلحاق",
+            "FA": "تحمیل کردن"
+        }
+    ],
+    "jisho_data": {
+        "slug": "加える",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to increase",
-          "to gather",
-          "to pick up"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Ichidan verb, Transitive verb"
+        "japanese": [
+            {
+                "word": "加える",
+                "reading": "くわえる"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to include",
-          "to count in",
-          "to let join"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to inflict",
-          "to deal",
-          "to give"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "加"
-  ],
-  "kanji_data": {
-    "加": {
-      "meanings": [
-        "Canada",
-        "add",
-        "addition",
-        "include",
-        "increase",
-        "join"
-      ],
-      "on_readings": [
-        "カ"
-      ],
-      "kun_readings": [
-        "くわ.える",
-        "くわ.わる"
-      ],
-      "stroke_count": 5,
-      "jlpt": 3,
-      "freq_mainichi_shinbun": 130,
-      "unicode": "52A0",
-      "grade": 4
+        "senses": [
+            {
+                "english_definitions": [
+                    "to add",
+                    "to add up",
+                    "to sum up",
+                    "to append",
+                    "to annex"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to increase",
+                    "to gather",
+                    "to pick up"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to include",
+                    "to count in",
+                    "to let join"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to inflict",
+                    "to deal",
+                    "to give"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "加"
+    ],
+    "kanji_data": {
+        "加": {
+            "meanings": [
+                "Canada",
+                "add",
+                "addition",
+                "include",
+                "increase",
+                "join"
+            ],
+            "on_readings": [
+                "カ"
+            ],
+            "kun_readings": [
+                "くわ.える",
+                "くわ.わる"
+            ],
+            "stroke_count": 5,
+            "jlpt": 3,
+            "freq_mainichi_shinbun": 130,
+            "unicode": "52A0",
+            "grade": 4
+        }
     }
-  }
 }

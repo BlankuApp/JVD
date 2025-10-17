@@ -1,406 +1,419 @@
 {
-  "version": "0.3.0",
-  "word": "水道",
-  "jlpt_level": 4,
-  "youtube_link": "https://youtu.be/UkoPLa7bXh0",
-  "in_db": true,
-  "kanji": "水道",
-  "reading": "すいどう",
-  "introduction_japanese": "",
-  "introduction_english": "Today we are diving into the world of essential utilities with the Japanese term \"すいどう,\" often encountered when discussing basic amenities like home water access and urban infrastructure.",
-  "meanings": [
-    [
-      "water supply",
-      "water service",
-      "waterworks",
-      "tap water"
-    ],
-    [
-      "channel",
-      "strait"
-    ],
-    [
-      "water course",
-      "waterway"
-    ],
-    [
-      "Suidou"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"すいどう\" means \"water supply.\" It refers to the system or infrastructure that provides water in homes and buildings, including pipes and plumbing.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "水",
-      "common_words": [
-        "水泳: swimming",
-        "清水: spring water"
-      ]
-    },
-    {
-      "kanji": "道",
-      "common_words": [
-        "道路: road",
-        "茶道: tea ceremony"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "水管 : すいかん : water pipe"
-  ],
-  "synonym_explanation": "The most common synonym of the word \"すいどう\" is \"すいかん,\" which also refers to the piping system used to convey water. While \"すいどう\" emphasizes the water supply system as a whole, \"すいかん\" focuses more specifically on the individual pipes.",
-  "antonyms": [
-    "電気 : でんき : electricity"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"すいどう\" is \"でんき,\" meaning \"electricity.\" Whereas \"すいどう\" pertains to the water supply system, \"でんき\" is related to electrical systems, highlighting the difference in utility services.",
-  "collocations": [
-    {
-      "kanji": "すいどうがいしゃ",
-      "furigana": "すいどうがいしゃ",
-      "translations": {}
-    },
-    {
-      "kanji": "すいどうだい",
-      "furigana": "すいどうだい",
-      "translations": {}
-    },
-    {
-      "kanji": "すいどうすい",
-      "furigana": "すいどうすい",
-      "translations": {}
-    },
-    {
-      "kanji": "すいどうかん",
-      "furigana": "すいどうかん",
-      "translations": {}
-    },
-    {
-      "kanji": "すいどうせん",
-      "furigana": "すいどうせん",
-      "translations": {}
-    },
-    {
-      "kanji": "すいどうばしょ",
-      "furigana": "すいどうばしょ",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "彼は水道会社で働いています。",
-      "furigana": "彼(かれ)は水道(すいどう)会社(がいしゃ)で働(はたら)いています。",
-      "translations": {
-        "EN": "He works at a water utility company.",
-        "ID": "Dia bekerja di perusahaan air.",
-        "ES": "Él trabaja en una empresa de agua.",
-        "VI": "Anh ấy làm việc tại công ty cấp nước.",
-        "FR": "Il travaille dans une compagnie des eaux.",
-        "NE": "उनी पानीको कम्पनीमा काम गर्छन्।",
-        "BN": "তিনি পানির কোম্পানিতে কাজ করেন।",
-        "ZH": "他在水务公司工作。",
-        "KO": "그는 수도 회사에서 일하고 있습니다.",
-        "TL": "Nagtatrabaho siya sa isang kumpanya ng tubig.",
-        "MY": "သူက ရေမီတာကုမ္ပဏီမှာ အလုပ်လုပ်ပါတယ်။",
-        "HI": "वह एक पानी की कंपनी में काम करता है।",
-        "AR": "هو يعمل في شركة مياه.",
-        "FA": "او در یک شرکت تاسیسات آب کار می‌کند."
-      }
-    },
-    {
-      "kanji": "水道代は高いです。",
-      "furigana": "水道(すいどう) 代(だい) は 高(たか) いです。",
-      "translations": {
-        "EN": "The water bill is expensive.",
-        "ID": "Tagihan air mahal.",
-        "ES": "La factura del agua es cara.",
-        "VI": "Hóa đơn nước đắt.",
-        "FR": "La facture d'eau est chère.",
-        "NE": "पानीको बिल महँगो छ।",
-        "BN": "পানির বিল ব্যয়বহুল।",
-        "ZH": "水费很贵。",
-        "KO": "수도 요금이 비싸요.",
-        "TL": "Mahal ang bayad sa tubig.",
-        "MY": "ရေဘီလက အရမ်းစျေးကြီးတယ်။",
-        "HI": "पानी का बिल महंगा है।",
-        "AR": "فاتورة المياه باهظة الثمن.",
-        "FA": "قیمت قبض آب گران است."
-      }
-    },
-    {
-      "kanji": "水道水を飲みます。",
-      "furigana": "水道(すいどう)水(すい)を飲(の)みます。",
-      "translations": {
-        "EN": "I drink tap water.",
-        "ID": "Saya minum air keran.",
-        "ES": "Bebo agua del grifo.",
-        "VI": "Tôi uống nước máy.",
-        "FR": "Je bois de l'eau du robinet.",
-        "NE": "म पाइपको पानी पिउँछु।",
-        "BN": "আমি নলকূপের পানি পান করি।",
-        "ZH": "我喝自来水。",
-        "KO": "저는 수돗물을 마십니다.",
-        "TL": "Umiinom ako ng tubig mula sa gripo.",
-        "MY": "ကျွန်ုပ်သည် တရားရိုးနိုင်သောရေကို သောက်သည်။",
-        "HI": "मैं नल का पानी पीता हूँ।",
-        "AR": "أشرب المياه من الصنبور.",
-        "FA": "من آب لوله‌کشی می‌نوشم."
-      }
-    },
-    {
-      "kanji": "水道管は古いです。",
-      "furigana": "水道(すいどう)管(かん)は古(ふる)いです。",
-      "translations": {
-        "EN": "The water pipe is old.",
-        "ID": "Pipa airnya sudah tua.",
-        "ES": "La tubería de agua es vieja.",
-        "VI": "Ống nước đã cũ.",
-        "FR": "La conduite d'eau est vieille.",
-        "NE": "पानीको पाइप पुरानो छ।",
-        "BN": "জল পাইপটি পুরানো।",
-        "ZH": "水管旧了。",
-        "KO": "수도관이 낡았습니다.",
-        "TL": "Ang tubo ng tubig ay luma na.",
-        "MY": "ရေပိုက်ဟောင်းသည်။",
-        "HI": "पानी का पाइप पुराना है।",
-        "AR": "الأنبوب المائي قديم.",
-        "FA": "لوله آب قدیمی است."
-      }
-    },
-    {
-      "kanji": "水道の水を使う。",
-      "furigana": "水道(すいどう)の水(みず)を使(つか)う。",
-      "translations": {
-        "EN": "Use tap water.",
-        "ID": "Gunakan air keran.",
-        "ES": "Usa agua del grifo.",
-        "VI": "Sử dụng nước máy.",
-        "FR": "Utilisez de l'eau du robinet.",
-        "NE": "पानीको पाइपको पानी प्रयोग गर्नुहोस्।",
-        "BN": "নলকূপের জল ব্যবহার করুন।",
-        "ZH": "使用自来水。",
-        "KO": "수도물을 사용하다.",
-        "TL": "Gamitin ang tubig ng gripo.",
-        "MY": "ရေလိုင်းရေကို အသုံးပြုပါ။",
-        "HI": "नल का पानी उपयोग करें।",
-        "AR": "استخدم مياه الصنبور.",
-        "FA": "آب لوله‌کشی را استفاده کن."
-      }
-    },
-    {
-      "kanji": "うちの水道ばしょはきれいです。",
-      "furigana": "うちの水道(すいどう)ばしょはきれいです。",
-      "translations": {
-        "EN": "Our water supply place is clean.",
-        "ID": "Tempat air di rumah kami bersih.",
-        "ES": "El lugar de suministro de agua de nuestra casa está limpio.",
-        "VI": "Nơi cấp nước của chúng tôi sạch sẽ.",
-        "FR": "L'endroit où nous puisons l'eau est propre.",
-        "NE": "हाम्रो पानी स्थान सफा छ।",
-        "BN": "আমাদের বাড়ির জলের জায়গাটি পরিষ্কার।",
-        "ZH": "我们家的自来水地方很干净。",
-        "KO": "우리 집의 수도는 깨끗합니다.",
-        "TL": "Malinis ang lugar ng tubig sa bahay namin.",
-        "MY": "ကျွန်တော်တို့ရဲ့ရေခွက်နေရာကသန့်ရှင်းတယ်။",
-        "HI": "हमारे घर की जलापूर्ति जगह साफ है।",
-        "AR": "مكان إمدادات المياه في منزلنا نظيف.",
-        "FA": "محل تامین آب خانه ما تمیز است."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "water supply": {
-      "EN": "water supply",
-      "ID": "pasokan air",
-      "ES": "suministro de agua",
-      "VI": "nguồn cung cấp nước",
-      "FR": "approvisionnement en eau",
-      "NE": "पानी आपूर्ति",
-      "BN": "জল সরবরাহ",
-      "ZH": "供水",
-      "KO": "수도 공급",
-      "TL": "suplay ng tubig",
-      "MY": "ရေသွင်း",
-      "HI": "जल आपूर्ति",
-      "AR": "إمدادات المياه",
-      "FA": "آب‌ رسانی"
-    },
-    "channel": {
-      "EN": "water channel",
-      "ID": "saluran air",
-      "ES": "canal de agua",
-      "VI": "kênh nước",
-      "FR": "canal d'eau",
-      "NE": "पानीको च्यानल",
-      "BN": "জল চ্যানেল",
-      "ZH": "水道",
-      "KO": "수로",
-      "TL": "daluyan ng tubig",
-      "MY": "ရေချောင်း",
-      "HI": "जल चैनल",
-      "AR": "قناة المياه",
-      "FA": "کانال آب"
-    },
-    "water course": {
-      "EN": "water course",
-      "ID": "saluran air",
-      "ES": "curso de agua",
-      "VI": "kênh nước",
-      "FR": "cours d'eau",
-      "NE": "पानीको मार्ग",
-      "BN": "জলপথ",
-      "ZH": "水道",
-      "KO": "수로",
-      "TL": "daloy ng tubig",
-      "MY": "ရေပေးဝေရေး",
-      "HI": "जल मार्ग",
-      "AR": "مسار المياه",
-      "FA": "آبراه"
-    },
-    "Suidou": {
-      "EN": "Water Supply",
-      "ID": "Pasokan Air",
-      "ES": "Abastecimiento de agua",
-      "VI": "Cung cấp nước",
-      "FR": "Approvisionnement en eau",
-      "NE": "पानी आपूर्ति",
-      "BN": "জল সরবরাহ",
-      "ZH": "供水",
-      "KO": "수도",
-      "TL": "Supply ng Tubig",
-      "MY": "ရေဝင်း",
-      "HI": "जल आपूर्ति",
-      "AR": "تزويد المياه",
-      "FA": "سیستم آبرسانی"
-    }
-  },
-  "jisho_data": {
-    "slug": "水道",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n4"
-    ],
-    "japanese": [
-      {
-        "word": "水道",
-        "reading": "すいどう"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "water supply",
-          "water service",
-          "waterworks",
-          "tap water"
+    "version": "0.3.0",
+    "word": "水道",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/UkoPLa7bXh0",
+    "in_db": true,
+    "kanji": "水道",
+    "reading": "すいどう",
+    "introduction_japanese": "",
+    "introduction_english": "Today we are diving into the world of essential utilities with the Japanese term \"すいどう,\" often encountered when discussing basic amenities like home water access and urban infrastructure.",
+    "meanings": [
+        [
+            "water supply",
+            "water service",
+            "waterworks",
+            "tap water"
         ],
-        "parts_of_speech": [
-          "Noun"
+        [
+            "channel",
+            "strait"
         ],
-        "links": [],
+        [
+            "water course",
+            "waterway"
+        ],
+        [
+            "Suidou"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"すいどう\" means \"water supply.\" It refers to the system or infrastructure that provides water in homes and buildings, including pipes and plumbing.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "水",
+            "common_words": [
+                "水泳: swimming",
+                "清水: spring water"
+            ]
+        },
+        {
+            "kanji": "道",
+            "common_words": [
+                "道路: road",
+                "茶道: tea ceremony"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "水管 : すいかん : water pipe"
+    ],
+    "synonym_explanation": "The most common synonym of the word \"すいどう\" is \"すいかん,\" which also refers to the piping system used to convey water. While \"すいどう\" emphasizes the water supply system as a whole, \"すいかん\" focuses more specifically on the individual pipes.",
+    "antonyms": [
+        "電気 : でんき : electricity"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"すいどう\" is \"でんき,\" meaning \"electricity.\" Whereas \"すいどう\" pertains to the water supply system, \"でんき\" is related to electrical systems, highlighting the difference in utility services.",
+    "collocations": [
+        {
+            "kanji": "すいどうがいしゃ",
+            "furigana": "すいどうがいしゃ",
+            "translations": {}
+        },
+        {
+            "kanji": "すいどうだい",
+            "furigana": "すいどうだい",
+            "translations": {}
+        },
+        {
+            "kanji": "すいどうすい",
+            "furigana": "すいどうすい",
+            "translations": {}
+        },
+        {
+            "kanji": "すいどうかん",
+            "furigana": "すいどうかん",
+            "translations": {}
+        },
+        {
+            "kanji": "すいどうせん",
+            "furigana": "すいどうせん",
+            "translations": {}
+        },
+        {
+            "kanji": "すいどうばしょ",
+            "furigana": "すいどうばしょ",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "彼は水道会社で働いています。",
+            "furigana": "彼(かれ)は水道(すいどう)会社(がいしゃ)で働(はたら)いています。",
+            "translations": {
+                "EN": "He works at a water utility company.",
+                "ID": "Dia bekerja di perusahaan air.",
+                "ES": "Él trabaja en una empresa de agua.",
+                "VI": "Anh ấy làm việc tại công ty cấp nước.",
+                "FR": "Il travaille dans une compagnie des eaux.",
+                "NE": "उनी पानीको कम्पनीमा काम गर्छन्।",
+                "BN": "তিনি পানির কোম্পানিতে কাজ করেন।",
+                "ZH": "他在水务公司工作。",
+                "KO": "그는 수도 회사에서 일하고 있습니다.",
+                "TL": "Nagtatrabaho siya sa isang kumpanya ng tubig.",
+                "MY": "သူက ရေမီတာကုမ္ပဏီမှာ အလုပ်လုပ်ပါတယ်။",
+                "HI": "वह एक पानी की कंपनी में काम करता है।",
+                "AR": "هو يعمل في شركة مياه.",
+                "FA": "او در یک شرکت تاسیسات آب کار می‌کند."
+            }
+        },
+        {
+            "kanji": "水道代は高いです。",
+            "furigana": "水道(すいどう) 代(だい) は 高(たか) いです。",
+            "translations": {
+                "EN": "The water bill is expensive.",
+                "ID": "Tagihan air mahal.",
+                "ES": "La factura del agua es cara.",
+                "VI": "Hóa đơn nước đắt.",
+                "FR": "La facture d'eau est chère.",
+                "NE": "पानीको बिल महँगो छ।",
+                "BN": "পানির বিল ব্যয়বহুল।",
+                "ZH": "水费很贵。",
+                "KO": "수도 요금이 비싸요.",
+                "TL": "Mahal ang bayad sa tubig.",
+                "MY": "ရေဘီလက အရမ်းစျေးကြီးတယ်။",
+                "HI": "पानी का बिल महंगा है।",
+                "AR": "فاتورة المياه باهظة الثمن.",
+                "FA": "قیمت قبض آب گران است."
+            }
+        },
+        {
+            "kanji": "水道水を飲みます。",
+            "furigana": "水道(すいどう)水(すい)を飲(の)みます。",
+            "translations": {
+                "EN": "I drink tap water.",
+                "ID": "Saya minum air keran.",
+                "ES": "Bebo agua del grifo.",
+                "VI": "Tôi uống nước máy.",
+                "FR": "Je bois de l'eau du robinet.",
+                "NE": "म पाइपको पानी पिउँछु।",
+                "BN": "আমি নলকূপের পানি পান করি।",
+                "ZH": "我喝自来水。",
+                "KO": "저는 수돗물을 마십니다.",
+                "TL": "Umiinom ako ng tubig mula sa gripo.",
+                "MY": "ကျွန်ုပ်သည် တရားရိုးနိုင်သောရေကို သောက်သည်။",
+                "HI": "मैं नल का पानी पीता हूँ।",
+                "AR": "أشرب المياه من الصنبور.",
+                "FA": "من آب لوله‌کشی می‌نوشم."
+            }
+        },
+        {
+            "kanji": "水道管は古いです。",
+            "furigana": "水道(すいどう)管(かん)は古(ふる)いです。",
+            "translations": {
+                "EN": "The water pipe is old.",
+                "ID": "Pipa airnya sudah tua.",
+                "ES": "La tubería de agua es vieja.",
+                "VI": "Ống nước đã cũ.",
+                "FR": "La conduite d'eau est vieille.",
+                "NE": "पानीको पाइप पुरानो छ।",
+                "BN": "জল পাইপটি পুরানো।",
+                "ZH": "水管旧了。",
+                "KO": "수도관이 낡았습니다.",
+                "TL": "Ang tubo ng tubig ay luma na.",
+                "MY": "ရေပိုက်ဟောင်းသည်။",
+                "HI": "पानी का पाइप पुराना है।",
+                "AR": "الأنبوب المائي قديم.",
+                "FA": "لوله آب قدیمی است."
+            }
+        },
+        {
+            "kanji": "水道の水を使う。",
+            "furigana": "水道(すいどう)の水(みず)を使(つか)う。",
+            "translations": {
+                "EN": "Use tap water.",
+                "ID": "Gunakan air keran.",
+                "ES": "Usa agua del grifo.",
+                "VI": "Sử dụng nước máy.",
+                "FR": "Utilisez de l'eau du robinet.",
+                "NE": "पानीको पाइपको पानी प्रयोग गर्नुहोस्।",
+                "BN": "নলকূপের জল ব্যবহার করুন।",
+                "ZH": "使用自来水。",
+                "KO": "수도물을 사용하다.",
+                "TL": "Gamitin ang tubig ng gripo.",
+                "MY": "ရေလိုင်းရေကို အသုံးပြုပါ။",
+                "HI": "नल का पानी उपयोग करें।",
+                "AR": "استخدم مياه الصنبور.",
+                "FA": "آب لوله‌کشی را استفاده کن."
+            }
+        },
+        {
+            "kanji": "うちの水道ばしょはきれいです。",
+            "furigana": "うちの水道(すいどう)ばしょはきれいです。",
+            "translations": {
+                "EN": "Our water supply place is clean.",
+                "ID": "Tempat air di rumah kami bersih.",
+                "ES": "El lugar de suministro de agua de nuestra casa está limpio.",
+                "VI": "Nơi cấp nước của chúng tôi sạch sẽ.",
+                "FR": "L'endroit où nous puisons l'eau est propre.",
+                "NE": "हाम्रो पानी स्थान सफा छ।",
+                "BN": "আমাদের বাড়ির জলের জায়গাটি পরিষ্কার।",
+                "ZH": "我们家的自来水地方很干净。",
+                "KO": "우리 집의 수도는 깨끗합니다.",
+                "TL": "Malinis ang lugar ng tubig sa bahay namin.",
+                "MY": "ကျွန်တော်တို့ရဲ့ရေခွက်နေရာကသန့်ရှင်းတယ်။",
+                "HI": "हमारे घर की जलापूर्ति जगह साफ है।",
+                "AR": "مكان إمدادات المياه في منزلنا نظيف.",
+                "FA": "محل تامین آب خانه ما تمیز است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "water supply",
+                "water service",
+                "waterworks",
+                "tap water"
+            ],
+            "ID": "pasokan air",
+            "ES": "suministro de agua",
+            "VI": "nguồn cung cấp nước",
+            "FR": "approvisionnement en eau",
+            "NE": "पानी आपूर्ति",
+            "BN": "জল সরবরাহ",
+            "ZH": "供水",
+            "KO": "수도 공급",
+            "TL": "suplay ng tubig",
+            "MY": "ရေသွင်း",
+            "HI": "जल आपूर्ति",
+            "AR": "إمدادات المياه",
+            "FA": "آب‌ رسانی"
+        },
+        {
+            "EN": [
+                "channel",
+                "strait"
+            ],
+            "ID": "saluran air",
+            "ES": "canal de agua",
+            "VI": "kênh nước",
+            "FR": "canal d'eau",
+            "NE": "पानीको च्यानल",
+            "BN": "জল চ্যানেল",
+            "ZH": "水道",
+            "KO": "수로",
+            "TL": "daluyan ng tubig",
+            "MY": "ရေချောင်း",
+            "HI": "जल चैनल",
+            "AR": "قناة المياه",
+            "FA": "کانال آب"
+        },
+        {
+            "EN": [
+                "water course",
+                "waterway"
+            ],
+            "ID": "saluran air",
+            "ES": "curso de agua",
+            "VI": "kênh nước",
+            "FR": "cours d'eau",
+            "NE": "पानीको मार्ग",
+            "BN": "জলপথ",
+            "ZH": "水道",
+            "KO": "수로",
+            "TL": "daloy ng tubig",
+            "MY": "ရေပေးဝေရေး",
+            "HI": "जल मार्ग",
+            "AR": "مسار المياه",
+            "FA": "آبراه"
+        },
+        {
+            "EN": [
+                "Suidou"
+            ],
+            "ID": "Pasokan Air",
+            "ES": "Abastecimiento de agua",
+            "VI": "Cung cấp nước",
+            "FR": "Approvisionnement en eau",
+            "NE": "पानी आपूर्ति",
+            "BN": "জল সরবরাহ",
+            "ZH": "供水",
+            "KO": "수도",
+            "TL": "Supply ng Tubig",
+            "MY": "ရေဝင်း",
+            "HI": "जल आपूर्ति",
+            "AR": "تزويد المياه",
+            "FA": "سیستم آبرسانی"
+        }
+    ],
+    "jisho_data": {
+        "slug": "水道",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "channel",
-          "strait"
+        "jlpt": [
+            "jlpt-n4"
         ],
-        "parts_of_speech": [
-          "Noun"
+        "japanese": [
+            {
+                "word": "水道",
+                "reading": "すいどう"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "water course",
-          "waterway"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "Suidou"
-        ],
-        "parts_of_speech": [
-          "Place"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "水",
-    "道"
-  ],
-  "kanji_data": {
-    "水": {
-      "meanings": [
-        "water"
-      ],
-      "on_readings": [
-        "スイ"
-      ],
-      "kun_readings": [
-        "みず",
-        "みず-"
-      ],
-      "stroke_count": 4,
-      "jlpt": 5,
-      "freq_mainichi_shinbun": 223,
-      "unicode": "6C34",
-      "grade": 1
+        "senses": [
+            {
+                "english_definitions": [
+                    "water supply",
+                    "water service",
+                    "waterworks",
+                    "tap water"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "channel",
+                    "strait"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "water course",
+                    "waterway"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Suidou"
+                ],
+                "parts_of_speech": [
+                    "Place"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "道": {
-      "meanings": [
-        "course",
-        "district",
-        "journey",
-        "moral",
-        "road-way",
-        "street",
-        "teachings"
-      ],
-      "on_readings": [
-        "トウ",
-        "ドウ"
-      ],
-      "kun_readings": [
-        "いう",
-        "みち"
-      ],
-      "stroke_count": 12,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 207,
-      "unicode": "9053",
-      "grade": 2
+    "kanji_list": [
+        "水",
+        "道"
+    ],
+    "kanji_data": {
+        "水": {
+            "meanings": [
+                "water"
+            ],
+            "on_readings": [
+                "スイ"
+            ],
+            "kun_readings": [
+                "みず",
+                "みず-"
+            ],
+            "stroke_count": 4,
+            "jlpt": 5,
+            "freq_mainichi_shinbun": 223,
+            "unicode": "6C34",
+            "grade": 1
+        },
+        "道": {
+            "meanings": [
+                "course",
+                "district",
+                "journey",
+                "moral",
+                "road-way",
+                "street",
+                "teachings"
+            ],
+            "on_readings": [
+                "トウ",
+                "ドウ"
+            ],
+            "kun_readings": [
+                "いう",
+                "みち"
+            ],
+            "stroke_count": 12,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 207,
+            "unicode": "9053",
+            "grade": 2
+        }
     }
-  }
 }

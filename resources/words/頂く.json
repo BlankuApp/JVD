@@ -1,570 +1,579 @@
 {
-  "version": "0.3.0",
-  "word": "頂く",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/rkVuKQGLy38",
-  "in_db": true,
-  "kanji": "頂く",
-  "reading": "いただく",
-  "introduction_japanese": "頂くは、ビジネスや目上の人との会話で使うへりくだった言い方や、食事の場面、丁寧な依頼や報告でよく出てくる言葉です。",
-  "introduction_english": "The verb いただく is commonly used in business or when speaking to someone higher in status as a humble expression, and it also appears in meal contexts and polite requests or reports.",
-  "meanings": [
-    [
-      "to receive, to get, to accept, to take, to buy (humble)",
-      "to be given (humble, polite)"
-    ],
-    [
-      "to eat, to drink (humble/polite)"
-    ],
-    [
-      "to be crowned with, to wear on one's head, to have on top (original/literal meaning)"
-    ],
-    [
-      "to have as one's leader, to live under a ruler, to install (archaic/administrative)"
-    ],
-    [
-      "auxiliary: to get someone to do something (follows a verb in -て form; humble/polite nuance)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「いただく」はへりくだって使う「もらう」の丁寧な言い方で、食べる・飲むの謙譲語としても使います。元の意味は頭にのせるや頂点に関することです。ビジネスのお願いや報告でよく使われます。",
-  "meaning_explanation_english": "The word いただく is the humble/polite form used to say 'to receive' (like もらう) and is also used as the humble form of 'to eat' or 'to drink'. Its original meaning relates to placing on the top or head. You often hear it in business requests and polite speech.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "頂",
-      "common_words": [
-        "頂上 (ちょうじょう): summit, top",
-        "頂き物 (いただきもの): a gift, something received"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means peak or place on the head and also carries the idea of receiving. It shows up in words like ちょうじょう which means the top of a mountain where the idea of peak matters. It also appears in いただきもの which means a gift and keeps the sense of receiving something.",
-  "synonyms": [
-    "貰う : もらう : to receive/get"
-  ],
-  "synonym_explanation": "The most common synonym of the word is もらう. もらう is casual and neutral for 'to receive', while いただく is polite or humble and used when speaking to superiors or in formal situations.",
-  "antonyms": [],
-  "antonym_explanation": "No common antonyms found.",
-  "collocations": [
-    {
-      "kanji": "賞を頂く",
-      "furigana": "賞を頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "承認を頂く",
-      "furigana": "承認を頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご支援を頂く",
-      "furigana": "ご支援を頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご連絡を頂く",
-      "furigana": "ご連絡を頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご意見を頂く",
-      "furigana": "ご意見を頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご教示して頂く",
-      "furigana": "ご教示して頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご協力して頂く",
-      "furigana": "ご協力して頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご連絡して頂く",
-      "furigana": "ご連絡して頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご説明して頂く",
-      "furigana": "ご説明して頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご検討して頂く",
-      "furigana": "ご検討して頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご案内させて頂く",
-      "furigana": "ご案内させて頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご説明させて頂く",
-      "furigana": "ご説明させて頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご紹介させて頂く",
-      "furigana": "ご紹介させて頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご相談させて頂く",
-      "furigana": "ご相談させて頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご決定させて頂く",
-      "furigana": "ご決定させて頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご利用頂く",
-      "furigana": "ご利用頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご理解頂く",
-      "furigana": "ご理解頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご対応頂く",
-      "furigana": "ご対応頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご連絡頂く",
-      "furigana": "ご連絡頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご評価頂く",
-      "furigana": "ご評価頂く",
-      "translations": {}
-    },
-    {
-      "kanji": "ご承知いただく",
-      "furigana": "ご承知いただく",
-      "translations": {}
-    },
-    {
-      "kanji": "ご覧いただく",
-      "furigana": "ご覧いただく",
-      "translations": {}
-    },
-    {
-      "kanji": "お聞きいただく",
-      "furigana": "お聞きいただく",
-      "translations": {}
-    },
-    {
-      "kanji": "お話しいただく",
-      "furigana": "お話しいただく",
-      "translations": {}
-    },
-    {
-      "kanji": "ご確認いただく",
-      "furigana": "ご確認いただく",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "賞を頂く。",
-      "furigana": "賞(しょう)を頂(いただ)く。",
-      "translations": {
-        "EN": "Receive an award.",
-        "ID": "Menerima penghargaan.",
-        "ES": "Recibir un premio.",
-        "VI": "Nhận giải thưởng.",
-        "FR": "Recevez une récompense.",
-        "NE": "पुरस्कार प्राप्त गर्नुहोस्।",
-        "BN": "একটি পুরষ্কার গ্রহণ করুন।",
-        "ZH": "获得奖励。",
-        "KO": "상을 받는다.",
-        "TL": "Tumanggap ng parangal.",
-        "MY": "ဆုတစ်ခုရယူပါ။",
-        "HI": "पुरस्कार प्राप्त करें.",
-        "AR": "احصل على جائزة.",
-        "FA": "جایزه دریافت کنید."
-      }
-    },
-    {
-      "kanji": "会社からご連絡を頂きました。",
-      "furigana": "会社(かいしゃ)からご連絡(れんらく)を頂(いただ)きました。",
-      "translations": {
-        "EN": "I received a call from the company.",
-        "ID": "Saya menerima telepon dari perusahaan.",
-        "ES": "Recibí una llamada de la empresa.",
-        "VI": "Tôi nhận được cuộc gọi từ công ty.",
-        "FR": "J'ai reçu un appel de l'entreprise.",
-        "NE": "मलाई कम्पनीबाट फोन आयो।",
-        "BN": "আমি কোম্পানি থেকে একটা ফোন পেলাম।",
-        "ZH": "我接到了公司的电话。",
-        "KO": "회사에서 연락을 받았습니다.",
-        "TL": "Nakatanggap ako ng tawag mula sa kumpanya.",
-        "MY": "ကုမ္ပဏီကနေ ဖုန်းခေါ်တယ်။",
-        "HI": "मुझे कंपनी से फोन आया।",
-        "AR": "لقد تلقيت اتصالاً من الشركة.",
-        "FA": "از طرف شرکت با من تماس گرفته شد."
-      }
-    },
-    {
-      "kanji": "ご意見を頂けますか。",
-      "furigana": "ご意見(いけん)を頂(いただ)けますか。",
-      "translations": {
-        "EN": "Can you give us your opinion?",
-        "ID": "Bisakah Anda memberi kami pendapat Anda?",
-        "ES": "¿Nos puedes dar tu opinión?",
-        "VI": "Bạn có thể cho chúng tôi biết ý kiến của bạn không?",
-        "FR": "Pouvez-vous nous donner votre avis ?",
-        "NE": "के तपाईं हामीलाई आफ्नो राय दिन सक्नुहुन्छ?",
-        "BN": "তুমি কি তোমার মতামত জানাতে পারো?",
-        "ZH": "您能给我们您的意见吗？",
-        "KO": "의견을 받을 수 있습니까?",
-        "TL": "Maaari mo bang ibigay sa amin ang iyong opinyon?",
-        "MY": "မင်းရဲ့ထင်မြင်ချက်ပေးလို့ရမလား။",
-        "HI": "क्या आप हमें अपनी राय दे सकते हैं?",
-        "AR": "هل يمكنك أن تعطينا رأيك؟",
-        "FA": "میشه نظرت رو به ما بگی؟"
-      }
-    },
-    {
-      "kanji": "このサービスをご利用頂きたいです。",
-      "furigana": "このサービスをご利用(りよう)頂(いただ)きたいです。",
-      "translations": {
-        "EN": "I would like you to use this service.",
-        "ID": "Saya ingin Anda menggunakan layanan ini.",
-        "ES": "Me gustaría que utilizaras este servicio.",
-        "VI": "Tôi muốn bạn sử dụng dịch vụ này.",
-        "FR": "Je souhaiterais que vous utilisiez ce service.",
-        "NE": "म तपाईंलाई यो सेवा प्रयोग गर्न चाहन्छु।",
-        "BN": "আমি চাই তুমি এই পরিষেবাটি ব্যবহার করো।",
-        "ZH": "我希望您使用这项服务。",
-        "KO": "이 서비스를 이용하고 싶습니다.",
-        "TL": "Gusto kong gamitin mo ang serbisyong ito.",
-        "MY": "ဒီဝန်ဆောင်မှုကို သုံးစေချင်ပါတယ်။",
-        "HI": "मैं चाहूंगा कि आप इस सेवा का उपयोग करें।",
-        "AR": "أريد منك استخدام هذه الخدمة.",
-        "FA": "من دوست دارم شما هم از این سرویس استفاده کنید."
-      }
-    },
-    {
-      "kanji": "詳細をご確認いただけますか。",
-      "furigana": "詳細(しょうさい)をご確認(かくにん)いただけますか。",
-      "translations": {
-        "EN": "Can you please provide more details?",
-        "ID": "Bisakah Anda memberikan rincian lebih lanjut?",
-        "ES": "¿Puedes proporcionarnos más detalles?",
-        "VI": "Bạn có thể cung cấp thêm thông tin chi tiết được không?",
-        "FR": "Pouvez-vous s'il vous plaît fournir plus de détails ?",
-        "NE": "के तपाईं थप विवरणहरू प्रदान गर्न सक्नुहुन्छ?",
-        "BN": "আপনি কি আরও বিস্তারিত জানাতে পারবেন?",
-        "ZH": "您能提供更多详细信息吗？",
-        "KO": "자세한 내용을 확인할 수 있습니까?",
-        "TL": "Maaari ka bang magbigay ng higit pang mga detalye?",
-        "MY": "ကျေးဇူးပြု၍ အသေးစိတ်အချက်အလက်များကို ပေးဆောင်နိုင်ပါသလား။",
-        "HI": "क्या आप कृपया अधिक विवरण प्रदान कर सकते हैं?",
-        "AR": "هل يمكنك من فضلك تقديم المزيد من التفاصيل؟",
-        "FA": "میشه لطفا جزئیات بیشتری ارائه بدید؟"
-      }
-    },
-    {
-      "kanji": "後ほどご説明させて頂きます。",
-      "furigana": "後ほど(のちほど)ご説明(せつめい)させて頂(いただ)きます。",
-      "translations": {
-        "EN": "I will explain more about this later.",
-        "ID": "Saya akan menjelaskan lebih lanjut tentang ini nanti.",
-        "ES": "Explicaré más sobre esto más adelante.",
-        "VI": "Tôi sẽ giải thích thêm về điều này sau.",
-        "FR": "J'expliquerai cela plus en détail plus tard.",
-        "NE": "म यसबारे पछि थप व्याख्या गर्नेछु।",
-        "BN": "আমি এই সম্পর্কে পরে আরও ব্যাখ্যা করব।",
-        "ZH": "我稍后会对此进行更多解释。",
-        "KO": "나중에 설명하겠습니다.",
-        "TL": "Ipapaliwanag ko pa ang tungkol dito mamaya.",
-        "MY": "ဒီအကြောင်းကို နောက်မှ ထပ်ရှင်းပြမယ်။",
-        "HI": "मैं इसके बारे में बाद में विस्तार से बताऊंगा।",
-        "AR": "سأشرح المزيد عن هذا لاحقًا.",
-        "FA": "بعداً در این مورد بیشتر توضیح خواهم داد."
-      }
-    },
-    {
-      "kanji": "ご覧いただけますか。",
-      "furigana": "ご覧(ごらん)いただけますか。",
-      "translations": {
-        "EN": "Can you take a look?",
-        "ID": "Bisakah Anda melihatnya?",
-        "ES": "¿Puedes echar un vistazo?",
-        "VI": "Bạn có thể nhìn thấy nó không?",
-        "FR": "Peux-tu jeter un oeil ?",
-        "NE": "के तपाईं यसलाई देख्न सक्नुहुन्छ?",
-        "BN": "তুমি কি একবার দেখে নিতে পারো?",
-        "ZH": "你看得见吗？",
-        "KO": "보시겠습니까?",
-        "TL": "Maaari mo bang tingnan?",
-        "MY": "ကြည့်လို့ရလား",
-        "HI": "क्या आप देख सकते हैं?",
-        "AR": "هل يمكنك إلقاء نظرة؟",
-        "FA": "آیا می‌توانی آن را ببینی؟"
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to receive, to get, to accept, to take, to buy (humble)": {
-      "ID": "menerima, memperoleh, menyetujui, mengambil, membeli (rendah hati)",
-      "ES": "recibir, conseguir, aceptar, tomar, comprar (humilde)",
-      "VI": "nhận, có được, chấp nhận, lấy, mua (khiêm tốn)",
-      "FR": "recevoir, obtenir, accepter, prendre, acheter (humble)",
-      "NE": "प्राप्त गर्नु, प्राप्त गर्नु, स्वीकार गर्नु, लिनु, किन्नु (विनम्र)",
-      "BN": "গ্রহণ করা, গ্রহণ করা, গ্রহণ করা, কেনা (নম্রভাবে)",
-      "ZH": "接收、得到、接受、拿走、购买（谦卑）",
-      "KO": "받다, 얻다, 받아들이다, 취하다, 사다 (겸손하게)",
-      "TL": "tumanggap, kumuha, tumanggap, kumuha, bumili (mapagpakumbaba)",
-      "MY": "လက်ခံရန်၊ ရယူရန်၊ လက်ခံရန်၊ ယူရန်၊ ဝယ်ရန် (နှိမ့်ချခြင်း)",
-      "HI": "प्राप्त करना, पाना, स्वीकार करना, लेना, खरीदना (विनम्र)",
-      "AR": "استلام، الحصول على، قبول، أخذ، شراء (متواضع)",
-      "FA": "دریافت کردن، بدست آوردن، پذیرفتن، گرفتن، خریدن (با فروتنی)",
-      "EN": [
-        "to be given (humble, polite)"
-      ]
-    },
-    "to eat, to drink (humble/polite)": {
-      "ID": "makan, minum (rendah hati/sopan)",
-      "ES": "comer, beber (humilde/educado)",
-      "VI": "ăn, uống (khiêm tốn/lịch sự)",
-      "FR": "manger, boire (humble/poli)",
-      "NE": "खानु, पिउनु (विनम्र/विनम्र)",
-      "BN": "খাওয়া, পান করা (নম্র/ভদ্র)",
-      "ZH": "吃、喝（谦虚/礼貌）",
-      "KO": "먹다, 마시다 (겸손하게/예의 바르게)",
-      "TL": "kumain, uminom (mapagpakumbaba/magalang)",
-      "MY": "စားသောက်ရန် (နှိမ့်ချ/ယဉ်ကျေး)",
-      "HI": "खाना, पीना (विनम्र/विनम्र)",
-      "AR": "أكل، شرب (متواضع/مهذب)",
-      "FA": "خوردن، آشامیدن (متواضع/مودبانه)",
-      "EN": []
-    },
-    "to be crowned with, to wear on one's head, to have on top (original/literal meaning)": {
-      "ID": "dimahkotai dengan, dipakai di kepala, diletakkan di atas (arti asli/harfiah)",
-      "ES": "ser coronado con, llevar en la cabeza, tener encima (significado original/literal)",
-      "VI": "được đội lên đầu, đội trên đầu, đội trên đỉnh (nghĩa gốc/nghĩa đen)",
-      "FR": "être couronné de, porter sur la tête, avoir sur le dessus (sens original/littéral)",
-      "NE": "शिरमा मुकुट लगाउनु, शिरमा लगाउनु, माथि राख्नु (मूल/शाब्दिक अर्थ)",
-      "BN": "মুকুট পরা, মাথায় পরিধান করা, উপরে রাখা (মূল/আক্ষরিক অর্থ)",
-      "ZH": "加冕为；戴在头上；放在上面（原文/字面意思）",
-      "KO": "왕관을 쓰다, 머리에 쓰다, 위에 두다 (원래의 의미/문자 그대로의 의미)",
-      "TL": "upang makoronahan, isuot sa ulo, magkaroon sa itaas (orihinal/literal na kahulugan)",
-      "MY": "သရဖူဆောင်းရန်၊ ခေါင်းပေါ်တွင်ဝတ်ဆင်ရန်၊ အပေါ်၌ရှိရန် (မူရင်း/စာသားအဓိပ္ပါယ်)",
-      "HI": "मुकुट धारण करना, सिर पर धारण करना, शीर्ष पर रखना (मूल/शाब्दिक अर्थ)",
-      "AR": "أن يُتوّج به، أن يُلبس على الرأس، أن يكون في الأعلى (المعنى الأصلي/الحرفي)",
-      "FA": "تاج بر سر داشتن، بر سر گذاشتن، روی سر داشتن (معنای اصلی/تحت‌اللفظی)",
-      "EN": []
-    },
-    "to have as one's leader, to live under a ruler, to install (archaic/administrative)": {
-      "ID": "memiliki pemimpin, hidup di bawah seorang penguasa, mengangkat (kuno/administratif)",
-      "ES": "tener como líder, vivir bajo un gobernante, instalar (arcaico/administrativo)",
-      "VI": "có người lãnh đạo, sống dưới quyền một người cai trị, thiết lập (cổ xưa/hành chính)",
-      "FR": "avoir comme chef, vivre sous un dirigeant, installer (archaïque/administratif)",
-      "NE": "आफ्नो नेता हुनु, शासकको अधीनमा बस्नु, स्थापित गर्नु (पुरातन/प्रशासनिक)",
-      "BN": "নেতা থাকা, শাসকের অধীনে থাকা, প্রতিষ্ঠা করা (প্রাচীন/প্রশাসনিক)",
-      "ZH": "拥有领导者，生活在统治者之下，安装（古代/行政）",
-      "KO": "지도자로 삼다, 통치자 밑에서 살다, (고어/행정적)을 설치하다",
-      "TL": "upang magkaroon bilang isang pinuno, upang mamuhay sa ilalim ng isang pinuno, upang i-install (archaic/administrative)",
-      "MY": "ခေါင်းဆောင်အဖြစ်ရှိရန်၊ အုပ်စိုးရှင်လက်အောက်တွင် နေထိုင်ရန်၊ တပ်ဆင်ရန် (ရှေးဟောင်း/အုပ်ချုပ်ရေး)၊",
-      "HI": "किसी को अपना नेता बनाना, किसी शासक के अधीन रहना, स्थापित करना (पुरातन/प्रशासनिक)",
-      "AR": "أن يكون له زعيم، أن يعيش تحت حكم حاكم، أن ينصب (قديم/إداري)",
-      "FA": "رهبر داشتن، تحت فرمان یک حاکم زندگی کردن، منصوب کردن (کهن/اداری)",
-      "EN": []
-    },
-    "auxiliary: to get someone to do something (follows a verb in -て form; humble/polite nuance)": {
-      "ID": "bantu: meminta seseorang melakukan sesuatu (mengikuti kata kerja dalam bentuk -て; nuansa rendah hati/sopan)",
-      "ES": "auxiliar: hacer que alguien haga algo (sigue a un verbo en forma -て; matiz humilde/cortés)",
-      "VI": "trợ động từ: khiến ai đó làm gì đó (theo sau động từ dạng -て; sắc thái khiêm tốn/lịch sự)",
-      "FR": "auxiliaire : amener quelqu'un à faire quelque chose (suit un verbe en -て ; nuance humble/polie)",
-      "NE": "सहायक: कसैलाई केही गर्न लगाउनु (क्रियापदको पछि -て रूप आउँछ; नम्र/विनम्र सूक्ष्मता)",
-      "BN": "সহায়ক: কাউকে কিছু করাতে (ক্রিয়াপদের পরে -て আকারে; নম্র/ভদ্র সূক্ষ্মতা)",
-      "ZH": "助动词：让某人做某事（跟在 -て 形式的动词后面；谦卑/礼貌的细微差别）",
-      "KO": "보조: 누군가에게 무언가를 하게 하다 (동사 뒤에 -て 형태로 옴; 겸손/공손한 뉘앙스)",
-      "TL": "pantulong: upang makakuha ng isang tao na gumawa ng isang bagay (sumusunod sa isang pandiwa sa -て form; mapagpakumbaba/magalang na nuance)",
-      "MY": "auxiliary- တစ်စုံတစ်ဦးအား တစ်စုံတစ်ခုပြုလုပ်ရန် (-て ပုံစံဖြင့် ကြိယာကို လိုက်နာရန်၊ နှိမ့်ချ/ယဉ်ကျေးသော ကွဲပြားမှု)",
-      "HI": "सहायक: किसी को कुछ करने के लिए प्रेरित करना (-て रूप में क्रिया के बाद आता है; विनम्र/विनम्र सूक्ष्म अर्थ)",
-      "AR": "مساعد: جعل شخص ما يفعل شيئًا ما (يتبع الفعل في صيغة -て؛ فارق بسيط متواضع/مهذب)",
-      "FA": "کمکی: وادار کردن کسی به انجام کاری (بعد از فعل به شکل -て می‌آید؛ ظرافت فروتنانه/مودبانه)",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "頂く",
-    "is_common": true,
-    "tags": [
-      "wanikani51"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "頂く",
-        "reading": "いただく"
-      },
-      {
-        "word": "戴く",
-        "reading": "いただく"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to receive",
-          "to get",
-          "to accept",
-          "to take",
-          "to buy"
+    "version": "0.3.0",
+    "word": "頂く",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/rkVuKQGLy38",
+    "in_db": true,
+    "kanji": "頂く",
+    "reading": "いただく",
+    "introduction_japanese": "頂くは、ビジネスや目上の人との会話で使うへりくだった言い方や、食事の場面、丁寧な依頼や報告でよく出てくる言葉です。",
+    "introduction_english": "The verb いただく is commonly used in business or when speaking to someone higher in status as a humble expression, and it also appears in meal contexts and polite requests or reports.",
+    "meanings": [
+        [
+            "to receive, to get, to accept, to take, to buy (humble)",
+            "to be given (humble, polite)"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'ku' ending",
-          "Transitive verb"
+        [
+            "to eat, to drink (humble/polite)"
         ],
-        "links": [],
-        "tags": [
-          "Humble (kenjougo) language",
-          "Usually written using kana alone"
+        [
+            "to be crowned with, to wear on one's head, to have on top (original/literal meaning)"
         ],
-        "restrictions": [],
-        "see_also": [
-          "貰う"
+        [
+            "to have as one's leader, to live under a ruler, to install (archaic/administrative)"
         ],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to eat",
-          "to drink"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ku' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [
-          "Humble (kenjougo) language",
-          "Polite (teineigo) language",
-          "Usually written using kana alone"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to be crowned with",
-          "to wear (on one's head)",
-          "to have (on top)"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ku' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [
-          "Usually written using kana alone"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [
-          "orig. meaning"
+        [
+            "auxiliary: to get someone to do something (follows a verb in -て form; humble/polite nuance)"
         ]
-      },
-      {
-        "english_definitions": [
-          "to have (as one's leader)",
-          "to live under (a ruler)",
-          "to install (a president)"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ku' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [
-          "Usually written using kana alone"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to get someone to do something"
-        ],
-        "parts_of_speech": [
-          "Auxiliary verb",
-          "Godan verb with 'ku' ending"
-        ],
-        "links": [],
-        "tags": [
-          "Humble (kenjougo) language",
-          "Usually written using kana alone"
-        ],
-        "restrictions": [],
-        "see_also": [
-          "貰う もらう"
-        ],
-        "antonyms": [],
-        "source": [],
-        "info": [
-          "follows a verb in \"-te\" form"
-        ]
-      }
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "meaning_explanation_japanese": "「いただく」はへりくだって使う「もらう」の丁寧な言い方で、食べる・飲むの謙譲語としても使います。元の意味は頭にのせるや頂点に関することです。ビジネスのお願いや報告でよく使われます。",
+    "meaning_explanation_english": "The word いただく is the humble/polite form used to say 'to receive' (like もらう) and is also used as the humble form of 'to eat' or 'to drink'. Its original meaning relates to placing on the top or head. You often hear it in business requests and polite speech.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "頂",
+            "common_words": [
+                "頂上 (ちょうじょう): summit, top",
+                "頂き物 (いただきもの): a gift, something received"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means peak or place on the head and also carries the idea of receiving. It shows up in words like ちょうじょう which means the top of a mountain where the idea of peak matters. It also appears in いただきもの which means a gift and keeps the sense of receiving something.",
+    "synonyms": [
+        "貰う : もらう : to receive/get"
+    ],
+    "synonym_explanation": "The most common synonym of the word is もらう. もらう is casual and neutral for 'to receive', while いただく is polite or humble and used when speaking to superiors or in formal situations.",
+    "antonyms": [],
+    "antonym_explanation": "No common antonyms found.",
+    "collocations": [
+        {
+            "kanji": "賞を頂く",
+            "furigana": "賞を頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "承認を頂く",
+            "furigana": "承認を頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご支援を頂く",
+            "furigana": "ご支援を頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご連絡を頂く",
+            "furigana": "ご連絡を頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご意見を頂く",
+            "furigana": "ご意見を頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご教示して頂く",
+            "furigana": "ご教示して頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご協力して頂く",
+            "furigana": "ご協力して頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご連絡して頂く",
+            "furigana": "ご連絡して頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご説明して頂く",
+            "furigana": "ご説明して頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご検討して頂く",
+            "furigana": "ご検討して頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご案内させて頂く",
+            "furigana": "ご案内させて頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご説明させて頂く",
+            "furigana": "ご説明させて頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご紹介させて頂く",
+            "furigana": "ご紹介させて頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご相談させて頂く",
+            "furigana": "ご相談させて頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご決定させて頂く",
+            "furigana": "ご決定させて頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご利用頂く",
+            "furigana": "ご利用頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご理解頂く",
+            "furigana": "ご理解頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご対応頂く",
+            "furigana": "ご対応頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご連絡頂く",
+            "furigana": "ご連絡頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご評価頂く",
+            "furigana": "ご評価頂く",
+            "translations": {}
+        },
+        {
+            "kanji": "ご承知いただく",
+            "furigana": "ご承知いただく",
+            "translations": {}
+        },
+        {
+            "kanji": "ご覧いただく",
+            "furigana": "ご覧いただく",
+            "translations": {}
+        },
+        {
+            "kanji": "お聞きいただく",
+            "furigana": "お聞きいただく",
+            "translations": {}
+        },
+        {
+            "kanji": "お話しいただく",
+            "furigana": "お話しいただく",
+            "translations": {}
+        },
+        {
+            "kanji": "ご確認いただく",
+            "furigana": "ご確認いただく",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "賞を頂く。",
+            "furigana": "賞(しょう)を頂(いただ)く。",
+            "translations": {
+                "EN": "Receive an award.",
+                "ID": "Menerima penghargaan.",
+                "ES": "Recibir un premio.",
+                "VI": "Nhận giải thưởng.",
+                "FR": "Recevez une récompense.",
+                "NE": "पुरस्कार प्राप्त गर्नुहोस्।",
+                "BN": "একটি পুরষ্কার গ্রহণ করুন।",
+                "ZH": "获得奖励。",
+                "KO": "상을 받는다.",
+                "TL": "Tumanggap ng parangal.",
+                "MY": "ဆုတစ်ခုရယူပါ။",
+                "HI": "पुरस्कार प्राप्त करें.",
+                "AR": "احصل على جائزة.",
+                "FA": "جایزه دریافت کنید."
+            }
+        },
+        {
+            "kanji": "会社からご連絡を頂きました。",
+            "furigana": "会社(かいしゃ)からご連絡(れんらく)を頂(いただ)きました。",
+            "translations": {
+                "EN": "I received a call from the company.",
+                "ID": "Saya menerima telepon dari perusahaan.",
+                "ES": "Recibí una llamada de la empresa.",
+                "VI": "Tôi nhận được cuộc gọi từ công ty.",
+                "FR": "J'ai reçu un appel de l'entreprise.",
+                "NE": "मलाई कम्पनीबाट फोन आयो।",
+                "BN": "আমি কোম্পানি থেকে একটা ফোন পেলাম।",
+                "ZH": "我接到了公司的电话。",
+                "KO": "회사에서 연락을 받았습니다.",
+                "TL": "Nakatanggap ako ng tawag mula sa kumpanya.",
+                "MY": "ကုမ္ပဏီကနေ ဖုန်းခေါ်တယ်။",
+                "HI": "मुझे कंपनी से फोन आया।",
+                "AR": "لقد تلقيت اتصالاً من الشركة.",
+                "FA": "از طرف شرکت با من تماس گرفته شد."
+            }
+        },
+        {
+            "kanji": "ご意見を頂けますか。",
+            "furigana": "ご意見(いけん)を頂(いただ)けますか。",
+            "translations": {
+                "EN": "Can you give us your opinion?",
+                "ID": "Bisakah Anda memberi kami pendapat Anda?",
+                "ES": "¿Nos puedes dar tu opinión?",
+                "VI": "Bạn có thể cho chúng tôi biết ý kiến của bạn không?",
+                "FR": "Pouvez-vous nous donner votre avis ?",
+                "NE": "के तपाईं हामीलाई आफ्नो राय दिन सक्नुहुन्छ?",
+                "BN": "তুমি কি তোমার মতামত জানাতে পারো?",
+                "ZH": "您能给我们您的意见吗？",
+                "KO": "의견을 받을 수 있습니까?",
+                "TL": "Maaari mo bang ibigay sa amin ang iyong opinyon?",
+                "MY": "မင်းရဲ့ထင်မြင်ချက်ပေးလို့ရမလား။",
+                "HI": "क्या आप हमें अपनी राय दे सकते हैं?",
+                "AR": "هل يمكنك أن تعطينا رأيك؟",
+                "FA": "میشه نظرت رو به ما بگی؟"
+            }
+        },
+        {
+            "kanji": "このサービスをご利用頂きたいです。",
+            "furigana": "このサービスをご利用(りよう)頂(いただ)きたいです。",
+            "translations": {
+                "EN": "I would like you to use this service.",
+                "ID": "Saya ingin Anda menggunakan layanan ini.",
+                "ES": "Me gustaría que utilizaras este servicio.",
+                "VI": "Tôi muốn bạn sử dụng dịch vụ này.",
+                "FR": "Je souhaiterais que vous utilisiez ce service.",
+                "NE": "म तपाईंलाई यो सेवा प्रयोग गर्न चाहन्छु।",
+                "BN": "আমি চাই তুমি এই পরিষেবাটি ব্যবহার করো।",
+                "ZH": "我希望您使用这项服务。",
+                "KO": "이 서비스를 이용하고 싶습니다.",
+                "TL": "Gusto kong gamitin mo ang serbisyong ito.",
+                "MY": "ဒီဝန်ဆောင်မှုကို သုံးစေချင်ပါတယ်။",
+                "HI": "मैं चाहूंगा कि आप इस सेवा का उपयोग करें।",
+                "AR": "أريد منك استخدام هذه الخدمة.",
+                "FA": "من دوست دارم شما هم از این سرویس استفاده کنید."
+            }
+        },
+        {
+            "kanji": "詳細をご確認いただけますか。",
+            "furigana": "詳細(しょうさい)をご確認(かくにん)いただけますか。",
+            "translations": {
+                "EN": "Can you please provide more details?",
+                "ID": "Bisakah Anda memberikan rincian lebih lanjut?",
+                "ES": "¿Puedes proporcionarnos más detalles?",
+                "VI": "Bạn có thể cung cấp thêm thông tin chi tiết được không?",
+                "FR": "Pouvez-vous s'il vous plaît fournir plus de détails ?",
+                "NE": "के तपाईं थप विवरणहरू प्रदान गर्न सक्नुहुन्छ?",
+                "BN": "আপনি কি আরও বিস্তারিত জানাতে পারবেন?",
+                "ZH": "您能提供更多详细信息吗？",
+                "KO": "자세한 내용을 확인할 수 있습니까?",
+                "TL": "Maaari ka bang magbigay ng higit pang mga detalye?",
+                "MY": "ကျေးဇူးပြု၍ အသေးစိတ်အချက်အလက်များကို ပေးဆောင်နိုင်ပါသလား။",
+                "HI": "क्या आप कृपया अधिक विवरण प्रदान कर सकते हैं?",
+                "AR": "هل يمكنك من فضلك تقديم المزيد من التفاصيل؟",
+                "FA": "میشه لطفا جزئیات بیشتری ارائه بدید؟"
+            }
+        },
+        {
+            "kanji": "後ほどご説明させて頂きます。",
+            "furigana": "後ほど(のちほど)ご説明(せつめい)させて頂(いただ)きます。",
+            "translations": {
+                "EN": "I will explain more about this later.",
+                "ID": "Saya akan menjelaskan lebih lanjut tentang ini nanti.",
+                "ES": "Explicaré más sobre esto más adelante.",
+                "VI": "Tôi sẽ giải thích thêm về điều này sau.",
+                "FR": "J'expliquerai cela plus en détail plus tard.",
+                "NE": "म यसबारे पछि थप व्याख्या गर्नेछु।",
+                "BN": "আমি এই সম্পর্কে পরে আরও ব্যাখ্যা করব।",
+                "ZH": "我稍后会对此进行更多解释。",
+                "KO": "나중에 설명하겠습니다.",
+                "TL": "Ipapaliwanag ko pa ang tungkol dito mamaya.",
+                "MY": "ဒီအကြောင်းကို နောက်မှ ထပ်ရှင်းပြမယ်။",
+                "HI": "मैं इसके बारे में बाद में विस्तार से बताऊंगा।",
+                "AR": "سأشرح المزيد عن هذا لاحقًا.",
+                "FA": "بعداً در این مورد بیشتر توضیح خواهم داد."
+            }
+        },
+        {
+            "kanji": "ご覧いただけますか。",
+            "furigana": "ご覧(ごらん)いただけますか。",
+            "translations": {
+                "EN": "Can you take a look?",
+                "ID": "Bisakah Anda melihatnya?",
+                "ES": "¿Puedes echar un vistazo?",
+                "VI": "Bạn có thể nhìn thấy nó không?",
+                "FR": "Peux-tu jeter un oeil ?",
+                "NE": "के तपाईं यसलाई देख्न सक्नुहुन्छ?",
+                "BN": "তুমি কি একবার দেখে নিতে পারো?",
+                "ZH": "你看得见吗？",
+                "KO": "보시겠습니까?",
+                "TL": "Maaari mo bang tingnan?",
+                "MY": "ကြည့်လို့ရလား",
+                "HI": "क्या आप देख सकते हैं?",
+                "AR": "هل يمكنك إلقاء نظرة؟",
+                "FA": "آیا می‌توانی آن را ببینی؟"
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "menerima, memperoleh, menyetujui, mengambil, membeli (rendah hati)",
+            "ES": "recibir, conseguir, aceptar, tomar, comprar (humilde)",
+            "VI": "nhận, có được, chấp nhận, lấy, mua (khiêm tốn)",
+            "FR": "recevoir, obtenir, accepter, prendre, acheter (humble)",
+            "NE": "प्राप्त गर्नु, प्राप्त गर्नु, स्वीकार गर्नु, लिनु, किन्नु (विनम्र)",
+            "BN": "গ্রহণ করা, গ্রহণ করা, গ্রহণ করা, কেনা (নম্রভাবে)",
+            "ZH": "接收、得到、接受、拿走、购买（谦卑）",
+            "KO": "받다, 얻다, 받아들이다, 취하다, 사다 (겸손하게)",
+            "TL": "tumanggap, kumuha, tumanggap, kumuha, bumili (mapagpakumbaba)",
+            "MY": "လက်ခံရန်၊ ရယူရန်၊ လက်ခံရန်၊ ယူရန်၊ ဝယ်ရန် (နှိမ့်ချခြင်း)",
+            "HI": "प्राप्त करना, पाना, स्वीकार करना, लेना, खरीदना (विनम्र)",
+            "AR": "استلام، الحصول على، قبول، أخذ، شراء (متواضع)",
+            "FA": "دریافت کردن، بدست آوردن، پذیرفتن، گرفتن، خریدن (با فروتنی)",
+            "EN": [
+                "to receive, to get, to accept, to take, to buy (humble)",
+                "to be given (humble, polite)"
+            ]
+        },
+        {
+            "ID": "makan, minum (rendah hati/sopan)",
+            "ES": "comer, beber (humilde/educado)",
+            "VI": "ăn, uống (khiêm tốn/lịch sự)",
+            "FR": "manger, boire (humble/poli)",
+            "NE": "खानु, पिउनु (विनम्र/विनम्र)",
+            "BN": "খাওয়া, পান করা (নম্র/ভদ্র)",
+            "ZH": "吃、喝（谦虚/礼貌）",
+            "KO": "먹다, 마시다 (겸손하게/예의 바르게)",
+            "TL": "kumain, uminom (mapagpakumbaba/magalang)",
+            "MY": "စားသောက်ရန် (နှိမ့်ချ/ယဉ်ကျေး)",
+            "HI": "खाना, पीना (विनम्र/विनम्र)",
+            "AR": "أكل، شرب (متواضع/مهذب)",
+            "FA": "خوردن، آشامیدن (متواضع/مودبانه)",
+            "EN": [
+                "to eat, to drink (humble/polite)"
+            ]
+        },
+        {
+            "ID": "dimahkotai dengan, dipakai di kepala, diletakkan di atas (arti asli/harfiah)",
+            "ES": "ser coronado con, llevar en la cabeza, tener encima (significado original/literal)",
+            "VI": "được đội lên đầu, đội trên đầu, đội trên đỉnh (nghĩa gốc/nghĩa đen)",
+            "FR": "être couronné de, porter sur la tête, avoir sur le dessus (sens original/littéral)",
+            "NE": "शिरमा मुकुट लगाउनु, शिरमा लगाउनु, माथि राख्नु (मूल/शाब्दिक अर्थ)",
+            "BN": "মুকুট পরা, মাথায় পরিধান করা, উপরে রাখা (মূল/আক্ষরিক অর্থ)",
+            "ZH": "加冕为；戴在头上；放在上面（原文/字面意思）",
+            "KO": "왕관을 쓰다, 머리에 쓰다, 위에 두다 (원래의 의미/문자 그대로의 의미)",
+            "TL": "upang makoronahan, isuot sa ulo, magkaroon sa itaas (orihinal/literal na kahulugan)",
+            "MY": "သရဖူဆောင်းရန်၊ ခေါင်းပေါ်တွင်ဝတ်ဆင်ရန်၊ အပေါ်၌ရှိရန် (မူရင်း/စာသားအဓိပ္ပါယ်)",
+            "HI": "मुकुट धारण करना, सिर पर धारण करना, शीर्ष पर रखना (मूल/शाब्दिक अर्थ)",
+            "AR": "أن يُتوّج به، أن يُلبس على الرأس، أن يكون في الأعلى (المعنى الأصلي/الحرفي)",
+            "FA": "تاج بر سر داشتن، بر سر گذاشتن، روی سر داشتن (معنای اصلی/تحت‌اللفظی)",
+            "EN": [
+                "to be crowned with, to wear on one's head, to have on top (original/literal meaning)"
+            ]
+        },
+        {
+            "ID": "memiliki pemimpin, hidup di bawah seorang penguasa, mengangkat (kuno/administratif)",
+            "ES": "tener como líder, vivir bajo un gobernante, instalar (arcaico/administrativo)",
+            "VI": "có người lãnh đạo, sống dưới quyền một người cai trị, thiết lập (cổ xưa/hành chính)",
+            "FR": "avoir comme chef, vivre sous un dirigeant, installer (archaïque/administratif)",
+            "NE": "आफ्नो नेता हुनु, शासकको अधीनमा बस्नु, स्थापित गर्नु (पुरातन/प्रशासनिक)",
+            "BN": "নেতা থাকা, শাসকের অধীনে থাকা, প্রতিষ্ঠা করা (প্রাচীন/প্রশাসনিক)",
+            "ZH": "拥有领导者，生活在统治者之下，安装（古代/行政）",
+            "KO": "지도자로 삼다, 통치자 밑에서 살다, (고어/행정적)을 설치하다",
+            "TL": "upang magkaroon bilang isang pinuno, upang mamuhay sa ilalim ng isang pinuno, upang i-install (archaic/administrative)",
+            "MY": "ခေါင်းဆောင်အဖြစ်ရှိရန်၊ အုပ်စိုးရှင်လက်အောက်တွင် နေထိုင်ရန်၊ တပ်ဆင်ရန် (ရှေးဟောင်း/အုပ်ချုပ်ရေး)၊",
+            "HI": "किसी को अपना नेता बनाना, किसी शासक के अधीन रहना, स्थापित करना (पुरातन/प्रशासनिक)",
+            "AR": "أن يكون له زعيم، أن يعيش تحت حكم حاكم، أن ينصب (قديم/إداري)",
+            "FA": "رهبر داشتن، تحت فرمان یک حاکم زندگی کردن، منصوب کردن (کهن/اداری)",
+            "EN": [
+                "to have as one's leader, to live under a ruler, to install (archaic/administrative)"
+            ]
+        },
+        {
+            "ID": "bantu: meminta seseorang melakukan sesuatu (mengikuti kata kerja dalam bentuk -て; nuansa rendah hati/sopan)",
+            "ES": "auxiliar: hacer que alguien haga algo (sigue a un verbo en forma -て; matiz humilde/cortés)",
+            "VI": "trợ động từ: khiến ai đó làm gì đó (theo sau động từ dạng -て; sắc thái khiêm tốn/lịch sự)",
+            "FR": "auxiliaire : amener quelqu'un à faire quelque chose (suit un verbe en -て ; nuance humble/polie)",
+            "NE": "सहायक: कसैलाई केही गर्न लगाउनु (क्रियापदको पछि -て रूप आउँछ; नम्र/विनम्र सूक्ष्मता)",
+            "BN": "সহায়ক: কাউকে কিছু করাতে (ক্রিয়াপদের পরে -て আকারে; নম্র/ভদ্র সূক্ষ্মতা)",
+            "ZH": "助动词：让某人做某事（跟在 -て 形式的动词后面；谦卑/礼貌的细微差别）",
+            "KO": "보조: 누군가에게 무언가를 하게 하다 (동사 뒤에 -て 형태로 옴; 겸손/공손한 뉘앙스)",
+            "TL": "pantulong: upang makakuha ng isang tao na gumawa ng isang bagay (sumusunod sa isang pandiwa sa -て form; mapagpakumbaba/magalang na nuance)",
+            "MY": "auxiliary- တစ်စုံတစ်ဦးအား တစ်စုံတစ်ခုပြုလုပ်ရန် (-て ပုံစံဖြင့် ကြိယာကို လိုက်နာရန်၊ နှိမ့်ချ/ယဉ်ကျေးသော ကွဲပြားမှု)",
+            "HI": "सहायक: किसी को कुछ करने के लिए प्रेरित करना (-て रूप में क्रिया के बाद आता है; विनम्र/विनम्र सूक्ष्म अर्थ)",
+            "AR": "مساعد: جعل شخص ما يفعل شيئًا ما (يتبع الفعل في صيغة -て؛ فارق بسيط متواضع/مهذب)",
+            "FA": "کمکی: وادار کردن کسی به انجام کاری (بعد از فعل به شکل -て می‌آید؛ ظرافت فروتنانه/مودبانه)",
+            "EN": [
+                "auxiliary: to get someone to do something (follows a verb in -て form; humble/polite nuance)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "頂く",
+        "is_common": true,
+        "tags": [
+            "wanikani51"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "頂く",
+                "reading": "いただく"
+            },
+            {
+                "word": "戴く",
+                "reading": "いただく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to receive",
+                    "to get",
+                    "to accept",
+                    "to take",
+                    "to buy"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Humble (kenjougo) language",
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "貰う"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to eat",
+                    "to drink"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Humble (kenjougo) language",
+                    "Polite (teineigo) language",
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be crowned with",
+                    "to wear (on one's head)",
+                    "to have (on top)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "orig. meaning"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to have (as one's leader)",
+                    "to live under (a ruler)",
+                    "to install (a president)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to get someone to do something"
+                ],
+                "parts_of_speech": [
+                    "Auxiliary verb",
+                    "Godan verb with 'ku' ending"
+                ],
+                "links": [],
+                "tags": [
+                    "Humble (kenjougo) language",
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "貰う もらう"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "follows a verb in \"-te\" form"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "頂"
+    ],
+    "kanji_data": {
+        "頂": {
+            "freq_mainichi_shinbun": 1350,
+            "grade": 6,
+            "heisig_en": "place on the head",
+            "jlpt": 3,
+            "kanji": "頂",
+            "kun_readings": [
+                "いただ.く",
+                "いただき"
+            ],
+            "meanings": [
+                "peak",
+                "place on the head",
+                "receive",
+                "summit",
+                "top",
+                "top of head"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "チョウ"
+            ],
+            "stroke_count": 11,
+            "unicode": "9802"
+        }
     }
-  },
-  "kanji_list": [
-    "頂"
-  ],
-  "kanji_data": {
-    "頂": {
-      "freq_mainichi_shinbun": 1350,
-      "grade": 6,
-      "heisig_en": "place on the head",
-      "jlpt": 3,
-      "kanji": "頂",
-      "kun_readings": [
-        "いただ.く",
-        "いただき"
-      ],
-      "meanings": [
-        "peak",
-        "place on the head",
-        "receive",
-        "summit",
-        "top",
-        "top of head"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "チョウ"
-      ],
-      "stroke_count": 11,
-      "unicode": "9802"
-    }
-  }
 }

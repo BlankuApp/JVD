@@ -1,462 +1,463 @@
 {
-  "version": "0.3.0",
-  "word": "許可",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/zONPY9glhqE",
-  "in_db": true,
-  "kanji": "許可",
-  "reading": "きょか",
-  "introduction_japanese": "許可は、入場、使用、建築、輸入、出国など、誰かに何かをしていいと認める場面でよく使う言葉です。書類や申請、公式な手続きの話でもよく出てきます。",
-  "introduction_english": "The noun and verb きょか is commonly used in situations about letting someone do something, like allowing entry, use, construction, import, or departure; it's also common when talking about documents, applications, and official procedures.",
-  "meanings": [
-    [
-      "permission",
-      "approval",
-      "authorization",
-      "license"
-    ]
-  ],
-  "meaning_explanation_japanese": "「許可」は、誰かに何かをしていいと認めることを表す言葉です。個人レベルでも公式な手続きでも使います。",
-  "meaning_explanation_english": "The word きょか means granting someone permission, approval, or authorization to do something. You can use it for both personal and official situations.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "許",
-      "common_words": [
-        "許す (ゆるす): to forgive; to permit",
-        "許容 (きょよう): tolerance; allowable range"
-      ],
-      "meanings": [
-        "approve",
-        "permit"
-      ],
-      "on_readings": [
-        "キョ"
-      ],
-      "kun_readings": [
-        "もと",
-        "ゆる.す"
-      ]
-    },
-    {
-      "kanji": "可",
-      "common_words": [
-        "可能 (かのう): possible",
-        "可決 (かけつ): approval; passage (of a bill)"
-      ],
-      "meanings": [
-        "can",
-        "passable",
-        "allowable"
-      ],
-      "on_readings": [
-        "カ",
-        "コク"
-      ],
-      "kun_readings": [
-        "-べ.き",
-        "-べ.し"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means approve or permit. It carries the idea of allowing or forgiving. For example, ゆるす means to forgive or allow, and きょよう means tolerance, where the kanji gives the sense of permitting. The second kanji means can or possible. It expresses ability or that something is allowable. For example, かのう means possible, and かけつ means formal approval, where the kanji adds the sense of being allowable.",
-  "synonyms": [
-    "承認 : しょうにん : approval",
-    "認可 : にんか : authorization"
-  ],
-  "synonym_explanation": "The most common synonyms of the きょか are しょうにん and にんか. しょうにん is a general word for approval or agreement, often used for decisions or confirmations; にんか is closer to official authorization or legal permission.",
-  "antonyms": [
-    "拒否 : きょひ : refusal"
-  ],
-  "antonym_explanation": "The most common antonym of the きょか is きょひ. きょひ means refusal or rejection, the opposite of granting permission.",
-  "collocations": [
-    {
-      "kanji": "入場を許可する",
-      "furigana": "入場を許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "使用を許可する",
-      "furigana": "使用を許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "建築を許可する",
-      "furigana": "建築を許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "輸入を許可する",
-      "furigana": "輸入を許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "開発を許可する",
-      "furigana": "開発を許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "営業の許可",
-      "furigana": "営業の許可",
-      "translations": {}
-    },
-    {
-      "kanji": "建築の許可",
-      "furigana": "建築の許可",
-      "translations": {}
-    },
-    {
-      "kanji": "使用の許可",
-      "furigana": "使用の許可",
-      "translations": {}
-    },
-    {
-      "kanji": "出国の許可",
-      "furigana": "出国の許可",
-      "translations": {}
-    },
-    {
-      "kanji": "立ち入りの許可",
-      "furigana": "立ち入りの許可",
-      "translations": {}
-    },
-    {
-      "kanji": "特別に許可する",
-      "furigana": "特別に許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "例外的に許可する",
-      "furigana": "例外的に許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "正式に許可する",
-      "furigana": "正式に許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "一時的に許可する",
-      "furigana": "一時的に許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "厳格に許可する",
-      "furigana": "厳格に許可する",
-      "translations": {}
-    },
-    {
-      "kanji": "許可が下りる",
-      "furigana": "許可が下りる",
-      "translations": {}
-    },
-    {
-      "kanji": "許可を得る",
-      "furigana": "許可を得る",
-      "translations": {}
-    },
-    {
-      "kanji": "許可を申請する",
-      "furigana": "許可を申請する",
-      "translations": {}
-    },
-    {
-      "kanji": "許可を与える",
-      "furigana": "許可を与える",
-      "translations": {}
-    },
-    {
-      "kanji": "許可を取り消す",
-      "furigana": "許可を取り消す",
-      "translations": {}
-    },
-    {
-      "kanji": "許可なく立ち入る",
-      "furigana": "許可なく立ち入る",
-      "translations": {}
-    },
-    {
-      "kanji": "許可なしで使用する",
-      "furigana": "許可なしで使用する",
-      "translations": {}
-    },
-    {
-      "kanji": "許可のもとに行う",
-      "furigana": "許可のもとに行う",
-      "translations": {}
-    },
-    {
-      "kanji": "許可を待つ",
-      "furigana": "許可を待つ",
-      "translations": {}
-    },
-    {
-      "kanji": "許可を必要とする",
-      "furigana": "許可を必要とする",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "入場を許可する。",
-      "furigana": "入場(にゅうじょう)を許可(きょか)する。",
-      "translations": {
-        "EN": "Admission is permitted.",
-        "ID": "Masuk diperbolehkan.",
-        "ES": "Se permite la entrada.",
-        "VI": "Được phép vào cửa.",
-        "FR": "L'entrée est autorisée.",
-        "NE": "प्रवेश अनुमति छ।",
-        "BN": "ভর্তির অনুমতি আছে।",
-        "ZH": "允许入场。",
-        "KO": "입장을 허가한다.",
-        "TL": "Pinahihintulutan ang pagpasok.",
-        "MY": "ဝင်ခွင့်ခွင့်ပြုထားသည်။",
-        "HI": "प्रवेश की अनुमति है।",
-        "AR": "الدخول مسموح.",
-        "FA": "ورود مجاز است."
-      }
-    },
-    {
-      "kanji": "使用を許可してください。",
-      "furigana": "使用(しよう)を許可(きょか)してください。",
-      "translations": {
-        "EN": "Please allow use.",
-        "ID": "Mohon izinkan penggunaan.",
-        "ES": "Por favor permita su uso.",
-        "VI": "Xin vui lòng cho phép sử dụng.",
-        "FR": "Veuillez autoriser l'utilisation.",
-        "NE": "कृपया प्रयोग गर्न अनुमति दिनुहोस्।",
-        "BN": "ব্যবহারের অনুমতি দিন।",
-        "ZH": "请允许使用。",
-        "KO": "사용을 허용하십시오.",
-        "TL": "Mangyaring payagan ang paggamit.",
-        "MY": "အသုံးပြုခွင့်ပေးပါ။",
-        "HI": "कृपया उपयोग की अनुमति दें.",
-        "AR": "يرجى السماح بالاستخدام.",
-        "FA": "لطفا اجازه استفاده بدهید."
-      }
-    },
-    {
-      "kanji": "建築の許可が下りた。",
-      "furigana": "建築(けんちく)の許可(きょか)が下(お)りた。",
-      "translations": {
-        "EN": "The building permit was granted.",
-        "ID": "Izin mendirikan bangunan telah diberikan.",
-        "ES": "Se concedió el permiso de construcción.",
-        "VI": "Giấy phép xây dựng đã được cấp.",
-        "FR": "Le permis de construire a été accordé.",
-        "NE": "भवन निर्माण अनुमतिपत्र प्रदान गरियो।",
-        "BN": "নির্মাণের অনুমতিপত্র মঞ্জুর করা হয়েছে।",
-        "ZH": "建筑许可证已获批准。",
-        "KO": "건축 허가가 내렸다.",
-        "TL": "Ipinagkaloob ang building permit.",
-        "MY": "ဆောက်လုပ်ခွင့်ကို ခွင့်ပြုပေးခဲ့သည်။",
-        "HI": "भवन निर्माण की अनुमति प्रदान कर दी गई।",
-        "AR": "تمت الموافقة على رخصة البناء.",
-        "FA": "پروانه ساخت صادر شد."
-      }
-    },
-    {
-      "kanji": "許可を申請する。",
-      "furigana": "許可(きょか)を申請(しんせい)する。",
-      "translations": {
-        "EN": "Apply for permission.",
-        "ID": "Ajukan permohonan izin.",
-        "ES": "Solicitar permiso.",
-        "VI": "Xin giấy phép.",
-        "FR": "Demander une autorisation.",
-        "NE": "अनुमतिको लागि आवेदन दिनुहोस्।",
-        "BN": "অনুমতির জন্য আবেদন করুন।",
-        "ZH": "申請授權。",
-        "KO": "허가를 신청한다.",
-        "TL": "Mag-apply para sa pahintulot.",
-        "MY": "ခွင့်ပြုချက်လျှောက်ထားပါ။",
-        "HI": "अनुमति के लिए आवेदन करें.",
-        "AR": "التقدم بطلب للحصول على إذن.",
-        "FA": "درخواست مجوز دهید."
-      }
-    },
-    {
-      "kanji": "許可を得た。",
-      "furigana": "許可(きょか)を得(え)た。",
-      "translations": {
-        "EN": "Permission was obtained.",
-        "ID": "Izin telah diperoleh.",
-        "ES": "Se obtuvo el permiso.",
-        "VI": "Đã được cấp phép.",
-        "FR": "L'autorisation a été obtenue.",
-        "NE": "अनुमति प्राप्त भयो।",
-        "BN": "অনুমতি মিলল।",
-        "ZH": "已獲得允許。",
-        "KO": "허가를 얻었다.",
-        "TL": "Nakuha ang pahintulot.",
-        "MY": "ခွင့်ပြုချက်ရယူခဲ့သည်။",
-        "HI": "अनुमति प्राप्त हो गई।",
-        "AR": "تم الحصول على الإذن.",
-        "FA": "اجازه گرفته شد."
-      }
-    },
-    {
-      "kanji": "許可を取り消す。",
-      "furigana": "許可(きょか)を取(と)り消(け)す。",
-      "translations": {
-        "EN": "Revoke permission.",
-        "ID": "Cabut izin.",
-        "ES": "Revocar permiso.",
-        "VI": "Thu hồi quyền.",
-        "FR": "Révoquer l'autorisation.",
-        "NE": "अनुमति रद्द गर्नुहोस्।",
-        "BN": "অনুমতি প্রত্যাহার করুন।",
-        "ZH": "撤销许可。",
-        "KO": "권한을 취소합니다.",
-        "TL": "Bawiin ang pahintulot.",
-        "MY": "ခွင့်ပြုချက်ကို ရုပ်သိမ်းပါ။",
-        "HI": "अनुमति रद्द करें.",
-        "AR": "إلغاء الإذن.",
-        "FA": "لغو مجوز."
-      }
-    },
-    {
-      "kanji": "許可なく立ち入ってはいけない。",
-      "furigana": "許可(きょか)なく立(た)ち入(い)ってはいけない。",
-      "translations": {
-        "EN": "You must not enter without permission.",
-        "ID": "Anda tidak boleh masuk tanpa izin.",
-        "ES": "No debes entrar sin permiso.",
-        "VI": "Bạn không được phép vào nếu không có sự cho phép.",
-        "FR": "Vous ne devez pas entrer sans permission.",
-        "NE": "अनुमति बिना प्रवेश गर्नु हुँदैन।",
-        "BN": "অনুমতি ছাড়া প্রবেশ করা উচিত নয়।",
-        "ZH": "未经允许，不得进入。",
-        "KO": "허가 없이 들어가지 말라.",
-        "TL": "Hindi ka dapat pumasok nang walang pahintulot.",
-        "MY": "ခွင့်ပြုချက်မရှိဘဲ မဝင်ရပါ။",
-        "HI": "आपको बिना अनुमति के प्रवेश नहीं करना चाहिए।",
-        "AR": "لا يجوز لك الدخول بدون إذن.",
-        "FA": "بدون اجازه نباید وارد شوید."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "permission": {
-      "ID": "izin",
-      "ES": "permiso",
-      "VI": "sự cho phép",
-      "FR": "autorisation",
-      "NE": "अनुमति",
-      "BN": "অনুমতি",
-      "ZH": "允许",
-      "KO": "허가",
-      "TL": "pahintulot",
-      "MY": "ခွင့်ပြုချက်",
-      "HI": "अनुमति",
-      "AR": "إذن",
-      "FA": "اجازه",
-      "EN": [
-        "approval",
-        "authorization",
-        "license"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "許可",
-    "is_common": true,
-    "tags": [
-      "wanikani18"
+    "version": "0.3.0",
+    "word": "許可",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/zONPY9glhqE",
+    "in_db": true,
+    "kanji": "許可",
+    "reading": "きょか",
+    "introduction_japanese": "許可は、入場、使用、建築、輸入、出国など、誰かに何かをしていいと認める場面でよく使う言葉です。書類や申請、公式な手続きの話でもよく出てきます。",
+    "introduction_english": "The noun and verb きょか is commonly used in situations about letting someone do something, like allowing entry, use, construction, import, or departure; it's also common when talking about documents, applications, and official procedures.",
+    "meanings": [
+        [
+            "permission",
+            "approval",
+            "authorization",
+            "license"
+        ]
     ],
-    "jlpt": [
-      "jlpt-n3"
+    "meaning_explanation_japanese": "「許可」は、誰かに何かをしていいと認めることを表す言葉です。個人レベルでも公式な手続きでも使います。",
+    "meaning_explanation_english": "The word きょか means granting someone permission, approval, or authorization to do something. You can use it for both personal and official situations.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "許",
+            "common_words": [
+                "許す (ゆるす): to forgive; to permit",
+                "許容 (きょよう): tolerance; allowable range"
+            ],
+            "meanings": [
+                "approve",
+                "permit"
+            ],
+            "on_readings": [
+                "キョ"
+            ],
+            "kun_readings": [
+                "もと",
+                "ゆる.す"
+            ]
+        },
+        {
+            "kanji": "可",
+            "common_words": [
+                "可能 (かのう): possible",
+                "可決 (かけつ): approval; passage (of a bill)"
+            ],
+            "meanings": [
+                "can",
+                "passable",
+                "allowable"
+            ],
+            "on_readings": [
+                "カ",
+                "コク"
+            ],
+            "kun_readings": [
+                "-べ.き",
+                "-べ.し"
+            ]
+        }
     ],
-    "japanese": [
-      {
-        "word": "許可",
-        "reading": "きょか"
-      }
+    "kanji_explanation": "The first kanji means approve or permit. It carries the idea of allowing or forgiving. For example, ゆるす means to forgive or allow, and きょよう means tolerance, where the kanji gives the sense of permitting. The second kanji means can or possible. It expresses ability or that something is allowable. For example, かのう means possible, and かけつ means formal approval, where the kanji adds the sense of being allowable.",
+    "synonyms": [
+        "承認 : しょうにん : approval",
+        "認可 : にんか : authorization"
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "permission",
-          "approval",
-          "authorization",
-          "license"
+    "synonym_explanation": "The most common synonyms of the きょか are しょうにん and にんか. しょうにん is a general word for approval or agreement, often used for decisions or confirmations; にんか is closer to official authorization or legal permission.",
+    "antonyms": [
+        "拒否 : きょひ : refusal"
+    ],
+    "antonym_explanation": "The most common antonym of the きょか is きょひ. きょひ means refusal or rejection, the opposite of granting permission.",
+    "collocations": [
+        {
+            "kanji": "入場を許可する",
+            "furigana": "入場を許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "使用を許可する",
+            "furigana": "使用を許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "建築を許可する",
+            "furigana": "建築を許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "輸入を許可する",
+            "furigana": "輸入を許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "開発を許可する",
+            "furigana": "開発を許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "営業の許可",
+            "furigana": "営業の許可",
+            "translations": {}
+        },
+        {
+            "kanji": "建築の許可",
+            "furigana": "建築の許可",
+            "translations": {}
+        },
+        {
+            "kanji": "使用の許可",
+            "furigana": "使用の許可",
+            "translations": {}
+        },
+        {
+            "kanji": "出国の許可",
+            "furigana": "出国の許可",
+            "translations": {}
+        },
+        {
+            "kanji": "立ち入りの許可",
+            "furigana": "立ち入りの許可",
+            "translations": {}
+        },
+        {
+            "kanji": "特別に許可する",
+            "furigana": "特別に許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "例外的に許可する",
+            "furigana": "例外的に許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "正式に許可する",
+            "furigana": "正式に許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "一時的に許可する",
+            "furigana": "一時的に許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "厳格に許可する",
+            "furigana": "厳格に許可する",
+            "translations": {}
+        },
+        {
+            "kanji": "許可が下りる",
+            "furigana": "許可が下りる",
+            "translations": {}
+        },
+        {
+            "kanji": "許可を得る",
+            "furigana": "許可を得る",
+            "translations": {}
+        },
+        {
+            "kanji": "許可を申請する",
+            "furigana": "許可を申請する",
+            "translations": {}
+        },
+        {
+            "kanji": "許可を与える",
+            "furigana": "許可を与える",
+            "translations": {}
+        },
+        {
+            "kanji": "許可を取り消す",
+            "furigana": "許可を取り消す",
+            "translations": {}
+        },
+        {
+            "kanji": "許可なく立ち入る",
+            "furigana": "許可なく立ち入る",
+            "translations": {}
+        },
+        {
+            "kanji": "許可なしで使用する",
+            "furigana": "許可なしで使用する",
+            "translations": {}
+        },
+        {
+            "kanji": "許可のもとに行う",
+            "furigana": "許可のもとに行う",
+            "translations": {}
+        },
+        {
+            "kanji": "許可を待つ",
+            "furigana": "許可を待つ",
+            "translations": {}
+        },
+        {
+            "kanji": "許可を必要とする",
+            "furigana": "許可を必要とする",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "入場を許可する。",
+            "furigana": "入場(にゅうじょう)を許可(きょか)する。",
+            "translations": {
+                "EN": "Admission is permitted.",
+                "ID": "Masuk diperbolehkan.",
+                "ES": "Se permite la entrada.",
+                "VI": "Được phép vào cửa.",
+                "FR": "L'entrée est autorisée.",
+                "NE": "प्रवेश अनुमति छ।",
+                "BN": "ভর্তির অনুমতি আছে।",
+                "ZH": "允许入场。",
+                "KO": "입장을 허가한다.",
+                "TL": "Pinahihintulutan ang pagpasok.",
+                "MY": "ဝင်ခွင့်ခွင့်ပြုထားသည်။",
+                "HI": "प्रवेश की अनुमति है।",
+                "AR": "الدخول مسموح.",
+                "FA": "ورود مجاز است."
+            }
+        },
+        {
+            "kanji": "使用を許可してください。",
+            "furigana": "使用(しよう)を許可(きょか)してください。",
+            "translations": {
+                "EN": "Please allow use.",
+                "ID": "Mohon izinkan penggunaan.",
+                "ES": "Por favor permita su uso.",
+                "VI": "Xin vui lòng cho phép sử dụng.",
+                "FR": "Veuillez autoriser l'utilisation.",
+                "NE": "कृपया प्रयोग गर्न अनुमति दिनुहोस्।",
+                "BN": "ব্যবহারের অনুমতি দিন।",
+                "ZH": "请允许使用。",
+                "KO": "사용을 허용하십시오.",
+                "TL": "Mangyaring payagan ang paggamit.",
+                "MY": "အသုံးပြုခွင့်ပေးပါ။",
+                "HI": "कृपया उपयोग की अनुमति दें.",
+                "AR": "يرجى السماح بالاستخدام.",
+                "FA": "لطفا اجازه استفاده بدهید."
+            }
+        },
+        {
+            "kanji": "建築の許可が下りた。",
+            "furigana": "建築(けんちく)の許可(きょか)が下(お)りた。",
+            "translations": {
+                "EN": "The building permit was granted.",
+                "ID": "Izin mendirikan bangunan telah diberikan.",
+                "ES": "Se concedió el permiso de construcción.",
+                "VI": "Giấy phép xây dựng đã được cấp.",
+                "FR": "Le permis de construire a été accordé.",
+                "NE": "भवन निर्माण अनुमतिपत्र प्रदान गरियो।",
+                "BN": "নির্মাণের অনুমতিপত্র মঞ্জুর করা হয়েছে।",
+                "ZH": "建筑许可证已获批准。",
+                "KO": "건축 허가가 내렸다.",
+                "TL": "Ipinagkaloob ang building permit.",
+                "MY": "ဆောက်လုပ်ခွင့်ကို ခွင့်ပြုပေးခဲ့သည်။",
+                "HI": "भवन निर्माण की अनुमति प्रदान कर दी गई।",
+                "AR": "تمت الموافقة على رخصة البناء.",
+                "FA": "پروانه ساخت صادر شد."
+            }
+        },
+        {
+            "kanji": "許可を申請する。",
+            "furigana": "許可(きょか)を申請(しんせい)する。",
+            "translations": {
+                "EN": "Apply for permission.",
+                "ID": "Ajukan permohonan izin.",
+                "ES": "Solicitar permiso.",
+                "VI": "Xin giấy phép.",
+                "FR": "Demander une autorisation.",
+                "NE": "अनुमतिको लागि आवेदन दिनुहोस्।",
+                "BN": "অনুমতির জন্য আবেদন করুন।",
+                "ZH": "申請授權。",
+                "KO": "허가를 신청한다.",
+                "TL": "Mag-apply para sa pahintulot.",
+                "MY": "ခွင့်ပြုချက်လျှောက်ထားပါ။",
+                "HI": "अनुमति के लिए आवेदन करें.",
+                "AR": "التقدم بطلب للحصول على إذن.",
+                "FA": "درخواست مجوز دهید."
+            }
+        },
+        {
+            "kanji": "許可を得た。",
+            "furigana": "許可(きょか)を得(え)た。",
+            "translations": {
+                "EN": "Permission was obtained.",
+                "ID": "Izin telah diperoleh.",
+                "ES": "Se obtuvo el permiso.",
+                "VI": "Đã được cấp phép.",
+                "FR": "L'autorisation a été obtenue.",
+                "NE": "अनुमति प्राप्त भयो।",
+                "BN": "অনুমতি মিলল।",
+                "ZH": "已獲得允許。",
+                "KO": "허가를 얻었다.",
+                "TL": "Nakuha ang pahintulot.",
+                "MY": "ခွင့်ပြုချက်ရယူခဲ့သည်။",
+                "HI": "अनुमति प्राप्त हो गई।",
+                "AR": "تم الحصول على الإذن.",
+                "FA": "اجازه گرفته شد."
+            }
+        },
+        {
+            "kanji": "許可を取り消す。",
+            "furigana": "許可(きょか)を取(と)り消(け)す。",
+            "translations": {
+                "EN": "Revoke permission.",
+                "ID": "Cabut izin.",
+                "ES": "Revocar permiso.",
+                "VI": "Thu hồi quyền.",
+                "FR": "Révoquer l'autorisation.",
+                "NE": "अनुमति रद्द गर्नुहोस्।",
+                "BN": "অনুমতি প্রত্যাহার করুন।",
+                "ZH": "撤销许可。",
+                "KO": "권한을 취소합니다.",
+                "TL": "Bawiin ang pahintulot.",
+                "MY": "ခွင့်ပြုချက်ကို ရုပ်သိမ်းပါ။",
+                "HI": "अनुमति रद्द करें.",
+                "AR": "إلغاء الإذن.",
+                "FA": "لغو مجوز."
+            }
+        },
+        {
+            "kanji": "許可なく立ち入ってはいけない。",
+            "furigana": "許可(きょか)なく立(た)ち入(い)ってはいけない。",
+            "translations": {
+                "EN": "You must not enter without permission.",
+                "ID": "Anda tidak boleh masuk tanpa izin.",
+                "ES": "No debes entrar sin permiso.",
+                "VI": "Bạn không được phép vào nếu không có sự cho phép.",
+                "FR": "Vous ne devez pas entrer sans permission.",
+                "NE": "अनुमति बिना प्रवेश गर्नु हुँदैन।",
+                "BN": "অনুমতি ছাড়া প্রবেশ করা উচিত নয়।",
+                "ZH": "未经允许，不得进入。",
+                "KO": "허가 없이 들어가지 말라.",
+                "TL": "Hindi ka dapat pumasok nang walang pahintulot.",
+                "MY": "ခွင့်ပြုချက်မရှိဘဲ မဝင်ရပါ။",
+                "HI": "आपको बिना अनुमति के प्रवेश नहीं करना चाहिए।",
+                "AR": "لا يجوز لك الدخول بدون إذن.",
+                "FA": "بدون اجازه نباید وارد شوید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "izin",
+            "ES": "permiso",
+            "VI": "sự cho phép",
+            "FR": "autorisation",
+            "NE": "अनुमति",
+            "BN": "অনুমতি",
+            "ZH": "允许",
+            "KO": "허가",
+            "TL": "pahintulot",
+            "MY": "ခွင့်ပြုချက်",
+            "HI": "अनुमति",
+            "AR": "إذن",
+            "FA": "اجازه",
+            "EN": [
+                "permission",
+                "approval",
+                "authorization",
+                "license"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "許可",
+        "is_common": true,
+        "tags": [
+            "wanikani18"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
-    }
-  },
-  "kanji_list": [
-    "許",
-    "可"
-  ],
-  "kanji_data": {
-    "許": {
-      "freq_mainichi_shinbun": 720,
-      "grade": 5,
-      "heisig_en": "permit",
-      "jlpt": 3,
-      "kanji": "許",
-      "kun_readings": [
-        "もと",
-        "ゆる.す"
-      ],
-      "meanings": [
-        "approve",
-        "permit"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "キョ"
-      ],
-      "stroke_count": 11,
-      "unicode": "8A31"
+        "japanese": [
+            {
+                "word": "許可",
+                "reading": "きょか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "permission",
+                    "approval",
+                    "authorization",
+                    "license"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
     },
-    "可": {
-      "freq_mainichi_shinbun": 314,
-      "grade": 5,
-      "heisig_en": "can",
-      "jlpt": null,
-      "kanji": "可",
-      "kun_readings": [
-        "-べ.き",
-        "-べ.し"
-      ],
-      "meanings": [
-        "can",
-        "do not",
-        "mustn't",
-        "passable",
-        "should not"
-      ],
-      "name_readings": [
-        "よし"
-      ],
-      "notes": [],
-      "on_readings": [
-        "カ",
-        "コク"
-      ],
-      "stroke_count": 5,
-      "unicode": "53EF"
+    "kanji_list": [
+        "許",
+        "可"
+    ],
+    "kanji_data": {
+        "許": {
+            "freq_mainichi_shinbun": 720,
+            "grade": 5,
+            "heisig_en": "permit",
+            "jlpt": 3,
+            "kanji": "許",
+            "kun_readings": [
+                "もと",
+                "ゆる.す"
+            ],
+            "meanings": [
+                "approve",
+                "permit"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "キョ"
+            ],
+            "stroke_count": 11,
+            "unicode": "8A31"
+        },
+        "可": {
+            "freq_mainichi_shinbun": 314,
+            "grade": 5,
+            "heisig_en": "can",
+            "jlpt": null,
+            "kanji": "可",
+            "kun_readings": [
+                "-べ.き",
+                "-べ.し"
+            ],
+            "meanings": [
+                "can",
+                "do not",
+                "mustn't",
+                "passable",
+                "should not"
+            ],
+            "name_readings": [
+                "よし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カ",
+                "コク"
+            ],
+            "stroke_count": 5,
+            "unicode": "53EF"
+        }
     }
-  }
 }

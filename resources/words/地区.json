@@ -1,248 +1,255 @@
 {
-  "version": "0.3.0",
-  "word": "地区",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/hKic1iSEois",
-  "in_db": true,
-  "kanji": "地区",
-  "reading": "ちく",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is ちく which you will often hear in contexts like geography lessons, urban planning discussions, or when someone tries to describe the layout of a city, for example, \"the shopping district\" or \"residential area\".",
-  "meanings": [
-    [
-      "district",
-      "area",
-      "zone",
-      "quarter",
-      "section",
-      "region"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word 区 (く) means \"area\" or \"district\". It is used to describe a particular geographic location or a division within a city or town in Japan. This can refer to neighborhoods, communities, or specific regions. When you think of a 区 (く) in Japan, imagine a part of the city that's recognized for its own unique characteristics or administrative functions.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "地",
-      "common_words": [
-        "地図: map",
-        "地下: underground"
-      ]
-    },
-    {
-      "kanji": "区",
-      "common_words": [
-        "区別: distinction",
-        "区役所: ward office"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "地帯 : ちたい : zone",
-    "地域 : ちいき : area"
-  ],
-  "synonym_explanation": "The most common synonyms of 区 (く) are ちたい which means \"zone\" or \"belt,\" often referring to a broader stretch of land, and ちいき which is similar to \"region\" and is used for larger, often rural areas. 区 (く) can be more specific, often used within city contexts.",
-  "antonyms": [
-    "中心 : ちゅうしん : center",
-    "本部 : ほんぶ : headquarters"
-  ],
-  "antonym_explanation": "The most common antonyms of 区 (く) are ちゅうしん which means \"center,\" or \"central area,\" often referring to the heart or core part of something, and ほんぶ which means \"headquarters,\" focusing on the main or central organizational point, contrasting with the segmented nature of 区 (く).",
-  "collocations": [
-    {
-      "kanji": "ちくちょう",
-      "furigana": "ちくちょう",
-      "translations": {}
-    },
-    {
-      "kanji": "ちくない",
-      "furigana": "ちくない",
-      "translations": {}
-    },
-    {
-      "kanji": "ちくほう",
-      "furigana": "ちくほう",
-      "translations": {}
-    },
-    {
-      "kanji": "ちくぶつ",
-      "furigana": "ちくぶつ",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "この地区には公園があります。",
-      "furigana": "この地区(ちく)には公園(こうえん)があります。",
-      "translations": {
-        "EN": "There is a park in this district.",
-        "ID": "Ada taman di distrik ini.",
-        "ES": "Hay un parque en este distrito.",
-        "VI": "Có một công viên ở khu vực này.",
-        "FR": "Il y a un parc dans ce quartier.",
-        "NE": "यो क्षेत्रमा एउटा पार्क छ।",
-        "BN": "এই এলাকায় একটি পার্ক রয়েছে।",
-        "ZH": "在这个地区有一个公园。",
-        "KO": "이 지역에는 공원이 있습니다.",
-        "TL": "May parke sa distrito na ito.",
-        "MY": "ဒီရပ်ကွက်မှာ ပန်းခြံရှိတယ်။",
-        "HI": "इस क्षेत्र में एक पार्क है।",
-        "AR": "يوجد منتزه في هذا الحي.",
-        "FA": "در این منطقه پارکی وجود دارد."
-      }
-    },
-    {
-      "kanji": "この地区は静かです。",
-      "furigana": "この地区(ちく)は静(しず)かです。",
-      "translations": {
-        "EN": "This area is quiet.",
-        "ID": "Daerah ini tenang.",
-        "ES": "Esta zona es tranquila.",
-        "VI": "Khu vực này yên tĩnh.",
-        "FR": "Cette région est calme.",
-        "NE": "यो क्षेत्र शान्त छ।",
-        "BN": "এই এলাকা শান্ত।",
-        "ZH": "这个地区很安静。",
-        "KO": "이 지역은 조용합니다.",
-        "TL": "Tahimik ang lugar na ito.",
-        "MY": "ဤဒေသမှာတိတ်ဆိတ်တယ်။",
-        "HI": "यह क्षेत्र शांत है।",
-        "AR": "هذه المنطقة هادئة.",
-        "FA": "این منطقه آرام است."
-      }
-    },
-    {
-      "kanji": "新しい地区は静かです。",
-      "furigana": "新しい(あたらしい)地区(ちく)は静か(しずか)です。",
-      "translations": {
-        "EN": "The new district is quiet.",
-        "ID": "Distrik baru itu tenang.",
-        "ES": "El nuevo distrito es tranquilo.",
-        "VI": "Khu vực mới rất yên tĩnh.",
-        "FR": "Le nouveau quartier est calme.",
-        "NE": "नयाँ जिल्ला शान्त छ।",
-        "BN": "নতুন অঞ্চলটি শান্ত।",
-        "ZH": "新地区很安静。",
-        "KO": "새로운 지역은 조용합니다.",
-        "TL": "Tahimik ang bagong distrito.",
-        "MY": "နယ်မြေအသစ်မြင့်ကိုယ်ကိုစတင်ပါသည်။",
-        "HI": "नया जिला शांत है।",
-        "AR": "المنطقة الجديدة هادئة.",
-        "FA": "منطقه جدید ساکت است."
-      }
-    },
-    {
-      "kanji": "この地区は静かです。",
-      "furigana": "この地区(ちく)は静(しず)かです。",
-      "translations": {
-        "EN": "This district is quiet.",
-        "ID": "Distrik ini tenang.",
-        "ES": "Este barrio es tranquilo.",
-        "VI": "Khu vực này yên tĩnh.",
-        "FR": "Ce quartier est calme.",
-        "NE": "यो क्षेत्र शान्त छ।",
-        "BN": "এই এলাকা শান্ত।",
-        "ZH": "这个地区很安静。",
-        "KO": "이 지역은 조용합니다.",
-        "TL": "Tahimik ang distrito na ito.",
-        "MY": "ဤမြို့နယ်သည် တိတ်ဆိတ်ပါသည်။",
-        "HI": "यह क्षेत्र शांत है।",
-        "AR": "هذا الحي هادئ.",
-        "FA": "این منطقه آرام است."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "district": {
-      "EN": "district",
-      "ID": "distrik",
-      "ES": "distrito",
-      "VI": "quận",
-      "FR": "district",
-      "NE": "जिल्ला",
-      "BN": "জেলা",
-      "ZH": "区",
-      "KO": "구역",
-      "TL": "distrito",
-      "MY": "ခရိုင်",
-      "HI": "जिला",
-      "AR": "منطقة",
-      "FA": "ناحیه"
-    }
-  },
-  "jisho_data": {
-    "slug": "地区",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
+    "version": "0.3.0",
+    "word": "地区",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/hKic1iSEois",
+    "in_db": true,
+    "kanji": "地区",
+    "reading": "ちく",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is ちく which you will often hear in contexts like geography lessons, urban planning discussions, or when someone tries to describe the layout of a city, for example, \"the shopping district\" or \"residential area\".",
+    "meanings": [
+        [
+            "district",
+            "area",
+            "zone",
+            "quarter",
+            "section",
+            "region"
+        ]
     ],
-    "japanese": [
-      {
-        "word": "地区",
-        "reading": "ちく"
-      }
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word 区 (く) means \"area\" or \"district\". It is used to describe a particular geographic location or a division within a city or town in Japan. This can refer to neighborhoods, communities, or specific regions. When you think of a 区 (く) in Japan, imagine a part of the city that's recognized for its own unique characteristics or administrative functions.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "地",
+            "common_words": [
+                "地図: map",
+                "地下: underground"
+            ]
+        },
+        {
+            "kanji": "区",
+            "common_words": [
+                "区別: distinction",
+                "区役所: ward office"
+            ]
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "district",
-          "area",
-          "zone",
-          "quarter",
-          "section",
-          "region"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "地帯 : ちたい : zone",
+        "地域 : ちいき : area"
+    ],
+    "synonym_explanation": "The most common synonyms of 区 (く) are ちたい which means \"zone\" or \"belt,\" often referring to a broader stretch of land, and ちいき which is similar to \"region\" and is used for larger, often rural areas. 区 (く) can be more specific, often used within city contexts.",
+    "antonyms": [
+        "中心 : ちゅうしん : center",
+        "本部 : ほんぶ : headquarters"
+    ],
+    "antonym_explanation": "The most common antonyms of 区 (く) are ちゅうしん which means \"center,\" or \"central area,\" often referring to the heart or core part of something, and ほんぶ which means \"headquarters,\" focusing on the main or central organizational point, contrasting with the segmented nature of 区 (く).",
+    "collocations": [
+        {
+            "kanji": "ちくちょう",
+            "furigana": "ちくちょう",
+            "translations": {}
+        },
+        {
+            "kanji": "ちくない",
+            "furigana": "ちくない",
+            "translations": {}
+        },
+        {
+            "kanji": "ちくほう",
+            "furigana": "ちくほう",
+            "translations": {}
+        },
+        {
+            "kanji": "ちくぶつ",
+            "furigana": "ちくぶつ",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この地区には公園があります。",
+            "furigana": "この地区(ちく)には公園(こうえん)があります。",
+            "translations": {
+                "EN": "There is a park in this district.",
+                "ID": "Ada taman di distrik ini.",
+                "ES": "Hay un parque en este distrito.",
+                "VI": "Có một công viên ở khu vực này.",
+                "FR": "Il y a un parc dans ce quartier.",
+                "NE": "यो क्षेत्रमा एउटा पार्क छ।",
+                "BN": "এই এলাকায় একটি পার্ক রয়েছে।",
+                "ZH": "在这个地区有一个公园。",
+                "KO": "이 지역에는 공원이 있습니다.",
+                "TL": "May parke sa distrito na ito.",
+                "MY": "ဒီရပ်ကွက်မှာ ပန်းခြံရှိတယ်။",
+                "HI": "इस क्षेत्र में एक पार्क है।",
+                "AR": "يوجد منتزه في هذا الحي.",
+                "FA": "در این منطقه پارکی وجود دارد."
+            }
+        },
+        {
+            "kanji": "この地区は静かです。",
+            "furigana": "この地区(ちく)は静(しず)かです。",
+            "translations": {
+                "EN": "This area is quiet.",
+                "ID": "Daerah ini tenang.",
+                "ES": "Esta zona es tranquila.",
+                "VI": "Khu vực này yên tĩnh.",
+                "FR": "Cette région est calme.",
+                "NE": "यो क्षेत्र शान्त छ।",
+                "BN": "এই এলাকা শান্ত।",
+                "ZH": "这个地区很安静。",
+                "KO": "이 지역은 조용합니다.",
+                "TL": "Tahimik ang lugar na ito.",
+                "MY": "ဤဒေသမှာတိတ်ဆိတ်တယ်။",
+                "HI": "यह क्षेत्र शांत है।",
+                "AR": "هذه المنطقة هادئة.",
+                "FA": "این منطقه آرام است."
+            }
+        },
+        {
+            "kanji": "新しい地区は静かです。",
+            "furigana": "新しい(あたらしい)地区(ちく)は静か(しずか)です。",
+            "translations": {
+                "EN": "The new district is quiet.",
+                "ID": "Distrik baru itu tenang.",
+                "ES": "El nuevo distrito es tranquilo.",
+                "VI": "Khu vực mới rất yên tĩnh.",
+                "FR": "Le nouveau quartier est calme.",
+                "NE": "नयाँ जिल्ला शान्त छ।",
+                "BN": "নতুন অঞ্চলটি শান্ত।",
+                "ZH": "新地区很安静。",
+                "KO": "새로운 지역은 조용합니다.",
+                "TL": "Tahimik ang bagong distrito.",
+                "MY": "နယ်မြေအသစ်မြင့်ကိုယ်ကိုစတင်ပါသည်။",
+                "HI": "नया जिला शांत है।",
+                "AR": "المنطقة الجديدة هادئة.",
+                "FA": "منطقه جدید ساکت است."
+            }
+        },
+        {
+            "kanji": "この地区は静かです。",
+            "furigana": "この地区(ちく)は静(しず)かです。",
+            "translations": {
+                "EN": "This district is quiet.",
+                "ID": "Distrik ini tenang.",
+                "ES": "Este barrio es tranquilo.",
+                "VI": "Khu vực này yên tĩnh.",
+                "FR": "Ce quartier est calme.",
+                "NE": "यो क्षेत्र शान्त छ।",
+                "BN": "এই এলাকা শান্ত।",
+                "ZH": "这个地区很安静。",
+                "KO": "이 지역은 조용합니다.",
+                "TL": "Tahimik ang distrito na ito.",
+                "MY": "ဤမြို့နယ်သည် တိတ်ဆိတ်ပါသည်။",
+                "HI": "यह क्षेत्र शांत है।",
+                "AR": "هذا الحي هادئ.",
+                "FA": "این منطقه آرام است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "district",
+                "area",
+                "zone",
+                "quarter",
+                "section",
+                "region"
+            ],
+            "ID": "distrik",
+            "ES": "distrito",
+            "VI": "quận",
+            "FR": "district",
+            "NE": "जिल्ला",
+            "BN": "জেলা",
+            "ZH": "区",
+            "KO": "구역",
+            "TL": "distrito",
+            "MY": "ခရိုင်",
+            "HI": "जिला",
+            "AR": "منطقة",
+            "FA": "ناحیه"
+        }
+    ],
+    "jisho_data": {
+        "slug": "地区",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "地",
-    "区"
-  ],
-  "kanji_data": {
-    "地": {
-      "meanings": [
-        "earth",
-        "ground"
-      ],
-      "on_readings": [
-        "ジ",
-        "チ"
-      ],
-      "kun_readings": [],
-      "stroke_count": 6,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 40,
-      "unicode": "5730",
-      "grade": 2
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "地区",
+                "reading": "ちく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "district",
+                    "area",
+                    "zone",
+                    "quarter",
+                    "section",
+                    "region"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "区": {
-      "meanings": [
-        "district",
-        "ward"
-      ],
-      "on_readings": [
-        "オウ",
-        "ク",
-        "コウ"
-      ],
-      "kun_readings": [],
-      "stroke_count": 4,
-      "jlpt": 2,
-      "freq_mainichi_shinbun": 137,
-      "unicode": "533A",
-      "grade": 3
+    "kanji_list": [
+        "地",
+        "区"
+    ],
+    "kanji_data": {
+        "地": {
+            "meanings": [
+                "earth",
+                "ground"
+            ],
+            "on_readings": [
+                "ジ",
+                "チ"
+            ],
+            "kun_readings": [],
+            "stroke_count": 6,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 40,
+            "unicode": "5730",
+            "grade": 2
+        },
+        "区": {
+            "meanings": [
+                "district",
+                "ward"
+            ],
+            "on_readings": [
+                "オウ",
+                "ク",
+                "コウ"
+            ],
+            "kun_readings": [],
+            "stroke_count": 4,
+            "jlpt": 2,
+            "freq_mainichi_shinbun": 137,
+            "unicode": "533A",
+            "grade": 3
+        }
     }
-  }
 }

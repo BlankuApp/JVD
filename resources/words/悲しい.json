@@ -14,12 +14,6 @@
       "miserable",
       "unhappy",
       "sorrowful"
-    ],
-    [
-      "sad",
-      "lamentable",
-      "deplorable",
-      "grievous"
     ]
   ],
   "meaning_explanation_japanese": "「悲しい」は、人が心の中で悲しみやつらさを感じるときに使う言葉です。また出来事や結果が残念で悲しいと感じるときにも使えます。",
@@ -366,8 +360,8 @@
       }
     }
   ],
-  "meanings_translations": {
-    "sad": {
+  "meanings_translations": [
+    {
       "ID": "sedih",
       "ES": "triste",
       "VI": "buồn",
@@ -382,12 +376,13 @@
       "AR": "حزين",
       "FA": "غمگین",
       "EN": [
+        "sad",
         "lamentable",
         "deplorable",
         "grievous"
       ]
     }
-  },
+  ],
   "jisho_data": {
     "slug": "悲しい",
     "is_common": true,

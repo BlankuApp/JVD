@@ -53,28 +53,19 @@ def show_v3_word_in_streamlit(word_data: dict, auth: dict | None = None) -> None
     st.markdown(word_data.get("meaning_explanation_japanese", ""))
 
     # Meaning translations
-    meanings_translations = word_data.get("meanings_translations", {})
-    if meanings_translations:
-        for primary_meaning, translations in meanings_translations.items():
-            # Handle both dict and list formats
-            if isinstance(translations, dict):
-                en_value = translations.get("EN", "")
-                if isinstance(en_value, list):
-                    # Insert primary meaning at the beginning
-                    display_en = [primary_meaning] + en_value
-                    translations["EN"] = ", ".join(display_en)
-                elif isinstance(en_value, str):
-                    translations["EN"] = f"{primary_meaning}, {en_value}"
-
-                with st.container(border=True, horizontal=True):
-                    for lang_code, translation in translations.items():
-                        if auth:
-                            user_langs = [
-                                LANGUAGES_ABBR.get(lang, lang) for lang in auth.get("preferred_languages", [])
-                            ]
-                            if lang_code not in user_langs:
-                                continue
-                        st.markdown(f":gray-badge[{lang_code}] {translation}")
+    for meaning_dict in word_data.get("meanings_translations", []):
+        with st.container(border=True, horizontal=True):
+            for lang_code, translation in meaning_dict.items():
+                if auth:
+                    user_langs = [LANGUAGES_ABBR.get(lang, lang) for lang in auth.get("preferred_languages", [])]
+                    if lang_code not in user_langs:
+                        continue
+                if lang_code == "EN":
+                    st.markdown(
+                        f":blue-badge[{lang_code}] {', '.join(translation) if isinstance(translation, list) else translation}"
+                    )
+                else:
+                    st.markdown(f":blue-badge[{lang_code}] {translation}")
 
     # Synonyms and Antonyms
     synonym_explanation = word_data.get("synonym_explanation", "")

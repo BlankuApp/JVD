@@ -1,367 +1,384 @@
 {
-  "version": "0.3.0",
-  "word": "微妙",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/Ac-w5LUupuM",
-  "in_db": true,
-  "kanji": "微妙",
-  "reading": "びみょう",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is \"びみょう,\" which you often encounter in conversations when describing something nuanced or slightly off. Elevate your linguistic finesse by mastering how to navigate these subtle expressions!",
-  "meanings": [
-    [
-      "subtle",
-      "delicate",
-      "fine"
-    ],
-    [
-      "difficult",
-      "complex",
-      "tricky",
-      "delicate",
-      "close"
-    ],
-    [
-      "doubtful",
-      "questionable",
-      "dicey"
-    ],
-    [
-      "not great",
-      "iffy"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"びみょう\" means something that is subtle or delicate. It can refer to details that are difficult to articulate or describe. This word can also express uncertainty, implying that something is hard to judge or just okay.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "微",
-      "common_words": [
-        "微量: minuscule amount",
-        "微笑み: smile"
-      ]
-    },
-    {
-      "kanji": "妙",
-      "common_words": [
-        "妙案: ingenious idea",
-        "妙に思う: to think strange"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "微か : かすか : faint",
-    "複雑 : ふくざつ : complex"
-  ],
-  "synonym_explanation": "The most common synonyms of \"びみょう\" are \"かすかな\" and \"ふくざつ.\" While \"かすかな\" refers to faint or barely noticeable qualities, \"ふくざつ\" describes complex situations. Unlike \"びみょう,\" which directly captures nuance, these words specify different kinds of subtlety.",
-  "antonyms": [
-    "明白 : めいはく : obvious",
-    "単純 : たんじゅん : simple"
-  ],
-  "antonym_explanation": "The most common antonyms of \"びみょう\" are \"めいはく\" and \"たんじゅん.\" \"めいはく\" means clear or obvious, contrasting with subtlety, while \"たんじゅん\" means simple, opposing the complexity of nuanced expressions.",
-  "collocations": [
-    {
-      "kanji": "びみょうなひょうげん",
-      "furigana": "びみょうなひょうげん",
-      "translations": {}
-    },
-    {
-      "kanji": "びみょうなしぐさ",
-      "furigana": "びみょうなしぐさ",
-      "translations": {}
-    },
-    {
-      "kanji": "びみょうなあじ",
-      "furigana": "びみょうなあじ",
-      "translations": {}
-    },
-    {
-      "kanji": "びみょうなおんど",
-      "furigana": "びみょうなおんど",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "微妙な表現です。",
-      "furigana": "微妙(びみょう)な表現(ひょうげん)です。",
-      "translations": {
-        "EN": "It's a subtle expression.",
-        "ID": "Ini adalah ungkapan halus.",
-        "ES": "Es una expresión sutil.",
-        "VI": "Đó là một biểu hiện tinh tế.",
-        "FR": "C'est une expression subtile.",
-        "NE": "यो एक सूक्ष्म अभिव्यक्ति हो।",
-        "BN": "এটি একটি সূক্ষ্ম প্রকাশ।",
-        "ZH": "这是一个微妙的表达。",
-        "KO": "섬세한 표현입니다.",
-        "TL": "Ito ay isang pinong pagpapahayag.",
-        "MY": "ဒါကနေရာချည်းတိပ်ကိုဖျောက်ခြင်းဖြစ်ပါတယ်။",
-        "HI": "यह एक सूक्ष्म अभिव्यक्ति है।",
-        "AR": "إنه تعبير دقيق.",
-        "FA": "این یک بیان ظریف است."
-      }
-    },
-    {
-      "kanji": "彼女は微妙なしぐさをした。",
-      "furigana": "彼女(かのじょ)は微妙(びみょう)なしぐさをした。",
-      "translations": {
-        "EN": "She made a subtle gesture.",
-        "ID": "Dia membuat gerak tubuh yang halus.",
-        "ES": "Ella hizo un gesto sutil.",
-        "VI": "Cô ấy đã làm một cử chỉ tinh tế.",
-        "FR": "Elle a fait un geste subtil.",
-        "NE": "उनले एक सूक्ष्म इशारा गरिन्।",
-        "BN": "সে একটা সূক্ষ্ম অঙ্গভঙ্গি করল।",
-        "ZH": "她做了一个微妙的动作。",
-        "KO": "그녀는 미묘한 몸짓을 했다.",
-        "TL": "Gumawa siya ng banayad na kilos.",
-        "MY": "သူမသည်အသေးစိတ်သဘောထားပြလုပ်ခဲ့သည်။",
-        "HI": "उसने एक सूक्ष्म संकेत किया।",
-        "AR": "لقد قامت بإيماءة دقيقة.",
-        "FA": "او یک حرکت ظریف کرد."
-      }
-    },
-    {
-      "kanji": "この料理は微妙な味です。",
-      "furigana": "この料理(りょうり)は微妙(びみょう)な味(あじ)です。",
-      "translations": {
-        "EN": "This dish has a subtle flavor.",
-        "ID": "Hidangan ini memiliki rasa yang halus.",
-        "ES": "Este plato tiene un sabor sutil.",
-        "VI": "Món ăn này có mùi vị tinh tế.",
-        "FR": "Ce plat a une saveur subtile.",
-        "NE": "यो परिकारको स्वाद सूक्ष्म छ।",
-        "BN": "এ খাবারের স্বাদ সূক্ষ্ম।",
-        "ZH": "这道菜味道微妙。",
-        "KO": "이 요리는 미묘한 맛이 있다.",
-        "TL": "Ang ulam na ito ay may banayad na lasa.",
-        "MY": "ဒီဟင်းပွဲမှာ ထူးထူးခြားခြား လှည့်ဟန်ရှိတယ်။",
-        "HI": "इस पकवान का स्वाद सूक्ष्म है।",
-        "AR": "هذا الطبق له نكهة دقيقة.",
-        "FA": "این غذا طعمی ظریف دارد."
-      }
-    },
-    {
-      "kanji": "微妙な温度ですね。",
-      "furigana": "微妙(びみょう)な温度(おんど)ですね。",
-      "translations": {
-        "EN": "It's a subtle temperature, isn't it?",
-        "ID": "Ini suhu yang lembut, bukan?",
-        "ES": "Es una temperatura sutil, ¿verdad?",
-        "VI": "Đây là nhiệt độ nhạy cảm, phải không?",
-        "FR": "C'est une température subtile, n'est-ce pas?",
-        "NE": "यो सूक्ष्म तापक्रम हो, होइन त?",
-        "BN": "এটি একটি সূক্ষ্ম তাপমাত্রা, তাই না?",
-        "ZH": "这是微妙的温度，不是吗？",
-        "KO": "미묘한 온도네요, 그렇죠?",
-        "TL": "Ito ay isang banayad na temperatura, hindi ba?",
-        "MY": "ဒီနေရာမှာ အစိမြူးတဲ့ အကွာအဝေးပါ, ဟုတ်လား?",
-        "HI": "यह सूक्ष्म तापमान है, है ना?",
-        "AR": "درجة حرارة دقيقة, أليس كذلك؟",
-        "FA": "این دمای ظریفی است، نه؟"
-      }
-    }
-  ],
-  "meanings_translations": {
-    "subtle": {
-      "EN": "subtle",
-      "ID": "halus",
-      "ES": "sutil",
-      "VI": "tinh tế",
-      "FR": "subtil",
-      "NE": "सूक्ष्म",
-      "BN": "উপস্থিত",
-      "ZH": "微妙",
-      "KO": "미묘한",
-      "TL": "banayad",
-      "MY": "မွှား",
-      "HI": "सूक्ष्म",
-      "AR": "دقيق",
-      "FA": "ریز"
-    },
-    "difficult": {
-      "EN": "delicate, subtle",
-      "ID": "halus, rumit",
-      "ES": "delicado, sutil",
-      "VI": "tinh tế, khó khăn",
-      "FR": "délicat, subtil",
-      "NE": "सूक्ष्म",
-      "BN": "সূক্ষ্ণ, জটিল",
-      "ZH": "微妙，困难",
-      "KO": "미묘한",
-      "TL": "banayad, masalimuot",
-      "MY": "သိပ်သည်း, ရှုပ်ထွေးသော",
-      "HI": "सूक्ष्म",
-      "AR": "دقيق، حساس",
-      "FA": "ظریف، حساس"
-    },
-    "doubtful": {
-      "EN": "subtle",
-      "ID": "halus",
-      "ES": "sutil",
-      "VI": "tinh tế",
-      "FR": "subtil",
-      "NE": "सूक्ष्म",
-      "BN": "সূক্ষ্ম",
-      "ZH": "微妙",
-      "KO": "미묘한",
-      "TL": "banayad",
-      "MY": "အသေးစိတ်",
-      "HI": "सूक्ष्म",
-      "AR": "دقيق",
-      "FA": "ظریف"
-    },
-    "not great": {
-      "EN": "not great",
-      "ID": "tidak bagus",
-      "ES": "no es genial",
-      "VI": "không tuyệt",
-      "FR": "pas génial",
-      "NE": "त्यति राम्रो छैन",
-      "BN": "সেরকম ভালো নয়",
-      "ZH": "不太好",
-      "KO": "별로야",
-      "TL": "hindi magaling",
-      "MY": "ကြီးမားသော",
-      "HI": "ज़्यादा अच्छा नहीं",
-      "AR": "ليس رائع",
-      "FA": "نه عالی"
-    }
-  },
-  "jisho_data": {
-    "slug": "微妙",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "微妙",
-        "reading": "びみょう"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "subtle",
-          "delicate",
-          "fine"
+    "version": "0.3.0",
+    "word": "微妙",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/Ac-w5LUupuM",
+    "in_db": true,
+    "kanji": "微妙",
+    "reading": "びみょう",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is \"びみょう,\" which you often encounter in conversations when describing something nuanced or slightly off. Elevate your linguistic finesse by mastering how to navigate these subtle expressions!",
+    "meanings": [
+        [
+            "subtle",
+            "delicate",
+            "fine"
         ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi), Noun"
+        [
+            "difficult",
+            "complex",
+            "tricky",
+            "delicate",
+            "close"
         ],
-        "links": [],
+        [
+            "doubtful",
+            "questionable",
+            "dicey"
+        ],
+        [
+            "not great",
+            "iffy"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"びみょう\" means something that is subtle or delicate. It can refer to details that are difficult to articulate or describe. This word can also express uncertainty, implying that something is hard to judge or just okay.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "微",
+            "common_words": [
+                "微量: minuscule amount",
+                "微笑み: smile"
+            ]
+        },
+        {
+            "kanji": "妙",
+            "common_words": [
+                "妙案: ingenious idea",
+                "妙に思う: to think strange"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "微か : かすか : faint",
+        "複雑 : ふくざつ : complex"
+    ],
+    "synonym_explanation": "The most common synonyms of \"びみょう\" are \"かすかな\" and \"ふくざつ.\" While \"かすかな\" refers to faint or barely noticeable qualities, \"ふくざつ\" describes complex situations. Unlike \"びみょう,\" which directly captures nuance, these words specify different kinds of subtlety.",
+    "antonyms": [
+        "明白 : めいはく : obvious",
+        "単純 : たんじゅん : simple"
+    ],
+    "antonym_explanation": "The most common antonyms of \"びみょう\" are \"めいはく\" and \"たんじゅん.\" \"めいはく\" means clear or obvious, contrasting with subtlety, while \"たんじゅん\" means simple, opposing the complexity of nuanced expressions.",
+    "collocations": [
+        {
+            "kanji": "びみょうなひょうげん",
+            "furigana": "びみょうなひょうげん",
+            "translations": {}
+        },
+        {
+            "kanji": "びみょうなしぐさ",
+            "furigana": "びみょうなしぐさ",
+            "translations": {}
+        },
+        {
+            "kanji": "びみょうなあじ",
+            "furigana": "びみょうなあじ",
+            "translations": {}
+        },
+        {
+            "kanji": "びみょうなおんど",
+            "furigana": "びみょうなおんど",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "微妙な表現です。",
+            "furigana": "微妙(びみょう)な表現(ひょうげん)です。",
+            "translations": {
+                "EN": "It's a subtle expression.",
+                "ID": "Ini adalah ungkapan halus.",
+                "ES": "Es una expresión sutil.",
+                "VI": "Đó là một biểu hiện tinh tế.",
+                "FR": "C'est une expression subtile.",
+                "NE": "यो एक सूक्ष्म अभिव्यक्ति हो।",
+                "BN": "এটি একটি সূক্ষ্ম প্রকাশ।",
+                "ZH": "这是一个微妙的表达。",
+                "KO": "섬세한 표현입니다.",
+                "TL": "Ito ay isang pinong pagpapahayag.",
+                "MY": "ဒါကနေရာချည်းတိပ်ကိုဖျောက်ခြင်းဖြစ်ပါတယ်။",
+                "HI": "यह एक सूक्ष्म अभिव्यक्ति है।",
+                "AR": "إنه تعبير دقيق.",
+                "FA": "این یک بیان ظریف است."
+            }
+        },
+        {
+            "kanji": "彼女は微妙なしぐさをした。",
+            "furigana": "彼女(かのじょ)は微妙(びみょう)なしぐさをした。",
+            "translations": {
+                "EN": "She made a subtle gesture.",
+                "ID": "Dia membuat gerak tubuh yang halus.",
+                "ES": "Ella hizo un gesto sutil.",
+                "VI": "Cô ấy đã làm một cử chỉ tinh tế.",
+                "FR": "Elle a fait un geste subtil.",
+                "NE": "उनले एक सूक्ष्म इशारा गरिन्।",
+                "BN": "সে একটা সূক্ষ্ম অঙ্গভঙ্গি করল।",
+                "ZH": "她做了一个微妙的动作。",
+                "KO": "그녀는 미묘한 몸짓을 했다.",
+                "TL": "Gumawa siya ng banayad na kilos.",
+                "MY": "သူမသည်အသေးစိတ်သဘောထားပြလုပ်ခဲ့သည်။",
+                "HI": "उसने एक सूक्ष्म संकेत किया।",
+                "AR": "لقد قامت بإيماءة دقيقة.",
+                "FA": "او یک حرکت ظریف کرد."
+            }
+        },
+        {
+            "kanji": "この料理は微妙な味です。",
+            "furigana": "この料理(りょうり)は微妙(びみょう)な味(あじ)です。",
+            "translations": {
+                "EN": "This dish has a subtle flavor.",
+                "ID": "Hidangan ini memiliki rasa yang halus.",
+                "ES": "Este plato tiene un sabor sutil.",
+                "VI": "Món ăn này có mùi vị tinh tế.",
+                "FR": "Ce plat a une saveur subtile.",
+                "NE": "यो परिकारको स्वाद सूक्ष्म छ।",
+                "BN": "এ খাবারের স্বাদ সূক্ষ্ম।",
+                "ZH": "这道菜味道微妙。",
+                "KO": "이 요리는 미묘한 맛이 있다.",
+                "TL": "Ang ulam na ito ay may banayad na lasa.",
+                "MY": "ဒီဟင်းပွဲမှာ ထူးထူးခြားခြား လှည့်ဟန်ရှိတယ်။",
+                "HI": "इस पकवान का स्वाद सूक्ष्म है।",
+                "AR": "هذا الطبق له نكهة دقيقة.",
+                "FA": "این غذا طعمی ظریف دارد."
+            }
+        },
+        {
+            "kanji": "微妙な温度ですね。",
+            "furigana": "微妙(びみょう)な温度(おんど)ですね。",
+            "translations": {
+                "EN": "It's a subtle temperature, isn't it?",
+                "ID": "Ini suhu yang lembut, bukan?",
+                "ES": "Es una temperatura sutil, ¿verdad?",
+                "VI": "Đây là nhiệt độ nhạy cảm, phải không?",
+                "FR": "C'est une température subtile, n'est-ce pas?",
+                "NE": "यो सूक्ष्म तापक्रम हो, होइन त?",
+                "BN": "এটি একটি সূক্ষ্ম তাপমাত্রা, তাই না?",
+                "ZH": "这是微妙的温度，不是吗？",
+                "KO": "미묘한 온도네요, 그렇죠?",
+                "TL": "Ito ay isang banayad na temperatura, hindi ba?",
+                "MY": "ဒီနေရာမှာ အစိမြူးတဲ့ အကွာအဝေးပါ, ဟုတ်လား?",
+                "HI": "यह सूक्ष्म तापमान है, है ना?",
+                "AR": "درجة حرارة دقيقة, أليس كذلك؟",
+                "FA": "این دمای ظریفی است، نه؟"
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "subtle",
+                "delicate",
+                "fine"
+            ],
+            "ID": "halus",
+            "ES": "sutil",
+            "VI": "tinh tế",
+            "FR": "subtil",
+            "NE": "सूक्ष्म",
+            "BN": "উপস্থিত",
+            "ZH": "微妙",
+            "KO": "미묘한",
+            "TL": "banayad",
+            "MY": "မွှား",
+            "HI": "सूक्ष्म",
+            "AR": "دقيق",
+            "FA": "ریز"
+        },
+        {
+            "EN": [
+                "difficult",
+                "complex",
+                "tricky",
+                "delicate",
+                "close"
+            ],
+            "ID": "halus, rumit",
+            "ES": "delicado, sutil",
+            "VI": "tinh tế, khó khăn",
+            "FR": "délicat, subtil",
+            "NE": "सूक्ष्म",
+            "BN": "সূক্ষ্ণ, জটিল",
+            "ZH": "微妙，困难",
+            "KO": "미묘한",
+            "TL": "banayad, masalimuot",
+            "MY": "သိပ်သည်း, ရှုပ်ထွေးသော",
+            "HI": "सूक्ष्म",
+            "AR": "دقيق، حساس",
+            "FA": "ظریف، حساس"
+        },
+        {
+            "EN": [
+                "doubtful",
+                "questionable",
+                "dicey"
+            ],
+            "ID": "halus",
+            "ES": "sutil",
+            "VI": "tinh tế",
+            "FR": "subtil",
+            "NE": "सूक्ष्म",
+            "BN": "সূক্ষ্ম",
+            "ZH": "微妙",
+            "KO": "미묘한",
+            "TL": "banayad",
+            "MY": "အသေးစိတ်",
+            "HI": "सूक्ष्म",
+            "AR": "دقيق",
+            "FA": "ظریف"
+        },
+        {
+            "EN": [
+                "not great",
+                "iffy"
+            ],
+            "ID": "tidak bagus",
+            "ES": "no es genial",
+            "VI": "không tuyệt",
+            "FR": "pas génial",
+            "NE": "त्यति राम्रो छैन",
+            "BN": "সেরকম ভালো নয়",
+            "ZH": "不太好",
+            "KO": "별로야",
+            "TL": "hindi magaling",
+            "MY": "ကြီးမားသော",
+            "HI": "ज़्यादा अच्छा नहीं",
+            "AR": "ليس رائع",
+            "FA": "نه عالی"
+        }
+    ],
+    "jisho_data": {
+        "slug": "微妙",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "difficult",
-          "complex",
-          "tricky",
-          "delicate",
-          "close"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi), Noun"
+        "japanese": [
+            {
+                "word": "微妙",
+                "reading": "びみょう"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "doubtful",
-          "questionable",
-          "dicey"
-        ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi), Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "not great",
-          "iffy"
-        ],
-        "parts_of_speech": [
-          "Na-adjective (keiyodoshi), Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "微",
-    "妙"
-  ],
-  "kanji_data": {
-    "微": {
-      "meanings": [
-        "delicate",
-        "insignificance",
-        "minuteness"
-      ],
-      "on_readings": [
-        "ビ"
-      ],
-      "kun_readings": [
-        "かす.か"
-      ],
-      "stroke_count": 13,
-      "jlpt": 1,
-      "freq_mainichi_shinbun": 1108,
-      "unicode": "5FAE",
-      "grade": 8
+        "senses": [
+            {
+                "english_definitions": [
+                    "subtle",
+                    "delicate",
+                    "fine"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "difficult",
+                    "complex",
+                    "tricky",
+                    "delicate",
+                    "close"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "doubtful",
+                    "questionable",
+                    "dicey"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "not great",
+                    "iffy"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi), Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "妙": {
-      "meanings": [
-        "charming",
-        "delicate",
-        "excellent",
-        "exquisite",
-        "miracle",
-        "mystery",
-        "queer",
-        "strange"
-      ],
-      "on_readings": [
-        "ビョウ",
-        "ミョウ"
-      ],
-      "kun_readings": [
-        "たえ"
-      ],
-      "stroke_count": 7,
-      "jlpt": 1,
-      "freq_mainichi_shinbun": 1122,
-      "unicode": "5999",
-      "grade": 8
+    "kanji_list": [
+        "微",
+        "妙"
+    ],
+    "kanji_data": {
+        "微": {
+            "meanings": [
+                "delicate",
+                "insignificance",
+                "minuteness"
+            ],
+            "on_readings": [
+                "ビ"
+            ],
+            "kun_readings": [
+                "かす.か"
+            ],
+            "stroke_count": 13,
+            "jlpt": 1,
+            "freq_mainichi_shinbun": 1108,
+            "unicode": "5FAE",
+            "grade": 8
+        },
+        "妙": {
+            "meanings": [
+                "charming",
+                "delicate",
+                "excellent",
+                "exquisite",
+                "miracle",
+                "mystery",
+                "queer",
+                "strange"
+            ],
+            "on_readings": [
+                "ビョウ",
+                "ミョウ"
+            ],
+            "kun_readings": [
+                "たえ"
+            ],
+            "stroke_count": 7,
+            "jlpt": 1,
+            "freq_mainichi_shinbun": 1122,
+            "unicode": "5999",
+            "grade": 8
+        }
     }
-  }
 }

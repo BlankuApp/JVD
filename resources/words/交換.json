@@ -1,518 +1,522 @@
 {
-  "version": "0.3.0",
-  "word": "交換",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/_tt4KeuulgI",
-  "in_db": true,
-  "kanji": "交換",
-  "reading": "こうかん",
-  "introduction_japanese": "「交換」は、名刺、情報、連絡先、意見、プレゼント、部品、サービス、オンラインのやりとり、会社の手続きなどの場面でよく使います。",
-  "introduction_english": "The noun and suru-verb こうかん is used in situations like business cards, information, contact details, opinions, gifts, parts, services, online interactions, and company procedures.",
-  "meanings": [
-    [
-      "exchange",
-      "interchange",
-      "reciprocity",
-      "barter"
-    ],
-    [
-      "switching",
-      "substitution",
-      "replacement"
-    ],
-    [
-      "clearing (of checks, cheques)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「交換」は、人と人で物や情報などを取りかえること。こわれた物や古い物を別の物に入れかえること。お金のやりとりをまとめて清算することも言います。",
-  "meaning_explanation_english": "The word こうかん means to exchange or trade things with someone, to replace or switch one thing for another, and it can also mean clearing of checks in finance.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "交",
-      "common_words": [
-        "交通 (こうつう): traffic; transportation",
-        "交流 (こうりゅう): exchange; interaction"
-      ]
-    },
-    {
-      "kanji": "換",
-      "common_words": [
-        "変換 (へんかん): conversion; transform",
-        "換気 (かんき): ventilation; air exchange"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means to mingle or mix, the idea of crossing and interacting. You can see it in こうつう, where people and cars go back and forth. It also appears in こうりゅう, where people connect and share with each other. The second kanji means to change or replace. It shows up in へんかん, where one form changes into another. It is also in かんき, where old air is replaced with fresh air.",
-  "synonyms": [
-    "取り替え : とりかえ : replacement; swapping"
-  ],
-  "synonym_explanation": "The most common synonym of the こうかん is とりかえ. It focuses on replacing one thing with another, not mutual give-and-take.",
-  "antonyms": [
-    "保持 : ほじ : keeping; retention"
-  ],
-  "antonym_explanation": "The most common antonym of the こうかん is ほじ. It means to keep or maintain something as it is, not to swap or replace.",
-  "collocations": [
-    {
-      "kanji": "情報を交換する",
-      "furigana": "情報を交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "名刺を交換する",
-      "furigana": "名刺を交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "連絡先を交換する",
-      "furigana": "連絡先を交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "意見を交換する",
-      "furigana": "意見を交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "部品を交換する",
-      "furigana": "部品を交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "交換条件",
-      "furigana": "交換条件",
-      "translations": {}
-    },
-    {
-      "kanji": "交換手数料",
-      "furigana": "交換手数料",
-      "translations": {}
-    },
-    {
-      "kanji": "交換所",
-      "furigana": "交換所",
-      "translations": {}
-    },
-    {
-      "kanji": "交換期",
-      "furigana": "交換期",
-      "translations": {}
-    },
-    {
-      "kanji": "交換制度",
-      "furigana": "交換制度",
-      "translations": {}
-    },
-    {
-      "kanji": "物と交換する",
-      "furigana": "物と交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "意見と交換し合う",
-      "furigana": "意見と交換し合う",
-      "translations": {}
-    },
-    {
-      "kanji": "書籍と交換する",
-      "furigana": "書籍と交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "情報と交換する",
-      "furigana": "情報と交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "贈り物と交換する",
-      "furigana": "贈り物と交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "相互交換",
-      "furigana": "相互交換",
-      "translations": {}
-    },
-    {
-      "kanji": "無償交換",
-      "furigana": "無償交換",
-      "translations": {}
-    },
-    {
-      "kanji": "等価交換",
-      "furigana": "等価交換",
-      "translations": {}
-    },
-    {
-      "kanji": "即時交換",
-      "furigana": "即時交換",
-      "translations": {}
-    },
-    {
-      "kanji": "自由交換",
-      "furigana": "自由交換",
-      "translations": {}
-    },
-    {
-      "kanji": "交換操作",
-      "furigana": "交換操作",
-      "translations": {}
-    },
-    {
-      "kanji": "交換業務",
-      "furigana": "交換業務",
-      "translations": {}
-    },
-    {
-      "kanji": "交換取引",
-      "furigana": "交換取引",
-      "translations": {}
-    },
-    {
-      "kanji": "交換対応",
-      "furigana": "交換対応",
-      "translations": {}
-    },
-    {
-      "kanji": "交換処理",
-      "furigana": "交換処理",
-      "translations": {}
-    },
-    {
-      "kanji": "定期的に交換する",
-      "furigana": "定期的に交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "相互に交換する",
-      "furigana": "相互に交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "直接交換する",
-      "furigana": "直接交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "部分的に交換する",
-      "furigana": "部分的に交換する",
-      "translations": {}
-    },
-    {
-      "kanji": "速やかに交換する",
-      "furigana": "速やかに交換する",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "私たちは情報を交換する。",
-      "furigana": "私(わたし)たちは情報(じょうほう)を交換(こうかん)する。",
-      "translations": {
-        "EN": "We exchange information.",
-        "ID": "Kami bertukar informasi.",
-        "ES": "Intercambiamos información.",
-        "VI": "Chúng tôi trao đổi thông tin.",
-        "FR": "Nous échangeons des informations.",
-        "NE": "हामी जानकारी आदानप्रदान गर्छौं।",
-        "BN": "আমরা তথ্য বিনিময় করি।",
-        "ZH": "我们交换信息。",
-        "KO": "우리는 정보를 교환합니다.",
-        "TL": "Nagpapalitan kami ng impormasyon.",
-        "MY": "သတင်းအချက်အလက်ဖလှယ်တယ်။",
-        "HI": "हम सूचना का आदान-प्रदान करते हैं।",
-        "AR": "نحن نتبادل المعلومات.",
-        "FA": "ما اطلاعات را رد و بدل می‌کنیم."
-      }
-    },
-    {
-      "kanji": "会社で名刺を交換しました。",
-      "furigana": "会社(かいしゃ)で名刺(めいし)を交換(こうかん)しました。",
-      "translations": {
-        "EN": "We exchanged business cards at work.",
-        "ID": "Kami bertukar kartu nama di tempat kerja.",
-        "ES": "Intercambiamos tarjetas de presentación en el trabajo.",
-        "VI": "Chúng tôi trao đổi danh thiếp ở nơi làm việc.",
-        "FR": "Nous avons échangé nos cartes de visite au travail.",
-        "NE": "हामीले काममा व्यापार कार्ड साटासाट गर्यौं।",
-        "BN": "আমরা কর্মক্ষেত্রে ব্যবসায়িক কার্ড বিনিময় করেছি।",
-        "ZH": "我们在工作中交换了名片。",
-        "KO": "회사에서 명함을 교환했습니다.",
-        "TL": "Nagpalitan kami ng mga business card sa trabaho.",
-        "MY": "လုပ်ငန်းခွင်မှာ လုပ်ငန်းကတ်တွေ လဲလှယ်ခဲ့ကြတယ်။",
-        "HI": "हमने कार्यस्थल पर एक दूसरे से बिजनेस कार्ड का आदान-प्रदान किया।",
-        "AR": "لقد قمنا بتبادل بطاقات العمل في العمل.",
-        "FA": "ما در محل کار کارت ویزیت رد و بدل کردیم."
-      }
-    },
-    {
-      "kanji": "連絡先を交換してもいいですか。",
-      "furigana": "連絡先(れんらくさき)を交換(こうかん)してもいいですか。",
-      "translations": {
-        "EN": "Can we exchange contact information?",
-        "ID": "Bisakah kita bertukar informasi kontak?",
-        "ES": "¿Podemos intercambiar información de contacto?",
-        "VI": "Chúng ta có thể trao đổi thông tin liên lạc không?",
-        "FR": "Pouvons-nous échanger des informations de contact ?",
-        "NE": "के हामी सम्पर्क जानकारी आदानप्रदान गर्न सक्छौं?",
-        "BN": "আমরা কি যোগাযোগের তথ্য বিনিময় করতে পারি?",
-        "ZH": "我们可以交换联系方式吗？",
-        "KO": "연락처를 교환할 수 있습니까?",
-        "TL": "Maaari ba tayong makipagpalitan ng impormasyon sa pakikipag-ugnayan?",
-        "MY": "ဆက်သွယ်ရန်အချက်အလက် ဖလှယ်နိုင်ပါသလား။",
-        "HI": "क्या हम संपर्क जानकारी का आदान-प्रदान कर सकते हैं?",
-        "AR": "هل يمكننا تبادل معلومات الاتصال؟",
-        "FA": "میشه اطلاعات تماسمون رو رد و بدل کنیم؟"
-      }
-    },
-    {
-      "kanji": "部品を交換してください。",
-      "furigana": "部品(ぶひん)を交換(こうかん)してください。",
-      "translations": {
-        "EN": "Please replace the part.",
-        "ID": "Silakan ganti komponennya.",
-        "ES": "Por favor reemplace la pieza.",
-        "VI": "Vui lòng thay thế bộ phận đó.",
-        "FR": "Veuillez remplacer la pièce.",
-        "NE": "कृपया भाग बदल्नुहोस्।",
-        "BN": "অনুগ্রহ করে অংশটি প্রতিস্থাপন করুন।",
-        "ZH": "请更换该部件。",
-        "KO": "부품을 교체하십시오.",
-        "TL": "Pakipalitan ang bahagi.",
-        "MY": "ကျေးဇူးပြု၍ အပိုင်းကို အစားထိုးပါ။",
-        "HI": "कृपया भाग बदलें.",
-        "AR": "يرجى استبدال الجزء.",
-        "FA": "لطفا قطعه را تعویض کنید."
-      }
-    },
-    {
-      "kanji": "会議で意見を交換した。",
-      "furigana": "会議(かいぎ)で意見(いけん)を交換(こうかん)した。",
-      "translations": {
-        "EN": "We exchanged opinions at the meeting.",
-        "ID": "Kami bertukar pendapat pada pertemuan itu.",
-        "ES": "Intercambiamos opiniones en la reunión.",
-        "VI": "Chúng tôi đã trao đổi ý kiến tại cuộc họp.",
-        "FR": "Nous avons échangé nos opinions lors de la réunion.",
-        "NE": "हामीले बैठकमा विचार आदानप्रदान गर्यौं।",
-        "BN": "আমরা সভায় মতামত বিনিময় করেছি।",
-        "ZH": "我们在会上交换了意见。",
-        "KO": "회의에서 의견을 교환했다.",
-        "TL": "Nagpalitan kami ng opinyon sa pulong.",
-        "MY": "အစည်းအဝေးမှာ အမြင်ချင်းဖလှယ်ခဲ့ကြတယ်။",
-        "HI": "हमने बैठक में विचारों का आदान-प्रदान किया।",
-        "AR": "لقد تبادلنا الآراء في الاجتماع.",
-        "FA": "در جلسه به تبادل نظر پرداختیم."
-      }
-    },
-    {
-      "kanji": "壊れた電池を新しい電池と交換する。",
-      "furigana": "壊(こわ)れた電池(でんち)を新(あたら)しい電池(でんち)と交換(こうかん)する。",
-      "translations": {
-        "EN": "Replace the broken battery with a new one.",
-        "ID": "Ganti baterai yang rusak dengan yang baru.",
-        "ES": "Reemplace la batería rota por una nueva.",
-        "VI": "Thay pin hỏng bằng pin mới.",
-        "FR": "Remplacez la batterie cassée par une nouvelle.",
-        "NE": "बिग्रिएको ब्याट्रीलाई नयाँले बदल्नुहोस्।",
-        "BN": "ভাঙা ব্যাটারিটি নতুন ব্যাটারি দিয়ে প্রতিস্থাপন করুন।",
-        "ZH": "用新电池更换损坏的电池。",
-        "KO": "깨진 배터리를 새 배터리로 교체합니다.",
-        "TL": "Palitan ang sirang baterya ng bago.",
-        "MY": "ပျက်စီးနေသော ဘက်ထရီကို အသစ်ဖြင့် အစားထိုးပါ။",
-        "HI": "टूटी हुई बैटरी को नई बैटरी से बदलें।",
-        "AR": "استبدال البطارية المكسورة بأخرى جديدة.",
-        "FA": "باتری خراب را با یک باتری نو تعویض کنید."
-      }
-    },
-    {
-      "kanji": "等価交換はできません。",
-      "furigana": "等価交換(とうかこうかん)はできません。",
-      "translations": {
-        "EN": "Equivalent exchange is not possible.",
-        "ID": "Pertukaran yang setara tidak dimungkinkan.",
-        "ES": "No es posible un intercambio equivalente.",
-        "VI": "Không thể trao đổi tương đương.",
-        "FR": "Un échange équivalent n'est pas possible.",
-        "NE": "बराबर विनिमय सम्भव छैन।",
-        "BN": "সমতুল্য বিনিময় সম্ভব নয়।",
-        "ZH": "无法进行等价交换。",
-        "KO": "등가 교환은 할 수 없습니다.",
-        "TL": "Ang katumbas na palitan ay hindi posible.",
-        "MY": "ညီမျှသော လဲလှယ်ရန် မဖြစ်နိုင်ပါ။",
-        "HI": "समतुल्य विनिमय संभव नहीं है।",
-        "AR": "التبادل المكافئ غير ممكن.",
-        "FA": "مبادله معادل آن امکان‌پذیر نیست."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "exchange": {
-      "ID": "menukarkan",
-      "ES": "intercambio",
-      "VI": "trao đổi",
-      "FR": "échange",
-      "NE": "विनिमय",
-      "BN": "বিনিময়",
-      "ZH": "交换",
-      "KO": "교환",
-      "TL": "palitan",
-      "MY": "လဲလှယ်",
-      "HI": "अदला-बदली",
-      "AR": "تبادل",
-      "FA": "تبادل",
-      "EN": [
-        "interchange",
-        "reciprocity",
-        "barter"
-      ]
-    },
-    "switching": {
-      "ID": "beralih",
-      "ES": "traspuesta",
-      "VI": "chuyển đổi",
-      "FR": "commutation",
-      "NE": "स्विच गर्दै",
-      "BN": "স্যুইচিং",
-      "ZH": "交换",
-      "KO": "스위칭",
-      "TL": "lumilipat",
-      "MY": "ကူးပြောင်းခြင်း။",
-      "HI": "स्विचन",
-      "AR": "التبديل",
-      "FA": "سوئیچینگ",
-      "EN": [
-        "substitution",
-        "replacement"
-      ]
-    },
-    "clearing (of checks, cheques)": {
-      "ID": "kliring (cek, cek)",
-      "ES": "compensación (de cheques)",
-      "VI": "thanh toán (séc, séc)",
-      "FR": "compensation (de chèques, de chèques)",
-      "NE": "(चेक, चेकको) क्लियरिङ्ग",
-      "BN": "(চেক, চেকের) ক্লিয়ারিং",
-      "ZH": "（支票、支票的）清算",
-      "KO": "(수표, 수표의) 청산",
-      "TL": "paglilinis (ng mga tseke, tseke)",
-      "MY": "ရှင်းလင်းခြင်း (ချက်လက်မှတ်၊ ချက်လက်မှတ်)",
-      "HI": "समाशोधन (चेकों का)",
-      "AR": "المقاصة (للشيكات، الشيكات)",
-      "FA": "تسویه حساب (چک، سفته)",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "交換",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "交換",
-        "reading": "こうかん"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "exchange",
-          "interchange",
-          "switching",
-          "reciprocity",
-          "barter",
-          "substitution",
-          "replacement",
-          "clearing (of checks, cheques)"
+    "version": "0.3.0",
+    "word": "交換",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/_tt4KeuulgI",
+    "in_db": true,
+    "kanji": "交換",
+    "reading": "こうかん",
+    "introduction_japanese": "「交換」は、名刺、情報、連絡先、意見、プレゼント、部品、サービス、オンラインのやりとり、会社の手続きなどの場面でよく使います。",
+    "introduction_english": "The noun and suru-verb こうかん is used in situations like business cards, information, contact details, opinions, gifts, parts, services, online interactions, and company procedures.",
+    "meanings": [
+        [
+            "exchange",
+            "interchange",
+            "reciprocity",
+            "barter"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
+        [
+            "switching",
+            "substitution",
+            "replacement"
         ],
-        "links": [],
+        [
+            "clearing (of checks, cheques)"
+        ]
+    ],
+    "meaning_explanation_japanese": "「交換」は、人と人で物や情報などを取りかえること。こわれた物や古い物を別の物に入れかえること。お金のやりとりをまとめて清算することも言います。",
+    "meaning_explanation_english": "The word こうかん means to exchange or trade things with someone, to replace or switch one thing for another, and it can also mean clearing of checks in finance.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "交",
+            "common_words": [
+                "交通 (こうつう): traffic; transportation",
+                "交流 (こうりゅう): exchange; interaction"
+            ]
+        },
+        {
+            "kanji": "換",
+            "common_words": [
+                "変換 (へんかん): conversion; transform",
+                "換気 (かんき): ventilation; air exchange"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to mingle or mix, the idea of crossing and interacting. You can see it in こうつう, where people and cars go back and forth. It also appears in こうりゅう, where people connect and share with each other. The second kanji means to change or replace. It shows up in へんかん, where one form changes into another. It is also in かんき, where old air is replaced with fresh air.",
+    "synonyms": [
+        "取り替え : とりかえ : replacement; swapping"
+    ],
+    "synonym_explanation": "The most common synonym of the こうかん is とりかえ. It focuses on replacing one thing with another, not mutual give-and-take.",
+    "antonyms": [
+        "保持 : ほじ : keeping; retention"
+    ],
+    "antonym_explanation": "The most common antonym of the こうかん is ほじ. It means to keep or maintain something as it is, not to swap or replace.",
+    "collocations": [
+        {
+            "kanji": "情報を交換する",
+            "furigana": "情報を交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "名刺を交換する",
+            "furigana": "名刺を交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "連絡先を交換する",
+            "furigana": "連絡先を交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "意見を交換する",
+            "furigana": "意見を交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "部品を交換する",
+            "furigana": "部品を交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "交換条件",
+            "furigana": "交換条件",
+            "translations": {}
+        },
+        {
+            "kanji": "交換手数料",
+            "furigana": "交換手数料",
+            "translations": {}
+        },
+        {
+            "kanji": "交換所",
+            "furigana": "交換所",
+            "translations": {}
+        },
+        {
+            "kanji": "交換期",
+            "furigana": "交換期",
+            "translations": {}
+        },
+        {
+            "kanji": "交換制度",
+            "furigana": "交換制度",
+            "translations": {}
+        },
+        {
+            "kanji": "物と交換する",
+            "furigana": "物と交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "意見と交換し合う",
+            "furigana": "意見と交換し合う",
+            "translations": {}
+        },
+        {
+            "kanji": "書籍と交換する",
+            "furigana": "書籍と交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "情報と交換する",
+            "furigana": "情報と交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "贈り物と交換する",
+            "furigana": "贈り物と交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "相互交換",
+            "furigana": "相互交換",
+            "translations": {}
+        },
+        {
+            "kanji": "無償交換",
+            "furigana": "無償交換",
+            "translations": {}
+        },
+        {
+            "kanji": "等価交換",
+            "furigana": "等価交換",
+            "translations": {}
+        },
+        {
+            "kanji": "即時交換",
+            "furigana": "即時交換",
+            "translations": {}
+        },
+        {
+            "kanji": "自由交換",
+            "furigana": "自由交換",
+            "translations": {}
+        },
+        {
+            "kanji": "交換操作",
+            "furigana": "交換操作",
+            "translations": {}
+        },
+        {
+            "kanji": "交換業務",
+            "furigana": "交換業務",
+            "translations": {}
+        },
+        {
+            "kanji": "交換取引",
+            "furigana": "交換取引",
+            "translations": {}
+        },
+        {
+            "kanji": "交換対応",
+            "furigana": "交換対応",
+            "translations": {}
+        },
+        {
+            "kanji": "交換処理",
+            "furigana": "交換処理",
+            "translations": {}
+        },
+        {
+            "kanji": "定期的に交換する",
+            "furigana": "定期的に交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "相互に交換する",
+            "furigana": "相互に交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "直接交換する",
+            "furigana": "直接交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "部分的に交換する",
+            "furigana": "部分的に交換する",
+            "translations": {}
+        },
+        {
+            "kanji": "速やかに交換する",
+            "furigana": "速やかに交換する",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私たちは情報を交換する。",
+            "furigana": "私(わたし)たちは情報(じょうほう)を交換(こうかん)する。",
+            "translations": {
+                "EN": "We exchange information.",
+                "ID": "Kami bertukar informasi.",
+                "ES": "Intercambiamos información.",
+                "VI": "Chúng tôi trao đổi thông tin.",
+                "FR": "Nous échangeons des informations.",
+                "NE": "हामी जानकारी आदानप्रदान गर्छौं।",
+                "BN": "আমরা তথ্য বিনিময় করি।",
+                "ZH": "我们交换信息。",
+                "KO": "우리는 정보를 교환합니다.",
+                "TL": "Nagpapalitan kami ng impormasyon.",
+                "MY": "သတင်းအချက်အလက်ဖလှယ်တယ်။",
+                "HI": "हम सूचना का आदान-प्रदान करते हैं।",
+                "AR": "نحن نتبادل المعلومات.",
+                "FA": "ما اطلاعات را رد و بدل می‌کنیم."
+            }
+        },
+        {
+            "kanji": "会社で名刺を交換しました。",
+            "furigana": "会社(かいしゃ)で名刺(めいし)を交換(こうかん)しました。",
+            "translations": {
+                "EN": "We exchanged business cards at work.",
+                "ID": "Kami bertukar kartu nama di tempat kerja.",
+                "ES": "Intercambiamos tarjetas de presentación en el trabajo.",
+                "VI": "Chúng tôi trao đổi danh thiếp ở nơi làm việc.",
+                "FR": "Nous avons échangé nos cartes de visite au travail.",
+                "NE": "हामीले काममा व्यापार कार्ड साटासाट गर्यौं।",
+                "BN": "আমরা কর্মক্ষেত্রে ব্যবসায়িক কার্ড বিনিময় করেছি।",
+                "ZH": "我们在工作中交换了名片。",
+                "KO": "회사에서 명함을 교환했습니다.",
+                "TL": "Nagpalitan kami ng mga business card sa trabaho.",
+                "MY": "လုပ်ငန်းခွင်မှာ လုပ်ငန်းကတ်တွေ လဲလှယ်ခဲ့ကြတယ်။",
+                "HI": "हमने कार्यस्थल पर एक दूसरे से बिजनेस कार्ड का आदान-प्रदान किया।",
+                "AR": "لقد قمنا بتبادل بطاقات العمل في العمل.",
+                "FA": "ما در محل کار کارت ویزیت رد و بدل کردیم."
+            }
+        },
+        {
+            "kanji": "連絡先を交換してもいいですか。",
+            "furigana": "連絡先(れんらくさき)を交換(こうかん)してもいいですか。",
+            "translations": {
+                "EN": "Can we exchange contact information?",
+                "ID": "Bisakah kita bertukar informasi kontak?",
+                "ES": "¿Podemos intercambiar información de contacto?",
+                "VI": "Chúng ta có thể trao đổi thông tin liên lạc không?",
+                "FR": "Pouvons-nous échanger des informations de contact ?",
+                "NE": "के हामी सम्पर्क जानकारी आदानप्रदान गर्न सक्छौं?",
+                "BN": "আমরা কি যোগাযোগের তথ্য বিনিময় করতে পারি?",
+                "ZH": "我们可以交换联系方式吗？",
+                "KO": "연락처를 교환할 수 있습니까?",
+                "TL": "Maaari ba tayong makipagpalitan ng impormasyon sa pakikipag-ugnayan?",
+                "MY": "ဆက်သွယ်ရန်အချက်အလက် ဖလှယ်နိုင်ပါသလား။",
+                "HI": "क्या हम संपर्क जानकारी का आदान-प्रदान कर सकते हैं?",
+                "AR": "هل يمكننا تبادل معلومات الاتصال؟",
+                "FA": "میشه اطلاعات تماسمون رو رد و بدل کنیم؟"
+            }
+        },
+        {
+            "kanji": "部品を交換してください。",
+            "furigana": "部品(ぶひん)を交換(こうかん)してください。",
+            "translations": {
+                "EN": "Please replace the part.",
+                "ID": "Silakan ganti komponennya.",
+                "ES": "Por favor reemplace la pieza.",
+                "VI": "Vui lòng thay thế bộ phận đó.",
+                "FR": "Veuillez remplacer la pièce.",
+                "NE": "कृपया भाग बदल्नुहोस्।",
+                "BN": "অনুগ্রহ করে অংশটি প্রতিস্থাপন করুন।",
+                "ZH": "请更换该部件。",
+                "KO": "부품을 교체하십시오.",
+                "TL": "Pakipalitan ang bahagi.",
+                "MY": "ကျေးဇူးပြု၍ အပိုင်းကို အစားထိုးပါ။",
+                "HI": "कृपया भाग बदलें.",
+                "AR": "يرجى استبدال الجزء.",
+                "FA": "لطفا قطعه را تعویض کنید."
+            }
+        },
+        {
+            "kanji": "会議で意見を交換した。",
+            "furigana": "会議(かいぎ)で意見(いけん)を交換(こうかん)した。",
+            "translations": {
+                "EN": "We exchanged opinions at the meeting.",
+                "ID": "Kami bertukar pendapat pada pertemuan itu.",
+                "ES": "Intercambiamos opiniones en la reunión.",
+                "VI": "Chúng tôi đã trao đổi ý kiến tại cuộc họp.",
+                "FR": "Nous avons échangé nos opinions lors de la réunion.",
+                "NE": "हामीले बैठकमा विचार आदानप्रदान गर्यौं।",
+                "BN": "আমরা সভায় মতামত বিনিময় করেছি।",
+                "ZH": "我们在会上交换了意见。",
+                "KO": "회의에서 의견을 교환했다.",
+                "TL": "Nagpalitan kami ng opinyon sa pulong.",
+                "MY": "အစည်းအဝေးမှာ အမြင်ချင်းဖလှယ်ခဲ့ကြတယ်။",
+                "HI": "हमने बैठक में विचारों का आदान-प्रदान किया।",
+                "AR": "لقد تبادلنا الآراء في الاجتماع.",
+                "FA": "در جلسه به تبادل نظر پرداختیم."
+            }
+        },
+        {
+            "kanji": "壊れた電池を新しい電池と交換する。",
+            "furigana": "壊(こわ)れた電池(でんち)を新(あたら)しい電池(でんち)と交換(こうかん)する。",
+            "translations": {
+                "EN": "Replace the broken battery with a new one.",
+                "ID": "Ganti baterai yang rusak dengan yang baru.",
+                "ES": "Reemplace la batería rota por una nueva.",
+                "VI": "Thay pin hỏng bằng pin mới.",
+                "FR": "Remplacez la batterie cassée par une nouvelle.",
+                "NE": "बिग्रिएको ब्याट्रीलाई नयाँले बदल्नुहोस्।",
+                "BN": "ভাঙা ব্যাটারিটি নতুন ব্যাটারি দিয়ে প্রতিস্থাপন করুন।",
+                "ZH": "用新电池更换损坏的电池。",
+                "KO": "깨진 배터리를 새 배터리로 교체합니다.",
+                "TL": "Palitan ang sirang baterya ng bago.",
+                "MY": "ပျက်စီးနေသော ဘက်ထရီကို အသစ်ဖြင့် အစားထိုးပါ။",
+                "HI": "टूटी हुई बैटरी को नई बैटरी से बदलें।",
+                "AR": "استبدال البطارية المكسورة بأخرى جديدة.",
+                "FA": "باتری خراب را با یک باتری نو تعویض کنید."
+            }
+        },
+        {
+            "kanji": "等価交換はできません。",
+            "furigana": "等価交換(とうかこうかん)はできません。",
+            "translations": {
+                "EN": "Equivalent exchange is not possible.",
+                "ID": "Pertukaran yang setara tidak dimungkinkan.",
+                "ES": "No es posible un intercambio equivalente.",
+                "VI": "Không thể trao đổi tương đương.",
+                "FR": "Un échange équivalent n'est pas possible.",
+                "NE": "बराबर विनिमय सम्भव छैन।",
+                "BN": "সমতুল্য বিনিময় সম্ভব নয়।",
+                "ZH": "无法进行等价交换。",
+                "KO": "등가 교환은 할 수 없습니다.",
+                "TL": "Ang katumbas na palitan ay hindi posible.",
+                "MY": "ညီမျှသော လဲလှယ်ရန် မဖြစ်နိုင်ပါ။",
+                "HI": "समतुल्य विनिमय संभव नहीं है।",
+                "AR": "التبادل المكافئ غير ممكن.",
+                "FA": "مبادله معادل آن امکان‌پذیر نیست."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "menukarkan",
+            "ES": "intercambio",
+            "VI": "trao đổi",
+            "FR": "échange",
+            "NE": "विनिमय",
+            "BN": "বিনিময়",
+            "ZH": "交换",
+            "KO": "교환",
+            "TL": "palitan",
+            "MY": "လဲလှယ်",
+            "HI": "अदला-बदली",
+            "AR": "تبادل",
+            "FA": "تبادل",
+            "EN": [
+                "exchange",
+                "interchange",
+                "reciprocity",
+                "barter"
+            ]
+        },
+        {
+            "ID": "beralih",
+            "ES": "traspuesta",
+            "VI": "chuyển đổi",
+            "FR": "commutation",
+            "NE": "स्विच गर्दै",
+            "BN": "স্যুইচিং",
+            "ZH": "交换",
+            "KO": "스위칭",
+            "TL": "lumilipat",
+            "MY": "ကူးပြောင်းခြင်း။",
+            "HI": "स्विचन",
+            "AR": "التبديل",
+            "FA": "سوئیچینگ",
+            "EN": [
+                "switching",
+                "substitution",
+                "replacement"
+            ]
+        },
+        {
+            "ID": "kliring (cek, cek)",
+            "ES": "compensación (de cheques)",
+            "VI": "thanh toán (séc, séc)",
+            "FR": "compensation (de chèques, de chèques)",
+            "NE": "(चेक, चेकको) क्लियरिङ्ग",
+            "BN": "(চেক, চেকের) ক্লিয়ারিং",
+            "ZH": "（支票、支票的）清算",
+            "KO": "(수표, 수표의) 청산",
+            "TL": "paglilinis (ng mga tseke, tseke)",
+            "MY": "ရှင်းလင်းခြင်း (ချက်လက်မှတ်၊ ချက်လက်မှတ်)",
+            "HI": "समाशोधन (चेकों का)",
+            "AR": "المقاصة (للشيكات، الشيكات)",
+            "FA": "تسویه حساب (چک، سفته)",
+            "EN": [
+                "clearing (of checks, cheques)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "交換",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
-    }
-  },
-  "kanji_list": [
-    "交",
-    "換"
-  ],
-  "kanji_data": {
-    "交": {
-      "freq_mainichi_shinbun": 178,
-      "grade": 2,
-      "heisig_en": "mingle",
-      "jlpt": 3,
-      "kanji": "交",
-      "kun_readings": [
-        "-か.う",
-        "か.わす",
-        "かわ.す",
-        "こもごも",
-        "ま.ざる",
-        "ま.じる",
-        "ま.ぜる",
-        "まじ.える",
-        "まじ.る",
-        "まじ.わる"
-      ],
-      "meanings": [
-        "association",
-        "coming & going",
-        "mingle",
-        "mixing"
-      ],
-      "name_readings": [
-        "かた"
-      ],
-      "notes": [],
-      "on_readings": [
-        "コウ"
-      ],
-      "stroke_count": 6,
-      "unicode": "4EA4"
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "交換",
+                "reading": "こうかん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "exchange",
+                    "interchange",
+                    "switching",
+                    "reciprocity",
+                    "barter",
+                    "substitution",
+                    "replacement",
+                    "clearing (of checks, cheques)"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
     },
-    "換": {
-      "freq_mainichi_shinbun": 687,
-      "grade": 8,
-      "heisig_en": "interchange",
-      "jlpt": 2,
-      "kanji": "換",
-      "kun_readings": [
-        "-か.える",
-        "か.える",
-        "か.わる"
-      ],
-      "meanings": [
-        "change",
-        "convert",
-        "interchange",
-        "period",
-        "renew",
-        "replace"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "カン"
-      ],
-      "stroke_count": 12,
-      "unicode": "63DB"
+    "kanji_list": [
+        "交",
+        "換"
+    ],
+    "kanji_data": {
+        "交": {
+            "freq_mainichi_shinbun": 178,
+            "grade": 2,
+            "heisig_en": "mingle",
+            "jlpt": 3,
+            "kanji": "交",
+            "kun_readings": [
+                "-か.う",
+                "か.わす",
+                "かわ.す",
+                "こもごも",
+                "ま.ざる",
+                "ま.じる",
+                "ま.ぜる",
+                "まじ.える",
+                "まじ.る",
+                "まじ.わる"
+            ],
+            "meanings": [
+                "association",
+                "coming & going",
+                "mingle",
+                "mixing"
+            ],
+            "name_readings": [
+                "かた"
+            ],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "4EA4"
+        },
+        "換": {
+            "freq_mainichi_shinbun": 687,
+            "grade": 8,
+            "heisig_en": "interchange",
+            "jlpt": 2,
+            "kanji": "換",
+            "kun_readings": [
+                "-か.える",
+                "か.える",
+                "か.わる"
+            ],
+            "meanings": [
+                "change",
+                "convert",
+                "interchange",
+                "period",
+                "renew",
+                "replace"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カン"
+            ],
+            "stroke_count": 12,
+            "unicode": "63DB"
+        }
     }
-  }
 }

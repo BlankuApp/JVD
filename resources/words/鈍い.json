@@ -237,9 +237,11 @@
       }
     }
   ],
-  "meanings_translations": {
-    "dull": {
-      "EN": "dull",
+  "meanings_translations": [
+    {
+      "EN": [
+        "dull"
+      ],
       "ID": "tumpul",
       "ES": "embotado",
       "VI": "cùn",
@@ -254,8 +256,10 @@
       "AR": "بليد",
       "FA": "کند"
     },
-    "thickheaded": {
-      "EN": "thickheaded",
+    {
+      "EN": [
+        "thickheaded"
+      ],
       "ID": "kepala tebal",
       "ES": "obtuso",
       "VI": "đần độn",
@@ -270,8 +274,10 @@
       "AR": "بليد",
       "FA": "کم‌فهم"
     },
-    "slow": {
-      "EN": "slow",
+    {
+      "EN": [
+        "slow"
+      ],
       "ID": "lambat",
       "ES": "lento",
       "VI": "chậm",
@@ -286,8 +292,10 @@
       "AR": "بطيء",
       "FA": "کند"
     },
-    "insensitive": {
-      "EN": "insensitive",
+    {
+      "EN": [
+        "insensitive"
+      ],
       "ID": "tidak peka",
       "ES": "insensible",
       "VI": "không nhạy cảm",
@@ -302,7 +310,7 @@
       "AR": "غير حساس",
       "FA": "بی‌احساس"
     }
-  },
+  ],
   "jisho_data": {
     "slug": "鈍い",
     "is_common": true,

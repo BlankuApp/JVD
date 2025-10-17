@@ -181,9 +181,11 @@
       }
     }
   ],
-  "meanings_translations": {
-    "independence": {
-      "EN": "Independence",
+  "meanings_translations": [
+    {
+      "EN": [
+        "Independence"
+      ],
       "ID": "Kemerdekaan",
       "ES": "Independencia",
       "VI": "Độc lập",
@@ -197,24 +199,8 @@
       "HI": "स्वतंत्रता",
       "AR": "الاستقلال",
       "FA": "استقلال"
-    },
-    "separation": {
-      "EN": "Independence",
-      "ID": "Kemerdekaan",
-      "ES": "Independencia",
-      "VI": "Độc lập",
-      "FR": "Indépendance",
-      "NE": "स्वतन्त्रता",
-      "BN": "স্বাধীনতা",
-      "ZH": "独立",
-      "KO": "독립",
-      "TL": "Kalayaan",
-      "MY": "လွတ်လပ်မှု",
-      "HI": "स्वतंत्रता",
-      "AR": "استقلال",
-      "FA": "استقلال"
     }
-  },
+  ],
   "jisho_data": {
     "slug": "独立",
     "is_common": true,

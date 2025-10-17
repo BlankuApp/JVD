@@ -1,542 +1,572 @@
 {
-  "version": "0.3.0",
-  "word": "張る",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/sUTHoy58wtI",
-  "in_db": true,
-  "kanji": "張る",
-  "reading": "はる",
-  "introduction_japanese": "",
-  "introduction_english": "The exciting Japanese vocabulary word we'll be diving into is はる, often used in various contexts, from crafting intriguing stories to navigating everyday tasks. Ready to explore where and how はる plays a role in real-life situations? Join in to master its usage!",
-  "meanings": [
-    [
-      "to stick",
-      "to paste",
-      "to affix"
+    "version": "0.3.0",
+    "word": "張る",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/sUTHoy58wtI",
+    "in_db": true,
+    "kanji": "張る",
+    "reading": "はる",
+    "introduction_japanese": "",
+    "introduction_english": "The exciting Japanese vocabulary word we'll be diving into is はる, often used in various contexts, from crafting intriguing stories to navigating everyday tasks. Ready to explore where and how はる plays a role in real-life situations? Join in to master its usage!",
+    "meanings": [
+        [
+            "to stick",
+            "to paste",
+            "to affix"
+        ],
+        [
+            "to stretch",
+            "to spread",
+            "to strain",
+            "to tighten",
+            "to put up"
+        ],
+        [
+            "to form"
+        ],
+        [
+            "to fill",
+            "to swell"
+        ],
+        [
+            "to stick out",
+            "to push out"
+        ],
+        [
+            "to post"
+        ],
+        [
+            "to be expensive"
+        ],
+        [
+            "to keep a watch on",
+            "to be on the lookout"
+        ],
+        [
+            "to slap"
+        ],
+        [
+            "to span",
+            "to generate"
+        ]
     ],
-    [
-      "to stretch",
-      "to spread",
-      "to strain",
-      "to tighten",
-      "to put up"
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word はる means \"to stretch\" or \"to put up\" something. It can refer to putting up a poster, pitching a tent, or even the feeling of stretching tightness, like the sky stretching out broadly.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "張",
+            "common_words": [
+                "緊張: tension",
+                "拡張: expansion"
+            ]
+        }
     ],
-    [
-      "to form"
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [],
+    "synonym_explanation": "",
+    "antonyms": [
+        "縮む : ちぢむ : to shrink",
+        "縮める : ちぢめる : to shorten"
     ],
-    [
-      "to fill",
-      "to swell"
+    "antonym_explanation": "The most common antonyms of the word はる are ちぢむ and ちぢめる. These words focus on the process of shrinking or making something smaller, as opposed to stretching or expanding.",
+    "collocations": [
+        {
+            "kanji": "テントをはる",
+            "furigana": "テントをはる",
+            "translations": {}
+        },
+        {
+            "kanji": "ポスターをはる",
+            "furigana": "ポスターをはる",
+            "translations": {}
+        },
+        {
+            "kanji": "空がまぶたをはる",
+            "furigana": "空がまぶたをはる",
+            "translations": {}
+        },
+        {
+            "kanji": "彼は胸をはる",
+            "furigana": "彼は胸をはる",
+            "translations": {}
+        }
     ],
-    [
-      "to stick out",
-      "to push out"
+    "example_sentences": [
+        {
+            "kanji": "私は公園でテントを張ります。",
+            "furigana": "私(わたし)は公園(こうえん)でテントを張(は)ります。",
+            "translations": {
+                "EN": "I pitch a tent in the park.",
+                "ID": "Saya mendirikan tenda di taman.",
+                "ES": "Monto una tienda en el parque.",
+                "VI": "Tôi dựng lều trong công viên.",
+                "FR": "Je monte une tente dans le parc.",
+                "NE": "म पार्कमा पाल टाँग्छु।",
+                "BN": "আমি পার্কে একটি তাঁবু গাঁথি।",
+                "ZH": "我在公园里搭帐篷。",
+                "KO": "공원에서 텐트를 칩니다.",
+                "TL": "Nag-setup ako ng tent sa parke.",
+                "MY": "ကျွန်တော် ဒုက္ခစပ်တို့မှာ ပန်းဥယျာဉ်မှာ တဲထူလိုက်ပါတယ်။",
+                "HI": "मैं पार्क में तंबू लगाता हूँ।",
+                "AR": "أقوم بنصب خيمة في الحديقة.",
+                "FA": "من در پارک یک چادر برپا می‌کنم."
+            }
+        },
+        {
+            "kanji": "ポスターを壁に張ります。",
+            "furigana": "ポスターを壁(へき)に張(は)ります。",
+            "translations": {
+                "EN": "I put a poster on the wall.",
+                "ID": "Saya menempelkan poster di dinding.",
+                "ES": "Pego un póster en la pared.",
+                "VI": "Tôi dán poster lên tường.",
+                "FR": "Je colle une affiche sur le mur.",
+                "NE": "मैले पर्खालमा पोस्टर टाँसेँ।",
+                "BN": "আমি দেয়ালে পোস্টার লাগিয়েছি।",
+                "ZH": "我把海报贴在墙上。",
+                "KO": "포스터를 벽에 붙입니다.",
+                "TL": "Nagpaskil ako ng poster sa dingding.",
+                "MY": "မျှော်လင့်ချက်ကို နံရံပေါ်တွင် ကပ်သည်။",
+                "HI": "मैंने दीवार पर पोस्टर चिपकाया।",
+                "AR": "ألصقتُ الملصق على الحائط.",
+                "FA": "من پوستری را به دیوار می‌زنم."
+            }
+        },
+        {
+            "kanji": "空は青くて、まぶたを張る。",
+            "furigana": "空(そら)は青(あお)くて、まぶたを張(は)る。",
+            "translations": {
+                "EN": "The sky is so blue it makes me squint.",
+                "ID": "Langit begitu biru sehingga membuat saya menyipitkan mata.",
+                "ES": "El cielo es tan azul que me hace entrecerrar los ojos.",
+                "VI": "Bầu trời xanh đến nỗi làm tôi nheo mắt.",
+                "FR": "Le ciel est tellement bleu que j'en plisse les yeux.",
+                "NE": "आकाश नीलो छ, यसले मलाई आँखाहरु झिम्क्याउँछ।",
+                "BN": "আকাশ এত নীল যে আমি চোখ ছোট করে দেখি।",
+                "ZH": "天空蓝得让我眯起眼睛。",
+                "KO": "하늘이 너무 파래서 눈을 찡그리고 있어요.",
+                "TL": "Napakabughaw ng langit kaya napapapikit ako.",
+                "MY": "ကောင်းကင်က ခရမ်းလွန်ရောင်ခြည်ကြောင့် မျက်လုံးတွေ ငေးခဲ့ပါတယ်။",
+                "HI": "आकाश इतना नीला है कि मेरी आँखें मिच जाती हैं।",
+                "AR": "السماء زرقاء لدرجة تجعلني أغمض عيني.",
+                "FA": "آسمان آنقدر آبی است که مجبورم چشم‌هایم را جمع کنم."
+            }
+        },
+        {
+            "kanji": "彼は胸をはりました。",
+            "furigana": "彼(かれ)は胸(むね)を張(は)りました。",
+            "translations": {
+                "EN": "He puffed out his chest.",
+                "ID": "Dia membusungkan dadanya.",
+                "ES": "Él sacó pecho.",
+                "VI": "Anh ấy ưỡn ngực ra.",
+                "FR": "Il a gonflé sa poitrine.",
+                "NE": "ऊ सिँह राखेर उभियो।",
+                "BN": "সে বুক ফুলিয়ে দাঁড়িয়েছিল।",
+                "ZH": "他挺起了胸膛。",
+                "KO": "그는 가슴을 내밀었다.",
+                "TL": "Inilabas niya ang kanyang dibdib.",
+                "MY": "သူက မျက်နှာကို အဆုတ်မလုပ်ဘဲ မြင်သာစွာ ပြပြီးရပ်ထားသည်။",
+                "HI": "उसने छाती बाहर निकाली।",
+                "AR": "نفخ صدره.",
+                "FA": "او سينه‌اش را بیرون داد."
+            }
+        }
     ],
-    [
-      "to post"
+    "meanings_translations": [
+        {
+            "EN": [
+                "to stick",
+                "to paste",
+                "to affix"
+            ],
+            "ID": "Menempel: melekatkan atau menempelkan sesuatu di tempatnya",
+            "ES": "Pegar: adjuntar o fijar algo en su lugar",
+            "VI": "Dán: gắn hoặc dán một thứ gì đó vào vị trí",
+            "FR": "Coller: attacher ou fixer quelque chose à un endroit",
+            "NE": "टाँस्नु: कुनै चिजलाई स्थानमा जोड्नु वा टाँस्नु",
+            "BN": "লাঠি: কিছু একটি স্থানে সংযুক্ত বা আঠালো করার জন্য",
+            "ZH": "张贴：将某物粘贴或固定在某个地方",
+            "KO": "붙이다: 무언가를 제자리에 붙이거나 접착하다",
+            "TL": "Idikit: ikabit o idikit ang isang bagay sa lugar",
+            "MY": "ကပ်: သတ်မှတ်ရာတွင် အရာတစ်စုံတစ်ခုကို ဆပ်ရန် သို့မဟုတ် ကပ်ရန်",
+            "HI": "चिपकाना: किसी चीज़ को स्थान पर चिपकाना या जोड़ना",
+            "AR": "الصق: لتثبيت شيء ما في مكانه بالغراء أو اللاصق",
+            "FA": "چسباندن: چیزی را در جای خود قرار دادن یا با چسب وصل کردن"
+        },
+        {
+            "EN": [
+                "to stretch",
+                "to spread",
+                "to strain",
+                "to tighten",
+                "to put up"
+            ],
+            "ID": "meregangkan",
+            "ES": "estirar",
+            "VI": "kéo căng",
+            "FR": "étirer",
+            "NE": "फैलाउन",
+            "BN": "প্রসারিত করা",
+            "ZH": "伸展",
+            "KO": "늘리다",
+            "TL": "mag-unat",
+            "MY": "ဆန့်ခြင်း",
+            "HI": "खींचना",
+            "AR": "تمديد",
+            "FA": "کشیدن"
+        },
+        {
+            "EN": [
+                "to form"
+            ],
+            "ID": "untuk meregangkan, untuk membentuk, untuk menekan (dapat digunakan dalam berbagai konteks seperti meregangkan kain, membentuk harapan, dll.)",
+            "ES": "estirar, formar, tensar (puede usarse en varios contextos como estirar una tela, formar expectativas, etc.)",
+            "VI": "căng ra, hình thành, căng thẳng (có thể dùng trong các ngữ cảnh như căng vải, hình thành kỳ vọng, v.v.)",
+            "FR": "étirer, former, tendre (peut être utilisé dans divers contextes comme étirer un tissu, former des attentes, etc.)",
+            "NE": "तान्न, बनाउन, दबाबमा ल्याउनु (विभिन्न सन्दर्भहरू जस्तै कपडा तान्ने, आशा निर्माण गर्नेमा प्रयोग गर्न सकिन्छ)",
+            "BN": "টানতে, গঠন করতে, টানতে (বিভিন্ন প্রসঙ্গে যেমন ফ্যাব্রিক টানতে, প্রত্যাশা তৈরি করতে ইত্যাদিতে ব্যবহার করা যায়)",
+            "ZH": "伸展，形成，拉紧（可以在多种情况下使用，例如拉伸织物、形成期望等）",
+            "KO": "늘리다, 형성하다, 긴장하다 (천을 늘이거나, 기대를 형성하는 등 다양한 맥락에서 사용할 수 있습니다.)",
+            "TL": "mag-inat, bumuo, maghimok (maaaring gamitin sa iba't ibang konteksto tulad ng pag-unat ng tela, pagbuo ng mga inaasahan, atbp.)",
+            "MY": "ကြိုးစားသည်၊ ဖွဲ့စည်းသည်၊ ဖိအားပေးသည် (အထည်ကို ဆွဲသည်၊ မျှော်လင့်ချက် တည်ဆောက်သည်ကဲ့သို့ ကြောင်းကြောင်း မဟုတ်မဟုတ် တွင် အသုံးပြုနိုင်သည်။)",
+            "HI": "खींचने, बनाने, तनाव देने (जैसे कपड़े को खींचने, अपेक्षाएँ बनाने जैसे विभिन्न संदर्भों में उपयोग किया जा सकता है)",
+            "AR": "لتمديد، لتشكيل، للضغط (يمكن استخدامها في سياقات مختلفة مثل تمديد القماش وتشكيل التوقعات وما إلى ذلك)",
+            "FA": "برای کشیدن، برای تشکیل دادن، برای فشار آوردن (می تواند در زمینه های مختلفی به کار رود)"
+        },
+        {
+            "EN": [
+                "to fill",
+                "to swell"
+            ],
+            "ID": "張る : mengisi",
+            "ES": "張る : llenar",
+            "VI": "張る : lấp đầy",
+            "FR": "張る : remplir",
+            "NE": "張る : भर्नु",
+            "BN": "張る : ভরাট করা",
+            "ZH": "張る : 填满",
+            "KO": "張る : 채우다",
+            "TL": "張る : punan",
+            "MY": "張る : လက်လှမ်းမီသည်",
+            "HI": "張る : भरना",
+            "AR": "張る : ملء",
+            "FA": "張る : پر کردن"
+        },
+        {
+            "EN": [
+                "to stick out",
+                "to push out"
+            ],
+            "ID": "張る : menonjol",
+            "ES": "張る : sobresalir",
+            "VI": "張る : nhô ra",
+            "FR": "張る : se démarquer",
+            "NE": "張る : बाहिर निस्कन",
+            "BN": "張る : বাইরে বেরিয়ে আসা",
+            "ZH": "張る : 突出",
+            "KO": "張る : 튀어나오다",
+            "TL": "張る : bumukal",
+            "MY": "張る : ထောင့်ထွက်သည်",
+            "HI": "張る : बाहर निकालना",
+            "AR": "張る : البروز",
+            "FA": "張る : بیرون زدن"
+        },
+        {
+            "EN": [
+                "to post"
+            ],
+            "ID": "mengirimkan",
+            "ES": "publicar",
+            "VI": "đăng",
+            "FR": "afficher",
+            "NE": "पोस्ट गर्नु",
+            "BN": "পোস্ট করা",
+            "ZH": "发布",
+            "KO": "게시하다",
+            "TL": "mag-post",
+            "MY": "တင်မည်",
+            "HI": "प्रकाशित करना",
+            "AR": "نشر",
+            "FA": "پست كردن"
+        },
+        {
+            "EN": [
+                "to be expensive"
+            ],
+            "ID": "menempel / mahal",
+            "ES": "pegar / ser caro",
+            "VI": "dán / đắt đỏ",
+            "FR": "coller / être cher",
+            "NE": "महँगो हुनु / फैलाउनु",
+            "BN": "আঁটা / দামি",
+            "ZH": "贴 / 贵",
+            "KO": "붙이다 / 비싸다",
+            "TL": "dumikit / maging mahal",
+            "MY": "တပ်ဆင်ရန် / ဈေးကြီးသော",
+            "HI": "चिपकाना / महंगा होना",
+            "AR": "لصق / غالي",
+            "FA": "برچسب زدن / گران بودن"
+        },
+        {
+            "EN": [
+                "to keep a watch on",
+                "to be on the lookout"
+            ],
+            "ID": "mengawasi",
+            "ES": "vigilar",
+            "VI": "giữ một con mắt trên",
+            "FR": "surveiller",
+            "NE": "निगरानी गर्नु",
+            "BN": "নজর রাখা",
+            "ZH": "保持警惕",
+            "KO": "지켜보다",
+            "TL": "magbantay",
+            "MY": "ကြည့်နေသည်",
+            "HI": "निगरानी रखना",
+            "AR": "راقب",
+            "FA": "نظارت کردن به"
+        },
+        {
+            "EN": [
+                "to slap"
+            ],
+            "ID": "張る : menampar",
+            "ES": "張る : abofetear",
+            "VI": "張る : tát",
+            "FR": "張る : gifler",
+            "NE": "張る : झापड हान्नु",
+            "BN": "張る : চড় মারা",
+            "ZH": "張る : 打耳光",
+            "KO": "張る: 때리다",
+            "TL": "張る : sampalin",
+            "MY": "張る : ထိုးခြင်း၊ ကျည်ခတ်ခြင်း",
+            "HI": "張る : थप्पड़ मारना",
+            "AR": "張る : صفع",
+            "FA": "張る : ضربه زدن"
+        },
+        {
+            "EN": [
+                "to span",
+                "to generate"
+            ],
+            "ID": "membentang",
+            "ES": "abarcar",
+            "VI": "kéo dài",
+            "FR": "s'étendre",
+            "NE": "छेलिएको",
+            "BN": "বিস্তৃত করা",
+            "ZH": "跨度",
+            "KO": "펼치다",
+            "TL": "umabot",
+            "MY": "ဆွဲဆန့်",
+            "HI": "फैलाना",
+            "AR": "يمتد",
+            "FA": "گسترش دادن"
+        }
     ],
-    [
-      "to be expensive"
+    "jisho_data": {
+        "slug": "張る",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3",
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "張る",
+                "reading": "はる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to stick",
+                    "to paste",
+                    "to affix"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to stretch",
+                    "to spread",
+                    "to strain",
+                    "to tighten",
+                    "to put up"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to form"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to fill",
+                    "to swell"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to stick out",
+                    "to push out"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to post"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be expensive"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to keep a watch on",
+                    "to be on the lookout"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to slap"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to span",
+                    "to generate"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "張"
     ],
-    [
-      "to keep a watch on",
-      "to be on the lookout"
-    ],
-    [
-      "to slap"
-    ],
-    [
-      "to span",
-      "to generate"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word はる means \"to stretch\" or \"to put up\" something. It can refer to putting up a poster, pitching a tent, or even the feeling of stretching tightness, like the sky stretching out broadly.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "張",
-      "common_words": [
-        "緊張: tension",
-        "拡張: expansion"
-      ]
+    "kanji_data": {
+        "張": {
+            "meanings": [
+                "counter for bows & stringed instruments",
+                "put up (tent)",
+                "spread",
+                "stretch"
+            ],
+            "on_readings": [
+                "チョウ"
+            ],
+            "kun_readings": [
+                "-は.り",
+                "-ば.り",
+                "は.る"
+            ],
+            "stroke_count": 11,
+            "jlpt": 1,
+            "freq_mainichi_shinbun": 403,
+            "unicode": "5F35",
+            "grade": 5
+        }
     }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [],
-  "synonym_explanation": "",
-  "antonyms": [
-    "縮む : ちぢむ : to shrink",
-    "縮める : ちぢめる : to shorten"
-  ],
-  "antonym_explanation": "The most common antonyms of the word はる are ちぢむ and ちぢめる. These words focus on the process of shrinking or making something smaller, as opposed to stretching or expanding.",
-  "collocations": [
-    {
-      "kanji": "テントをはる",
-      "furigana": "テントをはる",
-      "translations": {}
-    },
-    {
-      "kanji": "ポスターをはる",
-      "furigana": "ポスターをはる",
-      "translations": {}
-    },
-    {
-      "kanji": "空がまぶたをはる",
-      "furigana": "空がまぶたをはる",
-      "translations": {}
-    },
-    {
-      "kanji": "彼は胸をはる",
-      "furigana": "彼は胸をはる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "私は公園でテントを張ります。",
-      "furigana": "私(わたし)は公園(こうえん)でテントを張(は)ります。",
-      "translations": {
-        "EN": "I pitch a tent in the park.",
-        "ID": "Saya mendirikan tenda di taman.",
-        "ES": "Monto una tienda en el parque.",
-        "VI": "Tôi dựng lều trong công viên.",
-        "FR": "Je monte une tente dans le parc.",
-        "NE": "म पार्कमा पाल टाँग्छु।",
-        "BN": "আমি পার্কে একটি তাঁবু গাঁথি।",
-        "ZH": "我在公园里搭帐篷。",
-        "KO": "공원에서 텐트를 칩니다.",
-        "TL": "Nag-setup ako ng tent sa parke.",
-        "MY": "ကျွန်တော် ဒုက္ခစပ်တို့မှာ ပန်းဥယျာဉ်မှာ တဲထူလိုက်ပါတယ်။",
-        "HI": "मैं पार्क में तंबू लगाता हूँ।",
-        "AR": "أقوم بنصب خيمة في الحديقة.",
-        "FA": "من در پارک یک چادر برپا می‌کنم."
-      }
-    },
-    {
-      "kanji": "ポスターを壁に張ります。",
-      "furigana": "ポスターを壁(へき)に張(は)ります。",
-      "translations": {
-        "EN": "I put a poster on the wall.",
-        "ID": "Saya menempelkan poster di dinding.",
-        "ES": "Pego un póster en la pared.",
-        "VI": "Tôi dán poster lên tường.",
-        "FR": "Je colle une affiche sur le mur.",
-        "NE": "मैले पर्खालमा पोस्टर टाँसेँ।",
-        "BN": "আমি দেয়ালে পোস্টার লাগিয়েছি।",
-        "ZH": "我把海报贴在墙上。",
-        "KO": "포스터를 벽에 붙입니다.",
-        "TL": "Nagpaskil ako ng poster sa dingding.",
-        "MY": "မျှော်လင့်ချက်ကို နံရံပေါ်တွင် ကပ်သည်။",
-        "HI": "मैंने दीवार पर पोस्टर चिपकाया।",
-        "AR": "ألصقتُ الملصق على الحائط.",
-        "FA": "من پوستری را به دیوار می‌زنم."
-      }
-    },
-    {
-      "kanji": "空は青くて、まぶたを張る。",
-      "furigana": "空(そら)は青(あお)くて、まぶたを張(は)る。",
-      "translations": {
-        "EN": "The sky is so blue it makes me squint.",
-        "ID": "Langit begitu biru sehingga membuat saya menyipitkan mata.",
-        "ES": "El cielo es tan azul que me hace entrecerrar los ojos.",
-        "VI": "Bầu trời xanh đến nỗi làm tôi nheo mắt.",
-        "FR": "Le ciel est tellement bleu que j'en plisse les yeux.",
-        "NE": "आकाश नीलो छ, यसले मलाई आँखाहरु झिम्क्याउँछ।",
-        "BN": "আকাশ এত নীল যে আমি চোখ ছোট করে দেখি।",
-        "ZH": "天空蓝得让我眯起眼睛。",
-        "KO": "하늘이 너무 파래서 눈을 찡그리고 있어요.",
-        "TL": "Napakabughaw ng langit kaya napapapikit ako.",
-        "MY": "ကောင်းကင်က ခရမ်းလွန်ရောင်ခြည်ကြောင့် မျက်လုံးတွေ ငေးခဲ့ပါတယ်။",
-        "HI": "आकाश इतना नीला है कि मेरी आँखें मिच जाती हैं।",
-        "AR": "السماء زرقاء لدرجة تجعلني أغمض عيني.",
-        "FA": "آسمان آنقدر آبی است که مجبورم چشم‌هایم را جمع کنم."
-      }
-    },
-    {
-      "kanji": "彼は胸をはりました。",
-      "furigana": "彼(かれ)は胸(むね)を張(は)りました。",
-      "translations": {
-        "EN": "He puffed out his chest.",
-        "ID": "Dia membusungkan dadanya.",
-        "ES": "Él sacó pecho.",
-        "VI": "Anh ấy ưỡn ngực ra.",
-        "FR": "Il a gonflé sa poitrine.",
-        "NE": "ऊ सिँह राखेर उभियो।",
-        "BN": "সে বুক ফুলিয়ে দাঁড়িয়েছিল।",
-        "ZH": "他挺起了胸膛。",
-        "KO": "그는 가슴을 내밀었다.",
-        "TL": "Inilabas niya ang kanyang dibdib.",
-        "MY": "သူက မျက်နှာကို အဆုတ်မလုပ်ဘဲ မြင်သာစွာ ပြပြီးရပ်ထားသည်။",
-        "HI": "उसने छाती बाहर निकाली।",
-        "AR": "نفخ صدره.",
-        "FA": "او سينه‌اش را بیرون داد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to stick": {
-      "EN": "To stick: to attach or glue something in place",
-      "ID": "Menempel: melekatkan atau menempelkan sesuatu di tempatnya",
-      "ES": "Pegar: adjuntar o fijar algo en su lugar",
-      "VI": "Dán: gắn hoặc dán một thứ gì đó vào vị trí",
-      "FR": "Coller: attacher ou fixer quelque chose à un endroit",
-      "NE": "टाँस्नु: कुनै चिजलाई स्थानमा जोड्नु वा टाँस्नु",
-      "BN": "লাঠি: কিছু একটি স্থানে সংযুক্ত বা আঠালো করার জন্য",
-      "ZH": "张贴：将某物粘贴或固定在某个地方",
-      "KO": "붙이다: 무언가를 제자리에 붙이거나 접착하다",
-      "TL": "Idikit: ikabit o idikit ang isang bagay sa lugar",
-      "MY": "ကပ်: သတ်မှတ်ရာတွင် အရာတစ်စုံတစ်ခုကို ဆပ်ရန် သို့မဟုတ် ကပ်ရန်",
-      "HI": "चिपकाना: किसी चीज़ को स्थान पर चिपकाना या जोड़ना",
-      "AR": "الصق: لتثبيت شيء ما في مكانه بالغراء أو اللاصق",
-      "FA": "چسباندن: چیزی را در جای خود قرار دادن یا با چسب وصل کردن"
-    },
-    "to stretch": {
-      "EN": "to stretch",
-      "ID": "meregangkan",
-      "ES": "estirar",
-      "VI": "kéo căng",
-      "FR": "étirer",
-      "NE": "फैलाउन",
-      "BN": "প্রসারিত করা",
-      "ZH": "伸展",
-      "KO": "늘리다",
-      "TL": "mag-unat",
-      "MY": "ဆန့်ခြင်း",
-      "HI": "खींचना",
-      "AR": "تمديد",
-      "FA": "کشیدن"
-    },
-    "to form": {
-      "EN": "to stretch, to form, to strain (could be used in various contexts like stretching a fabric, forming expectations, etc.)",
-      "ID": "untuk meregangkan, untuk membentuk, untuk menekan (dapat digunakan dalam berbagai konteks seperti meregangkan kain, membentuk harapan, dll.)",
-      "ES": "estirar, formar, tensar (puede usarse en varios contextos como estirar una tela, formar expectativas, etc.)",
-      "VI": "căng ra, hình thành, căng thẳng (có thể dùng trong các ngữ cảnh như căng vải, hình thành kỳ vọng, v.v.)",
-      "FR": "étirer, former, tendre (peut être utilisé dans divers contextes comme étirer un tissu, former des attentes, etc.)",
-      "NE": "तान्न, बनाउन, दबाबमा ल्याउनु (विभिन्न सन्दर्भहरू जस्तै कपडा तान्ने, आशा निर्माण गर्नेमा प्रयोग गर्न सकिन्छ)",
-      "BN": "টানতে, গঠন করতে, টানতে (বিভিন্ন প্রসঙ্গে যেমন ফ্যাব্রিক টানতে, প্রত্যাশা তৈরি করতে ইত্যাদিতে ব্যবহার করা যায়)",
-      "ZH": "伸展，形成，拉紧（可以在多种情况下使用，例如拉伸织物、形成期望等）",
-      "KO": "늘리다, 형성하다, 긴장하다 (천을 늘이거나, 기대를 형성하는 등 다양한 맥락에서 사용할 수 있습니다.)",
-      "TL": "mag-inat, bumuo, maghimok (maaaring gamitin sa iba't ibang konteksto tulad ng pag-unat ng tela, pagbuo ng mga inaasahan, atbp.)",
-      "MY": "ကြိုးစားသည်၊ ဖွဲ့စည်းသည်၊ ဖိအားပေးသည် (အထည်ကို ဆွဲသည်၊ မျှော်လင့်ချက် တည်ဆောက်သည်ကဲ့သို့ ကြောင်းကြောင်း မဟုတ်မဟုတ် တွင် အသုံးပြုနိုင်သည်။)",
-      "HI": "खींचने, बनाने, तनाव देने (जैसे कपड़े को खींचने, अपेक्षाएँ बनाने जैसे विभिन्न संदर्भों में उपयोग किया जा सकता है)",
-      "AR": "لتمديد، لتشكيل، للضغط (يمكن استخدامها في سياقات مختلفة مثل تمديد القماش وتشكيل التوقعات وما إلى ذلك)",
-      "FA": "برای کشیدن، برای تشکیل دادن، برای فشار آوردن (می تواند در زمینه های مختلفی به کار رود)"
-    },
-    "to fill": {
-      "EN": "張る : to fill",
-      "ID": "張る : mengisi",
-      "ES": "張る : llenar",
-      "VI": "張る : lấp đầy",
-      "FR": "張る : remplir",
-      "NE": "張る : भर्नु",
-      "BN": "張る : ভরাট করা",
-      "ZH": "張る : 填满",
-      "KO": "張る : 채우다",
-      "TL": "張る : punan",
-      "MY": "張る : လက်လှမ်းမီသည်",
-      "HI": "張る : भरना",
-      "AR": "張る : ملء",
-      "FA": "張る : پر کردن"
-    },
-    "to stick out": {
-      "EN": "張る : to stick out",
-      "ID": "張る : menonjol",
-      "ES": "張る : sobresalir",
-      "VI": "張る : nhô ra",
-      "FR": "張る : se démarquer",
-      "NE": "張る : बाहिर निस्कन",
-      "BN": "張る : বাইরে বেরিয়ে আসা",
-      "ZH": "張る : 突出",
-      "KO": "張る : 튀어나오다",
-      "TL": "張る : bumukal",
-      "MY": "張る : ထောင့်ထွက်သည်",
-      "HI": "張る : बाहर निकालना",
-      "AR": "張る : البروز",
-      "FA": "張る : بیرون زدن"
-    },
-    "to post": {
-      "EN": "to post",
-      "ID": "mengirimkan",
-      "ES": "publicar",
-      "VI": "đăng",
-      "FR": "afficher",
-      "NE": "पोस्ट गर्नु",
-      "BN": "পোস্ট করা",
-      "ZH": "发布",
-      "KO": "게시하다",
-      "TL": "mag-post",
-      "MY": "တင်မည်",
-      "HI": "प्रकाशित करना",
-      "AR": "نشر",
-      "FA": "پست كردن"
-    },
-    "to be expensive": {
-      "EN": "張る (To be expensive is one potential meaning, but this verb has various uses such as \"to stick, to spread, to extend\")",
-      "ID": "menempel / mahal",
-      "ES": "pegar / ser caro",
-      "VI": "dán / đắt đỏ",
-      "FR": "coller / être cher",
-      "NE": "महँगो हुनु / फैलाउनु",
-      "BN": "আঁটা / দামি",
-      "ZH": "贴 / 贵",
-      "KO": "붙이다 / 비싸다",
-      "TL": "dumikit / maging mahal",
-      "MY": "တပ်ဆင်ရန် / ဈေးကြီးသော",
-      "HI": "चिपकाना / महंगा होना",
-      "AR": "لصق / غالي",
-      "FA": "برچسب زدن / گران بودن"
-    },
-    "to keep a watch on": {
-      "EN": "to keep a watch on",
-      "ID": "mengawasi",
-      "ES": "vigilar",
-      "VI": "giữ một con mắt trên",
-      "FR": "surveiller",
-      "NE": "निगरानी गर्नु",
-      "BN": "নজর রাখা",
-      "ZH": "保持警惕",
-      "KO": "지켜보다",
-      "TL": "magbantay",
-      "MY": "ကြည့်နေသည်",
-      "HI": "निगरानी रखना",
-      "AR": "راقب",
-      "FA": "نظارت کردن به"
-    },
-    "to slap": {
-      "EN": "張る: to slap",
-      "ID": "張る : menampar",
-      "ES": "張る : abofetear",
-      "VI": "張る : tát",
-      "FR": "張る : gifler",
-      "NE": "張る : झापड हान्नु",
-      "BN": "張る : চড় মারা",
-      "ZH": "張る : 打耳光",
-      "KO": "張る: 때리다",
-      "TL": "張る : sampalin",
-      "MY": "張る : ထိုးခြင်း၊ ကျည်ခတ်ခြင်း",
-      "HI": "張る : थप्पड़ मारना",
-      "AR": "張る : صفع",
-      "FA": "張る : ضربه زدن"
-    },
-    "to span": {
-      "EN": "to span",
-      "ID": "membentang",
-      "ES": "abarcar",
-      "VI": "kéo dài",
-      "FR": "s'étendre",
-      "NE": "छेलिएको",
-      "BN": "বিস্তৃত করা",
-      "ZH": "跨度",
-      "KO": "펼치다",
-      "TL": "umabot",
-      "MY": "ဆွဲဆန့်",
-      "HI": "फैलाना",
-      "AR": "يمتد",
-      "FA": "گسترش دادن"
-    }
-  },
-  "jisho_data": {
-    "slug": "張る",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3",
-      "jlpt-n5"
-    ],
-    "japanese": [
-      {
-        "word": "張る",
-        "reading": "はる"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to stick",
-          "to paste",
-          "to affix"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to stretch",
-          "to spread",
-          "to strain",
-          "to tighten",
-          "to put up"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Intransitive verb, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to form"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to fill",
-          "to swell"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Intransitive verb, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to stick out",
-          "to push out"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to post"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to be expensive"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to keep a watch on",
-          "to be on the lookout"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to slap"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to span",
-          "to generate"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "張"
-  ],
-  "kanji_data": {
-    "張": {
-      "meanings": [
-        "counter for bows & stringed instruments",
-        "put up (tent)",
-        "spread",
-        "stretch"
-      ],
-      "on_readings": [
-        "チョウ"
-      ],
-      "kun_readings": [
-        "-は.り",
-        "-ば.り",
-        "は.る"
-      ],
-      "stroke_count": 11,
-      "jlpt": 1,
-      "freq_mainichi_shinbun": 403,
-      "unicode": "5F35",
-      "grade": 5
-    }
-  }
 }

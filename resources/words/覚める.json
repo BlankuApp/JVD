@@ -1,401 +1,407 @@
 {
-  "version": "0.3.0",
-  "word": "覚める",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/b_kBkM5PLdk",
-  "in_db": true,
-  "kanji": "覚める",
-  "reading": "さめる",
-  "introduction_japanese": "覚めるは、目が覚めるとき、酔いがさめるとき、気持ちや幻想から冷めるときなど、起きる・冷静になる場面でよく使う動詞です。",
-  "introduction_english": "The verb さめる is commonly used when talking about waking up, sobering up, or when feelings and illusions cool down and you become calm.",
-  "meanings": [
-    [
-      "to wake, to wake up (physically)"
-    ],
-    [
-      "to become sober, to sober up, to regain consciousness (after anaesthesia)"
-    ],
-    [
-      "to come to one's senses, to be disillusioned, to have passion or illusion fade"
-    ]
-  ],
-  "meaning_explanation_japanese": "「さめる」は、寝ていたときに目が覚める、酔いが取れて正気に戻る、気持ちや夢から冷めて現実を見る、というような『目が覚める・冷静になる』ことを表す言葉です。",
-  "meaning_explanation_english": "The word さめる means 'to wake up', 'to sober up', or 'to come to one's senses'. It describes waking physically, regaining consciousness or sobriety, or when feelings or illusions cool down.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "覚",
-      "common_words": [
-        "覚える (おぼえる): to remember; to learn",
-        "自覚 (じかく): self-awareness; self-consciousness"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means awake and remember. In the word おぼえる it gives the idea of remembering or learning. In the word じかく it contributes the sense of being aware of yourself.",
-  "synonyms": [
-    "目覚める : めざめる : to wake up"
-  ],
-  "synonym_explanation": "The most common synonym of the さめる is めざめる. めざめる usually means to wake up physically and is very close to the 'wake' meaning of さめる.",
-  "antonyms": [
-    "眠る : ねむる : to sleep"
-  ],
-  "antonym_explanation": "The most common antonym of the さめる is ねむる. ねむる means to fall asleep or be asleep, which is the opposite of waking or coming to consciousness.",
-  "collocations": [
-    {
-      "kanji": "夢が覚める",
-      "furigana": "夢が覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "酔いが覚める",
-      "furigana": "酔いが覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "意識が覚める",
-      "furigana": "意識が覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "幻想が覚める",
-      "furigana": "幻想が覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "情熱が覚める",
-      "furigana": "情熱が覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "すっと覚める",
-      "furigana": "すっと覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "ぱっと覚める",
-      "furigana": "ぱっと覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "だんだん覚める",
-      "furigana": "だんだん覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "目が覚めるように覚める",
-      "furigana": "目が覚めるように覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "はっと覚める",
-      "furigana": "はっと覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "覚めた目で見る",
-      "furigana": "覚めた目で見る",
-      "translations": {}
-    },
-    {
-      "kanji": "覚めた心で受け止める",
-      "furigana": "覚めた心で受け止める",
-      "translations": {}
-    },
-    {
-      "kanji": "酔いがすっかり覚める",
-      "furigana": "酔いがすっかり覚める",
-      "translations": {}
-    },
-    {
-      "kanji": "夢から覚めて現実を見る",
-      "furigana": "夢から覚めて現実を見る",
-      "translations": {}
-    },
-    {
-      "kanji": "衝動が覚めて冷静になる",
-      "furigana": "衝動が覚めて冷静になる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "夢が覚める。",
-      "furigana": "夢(ゆめ)が覚(さ)める。",
-      "translations": {
-        "EN": "I wake up from my dream.",
-        "ID": "Aku terbangun dari mimpiku.",
-        "ES": "Me despierto de mi sueño.",
-        "VI": "Tôi tỉnh dậy sau giấc mơ.",
-        "FR": "Je me réveille de mon rêve.",
-        "NE": "म मेरो सपनाबाट ब्यूँझन्छु।",
-        "BN": "আমি আমার স্বপ্ন থেকে জেগে উঠি।",
-        "ZH": "我从梦中醒来。",
-        "KO": "꿈이 깨어난다.",
-        "TL": "Nagising ako sa panaginip ko.",
-        "MY": "အိပ်မက်ကနေ နိုးလာတယ်။",
-        "HI": "मैं अपने सपने से जाग गया।",
-        "AR": "أستيقظ من حلمي.",
-        "FA": "از خوابم بیدار می‌شوم."
-      }
-    },
-    {
-      "kanji": "酔いが覚める。",
-      "furigana": "酔(よ)いが覚(さ)める。",
-      "translations": {
-        "EN": "I sober up.",
-        "ID": "Aku sadar.",
-        "ES": "Me pongo sobrio.",
-        "VI": "Tôi tỉnh táo lại.",
-        "FR": "Je suis sobre.",
-        "NE": "म होसमा आएँ।",
-        "BN": "আমি শান্ত হলাম।",
-        "ZH": "我清醒了。",
-        "KO": "술에 취함.",
-        "TL": "Nagpahinga ako.",
-        "MY": "ငါစိတ်မဆိုးဘူး။",
-        "HI": "मैं शांत हो गया।",
-        "AR": "لقد أفقت.",
-        "FA": "من هوشیار شدم."
-      }
-    },
-    {
-      "kanji": "意識が覚める。",
-      "furigana": "意識(いしき)が覚(さ)める。",
-      "translations": {
-        "EN": "I regain consciousness.",
-        "ID": "Saya sadar kembali.",
-        "ES": "Recupero la conciencia.",
-        "VI": "Tôi tỉnh lại.",
-        "FR": "Je reprends conscience.",
-        "NE": "मलाई होस आउँछ।",
-        "BN": "আমার জ্ঞান ফিরে আসে।",
-        "ZH": "我恢复了意识。",
-        "KO": "의식이 깨어난다.",
-        "TL": "Nagkamalay ako.",
-        "MY": "သတိပြန်ရလာတယ်။",
-        "HI": "मैं होश में आ गया।",
-        "AR": "أستعيد وعيي.",
-        "FA": "دوباره هوشیاری‌ام را به دست می‌آورم."
-      }
-    },
-    {
-      "kanji": "情熱が覚める。",
-      "furigana": "情熱(じょうねつ)が覚(さ)める。",
-      "translations": {
-        "EN": "Passion awakens.",
-        "ID": "Gairah bangkit.",
-        "ES": "La pasión despierta.",
-        "VI": "Niềm đam mê thức tỉnh.",
-        "FR": "La passion s'éveille.",
-        "NE": "जोश जाग्छ।",
-        "BN": "আবেগ জাগ্রত হয়।",
-        "ZH": "激情被唤醒。",
-        "KO": "열정이 깨어난다.",
-        "TL": "Ang pagnanasa ay gumising.",
-        "MY": "ဝါသနာက နိုးထလာတယ်။",
-        "HI": "जुनून जागता है.",
-        "AR": "يوقظ العاطفة.",
-        "FA": "اشتیاق بیدار می‌شود."
-      }
-    },
-    {
-      "kanji": "はっと覚める。",
-      "furigana": "はっと覚(さ)める。",
-      "translations": {
-        "EN": "I suddenly wake up.",
-        "ID": "Tiba-tiba aku terbangun.",
-        "ES": "De repente me despierto.",
-        "VI": "Tôi đột nhiên tỉnh giấc.",
-        "FR": "Je me réveille soudainement.",
-        "NE": "म अचानक ब्यूँझन्छु।",
-        "BN": "হঠাৎ আমার ঘুম ভেঙে যায়।",
-        "ZH": "我猛然醒悟。",
-        "KO": "쭉 깨운다.",
-        "TL": "bigla akong nagising.",
-        "MY": "ငါရုတ်တရက်နိုးလာတယ်။",
-        "HI": "मैं अचानक जाग गया.",
-        "AR": "استيقظت فجأة.",
-        "FA": "ناگهان از خواب می‌پرم."
-      }
-    },
-    {
-      "kanji": "夢から覚めて現実を見る。",
-      "furigana": "夢(ゆめ)から覚(さ)めて現実(げんじつ)を見(み)る。",
-      "translations": {
-        "EN": "Wake up from the dream and see the reality.",
-        "ID": "Bangun dari mimpi dan lihatlah kenyataan.",
-        "ES": "Despierta del sueño y ve la realidad.",
-        "VI": "Hãy thức dậy khỏi giấc mơ và nhìn vào thực tế.",
-        "FR": "Réveillez-vous du rêve et voyez la réalité.",
-        "NE": "सपनाबाट ब्यूँझनुहोस् र वास्तविकता हेर्नुहोस्।",
-        "BN": "স্বপ্ন থেকে জেগে উঠো এবং বাস্তবতা দেখো।",
-        "ZH": "梦醒了，看清了现实。",
-        "KO": "꿈에서 깨어 현실을 본다.",
-        "TL": "Gumising mula sa panaginip at makita ang katotohanan.",
-        "MY": "အိပ်မက်ကနေ နိုးထပြီး အဖြစ်မှန်ကို မြင်လိုက်ပါ။",
-        "HI": "स्वप्न से जागो और वास्तविकता को देखो।",
-        "AR": "استيقظ من الحلم وانظر إلى الحقيقة.",
-        "FA": "از خواب غفلت بیدار شو و واقعیت را ببین."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to wake, to wake up (physically)": {
-      "ID": "untuk bangun, untuk bangun (secara fisik)",
-      "ES": "despertar, despertar (físicamente)",
-      "VI": "thức dậy, thức dậy (về mặt thể chất)",
-      "FR": "se réveiller, se réveiller (physiquement)",
-      "NE": "उठ्नु, उठ्नु (शारीरिक रूपमा)",
-      "BN": "জাগ্রত করা, জাগ্রত করা (শারীরিকভাবে)",
-      "ZH": "醒来，（身体上）醒来",
-      "KO": "깨어나다, (육체적으로) 깨어나다",
-      "TL": "gumising, gumising (pisikal)",
-      "MY": "နိုးထရန် (ရုပ်ပိုင်းဆိုင်ရာ)",
-      "HI": "जागना, जागना (शारीरिक रूप से)",
-      "AR": "الاستيقاظ، الاستيقاظ (جسديًا)",
-      "FA": "بیدار کردن، از خواب بیدار کردن (جسمی)",
-      "EN": []
-    },
-    "to become sober, to sober up, to regain consciousness (after anaesthesia)": {
-      "ID": "menjadi sadar, menjadi siuman, menjadi sadar kembali (setelah anestesi)",
-      "ES": "ponerse sobrio, recuperar la sobriedad, recuperar la conciencia (después de la anestesia)",
-      "VI": "trở nên tỉnh táo, tỉnh táo trở lại, lấy lại ý thức (sau khi gây mê)",
-      "FR": "devenir sobre, se dégriser, reprendre conscience (après une anesthésie)",
-      "NE": "होस गुमाउनु, होस खुल्नु, चेतना फर्कनु (एनेस्थेसिया पछि)",
-      "BN": "(অ্যানেসথেসিয়ার পর) জ্ঞান ফিরে পাওয়া, সংযত হওয়া,",
-      "ZH": "变得清醒，清醒过来，恢复意识（麻醉后）",
-      "KO": "술이 깨다, 술이 깨다, (마취 후) 의식을 되찾다",
-      "TL": "upang maging matino, upang maging matino, upang mabawi ang kamalayan (pagkatapos ng kawalan ng pakiramdam)",
-      "MY": "သတိဝီရိယရှိရန်၊ သတိပြန်လည်လာရန် (မေ့ဆေးပြီးနောက်)၊",
-      "HI": "होश में आना, होश में आना, होश में आना (एनेस्थीसिया के बाद)",
-      "AR": "أن يصبح واعيًا، أن يفيق، أن يستعيد وعيه (بعد التخدير)",
-      "FA": "هوشیار شدن، به هوش آمدن، به هوش آمدن (پس از بیهوشی)",
-      "EN": []
-    },
-    "to come to one's senses, to be disillusioned, to have passion or illusion fade": {
-      "ID": "untuk kembali sadar, menjadi kecewa, gairah atau ilusi memudar",
-      "ES": "volver en sí, desilusionarse, desvanecerse la pasión o la ilusión",
-      "VI": "trở nên tỉnh táo, vỡ mộng, niềm đam mê hoặc ảo tưởng phai nhạt",
-      "FR": "revenir à la raison, être désillusionné, voir sa passion ou son illusion s'estomper",
-      "NE": "होशमा आउनु, मोहभंग हुनु, जोश वा भ्रम हराउनु",
-      "BN": "জ্ঞান ফিরে আসা, মোহমুক্ত হওয়া, আবেগ বা মোহ দূরীভূত হওয়া",
-      "ZH": "恢复理智，幻灭，激情或幻想消退",
-      "KO": "정신을 차리다, 환멸을 느끼다, 열정이나 환상이 사라지다",
-      "TL": "upang magkaroon ng katinuan, masiraan ng loob, magkaroon ng simbuyo ng damdamin o ilusyon",
-      "MY": "ကာမအာရုံသို့ ရောက်ရန်၊ ဒေါသဖြစ်ရန်၊",
-      "HI": "होश में आना, मोहभंग होना, जुनून या भ्रम का फीका पड़ना",
-      "AR": "العودة إلى رشده، الشعور بخيبة الأمل، تلاشي العاطفة أو الوهم",
-      "FA": "به خود آمدن، سرخورده شدن، از بین رفتن شور یا توهم",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "覚める",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "覚める",
-        "reading": "さめる"
-      },
-      {
-        "word": "醒める",
-        "reading": "さめる"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to wake",
-          "to wake up"
+    "version": "0.3.0",
+    "word": "覚める",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/b_kBkM5PLdk",
+    "in_db": true,
+    "kanji": "覚める",
+    "reading": "さめる",
+    "introduction_japanese": "覚めるは、目が覚めるとき、酔いがさめるとき、気持ちや幻想から冷めるときなど、起きる・冷静になる場面でよく使う動詞です。",
+    "introduction_english": "The verb さめる is commonly used when talking about waking up, sobering up, or when feelings and illusions cool down and you become calm.",
+    "meanings": [
+        [
+            "to wake, to wake up (physically)"
         ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
+        [
+            "to become sober, to sober up, to regain consciousness (after anaesthesia)"
         ],
-        "links": [],
+        [
+            "to come to one's senses, to be disillusioned, to have passion or illusion fade"
+        ]
+    ],
+    "meaning_explanation_japanese": "「さめる」は、寝ていたときに目が覚める、酔いが取れて正気に戻る、気持ちや夢から冷めて現実を見る、というような『目が覚める・冷静になる』ことを表す言葉です。",
+    "meaning_explanation_english": "The word さめる means 'to wake up', 'to sober up', or 'to come to one's senses'. It describes waking physically, regaining consciousness or sobriety, or when feelings or illusions cool down.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "覚",
+            "common_words": [
+                "覚える (おぼえる): to remember; to learn",
+                "自覚 (じかく): self-awareness; self-consciousness"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means awake and remember. In the word おぼえる it gives the idea of remembering or learning. In the word じかく it contributes the sense of being aware of yourself.",
+    "synonyms": [
+        "目覚める : めざめる : to wake up"
+    ],
+    "synonym_explanation": "The most common synonym of the さめる is めざめる. めざめる usually means to wake up physically and is very close to the 'wake' meaning of さめる.",
+    "antonyms": [
+        "眠る : ねむる : to sleep"
+    ],
+    "antonym_explanation": "The most common antonym of the さめる is ねむる. ねむる means to fall asleep or be asleep, which is the opposite of waking or coming to consciousness.",
+    "collocations": [
+        {
+            "kanji": "夢が覚める",
+            "furigana": "夢が覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "酔いが覚める",
+            "furigana": "酔いが覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "意識が覚める",
+            "furigana": "意識が覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "幻想が覚める",
+            "furigana": "幻想が覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "情熱が覚める",
+            "furigana": "情熱が覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "すっと覚める",
+            "furigana": "すっと覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "ぱっと覚める",
+            "furigana": "ぱっと覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "だんだん覚める",
+            "furigana": "だんだん覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "目が覚めるように覚める",
+            "furigana": "目が覚めるように覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "はっと覚める",
+            "furigana": "はっと覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "覚めた目で見る",
+            "furigana": "覚めた目で見る",
+            "translations": {}
+        },
+        {
+            "kanji": "覚めた心で受け止める",
+            "furigana": "覚めた心で受け止める",
+            "translations": {}
+        },
+        {
+            "kanji": "酔いがすっかり覚める",
+            "furigana": "酔いがすっかり覚める",
+            "translations": {}
+        },
+        {
+            "kanji": "夢から覚めて現実を見る",
+            "furigana": "夢から覚めて現実を見る",
+            "translations": {}
+        },
+        {
+            "kanji": "衝動が覚めて冷静になる",
+            "furigana": "衝動が覚めて冷静になる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "夢が覚める。",
+            "furigana": "夢(ゆめ)が覚(さ)める。",
+            "translations": {
+                "EN": "I wake up from my dream.",
+                "ID": "Aku terbangun dari mimpiku.",
+                "ES": "Me despierto de mi sueño.",
+                "VI": "Tôi tỉnh dậy sau giấc mơ.",
+                "FR": "Je me réveille de mon rêve.",
+                "NE": "म मेरो सपनाबाट ब्यूँझन्छु।",
+                "BN": "আমি আমার স্বপ্ন থেকে জেগে উঠি।",
+                "ZH": "我从梦中醒来。",
+                "KO": "꿈이 깨어난다.",
+                "TL": "Nagising ako sa panaginip ko.",
+                "MY": "အိပ်မက်ကနေ နိုးလာတယ်။",
+                "HI": "मैं अपने सपने से जाग गया।",
+                "AR": "أستيقظ من حلمي.",
+                "FA": "از خوابم بیدار می‌شوم."
+            }
+        },
+        {
+            "kanji": "酔いが覚める。",
+            "furigana": "酔(よ)いが覚(さ)める。",
+            "translations": {
+                "EN": "I sober up.",
+                "ID": "Aku sadar.",
+                "ES": "Me pongo sobrio.",
+                "VI": "Tôi tỉnh táo lại.",
+                "FR": "Je suis sobre.",
+                "NE": "म होसमा आएँ।",
+                "BN": "আমি শান্ত হলাম।",
+                "ZH": "我清醒了。",
+                "KO": "술에 취함.",
+                "TL": "Nagpahinga ako.",
+                "MY": "ငါစိတ်မဆိုးဘူး။",
+                "HI": "मैं शांत हो गया।",
+                "AR": "لقد أفقت.",
+                "FA": "من هوشیار شدم."
+            }
+        },
+        {
+            "kanji": "意識が覚める。",
+            "furigana": "意識(いしき)が覚(さ)める。",
+            "translations": {
+                "EN": "I regain consciousness.",
+                "ID": "Saya sadar kembali.",
+                "ES": "Recupero la conciencia.",
+                "VI": "Tôi tỉnh lại.",
+                "FR": "Je reprends conscience.",
+                "NE": "मलाई होस आउँछ।",
+                "BN": "আমার জ্ঞান ফিরে আসে।",
+                "ZH": "我恢复了意识。",
+                "KO": "의식이 깨어난다.",
+                "TL": "Nagkamalay ako.",
+                "MY": "သတိပြန်ရလာတယ်။",
+                "HI": "मैं होश में आ गया।",
+                "AR": "أستعيد وعيي.",
+                "FA": "دوباره هوشیاری‌ام را به دست می‌آورم."
+            }
+        },
+        {
+            "kanji": "情熱が覚める。",
+            "furigana": "情熱(じょうねつ)が覚(さ)める。",
+            "translations": {
+                "EN": "Passion awakens.",
+                "ID": "Gairah bangkit.",
+                "ES": "La pasión despierta.",
+                "VI": "Niềm đam mê thức tỉnh.",
+                "FR": "La passion s'éveille.",
+                "NE": "जोश जाग्छ।",
+                "BN": "আবেগ জাগ্রত হয়।",
+                "ZH": "激情被唤醒。",
+                "KO": "열정이 깨어난다.",
+                "TL": "Ang pagnanasa ay gumising.",
+                "MY": "ဝါသနာက နိုးထလာတယ်။",
+                "HI": "जुनून जागता है.",
+                "AR": "يوقظ العاطفة.",
+                "FA": "اشتیاق بیدار می‌شود."
+            }
+        },
+        {
+            "kanji": "はっと覚める。",
+            "furigana": "はっと覚(さ)める。",
+            "translations": {
+                "EN": "I suddenly wake up.",
+                "ID": "Tiba-tiba aku terbangun.",
+                "ES": "De repente me despierto.",
+                "VI": "Tôi đột nhiên tỉnh giấc.",
+                "FR": "Je me réveille soudainement.",
+                "NE": "म अचानक ब्यूँझन्छु।",
+                "BN": "হঠাৎ আমার ঘুম ভেঙে যায়।",
+                "ZH": "我猛然醒悟。",
+                "KO": "쭉 깨운다.",
+                "TL": "bigla akong nagising.",
+                "MY": "ငါရုတ်တရက်နိုးလာတယ်။",
+                "HI": "मैं अचानक जाग गया.",
+                "AR": "استيقظت فجأة.",
+                "FA": "ناگهان از خواب می‌پرم."
+            }
+        },
+        {
+            "kanji": "夢から覚めて現実を見る。",
+            "furigana": "夢(ゆめ)から覚(さ)めて現実(げんじつ)を見(み)る。",
+            "translations": {
+                "EN": "Wake up from the dream and see the reality.",
+                "ID": "Bangun dari mimpi dan lihatlah kenyataan.",
+                "ES": "Despierta del sueño y ve la realidad.",
+                "VI": "Hãy thức dậy khỏi giấc mơ và nhìn vào thực tế.",
+                "FR": "Réveillez-vous du rêve et voyez la réalité.",
+                "NE": "सपनाबाट ब्यूँझनुहोस् र वास्तविकता हेर्नुहोस्।",
+                "BN": "স্বপ্ন থেকে জেগে উঠো এবং বাস্তবতা দেখো।",
+                "ZH": "梦醒了，看清了现实。",
+                "KO": "꿈에서 깨어 현실을 본다.",
+                "TL": "Gumising mula sa panaginip at makita ang katotohanan.",
+                "MY": "အိပ်မက်ကနေ နိုးထပြီး အဖြစ်မှန်ကို မြင်လိုက်ပါ။",
+                "HI": "स्वप्न से जागो और वास्तविकता को देखो।",
+                "AR": "استيقظ من الحلم وانظر إلى الحقيقة.",
+                "FA": "از خواب غفلت بیدار شو و واقعیت را ببین."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "untuk bangun, untuk bangun (secara fisik)",
+            "ES": "despertar, despertar (físicamente)",
+            "VI": "thức dậy, thức dậy (về mặt thể chất)",
+            "FR": "se réveiller, se réveiller (physiquement)",
+            "NE": "उठ्नु, उठ्नु (शारीरिक रूपमा)",
+            "BN": "জাগ্রত করা, জাগ্রত করা (শারীরিকভাবে)",
+            "ZH": "醒来，（身体上）醒来",
+            "KO": "깨어나다, (육체적으로) 깨어나다",
+            "TL": "gumising, gumising (pisikal)",
+            "MY": "နိုးထရန် (ရုပ်ပိုင်းဆိုင်ရာ)",
+            "HI": "जागना, जागना (शारीरिक रूप से)",
+            "AR": "الاستيقاظ، الاستيقاظ (جسديًا)",
+            "FA": "بیدار کردن، از خواب بیدار کردن (جسمی)",
+            "EN": [
+                "to wake, to wake up (physically)"
+            ]
+        },
+        {
+            "ID": "menjadi sadar, menjadi siuman, menjadi sadar kembali (setelah anestesi)",
+            "ES": "ponerse sobrio, recuperar la sobriedad, recuperar la conciencia (después de la anestesia)",
+            "VI": "trở nên tỉnh táo, tỉnh táo trở lại, lấy lại ý thức (sau khi gây mê)",
+            "FR": "devenir sobre, se dégriser, reprendre conscience (après une anesthésie)",
+            "NE": "होस गुमाउनु, होस खुल्नु, चेतना फर्कनु (एनेस्थेसिया पछि)",
+            "BN": "(অ্যানেসথেসিয়ার পর) জ্ঞান ফিরে পাওয়া, সংযত হওয়া,",
+            "ZH": "变得清醒，清醒过来，恢复意识（麻醉后）",
+            "KO": "술이 깨다, 술이 깨다, (마취 후) 의식을 되찾다",
+            "TL": "upang maging matino, upang maging matino, upang mabawi ang kamalayan (pagkatapos ng kawalan ng pakiramdam)",
+            "MY": "သတိဝီရိယရှိရန်၊ သတိပြန်လည်လာရန် (မေ့ဆေးပြီးနောက်)၊",
+            "HI": "होश में आना, होश में आना, होश में आना (एनेस्थीसिया के बाद)",
+            "AR": "أن يصبح واعيًا، أن يفيق، أن يستعيد وعيه (بعد التخدير)",
+            "FA": "هوشیار شدن، به هوش آمدن، به هوش آمدن (پس از بیهوشی)",
+            "EN": [
+                "to become sober, to sober up, to regain consciousness (after anaesthesia)"
+            ]
+        },
+        {
+            "ID": "untuk kembali sadar, menjadi kecewa, gairah atau ilusi memudar",
+            "ES": "volver en sí, desilusionarse, desvanecerse la pasión o la ilusión",
+            "VI": "trở nên tỉnh táo, vỡ mộng, niềm đam mê hoặc ảo tưởng phai nhạt",
+            "FR": "revenir à la raison, être désillusionné, voir sa passion ou son illusion s'estomper",
+            "NE": "होशमा आउनु, मोहभंग हुनु, जोश वा भ्रम हराउनु",
+            "BN": "জ্ঞান ফিরে আসা, মোহমুক্ত হওয়া, আবেগ বা মোহ দূরীভূত হওয়া",
+            "ZH": "恢复理智，幻灭，激情或幻想消退",
+            "KO": "정신을 차리다, 환멸을 느끼다, 열정이나 환상이 사라지다",
+            "TL": "upang magkaroon ng katinuan, masiraan ng loob, magkaroon ng simbuyo ng damdamin o ilusyon",
+            "MY": "ကာမအာရုံသို့ ရောက်ရန်၊ ဒေါသဖြစ်ရန်၊",
+            "HI": "होश में आना, मोहभंग होना, जुनून या भ्रम का फीका पड़ना",
+            "AR": "العودة إلى رشده، الشعور بخيبة الأمل، تلاشي العاطفة أو الوهم",
+            "FA": "به خود آمدن، سرخورده شدن، از بین رفتن شور یا توهم",
+            "EN": [
+                "to come to one's senses, to be disillusioned, to have passion or illusion fade"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "覚める",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to become sober",
-          "to sober up",
-          "to regain consciousness (e.g. after anaesthesia)"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
+        "japanese": [
+            {
+                "word": "覚める",
+                "reading": "さめる"
+            },
+            {
+                "word": "醒める",
+                "reading": "さめる"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to come to one's senses",
-          "to be disillusioned"
+        "senses": [
+            {
+                "english_definitions": [
+                    "to wake",
+                    "to wake up"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to become sober",
+                    "to sober up",
+                    "to regain consciousness (e.g. after anaesthesia)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to come to one's senses",
+                    "to be disillusioned"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
         ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "覚"
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "kanji_data": {
+        "覚": {
+            "freq_mainichi_shinbun": 710,
+            "grade": 4,
+            "heisig_en": "memorize",
+            "jlpt": 3,
+            "kanji": "覚",
+            "kun_readings": [
+                "おぼ.える",
+                "さ.ます",
+                "さ.める",
+                "さと.る"
+            ],
+            "meanings": [
+                "awake",
+                "learn",
+                "memorize",
+                "remember",
+                "sober up"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カク"
+            ],
+            "stroke_count": 12,
+            "unicode": "899A"
+        }
     }
-  },
-  "kanji_list": [
-    "覚"
-  ],
-  "kanji_data": {
-    "覚": {
-      "freq_mainichi_shinbun": 710,
-      "grade": 4,
-      "heisig_en": "memorize",
-      "jlpt": 3,
-      "kanji": "覚",
-      "kun_readings": [
-        "おぼ.える",
-        "さ.ます",
-        "さ.める",
-        "さと.る"
-      ],
-      "meanings": [
-        "awake",
-        "learn",
-        "memorize",
-        "remember",
-        "sober up"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "カク"
-      ],
-      "stroke_count": 12,
-      "unicode": "899A"
-    }
-  }
 }

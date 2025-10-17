@@ -192,9 +192,13 @@
       }
     }
   ],
-  "meanings_translations": {
-    "end": {
-      "EN": "It is the end day",
+  "meanings_translations": [
+    {
+      "EN": [
+        "end",
+        "tip",
+        "top"
+      ],
       "ID": "Ini adalah hari terakhir",
       "ES": "Es el último día",
       "VI": "Đây là ngày cuối",
@@ -209,8 +213,10 @@
       "AR": "إنه اليوم الأخير",
       "FA": "روز پایان است"
     },
-    "youngest child": {
-      "EN": "youngest child",
+    {
+      "EN": [
+        "youngest child"
+      ],
       "ID": "anak bungsu",
       "ES": "el hijo menor",
       "VI": "con út",
@@ -225,8 +231,10 @@
       "AR": "الطفل الأصغر",
       "FA": "فرزند کوچکتر"
     },
-    "descendants": {
-      "EN": "End : Descendants",
+    {
+      "EN": [
+        "descendants"
+      ],
       "ID": "Akhir : Keturunan",
       "ES": "Final : Descendientes",
       "VI": "Cuối: Con cháu",
@@ -241,8 +249,10 @@
       "AR": "نهاية : أحفاد",
       "FA": "پایان : نسل‌ها"
     },
-    "future": {
-      "EN": "future",
+    {
+      "EN": [
+        "future"
+      ],
       "ID": "masa depan",
       "ES": "futuro",
       "VI": "tương lai",
@@ -257,8 +267,10 @@
       "AR": "مستقبل",
       "FA": "آینده"
     },
-    " after": {
-      "EN": "End: after",
+    {
+      "EN": [
+        "fter"
+      ],
       "ID": "Akhir: setelah",
       "ES": "Fin : después",
       "VI": "Cuối : sau",
@@ -273,8 +285,10 @@
       "AR": "النهاية : بعد",
       "FA": "پایان: بعد"
     },
-    "trifles": {
-      "EN": "trifles",
+    {
+      "EN": [
+        "trifles"
+      ],
       "ID": "hal-hal sepele",
       "ES": "bagatelas",
       "VI": "chuyện vặt",
@@ -289,8 +303,10 @@
       "AR": "تفاهات",
       "FA": "چیزهای بی‌اهمیت"
     },
-    "degenerate age": {
-      "EN": "時代の退廃",
+    {
+      "EN": [
+        "degenerate age"
+      ],
       "ID": "era degenerasi",
       "ES": "edad degenerada",
       "VI": "thời đại suy thoái",
@@ -305,7 +321,7 @@
       "AR": "عصر التدهور",
       "FA": "عصر رو به انحطاط"
     }
-  },
+  ],
   "jisho_data": {
     "slug": "末",
     "is_common": true,

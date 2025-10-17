@@ -1,333 +1,341 @@
 {
-  "version": "0.3.0",
-  "word": "性格",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/n9LKVxBQLzw",
-  "in_db": true,
-  "kanji": "性格",
-  "reading": "せいかく",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is せいかく which you will often hear in conversations about people's personalities and characteristics. ",
-  "meanings": [
-    [
-      "character",
-      "personality",
-      "disposition",
-      "nature"
-    ],
-    [
-      "characteristics",
-      "nature"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"せいかく\" means \"personality.\" It refers to the set of emotional qualities, habits, and behaviors that define a person's character. This word captures elements such as attitudes, likes, and dislikes that contribute to who someone is as an individual.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "性",
-      "common_words": [
-        "性別:  sex",
-        "性質: nature"
-      ]
-    },
-    {
-      "kanji": "格",
-      "common_words": [
-        "格好: shape",
-        "風格: personality"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "性質 : せいしつ : nature"
-  ],
-  "synonym_explanation": "The most common synonym of the word \"せいかく\" is \"せいしつ.\" While \u0016seikaku¨ is about an individual's personality characteristics and character traits, \"せいしつ\" refers to the inherent nature or qualities of a person or object. It can mean nature, property, or disposition, not necessarily limited to humans.",
-  "antonyms": [],
-  "antonym_explanation": "",
-  "collocations": [
-    {
-      "kanji": "せいかくがいい",
-      "furigana": "せいかくがいい",
-      "translations": {}
-    },
-    {
-      "kanji": "せいかくがわるい",
-      "furigana": "せいかくがわるい",
-      "translations": {}
-    },
-    {
-      "kanji": "せいかくがあう",
-      "furigana": "せいかくがあう",
-      "translations": {}
-    },
-    {
-      "kanji": "せいかくをみる",
-      "furigana": "せいかくをみる",
-      "translations": {}
-    },
-    {
-      "kanji": "せいかくをしる",
-      "furigana": "せいかくをしる",
-      "translations": {}
-    },
-    {
-      "kanji": "せいかくはんてん",
-      "furigana": "せいかくはんてん",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "彼は性格がいいです。",
-      "furigana": "彼(かれ)は性格(せいかく)がいいです。",
-      "translations": {
-        "EN": "He has a good personality.",
-        "ID": "Dia punya kepribadian yang baik.",
-        "ES": "Él tiene una buena personalidad.",
-        "VI": "Anh ấy có tính cách tốt.",
-        "FR": "Il a une bonne personnalité.",
-        "NE": "उहाँको स्वभाव राम्रो छ।",
-        "BN": "তার ব্যক্তিত্ব খুব ভালো।",
-        "ZH": "他的性格很好。",
-        "KO": "그는 성격이 좋습니다.",
-        "TL": "Mayroon siyang magandang ugali.",
-        "MY": "သူ၏အပြုအမူကောင်းသည်။",
-        "HI": "उसकी व्यक्तित्व बहुत अच्छी है।",
-        "AR": "لديه شخصية جيدة.",
-        "FA": "او شخصیت خوبی دارد."
-      }
-    },
-    {
-      "kanji": "彼は性格が悪いです。",
-      "furigana": "彼(かれ)は性格(せいかく)が悪(わる)いです。",
-      "translations": {
-        "EN": "He has a bad personality.",
-        "ID": "Dia memiliki kepribadian buruk.",
-        "ES": "Él tiene una mala personalidad.",
-        "VI": "Anh ấy có tính cách xấu.",
-        "FR": "Il a une mauvaise personnalité.",
-        "NE": "उको स्वाभाव नराम्रो छ।",
-        "BN": "তার ব্যক্তিত্ব খারাপ।",
-        "ZH": "他性格不好。",
-        "KO": "그는 성격이 나쁘다.",
-        "TL": "May masamang ugali siya.",
-        "MY": "သူ့ရဲ့ အပြုအမူကောင်းမှု မဆိုးပါဘူး။",
-        "HI": "उसका स्वभाव ख़राब है।",
-        "AR": "لديه شخصية سيئة.",
-        "FA": "او شخصیت بدی دارد."
-      }
-    },
-    {
-      "kanji": "私たちの性格が合う。",
-      "furigana": "私(わたし)たちの性格(せいかく)が合(あ)う。",
-      "translations": {
-        "EN": "Our personalities match.",
-        "ID": "Kepribadian kita cocok.",
-        "ES": "Nuestras personalidades coinciden.",
-        "VI": "Tính cách của chúng tôi hợp nhau.",
-        "FR": "Nos personnalités correspondent.",
-        "NE": "हामीहरुको व्यक्तित्व मिल्दछ।",
-        "BN": "আমাদের ব্যক্তিত্ব মিলে।",
-        "ZH": "我们的性格相符。",
-        "KO": "우리의 성격이 맞습니다.",
-        "TL": "Ang aming mga personalidad ay magkatugma.",
-        "MY": "ငါတို့ရဲ့အကျင့်စရိုက်တွေကိုက်ညီပါတယ်။",
-        "HI": "हमारे व्यक्तित्व मेल खाते हैं।",
-        "AR": "شخصياتنا تتطابق.",
-        "FA": "شخصیت‌های ما مطابقت دارند."
-      }
-    },
-    {
-      "kanji": "彼の性格を見る。",
-      "furigana": "彼(かれ)の性格(せいかく)を見る(みる)。",
-      "translations": {
-        "EN": "I look at his personality.",
-        "ID": "Saya melihat kepribadiannya.",
-        "ES": "Miro su personalidad.",
-        "VI": "Tôi nhìn vào nhân cách của anh ấy.",
-        "FR": "Je regarde sa personnalité.",
-        "NE": "म उहाँको व्यक्तित्व हेर्छु।",
-        "BN": "আমি তার ব্যক্তিত্বের দিকে তাকাই।",
-        "ZH": "我看他的性格。",
-        "KO": "나는 그의 성격을 본다.",
-        "TL": "Tinitingnan ko ang kanyang personalidad.",
-        "MY": "သူ၏အကျင့်စရိုက်ကိုကြည့်ပါ။",
-        "HI": "मैं उसकी व्यक्तित्व को देखता हूँ।",
-        "AR": "أرى شخصيته.",
-        "FA": "من به شخصیت او نگاه می‌کنم."
-      }
-    },
-    {
-      "kanji": "彼の性格を知る。",
-      "furigana": "彼(かれ)の性格(せいかく)を知(し)る。",
-      "translations": {
-        "EN": "Know his personality.",
-        "ID": "Ketahui kepribadiannya.",
-        "ES": "Conocer su personalidad.",
-        "VI": "Biết tính cách của anh ấy.",
-        "FR": "Connaître sa personnalité.",
-        "NE": "उहाँको व्यक्तित्व जान्नुहोस्।",
-        "BN": "তার ব্যক্তিত্ব জানুন।",
-        "ZH": "知道他的性格。",
-        "KO": "그의 성격을 알다.",
-        "TL": "Alamin ang kanyang pagkatao.",
-        "MY": "သူ၏ စရိုက်ကို မြင်ကြရအောင်။",
-        "HI": "उसकी व्यक्तित्व को जानो।",
-        "AR": "تعرف على شخصيته.",
-        "FA": "شخصیت او را بشناسید."
-      }
-    },
-    {
-      "kanji": "彼女は性格反転です。",
-      "furigana": "彼女(かのじょ)は性格(せいかく)反転(はんてん)です。",
-      "translations": {
-        "EN": "She has a reversed personality.",
-        "ID": "Dia memiliki kepribadian terbalik.",
-        "ES": "Ella tiene una personalidad invertida.",
-        "VI": "Cô ấy có tính cách đảo ngược.",
-        "FR": "Elle a une personnalité inversée.",
-        "NE": "उनीको स्वभाव उल्टो छ।",
-        "BN": "তার ব্যক্তিত্ব উল্টো।",
-        "ZH": "她有一个相反的性格。",
-        "KO": "그녀는 성격이 반전된다.",
-        "TL": "Siya ay may baligtad na personalidad.",
-        "MY": "သူမသည် မတူညီသော ပင်ကိုယ်ရှိသည်။",
-        "HI": "उसका व्यक्तित्व उल्टा है।",
-        "AR": "لديها شخصية معكوسة.",
-        "FA": "او شخصیتی برعکس دارد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "character": {
-      "EN": "Character",
-      "ID": "Karakter",
-      "ES": "Carácter",
-      "VI": "Tính cách",
-      "FR": "Caractère",
-      "NE": "स्वभाव",
-      "BN": "চরিত্র",
-      "ZH": "性格",
-      "KO": "성격",
-      "TL": "Ugat",
-      "MY": "အနာဂတ်",
-      "HI": "स्वभाव",
-      "AR": "شخصية",
-      "FA": "شخصیت"
-    },
-    "characteristics": {
-      "EN": "Personality: Characteristics of personality",
-      "ID": "Kepribadian: Karakteristik kepribadian",
-      "ES": "Personalidad: Características de la personalidad",
-      "VI": "Tính cách: Đặc điểm của tính cách",
-      "FR": "Personnalité : Caractéristiques de la personnalité",
-      "NE": "स्वभाव: व्यक्तित्वका विशेषताहरू",
-      "BN": "ব্যক্তিত্ব: ব্যক্তিত্বের বৈশিষ্ট্যসমূহ",
-      "ZH": "性格：性格的特点",
-      "KO": "성격: 성격의 특징",
-      "TL": "Pagkatao: Mga katangian ng personalidad",
-      "MY": "စိတ်နေသဘောထား: စိတ်ထားသဘောထား၏ လက္ခဏာများ",
-      "HI": "व्यक्तित्व: व्यक्तित्व की विशेषताएँ",
-      "AR": "الشخصية: خصائص الشخصية",
-      "FA": "شخصیت: خصوصیات شخصیت"
-    }
-  },
-  "jisho_data": {
-    "slug": "性格",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "性格",
-        "reading": "せいかく"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "character",
-          "personality",
-          "disposition",
-          "nature"
+    "version": "0.3.0",
+    "word": "性格",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/n9LKVxBQLzw",
+    "in_db": true,
+    "kanji": "性格",
+    "reading": "せいかく",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is せいかく which you will often hear in conversations about people's personalities and characteristics. ",
+    "meanings": [
+        [
+            "character",
+            "personality",
+            "disposition",
+            "nature"
         ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
+        [
+            "characteristics",
+            "nature"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"せいかく\" means \"personality.\" It refers to the set of emotional qualities, habits, and behaviors that define a person's character. This word captures elements such as attitudes, likes, and dislikes that contribute to who someone is as an individual.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "性",
+            "common_words": [
+                "性別:  sex",
+                "性質: nature"
+            ]
+        },
+        {
+            "kanji": "格",
+            "common_words": [
+                "格好: shape",
+                "風格: personality"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "性質 : せいしつ : nature"
+    ],
+    "synonym_explanation": "The most common synonym of the word \"せいかく\" is \"せいしつ.\" While \u0016seikaku¨ is about an individual's personality characteristics and character traits, \"せいしつ\" refers to the inherent nature or qualities of a person or object. It can mean nature, property, or disposition, not necessarily limited to humans.",
+    "antonyms": [],
+    "antonym_explanation": "",
+    "collocations": [
+        {
+            "kanji": "せいかくがいい",
+            "furigana": "せいかくがいい",
+            "translations": {}
+        },
+        {
+            "kanji": "せいかくがわるい",
+            "furigana": "せいかくがわるい",
+            "translations": {}
+        },
+        {
+            "kanji": "せいかくがあう",
+            "furigana": "せいかくがあう",
+            "translations": {}
+        },
+        {
+            "kanji": "せいかくをみる",
+            "furigana": "せいかくをみる",
+            "translations": {}
+        },
+        {
+            "kanji": "せいかくをしる",
+            "furigana": "せいかくをしる",
+            "translations": {}
+        },
+        {
+            "kanji": "せいかくはんてん",
+            "furigana": "せいかくはんてん",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "彼は性格がいいです。",
+            "furigana": "彼(かれ)は性格(せいかく)がいいです。",
+            "translations": {
+                "EN": "He has a good personality.",
+                "ID": "Dia punya kepribadian yang baik.",
+                "ES": "Él tiene una buena personalidad.",
+                "VI": "Anh ấy có tính cách tốt.",
+                "FR": "Il a une bonne personnalité.",
+                "NE": "उहाँको स्वभाव राम्रो छ।",
+                "BN": "তার ব্যক্তিত্ব খুব ভালো।",
+                "ZH": "他的性格很好。",
+                "KO": "그는 성격이 좋습니다.",
+                "TL": "Mayroon siyang magandang ugali.",
+                "MY": "သူ၏အပြုအမူကောင်းသည်။",
+                "HI": "उसकी व्यक्तित्व बहुत अच्छी है।",
+                "AR": "لديه شخصية جيدة.",
+                "FA": "او شخصیت خوبی دارد."
+            }
+        },
+        {
+            "kanji": "彼は性格が悪いです。",
+            "furigana": "彼(かれ)は性格(せいかく)が悪(わる)いです。",
+            "translations": {
+                "EN": "He has a bad personality.",
+                "ID": "Dia memiliki kepribadian buruk.",
+                "ES": "Él tiene una mala personalidad.",
+                "VI": "Anh ấy có tính cách xấu.",
+                "FR": "Il a une mauvaise personnalité.",
+                "NE": "उको स्वाभाव नराम्रो छ।",
+                "BN": "তার ব্যক্তিত্ব খারাপ।",
+                "ZH": "他性格不好。",
+                "KO": "그는 성격이 나쁘다.",
+                "TL": "May masamang ugali siya.",
+                "MY": "သူ့ရဲ့ အပြုအမူကောင်းမှု မဆိုးပါဘူး။",
+                "HI": "उसका स्वभाव ख़राब है।",
+                "AR": "لديه شخصية سيئة.",
+                "FA": "او شخصیت بدی دارد."
+            }
+        },
+        {
+            "kanji": "私たちの性格が合う。",
+            "furigana": "私(わたし)たちの性格(せいかく)が合(あ)う。",
+            "translations": {
+                "EN": "Our personalities match.",
+                "ID": "Kepribadian kita cocok.",
+                "ES": "Nuestras personalidades coinciden.",
+                "VI": "Tính cách của chúng tôi hợp nhau.",
+                "FR": "Nos personnalités correspondent.",
+                "NE": "हामीहरुको व्यक्तित्व मिल्दछ।",
+                "BN": "আমাদের ব্যক্তিত্ব মিলে।",
+                "ZH": "我们的性格相符。",
+                "KO": "우리의 성격이 맞습니다.",
+                "TL": "Ang aming mga personalidad ay magkatugma.",
+                "MY": "ငါတို့ရဲ့အကျင့်စရိုက်တွေကိုက်ညီပါတယ်။",
+                "HI": "हमारे व्यक्तित्व मेल खाते हैं।",
+                "AR": "شخصياتنا تتطابق.",
+                "FA": "شخصیت‌های ما مطابقت دارند."
+            }
+        },
+        {
+            "kanji": "彼の性格を見る。",
+            "furigana": "彼(かれ)の性格(せいかく)を見る(みる)。",
+            "translations": {
+                "EN": "I look at his personality.",
+                "ID": "Saya melihat kepribadiannya.",
+                "ES": "Miro su personalidad.",
+                "VI": "Tôi nhìn vào nhân cách của anh ấy.",
+                "FR": "Je regarde sa personnalité.",
+                "NE": "म उहाँको व्यक्तित्व हेर्छु।",
+                "BN": "আমি তার ব্যক্তিত্বের দিকে তাকাই।",
+                "ZH": "我看他的性格。",
+                "KO": "나는 그의 성격을 본다.",
+                "TL": "Tinitingnan ko ang kanyang personalidad.",
+                "MY": "သူ၏အကျင့်စရိုက်ကိုကြည့်ပါ။",
+                "HI": "मैं उसकी व्यक्तित्व को देखता हूँ।",
+                "AR": "أرى شخصيته.",
+                "FA": "من به شخصیت او نگاه می‌کنم."
+            }
+        },
+        {
+            "kanji": "彼の性格を知る。",
+            "furigana": "彼(かれ)の性格(せいかく)を知(し)る。",
+            "translations": {
+                "EN": "Know his personality.",
+                "ID": "Ketahui kepribadiannya.",
+                "ES": "Conocer su personalidad.",
+                "VI": "Biết tính cách của anh ấy.",
+                "FR": "Connaître sa personnalité.",
+                "NE": "उहाँको व्यक्तित्व जान्नुहोस्।",
+                "BN": "তার ব্যক্তিত্ব জানুন।",
+                "ZH": "知道他的性格。",
+                "KO": "그의 성격을 알다.",
+                "TL": "Alamin ang kanyang pagkatao.",
+                "MY": "သူ၏ စရိုက်ကို မြင်ကြရအောင်။",
+                "HI": "उसकी व्यक्तित्व को जानो।",
+                "AR": "تعرف على شخصيته.",
+                "FA": "شخصیت او را بشناسید."
+            }
+        },
+        {
+            "kanji": "彼女は性格反転です。",
+            "furigana": "彼女(かのじょ)は性格(せいかく)反転(はんてん)です。",
+            "translations": {
+                "EN": "She has a reversed personality.",
+                "ID": "Dia memiliki kepribadian terbalik.",
+                "ES": "Ella tiene una personalidad invertida.",
+                "VI": "Cô ấy có tính cách đảo ngược.",
+                "FR": "Elle a une personnalité inversée.",
+                "NE": "उनीको स्वभाव उल्टो छ।",
+                "BN": "তার ব্যক্তিত্ব উল্টো।",
+                "ZH": "她有一个相反的性格。",
+                "KO": "그녀는 성격이 반전된다.",
+                "TL": "Siya ay may baligtad na personalidad.",
+                "MY": "သူမသည် မတူညီသော ပင်ကိုယ်ရှိသည်။",
+                "HI": "उसका व्यक्तित्व उल्टा है।",
+                "AR": "لديها شخصية معكوسة.",
+                "FA": "او شخصیتی برعکس دارد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "character",
+                "personality",
+                "disposition",
+                "nature"
+            ],
+            "ID": "Karakter",
+            "ES": "Carácter",
+            "VI": "Tính cách",
+            "FR": "Caractère",
+            "NE": "स्वभाव",
+            "BN": "চরিত্র",
+            "ZH": "性格",
+            "KO": "성격",
+            "TL": "Ugat",
+            "MY": "အနာဂတ်",
+            "HI": "स्वभाव",
+            "AR": "شخصية",
+            "FA": "شخصیت"
+        },
+        {
+            "EN": [
+                "characteristics",
+                "nature"
+            ],
+            "ID": "Kepribadian: Karakteristik kepribadian",
+            "ES": "Personalidad: Características de la personalidad",
+            "VI": "Tính cách: Đặc điểm của tính cách",
+            "FR": "Personnalité : Caractéristiques de la personnalité",
+            "NE": "स्वभाव: व्यक्तित्वका विशेषताहरू",
+            "BN": "ব্যক্তিত্ব: ব্যক্তিত্বের বৈশিষ্ট্যসমূহ",
+            "ZH": "性格：性格的特点",
+            "KO": "성격: 성격의 특징",
+            "TL": "Pagkatao: Mga katangian ng personalidad",
+            "MY": "စိတ်နေသဘောထား: စိတ်ထားသဘောထား၏ လက္ခဏာများ",
+            "HI": "व्यक्तित्व: व्यक्तित्व की विशेषताएँ",
+            "AR": "الشخصية: خصائص الشخصية",
+            "FA": "شخصیت: خصوصیات شخصیت"
+        }
+    ],
+    "jisho_data": {
+        "slug": "性格",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "characteristics",
-          "nature"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Noun"
+        "japanese": [
+            {
+                "word": "性格",
+                "reading": "せいかく"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "性",
-    "格"
-  ],
-  "kanji_data": {
-    "性": {
-      "meanings": [
-        "gender",
-        "nature",
-        "sex"
-      ],
-      "on_readings": [
-        "ショウ",
-        "セイ"
-      ],
-      "kun_readings": [
-        "さが"
-      ],
-      "stroke_count": 8,
-      "jlpt": 3,
-      "freq_mainichi_shinbun": 104,
-      "unicode": "6027",
-      "grade": 5
+        "senses": [
+            {
+                "english_definitions": [
+                    "character",
+                    "personality",
+                    "disposition",
+                    "nature"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "characteristics",
+                    "nature"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "格": {
-      "meanings": [
-        "capacity",
-        "case (law, grammar)",
-        "character",
-        "rank",
-        "status"
-      ],
-      "on_readings": [
-        "カク",
-        "キャク",
-        "コウ",
-        "ゴウ"
-      ],
-      "kun_readings": [],
-      "stroke_count": 10,
-      "jlpt": 3,
-      "freq_mainichi_shinbun": 281,
-      "unicode": "683C",
-      "grade": 5
+    "kanji_list": [
+        "性",
+        "格"
+    ],
+    "kanji_data": {
+        "性": {
+            "meanings": [
+                "gender",
+                "nature",
+                "sex"
+            ],
+            "on_readings": [
+                "ショウ",
+                "セイ"
+            ],
+            "kun_readings": [
+                "さが"
+            ],
+            "stroke_count": 8,
+            "jlpt": 3,
+            "freq_mainichi_shinbun": 104,
+            "unicode": "6027",
+            "grade": 5
+        },
+        "格": {
+            "meanings": [
+                "capacity",
+                "case (law, grammar)",
+                "character",
+                "rank",
+                "status"
+            ],
+            "on_readings": [
+                "カク",
+                "キャク",
+                "コウ",
+                "ゴウ"
+            ],
+            "kun_readings": [],
+            "stroke_count": 10,
+            "jlpt": 3,
+            "freq_mainichi_shinbun": 281,
+            "unicode": "683C",
+            "grade": 5
+        }
     }
-  }
 }

@@ -1,505 +1,507 @@
 {
-  "version": "0.3.0",
-  "word": "お土産",
-  "jlpt_level": 4,
-  "youtube_link": "https://youtu.be/mZLKtoS9DuA",
-  "in_db": true,
-  "kanji": "お土産",
-  "reading": "おみやげ",
-  "introduction_japanese": "お土産は、旅行先や出張先で話題になる言葉です。友だちや家族、職場の人に何かを渡すときや、お土産屋で買い物する場面でよく使います。来訪者が何かを持って来たときにも使われます。時々、あまり嬉しくない「お土産」の意味でも話題になります。",
-  "introduction_english": "The noun おみやげ is commonly used when talking about trips or business travel. You hear it when buying things at souvenir shops or bringing something to friends, family, or coworkers. It is also used when a visitor brings a present. Sometimes it is used jokingly for an unwelcome thing someone brings back.",
-  "meanings": [
-    [
-      "local specialty or souvenir bought as a gift while traveling (travelling)",
-      "present brought by a visitor"
-    ],
-    [
-      "something unpleasant that one is given (e.g. an illness while on vacation)",
-      "unwelcome gift",
-      "disservice"
-    ]
-  ],
-  "meaning_explanation_japanese": "「お土産」は、旅行に行ったときに買って帰るその土地の物や、誰かが訪ねてきたときに持ってくる贈り物を表します。冗談で、旅行先から持ち帰った嫌なこと（例：病気）を指して使うこともあります。",
-  "meaning_explanation_english": "The word おみやげ means a souvenir or local specialty you buy when you travel, or a present someone brings when they visit. It can also be used jokingly to mean an unwelcome thing someone brings back, like an illness.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "土",
-      "common_words": [
-        "土曜日 (どようび): Saturday",
-        "土地 (とち): land, plot"
-      ]
-    },
-    {
-      "kanji": "産",
-      "common_words": [
-        "出産 (しゅっさん): childbirth",
-        "産業 (さんぎょう): industry"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means earth or soil. It gives the idea of ground or place in words like どようび and とち, so you can feel the connection to land or location. This kanji often points to something natural or basic. The second kanji means products or giving birth. It appears in words like しゅっさん and さんぎょう where it brings the ideas of producing, birth, or industry. This kanji often relates to things produced or born.",
-  "synonyms": [
-    "土産 : みやげ : souvenir",
-    "贈り物 : おくりもの : gift, present"
-  ],
-  "synonym_explanation": "The most common synonyms of the おみやげ are みやげ and おくりもの. みやげ is a shorter word focusing on souvenirs specifically. おくりもの is more general and means any gift or present, not only souvenirs.",
-  "antonyms": [],
-  "antonym_explanation": "The most common antonyms of the おみやげ are: No common antonyms found.",
-  "collocations": [
-    {
-      "kanji": "名物のお土産",
-      "furigana": "名物のお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "代表的なお土産",
-      "furigana": "代表的なお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "手作りのお土産",
-      "furigana": "手作りのお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "地元のお土産",
-      "furigana": "地元のお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "ちょっとしたお土産",
-      "furigana": "ちょっとしたお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産代",
-      "furigana": "お土産代",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産屋",
-      "furigana": "お土産屋",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産物",
-      "furigana": "お土産物",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産店",
-      "furigana": "お土産店",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産選び",
-      "furigana": "お土産選び",
-      "translations": {}
-    },
-    {
-      "kanji": "買うお土産",
-      "furigana": "買うお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "渡すお土産",
-      "furigana": "渡すお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "送るお土産",
-      "furigana": "送るお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "選ぶお土産",
-      "furigana": "選ぶお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "用意するお土産",
-      "furigana": "用意するお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産を買う",
-      "furigana": "お土産を買う",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産を渡す",
-      "furigana": "お土産を渡す",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産を持って帰る",
-      "furigana": "お土産を持って帰る",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産を贈る",
-      "furigana": "お土産を贈る",
-      "translations": {}
-    },
-    {
-      "kanji": "お土産を包む",
-      "furigana": "お土産を包む",
-      "translations": {}
-    },
-    {
-      "kanji": "家族にお土産",
-      "furigana": "家族にお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "友達にお土産",
-      "furigana": "友達にお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "職場にお土産",
-      "furigana": "職場にお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "地元からのお土産",
-      "furigana": "地元からのお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "海外からのお土産",
-      "furigana": "海外からのお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "一つのお土産",
-      "furigana": "一つのお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "二つのお土産",
-      "furigana": "二つのお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "たくさんのお土産",
-      "furigana": "たくさんのお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "少しのお土産",
-      "furigana": "少しのお土産",
-      "translations": {}
-    },
-    {
-      "kanji": "大きなお土産",
-      "furigana": "大きなお土産",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "旅行先でお土産を買った。",
-      "furigana": "旅行先(りょこうさき)でお土産(おみやげ)を買(か)った。",
-      "translations": {
-        "EN": "I bought souvenirs at my travel destination.",
-        "ID": "Saya membeli oleh-oleh di tempat tujuan perjalanan saya.",
-        "ES": "Compré recuerdos en mi destino de viaje.",
-        "VI": "Tôi đã mua quà lưu niệm ở nơi tôi đến.",
-        "FR": "J'ai acheté des souvenirs à ma destination de voyage.",
-        "NE": "मैले मेरो यात्रा गन्तव्यमा स्मृति चिन्हहरू किनें।",
-        "BN": "আমি আমার ভ্রমণের গন্তব্যস্থলে স্মারক কিনলাম।",
-        "ZH": "我在旅行目的地买了纪念品。",
-        "KO": "여행지에서 기념품을 샀다.",
-        "TL": "Bumili ako ng mga souvenir sa aking pupuntahan.",
-        "MY": "ကျွန်တော် ခရီးသွားမည့်နေရာ၌ အမှတ်တရ လက်ဆောင်များ ဝယ်ခဲ့သည်။",
-        "HI": "मैंने अपने यात्रा गंतव्य पर स्मृति चिन्ह खरीदे।",
-        "AR": "اشتريت بعض الهدايا التذكارية في وجهة سفري.",
-        "FA": "من در مقصد سفرم سوغاتی خریدم."
-      }
-    },
-    {
-      "kanji": "家族にお土産を渡した。",
-      "furigana": "家族(かぞく)にお土産(おみやげ)を渡(わた)した。",
-      "translations": {
-        "EN": "I gave gifts to my family.",
-        "ID": "Aku memberikan hadiah pada keluargaku.",
-        "ES": "Le di regalos a mi familia.",
-        "VI": "Tôi tặng quà cho gia đình tôi.",
-        "FR": "J'ai offert des cadeaux à ma famille.",
-        "NE": "मैले मेरो परिवारलाई उपहार दिएँ।",
-        "BN": "আমি আমার পরিবারকে উপহার দিয়েছি।",
-        "ZH": "我给家人送了礼物。",
-        "KO": "가족에게 기념품을 건네주었다.",
-        "TL": "Nagbigay ako ng mga regalo sa aking pamilya.",
-        "MY": "မိသားစုကို လက်ဆောင်တွေ ပေးခဲ့တယ်။",
-        "HI": "मैंने अपने परिवार को उपहार दिये।",
-        "AR": "لقد قدمت هدايا لعائلتي.",
-        "FA": "به خانواده‌ام هدیه دادم."
-      }
-    },
-    {
-      "kanji": "職場にお土産を持って行った。",
-      "furigana": "職場(しょくば)にお土産(おみやげ)を持(も)って行(い)った。",
-      "translations": {
-        "EN": "I brought a gift to work.",
-        "ID": "Saya membawa hadiah ke kantor.",
-        "ES": "Traje un regalo al trabajo.",
-        "VI": "Tôi mang một món quà đến nơi làm việc.",
-        "FR": "J'ai apporté un cadeau au travail.",
-        "NE": "मैले काममा उपहार ल्याएको छु।",
-        "BN": "আমি কাজে একটা উপহার এনেছি।",
-        "ZH": "我带了一份礼物去上班。",
-        "KO": "직장에 기념품을 가져갔다.",
-        "TL": "Nagdala ako ng regalo sa trabaho.",
-        "MY": "အလုပ်အတွက် လက်ဆောင်တစ်ခု ယူလာခဲ့တယ်။",
-        "HI": "मैं काम पर एक उपहार लाया।",
-        "AR": "لقد أحضرت هدية إلى العمل.",
-        "FA": "من یک هدیه برای محل کارم آوردم."
-      }
-    },
-    {
-      "kanji": "地元のお土産を買った。",
-      "furigana": "地元(じもと)のお土産(おみやげ)を買(か)った。",
-      "translations": {
-        "EN": "I bought some local souvenirs.",
-        "ID": "Saya membeli beberapa oleh-oleh lokal.",
-        "ES": "Compré algunos recuerdos locales.",
-        "VI": "Tôi đã mua một số đồ lưu niệm địa phương.",
-        "FR": "J'ai acheté quelques souvenirs locaux.",
-        "NE": "मैले केही स्थानीय स्मृति चिन्हहरू किनें।",
-        "BN": "আমি কিছু স্থানীয় স্যুভেনির কিনেছি।",
-        "ZH": "我买了一些当地的纪念品。",
-        "KO": "현지 기념품을 샀다.",
-        "TL": "Bumili ako ng ilang lokal na souvenir.",
-        "MY": "ဒေသအမှတ်တရပစ္စည်းတချို့ ဝယ်ခဲ့တယ်။",
-        "HI": "मैंने कुछ स्थानीय स्मृति चिन्ह खरीदे।",
-        "AR": "اشتريت بعض الهدايا التذكارية المحلية.",
-        "FA": "من مقداری سوغاتی محلی خریدم."
-      }
-    },
-    {
-      "kanji": "お土産屋で選んだ。",
-      "furigana": "お土産屋(おみやげや)で選(えら)んだ。",
-      "translations": {
-        "EN": "I picked it up at a souvenir shop.",
-        "ID": "Saya mengambilnya di toko suvenir.",
-        "ES": "Lo recogí en una tienda de souvenirs.",
-        "VI": "Tôi mua nó ở một cửa hàng lưu niệm.",
-        "FR": "Je l'ai récupéré dans une boutique de souvenirs.",
-        "NE": "मैले यसलाई एउटा स्मारिका पसलबाट लिएँ।",
-        "BN": "আমি একটা স্যুভেনিরের দোকান থেকে এটা কিনেছিলাম।",
-        "ZH": "我在一家纪念品商店买到了它。",
-        "KO": "기념품 가게에서 선택했다.",
-        "TL": "Kinuha ko ito sa isang souvenir shop.",
-        "MY": "အမှတ်တရပစ္စည်းဆိုင်မှာ ကောက်သိမ်းခဲ့တယ်။",
-        "HI": "मैंने इसे एक स्मारिका की दुकान से खरीदा।",
-        "AR": "التقطته في متجر للهدايا التذكارية.",
-        "FA": "من آن را از یک مغازه سوغاتی فروشی خریدم."
-      }
-    },
-    {
-      "kanji": "手作りのお土産をもらった。",
-      "furigana": "手作(てづく)りのお土産(おみやげ)をもらった。",
-      "translations": {
-        "EN": "I received a handmade souvenir.",
-        "ID": "Saya menerima suvenir buatan tangan.",
-        "ES": "Recibí un recuerdo hecho a mano.",
-        "VI": "Tôi nhận được một món quà lưu niệm thủ công.",
-        "FR": "J'ai reçu un souvenir fait main.",
-        "NE": "मैले हस्तनिर्मित स्मारिका प्राप्त गरें।",
-        "BN": "আমি একটি হস্তনির্মিত স্যুভেনির পেয়েছি।",
-        "ZH": "我收到了一份手工制作的纪念品。",
-        "KO": "수제 기념품을 받았다.",
-        "TL": "Nakatanggap ako ng handmade souvenir.",
-        "MY": "လက်လုပ်လက်ဆောင်တစ်ခု ရခဲ့တယ်။",
-        "HI": "मुझे एक हस्तनिर्मित स्मारिका प्राप्त हुई।",
-        "AR": "لقد تلقيت هدية تذكارية مصنوعة يدوياً.",
-        "FA": "یه یادگاری دست ساز گرفتم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "local specialty or souvenir bought as a gift while traveling (travelling)": {
-      "ID": "makanan khas setempat atau oleh-oleh yang dibeli sebagai hadiah saat bepergian (travelling)",
-      "ES": "Especialidad local o recuerdo comprado como regalo mientras viaja",
-      "VI": "đặc sản địa phương hoặc quà lưu niệm mua làm quà khi đi du lịch (du lịch)",
-      "FR": "spécialité locale ou souvenir acheté en cadeau lors d'un voyage (voyage)",
-      "NE": "यात्रा गर्दा उपहारको रूपमा किनेको स्थानीय विशेषता वा स्मृति चिन्ह (यात्रा)",
-      "BN": "ভ্রমণের সময় উপহার হিসেবে কেনা স্থানীয় বিশেষ খাবার বা স্যুভেনির (ভ্রমণ)",
-      "ZH": "旅行时购买的当地特产或纪念品作为礼物",
-      "KO": "여행 중 선물로 구입한 지역 특산품이나 기념품(여행)",
-      "TL": "lokal na espesyalidad o souvenir na binili bilang regalo habang naglalakbay (naglalakbay)",
-      "MY": "ခရီးသွားစဉ် (ခရီးသွားစဉ်) လက်ဆောင်အဖြစ်ဝယ်သော ဒေသဆိုင်ရာ အထူးပစ္စည်း သို့မဟုတ် အမှတ်တရလက်ဆောင်၊",
-      "HI": "यात्रा के दौरान उपहार के रूप में खरीदी गई स्थानीय विशेषता या स्मारिका",
-      "AR": "التخصصات المحلية أو الهدايا التذكارية التي تم شراؤها كهدية أثناء السفر (السفر)",
-      "FA": "سوغاتی یا غذای محلی مخصوص که به عنوان هدیه در سفر خریداری شده است (مسافرت)",
-      "EN": [
-        "present brought by a visitor"
-      ]
-    },
-    "something unpleasant that one is given (e.g. an illness while on vacation)": {
-      "ID": "sesuatu yang tidak menyenangkan yang diterima seseorang (misalnya penyakit saat berlibur)",
-      "ES": "algo desagradable que se nos da (por ejemplo, una enfermedad durante las vacaciones)",
-      "VI": "một điều gì đó khó chịu mà ai đó nhận được (ví dụ: bệnh tật khi đang đi nghỉ)",
-      "FR": "quelque chose de désagréable qui nous est donné (par exemple une maladie pendant les vacances)",
-      "NE": "कसैलाई दिइएको अप्रिय कुरा (जस्तै बिदामा हुँदा बिरामी)",
-      "BN": "অপ্রীতিকর কিছু দেওয়া হয় (যেমন ছুটিতে থাকাকালীন অসুস্থতা)",
-      "ZH": "遭遇不愉快的事情（例如度假时生病）",
-      "KO": "불쾌한 일이 주어지다(예: 휴가 중에 병이 난다)",
-      "TL": "isang bagay na hindi kanais-nais na ibinibigay sa isa (hal. isang sakit habang nasa bakasyon)",
-      "MY": "ပေးထားသည့် မနှစ်မြို့ဖွယ် တစ်စုံတစ်ရာ (ဥပမာ အားလပ်ရက်တွင် ဖျားနာခြင်း)၊",
-      "HI": "कोई अप्रिय चीज़ जो किसी को दी जाती है (जैसे छुट्टी के दौरान बीमारी)",
-      "AR": "شيء غير سار يتم تقديمه لشخص ما (على سبيل المثال، مرض أثناء الإجازة)",
-      "FA": "چیزی ناخوشایند که به کسی داده می‌شود (مثلاً بیماری در تعطیلات)",
-      "EN": [
-        "unwelcome gift",
-        "disservice"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "お土産",
-    "is_common": true,
-    "tags": [
-      "wanikani22"
-    ],
-    "jlpt": [
-      "jlpt-n4"
-    ],
-    "japanese": [
-      {
-        "word": "お土産",
-        "reading": "おみやげ"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "local specialty or souvenir bought as a gift while traveling (travelling)"
+    "version": "0.3.0",
+    "word": "お土産",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/mZLKtoS9DuA",
+    "in_db": true,
+    "kanji": "お土産",
+    "reading": "おみやげ",
+    "introduction_japanese": "お土産は、旅行先や出張先で話題になる言葉です。友だちや家族、職場の人に何かを渡すときや、お土産屋で買い物する場面でよく使います。来訪者が何かを持って来たときにも使われます。時々、あまり嬉しくない「お土産」の意味でも話題になります。",
+    "introduction_english": "The noun おみやげ is commonly used when talking about trips or business travel. You hear it when buying things at souvenir shops or bringing something to friends, family, or coworkers. It is also used when a visitor brings a present. Sometimes it is used jokingly for an unwelcome thing someone brings back.",
+    "meanings": [
+        [
+            "local specialty or souvenir bought as a gift while traveling (travelling)",
+            "present brought by a visitor"
         ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
+        [
+            "something unpleasant that one is given (e.g. an illness while on vacation)",
+            "unwelcome gift",
+            "disservice"
+        ]
+    ],
+    "meaning_explanation_japanese": "「お土産」は、旅行に行ったときに買って帰るその土地の物や、誰かが訪ねてきたときに持ってくる贈り物を表します。冗談で、旅行先から持ち帰った嫌なこと（例：病気）を指して使うこともあります。",
+    "meaning_explanation_english": "The word おみやげ means a souvenir or local specialty you buy when you travel, or a present someone brings when they visit. It can also be used jokingly to mean an unwelcome thing someone brings back, like an illness.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "土",
+            "common_words": [
+                "土曜日 (どようび): Saturday",
+                "土地 (とち): land, plot"
+            ]
+        },
+        {
+            "kanji": "産",
+            "common_words": [
+                "出産 (しゅっさん): childbirth",
+                "産業 (さんぎょう): industry"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means earth or soil. It gives the idea of ground or place in words like どようび and とち, so you can feel the connection to land or location. This kanji often points to something natural or basic. The second kanji means products or giving birth. It appears in words like しゅっさん and さんぎょう where it brings the ideas of producing, birth, or industry. This kanji often relates to things produced or born.",
+    "synonyms": [
+        "土産 : みやげ : souvenir",
+        "贈り物 : おくりもの : gift, present"
+    ],
+    "synonym_explanation": "The most common synonyms of the おみやげ are みやげ and おくりもの. みやげ is a shorter word focusing on souvenirs specifically. おくりもの is more general and means any gift or present, not only souvenirs.",
+    "antonyms": [],
+    "antonym_explanation": "The most common antonyms of the おみやげ are: No common antonyms found.",
+    "collocations": [
+        {
+            "kanji": "名物のお土産",
+            "furigana": "名物のお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "代表的なお土産",
+            "furigana": "代表的なお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "手作りのお土産",
+            "furigana": "手作りのお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "地元のお土産",
+            "furigana": "地元のお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "ちょっとしたお土産",
+            "furigana": "ちょっとしたお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産代",
+            "furigana": "お土産代",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産屋",
+            "furigana": "お土産屋",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産物",
+            "furigana": "お土産物",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産店",
+            "furigana": "お土産店",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産選び",
+            "furigana": "お土産選び",
+            "translations": {}
+        },
+        {
+            "kanji": "買うお土産",
+            "furigana": "買うお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "渡すお土産",
+            "furigana": "渡すお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "送るお土産",
+            "furigana": "送るお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "選ぶお土産",
+            "furigana": "選ぶお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "用意するお土産",
+            "furigana": "用意するお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産を買う",
+            "furigana": "お土産を買う",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産を渡す",
+            "furigana": "お土産を渡す",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産を持って帰る",
+            "furigana": "お土産を持って帰る",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産を贈る",
+            "furigana": "お土産を贈る",
+            "translations": {}
+        },
+        {
+            "kanji": "お土産を包む",
+            "furigana": "お土産を包む",
+            "translations": {}
+        },
+        {
+            "kanji": "家族にお土産",
+            "furigana": "家族にお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "友達にお土産",
+            "furigana": "友達にお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "職場にお土産",
+            "furigana": "職場にお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "地元からのお土産",
+            "furigana": "地元からのお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "海外からのお土産",
+            "furigana": "海外からのお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "一つのお土産",
+            "furigana": "一つのお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "二つのお土産",
+            "furigana": "二つのお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "たくさんのお土産",
+            "furigana": "たくさんのお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "少しのお土産",
+            "furigana": "少しのお土産",
+            "translations": {}
+        },
+        {
+            "kanji": "大きなお土産",
+            "furigana": "大きなお土産",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "旅行先でお土産を買った。",
+            "furigana": "旅行先(りょこうさき)でお土産(おみやげ)を買(か)った。",
+            "translations": {
+                "EN": "I bought souvenirs at my travel destination.",
+                "ID": "Saya membeli oleh-oleh di tempat tujuan perjalanan saya.",
+                "ES": "Compré recuerdos en mi destino de viaje.",
+                "VI": "Tôi đã mua quà lưu niệm ở nơi tôi đến.",
+                "FR": "J'ai acheté des souvenirs à ma destination de voyage.",
+                "NE": "मैले मेरो यात्रा गन्तव्यमा स्मृति चिन्हहरू किनें।",
+                "BN": "আমি আমার ভ্রমণের গন্তব্যস্থলে স্মারক কিনলাম।",
+                "ZH": "我在旅行目的地买了纪念品。",
+                "KO": "여행지에서 기념품을 샀다.",
+                "TL": "Bumili ako ng mga souvenir sa aking pupuntahan.",
+                "MY": "ကျွန်တော် ခရီးသွားမည့်နေရာ၌ အမှတ်တရ လက်ဆောင်များ ဝယ်ခဲ့သည်။",
+                "HI": "मैंने अपने यात्रा गंतव्य पर स्मृति चिन्ह खरीदे।",
+                "AR": "اشتريت بعض الهدايا التذكارية في وجهة سفري.",
+                "FA": "من در مقصد سفرم سوغاتی خریدم."
+            }
+        },
+        {
+            "kanji": "家族にお土産を渡した。",
+            "furigana": "家族(かぞく)にお土産(おみやげ)を渡(わた)した。",
+            "translations": {
+                "EN": "I gave gifts to my family.",
+                "ID": "Aku memberikan hadiah pada keluargaku.",
+                "ES": "Le di regalos a mi familia.",
+                "VI": "Tôi tặng quà cho gia đình tôi.",
+                "FR": "J'ai offert des cadeaux à ma famille.",
+                "NE": "मैले मेरो परिवारलाई उपहार दिएँ।",
+                "BN": "আমি আমার পরিবারকে উপহার দিয়েছি।",
+                "ZH": "我给家人送了礼物。",
+                "KO": "가족에게 기념품을 건네주었다.",
+                "TL": "Nagbigay ako ng mga regalo sa aking pamilya.",
+                "MY": "မိသားစုကို လက်ဆောင်တွေ ပေးခဲ့တယ်။",
+                "HI": "मैंने अपने परिवार को उपहार दिये।",
+                "AR": "لقد قدمت هدايا لعائلتي.",
+                "FA": "به خانواده‌ام هدیه دادم."
+            }
+        },
+        {
+            "kanji": "職場にお土産を持って行った。",
+            "furigana": "職場(しょくば)にお土産(おみやげ)を持(も)って行(い)った。",
+            "translations": {
+                "EN": "I brought a gift to work.",
+                "ID": "Saya membawa hadiah ke kantor.",
+                "ES": "Traje un regalo al trabajo.",
+                "VI": "Tôi mang một món quà đến nơi làm việc.",
+                "FR": "J'ai apporté un cadeau au travail.",
+                "NE": "मैले काममा उपहार ल्याएको छु।",
+                "BN": "আমি কাজে একটা উপহার এনেছি।",
+                "ZH": "我带了一份礼物去上班。",
+                "KO": "직장에 기념품을 가져갔다.",
+                "TL": "Nagdala ako ng regalo sa trabaho.",
+                "MY": "အလုပ်အတွက် လက်ဆောင်တစ်ခု ယူလာခဲ့တယ်။",
+                "HI": "मैं काम पर एक उपहार लाया।",
+                "AR": "لقد أحضرت هدية إلى العمل.",
+                "FA": "من یک هدیه برای محل کارم آوردم."
+            }
+        },
+        {
+            "kanji": "地元のお土産を買った。",
+            "furigana": "地元(じもと)のお土産(おみやげ)を買(か)った。",
+            "translations": {
+                "EN": "I bought some local souvenirs.",
+                "ID": "Saya membeli beberapa oleh-oleh lokal.",
+                "ES": "Compré algunos recuerdos locales.",
+                "VI": "Tôi đã mua một số đồ lưu niệm địa phương.",
+                "FR": "J'ai acheté quelques souvenirs locaux.",
+                "NE": "मैले केही स्थानीय स्मृति चिन्हहरू किनें।",
+                "BN": "আমি কিছু স্থানীয় স্যুভেনির কিনেছি।",
+                "ZH": "我买了一些当地的纪念品。",
+                "KO": "현지 기념품을 샀다.",
+                "TL": "Bumili ako ng ilang lokal na souvenir.",
+                "MY": "ဒေသအမှတ်တရပစ္စည်းတချို့ ဝယ်ခဲ့တယ်။",
+                "HI": "मैंने कुछ स्थानीय स्मृति चिन्ह खरीदे।",
+                "AR": "اشتريت بعض الهدايا التذكارية المحلية.",
+                "FA": "من مقداری سوغاتی محلی خریدم."
+            }
+        },
+        {
+            "kanji": "お土産屋で選んだ。",
+            "furigana": "お土産屋(おみやげや)で選(えら)んだ。",
+            "translations": {
+                "EN": "I picked it up at a souvenir shop.",
+                "ID": "Saya mengambilnya di toko suvenir.",
+                "ES": "Lo recogí en una tienda de souvenirs.",
+                "VI": "Tôi mua nó ở một cửa hàng lưu niệm.",
+                "FR": "Je l'ai récupéré dans une boutique de souvenirs.",
+                "NE": "मैले यसलाई एउटा स्मारिका पसलबाट लिएँ।",
+                "BN": "আমি একটা স্যুভেনিরের দোকান থেকে এটা কিনেছিলাম।",
+                "ZH": "我在一家纪念品商店买到了它。",
+                "KO": "기념품 가게에서 선택했다.",
+                "TL": "Kinuha ko ito sa isang souvenir shop.",
+                "MY": "အမှတ်တရပစ္စည်းဆိုင်မှာ ကောက်သိမ်းခဲ့တယ်။",
+                "HI": "मैंने इसे एक स्मारिका की दुकान से खरीदा।",
+                "AR": "التقطته في متجر للهدايا التذكارية.",
+                "FA": "من آن را از یک مغازه سوغاتی فروشی خریدم."
+            }
+        },
+        {
+            "kanji": "手作りのお土産をもらった。",
+            "furigana": "手作(てづく)りのお土産(おみやげ)をもらった。",
+            "translations": {
+                "EN": "I received a handmade souvenir.",
+                "ID": "Saya menerima suvenir buatan tangan.",
+                "ES": "Recibí un recuerdo hecho a mano.",
+                "VI": "Tôi nhận được một món quà lưu niệm thủ công.",
+                "FR": "J'ai reçu un souvenir fait main.",
+                "NE": "मैले हस्तनिर्मित स्मारिका प्राप्त गरें।",
+                "BN": "আমি একটি হস্তনির্মিত স্যুভেনির পেয়েছি।",
+                "ZH": "我收到了一份手工制作的纪念品。",
+                "KO": "수제 기념품을 받았다.",
+                "TL": "Nakatanggap ako ng handmade souvenir.",
+                "MY": "လက်လုပ်လက်ဆောင်တစ်ခု ရခဲ့တယ်။",
+                "HI": "मुझे एक हस्तनिर्मित स्मारिका प्राप्त हुई।",
+                "AR": "لقد تلقيت هدية تذكارية مصنوعة يدوياً.",
+                "FA": "یه یادگاری دست ساز گرفتم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "makanan khas setempat atau oleh-oleh yang dibeli sebagai hadiah saat bepergian (travelling)",
+            "ES": "Especialidad local o recuerdo comprado como regalo mientras viaja",
+            "VI": "đặc sản địa phương hoặc quà lưu niệm mua làm quà khi đi du lịch (du lịch)",
+            "FR": "spécialité locale ou souvenir acheté en cadeau lors d'un voyage (voyage)",
+            "NE": "यात्रा गर्दा उपहारको रूपमा किनेको स्थानीय विशेषता वा स्मृति चिन्ह (यात्रा)",
+            "BN": "ভ্রমণের সময় উপহার হিসেবে কেনা স্থানীয় বিশেষ খাবার বা স্যুভেনির (ভ্রমণ)",
+            "ZH": "旅行时购买的当地特产或纪念品作为礼物",
+            "KO": "여행 중 선물로 구입한 지역 특산품이나 기념품(여행)",
+            "TL": "lokal na espesyalidad o souvenir na binili bilang regalo habang naglalakbay (naglalakbay)",
+            "MY": "ခရီးသွားစဉ် (ခရီးသွားစဉ်) လက်ဆောင်အဖြစ်ဝယ်သော ဒေသဆိုင်ရာ အထူးပစ္စည်း သို့မဟုတ် အမှတ်တရလက်ဆောင်၊",
+            "HI": "यात्रा के दौरान उपहार के रूप में खरीदी गई स्थानीय विशेषता या स्मारिका",
+            "AR": "التخصصات المحلية أو الهدايا التذكارية التي تم شراؤها كهدية أثناء السفر (السفر)",
+            "FA": "سوغاتی یا غذای محلی مخصوص که به عنوان هدیه در سفر خریداری شده است (مسافرت)",
+            "EN": [
+                "local specialty or souvenir bought as a gift while traveling (travelling)",
+                "present brought by a visitor"
+            ]
+        },
+        {
+            "ID": "sesuatu yang tidak menyenangkan yang diterima seseorang (misalnya penyakit saat berlibur)",
+            "ES": "algo desagradable que se nos da (por ejemplo, una enfermedad durante las vacaciones)",
+            "VI": "một điều gì đó khó chịu mà ai đó nhận được (ví dụ: bệnh tật khi đang đi nghỉ)",
+            "FR": "quelque chose de désagréable qui nous est donné (par exemple une maladie pendant les vacances)",
+            "NE": "कसैलाई दिइएको अप्रिय कुरा (जस्तै बिदामा हुँदा बिरामी)",
+            "BN": "অপ্রীতিকর কিছু দেওয়া হয় (যেমন ছুটিতে থাকাকালীন অসুস্থতা)",
+            "ZH": "遭遇不愉快的事情（例如度假时生病）",
+            "KO": "불쾌한 일이 주어지다(예: 휴가 중에 병이 난다)",
+            "TL": "isang bagay na hindi kanais-nais na ibinibigay sa isa (hal. isang sakit habang nasa bakasyon)",
+            "MY": "ပေးထားသည့် မနှစ်မြို့ဖွယ် တစ်စုံတစ်ရာ (ဥပမာ အားလပ်ရက်တွင် ဖျားနာခြင်း)၊",
+            "HI": "कोई अप्रिय चीज़ जो किसी को दी जाती है (जैसे छुट्टी के दौरान बीमारी)",
+            "AR": "شيء غير سار يتم تقديمه لشخص ما (على سبيل المثال، مرض أثناء الإجازة)",
+            "FA": "چیزی ناخوشایند که به کسی داده می‌شود (مثلاً بیماری در تعطیلات)",
+            "EN": [
+                "something unpleasant that one is given (e.g. an illness while on vacation)",
+                "unwelcome gift",
+                "disservice"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "お土産",
+        "is_common": true,
         "tags": [
-          "Polite (teineigo) language"
+            "wanikani22"
         ],
-        "restrictions": [],
-        "see_also": [
-          "土産"
+        "jlpt": [
+            "jlpt-n4"
         ],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "present brought by a visitor"
+        "japanese": [
+            {
+                "word": "お土産",
+                "reading": "おみやげ"
+            }
         ],
-        "parts_of_speech": [
-          "Noun"
+        "senses": [
+            {
+                "english_definitions": [
+                    "local specialty or souvenir bought as a gift while traveling (travelling)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Polite (teineigo) language"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "土産"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "present brought by a visitor"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Polite (teineigo) language"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "something unpleasant that one is given (e.g. an illness while on vacation)",
+                    "unwelcome gift",
+                    "disservice"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Polite (teineigo) language"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
         ],
-        "links": [],
-        "tags": [
-          "Polite (teineigo) language"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "something unpleasant that one is given (e.g. an illness while on vacation)",
-          "unwelcome gift",
-          "disservice"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
-        "tags": [
-          "Polite (teineigo) language"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
-    }
-  },
-  "kanji_list": [
-    "土",
-    "産"
-  ],
-  "kanji_data": {
-    "土": {
-      "freq_mainichi_shinbun": 307,
-      "grade": 1,
-      "heisig_en": "soil",
-      "jlpt": 5,
-      "kanji": "土",
-      "kun_readings": [
-        "つち"
-      ],
-      "meanings": [
-        "Turkey",
-        "earth",
-        "ground",
-        "soil"
-      ],
-      "name_readings": [
-        "つく",
-        "は",
-        "ひじ"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ト",
-        "ド"
-      ],
-      "stroke_count": 3,
-      "unicode": "571F"
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
     },
-    "産": {
-      "freq_mainichi_shinbun": 161,
-      "grade": 4,
-      "heisig_en": "products",
-      "jlpt": 3,
-      "kanji": "産",
-      "kun_readings": [
-        "う.まれる",
-        "う.む",
-        "うぶ-",
-        "む.す"
-      ],
-      "meanings": [
-        "bear",
-        "childbirth",
-        "give birth",
-        "native",
-        "products",
-        "property",
-        "yield"
-      ],
-      "name_readings": [
-        "もと"
-      ],
-      "notes": [],
-      "on_readings": [
-        "サン"
-      ],
-      "stroke_count": 11,
-      "unicode": "7523"
+    "kanji_list": [
+        "土",
+        "産"
+    ],
+    "kanji_data": {
+        "土": {
+            "freq_mainichi_shinbun": 307,
+            "grade": 1,
+            "heisig_en": "soil",
+            "jlpt": 5,
+            "kanji": "土",
+            "kun_readings": [
+                "つち"
+            ],
+            "meanings": [
+                "Turkey",
+                "earth",
+                "ground",
+                "soil"
+            ],
+            "name_readings": [
+                "つく",
+                "は",
+                "ひじ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ト",
+                "ド"
+            ],
+            "stroke_count": 3,
+            "unicode": "571F"
+        },
+        "産": {
+            "freq_mainichi_shinbun": 161,
+            "grade": 4,
+            "heisig_en": "products",
+            "jlpt": 3,
+            "kanji": "産",
+            "kun_readings": [
+                "う.まれる",
+                "う.む",
+                "うぶ-",
+                "む.す"
+            ],
+            "meanings": [
+                "bear",
+                "childbirth",
+                "give birth",
+                "native",
+                "products",
+                "property",
+                "yield"
+            ],
+            "name_readings": [
+                "もと"
+            ],
+            "notes": [],
+            "on_readings": [
+                "サン"
+            ],
+            "stroke_count": 11,
+            "unicode": "7523"
+        }
     }
-  }
 }

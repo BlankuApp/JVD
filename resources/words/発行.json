@@ -1,513 +1,516 @@
 {
-  "version": "0.3.0",
-  "word": "発行",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/uuZWZi0Vl1g",
-  "in_db": true,
-  "kanji": "発行",
-  "reading": "はっこう",
-  "introduction_japanese": "発行は、雑誌や本を出すとき、免許や証明書を出すとき、通貨や債券を発行するとき、またコンピュータでイベントを起こすときによく使う言葉です。",
-  "introduction_english": "The noun and suru-verb はっこう is commonly used when talking about publishing magazines or books, issuing licenses or certificates, issuing currency or bonds, and when triggering events in computing.",
-  "meanings": [
-    [
-      "publication (of a newspaper, magazine, book, etc.)",
-      "issue (of documents or items like passports, licenses, tickets, banknotes, bonds)"
-    ],
-    [
-      "raising (an event) — computing"
-    ]
-  ],
-  "meaning_explanation_japanese": "「発行」は、雑誌や本を世に出すこと、または免許や証明書、券などを正式に出すことを表す言葉です。コンピュータではイベントを発生させる意味でも使います。",
-  "meaning_explanation_english": "The word はっこう means 'publication' or 'issue' — for example publishing magazines or formally issuing licenses, tickets, banknotes, or bonds. In computing it can also mean 'raising' or 'triggering' an event.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "発",
-      "common_words": [
-        "発見 (はっけん): discovery",
-        "出発 (しゅっぱつ): departure"
-      ]
-    },
-    {
-      "kanji": "行",
-      "common_words": [
-        "銀行 (ぎんこう): bank",
-        "行く (いく): to go"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means discharge, emit, or start; it often gives the sense of sending out or beginning and appears in words like はっけん meaning discovery and しゅっぱつ meaning departure. The second kanji means going or action; it gives the sense of moving or carrying out and appears in words like ぎんこう meaning bank and いく meaning to go.",
-  "synonyms": [
-    "刊行 : かんこう : publication",
-    "発布 : はっぷ : promulgation/issue"
-  ],
-  "synonym_explanation": "The most common synonyms of the 発行 are かんこう and はっぷ. かんこう is used especially for formally publishing books or magazines, similar to 発行. はっぷ is used for issuing or promulgating laws, notices, or official orders and overlaps with 発行 when something is formally issued.",
-  "antonyms": [
-    "撤回 : てっかい : withdrawal",
-    "停止 : ていし : suspension"
-  ],
-  "antonym_explanation": "The most common antonyms of the 発行 are てっかい and ていし. てっかい means to withdraw or cancel something that was issued, so it reverses 発行. ていし means to stop or suspend issuance, so it prevents 発行 from happening.",
-  "collocations": [
-    {
-      "kanji": "雑誌を発行",
-      "furigana": "雑誌を発行",
-      "translations": {}
-    },
-    {
-      "kanji": "刊行物を発行",
-      "furigana": "刊行物を発行",
-      "translations": {}
-    },
-    {
-      "kanji": "債券を発行",
-      "furigana": "債券を発行",
-      "translations": {}
-    },
-    {
-      "kanji": "免許を発行",
-      "furigana": "免許を発行",
-      "translations": {}
-    },
-    {
-      "kanji": "証書を発行",
-      "furigana": "証書を発行",
-      "translations": {}
-    },
-    {
-      "kanji": "券を発行する",
-      "furigana": "券を発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "免許が発行される",
-      "furigana": "免許が発行される",
-      "translations": {}
-    },
-    {
-      "kanji": "通貨を発行する",
-      "furigana": "通貨を発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "証明書を発行する",
-      "furigana": "証明書を発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "チケットを発行する",
-      "furigana": "チケットを発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "定期的に発行する",
-      "furigana": "定期的に発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "随時発行する",
-      "furigana": "随時発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "新たに発行する",
-      "furigana": "新たに発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "大量に発行する",
-      "furigana": "大量に発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "再度発行する",
-      "furigana": "再度発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "正式に発行する",
-      "furigana": "正式に発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "無料で発行する",
-      "furigana": "無料で発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "迅速に発行する",
-      "furigana": "迅速に発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "適切に発行する",
-      "furigana": "適切に発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "正確に発行する",
-      "furigana": "正確に発行する",
-      "translations": {}
-    },
-    {
-      "kanji": "発行手続きをする",
-      "furigana": "発行手続きをする",
-      "translations": {}
-    },
-    {
-      "kanji": "発行開始する",
-      "furigana": "発行開始する",
-      "translations": {}
-    },
-    {
-      "kanji": "発行停止する",
-      "furigana": "発行停止する",
-      "translations": {}
-    },
-    {
-      "kanji": "発行申請する",
-      "furigana": "発行申請する",
-      "translations": {}
-    },
-    {
-      "kanji": "発行許可する",
-      "furigana": "発行許可する",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "雑誌を発行する。",
-      "furigana": "雑誌(ざっし)を発行(はっこう)する。",
-      "translations": {
-        "EN": "Publish a magazine.",
-        "ID": "Menerbitkan majalah.",
-        "ES": "Publicar una revista.",
-        "VI": "Xuất bản tạp chí.",
-        "FR": "Publier un magazine.",
-        "NE": "पत्रिका प्रकाशित गर्नुहोस्।",
-        "BN": "একটি পত্রিকা প্রকাশ করুন।",
-        "ZH": "出版杂志。",
-        "KO": "잡지를 발행한다.",
-        "TL": "Mag-publish ng magazine.",
-        "MY": "မဂ္ဂဇင်းတစ်စောင်ထုတ်ဝေသည်။",
-        "HI": "एक पत्रिका प्रकाशित करें.",
-        "AR": "نشر مجلة.",
-        "FA": "یک مجله منتشر کنید."
-      }
-    },
-    {
-      "kanji": "免許が発行されました。",
-      "furigana": "免許(めんきょ)が発行(はっこう)されました。",
-      "translations": {
-        "EN": "The license was issued.",
-        "ID": "Lisensi telah dikeluarkan.",
-        "ES": "La licencia fue expedida.",
-        "VI": "Giấy phép đã được cấp.",
-        "FR": "La licence a été délivrée.",
-        "NE": "लाइसेन्स जारी गरियो।",
-        "BN": "লাইসেন্সটি জারি করা হয়েছিল।",
-        "ZH": "执照已颁发。",
-        "KO": "면허가 발급되었습니다.",
-        "TL": "Ang lisensya ay ibinigay.",
-        "MY": "လိုင်စင်ထုတ်ပေးခဲ့သည်။",
-        "HI": "लाइसेंस जारी कर दिया गया।",
-        "AR": "تم إصدار الرخصة.",
-        "FA": "مجوز صادر شد."
-      }
-    },
-    {
-      "kanji": "証明書を発行してください。",
-      "furigana": "証明書(しょうめいしょ)を発行(はっこう)してください。",
-      "translations": {
-        "EN": "Please issue the certificate.",
-        "ID": "Harap terbitkan sertifikat.",
-        "ES": "Por favor emita el certificado.",
-        "VI": "Vui lòng cấp giấy chứng nhận.",
-        "FR": "Veuillez délivrer le certificat.",
-        "NE": "कृपया प्रमाणपत्र जारी गर्नुहोस्।",
-        "BN": "অনুগ্রহ করে সার্টিফিকেটটি ইস্যু করুন।",
-        "ZH": "请出具证书。",
-        "KO": "인증서를 발급합니다.",
-        "TL": "Mangyaring magbigay ng sertipiko.",
-        "MY": "ကျေးဇူးပြု၍ လက်မှတ်ထုတ်ပေးပါ။",
-        "HI": "कृपया प्रमाण पत्र जारी करें।",
-        "AR": "يرجى إصدار الشهادة.",
-        "FA": "لطفا گواهی را صادر کنید."
-      }
-    },
-    {
-      "kanji": "通貨を発行する国の決定です。",
-      "furigana": "通貨(つうか)を発行(はっこう)する国(くに)の決定(けってい)です。",
-      "translations": {
-        "EN": "It is the decision of the country that issues the currency.",
-        "ID": "Itu adalah keputusan negara yang menerbitkan mata uang.",
-        "ES": "Es decisión del país que emite la moneda.",
-        "VI": "Quyết định là của quốc gia phát hành tiền tệ.",
-        "FR": "C'est la décision du pays qui émet la monnaie.",
-        "NE": "मुद्रा जारी गर्ने निर्णय देशको हो।",
-        "BN": "মুদ্রা জারি করার সিদ্ধান্ত দেশের।",
-        "ZH": "这是发行货币的国家的决定。",
-        "KO": "통화를 발행하는 국가의 결정입니다.",
-        "TL": "Ang desisyon ng bansa ang naglalabas ng pera.",
-        "MY": "ငွေကြေးကို ထုတ်ပေးတဲ့ နိုင်ငံရဲ့ ဆုံးဖြတ်ချက်ပါ။",
-        "HI": "यह उस देश का निर्णय है जो मुद्रा जारी करता है।",
-        "AR": "القرار يعود للدولة التي تصدر العملة.",
-        "FA": "این تصمیم کشور است که ارز را منتشر کند."
-      }
-    },
-    {
-      "kanji": "チケットを発行しました。",
-      "furigana": "チケットを発行(はっこう)しました。",
-      "translations": {
-        "EN": "The ticket has been issued.",
-        "ID": "Tiket telah dikeluarkan.",
-        "ES": "El billete ha sido emitido.",
-        "VI": "Vé đã được phát hành.",
-        "FR": "Le ticket a été émis.",
-        "NE": "टिकट जारी गरिएको छ।",
-        "BN": "টিকিট ইস্যু করা হয়েছে।",
-        "ZH": "票已出具。",
-        "KO": "티켓을 발행했습니다.",
-        "TL": "Naisyuhan na ang ticket.",
-        "MY": "လက်မှတ်ထုတ်ပေးပြီးပြီ။",
-        "HI": "टिकट जारी कर दिया गया है।",
-        "AR": "لقد تم إصدار التذكرة.",
-        "FA": "بلیط صادر شده است."
-      }
-    },
-    {
-      "kanji": "この書類を再度発行してください。",
-      "furigana": "この書類(しょるい)を再度(さいど)発行(はっこう)してください。",
-      "translations": {
-        "EN": "Please reissue this document.",
-        "ID": "Harap terbitkan ulang dokumen ini.",
-        "ES": "Por favor reemitir este documento.",
-        "VI": "Vui lòng phát hành lại tài liệu này.",
-        "FR": "Veuillez rééditer ce document.",
-        "NE": "कृपया यो कागजात पुन: जारी गर्नुहोस्।",
-        "BN": "অনুগ্রহ করে এই নথিটি পুনরায় ইস্যু করুন।",
-        "ZH": "请重新发布此文件。",
-        "KO": "이 문서를 다시 발행하십시오.",
-        "TL": "Paki-isyu muli ang dokumentong ito.",
-        "MY": "ကျေးဇူးပြု၍ ဤစာတမ်းကို ပြန်လည်ထုတ်ပေးပါ။",
-        "HI": "कृपया इस दस्तावेज़ को पुनः जारी करें।",
-        "AR": "يرجى إعادة إصدار هذه الوثيقة.",
-        "FA": "لطفا این مستند را دوباره منتشر کنید."
-      }
-    },
-    {
-      "kanji": "システムがイベントを発行した。",
-      "furigana": "システムがイベントを発行(はっこう)した。",
-      "translations": {
-        "EN": "The system issued an event.",
-        "ID": "Sistem mengeluarkan suatu peristiwa.",
-        "ES": "El sistema emitió un evento.",
-        "VI": "Hệ thống đã đưa ra một sự kiện.",
-        "FR": "Le système a émis un événement.",
-        "NE": "प्रणालीले एउटा कार्यक्रम जारी गर्‍यो।",
-        "BN": "সিস্টেমটি একটি ইভেন্ট জারি করেছে।",
-        "ZH": "系统发出事件。",
-        "KO": "시스템이 이벤트를 발행했습니다.",
-        "TL": "Naglabas ang system ng isang kaganapan.",
-        "MY": "စနစ်က အဖြစ်အပျက်တစ်ခုကို ထုတ်ပြန်ခဲ့ပါတယ်။",
-        "HI": "सिस्टम ने एक इवेंट जारी किया.",
-        "AR": "أصدر النظام حدثًا.",
-        "FA": "سیستم یک رویداد صادر کرد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "publication (of a newspaper, magazine, book, etc.)": {
-      "ID": "penerbitan (surat kabar, majalah, buku, dll.)",
-      "ES": "publicación (de un periódico, revista, libro, etc.)",
-      "VI": "xuất bản (báo, tạp chí, sách, v.v.)",
-      "FR": "publication (d'un journal, d'un magazine, d'un livre, etc.)",
-      "NE": "प्रकाशन (पत्रपत्रिका, पत्रिका, पुस्तक, आदि)",
-      "BN": "(একটি সংবাদপত্র, ম্যাগাজিন, বই, ইত্যাদির প্রকাশনা)",
-      "ZH": "（报纸、杂志、书籍等）出版物",
-      "KO": "(신문, 잡지, 책 등의) 출판",
-      "TL": "publikasyon (ng pahayagan, magasin, libro, atbp.)",
-      "MY": "ထုတ်ဝေမှု (သတင်းစာ၊ မဂ္ဂဇင်း၊ စာအုပ်စသည်)၊",
-      "HI": "प्रकाशन (समाचार पत्र, पत्रिका, पुस्तक, आदि का)",
-      "AR": "نشر (صحيفة، مجلة، كتاب، إلخ.)",
-      "FA": "انتشار (روزنامه، مجله، کتاب و غیره)",
-      "EN": [
-        "issue (of documents or items like passports, licenses, tickets, banknotes, bonds)"
-      ]
-    },
-    "raising (an event) — computing": {
-      "ID": "menaikkan (suatu peristiwa) — komputasi",
-      "ES": "generar (un evento) — computación",
-      "VI": "nâng cao (một sự kiện) — tính toán",
-      "FR": "élever (un événement) — calcul",
-      "NE": "उठाउँदै (एउटा घटना) — कम्प्युटिङ",
-      "BN": "উত্থাপন (একটি ঘটনা) — কম্পিউটিং",
-      "ZH": "引发（事件）——计算",
-      "KO": "(이벤트를) 발생시키는 것 — 컴퓨팅",
-      "TL": "pagtataas (isang kaganapan) - pag-compute",
-      "MY": "ပြုစုပျိုးထောင်ခြင်း (ဖြစ်ရပ်တစ်ခု) — တွက်ချက်ခြင်း။",
-      "HI": "(किसी घटना) को उठाना — कंप्यूटिंग",
-      "AR": "رفع (حدث) - الحوسبة",
-      "FA": "بالا آوردن (یک رویداد) — محاسبات",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "発行",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "発行",
-        "reading": "はっこう"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "publication (of a newspaper, magazine, book, etc.)",
-          "issue"
+    "version": "0.3.0",
+    "word": "発行",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/uuZWZi0Vl1g",
+    "in_db": true,
+    "kanji": "発行",
+    "reading": "はっこう",
+    "introduction_japanese": "発行は、雑誌や本を出すとき、免許や証明書を出すとき、通貨や債券を発行するとき、またコンピュータでイベントを起こすときによく使う言葉です。",
+    "introduction_english": "The noun and suru-verb はっこう is commonly used when talking about publishing magazines or books, issuing licenses or certificates, issuing currency or bonds, and when triggering events in computing.",
+    "meanings": [
+        [
+            "publication (of a newspaper, magazine, book, etc.)",
+            "issue (of documents or items like passports, licenses, tickets, banknotes, bonds)"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
-        ],
-        "links": [],
+        [
+            "raising (an event) — computing"
+        ]
+    ],
+    "meaning_explanation_japanese": "「発行」は、雑誌や本を世に出すこと、または免許や証明書、券などを正式に出すことを表す言葉です。コンピュータではイベントを発生させる意味でも使います。",
+    "meaning_explanation_english": "The word はっこう means 'publication' or 'issue' — for example publishing magazines or formally issuing licenses, tickets, banknotes, or bonds. In computing it can also mean 'raising' or 'triggering' an event.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "発",
+            "common_words": [
+                "発見 (はっけん): discovery",
+                "出発 (しゅっぱつ): departure"
+            ]
+        },
+        {
+            "kanji": "行",
+            "common_words": [
+                "銀行 (ぎんこう): bank",
+                "行く (いく): to go"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means discharge, emit, or start; it often gives the sense of sending out or beginning and appears in words like はっけん meaning discovery and しゅっぱつ meaning departure. The second kanji means going or action; it gives the sense of moving or carrying out and appears in words like ぎんこう meaning bank and いく meaning to go.",
+    "synonyms": [
+        "刊行 : かんこう : publication",
+        "発布 : はっぷ : promulgation/issue"
+    ],
+    "synonym_explanation": "The most common synonyms of the 発行 are かんこう and はっぷ. かんこう is used especially for formally publishing books or magazines, similar to 発行. はっぷ is used for issuing or promulgating laws, notices, or official orders and overlaps with 発行 when something is formally issued.",
+    "antonyms": [
+        "撤回 : てっかい : withdrawal",
+        "停止 : ていし : suspension"
+    ],
+    "antonym_explanation": "The most common antonyms of the 発行 are てっかい and ていし. てっかい means to withdraw or cancel something that was issued, so it reverses 発行. ていし means to stop or suspend issuance, so it prevents 発行 from happening.",
+    "collocations": [
+        {
+            "kanji": "雑誌を発行",
+            "furigana": "雑誌を発行",
+            "translations": {}
+        },
+        {
+            "kanji": "刊行物を発行",
+            "furigana": "刊行物を発行",
+            "translations": {}
+        },
+        {
+            "kanji": "債券を発行",
+            "furigana": "債券を発行",
+            "translations": {}
+        },
+        {
+            "kanji": "免許を発行",
+            "furigana": "免許を発行",
+            "translations": {}
+        },
+        {
+            "kanji": "証書を発行",
+            "furigana": "証書を発行",
+            "translations": {}
+        },
+        {
+            "kanji": "券を発行する",
+            "furigana": "券を発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "免許が発行される",
+            "furigana": "免許が発行される",
+            "translations": {}
+        },
+        {
+            "kanji": "通貨を発行する",
+            "furigana": "通貨を発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "証明書を発行する",
+            "furigana": "証明書を発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "チケットを発行する",
+            "furigana": "チケットを発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "定期的に発行する",
+            "furigana": "定期的に発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "随時発行する",
+            "furigana": "随時発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "新たに発行する",
+            "furigana": "新たに発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "大量に発行する",
+            "furigana": "大量に発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "再度発行する",
+            "furigana": "再度発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "正式に発行する",
+            "furigana": "正式に発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "無料で発行する",
+            "furigana": "無料で発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "迅速に発行する",
+            "furigana": "迅速に発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "適切に発行する",
+            "furigana": "適切に発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "正確に発行する",
+            "furigana": "正確に発行する",
+            "translations": {}
+        },
+        {
+            "kanji": "発行手続きをする",
+            "furigana": "発行手続きをする",
+            "translations": {}
+        },
+        {
+            "kanji": "発行開始する",
+            "furigana": "発行開始する",
+            "translations": {}
+        },
+        {
+            "kanji": "発行停止する",
+            "furigana": "発行停止する",
+            "translations": {}
+        },
+        {
+            "kanji": "発行申請する",
+            "furigana": "発行申請する",
+            "translations": {}
+        },
+        {
+            "kanji": "発行許可する",
+            "furigana": "発行許可する",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "雑誌を発行する。",
+            "furigana": "雑誌(ざっし)を発行(はっこう)する。",
+            "translations": {
+                "EN": "Publish a magazine.",
+                "ID": "Menerbitkan majalah.",
+                "ES": "Publicar una revista.",
+                "VI": "Xuất bản tạp chí.",
+                "FR": "Publier un magazine.",
+                "NE": "पत्रिका प्रकाशित गर्नुहोस्।",
+                "BN": "একটি পত্রিকা প্রকাশ করুন।",
+                "ZH": "出版杂志。",
+                "KO": "잡지를 발행한다.",
+                "TL": "Mag-publish ng magazine.",
+                "MY": "မဂ္ဂဇင်းတစ်စောင်ထုတ်ဝေသည်။",
+                "HI": "एक पत्रिका प्रकाशित करें.",
+                "AR": "نشر مجلة.",
+                "FA": "یک مجله منتشر کنید."
+            }
+        },
+        {
+            "kanji": "免許が発行されました。",
+            "furigana": "免許(めんきょ)が発行(はっこう)されました。",
+            "translations": {
+                "EN": "The license was issued.",
+                "ID": "Lisensi telah dikeluarkan.",
+                "ES": "La licencia fue expedida.",
+                "VI": "Giấy phép đã được cấp.",
+                "FR": "La licence a été délivrée.",
+                "NE": "लाइसेन्स जारी गरियो।",
+                "BN": "লাইসেন্সটি জারি করা হয়েছিল।",
+                "ZH": "执照已颁发。",
+                "KO": "면허가 발급되었습니다.",
+                "TL": "Ang lisensya ay ibinigay.",
+                "MY": "လိုင်စင်ထုတ်ပေးခဲ့သည်။",
+                "HI": "लाइसेंस जारी कर दिया गया।",
+                "AR": "تم إصدار الرخصة.",
+                "FA": "مجوز صادر شد."
+            }
+        },
+        {
+            "kanji": "証明書を発行してください。",
+            "furigana": "証明書(しょうめいしょ)を発行(はっこう)してください。",
+            "translations": {
+                "EN": "Please issue the certificate.",
+                "ID": "Harap terbitkan sertifikat.",
+                "ES": "Por favor emita el certificado.",
+                "VI": "Vui lòng cấp giấy chứng nhận.",
+                "FR": "Veuillez délivrer le certificat.",
+                "NE": "कृपया प्रमाणपत्र जारी गर्नुहोस्।",
+                "BN": "অনুগ্রহ করে সার্টিফিকেটটি ইস্যু করুন।",
+                "ZH": "请出具证书。",
+                "KO": "인증서를 발급합니다.",
+                "TL": "Mangyaring magbigay ng sertipiko.",
+                "MY": "ကျေးဇူးပြု၍ လက်မှတ်ထုတ်ပေးပါ။",
+                "HI": "कृपया प्रमाण पत्र जारी करें।",
+                "AR": "يرجى إصدار الشهادة.",
+                "FA": "لطفا گواهی را صادر کنید."
+            }
+        },
+        {
+            "kanji": "通貨を発行する国の決定です。",
+            "furigana": "通貨(つうか)を発行(はっこう)する国(くに)の決定(けってい)です。",
+            "translations": {
+                "EN": "It is the decision of the country that issues the currency.",
+                "ID": "Itu adalah keputusan negara yang menerbitkan mata uang.",
+                "ES": "Es decisión del país que emite la moneda.",
+                "VI": "Quyết định là của quốc gia phát hành tiền tệ.",
+                "FR": "C'est la décision du pays qui émet la monnaie.",
+                "NE": "मुद्रा जारी गर्ने निर्णय देशको हो।",
+                "BN": "মুদ্রা জারি করার সিদ্ধান্ত দেশের।",
+                "ZH": "这是发行货币的国家的决定。",
+                "KO": "통화를 발행하는 국가의 결정입니다.",
+                "TL": "Ang desisyon ng bansa ang naglalabas ng pera.",
+                "MY": "ငွေကြေးကို ထုတ်ပေးတဲ့ နိုင်ငံရဲ့ ဆုံးဖြတ်ချက်ပါ။",
+                "HI": "यह उस देश का निर्णय है जो मुद्रा जारी करता है।",
+                "AR": "القرار يعود للدولة التي تصدر العملة.",
+                "FA": "این تصمیم کشور است که ارز را منتشر کند."
+            }
+        },
+        {
+            "kanji": "チケットを発行しました。",
+            "furigana": "チケットを発行(はっこう)しました。",
+            "translations": {
+                "EN": "The ticket has been issued.",
+                "ID": "Tiket telah dikeluarkan.",
+                "ES": "El billete ha sido emitido.",
+                "VI": "Vé đã được phát hành.",
+                "FR": "Le ticket a été émis.",
+                "NE": "टिकट जारी गरिएको छ।",
+                "BN": "টিকিট ইস্যু করা হয়েছে।",
+                "ZH": "票已出具。",
+                "KO": "티켓을 발행했습니다.",
+                "TL": "Naisyuhan na ang ticket.",
+                "MY": "လက်မှတ်ထုတ်ပေးပြီးပြီ။",
+                "HI": "टिकट जारी कर दिया गया है।",
+                "AR": "لقد تم إصدار التذكرة.",
+                "FA": "بلیط صادر شده است."
+            }
+        },
+        {
+            "kanji": "この書類を再度発行してください。",
+            "furigana": "この書類(しょるい)を再度(さいど)発行(はっこう)してください。",
+            "translations": {
+                "EN": "Please reissue this document.",
+                "ID": "Harap terbitkan ulang dokumen ini.",
+                "ES": "Por favor reemitir este documento.",
+                "VI": "Vui lòng phát hành lại tài liệu này.",
+                "FR": "Veuillez rééditer ce document.",
+                "NE": "कृपया यो कागजात पुन: जारी गर्नुहोस्।",
+                "BN": "অনুগ্রহ করে এই নথিটি পুনরায় ইস্যু করুন।",
+                "ZH": "请重新发布此文件。",
+                "KO": "이 문서를 다시 발행하십시오.",
+                "TL": "Paki-isyu muli ang dokumentong ito.",
+                "MY": "ကျေးဇူးပြု၍ ဤစာတမ်းကို ပြန်လည်ထုတ်ပေးပါ။",
+                "HI": "कृपया इस दस्तावेज़ को पुनः जारी करें।",
+                "AR": "يرجى إعادة إصدار هذه الوثيقة.",
+                "FA": "لطفا این مستند را دوباره منتشر کنید."
+            }
+        },
+        {
+            "kanji": "システムがイベントを発行した。",
+            "furigana": "システムがイベントを発行(はっこう)した。",
+            "translations": {
+                "EN": "The system issued an event.",
+                "ID": "Sistem mengeluarkan suatu peristiwa.",
+                "ES": "El sistema emitió un evento.",
+                "VI": "Hệ thống đã đưa ra một sự kiện.",
+                "FR": "Le système a émis un événement.",
+                "NE": "प्रणालीले एउटा कार्यक्रम जारी गर्‍यो।",
+                "BN": "সিস্টেমটি একটি ইভেন্ট জারি করেছে।",
+                "ZH": "系统发出事件。",
+                "KO": "시스템이 이벤트를 발행했습니다.",
+                "TL": "Naglabas ang system ng isang kaganapan.",
+                "MY": "စနစ်က အဖြစ်အပျက်တစ်ခုကို ထုတ်ပြန်ခဲ့ပါတယ်။",
+                "HI": "सिस्टम ने एक इवेंट जारी किया.",
+                "AR": "أصدر النظام حدثًا.",
+                "FA": "سیستم یک رویداد صادر کرد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "penerbitan (surat kabar, majalah, buku, dll.)",
+            "ES": "publicación (de un periódico, revista, libro, etc.)",
+            "VI": "xuất bản (báo, tạp chí, sách, v.v.)",
+            "FR": "publication (d'un journal, d'un magazine, d'un livre, etc.)",
+            "NE": "प्रकाशन (पत्रपत्रिका, पत्रिका, पुस्तक, आदि)",
+            "BN": "(একটি সংবাদপত্র, ম্যাগাজিন, বই, ইত্যাদির প্রকাশনা)",
+            "ZH": "（报纸、杂志、书籍等）出版物",
+            "KO": "(신문, 잡지, 책 등의) 출판",
+            "TL": "publikasyon (ng pahayagan, magasin, libro, atbp.)",
+            "MY": "ထုတ်ဝေမှု (သတင်းစာ၊ မဂ္ဂဇင်း၊ စာအုပ်စသည်)၊",
+            "HI": "प्रकाशन (समाचार पत्र, पत्रिका, पुस्तक, आदि का)",
+            "AR": "نشر (صحيفة، مجلة، كتاب، إلخ.)",
+            "FA": "انتشار (روزنامه، مجله، کتاب و غیره)",
+            "EN": [
+                "publication (of a newspaper, magazine, book, etc.)",
+                "issue (of documents or items like passports, licenses, tickets, banknotes, bonds)"
+            ]
+        },
+        {
+            "ID": "menaikkan (suatu peristiwa) — komputasi",
+            "ES": "generar (un evento) — computación",
+            "VI": "nâng cao (một sự kiện) — tính toán",
+            "FR": "élever (un événement) — calcul",
+            "NE": "उठाउँदै (एउटा घटना) — कम्प्युटिङ",
+            "BN": "উত্থাপন (একটি ঘটনা) — কম্পিউটিং",
+            "ZH": "引发（事件）——计算",
+            "KO": "(이벤트를) 발생시키는 것 — 컴퓨팅",
+            "TL": "pagtataas (isang kaganapan) - pag-compute",
+            "MY": "ပြုစုပျိုးထောင်ခြင်း (ဖြစ်ရပ်တစ်ခု) — တွက်ချက်ခြင်း။",
+            "HI": "(किसी घटना) को उठाना — कंप्यूटिंग",
+            "AR": "رفع (حدث) - الحوسبة",
+            "FA": "بالا آوردن (یک رویداد) — محاسبات",
+            "EN": [
+                "raising (an event) — computing"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "発行",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "issue (of banknotes, bonds, passport, etc.)"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
+        "japanese": [
+            {
+                "word": "発行",
+                "reading": "はっこう"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "raising (an event)"
+        "senses": [
+            {
+                "english_definitions": [
+                    "publication (of a newspaper, magazine, book, etc.)",
+                    "issue"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "issue (of banknotes, bonds, passport, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "raising (an event)"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Computing"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [
-          "Computing"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
-    }
-  },
-  "kanji_list": [
-    "発",
-    "行"
-  ],
-  "kanji_data": {
-    "発": {
-      "freq_mainichi_shinbun": 32,
-      "grade": 3,
-      "heisig_en": "discharge",
-      "jlpt": 4,
-      "kanji": "発",
-      "kun_readings": [
-        "あば.く",
-        "おこ.る",
-        "た.つ",
-        "つか.わす",
-        "はな.つ"
-      ],
-      "meanings": [
-        "counter for gunshots",
-        "departure",
-        "discharge",
-        "disclose",
-        "emit",
-        "publish",
-        "start from"
-      ],
-      "name_readings": [
-        "ば",
-        "わ"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ハツ",
-        "ホツ"
-      ],
-      "stroke_count": 9,
-      "unicode": "767A"
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
     },
-    "行": {
-      "freq_mainichi_shinbun": 20,
-      "grade": 2,
-      "heisig_en": "going",
-      "jlpt": 5,
-      "kanji": "行",
-      "kun_readings": [
-        "-い.き",
-        "-いき",
-        "-ゆ.き",
-        "-ゆき",
-        "い.く",
-        "おこ.なう",
-        "おこな.う",
-        "ゆ.く"
-      ],
-      "meanings": [
-        "act",
-        "bank",
-        "carry out",
-        "conduct",
-        "going",
-        "journey",
-        "line",
-        "row"
-      ],
-      "name_readings": [
-        "いく",
-        "なみ",
-        "なめ",
-        "みち",
-        "ゆき",
-        "ゆく"
-      ],
-      "notes": [],
-      "on_readings": [
-        "アン",
-        "ギョウ",
-        "コウ"
-      ],
-      "stroke_count": 6,
-      "unicode": "884C"
+    "kanji_list": [
+        "発",
+        "行"
+    ],
+    "kanji_data": {
+        "発": {
+            "freq_mainichi_shinbun": 32,
+            "grade": 3,
+            "heisig_en": "discharge",
+            "jlpt": 4,
+            "kanji": "発",
+            "kun_readings": [
+                "あば.く",
+                "おこ.る",
+                "た.つ",
+                "つか.わす",
+                "はな.つ"
+            ],
+            "meanings": [
+                "counter for gunshots",
+                "departure",
+                "discharge",
+                "disclose",
+                "emit",
+                "publish",
+                "start from"
+            ],
+            "name_readings": [
+                "ば",
+                "わ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ハツ",
+                "ホツ"
+            ],
+            "stroke_count": 9,
+            "unicode": "767A"
+        },
+        "行": {
+            "freq_mainichi_shinbun": 20,
+            "grade": 2,
+            "heisig_en": "going",
+            "jlpt": 5,
+            "kanji": "行",
+            "kun_readings": [
+                "-い.き",
+                "-いき",
+                "-ゆ.き",
+                "-ゆき",
+                "い.く",
+                "おこ.なう",
+                "おこな.う",
+                "ゆ.く"
+            ],
+            "meanings": [
+                "act",
+                "bank",
+                "carry out",
+                "conduct",
+                "going",
+                "journey",
+                "line",
+                "row"
+            ],
+            "name_readings": [
+                "いく",
+                "なみ",
+                "なめ",
+                "みち",
+                "ゆき",
+                "ゆく"
+            ],
+            "notes": [],
+            "on_readings": [
+                "アン",
+                "ギョウ",
+                "コウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "884C"
+        }
     }
-  }
 }

@@ -1,533 +1,537 @@
 {
-  "version": "0.3.0",
-  "word": "過ごす",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/qLCHgwmvHAI",
-  "in_db": true,
-  "kanji": "過ごす",
-  "reading": "すごす",
-  "introduction_japanese": "過ごすは、時間の過ごし方や生活の様子について話すとき、休日や日々の過ごし方、誰と一緒にいるかを言うときによく使う言葉です。",
-  "introduction_english": "The verb すごす is commonly used when talking about how you spend time, your daily life, holidays, and who you spend time with.",
-  "meanings": [
-    [
-      "to spend (time)",
-      "to pass (time)",
-      "to lead (a life)",
-      "to live"
-    ],
-    [
-      "to overdo (especially alcohol consumption)",
-      "to drink (alcohol)",
-      "to carry too far",
-      "to carry to excess"
-    ],
-    [
-      "to take care of",
-      "to support (dated usage)"
-    ],
-    [
-      "suffix: to overdo, to do too much (after the -masu stem)",
-      "suffix: to ... without acting on it, to ... without getting involved (after the -masu stem)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「すごす」は、時間を過ごす、生活を送るという意味でよく使う動詞です。ほかにお酒を飲み過ぎるような「やりすぎる」の意味や、昔の言い方で世話をする意味もあります。動詞の語尾で「〜し過(す)ぎる」「〜を見過(みす)ごす」のようにも使います。",
-  "meaning_explanation_english": "The word すごす means to spend or pass time and to lead or live a life. It can also mean to overdo (for example drinking too much), an older sense 'to take care of', and as a suffix it can mean doing something to excess or overlooking something.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "過",
-      "common_words": [
-        "過去 (かこ): past",
-        "過剰 (かじょう): excess"
-      ],
-      "meanings": [
-        "error",
-        "exceed",
-        "go beyond",
-        "overdo"
-      ],
-      "on_readings": [
-        "カ"
-      ],
-      "kun_readings": [
-        "あやま.ち",
-        "あやま.つ",
-        "す.ぎる",
-        "す.ごす",
-        "よ.ぎる",
-        "よぎ.る"
-      ],
-      "stroke_count": 12,
-      "grade": 5,
-      "jlpt": 3
-    }
-  ],
-  "kanji_explanation": "The first kanji means overdo or go beyond. In the word かこ which means past, this kanji gives the idea of time having passed or gone beyond. In the word かじょう which means excess, this kanji gives the sense of too much or going past a limit.",
-  "synonyms": [
-    "暮らす : くらす : to live, to spend time"
-  ],
-  "synonym_explanation": "The most common synonym of the すごす is くらす. くらす focuses more on living or residing and daily life, while すごす can mean spending or passing time and has broader uses like holidays or how you spend a day.",
-  "antonyms": [],
-  "antonym_explanation": "No common antonyms found.",
-  "collocations": [
-    {
-      "kanji": "時間を過ごす",
-      "furigana": "時間を過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "日々を過ごす",
-      "furigana": "日々を過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "一日を過ごす",
-      "furigana": "一日を過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "休日を過ごす",
-      "furigana": "休日を過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "平和な日々を過ごす",
-      "furigana": "平和な日々を過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "どう過ごすか",
-      "furigana": "どう過ごすか",
-      "translations": {}
-    },
-    {
-      "kanji": "～をどう過ごすか考える",
-      "furigana": "～をどう過ごすか考える",
-      "translations": {}
-    },
-    {
-      "kanji": "～を有意義に過ごす",
-      "furigana": "～を有意義に過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "～を快適に過ごす",
-      "furigana": "～を快適に過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "～を楽しく過ごす",
-      "furigana": "～を楽しく過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "ゆったりと過ごす",
-      "furigana": "ゆったりと過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "のんびりと過ごす",
-      "furigana": "のんびりと過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "静かに過ごす",
-      "furigana": "静かに過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "穏やかに過ごす",
-      "furigana": "穏やかに過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "無事に過ごす",
-      "furigana": "無事に過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "家族と過ごす",
-      "furigana": "家族と過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "友人と過ごす",
-      "furigana": "友人と過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "恋人と過ごす",
-      "furigana": "恋人と過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "一緒に過ごす",
-      "furigana": "一緒に過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "大切な人と過ごす",
-      "furigana": "大切な人と過ごす",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "家族と過ごす。",
-      "furigana": "家族(かぞく)と過(すご)す。",
-      "translations": {
-        "EN": "Spend time with family.",
-        "ID": "Habiskan waktu bersama keluarga.",
-        "ES": "Pasar tiempo con la familia.",
-        "VI": "Dành thời gian cho gia đình.",
-        "FR": "Passez du temps en famille.",
-        "NE": "परिवारसँग समय बिताउनुहोस्।",
-        "BN": "পরিবারের সাথে সময় কাটান।",
-        "ZH": "花时间陪伴家人。",
-        "KO": "가족과 함께 보내십시오.",
-        "TL": "Gumugol ng oras sa pamilya.",
-        "MY": "မိသားစုနဲ့ အချိန်ဖြုန်းပါ။",
-        "HI": "परिवार के साथ समय व्यतीत करो।",
-        "AR": "اقضي وقتا مع العائلة.",
-        "FA": "با خانواده وقت بگذرانید."
-      }
-    },
-    {
-      "kanji": "休日をゆっくり過ごす。",
-      "furigana": "休日(きゅうじつ)をゆっくり過(すご)す。",
-      "translations": {
-        "EN": "Spend your holidays relaxing.",
-        "ID": "Habiskan liburan Anda dengan bersantai.",
-        "ES": "Pasa tus vacaciones relajándote.",
-        "VI": "Hãy dành kỳ nghỉ của bạn để thư giãn.",
-        "FR": "Passez vos vacances en toute détente.",
-        "NE": "आराम गरेर आफ्नो बिदा बिताउनुहोस्।",
-        "BN": "ছুটির দিনগুলো আরাম করে কাটাও।",
-        "ZH": "放松地度过你的假期。",
-        "KO": "휴일을 천천히 보내십시오.",
-        "TL": "Gumugol ng iyong bakasyon sa pagrerelaks.",
-        "MY": "အားလပ်ရက်တွေကို အပန်းဖြေအနားယူလိုက်ပါ။",
-        "HI": "अपनी छुट्टियाँ आराम से बिताएँ।",
-        "AR": "اقضي عطلتك بالاسترخاء.",
-        "FA": "تعطیلات خود را با آرامش سپری کنید."
-      }
-    },
-    {
-      "kanji": "一日を有意義に過ごす。",
-      "furigana": "一日(いちにち)を有意義(ゆういぎ)に過(すご)す。",
-      "translations": {
-        "EN": "Spend the day meaningfully.",
-        "ID": "Habiskan hari dengan penuh makna.",
-        "ES": "Pasa el día con significado.",
-        "VI": "Hãy tận hưởng một ngày có ý nghĩa.",
-        "FR": "Passez la journée de manière significative.",
-        "NE": "अर्थपूर्ण रूपमा दिन बिताउनुहोस्।",
-        "BN": "দিনটি অর্থপূর্ণভাবে কাটান।",
-        "ZH": "让这一天过得有意义。",
-        "KO": "하루를 의미있게 보내십시오.",
-        "TL": "Gumugol ng makahulugan ang araw.",
-        "MY": "နေ့ကို အဓိပ္ပါယ်ရှိရှိ ဖြတ်သန်းပါ။",
-        "HI": "दिन को सार्थक ढंग से व्यतीत करें।",
-        "AR": "اقضي يومك بطريقة مفيدة.",
-        "FA": "روز را با معنا سپری کنید."
-      }
-    },
-    {
-      "kanji": "平和な日々を過ごす。",
-      "furigana": "平和(へいわ)な日々(ひび)を過(すご)す。",
-      "translations": {
-        "EN": "Spend peaceful days.",
-        "ID": "Habiskan hari-hari dengan damai.",
-        "ES": "Pasa unos días tranquilos.",
-        "VI": "Hãy tận hưởng những ngày bình yên.",
-        "FR": "Passez des journées paisibles.",
-        "NE": "शान्त दिनहरू बिताउनुहोस्।",
-        "BN": "শান্তিতে দিন কাটাও।",
-        "ZH": "度过平静的日子。",
-        "KO": "평화로운 날들을 보내십시오.",
-        "TL": "Gumugol ng mapayapang araw.",
-        "MY": "သာယာသောနေ့ရက်များကိုဖြတ်သန်းပါ။",
-        "HI": "शांतिपूर्ण दिन बिताएँ.",
-        "AR": "اقضي أيامًا هادئة.",
-        "FA": "روزهای آرامی را سپری کنید."
-      }
-    },
-    {
-      "kanji": "どう過ごすか考える。",
-      "furigana": "どう過(すご)すか考(かんが)える。",
-      "translations": {
-        "EN": "Think about how you will spend your time.",
-        "ID": "Pikirkan tentang bagaimana Anda akan menghabiskan waktu Anda.",
-        "ES": "Piensa en cómo vas a emplear tu tiempo.",
-        "VI": "Hãy nghĩ về cách bạn sẽ sử dụng thời gian của mình.",
-        "FR": "Pensez à la façon dont vous allez passer votre temps.",
-        "NE": "तपाईं आफ्नो समय कसरी बिताउनुहुन्छ भनेर सोच्नुहोस्।",
-        "BN": "তুমি কীভাবে তোমার সময় কাটাবে তা ভেবে দেখো।",
-        "ZH": "想想你将如何度过你的时间。",
-        "KO": "어떻게 보내는지 생각한다.",
-        "TL": "Isipin kung paano mo gugugol ang iyong oras.",
-        "MY": "မင်းရဲ့အချိန်တွေကို ဘယ်လိုကုန်ဆုံးမလဲဆိုတာ စဉ်းစားပါ။",
-        "HI": "इस बारे में सोचें कि आप अपना समय कैसे व्यतीत करेंगे।",
-        "AR": "فكر في كيفية قضاء وقتك.",
-        "FA": "به این فکر کنید که چگونه وقت خود را خواهید گذراند."
-      }
-    },
-    {
-      "kanji": "友人と静かに過ごす。",
-      "furigana": "友人(ゆうじん)と静(しず)かに過(すご)す。",
-      "translations": {
-        "EN": "Quiet time with friends.",
-        "ID": "Waktu tenang bersama teman.",
-        "ES": "Momento tranquilo con amigos.",
-        "VI": "Thời gian yên tĩnh cùng bạn bè.",
-        "FR": "Moment de calme entre amis.",
-        "NE": "साथीहरूसँग शान्त समय बिताउँछु।",
-        "BN": "বন্ধুদের সাথে নিরিবিলি সময় কাটানো।",
-        "ZH": "与朋友一起度过安静的时光。",
-        "KO": "친구와 조용히 보내십시오.",
-        "TL": "Tahimik na oras kasama ang mga kaibigan.",
-        "MY": "သူငယ်ချင်းတွေနဲ့ အေးအေးဆေးဆေး အချိန်ပေးပါ။",
-        "HI": "दोस्तों के साथ शांत समय.",
-        "AR": "وقت هادئ مع الأصدقاء.",
-        "FA": "اوقاتی آرام با دوستان."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to spend (time)": {
-      "ID": "menghabiskan (waktu)",
-      "ES": "pasar (tiempo)",
-      "VI": "dành (thời gian)",
-      "FR": "passer (du temps)",
-      "NE": "(समय) बिताउनु",
-      "BN": "(সময়) ব্যয় করা",
-      "ZH": "花费（时间）",
-      "KO": "(시간을) 보내다",
-      "TL": "gumugol (oras)",
-      "MY": "(အချိန်ဖြုန်းရန်)",
-      "HI": "समय बिताना)",
-      "AR": "قضاء (الوقت)",
-      "FA": "صرف کردن (وقت)",
-      "EN": [
-        "to pass (time)",
-        "to lead (a life)",
-        "to live"
-      ]
-    },
-    "to overdo (especially alcohol consumption)": {
-      "ID": "berlebihan (terutama konsumsi alkohol)",
-      "ES": "Exagerar (especialmente el consumo de alcohol)",
-      "VI": "lạm dụng (đặc biệt là uống rượu)",
-      "FR": "abuser (en particulier la consommation d'alcool)",
-      "NE": "अत्यधिक मात्रामा सेवन गर्नु (विशेष गरी मदिरा सेवन)",
-      "BN": "অতিরিক্ত পরিমাণে খাওয়া (বিশেষ করে মদ্যপান)",
-      "ZH": "过量（尤其是饮酒）",
-      "KO": "과음하다 (특히 술을 너무 많이 마신다)",
-      "TL": "labis na labis (lalo na ang pag-inom ng alak)",
-      "MY": "အလွန်အကျွံလုပ်ခြင်း (အထူးသဖြင့် အရက်သောက်ခြင်း)",
-      "HI": "अधिक मात्रा में शराब पीना (विशेषकर शराब का सेवन)",
-      "AR": "الإفراط في تناول الكحول (خاصة الكحول)",
-      "FA": "زیاده‌روی کردن (به خصوص مصرف الکل)",
-      "EN": [
-        "to drink (alcohol)",
-        "to carry too far",
-        "to carry to excess"
-      ]
-    },
-    "to take care of": {
-      "ID": "untuk mengurus",
-      "ES": "Cuidar de",
-      "VI": "để chăm sóc",
-      "FR": "prendre soin de",
-      "NE": "हेरचाह गर्नु",
-      "BN": "যত্ন নিতে",
-      "ZH": "照顾",
-      "KO": "돌보다",
-      "TL": "para alagaan",
-      "MY": "ဂရုစိုက်ရန်",
-      "HI": "देखभाल करना",
-      "AR": "للعناية بـ",
-      "FA": "برای مراقبت",
-      "EN": [
-        "to support (dated usage)"
-      ]
-    },
-    "suffix: to overdo, to do too much (after the -masu stem)": {
-      "ID": "akhiran: melakukan terlalu banyak, melakukan terlalu banyak (setelah akar kata -masu)",
-      "ES": "sufijo: exagerar, hacer demasiado (después de la raíz -masu)",
-      "VI": "hậu tố: làm quá mức, làm quá nhiều (sau gốc -masu)",
-      "FR": "suffixe : exagérer, faire trop (après le radical -masu)",
-      "NE": "प्रत्यय: धेरै गर्नु, धेरै गर्नु (-मासुको मूल पछि)",
-      "BN": "প্রত্যয়: অতিরিক্ত কাজ করা, অতিরিক্ত কাজ করা (-মাসু স্তম্ভের পরে)",
-      "ZH": "后缀：过度，做得太多（在 -masu 词干之后）",
-      "KO": "접미사: 과도하게 하다, 너무 많이 하다 (-masu 어간 뒤에 붙음)",
-      "TL": "suffix: labis, gumawa ng sobra (pagkatapos ng -masu stem)",
-      "MY": "နောက်ဆက်တွဲ- အလွန်အကျွံလုပ်ရန် (-masu ပင်စည်ပြီးနောက်)",
-      "HI": "प्रत्यय: अति करना, बहुत अधिक करना (-मासु स्टेम के बाद)",
-      "AR": "اللاحقة: المبالغة، فعل الكثير (بعد جذر -masu)",
-      "FA": "پسوند: زیاده‌روی کردن، انجام دادن کاری بیش از حد (بعد از ریشه -masu)",
-      "EN": [
-        "suffix: to ... without acting on it, to ... without getting involved (after the -masu stem)"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "過ごす",
-    "is_common": true,
-    "tags": [
-      "wanikani26"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "過ごす",
-        "reading": "すごす"
-      },
-      {
-        "word": "過す",
-        "reading": "すごす"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to spend (time)",
-          "to pass",
-          "to lead (a life)",
-          "to live"
+    "version": "0.3.0",
+    "word": "過ごす",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/qLCHgwmvHAI",
+    "in_db": true,
+    "kanji": "過ごす",
+    "reading": "すごす",
+    "introduction_japanese": "過ごすは、時間の過ごし方や生活の様子について話すとき、休日や日々の過ごし方、誰と一緒にいるかを言うときによく使う言葉です。",
+    "introduction_english": "The verb すごす is commonly used when talking about how you spend time, your daily life, holidays, and who you spend time with.",
+    "meanings": [
+        [
+            "to spend (time)",
+            "to pass (time)",
+            "to lead (a life)",
+            "to live"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending",
-          "Transitive verb"
+        [
+            "to overdo (especially alcohol consumption)",
+            "to drink (alcohol)",
+            "to carry too far",
+            "to carry to excess"
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to overdo (esp. alcohol consumption)",
-          "to drink (alcohol)",
-          "to carry too far",
-          "to carry to excess"
+        [
+            "to take care of",
+            "to support (dated usage)"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to take care of",
-          "to support"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending",
-          "Transitive verb"
-        ],
-        "links": [],
+        [
+            "suffix: to overdo, to do too much (after the -masu stem)",
+            "suffix: to ... without acting on it, to ... without getting involved (after the -masu stem)"
+        ]
+    ],
+    "meaning_explanation_japanese": "「すごす」は、時間を過ごす、生活を送るという意味でよく使う動詞です。ほかにお酒を飲み過ぎるような「やりすぎる」の意味や、昔の言い方で世話をする意味もあります。動詞の語尾で「〜し過(す)ぎる」「〜を見過(みす)ごす」のようにも使います。",
+    "meaning_explanation_english": "The word すごす means to spend or pass time and to lead or live a life. It can also mean to overdo (for example drinking too much), an older sense 'to take care of', and as a suffix it can mean doing something to excess or overlooking something.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "過",
+            "common_words": [
+                "過去 (かこ): past",
+                "過剰 (かじょう): excess"
+            ],
+            "meanings": [
+                "error",
+                "exceed",
+                "go beyond",
+                "overdo"
+            ],
+            "on_readings": [
+                "カ"
+            ],
+            "kun_readings": [
+                "あやま.ち",
+                "あやま.つ",
+                "す.ぎる",
+                "す.ごす",
+                "よ.ぎる",
+                "よぎ.る"
+            ],
+            "stroke_count": 12,
+            "grade": 5,
+            "jlpt": 3
+        }
+    ],
+    "kanji_explanation": "The first kanji means overdo or go beyond. In the word かこ which means past, this kanji gives the idea of time having passed or gone beyond. In the word かじょう which means excess, this kanji gives the sense of too much or going past a limit.",
+    "synonyms": [
+        "暮らす : くらす : to live, to spend time"
+    ],
+    "synonym_explanation": "The most common synonym of the すごす is くらす. くらす focuses more on living or residing and daily life, while すごす can mean spending or passing time and has broader uses like holidays or how you spend a day.",
+    "antonyms": [],
+    "antonym_explanation": "No common antonyms found.",
+    "collocations": [
+        {
+            "kanji": "時間を過ごす",
+            "furigana": "時間を過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "日々を過ごす",
+            "furigana": "日々を過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "一日を過ごす",
+            "furigana": "一日を過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "休日を過ごす",
+            "furigana": "休日を過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "平和な日々を過ごす",
+            "furigana": "平和な日々を過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "どう過ごすか",
+            "furigana": "どう過ごすか",
+            "translations": {}
+        },
+        {
+            "kanji": "～をどう過ごすか考える",
+            "furigana": "～をどう過ごすか考える",
+            "translations": {}
+        },
+        {
+            "kanji": "～を有意義に過ごす",
+            "furigana": "～を有意義に過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "～を快適に過ごす",
+            "furigana": "～を快適に過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "～を楽しく過ごす",
+            "furigana": "～を楽しく過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "ゆったりと過ごす",
+            "furigana": "ゆったりと過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "のんびりと過ごす",
+            "furigana": "のんびりと過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "静かに過ごす",
+            "furigana": "静かに過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "穏やかに過ごす",
+            "furigana": "穏やかに過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "無事に過ごす",
+            "furigana": "無事に過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "家族と過ごす",
+            "furigana": "家族と過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "友人と過ごす",
+            "furigana": "友人と過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "恋人と過ごす",
+            "furigana": "恋人と過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "一緒に過ごす",
+            "furigana": "一緒に過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "大切な人と過ごす",
+            "furigana": "大切な人と過ごす",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "家族と過ごす。",
+            "furigana": "家族(かぞく)と過(すご)す。",
+            "translations": {
+                "EN": "Spend time with family.",
+                "ID": "Habiskan waktu bersama keluarga.",
+                "ES": "Pasar tiempo con la familia.",
+                "VI": "Dành thời gian cho gia đình.",
+                "FR": "Passez du temps en famille.",
+                "NE": "परिवारसँग समय बिताउनुहोस्।",
+                "BN": "পরিবারের সাথে সময় কাটান।",
+                "ZH": "花时间陪伴家人。",
+                "KO": "가족과 함께 보내십시오.",
+                "TL": "Gumugol ng oras sa pamilya.",
+                "MY": "မိသားစုနဲ့ အချိန်ဖြုန်းပါ။",
+                "HI": "परिवार के साथ समय व्यतीत करो।",
+                "AR": "اقضي وقتا مع العائلة.",
+                "FA": "با خانواده وقت بگذرانید."
+            }
+        },
+        {
+            "kanji": "休日をゆっくり過ごす。",
+            "furigana": "休日(きゅうじつ)をゆっくり過(すご)す。",
+            "translations": {
+                "EN": "Spend your holidays relaxing.",
+                "ID": "Habiskan liburan Anda dengan bersantai.",
+                "ES": "Pasa tus vacaciones relajándote.",
+                "VI": "Hãy dành kỳ nghỉ của bạn để thư giãn.",
+                "FR": "Passez vos vacances en toute détente.",
+                "NE": "आराम गरेर आफ्नो बिदा बिताउनुहोस्।",
+                "BN": "ছুটির দিনগুলো আরাম করে কাটাও।",
+                "ZH": "放松地度过你的假期。",
+                "KO": "휴일을 천천히 보내십시오.",
+                "TL": "Gumugol ng iyong bakasyon sa pagrerelaks.",
+                "MY": "အားလပ်ရက်တွေကို အပန်းဖြေအနားယူလိုက်ပါ။",
+                "HI": "अपनी छुट्टियाँ आराम से बिताएँ।",
+                "AR": "اقضي عطلتك بالاسترخاء.",
+                "FA": "تعطیلات خود را با آرامش سپری کنید."
+            }
+        },
+        {
+            "kanji": "一日を有意義に過ごす。",
+            "furigana": "一日(いちにち)を有意義(ゆういぎ)に過(すご)す。",
+            "translations": {
+                "EN": "Spend the day meaningfully.",
+                "ID": "Habiskan hari dengan penuh makna.",
+                "ES": "Pasa el día con significado.",
+                "VI": "Hãy tận hưởng một ngày có ý nghĩa.",
+                "FR": "Passez la journée de manière significative.",
+                "NE": "अर्थपूर्ण रूपमा दिन बिताउनुहोस्।",
+                "BN": "দিনটি অর্থপূর্ণভাবে কাটান।",
+                "ZH": "让这一天过得有意义。",
+                "KO": "하루를 의미있게 보내십시오.",
+                "TL": "Gumugol ng makahulugan ang araw.",
+                "MY": "နေ့ကို အဓိပ္ပါယ်ရှိရှိ ဖြတ်သန်းပါ။",
+                "HI": "दिन को सार्थक ढंग से व्यतीत करें।",
+                "AR": "اقضي يومك بطريقة مفيدة.",
+                "FA": "روز را با معنا سپری کنید."
+            }
+        },
+        {
+            "kanji": "平和な日々を過ごす。",
+            "furigana": "平和(へいわ)な日々(ひび)を過(すご)す。",
+            "translations": {
+                "EN": "Spend peaceful days.",
+                "ID": "Habiskan hari-hari dengan damai.",
+                "ES": "Pasa unos días tranquilos.",
+                "VI": "Hãy tận hưởng những ngày bình yên.",
+                "FR": "Passez des journées paisibles.",
+                "NE": "शान्त दिनहरू बिताउनुहोस्।",
+                "BN": "শান্তিতে দিন কাটাও।",
+                "ZH": "度过平静的日子。",
+                "KO": "평화로운 날들을 보내십시오.",
+                "TL": "Gumugol ng mapayapang araw.",
+                "MY": "သာယာသောနေ့ရက်များကိုဖြတ်သန်းပါ။",
+                "HI": "शांतिपूर्ण दिन बिताएँ.",
+                "AR": "اقضي أيامًا هادئة.",
+                "FA": "روزهای آرامی را سپری کنید."
+            }
+        },
+        {
+            "kanji": "どう過ごすか考える。",
+            "furigana": "どう過(すご)すか考(かんが)える。",
+            "translations": {
+                "EN": "Think about how you will spend your time.",
+                "ID": "Pikirkan tentang bagaimana Anda akan menghabiskan waktu Anda.",
+                "ES": "Piensa en cómo vas a emplear tu tiempo.",
+                "VI": "Hãy nghĩ về cách bạn sẽ sử dụng thời gian của mình.",
+                "FR": "Pensez à la façon dont vous allez passer votre temps.",
+                "NE": "तपाईं आफ्नो समय कसरी बिताउनुहुन्छ भनेर सोच्नुहोस्।",
+                "BN": "তুমি কীভাবে তোমার সময় কাটাবে তা ভেবে দেখো।",
+                "ZH": "想想你将如何度过你的时间。",
+                "KO": "어떻게 보내는지 생각한다.",
+                "TL": "Isipin kung paano mo gugugol ang iyong oras.",
+                "MY": "မင်းရဲ့အချိန်တွေကို ဘယ်လိုကုန်ဆုံးမလဲဆိုတာ စဉ်းစားပါ။",
+                "HI": "इस बारे में सोचें कि आप अपना समय कैसे व्यतीत करेंगे।",
+                "AR": "فكر في كيفية قضاء وقتك.",
+                "FA": "به این فکر کنید که چگونه وقت خود را خواهید گذراند."
+            }
+        },
+        {
+            "kanji": "友人と静かに過ごす。",
+            "furigana": "友人(ゆうじん)と静(しず)かに過(すご)す。",
+            "translations": {
+                "EN": "Quiet time with friends.",
+                "ID": "Waktu tenang bersama teman.",
+                "ES": "Momento tranquilo con amigos.",
+                "VI": "Thời gian yên tĩnh cùng bạn bè.",
+                "FR": "Moment de calme entre amis.",
+                "NE": "साथीहरूसँग शान्त समय बिताउँछु।",
+                "BN": "বন্ধুদের সাথে নিরিবিলি সময় কাটানো।",
+                "ZH": "与朋友一起度过安静的时光。",
+                "KO": "친구와 조용히 보내십시오.",
+                "TL": "Tahimik na oras kasama ang mga kaibigan.",
+                "MY": "သူငယ်ချင်းတွေနဲ့ အေးအေးဆေးဆေး အချိန်ပေးပါ။",
+                "HI": "दोस्तों के साथ शांत समय.",
+                "AR": "وقت هادئ مع الأصدقاء.",
+                "FA": "اوقاتی آرام با دوستان."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "menghabiskan (waktu)",
+            "ES": "pasar (tiempo)",
+            "VI": "dành (thời gian)",
+            "FR": "passer (du temps)",
+            "NE": "(समय) बिताउनु",
+            "BN": "(সময়) ব্যয় করা",
+            "ZH": "花费（时间）",
+            "KO": "(시간을) 보내다",
+            "TL": "gumugol (oras)",
+            "MY": "(အချိန်ဖြုန်းရန်)",
+            "HI": "समय बिताना)",
+            "AR": "قضاء (الوقت)",
+            "FA": "صرف کردن (وقت)",
+            "EN": [
+                "to spend (time)",
+                "to pass (time)",
+                "to lead (a life)",
+                "to live"
+            ]
+        },
+        {
+            "ID": "berlebihan (terutama konsumsi alkohol)",
+            "ES": "Exagerar (especialmente el consumo de alcohol)",
+            "VI": "lạm dụng (đặc biệt là uống rượu)",
+            "FR": "abuser (en particulier la consommation d'alcool)",
+            "NE": "अत्यधिक मात्रामा सेवन गर्नु (विशेष गरी मदिरा सेवन)",
+            "BN": "অতিরিক্ত পরিমাণে খাওয়া (বিশেষ করে মদ্যপান)",
+            "ZH": "过量（尤其是饮酒）",
+            "KO": "과음하다 (특히 술을 너무 많이 마신다)",
+            "TL": "labis na labis (lalo na ang pag-inom ng alak)",
+            "MY": "အလွန်အကျွံလုပ်ခြင်း (အထူးသဖြင့် အရက်သောက်ခြင်း)",
+            "HI": "अधिक मात्रा में शराब पीना (विशेषकर शराब का सेवन)",
+            "AR": "الإفراط في تناول الكحول (خاصة الكحول)",
+            "FA": "زیاده‌روی کردن (به خصوص مصرف الکل)",
+            "EN": [
+                "to overdo (especially alcohol consumption)",
+                "to drink (alcohol)",
+                "to carry too far",
+                "to carry to excess"
+            ]
+        },
+        {
+            "ID": "untuk mengurus",
+            "ES": "Cuidar de",
+            "VI": "để chăm sóc",
+            "FR": "prendre soin de",
+            "NE": "हेरचाह गर्नु",
+            "BN": "যত্ন নিতে",
+            "ZH": "照顾",
+            "KO": "돌보다",
+            "TL": "para alagaan",
+            "MY": "ဂရုစိုက်ရန်",
+            "HI": "देखभाल करना",
+            "AR": "للعناية بـ",
+            "FA": "برای مراقبت",
+            "EN": [
+                "to take care of",
+                "to support (dated usage)"
+            ]
+        },
+        {
+            "ID": "akhiran: melakukan terlalu banyak, melakukan terlalu banyak (setelah akar kata -masu)",
+            "ES": "sufijo: exagerar, hacer demasiado (después de la raíz -masu)",
+            "VI": "hậu tố: làm quá mức, làm quá nhiều (sau gốc -masu)",
+            "FR": "suffixe : exagérer, faire trop (après le radical -masu)",
+            "NE": "प्रत्यय: धेरै गर्नु, धेरै गर्नु (-मासुको मूल पछि)",
+            "BN": "প্রত্যয়: অতিরিক্ত কাজ করা, অতিরিক্ত কাজ করা (-মাসু স্তম্ভের পরে)",
+            "ZH": "后缀：过度，做得太多（在 -masu 词干之后）",
+            "KO": "접미사: 과도하게 하다, 너무 많이 하다 (-masu 어간 뒤에 붙음)",
+            "TL": "suffix: labis, gumawa ng sobra (pagkatapos ng -masu stem)",
+            "MY": "နောက်ဆက်တွဲ- အလွန်အကျွံလုပ်ရန် (-masu ပင်စည်ပြီးနောက်)",
+            "HI": "प्रत्यय: अति करना, बहुत अधिक करना (-मासु स्टेम के बाद)",
+            "AR": "اللاحقة: المبالغة، فعل الكثير (بعد جذر -masu)",
+            "FA": "پسوند: زیاده‌روی کردن، انجام دادن کاری بیش از حد (بعد از ریشه -masu)",
+            "EN": [
+                "suffix: to overdo, to do too much (after the -masu stem)",
+                "suffix: to ... without acting on it, to ... without getting involved (after the -masu stem)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "過ごす",
+        "is_common": true,
         "tags": [
-          "Dated term"
+            "wanikani26"
         ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to overdo",
-          "to do too much"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Suffix",
-          "Godan verb with 'su' ending"
+        "japanese": [
+            {
+                "word": "過ごす",
+                "reading": "すごす"
+            },
+            {
+                "word": "過す",
+                "reading": "すごす"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [
-          "寝過ごす"
+        "senses": [
+            {
+                "english_definitions": [
+                    "to spend (time)",
+                    "to pass",
+                    "to lead (a life)",
+                    "to live"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to overdo (esp. alcohol consumption)",
+                    "to drink (alcohol)",
+                    "to carry too far",
+                    "to carry to excess"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to take care of",
+                    "to support"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Dated term"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to overdo",
+                    "to do too much"
+                ],
+                "parts_of_speech": [
+                    "Suffix",
+                    "Godan verb with 'su' ending"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "寝過ごす"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -masu stem of a verb"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to ... without acting on it",
+                    "to ... without getting involved"
+                ],
+                "parts_of_speech": [
+                    "Suffix",
+                    "Godan verb with 'su' ending"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "見過ごす"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -masu stem of a verb"
+                ]
+            }
         ],
-        "antonyms": [],
-        "source": [],
-        "info": [
-          "after the -masu stem of a verb"
-        ]
-      },
-      {
-        "english_definitions": [
-          "to ... without acting on it",
-          "to ... without getting involved"
-        ],
-        "parts_of_speech": [
-          "Suffix",
-          "Godan verb with 'su' ending"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [
-          "見過ごす"
-        ],
-        "antonyms": [],
-        "source": [],
-        "info": [
-          "after the -masu stem of a verb"
-        ]
-      }
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "過"
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "kanji_data": {
+        "過": {
+            "freq_mainichi_shinbun": 285,
+            "grade": 5,
+            "heisig_en": "overdo",
+            "jlpt": 3,
+            "kanji": "過",
+            "kun_readings": [
+                "あやま.ち",
+                "あやま.つ",
+                "す.ぎる",
+                "す.ごす",
+                "よ.ぎる",
+                "よぎ.る"
+            ],
+            "meanings": [
+                "error",
+                "exceed",
+                "go beyond",
+                "overdo"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カ"
+            ],
+            "stroke_count": 12,
+            "unicode": "904E"
+        }
     }
-  },
-  "kanji_list": [
-    "過"
-  ],
-  "kanji_data": {
-    "過": {
-      "freq_mainichi_shinbun": 285,
-      "grade": 5,
-      "heisig_en": "overdo",
-      "jlpt": 3,
-      "kanji": "過",
-      "kun_readings": [
-        "あやま.ち",
-        "あやま.つ",
-        "す.ぎる",
-        "す.ごす",
-        "よ.ぎる",
-        "よぎ.る"
-      ],
-      "meanings": [
-        "error",
-        "exceed",
-        "go beyond",
-        "overdo"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "カ"
-      ],
-      "stroke_count": 12,
-      "unicode": "904E"
-    }
-  }
 }

@@ -1,536 +1,538 @@
 {
-  "version": "0.3.0",
-  "word": "計算",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/JZYAHRNCSuI",
-  "in_db": true,
-  "kanji": "計算",
-  "reading": "けいさん",
-  "introduction_japanese": "「計算」は、数字を扱うときや値段・面積・税などを出すとき、または何かを見積もる・考慮する場面でよく使われる言葉です。日常の買い物や学校の数学、仕事の経理や見積もりで出てきます。",
-  "introduction_english": "The noun けいさん is commonly used when dealing with numbers, finding amounts like prices or areas, and when estimating or making calculations. You see it in everyday shopping, school math, accounting at work, and when estimating.",
-  "meanings": [
-    [
-      "calculation",
-      "computation",
-      "reckoning",
-      "counting",
-      "adding up",
-      "working out",
-      "figures"
+    "version": "0.3.0",
+    "word": "計算",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/JZYAHRNCSuI",
+    "in_db": true,
+    "kanji": "計算",
+    "reading": "けいさん",
+    "introduction_japanese": "「計算」は、数字を扱うときや値段・面積・税などを出すとき、または何かを見積もる・考慮する場面でよく使われる言葉です。日常の買い物や学校の数学、仕事の経理や見積もりで出てきます。",
+    "introduction_english": "The noun けいさん is commonly used when dealing with numbers, finding amounts like prices or areas, and when estimating or making calculations. You see it in everyday shopping, school math, accounting at work, and when estimating.",
+    "meanings": [
+        [
+            "calculation",
+            "computation",
+            "reckoning",
+            "counting",
+            "adding up",
+            "working out",
+            "figures"
+        ],
+        [
+            "consideration",
+            "estimation",
+            "expectation"
+        ]
     ],
-    [
-      "consideration",
-      "estimation",
-      "expectation"
-    ]
-  ],
-  "meaning_explanation_japanese": "「計算」は、数字を使って答えを出すこと（足し算や掛け算など）や、費用や面積などを見積もる・考えることを表す言葉です。日常でも仕事でもよく使います。",
-  "meaning_explanation_english": "The word けいさん means doing math to get an answer (like adding or multiplying) and also thinking about or estimating amounts such as costs or areas. You use it in everyday and work situations.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "計",
-      "meanings": [
-        "measure",
-        "plan",
-        "plot",
-        "scheme"
-      ],
-      "on_readings": [
-        "ケイ"
-      ],
-      "kun_readings": [
-        "はか.らう",
-        "はか.る"
-      ],
-      "common_words": [
-        "計画 (けいかく): plan, project",
-        "時計 (とけい): clock, watch"
-      ]
-    },
-    {
-      "kanji": "算",
-      "meanings": [
-        "abacus",
-        "calculate",
-        "divining",
-        "number",
-        "probability"
-      ],
-      "on_readings": [
-        "サン"
-      ],
-      "kun_readings": [
-        "そろ"
-      ],
-      "common_words": [
-        "算数 (さんすう): arithmetic, math for children",
-        "算出 (さんしゅつ): calculation, computing a result"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means a plan or measure. It often shows up when you talk about planning or measuring, like in けいかく which is a plan, and in とけい which tells time, so the idea of measuring or planning carries into those words. The second kanji means calculating or numbers. You see it in そろばん which is the abacus and in さんしゅつ which means producing a numerical result, so this kanji gives a sense of computing or getting numbers.",
-  "synonyms": [
-    "算出 : さんしゅつ : calculation, computing"
-  ],
-  "synonym_explanation": "The most common synonym of the けいさん is さんしゅつ. さんしゅつ refers to producing a numerical result and is often used in formal or business contexts; it overlaps with けいさん when you talk about getting numbers but sounds a bit more official.",
-  "antonyms": [],
-  "antonym_explanation": "No common antonyms found.",
-  "collocations": [
-    {
-      "kanji": "数字を計算する",
-      "furigana": "数字を計算する",
-      "translations": {}
-    },
-    {
-      "kanji": "面積を計算する",
-      "furigana": "面積を計算する",
-      "translations": {}
-    },
-    {
-      "kanji": "金額を計算する",
-      "furigana": "金額を計算する",
-      "translations": {}
-    },
-    {
-      "kanji": "税金を計算する",
-      "furigana": "税金を計算する",
-      "translations": {}
-    },
-    {
-      "kanji": "利益を計算する",
-      "furigana": "利益を計算する",
-      "translations": {}
-    },
-    {
-      "kanji": "電卓の計算",
-      "furigana": "電卓の計算",
-      "translations": {}
-    },
-    {
-      "kanji": "パソコンの計算",
-      "furigana": "パソコンの計算",
-      "translations": {}
-    },
-    {
-      "kanji": "数学の計算",
-      "furigana": "数学の計算",
-      "translations": {}
-    },
-    {
-      "kanji": "機械の計算",
-      "furigana": "機械の計算",
-      "translations": {}
-    },
-    {
-      "kanji": "複雑な計算",
-      "furigana": "複雑な計算",
-      "translations": {}
-    },
-    {
-      "kanji": "正確な計算",
-      "furigana": "正確な計算",
-      "translations": {}
-    },
-    {
-      "kanji": "簡単な計算",
-      "furigana": "簡単な計算",
-      "translations": {}
-    },
-    {
-      "kanji": "大まかな計算",
-      "furigana": "大まかな計算",
-      "translations": {}
-    },
-    {
-      "kanji": "精密な計算",
-      "furigana": "精密な計算",
-      "translations": {}
-    },
-    {
-      "kanji": "計算が合う",
-      "furigana": "計算が合う",
-      "translations": {}
-    },
-    {
-      "kanji": "計算が合わない",
-      "furigana": "計算が合わない",
-      "translations": {}
-    },
-    {
-      "kanji": "計算が早い",
-      "furigana": "計算が早い",
-      "translations": {}
-    },
-    {
-      "kanji": "計算に強い",
-      "furigana": "計算に強い",
-      "translations": {}
-    },
-    {
-      "kanji": "計算に弱い",
-      "furigana": "計算に弱い",
-      "translations": {}
-    },
-    {
-      "kanji": "計算に入れる",
-      "furigana": "計算に入れる",
-      "translations": {}
-    },
-    {
-      "kanji": "計算から外す",
-      "furigana": "計算から外す",
-      "translations": {}
-    },
-    {
-      "kanji": "計算を誤る",
-      "furigana": "計算を誤る",
-      "translations": {}
-    },
-    {
-      "kanji": "計算を間違える",
-      "furigana": "計算を間違える",
-      "translations": {}
-    },
-    {
-      "kanji": "計算通りに進む",
-      "furigana": "計算通りに進む",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "数字を計算する。",
-      "furigana": "数字(すうじ)を計算(けいさん)する。",
-      "translations": {
-        "EN": "Calculate the numbers.",
-        "ID": "Hitunglah angka-angkanya.",
-        "ES": "Calcula los números.",
-        "VI": "Tính các con số.",
-        "FR": "Calculez les nombres.",
-        "NE": "संख्याहरू गणना गर्नुहोस्।",
-        "BN": "সংখ্যাগুলো গণনা করো।",
-        "ZH": "计算数字。",
-        "KO": "숫자를 계산합니다.",
-        "TL": "Kalkulahin ang mga numero.",
-        "MY": "ဂဏန်းများကို တွက်ချက်ပါ။",
-        "HI": "संख्याओं की गणना करें.",
-        "AR": "احسب الارقام",
-        "FA": "اعداد را محاسبه کنید."
-      }
-    },
-    {
-      "kanji": "面積を計算する。",
-      "furigana": "面積(めんせき)を計算(けいさん)する。",
-      "translations": {
-        "EN": "Calculate the area.",
-        "ID": "Hitunglah luasnya.",
-        "ES": "Calcular el área.",
-        "VI": "Tính diện tích.",
-        "FR": "Calculer la surface.",
-        "NE": "क्षेत्रफल गणना गर्नुहोस्।",
-        "BN": "এলাকা গণনা করুন।",
-        "ZH": "计算面积。",
-        "KO": "면적을 계산한다.",
-        "TL": "Kalkulahin ang lugar.",
-        "MY": "ဧရိယာကိုတွက်ချက်။",
-        "HI": "क्षेत्रफल की गणना करें.",
-        "AR": "احسب المساحة.",
-        "FA": "مساحت را محاسبه کنید."
-      }
-    },
-    {
-      "kanji": "金額を計算する。",
-      "furigana": "金額(きんがく)を計算(けいさん)する。",
-      "translations": {
-        "EN": "Calculate the amount.",
-        "ID": "Hitung jumlahnya.",
-        "ES": "Calcular la cantidad.",
-        "VI": "Tính số tiền.",
-        "FR": "Calculer le montant.",
-        "NE": "रकम गणना गर्नुहोस्।",
-        "BN": "পরিমাণ গণনা করুন।",
-        "ZH": "計算金額。",
-        "KO": "금액을 계산합니다.",
-        "TL": "Kalkulahin ang halaga.",
-        "MY": "ပမာဏကို တွက်ချက်ပါ။",
-        "HI": "राशि की गणना करें.",
-        "AR": "احسب المبلغ",
-        "FA": "مقدار را محاسبه کنید."
-      }
-    },
-    {
-      "kanji": "税金を計算する。",
-      "furigana": "税金(ぜいきん)を計算(けいさん)する。",
-      "translations": {
-        "EN": "Calculate taxes.",
-        "ID": "Hitung pajak.",
-        "ES": "Calcular impuestos.",
-        "VI": "Tính thuế.",
-        "FR": "Calculer les impôts.",
-        "NE": "कर गणना गर्नुहोस्।",
-        "BN": "কর গণনা করুন।",
-        "ZH": "计算税款。",
-        "KO": "세금을 계산합니다.",
-        "TL": "Kalkulahin ang mga buwis.",
-        "MY": "အခွန်တွက်ချက်ပါ။",
-        "HI": "करों की गणना करें.",
-        "AR": "حساب الضرائب.",
-        "FA": "مالیات را محاسبه کنید."
-      }
-    },
-    {
-      "kanji": "計算が合わない。",
-      "furigana": "計算(けいさん)が合(あ)わない。",
-      "translations": {
-        "EN": "The calculations don't add up.",
-        "ID": "Perhitungannya tidak sesuai.",
-        "ES": "Los cálculos no cuadran.",
-        "VI": "Các phép tính không hợp lý.",
-        "FR": "Les calculs ne concordent pas.",
-        "NE": "हिसाब मिल्दैन।",
-        "BN": "হিসাব মিলছে না।",
-        "ZH": "这些计算结果不合理。",
-        "KO": "계산이 맞지 않습니다.",
-        "TL": "Ang mga kalkulasyon ay hindi nagdaragdag.",
-        "MY": "တွက်ချက်မှုတွေ ထပ်မတိုးပါဘူး။",
-        "HI": "गणनाएं मेल नहीं खातीं।",
-        "AR": "الحسابات لا تتطابق.",
-        "FA": "محاسبات با هم جور در نمی‌آیند."
-      }
-    },
-    {
-      "kanji": "電卓で計算する。",
-      "furigana": "電卓(でんたく)で計算(けいさん)する。",
-      "translations": {
-        "EN": "Calculate using a calculator.",
-        "ID": "Hitung menggunakan kalkulator.",
-        "ES": "Calcular utilizando una calculadora.",
-        "VI": "Tính toán bằng máy tính.",
-        "FR": "Calculer à l'aide d'une calculatrice.",
-        "NE": "क्याल्कुलेटर प्रयोग गरेर गणना गर्नुहोस्।",
-        "BN": "ক্যালকুলেটর ব্যবহার করে গণনা করুন।",
-        "ZH": "使用计算器计算。",
-        "KO": "계산기로 계산합니다.",
-        "TL": "Kalkulahin gamit ang isang calculator.",
-        "MY": "ဂဏန်းပေါင်းစက်ဖြင့် တွက်ချက်ပါ။",
-        "HI": "कैलकुलेटर का उपयोग करके गणना करें।",
-        "AR": "احسب باستخدام الآلة الحاسبة.",
-        "FA": "با استفاده از ماشین حساب محاسبه کنید."
-      }
-    },
-    {
-      "kanji": "大まかな計算で十分だ。",
-      "furigana": "大(おお)まかな計算(けいさん)で十分(じゅうぶん)だ。",
-      "translations": {
-        "EN": "A rough calculation is enough.",
-        "ID": "Perhitungan kasar saja sudah cukup.",
-        "ES": "Un cálculo aproximado es suficiente.",
-        "VI": "Chỉ cần tính toán sơ bộ là đủ.",
-        "FR": "Un calcul approximatif suffit.",
-        "NE": "एउटा मोटो हिसाब नै पर्याप्त छ।",
-        "BN": "একটা মোটামুটি হিসাবই যথেষ্ট।",
-        "ZH": "粗略计算一下就足够了。",
-        "KO": "거친 계산으로 충분하다.",
-        "TL": "Ang isang magaspang na pagkalkula ay sapat na.",
-        "MY": "အကြမ်းဖျဉ်း တွက်ချက်ရင် လုံလောက်ပါပြီ။",
-        "HI": "एक मोटा-मोटा हिसाब ही काफी है।",
-        "AR": "حساب تقريبي يكفي.",
-        "FA": "یک محاسبه سرانگشتی کافی است."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "calculation": {
-      "ID": "perhitungan",
-      "ES": "cálculo",
-      "VI": "tính toán",
-      "FR": "calcul",
-      "NE": "गणना",
-      "BN": "গণনা",
-      "ZH": "计算",
-      "KO": "계산",
-      "TL": "pagkalkula",
-      "MY": "တွက်ချက်မှု",
-      "HI": "गणना",
-      "AR": "حساب",
-      "FA": "محاسبه",
-      "EN": [
-        "computation",
-        "reckoning",
-        "counting",
-        "adding up",
-        "working out",
-        "figures"
-      ]
-    },
-    "consideration": {
-      "ID": "pertimbangan",
-      "ES": "consideración",
-      "VI": "sự cân nhắc",
-      "FR": "considération",
-      "NE": "विचार",
-      "BN": "বিবেচনা",
-      "ZH": "考虑",
-      "KO": "고려 사항",
-      "TL": "pagsasaalang-alang",
-      "MY": "ထည့်သွင်းစဉ်းစား",
-      "HI": "सोच-विचार",
-      "AR": "اعتبار",
-      "FA": "ملاحظه",
-      "EN": [
-        "estimation",
-        "expectation"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "計算",
-    "is_common": true,
-    "tags": [
-      "wanikani15"
+    "meaning_explanation_japanese": "「計算」は、数字を使って答えを出すこと（足し算や掛け算など）や、費用や面積などを見積もる・考えることを表す言葉です。日常でも仕事でもよく使います。",
+    "meaning_explanation_english": "The word けいさん means doing math to get an answer (like adding or multiplying) and also thinking about or estimating amounts such as costs or areas. You use it in everyday and work situations.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "計",
+            "meanings": [
+                "measure",
+                "plan",
+                "plot",
+                "scheme"
+            ],
+            "on_readings": [
+                "ケイ"
+            ],
+            "kun_readings": [
+                "はか.らう",
+                "はか.る"
+            ],
+            "common_words": [
+                "計画 (けいかく): plan, project",
+                "時計 (とけい): clock, watch"
+            ]
+        },
+        {
+            "kanji": "算",
+            "meanings": [
+                "abacus",
+                "calculate",
+                "divining",
+                "number",
+                "probability"
+            ],
+            "on_readings": [
+                "サン"
+            ],
+            "kun_readings": [
+                "そろ"
+            ],
+            "common_words": [
+                "算数 (さんすう): arithmetic, math for children",
+                "算出 (さんしゅつ): calculation, computing a result"
+            ]
+        }
     ],
-    "jlpt": [
-      "jlpt-n3"
+    "kanji_explanation": "The first kanji means a plan or measure. It often shows up when you talk about planning or measuring, like in けいかく which is a plan, and in とけい which tells time, so the idea of measuring or planning carries into those words. The second kanji means calculating or numbers. You see it in そろばん which is the abacus and in さんしゅつ which means producing a numerical result, so this kanji gives a sense of computing or getting numbers.",
+    "synonyms": [
+        "算出 : さんしゅつ : calculation, computing"
     ],
-    "japanese": [
-      {
-        "word": "計算",
-        "reading": "けいさん"
-      }
+    "synonym_explanation": "The most common synonym of the けいさん is さんしゅつ. さんしゅつ refers to producing a numerical result and is often used in formal or business contexts; it overlaps with けいさん when you talk about getting numbers but sounds a bit more official.",
+    "antonyms": [],
+    "antonym_explanation": "No common antonyms found.",
+    "collocations": [
+        {
+            "kanji": "数字を計算する",
+            "furigana": "数字を計算する",
+            "translations": {}
+        },
+        {
+            "kanji": "面積を計算する",
+            "furigana": "面積を計算する",
+            "translations": {}
+        },
+        {
+            "kanji": "金額を計算する",
+            "furigana": "金額を計算する",
+            "translations": {}
+        },
+        {
+            "kanji": "税金を計算する",
+            "furigana": "税金を計算する",
+            "translations": {}
+        },
+        {
+            "kanji": "利益を計算する",
+            "furigana": "利益を計算する",
+            "translations": {}
+        },
+        {
+            "kanji": "電卓の計算",
+            "furigana": "電卓の計算",
+            "translations": {}
+        },
+        {
+            "kanji": "パソコンの計算",
+            "furigana": "パソコンの計算",
+            "translations": {}
+        },
+        {
+            "kanji": "数学の計算",
+            "furigana": "数学の計算",
+            "translations": {}
+        },
+        {
+            "kanji": "機械の計算",
+            "furigana": "機械の計算",
+            "translations": {}
+        },
+        {
+            "kanji": "複雑な計算",
+            "furigana": "複雑な計算",
+            "translations": {}
+        },
+        {
+            "kanji": "正確な計算",
+            "furigana": "正確な計算",
+            "translations": {}
+        },
+        {
+            "kanji": "簡単な計算",
+            "furigana": "簡単な計算",
+            "translations": {}
+        },
+        {
+            "kanji": "大まかな計算",
+            "furigana": "大まかな計算",
+            "translations": {}
+        },
+        {
+            "kanji": "精密な計算",
+            "furigana": "精密な計算",
+            "translations": {}
+        },
+        {
+            "kanji": "計算が合う",
+            "furigana": "計算が合う",
+            "translations": {}
+        },
+        {
+            "kanji": "計算が合わない",
+            "furigana": "計算が合わない",
+            "translations": {}
+        },
+        {
+            "kanji": "計算が早い",
+            "furigana": "計算が早い",
+            "translations": {}
+        },
+        {
+            "kanji": "計算に強い",
+            "furigana": "計算に強い",
+            "translations": {}
+        },
+        {
+            "kanji": "計算に弱い",
+            "furigana": "計算に弱い",
+            "translations": {}
+        },
+        {
+            "kanji": "計算に入れる",
+            "furigana": "計算に入れる",
+            "translations": {}
+        },
+        {
+            "kanji": "計算から外す",
+            "furigana": "計算から外す",
+            "translations": {}
+        },
+        {
+            "kanji": "計算を誤る",
+            "furigana": "計算を誤る",
+            "translations": {}
+        },
+        {
+            "kanji": "計算を間違える",
+            "furigana": "計算を間違える",
+            "translations": {}
+        },
+        {
+            "kanji": "計算通りに進む",
+            "furigana": "計算通りに進む",
+            "translations": {}
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "calculation",
-          "computation",
-          "reckoning",
-          "counting",
-          "adding up",
-          "working out",
-          "figures"
-        ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "consideration",
-          "calculation",
-          "estimation",
-          "expectation"
-        ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "Calculation"
-        ],
-        "parts_of_speech": [
-          "Wikipedia definition"
-        ],
-        "links": [
-          {
-            "text": "Read “Calculation” on English Wikipedia",
-            "url": "http://en.wikipedia.org/wiki/Calculation?oldid=487197936"
-          },
-          {
-            "text": "Read “計算” on Japanese Wikipedia",
-            "url": "http://ja.wikipedia.org/wiki/計算?oldid=42069636"
-          }
-        ],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [],
-        "sentences": []
-      }
+    "example_sentences": [
+        {
+            "kanji": "数字を計算する。",
+            "furigana": "数字(すうじ)を計算(けいさん)する。",
+            "translations": {
+                "EN": "Calculate the numbers.",
+                "ID": "Hitunglah angka-angkanya.",
+                "ES": "Calcula los números.",
+                "VI": "Tính các con số.",
+                "FR": "Calculez les nombres.",
+                "NE": "संख्याहरू गणना गर्नुहोस्।",
+                "BN": "সংখ্যাগুলো গণনা করো।",
+                "ZH": "计算数字。",
+                "KO": "숫자를 계산합니다.",
+                "TL": "Kalkulahin ang mga numero.",
+                "MY": "ဂဏန်းများကို တွက်ချက်ပါ။",
+                "HI": "संख्याओं की गणना करें.",
+                "AR": "احسب الارقام",
+                "FA": "اعداد را محاسبه کنید."
+            }
+        },
+        {
+            "kanji": "面積を計算する。",
+            "furigana": "面積(めんせき)を計算(けいさん)する。",
+            "translations": {
+                "EN": "Calculate the area.",
+                "ID": "Hitunglah luasnya.",
+                "ES": "Calcular el área.",
+                "VI": "Tính diện tích.",
+                "FR": "Calculer la surface.",
+                "NE": "क्षेत्रफल गणना गर्नुहोस्।",
+                "BN": "এলাকা গণনা করুন।",
+                "ZH": "计算面积。",
+                "KO": "면적을 계산한다.",
+                "TL": "Kalkulahin ang lugar.",
+                "MY": "ဧရိယာကိုတွက်ချက်။",
+                "HI": "क्षेत्रफल की गणना करें.",
+                "AR": "احسب المساحة.",
+                "FA": "مساحت را محاسبه کنید."
+            }
+        },
+        {
+            "kanji": "金額を計算する。",
+            "furigana": "金額(きんがく)を計算(けいさん)する。",
+            "translations": {
+                "EN": "Calculate the amount.",
+                "ID": "Hitung jumlahnya.",
+                "ES": "Calcular la cantidad.",
+                "VI": "Tính số tiền.",
+                "FR": "Calculer le montant.",
+                "NE": "रकम गणना गर्नुहोस्।",
+                "BN": "পরিমাণ গণনা করুন।",
+                "ZH": "計算金額。",
+                "KO": "금액을 계산합니다.",
+                "TL": "Kalkulahin ang halaga.",
+                "MY": "ပမာဏကို တွက်ချက်ပါ။",
+                "HI": "राशि की गणना करें.",
+                "AR": "احسب المبلغ",
+                "FA": "مقدار را محاسبه کنید."
+            }
+        },
+        {
+            "kanji": "税金を計算する。",
+            "furigana": "税金(ぜいきん)を計算(けいさん)する。",
+            "translations": {
+                "EN": "Calculate taxes.",
+                "ID": "Hitung pajak.",
+                "ES": "Calcular impuestos.",
+                "VI": "Tính thuế.",
+                "FR": "Calculer les impôts.",
+                "NE": "कर गणना गर्नुहोस्।",
+                "BN": "কর গণনা করুন।",
+                "ZH": "计算税款。",
+                "KO": "세금을 계산합니다.",
+                "TL": "Kalkulahin ang mga buwis.",
+                "MY": "အခွန်တွက်ချက်ပါ။",
+                "HI": "करों की गणना करें.",
+                "AR": "حساب الضرائب.",
+                "FA": "مالیات را محاسبه کنید."
+            }
+        },
+        {
+            "kanji": "計算が合わない。",
+            "furigana": "計算(けいさん)が合(あ)わない。",
+            "translations": {
+                "EN": "The calculations don't add up.",
+                "ID": "Perhitungannya tidak sesuai.",
+                "ES": "Los cálculos no cuadran.",
+                "VI": "Các phép tính không hợp lý.",
+                "FR": "Les calculs ne concordent pas.",
+                "NE": "हिसाब मिल्दैन।",
+                "BN": "হিসাব মিলছে না।",
+                "ZH": "这些计算结果不合理。",
+                "KO": "계산이 맞지 않습니다.",
+                "TL": "Ang mga kalkulasyon ay hindi nagdaragdag.",
+                "MY": "တွက်ချက်မှုတွေ ထပ်မတိုးပါဘူး။",
+                "HI": "गणनाएं मेल नहीं खातीं।",
+                "AR": "الحسابات لا تتطابق.",
+                "FA": "محاسبات با هم جور در نمی‌آیند."
+            }
+        },
+        {
+            "kanji": "電卓で計算する。",
+            "furigana": "電卓(でんたく)で計算(けいさん)する。",
+            "translations": {
+                "EN": "Calculate using a calculator.",
+                "ID": "Hitung menggunakan kalkulator.",
+                "ES": "Calcular utilizando una calculadora.",
+                "VI": "Tính toán bằng máy tính.",
+                "FR": "Calculer à l'aide d'une calculatrice.",
+                "NE": "क्याल्कुलेटर प्रयोग गरेर गणना गर्नुहोस्।",
+                "BN": "ক্যালকুলেটর ব্যবহার করে গণনা করুন।",
+                "ZH": "使用计算器计算。",
+                "KO": "계산기로 계산합니다.",
+                "TL": "Kalkulahin gamit ang isang calculator.",
+                "MY": "ဂဏန်းပေါင်းစက်ဖြင့် တွက်ချက်ပါ။",
+                "HI": "कैलकुलेटर का उपयोग करके गणना करें।",
+                "AR": "احسب باستخدام الآلة الحاسبة.",
+                "FA": "با استفاده از ماشین حساب محاسبه کنید."
+            }
+        },
+        {
+            "kanji": "大まかな計算で十分だ。",
+            "furigana": "大(おお)まかな計算(けいさん)で十分(じゅうぶん)だ。",
+            "translations": {
+                "EN": "A rough calculation is enough.",
+                "ID": "Perhitungan kasar saja sudah cukup.",
+                "ES": "Un cálculo aproximado es suficiente.",
+                "VI": "Chỉ cần tính toán sơ bộ là đủ.",
+                "FR": "Un calcul approximatif suffit.",
+                "NE": "एउटा मोटो हिसाब नै पर्याप्त छ।",
+                "BN": "একটা মোটামুটি হিসাবই যথেষ্ট।",
+                "ZH": "粗略计算一下就足够了。",
+                "KO": "거친 계산으로 충분하다.",
+                "TL": "Ang isang magaspang na pagkalkula ay sapat na.",
+                "MY": "အကြမ်းဖျဉ်း တွက်ချက်ရင် လုံလောက်ပါပြီ။",
+                "HI": "एक मोटा-मोटा हिसाब ही काफी है।",
+                "AR": "حساب تقريبي يكفي.",
+                "FA": "یک محاسبه سرانگشتی کافی است."
+            }
+        }
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": "http://dbpedia.org/resource/Calculation"
-    }
-  },
-  "kanji_list": [
-    "計",
-    "算"
-  ],
-  "kanji_data": {
-    "計": {
-      "freq_mainichi_shinbun": 228,
-      "grade": 2,
-      "heisig_en": "plot",
-      "jlpt": 4,
-      "kanji": "計",
-      "kun_readings": [
-        "はか.らう",
-        "はか.る"
-      ],
-      "meanings": [
-        "measure",
-        "plan",
-        "plot",
-        "scheme"
-      ],
-      "name_readings": [
-        "え",
-        "かず",
-        "け"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ケイ"
-      ],
-      "stroke_count": 9,
-      "unicode": "8A08"
+    "meanings_translations": [
+        {
+            "ID": "perhitungan",
+            "ES": "cálculo",
+            "VI": "tính toán",
+            "FR": "calcul",
+            "NE": "गणना",
+            "BN": "গণনা",
+            "ZH": "计算",
+            "KO": "계산",
+            "TL": "pagkalkula",
+            "MY": "တွက်ချက်မှု",
+            "HI": "गणना",
+            "AR": "حساب",
+            "FA": "محاسبه",
+            "EN": [
+                "calculation",
+                "computation",
+                "reckoning",
+                "counting",
+                "adding up",
+                "working out",
+                "figures"
+            ]
+        },
+        {
+            "ID": "pertimbangan",
+            "ES": "consideración",
+            "VI": "sự cân nhắc",
+            "FR": "considération",
+            "NE": "विचार",
+            "BN": "বিবেচনা",
+            "ZH": "考虑",
+            "KO": "고려 사항",
+            "TL": "pagsasaalang-alang",
+            "MY": "ထည့်သွင်းစဉ်းစား",
+            "HI": "सोच-विचार",
+            "AR": "اعتبار",
+            "FA": "ملاحظه",
+            "EN": [
+                "consideration",
+                "estimation",
+                "expectation"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "計算",
+        "is_common": true,
+        "tags": [
+            "wanikani15"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "計算",
+                "reading": "けいさん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "calculation",
+                    "computation",
+                    "reckoning",
+                    "counting",
+                    "adding up",
+                    "working out",
+                    "figures"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "consideration",
+                    "calculation",
+                    "estimation",
+                    "expectation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Calculation"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Calculation” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Calculation?oldid=487197936"
+                    },
+                    {
+                        "text": "Read “計算” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/計算?oldid=42069636"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Calculation"
+        }
     },
-    "算": {
-      "freq_mainichi_shinbun": 361,
-      "grade": 2,
-      "heisig_en": "calculate",
-      "jlpt": 2,
-      "kanji": "算",
-      "kun_readings": [
-        "そろ"
-      ],
-      "meanings": [
-        "abacus",
-        "calculate",
-        "divining",
-        "number",
-        "probability"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "サン"
-      ],
-      "stroke_count": 14,
-      "unicode": "7B97"
+    "kanji_list": [
+        "計",
+        "算"
+    ],
+    "kanji_data": {
+        "計": {
+            "freq_mainichi_shinbun": 228,
+            "grade": 2,
+            "heisig_en": "plot",
+            "jlpt": 4,
+            "kanji": "計",
+            "kun_readings": [
+                "はか.らう",
+                "はか.る"
+            ],
+            "meanings": [
+                "measure",
+                "plan",
+                "plot",
+                "scheme"
+            ],
+            "name_readings": [
+                "え",
+                "かず",
+                "け"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ケイ"
+            ],
+            "stroke_count": 9,
+            "unicode": "8A08"
+        },
+        "算": {
+            "freq_mainichi_shinbun": 361,
+            "grade": 2,
+            "heisig_en": "calculate",
+            "jlpt": 2,
+            "kanji": "算",
+            "kun_readings": [
+                "そろ"
+            ],
+            "meanings": [
+                "abacus",
+                "calculate",
+                "divining",
+                "number",
+                "probability"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "サン"
+            ],
+            "stroke_count": 14,
+            "unicode": "7B97"
+        }
     }
-  }
 }
