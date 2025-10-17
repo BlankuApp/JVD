@@ -1,493 +1,495 @@
 {
-  "version": "0.3.0",
-  "word": "命令",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/rQFCzPxA6tQ",
-  "in_db": true,
-  "kanji": "命令",
-  "reading": "めいれい",
-  "introduction_japanese": "命令は、上司や親、軍や組織などの上下関係で使う言葉です。ルールや法律、コンピューターのプログラムの話でもよく出てきます。",
-  "introduction_english": "The noun めいれい is commonly used when talking about bosses, parents, the military or organizations where someone tells others what to do. It also appears in conversations about rules, laws, and computer programs.",
-  "meanings": [
-    [
-      "order",
-      "command",
-      "decree",
-      "directive"
-    ],
-    [
-      "(software) instruction",
-      "statement",
-      "command (computing)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「命令」は誰かに何かをするように指示する言葉です。上の人が下の人に指示する場面でよく使います。コンピューターでは、プログラムに出す指示のことも言います。",
-  "meaning_explanation_english": "The word めいれい means an order or command given to someone. It is used when a person in authority tells someone else what to do. In computing, it also means an instruction given to a program.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "命",
-      "common_words": [
-        "生命 (せいめい): life",
-        "運命 (うんめい): destiny, fate"
-      ]
-    },
-    {
-      "kanji": "令",
-      "common_words": [
-        "令和 (れいわ): Reiwa (era name)",
-        "指令 (しれい): command, directive"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means life, fate, or an appointment idea and often connects to ideas about destiny or living things. For example, せいめい is used to mean life and shows the life meaning, and うんめい means destiny and shows the fate meaning. The second kanji means orders, commands, or decrees and is used in words about rules or commands. For example, れいわ is the current era name and shows the kanji in names, and しれい means an order or directive used in official situations.",
-  "synonyms": [
-    "指示 : しじ : instruction/direction"
-  ],
-  "synonym_explanation": "The most common synonym of the 命令 is しじ. しじ is more neutral and often means guidance or an instruction, while 命令 implies stronger authority or an order from above.",
-  "antonyms": [
-    "任意 : にんい : optional/voluntary"
-  ],
-  "antonym_explanation": "The most common antonym of the 命令 is にんい. にんい means optional or voluntary and contrasts with 命令 because it is not compulsory or ordered.",
-  "collocations": [
-    {
-      "kanji": "命令を出す",
-      "furigana": "命令を出す",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を受ける",
-      "furigana": "命令を受ける",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を下す",
-      "furigana": "命令を下す",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を伝える",
-      "furigana": "命令を伝える",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を守る",
-      "furigana": "命令を守る",
-      "translations": {}
-    },
-    {
-      "kanji": "強い命令を出す",
-      "furigana": "強い命令を出す",
-      "translations": {}
-    },
-    {
-      "kanji": "強い命令を下す",
-      "furigana": "強い命令を下す",
-      "translations": {}
-    },
-    {
-      "kanji": "上からの命令",
-      "furigana": "上からの命令",
-      "translations": {}
-    },
-    {
-      "kanji": "不当な命令",
-      "furigana": "不当な命令",
-      "translations": {}
-    },
-    {
-      "kanji": "違法な命令",
-      "furigana": "違法な命令",
-      "translations": {}
-    },
-    {
-      "kanji": "命令権を持つ",
-      "furigana": "命令権を持つ",
-      "translations": {}
-    },
-    {
-      "kanji": "上司の命令",
-      "furigana": "上司の命令",
-      "translations": {}
-    },
-    {
-      "kanji": "親の命令",
-      "furigana": "親の命令",
-      "translations": {}
-    },
-    {
-      "kanji": "規則の命令",
-      "furigana": "規則の命令",
-      "translations": {}
-    },
-    {
-      "kanji": "軍の命令",
-      "furigana": "軍の命令",
-      "translations": {}
-    },
-    {
-      "kanji": "組織の命令",
-      "furigana": "組織の命令",
-      "translations": {}
-    },
-    {
-      "kanji": "命令による処分",
-      "furigana": "命令による処分",
-      "translations": {}
-    },
-    {
-      "kanji": "命令によって実行される",
-      "furigana": "命令によって実行される",
-      "translations": {}
-    },
-    {
-      "kanji": "命令による混乱",
-      "furigana": "命令による混乱",
-      "translations": {}
-    },
-    {
-      "kanji": "命令による変更",
-      "furigana": "命令による変更",
-      "translations": {}
-    },
-    {
-      "kanji": "命令による影響",
-      "furigana": "命令による影響",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を遵守する",
-      "furigana": "命令を遵守する",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を改訂する",
-      "furigana": "命令を改訂する",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を取消す",
-      "furigana": "命令を取消す",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を強化する",
-      "furigana": "命令を強化する",
-      "translations": {}
-    },
-    {
-      "kanji": "命令を遂行する",
-      "furigana": "命令を遂行する",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "上司の命令に従う。",
-      "furigana": "上司(じょうし)の命令(めいれい)に従(したが)う。",
-      "translations": {
-        "EN": "Follow your boss' orders.",
-        "ID": "Ikuti perintah atasan Anda.",
-        "ES": "Sigue las órdenes de tu jefe.",
-        "VI": "Thực hiện theo lệnh của sếp.",
-        "FR": "Suivez les ordres de votre patron.",
-        "NE": "आफ्नो हाकिमको आदेश पालना गर्नुहोस्।",
-        "BN": "তোমার বসের আদেশ মেনে চলো।",
-        "ZH": "听从老板的命令。",
-        "KO": "상사의 명령을 따릅니다.",
-        "TL": "Sundin ang utos ng iyong boss.",
-        "MY": "မင်းရဲ့သူဌေးရဲ့အမိန့်ကိုလိုက်နာပါ။",
-        "HI": "अपने बॉस के आदेश का पालन करें.",
-        "AR": "اتبع أوامر رئيسك.",
-        "FA": "از دستورات رئیس خود پیروی کنید."
-      }
-    },
-    {
-      "kanji": "親の命令を守る。",
-      "furigana": "親(おや)の命令(めいれい)を守(まも)る。",
-      "translations": {
-        "EN": "Obey your parents' orders.",
-        "ID": "Patuhi perintah orang tuamu.",
-        "ES": "Obedece las órdenes de tus padres.",
-        "VI": "Tuân theo lệnh của cha mẹ.",
-        "FR": "Obéis aux ordres de tes parents.",
-        "NE": "आमाबाबुको आज्ञा पालन गर।",
-        "BN": "তোমার বাবা-মায়ের আদেশ মেনে চলো।",
-        "ZH": "听从父母的命令。",
-        "KO": "부모의 명령을 지킨다.",
-        "TL": "Sundin ang utos ng iyong mga magulang.",
-        "MY": "မိဘတွေရဲ့ အမိန့်ကို နာခံပါ။",
-        "HI": "अपने माता-पिता की आज्ञा का पालन करें।",
-        "AR": "أطيع أوامر والديك.",
-        "FA": "از دستورات والدین خود اطاعت کنید."
-      }
-    },
-    {
-      "kanji": "コンピューターの命令を実行する。",
-      "furigana": "コンピューターの命令(めいれい)を実行(じっこう)する。",
-      "translations": {
-        "EN": "Carry out computer instructions.",
-        "ID": "Melaksanakan instruksi komputer.",
-        "ES": "Ejecutar instrucciones de la computadora.",
-        "VI": "Thực hiện theo hướng dẫn của máy tính.",
-        "FR": "Exécuter les instructions informatiques.",
-        "NE": "कम्प्युटर निर्देशनहरू पालना गर्नुहोस्।",
-        "BN": "কম্পিউটারের নির্দেশাবলী পালন করুন।",
-        "ZH": "执行计算机指令。",
-        "KO": "컴퓨터 명령을 실행합니다.",
-        "TL": "Isagawa ang mga tagubilin sa computer.",
-        "MY": "ကွန်ပြူတာ ညွှန်ကြားချက်များကို လိုက်နာပါ။",
-        "HI": "कंप्यूटर निर्देशों का पालन करें.",
-        "AR": "تنفيذ تعليمات الكمبيوتر.",
-        "FA": "دستورالعمل‌های کامپیوتری را اجرا کنید."
-      }
-    },
-    {
-      "kanji": "不当な命令は断る。",
-      "furigana": "不当(ふとう)な命令(めいれい)は断(ことわ)る。",
-      "translations": {
-        "EN": "Refuse unjust orders.",
-        "ID": "Tolak perintah yang tidak adil.",
-        "ES": "Rechazar órdenes injustas.",
-        "VI": "Từ chối những mệnh lệnh bất công.",
-        "FR": "Refusez les ordres injustes.",
-        "NE": "अन्यायपूर्ण आदेशहरू अस्वीकार गर्नुहोस्।",
-        "BN": "অন্যায্য আদেশ প্রত্যাখ্যান করুন।",
-        "ZH": "拒绝不公正的命令。",
-        "KO": "부당한 명령은 사절한다.",
-        "TL": "Tanggihan ang hindi makatarungang mga utos.",
-        "MY": "မတရားတဲ့ အမိန့်တွေကို ငြင်းဆန်ပါ။",
-        "HI": "अन्यायपूर्ण आदेशों को अस्वीकार करें।",
-        "AR": "رفض الأوامر الجائرة.",
-        "FA": "از دستورات ناعادلانه سر باز بزنید."
-      }
-    },
-    {
-      "kanji": "命令を出すのは上司です。",
-      "furigana": "命令(めいれい)を出(だ)すのは上司(じょうし)です。",
-      "translations": {
-        "EN": "It is the boss who gives the orders.",
-        "ID": "Boslah yang memberi perintah.",
-        "ES": "Es el jefe quien da las ordenes.",
-        "VI": "Người ra lệnh là ông chủ.",
-        "FR": "C'est le patron qui donne les ordres.",
-        "NE": "आदेश दिने भनेको हाकिमले नै हो।",
-        "BN": "বসই আদেশ দেন।",
-        "ZH": "发号施令的是老板。",
-        "KO": "명령을 내리는 것은 상사입니다.",
-        "TL": "Ang boss ang nagbibigay ng utos.",
-        "MY": "အမိန့်ပေးသော သူဌေးဖြစ်သည်။",
-        "HI": "यह बॉस ही है जो आदेश देता है।",
-        "AR": "الرئيس هو الذي يعطي الأوامر",
-        "FA": "این رئیس است که دستور می‌دهد."
-      }
-    },
-    {
-      "kanji": "命令を取消す。",
-      "furigana": "命令(めいれい)を取(と)り消(け)す。",
-      "translations": {
-        "EN": "Cancel the order.",
-        "ID": "Batalkan pesanan.",
-        "ES": "Cancelar el pedido.",
-        "VI": "Hủy đơn hàng.",
-        "FR": "Annuler la commande.",
-        "NE": "अर्डर रद्द गर्नुहोस्।",
-        "BN": "অর্ডার বাতিল করুন।",
-        "ZH": "取消订单。",
-        "KO": "명령을 취소합니다.",
-        "TL": "Kanselahin ang order.",
-        "MY": "အမိန့်ကို ပယ်ဖျက်ပါ။",
-        "HI": "आदेश रद्द करें.",
-        "AR": "إلغاء الطلب.",
-        "FA": "سفارش را لغو کنید."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "order": {
-      "ID": "memesan",
-      "ES": "orden",
-      "VI": "đặt hàng",
-      "FR": "commande",
-      "NE": "अर्डर गर्नुहोस्",
-      "BN": "অর্ডার",
-      "ZH": "命令",
-      "KO": "주문하다",
-      "TL": "utos",
-      "MY": "အမိန့်",
-      "HI": "आदेश",
-      "AR": "طلب",
-      "FA": "سفارش",
-      "EN": [
-        "command",
-        "decree",
-        "directive"
-      ]
-    },
-    "(software) instruction": {
-      "ID": "instruksi (perangkat lunak)",
-      "ES": "instrucción (de software)",
-      "VI": "hướng dẫn (phần mềm)",
-      "FR": "instructions (logicielles)",
-      "NE": "(सफ्टवेयर) निर्देशन",
-      "BN": "(সফ্টওয়্যার) নির্দেশনা",
-      "ZH": "（软件）指令",
-      "KO": "(소프트웨어) 지침",
-      "TL": "(software) pagtuturo",
-      "MY": "(ဆော့ဖ်ဝဲ) ညွှန်ကြားချက်",
-      "HI": "(सॉफ्टवेयर) निर्देश",
-      "AR": "تعليمات (البرمجيات)",
-      "FA": "(نرم‌افزار) دستورالعمل",
-      "EN": [
-        "statement",
-        "command (computing)"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "命令",
-    "is_common": true,
-    "tags": [
-      "wanikani11"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "命令",
-        "reading": "めいれい"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "order",
-          "command",
-          "decree",
-          "directive"
+    "version": "0.3.0",
+    "word": "命令",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/rQFCzPxA6tQ",
+    "in_db": true,
+    "kanji": "命令",
+    "reading": "めいれい",
+    "introduction_japanese": "命令は、上司や親、軍や組織などの上下関係で使う言葉です。ルールや法律、コンピューターのプログラムの話でもよく出てきます。",
+    "introduction_english": "The noun めいれい is commonly used when talking about bosses, parents, the military or organizations where someone tells others what to do. It also appears in conversations about rules, laws, and computer programs.",
+    "meanings": [
+        [
+            "order",
+            "command",
+            "decree",
+            "directive"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "(software) instruction",
-          "statement"
-        ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
-        ],
-        "links": [],
+        [
+            "(software) instruction",
+            "statement",
+            "command (computing)"
+        ]
+    ],
+    "meaning_explanation_japanese": "「命令」は誰かに何かをするように指示する言葉です。上の人が下の人に指示する場面でよく使います。コンピューターでは、プログラムに出す指示のことも言います。",
+    "meaning_explanation_english": "The word めいれい means an order or command given to someone. It is used when a person in authority tells someone else what to do. In computing, it also means an instruction given to a program.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "命",
+            "common_words": [
+                "生命 (せいめい): life",
+                "運命 (うんめい): destiny, fate"
+            ]
+        },
+        {
+            "kanji": "令",
+            "common_words": [
+                "令和 (れいわ): Reiwa (era name)",
+                "指令 (しれい): command, directive"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means life, fate, or an appointment idea and often connects to ideas about destiny or living things. For example, せいめい is used to mean life and shows the life meaning, and うんめい means destiny and shows the fate meaning. The second kanji means orders, commands, or decrees and is used in words about rules or commands. For example, れいわ is the current era name and shows the kanji in names, and しれい means an order or directive used in official situations.",
+    "synonyms": [
+        "指示 : しじ : instruction/direction"
+    ],
+    "synonym_explanation": "The most common synonym of the 命令 is しじ. しじ is more neutral and often means guidance or an instruction, while 命令 implies stronger authority or an order from above.",
+    "antonyms": [
+        "任意 : にんい : optional/voluntary"
+    ],
+    "antonym_explanation": "The most common antonym of the 命令 is にんい. にんい means optional or voluntary and contrasts with 命令 because it is not compulsory or ordered.",
+    "collocations": [
+        {
+            "kanji": "命令を出す",
+            "furigana": "命令を出す",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を受ける",
+            "furigana": "命令を受ける",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を下す",
+            "furigana": "命令を下す",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を伝える",
+            "furigana": "命令を伝える",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を守る",
+            "furigana": "命令を守る",
+            "translations": {}
+        },
+        {
+            "kanji": "強い命令を出す",
+            "furigana": "強い命令を出す",
+            "translations": {}
+        },
+        {
+            "kanji": "強い命令を下す",
+            "furigana": "強い命令を下す",
+            "translations": {}
+        },
+        {
+            "kanji": "上からの命令",
+            "furigana": "上からの命令",
+            "translations": {}
+        },
+        {
+            "kanji": "不当な命令",
+            "furigana": "不当な命令",
+            "translations": {}
+        },
+        {
+            "kanji": "違法な命令",
+            "furigana": "違法な命令",
+            "translations": {}
+        },
+        {
+            "kanji": "命令権を持つ",
+            "furigana": "命令権を持つ",
+            "translations": {}
+        },
+        {
+            "kanji": "上司の命令",
+            "furigana": "上司の命令",
+            "translations": {}
+        },
+        {
+            "kanji": "親の命令",
+            "furigana": "親の命令",
+            "translations": {}
+        },
+        {
+            "kanji": "規則の命令",
+            "furigana": "規則の命令",
+            "translations": {}
+        },
+        {
+            "kanji": "軍の命令",
+            "furigana": "軍の命令",
+            "translations": {}
+        },
+        {
+            "kanji": "組織の命令",
+            "furigana": "組織の命令",
+            "translations": {}
+        },
+        {
+            "kanji": "命令による処分",
+            "furigana": "命令による処分",
+            "translations": {}
+        },
+        {
+            "kanji": "命令によって実行される",
+            "furigana": "命令によって実行される",
+            "translations": {}
+        },
+        {
+            "kanji": "命令による混乱",
+            "furigana": "命令による混乱",
+            "translations": {}
+        },
+        {
+            "kanji": "命令による変更",
+            "furigana": "命令による変更",
+            "translations": {}
+        },
+        {
+            "kanji": "命令による影響",
+            "furigana": "命令による影響",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を遵守する",
+            "furigana": "命令を遵守する",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を改訂する",
+            "furigana": "命令を改訂する",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を取消す",
+            "furigana": "命令を取消す",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を強化する",
+            "furigana": "命令を強化する",
+            "translations": {}
+        },
+        {
+            "kanji": "命令を遂行する",
+            "furigana": "命令を遂行する",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "上司の命令に従う。",
+            "furigana": "上司(じょうし)の命令(めいれい)に従(したが)う。",
+            "translations": {
+                "EN": "Follow your boss' orders.",
+                "ID": "Ikuti perintah atasan Anda.",
+                "ES": "Sigue las órdenes de tu jefe.",
+                "VI": "Thực hiện theo lệnh của sếp.",
+                "FR": "Suivez les ordres de votre patron.",
+                "NE": "आफ्नो हाकिमको आदेश पालना गर्नुहोस्।",
+                "BN": "তোমার বসের আদেশ মেনে চলো।",
+                "ZH": "听从老板的命令。",
+                "KO": "상사의 명령을 따릅니다.",
+                "TL": "Sundin ang utos ng iyong boss.",
+                "MY": "မင်းရဲ့သူဌေးရဲ့အမိန့်ကိုလိုက်နာပါ။",
+                "HI": "अपने बॉस के आदेश का पालन करें.",
+                "AR": "اتبع أوامر رئيسك.",
+                "FA": "از دستورات رئیس خود پیروی کنید."
+            }
+        },
+        {
+            "kanji": "親の命令を守る。",
+            "furigana": "親(おや)の命令(めいれい)を守(まも)る。",
+            "translations": {
+                "EN": "Obey your parents' orders.",
+                "ID": "Patuhi perintah orang tuamu.",
+                "ES": "Obedece las órdenes de tus padres.",
+                "VI": "Tuân theo lệnh của cha mẹ.",
+                "FR": "Obéis aux ordres de tes parents.",
+                "NE": "आमाबाबुको आज्ञा पालन गर।",
+                "BN": "তোমার বাবা-মায়ের আদেশ মেনে চলো।",
+                "ZH": "听从父母的命令。",
+                "KO": "부모의 명령을 지킨다.",
+                "TL": "Sundin ang utos ng iyong mga magulang.",
+                "MY": "မိဘတွေရဲ့ အမိန့်ကို နာခံပါ။",
+                "HI": "अपने माता-पिता की आज्ञा का पालन करें।",
+                "AR": "أطيع أوامر والديك.",
+                "FA": "از دستورات والدین خود اطاعت کنید."
+            }
+        },
+        {
+            "kanji": "コンピューターの命令を実行する。",
+            "furigana": "コンピューターの命令(めいれい)を実行(じっこう)する。",
+            "translations": {
+                "EN": "Carry out computer instructions.",
+                "ID": "Melaksanakan instruksi komputer.",
+                "ES": "Ejecutar instrucciones de la computadora.",
+                "VI": "Thực hiện theo hướng dẫn của máy tính.",
+                "FR": "Exécuter les instructions informatiques.",
+                "NE": "कम्प्युटर निर्देशनहरू पालना गर्नुहोस्।",
+                "BN": "কম্পিউটারের নির্দেশাবলী পালন করুন।",
+                "ZH": "执行计算机指令。",
+                "KO": "컴퓨터 명령을 실행합니다.",
+                "TL": "Isagawa ang mga tagubilin sa computer.",
+                "MY": "ကွန်ပြူတာ ညွှန်ကြားချက်များကို လိုက်နာပါ။",
+                "HI": "कंप्यूटर निर्देशों का पालन करें.",
+                "AR": "تنفيذ تعليمات الكمبيوتر.",
+                "FA": "دستورالعمل‌های کامپیوتری را اجرا کنید."
+            }
+        },
+        {
+            "kanji": "不当な命令は断る。",
+            "furigana": "不当(ふとう)な命令(めいれい)は断(ことわ)る。",
+            "translations": {
+                "EN": "Refuse unjust orders.",
+                "ID": "Tolak perintah yang tidak adil.",
+                "ES": "Rechazar órdenes injustas.",
+                "VI": "Từ chối những mệnh lệnh bất công.",
+                "FR": "Refusez les ordres injustes.",
+                "NE": "अन्यायपूर्ण आदेशहरू अस्वीकार गर्नुहोस्।",
+                "BN": "অন্যায্য আদেশ প্রত্যাখ্যান করুন।",
+                "ZH": "拒绝不公正的命令。",
+                "KO": "부당한 명령은 사절한다.",
+                "TL": "Tanggihan ang hindi makatarungang mga utos.",
+                "MY": "မတရားတဲ့ အမိန့်တွေကို ငြင်းဆန်ပါ။",
+                "HI": "अन्यायपूर्ण आदेशों को अस्वीकार करें।",
+                "AR": "رفض الأوامر الجائرة.",
+                "FA": "از دستورات ناعادلانه سر باز بزنید."
+            }
+        },
+        {
+            "kanji": "命令を出すのは上司です。",
+            "furigana": "命令(めいれい)を出(だ)すのは上司(じょうし)です。",
+            "translations": {
+                "EN": "It is the boss who gives the orders.",
+                "ID": "Boslah yang memberi perintah.",
+                "ES": "Es el jefe quien da las ordenes.",
+                "VI": "Người ra lệnh là ông chủ.",
+                "FR": "C'est le patron qui donne les ordres.",
+                "NE": "आदेश दिने भनेको हाकिमले नै हो।",
+                "BN": "বসই আদেশ দেন।",
+                "ZH": "发号施令的是老板。",
+                "KO": "명령을 내리는 것은 상사입니다.",
+                "TL": "Ang boss ang nagbibigay ng utos.",
+                "MY": "အမိန့်ပေးသော သူဌေးဖြစ်သည်။",
+                "HI": "यह बॉस ही है जो आदेश देता है।",
+                "AR": "الرئيس هو الذي يعطي الأوامر",
+                "FA": "این رئیس است که دستور می‌دهد."
+            }
+        },
+        {
+            "kanji": "命令を取消す。",
+            "furigana": "命令(めいれい)を取(と)り消(け)す。",
+            "translations": {
+                "EN": "Cancel the order.",
+                "ID": "Batalkan pesanan.",
+                "ES": "Cancelar el pedido.",
+                "VI": "Hủy đơn hàng.",
+                "FR": "Annuler la commande.",
+                "NE": "अर्डर रद्द गर्नुहोस्।",
+                "BN": "অর্ডার বাতিল করুন।",
+                "ZH": "取消订单。",
+                "KO": "명령을 취소합니다.",
+                "TL": "Kanselahin ang order.",
+                "MY": "အမိန့်ကို ပယ်ဖျက်ပါ။",
+                "HI": "आदेश रद्द करें.",
+                "AR": "إلغاء الطلب.",
+                "FA": "سفارش را لغو کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "memesan",
+            "ES": "orden",
+            "VI": "đặt hàng",
+            "FR": "commande",
+            "NE": "अर्डर गर्नुहोस्",
+            "BN": "অর্ডার",
+            "ZH": "命令",
+            "KO": "주문하다",
+            "TL": "utos",
+            "MY": "အမိန့်",
+            "HI": "आदेश",
+            "AR": "طلب",
+            "FA": "سفارش",
+            "EN": [
+                "order",
+                "command",
+                "decree",
+                "directive"
+            ]
+        },
+        {
+            "ID": "instruksi (perangkat lunak)",
+            "ES": "instrucción (de software)",
+            "VI": "hướng dẫn (phần mềm)",
+            "FR": "instructions (logicielles)",
+            "NE": "(सफ्टवेयर) निर्देशन",
+            "BN": "(সফ্টওয়্যার) নির্দেশনা",
+            "ZH": "（软件）指令",
+            "KO": "(소프트웨어) 지침",
+            "TL": "(software) pagtuturo",
+            "MY": "(ဆော့ဖ်ဝဲ) ညွှန်ကြားချက်",
+            "HI": "(सॉफ्टवेयर) निर्देश",
+            "AR": "تعليمات (البرمجيات)",
+            "FA": "(نرم‌افزار) دستورالعمل",
+            "EN": [
+                "(software) instruction",
+                "statement",
+                "command (computing)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "命令",
+        "is_common": true,
         "tags": [
-          "Computing"
+            "wanikani11"
         ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "Command"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Wikipedia definition"
+        "japanese": [
+            {
+                "word": "命令",
+                "reading": "めいれい"
+            }
         ],
-        "links": [
-          {
-            "text": "Read “Command” on English Wikipedia",
-            "url": "http://en.wikipedia.org/wiki/Command?oldid=486504702"
-          },
-          {
-            "text": "Read “命令” on Japanese Wikipedia",
-            "url": "http://ja.wikipedia.org/wiki/命令?oldid=42682809"
-          }
+        "senses": [
+            {
+                "english_definitions": [
+                    "order",
+                    "command",
+                    "decree",
+                    "directive"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "(software) instruction",
+                    "statement"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Computing"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Command"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Command” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Command?oldid=486504702"
+                    },
+                    {
+                        "text": "Read “命令” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/命令?oldid=42682809"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
         ],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [],
-        "sentences": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": "http://dbpedia.org/resource/Command"
-    }
-  },
-  "kanji_list": [
-    "命",
-    "令"
-  ],
-  "kanji_data": {
-    "命": {
-      "freq_mainichi_shinbun": 465,
-      "grade": 3,
-      "heisig_en": "fate",
-      "jlpt": 3,
-      "kanji": "命",
-      "kun_readings": [
-        "いのち"
-      ],
-      "meanings": [
-        "appoint",
-        "command",
-        "decree",
-        "destiny",
-        "fate",
-        "life"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "ミョウ",
-        "メイ"
-      ],
-      "stroke_count": 8,
-      "unicode": "547D"
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Command"
+        }
     },
-    "令": {
-      "freq_mainichi_shinbun": 804,
-      "grade": 4,
-      "heisig_en": "orders",
-      "jlpt": 2,
-      "kanji": "令",
-      "kun_readings": [],
-      "meanings": [
-        "command",
-        "decree",
-        "good",
-        "laws",
-        "orders"
-      ],
-      "name_readings": [
-        "のり",
-        "りょう",
-        "れ"
-      ],
-      "notes": [],
-      "on_readings": [
-        "レイ"
-      ],
-      "stroke_count": 5,
-      "unicode": "4EE4"
+    "kanji_list": [
+        "命",
+        "令"
+    ],
+    "kanji_data": {
+        "命": {
+            "freq_mainichi_shinbun": 465,
+            "grade": 3,
+            "heisig_en": "fate",
+            "jlpt": 3,
+            "kanji": "命",
+            "kun_readings": [
+                "いのち"
+            ],
+            "meanings": [
+                "appoint",
+                "command",
+                "decree",
+                "destiny",
+                "fate",
+                "life"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ミョウ",
+                "メイ"
+            ],
+            "stroke_count": 8,
+            "unicode": "547D"
+        },
+        "令": {
+            "freq_mainichi_shinbun": 804,
+            "grade": 4,
+            "heisig_en": "orders",
+            "jlpt": 2,
+            "kanji": "令",
+            "kun_readings": [],
+            "meanings": [
+                "command",
+                "decree",
+                "good",
+                "laws",
+                "orders"
+            ],
+            "name_readings": [
+                "のり",
+                "りょう",
+                "れ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "レイ"
+            ],
+            "stroke_count": 5,
+            "unicode": "4EE4"
+        }
     }
-  }
 }

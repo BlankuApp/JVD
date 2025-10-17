@@ -1,536 +1,540 @@
 {
-  "version": "0.3.0",
-  "word": "仲間",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/k7-G9_bLix8",
-  "in_db": true,
-  "kanji": "仲間",
-  "reading": "なかま",
-  "introduction_japanese": "仲間は、スポーツ、仕事、学校、ゲーム、物語や冒険の話などでよく使う名詞です。グループで活動するとき、人を集めるとき、協力や信頼について話すときに使います。",
-  "introduction_english": "The noun なかま is commonly used in conversations about sports, work, school, games, and stories or adventures. It appears when talking about group activities, recruiting people, and building trust or cooperation.",
-  "meanings": [
-    [
-      "companion",
-      "fellow",
-      "friend",
-      "mate",
-      "comrade",
-      "partner",
-      "colleague",
-      "coworker",
-      "associate"
-    ],
-    [
-      "group",
-      "company",
-      "circle",
-      "set",
-      "gang"
-    ],
-    [
-      "member of the same category (family, class)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「なかま」は、一緒に何かをする人や同じグループの人を指します。また、そのグループ自体や、同じ種類・カテゴリーに入るものにも使います。",
-  "meaning_explanation_english": "The word なかま means a person you do things with or someone in the same group. It can also mean the group itself, or a member of the same category.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "仲",
-      "common_words": [
-        "仲良し (なかよし): close friend; on good terms",
-        "仲直り (なかなおり): reconciliation; make up"
-      ]
-    },
-    {
-      "kanji": "間",
-      "common_words": [
-        "時間 (じかん): time",
-        "人間 (にんげん): human being"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means relationship or a go-between. You see it in なかなおり, about fixing a relationship after a fight. It also appears in なかよし to show a close bond. So it carries the feeling of connection. The second kanji means interval, space, or between. It shows up in じかん for time, the span between moments. It is also in まにあう meaning to be in time. It highlights gaps, timing, and spaces.",
-  "synonyms": [
-    "友達 : ともだち : friend",
-    "同僚 : どうりょう : coworker"
-  ],
-  "synonym_explanation": "The most common synonyms of the word なかま are ともだち and どうりょう. ともだちは日常の親しい人で気持ちのつながりが中心です。どうりょうは仕事の関係で、職場に限られることが多いです。どちらも近しい人ですが、なかまは同じチームや集まりの成員という感じが強いです。",
-  "antonyms": [
-    "敵 : てき : enemy"
-  ],
-  "antonym_explanation": "The most common antonym of the word なかま is てき. てきは反対の立場にいる相手で、グループの外にいる存在です。",
-  "collocations": [
-    {
-      "kanji": "仲間を増やす",
-      "furigana": "仲間を増やす",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間を募る",
-      "furigana": "仲間を募る",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間を集める",
-      "furigana": "仲間を集める",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間をつくる",
-      "furigana": "仲間をつくる",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間を信頼する",
-      "furigana": "仲間を信頼する",
-      "translations": {}
-    },
-    {
-      "kanji": "友と仲間になる",
-      "furigana": "友と仲間になる",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間と協力する",
-      "furigana": "仲間と協力する",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間と過ごす",
-      "furigana": "仲間と過ごす",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間と連携する",
-      "furigana": "仲間と連携する",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間と分かち合う",
-      "furigana": "仲間と分かち合う",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間の一人",
-      "furigana": "仲間の一人",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間意識",
-      "furigana": "仲間意識",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間関係",
-      "furigana": "仲間関係",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間外れ",
-      "furigana": "仲間外れ",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間入り",
-      "furigana": "仲間入り",
-      "translations": {}
-    },
-    {
-      "kanji": "親しい仲間",
-      "furigana": "親しい仲間",
-      "translations": {}
-    },
-    {
-      "kanji": "本当の仲間",
-      "furigana": "本当の仲間",
-      "translations": {}
-    },
-    {
-      "kanji": "心強い仲間",
-      "furigana": "心強い仲間",
-      "translations": {}
-    },
-    {
-      "kanji": "多様な仲間",
-      "furigana": "多様な仲間",
-      "translations": {}
-    },
-    {
-      "kanji": "新しい仲間",
-      "furigana": "新しい仲間",
-      "translations": {}
-    },
-    {
-      "kanji": "気軽に仲間と",
-      "furigana": "気軽に仲間と",
-      "translations": {}
-    },
-    {
-      "kanji": "一緒に仲間と",
-      "furigana": "一緒に仲間と",
-      "translations": {}
-    },
-    {
-      "kanji": "もはや仲間ではない",
-      "furigana": "もはや仲間ではない",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間として認める",
-      "furigana": "仲間として認める",
-      "translations": {}
-    },
-    {
-      "kanji": "仲間である",
-      "furigana": "仲間である",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "新しい仲間をつくる。",
-      "furigana": "新(あたら)しい仲(なか)間(ま)をつくる。",
-      "translations": {
-        "EN": "Make new friends.",
-        "ID": "Berteman baru.",
-        "ES": "Haz nuevos amigos.",
-        "VI": "Kết bạn mới.",
-        "FR": "Faites-vous de nouveaux amis.",
-        "NE": "नयाँ साथी बनाउनुहोस्।",
-        "BN": "নতুন বন্ধু বানাও.",
-        "ZH": "结交新朋友。",
-        "KO": "새로운 동료를 만든다.",
-        "TL": "Gumawa ng mga bagong kaibigan.",
-        "MY": "သူငယ်ချင်းအသစ်တွေလုပ်ပါ။",
-        "HI": "नए दोस्त बनाएँ।",
-        "AR": "تكوين صداقات جديدة.",
-        "FA": "دوستان جدید پیدا کنید."
-      }
-    },
-    {
-      "kanji": "私は仲間を信頼する。",
-      "furigana": "私(わたし)は仲(なか)間(ま)を信頼(しんらい)する。",
-      "translations": {
-        "EN": "I trust my friends.",
-        "ID": "Aku percaya teman-temanku.",
-        "ES": "Confío en mis amigos.",
-        "VI": "Tôi tin tưởng bạn bè của tôi.",
-        "FR": "Je fais confiance à mes amis.",
-        "NE": "म मेरा साथीहरूलाई विश्वास गर्छु।",
-        "BN": "আমি আমার বন্ধুদের বিশ্বাস করি।",
-        "ZH": "我相信我的朋友。",
-        "KO": "나는 동료를 신뢰한다.",
-        "TL": "May tiwala ako sa mga kaibigan ko.",
-        "MY": "ငါ့သူငယ်ချင်းတွေကို ငါယုံတယ်။",
-        "HI": "मैं अपने दोस्तों पर भरोसा करता हूं.",
-        "AR": "أنا أثق بأصدقائي.",
-        "FA": "من به دوستانم اعتماد دارم."
-      }
-    },
-    {
-      "kanji": "仲間と協力する。",
-      "furigana": "仲(なか)間(ま)と協力(きょうりょく)する。",
-      "translations": {
-        "EN": "Work together with your teammates.",
-        "ID": "Bekerja sama dengan rekan satu tim Anda.",
-        "ES": "Trabaje junto con sus compañeros de equipo.",
-        "VI": "Làm việc cùng với đồng đội của bạn.",
-        "FR": "Travaillez avec vos coéquipiers.",
-        "NE": "आफ्ना सहकर्मीहरूसँग मिलेर काम गर्नुहोस्।",
-        "BN": "আপনার সতীর্থদের সাথে একসাথে কাজ করুন।",
-        "ZH": "与你的队友一起工作。",
-        "KO": "동료와 협력한다.",
-        "TL": "Makipagtulungan sa iyong mga kasamahan sa koponan.",
-        "MY": "မင်းရဲ့အသင်းဖော်တွေနဲ့ အတူအလုပ်လုပ်ပါ။",
-        "HI": "अपने साथियों के साथ मिलकर काम करें।",
-        "AR": "العمل مع زملائك في الفريق.",
-        "FA": "با هم تیمی‌هایتان همکاری کنید."
-      }
-    },
-    {
-      "kanji": "彼は仲間外れになった。",
-      "furigana": "彼(かれ)は仲(なか)間(ま)外(はず)れになった。",
-      "translations": {
-        "EN": "He became an outcast.",
-        "ID": "Dia menjadi orang buangan.",
-        "ES": "Se convirtió en un paria.",
-        "VI": "Ông trở thành kẻ bị ruồng bỏ.",
-        "FR": "Il est devenu un paria.",
-        "NE": "उनी बहिष्कृत भए।",
-        "BN": "সে একজন বহিষ্কৃত হয়ে গেল।",
-        "ZH": "他成了被抛弃的人。",
-        "KO": "그는 동료 벗어났다.",
-        "TL": "Naging outcast siya.",
-        "MY": "သူသည် အပယ်ခံဖြစ်လာသည်။",
-        "HI": "वह बहिष्कृत हो गया।",
-        "AR": "لقد أصبح منبوذا.",
-        "FA": "او تبدیل به یک مطرود شد."
-      }
-    },
-    {
-      "kanji": "私たちは仲間を集める。",
-      "furigana": "私(わたし)たちは仲(なか)間(ま)を集(あつ)める。",
-      "translations": {
-        "EN": "We gather our friends.",
-        "ID": "Kami mengumpulkan teman-teman kami.",
-        "ES": "Reunimos a nuestros amigos.",
-        "VI": "Chúng tôi tập hợp bạn bè của mình.",
-        "FR": "Nous rassemblons nos amis.",
-        "NE": "हामी हाम्रा साथीहरूलाई भेला गर्छौं।",
-        "BN": "আমরা আমাদের বন্ধুদের জড়ো করি।",
-        "ZH": "我们召集了我们的朋友。",
-        "KO": "우리는 동료를 모은다.",
-        "TL": "Pinagsasama-sama namin ang aming mga kaibigan.",
-        "MY": "ငါတို့သူငယ်ချင်းတွေစုတယ်။",
-        "HI": "हम अपने दोस्तों को इकट्ठा करते हैं।",
-        "AR": "نحن نجمع أصدقائنا.",
-        "FA": "دوستانمان را جمع می‌کنیم."
-      }
-    },
-    {
-      "kanji": "そのチームに仲間入りした。",
-      "furigana": "そのチームに仲(なか)間(ま)入(い)りした。",
-      "translations": {
-        "EN": "I joined that team.",
-        "ID": "Saya bergabung dengan tim itu.",
-        "ES": "Me uní a ese equipo.",
-        "VI": "Tôi đã gia nhập đội đó.",
-        "FR": "J'ai rejoint cette équipe.",
-        "NE": "म त्यो टोलीमा सामेल भएँ।",
-        "BN": "আমি সেই দলে যোগ দিলাম।",
-        "ZH": "我加入了那个团队。",
-        "KO": "그 팀에 동참했다.",
-        "TL": "Sumali ako sa pangkat na iyon.",
-        "MY": "ကျွန်တော် အဲဒီအသင်းမှာ ပါဝင်ခဲ့ပါတယ်။",
-        "HI": "मैं उस टीम में शामिल हो गया.",
-        "AR": "انضممت إلى هذا الفريق.",
-        "FA": "من به آن تیم پیوستم."
-      }
-    },
-    {
-      "kanji": "私は仲間の一人です。",
-      "furigana": "私(わたし)は仲(なか)間(ま)の一(ひと)人(り)です。",
-      "translations": {
-        "EN": "I am one of the guys.",
-        "ID": "Saya salah satu orangnya.",
-        "ES": "Yo soy uno de los chicos.",
-        "VI": "Tôi là một trong số những chàng trai đó.",
-        "FR": "Je suis l'un des gars.",
-        "NE": "म पनि त्यस्तै मान्छे मध्ये एक हुँ।",
-        "BN": "আমিও তাদের একজন।",
-        "ZH": "我就是其中一个。",
-        "KO": "나는 동료 중 한 명입니다.",
-        "TL": "Isa ako sa mga lalaki.",
-        "MY": "ကျွန်တော်က ယောက်ျားလေးတစ်ယောက်ပါ။",
-        "HI": "मैं उन लोगों में से एक हूं।",
-        "AR": "أنا واحد من هؤلاء الرجال.",
-        "FA": "من یکی از بچه ها هستم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "companion": {
-      "ID": "pendamping",
-      "ES": "compañero",
-      "VI": "người bạn đồng hành",
-      "FR": "compagnon",
-      "NE": "साथी",
-      "BN": "সঙ্গী",
-      "ZH": "伴侣",
-      "KO": "동반자",
-      "TL": "kasama",
-      "MY": "အဖော်",
-      "HI": "साथी",
-      "AR": "رفيق",
-      "FA": "همراه",
-      "EN": [
-        "fellow",
-        "friend",
-        "mate",
-        "comrade",
-        "partner",
-        "colleague",
-        "coworker",
-        "associate"
-      ]
-    },
-    "group": {
-      "ID": "kelompok",
-      "ES": "grupo",
-      "VI": "nhóm",
-      "FR": "groupe",
-      "NE": "समूह",
-      "BN": "দল",
-      "ZH": "团体",
-      "KO": "그룹",
-      "TL": "pangkat",
-      "MY": "အဖွဲ့",
-      "HI": "समूह",
-      "AR": "مجموعة",
-      "FA": "گروه",
-      "EN": [
-        "company",
-        "circle",
-        "set",
-        "gang"
-      ]
-    },
-    "member of the same category (family, class)": {
-      "ID": "anggota kategori yang sama (keluarga, kelas)",
-      "ES": "miembro de la misma categoría (familia, clase)",
-      "VI": "thành viên cùng loại (gia đình, tầng lớp)",
-      "FR": "membre de la même catégorie (famille, classe)",
-      "NE": "एउटै वर्गको सदस्य (परिवार, वर्ग)",
-      "BN": "একই শ্রেণীর সদস্য (পরিবার, শ্রেণী)",
-      "ZH": "同一类别（家族、阶级）的成员",
-      "KO": "같은 범주(가족, 계급)의 구성원",
-      "TL": "miyembro ng parehong kategorya (pamilya, klase)",
-      "MY": "အမျိုးအစားတူ အဖွဲ့ဝင် (မိသားစု၊ အတန်း)",
-      "HI": "एक ही श्रेणी (परिवार, वर्ग) का सदस्य",
-      "AR": "عضو من نفس الفئة (العائلة، الطبقة)",
-      "FA": "عضو همان دسته (خانواده، کلاس)",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "仲間",
-    "is_common": true,
-    "tags": [
-      "wanikani11"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "仲間",
-        "reading": "なかま"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "companion",
-          "fellow",
-          "friend",
-          "mate",
-          "comrade",
-          "partner",
-          "colleague",
-          "coworker",
-          "associate"
+    "version": "0.3.0",
+    "word": "仲間",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/k7-G9_bLix8",
+    "in_db": true,
+    "kanji": "仲間",
+    "reading": "なかま",
+    "introduction_japanese": "仲間は、スポーツ、仕事、学校、ゲーム、物語や冒険の話などでよく使う名詞です。グループで活動するとき、人を集めるとき、協力や信頼について話すときに使います。",
+    "introduction_english": "The noun なかま is commonly used in conversations about sports, work, school, games, and stories or adventures. It appears when talking about group activities, recruiting people, and building trust or cooperation.",
+    "meanings": [
+        [
+            "companion",
+            "fellow",
+            "friend",
+            "mate",
+            "comrade",
+            "partner",
+            "colleague",
+            "coworker",
+            "associate"
         ],
-        "parts_of_speech": [
-          "Noun"
+        [
+            "group",
+            "company",
+            "circle",
+            "set",
+            "gang"
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "group",
-          "company",
-          "circle",
-          "set",
-          "gang"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "member of the same category (family, class)"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
+        [
+            "member of the same category (family, class)"
+        ]
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
-    }
-  },
-  "kanji_list": [
-    "仲",
-    "間"
-  ],
-  "kanji_data": {
-    "仲": {
-      "freq_mainichi_shinbun": 919,
-      "grade": 4,
-      "heisig_en": "go-between",
-      "jlpt": 2,
-      "kanji": "仲",
-      "kun_readings": [
-        "なか"
-      ],
-      "meanings": [
-        "go-between",
-        "relationship"
-      ],
-      "name_readings": [
-        "ちゅん",
-        "つづき",
-        "なかつ"
-      ],
-      "notes": [],
-      "on_readings": [
-        "チュウ"
-      ],
-      "stroke_count": 6,
-      "unicode": "4EF2"
+    "meaning_explanation_japanese": "「なかま」は、一緒に何かをする人や同じグループの人を指します。また、そのグループ自体や、同じ種類・カテゴリーに入るものにも使います。",
+    "meaning_explanation_english": "The word なかま means a person you do things with or someone in the same group. It can also mean the group itself, or a member of the same category.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "仲",
+            "common_words": [
+                "仲良し (なかよし): close friend; on good terms",
+                "仲直り (なかなおり): reconciliation; make up"
+            ]
+        },
+        {
+            "kanji": "間",
+            "common_words": [
+                "時間 (じかん): time",
+                "人間 (にんげん): human being"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means relationship or a go-between. You see it in なかなおり, about fixing a relationship after a fight. It also appears in なかよし to show a close bond. So it carries the feeling of connection. The second kanji means interval, space, or between. It shows up in じかん for time, the span between moments. It is also in まにあう meaning to be in time. It highlights gaps, timing, and spaces.",
+    "synonyms": [
+        "友達 : ともだち : friend",
+        "同僚 : どうりょう : coworker"
+    ],
+    "synonym_explanation": "The most common synonyms of the word なかま are ともだち and どうりょう. ともだちは日常の親しい人で気持ちのつながりが中心です。どうりょうは仕事の関係で、職場に限られることが多いです。どちらも近しい人ですが、なかまは同じチームや集まりの成員という感じが強いです。",
+    "antonyms": [
+        "敵 : てき : enemy"
+    ],
+    "antonym_explanation": "The most common antonym of the word なかま is てき. てきは反対の立場にいる相手で、グループの外にいる存在です。",
+    "collocations": [
+        {
+            "kanji": "仲間を増やす",
+            "furigana": "仲間を増やす",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間を募る",
+            "furigana": "仲間を募る",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間を集める",
+            "furigana": "仲間を集める",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間をつくる",
+            "furigana": "仲間をつくる",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間を信頼する",
+            "furigana": "仲間を信頼する",
+            "translations": {}
+        },
+        {
+            "kanji": "友と仲間になる",
+            "furigana": "友と仲間になる",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間と協力する",
+            "furigana": "仲間と協力する",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間と過ごす",
+            "furigana": "仲間と過ごす",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間と連携する",
+            "furigana": "仲間と連携する",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間と分かち合う",
+            "furigana": "仲間と分かち合う",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間の一人",
+            "furigana": "仲間の一人",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間意識",
+            "furigana": "仲間意識",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間関係",
+            "furigana": "仲間関係",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間外れ",
+            "furigana": "仲間外れ",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間入り",
+            "furigana": "仲間入り",
+            "translations": {}
+        },
+        {
+            "kanji": "親しい仲間",
+            "furigana": "親しい仲間",
+            "translations": {}
+        },
+        {
+            "kanji": "本当の仲間",
+            "furigana": "本当の仲間",
+            "translations": {}
+        },
+        {
+            "kanji": "心強い仲間",
+            "furigana": "心強い仲間",
+            "translations": {}
+        },
+        {
+            "kanji": "多様な仲間",
+            "furigana": "多様な仲間",
+            "translations": {}
+        },
+        {
+            "kanji": "新しい仲間",
+            "furigana": "新しい仲間",
+            "translations": {}
+        },
+        {
+            "kanji": "気軽に仲間と",
+            "furigana": "気軽に仲間と",
+            "translations": {}
+        },
+        {
+            "kanji": "一緒に仲間と",
+            "furigana": "一緒に仲間と",
+            "translations": {}
+        },
+        {
+            "kanji": "もはや仲間ではない",
+            "furigana": "もはや仲間ではない",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間として認める",
+            "furigana": "仲間として認める",
+            "translations": {}
+        },
+        {
+            "kanji": "仲間である",
+            "furigana": "仲間である",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "新しい仲間をつくる。",
+            "furigana": "新(あたら)しい仲(なか)間(ま)をつくる。",
+            "translations": {
+                "EN": "Make new friends.",
+                "ID": "Berteman baru.",
+                "ES": "Haz nuevos amigos.",
+                "VI": "Kết bạn mới.",
+                "FR": "Faites-vous de nouveaux amis.",
+                "NE": "नयाँ साथी बनाउनुहोस्।",
+                "BN": "নতুন বন্ধু বানাও.",
+                "ZH": "结交新朋友。",
+                "KO": "새로운 동료를 만든다.",
+                "TL": "Gumawa ng mga bagong kaibigan.",
+                "MY": "သူငယ်ချင်းအသစ်တွေလုပ်ပါ။",
+                "HI": "नए दोस्त बनाएँ।",
+                "AR": "تكوين صداقات جديدة.",
+                "FA": "دوستان جدید پیدا کنید."
+            }
+        },
+        {
+            "kanji": "私は仲間を信頼する。",
+            "furigana": "私(わたし)は仲(なか)間(ま)を信頼(しんらい)する。",
+            "translations": {
+                "EN": "I trust my friends.",
+                "ID": "Aku percaya teman-temanku.",
+                "ES": "Confío en mis amigos.",
+                "VI": "Tôi tin tưởng bạn bè của tôi.",
+                "FR": "Je fais confiance à mes amis.",
+                "NE": "म मेरा साथीहरूलाई विश्वास गर्छु।",
+                "BN": "আমি আমার বন্ধুদের বিশ্বাস করি।",
+                "ZH": "我相信我的朋友。",
+                "KO": "나는 동료를 신뢰한다.",
+                "TL": "May tiwala ako sa mga kaibigan ko.",
+                "MY": "ငါ့သူငယ်ချင်းတွေကို ငါယုံတယ်။",
+                "HI": "मैं अपने दोस्तों पर भरोसा करता हूं.",
+                "AR": "أنا أثق بأصدقائي.",
+                "FA": "من به دوستانم اعتماد دارم."
+            }
+        },
+        {
+            "kanji": "仲間と協力する。",
+            "furigana": "仲(なか)間(ま)と協力(きょうりょく)する。",
+            "translations": {
+                "EN": "Work together with your teammates.",
+                "ID": "Bekerja sama dengan rekan satu tim Anda.",
+                "ES": "Trabaje junto con sus compañeros de equipo.",
+                "VI": "Làm việc cùng với đồng đội của bạn.",
+                "FR": "Travaillez avec vos coéquipiers.",
+                "NE": "आफ्ना सहकर्मीहरूसँग मिलेर काम गर्नुहोस्।",
+                "BN": "আপনার সতীর্থদের সাথে একসাথে কাজ করুন।",
+                "ZH": "与你的队友一起工作。",
+                "KO": "동료와 협력한다.",
+                "TL": "Makipagtulungan sa iyong mga kasamahan sa koponan.",
+                "MY": "မင်းရဲ့အသင်းဖော်တွေနဲ့ အတူအလုပ်လုပ်ပါ။",
+                "HI": "अपने साथियों के साथ मिलकर काम करें।",
+                "AR": "العمل مع زملائك في الفريق.",
+                "FA": "با هم تیمی‌هایتان همکاری کنید."
+            }
+        },
+        {
+            "kanji": "彼は仲間外れになった。",
+            "furigana": "彼(かれ)は仲(なか)間(ま)外(はず)れになった。",
+            "translations": {
+                "EN": "He became an outcast.",
+                "ID": "Dia menjadi orang buangan.",
+                "ES": "Se convirtió en un paria.",
+                "VI": "Ông trở thành kẻ bị ruồng bỏ.",
+                "FR": "Il est devenu un paria.",
+                "NE": "उनी बहिष्कृत भए।",
+                "BN": "সে একজন বহিষ্কৃত হয়ে গেল।",
+                "ZH": "他成了被抛弃的人。",
+                "KO": "그는 동료 벗어났다.",
+                "TL": "Naging outcast siya.",
+                "MY": "သူသည် အပယ်ခံဖြစ်လာသည်။",
+                "HI": "वह बहिष्कृत हो गया।",
+                "AR": "لقد أصبح منبوذا.",
+                "FA": "او تبدیل به یک مطرود شد."
+            }
+        },
+        {
+            "kanji": "私たちは仲間を集める。",
+            "furigana": "私(わたし)たちは仲(なか)間(ま)を集(あつ)める。",
+            "translations": {
+                "EN": "We gather our friends.",
+                "ID": "Kami mengumpulkan teman-teman kami.",
+                "ES": "Reunimos a nuestros amigos.",
+                "VI": "Chúng tôi tập hợp bạn bè của mình.",
+                "FR": "Nous rassemblons nos amis.",
+                "NE": "हामी हाम्रा साथीहरूलाई भेला गर्छौं।",
+                "BN": "আমরা আমাদের বন্ধুদের জড়ো করি।",
+                "ZH": "我们召集了我们的朋友。",
+                "KO": "우리는 동료를 모은다.",
+                "TL": "Pinagsasama-sama namin ang aming mga kaibigan.",
+                "MY": "ငါတို့သူငယ်ချင်းတွေစုတယ်။",
+                "HI": "हम अपने दोस्तों को इकट्ठा करते हैं।",
+                "AR": "نحن نجمع أصدقائنا.",
+                "FA": "دوستانمان را جمع می‌کنیم."
+            }
+        },
+        {
+            "kanji": "そのチームに仲間入りした。",
+            "furigana": "そのチームに仲(なか)間(ま)入(い)りした。",
+            "translations": {
+                "EN": "I joined that team.",
+                "ID": "Saya bergabung dengan tim itu.",
+                "ES": "Me uní a ese equipo.",
+                "VI": "Tôi đã gia nhập đội đó.",
+                "FR": "J'ai rejoint cette équipe.",
+                "NE": "म त्यो टोलीमा सामेल भएँ।",
+                "BN": "আমি সেই দলে যোগ দিলাম।",
+                "ZH": "我加入了那个团队。",
+                "KO": "그 팀에 동참했다.",
+                "TL": "Sumali ako sa pangkat na iyon.",
+                "MY": "ကျွန်တော် အဲဒီအသင်းမှာ ပါဝင်ခဲ့ပါတယ်။",
+                "HI": "मैं उस टीम में शामिल हो गया.",
+                "AR": "انضممت إلى هذا الفريق.",
+                "FA": "من به آن تیم پیوستم."
+            }
+        },
+        {
+            "kanji": "私は仲間の一人です。",
+            "furigana": "私(わたし)は仲(なか)間(ま)の一(ひと)人(り)です。",
+            "translations": {
+                "EN": "I am one of the guys.",
+                "ID": "Saya salah satu orangnya.",
+                "ES": "Yo soy uno de los chicos.",
+                "VI": "Tôi là một trong số những chàng trai đó.",
+                "FR": "Je suis l'un des gars.",
+                "NE": "म पनि त्यस्तै मान्छे मध्ये एक हुँ।",
+                "BN": "আমিও তাদের একজন।",
+                "ZH": "我就是其中一个。",
+                "KO": "나는 동료 중 한 명입니다.",
+                "TL": "Isa ako sa mga lalaki.",
+                "MY": "ကျွန်တော်က ယောက်ျားလေးတစ်ယောက်ပါ။",
+                "HI": "मैं उन लोगों में से एक हूं।",
+                "AR": "أنا واحد من هؤلاء الرجال.",
+                "FA": "من یکی از بچه ها هستم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "pendamping",
+            "ES": "compañero",
+            "VI": "người bạn đồng hành",
+            "FR": "compagnon",
+            "NE": "साथी",
+            "BN": "সঙ্গী",
+            "ZH": "伴侣",
+            "KO": "동반자",
+            "TL": "kasama",
+            "MY": "အဖော်",
+            "HI": "साथी",
+            "AR": "رفيق",
+            "FA": "همراه",
+            "EN": [
+                "companion",
+                "fellow",
+                "friend",
+                "mate",
+                "comrade",
+                "partner",
+                "colleague",
+                "coworker",
+                "associate"
+            ]
+        },
+        {
+            "ID": "kelompok",
+            "ES": "grupo",
+            "VI": "nhóm",
+            "FR": "groupe",
+            "NE": "समूह",
+            "BN": "দল",
+            "ZH": "团体",
+            "KO": "그룹",
+            "TL": "pangkat",
+            "MY": "အဖွဲ့",
+            "HI": "समूह",
+            "AR": "مجموعة",
+            "FA": "گروه",
+            "EN": [
+                "group",
+                "company",
+                "circle",
+                "set",
+                "gang"
+            ]
+        },
+        {
+            "ID": "anggota kategori yang sama (keluarga, kelas)",
+            "ES": "miembro de la misma categoría (familia, clase)",
+            "VI": "thành viên cùng loại (gia đình, tầng lớp)",
+            "FR": "membre de la même catégorie (famille, classe)",
+            "NE": "एउटै वर्गको सदस्य (परिवार, वर्ग)",
+            "BN": "একই শ্রেণীর সদস্য (পরিবার, শ্রেণী)",
+            "ZH": "同一类别（家族、阶级）的成员",
+            "KO": "같은 범주(가족, 계급)의 구성원",
+            "TL": "miyembro ng parehong kategorya (pamilya, klase)",
+            "MY": "အမျိုးအစားတူ အဖွဲ့ဝင် (မိသားစု၊ အတန်း)",
+            "HI": "एक ही श्रेणी (परिवार, वर्ग) का सदस्य",
+            "AR": "عضو من نفس الفئة (العائلة، الطبقة)",
+            "FA": "عضو همان دسته (خانواده، کلاس)",
+            "EN": [
+                "member of the same category (family, class)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "仲間",
+        "is_common": true,
+        "tags": [
+            "wanikani11"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "仲間",
+                "reading": "なかま"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "companion",
+                    "fellow",
+                    "friend",
+                    "mate",
+                    "comrade",
+                    "partner",
+                    "colleague",
+                    "coworker",
+                    "associate"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "group",
+                    "company",
+                    "circle",
+                    "set",
+                    "gang"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "member of the same category (family, class)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
     },
-    "間": {
-      "freq_mainichi_shinbun": 33,
-      "grade": 2,
-      "heisig_en": "interval",
-      "jlpt": 5,
-      "kanji": "間",
-      "kun_readings": [
-        "あい",
-        "あいだ",
-        "ま"
-      ],
-      "meanings": [
-        "interval",
-        "space"
-      ],
-      "name_readings": [
-        "ちか",
-        "は",
-        "はざ",
-        "はし"
-      ],
-      "notes": [],
-      "on_readings": [
-        "カン",
-        "ケン"
-      ],
-      "stroke_count": 12,
-      "unicode": "9593"
+    "kanji_list": [
+        "仲",
+        "間"
+    ],
+    "kanji_data": {
+        "仲": {
+            "freq_mainichi_shinbun": 919,
+            "grade": 4,
+            "heisig_en": "go-between",
+            "jlpt": 2,
+            "kanji": "仲",
+            "kun_readings": [
+                "なか"
+            ],
+            "meanings": [
+                "go-between",
+                "relationship"
+            ],
+            "name_readings": [
+                "ちゅん",
+                "つづき",
+                "なかつ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "チュウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "4EF2"
+        },
+        "間": {
+            "freq_mainichi_shinbun": 33,
+            "grade": 2,
+            "heisig_en": "interval",
+            "jlpt": 5,
+            "kanji": "間",
+            "kun_readings": [
+                "あい",
+                "あいだ",
+                "ま"
+            ],
+            "meanings": [
+                "interval",
+                "space"
+            ],
+            "name_readings": [
+                "ちか",
+                "は",
+                "はざ",
+                "はし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カン",
+                "ケン"
+            ],
+            "stroke_count": 12,
+            "unicode": "9593"
+        }
     }
-  }
 }

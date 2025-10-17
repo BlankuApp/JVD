@@ -1,403 +1,426 @@
 {
-  "version": "0.3.0",
-  "word": "外す",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/jUXMqoiuEGY",
-  "in_db": true,
-  "kanji": "外す",
-  "reading": "はずす",
-  "introduction_japanese": "",
-  "introduction_english": "Today, we're going to dive into the word \"はずす,\" which you'll often encounter when talking about buttons on shirts or missing a train.",
-  "meanings": [
-    [
-      "to remove",
-      "to take off",
-      "to detach",
-      "to unfasten",
-      "to undo"
-    ],
-    [
-      "to drop",
-      "to remove",
-      "to exclude",
-      "to expel"
-    ],
-    [
-      "to leave",
-      "to go away from",
-      "to step out",
-      "to slip away"
-    ],
-    [
-      "to dodge",
-      "to evade",
-      "to sidestep",
-      "to avoid"
-    ],
-    [
-      "to miss"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"はずす\" means to remove or detach something from its place. It can also mean to miss an event or to skip something, like not attending a meeting.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "外",
-      "common_words": [
-        "外国: foreign country",
-        "外側: exterior"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "取り外す : とりはずす : to dismantle"
-  ],
-  "synonym_explanation": "The most common synonym of the word \"はずす\" is \"とりはずす.\" While both mean to remove, \"とりはずす\" usually implies a more thorough or complete removal, like uninstalling equipment.",
-  "antonyms": [
-    "嵌める : はめる : to fit"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"はずす\" is \"はめる.\" While \"はずす\" means to remove, \"はめる\" refers to fitting or attaching something, like putting on a ring.",
-  "collocations": [
-    {
-      "kanji": "ボタンをはずす",
-      "furigana": "ボタンをはずす",
-      "translations": {}
-    },
-    {
-      "kanji": "約束をはずす",
-      "furigana": "約束をはずす",
-      "translations": {}
-    },
-    {
-      "kanji": "眼鏡をはずす",
-      "furigana": "眼鏡をはずす",
-      "translations": {}
-    },
-    {
-      "kanji": "会議をはずす",
-      "furigana": "会議をはずす",
-      "translations": {}
-    },
-    {
-      "kanji": "チャンスをはずす",
-      "furigana": "チャンスをはずす",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "シャツのボタンを外しました。",
-      "furigana": "シャツのボタンを外(はず)しました。",
-      "translations": {
-        "EN": "I unbuttoned the shirt.",
-        "ID": "Saya membuka kancing baju itu.",
-        "ES": "Desabotoné la camisa.",
-        "VI": "Tôi đã tháo cúc áo.",
-        "FR": "J'ai déboutonné la chemise.",
-        "NE": "मले कमिजको बटन खोलें।",
-        "BN": "আমি শার্টের বোতাম খুলে দিলাম।",
-        "ZH": "我解开了衬衫的钮扣。",
-        "KO": "셔츠의 단추를 풀었습니다.",
-        "TL": "Tinanggal ko ang butones ng kamiseta.",
-        "MY": "ကျွန်တော်အင်္ကျီရဲ့ ခလုတ်ကို ဖြုတ်လိုက်တယ်။",
-        "HI": "मैंने शर्ट के बटन खोल दिए।",
-        "AR": "لقد فككت أزرار القميص.",
-        "FA": "پیراهن را دکمه باز کردم."
-      }
-    },
-    {
-      "kanji": "約束を外す。",
-      "furigana": "約束(やくそく)を外(はず)す。",
-      "translations": {
-        "EN": "Break a promise.",
-        "ID": "Membatalkan janji.",
-        "ES": "Romper una promesa.",
-        "VI": "Hủy lời hứa.",
-        "FR": "Défaire une promesse.",
-        "NE": "प्रतिज्ञा तोड्नु।",
-        "BN": "প্রতিশ্রুতি ভঙ্গ করা।",
-        "ZH": "打破承诺。",
-        "KO": "약속을 어기다.",
-        "TL": "Lumampas sa pangako.",
-        "MY": "ကတိကိုဖျက်သည်။",
-        "HI": "वादा तोड़ना।",
-        "AR": "كسر الوعد.",
-        "FA": "قول را لغو کردن."
-      }
-    },
-    {
-      "kanji": "彼は眼鏡を外しました。",
-      "furigana": "彼(かれ)は眼鏡(めがね)を外(はず)しました。",
-      "translations": {
-        "EN": "He took off his glasses.",
-        "ID": "Dia melepas kacamatanya.",
-        "ES": "Él se quitó las gafas.",
-        "VI": "Anh ấy đã tháo kính ra.",
-        "FR": "Il a enlevé ses lunettes.",
-        "NE": "उसले चश्मा खोले।",
-        "BN": "সে তার চশমা খুলে ফেলল।",
-        "ZH": "他摘下了眼镜。",
-        "KO": "그는 안경을 벗었습니다.",
-        "TL": "Inalis niya ang kanyang salamin.",
-        "MY": "သူက မျက်မှန်ကို ချွတ်လိုက်သည်။",
-        "HI": "उसने चश्मा उतार दिया।",
-        "AR": "خلع نظارته.",
-        "FA": "او عینک خود را برداشت."
-      }
-    },
-    {
-      "kanji": "私は会議を外します。",
-      "furigana": "私(わたし)は会議(かいぎ)を外(はず)します。",
-      "translations": {
-        "EN": "I will excuse myself from the meeting.",
-        "ID": "Saya akan absen dari rapat.",
-        "ES": "Me ausentaré de la reunión.",
-        "VI": "Tôi sẽ rời khỏi cuộc họp.",
-        "FR": "Je vais m'absenter de la réunion.",
-        "NE": "म बैठकबाट बाहिरिनेछु।",
-        "BN": "আমি বৈঠক থেকে বের হব।",
-        "ZH": "我将离开会议。",
-        "KO": "저는 회의를 빠질 것입니다.",
-        "TL": "Lilipas muna ako sa pulong.",
-        "MY": "ငါအစည်းအဝေးကနေရန်ပယ်မယ္။",
-        "HI": "मैं बैठक से बाहर हो जाऊंगा।",
-        "AR": "سأغيب عن الاجتماع.",
-        "FA": "من جلسه را ترک می‌کنم."
-      }
-    },
-    {
-      "kanji": "彼は大事な試合でチャンスを外した。",
-      "furigana": "彼(かれ)は大事(だいじ)な試合(しあい)でチャンスを外(はず)した。",
-      "translations": {
-        "EN": "He missed a chance in an important match.",
-        "ID": "Dia melewatkan kesempatan dalam pertandingan penting.",
-        "ES": "Él perdió una oportunidad en un partido importante.",
-        "VI": "Anh ấy đã bỏ lỡ cơ hội trong một trận đấu quan trọng.",
-        "FR": "Il a manqué une occasion lors d'un match important.",
-        "NE": "उनले महत्वपूर्ण खेलमा मौका चुकाए।",
-        "BN": "তিনি একটি গুরুত্বপূর্ণ ম্যাচে সুযোগ মিস করেছেন।",
-        "ZH": "他在一场重要的比赛中错过了一个机会。",
-        "KO": "그는 중요한 경기에서 기회를 놓쳤습니다.",
-        "TL": "Na-miss niya ang pagkakataon sa isang mahalagang laban.",
-        "MY": "သူလက်သည် အရေးကြီးသောပြိုင်ပွဲတွင်အခွင့်အလမ်းကိုလွတ်ခဲ့သည်။",
-        "HI": "उन्होंने एक महत्वपूर्ण मैच में मौका गंवाया।",
-        "AR": "فاته فرصة في مباراة مهمة.",
-        "FA": "در یک مسابقه مهم، شانس را از دست داد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to remove": {
-      "EN": "to remove",
-      "ID": "menghapus",
-      "ES": "quitar",
-      "VI": "gỡ bỏ",
-      "FR": "retirer",
-      "NE": "हटाउनु",
-      "BN": "অপসারণ করা",
-      "ZH": "移除",
-      "KO": "제거하다",
-      "TL": "alisin",
-      "MY": "ဖယ်ရှားရန်",
-      "HI": "हटाना",
-      "AR": "إزالة",
-      "FA": "حذف کردن"
-    },
-    "to drop": {
-      "EN": "to drop",
-      "ID": "untuk melepaskan",
-      "ES": "soltar",
-      "VI": "đánh rơi",
-      "FR": "laisser tomber",
-      "NE": "छोड्न",
-      "BN": "ছেড়ে দিতে",
-      "ZH": "掉落",
-      "KO": "떨어뜨리다",
-      "TL": "bitawan",
-      "MY": "လဲချရန်",
-      "HI": "छोड़ना",
-      "AR": "لإسقاط",
-      "FA": "رها کردن"
-    },
-    "to leave": {
-      "EN": "to remove / to leave",
-      "ID": "melepaskan",
-      "ES": "dejar / quitar",
-      "VI": "để lại",
-      "FR": "enlever / quitter",
-      "NE": "छोड्नु",
-      "BN": "ছেঁড়া / চলে যাওয়া",
-      "ZH": "离开",
-      "KO": "떠나다",
-      "TL": "umalis",
-      "MY": "ထွက်ခွာ",
-      "HI": "छोड़ना",
-      "AR": "غادر",
-      "FA": "برنامه"
-    },
-    "to dodge": {
-      "EN": "to dodge",
-      "ID": "menghindar",
-      "ES": "esquivar",
-      "VI": "né tránh",
-      "FR": "esquiver",
-      "NE": "छल्नु",
-      "BN": "নির্বাকিত করা",
-      "ZH": "躲避",
-      "KO": "피하다",
-      "TL": "umiwas",
-      "MY": "ထွက်ခွာသည်",
-      "HI": "छलना",
-      "AR": "لتفادي",
-      "FA": "به آسانی کنار رفتن"
-    },
-    "to miss": {
-      "EN": "外す (hazusu) - To miss",
-      "ID": "Melepas : melewatkan",
-      "ES": "Quitar : perderse",
-      "VI": "Rời bỏ : bỏ lỡ",
-      "FR": "Enlever : manquer",
-      "NE": "हटाउनुहोस् : छुटाउनु",
-      "BN": "অপসারণ করা : মিস করা",
-      "ZH": "移除：错过",
-      "KO": "떼다 : 놓치다",
-      "TL": "Alisan : hindi matamaan",
-      "MY": "ဖြုတ်သည် : လွတ်ပါတယ်",
-      "HI": "हटाना : चूकना",
-      "AR": "أزال : أن يفوت",
-      "FA": "خارج کردن : از دست دادن"
-    }
-  },
-  "jisho_data": {
-    "slug": "外す",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "外す",
-        "reading": "はずす"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to remove",
-          "to take off",
-          "to detach",
-          "to unfasten",
-          "to undo"
+    "version": "0.3.0",
+    "word": "外す",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/jUXMqoiuEGY",
+    "in_db": true,
+    "kanji": "外す",
+    "reading": "はずす",
+    "introduction_japanese": "",
+    "introduction_english": "Today, we're going to dive into the word \"はずす,\" which you'll often encounter when talking about buttons on shirts or missing a train.",
+    "meanings": [
+        [
+            "to remove",
+            "to take off",
+            "to detach",
+            "to unfasten",
+            "to undo"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending, Transitive verb"
+        [
+            "to drop",
+            "to remove",
+            "to exclude",
+            "to expel"
         ],
-        "links": [],
+        [
+            "to leave",
+            "to go away from",
+            "to step out",
+            "to slip away"
+        ],
+        [
+            "to dodge",
+            "to evade",
+            "to sidestep",
+            "to avoid"
+        ],
+        [
+            "to miss"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"はずす\" means to remove or detach something from its place. It can also mean to miss an event or to skip something, like not attending a meeting.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "外",
+            "common_words": [
+                "外国: foreign country",
+                "外側: exterior"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "取り外す : とりはずす : to dismantle"
+    ],
+    "synonym_explanation": "The most common synonym of the word \"はずす\" is \"とりはずす.\" While both mean to remove, \"とりはずす\" usually implies a more thorough or complete removal, like uninstalling equipment.",
+    "antonyms": [
+        "嵌める : はめる : to fit"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"はずす\" is \"はめる.\" While \"はずす\" means to remove, \"はめる\" refers to fitting or attaching something, like putting on a ring.",
+    "collocations": [
+        {
+            "kanji": "ボタンをはずす",
+            "furigana": "ボタンをはずす",
+            "translations": {}
+        },
+        {
+            "kanji": "約束をはずす",
+            "furigana": "約束をはずす",
+            "translations": {}
+        },
+        {
+            "kanji": "眼鏡をはずす",
+            "furigana": "眼鏡をはずす",
+            "translations": {}
+        },
+        {
+            "kanji": "会議をはずす",
+            "furigana": "会議をはずす",
+            "translations": {}
+        },
+        {
+            "kanji": "チャンスをはずす",
+            "furigana": "チャンスをはずす",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "シャツのボタンを外しました。",
+            "furigana": "シャツのボタンを外(はず)しました。",
+            "translations": {
+                "EN": "I unbuttoned the shirt.",
+                "ID": "Saya membuka kancing baju itu.",
+                "ES": "Desabotoné la camisa.",
+                "VI": "Tôi đã tháo cúc áo.",
+                "FR": "J'ai déboutonné la chemise.",
+                "NE": "मले कमिजको बटन खोलें।",
+                "BN": "আমি শার্টের বোতাম খুলে দিলাম।",
+                "ZH": "我解开了衬衫的钮扣。",
+                "KO": "셔츠의 단추를 풀었습니다.",
+                "TL": "Tinanggal ko ang butones ng kamiseta.",
+                "MY": "ကျွန်တော်အင်္ကျီရဲ့ ခလုတ်ကို ဖြုတ်လိုက်တယ်။",
+                "HI": "मैंने शर्ट के बटन खोल दिए।",
+                "AR": "لقد فككت أزرار القميص.",
+                "FA": "پیراهن را دکمه باز کردم."
+            }
+        },
+        {
+            "kanji": "約束を外す。",
+            "furigana": "約束(やくそく)を外(はず)す。",
+            "translations": {
+                "EN": "Break a promise.",
+                "ID": "Membatalkan janji.",
+                "ES": "Romper una promesa.",
+                "VI": "Hủy lời hứa.",
+                "FR": "Défaire une promesse.",
+                "NE": "प्रतिज्ञा तोड्नु।",
+                "BN": "প্রতিশ্রুতি ভঙ্গ করা।",
+                "ZH": "打破承诺。",
+                "KO": "약속을 어기다.",
+                "TL": "Lumampas sa pangako.",
+                "MY": "ကတိကိုဖျက်သည်။",
+                "HI": "वादा तोड़ना।",
+                "AR": "كسر الوعد.",
+                "FA": "قول را لغو کردن."
+            }
+        },
+        {
+            "kanji": "彼は眼鏡を外しました。",
+            "furigana": "彼(かれ)は眼鏡(めがね)を外(はず)しました。",
+            "translations": {
+                "EN": "He took off his glasses.",
+                "ID": "Dia melepas kacamatanya.",
+                "ES": "Él se quitó las gafas.",
+                "VI": "Anh ấy đã tháo kính ra.",
+                "FR": "Il a enlevé ses lunettes.",
+                "NE": "उसले चश्मा खोले।",
+                "BN": "সে তার চশমা খুলে ফেলল।",
+                "ZH": "他摘下了眼镜。",
+                "KO": "그는 안경을 벗었습니다.",
+                "TL": "Inalis niya ang kanyang salamin.",
+                "MY": "သူက မျက်မှန်ကို ချွတ်လိုက်သည်။",
+                "HI": "उसने चश्मा उतार दिया।",
+                "AR": "خلع نظارته.",
+                "FA": "او عینک خود را برداشت."
+            }
+        },
+        {
+            "kanji": "私は会議を外します。",
+            "furigana": "私(わたし)は会議(かいぎ)を外(はず)します。",
+            "translations": {
+                "EN": "I will excuse myself from the meeting.",
+                "ID": "Saya akan absen dari rapat.",
+                "ES": "Me ausentaré de la reunión.",
+                "VI": "Tôi sẽ rời khỏi cuộc họp.",
+                "FR": "Je vais m'absenter de la réunion.",
+                "NE": "म बैठकबाट बाहिरिनेछु।",
+                "BN": "আমি বৈঠক থেকে বের হব।",
+                "ZH": "我将离开会议。",
+                "KO": "저는 회의를 빠질 것입니다.",
+                "TL": "Lilipas muna ako sa pulong.",
+                "MY": "ငါအစည်းအဝေးကနေရန်ပယ်မယ္။",
+                "HI": "मैं बैठक से बाहर हो जाऊंगा।",
+                "AR": "سأغيب عن الاجتماع.",
+                "FA": "من جلسه را ترک می‌کنم."
+            }
+        },
+        {
+            "kanji": "彼は大事な試合でチャンスを外した。",
+            "furigana": "彼(かれ)は大事(だいじ)な試合(しあい)でチャンスを外(はず)した。",
+            "translations": {
+                "EN": "He missed a chance in an important match.",
+                "ID": "Dia melewatkan kesempatan dalam pertandingan penting.",
+                "ES": "Él perdió una oportunidad en un partido importante.",
+                "VI": "Anh ấy đã bỏ lỡ cơ hội trong một trận đấu quan trọng.",
+                "FR": "Il a manqué une occasion lors d'un match important.",
+                "NE": "उनले महत्वपूर्ण खेलमा मौका चुकाए।",
+                "BN": "তিনি একটি গুরুত্বপূর্ণ ম্যাচে সুযোগ মিস করেছেন।",
+                "ZH": "他在一场重要的比赛中错过了一个机会。",
+                "KO": "그는 중요한 경기에서 기회를 놓쳤습니다.",
+                "TL": "Na-miss niya ang pagkakataon sa isang mahalagang laban.",
+                "MY": "သူလက်သည် အရေးကြီးသောပြိုင်ပွဲတွင်အခွင့်အလမ်းကိုလွတ်ခဲ့သည်။",
+                "HI": "उन्होंने एक महत्वपूर्ण मैच में मौका गंवाया।",
+                "AR": "فاته فرصة في مباراة مهمة.",
+                "FA": "در یک مسابقه مهم، شانس را از دست داد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "to remove",
+                "to take off",
+                "to detach",
+                "to unfasten",
+                "to undo"
+            ],
+            "ID": "menghapus",
+            "ES": "quitar",
+            "VI": "gỡ bỏ",
+            "FR": "retirer",
+            "NE": "हटाउनु",
+            "BN": "অপসারণ করা",
+            "ZH": "移除",
+            "KO": "제거하다",
+            "TL": "alisin",
+            "MY": "ဖယ်ရှားရန်",
+            "HI": "हटाना",
+            "AR": "إزالة",
+            "FA": "حذف کردن"
+        },
+        {
+            "EN": [
+                "to drop",
+                "to remove",
+                "to exclude",
+                "to expel"
+            ],
+            "ID": "untuk melepaskan",
+            "ES": "soltar",
+            "VI": "đánh rơi",
+            "FR": "laisser tomber",
+            "NE": "छोड्न",
+            "BN": "ছেড়ে দিতে",
+            "ZH": "掉落",
+            "KO": "떨어뜨리다",
+            "TL": "bitawan",
+            "MY": "လဲချရန်",
+            "HI": "छोड़ना",
+            "AR": "لإسقاط",
+            "FA": "رها کردن"
+        },
+        {
+            "EN": [
+                "to leave",
+                "to go away from",
+                "to step out",
+                "to slip away"
+            ],
+            "ID": "melepaskan",
+            "ES": "dejar / quitar",
+            "VI": "để lại",
+            "FR": "enlever / quitter",
+            "NE": "छोड्नु",
+            "BN": "ছেঁড়া / চলে যাওয়া",
+            "ZH": "离开",
+            "KO": "떠나다",
+            "TL": "umalis",
+            "MY": "ထွက်ခွာ",
+            "HI": "छोड़ना",
+            "AR": "غادر",
+            "FA": "برنامه"
+        },
+        {
+            "EN": [
+                "to dodge",
+                "to evade",
+                "to sidestep",
+                "to avoid"
+            ],
+            "ID": "menghindar",
+            "ES": "esquivar",
+            "VI": "né tránh",
+            "FR": "esquiver",
+            "NE": "छल्नु",
+            "BN": "নির্বাকিত করা",
+            "ZH": "躲避",
+            "KO": "피하다",
+            "TL": "umiwas",
+            "MY": "ထွက်ခွာသည်",
+            "HI": "छलना",
+            "AR": "لتفادي",
+            "FA": "به آسانی کنار رفتن"
+        },
+        {
+            "EN": [
+                "to miss"
+            ],
+            "ID": "Melepas : melewatkan",
+            "ES": "Quitar : perderse",
+            "VI": "Rời bỏ : bỏ lỡ",
+            "FR": "Enlever : manquer",
+            "NE": "हटाउनुहोस् : छुटाउनु",
+            "BN": "অপসারণ করা : মিস করা",
+            "ZH": "移除：错过",
+            "KO": "떼다 : 놓치다",
+            "TL": "Alisan : hindi matamaan",
+            "MY": "ဖြုတ်သည် : လွတ်ပါတယ်",
+            "HI": "हटाना : चूकना",
+            "AR": "أزال : أن يفوت",
+            "FA": "خارج کردن : از دست دادن"
+        }
+    ],
+    "jisho_data": {
+        "slug": "外す",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to drop",
-          "to remove",
-          "to exclude",
-          "to expel"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending, Transitive verb"
+        "japanese": [
+            {
+                "word": "外す",
+                "reading": "はずす"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to leave",
-          "to go away from",
-          "to step out",
-          "to slip away"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to dodge",
-          "to evade",
-          "to sidestep",
-          "to avoid"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to miss"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "外"
-  ],
-  "kanji_data": {
-    "外": {
-      "meanings": [
-        "outside"
-      ],
-      "on_readings": [
-        "ガイ",
-        "ゲ"
-      ],
-      "kun_readings": [
-        "そと",
-        "と-",
-        "はず.す",
-        "はず.れる",
-        "ほか"
-      ],
-      "stroke_count": 5,
-      "jlpt": 5,
-      "freq_mainichi_shinbun": 81,
-      "unicode": "5916",
-      "grade": 2
+        "senses": [
+            {
+                "english_definitions": [
+                    "to remove",
+                    "to take off",
+                    "to detach",
+                    "to unfasten",
+                    "to undo"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to drop",
+                    "to remove",
+                    "to exclude",
+                    "to expel"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to leave",
+                    "to go away from",
+                    "to step out",
+                    "to slip away"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to dodge",
+                    "to evade",
+                    "to sidestep",
+                    "to avoid"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to miss"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "外"
+    ],
+    "kanji_data": {
+        "外": {
+            "meanings": [
+                "outside"
+            ],
+            "on_readings": [
+                "ガイ",
+                "ゲ"
+            ],
+            "kun_readings": [
+                "そと",
+                "と-",
+                "はず.す",
+                "はず.れる",
+                "ほか"
+            ],
+            "stroke_count": 5,
+            "jlpt": 5,
+            "freq_mainichi_shinbun": 81,
+            "unicode": "5916",
+            "grade": 2
+        }
     }
-  }
 }

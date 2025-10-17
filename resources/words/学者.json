@@ -1,278 +1,285 @@
 {
-  "version": "0.3.0",
-  "word": "学者",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/4CPinPDu1XE",
-  "in_db": true,
-  "kanji": "学者",
-  "reading": "がくしゃ",
-  "introduction_japanese": "",
-  "introduction_english": "Let's delve into the term \"がくしゃ,\" which you'll frequently encounter in academic settings or on discussions about someone pursuing specialized knowledge.",
-  "meanings": [
-    [
-      "scholar",
-      "academic",
-      "scientist"
-    ],
-    [
-      "learned person",
-      "person of learning"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word 学者 means a person who is engaged in extensive study and research, often in a specific field of knowledge, and is an expert in that area. It typically refers to a scholar or academic who has made significant contributions to their field.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "学",
-      "common_words": [
-        "学校: school",
-        "学生: student"
-      ]
-    },
-    {
-      "kanji": "者",
-      "common_words": [
-        "医者: doctor",
-        "作者: creator"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "研究者 : けんきゅうしゃ : researcher"
-  ],
-  "synonym_explanation": "The most common synonym of the word がくしゃ is けんきゅうしゃ. While がくしゃ refers to a scholar, けんきゅうしゃ is more specific to a researcher, emphasizing the act of conducting research and experiments specifically.",
-  "antonyms": [
-    "素人 : しろうと : amateur"
-  ],
-  "antonym_explanation": "The most common antonym of がくしゃ is しろうと. While がくしゃ indicates a scholarly expert, しろうと refers to an amateur or someone inexperienced, highlighting a lack of professional understanding.",
-  "collocations": [
-    {
-      "kanji": "学者になる",
-      "furigana": "学者になる",
-      "translations": {}
-    },
-    {
-      "kanji": "有名な学者",
-      "furigana": "有名な学者",
-      "translations": {}
-    },
-    {
-      "kanji": "文学の学者",
-      "furigana": "文学の学者",
-      "translations": {}
-    },
-    {
-      "kanji": "研究成果を発表した学者",
-      "furigana": "研究成果を発表した学者",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "彼は学者になりました。",
-      "furigana": "彼(かれ)は学者(がくしゃ)になりました。",
-      "translations": {
-        "EN": "He became a scholar.",
-        "ID": "Dia menjadi seorang sarjana.",
-        "ES": "Él se convirtió en un erudito.",
-        "VI": "Anh ấy đã trở thành một học giả.",
-        "FR": "Il est devenu un érudit.",
-        "NE": "उनी विद्वान बने।",
-        "BN": "তিনি একজন পণ্ডিত হয়েছেন।",
-        "ZH": "他成为了一名学者。",
-        "KO": "그는 학자가 되었습니다.",
-        "TL": "Naging isang iskolar siya.",
-        "MY": "သူက ပညာရှင် ဖြစ်ခဲ့ပါတယ်။",
-        "HI": "वह विद्वान बन गया।",
-        "AR": "أصبح عالمًا.",
-        "FA": "او دانشمند شد."
-      }
-    },
-    {
-      "kanji": "彼は有名な学者です。",
-      "furigana": "彼(かれ)は有名(ゆうめい)な学者(がくしゃ)です。",
-      "translations": {
-        "EN": "He is a famous scholar.",
-        "ID": "Dia adalah seorang sarjana terkenal.",
-        "ES": "Es un académico famoso.",
-        "VI": "Ông ấy là một học giả nổi tiếng.",
-        "FR": "Il est un érudit célèbre.",
-        "NE": "उहाँ चर्चित विद्वान हुनुहुन्छ।",
-        "BN": "তিনি একজন বিখ্যাত পণ্ডিত।",
-        "ZH": "他是著名的学者。",
-        "KO": "그는 유명한 학자입니다.",
-        "TL": "Siya ay isang tanyag na iskolar.",
-        "MY": "သူသည်နာမည်ကြီးပညာရှင်တစ်ဦးဖြစ်ပါသည်။",
-        "HI": "वह एक प्रसिद्ध विद्वान है।",
-        "AR": "إنه عالم مشهور.",
-        "FA": "او یک دانشمند معروف است."
-      }
-    },
-    {
-      "kanji": "彼は文学の学者です。",
-      "furigana": "彼(かれ)は文学(ぶんがく)の学者(がくしゃ)です。",
-      "translations": {
-        "EN": "He is a scholar of literature.",
-        "ID": "Dia adalah cendekiawan sastra.",
-        "ES": "Él es un académico de literatura.",
-        "VI": "Anh ấy là một học giả về văn học.",
-        "FR": "Il est un érudit de la littérature.",
-        "NE": "उ एक साहित्यकार हुन्।",
-        "BN": "তিনি সাহিত্যিক পণ্ডিত।",
-        "ZH": "他是文学学者。",
-        "KO": "그는 문학의 학자입니다.",
-        "TL": "Siya ay isang iskolar ng literatura.",
-        "MY": "သူက စာရေးဆရာ တစ်ယောက်ပါ။",
-        "HI": "वह साहित्य के विद्वान हैं।",
-        "AR": "هو عالِم في الأدب.",
-        "FA": "او یک دانشمند ادبیات است."
-      }
-    },
-    {
-      "kanji": "学者は研究成果を発表した。",
-      "furigana": "学者(がくしゃ)は研究成果(けんきゅうせいか)を発表(はっぴょう)した。",
-      "translations": {
-        "EN": "The scholar presented their research findings.",
-        "ID": "Sarjana itu mempresentasikan hasil penelitiannya.",
-        "ES": "El académico presentó sus hallazgos de investigación.",
-        "VI": "Nhà nghiên cứu đã trình bày kết quả nghiên cứu của họ.",
-        "FR": "Le savant a présenté ses résultats de recherche.",
-        "NE": "शिक्षकले अनुसन्धान परिणामहरू प्रस्तुत गरे।",
-        "BN": "বিজ্ঞানী তাদের গবেষণার ফলাফল উপস্থাপন করেছিলেন।",
-        "ZH": "学者展示了他们的研究成果。",
-        "KO": "학자는 연구 결과를 발표했습니다.",
-        "TL": "Ipinakita ng iskolar ang kanilang mga natuklasan sa pananaliksik.",
-        "MY": "ဘာသာရပ်တွေရဲ့ လေ့လာချက်တွေကို သုတေသီက ဖျော်ဖြေရန် ကြော်ငြာခဲ့သည်။",
-        "HI": "विद्वान ने अपने शोध निष्कर्ष प्रस्तुत किए।",
-        "AR": "العالم قدم نتائج بحثه.",
-        "FA": "دانشمند نتایج تحقیق را ارائه کرد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "scholar": {
-      "EN": "scholar",
-      "ID": "sarjana",
-      "ES": "erudito",
-      "VI": "học giả",
-      "FR": "érudit",
-      "NE": "विद्वान",
-      "BN": "পণ্ডিত",
-      "ZH": "学者",
-      "KO": "학자",
-      "TL": "iskolar",
-      "MY": "ပညာရှင်",
-      "HI": "विद्वान",
-      "AR": "عالم",
-      "FA": "دانشمند"
-    },
-    "learned person": {
-      "EN": "learned person",
-      "ID": "orang terpelajar",
-      "ES": "persona culta",
-      "VI": "người có học",
-      "FR": "personne érudite",
-      "NE": "पढेको व्यक्ति",
-      "BN": "শিক্ষিত ব্যক্তি",
-      "ZH": "学者",
-      "KO": "배운 사람",
-      "TL": "natutunang tao",
-      "MY": "ပညာရှိ",
-      "HI": "विद्वान व्यक्ति",
-      "AR": "شخص متعلم",
-      "FA": "شخصی با تحصیلات عالی"
-    }
-  },
-  "jisho_data": {
-    "slug": "学者",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "学者",
-        "reading": "がくしゃ"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "scholar",
-          "academic",
-          "scientist"
+    "version": "0.3.0",
+    "word": "学者",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/4CPinPDu1XE",
+    "in_db": true,
+    "kanji": "学者",
+    "reading": "がくしゃ",
+    "introduction_japanese": "",
+    "introduction_english": "Let's delve into the term \"がくしゃ,\" which you'll frequently encounter in academic settings or on discussions about someone pursuing specialized knowledge.",
+    "meanings": [
+        [
+            "scholar",
+            "academic",
+            "scientist"
         ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
+        [
+            "learned person",
+            "person of learning"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word 学者 means a person who is engaged in extensive study and research, often in a specific field of knowledge, and is an expert in that area. It typically refers to a scholar or academic who has made significant contributions to their field.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "学",
+            "common_words": [
+                "学校: school",
+                "学生: student"
+            ]
+        },
+        {
+            "kanji": "者",
+            "common_words": [
+                "医者: doctor",
+                "作者: creator"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "研究者 : けんきゅうしゃ : researcher"
+    ],
+    "synonym_explanation": "The most common synonym of the word がくしゃ is けんきゅうしゃ. While がくしゃ refers to a scholar, けんきゅうしゃ is more specific to a researcher, emphasizing the act of conducting research and experiments specifically.",
+    "antonyms": [
+        "素人 : しろうと : amateur"
+    ],
+    "antonym_explanation": "The most common antonym of がくしゃ is しろうと. While がくしゃ indicates a scholarly expert, しろうと refers to an amateur or someone inexperienced, highlighting a lack of professional understanding.",
+    "collocations": [
+        {
+            "kanji": "学者になる",
+            "furigana": "学者になる",
+            "translations": {}
+        },
+        {
+            "kanji": "有名な学者",
+            "furigana": "有名な学者",
+            "translations": {}
+        },
+        {
+            "kanji": "文学の学者",
+            "furigana": "文学の学者",
+            "translations": {}
+        },
+        {
+            "kanji": "研究成果を発表した学者",
+            "furigana": "研究成果を発表した学者",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "彼は学者になりました。",
+            "furigana": "彼(かれ)は学者(がくしゃ)になりました。",
+            "translations": {
+                "EN": "He became a scholar.",
+                "ID": "Dia menjadi seorang sarjana.",
+                "ES": "Él se convirtió en un erudito.",
+                "VI": "Anh ấy đã trở thành một học giả.",
+                "FR": "Il est devenu un érudit.",
+                "NE": "उनी विद्वान बने।",
+                "BN": "তিনি একজন পণ্ডিত হয়েছেন।",
+                "ZH": "他成为了一名学者。",
+                "KO": "그는 학자가 되었습니다.",
+                "TL": "Naging isang iskolar siya.",
+                "MY": "သူက ပညာရှင် ဖြစ်ခဲ့ပါတယ်။",
+                "HI": "वह विद्वान बन गया।",
+                "AR": "أصبح عالمًا.",
+                "FA": "او دانشمند شد."
+            }
+        },
+        {
+            "kanji": "彼は有名な学者です。",
+            "furigana": "彼(かれ)は有名(ゆうめい)な学者(がくしゃ)です。",
+            "translations": {
+                "EN": "He is a famous scholar.",
+                "ID": "Dia adalah seorang sarjana terkenal.",
+                "ES": "Es un académico famoso.",
+                "VI": "Ông ấy là một học giả nổi tiếng.",
+                "FR": "Il est un érudit célèbre.",
+                "NE": "उहाँ चर्चित विद्वान हुनुहुन्छ।",
+                "BN": "তিনি একজন বিখ্যাত পণ্ডিত।",
+                "ZH": "他是著名的学者。",
+                "KO": "그는 유명한 학자입니다.",
+                "TL": "Siya ay isang tanyag na iskolar.",
+                "MY": "သူသည်နာမည်ကြီးပညာရှင်တစ်ဦးဖြစ်ပါသည်။",
+                "HI": "वह एक प्रसिद्ध विद्वान है।",
+                "AR": "إنه عالم مشهور.",
+                "FA": "او یک دانشمند معروف است."
+            }
+        },
+        {
+            "kanji": "彼は文学の学者です。",
+            "furigana": "彼(かれ)は文学(ぶんがく)の学者(がくしゃ)です。",
+            "translations": {
+                "EN": "He is a scholar of literature.",
+                "ID": "Dia adalah cendekiawan sastra.",
+                "ES": "Él es un académico de literatura.",
+                "VI": "Anh ấy là một học giả về văn học.",
+                "FR": "Il est un érudit de la littérature.",
+                "NE": "उ एक साहित्यकार हुन्।",
+                "BN": "তিনি সাহিত্যিক পণ্ডিত।",
+                "ZH": "他是文学学者。",
+                "KO": "그는 문학의 학자입니다.",
+                "TL": "Siya ay isang iskolar ng literatura.",
+                "MY": "သူက စာရေးဆရာ တစ်ယောက်ပါ။",
+                "HI": "वह साहित्य के विद्वान हैं।",
+                "AR": "هو عالِم في الأدب.",
+                "FA": "او یک دانشمند ادبیات است."
+            }
+        },
+        {
+            "kanji": "学者は研究成果を発表した。",
+            "furigana": "学者(がくしゃ)は研究成果(けんきゅうせいか)を発表(はっぴょう)した。",
+            "translations": {
+                "EN": "The scholar presented their research findings.",
+                "ID": "Sarjana itu mempresentasikan hasil penelitiannya.",
+                "ES": "El académico presentó sus hallazgos de investigación.",
+                "VI": "Nhà nghiên cứu đã trình bày kết quả nghiên cứu của họ.",
+                "FR": "Le savant a présenté ses résultats de recherche.",
+                "NE": "शिक्षकले अनुसन्धान परिणामहरू प्रस्तुत गरे।",
+                "BN": "বিজ্ঞানী তাদের গবেষণার ফলাফল উপস্থাপন করেছিলেন।",
+                "ZH": "学者展示了他们的研究成果。",
+                "KO": "학자는 연구 결과를 발표했습니다.",
+                "TL": "Ipinakita ng iskolar ang kanilang mga natuklasan sa pananaliksik.",
+                "MY": "ဘာသာရပ်တွေရဲ့ လေ့လာချက်တွေကို သုတေသီက ဖျော်ဖြေရန် ကြော်ငြာခဲ့သည်။",
+                "HI": "विद्वान ने अपने शोध निष्कर्ष प्रस्तुत किए।",
+                "AR": "العالم قدم نتائج بحثه.",
+                "FA": "دانشمند نتایج تحقیق را ارائه کرد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "scholar",
+                "academic",
+                "scientist"
+            ],
+            "ID": "sarjana",
+            "ES": "erudito",
+            "VI": "học giả",
+            "FR": "érudit",
+            "NE": "विद्वान",
+            "BN": "পণ্ডিত",
+            "ZH": "学者",
+            "KO": "학자",
+            "TL": "iskolar",
+            "MY": "ပညာရှင်",
+            "HI": "विद्वान",
+            "AR": "عالم",
+            "FA": "دانشمند"
+        },
+        {
+            "EN": [
+                "learned person",
+                "person of learning"
+            ],
+            "ID": "orang terpelajar",
+            "ES": "persona culta",
+            "VI": "người có học",
+            "FR": "personne érudite",
+            "NE": "पढेको व्यक्ति",
+            "BN": "শিক্ষিত ব্যক্তি",
+            "ZH": "学者",
+            "KO": "배운 사람",
+            "TL": "natutunang tao",
+            "MY": "ပညာရှိ",
+            "HI": "विद्वान व्यक्ति",
+            "AR": "شخص متعلم",
+            "FA": "شخصی با تحصیلات عالی"
+        }
+    ],
+    "jisho_data": {
+        "slug": "学者",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "learned person",
-          "person of learning"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Noun"
+        "japanese": [
+            {
+                "word": "学者",
+                "reading": "がくしゃ"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "学",
-    "者"
-  ],
-  "kanji_data": {
-    "学": {
-      "meanings": [
-        "learning",
-        "science",
-        "study"
-      ],
-      "on_readings": [
-        "ガク"
-      ],
-      "kun_readings": [
-        "まな.ぶ"
-      ],
-      "stroke_count": 8,
-      "jlpt": 5,
-      "freq_mainichi_shinbun": 63,
-      "unicode": "5B66",
-      "grade": 1
+        "senses": [
+            {
+                "english_definitions": [
+                    "scholar",
+                    "academic",
+                    "scientist"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "learned person",
+                    "person of learning"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "者": {
-      "meanings": [
-        "person",
-        "someone"
-      ],
-      "on_readings": [
-        "シャ"
-      ],
-      "kun_readings": [
-        "もの"
-      ],
-      "stroke_count": 8,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 38,
-      "unicode": "8005",
-      "grade": 3
+    "kanji_list": [
+        "学",
+        "者"
+    ],
+    "kanji_data": {
+        "学": {
+            "meanings": [
+                "learning",
+                "science",
+                "study"
+            ],
+            "on_readings": [
+                "ガク"
+            ],
+            "kun_readings": [
+                "まな.ぶ"
+            ],
+            "stroke_count": 8,
+            "jlpt": 5,
+            "freq_mainichi_shinbun": 63,
+            "unicode": "5B66",
+            "grade": 1
+        },
+        "者": {
+            "meanings": [
+                "person",
+                "someone"
+            ],
+            "on_readings": [
+                "シャ"
+            ],
+            "kun_readings": [
+                "もの"
+            ],
+            "stroke_count": 8,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 38,
+            "unicode": "8005",
+            "grade": 3
+        }
     }
-  }
 }

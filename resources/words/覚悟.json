@@ -1,320 +1,328 @@
 {
-  "version": "0.3.0",
-  "word": "覚悟",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/KUlFWhMkh2k",
-  "in_db": true,
-  "kanji": "覚悟",
-  "reading": "かくご",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is かくご which you will often hear when someone is preparing themselves for a difficult situation or when they have reached a turning point in life.  Let's dive into mastering this powerful word!",
-  "meanings": [
-    [
-      "readiness",
-      " preparedness"
-    ],
-    [
-      "resolution",
-      "determination"
-    ],
-    [
-      "resignation"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word 'かくご' means to be prepared or to brace oneself for something that is going to happen. It can also imply a sense of resolve or determination in facing a challenge or difficulty. Essentially, it involves mentally preparing and accepting what is to come, especially in tough situations.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "覚",
-      "common_words": [
-        "覚える: to memorize",
-        "自覚: self-consciousness"
-      ]
-    },
-    {
-      "kanji": "悟",
-      "common_words": [
-        "悟る: to perceive",
-        "悟性: wisdom"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "決意 : けつい : decision",
-    "準備 : じゅんび : preparation"
-  ],
-  "synonym_explanation": "The most common synonyms of the word 'かくご' are 'けつい' and 'じゅんび'. \n\n'けつい' refers to determination or resolve, emphasizing a firm decision made after careful thought. It carries a similar weight of mental commitment as 'かくご', often involving future actions. \n\n'じゅんび', on the other hand, means preparation. Its use is more general compared to 'かくご' and usually refers to getting ready before an event occurs with practical arrangements rather than an emotional or mental state.",
-  "antonyms": [
-    "不安 : ふあん : anxiety",
-    "動揺 : どうよう : shaking"
-  ],
-  "antonym_explanation": "The most common antonyms of the word 'かくご' are 'ふあん' and 'どうよう'. \n\n'ふあん' means anxiety or uneasiness, it's a state of being worried about what might happen, contrasting the readiness implied by 'かくご'. \n\n'どうよう' stands for disturbance or agitation. While 'かくご' suggests being mentally prepared, 'どうよう' indicates being unsettled, often as a reaction to unexpected events.",
-  "collocations": [
-    {
-      "kanji": "かくごのじゅんび",
-      "furigana": "かくごのじゅんび",
-      "translations": {}
-    },
-    {
-      "kanji": "かくごをきめる",
-      "furigana": "かくごをきめる",
-      "translations": {}
-    },
-    {
-      "kanji": "かくごをかためる",
-      "furigana": "かくごをかためる",
-      "translations": {}
-    },
-    {
-      "kanji": "かくごしたうえで",
-      "furigana": "かくごしたうえで",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "彼は覚悟の準備をした。",
-      "furigana": "彼(かれ)は覚悟(かくご)の準備(じゅんび)をした。",
-      "translations": {
-        "EN": "He prepared himself mentally.",
-        "ID": "Dia bersiap mental.",
-        "ES": "Él se preparó mentalmente.",
-        "VI": "Anh ấy đã chuẩn bị tâm lý.",
-        "FR": "Il s'est préparé mentalement.",
-        "NE": "उहाँले आफूलाई तयार गर्नुभयो।",
-        "BN": "সে মানসিকভাবে প্রস্তুত হল।",
-        "ZH": "他做好了心理准备。",
-        "KO": "그는 정신적으로 준비했다.",
-        "TL": "Naghanda siya sa sarili niya.",
-        "MY": "သူ့ကိုယ်သူ စိတ်ပြင်ဆင်ခဲ့သည်။",
-        "HI": "उसने खुद को मानसिक रूप से तैयार किया।",
-        "AR": "استعد لنفسه نفسياً.",
-        "FA": "او خودش را آماده کرد."
-      }
-    },
-    {
-      "kanji": "私は覚悟を決めます。",
-      "furigana": "私(わたし)は覚悟(かくご)を決(き)めます。",
-      "translations": {
-        "EN": "I will make up my mind.",
-        "ID": "Saya telah memutuskan.",
-        "ES": "He tomado una decisión.",
-        "VI": "Tôi đã quyết định.",
-        "FR": "J'ai pris ma décision.",
-        "NE": "मैले आफ्नो मनमा दृढ निर्णय गरेको छु।",
-        "BN": "আমি আমার মনস্থির করেছি।",
-        "ZH": "我已下定决心。",
-        "KO": "나는 결심하였습니다.",
-        "TL": "Napagdesisyunan ko na.",
-        "MY": "ကျွန်ုပ်သည် စိတ်ဆုံးဖြတ်ခဲ့ပါသည်။",
-        "HI": "मैंने अपना मन बना लिया है।",
-        "AR": "لقد اتخذت قراري.",
-        "FA": "من تصمیم خود را گرفته‌ام."
-      }
-    },
-    {
-      "kanji": "試験のため覚悟を固める。",
-      "furigana": "試験(しけん)のため覚悟(かくご)を固める(かためる)。",
-      "translations": {
-        "EN": "Resolve for the exam.",
-        "ID": "Menguatkan niat untuk ujian.",
-        "ES": "Prepararse para el examen.",
-        "VI": "Kiên định cho kỳ thi.",
-        "FR": "Se préparer pour l'examen.",
-        "NE": "परीक्षाको लागि निर्णय गर्ने।",
-        "BN": "পরীক্ষার জন্য প্রস্তুত হও।",
-        "ZH": "为了考试做好准备。",
-        "KO": "시험을 위해 각오를 다지다.",
-        "TL": "Magdesisyon para sa pagsusulit.",
-        "MY": "စမ်းသပ်မှုအတွက်ဆုံးဖြတ်ချက်ချသည်။",
-        "HI": "परीक्षा के लिए दृढ़ संकल्प करना।",
-        "AR": "تحضير النفس للامتحان.",
-        "FA": "برای امتحان آماده شو."
-      }
-    },
-    {
-      "kanji": "彼は覚悟した上で出発した。",
-      "furigana": "彼(かれ)は覚悟(かくご)した上(うえ)で出発(しゅっぱつ)した。",
-      "translations": {
-        "EN": "He set out with determination.",
-        "ID": "Dia berangkat dengan tekad.",
-        "ES": "Él salió con determinación.",
-        "VI": "Anh ấy đã dời đi với quyết tâm.",
-        "FR": "Il est parti avec détermination.",
-        "NE": "उनी दृढता साथ अघि बढे।",
-        "BN": "তিনি দৃঢ়প্রতিজ্ঞ হয়ে রওনা হলেন।",
-        "ZH": "他怀着决心出发了。",
-        "KO": "그는 각오한 채로 출발했다.",
-        "TL": "Umalis siya nang may determinasyon.",
-        "MY": "သူသည် စိတ်အားထက်သန်စွာထွက်ခွာခဲ့သည်။",
-        "HI": "वह निश्चय करके आगे बढ़ा।",
-        "AR": "انطلق بعزم وتصميم.",
-        "FA": "او با عزم سفر کرد."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "readiness": {
-      "EN": "readiness",
-      "ID": "kesiapan",
-      "ES": "disposición",
-      "VI": "sự sẵn sàng",
-      "FR": "la préparation",
-      "NE": "तयारी",
-      "BN": "প্রস্তুতি",
-      "ZH": "准备",
-      "KO": "준비된 상태",
-      "TL": "kahandaan",
-      "MY": "အဆင်သင့် ဖြစ်မှု",
-      "HI": "तैयारी",
-      "AR": "الاستعداد",
-      "FA": "آمادگی"
-    },
-    "resolution": {
-      "EN": "Resolution",
-      "ID": "Resolusi",
-      "ES": "Resolución",
-      "VI": "Quyết tâm",
-      "FR": "Résolution",
-      "NE": "निर्णय",
-      "BN": "সঙ্কল্প",
-      "ZH": "决心",
-      "KO": "결심",
-      "TL": "Resolusyon",
-      "MY": "ဆုံးဖြတ်ချက်",
-      "HI": "संकल्प",
-      "AR": "قرار",
-      "FA": "تصمیم"
-    },
-    "resignation": {
-      "EN": "resignation",
-      "ID": "pengunduran diri",
-      "ES": "renuncia",
-      "VI": "từ chức",
-      "FR": "démission",
-      "NE": "इस्तीफा",
-      "BN": "পদত্যাগ",
-      "ZH": "辞职",
-      "KO": "사임",
-      "TL": "pagbibitiw",
-      "MY": "အလုပ်ထုတ်လိုက်ခြင်း",
-      "HI": "इस्तीफा",
-      "AR": "استقالة",
-      "FA": "استعفا"
-    }
-  },
-  "jisho_data": {
-    "slug": "覚悟",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "覚悟",
-        "reading": "かくご"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "readiness",
-          " preparedness"
+    "version": "0.3.0",
+    "word": "覚悟",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/KUlFWhMkh2k",
+    "in_db": true,
+    "kanji": "覚悟",
+    "reading": "かくご",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is かくご which you will often hear when someone is preparing themselves for a difficult situation or when they have reached a turning point in life.  Let's dive into mastering this powerful word!",
+    "meanings": [
+        [
+            "readiness",
+            " preparedness"
         ],
-        "parts_of_speech": [
-          "Noun, Suru verb, Transitive verb"
+        [
+            "resolution",
+            "determination"
         ],
-        "links": [],
+        [
+            "resignation"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word 'かくご' means to be prepared or to brace oneself for something that is going to happen. It can also imply a sense of resolve or determination in facing a challenge or difficulty. Essentially, it involves mentally preparing and accepting what is to come, especially in tough situations.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "覚",
+            "common_words": [
+                "覚える: to memorize",
+                "自覚: self-consciousness"
+            ]
+        },
+        {
+            "kanji": "悟",
+            "common_words": [
+                "悟る: to perceive",
+                "悟性: wisdom"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "決意 : けつい : decision",
+        "準備 : じゅんび : preparation"
+    ],
+    "synonym_explanation": "The most common synonyms of the word 'かくご' are 'けつい' and 'じゅんび'. \n\n'けつい' refers to determination or resolve, emphasizing a firm decision made after careful thought. It carries a similar weight of mental commitment as 'かくご', often involving future actions. \n\n'じゅんび', on the other hand, means preparation. Its use is more general compared to 'かくご' and usually refers to getting ready before an event occurs with practical arrangements rather than an emotional or mental state.",
+    "antonyms": [
+        "不安 : ふあん : anxiety",
+        "動揺 : どうよう : shaking"
+    ],
+    "antonym_explanation": "The most common antonyms of the word 'かくご' are 'ふあん' and 'どうよう'. \n\n'ふあん' means anxiety or uneasiness, it's a state of being worried about what might happen, contrasting the readiness implied by 'かくご'. \n\n'どうよう' stands for disturbance or agitation. While 'かくご' suggests being mentally prepared, 'どうよう' indicates being unsettled, often as a reaction to unexpected events.",
+    "collocations": [
+        {
+            "kanji": "かくごのじゅんび",
+            "furigana": "かくごのじゅんび",
+            "translations": {}
+        },
+        {
+            "kanji": "かくごをきめる",
+            "furigana": "かくごをきめる",
+            "translations": {}
+        },
+        {
+            "kanji": "かくごをかためる",
+            "furigana": "かくごをかためる",
+            "translations": {}
+        },
+        {
+            "kanji": "かくごしたうえで",
+            "furigana": "かくごしたうえで",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "彼は覚悟の準備をした。",
+            "furigana": "彼(かれ)は覚悟(かくご)の準備(じゅんび)をした。",
+            "translations": {
+                "EN": "He prepared himself mentally.",
+                "ID": "Dia bersiap mental.",
+                "ES": "Él se preparó mentalmente.",
+                "VI": "Anh ấy đã chuẩn bị tâm lý.",
+                "FR": "Il s'est préparé mentalement.",
+                "NE": "उहाँले आफूलाई तयार गर्नुभयो।",
+                "BN": "সে মানসিকভাবে প্রস্তুত হল।",
+                "ZH": "他做好了心理准备。",
+                "KO": "그는 정신적으로 준비했다.",
+                "TL": "Naghanda siya sa sarili niya.",
+                "MY": "သူ့ကိုယ်သူ စိတ်ပြင်ဆင်ခဲ့သည်။",
+                "HI": "उसने खुद को मानसिक रूप से तैयार किया।",
+                "AR": "استعد لنفسه نفسياً.",
+                "FA": "او خودش را آماده کرد."
+            }
+        },
+        {
+            "kanji": "私は覚悟を決めます。",
+            "furigana": "私(わたし)は覚悟(かくご)を決(き)めます。",
+            "translations": {
+                "EN": "I will make up my mind.",
+                "ID": "Saya telah memutuskan.",
+                "ES": "He tomado una decisión.",
+                "VI": "Tôi đã quyết định.",
+                "FR": "J'ai pris ma décision.",
+                "NE": "मैले आफ्नो मनमा दृढ निर्णय गरेको छु।",
+                "BN": "আমি আমার মনস্থির করেছি।",
+                "ZH": "我已下定决心。",
+                "KO": "나는 결심하였습니다.",
+                "TL": "Napagdesisyunan ko na.",
+                "MY": "ကျွန်ုပ်သည် စိတ်ဆုံးဖြတ်ခဲ့ပါသည်။",
+                "HI": "मैंने अपना मन बना लिया है।",
+                "AR": "لقد اتخذت قراري.",
+                "FA": "من تصمیم خود را گرفته‌ام."
+            }
+        },
+        {
+            "kanji": "試験のため覚悟を固める。",
+            "furigana": "試験(しけん)のため覚悟(かくご)を固める(かためる)。",
+            "translations": {
+                "EN": "Resolve for the exam.",
+                "ID": "Menguatkan niat untuk ujian.",
+                "ES": "Prepararse para el examen.",
+                "VI": "Kiên định cho kỳ thi.",
+                "FR": "Se préparer pour l'examen.",
+                "NE": "परीक्षाको लागि निर्णय गर्ने।",
+                "BN": "পরীক্ষার জন্য প্রস্তুত হও।",
+                "ZH": "为了考试做好准备。",
+                "KO": "시험을 위해 각오를 다지다.",
+                "TL": "Magdesisyon para sa pagsusulit.",
+                "MY": "စမ်းသပ်မှုအတွက်ဆုံးဖြတ်ချက်ချသည်။",
+                "HI": "परीक्षा के लिए दृढ़ संकल्प करना।",
+                "AR": "تحضير النفس للامتحان.",
+                "FA": "برای امتحان آماده شو."
+            }
+        },
+        {
+            "kanji": "彼は覚悟した上で出発した。",
+            "furigana": "彼(かれ)は覚悟(かくご)した上(うえ)で出発(しゅっぱつ)した。",
+            "translations": {
+                "EN": "He set out with determination.",
+                "ID": "Dia berangkat dengan tekad.",
+                "ES": "Él salió con determinación.",
+                "VI": "Anh ấy đã dời đi với quyết tâm.",
+                "FR": "Il est parti avec détermination.",
+                "NE": "उनी दृढता साथ अघि बढे।",
+                "BN": "তিনি দৃঢ়প্রতিজ্ঞ হয়ে রওনা হলেন।",
+                "ZH": "他怀着决心出发了。",
+                "KO": "그는 각오한 채로 출발했다.",
+                "TL": "Umalis siya nang may determinasyon.",
+                "MY": "သူသည် စိတ်အားထက်သန်စွာထွက်ခွာခဲ့သည်။",
+                "HI": "वह निश्चय करके आगे बढ़ा।",
+                "AR": "انطلق بعزم وتصميم.",
+                "FA": "او با عزم سفر کرد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "readiness",
+                " preparedness"
+            ],
+            "ID": "kesiapan",
+            "ES": "disposición",
+            "VI": "sự sẵn sàng",
+            "FR": "la préparation",
+            "NE": "तयारी",
+            "BN": "প্রস্তুতি",
+            "ZH": "准备",
+            "KO": "준비된 상태",
+            "TL": "kahandaan",
+            "MY": "အဆင်သင့် ဖြစ်မှု",
+            "HI": "तैयारी",
+            "AR": "الاستعداد",
+            "FA": "آمادگی"
+        },
+        {
+            "EN": [
+                "resolution",
+                "determination"
+            ],
+            "ID": "Resolusi",
+            "ES": "Resolución",
+            "VI": "Quyết tâm",
+            "FR": "Résolution",
+            "NE": "निर्णय",
+            "BN": "সঙ্কল্প",
+            "ZH": "决心",
+            "KO": "결심",
+            "TL": "Resolusyon",
+            "MY": "ဆုံးဖြတ်ချက်",
+            "HI": "संकल्प",
+            "AR": "قرار",
+            "FA": "تصمیم"
+        },
+        {
+            "EN": [
+                "resignation"
+            ],
+            "ID": "pengunduran diri",
+            "ES": "renuncia",
+            "VI": "từ chức",
+            "FR": "démission",
+            "NE": "इस्तीफा",
+            "BN": "পদত্যাগ",
+            "ZH": "辞职",
+            "KO": "사임",
+            "TL": "pagbibitiw",
+            "MY": "အလုပ်ထုတ်လိုက်ခြင်း",
+            "HI": "इस्तीफा",
+            "AR": "استقالة",
+            "FA": "استعفا"
+        }
+    ],
+    "jisho_data": {
+        "slug": "覚悟",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "resolution",
-          "determination"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Noun, Suru verb, Transitive verb"
+        "japanese": [
+            {
+                "word": "覚悟",
+                "reading": "かくご"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "resignation"
-        ],
-        "parts_of_speech": [
-          "Noun, Suru verb, Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "覚",
-    "悟"
-  ],
-  "kanji_data": {
-    "覚": {
-      "meanings": [
-        "awake",
-        "learn",
-        "memorize",
-        "remember",
-        "sober up"
-      ],
-      "on_readings": [
-        "カク"
-      ],
-      "kun_readings": [
-        "おぼ.える",
-        "さ.ます",
-        "さ.める",
-        "さと.る"
-      ],
-      "stroke_count": 12,
-      "jlpt": 3,
-      "freq_mainichi_shinbun": 710,
-      "unicode": "899A",
-      "grade": 4
+        "senses": [
+            {
+                "english_definitions": [
+                    "readiness",
+                    " preparedness"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "resolution",
+                    "determination"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "resignation"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "悟": {
-      "meanings": [
-        "discern",
-        "enlightenment",
-        "perceive",
-        "realize",
-        "understand"
-      ],
-      "on_readings": [
-        "ゴ"
-      ],
-      "kun_readings": [
-        "さと.る"
-      ],
-      "stroke_count": 10,
-      "jlpt": 1,
-      "freq_mainichi_shinbun": 1411,
-      "unicode": "609F",
-      "grade": 8
+    "kanji_list": [
+        "覚",
+        "悟"
+    ],
+    "kanji_data": {
+        "覚": {
+            "meanings": [
+                "awake",
+                "learn",
+                "memorize",
+                "remember",
+                "sober up"
+            ],
+            "on_readings": [
+                "カク"
+            ],
+            "kun_readings": [
+                "おぼ.える",
+                "さ.ます",
+                "さ.める",
+                "さと.る"
+            ],
+            "stroke_count": 12,
+            "jlpt": 3,
+            "freq_mainichi_shinbun": 710,
+            "unicode": "899A",
+            "grade": 4
+        },
+        "悟": {
+            "meanings": [
+                "discern",
+                "enlightenment",
+                "perceive",
+                "realize",
+                "understand"
+            ],
+            "on_readings": [
+                "ゴ"
+            ],
+            "kun_readings": [
+                "さと.る"
+            ],
+            "stroke_count": 10,
+            "jlpt": 1,
+            "freq_mainichi_shinbun": 1411,
+            "unicode": "609F",
+            "grade": 8
+        }
     }
-  }
 }

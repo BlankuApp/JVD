@@ -1,444 +1,474 @@
 {
-  "version": "0.3.0",
-  "word": "一方",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/ZAwNSnSRYmg",
-  "in_db": true,
-  "kanji": "一方",
-  "reading": "いっぽう",
-  "introduction_japanese": "",
-  "introduction_english": "Let's dive into the versatile world of \"いっぽう\" — a word you'll frequently encounter in situations describing contrasting ideas or simultaneous actions.",
-  "meanings": [
-    [
-      "one",
-      "the other",
-      "one way",
-      "the other way",
-      "one direction",
-      "the other direction",
-      "one side",
-      "the other side",
-      "one party",
-      "the other party"
-    ],
-    [
-      "on the one hand",
-      "on the other hand"
-    ],
-    [
-      "whereas",
-      "although",
-      "but at the same time",
-      "meanwhile",
-      "in turn"
-    ],
-    [
-      "just keeps",
-      "being inclined to ...",
-      "tending to be ...",
-      "tending to do ...",
-      "continuously ...",
-      "just keeps on ...ing",
-      "only"
-    ],
-    [
-      "Ippou"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"いっぽう\" means \"on the one hand,\" \"on the other hand,\" \"meanwhile,\" or \"while.\" It is often used to show contrast between two different actions or states, highlight simultaneous actions, or connect opposing ideas. It can be used to introduce different perspectives or describe a separate yet related occurrence. ",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "一",
-      "common_words": [
-        "一つ: one",
-        "一緒:  together"
-      ]
-    },
-    {
-      "kanji": "方",
-      "common_words": [
-        "方向: direction",
-        "方法: method"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "他方 : たほう : one"
-  ],
-  "synonym_explanation": "The most common synonym of the word \"いっぽう\" is \"たほう.\" Both terms can be used to refer to another perspective or side of an argument. \"たほう\" is also applicable in contexts emphasizing another choice or element.",
-  "antonyms": [
-    "共通 : きょうつう : common",
-    "同時 : どうじ : same time"
-  ],
-  "antonym_explanation": "The most common antonyms of the word \"いっぽう\" are \"きょうつう\" and \"どうじ.\" While \"いっぽう\" highlights differences or contrasting aspects, \"きょうつう\" means \"common\" or \"shared,\" and \"どうじ\" refers to \"simultaneously\" without differentiation.",
-  "collocations": [
-    {
-      "kanji": "いっぽうで、べんきょうする",
-      "furigana": "いっぽうで、べんきょうする",
-      "translations": {}
-    },
-    {
-      "kanji": "いっぽう、せんそうがつづく",
-      "furigana": "いっぽう、せんそうがつづく",
-      "translations": {}
-    },
-    {
-      "kanji": "おんがくをききつつ いっぽうでは はたらく",
-      "furigana": "おんがくをききつつ いっぽうでは はたらく",
-      "translations": {}
-    },
-    {
-      "kanji": "かれはいっぽうで ぶしょう",
-      "furigana": "かれはいっぽうで ぶしょう",
-      "translations": {}
-    },
-    {
-      "kanji": "いっぽう、さいしんのどうが",
-      "furigana": "いっぽう、さいしんのどうが",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "母はいっぽうで働いて、いっぽうで勉強しています。",
-      "furigana": "母(はは)は一方(いっぽう)で働(はたら)いて、一方(いっぽう)で勉強(べんきょう)しています。",
-      "translations": {
-        "EN": "My mother works on one hand, and studies on the other.",
-        "ID": "Ibu saya di satu pihak bekerja, dan di pihak lain belajar.",
-        "ES": "Mi madre trabaja por un lado, y estudia por el otro.",
-        "VI": "Mẹ tôi một mặt làm việc, mặt khác học hành.",
-        "FR": "Ma mère travaille d'un côté, et étudie de l'autre.",
-        "NE": "आमाले एकतर्फ काम गर्नुहुन्छ, र अर्कोतर्फ अध्ययन गर्नुहुन्छ।",
-        "BN": "আমার মা একদিকে কাজ করেন, এবং অন্যদিকে পড়াশোনা করেন।",
-        "ZH": "妈妈一方面工作，一方面学习。",
-        "KO": "어머니는 한편으론 일하시고, 한편으론 공부하십니다.",
-        "TL": "Ang nanay ko sa isang banda ay nagtatrabaho, at sa kabila naman ng pag-aaral.",
-        "MY": "အမေနှမေးမောင်းအတွက်တစ်ခြမ်းရောလုပ်သေး၊ အခြမ်းရောလေ့လာပါသည်။",
-        "HI": "मेरी माँ एक तरफ काम करती हैं और दूसरी तरफ पढ़ाई करती हैं।",
-        "AR": "والدتي تعمل من جهة وتدرس من جهة أخرى.",
-        "FA": "مادرم از یک طرف کار می‌کند و از طرف دیگر درس می‌خواند."
-      }
-    },
-    {
-      "kanji": "一方、戦争が続く。",
-      "furigana": "一方(いっぽう)、戦争(せんそう)が続(つづ)く。",
-      "translations": {
-        "EN": "On one hand, the war continues.",
-        "ID": "Di satu sisi, perang berlanjut.",
-        "ES": "Por un lado, la guerra continúa.",
-        "VI": "Một mặt, chiến tranh vẫn tiếp diễn.",
-        "FR": "D'un côté, la guerre continue.",
-        "NE": "अर्कोतिर, युद्ध जारी छ।",
-        "BN": "অন্যদিকে, যুদ্ধ চলতে থাকে।",
-        "ZH": "另一方面，战争仍在继续。",
-        "KO": "한편, 전쟁은 계속된다.",
-        "TL": "Sa kabilang banda, patuloy ang giyera.",
-        "MY": "တဖက်တွင်၊ စစ်ပွဲသည် ဆက်လက်ဖြစ်ပွားနေသည်။",
-        "HI": "दूसरी ओर, युद्ध जारी है।",
-        "AR": "من ناحية أخرى، الحرب مستمرة.",
-        "FA": "از سوی دیگر، جنگ ادامه دارد."
-      }
-    },
-    {
-      "kanji": "私は音楽を聞きつつ、一方では働く。",
-      "furigana": "私(わたし)は音楽(おんがく)を聞(き)きつつ、一方(いっぽう)では働(はたら)く。",
-      "translations": {
-        "EN": "I listen to music while working.",
-        "ID": "Saya mendengarkan musik sambil bekerja.",
-        "ES": "Escucho música mientras trabajo.",
-        "VI": "Tôi nghe nhạc trong khi làm việc.",
-        "FR": "J'écoute de la musique tout en travaillant.",
-        "NE": "म काम गर्दा संगीत सुन्छु।",
-        "BN": "আমি কাজ করার সময় গান শুনি।",
-        "ZH": "我一边听音乐一边工作。",
-        "KO": "나는 음악을 들으면서 일을 합니다.",
-        "TL": "Nakikinig ako ng musika habang nagtatrabaho.",
-        "MY": "ကျွန်ုပ်သည် တပ်ဖြူမြူဝမ်းဖွင့်နေစဉ် ဖမ်းပြီးဖြစ်သောအခါတွင် အလုပ်လုပ်သည်။",
-        "HI": "मैं काम करते समय संगीत सुनता हूँ।",
-        "AR": "أستمع إلى الموسيقى أثناء العمل.",
-        "FA": "من هنگام کار کردن به موسیقی گوش می‌دهم."
-      }
-    },
-    {
-      "kanji": "彼は一方で無精です。",
-      "furigana": "彼(かれ)は一方(いっぽう)で無精(ぶしょう)です。",
-      "translations": {
-        "EN": "He is, on the other hand, lazy.",
-        "ID": "Dia, di sisi lain, malas.",
-        "ES": "Él, por otro lado, es perezoso.",
-        "VI": "Anh ấy, mặt khác, lười biếng.",
-        "FR": "Il est, d'un autre côté, paresseux.",
-        "NE": "उ, अर्कोतिर, अल्छी छन्।",
-        "BN": "তিনি, অন্যদিকে, অলস।",
-        "ZH": "他在另一方面懒惰。",
-        "KO": "그는 한편으로는 게으르다.",
-        "TL": "Siya, sa kabilang banda, tamad.",
-        "MY": "သူက တစ်ဖက်မှာ အပြင်းအထန်ဖြစ်တယ်။",
-        "HI": "वह, दूसरी ओर, आलसी है।",
-        "AR": "هو ، من جهة أخرى ، كسول.",
-        "FA": "او, از سوی دیگر, تنبل است."
-      }
-    },
-    {
-      "kanji": "私は音楽を聞く。一方、最新の動画を見る。",
-      "furigana": "私は音楽を聞く。一方(いっぽう)、最新(さいしん)の動画を見る。",
-      "translations": {
-        "EN": "I listen to music. Meanwhile, I watch the latest videos.",
-        "ID": "Saya mendengarkan musik. Sementara itu, saya menonton video terbaru.",
-        "ES": "Escucho música. Mientras tanto, veo los videos más recientes.",
-        "VI": "Tôi nghe nhạc. Trong khi đó, tôi xem các video mới nhất.",
-        "FR": "J'écoute de la musique. D'un autre côté, je regarde les dernières vidéos.",
-        "NE": "म संगीत सुन्छु। अर्कोतिर, म नयाँ भिडियोहरू हेर्छु।",
-        "BN": "আমি গান শুনি। অন্যদিকে, আমি সর্বশেষ ভিডিওগুলি দেখি।",
-        "ZH": "我听音乐。同时，我观看最新的视频。",
-        "KO": "저는 음악을 들어요. 한편, 최신 동영상을 봅니다.",
-        "TL": "Nakikinig ako ng musika. Samantalang, pinapanood ko ang pinakabagong mga video.",
-        "MY": "ကျွန်တော် သီချင်းနားထောင်ပါတယ်။ တစ်ဖက်၌ နောက်ဆုံးရဗီဒီယိုတွေကြည့်ပါတယ်။",
-        "HI": "मैं संगीत सुनता हूँ। दूसरी ओर, मैं नवीनतम वीडियो देखता हूँ।",
-        "AR": "أستمع إلى الموسيقى. من ناحية أخرى، أشاهد أحدث الفيديوهات.",
-        "FA": "من به موسیقی گوش می‌دهم. در همین حال، ویدیوهای جدید را تماشا می‌کنم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "one": {
-      "EN": "one",
-      "ID": "satu",
-      "ES": "uno",
-      "VI": "một",
-      "FR": "un",
-      "NE": "एक",
-      "BN": "এক",
-      "ZH": "一个",
-      "KO": "하나",
-      "TL": "isa",
-      "MY": "တစ်",
-      "HI": "एक",
-      "AR": "واحد",
-      "FA": "یک"
-    },
-    "on the one hand": {
-      "EN": "on the one hand",
-      "ID": "Di satu sisi",
-      "ES": "por un lado",
-      "VI": "một mặt",
-      "FR": "d'un côté",
-      "NE": "एउटा तर्फ",
-      "BN": "একদিকে",
-      "ZH": "一方面",
-      "KO": "한편으로는",
-      "TL": "sa isang banda",
-      "MY": "တစ်ဖက်에서는",
-      "HI": "एक ओर",
-      "AR": "من ناحية",
-      "FA": "از یک سو"
-    },
-    "whereas": {
-      "EN": "whereas",
-      "ID": "sementara",
-      "ES": "mientras que",
-      "VI": "trong khi",
-      "FR": "tandis que",
-      "NE": "तर",
-      "BN": "যেখানে",
-      "ZH": "而",
-      "KO": "반면에",
-      "TL": "samantalang",
-      "MY": "အခြားတစ်ဖက်",
-      "HI": "वहीं",
-      "AR": "من جهة",
-      "FA": "در حالیکه"
-    },
-    "just keeps": {
-      "EN": "Just keeps",
-      "ID": "Hanya menjaga",
-      "ES": "Solo mantiene",
-      "VI": "Chỉ giữ",
-      "FR": "Continue simplement",
-      "NE": "बस राख्दछ",
-      "BN": "শুধুমাত্র রাখে",
-      "ZH": "仅仅保持",
-      "KO": "계속 유지합니다",
-      "TL": "Patuloy lamang",
-      "MY": "လုံလပ်ထားပါမှတ်လို့",
-      "HI": "सिर्फ नियंत्रित करता है",
-      "AR": "يستمر فقط",
-      "FA": "فقط حفظ می‌کند"
-    },
-    "Ippou": {
-      "EN": "On the other hand / one side",
-      "ID": "Di sisi lain / satu sisi",
-      "ES": "Por otro lado / un lado",
-      "VI": "Mặt khác / một phía",
-      "FR": "D'un côté",
-      "NE": "एकतिर",
-      "BN": "অন্যদিকে / একদিক",
-      "ZH": "一方面",
-      "KO": "한편",
-      "TL": "Sa isang banda",
-      "MY": "တစ်ဖက်",
-      "HI": "दूसरी ओर / एक तरफ",
-      "AR": "من ناحية أخرى / على جانب واحد",
-      "FA": "از طرفی"
-    }
-  },
-  "jisho_data": {
-    "slug": "一方",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "一方",
-        "reading": "いっぽう"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "one",
-          "the other",
-          "one way",
-          "the other way",
-          "one direction",
-          "the other direction",
-          "one side",
-          "the other side",
-          "one party",
-          "the other party"
+    "version": "0.3.0",
+    "word": "一方",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/ZAwNSnSRYmg",
+    "in_db": true,
+    "kanji": "一方",
+    "reading": "いっぽう",
+    "introduction_japanese": "",
+    "introduction_english": "Let's dive into the versatile world of \"いっぽう\" — a word you'll frequently encounter in situations describing contrasting ideas or simultaneous actions.",
+    "meanings": [
+        [
+            "one",
+            "the other",
+            "one way",
+            "the other way",
+            "one direction",
+            "the other direction",
+            "one side",
+            "the other side",
+            "one party",
+            "the other party"
         ],
-        "parts_of_speech": [
-          "Noun"
+        [
+            "on the one hand",
+            "on the other hand"
         ],
-        "links": [],
+        [
+            "whereas",
+            "although",
+            "but at the same time",
+            "meanwhile",
+            "in turn"
+        ],
+        [
+            "just keeps",
+            "being inclined to ...",
+            "tending to be ...",
+            "tending to do ...",
+            "continuously ...",
+            "just keeps on ...ing",
+            "only"
+        ],
+        [
+            "Ippou"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"いっぽう\" means \"on the one hand,\" \"on the other hand,\" \"meanwhile,\" or \"while.\" It is often used to show contrast between two different actions or states, highlight simultaneous actions, or connect opposing ideas. It can be used to introduce different perspectives or describe a separate yet related occurrence. ",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "一",
+            "common_words": [
+                "一つ: one",
+                "一緒:  together"
+            ]
+        },
+        {
+            "kanji": "方",
+            "common_words": [
+                "方向: direction",
+                "方法: method"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "他方 : たほう : one"
+    ],
+    "synonym_explanation": "The most common synonym of the word \"いっぽう\" is \"たほう.\" Both terms can be used to refer to another perspective or side of an argument. \"たほう\" is also applicable in contexts emphasizing another choice or element.",
+    "antonyms": [
+        "共通 : きょうつう : common",
+        "同時 : どうじ : same time"
+    ],
+    "antonym_explanation": "The most common antonyms of the word \"いっぽう\" are \"きょうつう\" and \"どうじ.\" While \"いっぽう\" highlights differences or contrasting aspects, \"きょうつう\" means \"common\" or \"shared,\" and \"どうじ\" refers to \"simultaneously\" without differentiation.",
+    "collocations": [
+        {
+            "kanji": "いっぽうで、べんきょうする",
+            "furigana": "いっぽうで、べんきょうする",
+            "translations": {}
+        },
+        {
+            "kanji": "いっぽう、せんそうがつづく",
+            "furigana": "いっぽう、せんそうがつづく",
+            "translations": {}
+        },
+        {
+            "kanji": "おんがくをききつつ いっぽうでは はたらく",
+            "furigana": "おんがくをききつつ いっぽうでは はたらく",
+            "translations": {}
+        },
+        {
+            "kanji": "かれはいっぽうで ぶしょう",
+            "furigana": "かれはいっぽうで ぶしょう",
+            "translations": {}
+        },
+        {
+            "kanji": "いっぽう、さいしんのどうが",
+            "furigana": "いっぽう、さいしんのどうが",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "母はいっぽうで働いて、いっぽうで勉強しています。",
+            "furigana": "母(はは)は一方(いっぽう)で働(はたら)いて、一方(いっぽう)で勉強(べんきょう)しています。",
+            "translations": {
+                "EN": "My mother works on one hand, and studies on the other.",
+                "ID": "Ibu saya di satu pihak bekerja, dan di pihak lain belajar.",
+                "ES": "Mi madre trabaja por un lado, y estudia por el otro.",
+                "VI": "Mẹ tôi một mặt làm việc, mặt khác học hành.",
+                "FR": "Ma mère travaille d'un côté, et étudie de l'autre.",
+                "NE": "आमाले एकतर्फ काम गर्नुहुन्छ, र अर्कोतर्फ अध्ययन गर्नुहुन्छ।",
+                "BN": "আমার মা একদিকে কাজ করেন, এবং অন্যদিকে পড়াশোনা করেন।",
+                "ZH": "妈妈一方面工作，一方面学习。",
+                "KO": "어머니는 한편으론 일하시고, 한편으론 공부하십니다.",
+                "TL": "Ang nanay ko sa isang banda ay nagtatrabaho, at sa kabila naman ng pag-aaral.",
+                "MY": "အမေနှမေးမောင်းအတွက်တစ်ခြမ်းရောလုပ်သေး၊ အခြမ်းရောလေ့လာပါသည်။",
+                "HI": "मेरी माँ एक तरफ काम करती हैं और दूसरी तरफ पढ़ाई करती हैं।",
+                "AR": "والدتي تعمل من جهة وتدرس من جهة أخرى.",
+                "FA": "مادرم از یک طرف کار می‌کند و از طرف دیگر درس می‌خواند."
+            }
+        },
+        {
+            "kanji": "一方、戦争が続く。",
+            "furigana": "一方(いっぽう)、戦争(せんそう)が続(つづ)く。",
+            "translations": {
+                "EN": "On one hand, the war continues.",
+                "ID": "Di satu sisi, perang berlanjut.",
+                "ES": "Por un lado, la guerra continúa.",
+                "VI": "Một mặt, chiến tranh vẫn tiếp diễn.",
+                "FR": "D'un côté, la guerre continue.",
+                "NE": "अर्कोतिर, युद्ध जारी छ।",
+                "BN": "অন্যদিকে, যুদ্ধ চলতে থাকে।",
+                "ZH": "另一方面，战争仍在继续。",
+                "KO": "한편, 전쟁은 계속된다.",
+                "TL": "Sa kabilang banda, patuloy ang giyera.",
+                "MY": "တဖက်တွင်၊ စစ်ပွဲသည် ဆက်လက်ဖြစ်ပွားနေသည်။",
+                "HI": "दूसरी ओर, युद्ध जारी है।",
+                "AR": "من ناحية أخرى، الحرب مستمرة.",
+                "FA": "از سوی دیگر، جنگ ادامه دارد."
+            }
+        },
+        {
+            "kanji": "私は音楽を聞きつつ、一方では働く。",
+            "furigana": "私(わたし)は音楽(おんがく)を聞(き)きつつ、一方(いっぽう)では働(はたら)く。",
+            "translations": {
+                "EN": "I listen to music while working.",
+                "ID": "Saya mendengarkan musik sambil bekerja.",
+                "ES": "Escucho música mientras trabajo.",
+                "VI": "Tôi nghe nhạc trong khi làm việc.",
+                "FR": "J'écoute de la musique tout en travaillant.",
+                "NE": "म काम गर्दा संगीत सुन्छु।",
+                "BN": "আমি কাজ করার সময় গান শুনি।",
+                "ZH": "我一边听音乐一边工作。",
+                "KO": "나는 음악을 들으면서 일을 합니다.",
+                "TL": "Nakikinig ako ng musika habang nagtatrabaho.",
+                "MY": "ကျွန်ုပ်သည် တပ်ဖြူမြူဝမ်းဖွင့်နေစဉ် ဖမ်းပြီးဖြစ်သောအခါတွင် အလုပ်လုပ်သည်။",
+                "HI": "मैं काम करते समय संगीत सुनता हूँ।",
+                "AR": "أستمع إلى الموسيقى أثناء العمل.",
+                "FA": "من هنگام کار کردن به موسیقی گوش می‌دهم."
+            }
+        },
+        {
+            "kanji": "彼は一方で無精です。",
+            "furigana": "彼(かれ)は一方(いっぽう)で無精(ぶしょう)です。",
+            "translations": {
+                "EN": "He is, on the other hand, lazy.",
+                "ID": "Dia, di sisi lain, malas.",
+                "ES": "Él, por otro lado, es perezoso.",
+                "VI": "Anh ấy, mặt khác, lười biếng.",
+                "FR": "Il est, d'un autre côté, paresseux.",
+                "NE": "उ, अर्कोतिर, अल्छी छन्।",
+                "BN": "তিনি, অন্যদিকে, অলস।",
+                "ZH": "他在另一方面懒惰。",
+                "KO": "그는 한편으로는 게으르다.",
+                "TL": "Siya, sa kabilang banda, tamad.",
+                "MY": "သူက တစ်ဖက်မှာ အပြင်းအထန်ဖြစ်တယ်။",
+                "HI": "वह, दूसरी ओर, आलसी है।",
+                "AR": "هو ، من جهة أخرى ، كسول.",
+                "FA": "او, از سوی دیگر, تنبل است."
+            }
+        },
+        {
+            "kanji": "私は音楽を聞く。一方、最新の動画を見る。",
+            "furigana": "私は音楽を聞く。一方(いっぽう)、最新(さいしん)の動画を見る。",
+            "translations": {
+                "EN": "I listen to music. Meanwhile, I watch the latest videos.",
+                "ID": "Saya mendengarkan musik. Sementara itu, saya menonton video terbaru.",
+                "ES": "Escucho música. Mientras tanto, veo los videos más recientes.",
+                "VI": "Tôi nghe nhạc. Trong khi đó, tôi xem các video mới nhất.",
+                "FR": "J'écoute de la musique. D'un autre côté, je regarde les dernières vidéos.",
+                "NE": "म संगीत सुन्छु। अर्कोतिर, म नयाँ भिडियोहरू हेर्छु।",
+                "BN": "আমি গান শুনি। অন্যদিকে, আমি সর্বশেষ ভিডিওগুলি দেখি।",
+                "ZH": "我听音乐。同时，我观看最新的视频。",
+                "KO": "저는 음악을 들어요. 한편, 최신 동영상을 봅니다.",
+                "TL": "Nakikinig ako ng musika. Samantalang, pinapanood ko ang pinakabagong mga video.",
+                "MY": "ကျွန်တော် သီချင်းနားထောင်ပါတယ်။ တစ်ဖက်၌ နောက်ဆုံးရဗီဒီယိုတွေကြည့်ပါတယ်။",
+                "HI": "मैं संगीत सुनता हूँ। दूसरी ओर, मैं नवीनतम वीडियो देखता हूँ।",
+                "AR": "أستمع إلى الموسيقى. من ناحية أخرى، أشاهد أحدث الفيديوهات.",
+                "FA": "من به موسیقی گوش می‌دهم. در همین حال، ویدیوهای جدید را تماشا می‌کنم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "one",
+                "the other",
+                "one way",
+                "the other way",
+                "one direction",
+                "the other direction",
+                "one side",
+                "the other side",
+                "one party",
+                "the other party"
+            ],
+            "ID": "satu",
+            "ES": "uno",
+            "VI": "một",
+            "FR": "un",
+            "NE": "एक",
+            "BN": "এক",
+            "ZH": "一个",
+            "KO": "하나",
+            "TL": "isa",
+            "MY": "တစ်",
+            "HI": "एक",
+            "AR": "واحد",
+            "FA": "یک"
+        },
+        {
+            "EN": [
+                "on the one hand",
+                "on the other hand"
+            ],
+            "ID": "Di satu sisi",
+            "ES": "por un lado",
+            "VI": "một mặt",
+            "FR": "d'un côté",
+            "NE": "एउटा तर्फ",
+            "BN": "একদিকে",
+            "ZH": "一方面",
+            "KO": "한편으로는",
+            "TL": "sa isang banda",
+            "MY": "တစ်ဖက်에서는",
+            "HI": "एक ओर",
+            "AR": "من ناحية",
+            "FA": "از یک سو"
+        },
+        {
+            "EN": [
+                "whereas",
+                "although",
+                "but at the same time",
+                "meanwhile",
+                "in turn"
+            ],
+            "ID": "sementara",
+            "ES": "mientras que",
+            "VI": "trong khi",
+            "FR": "tandis que",
+            "NE": "तर",
+            "BN": "যেখানে",
+            "ZH": "而",
+            "KO": "반면에",
+            "TL": "samantalang",
+            "MY": "အခြားတစ်ဖက်",
+            "HI": "वहीं",
+            "AR": "من جهة",
+            "FA": "در حالیکه"
+        },
+        {
+            "EN": [
+                "just keeps",
+                "being inclined to ...",
+                "tending to be ...",
+                "tending to do ...",
+                "continuously ...",
+                "just keeps on ...ing",
+                "only"
+            ],
+            "ID": "Hanya menjaga",
+            "ES": "Solo mantiene",
+            "VI": "Chỉ giữ",
+            "FR": "Continue simplement",
+            "NE": "बस राख्दछ",
+            "BN": "শুধুমাত্র রাখে",
+            "ZH": "仅仅保持",
+            "KO": "계속 유지합니다",
+            "TL": "Patuloy lamang",
+            "MY": "လုံလပ်ထားပါမှတ်လို့",
+            "HI": "सिर्फ नियंत्रित करता है",
+            "AR": "يستمر فقط",
+            "FA": "فقط حفظ می‌کند"
+        },
+        {
+            "EN": [
+                "Ippou"
+            ],
+            "ID": "Di sisi lain / satu sisi",
+            "ES": "Por otro lado / un lado",
+            "VI": "Mặt khác / một phía",
+            "FR": "D'un côté",
+            "NE": "एकतिर",
+            "BN": "অন্যদিকে / একদিক",
+            "ZH": "一方面",
+            "KO": "한편",
+            "TL": "Sa isang banda",
+            "MY": "တစ်ဖက်",
+            "HI": "दूसरी ओर / एक तरफ",
+            "AR": "من ناحية أخرى / على جانب واحد",
+            "FA": "از طرفی"
+        }
+    ],
+    "jisho_data": {
+        "slug": "一方",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "on the one hand",
-          "on the other hand"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Conjunction"
+        "japanese": [
+            {
+                "word": "一方",
+                "reading": "いっぽう"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "whereas",
-          "although",
-          "but at the same time",
-          "meanwhile",
-          "in turn"
-        ],
-        "parts_of_speech": [
-          "Conjunction"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "just keeps",
-          "being inclined to ...",
-          "tending to be ...",
-          "tending to do ...",
-          "continuously ...",
-          "just keeps on ...ing",
-          "only"
-        ],
-        "parts_of_speech": [
-          "Noun, Noun, used as a suffix, Adverb (fukushi)"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "Ippou"
-        ],
-        "parts_of_speech": [
-          "Place"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "一",
-    "方"
-  ],
-  "kanji_data": {
-    "一": {
-      "meanings": [
-        "one",
-        "one radical (no.1)"
-      ],
-      "on_readings": [
-        "イチ",
-        "イツ"
-      ],
-      "kun_readings": [
-        "ひと-",
-        "ひと.つ"
-      ],
-      "stroke_count": 1,
-      "jlpt": 5,
-      "freq_mainichi_shinbun": 2,
-      "unicode": "4E00",
-      "grade": 1
+        "senses": [
+            {
+                "english_definitions": [
+                    "one",
+                    "the other",
+                    "one way",
+                    "the other way",
+                    "one direction",
+                    "the other direction",
+                    "one side",
+                    "the other side",
+                    "one party",
+                    "the other party"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "on the one hand",
+                    "on the other hand"
+                ],
+                "parts_of_speech": [
+                    "Conjunction"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "whereas",
+                    "although",
+                    "but at the same time",
+                    "meanwhile",
+                    "in turn"
+                ],
+                "parts_of_speech": [
+                    "Conjunction"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "just keeps",
+                    "being inclined to ...",
+                    "tending to be ...",
+                    "tending to do ...",
+                    "continuously ...",
+                    "just keeps on ...ing",
+                    "only"
+                ],
+                "parts_of_speech": [
+                    "Noun, Noun, used as a suffix, Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Ippou"
+                ],
+                "parts_of_speech": [
+                    "Place"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "方": {
-      "meanings": [
-        "alternative",
-        "direction",
-        "person"
-      ],
-      "on_readings": [
-        "ホウ"
-      ],
-      "kun_readings": [
-        "-かた",
-        "-がた",
-        "かた"
-      ],
-      "stroke_count": 4,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 46,
-      "unicode": "65B9",
-      "grade": 2
+    "kanji_list": [
+        "一",
+        "方"
+    ],
+    "kanji_data": {
+        "一": {
+            "meanings": [
+                "one",
+                "one radical (no.1)"
+            ],
+            "on_readings": [
+                "イチ",
+                "イツ"
+            ],
+            "kun_readings": [
+                "ひと-",
+                "ひと.つ"
+            ],
+            "stroke_count": 1,
+            "jlpt": 5,
+            "freq_mainichi_shinbun": 2,
+            "unicode": "4E00",
+            "grade": 1
+        },
+        "方": {
+            "meanings": [
+                "alternative",
+                "direction",
+                "person"
+            ],
+            "on_readings": [
+                "ホウ"
+            ],
+            "kun_readings": [
+                "-かた",
+                "-がた",
+                "かた"
+            ],
+            "stroke_count": 4,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 46,
+            "unicode": "65B9",
+            "grade": 2
+        }
     }
-  }
 }

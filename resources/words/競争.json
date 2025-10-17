@@ -176,9 +176,11 @@
       }
     }
   ],
-  "meanings_translations": {
-    "competition": {
-      "EN": "competition",
+  "meanings_translations": [
+    {
+      "EN": [
+        "competition"
+      ],
       "ID": "kompetisi",
       "ES": "competencia",
       "VI": "cuộc thi",
@@ -193,7 +195,7 @@
       "AR": "المنافسة",
       "FA": "رقابت"
     }
-  },
+  ],
   "jisho_data": {
     "slug": "競争",
     "is_common": true,

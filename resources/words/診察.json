@@ -1,452 +1,455 @@
 {
-  "version": "0.3.0",
-  "word": "診察",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/Xxejsm08j1E",
-  "in_db": true,
-  "kanji": "診察",
-  "reading": "しんさつ",
-  "introduction_japanese": "診察は、病院や診療所で医師が患者の体を見たり話を聞いたりする場面でよく使う言葉です。健康診断や病気の相談、定期検査のときにも出てきます。診察室や待合、予約や診察券のやり取りの会話でよく聞きます。",
-  "introduction_english": "The noun しんさつ is commonly used when a doctor checks a patient at a hospital or clinic. You hear it during health checkups, medical consultations, and regular follow-up appointments, and in conversations about the exam room, waiting, or appointment cards.",
-  "meanings": [
-    [
-      "medical examination",
-      "checkup",
-      "consultation"
-    ],
-    [
-      "physical examination"
-    ]
-  ],
-  "meaning_explanation_japanese": "「診察」は医師が患者の症状を見たり聞いたりして調べることを指します。病院で体の状態を確認したり、相談を受ける場面で使います。",
-  "meaning_explanation_english": "The word しんさつ means a doctor examining a patient, like a medical checkup or consultation. It refers to checking symptoms, doing a physical exam, or discussing health with a doctor.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "診",
-      "common_words": [
-        "診断 (しんだん): diagnosis",
-        "診療 (しんりょう): medical care; medical treatment"
-      ]
-    },
-    {
-      "kanji": "察",
-      "common_words": [
-        "警察 (けいさつ): police",
-        "察する (さっする): to guess; to sense; to perceive"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means to check, examine, or diagnose. In the words しんだん and しんりょう it keeps that sense of medical checking or diagnosis, so you see it in medical vocabulary. The second kanji means to guess, judge, or understand. In the words けいさつ and さっする it carries the idea of observing or judging, which fits with understanding or inspecting something.",
-  "synonyms": [
-    "診療 : しんりょう : medical treatment/care",
-    "受診 : じゅしん : visiting a doctor; receiving a medical consultation"
-  ],
-  "synonym_explanation": "The most common synonyms of the しんさつ are しんりょう and じゅしん. しんりょう focuses more on the medical treatment or care side, while じゅしん emphasizes the act of going to see a doctor. Both are related to しんさつ but have slightly different focuses.",
-  "antonyms": [],
-  "antonym_explanation": "No common antonyms found.",
-  "collocations": [
-    {
-      "kanji": "患者を診察する",
-      "furigana": "患者を診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "病人を診察する",
-      "furigana": "病人を診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "子どもを診察する",
-      "furigana": "子どもを診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "外来を診察する",
-      "furigana": "外来を診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "内科を診察する",
-      "furigana": "内科を診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "医師の診察",
-      "furigana": "医師の診察",
-      "translations": {}
-    },
-    {
-      "kanji": "今日の診察",
-      "furigana": "今日の診察",
-      "translations": {}
-    },
-    {
-      "kanji": "外来の診察",
-      "furigana": "外来の診察",
-      "translations": {}
-    },
-    {
-      "kanji": "定期の診察",
-      "furigana": "定期の診察",
-      "translations": {}
-    },
-    {
-      "kanji": "次回の診察",
-      "furigana": "次回の診察",
-      "translations": {}
-    },
-    {
-      "kanji": "診察を受ける",
-      "furigana": "診察を受ける",
-      "translations": {}
-    },
-    {
-      "kanji": "診察を終える",
-      "furigana": "診察を終える",
-      "translations": {}
-    },
-    {
-      "kanji": "診察を待つ",
-      "furigana": "診察を待つ",
-      "translations": {}
-    },
-    {
-      "kanji": "診察を始める",
-      "furigana": "診察を始める",
-      "translations": {}
-    },
-    {
-      "kanji": "診察を希望する",
-      "furigana": "診察を希望する",
-      "translations": {}
-    },
-    {
-      "kanji": "丁寧に診察する",
-      "furigana": "丁寧に診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "慎重に診察する",
-      "furigana": "慎重に診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "しっかり診察する",
-      "furigana": "しっかり診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "正確に診察する",
-      "furigana": "正確に診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しく診察する",
-      "furigana": "詳しく診察する",
-      "translations": {}
-    },
-    {
-      "kanji": "診察券を出す",
-      "furigana": "診察券を出す",
-      "translations": {}
-    },
-    {
-      "kanji": "診察室に入る",
-      "furigana": "診察室に入る",
-      "translations": {}
-    },
-    {
-      "kanji": "診察時間が始まる",
-      "furigana": "診察時間が始まる",
-      "translations": {}
-    },
-    {
-      "kanji": "診察順を待つ",
-      "furigana": "診察順を待つ",
-      "translations": {}
-    },
-    {
-      "kanji": "診察日を決める",
-      "furigana": "診察日を決める",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "患者を診察する。",
-      "furigana": "患者(かんじゃ)を診察(しんさつ)する。",
-      "translations": {
-        "EN": "Examine the patient.",
-        "ID": "Periksa pasien.",
-        "ES": "Examinar al paciente.",
-        "VI": "Khám bệnh nhân.",
-        "FR": "Examiner le patient.",
-        "NE": "बिरामीको जाँच गर्नुहोस्।",
-        "BN": "রোগীকে পরীক্ষা করুন।",
-        "ZH": "检查病人。",
-        "KO": "환자를 진찰한다.",
-        "TL": "Suriin ang pasyente.",
-        "MY": "လူနာကိုစစ်ဆေးပါ။",
-        "HI": "रोगी की जांच करें.",
-        "AR": "فحص المريض.",
-        "FA": "بیمار را معاینه کنید."
-      }
-    },
-    {
-      "kanji": "診察を受ける。",
-      "furigana": "診察(しんさつ)を受(う)ける。",
-      "translations": {
-        "EN": "Get a medical examination.",
-        "ID": "Jalani pemeriksaan medis.",
-        "ES": "Hazte un examen médico.",
-        "VI": "Đi khám sức khỏe.",
-        "FR": "Passez un examen médical.",
-        "NE": "स्वास्थ्य परीक्षण गराउनुहोस्।",
-        "BN": "ডাক্তারি পরীক্ষা করান।",
-        "ZH": "接受体检。",
-        "KO": "진찰을 받는다.",
-        "TL": "Kumuha ng medikal na pagsusuri.",
-        "MY": "ဆေးစစ်ချက်ရယူပါ။",
-        "HI": "चिकित्सीय जांच करवाएं.",
-        "AR": "احصل على فحص طبي.",
-        "FA": "معاینه پزشکی شوید."
-      }
-    },
-    {
-      "kanji": "診察券を出す。",
-      "furigana": "診察券(しんさつけん)を出(だ)す。",
-      "translations": {
-        "EN": "Present your medical card.",
-        "ID": "Tunjukkan kartu medis Anda.",
-        "ES": "Presentar su tarjeta médica.",
-        "VI": "Xuất trình thẻ y tế của bạn.",
-        "FR": "Présentez votre carte médicale.",
-        "NE": "आफ्नो मेडिकल कार्ड देखाउनुहोस्।",
-        "BN": "তোমার মেডিকেল কার্ড দেখাও।",
-        "ZH": "出示您的医疗卡。",
-        "KO": "진찰권을 낸다.",
-        "TL": "Ipakita ang iyong medical card.",
-        "MY": "သင်၏ဆေးကတ်ကိုတင်ပြပါ။",
-        "HI": "अपना मेडिकल कार्ड प्रस्तुत करें.",
-        "AR": "إبراز بطاقتك الطبية.",
-        "FA": "کارت پزشکی خود را ارائه دهید."
-      }
-    },
-    {
-      "kanji": "診察室に入る。",
-      "furigana": "診察室(しんさつしつ)に入(はい)る。",
-      "translations": {
-        "EN": "Enter the examination room.",
-        "ID": "Masuk ke ruang pemeriksaan.",
-        "ES": "Entrar a la sala de examen.",
-        "VI": "Vào phòng thi.",
-        "FR": "Entrez dans la salle d'examen.",
-        "NE": "परीक्षा कोठामा प्रवेश गर्नुहोस्।",
-        "BN": "পরীক্ষার কক্ষে প্রবেশ করুন।",
-        "ZH": "进入考场。",
-        "KO": "진찰실에 들어간다.",
-        "TL": "Pumasok sa examination room.",
-        "MY": "စာမေးပွဲခန်းထဲဝင်ပါ။",
-        "HI": "परीक्षा कक्ष में प्रवेश करें।",
-        "AR": "ادخل إلى غرفة الفحص.",
-        "FA": "وارد اتاق معاینه شوید."
-      }
-    },
-    {
-      "kanji": "今日の診察は九時からだ。",
-      "furigana": "今日(きょう)の診察(しんさつ)は九時(くじ)からだ。",
-      "translations": {
-        "EN": "The appointment starts at nine o'clock today.",
-        "ID": "Janji temu dimulai pukul sembilan hari ini.",
-        "ES": "La cita comienza hoy a las nueve en punto.",
-        "VI": "Cuộc hẹn bắt đầu lúc chín giờ hôm nay.",
-        "FR": "Le rendez-vous commence à neuf heures aujourd'hui.",
-        "NE": "आज भेटघाट नौ बजे सुरु हुन्छ।",
-        "BN": "আজ সকাল নয়টায় অ্যাপয়েন্টমেন্ট শুরু হবে।",
-        "ZH": "预约于今天九点开始。",
-        "KO": "오늘의 진찰은 9시부터다.",
-        "TL": "Magsisimula ang appointment sa alas-nuwebe ngayon.",
-        "MY": "ယနေ့ ကိုးနာရီတွင် စတင်ချိန်းဆိုသည်။",
-        "HI": "आज सुबह नौ बजे से नियुक्ति शुरू होगी।",
-        "AR": "الموعد يبدأ الساعة التاسعة اليوم.",
-        "FA": "قرار ملاقات امروز ساعت نه شروع میشه."
-      }
-    },
-    {
-      "kanji": "診察を待つ。",
-      "furigana": "診察(しんさつ)を待(ま)つ。",
-      "translations": {
-        "EN": "Waiting for examination.",
-        "ID": "Menunggu pemeriksaan.",
-        "ES": "Esperando el examen.",
-        "VI": "Đang chờ khám.",
-        "FR": "En attente d'examen.",
-        "NE": "परीक्षाको लागि पर्खँदै।",
-        "BN": "পরীক্ষার জন্য অপেক্ষা করছি।",
-        "ZH": "等待檢查。",
-        "KO": "진찰을 기다립니다.",
-        "TL": "Naghihintay ng pagsusulit.",
-        "MY": "စာမေးပွဲကို စောင့်နေတယ်။",
-        "HI": "परीक्षा की प्रतीक्षा में.",
-        "AR": "في انتظار الامتحان.",
-        "FA": "منتظر معاینه."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "medical examination": {
-      "ID": "pemeriksaan medis",
-      "ES": "examen médico",
-      "VI": "khám sức khỏe",
-      "FR": "examen médical",
-      "NE": "स्वास्थ्य परीक्षण",
-      "BN": "মেডিকেল পরীক্ষা",
-      "ZH": "体格检查",
-      "KO": "건강 검사",
-      "TL": "medikal na pagsusuri",
-      "MY": "ဆေးစစ်ခြင်း။",
-      "HI": "चिकित्सा परीक्षण",
-      "AR": "الفحص الطبي",
-      "FA": "معاینه پزشکی",
-      "EN": [
-        "checkup",
-        "consultation"
-      ]
-    },
-    "physical examination": {
-      "ID": "pemeriksaan fisik",
-      "ES": "examen físico",
-      "VI": "khám sức khỏe",
-      "FR": "examen physique",
-      "NE": "शारीरिक परीक्षण",
-      "BN": "শারীরিক পরীক্ষা",
-      "ZH": "体格检查",
-      "KO": "신체 검사",
-      "TL": "pisikal na pagsusuri",
-      "MY": "ရုပ်ပိုင်းဆိုင်ရာစစ်ဆေးမှု",
-      "HI": "शारीरिक जाँच",
-      "AR": "الفحص البدني",
-      "FA": "معاینه فیزیکی",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "診察",
-    "is_common": true,
-    "tags": [
-      "wanikani29"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "診察",
-        "reading": "しんさつ"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "medical examination",
-          "checkup",
-          "consultation"
+    "version": "0.3.0",
+    "word": "診察",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/Xxejsm08j1E",
+    "in_db": true,
+    "kanji": "診察",
+    "reading": "しんさつ",
+    "introduction_japanese": "診察は、病院や診療所で医師が患者の体を見たり話を聞いたりする場面でよく使う言葉です。健康診断や病気の相談、定期検査のときにも出てきます。診察室や待合、予約や診察券のやり取りの会話でよく聞きます。",
+    "introduction_english": "The noun しんさつ is commonly used when a doctor checks a patient at a hospital or clinic. You hear it during health checkups, medical consultations, and regular follow-up appointments, and in conversations about the exam room, waiting, or appointment cards.",
+    "meanings": [
+        [
+            "medical examination",
+            "checkup",
+            "consultation"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "Physical examination"
-        ],
-        "parts_of_speech": [
-          "Wikipedia definition"
-        ],
-        "links": [
-          {
-            "text": "Read “Physical examination” on English Wikipedia",
-            "url": "http://en.wikipedia.org/wiki/Physical_examination?oldid=492035813"
-          },
-          {
-            "text": "Read “診察” on Japanese Wikipedia",
-            "url": "http://ja.wikipedia.org/wiki/診察?oldid=42497586"
-          }
-        ],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [],
-        "sentences": []
-      }
+        [
+            "physical examination"
+        ]
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": "http://dbpedia.org/resource/Physical_examination"
-    }
-  },
-  "kanji_list": [
-    "診",
-    "察"
-  ],
-  "kanji_data": {
-    "診": {
-      "freq_mainichi_shinbun": 1019,
-      "grade": 8,
-      "heisig_en": "check-up",
-      "jlpt": 1,
-      "kanji": "診",
-      "kun_readings": [
-        "み.る"
-      ],
-      "meanings": [
-        "checkup",
-        "diagnose",
-        "examine",
-        "seeing"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "シン"
-      ],
-      "stroke_count": 12,
-      "unicode": "8A3A"
+    "meaning_explanation_japanese": "「診察」は医師が患者の症状を見たり聞いたりして調べることを指します。病院で体の状態を確認したり、相談を受ける場面で使います。",
+    "meaning_explanation_english": "The word しんさつ means a doctor examining a patient, like a medical checkup or consultation. It refers to checking symptoms, doing a physical exam, or discussing health with a doctor.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "診",
+            "common_words": [
+                "診断 (しんだん): diagnosis",
+                "診療 (しんりょう): medical care; medical treatment"
+            ]
+        },
+        {
+            "kanji": "察",
+            "common_words": [
+                "警察 (けいさつ): police",
+                "察する (さっする): to guess; to sense; to perceive"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to check, examine, or diagnose. In the words しんだん and しんりょう it keeps that sense of medical checking or diagnosis, so you see it in medical vocabulary. The second kanji means to guess, judge, or understand. In the words けいさつ and さっする it carries the idea of observing or judging, which fits with understanding or inspecting something.",
+    "synonyms": [
+        "診療 : しんりょう : medical treatment/care",
+        "受診 : じゅしん : visiting a doctor; receiving a medical consultation"
+    ],
+    "synonym_explanation": "The most common synonyms of the しんさつ are しんりょう and じゅしん. しんりょう focuses more on the medical treatment or care side, while じゅしん emphasizes the act of going to see a doctor. Both are related to しんさつ but have slightly different focuses.",
+    "antonyms": [],
+    "antonym_explanation": "No common antonyms found.",
+    "collocations": [
+        {
+            "kanji": "患者を診察する",
+            "furigana": "患者を診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "病人を診察する",
+            "furigana": "病人を診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "子どもを診察する",
+            "furigana": "子どもを診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "外来を診察する",
+            "furigana": "外来を診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "内科を診察する",
+            "furigana": "内科を診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "医師の診察",
+            "furigana": "医師の診察",
+            "translations": {}
+        },
+        {
+            "kanji": "今日の診察",
+            "furigana": "今日の診察",
+            "translations": {}
+        },
+        {
+            "kanji": "外来の診察",
+            "furigana": "外来の診察",
+            "translations": {}
+        },
+        {
+            "kanji": "定期の診察",
+            "furigana": "定期の診察",
+            "translations": {}
+        },
+        {
+            "kanji": "次回の診察",
+            "furigana": "次回の診察",
+            "translations": {}
+        },
+        {
+            "kanji": "診察を受ける",
+            "furigana": "診察を受ける",
+            "translations": {}
+        },
+        {
+            "kanji": "診察を終える",
+            "furigana": "診察を終える",
+            "translations": {}
+        },
+        {
+            "kanji": "診察を待つ",
+            "furigana": "診察を待つ",
+            "translations": {}
+        },
+        {
+            "kanji": "診察を始める",
+            "furigana": "診察を始める",
+            "translations": {}
+        },
+        {
+            "kanji": "診察を希望する",
+            "furigana": "診察を希望する",
+            "translations": {}
+        },
+        {
+            "kanji": "丁寧に診察する",
+            "furigana": "丁寧に診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "慎重に診察する",
+            "furigana": "慎重に診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "しっかり診察する",
+            "furigana": "しっかり診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "正確に診察する",
+            "furigana": "正確に診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しく診察する",
+            "furigana": "詳しく診察する",
+            "translations": {}
+        },
+        {
+            "kanji": "診察券を出す",
+            "furigana": "診察券を出す",
+            "translations": {}
+        },
+        {
+            "kanji": "診察室に入る",
+            "furigana": "診察室に入る",
+            "translations": {}
+        },
+        {
+            "kanji": "診察時間が始まる",
+            "furigana": "診察時間が始まる",
+            "translations": {}
+        },
+        {
+            "kanji": "診察順を待つ",
+            "furigana": "診察順を待つ",
+            "translations": {}
+        },
+        {
+            "kanji": "診察日を決める",
+            "furigana": "診察日を決める",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "患者を診察する。",
+            "furigana": "患者(かんじゃ)を診察(しんさつ)する。",
+            "translations": {
+                "EN": "Examine the patient.",
+                "ID": "Periksa pasien.",
+                "ES": "Examinar al paciente.",
+                "VI": "Khám bệnh nhân.",
+                "FR": "Examiner le patient.",
+                "NE": "बिरामीको जाँच गर्नुहोस्।",
+                "BN": "রোগীকে পরীক্ষা করুন।",
+                "ZH": "检查病人。",
+                "KO": "환자를 진찰한다.",
+                "TL": "Suriin ang pasyente.",
+                "MY": "လူနာကိုစစ်ဆေးပါ။",
+                "HI": "रोगी की जांच करें.",
+                "AR": "فحص المريض.",
+                "FA": "بیمار را معاینه کنید."
+            }
+        },
+        {
+            "kanji": "診察を受ける。",
+            "furigana": "診察(しんさつ)を受(う)ける。",
+            "translations": {
+                "EN": "Get a medical examination.",
+                "ID": "Jalani pemeriksaan medis.",
+                "ES": "Hazte un examen médico.",
+                "VI": "Đi khám sức khỏe.",
+                "FR": "Passez un examen médical.",
+                "NE": "स्वास्थ्य परीक्षण गराउनुहोस्।",
+                "BN": "ডাক্তারি পরীক্ষা করান।",
+                "ZH": "接受体检。",
+                "KO": "진찰을 받는다.",
+                "TL": "Kumuha ng medikal na pagsusuri.",
+                "MY": "ဆေးစစ်ချက်ရယူပါ။",
+                "HI": "चिकित्सीय जांच करवाएं.",
+                "AR": "احصل على فحص طبي.",
+                "FA": "معاینه پزشکی شوید."
+            }
+        },
+        {
+            "kanji": "診察券を出す。",
+            "furigana": "診察券(しんさつけん)を出(だ)す。",
+            "translations": {
+                "EN": "Present your medical card.",
+                "ID": "Tunjukkan kartu medis Anda.",
+                "ES": "Presentar su tarjeta médica.",
+                "VI": "Xuất trình thẻ y tế của bạn.",
+                "FR": "Présentez votre carte médicale.",
+                "NE": "आफ्नो मेडिकल कार्ड देखाउनुहोस्।",
+                "BN": "তোমার মেডিকেল কার্ড দেখাও।",
+                "ZH": "出示您的医疗卡。",
+                "KO": "진찰권을 낸다.",
+                "TL": "Ipakita ang iyong medical card.",
+                "MY": "သင်၏ဆေးကတ်ကိုတင်ပြပါ။",
+                "HI": "अपना मेडिकल कार्ड प्रस्तुत करें.",
+                "AR": "إبراز بطاقتك الطبية.",
+                "FA": "کارت پزشکی خود را ارائه دهید."
+            }
+        },
+        {
+            "kanji": "診察室に入る。",
+            "furigana": "診察室(しんさつしつ)に入(はい)る。",
+            "translations": {
+                "EN": "Enter the examination room.",
+                "ID": "Masuk ke ruang pemeriksaan.",
+                "ES": "Entrar a la sala de examen.",
+                "VI": "Vào phòng thi.",
+                "FR": "Entrez dans la salle d'examen.",
+                "NE": "परीक्षा कोठामा प्रवेश गर्नुहोस्।",
+                "BN": "পরীক্ষার কক্ষে প্রবেশ করুন।",
+                "ZH": "进入考场。",
+                "KO": "진찰실에 들어간다.",
+                "TL": "Pumasok sa examination room.",
+                "MY": "စာမေးပွဲခန်းထဲဝင်ပါ။",
+                "HI": "परीक्षा कक्ष में प्रवेश करें।",
+                "AR": "ادخل إلى غرفة الفحص.",
+                "FA": "وارد اتاق معاینه شوید."
+            }
+        },
+        {
+            "kanji": "今日の診察は九時からだ。",
+            "furigana": "今日(きょう)の診察(しんさつ)は九時(くじ)からだ。",
+            "translations": {
+                "EN": "The appointment starts at nine o'clock today.",
+                "ID": "Janji temu dimulai pukul sembilan hari ini.",
+                "ES": "La cita comienza hoy a las nueve en punto.",
+                "VI": "Cuộc hẹn bắt đầu lúc chín giờ hôm nay.",
+                "FR": "Le rendez-vous commence à neuf heures aujourd'hui.",
+                "NE": "आज भेटघाट नौ बजे सुरु हुन्छ।",
+                "BN": "আজ সকাল নয়টায় অ্যাপয়েন্টমেন্ট শুরু হবে।",
+                "ZH": "预约于今天九点开始。",
+                "KO": "오늘의 진찰은 9시부터다.",
+                "TL": "Magsisimula ang appointment sa alas-nuwebe ngayon.",
+                "MY": "ယနေ့ ကိုးနာရီတွင် စတင်ချိန်းဆိုသည်။",
+                "HI": "आज सुबह नौ बजे से नियुक्ति शुरू होगी।",
+                "AR": "الموعد يبدأ الساعة التاسعة اليوم.",
+                "FA": "قرار ملاقات امروز ساعت نه شروع میشه."
+            }
+        },
+        {
+            "kanji": "診察を待つ。",
+            "furigana": "診察(しんさつ)を待(ま)つ。",
+            "translations": {
+                "EN": "Waiting for examination.",
+                "ID": "Menunggu pemeriksaan.",
+                "ES": "Esperando el examen.",
+                "VI": "Đang chờ khám.",
+                "FR": "En attente d'examen.",
+                "NE": "परीक्षाको लागि पर्खँदै।",
+                "BN": "পরীক্ষার জন্য অপেক্ষা করছি।",
+                "ZH": "等待檢查。",
+                "KO": "진찰을 기다립니다.",
+                "TL": "Naghihintay ng pagsusulit.",
+                "MY": "စာမေးပွဲကို စောင့်နေတယ်။",
+                "HI": "परीक्षा की प्रतीक्षा में.",
+                "AR": "في انتظار الامتحان.",
+                "FA": "منتظر معاینه."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "pemeriksaan medis",
+            "ES": "examen médico",
+            "VI": "khám sức khỏe",
+            "FR": "examen médical",
+            "NE": "स्वास्थ्य परीक्षण",
+            "BN": "মেডিকেল পরীক্ষা",
+            "ZH": "体格检查",
+            "KO": "건강 검사",
+            "TL": "medikal na pagsusuri",
+            "MY": "ဆေးစစ်ခြင်း။",
+            "HI": "चिकित्सा परीक्षण",
+            "AR": "الفحص الطبي",
+            "FA": "معاینه پزشکی",
+            "EN": [
+                "medical examination",
+                "checkup",
+                "consultation"
+            ]
+        },
+        {
+            "ID": "pemeriksaan fisik",
+            "ES": "examen físico",
+            "VI": "khám sức khỏe",
+            "FR": "examen physique",
+            "NE": "शारीरिक परीक्षण",
+            "BN": "শারীরিক পরীক্ষা",
+            "ZH": "体格检查",
+            "KO": "신체 검사",
+            "TL": "pisikal na pagsusuri",
+            "MY": "ရုပ်ပိုင်းဆိုင်ရာစစ်ဆေးမှု",
+            "HI": "शारीरिक जाँच",
+            "AR": "الفحص البدني",
+            "FA": "معاینه فیزیکی",
+            "EN": [
+                "physical examination"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "診察",
+        "is_common": true,
+        "tags": [
+            "wanikani29"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "診察",
+                "reading": "しんさつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "medical examination",
+                    "checkup",
+                    "consultation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Physical examination"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Physical examination” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Physical_examination?oldid=492035813"
+                    },
+                    {
+                        "text": "Read “診察” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/診察?oldid=42497586"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Physical_examination"
+        }
     },
-    "察": {
-      "freq_mainichi_shinbun": 477,
-      "grade": 4,
-      "heisig_en": "guess",
-      "jlpt": 3,
-      "kanji": "察",
-      "kun_readings": [],
-      "meanings": [
-        "guess",
-        "judge",
-        "presume",
-        "surmise",
-        "understand"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "サツ"
-      ],
-      "stroke_count": 14,
-      "unicode": "5BDF"
+    "kanji_list": [
+        "診",
+        "察"
+    ],
+    "kanji_data": {
+        "診": {
+            "freq_mainichi_shinbun": 1019,
+            "grade": 8,
+            "heisig_en": "check-up",
+            "jlpt": 1,
+            "kanji": "診",
+            "kun_readings": [
+                "み.る"
+            ],
+            "meanings": [
+                "checkup",
+                "diagnose",
+                "examine",
+                "seeing"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シン"
+            ],
+            "stroke_count": 12,
+            "unicode": "8A3A"
+        },
+        "察": {
+            "freq_mainichi_shinbun": 477,
+            "grade": 4,
+            "heisig_en": "guess",
+            "jlpt": 3,
+            "kanji": "察",
+            "kun_readings": [],
+            "meanings": [
+                "guess",
+                "judge",
+                "presume",
+                "surmise",
+                "understand"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "サツ"
+            ],
+            "stroke_count": 14,
+            "unicode": "5BDF"
+        }
     }
-  }
 }

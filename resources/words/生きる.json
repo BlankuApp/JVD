@@ -1,632 +1,638 @@
 {
-  "version": "0.3.0",
-  "word": "生きる",
-  "jlpt_level": 4,
-  "youtube_link": "https://youtu.be/eVjjJahS32M",
-  "in_db": true,
-  "kanji": "生きる",
-  "reading": "いきる",
-  "introduction_japanese": "生きるは、日常の生活、仕事や学び、自然や動物について話すとき、また人生の意味や気持ちについて語るときによく使う動詞です。",
-  "introduction_english": "The verb いきる is commonly used when talking about everyday life, work or study, nature and animals, and when discussing the meaning of life or feelings.",
-  "meanings": [
-    [
-      "to live",
-      "to exist"
+    "version": "0.3.0",
+    "word": "生きる",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/eVjjJahS32M",
+    "in_db": true,
+    "kanji": "生きる",
+    "reading": "いきる",
+    "introduction_japanese": "生きるは、日常の生活、仕事や学び、自然や動物について話すとき、また人生の意味や気持ちについて語るときによく使う動詞です。",
+    "introduction_english": "The verb いきる is commonly used when talking about everyday life, work or study, nature and animals, and when discussing the meaning of life or feelings.",
+    "meanings": [
+        [
+            "to live",
+            "to exist"
+        ],
+        [
+            "to make a living",
+            "to subsist"
+        ],
+        [
+            "to be in effect",
+            "to be in use",
+            "to function"
+        ],
+        [
+            "to come to life",
+            "to be enlivened"
+        ],
+        [
+            "to be safe (in baseball, go, etc.)"
+        ]
     ],
-    [
-      "to make a living",
-      "to subsist"
+    "meaning_explanation_japanese": "「生きる」は、命がある状態や暮らしていることを表す言葉です。仕事で暮らすこと、何かが使える・機能していることや、元気になることにも使えます。スポーツでは「セーフになる」という意味もあります。",
+    "meaning_explanation_english": "The word いきる means to have life or to live. It can also mean to make a living, for something to be in use or to function, to come alive, and in sports contexts to be safe.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "生",
+            "common_words": [
+                "生活 (せいかつ): life; daily life",
+                "生徒 (せいと): student"
+            ],
+            "meanings": [
+                "birth",
+                "genuine",
+                "life"
+            ],
+            "on_readings": [
+                "ショウ",
+                "セイ"
+            ],
+            "kun_readings": [
+                "-う",
+                "い.かす",
+                "い.きる",
+                "い.ける",
+                "う.まれ",
+                "う.まれる",
+                "う.む",
+                "うま.れる",
+                "うまれ",
+                "お.う",
+                "き",
+                "な.す",
+                "な.る",
+                "なま",
+                "なま-",
+                "は.える",
+                "は.やす",
+                "む.す"
+            ]
+        }
     ],
-    [
-      "to be in effect",
-      "to be in use",
-      "to function"
+    "kanji_explanation": "The first kanji means life and birth. I often teach it with words like せいかつ and せいと to show how the idea of life appears in vocabulary. In せいかつ the kanji gives the idea of living or daily life. In せいと the kanji links to a person who is in the stage of life where they learn.",
+    "synonyms": [
+        "暮らす : くらす : to live (reside)",
+        "生活する : せいかつする : to live; to lead a life"
     ],
-    [
-      "to come to life",
-      "to be enlivened"
+    "synonym_explanation": "The most common synonyms of the いきる are くらす and せいかつする. くらす focuses on living or residing in a place, while せいかつする emphasizes daily life or lifestyle, compared to いきる which is more general about existence and being alive.",
+    "antonyms": [
+        "死ぬ : しぬ : to die"
     ],
-    [
-      "to be safe (in baseball, go, etc.)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「生きる」は、命がある状態や暮らしていることを表す言葉です。仕事で暮らすこと、何かが使える・機能していることや、元気になることにも使えます。スポーツでは「セーフになる」という意味もあります。",
-  "meaning_explanation_english": "The word いきる means to have life or to live. It can also mean to make a living, for something to be in use or to function, to come alive, and in sports contexts to be safe.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "生",
-      "common_words": [
-        "生活 (せいかつ): life; daily life",
-        "生徒 (せいと): student"
-      ],
-      "meanings": [
-        "birth",
-        "genuine",
-        "life"
-      ],
-      "on_readings": [
-        "ショウ",
-        "セイ"
-      ],
-      "kun_readings": [
-        "-う",
-        "い.かす",
-        "い.きる",
-        "い.ける",
-        "う.まれ",
-        "う.まれる",
-        "う.む",
-        "うま.れる",
-        "うまれ",
-        "お.う",
-        "き",
-        "な.す",
-        "な.る",
-        "なま",
-        "なま-",
-        "は.える",
-        "は.やす",
-        "む.す"
-      ]
+    "antonym_explanation": "The most common antonym of the いきる is しぬ. しぬ means to die, which is the direct opposite of being alive or existing.",
+    "collocations": [
+        {
+            "kanji": "精一杯生きる",
+            "furigana": "精一杯生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "たくましく生きる",
+            "furigana": "たくましく生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "しぶとく生きる",
+            "furigana": "しぶとく生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "死ぬまで生きる",
+            "furigana": "死ぬまで生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "意義をもって生きる",
+            "furigana": "意義をもって生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "人が生きる",
+            "furigana": "人が生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "動物が生きる",
+            "furigana": "動物が生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "植物が生きる",
+            "furigana": "植物が生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "社会が生きる",
+            "furigana": "社会が生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "細胞が生きる",
+            "furigana": "細胞が生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "心に生きる",
+            "furigana": "心に生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "夢に生きる",
+            "furigana": "夢に生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "希望に生きる",
+            "furigana": "希望に生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "信念で生きる",
+            "furigana": "信念で生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "真実で生きる",
+            "furigana": "真実で生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "明日を生きる",
+            "furigana": "明日を生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "今を生きる",
+            "furigana": "今を生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "過去を生きる",
+            "furigana": "過去を生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "現実を生きる",
+            "furigana": "現実を生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "自分を生きる",
+            "furigana": "自分を生きる",
+            "translations": {}
+        },
+        {
+            "kanji": "生きる価値",
+            "furigana": "生きる価値",
+            "translations": {}
+        },
+        {
+            "kanji": "生きる意味",
+            "furigana": "生きる意味",
+            "translations": {}
+        },
+        {
+            "kanji": "生きる力",
+            "furigana": "生きる力",
+            "translations": {}
+        },
+        {
+            "kanji": "生きる術",
+            "furigana": "生きる術",
+            "translations": {}
+        },
+        {
+            "kanji": "生きる証",
+            "furigana": "生きる証",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私(わたし)は精一杯生きる。",
+            "furigana": "私(わたし)は精一杯(せいいっぱい)生(い)きる。",
+            "translations": {
+                "EN": "I will live my life to the fullest.",
+                "ID": "Aku akan menjalani hidupku sepenuhnya.",
+                "ES": "Viviré mi vida al máximo.",
+                "VI": "Tôi sẽ sống hết mình.",
+                "FR": "Je vivrai ma vie pleinement.",
+                "NE": "म मेरो जीवन पूर्ण रूपमा बाँच्नेछु।",
+                "BN": "আমি আমার জীবনকে পূর্ণভাবে বাঁচব।",
+                "ZH": "我会尽我所能地过好自己的一生。",
+                "KO": "나(나)는 한껏 살아간다.",
+                "TL": "Isasabuhay ko ang buong buhay ko.",
+                "MY": "ဘဝကို အပြည့်ဝဆုံး ဖြတ်သန်းမယ်။",
+                "HI": "मैं अपना जीवन पूरी तरह से जीऊंगा।",
+                "AR": "سأعيش حياتي على أكمل وجه.",
+                "FA": "من زندگی‌ام را به کمال خواهم زیست."
+            }
+        },
+        {
+            "kanji": "子供(こども)はたくましく生きる。",
+            "furigana": "子供(こども)はたくましく生(い)きる。",
+            "translations": {
+                "EN": "Children live strong lives.",
+                "ID": "Anak-anak menjalani kehidupan yang kuat.",
+                "ES": "Los niños viven vidas fuertes.",
+                "VI": "Trẻ em có cuộc sống mạnh mẽ.",
+                "FR": "Les enfants vivent une vie forte.",
+                "NE": "बालबालिकाहरू बलियो जीवन बिताउँछन्।",
+                "BN": "শিশুরা শক্তিশালী জীবনযাপন করে।",
+                "ZH": "孩子们过着坚强的生活。",
+                "KO": "아이(어린이)는 잘 살아난다.",
+                "TL": "Matatag ang buhay ng mga bata.",
+                "MY": "ကလေးတွေဟာ သန်မာတဲ့ဘဝနဲ့ နေထိုင်ကြပါတယ်။",
+                "HI": "बच्चे सशक्त जीवन जीते हैं।",
+                "AR": "يعيش الأطفال حياة قوية.",
+                "FA": "بچه‌ها زندگی قوی‌ای دارند."
+            }
+        },
+        {
+            "kanji": "彼(かれ)は今を生きる。",
+            "furigana": "彼(かれ)は今(いま)を生(い)きる。",
+            "translations": {
+                "EN": "He lives in the present.",
+                "ID": "Dia hidup di masa sekarang.",
+                "ES": "Él vive en el presente.",
+                "VI": "Anh ấy sống ở hiện tại.",
+                "FR": "Il vit dans le présent.",
+                "NE": "ऊ वर्तमानमा बाँच्छ।",
+                "BN": "সে বর্তমানে বাস করে।",
+                "ZH": "他活在当下。",
+                "KO": "그는 지금을 살 것이다.",
+                "TL": "Siya ay nabubuhay sa kasalukuyan.",
+                "MY": "ပစ္စုပ္ပန်မှာ နေထိုင်တယ်။",
+                "HI": "वह वर्तमान में जीता है.",
+                "AR": "إنه يعيش في الحاضر.",
+                "FA": "او در زمان حال زندگی می‌کند."
+            }
+        },
+        {
+            "kanji": "生きる意味を考える。",
+            "furigana": "生(い)きる意味(いみ)を考(かんが)える。",
+            "translations": {
+                "EN": "Think about the meaning of life.",
+                "ID": "Pikirkan tentang makna kehidupan.",
+                "ES": "Piensa en el significado de la vida.",
+                "VI": "Hãy nghĩ về ý nghĩa của cuộc sống.",
+                "FR": "Pensez au sens de la vie.",
+                "NE": "जीवनको अर्थको बारेमा सोच्नुहोस्।",
+                "BN": "জীবনের অর্থ নিয়ে ভাবুন।",
+                "ZH": "思考生命的意义。",
+                "KO": "사는 의미를 생각한다.",
+                "TL": "Isipin ang kahulugan ng buhay.",
+                "MY": "ဘဝရဲ့ အဓိပ္ပါယ်ကို စဉ်းစားကြည့်ပါ။",
+                "HI": "जीवन के अर्थ के बारे में सोचें.",
+                "AR": "فكر في معنى الحياة .",
+                "FA": "به معنای زندگی فکر کنید."
+            }
+        },
+        {
+            "kanji": "動物(どうぶつ)は森(もり)で生きる。",
+            "furigana": "動物(どうぶつ)は森(もり)で生(い)きる。",
+            "translations": {
+                "EN": "Animals live in the forest.",
+                "ID": "Hewan hidup di hutan.",
+                "ES": "Los animales viven en el bosque.",
+                "VI": "Động vật sống trong rừng.",
+                "FR": "Les animaux vivent dans la forêt.",
+                "NE": "जनावरहरू जंगलमा बस्छन्।",
+                "BN": "প্রাণীরা বনে বাস করে।",
+                "ZH": "动物生活在森林里。",
+                "KO": "동물(동물)은 숲에서 산다.",
+                "TL": "Ang mga hayop ay nakatira sa kagubatan.",
+                "MY": "တိရစ္ဆာန်များသည် တောထဲတွင် နေထိုင်ကြသည်။",
+                "HI": "जंगल में जानवर रहते हैं।",
+                "AR": "الحيوانات تعيش في الغابة.",
+                "FA": "حیوانات در جنگل زندگی می‌کنند."
+            }
+        },
+        {
+            "kanji": "病気(びょうき)でも彼女(かのじょ)はしぶとく生きる。",
+            "furigana": "病気(びょうき)でも彼女(かのじょ)はしぶとく生(い)きる。",
+            "translations": {
+                "EN": "Even though she is sick, she lives tenaciously.",
+                "ID": "Meski sakit, dia tetap hidup dengan gigih.",
+                "ES": "A pesar de estar enferma, vive tenazmente.",
+                "VI": "Mặc dù bị bệnh, bà vẫn sống kiên cường.",
+                "FR": "Même si elle est malade, elle vit avec ténacité.",
+                "NE": "बिरामी भए पनि उनी दृढतापूर्वक बाँचिरहेकी छिन्।",
+                "BN": "অসুস্থ হলেও, সে দৃঢ়তার সাথে বেঁচে থাকে।",
+                "ZH": "尽管她病了，但她仍然顽强地活下去。",
+                "KO": "병(병기)에서도 그녀(카노죠)는 꽉 살아간다.",
+                "TL": "Kahit may sakit siya, tiyaga siyang namumuhay.",
+                "MY": "ဖျားနေသော်လည်း ကျားကုတ်ကျားခဲ နေထိုင်သည်။",
+                "HI": "यद्यपि वह बीमार है, फिर भी वह दृढ़तापूर्वक जीवन जी रही है।",
+                "AR": "رغم أنها مريضة إلا أنها تعيش بثبات.",
+                "FA": "با اینکه مریضه، ولی با قدرت به زندگیش ادامه میده."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "untuk hidup",
+            "ES": "vivir",
+            "VI": "để sống",
+            "FR": "vivre",
+            "NE": "बाँच्नु",
+            "BN": "বেঁচে থাকা",
+            "ZH": "生活",
+            "KO": "살다",
+            "TL": "upang mabuhay",
+            "MY": "အသက်ရှင်ရန်",
+            "HI": "जिया जाता है",
+            "AR": "للعيش",
+            "FA": "زندگی کردن",
+            "EN": [
+                "to live",
+                "to exist"
+            ]
+        },
+        {
+            "ID": "untuk mencari nafkah",
+            "ES": "Para ganarse la vida",
+            "VI": "để kiếm sống",
+            "FR": "gagner sa vie",
+            "NE": "जीविकोपार्जन गर्न",
+            "BN": "জীবিকা নির্বাহের জন্য",
+            "ZH": "谋生",
+            "KO": "생계를 유지하기 위해",
+            "TL": "para maghanapbuhay",
+            "MY": "အသက်မွေးဝမ်းကြောင်းပြုရန်",
+            "HI": "जीविका चलाने के लिए",
+            "AR": "لكسب لقمة العيش",
+            "FA": "برای امرار معاش",
+            "EN": [
+                "to make a living",
+                "to subsist"
+            ]
+        },
+        {
+            "ID": "berlaku",
+            "ES": "estar en vigor",
+            "VI": "có hiệu lực",
+            "FR": "être en vigueur",
+            "NE": "प्रभावकारी हुनु",
+            "BN": "কার্যকর হতে",
+            "ZH": "生效",
+            "KO": "효력이 발생하다",
+            "TL": "na may bisa",
+            "MY": "အသက်ဝင်ဖို့",
+            "HI": "प्रभावी होने के लिए",
+            "AR": "أن تكون سارية المفعول",
+            "FA": "در عمل بودن",
+            "EN": [
+                "to be in effect",
+                "to be in use",
+                "to function"
+            ]
+        },
+        {
+            "ID": "untuk hidup kembali",
+            "ES": "cobrar vida",
+            "VI": "để trở nên sống động",
+            "FR": "prendre vie",
+            "NE": "जीवनमा आउनु",
+            "BN": "জীবনে ফিরে আসা",
+            "ZH": "活过来",
+            "KO": "살아나다",
+            "TL": "upang mabuhay",
+            "MY": "အသက်ဝင်လာဖို့",
+            "HI": "जीवन में आना",
+            "AR": "لتعود إلى الحياة",
+            "FA": "به زندگی رسیدن",
+            "EN": [
+                "to come to life",
+                "to be enlivened"
+            ]
+        },
+        {
+            "ID": "untuk aman (dalam bisbol, pergi, dll.)",
+            "ES": "estar seguro (en béisbol, ir, etc.)",
+            "VI": "để được an toàn (trong bóng chày, đi, v.v.)",
+            "FR": "être en sécurité (au baseball, au go, etc.)",
+            "NE": "सुरक्षित हुन (बेसबल, गो, आदिमा)",
+            "BN": "নিরাপদ থাকা (বেসবল, গো, ইত্যাদিতে)",
+            "ZH": "（棒球、围棋等）安全",
+            "KO": "안전하다 (야구, 바둑 등에서)",
+            "TL": "upang maging ligtas (sa baseball, go, atbp.)",
+            "MY": "ဘေးကင်းရန် (ဘေ့စ်ဘော၊ သွား၊ စသည်ဖြင့်)",
+            "HI": "सुरक्षित रहना (बेसबॉल, गो, आदि में)",
+            "AR": "لتكون آمنًا (في لعبة البيسبول، أو لعبة جو، وما إلى ذلك)",
+            "FA": "ایمن بودن (در بیسبال، گو و غیره)",
+            "EN": [
+                "to be safe (in baseball, go, etc.)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "生きる",
+        "is_common": true,
+        "tags": [
+            "wanikani3"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "生きる",
+                "reading": "いきる"
+            },
+            {
+                "word": "活きる",
+                "reading": "いきる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to live",
+                    "to exist"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to make a living",
+                    "to subsist"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be in effect",
+                    "to be in use",
+                    "to function"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to come to life",
+                    "to be enlivened"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be safe (in baseball, go, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "To Live (film)"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “To Live (film)” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/To_Live_(film)?oldid=494064489"
+                    },
+                    {
+                        "text": "Read “活きる” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/活きる?oldid=42740488"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/To_Live_(film)"
+        }
+    },
+    "kanji_list": [
+        "生"
+    ],
+    "kanji_data": {
+        "生": {
+            "freq_mainichi_shinbun": 29,
+            "grade": 1,
+            "heisig_en": "life",
+            "jlpt": 5,
+            "kanji": "生",
+            "kun_readings": [
+                "-う",
+                "い.かす",
+                "い.きる",
+                "い.ける",
+                "う.まれ",
+                "う.まれる",
+                "う.む",
+                "うま.れる",
+                "うまれ",
+                "お.う",
+                "き",
+                "な.す",
+                "な.る",
+                "なま",
+                "なま-",
+                "は.える",
+                "は.やす",
+                "む.す"
+            ],
+            "meanings": [
+                "birth",
+                "genuine",
+                "life"
+            ],
+            "name_readings": [
+                "あさ",
+                "いき",
+                "いく",
+                "いけ",
+                "うぶ",
+                "うまい",
+                "え",
+                "おい",
+                "ぎゅう",
+                "くるみ",
+                "ごせ",
+                "さ",
+                "じょう",
+                "すぎ",
+                "そ",
+                "そう",
+                "ちる",
+                "なば",
+                "にう",
+                "にゅう",
+                "ふ",
+                "み",
+                "もう",
+                "よい",
+                "りゅう"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ショウ",
+                "セイ"
+            ],
+            "stroke_count": 5,
+            "unicode": "751F"
+        }
     }
-  ],
-  "kanji_explanation": "The first kanji means life and birth. I often teach it with words like せいかつ and せいと to show how the idea of life appears in vocabulary. In せいかつ the kanji gives the idea of living or daily life. In せいと the kanji links to a person who is in the stage of life where they learn.",
-  "synonyms": [
-    "暮らす : くらす : to live (reside)",
-    "生活する : せいかつする : to live; to lead a life"
-  ],
-  "synonym_explanation": "The most common synonyms of the いきる are くらす and せいかつする. くらす focuses on living or residing in a place, while せいかつする emphasizes daily life or lifestyle, compared to いきる which is more general about existence and being alive.",
-  "antonyms": [
-    "死ぬ : しぬ : to die"
-  ],
-  "antonym_explanation": "The most common antonym of the いきる is しぬ. しぬ means to die, which is the direct opposite of being alive or existing.",
-  "collocations": [
-    {
-      "kanji": "精一杯生きる",
-      "furigana": "精一杯生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "たくましく生きる",
-      "furigana": "たくましく生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "しぶとく生きる",
-      "furigana": "しぶとく生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "死ぬまで生きる",
-      "furigana": "死ぬまで生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "意義をもって生きる",
-      "furigana": "意義をもって生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "人が生きる",
-      "furigana": "人が生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "動物が生きる",
-      "furigana": "動物が生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "植物が生きる",
-      "furigana": "植物が生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "社会が生きる",
-      "furigana": "社会が生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "細胞が生きる",
-      "furigana": "細胞が生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "心に生きる",
-      "furigana": "心に生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "夢に生きる",
-      "furigana": "夢に生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "希望に生きる",
-      "furigana": "希望に生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "信念で生きる",
-      "furigana": "信念で生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "真実で生きる",
-      "furigana": "真実で生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "明日を生きる",
-      "furigana": "明日を生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "今を生きる",
-      "furigana": "今を生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "過去を生きる",
-      "furigana": "過去を生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "現実を生きる",
-      "furigana": "現実を生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "自分を生きる",
-      "furigana": "自分を生きる",
-      "translations": {}
-    },
-    {
-      "kanji": "生きる価値",
-      "furigana": "生きる価値",
-      "translations": {}
-    },
-    {
-      "kanji": "生きる意味",
-      "furigana": "生きる意味",
-      "translations": {}
-    },
-    {
-      "kanji": "生きる力",
-      "furigana": "生きる力",
-      "translations": {}
-    },
-    {
-      "kanji": "生きる術",
-      "furigana": "生きる術",
-      "translations": {}
-    },
-    {
-      "kanji": "生きる証",
-      "furigana": "生きる証",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "私(わたし)は精一杯生きる。",
-      "furigana": "私(わたし)は精一杯(せいいっぱい)生(い)きる。",
-      "translations": {
-        "EN": "I will live my life to the fullest.",
-        "ID": "Aku akan menjalani hidupku sepenuhnya.",
-        "ES": "Viviré mi vida al máximo.",
-        "VI": "Tôi sẽ sống hết mình.",
-        "FR": "Je vivrai ma vie pleinement.",
-        "NE": "म मेरो जीवन पूर्ण रूपमा बाँच्नेछु।",
-        "BN": "আমি আমার জীবনকে পূর্ণভাবে বাঁচব।",
-        "ZH": "我会尽我所能地过好自己的一生。",
-        "KO": "나(나)는 한껏 살아간다.",
-        "TL": "Isasabuhay ko ang buong buhay ko.",
-        "MY": "ဘဝကို အပြည့်ဝဆုံး ဖြတ်သန်းမယ်။",
-        "HI": "मैं अपना जीवन पूरी तरह से जीऊंगा।",
-        "AR": "سأعيش حياتي على أكمل وجه.",
-        "FA": "من زندگی‌ام را به کمال خواهم زیست."
-      }
-    },
-    {
-      "kanji": "子供(こども)はたくましく生きる。",
-      "furigana": "子供(こども)はたくましく生(い)きる。",
-      "translations": {
-        "EN": "Children live strong lives.",
-        "ID": "Anak-anak menjalani kehidupan yang kuat.",
-        "ES": "Los niños viven vidas fuertes.",
-        "VI": "Trẻ em có cuộc sống mạnh mẽ.",
-        "FR": "Les enfants vivent une vie forte.",
-        "NE": "बालबालिकाहरू बलियो जीवन बिताउँछन्।",
-        "BN": "শিশুরা শক্তিশালী জীবনযাপন করে।",
-        "ZH": "孩子们过着坚强的生活。",
-        "KO": "아이(어린이)는 잘 살아난다.",
-        "TL": "Matatag ang buhay ng mga bata.",
-        "MY": "ကလေးတွေဟာ သန်မာတဲ့ဘဝနဲ့ နေထိုင်ကြပါတယ်။",
-        "HI": "बच्चे सशक्त जीवन जीते हैं।",
-        "AR": "يعيش الأطفال حياة قوية.",
-        "FA": "بچه‌ها زندگی قوی‌ای دارند."
-      }
-    },
-    {
-      "kanji": "彼(かれ)は今を生きる。",
-      "furigana": "彼(かれ)は今(いま)を生(い)きる。",
-      "translations": {
-        "EN": "He lives in the present.",
-        "ID": "Dia hidup di masa sekarang.",
-        "ES": "Él vive en el presente.",
-        "VI": "Anh ấy sống ở hiện tại.",
-        "FR": "Il vit dans le présent.",
-        "NE": "ऊ वर्तमानमा बाँच्छ।",
-        "BN": "সে বর্তমানে বাস করে।",
-        "ZH": "他活在当下。",
-        "KO": "그는 지금을 살 것이다.",
-        "TL": "Siya ay nabubuhay sa kasalukuyan.",
-        "MY": "ပစ္စုပ္ပန်မှာ နေထိုင်တယ်။",
-        "HI": "वह वर्तमान में जीता है.",
-        "AR": "إنه يعيش في الحاضر.",
-        "FA": "او در زمان حال زندگی می‌کند."
-      }
-    },
-    {
-      "kanji": "生きる意味を考える。",
-      "furigana": "生(い)きる意味(いみ)を考(かんが)える。",
-      "translations": {
-        "EN": "Think about the meaning of life.",
-        "ID": "Pikirkan tentang makna kehidupan.",
-        "ES": "Piensa en el significado de la vida.",
-        "VI": "Hãy nghĩ về ý nghĩa của cuộc sống.",
-        "FR": "Pensez au sens de la vie.",
-        "NE": "जीवनको अर्थको बारेमा सोच्नुहोस्।",
-        "BN": "জীবনের অর্থ নিয়ে ভাবুন।",
-        "ZH": "思考生命的意义。",
-        "KO": "사는 의미를 생각한다.",
-        "TL": "Isipin ang kahulugan ng buhay.",
-        "MY": "ဘဝရဲ့ အဓိပ္ပါယ်ကို စဉ်းစားကြည့်ပါ။",
-        "HI": "जीवन के अर्थ के बारे में सोचें.",
-        "AR": "فكر في معنى الحياة .",
-        "FA": "به معنای زندگی فکر کنید."
-      }
-    },
-    {
-      "kanji": "動物(どうぶつ)は森(もり)で生きる。",
-      "furigana": "動物(どうぶつ)は森(もり)で生(い)きる。",
-      "translations": {
-        "EN": "Animals live in the forest.",
-        "ID": "Hewan hidup di hutan.",
-        "ES": "Los animales viven en el bosque.",
-        "VI": "Động vật sống trong rừng.",
-        "FR": "Les animaux vivent dans la forêt.",
-        "NE": "जनावरहरू जंगलमा बस्छन्।",
-        "BN": "প্রাণীরা বনে বাস করে।",
-        "ZH": "动物生活在森林里。",
-        "KO": "동물(동물)은 숲에서 산다.",
-        "TL": "Ang mga hayop ay nakatira sa kagubatan.",
-        "MY": "တိရစ္ဆာန်များသည် တောထဲတွင် နေထိုင်ကြသည်။",
-        "HI": "जंगल में जानवर रहते हैं।",
-        "AR": "الحيوانات تعيش في الغابة.",
-        "FA": "حیوانات در جنگل زندگی می‌کنند."
-      }
-    },
-    {
-      "kanji": "病気(びょうき)でも彼女(かのじょ)はしぶとく生きる。",
-      "furigana": "病気(びょうき)でも彼女(かのじょ)はしぶとく生(い)きる。",
-      "translations": {
-        "EN": "Even though she is sick, she lives tenaciously.",
-        "ID": "Meski sakit, dia tetap hidup dengan gigih.",
-        "ES": "A pesar de estar enferma, vive tenazmente.",
-        "VI": "Mặc dù bị bệnh, bà vẫn sống kiên cường.",
-        "FR": "Même si elle est malade, elle vit avec ténacité.",
-        "NE": "बिरामी भए पनि उनी दृढतापूर्वक बाँचिरहेकी छिन्।",
-        "BN": "অসুস্থ হলেও, সে দৃঢ়তার সাথে বেঁচে থাকে।",
-        "ZH": "尽管她病了，但她仍然顽强地活下去。",
-        "KO": "병(병기)에서도 그녀(카노죠)는 꽉 살아간다.",
-        "TL": "Kahit may sakit siya, tiyaga siyang namumuhay.",
-        "MY": "ဖျားနေသော်လည်း ကျားကုတ်ကျားခဲ နေထိုင်သည်။",
-        "HI": "यद्यपि वह बीमार है, फिर भी वह दृढ़तापूर्वक जीवन जी रही है।",
-        "AR": "رغم أنها مريضة إلا أنها تعيش بثبات.",
-        "FA": "با اینکه مریضه، ولی با قدرت به زندگیش ادامه میده."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to live": {
-      "ID": "untuk hidup",
-      "ES": "vivir",
-      "VI": "để sống",
-      "FR": "vivre",
-      "NE": "बाँच्नु",
-      "BN": "বেঁচে থাকা",
-      "ZH": "生活",
-      "KO": "살다",
-      "TL": "upang mabuhay",
-      "MY": "အသက်ရှင်ရန်",
-      "HI": "जिया जाता है",
-      "AR": "للعيش",
-      "FA": "زندگی کردن",
-      "EN": [
-        "to exist"
-      ]
-    },
-    "to make a living": {
-      "ID": "untuk mencari nafkah",
-      "ES": "Para ganarse la vida",
-      "VI": "để kiếm sống",
-      "FR": "gagner sa vie",
-      "NE": "जीविकोपार्जन गर्न",
-      "BN": "জীবিকা নির্বাহের জন্য",
-      "ZH": "谋生",
-      "KO": "생계를 유지하기 위해",
-      "TL": "para maghanapbuhay",
-      "MY": "အသက်မွေးဝမ်းကြောင်းပြုရန်",
-      "HI": "जीविका चलाने के लिए",
-      "AR": "لكسب لقمة العيش",
-      "FA": "برای امرار معاش",
-      "EN": [
-        "to subsist"
-      ]
-    },
-    "to be in effect": {
-      "ID": "berlaku",
-      "ES": "estar en vigor",
-      "VI": "có hiệu lực",
-      "FR": "être en vigueur",
-      "NE": "प्रभावकारी हुनु",
-      "BN": "কার্যকর হতে",
-      "ZH": "生效",
-      "KO": "효력이 발생하다",
-      "TL": "na may bisa",
-      "MY": "အသက်ဝင်ဖို့",
-      "HI": "प्रभावी होने के लिए",
-      "AR": "أن تكون سارية المفعول",
-      "FA": "در عمل بودن",
-      "EN": [
-        "to be in use",
-        "to function"
-      ]
-    },
-    "to come to life": {
-      "ID": "untuk hidup kembali",
-      "ES": "cobrar vida",
-      "VI": "để trở nên sống động",
-      "FR": "prendre vie",
-      "NE": "जीवनमा आउनु",
-      "BN": "জীবনে ফিরে আসা",
-      "ZH": "活过来",
-      "KO": "살아나다",
-      "TL": "upang mabuhay",
-      "MY": "အသက်ဝင်လာဖို့",
-      "HI": "जीवन में आना",
-      "AR": "لتعود إلى الحياة",
-      "FA": "به زندگی رسیدن",
-      "EN": [
-        "to be enlivened"
-      ]
-    },
-    "to be safe (in baseball, go, etc.)": {
-      "ID": "untuk aman (dalam bisbol, pergi, dll.)",
-      "ES": "estar seguro (en béisbol, ir, etc.)",
-      "VI": "để được an toàn (trong bóng chày, đi, v.v.)",
-      "FR": "être en sécurité (au baseball, au go, etc.)",
-      "NE": "सुरक्षित हुन (बेसबल, गो, आदिमा)",
-      "BN": "নিরাপদ থাকা (বেসবল, গো, ইত্যাদিতে)",
-      "ZH": "（棒球、围棋等）安全",
-      "KO": "안전하다 (야구, 바둑 등에서)",
-      "TL": "upang maging ligtas (sa baseball, go, atbp.)",
-      "MY": "ဘေးကင်းရန် (ဘေ့စ်ဘော၊ သွား၊ စသည်ဖြင့်)",
-      "HI": "सुरक्षित रहना (बेसबॉल, गो, आदि में)",
-      "AR": "لتكون آمنًا (في لعبة البيسبول، أو لعبة جو، وما إلى ذلك)",
-      "FA": "ایمن بودن (در بیسبال، گو و غیره)",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "生きる",
-    "is_common": true,
-    "tags": [
-      "wanikani3"
-    ],
-    "jlpt": [
-      "jlpt-n4"
-    ],
-    "japanese": [
-      {
-        "word": "生きる",
-        "reading": "いきる"
-      },
-      {
-        "word": "活きる",
-        "reading": "いきる"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to live",
-          "to exist"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to make a living",
-          "to subsist"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to be in effect",
-          "to be in use",
-          "to function"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to come to life",
-          "to be enlivened"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to be safe (in baseball, go, etc.)"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb",
-          "Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "To Live (film)"
-        ],
-        "parts_of_speech": [
-          "Wikipedia definition"
-        ],
-        "links": [
-          {
-            "text": "Read “To Live (film)” on English Wikipedia",
-            "url": "http://en.wikipedia.org/wiki/To_Live_(film)?oldid=494064489"
-          },
-          {
-            "text": "Read “活きる” on Japanese Wikipedia",
-            "url": "http://ja.wikipedia.org/wiki/活きる?oldid=42740488"
-          }
-        ],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [],
-        "sentences": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": "http://dbpedia.org/resource/To_Live_(film)"
-    }
-  },
-  "kanji_list": [
-    "生"
-  ],
-  "kanji_data": {
-    "生": {
-      "freq_mainichi_shinbun": 29,
-      "grade": 1,
-      "heisig_en": "life",
-      "jlpt": 5,
-      "kanji": "生",
-      "kun_readings": [
-        "-う",
-        "い.かす",
-        "い.きる",
-        "い.ける",
-        "う.まれ",
-        "う.まれる",
-        "う.む",
-        "うま.れる",
-        "うまれ",
-        "お.う",
-        "き",
-        "な.す",
-        "な.る",
-        "なま",
-        "なま-",
-        "は.える",
-        "は.やす",
-        "む.す"
-      ],
-      "meanings": [
-        "birth",
-        "genuine",
-        "life"
-      ],
-      "name_readings": [
-        "あさ",
-        "いき",
-        "いく",
-        "いけ",
-        "うぶ",
-        "うまい",
-        "え",
-        "おい",
-        "ぎゅう",
-        "くるみ",
-        "ごせ",
-        "さ",
-        "じょう",
-        "すぎ",
-        "そ",
-        "そう",
-        "ちる",
-        "なば",
-        "にう",
-        "にゅう",
-        "ふ",
-        "み",
-        "もう",
-        "よい",
-        "りゅう"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ショウ",
-        "セイ"
-      ],
-      "stroke_count": 5,
-      "unicode": "751F"
-    }
-  }
 }

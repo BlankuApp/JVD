@@ -1,412 +1,415 @@
 {
-  "version": "0.3.0",
-  "word": "暮らし",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/TfIFuJImuSk",
-  "in_db": true,
-  "kanji": "暮らし",
-  "reading": "くらし",
-  "introduction_japanese": "暮らしは、日常生活や仕事・家族・住まいなどについて話す場面でよく使う言葉です。暮らし向きや暮らしぶりの話にも出てきます。",
-  "introduction_english": "The noun くらし is commonly used when talking about daily life, work, family, housing, and someone's living conditions or lifestyle.",
-  "meanings": [
-    [
-      "(way of) life",
-      "living",
-      "livelihood",
-      "life circumstances"
-    ],
-    [
-      "used as a suffix meaning a type of living or lifestyle (usually pronounced ぐらし)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「暮らし」は日々の生活や生活ぶり、生活の様子を表す言葉だよ。仕事や家族、住まい、収入など普段の生活全般のことを指すよ。",
-  "meaning_explanation_english": "The word くらし means daily life, one's way of living, or livelihood. It refers to everyday conditions like work, family, home, and finances.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "暮",
-      "common_words": [
-        "暮れる (くれる): to get dark; to come to an end",
-        "暮らす (くらす): to live; to make a living"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means evening, spending time, and livelihood. The word くれる shows the 'evening' or 'to get dark' sense where the day ends. The word くらす shows the 'to live' or 'to make a living' sense, which links to the idea of everyday life and livelihood.",
-  "synonyms": [
-    "生活",
-    "生計"
-  ],
-  "synonym_explanation": "The most common synonyms of the くらし are せいかつ and せいけい. せいかつ is a general word for daily life and routines and is closest in everyday use. せいけい focuses more on earning a living and finances, so it is narrower and more about income.",
-  "antonyms": [],
-  "antonym_explanation": "No common antonyms found.",
-  "collocations": [
-    {
-      "kanji": "平穏な暮らし",
-      "furigana": "平穏な暮らし",
-      "translations": {}
-    },
-    {
-      "kanji": "豊かな暮らし",
-      "furigana": "豊かな暮らし",
-      "translations": {}
-    },
-    {
-      "kanji": "質素な暮らし",
-      "furigana": "質素な暮らし",
-      "translations": {}
-    },
-    {
-      "kanji": "安定した暮らし",
-      "furigana": "安定した暮らし",
-      "translations": {}
-    },
-    {
-      "kanji": "快適な暮らし",
-      "furigana": "快適な暮らし",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らし向き",
-      "furigana": "暮らし向き",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしぶり",
-      "furigana": "暮らしぶり",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしぶりを見せる",
-      "furigana": "暮らしぶりを見せる",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしぶりを伝える",
-      "furigana": "暮らしぶりを伝える",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らし向きを改善する",
-      "furigana": "暮らし向きを改善する",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを営む",
-      "furigana": "暮らしを営む",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを支える",
-      "furigana": "暮らしを支える",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを守る",
-      "furigana": "暮らしを守る",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを楽しむ",
-      "furigana": "暮らしを楽しむ",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを立てる",
-      "furigana": "暮らしを立てる",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを改善する",
-      "furigana": "暮らしを改善する",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを豊かにする",
-      "furigana": "暮らしを豊かにする",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを変える",
-      "furigana": "暮らしを変える",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを支える",
-      "furigana": "暮らしを支える",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしを切り詰める",
-      "furigana": "暮らしを切り詰める",
-      "translations": {}
-    },
-    {
-      "kanji": "長い暮らし",
-      "furigana": "長い暮らし",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしやすい",
-      "furigana": "暮らしやすい",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らしにくい",
-      "furigana": "暮らしにくい",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らし向き良い",
-      "furigana": "暮らし向き良い",
-      "translations": {}
-    },
-    {
-      "kanji": "暮らし向き悪い",
-      "furigana": "暮らし向き悪い",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "平穏な暮らしがほしい。",
-      "furigana": "平穏(へいおん)な暮らし(くらし)がほしい。",
-      "translations": {
-        "EN": "I want a peaceful life.",
-        "ID": "Saya ingin kehidupan yang damai.",
-        "ES": "Quiero una vida tranquila.",
-        "VI": "Tôi muốn một cuộc sống yên bình.",
-        "FR": "Je veux une vie paisible.",
-        "NE": "म शान्त जीवन चाहन्छु।",
-        "BN": "আমি একটা শান্তিপূর্ণ জীবন চাই।",
-        "ZH": "我想要平静的生活。",
-        "KO": "평온한 생활을 원한다.",
-        "TL": "Gusto ko ng tahimik na buhay.",
-        "MY": "အေးချမ်းတဲ့ဘဝလေးလိုချင်တယ်။",
-        "HI": "मैं शांतिपूर्ण जीवन चाहता हूं.",
-        "AR": "أريد حياة هادئة.",
-        "FA": "من یه زندگی آروم می‌خوام."
-      }
-    },
-    {
-      "kanji": "豊かな暮らしをしたい。",
-      "furigana": "豊(ゆたか)な暮らし(くらし)をしたい。",
-      "translations": {
-        "EN": "I want to live a rich life.",
-        "ID": "Saya ingin menjalani kehidupan yang kaya.",
-        "ES": "Quiero vivir una vida rica.",
-        "VI": "Tôi muốn sống một cuộc sống giàu có.",
-        "FR": "Je veux vivre une vie riche.",
-        "NE": "म समृद्ध जीवन बिताउन चाहन्छु।",
-        "BN": "আমি একটি সমৃদ্ধ জীবনযাপন করতে চাই।",
-        "ZH": "我想过上富裕的生活。",
-        "KO": "풍부한 생활을 하고 싶다.",
-        "TL": "Gusto kong mamuhay ng mayamang buhay.",
-        "MY": "ချမ်းသာတဲ့ဘဝနဲ့ နေချင်တယ်။",
-        "HI": "मैं एक समृद्ध जीवन जीना चाहता हूँ.",
-        "AR": "أريد أن أعيش حياة غنية.",
-        "FA": "من می‌خواهم زندگی ثروتمندی داشته باشم."
-      }
-    },
-    {
-      "kanji": "質素な暮らしが好きです。",
-      "furigana": "質素(しっそ)な暮らし(くらし)が好(す)きです。",
-      "translations": {
-        "EN": "I like living a simple life.",
-        "ID": "Saya suka menjalani hidup sederhana.",
-        "ES": "Me gusta vivir una vida sencilla.",
-        "VI": "Tôi thích sống một cuộc sống đơn giản.",
-        "FR": "J'aime vivre une vie simple.",
-        "NE": "मलाई साधारण जीवन बिताउन मन पर्छ।",
-        "BN": "আমি সরল জীবনযাপন পছন্দ করি।",
-        "ZH": "我喜欢过简单的生活。",
-        "KO": "검소한 생활을 좋아합니다.",
-        "TL": "Gusto kong mamuhay ng simple.",
-        "MY": "ရိုးရိုးရှင်းရှင်း ဘဝကို သဘောကျတယ်။",
-        "HI": "मुझे सादा जीवन जीना पसंद है।",
-        "AR": "أحب أن أعيش حياة بسيطة.",
-        "FA": "من دوست دارم ساده زندگی کنم."
-      }
-    },
-    {
-      "kanji": "暮らし向きが良くなった。",
-      "furigana": "暮らし(くらし)向き(むき)が良(よ)くなった。",
-      "translations": {
-        "EN": "My living situation has improved.",
-        "ID": "Situasi hidup saya telah membaik.",
-        "ES": "Mi situación de vida ha mejorado.",
-        "VI": "Tình hình sống của tôi đã được cải thiện.",
-        "FR": "Ma situation de vie s'est améliorée.",
-        "NE": "मेरो जीवनस्तरमा सुधार आएको छ।",
-        "BN": "আমার জীবনযাত্রার অবস্থার উন্নতি হয়েছে।",
-        "ZH": "我的生活状况有所改善。",
-        "KO": "생활 방향이 좋아졌다.",
-        "TL": "Bumuti ang kalagayan ko sa pamumuhay.",
-        "MY": "ကျွန်တော့်ရဲ့ နေထိုင်မှုအခြေအနေက တိုးတက်လာပါပြီ။",
-        "HI": "मेरी रहने की स्थिति में सुधार हुआ है।",
-        "AR": "لقد تحسنت حالتي المعيشية.",
-        "FA": "وضعیت زندگیم بهتر شده."
-      }
-    },
-    {
-      "kanji": "彼女の暮らしぶりは楽しそうだ。",
-      "furigana": "彼女(かのじょ)の暮らしぶり(くらしぶり)は楽(たの)しそうだ。",
-      "translations": {
-        "EN": "Her lifestyle seems fun.",
-        "ID": "Gaya hidupnya tampak menyenangkan.",
-        "ES": "Su estilo de vida parece divertido.",
-        "VI": "Phong cách sống của cô ấy có vẻ thú vị.",
-        "FR": "Son style de vie semble amusant.",
-        "NE": "उनको जीवनशैली रमाइलो देखिन्छ।",
-        "BN": "তার জীবনধারা মজার বলে মনে হচ্ছে।",
-        "ZH": "她的生活方式看起来很有趣。",
-        "KO": "그녀의 삶은 재미있을 것 같다.",
-        "TL": "Mukhang masaya ang kanyang pamumuhay.",
-        "MY": "သူမရဲ့ နေထိုင်မှုပုံစံက ပျော်စရာကောင်းနေပုံပါပဲ။",
-        "HI": "उसकी जीवनशैली मज़ेदार लगती है।",
-        "AR": "يبدو أن أسلوب حياتها ممتع.",
-        "FA": "سبک زندگیش جالب به نظر میاد."
-      }
-    },
-    {
-      "kanji": "暮らしを支えるために働く。",
-      "furigana": "暮らし(くらし)を支(ささ)えるために働(はたら)く。",
-      "translations": {
-        "EN": "Work to support your life.",
-        "ID": "Bekerja untuk menunjang hidup Anda.",
-        "ES": "Trabaja para sustentar tu vida.",
-        "VI": "Làm việc để hỗ trợ cuộc sống của bạn.",
-        "FR": "Travaillez pour subvenir à vos besoins.",
-        "NE": "आफ्नो जीवनलाई सहयोग गर्न काम गर्नुहोस्।",
-        "BN": "তোমার জীবনকে সমর্থন করার জন্য কাজ করো।",
-        "ZH": "工作来维持你的生活。",
-        "KO": "생활을 지원하기 위해 일한다.",
-        "TL": "Magtrabaho upang suportahan ang iyong buhay.",
-        "MY": "သင့်ဘဝအတွက် အထောက်အကူဖြစ်စေရန် လုပ်ဆောင်ပါ။",
-        "HI": "अपने जीवन को सहारा देने के लिए काम करें।",
-        "AR": "اعمل لدعم حياتك.",
-        "FA": "برای تأمین زندگی خود کار کنید."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "(way of) life": {
-      "ID": "(cara hidup",
-      "ES": "(estilo de vida",
-      "VI": "(cách) sống",
-      "FR": "(mode de) vie",
-      "NE": "(जीवनशैली)",
-      "BN": "(জীবনযাত্রার) ধরণ",
-      "ZH": "（生活方式）",
-      "KO": "(삶의) 방식",
-      "TL": "(paraan ng) buhay",
-      "MY": "(ဘဝလမ်း)",
-      "HI": "(जीवन शैली",
-      "AR": "(طريقة) الحياة",
-      "FA": "(شیوه) زندگی",
-      "EN": [
-        "living",
-        "livelihood",
-        "life circumstances"
-      ]
-    },
-    "used as a suffix meaning a type of living or lifestyle (usually pronounced ぐらし)": {
-      "ID": "digunakan sebagai akhiran yang berarti jenis kehidupan atau gaya hidup (biasanya diucapkan ぐらし)",
-      "ES": "usado como sufijo que significa un tipo de vida o estilo de vida (generalmente pronunciado ぐらし)",
-      "VI": "được sử dụng như một hậu tố có nghĩa là một kiểu sống hoặc lối sống (thường được phát âm là ぐらし)",
-      "FR": "utilisé comme suffixe désignant un type de vie ou un style de vie (généralement prononcé ぐらし)",
-      "NE": "प्रत्ययको रूपमा प्रयोग गरिन्छ जसको अर्थ जीवन वा जीवनशैलीको प्रकार हो (सामान्यतया उच्चारण गरिन्छ ぐらし)",
-      "BN": "একটি প্রত্যয় হিসাবে ব্যবহৃত হয় যার অর্থ এক ধরণের জীবনযাপন বা জীবনধারা (সাধারণত উচ্চারিত হয় ぐらし)",
-      "ZH": "用作后缀，表示一种生活或生活方式（通常发音为ぐらし）",
-      "KO": "생활 방식이나 생활 양식을 의미하는 접미사로 사용됨(보통 ぐし이라고 발음함)",
-      "TL": "ginamit bilang panlapi na nangangahulugang isang uri ng pamumuhay o pamumuhay (karaniwang binibigkas na ぐらし)",
-      "MY": "နေထိုင်မှုပုံစံ သို့မဟုတ် လူနေမှုပုံစံဟု အဓိပ္ပာယ်ရှိသော နောက်ဆက်တွဲအဖြစ် သုံးသည် (များသောအားဖြင့် ぐらし ဟု အသံထွက်သည်)",
-      "HI": "एक प्रत्यय के रूप में उपयोग किया जाता है जिसका अर्थ है एक प्रकार का जीवन या जीवनशैली (आमतौर पर उच्चारित ぐらし)",
-      "AR": "تستخدم كلاحقة تعني نوع الحياة أو نمط الحياة (عادةً ما يتم نطقها ぐらし)",
-      "FA": "به عنوان پسوند به معنای نوعی زندگی یا سبک زندگی استفاده می شود (معمولاً ぐらし تلفظ می شود)",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "暮らし",
-    "is_common": true,
-    "tags": [
-      "wanikani35"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "暮らし",
-        "reading": "くらし"
-      },
-      {
-        "word": "暮し",
-        "reading": "くらし"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "(way of) life",
-          "living",
-          "livelihood",
-          "life circumstances"
+    "version": "0.3.0",
+    "word": "暮らし",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/TfIFuJImuSk",
+    "in_db": true,
+    "kanji": "暮らし",
+    "reading": "くらし",
+    "introduction_japanese": "暮らしは、日常生活や仕事・家族・住まいなどについて話す場面でよく使う言葉です。暮らし向きや暮らしぶりの話にも出てきます。",
+    "introduction_english": "The noun くらし is commonly used when talking about daily life, work, family, housing, and someone's living conditions or lifestyle.",
+    "meanings": [
+        [
+            "(way of) life",
+            "living",
+            "livelihood",
+            "life circumstances"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Noun, used as a suffix"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [
-          "usu. ぐらし as a suffix"
+        [
+            "used as a suffix meaning a type of living or lifestyle (usually pronounced ぐらし)"
         ]
-      }
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "meaning_explanation_japanese": "「暮らし」は日々の生活や生活ぶり、生活の様子を表す言葉だよ。仕事や家族、住まい、収入など普段の生活全般のことを指すよ。",
+    "meaning_explanation_english": "The word くらし means daily life, one's way of living, or livelihood. It refers to everyday conditions like work, family, home, and finances.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "暮",
+            "common_words": [
+                "暮れる (くれる): to get dark; to come to an end",
+                "暮らす (くらす): to live; to make a living"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means evening, spending time, and livelihood. The word くれる shows the 'evening' or 'to get dark' sense where the day ends. The word くらす shows the 'to live' or 'to make a living' sense, which links to the idea of everyday life and livelihood.",
+    "synonyms": [
+        "生活",
+        "生計"
+    ],
+    "synonym_explanation": "The most common synonyms of the くらし are せいかつ and せいけい. せいかつ is a general word for daily life and routines and is closest in everyday use. せいけい focuses more on earning a living and finances, so it is narrower and more about income.",
+    "antonyms": [],
+    "antonym_explanation": "No common antonyms found.",
+    "collocations": [
+        {
+            "kanji": "平穏な暮らし",
+            "furigana": "平穏な暮らし",
+            "translations": {}
+        },
+        {
+            "kanji": "豊かな暮らし",
+            "furigana": "豊かな暮らし",
+            "translations": {}
+        },
+        {
+            "kanji": "質素な暮らし",
+            "furigana": "質素な暮らし",
+            "translations": {}
+        },
+        {
+            "kanji": "安定した暮らし",
+            "furigana": "安定した暮らし",
+            "translations": {}
+        },
+        {
+            "kanji": "快適な暮らし",
+            "furigana": "快適な暮らし",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らし向き",
+            "furigana": "暮らし向き",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしぶり",
+            "furigana": "暮らしぶり",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしぶりを見せる",
+            "furigana": "暮らしぶりを見せる",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしぶりを伝える",
+            "furigana": "暮らしぶりを伝える",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らし向きを改善する",
+            "furigana": "暮らし向きを改善する",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを営む",
+            "furigana": "暮らしを営む",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを支える",
+            "furigana": "暮らしを支える",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを守る",
+            "furigana": "暮らしを守る",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを楽しむ",
+            "furigana": "暮らしを楽しむ",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを立てる",
+            "furigana": "暮らしを立てる",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを改善する",
+            "furigana": "暮らしを改善する",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを豊かにする",
+            "furigana": "暮らしを豊かにする",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを変える",
+            "furigana": "暮らしを変える",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを支える",
+            "furigana": "暮らしを支える",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしを切り詰める",
+            "furigana": "暮らしを切り詰める",
+            "translations": {}
+        },
+        {
+            "kanji": "長い暮らし",
+            "furigana": "長い暮らし",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしやすい",
+            "furigana": "暮らしやすい",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らしにくい",
+            "furigana": "暮らしにくい",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らし向き良い",
+            "furigana": "暮らし向き良い",
+            "translations": {}
+        },
+        {
+            "kanji": "暮らし向き悪い",
+            "furigana": "暮らし向き悪い",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "平穏な暮らしがほしい。",
+            "furigana": "平穏(へいおん)な暮らし(くらし)がほしい。",
+            "translations": {
+                "EN": "I want a peaceful life.",
+                "ID": "Saya ingin kehidupan yang damai.",
+                "ES": "Quiero una vida tranquila.",
+                "VI": "Tôi muốn một cuộc sống yên bình.",
+                "FR": "Je veux une vie paisible.",
+                "NE": "म शान्त जीवन चाहन्छु।",
+                "BN": "আমি একটা শান্তিপূর্ণ জীবন চাই।",
+                "ZH": "我想要平静的生活。",
+                "KO": "평온한 생활을 원한다.",
+                "TL": "Gusto ko ng tahimik na buhay.",
+                "MY": "အေးချမ်းတဲ့ဘဝလေးလိုချင်တယ်။",
+                "HI": "मैं शांतिपूर्ण जीवन चाहता हूं.",
+                "AR": "أريد حياة هادئة.",
+                "FA": "من یه زندگی آروم می‌خوام."
+            }
+        },
+        {
+            "kanji": "豊かな暮らしをしたい。",
+            "furigana": "豊(ゆたか)な暮らし(くらし)をしたい。",
+            "translations": {
+                "EN": "I want to live a rich life.",
+                "ID": "Saya ingin menjalani kehidupan yang kaya.",
+                "ES": "Quiero vivir una vida rica.",
+                "VI": "Tôi muốn sống một cuộc sống giàu có.",
+                "FR": "Je veux vivre une vie riche.",
+                "NE": "म समृद्ध जीवन बिताउन चाहन्छु।",
+                "BN": "আমি একটি সমৃদ্ধ জীবনযাপন করতে চাই।",
+                "ZH": "我想过上富裕的生活。",
+                "KO": "풍부한 생활을 하고 싶다.",
+                "TL": "Gusto kong mamuhay ng mayamang buhay.",
+                "MY": "ချမ်းသာတဲ့ဘဝနဲ့ နေချင်တယ်။",
+                "HI": "मैं एक समृद्ध जीवन जीना चाहता हूँ.",
+                "AR": "أريد أن أعيش حياة غنية.",
+                "FA": "من می‌خواهم زندگی ثروتمندی داشته باشم."
+            }
+        },
+        {
+            "kanji": "質素な暮らしが好きです。",
+            "furigana": "質素(しっそ)な暮らし(くらし)が好(す)きです。",
+            "translations": {
+                "EN": "I like living a simple life.",
+                "ID": "Saya suka menjalani hidup sederhana.",
+                "ES": "Me gusta vivir una vida sencilla.",
+                "VI": "Tôi thích sống một cuộc sống đơn giản.",
+                "FR": "J'aime vivre une vie simple.",
+                "NE": "मलाई साधारण जीवन बिताउन मन पर्छ।",
+                "BN": "আমি সরল জীবনযাপন পছন্দ করি।",
+                "ZH": "我喜欢过简单的生活。",
+                "KO": "검소한 생활을 좋아합니다.",
+                "TL": "Gusto kong mamuhay ng simple.",
+                "MY": "ရိုးရိုးရှင်းရှင်း ဘဝကို သဘောကျတယ်။",
+                "HI": "मुझे सादा जीवन जीना पसंद है।",
+                "AR": "أحب أن أعيش حياة بسيطة.",
+                "FA": "من دوست دارم ساده زندگی کنم."
+            }
+        },
+        {
+            "kanji": "暮らし向きが良くなった。",
+            "furigana": "暮らし(くらし)向き(むき)が良(よ)くなった。",
+            "translations": {
+                "EN": "My living situation has improved.",
+                "ID": "Situasi hidup saya telah membaik.",
+                "ES": "Mi situación de vida ha mejorado.",
+                "VI": "Tình hình sống của tôi đã được cải thiện.",
+                "FR": "Ma situation de vie s'est améliorée.",
+                "NE": "मेरो जीवनस्तरमा सुधार आएको छ।",
+                "BN": "আমার জীবনযাত্রার অবস্থার উন্নতি হয়েছে।",
+                "ZH": "我的生活状况有所改善。",
+                "KO": "생활 방향이 좋아졌다.",
+                "TL": "Bumuti ang kalagayan ko sa pamumuhay.",
+                "MY": "ကျွန်တော့်ရဲ့ နေထိုင်မှုအခြေအနေက တိုးတက်လာပါပြီ။",
+                "HI": "मेरी रहने की स्थिति में सुधार हुआ है।",
+                "AR": "لقد تحسنت حالتي المعيشية.",
+                "FA": "وضعیت زندگیم بهتر شده."
+            }
+        },
+        {
+            "kanji": "彼女の暮らしぶりは楽しそうだ。",
+            "furigana": "彼女(かのじょ)の暮らしぶり(くらしぶり)は楽(たの)しそうだ。",
+            "translations": {
+                "EN": "Her lifestyle seems fun.",
+                "ID": "Gaya hidupnya tampak menyenangkan.",
+                "ES": "Su estilo de vida parece divertido.",
+                "VI": "Phong cách sống của cô ấy có vẻ thú vị.",
+                "FR": "Son style de vie semble amusant.",
+                "NE": "उनको जीवनशैली रमाइलो देखिन्छ।",
+                "BN": "তার জীবনধারা মজার বলে মনে হচ্ছে।",
+                "ZH": "她的生活方式看起来很有趣。",
+                "KO": "그녀의 삶은 재미있을 것 같다.",
+                "TL": "Mukhang masaya ang kanyang pamumuhay.",
+                "MY": "သူမရဲ့ နေထိုင်မှုပုံစံက ပျော်စရာကောင်းနေပုံပါပဲ။",
+                "HI": "उसकी जीवनशैली मज़ेदार लगती है।",
+                "AR": "يبدو أن أسلوب حياتها ممتع.",
+                "FA": "سبک زندگیش جالب به نظر میاد."
+            }
+        },
+        {
+            "kanji": "暮らしを支えるために働く。",
+            "furigana": "暮らし(くらし)を支(ささ)えるために働(はたら)く。",
+            "translations": {
+                "EN": "Work to support your life.",
+                "ID": "Bekerja untuk menunjang hidup Anda.",
+                "ES": "Trabaja para sustentar tu vida.",
+                "VI": "Làm việc để hỗ trợ cuộc sống của bạn.",
+                "FR": "Travaillez pour subvenir à vos besoins.",
+                "NE": "आफ्नो जीवनलाई सहयोग गर्न काम गर्नुहोस्।",
+                "BN": "তোমার জীবনকে সমর্থন করার জন্য কাজ করো।",
+                "ZH": "工作来维持你的生活。",
+                "KO": "생활을 지원하기 위해 일한다.",
+                "TL": "Magtrabaho upang suportahan ang iyong buhay.",
+                "MY": "သင့်ဘဝအတွက် အထောက်အကူဖြစ်စေရန် လုပ်ဆောင်ပါ။",
+                "HI": "अपने जीवन को सहारा देने के लिए काम करें।",
+                "AR": "اعمل لدعم حياتك.",
+                "FA": "برای تأمین زندگی خود کار کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "(cara hidup",
+            "ES": "(estilo de vida",
+            "VI": "(cách) sống",
+            "FR": "(mode de) vie",
+            "NE": "(जीवनशैली)",
+            "BN": "(জীবনযাত্রার) ধরণ",
+            "ZH": "（生活方式）",
+            "KO": "(삶의) 방식",
+            "TL": "(paraan ng) buhay",
+            "MY": "(ဘဝလမ်း)",
+            "HI": "(जीवन शैली",
+            "AR": "(طريقة) الحياة",
+            "FA": "(شیوه) زندگی",
+            "EN": [
+                "(way of) life",
+                "living",
+                "livelihood",
+                "life circumstances"
+            ]
+        },
+        {
+            "ID": "digunakan sebagai akhiran yang berarti jenis kehidupan atau gaya hidup (biasanya diucapkan ぐらし)",
+            "ES": "usado como sufijo que significa un tipo de vida o estilo de vida (generalmente pronunciado ぐらし)",
+            "VI": "được sử dụng như một hậu tố có nghĩa là một kiểu sống hoặc lối sống (thường được phát âm là ぐらし)",
+            "FR": "utilisé comme suffixe désignant un type de vie ou un style de vie (généralement prononcé ぐらし)",
+            "NE": "प्रत्ययको रूपमा प्रयोग गरिन्छ जसको अर्थ जीवन वा जीवनशैलीको प्रकार हो (सामान्यतया उच्चारण गरिन्छ ぐらし)",
+            "BN": "একটি প্রত্যয় হিসাবে ব্যবহৃত হয় যার অর্থ এক ধরণের জীবনযাপন বা জীবনধারা (সাধারণত উচ্চারিত হয় ぐらし)",
+            "ZH": "用作后缀，表示一种生活或生活方式（通常发音为ぐらし）",
+            "KO": "생활 방식이나 생활 양식을 의미하는 접미사로 사용됨(보통 ぐし이라고 발음함)",
+            "TL": "ginamit bilang panlapi na nangangahulugang isang uri ng pamumuhay o pamumuhay (karaniwang binibigkas na ぐらし)",
+            "MY": "နေထိုင်မှုပုံစံ သို့မဟုတ် လူနေမှုပုံစံဟု အဓိပ္ပာယ်ရှိသော နောက်ဆက်တွဲအဖြစ် သုံးသည် (များသောအားဖြင့် ぐらし ဟု အသံထွက်သည်)",
+            "HI": "एक प्रत्यय के रूप में उपयोग किया जाता है जिसका अर्थ है एक प्रकार का जीवन या जीवनशैली (आमतौर पर उच्चारित ぐらし)",
+            "AR": "تستخدم كلاحقة تعني نوع الحياة أو نمط الحياة (عادةً ما يتم نطقها ぐらし)",
+            "FA": "به عنوان پسوند به معنای نوعی زندگی یا سبک زندگی استفاده می شود (معمولاً ぐらし تلفظ می شود)",
+            "EN": [
+                "used as a suffix meaning a type of living or lifestyle (usually pronounced ぐらし)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "暮らし",
+        "is_common": true,
+        "tags": [
+            "wanikani35"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "暮らし",
+                "reading": "くらし"
+            },
+            {
+                "word": "暮し",
+                "reading": "くらし"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "(way of) life",
+                    "living",
+                    "livelihood",
+                    "life circumstances"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun, used as a suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. ぐらし as a suffix"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "暮"
+    ],
+    "kanji_data": {
+        "暮": {
+            "freq_mainichi_shinbun": 978,
+            "grade": 6,
+            "heisig_en": "livelihood",
+            "jlpt": 3,
+            "kanji": "暮",
+            "kun_readings": [
+                "く.らす",
+                "く.れる"
+            ],
+            "meanings": [
+                "evening",
+                "livelihood",
+                "make a living",
+                "season's end",
+                "spend time",
+                "twilight"
+            ],
+            "name_readings": [
+                "ぐらし",
+                "ぐれ",
+                "ぽ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ボ"
+            ],
+            "stroke_count": 14,
+            "unicode": "66AE"
+        }
     }
-  },
-  "kanji_list": [
-    "暮"
-  ],
-  "kanji_data": {
-    "暮": {
-      "freq_mainichi_shinbun": 978,
-      "grade": 6,
-      "heisig_en": "livelihood",
-      "jlpt": 3,
-      "kanji": "暮",
-      "kun_readings": [
-        "く.らす",
-        "く.れる"
-      ],
-      "meanings": [
-        "evening",
-        "livelihood",
-        "make a living",
-        "season's end",
-        "spend time",
-        "twilight"
-      ],
-      "name_readings": [
-        "ぐらし",
-        "ぐれ",
-        "ぽ"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ボ"
-      ],
-      "stroke_count": 14,
-      "unicode": "66AE"
-    }
-  }
 }

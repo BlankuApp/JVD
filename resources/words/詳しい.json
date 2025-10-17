@@ -1,438 +1,440 @@
 {
-  "version": "0.3.0",
-  "word": "詳しい",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/PW98tAkmNPc",
-  "in_db": true,
-  "kanji": "詳しい",
-  "reading": "くわしい",
-  "introduction_japanese": "詳しいは、情報や説明、人の知識の深さについて話すときによく使う形容詞です。学校や仕事で詳しく知りたいとき、誰かの専門性をたたえるときによく出ます。",
-  "introduction_english": "The adjective くわしい is commonly used when talking about information or explanations and how deeply someone knows a topic. You see it a lot in school, work, or when praising someone's expertise.",
-  "meanings": [
-    [
-      "detailed",
-      "full",
-      "minute"
-    ],
-    [
-      "knowing very well",
-      "knowledgeable (about)",
-      "well-acquainted (with)",
-      "well-informed (about)",
-      "familiar (with)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「詳しい」は、物事の細かい点まで説明できるときや、ある分野についてよく知っている人に使う言葉です。例えば、手順や情報が細かいときと、人の知識が深いときの両方で使えます。",
-  "meaning_explanation_english": "The word くわしい means 'detailed' or 'knowledgeable.' You can use it when information is very detailed or when a person knows a topic very well.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "詳",
-      "common_words": [
-        "詳細 (しょうさい): details, detailed",
-        "詳述 (しょうじゅつ): detailed description"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means detailed or accurate. Its on reading is しょう and its kun readings are くわしい and つまびらか. It appears in words like しょうさい and しょうじゅつ and gives the idea of careful, full information.",
-  "synonyms": [
-    "詳細 : しょうさい : detailed"
-  ],
-  "synonym_explanation": "The most common synonym of the くわしい is しょうさい. しょうさい is used as a な-adjective or noun to mean detailed information and is very similar to くわしい when describing something with many specifics.",
-  "antonyms": [
-    "疎い : うとい : unfamiliar, not knowledgeable"
-  ],
-  "antonym_explanation": "The most common antonym of the くわしい is うとい. うとい means not familiar or uninformed, which is the opposite of the knowledgeable sense of くわしい.",
-  "collocations": [
-    {
-      "kanji": "歴史に詳しい",
-      "furigana": "歴史に詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "音楽に詳しい",
-      "furigana": "音楽に詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "経済に詳しい",
-      "furigana": "経済に詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "法律に詳しい",
-      "furigana": "法律に詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "パソコンに詳しい",
-      "furigana": "パソコンに詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい説明",
-      "furigana": "詳しい説明",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい内容",
-      "furigana": "詳しい内容",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい情報",
-      "furigana": "詳しい情報",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい地図",
-      "furigana": "詳しい地図",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい手順",
-      "furigana": "詳しい手順",
-      "translations": {}
-    },
-    {
-      "kanji": "とても詳しい",
-      "furigana": "とても詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "かなり詳しい",
-      "furigana": "かなり詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "たいへん詳しい",
-      "furigana": "たいへん詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "すごく詳しい",
-      "furigana": "すごく詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "わりと詳しい",
-      "furigana": "わりと詳しい",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しいことを知る",
-      "furigana": "詳しいことを知る",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい人に聞く",
-      "furigana": "詳しい人に聞く",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい資料を読む",
-      "furigana": "詳しい資料を読む",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい話をする",
-      "furigana": "詳しい話をする",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい状況を調べる",
-      "furigana": "詳しい状況を調べる",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しいことは分からない",
-      "furigana": "詳しいことは分からない",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい説明を求める",
-      "furigana": "詳しい説明を求める",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい手続きを案内する",
-      "furigana": "詳しい手続きを案内する",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい経緯を明らかにする",
-      "furigana": "詳しい経緯を明らかにする",
-      "translations": {}
-    },
-    {
-      "kanji": "詳しい事情を説明する",
-      "furigana": "詳しい事情を説明する",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "歴史に詳しい。",
-      "furigana": "歴史(れきし)に詳(くわ)しい。",
-      "translations": {
-        "EN": "He is knowledgeable about history.",
-        "ID": "Dia berpengetahuan luas tentang sejarah.",
-        "ES": "Él tiene conocimientos de historia.",
-        "VI": "Anh ấy có hiểu biết về lịch sử.",
-        "FR": "Il est connaisseur en histoire.",
-        "NE": "उनी इतिहासको बारेमा जानकार छन्।",
-        "BN": "তিনি ইতিহাস সম্পর্কে জ্ঞানী।",
-        "ZH": "他精通历史。",
-        "KO": "역사에 익숙하다.",
-        "TL": "Siya ay may kaalaman sa kasaysayan.",
-        "MY": "သူက သမိုင်းကို တတ်ကျွမ်းသူပါ။",
-        "HI": "वह इतिहास के बारे में जानकार है.",
-        "AR": "فهو مطلع على التاريخ.",
-        "FA": "او در مورد تاریخ آگاه است."
-      }
-    },
-    {
-      "kanji": "音楽に詳しい友達がいる。",
-      "furigana": "音楽(おんがく)に詳(くわ)しい友達(ともだち)がいる。",
-      "translations": {
-        "EN": "I have a friend who is knowledgeable about music.",
-        "ID": "Saya punya teman yang berpengetahuan tentang musik.",
-        "ES": "Tengo un amigo que sabe de música.",
-        "VI": "Tôi có một người bạn rất am hiểu về âm nhạc.",
-        "FR": "J'ai un ami qui s'y connaît en musique.",
-        "NE": "मेरो एक जना साथी छ जसलाई संगीतको बारेमा ज्ञान छ।",
-        "BN": "আমার এক বন্ধু আছে যে সঙ্গীত সম্পর্কে জ্ঞানী।",
-        "ZH": "我有一个朋友，他精通音乐。",
-        "KO": "음악에 자세한 친구가 있다.",
-        "TL": "Mayroon akong isang kaibigan na may kaalaman sa musika.",
-        "MY": "ဂီတနဲ့ပတ်သက်တဲ့ ဗဟုသုတရှိတဲ့ သူငယ်ချင်းတစ်ယောက်ရှိတယ်။",
-        "HI": "मेरा एक मित्र है जो संगीत का जानकार है।",
-        "AR": "لدي صديق لديه معرفة بالموسيقى.",
-        "FA": "من دوستی دارم که در زمینه موسیقی اطلاعات زیادی دارد."
-      }
-    },
-    {
-      "kanji": "詳しい説明をお願いします。",
-      "furigana": "詳(くわ)しい説明(せつめい)をお願いします(おねがいします)。",
-      "translations": {
-        "EN": "Please give me a detailed explanation.",
-        "ID": "Tolong berikan saya penjelasan yang rinci.",
-        "ES": "Por favor, deme una explicación detallada.",
-        "VI": "Xin hãy giải thích chi tiết cho tôi.",
-        "FR": "S'il vous plaît, donnez-moi une explication détaillée.",
-        "NE": "कृपया मलाई विस्तृत व्याख्या दिनुहोस्।",
-        "BN": "দয়া করে আমাকে বিস্তারিত ব্যাখ্যা দিন।",
-        "ZH": "请给我详细解释一下。",
-        "KO": "자세한 설명을 부탁드립니다.",
-        "TL": "Mangyaring bigyan ako ng isang detalyadong paliwanag.",
-        "MY": "ကျေးဇူးပြုပြီး အသေးစိတ်ရှင်းပြပေးပါ။",
-        "HI": "कृपया मुझे विस्तृत स्पष्टीकरण दीजिए।",
-        "AR": "أرجو أن تعطيني شرحًا مفصلاً.",
-        "FA": "لطفا یه توضیح مفصل بهم بدید."
-      }
-    },
-    {
-      "kanji": "パソコンに詳しい人はいませんか。",
-      "furigana": "パソコンに詳(くわ)しい人(ひと)はいませんか。",
-      "translations": {
-        "EN": "Is there anyone who knows a lot about computers?",
-        "ID": "Apakah ada yang tahu banyak tentang komputer?",
-        "ES": "¿Hay alguien que sepa mucho sobre computadoras?",
-        "VI": "Có ai biết nhiều về máy tính không?",
-        "FR": "Y a-t-il quelqu'un qui en sait beaucoup sur les ordinateurs ?",
-        "NE": "के कोही कम्प्युटरको बारेमा धेरै जानकार छ?",
-        "BN": "এমন কেউ কি আছেন যিনি কম্পিউটার সম্পর্কে অনেক কিছু জানেন?",
-        "ZH": "有谁非常了解计算机吗？",
-        "KO": "PC에 익숙한 사람이 없습니까?",
-        "TL": "Mayroon bang sinuman na maraming alam tungkol sa mga computer?",
-        "MY": "ကွန်ပြူတာအကြောင်း တော်တော်များများသိတဲ့ သူရှိလား။",
-        "HI": "क्या कोई ऐसा है जो कंप्यूटर के बारे में बहुत कुछ जानता है?",
-        "AR": "هل هناك من يعرف الكثير عن أجهزة الكمبيوتر؟",
-        "FA": "کسی هست که اطلاعات زیادی در مورد کامپیوتر داشته باشه؟"
-      }
-    },
-    {
-      "kanji": "詳しい地図を見せてください。",
-      "furigana": "詳(くわ)しい地図(ちず)を見(み)せてください。",
-      "translations": {
-        "EN": "Please show me a detailed map.",
-        "ID": "Tolong tunjukkan saya peta yang lebih rinci.",
-        "ES": "Por favor, muéstrame un mapa detallado.",
-        "VI": "Xin hãy cho tôi xem bản đồ chi tiết.",
-        "FR": "S'il vous plaît, montrez-moi une carte détaillée.",
-        "NE": "कृपया मलाई विस्तृत नक्सा देखाउनुहोस्।",
-        "BN": "দয়া করে আমাকে একটা বিস্তারিত মানচিত্র দেখান।",
-        "ZH": "请给我看一下详细的地图。",
-        "KO": "자세한 지도를 보여주세요.",
-        "TL": "Pakipakita sa akin ang isang detalyadong mapa.",
-        "MY": "ကျေးဇူးပြုပြီး အသေးစိတ်မြေပုံကို ပြပါ။",
-        "HI": "कृपया मुझे विस्तृत नक्शा दिखाइये।",
-        "AR": "أرجو أن تظهر لي خريطة مفصلة.",
-        "FA": "لطفا یک نقشه دقیق به من نشان دهید."
-      }
-    },
-    {
-      "kanji": "詳しいことは分からない。",
-      "furigana": "詳(くわ)しいことは分(わ)からない。",
-      "translations": {
-        "EN": "I don't know the details.",
-        "ID": "Saya tidak tahu rinciannya.",
-        "ES": "No conozco los detalles.",
-        "VI": "Tôi không biết chi tiết.",
-        "FR": "Je ne connais pas les détails.",
-        "NE": "मलाई विवरण थाहा छैन।",
-        "BN": "আমি বিস্তারিত জানি না।",
-        "ZH": "我不知道详情。",
-        "KO": "자세한 것은 모른다.",
-        "TL": "Hindi ko alam ang mga detalye.",
-        "MY": "အသေးစိတ်တော့ မသိဘူး။",
-        "HI": "मुझे विस्तृत जानकारी नहीं है।",
-        "AR": "لا أعرف التفاصيل.",
-        "FA": "من از جزئیات خبر ندارم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "detailed": {
-      "ID": "terperinci",
-      "ES": "detallado",
-      "VI": "chi tiết",
-      "FR": "détaillé",
-      "NE": "विस्तृत",
-      "BN": "বিস্তারিত",
-      "ZH": "详细的",
-      "KO": "상세한",
-      "TL": "detalyado",
-      "MY": "အသေးစိတ်",
-      "HI": "विस्तृत",
-      "AR": "مفصل",
-      "FA": "مفصل",
-      "EN": [
-        "full",
-        "minute"
-      ]
-    },
-    "knowing very well": {
-      "ID": "mengetahui dengan sangat baik",
-      "ES": "sabiendo muy bien",
-      "VI": "biết rất rõ",
-      "FR": "sachant très bien",
-      "NE": "राम्रोसँग जान्ने",
-      "BN": "খুব ভালো করে জেনেছি",
-      "ZH": "非常清楚",
-      "KO": "아주 잘 알고 있다",
-      "TL": "alam na alam",
-      "MY": "အရမ်းသိတယ်။",
-      "HI": "बहुत अच्छी तरह से जानते हुए",
-      "AR": "معرفة جيدة جدًا",
-      "FA": "خیلی خوب دانستن",
-      "EN": [
-        "knowledgeable (about)",
-        "well-acquainted (with)",
-        "well-informed (about)",
-        "familiar (with)"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "詳しい",
-    "is_common": true,
-    "tags": [
-      "wanikani17"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "詳しい",
-        "reading": "くわしい"
-      },
-      {
-        "word": "精しい",
-        "reading": "くわしい"
-      },
-      {
-        "word": "委しい",
-        "reading": "くわしい"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "detailed",
-          "full",
-          "minute"
+    "version": "0.3.0",
+    "word": "詳しい",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/PW98tAkmNPc",
+    "in_db": true,
+    "kanji": "詳しい",
+    "reading": "くわしい",
+    "introduction_japanese": "詳しいは、情報や説明、人の知識の深さについて話すときによく使う形容詞です。学校や仕事で詳しく知りたいとき、誰かの専門性をたたえるときによく出ます。",
+    "introduction_english": "The adjective くわしい is commonly used when talking about information or explanations and how deeply someone knows a topic. You see it a lot in school, work, or when praising someone's expertise.",
+    "meanings": [
+        [
+            "detailed",
+            "full",
+            "minute"
         ],
-        "parts_of_speech": [
-          "I-adjective (keiyoushi)"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "knowing very well",
-          "knowledgeable (about)",
-          "well-acquainted (with)",
-          "well-informed (about)",
-          "familiar (with)"
-        ],
-        "parts_of_speech": [
-          "I-adjective (keiyoushi)"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [
-          "疎い"
-        ],
-        "source": [],
-        "info": []
-      }
+        [
+            "knowing very well",
+            "knowledgeable (about)",
+            "well-acquainted (with)",
+            "well-informed (about)",
+            "familiar (with)"
+        ]
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "meaning_explanation_japanese": "「詳しい」は、物事の細かい点まで説明できるときや、ある分野についてよく知っている人に使う言葉です。例えば、手順や情報が細かいときと、人の知識が深いときの両方で使えます。",
+    "meaning_explanation_english": "The word くわしい means 'detailed' or 'knowledgeable.' You can use it when information is very detailed or when a person knows a topic very well.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "詳",
+            "common_words": [
+                "詳細 (しょうさい): details, detailed",
+                "詳述 (しょうじゅつ): detailed description"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means detailed or accurate. Its on reading is しょう and its kun readings are くわしい and つまびらか. It appears in words like しょうさい and しょうじゅつ and gives the idea of careful, full information.",
+    "synonyms": [
+        "詳細 : しょうさい : detailed"
+    ],
+    "synonym_explanation": "The most common synonym of the くわしい is しょうさい. しょうさい is used as a な-adjective or noun to mean detailed information and is very similar to くわしい when describing something with many specifics.",
+    "antonyms": [
+        "疎い : うとい : unfamiliar, not knowledgeable"
+    ],
+    "antonym_explanation": "The most common antonym of the くわしい is うとい. うとい means not familiar or uninformed, which is the opposite of the knowledgeable sense of くわしい.",
+    "collocations": [
+        {
+            "kanji": "歴史に詳しい",
+            "furigana": "歴史に詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "音楽に詳しい",
+            "furigana": "音楽に詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "経済に詳しい",
+            "furigana": "経済に詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "法律に詳しい",
+            "furigana": "法律に詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "パソコンに詳しい",
+            "furigana": "パソコンに詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい説明",
+            "furigana": "詳しい説明",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい内容",
+            "furigana": "詳しい内容",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい情報",
+            "furigana": "詳しい情報",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい地図",
+            "furigana": "詳しい地図",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい手順",
+            "furigana": "詳しい手順",
+            "translations": {}
+        },
+        {
+            "kanji": "とても詳しい",
+            "furigana": "とても詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "かなり詳しい",
+            "furigana": "かなり詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "たいへん詳しい",
+            "furigana": "たいへん詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "すごく詳しい",
+            "furigana": "すごく詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "わりと詳しい",
+            "furigana": "わりと詳しい",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しいことを知る",
+            "furigana": "詳しいことを知る",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい人に聞く",
+            "furigana": "詳しい人に聞く",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい資料を読む",
+            "furigana": "詳しい資料を読む",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい話をする",
+            "furigana": "詳しい話をする",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい状況を調べる",
+            "furigana": "詳しい状況を調べる",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しいことは分からない",
+            "furigana": "詳しいことは分からない",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい説明を求める",
+            "furigana": "詳しい説明を求める",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい手続きを案内する",
+            "furigana": "詳しい手続きを案内する",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい経緯を明らかにする",
+            "furigana": "詳しい経緯を明らかにする",
+            "translations": {}
+        },
+        {
+            "kanji": "詳しい事情を説明する",
+            "furigana": "詳しい事情を説明する",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "歴史に詳しい。",
+            "furigana": "歴史(れきし)に詳(くわ)しい。",
+            "translations": {
+                "EN": "He is knowledgeable about history.",
+                "ID": "Dia berpengetahuan luas tentang sejarah.",
+                "ES": "Él tiene conocimientos de historia.",
+                "VI": "Anh ấy có hiểu biết về lịch sử.",
+                "FR": "Il est connaisseur en histoire.",
+                "NE": "उनी इतिहासको बारेमा जानकार छन्।",
+                "BN": "তিনি ইতিহাস সম্পর্কে জ্ঞানী।",
+                "ZH": "他精通历史。",
+                "KO": "역사에 익숙하다.",
+                "TL": "Siya ay may kaalaman sa kasaysayan.",
+                "MY": "သူက သမိုင်းကို တတ်ကျွမ်းသူပါ။",
+                "HI": "वह इतिहास के बारे में जानकार है.",
+                "AR": "فهو مطلع على التاريخ.",
+                "FA": "او در مورد تاریخ آگاه است."
+            }
+        },
+        {
+            "kanji": "音楽に詳しい友達がいる。",
+            "furigana": "音楽(おんがく)に詳(くわ)しい友達(ともだち)がいる。",
+            "translations": {
+                "EN": "I have a friend who is knowledgeable about music.",
+                "ID": "Saya punya teman yang berpengetahuan tentang musik.",
+                "ES": "Tengo un amigo que sabe de música.",
+                "VI": "Tôi có một người bạn rất am hiểu về âm nhạc.",
+                "FR": "J'ai un ami qui s'y connaît en musique.",
+                "NE": "मेरो एक जना साथी छ जसलाई संगीतको बारेमा ज्ञान छ।",
+                "BN": "আমার এক বন্ধু আছে যে সঙ্গীত সম্পর্কে জ্ঞানী।",
+                "ZH": "我有一个朋友，他精通音乐。",
+                "KO": "음악에 자세한 친구가 있다.",
+                "TL": "Mayroon akong isang kaibigan na may kaalaman sa musika.",
+                "MY": "ဂီတနဲ့ပတ်သက်တဲ့ ဗဟုသုတရှိတဲ့ သူငယ်ချင်းတစ်ယောက်ရှိတယ်။",
+                "HI": "मेरा एक मित्र है जो संगीत का जानकार है।",
+                "AR": "لدي صديق لديه معرفة بالموسيقى.",
+                "FA": "من دوستی دارم که در زمینه موسیقی اطلاعات زیادی دارد."
+            }
+        },
+        {
+            "kanji": "詳しい説明をお願いします。",
+            "furigana": "詳(くわ)しい説明(せつめい)をお願いします(おねがいします)。",
+            "translations": {
+                "EN": "Please give me a detailed explanation.",
+                "ID": "Tolong berikan saya penjelasan yang rinci.",
+                "ES": "Por favor, deme una explicación detallada.",
+                "VI": "Xin hãy giải thích chi tiết cho tôi.",
+                "FR": "S'il vous plaît, donnez-moi une explication détaillée.",
+                "NE": "कृपया मलाई विस्तृत व्याख्या दिनुहोस्।",
+                "BN": "দয়া করে আমাকে বিস্তারিত ব্যাখ্যা দিন।",
+                "ZH": "请给我详细解释一下。",
+                "KO": "자세한 설명을 부탁드립니다.",
+                "TL": "Mangyaring bigyan ako ng isang detalyadong paliwanag.",
+                "MY": "ကျေးဇူးပြုပြီး အသေးစိတ်ရှင်းပြပေးပါ။",
+                "HI": "कृपया मुझे विस्तृत स्पष्टीकरण दीजिए।",
+                "AR": "أرجو أن تعطيني شرحًا مفصلاً.",
+                "FA": "لطفا یه توضیح مفصل بهم بدید."
+            }
+        },
+        {
+            "kanji": "パソコンに詳しい人はいませんか。",
+            "furigana": "パソコンに詳(くわ)しい人(ひと)はいませんか。",
+            "translations": {
+                "EN": "Is there anyone who knows a lot about computers?",
+                "ID": "Apakah ada yang tahu banyak tentang komputer?",
+                "ES": "¿Hay alguien que sepa mucho sobre computadoras?",
+                "VI": "Có ai biết nhiều về máy tính không?",
+                "FR": "Y a-t-il quelqu'un qui en sait beaucoup sur les ordinateurs ?",
+                "NE": "के कोही कम्प्युटरको बारेमा धेरै जानकार छ?",
+                "BN": "এমন কেউ কি আছেন যিনি কম্পিউটার সম্পর্কে অনেক কিছু জানেন?",
+                "ZH": "有谁非常了解计算机吗？",
+                "KO": "PC에 익숙한 사람이 없습니까?",
+                "TL": "Mayroon bang sinuman na maraming alam tungkol sa mga computer?",
+                "MY": "ကွန်ပြူတာအကြောင်း တော်တော်များများသိတဲ့ သူရှိလား။",
+                "HI": "क्या कोई ऐसा है जो कंप्यूटर के बारे में बहुत कुछ जानता है?",
+                "AR": "هل هناك من يعرف الكثير عن أجهزة الكمبيوتر؟",
+                "FA": "کسی هست که اطلاعات زیادی در مورد کامپیوتر داشته باشه؟"
+            }
+        },
+        {
+            "kanji": "詳しい地図を見せてください。",
+            "furigana": "詳(くわ)しい地図(ちず)を見(み)せてください。",
+            "translations": {
+                "EN": "Please show me a detailed map.",
+                "ID": "Tolong tunjukkan saya peta yang lebih rinci.",
+                "ES": "Por favor, muéstrame un mapa detallado.",
+                "VI": "Xin hãy cho tôi xem bản đồ chi tiết.",
+                "FR": "S'il vous plaît, montrez-moi une carte détaillée.",
+                "NE": "कृपया मलाई विस्तृत नक्सा देखाउनुहोस्।",
+                "BN": "দয়া করে আমাকে একটা বিস্তারিত মানচিত্র দেখান।",
+                "ZH": "请给我看一下详细的地图。",
+                "KO": "자세한 지도를 보여주세요.",
+                "TL": "Pakipakita sa akin ang isang detalyadong mapa.",
+                "MY": "ကျေးဇူးပြုပြီး အသေးစိတ်မြေပုံကို ပြပါ။",
+                "HI": "कृपया मुझे विस्तृत नक्शा दिखाइये।",
+                "AR": "أرجو أن تظهر لي خريطة مفصلة.",
+                "FA": "لطفا یک نقشه دقیق به من نشان دهید."
+            }
+        },
+        {
+            "kanji": "詳しいことは分からない。",
+            "furigana": "詳(くわ)しいことは分(わ)からない。",
+            "translations": {
+                "EN": "I don't know the details.",
+                "ID": "Saya tidak tahu rinciannya.",
+                "ES": "No conozco los detalles.",
+                "VI": "Tôi không biết chi tiết.",
+                "FR": "Je ne connais pas les détails.",
+                "NE": "मलाई विवरण थाहा छैन।",
+                "BN": "আমি বিস্তারিত জানি না।",
+                "ZH": "我不知道详情。",
+                "KO": "자세한 것은 모른다.",
+                "TL": "Hindi ko alam ang mga detalye.",
+                "MY": "အသေးစိတ်တော့ မသိဘူး။",
+                "HI": "मुझे विस्तृत जानकारी नहीं है।",
+                "AR": "لا أعرف التفاصيل.",
+                "FA": "من از جزئیات خبر ندارم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "terperinci",
+            "ES": "detallado",
+            "VI": "chi tiết",
+            "FR": "détaillé",
+            "NE": "विस्तृत",
+            "BN": "বিস্তারিত",
+            "ZH": "详细的",
+            "KO": "상세한",
+            "TL": "detalyado",
+            "MY": "အသေးစိတ်",
+            "HI": "विस्तृत",
+            "AR": "مفصل",
+            "FA": "مفصل",
+            "EN": [
+                "detailed",
+                "full",
+                "minute"
+            ]
+        },
+        {
+            "ID": "mengetahui dengan sangat baik",
+            "ES": "sabiendo muy bien",
+            "VI": "biết rất rõ",
+            "FR": "sachant très bien",
+            "NE": "राम्रोसँग जान्ने",
+            "BN": "খুব ভালো করে জেনেছি",
+            "ZH": "非常清楚",
+            "KO": "아주 잘 알고 있다",
+            "TL": "alam na alam",
+            "MY": "အရမ်းသိတယ်။",
+            "HI": "बहुत अच्छी तरह से जानते हुए",
+            "AR": "معرفة جيدة جدًا",
+            "FA": "خیلی خوب دانستن",
+            "EN": [
+                "knowing very well",
+                "knowledgeable (about)",
+                "well-acquainted (with)",
+                "well-informed (about)",
+                "familiar (with)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "詳しい",
+        "is_common": true,
+        "tags": [
+            "wanikani17"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "詳しい",
+                "reading": "くわしい"
+            },
+            {
+                "word": "精しい",
+                "reading": "くわしい"
+            },
+            {
+                "word": "委しい",
+                "reading": "くわしい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "detailed",
+                    "full",
+                    "minute"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "knowing very well",
+                    "knowledgeable (about)",
+                    "well-acquainted (with)",
+                    "well-informed (about)",
+                    "familiar (with)"
+                ],
+                "parts_of_speech": [
+                    "I-adjective (keiyoushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [
+                    "疎い"
+                ],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "詳"
+    ],
+    "kanji_data": {
+        "詳": {
+            "freq_mainichi_shinbun": 1178,
+            "grade": 8,
+            "heisig_en": "detailed",
+            "jlpt": 1,
+            "kanji": "詳",
+            "kun_readings": [
+                "くわ.しい",
+                "つまび.らか"
+            ],
+            "meanings": [
+                "accurate",
+                "detailed",
+                "full",
+                "minute",
+                "well-informed"
+            ],
+            "name_readings": [
+                "よし"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ショウ"
+            ],
+            "stroke_count": 13,
+            "unicode": "8A73"
+        }
     }
-  },
-  "kanji_list": [
-    "詳"
-  ],
-  "kanji_data": {
-    "詳": {
-      "freq_mainichi_shinbun": 1178,
-      "grade": 8,
-      "heisig_en": "detailed",
-      "jlpt": 1,
-      "kanji": "詳",
-      "kun_readings": [
-        "くわ.しい",
-        "つまび.らか"
-      ],
-      "meanings": [
-        "accurate",
-        "detailed",
-        "full",
-        "minute",
-        "well-informed"
-      ],
-      "name_readings": [
-        "よし"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ショウ"
-      ],
-      "stroke_count": 13,
-      "unicode": "8A73"
-    }
-  }
 }

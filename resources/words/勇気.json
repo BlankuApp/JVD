@@ -1,254 +1,261 @@
 {
-  "version": "0.3.0",
-  "word": "勇気",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/nDtf9_hE4pI",
-  "in_db": true,
-  "kanji": "勇気",
-  "reading": "ゆうき",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is ゆうき which you will often hear in situations involving acts of valor, overcoming challenges, or when someone is taking a bold step without fear.",
-  "meanings": [
-    [
-      "courage",
-      "bravery",
-      "valour",
-      "valor",
-      "nerve",
-      "boldness"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word ゆうき means \"courage.\" It captures the feeling of having the strength to face fear or adversity bravely. It's often used to describe someone who acts with bravery in difficult situations.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "勇",
-      "common_words": [
-        "勇者: hero",
-        "勇敢: brave"
-      ]
-    },
-    {
-      "kanji": "気",
-      "common_words": [
-        "元気: lively",
-        "天気: weather"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "胆力 : たんりょく : courage"
-  ],
-  "synonym_explanation": "The most common synonyms of the word ゆうき are たんりょく. They both convey the idea of bravery. However, たんりょく leans more towards inner strength or nerve, while ゆうき often emphasizes the aspect of taking daring actions.",
-  "antonyms": [
-    "恐怖 : きょうふ : fear"
-  ],
-  "antonym_explanation": "The most common antonyms of the word ゆうき are きょうふ. The word きょうふ describes the feeling of fear or being scared, which is the opposite of the courage expressed by ゆうき.",
-  "collocations": [
-    {
-      "kanji": "ゆうきをだす",
-      "furigana": "ゆうきをだす",
-      "translations": {}
-    },
-    {
-      "kanji": "ゆうきがある",
-      "furigana": "ゆうきがある",
-      "translations": {}
-    },
-    {
-      "kanji": "ゆうきをもつ",
-      "furigana": "ゆうきをもつ",
-      "translations": {}
-    },
-    {
-      "kanji": "ゆうきをふりしぼる",
-      "furigana": "ゆうきをふりしぼる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "私は怖くても、勇気を出します。",
-      "furigana": "私(わたし)は怖(こわ)くても、勇気(ゆうき)を出(だ)します。",
-      "translations": {
-        "EN": "Even if I am scared, I will muster up courage.",
-        "ID": "Meskipun saya takut, saya akan mengumpulkan keberanian.",
-        "ES": "Aunque tenga miedo, me armaré de valor.",
-        "VI": "Dù sợ, tôi vẫn sẽ lấy hết can đảm.",
-        "FR": "Même si j'ai peur, je trouverai du courage.",
-        "NE": "म तर्सिए पनि, म साहस निकाल्छु।",
-        "BN": "আমি ভীত হলেও, সাহস সঞ্চয় করবো।",
-        "ZH": "即使我害怕，我也会鼓起勇气。",
-        "KO": "무섭더라도 용기를 내겠습니다.",
-        "TL": "Kahit natatakot ako, magpapakatatag ako.",
-        "MY": "ကြောက်စိတ်ရှိရင်မှ, တောင့်တင်းမှုကို အပြည့်အဝ ပေးမယ်။",
-        "HI": "भले ही मैं डरा हुआ हूँ, मैं साहस जुटाऊंगा।",
-        "AR": "حتى لو كنت خائفًا، سأتحلى بالشجاعة.",
-        "FA": "حتی اگر بترسم، شجاعت به خرج می‌دهم."
-      }
-    },
-    {
-      "kanji": "彼は勇気がある。",
-      "furigana": "彼(かれ)は勇気(ゆうき)がある。",
-      "translations": {
-        "EN": "He has courage.",
-        "ID": "Dia memiliki keberanian.",
-        "ES": "Él tiene coraje.",
-        "VI": "Anh ấy có dũng khí.",
-        "FR": "Il a du courage.",
-        "NE": "उहाँसँग साहस छ।",
-        "BN": "তার সাহস আছে।",
-        "ZH": "他很有勇气。",
-        "KO": "그는 용기가 있다.",
-        "TL": "May tapang siya.",
-        "MY": "သူက ရဲရင့်ခြင်းရှိတယ်။",
-        "HI": "उसमें साहस है।",
-        "AR": "لديه الشجاعة.",
-        "FA": "او شجاعت دارد."
-      }
-    },
-    {
-      "kanji": "私は勇気を持つ。",
-      "furigana": "私(わたし)は勇気(ゆうき)を持(も)つ。",
-      "translations": {
-        "EN": "I have courage.",
-        "ID": "Saya punya keberanian.",
-        "ES": "Yo tengo valor.",
-        "VI": "Tôi có dũng khí.",
-        "FR": "J'ai du courage.",
-        "NE": "मसँग साहस छ।",
-        "BN": "আমার সাহস আছে।",
-        "ZH": "我有勇气。",
-        "KO": "나는 용기를 가지고 있다.",
-        "TL": "May lakas ng loob ako.",
-        "MY": "ကျွန်ုပ်တွင် ရဲမှုရှိသည်။",
-        "HI": "मेरे पास साहस है।",
-        "AR": "أنا أمتلك الشجاعة.",
-        "FA": "من شجاعت دارم."
-      }
-    },
-    {
-      "kanji": "彼は勇気を振り絞った。",
-      "furigana": "彼(かれ)は勇気(ゆうき)を振(ふ)り絞(しぼ)った。",
-      "translations": {
-        "EN": "He summoned his courage.",
-        "ID": "Dia mengumpulkan keberaniannya.",
-        "ES": "Él reunió su valor.",
-        "VI": "Anh ấy đã lấy hết can đảm.",
-        "FR": "Il a rassemblé son courage.",
-        "NE": "उसले आफ्नो साहस जुटायो।",
-        "BN": "সে তার সাহস জুগিয়ে নিয়েছিল।",
-        "ZH": "他鼓足了勇气。",
-        "KO": "그는 용기를 짜냈다.",
-        "TL": "Pinilit niyang magkaroon ng lakas-loob.",
-        "MY": "သူသည် သူ၏ သကြားအား ကျွမ်းကျင်စွာ ဖြည့်ဆည်းခဲ့သည်။",
-        "HI": "उसने अपनी हिम्मत जुटाई।",
-        "AR": "لقد استجمع شجاعته.",
-        "FA": "او شجاعت خود را به کار گرفت."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "courage": {
-      "EN": "courage",
-      "ID": "keberanian",
-      "ES": "coraje",
-      "VI": "dũng cảm",
-      "FR": "courage",
-      "NE": "साहस",
-      "BN": "সাহস",
-      "ZH": "勇气",
-      "KO": "용기",
-      "TL": "tapang",
-      "MY": "နှစ်သက်မှု",
-      "HI": "साहस",
-      "AR": "شجاعة",
-      "FA": "شجاعت"
-    }
-  },
-  "jisho_data": {
-    "slug": "勇気",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
+    "version": "0.3.0",
+    "word": "勇気",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/nDtf9_hE4pI",
+    "in_db": true,
+    "kanji": "勇気",
+    "reading": "ゆうき",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is ゆうき which you will often hear in situations involving acts of valor, overcoming challenges, or when someone is taking a bold step without fear.",
+    "meanings": [
+        [
+            "courage",
+            "bravery",
+            "valour",
+            "valor",
+            "nerve",
+            "boldness"
+        ]
     ],
-    "japanese": [
-      {
-        "word": "勇気",
-        "reading": "ゆうき"
-      }
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word ゆうき means \"courage.\" It captures the feeling of having the strength to face fear or adversity bravely. It's often used to describe someone who acts with bravery in difficult situations.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "勇",
+            "common_words": [
+                "勇者: hero",
+                "勇敢: brave"
+            ]
+        },
+        {
+            "kanji": "気",
+            "common_words": [
+                "元気: lively",
+                "天気: weather"
+            ]
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "courage",
-          "bravery",
-          "valour",
-          "valor",
-          "nerve",
-          "boldness"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "胆力 : たんりょく : courage"
+    ],
+    "synonym_explanation": "The most common synonyms of the word ゆうき are たんりょく. They both convey the idea of bravery. However, たんりょく leans more towards inner strength or nerve, while ゆうき often emphasizes the aspect of taking daring actions.",
+    "antonyms": [
+        "恐怖 : きょうふ : fear"
+    ],
+    "antonym_explanation": "The most common antonyms of the word ゆうき are きょうふ. The word きょうふ describes the feeling of fear or being scared, which is the opposite of the courage expressed by ゆうき.",
+    "collocations": [
+        {
+            "kanji": "ゆうきをだす",
+            "furigana": "ゆうきをだす",
+            "translations": {}
+        },
+        {
+            "kanji": "ゆうきがある",
+            "furigana": "ゆうきがある",
+            "translations": {}
+        },
+        {
+            "kanji": "ゆうきをもつ",
+            "furigana": "ゆうきをもつ",
+            "translations": {}
+        },
+        {
+            "kanji": "ゆうきをふりしぼる",
+            "furigana": "ゆうきをふりしぼる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は怖くても、勇気を出します。",
+            "furigana": "私(わたし)は怖(こわ)くても、勇気(ゆうき)を出(だ)します。",
+            "translations": {
+                "EN": "Even if I am scared, I will muster up courage.",
+                "ID": "Meskipun saya takut, saya akan mengumpulkan keberanian.",
+                "ES": "Aunque tenga miedo, me armaré de valor.",
+                "VI": "Dù sợ, tôi vẫn sẽ lấy hết can đảm.",
+                "FR": "Même si j'ai peur, je trouverai du courage.",
+                "NE": "म तर्सिए पनि, म साहस निकाल्छु।",
+                "BN": "আমি ভীত হলেও, সাহস সঞ্চয় করবো।",
+                "ZH": "即使我害怕，我也会鼓起勇气。",
+                "KO": "무섭더라도 용기를 내겠습니다.",
+                "TL": "Kahit natatakot ako, magpapakatatag ako.",
+                "MY": "ကြောက်စိတ်ရှိရင်မှ, တောင့်တင်းမှုကို အပြည့်အဝ ပေးမယ်။",
+                "HI": "भले ही मैं डरा हुआ हूँ, मैं साहस जुटाऊंगा।",
+                "AR": "حتى لو كنت خائفًا، سأتحلى بالشجاعة.",
+                "FA": "حتی اگر بترسم، شجاعت به خرج می‌دهم."
+            }
+        },
+        {
+            "kanji": "彼は勇気がある。",
+            "furigana": "彼(かれ)は勇気(ゆうき)がある。",
+            "translations": {
+                "EN": "He has courage.",
+                "ID": "Dia memiliki keberanian.",
+                "ES": "Él tiene coraje.",
+                "VI": "Anh ấy có dũng khí.",
+                "FR": "Il a du courage.",
+                "NE": "उहाँसँग साहस छ।",
+                "BN": "তার সাহস আছে।",
+                "ZH": "他很有勇气。",
+                "KO": "그는 용기가 있다.",
+                "TL": "May tapang siya.",
+                "MY": "သူက ရဲရင့်ခြင်းရှိတယ်။",
+                "HI": "उसमें साहस है।",
+                "AR": "لديه الشجاعة.",
+                "FA": "او شجاعت دارد."
+            }
+        },
+        {
+            "kanji": "私は勇気を持つ。",
+            "furigana": "私(わたし)は勇気(ゆうき)を持(も)つ。",
+            "translations": {
+                "EN": "I have courage.",
+                "ID": "Saya punya keberanian.",
+                "ES": "Yo tengo valor.",
+                "VI": "Tôi có dũng khí.",
+                "FR": "J'ai du courage.",
+                "NE": "मसँग साहस छ।",
+                "BN": "আমার সাহস আছে।",
+                "ZH": "我有勇气。",
+                "KO": "나는 용기를 가지고 있다.",
+                "TL": "May lakas ng loob ako.",
+                "MY": "ကျွန်ုပ်တွင် ရဲမှုရှိသည်။",
+                "HI": "मेरे पास साहस है।",
+                "AR": "أنا أمتلك الشجاعة.",
+                "FA": "من شجاعت دارم."
+            }
+        },
+        {
+            "kanji": "彼は勇気を振り絞った。",
+            "furigana": "彼(かれ)は勇気(ゆうき)を振(ふ)り絞(しぼ)った。",
+            "translations": {
+                "EN": "He summoned his courage.",
+                "ID": "Dia mengumpulkan keberaniannya.",
+                "ES": "Él reunió su valor.",
+                "VI": "Anh ấy đã lấy hết can đảm.",
+                "FR": "Il a rassemblé son courage.",
+                "NE": "उसले आफ्नो साहस जुटायो।",
+                "BN": "সে তার সাহস জুগিয়ে নিয়েছিল।",
+                "ZH": "他鼓足了勇气。",
+                "KO": "그는 용기를 짜냈다.",
+                "TL": "Pinilit niyang magkaroon ng lakas-loob.",
+                "MY": "သူသည် သူ၏ သကြားအား ကျွမ်းကျင်စွာ ဖြည့်ဆည်းခဲ့သည်။",
+                "HI": "उसने अपनी हिम्मत जुटाई।",
+                "AR": "لقد استجمع شجاعته.",
+                "FA": "او شجاعت خود را به کار گرفت."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "courage",
+                "bravery",
+                "valour",
+                "valor",
+                "nerve",
+                "boldness"
+            ],
+            "ID": "keberanian",
+            "ES": "coraje",
+            "VI": "dũng cảm",
+            "FR": "courage",
+            "NE": "साहस",
+            "BN": "সাহস",
+            "ZH": "勇气",
+            "KO": "용기",
+            "TL": "tapang",
+            "MY": "နှစ်သက်မှု",
+            "HI": "साहस",
+            "AR": "شجاعة",
+            "FA": "شجاعت"
+        }
+    ],
+    "jisho_data": {
+        "slug": "勇気",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "勇",
-    "気"
-  ],
-  "kanji_data": {
-    "勇": {
-      "meanings": [
-        "be in high spirits",
-        "bravery",
-        "cheer up",
-        "courage",
-        "heroism"
-      ],
-      "on_readings": [
-        "ユウ"
-      ],
-      "kun_readings": [
-        "いさ.む"
-      ],
-      "stroke_count": 9,
-      "jlpt": 2,
-      "freq_mainichi_shinbun": 1319,
-      "unicode": "52C7",
-      "grade": 4
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "勇気",
+                "reading": "ゆうき"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "courage",
+                    "bravery",
+                    "valour",
+                    "valor",
+                    "nerve",
+                    "boldness"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "気": {
-      "meanings": [
-        "air",
-        "atmosphere",
-        "mind",
-        "mood",
-        "spirit"
-      ],
-      "on_readings": [
-        "キ",
-        "ケ"
-      ],
-      "kun_readings": [
-        "き"
-      ],
-      "stroke_count": 6,
-      "jlpt": 5,
-      "freq_mainichi_shinbun": 113,
-      "unicode": "6C17",
-      "grade": 1
+    "kanji_list": [
+        "勇",
+        "気"
+    ],
+    "kanji_data": {
+        "勇": {
+            "meanings": [
+                "be in high spirits",
+                "bravery",
+                "cheer up",
+                "courage",
+                "heroism"
+            ],
+            "on_readings": [
+                "ユウ"
+            ],
+            "kun_readings": [
+                "いさ.む"
+            ],
+            "stroke_count": 9,
+            "jlpt": 2,
+            "freq_mainichi_shinbun": 1319,
+            "unicode": "52C7",
+            "grade": 4
+        },
+        "気": {
+            "meanings": [
+                "air",
+                "atmosphere",
+                "mind",
+                "mood",
+                "spirit"
+            ],
+            "on_readings": [
+                "キ",
+                "ケ"
+            ],
+            "kun_readings": [
+                "き"
+            ],
+            "stroke_count": 6,
+            "jlpt": 5,
+            "freq_mainichi_shinbun": 113,
+            "unicode": "6C17",
+            "grade": 1
+        }
     }
-  }
 }

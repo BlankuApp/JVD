@@ -1,274 +1,278 @@
 {
-  "version": "0.3.0",
-  "word": "床屋",
-  "jlpt_level": 2,
-  "youtube_link": "https://youtu.be/3M3E-LWeaxI",
-  "in_db": true,
-  "kanji": "床屋",
-  "reading": "とこや",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is とこや, which you will often hear in situations where people are discussing grooming services, haircuts, or planning a visit to get a trim.",
-  "meanings": [
-    [
-      "barbershop",
-      "barber shop",
-      "barber"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"とこや\" refers to a barbershop. It means a place where people, often men, go to get a haircut, shave, or other grooming services. This word typically emphasizes the traditional aspect of a barbershop setting, with services often tailored towards men.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "床",
-      "common_words": [
-        "寝床: bed",
-        "床下: under the floor"
-      ]
-    },
-    {
-      "kanji": "屋",
-      "common_words": [
-        "本屋-1: bookstore",
-        "八百屋: greengrocer"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "美容院 : びよういん : beauty parlour"
-  ],
-  "synonym_explanation": "The most common synonym of the word \"とこや\" is \"びよういん.\" While \"とこや\" specifically refers to a traditional barbershop geared mainly towards men's grooming services, \"びよういん\" is a beauty salon that offers various hair and grooming services for both men and women.",
-  "antonyms": [
-    "自宅 : じたく : one's home"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"とこや\" is \"じたく.\" While \"とこや\" indicates a commercial place where you get haircuts and grooming services, \"じたく\" refers to your home. They differ because one is a public service location, and the other is a private setting.",
-  "collocations": [
-    {
-      "kanji": "あたらしいとこや",
-      "furigana": "あたらしいとこや",
-      "translations": {}
-    },
-    {
-      "kanji": "とこやにいく",
-      "furigana": "とこやにいく",
-      "translations": {}
-    },
-    {
-      "kanji": "とこやのびょうし",
-      "furigana": "とこやのびょうし",
-      "translations": {}
-    },
-    {
-      "kanji": "とこやのこうす",
-      "furigana": "とこやのこうす",
-      "translations": {}
-    },
-    {
-      "kanji": "とこやのけいけんしゃ",
-      "furigana": "とこやのけいけんしゃ",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "あたらしい床屋に行きます。",
-      "furigana": "あたらしい床屋(とこや)に行(い)きます。",
-      "translations": {
-        "EN": "I will go to the new barber shop.",
-        "ID": "Saya akan pergi ke tukang cukur baru.",
-        "ES": "Voy a ir a la nueva barbería.",
-        "VI": "Tôi sẽ đến cửa hàng cắt tóc mới.",
-        "FR": "Je vais chez le nouveau barbier.",
-        "NE": "म नयाँ सैलूनमा जान्छु।",
-        "BN": "আমি নতুন নাপিতের দোকানে যাব।",
-        "ZH": "我要去新的理发店。",
-        "KO": "새로운 이발소에 가요.",
-        "TL": "Pupunta ako sa bagong barberya.",
-        "MY": "သစ်ကားဆုံးချစ်အိပ်ဝင်ပါတယ်။",
-        "HI": "मैं नए नाई की दुकान पर जाऊँगा।",
-        "AR": "سأذهب إلى الحلاق الجديد.",
-        "FA": "من به آرایشگاه جدید می‌روم."
-      }
-    },
-    {
-      "kanji": "明日は床屋に行く。",
-      "furigana": "明日(あした)は床屋(とこや)に行(い)く。",
-      "translations": {
-        "EN": "I will go to the barbershop tomorrow.",
-        "ID": "Besok saya akan pergi ke tukang cukur.",
-        "ES": "Mañana iré a la barbería.",
-        "VI": "Tôi sẽ đi đến tiệm cắt tóc vào ngày mai.",
-        "FR": "Je vais aller chez le coiffeur demain.",
-        "NE": "भोलि नाइ सैलुन जानेछु।",
-        "BN": "কাল আমি নাপিতের দোকানে যাব।",
-        "ZH": "我明天要去理发店。",
-        "KO": "내일 이발소에 갈 거예요.",
-        "TL": "Pupunta ako sa barbero bukas.",
-        "MY": "မနက်ဖြန်အဝတ်ရွှေမှာ ကပ်တိုင်သွားပါမယ်။",
-        "HI": "कल मैं नाई के पास जाऊंगा।",
-        "AR": "سأذهب إلى الحلاق غداً.",
-        "FA": "فردا به آرایشگاه می‌روم."
-      }
-    },
-    {
-      "kanji": "床屋の美容師は親切です。",
-      "furigana": "床屋(とこや)の美容師(びようし)は親切(しんせつ)です。",
-      "translations": {
-        "EN": "The barber is kind.",
-        "ID": "Tukang pangkas rambut itu baik hati.",
-        "ES": "El barbero es amable.",
-        "VI": "Thợ cắt tóc rất tốt bụng.",
-        "FR": "Le coiffeur est gentil.",
-        "NE": "नाई धेरै दयालु छन्।",
-        "BN": "দোকানের নাপিত ভালো।",
-        "ZH": "理发师很亲切。",
-        "KO": "이발소의 미용사는 친절합니다.",
-        "TL": "Mabait ang barbero.",
-        "MY": "ဆံပင်ညှပ်သူသည် ကျင့်စားရင့်ရွက်သည်။",
-        "HI": "नाई बहुत दयालु है।",
-        "AR": "الحلاق لطيف.",
-        "FA": "آرایشگر مهربان است."
-      }
-    },
-    {
-      "kanji": "床屋のコースに行きました。",
-      "furigana": "床屋(とこや)のコースに行(い)きました。",
-      "translations": {
-        "EN": "I went to the barber's course.",
-        "ID": "Saya pergi ke kursus tukang cukur.",
-        "ES": "Fui al curso de la barbería.",
-        "VI": "Tôi đã đi đến khóa học của tiệm cắt tóc.",
-        "FR": "Je suis allé au cours du barbier.",
-        "NE": "म भेटाय गर्नको कार्यशालामा गएँ।",
-        "BN": "আমি নাপিতের কোর্সে গিয়েছিলাম।",
-        "ZH": "我去了理发店的课程。",
-        "KO": "이발소 과정에 갔습니다.",
-        "TL": "Pumunta ako sa kurso ng barbero.",
-        "MY": "ကြီးပြင်သောက်ခန်းသို့ သွားခဲ့သည်။",
-        "HI": "मैं नाई के कार्यशाला में गया।",
-        "AR": "ذهبت إلى دورة الحلاق.",
-        "FA": "من به دوره آرایشگری رفتم."
-      }
-    },
-    {
-      "kanji": "彼は床屋の経験者です。",
-      "furigana": "彼(かれ)は床屋(とこや)の経験者(けいけんしゃ)です。",
-      "translations": {
-        "EN": "He is an experienced barber.",
-        "ID": "Dia adalah seorang tukang cukur berpengalaman.",
-        "ES": "Él es un barbero experimentado.",
-        "VI": "Anh ấy là thợ cắt tóc có kinh nghiệm.",
-        "FR": "Il est un coiffeur expérimenté.",
-        "NE": "उहाँ अनुभवी नाई हुनुहुन्छ।",
-        "BN": "তিনি একজন অভিজ্ঞ নাপিত।",
-        "ZH": "他是一位有经验的理发师。",
-        "KO": "그는 경험이 많은 이발사입니다.",
-        "TL": "Siya ay isang bihasang barbero.",
-        "MY": "သူသည် လိပ်ပြာတစ်ယောက်ဖြစ်သည်။",
-        "HI": "वह एक अनुभवी नाई है।",
-        "AR": "إنه حلاق ذو خبرة.",
-        "FA": "او یک آرایشگر با تجربه است."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "barbershop": {
-      "EN": "barbershop",
-      "ID": "toko tukang cukur",
-      "ES": "barbería",
-      "VI": "tiệm cắt tóc",
-      "FR": "salon de coiffure",
-      "NE": "नाइको पसल",
-      "BN": "নাপিতের দোকান",
-      "ZH": "理发店",
-      "KO": "이발소",
-      "TL": "barbero",
-      "MY": "ဆံပင်ညှပ်ဆိုင်",
-      "HI": "नाई की दुकान",
-      "AR": "محل حلاقة",
-      "FA": "آرایشگاه مردانه"
-    }
-  },
-  "jisho_data": {
-    "slug": "床屋",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n4",
-      "jlpt-n2"
+    "version": "0.3.0",
+    "word": "床屋",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/3M3E-LWeaxI",
+    "in_db": true,
+    "kanji": "床屋",
+    "reading": "とこや",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is とこや, which you will often hear in situations where people are discussing grooming services, haircuts, or planning a visit to get a trim.",
+    "meanings": [
+        [
+            "barbershop",
+            "barber shop",
+            "barber"
+        ]
     ],
-    "japanese": [
-      {
-        "word": "床屋",
-        "reading": "とこや"
-      }
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"とこや\" refers to a barbershop. It means a place where people, often men, go to get a haircut, shave, or other grooming services. This word typically emphasizes the traditional aspect of a barbershop setting, with services often tailored towards men.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "床",
+            "common_words": [
+                "寝床: bed",
+                "床下: under the floor"
+            ]
+        },
+        {
+            "kanji": "屋",
+            "common_words": [
+                "本屋-1: bookstore",
+                "八百屋: greengrocer"
+            ]
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "barbershop",
-          "barber shop",
-          "barber"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "美容院 : びよういん : beauty parlour"
+    ],
+    "synonym_explanation": "The most common synonym of the word \"とこや\" is \"びよういん.\" While \"とこや\" specifically refers to a traditional barbershop geared mainly towards men's grooming services, \"びよういん\" is a beauty salon that offers various hair and grooming services for both men and women.",
+    "antonyms": [
+        "自宅 : じたく : one's home"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"とこや\" is \"じたく.\" While \"とこや\" indicates a commercial place where you get haircuts and grooming services, \"じたく\" refers to your home. They differ because one is a public service location, and the other is a private setting.",
+    "collocations": [
+        {
+            "kanji": "あたらしいとこや",
+            "furigana": "あたらしいとこや",
+            "translations": {}
+        },
+        {
+            "kanji": "とこやにいく",
+            "furigana": "とこやにいく",
+            "translations": {}
+        },
+        {
+            "kanji": "とこやのびょうし",
+            "furigana": "とこやのびょうし",
+            "translations": {}
+        },
+        {
+            "kanji": "とこやのこうす",
+            "furigana": "とこやのこうす",
+            "translations": {}
+        },
+        {
+            "kanji": "とこやのけいけんしゃ",
+            "furigana": "とこやのけいけんしゃ",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "あたらしい床屋に行きます。",
+            "furigana": "あたらしい床屋(とこや)に行(い)きます。",
+            "translations": {
+                "EN": "I will go to the new barber shop.",
+                "ID": "Saya akan pergi ke tukang cukur baru.",
+                "ES": "Voy a ir a la nueva barbería.",
+                "VI": "Tôi sẽ đến cửa hàng cắt tóc mới.",
+                "FR": "Je vais chez le nouveau barbier.",
+                "NE": "म नयाँ सैलूनमा जान्छु।",
+                "BN": "আমি নতুন নাপিতের দোকানে যাব।",
+                "ZH": "我要去新的理发店。",
+                "KO": "새로운 이발소에 가요.",
+                "TL": "Pupunta ako sa bagong barberya.",
+                "MY": "သစ်ကားဆုံးချစ်အိပ်ဝင်ပါတယ်။",
+                "HI": "मैं नए नाई की दुकान पर जाऊँगा।",
+                "AR": "سأذهب إلى الحلاق الجديد.",
+                "FA": "من به آرایشگاه جدید می‌روم."
+            }
+        },
+        {
+            "kanji": "明日は床屋に行く。",
+            "furigana": "明日(あした)は床屋(とこや)に行(い)く。",
+            "translations": {
+                "EN": "I will go to the barbershop tomorrow.",
+                "ID": "Besok saya akan pergi ke tukang cukur.",
+                "ES": "Mañana iré a la barbería.",
+                "VI": "Tôi sẽ đi đến tiệm cắt tóc vào ngày mai.",
+                "FR": "Je vais aller chez le coiffeur demain.",
+                "NE": "भोलि नाइ सैलुन जानेछु।",
+                "BN": "কাল আমি নাপিতের দোকানে যাব।",
+                "ZH": "我明天要去理发店。",
+                "KO": "내일 이발소에 갈 거예요.",
+                "TL": "Pupunta ako sa barbero bukas.",
+                "MY": "မနက်ဖြန်အဝတ်ရွှေမှာ ကပ်တိုင်သွားပါမယ်။",
+                "HI": "कल मैं नाई के पास जाऊंगा।",
+                "AR": "سأذهب إلى الحلاق غداً.",
+                "FA": "فردا به آرایشگاه می‌روم."
+            }
+        },
+        {
+            "kanji": "床屋の美容師は親切です。",
+            "furigana": "床屋(とこや)の美容師(びようし)は親切(しんせつ)です。",
+            "translations": {
+                "EN": "The barber is kind.",
+                "ID": "Tukang pangkas rambut itu baik hati.",
+                "ES": "El barbero es amable.",
+                "VI": "Thợ cắt tóc rất tốt bụng.",
+                "FR": "Le coiffeur est gentil.",
+                "NE": "नाई धेरै दयालु छन्।",
+                "BN": "দোকানের নাপিত ভালো।",
+                "ZH": "理发师很亲切。",
+                "KO": "이발소의 미용사는 친절합니다.",
+                "TL": "Mabait ang barbero.",
+                "MY": "ဆံပင်ညှပ်သူသည် ကျင့်စားရင့်ရွက်သည်။",
+                "HI": "नाई बहुत दयालु है।",
+                "AR": "الحلاق لطيف.",
+                "FA": "آرایشگر مهربان است."
+            }
+        },
+        {
+            "kanji": "床屋のコースに行きました。",
+            "furigana": "床屋(とこや)のコースに行(い)きました。",
+            "translations": {
+                "EN": "I went to the barber's course.",
+                "ID": "Saya pergi ke kursus tukang cukur.",
+                "ES": "Fui al curso de la barbería.",
+                "VI": "Tôi đã đi đến khóa học của tiệm cắt tóc.",
+                "FR": "Je suis allé au cours du barbier.",
+                "NE": "म भेटाय गर्नको कार्यशालामा गएँ।",
+                "BN": "আমি নাপিতের কোর্সে গিয়েছিলাম।",
+                "ZH": "我去了理发店的课程。",
+                "KO": "이발소 과정에 갔습니다.",
+                "TL": "Pumunta ako sa kurso ng barbero.",
+                "MY": "ကြီးပြင်သောက်ခန်းသို့ သွားခဲ့သည်။",
+                "HI": "मैं नाई के कार्यशाला में गया।",
+                "AR": "ذهبت إلى دورة الحلاق.",
+                "FA": "من به دوره آرایشگری رفتم."
+            }
+        },
+        {
+            "kanji": "彼は床屋の経験者です。",
+            "furigana": "彼(かれ)は床屋(とこや)の経験者(けいけんしゃ)です。",
+            "translations": {
+                "EN": "He is an experienced barber.",
+                "ID": "Dia adalah seorang tukang cukur berpengalaman.",
+                "ES": "Él es un barbero experimentado.",
+                "VI": "Anh ấy là thợ cắt tóc có kinh nghiệm.",
+                "FR": "Il est un coiffeur expérimenté.",
+                "NE": "उहाँ अनुभवी नाई हुनुहुन्छ।",
+                "BN": "তিনি একজন অভিজ্ঞ নাপিত।",
+                "ZH": "他是一位有经验的理发师。",
+                "KO": "그는 경험이 많은 이발사입니다.",
+                "TL": "Siya ay isang bihasang barbero.",
+                "MY": "သူသည် လိပ်ပြာတစ်ယောက်ဖြစ်သည်။",
+                "HI": "वह एक अनुभवी नाई है।",
+                "AR": "إنه حلاق ذو خبرة.",
+                "FA": "او یک آرایشگر با تجربه است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "barbershop",
+                "barber shop",
+                "barber"
+            ],
+            "ID": "toko tukang cukur",
+            "ES": "barbería",
+            "VI": "tiệm cắt tóc",
+            "FR": "salon de coiffure",
+            "NE": "नाइको पसल",
+            "BN": "নাপিতের দোকান",
+            "ZH": "理发店",
+            "KO": "이발소",
+            "TL": "barbero",
+            "MY": "ဆံပင်ညှပ်ဆိုင်",
+            "HI": "नाई की दुकान",
+            "AR": "محل حلاقة",
+            "FA": "آرایشگاه مردانه"
+        }
+    ],
+    "jisho_data": {
+        "slug": "床屋",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "床",
-    "屋"
-  ],
-  "kanji_data": {
-    "床": {
-      "meanings": [
-        "bed",
-        "counter for beds",
-        "floor",
-        "padding",
-        "tatami"
-      ],
-      "on_readings": [
-        "ショウ"
-      ],
-      "kun_readings": [
-        "とこ",
-        "ゆか"
-      ],
-      "stroke_count": 7,
-      "jlpt": 2,
-      "freq_mainichi_shinbun": 1175,
-      "unicode": "5E8A",
-      "grade": 8
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "床屋",
+                "reading": "とこや"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "barbershop",
+                    "barber shop",
+                    "barber"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "屋": {
-      "meanings": [
-        "dealer",
-        "house",
-        "roof",
-        "seller",
-        "shop"
-      ],
-      "on_readings": [
-        "オク"
-      ],
-      "kun_readings": [
-        "や"
-      ],
-      "stroke_count": 9,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 616,
-      "unicode": "5C4B",
-      "grade": 3
+    "kanji_list": [
+        "床",
+        "屋"
+    ],
+    "kanji_data": {
+        "床": {
+            "meanings": [
+                "bed",
+                "counter for beds",
+                "floor",
+                "padding",
+                "tatami"
+            ],
+            "on_readings": [
+                "ショウ"
+            ],
+            "kun_readings": [
+                "とこ",
+                "ゆか"
+            ],
+            "stroke_count": 7,
+            "jlpt": 2,
+            "freq_mainichi_shinbun": 1175,
+            "unicode": "5E8A",
+            "grade": 8
+        },
+        "屋": {
+            "meanings": [
+                "dealer",
+                "house",
+                "roof",
+                "seller",
+                "shop"
+            ],
+            "on_readings": [
+                "オク"
+            ],
+            "kun_readings": [
+                "や"
+            ],
+            "stroke_count": 9,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 616,
+            "unicode": "5C4B",
+            "grade": 3
+        }
     }
-  }
 }

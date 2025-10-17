@@ -1,461 +1,465 @@
 {
-  "version": "0.3.0",
-  "word": "除く",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/bD8Bqf9Z1Ho",
-  "in_db": true,
-  "kanji": "除く",
-  "reading": "のぞく",
-  "introduction_japanese": "除くは、掃除や不良品の処理、リストや予定から人や日を外すとき、また例外を作るときによく使う動詞です。ビジネスや日常会話でよく見かけます。",
-  "introduction_english": "The verb のぞく is commonly used when talking about cleaning or removing defective items, taking someone or days out of a list or schedule, and when making exceptions. You'll see it often in business and everyday conversation.",
-  "meanings": [
-    [
-      "to remove",
-      "to get rid of",
-      "to take away",
-      "to eliminate"
-    ],
-    [
-      "to exclude",
-      "to except",
-      "to leave out",
-      "to omit"
-    ],
-    [
-      "to kill (a traitor, opponent, etc.) — archaic/rare"
-    ]
-  ],
-  "meaning_explanation_japanese": "「除く」は、物や障害を取り除いたり（掃除や修理で使う）、リストや範囲から何かや誰かを外したり（例外にする）するときに使います。古い文や強い表現では「排除して殺す」という意味で使われることもありますが、日常ではほとんど使いません。",
-  "meaning_explanation_english": "The word のぞく means to remove or get rid of something, and also to exclude or leave something out. It can also have an old or rare meaning of killing an enemy, but that sense is uncommon in everyday use.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "除",
-      "common_words": [
-        "除外 (じょがい): exclusion; to exclude",
-        "除雪 (じょせつ): snow removal"
-      ],
-      "meanings": [
-        "abolish",
-        "cancel",
-        "except",
-        "exclude",
-        "remove"
-      ],
-      "on_readings": [
-        "ジ",
-        "ジョ"
-      ],
-      "kun_readings": [
-        "-よ.け",
-        "のぞ.く"
-      ],
-      "stroke_count": 10,
-      "grade": 6,
-      "jlpt": 3,
-      "heisig_en": "exclude"
-    }
-  ],
-  "kanji_explanation": "The first kanji means basically \"exclude\" or \"remove\". It shows up in words like じょがい and じょせつ. In じょがい the idea is excluding something from a group, and in じょせつ it gives the sense of removing snow, so the kanji carries the core meaning of taking something away.",
-  "synonyms": [
-    "取り除く : とりのぞく : to remove",
-    "省く : はぶく : to omit, to leave out"
-  ],
-  "synonym_explanation": "The most common synonyms of the のぞく are とりのぞく and はぶく. とりのぞく emphasizes physically or completely removing something, while はぶく focuses on omitting or leaving something out (like skipping a step). Both overlap with のぞく but have slightly different tones.",
-  "antonyms": [
-    "含める : ふくめる : to include",
-    "加える : くわえる : to add"
-  ],
-  "antonym_explanation": "The most common antonyms of the のぞく are ふくめる and くわえる. ふくめる means to include or count something in, which is the opposite of excluding, and くわえる means to add something rather than remove it.",
-  "collocations": [
-    {
-      "kanji": "不良品を除く",
-      "furigana": "不良品を除く",
-      "translations": {}
-    },
-    {
-      "kanji": "雑草を除く",
-      "furigana": "雑草を除く",
-      "translations": {}
-    },
-    {
-      "kanji": "障害を除く",
-      "furigana": "障害を除く",
-      "translations": {}
-    },
-    {
-      "kanji": "例外を除く",
-      "furigana": "例外を除く",
-      "translations": {}
-    },
-    {
-      "kanji": "ごみを除く",
-      "furigana": "ごみを除く",
-      "translations": {}
-    },
-    {
-      "kanji": "土日を除いて",
-      "furigana": "土日を除いて",
-      "translations": {}
-    },
-    {
-      "kanji": "税金を除いて",
-      "furigana": "税金を除いて",
-      "translations": {}
-    },
-    {
-      "kanji": "アルバイトを除いて",
-      "furigana": "アルバイトを除いて",
-      "translations": {}
-    },
-    {
-      "kanji": "彼を除いて",
-      "furigana": "彼を除いて",
-      "translations": {}
-    },
-    {
-      "kanji": "場所を除いて",
-      "furigana": "場所を除いて",
-      "translations": {}
-    },
-    {
-      "kanji": "除いた部分",
-      "furigana": "除いた部分",
-      "translations": {}
-    },
-    {
-      "kanji": "除く対象",
-      "furigana": "除く対象",
-      "translations": {}
-    },
-    {
-      "kanji": "除くべきもの",
-      "furigana": "除くべきもの",
-      "translations": {}
-    },
-    {
-      "kanji": "除いてよい要素",
-      "furigana": "除いてよい要素",
-      "translations": {}
-    },
-    {
-      "kanji": "除いたあとの状態",
-      "furigana": "除いたあとの状態",
-      "translations": {}
-    },
-    {
-      "kanji": "例外的に除く",
-      "furigana": "例外的に除く",
-      "translations": {}
-    },
-    {
-      "kanji": "明示的に除く",
-      "furigana": "明示的に除く",
-      "translations": {}
-    },
-    {
-      "kanji": "適切に除く",
-      "furigana": "適切に除く",
-      "translations": {}
-    },
-    {
-      "kanji": "完全に除く",
-      "furigana": "完全に除く",
-      "translations": {}
-    },
-    {
-      "kanji": "一部を除く",
-      "furigana": "一部を除く",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "不良品を除く。",
-      "furigana": "不良品(ふりょうひん)を除(のぞ)く。",
-      "translations": {
-        "EN": "Excluding defective products.",
-        "ID": "Tidak termasuk produk yang cacat.",
-        "ES": "Excluyendo productos defectuosos.",
-        "VI": "Không bao gồm sản phẩm lỗi.",
-        "FR": "Hors produits défectueux.",
-        "NE": "दोषपूर्ण उत्पादनहरू बाहेक।",
-        "BN": "ত্রুটিপূর্ণ পণ্য বাদ দিয়ে।",
-        "ZH": "不包括缺陷产品。",
-        "KO": "불량품을 제외한다.",
-        "TL": "Hindi kasama ang mga may sira na produkto.",
-        "MY": "ချို့ယွင်းနေသော ထုတ်ကုန်များ မပါဝင်ပါ။",
-        "HI": "दोषपूर्ण उत्पादों को छोड़कर.",
-        "AR": "باستثناء المنتجات المعيبة.",
-        "FA": "به استثنای محصولات معیوب."
-      }
-    },
-    {
-      "kanji": "雑草を除く。",
-      "furigana": "雑草(ざっそう)を除(のぞ)く。",
-      "translations": {
-        "EN": "Excluding weeds.",
-        "ID": "Tidak termasuk gulma.",
-        "ES": "Excluyendo las malas hierbas.",
-        "VI": "Không bao gồm cỏ dại.",
-        "FR": "Hors mauvaises herbes.",
-        "NE": "झारपात बाहेक।",
-        "BN": "আগাছা বাদ দিয়ে।",
-        "ZH": "除杂草外。",
-        "KO": "잡초를 제외한다.",
-        "TL": "Hindi kasama ang mga damo.",
-        "MY": "ပေါင်းပင်များ မပါဝင်ပါ။",
-        "HI": "खरपतवार को छोड़कर.",
-        "AR": "باستثناء الأعشاب الضارة.",
-        "FA": "به استثنای علف‌های هرز."
-      }
-    },
-    {
-      "kanji": "例外を除く。",
-      "furigana": "例外(れいがい)を除(のぞ)く。",
-      "translations": {
-        "EN": "With exceptions.",
-        "ID": "Dengan pengecualian.",
-        "ES": "Con excepciones.",
-        "VI": "Có ngoại lệ.",
-        "FR": "Avec des exceptions.",
-        "NE": "अपवादहरू बाहेक।",
-        "BN": "ব্যতিক্রম ছাড়া।",
-        "ZH": "但也有例外。",
-        "KO": "예외를 제외한다.",
-        "TL": "May mga eksepsiyon.",
-        "MY": "ခြွင်းချက်။",
-        "HI": "अपवादों के साथ.",
-        "AR": "مع استثناءات.",
-        "FA": "با استثنائات."
-      }
-    },
-    {
-      "kanji": "ごみを除く。",
-      "furigana": "ごみを除(のぞ)く。",
-      "translations": {
-        "EN": "Excluding garbage.",
-        "ID": "Tidak termasuk sampah.",
-        "ES": "Excluyendo basura.",
-        "VI": "Không bao gồm rác thải.",
-        "FR": "Hors déchets.",
-        "NE": "फोहोर बाहेक।",
-        "BN": "আবর্জনা বাদ দিয়ে।",
-        "ZH": "不包括垃圾。",
-        "KO": "쓰레기를 제외한다.",
-        "TL": "Hindi kasama ang basura.",
-        "MY": "အမှိုက်မပါဝင်ပါ။",
-        "HI": "कचरा छोड़कर.",
-        "AR": "باستثناء القمامة.",
-        "FA": "بدون احتساب زباله."
-      }
-    },
-    {
-      "kanji": "土日を除いて、授業があります。",
-      "furigana": "土日(どにち)を除(のぞ)いて、授業(じゅぎょう)がありま す。",
-      "translations": {
-        "EN": "There are classes every day except Saturdays and Sundays.",
-        "ID": "Ada kelas setiap hari kecuali Sabtu dan Minggu.",
-        "ES": "Hay clases todos los días excepto sábados y domingos.",
-        "VI": "Có lớp học mỗi ngày trừ thứ bảy và chủ nhật.",
-        "FR": "Il y a des cours tous les jours sauf le samedi et le dimanche.",
-        "NE": "शनिबार र आइतबार बाहेक हरेक दिन कक्षाहरू हुन्छन्।",
-        "BN": "শনিবার এবং রবিবার ছাড়া প্রতিদিন ক্লাস থাকে।",
-        "ZH": "除周六、周日外，每天都有课。",
-        "KO": "주말을 제외하고 수업이 있습니다.",
-        "TL": "May klase araw-araw maliban sa Sabado at Linggo.",
-        "MY": "စနေ နှင့် တနင်္ဂနွေများမှလွဲ၍ နေ့တိုင်း အတန်းရှိပါသည်။",
-        "HI": "शनिवार और रविवार को छोड़कर हर दिन कक्षाएं होती हैं।",
-        "AR": "هناك دروس كل يوم ما عدا السبت والأحد.",
-        "FA": "کلاس‌ها همه روزه به جز شنبه‌ها و یکشنبه‌ها برگزار می‌شود."
-      }
-    },
-    {
-      "kanji": "彼を除いて、全員が来た。",
-      "furigana": "彼(かれ)を除(のぞ)いて、全員(ぜんいん)が来(き)た。",
-      "translations": {
-        "EN": "Everyone came except him.",
-        "ID": "Semua orang datang kecuali dia.",
-        "ES": "Todos vinieron excepto él.",
-        "VI": "Mọi người đều đến trừ anh ấy.",
-        "FR": "Tout le monde est venu sauf lui.",
-        "NE": "उनी बाहेक सबै आए।",
-        "BN": "সে ছাড়া সবাই এসেছিল।",
-        "ZH": "除了他以外，其他人都来了。",
-        "KO": "그를 제외하고 모두가 왔다.",
-        "TL": "Dumating ang lahat maliban sa kanya.",
-        "MY": "သူမှလွဲ၍ လူတိုင်းရောက်လာကြသည်။",
-        "HI": "उसके अलावा सभी लोग आये।",
-        "AR": "لقد جاء الجميع إلا هو.",
-        "FA": "همه آمده بودند جز او."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to remove": {
-      "ID": "untuk menghapus",
-      "ES": "Para eliminar",
-      "VI": "để loại bỏ",
-      "FR": "supprimer",
-      "NE": "हटाउनु",
-      "BN": "অপসারণ করতে",
-      "ZH": "删除",
-      "KO": "제거하다",
-      "TL": "para tanggalin",
-      "MY": "ဖယ်ရှားရန်",
-      "HI": "दूर करना",
-      "AR": "لإزالة",
-      "FA": "برای حذف",
-      "EN": [
-        "to get rid of",
-        "to take away",
-        "to eliminate"
-      ]
-    },
-    "to exclude": {
-      "ID": "untuk mengecualikan",
-      "ES": "excluir",
-      "VI": "để loại trừ",
-      "FR": "exclure",
-      "NE": "बहिष्कार गर्नु",
-      "BN": "বাদ দেওয়া",
-      "ZH": "排除",
-      "KO": "제외하다",
-      "TL": "upang ibukod",
-      "MY": "ဖယ်ထုတ်ရန်",
-      "HI": "बाहर करने के लिए",
-      "AR": "لاستبعاد",
-      "FA": "مستثنی کردن",
-      "EN": [
-        "to except",
-        "to leave out",
-        "to omit"
-      ]
-    },
-    "to kill (a traitor, opponent, etc.) — archaic/rare": {
-      "ID": "membunuh (pengkhianat, lawan, dsb.) — kuno/langka",
-      "ES": "matar (a un traidor, oponente, etc.) — arcaico/raro",
-      "VI": "giết (kẻ phản bội, đối thủ, v.v.) — cổ xưa/hiếm gặp",
-      "FR": "tuer (un traître, un adversaire, etc.) — archaïque/rare",
-      "NE": "(देशद्रोही, प्रतिद्वन्द्वी, आदि) मार्न — पुरातन/दुर्लभ",
-      "BN": "হত্যা করা (একজন বিশ্বাসঘাতক, প্রতিপক্ষ, ইত্যাদি) — প্রাচীন/বিরল",
-      "ZH": "杀死（叛徒、对手等）——古老/罕见",
-      "KO": "(배신자, 상대 등을) 죽이다 - 고어/드물다",
-      "TL": "pumatay (taksil, kalaban, atbp.) — archaic/bihira",
-      "MY": "(သစ္စာဖောက်၊ ပြိုင်ဘက် စသည်ဖြင့်) သတ်ပစ်ရန် — ရှေးဟောင်း/ရှားပါးသည်။",
-      "HI": "(किसी गद्दार, विरोधी, आदि) को मारना — पुरातन/दुर्लभ",
-      "AR": "قتل (خائن، خصم، إلخ) - قديم/نادر",
-      "FA": "کشتن (خائن، حریف و غیره) - قدیمی/نادر",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "除く",
-    "is_common": true,
-    "tags": [
-      "wanikani31"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "除く",
-        "reading": "のぞく"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to remove",
-          "to get rid of",
-          "to take away",
-          "to eliminate"
+    "version": "0.3.0",
+    "word": "除く",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/bD8Bqf9Z1Ho",
+    "in_db": true,
+    "kanji": "除く",
+    "reading": "のぞく",
+    "introduction_japanese": "除くは、掃除や不良品の処理、リストや予定から人や日を外すとき、また例外を作るときによく使う動詞です。ビジネスや日常会話でよく見かけます。",
+    "introduction_english": "The verb のぞく is commonly used when talking about cleaning or removing defective items, taking someone or days out of a list or schedule, and when making exceptions. You'll see it often in business and everyday conversation.",
+    "meanings": [
+        [
+            "to remove",
+            "to get rid of",
+            "to take away",
+            "to eliminate"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'ku' ending",
-          "Transitive verb"
+        [
+            "to exclude",
+            "to except",
+            "to leave out",
+            "to omit"
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to exclude",
-          "to except",
-          "to leave out",
-          "to omit"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ku' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to kill (a traitor, opponent, etc.)"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ku' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
+        [
+            "to kill (a traitor, opponent, etc.) — archaic/rare"
+        ]
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "meaning_explanation_japanese": "「除く」は、物や障害を取り除いたり（掃除や修理で使う）、リストや範囲から何かや誰かを外したり（例外にする）するときに使います。古い文や強い表現では「排除して殺す」という意味で使われることもありますが、日常ではほとんど使いません。",
+    "meaning_explanation_english": "The word のぞく means to remove or get rid of something, and also to exclude or leave something out. It can also have an old or rare meaning of killing an enemy, but that sense is uncommon in everyday use.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "除",
+            "common_words": [
+                "除外 (じょがい): exclusion; to exclude",
+                "除雪 (じょせつ): snow removal"
+            ],
+            "meanings": [
+                "abolish",
+                "cancel",
+                "except",
+                "exclude",
+                "remove"
+            ],
+            "on_readings": [
+                "ジ",
+                "ジョ"
+            ],
+            "kun_readings": [
+                "-よ.け",
+                "のぞ.く"
+            ],
+            "stroke_count": 10,
+            "grade": 6,
+            "jlpt": 3,
+            "heisig_en": "exclude"
+        }
+    ],
+    "kanji_explanation": "The first kanji means basically \"exclude\" or \"remove\". It shows up in words like じょがい and じょせつ. In じょがい the idea is excluding something from a group, and in じょせつ it gives the sense of removing snow, so the kanji carries the core meaning of taking something away.",
+    "synonyms": [
+        "取り除く : とりのぞく : to remove",
+        "省く : はぶく : to omit, to leave out"
+    ],
+    "synonym_explanation": "The most common synonyms of the のぞく are とりのぞく and はぶく. とりのぞく emphasizes physically or completely removing something, while はぶく focuses on omitting or leaving something out (like skipping a step). Both overlap with のぞく but have slightly different tones.",
+    "antonyms": [
+        "含める : ふくめる : to include",
+        "加える : くわえる : to add"
+    ],
+    "antonym_explanation": "The most common antonyms of the のぞく are ふくめる and くわえる. ふくめる means to include or count something in, which is the opposite of excluding, and くわえる means to add something rather than remove it.",
+    "collocations": [
+        {
+            "kanji": "不良品を除く",
+            "furigana": "不良品を除く",
+            "translations": {}
+        },
+        {
+            "kanji": "雑草を除く",
+            "furigana": "雑草を除く",
+            "translations": {}
+        },
+        {
+            "kanji": "障害を除く",
+            "furigana": "障害を除く",
+            "translations": {}
+        },
+        {
+            "kanji": "例外を除く",
+            "furigana": "例外を除く",
+            "translations": {}
+        },
+        {
+            "kanji": "ごみを除く",
+            "furigana": "ごみを除く",
+            "translations": {}
+        },
+        {
+            "kanji": "土日を除いて",
+            "furigana": "土日を除いて",
+            "translations": {}
+        },
+        {
+            "kanji": "税金を除いて",
+            "furigana": "税金を除いて",
+            "translations": {}
+        },
+        {
+            "kanji": "アルバイトを除いて",
+            "furigana": "アルバイトを除いて",
+            "translations": {}
+        },
+        {
+            "kanji": "彼を除いて",
+            "furigana": "彼を除いて",
+            "translations": {}
+        },
+        {
+            "kanji": "場所を除いて",
+            "furigana": "場所を除いて",
+            "translations": {}
+        },
+        {
+            "kanji": "除いた部分",
+            "furigana": "除いた部分",
+            "translations": {}
+        },
+        {
+            "kanji": "除く対象",
+            "furigana": "除く対象",
+            "translations": {}
+        },
+        {
+            "kanji": "除くべきもの",
+            "furigana": "除くべきもの",
+            "translations": {}
+        },
+        {
+            "kanji": "除いてよい要素",
+            "furigana": "除いてよい要素",
+            "translations": {}
+        },
+        {
+            "kanji": "除いたあとの状態",
+            "furigana": "除いたあとの状態",
+            "translations": {}
+        },
+        {
+            "kanji": "例外的に除く",
+            "furigana": "例外的に除く",
+            "translations": {}
+        },
+        {
+            "kanji": "明示的に除く",
+            "furigana": "明示的に除く",
+            "translations": {}
+        },
+        {
+            "kanji": "適切に除く",
+            "furigana": "適切に除く",
+            "translations": {}
+        },
+        {
+            "kanji": "完全に除く",
+            "furigana": "完全に除く",
+            "translations": {}
+        },
+        {
+            "kanji": "一部を除く",
+            "furigana": "一部を除く",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "不良品を除く。",
+            "furigana": "不良品(ふりょうひん)を除(のぞ)く。",
+            "translations": {
+                "EN": "Excluding defective products.",
+                "ID": "Tidak termasuk produk yang cacat.",
+                "ES": "Excluyendo productos defectuosos.",
+                "VI": "Không bao gồm sản phẩm lỗi.",
+                "FR": "Hors produits défectueux.",
+                "NE": "दोषपूर्ण उत्पादनहरू बाहेक।",
+                "BN": "ত্রুটিপূর্ণ পণ্য বাদ দিয়ে।",
+                "ZH": "不包括缺陷产品。",
+                "KO": "불량품을 제외한다.",
+                "TL": "Hindi kasama ang mga may sira na produkto.",
+                "MY": "ချို့ယွင်းနေသော ထုတ်ကုန်များ မပါဝင်ပါ။",
+                "HI": "दोषपूर्ण उत्पादों को छोड़कर.",
+                "AR": "باستثناء المنتجات المعيبة.",
+                "FA": "به استثنای محصولات معیوب."
+            }
+        },
+        {
+            "kanji": "雑草を除く。",
+            "furigana": "雑草(ざっそう)を除(のぞ)く。",
+            "translations": {
+                "EN": "Excluding weeds.",
+                "ID": "Tidak termasuk gulma.",
+                "ES": "Excluyendo las malas hierbas.",
+                "VI": "Không bao gồm cỏ dại.",
+                "FR": "Hors mauvaises herbes.",
+                "NE": "झारपात बाहेक।",
+                "BN": "আগাছা বাদ দিয়ে।",
+                "ZH": "除杂草外。",
+                "KO": "잡초를 제외한다.",
+                "TL": "Hindi kasama ang mga damo.",
+                "MY": "ပေါင်းပင်များ မပါဝင်ပါ။",
+                "HI": "खरपतवार को छोड़कर.",
+                "AR": "باستثناء الأعشاب الضارة.",
+                "FA": "به استثنای علف‌های هرز."
+            }
+        },
+        {
+            "kanji": "例外を除く。",
+            "furigana": "例外(れいがい)を除(のぞ)く。",
+            "translations": {
+                "EN": "With exceptions.",
+                "ID": "Dengan pengecualian.",
+                "ES": "Con excepciones.",
+                "VI": "Có ngoại lệ.",
+                "FR": "Avec des exceptions.",
+                "NE": "अपवादहरू बाहेक।",
+                "BN": "ব্যতিক্রম ছাড়া।",
+                "ZH": "但也有例外。",
+                "KO": "예외를 제외한다.",
+                "TL": "May mga eksepsiyon.",
+                "MY": "ခြွင်းချက်။",
+                "HI": "अपवादों के साथ.",
+                "AR": "مع استثناءات.",
+                "FA": "با استثنائات."
+            }
+        },
+        {
+            "kanji": "ごみを除く。",
+            "furigana": "ごみを除(のぞ)く。",
+            "translations": {
+                "EN": "Excluding garbage.",
+                "ID": "Tidak termasuk sampah.",
+                "ES": "Excluyendo basura.",
+                "VI": "Không bao gồm rác thải.",
+                "FR": "Hors déchets.",
+                "NE": "फोहोर बाहेक।",
+                "BN": "আবর্জনা বাদ দিয়ে।",
+                "ZH": "不包括垃圾。",
+                "KO": "쓰레기를 제외한다.",
+                "TL": "Hindi kasama ang basura.",
+                "MY": "အမှိုက်မပါဝင်ပါ။",
+                "HI": "कचरा छोड़कर.",
+                "AR": "باستثناء القمامة.",
+                "FA": "بدون احتساب زباله."
+            }
+        },
+        {
+            "kanji": "土日を除いて、授業があります。",
+            "furigana": "土日(どにち)を除(のぞ)いて、授業(じゅぎょう)がありま す。",
+            "translations": {
+                "EN": "There are classes every day except Saturdays and Sundays.",
+                "ID": "Ada kelas setiap hari kecuali Sabtu dan Minggu.",
+                "ES": "Hay clases todos los días excepto sábados y domingos.",
+                "VI": "Có lớp học mỗi ngày trừ thứ bảy và chủ nhật.",
+                "FR": "Il y a des cours tous les jours sauf le samedi et le dimanche.",
+                "NE": "शनिबार र आइतबार बाहेक हरेक दिन कक्षाहरू हुन्छन्।",
+                "BN": "শনিবার এবং রবিবার ছাড়া প্রতিদিন ক্লাস থাকে।",
+                "ZH": "除周六、周日外，每天都有课。",
+                "KO": "주말을 제외하고 수업이 있습니다.",
+                "TL": "May klase araw-araw maliban sa Sabado at Linggo.",
+                "MY": "စနေ နှင့် တနင်္ဂနွေများမှလွဲ၍ နေ့တိုင်း အတန်းရှိပါသည်။",
+                "HI": "शनिवार और रविवार को छोड़कर हर दिन कक्षाएं होती हैं।",
+                "AR": "هناك دروس كل يوم ما عدا السبت والأحد.",
+                "FA": "کلاس‌ها همه روزه به جز شنبه‌ها و یکشنبه‌ها برگزار می‌شود."
+            }
+        },
+        {
+            "kanji": "彼を除いて、全員が来た。",
+            "furigana": "彼(かれ)を除(のぞ)いて、全員(ぜんいん)が来(き)た。",
+            "translations": {
+                "EN": "Everyone came except him.",
+                "ID": "Semua orang datang kecuali dia.",
+                "ES": "Todos vinieron excepto él.",
+                "VI": "Mọi người đều đến trừ anh ấy.",
+                "FR": "Tout le monde est venu sauf lui.",
+                "NE": "उनी बाहेक सबै आए।",
+                "BN": "সে ছাড়া সবাই এসেছিল।",
+                "ZH": "除了他以外，其他人都来了。",
+                "KO": "그를 제외하고 모두가 왔다.",
+                "TL": "Dumating ang lahat maliban sa kanya.",
+                "MY": "သူမှလွဲ၍ လူတိုင်းရောက်လာကြသည်။",
+                "HI": "उसके अलावा सभी लोग आये।",
+                "AR": "لقد جاء الجميع إلا هو.",
+                "FA": "همه آمده بودند جز او."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "untuk menghapus",
+            "ES": "Para eliminar",
+            "VI": "để loại bỏ",
+            "FR": "supprimer",
+            "NE": "हटाउनु",
+            "BN": "অপসারণ করতে",
+            "ZH": "删除",
+            "KO": "제거하다",
+            "TL": "para tanggalin",
+            "MY": "ဖယ်ရှားရန်",
+            "HI": "दूर करना",
+            "AR": "لإزالة",
+            "FA": "برای حذف",
+            "EN": [
+                "to remove",
+                "to get rid of",
+                "to take away",
+                "to eliminate"
+            ]
+        },
+        {
+            "ID": "untuk mengecualikan",
+            "ES": "excluir",
+            "VI": "để loại trừ",
+            "FR": "exclure",
+            "NE": "बहिष्कार गर्नु",
+            "BN": "বাদ দেওয়া",
+            "ZH": "排除",
+            "KO": "제외하다",
+            "TL": "upang ibukod",
+            "MY": "ဖယ်ထုတ်ရန်",
+            "HI": "बाहर करने के लिए",
+            "AR": "لاستبعاد",
+            "FA": "مستثنی کردن",
+            "EN": [
+                "to exclude",
+                "to except",
+                "to leave out",
+                "to omit"
+            ]
+        },
+        {
+            "ID": "membunuh (pengkhianat, lawan, dsb.) — kuno/langka",
+            "ES": "matar (a un traidor, oponente, etc.) — arcaico/raro",
+            "VI": "giết (kẻ phản bội, đối thủ, v.v.) — cổ xưa/hiếm gặp",
+            "FR": "tuer (un traître, un adversaire, etc.) — archaïque/rare",
+            "NE": "(देशद्रोही, प्रतिद्वन्द्वी, आदि) मार्न — पुरातन/दुर्लभ",
+            "BN": "হত্যা করা (একজন বিশ্বাসঘাতক, প্রতিপক্ষ, ইত্যাদি) — প্রাচীন/বিরল",
+            "ZH": "杀死（叛徒、对手等）——古老/罕见",
+            "KO": "(배신자, 상대 등을) 죽이다 - 고어/드물다",
+            "TL": "pumatay (taksil, kalaban, atbp.) — archaic/bihira",
+            "MY": "(သစ္စာဖောက်၊ ပြိုင်ဘက် စသည်ဖြင့်) သတ်ပစ်ရန် — ရှေးဟောင်း/ရှားပါးသည်။",
+            "HI": "(किसी गद्दार, विरोधी, आदि) को मारना — पुरातन/दुर्लभ",
+            "AR": "قتل (خائن، خصم، إلخ) - قديم/نادر",
+            "FA": "کشتن (خائن، حریف و غیره) - قدیمی/نادر",
+            "EN": [
+                "to kill (a traitor, opponent, etc.) — archaic/rare"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "除く",
+        "is_common": true,
+        "tags": [
+            "wanikani31"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "除く",
+                "reading": "のぞく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to remove",
+                    "to get rid of",
+                    "to take away",
+                    "to eliminate"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to exclude",
+                    "to except",
+                    "to leave out",
+                    "to omit"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to kill (a traitor, opponent, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ku' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "除"
+    ],
+    "kanji_data": {
+        "除": {
+            "freq_mainichi_shinbun": 594,
+            "grade": 6,
+            "heisig_en": "exclude",
+            "jlpt": 3,
+            "kanji": "除",
+            "kun_readings": [
+                "-よ.け",
+                "のぞ.く"
+            ],
+            "meanings": [
+                "abolish",
+                "cancel",
+                "division (x/3)",
+                "except",
+                "exclude",
+                "remove"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ジ",
+                "ジョ"
+            ],
+            "stroke_count": 10,
+            "unicode": "9664"
+        }
     }
-  },
-  "kanji_list": [
-    "除"
-  ],
-  "kanji_data": {
-    "除": {
-      "freq_mainichi_shinbun": 594,
-      "grade": 6,
-      "heisig_en": "exclude",
-      "jlpt": 3,
-      "kanji": "除",
-      "kun_readings": [
-        "-よ.け",
-        "のぞ.く"
-      ],
-      "meanings": [
-        "abolish",
-        "cancel",
-        "division (x/3)",
-        "except",
-        "exclude",
-        "remove"
-      ],
-      "name_readings": [],
-      "notes": [],
-      "on_readings": [
-        "ジ",
-        "ジョ"
-      ],
-      "stroke_count": 10,
-      "unicode": "9664"
-    }
-  }
 }

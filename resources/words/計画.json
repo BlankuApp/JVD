@@ -1,282 +1,289 @@
 {
-  "version": "0.3.0",
-  "word": "計画",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/YPl8WbXvAQg",
-  "in_db": true,
-  "kanji": "計画",
-  "reading": "けいかく",
-  "introduction_japanese": "",
-  "introduction_english": "Today, let's dive into the word 'keikaku,' often heard in work settings or when discussing future projects. It's a versatile term that captures various personal or professional aspirations.",
-  "meanings": [
-    [
-      "plan",
-      "project",
-      "schedule",
-      "scheme",
-      "program",
-      "programme"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word 'keikaku' means 'a plan or project.' It refers to a detailed proposal for doing or achieving something. In Japanese, when you say 'keikaku,' it typically covers both personal and business plans, as well as long-term strategies.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "計",
-      "common_words": [
-        "計る: to measure",
-        "計算: calculation"
-      ]
-    },
-    {
-      "kanji": "画",
-      "common_words": [
-        "映画: movie",
-        "画面: screen"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "予定 : よてい : plans"
-  ],
-  "synonym_explanation": "The most common synonyms of 'keikaku' are 'yotei.' While both involve planning, 'yotei' is generally used for schedules or specific planned events, whereas 'keikaku' encompasses broader or more strategic plans.",
-  "antonyms": [
-    "偶然 : ぐうぜん : coincidence"
-  ],
-  "antonym_explanation": "The most common antonyms of 'keikaku' is 'guuzen.' While 'keikaku' is about having a premeditated plan, 'guuzen' refers to something occurring by chance without any plan.",
-  "collocations": [
-    {
-      "kanji": "けいかくをつくる",
-      "furigana": "けいかくをつくる",
-      "translations": {}
-    },
-    {
-      "kanji": "けいかくをたてる",
-      "furigana": "けいかくをたてる",
-      "translations": {}
-    },
-    {
-      "kanji": "けいかくをねる",
-      "furigana": "けいかくをねる",
-      "translations": {}
-    },
-    {
-      "kanji": "けいかくをしんこうする",
-      "furigana": "けいかくをしんこうする",
-      "translations": {}
-    },
-    {
-      "kanji": "けいかくをかわる",
-      "furigana": "けいかくをかわる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "計画を作ります。",
-      "furigana": "計画(けいかく)を作(つく)ります。",
-      "translations": {
-        "EN": "I will make a plan.",
-        "ID": "Saya akan membuat rencana.",
-        "ES": "Voy a hacer un plan.",
-        "VI": "Tôi sẽ lập kế hoạch.",
-        "FR": "Je vais faire un plan.",
-        "NE": "म योजना बनाउँछु।",
-        "BN": "আমি একটি পরিকল্পনা করব।",
-        "ZH": "我将制定计划。",
-        "KO": "계획을 만들겠습니다.",
-        "TL": "Gagawa ako ng plano.",
-        "MY": "ငါစီစဉ်ချက်ပြုလုပ်မည်။",
-        "HI": "मैं योजना बनाऊंगा।",
-        "AR": "سأضع خطة.",
-        "FA": "من یک برنامه خواهم ساخت."
-      }
-    },
-    {
-      "kanji": "明日、旅行の計画を立てます。",
-      "furigana": "明日(あした)、旅行(りょこう)の計画(けいかく)を立(た)てます。",
-      "translations": {
-        "EN": "I will make a travel plan tomorrow.",
-        "ID": "Besok, saya akan membuat rencana perjalanan.",
-        "ES": "Mañana, haré un plan de viaje.",
-        "VI": "Ngày mai, tôi sẽ lập kế hoạch du lịch.",
-        "FR": "Demain, je ferai un plan de voyage.",
-        "NE": "भोली यात्रा योजना बनाउने छु।",
-        "BN": "আগামীকাল আমি একটি ভ্রমণের পরিকল্পনা করব।",
-        "ZH": "明天，我将制定旅行计划。",
-        "KO": "내일 여행 계획을 세울 것입니다.",
-        "TL": "Gagawa ako ng plano sa paglalakbay bukas.",
-        "MY": "မနက်ဖြန်ခရီးပန်းတိုင်ကိုထူထောင်ပါမယ်။",
-        "HI": "मैं कल यात्रा की योजना बनाऊंगा।",
-        "AR": "سأضع خطة سفر غداً.",
-        "FA": "فردا یک برنامه سفر خواهیم تهیه کرد."
-      }
-    },
-    {
-      "kanji": "旅行の計画を練ります。",
-      "furigana": "旅行（りょこう）の計画（けいかく）を練（ね）ります。",
-      "translations": {
-        "EN": "I will plan the trip.",
-        "ID": "Saya akan merencanakan perjalanan.",
-        "ES": "Planificaré el viaje.",
-        "VI": "Tôi sẽ lên kế hoạch cho chuyến đi.",
-        "FR": "Je vais organiser le voyage.",
-        "NE": "म यात्राको योजना बनाउँछु।",
-        "BN": "আমি ভ্রমণের পরিকল্পনা করব।",
-        "ZH": "我将计划旅行。",
-        "KO": "여행을 계획합니다.",
-        "TL": "Plano ko ang biyahe.",
-        "MY": "ခရီးစဉ်ကို ကျွန်ုပ်စီမံခန့်ခွဲမည်။",
-        "HI": "मैं यात्रा की योजना बनाऊँगा।",
-        "AR": "سأخطط للرحلة.",
-        "FA": "من برای سفر برنامه‌ریزی می‌کنم."
-      }
-    },
-    {
-      "kanji": "計画を進行します。",
-      "furigana": "計画(けいかく)を進行(しんこう)します。",
-      "translations": {
-        "EN": "We will proceed with the plan.",
-        "ID": "Kami akan melanjutkan rencana.",
-        "ES": "Procederemos con el plan.",
-        "VI": "Chúng tôi sẽ tiến hành kế hoạch.",
-        "FR": "Nous allons poursuivre le plan.",
-        "NE": "हामी योजनालाई अघि बढाउनेछौँ।",
-        "BN": "আমরা প্ল্যানটি এগিয়ে নিয়ে যাব।",
-        "ZH": "我们将推进计划。",
-        "KO": "계획을 진행합니다.",
-        "TL": "Ipagpapatuloy namin ang plano.",
-        "MY": "ကြိုးစားမှုကို ဆက်လက်တိုးတက်စေပါမည်။",
-        "HI": "हम योजना को आगे बढ़ाएंगे।",
-        "AR": "سنواصل الخطة.",
-        "FA": "ما با برنامه پیش می‌رویم."
-      }
-    },
-    {
-      "kanji": "計画が変わった。",
-      "furigana": "計画(けいかく)が変(か)わった。",
-      "translations": {
-        "EN": "The plan has changed.",
-        "ID": "Rencananya berubah.",
-        "ES": "El plan ha cambiado.",
-        "VI": "Kế hoạch đã thay đổi.",
-        "FR": "Le plan a changé.",
-        "NE": "योजना परिवर्तन भएको छ।",
-        "BN": "পরিকল্পনা পরিবর্তিত হয়েছে।",
-        "ZH": "计划变了。",
-        "KO": "계획이 바뀌었어요.",
-        "TL": "Nagbago ang plano.",
-        "MY": "အစီအစဉ်ပြောင်းလဲပြီ။",
-        "HI": "योजना बदल गई है।",
-        "AR": "الخطة تغيرت.",
-        "FA": "برنامه تغییر کرده است."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "plan": {
-      "EN": "Plan",
-      "ID": "Rencana",
-      "ES": "Plan",
-      "VI": "Kế hoạch",
-      "FR": "Plan",
-      "NE": "योजना",
-      "BN": "পরিকল্পনা",
-      "ZH": "计划",
-      "KO": "계획",
-      "TL": "Plano",
-      "MY": "အစီအစဉ်",
-      "HI": "योजना",
-      "AR": "خطة",
-      "FA": "طرح"
-    }
-  },
-  "jisho_data": {
-    "slug": "計画",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
+    "version": "0.3.0",
+    "word": "計画",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/YPl8WbXvAQg",
+    "in_db": true,
+    "kanji": "計画",
+    "reading": "けいかく",
+    "introduction_japanese": "",
+    "introduction_english": "Today, let's dive into the word 'keikaku,' often heard in work settings or when discussing future projects. It's a versatile term that captures various personal or professional aspirations.",
+    "meanings": [
+        [
+            "plan",
+            "project",
+            "schedule",
+            "scheme",
+            "program",
+            "programme"
+        ]
     ],
-    "japanese": [
-      {
-        "word": "計画",
-        "reading": "けいかく"
-      }
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word 'keikaku' means 'a plan or project.' It refers to a detailed proposal for doing or achieving something. In Japanese, when you say 'keikaku,' it typically covers both personal and business plans, as well as long-term strategies.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "計",
+            "common_words": [
+                "計る: to measure",
+                "計算: calculation"
+            ]
+        },
+        {
+            "kanji": "画",
+            "common_words": [
+                "映画: movie",
+                "画面: screen"
+            ]
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "plan",
-          "project",
-          "schedule",
-          "scheme",
-          "program",
-          "programme"
-        ],
-        "parts_of_speech": [
-          "Noun, Suru verb, Transitive verb"
-        ],
-        "links": [],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "予定 : よてい : plans"
+    ],
+    "synonym_explanation": "The most common synonyms of 'keikaku' are 'yotei.' While both involve planning, 'yotei' is generally used for schedules or specific planned events, whereas 'keikaku' encompasses broader or more strategic plans.",
+    "antonyms": [
+        "偶然 : ぐうぜん : coincidence"
+    ],
+    "antonym_explanation": "The most common antonyms of 'keikaku' is 'guuzen.' While 'keikaku' is about having a premeditated plan, 'guuzen' refers to something occurring by chance without any plan.",
+    "collocations": [
+        {
+            "kanji": "けいかくをつくる",
+            "furigana": "けいかくをつくる",
+            "translations": {}
+        },
+        {
+            "kanji": "けいかくをたてる",
+            "furigana": "けいかくをたてる",
+            "translations": {}
+        },
+        {
+            "kanji": "けいかくをねる",
+            "furigana": "けいかくをねる",
+            "translations": {}
+        },
+        {
+            "kanji": "けいかくをしんこうする",
+            "furigana": "けいかくをしんこうする",
+            "translations": {}
+        },
+        {
+            "kanji": "けいかくをかわる",
+            "furigana": "けいかくをかわる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "計画を作ります。",
+            "furigana": "計画(けいかく)を作(つく)ります。",
+            "translations": {
+                "EN": "I will make a plan.",
+                "ID": "Saya akan membuat rencana.",
+                "ES": "Voy a hacer un plan.",
+                "VI": "Tôi sẽ lập kế hoạch.",
+                "FR": "Je vais faire un plan.",
+                "NE": "म योजना बनाउँछु।",
+                "BN": "আমি একটি পরিকল্পনা করব।",
+                "ZH": "我将制定计划。",
+                "KO": "계획을 만들겠습니다.",
+                "TL": "Gagawa ako ng plano.",
+                "MY": "ငါစီစဉ်ချက်ပြုလုပ်မည်။",
+                "HI": "मैं योजना बनाऊंगा।",
+                "AR": "سأضع خطة.",
+                "FA": "من یک برنامه خواهم ساخت."
+            }
+        },
+        {
+            "kanji": "明日、旅行の計画を立てます。",
+            "furigana": "明日(あした)、旅行(りょこう)の計画(けいかく)を立(た)てます。",
+            "translations": {
+                "EN": "I will make a travel plan tomorrow.",
+                "ID": "Besok, saya akan membuat rencana perjalanan.",
+                "ES": "Mañana, haré un plan de viaje.",
+                "VI": "Ngày mai, tôi sẽ lập kế hoạch du lịch.",
+                "FR": "Demain, je ferai un plan de voyage.",
+                "NE": "भोली यात्रा योजना बनाउने छु।",
+                "BN": "আগামীকাল আমি একটি ভ্রমণের পরিকল্পনা করব।",
+                "ZH": "明天，我将制定旅行计划。",
+                "KO": "내일 여행 계획을 세울 것입니다.",
+                "TL": "Gagawa ako ng plano sa paglalakbay bukas.",
+                "MY": "မနက်ဖြန်ခရီးပန်းတိုင်ကိုထူထောင်ပါမယ်။",
+                "HI": "मैं कल यात्रा की योजना बनाऊंगा।",
+                "AR": "سأضع خطة سفر غداً.",
+                "FA": "فردا یک برنامه سفر خواهیم تهیه کرد."
+            }
+        },
+        {
+            "kanji": "旅行の計画を練ります。",
+            "furigana": "旅行（りょこう）の計画（けいかく）を練（ね）ります。",
+            "translations": {
+                "EN": "I will plan the trip.",
+                "ID": "Saya akan merencanakan perjalanan.",
+                "ES": "Planificaré el viaje.",
+                "VI": "Tôi sẽ lên kế hoạch cho chuyến đi.",
+                "FR": "Je vais organiser le voyage.",
+                "NE": "म यात्राको योजना बनाउँछु।",
+                "BN": "আমি ভ্রমণের পরিকল্পনা করব।",
+                "ZH": "我将计划旅行。",
+                "KO": "여행을 계획합니다.",
+                "TL": "Plano ko ang biyahe.",
+                "MY": "ခရီးစဉ်ကို ကျွန်ုပ်စီမံခန့်ခွဲမည်။",
+                "HI": "मैं यात्रा की योजना बनाऊँगा।",
+                "AR": "سأخطط للرحلة.",
+                "FA": "من برای سفر برنامه‌ریزی می‌کنم."
+            }
+        },
+        {
+            "kanji": "計画を進行します。",
+            "furigana": "計画(けいかく)を進行(しんこう)します。",
+            "translations": {
+                "EN": "We will proceed with the plan.",
+                "ID": "Kami akan melanjutkan rencana.",
+                "ES": "Procederemos con el plan.",
+                "VI": "Chúng tôi sẽ tiến hành kế hoạch.",
+                "FR": "Nous allons poursuivre le plan.",
+                "NE": "हामी योजनालाई अघि बढाउनेछौँ।",
+                "BN": "আমরা প্ল্যানটি এগিয়ে নিয়ে যাব।",
+                "ZH": "我们将推进计划。",
+                "KO": "계획을 진행합니다.",
+                "TL": "Ipagpapatuloy namin ang plano.",
+                "MY": "ကြိုးစားမှုကို ဆက်လက်တိုးတက်စေပါမည်။",
+                "HI": "हम योजना को आगे बढ़ाएंगे।",
+                "AR": "سنواصل الخطة.",
+                "FA": "ما با برنامه پیش می‌رویم."
+            }
+        },
+        {
+            "kanji": "計画が変わった。",
+            "furigana": "計画(けいかく)が変(か)わった。",
+            "translations": {
+                "EN": "The plan has changed.",
+                "ID": "Rencananya berubah.",
+                "ES": "El plan ha cambiado.",
+                "VI": "Kế hoạch đã thay đổi.",
+                "FR": "Le plan a changé.",
+                "NE": "योजना परिवर्तन भएको छ।",
+                "BN": "পরিকল্পনা পরিবর্তিত হয়েছে।",
+                "ZH": "计划变了。",
+                "KO": "계획이 바뀌었어요.",
+                "TL": "Nagbago ang plano.",
+                "MY": "အစီအစဉ်ပြောင်းလဲပြီ။",
+                "HI": "योजना बदल गई है।",
+                "AR": "الخطة تغيرت.",
+                "FA": "برنامه تغییر کرده است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "plan",
+                "project",
+                "schedule",
+                "scheme",
+                "program",
+                "programme"
+            ],
+            "ID": "Rencana",
+            "ES": "Plan",
+            "VI": "Kế hoạch",
+            "FR": "Plan",
+            "NE": "योजना",
+            "BN": "পরিকল্পনা",
+            "ZH": "计划",
+            "KO": "계획",
+            "TL": "Plano",
+            "MY": "အစီအစဉ်",
+            "HI": "योजना",
+            "AR": "خطة",
+            "FA": "طرح"
+        }
+    ],
+    "jisho_data": {
+        "slug": "計画",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "計",
-    "画"
-  ],
-  "kanji_data": {
-    "計": {
-      "meanings": [
-        "measure",
-        "plan",
-        "plot",
-        "scheme"
-      ],
-      "on_readings": [
-        "ケイ"
-      ],
-      "kun_readings": [
-        "はか.らう",
-        "はか.る"
-      ],
-      "stroke_count": 9,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 228,
-      "unicode": "8A08",
-      "grade": 2
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "計画",
+                "reading": "けいかく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "plan",
+                    "project",
+                    "schedule",
+                    "scheme",
+                    "program",
+                    "programme"
+                ],
+                "parts_of_speech": [
+                    "Noun, Suru verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "画": {
-      "meanings": [
-        "brush-stroke",
-        "picture"
-      ],
-      "on_readings": [
-        "エ",
-        "カイ",
-        "カク",
-        "ガ"
-      ],
-      "kun_readings": [
-        "えが.く",
-        "かぎ.る",
-        "かく.する",
-        "はか.る",
-        "はかりごと"
-      ],
-      "stroke_count": 8,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 199,
-      "unicode": "753B",
-      "grade": 2
+    "kanji_list": [
+        "計",
+        "画"
+    ],
+    "kanji_data": {
+        "計": {
+            "meanings": [
+                "measure",
+                "plan",
+                "plot",
+                "scheme"
+            ],
+            "on_readings": [
+                "ケイ"
+            ],
+            "kun_readings": [
+                "はか.らう",
+                "はか.る"
+            ],
+            "stroke_count": 9,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 228,
+            "unicode": "8A08",
+            "grade": 2
+        },
+        "画": {
+            "meanings": [
+                "brush-stroke",
+                "picture"
+            ],
+            "on_readings": [
+                "エ",
+                "カイ",
+                "カク",
+                "ガ"
+            ],
+            "kun_readings": [
+                "えが.く",
+                "かぎ.る",
+                "かく.する",
+                "はか.る",
+                "はかりごと"
+            ],
+            "stroke_count": 8,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 199,
+            "unicode": "753B",
+            "grade": 2
+        }
     }
-  }
 }

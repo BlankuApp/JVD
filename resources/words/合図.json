@@ -1,489 +1,492 @@
 {
-  "version": "0.3.0",
-  "word": "合図",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/v69HmjZ75a4",
-  "in_db": true,
-  "kanji": "合図",
-  "reading": "あいず",
-  "introduction_japanese": "合図は、出発や開始・終了のとき、みんなでタイミングを合わせたいとき、スポーツやイベント、交通の場面、そして目や手で相手に知らせたいときに使います。",
-  "introduction_english": "The noun あいず is used for departures, starts and finishes, when people need to match timing, in sports or events, in traffic, and when you want to let someone know with a look or a hand.",
-  "meanings": [
-    [
-      "sign",
-      "signal",
-      "cue"
-    ],
-    [
-      "phase diagram"
-    ]
-  ],
-  "meaning_explanation_japanese": "「合図」は、人に何かを知らせるためのしるしや動き、音などのことです。手を挙げる、ライトをつける、笛を鳴らす、目で合図する、などがあります。名詞ですが「合図する」「合図を送る」と言って動詞のようにも使います。専門用語では「相図」と書いて、物質の状態を表す図（フェーズダイアグラム）の意味もあります。",
-  "meaning_explanation_english": "The word あいず means a sign, signal, or cue used to tell someone something or to start/stop together. It can be a hand movement, a light, a sound, or a look. It’s a noun, and with する it acts like a verb: あいずする or あいずをおくる. In science, あいず written as 相図 can also mean a phase diagram.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "合",
-      "meanings": [
-        "fit",
-        "join",
-        "suit"
-      ],
-      "on_readings": [
-        "ゴウ",
-        "ガッ",
-        "カッ"
-      ],
-      "kun_readings": [
-        "あう",
-        "あわせる",
-        "あわす"
-      ],
-      "common_words": [
-        "合格 (ごうかく): passing an exam",
-        "合計 (ごうけい): total"
-      ]
-    },
-    {
-      "kanji": "図",
-      "meanings": [
-        "map",
-        "plan",
-        "drawing"
-      ],
-      "on_readings": [
-        "ズ",
-        "ト"
-      ],
-      "kun_readings": [
-        "え",
-        "はかる"
-      ],
-      "common_words": [
-        "地図 (ちず): map",
-        "図書館 (としょかん): library"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means “fit” or “join.” You see it in ごうかく, passing an exam, where your result fits the standard. It is also in ごうけい, where numbers join to make one total. The second kanji means “map” or “plan.” It appears in ちず, a map, which is a drawing of land. It is also in としょかん, a library, a place for books and drawings.",
-  "synonyms": [
-    "信号 : しんごう : signal; traffic light",
-    "サイン : サイン : sign; cue"
-  ],
-  "synonym_explanation": "The most common synonyms of the word are しんごう and さいん. しんごう is more formal or mechanical, often for traffic lights. さいん is casual and can be a gesture or a mark.",
-  "antonyms": [
-    "沈黙 : ちんもく : silence; no signal"
-  ],
-  "antonym_explanation": "The most common antonym of the word is ちんもく, which means silence and shows that no message or signal is given.",
-  "collocations": [
-    {
-      "kanji": "出発の合図",
-      "furigana": "出発の合図",
-      "translations": {}
-    },
-    {
-      "kanji": "開始の合図",
-      "furigana": "開始の合図",
-      "translations": {}
-    },
-    {
-      "kanji": "終了の合図",
-      "furigana": "終了の合図",
-      "translations": {}
-    },
-    {
-      "kanji": "合図のタイミング",
-      "furigana": "合図のタイミング",
-      "translations": {}
-    },
-    {
-      "kanji": "合図の意味",
-      "furigana": "合図の意味",
-      "translations": {}
-    },
-    {
-      "kanji": "合図を出す",
-      "furigana": "合図を出す",
-      "translations": {}
-    },
-    {
-      "kanji": "合図を送る",
-      "furigana": "合図を送る",
-      "translations": {}
-    },
-    {
-      "kanji": "合図を忘れる",
-      "furigana": "合図を忘れる",
-      "translations": {}
-    },
-    {
-      "kanji": "合図をする",
-      "furigana": "合図をする",
-      "translations": {}
-    },
-    {
-      "kanji": "合図を見落とす",
-      "furigana": "合図を見落とす",
-      "translations": {}
-    },
-    {
-      "kanji": "それを合図にして始める",
-      "furigana": "それを合図にして始める",
-      "translations": {}
-    },
-    {
-      "kanji": "その言葉が合図になった",
-      "furigana": "その言葉が合図になった",
-      "translations": {}
-    },
-    {
-      "kanji": "笛が合図になって一斉に動く",
-      "furigana": "笛が合図になって一斉に動く",
-      "translations": {}
-    },
-    {
-      "kanji": "目配せが合図になった",
-      "furigana": "目配せが合図になった",
-      "translations": {}
-    },
-    {
-      "kanji": "手を挙げるのが合図になる",
-      "furigana": "手を挙げるのが合図になる",
-      "translations": {}
-    },
-    {
-      "kanji": "小さな合図",
-      "furigana": "小さな合図",
-      "translations": {}
-    },
-    {
-      "kanji": "微妙な合図",
-      "furigana": "微妙な合図",
-      "translations": {}
-    },
-    {
-      "kanji": "明確な合図",
-      "furigana": "明確な合図",
-      "translations": {}
-    },
-    {
-      "kanji": "無言の合図",
-      "furigana": "無言の合図",
-      "translations": {}
-    },
-    {
-      "kanji": "見えにくい合図",
-      "furigana": "見えにくい合図",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "先生が手を挙げるのが合図です。",
-      "furigana": "先生(せんせい)が手(て)を挙(あ)げるのが合図(あいず)です。",
-      "translations": {
-        "EN": "The teacher's signal is to raise your hand.",
-        "ID": "Sinyal dari guru adalah untuk mengangkat tangan.",
-        "ES": "La señal del profesor es levantar la mano.",
-        "VI": "Hiệu lệnh của giáo viên là giơ tay.",
-        "FR": "Le signal du professeur est de lever la main.",
-        "NE": "शिक्षकको संकेत हात उठाउनु हो।",
-        "BN": "শিক্ষকের ইঙ্গিত হল হাত তোলা।",
-        "ZH": "老师的信号是举手。",
-        "KO": "선생님이 손을 꼽는 것이 신호입니다.",
-        "TL": "Ang hudyat ng guro ay itaas ang iyong kamay.",
-        "MY": "ဆရာ့လက်ကို မြှောက်ပြီး အချက်ပြသည်။",
-        "HI": "शिक्षक का संकेत है कि आप अपना हाथ ऊपर उठाएं।",
-        "AR": "إشارة المعلم هي رفع اليد.",
-        "FA": "علامت معلم این است که دستتان را بالا ببرید."
-      }
-    },
-    {
-      "kanji": "彼は出発の合図を出した。",
-      "furigana": "彼(かれ)は出発(しゅっぱつ)の合図(あいず)を出(だ)した。",
-      "translations": {
-        "EN": "He gave the signal to depart.",
-        "ID": "Dia memberi sinyal untuk berangkat.",
-        "ES": "Dio la señal para partir.",
-        "VI": "Ông ra hiệu cho mọi người rời đi.",
-        "FR": "Il a donné le signal du départ.",
-        "NE": "उसले जाने संकेत दियो।",
-        "BN": "সে চলে যাওয়ার সংকেত দিল।",
-        "ZH": "他发出了出发的信号。",
-        "KO": "그는 출발 신호를 냈다.",
-        "TL": "Nagbigay siya ng hudyat para umalis.",
-        "MY": "ထွက်ခွာရန် အချက်ပြပေးခဲ့သည်။",
-        "HI": "उसने प्रस्थान का संकेत दिया।",
-        "AR": "أعطى الإشارة للمغادرة.",
-        "FA": "او علامت داد که بروند."
-      }
-    },
-    {
-      "kanji": "友達に合図を送った。",
-      "furigana": "友達(ともだち)に合図(あいず)を送(おく)った。",
-      "translations": {
-        "EN": "I signaled to my friends.",
-        "ID": "Aku memberi isyarat pada teman-temanku.",
-        "ES": "Le hice una señal a mis amigos.",
-        "VI": "Tôi ra hiệu cho bạn bè tôi.",
-        "FR": "J'ai fait signe à mes amis.",
-        "NE": "मैले साथीहरूलाई इशारा गरें।",
-        "BN": "আমি আমার বন্ধুদের ইশারা করলাম।",
-        "ZH": "我向我的朋友们发出信号。",
-        "KO": "친구에게 신호를 보냈다.",
-        "TL": "Sumenyas ako sa mga kaibigan ko.",
-        "MY": "ကျွန်တော့်သူငယ်ချင်းတွေကို အချက်ပြခဲ့တယ်။",
-        "HI": "मैंने अपने दोस्तों को संकेत दिया.",
-        "AR": "أشرت إلى أصدقائي.",
-        "FA": "به دوستانم علامت دادم."
-      }
-    },
-    {
-      "kanji": "その言葉が合図になった。",
-      "furigana": "その言葉(ことば)が合図(あいず)になった。",
-      "translations": {
-        "EN": "Those words became the signal.",
-        "ID": "Kata-kata itu menjadi sinyal.",
-        "ES": "Esas palabras fueron la señal.",
-        "VI": "Những lời nói đó đã trở thành tín hiệu.",
-        "FR": "Ces mots sont devenus le signal.",
-        "NE": "ती शब्दहरू संकेत बने।",
-        "BN": "ওই কথাগুলোই ছিল সংকেত।",
-        "ZH": "这些话成为了信号。",
-        "KO": "그 말이 신호가 되었다.",
-        "TL": "Ang mga salitang iyon ang naging hudyat.",
-        "MY": "ထိုစကားများသည် အချက်ပြမှုဖြစ်လာသည်။",
-        "HI": "वे शब्द संकेत थे।",
-        "AR": "وأصبحت تلك الكلمات بمثابة الإشارة.",
-        "FA": "آن کلمات به سیگنال تبدیل شدند."
-      }
-    },
-    {
-      "kanji": "笛が合図になって、みんなが動いた。",
-      "furigana": "笛(ふえ)が合図(あいず)になって、みんなが動(うご)いた。",
-      "translations": {
-        "EN": "The whistle was the signal and everyone got moving.",
-        "ID": "Peluit adalah sinyal dan semua orang mulai bergerak.",
-        "ES": "El silbato fue la señal y todos se pusieron en movimiento.",
-        "VI": "Tiếng còi là tín hiệu và mọi người đều phải di chuyển.",
-        "FR": "Le coup de sifflet fut le signal et tout le monde se mit en mouvement.",
-        "NE": "सिट्टी नै संकेत थियो र सबैजना अघि बढे।",
-        "BN": "বাঁশিটি সংকেত ছিল এবং সবাই নড়াচড়া শুরু করল।",
-        "ZH": "哨声响起，大家开始行动。",
-        "KO": "피리가 신호가 되어 모두가 움직였다.",
-        "TL": "Ang sipol ang hudyat at lahat ay gumalaw.",
-        "MY": "ဝီစီသည် အချက်ပြပြီး လူတိုင်း လှုပ်ရှားသွားကြသည်။",
-        "HI": "सीटी बजने का संकेत हुआ और सभी लोग आगे बढ़ गए।",
-        "AR": "كانت الصافرة هي الإشارة وبدأ الجميع في التحرك.",
-        "FA": "سوت، علامت شروع بود و همه به حرکت درآمدند."
-      }
-    },
-    {
-      "kanji": "開始の合図で走り始めた。",
-      "furigana": "開始(かいし)の合図(あいず)で走(はし)り始(はじ)めた。",
-      "translations": {
-        "EN": "We started running at the starting signal.",
-        "ID": "Kami mulai berlari saat sinyal start berbunyi.",
-        "ES": "Empezamos a correr en la señal de salida.",
-        "VI": "Chúng tôi bắt đầu chạy khi có tín hiệu bắt đầu.",
-        "FR": "Nous avons commencé à courir au signal de départ.",
-        "NE": "हामी सुरुवाती संकेतमा दौडिन थाल्यौं।",
-        "BN": "আমরা শুরুর সিগন্যালে দৌড়াতে শুরু করলাম।",
-        "ZH": "听到起跑信号，我们就开始跑步。",
-        "KO": "시작 신호로 달리기 시작했다.",
-        "TL": "Nagsimula na kaming tumakbo sa starting signal.",
-        "MY": "ကျွန်ုပ်တို့သည် စတင်သည့်အချက်ပြမှုတွင် စတင်လည်ပတ်ခဲ့သည်။",
-        "HI": "हमने शुरुआती सिग्नल पर दौड़ना शुरू कर दिया।",
-        "AR": "لقد بدأنا بالركض عند إشارة البداية.",
-        "FA": "با اعلام شروع مسیر، شروع به دویدن کردیم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "sign": {
-      "ID": "tanda",
-      "ES": "firmar",
-      "VI": "dấu hiệu",
-      "FR": "signe",
-      "NE": "चिन्ह",
-      "BN": "চিহ্ন",
-      "ZH": "符号",
-      "KO": "징후",
-      "TL": "tanda",
-      "MY": "လက္ခဏာ",
-      "HI": "संकेत",
-      "AR": "لافتة",
-      "FA": "علامت",
-      "EN": [
-        "signal",
-        "cue"
-      ]
-    },
-    "phase diagram": {
-      "ID": "diagram fase",
-      "ES": "diagrama de fases",
-      "VI": "biểu đồ pha",
-      "FR": "diagramme de phase",
-      "NE": "चरण रेखाचित्र",
-      "BN": "পর্যায় চিত্র",
-      "ZH": "相图",
-      "KO": "상평형도",
-      "TL": "phase diagram",
-      "MY": "အဆင့် ပုံကြမ်း",
-      "HI": "चरण आरेख",
-      "AR": "مخطط الطور",
-      "FA": "نمودار فاز",
-      "EN": []
-    }
-  },
-  "jisho_data": {
-    "slug": "合図",
-    "is_common": true,
-    "tags": [
-      "wanikani14"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "合図",
-        "reading": "あいず"
-      },
-      {
-        "word": "相図",
-        "reading": "あいず"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "sign",
-          "signal",
-          "cue"
+    "version": "0.3.0",
+    "word": "合図",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/v69HmjZ75a4",
+    "in_db": true,
+    "kanji": "合図",
+    "reading": "あいず",
+    "introduction_japanese": "合図は、出発や開始・終了のとき、みんなでタイミングを合わせたいとき、スポーツやイベント、交通の場面、そして目や手で相手に知らせたいときに使います。",
+    "introduction_english": "The noun あいず is used for departures, starts and finishes, when people need to match timing, in sports or events, in traffic, and when you want to let someone know with a look or a hand.",
+    "meanings": [
+        [
+            "sign",
+            "signal",
+            "cue"
         ],
-        "parts_of_speech": [
-          "Noun",
-          "Suru verb",
-          "Transitive verb",
-          "Intransitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "Phase diagram"
-        ],
-        "parts_of_speech": [
-          "Wikipedia definition"
-        ],
-        "links": [
-          {
-            "text": "Read “Phase diagram” on English Wikipedia",
-            "url": "http://en.wikipedia.org/wiki/Phase_diagram?oldid=486472865"
-          },
-          {
-            "text": "Read “相図” on Japanese Wikipedia",
-            "url": "http://ja.wikipedia.org/wiki/相図?oldid=42146330"
-          }
-        ],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": [],
-        "sentences": []
-      }
+        [
+            "phase diagram"
+        ]
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": "http://dbpedia.org/resource/Phase_diagram"
-    }
-  },
-  "kanji_list": [
-    "合",
-    "図"
-  ],
-  "kanji_data": {
-    "合": {
-      "freq_mainichi_shinbun": 41,
-      "grade": 2,
-      "heisig_en": "fit",
-      "jlpt": 3,
-      "kanji": "合",
-      "kun_readings": [
-        "-あ.い",
-        "-あ.う",
-        "-あ.わせる",
-        "-あい",
-        "あ.い",
-        "あ.う",
-        "あ.わす",
-        "あ.わせる",
-        "あい-"
-      ],
-      "meanings": [
-        "0.1",
-        "fit",
-        "join",
-        "suit"
-      ],
-      "name_readings": [
-        "あう",
-        "あん",
-        "い",
-        "か",
-        "こう",
-        "ごお",
-        "に",
-        "ね",
-        "や",
-        "わい"
-      ],
-      "notes": [],
-      "on_readings": [
-        "カッ",
-        "ガッ",
-        "ゴウ"
-      ],
-      "stroke_count": 6,
-      "unicode": "5408"
+    "meaning_explanation_japanese": "「合図」は、人に何かを知らせるためのしるしや動き、音などのことです。手を挙げる、ライトをつける、笛を鳴らす、目で合図する、などがあります。名詞ですが「合図する」「合図を送る」と言って動詞のようにも使います。専門用語では「相図」と書いて、物質の状態を表す図（フェーズダイアグラム）の意味もあります。",
+    "meaning_explanation_english": "The word あいず means a sign, signal, or cue used to tell someone something or to start/stop together. It can be a hand movement, a light, a sound, or a look. It’s a noun, and with する it acts like a verb: あいずする or あいずをおくる. In science, あいず written as 相図 can also mean a phase diagram.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "合",
+            "meanings": [
+                "fit",
+                "join",
+                "suit"
+            ],
+            "on_readings": [
+                "ゴウ",
+                "ガッ",
+                "カッ"
+            ],
+            "kun_readings": [
+                "あう",
+                "あわせる",
+                "あわす"
+            ],
+            "common_words": [
+                "合格 (ごうかく): passing an exam",
+                "合計 (ごうけい): total"
+            ]
+        },
+        {
+            "kanji": "図",
+            "meanings": [
+                "map",
+                "plan",
+                "drawing"
+            ],
+            "on_readings": [
+                "ズ",
+                "ト"
+            ],
+            "kun_readings": [
+                "え",
+                "はかる"
+            ],
+            "common_words": [
+                "地図 (ちず): map",
+                "図書館 (としょかん): library"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means “fit” or “join.” You see it in ごうかく, passing an exam, where your result fits the standard. It is also in ごうけい, where numbers join to make one total. The second kanji means “map” or “plan.” It appears in ちず, a map, which is a drawing of land. It is also in としょかん, a library, a place for books and drawings.",
+    "synonyms": [
+        "信号 : しんごう : signal; traffic light",
+        "サイン : サイン : sign; cue"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are しんごう and さいん. しんごう is more formal or mechanical, often for traffic lights. さいん is casual and can be a gesture or a mark.",
+    "antonyms": [
+        "沈黙 : ちんもく : silence; no signal"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ちんもく, which means silence and shows that no message or signal is given.",
+    "collocations": [
+        {
+            "kanji": "出発の合図",
+            "furigana": "出発の合図",
+            "translations": {}
+        },
+        {
+            "kanji": "開始の合図",
+            "furigana": "開始の合図",
+            "translations": {}
+        },
+        {
+            "kanji": "終了の合図",
+            "furigana": "終了の合図",
+            "translations": {}
+        },
+        {
+            "kanji": "合図のタイミング",
+            "furigana": "合図のタイミング",
+            "translations": {}
+        },
+        {
+            "kanji": "合図の意味",
+            "furigana": "合図の意味",
+            "translations": {}
+        },
+        {
+            "kanji": "合図を出す",
+            "furigana": "合図を出す",
+            "translations": {}
+        },
+        {
+            "kanji": "合図を送る",
+            "furigana": "合図を送る",
+            "translations": {}
+        },
+        {
+            "kanji": "合図を忘れる",
+            "furigana": "合図を忘れる",
+            "translations": {}
+        },
+        {
+            "kanji": "合図をする",
+            "furigana": "合図をする",
+            "translations": {}
+        },
+        {
+            "kanji": "合図を見落とす",
+            "furigana": "合図を見落とす",
+            "translations": {}
+        },
+        {
+            "kanji": "それを合図にして始める",
+            "furigana": "それを合図にして始める",
+            "translations": {}
+        },
+        {
+            "kanji": "その言葉が合図になった",
+            "furigana": "その言葉が合図になった",
+            "translations": {}
+        },
+        {
+            "kanji": "笛が合図になって一斉に動く",
+            "furigana": "笛が合図になって一斉に動く",
+            "translations": {}
+        },
+        {
+            "kanji": "目配せが合図になった",
+            "furigana": "目配せが合図になった",
+            "translations": {}
+        },
+        {
+            "kanji": "手を挙げるのが合図になる",
+            "furigana": "手を挙げるのが合図になる",
+            "translations": {}
+        },
+        {
+            "kanji": "小さな合図",
+            "furigana": "小さな合図",
+            "translations": {}
+        },
+        {
+            "kanji": "微妙な合図",
+            "furigana": "微妙な合図",
+            "translations": {}
+        },
+        {
+            "kanji": "明確な合図",
+            "furigana": "明確な合図",
+            "translations": {}
+        },
+        {
+            "kanji": "無言の合図",
+            "furigana": "無言の合図",
+            "translations": {}
+        },
+        {
+            "kanji": "見えにくい合図",
+            "furigana": "見えにくい合図",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "先生が手を挙げるのが合図です。",
+            "furigana": "先生(せんせい)が手(て)を挙(あ)げるのが合図(あいず)です。",
+            "translations": {
+                "EN": "The teacher's signal is to raise your hand.",
+                "ID": "Sinyal dari guru adalah untuk mengangkat tangan.",
+                "ES": "La señal del profesor es levantar la mano.",
+                "VI": "Hiệu lệnh của giáo viên là giơ tay.",
+                "FR": "Le signal du professeur est de lever la main.",
+                "NE": "शिक्षकको संकेत हात उठाउनु हो।",
+                "BN": "শিক্ষকের ইঙ্গিত হল হাত তোলা।",
+                "ZH": "老师的信号是举手。",
+                "KO": "선생님이 손을 꼽는 것이 신호입니다.",
+                "TL": "Ang hudyat ng guro ay itaas ang iyong kamay.",
+                "MY": "ဆရာ့လက်ကို မြှောက်ပြီး အချက်ပြသည်။",
+                "HI": "शिक्षक का संकेत है कि आप अपना हाथ ऊपर उठाएं।",
+                "AR": "إشارة المعلم هي رفع اليد.",
+                "FA": "علامت معلم این است که دستتان را بالا ببرید."
+            }
+        },
+        {
+            "kanji": "彼は出発の合図を出した。",
+            "furigana": "彼(かれ)は出発(しゅっぱつ)の合図(あいず)を出(だ)した。",
+            "translations": {
+                "EN": "He gave the signal to depart.",
+                "ID": "Dia memberi sinyal untuk berangkat.",
+                "ES": "Dio la señal para partir.",
+                "VI": "Ông ra hiệu cho mọi người rời đi.",
+                "FR": "Il a donné le signal du départ.",
+                "NE": "उसले जाने संकेत दियो।",
+                "BN": "সে চলে যাওয়ার সংকেত দিল।",
+                "ZH": "他发出了出发的信号。",
+                "KO": "그는 출발 신호를 냈다.",
+                "TL": "Nagbigay siya ng hudyat para umalis.",
+                "MY": "ထွက်ခွာရန် အချက်ပြပေးခဲ့သည်။",
+                "HI": "उसने प्रस्थान का संकेत दिया।",
+                "AR": "أعطى الإشارة للمغادرة.",
+                "FA": "او علامت داد که بروند."
+            }
+        },
+        {
+            "kanji": "友達に合図を送った。",
+            "furigana": "友達(ともだち)に合図(あいず)を送(おく)った。",
+            "translations": {
+                "EN": "I signaled to my friends.",
+                "ID": "Aku memberi isyarat pada teman-temanku.",
+                "ES": "Le hice una señal a mis amigos.",
+                "VI": "Tôi ra hiệu cho bạn bè tôi.",
+                "FR": "J'ai fait signe à mes amis.",
+                "NE": "मैले साथीहरूलाई इशारा गरें।",
+                "BN": "আমি আমার বন্ধুদের ইশারা করলাম।",
+                "ZH": "我向我的朋友们发出信号。",
+                "KO": "친구에게 신호를 보냈다.",
+                "TL": "Sumenyas ako sa mga kaibigan ko.",
+                "MY": "ကျွန်တော့်သူငယ်ချင်းတွေကို အချက်ပြခဲ့တယ်။",
+                "HI": "मैंने अपने दोस्तों को संकेत दिया.",
+                "AR": "أشرت إلى أصدقائي.",
+                "FA": "به دوستانم علامت دادم."
+            }
+        },
+        {
+            "kanji": "その言葉が合図になった。",
+            "furigana": "その言葉(ことば)が合図(あいず)になった。",
+            "translations": {
+                "EN": "Those words became the signal.",
+                "ID": "Kata-kata itu menjadi sinyal.",
+                "ES": "Esas palabras fueron la señal.",
+                "VI": "Những lời nói đó đã trở thành tín hiệu.",
+                "FR": "Ces mots sont devenus le signal.",
+                "NE": "ती शब्दहरू संकेत बने।",
+                "BN": "ওই কথাগুলোই ছিল সংকেত।",
+                "ZH": "这些话成为了信号。",
+                "KO": "그 말이 신호가 되었다.",
+                "TL": "Ang mga salitang iyon ang naging hudyat.",
+                "MY": "ထိုစကားများသည် အချက်ပြမှုဖြစ်လာသည်။",
+                "HI": "वे शब्द संकेत थे।",
+                "AR": "وأصبحت تلك الكلمات بمثابة الإشارة.",
+                "FA": "آن کلمات به سیگنال تبدیل شدند."
+            }
+        },
+        {
+            "kanji": "笛が合図になって、みんなが動いた。",
+            "furigana": "笛(ふえ)が合図(あいず)になって、みんなが動(うご)いた。",
+            "translations": {
+                "EN": "The whistle was the signal and everyone got moving.",
+                "ID": "Peluit adalah sinyal dan semua orang mulai bergerak.",
+                "ES": "El silbato fue la señal y todos se pusieron en movimiento.",
+                "VI": "Tiếng còi là tín hiệu và mọi người đều phải di chuyển.",
+                "FR": "Le coup de sifflet fut le signal et tout le monde se mit en mouvement.",
+                "NE": "सिट्टी नै संकेत थियो र सबैजना अघि बढे।",
+                "BN": "বাঁশিটি সংকেত ছিল এবং সবাই নড়াচড়া শুরু করল।",
+                "ZH": "哨声响起，大家开始行动。",
+                "KO": "피리가 신호가 되어 모두가 움직였다.",
+                "TL": "Ang sipol ang hudyat at lahat ay gumalaw.",
+                "MY": "ဝီစီသည် အချက်ပြပြီး လူတိုင်း လှုပ်ရှားသွားကြသည်။",
+                "HI": "सीटी बजने का संकेत हुआ और सभी लोग आगे बढ़ गए।",
+                "AR": "كانت الصافرة هي الإشارة وبدأ الجميع في التحرك.",
+                "FA": "سوت، علامت شروع بود و همه به حرکت درآمدند."
+            }
+        },
+        {
+            "kanji": "開始の合図で走り始めた。",
+            "furigana": "開始(かいし)の合図(あいず)で走(はし)り始(はじ)めた。",
+            "translations": {
+                "EN": "We started running at the starting signal.",
+                "ID": "Kami mulai berlari saat sinyal start berbunyi.",
+                "ES": "Empezamos a correr en la señal de salida.",
+                "VI": "Chúng tôi bắt đầu chạy khi có tín hiệu bắt đầu.",
+                "FR": "Nous avons commencé à courir au signal de départ.",
+                "NE": "हामी सुरुवाती संकेतमा दौडिन थाल्यौं।",
+                "BN": "আমরা শুরুর সিগন্যালে দৌড়াতে শুরু করলাম।",
+                "ZH": "听到起跑信号，我们就开始跑步。",
+                "KO": "시작 신호로 달리기 시작했다.",
+                "TL": "Nagsimula na kaming tumakbo sa starting signal.",
+                "MY": "ကျွန်ုပ်တို့သည် စတင်သည့်အချက်ပြမှုတွင် စတင်လည်ပတ်ခဲ့သည်။",
+                "HI": "हमने शुरुआती सिग्नल पर दौड़ना शुरू कर दिया।",
+                "AR": "لقد بدأنا بالركض عند إشارة البداية.",
+                "FA": "با اعلام شروع مسیر، شروع به دویدن کردیم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "tanda",
+            "ES": "firmar",
+            "VI": "dấu hiệu",
+            "FR": "signe",
+            "NE": "चिन्ह",
+            "BN": "চিহ্ন",
+            "ZH": "符号",
+            "KO": "징후",
+            "TL": "tanda",
+            "MY": "လက္ခဏာ",
+            "HI": "संकेत",
+            "AR": "لافتة",
+            "FA": "علامت",
+            "EN": [
+                "sign",
+                "signal",
+                "cue"
+            ]
+        },
+        {
+            "ID": "diagram fase",
+            "ES": "diagrama de fases",
+            "VI": "biểu đồ pha",
+            "FR": "diagramme de phase",
+            "NE": "चरण रेखाचित्र",
+            "BN": "পর্যায় চিত্র",
+            "ZH": "相图",
+            "KO": "상평형도",
+            "TL": "phase diagram",
+            "MY": "အဆင့် ပုံကြမ်း",
+            "HI": "चरण आरेख",
+            "AR": "مخطط الطور",
+            "FA": "نمودار فاز",
+            "EN": [
+                "phase diagram"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "合図",
+        "is_common": true,
+        "tags": [
+            "wanikani14"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "合図",
+                "reading": "あいず"
+            },
+            {
+                "word": "相図",
+                "reading": "あいず"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "sign",
+                    "signal",
+                    "cue"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Phase diagram"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Phase diagram” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Phase_diagram?oldid=486472865"
+                    },
+                    {
+                        "text": "Read “相図” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/相図?oldid=42146330"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Phase_diagram"
+        }
     },
-    "図": {
-      "freq_mainichi_shinbun": 539,
-      "grade": 2,
-      "heisig_en": "map",
-      "jlpt": 4,
-      "kanji": "図",
-      "kun_readings": [
-        "え",
-        "はか.る"
-      ],
-      "meanings": [
-        "audacious",
-        "drawing",
-        "extraordinary",
-        "map",
-        "plan"
-      ],
-      "name_readings": [
-        "づ"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ズ",
-        "ト"
-      ],
-      "stroke_count": 7,
-      "unicode": "56F3"
+    "kanji_list": [
+        "合",
+        "図"
+    ],
+    "kanji_data": {
+        "合": {
+            "freq_mainichi_shinbun": 41,
+            "grade": 2,
+            "heisig_en": "fit",
+            "jlpt": 3,
+            "kanji": "合",
+            "kun_readings": [
+                "-あ.い",
+                "-あ.う",
+                "-あ.わせる",
+                "-あい",
+                "あ.い",
+                "あ.う",
+                "あ.わす",
+                "あ.わせる",
+                "あい-"
+            ],
+            "meanings": [
+                "0.1",
+                "fit",
+                "join",
+                "suit"
+            ],
+            "name_readings": [
+                "あう",
+                "あん",
+                "い",
+                "か",
+                "こう",
+                "ごお",
+                "に",
+                "ね",
+                "や",
+                "わい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カッ",
+                "ガッ",
+                "ゴウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5408"
+        },
+        "図": {
+            "freq_mainichi_shinbun": 539,
+            "grade": 2,
+            "heisig_en": "map",
+            "jlpt": 4,
+            "kanji": "図",
+            "kun_readings": [
+                "え",
+                "はか.る"
+            ],
+            "meanings": [
+                "audacious",
+                "drawing",
+                "extraordinary",
+                "map",
+                "plan"
+            ],
+            "name_readings": [
+                "づ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ズ",
+                "ト"
+            ],
+            "stroke_count": 7,
+            "unicode": "56F3"
+        }
     }
-  }
 }

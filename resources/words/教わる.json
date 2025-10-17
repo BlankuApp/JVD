@@ -1,244 +1,248 @@
 {
-  "version": "0.3.0",
-  "word": "教わる",
-  "jlpt_level": 2,
-  "youtube_link": "https://youtu.be/sNgeG2F56Mc",
-  "in_db": true,
-  "kanji": "教わる",
-  "reading": "おそわる",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is \"おそわる,\" which you will often hear in educational settings, guidance sessions, or when discussing learning experiences.",
-  "meanings": [
-    [
-      "to be taught",
-      "to learn",
-      "to take lessons in"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"おそわる\" means \"to be taught or to learn from someone.\" It often indicates the act of receiving instruction or guidance from a teacher or mentor. This word implies a sense of being a learner in a situation where knowledge or skills are being transferred from one person to another.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "教",
-      "common_words": [
-        "教育: education",
-        "教室: classroom"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "教える : おしえる : to teach",
-    "習う : ならう : to take lessons in"
-  ],
-  "synonym_explanation": "The most common synonyms of the word \"おそわる\" are \"おしえる\" and \"ならう.\" While \"おしえる\" means \"to teach\" and usually involves actively imparting knowledge, \"ならう\" means \"to learn a skill\" through practice or by being taught by someone else. \"ならう\" is more focused on the acquisition of skills and is closer to \"おそわる\" in context, but it emphasizes the aspect of training or practicing.",
-  "antonyms": [
-    "忘れる : わすれる : to forget"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"おそわる\" is \"わすれる,\" which means \"to forget.\" While \"おそわる\" is about acquiring knowledge or skills, \"わすれる\" involves losing or failing to remember that acquired information or ability.",
-  "collocations": [
-    {
-      "kanji": "せんせいにおそわる",
-      "furigana": "せんせいにおそわる",
-      "translations": {}
-    },
-    {
-      "kanji": "りょうしんにおそわる",
-      "furigana": "りょうしんにおそわる",
-      "translations": {}
-    },
-    {
-      "kanji": "じゅぎょうでおそわる",
-      "furigana": "じゅぎょうでおそわる",
-      "translations": {}
-    },
-    {
-      "kanji": "ともだちからおそわる",
-      "furigana": "ともだちからおそわる",
-      "translations": {}
-    },
-    {
-      "kanji": "けいけんからおそわる",
-      "furigana": "けいけんからおそわる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "私は先生に日本語を教わります。",
-      "furigana": "私(わたし)は先生(せんせい)に日本語(にほんご)を教(おそわ)ります。",
-      "translations": {
-        "EN": "I am taught Japanese by the teacher.",
-        "ID": "Saya diajari bahasa Jepang oleh guru.",
-        "ES": "Aprendo japonés con el profesor.",
-        "VI": "Tôi được giáo viên dạy học tiếng Nhật.",
-        "FR": "J'apprends le japonais avec le professeur.",
-        "NE": "म शिक्षकबाट जापानी भाषा सिक्छु।",
-        "BN": "আমি শিক্ষকের কাছ থেকে জাপানি শেখি।",
-        "ZH": "我向老师学习日语。",
-        "KO": "저는 선생님에게 일본어를 배웁니다.",
-        "TL": "Ako ay tinuturuan ng Hapon ng guro.",
-        "MY": "ကျွန်ုပ်သည် ဆရာများမှ ဂျပန်ဘာသာစကားကို သင်ကြားခံရသည်။",
-        "HI": "मैं शिक्षक से जापानी भाषा सीखता हूँ।",
-        "AR": "أنا أتعلم اللغة اليابانية من المعلم.",
-        "FA": "من توسط معلم، زبان ژاپنی یاد می‌گیرم."
-      }
-    },
-    {
-      "kanji": "私は両親に教わりました。",
-      "furigana": "私(わたし)は両親(りょうしん)に教(おそ)わりました。",
-      "translations": {
-        "EN": "I learned from my parents.",
-        "ID": "Saya belajar dari orang tua saya.",
-        "ES": "Aprendí de mis padres.",
-        "VI": "Tôi đã học từ cha mẹ tôi.",
-        "FR": "J'ai appris de mes parents.",
-        "NE": "मैले मेरा अभिभावकहरूबाट सिकें।",
-        "BN": "আমি আমার বাবা-মার কাছ থেকে শিখেছি।",
-        "ZH": "我向父母学习。",
-        "KO": "저는 부모님께 배웠습니다.",
-        "TL": "Natuto ako mula sa aking mga magulang.",
-        "MY": "ကျွန်ုပ်သည်မိဘများထံမှသင်ယူခဲ့သည်။",
-        "HI": "मैंने अपने माता-पिता से सीखा।",
-        "AR": "تعلمت من والدي.",
-        "FA": "من از والدینم یاد گرفتم."
-      }
-    },
-    {
-      "kanji": "私はじゅぎょうで数学を教わります。",
-      "furigana": "私(わたし)はじゅぎょうで数(すう)学(がく)を教(おそ)わります。",
-      "translations": {
-        "EN": "I learn mathematics in class.",
-        "ID": "Saya belajar matematika di kelas.",
-        "ES": "Aprendo matemática en clase.",
-        "VI": "Tôi học toán trong lớp.",
-        "FR": "J'apprends les mathématiques en classe.",
-        "NE": "म कक्षामा गणित सिक्छु।",
-        "BN": "আমি ক্লাসে অংক শিখি।",
-        "ZH": "我在课堂上学数学。",
-        "KO": "나는 수업에서 수학을 배웁니다.",
-        "TL": "Natuto ako ng matematika sa klase.",
-        "MY": "ကျွန်ုပ်သည် အတန်းတွင် သင်္ချာသင်ယူသည်။",
-        "HI": "मैं कक्षा में गणित पढ़ता हूँ।",
-        "AR": "أتعلّم الرياضيات في الصف.",
-        "FA": "من در کلاس ریاضیات یاد می‌گیرم."
-      }
-    },
-    {
-      "kanji": "私は友達から数学を教わりました。",
-      "furigana": "私(わたし)は友達(ともだち)から数学(すうがく)を教(おそ)わりました。",
-      "translations": {
-        "EN": "I learned math from a friend.",
-        "ID": "Saya belajar matematika dari teman.",
-        "ES": "Aprendí matemáticas de un amigo.",
-        "VI": "Tôi đã học toán từ một người bạn.",
-        "FR": "J'ai appris les mathématiques par un ami.",
-        "NE": "मैले एक साथीसँग गणित सिकें।",
-        "BN": "আমি বন্ধুর কাছ থেকে গণিত শিখেছি।",
-        "ZH": "我从朋友那里学会了数学。",
-        "KO": "나는 친구에게 수학을 배웠다.",
-        "TL": "Natuto akong mag-matematika mula sa kaibigan.",
-        "MY": "ငါသူငယ်ချင်းတစ်ယောက်ဆီကသင်္ချာလေ့လာခဲ့တယ်။",
-        "HI": "मैंने एक दोस्त से गणित सीखा।",
-        "AR": "تعلمت الرياضيات من صديق.",
-        "FA": "من ریاضی را از یک دوست یاد گرفتم."
-      }
-    },
-    {
-      "kanji": "私は経験から教わります。",
-      "furigana": "私(わたし)は経験(けいけん)から教(おそ)わります。",
-      "translations": {
-        "EN": "I learn from experience.",
-        "ID": "Saya belajar dari pengalaman.",
-        "ES": "Aprendo de la experiencia.",
-        "VI": "Tôi học từ kinh nghiệm.",
-        "FR": "J'apprends de l'expérience.",
-        "NE": "म अनुभवबाट सिक्छु।",
-        "BN": "আমি অভিজ্ঞতা থেকে শিখি।",
-        "ZH": "我从经验中学习。",
-        "KO": "나는 경험으로부터 배웁니다.",
-        "TL": "Natututo ako mula sa karanasan.",
-        "MY": "ကျွန်ုပ်သည် အတွေ့အကြုံမှ သင်ယူပါသည်။",
-        "HI": "मैं अनुभव से सीखता हूँ।",
-        "AR": "أتعلم من التجربة.",
-        "FA": "من از تجربه می‌آموزم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to be taught": {
-      "EN": "to be taught",
-      "ID": "diajarkan",
-      "ES": "ser enseñado",
-      "VI": "được dạy",
-      "FR": "être enseigné",
-      "NE": "शिक्षित हुनु",
-      "BN": "শিক্ষা নেওয়ার জন্য",
-      "ZH": "被教",
-      "KO": "배우다",
-      "TL": "matutunan",
-      "MY": "သင်ယူခြင်း",
-      "HI": "सिखाया जाना",
-      "AR": "يتم تدريسه",
-      "FA": "یاد گرفتن"
-    }
-  },
-  "jisho_data": {
-    "slug": "教わる",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n2"
+    "version": "0.3.0",
+    "word": "教わる",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/sNgeG2F56Mc",
+    "in_db": true,
+    "kanji": "教わる",
+    "reading": "おそわる",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is \"おそわる,\" which you will often hear in educational settings, guidance sessions, or when discussing learning experiences.",
+    "meanings": [
+        [
+            "to be taught",
+            "to learn",
+            "to take lessons in"
+        ]
     ],
-    "japanese": [
-      {
-        "word": "教わる",
-        "reading": "おそわる"
-      }
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"おそわる\" means \"to be taught or to learn from someone.\" It often indicates the act of receiving instruction or guidance from a teacher or mentor. This word implies a sense of being a learner in a situation where knowledge or skills are being transferred from one person to another.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "教",
+            "common_words": [
+                "教育: education",
+                "教室: classroom"
+            ]
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to be taught",
-          "to learn",
-          "to take lessons in"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'ru' ending, Transitive verb"
-        ],
-        "links": [],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "教える : おしえる : to teach",
+        "習う : ならう : to take lessons in"
+    ],
+    "synonym_explanation": "The most common synonyms of the word \"おそわる\" are \"おしえる\" and \"ならう.\" While \"おしえる\" means \"to teach\" and usually involves actively imparting knowledge, \"ならう\" means \"to learn a skill\" through practice or by being taught by someone else. \"ならう\" is more focused on the acquisition of skills and is closer to \"おそわる\" in context, but it emphasizes the aspect of training or practicing.",
+    "antonyms": [
+        "忘れる : わすれる : to forget"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"おそわる\" is \"わすれる,\" which means \"to forget.\" While \"おそわる\" is about acquiring knowledge or skills, \"わすれる\" involves losing or failing to remember that acquired information or ability.",
+    "collocations": [
+        {
+            "kanji": "せんせいにおそわる",
+            "furigana": "せんせいにおそわる",
+            "translations": {}
+        },
+        {
+            "kanji": "りょうしんにおそわる",
+            "furigana": "りょうしんにおそわる",
+            "translations": {}
+        },
+        {
+            "kanji": "じゅぎょうでおそわる",
+            "furigana": "じゅぎょうでおそわる",
+            "translations": {}
+        },
+        {
+            "kanji": "ともだちからおそわる",
+            "furigana": "ともだちからおそわる",
+            "translations": {}
+        },
+        {
+            "kanji": "けいけんからおそわる",
+            "furigana": "けいけんからおそわる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は先生に日本語を教わります。",
+            "furigana": "私(わたし)は先生(せんせい)に日本語(にほんご)を教(おそわ)ります。",
+            "translations": {
+                "EN": "I am taught Japanese by the teacher.",
+                "ID": "Saya diajari bahasa Jepang oleh guru.",
+                "ES": "Aprendo japonés con el profesor.",
+                "VI": "Tôi được giáo viên dạy học tiếng Nhật.",
+                "FR": "J'apprends le japonais avec le professeur.",
+                "NE": "म शिक्षकबाट जापानी भाषा सिक्छु।",
+                "BN": "আমি শিক্ষকের কাছ থেকে জাপানি শেখি।",
+                "ZH": "我向老师学习日语。",
+                "KO": "저는 선생님에게 일본어를 배웁니다.",
+                "TL": "Ako ay tinuturuan ng Hapon ng guro.",
+                "MY": "ကျွန်ုပ်သည် ဆရာများမှ ဂျပန်ဘာသာစကားကို သင်ကြားခံရသည်။",
+                "HI": "मैं शिक्षक से जापानी भाषा सीखता हूँ।",
+                "AR": "أنا أتعلم اللغة اليابانية من المعلم.",
+                "FA": "من توسط معلم، زبان ژاپنی یاد می‌گیرم."
+            }
+        },
+        {
+            "kanji": "私は両親に教わりました。",
+            "furigana": "私(わたし)は両親(りょうしん)に教(おそ)わりました。",
+            "translations": {
+                "EN": "I learned from my parents.",
+                "ID": "Saya belajar dari orang tua saya.",
+                "ES": "Aprendí de mis padres.",
+                "VI": "Tôi đã học từ cha mẹ tôi.",
+                "FR": "J'ai appris de mes parents.",
+                "NE": "मैले मेरा अभिभावकहरूबाट सिकें।",
+                "BN": "আমি আমার বাবা-মার কাছ থেকে শিখেছি।",
+                "ZH": "我向父母学习。",
+                "KO": "저는 부모님께 배웠습니다.",
+                "TL": "Natuto ako mula sa aking mga magulang.",
+                "MY": "ကျွန်ုပ်သည်မိဘများထံမှသင်ယူခဲ့သည်။",
+                "HI": "मैंने अपने माता-पिता से सीखा।",
+                "AR": "تعلمت من والدي.",
+                "FA": "من از والدینم یاد گرفتم."
+            }
+        },
+        {
+            "kanji": "私はじゅぎょうで数学を教わります。",
+            "furigana": "私(わたし)はじゅぎょうで数(すう)学(がく)を教(おそ)わります。",
+            "translations": {
+                "EN": "I learn mathematics in class.",
+                "ID": "Saya belajar matematika di kelas.",
+                "ES": "Aprendo matemática en clase.",
+                "VI": "Tôi học toán trong lớp.",
+                "FR": "J'apprends les mathématiques en classe.",
+                "NE": "म कक्षामा गणित सिक्छु।",
+                "BN": "আমি ক্লাসে অংক শিখি।",
+                "ZH": "我在课堂上学数学。",
+                "KO": "나는 수업에서 수학을 배웁니다.",
+                "TL": "Natuto ako ng matematika sa klase.",
+                "MY": "ကျွန်ုပ်သည် အတန်းတွင် သင်္ချာသင်ယူသည်။",
+                "HI": "मैं कक्षा में गणित पढ़ता हूँ।",
+                "AR": "أتعلّم الرياضيات في الصف.",
+                "FA": "من در کلاس ریاضیات یاد می‌گیرم."
+            }
+        },
+        {
+            "kanji": "私は友達から数学を教わりました。",
+            "furigana": "私(わたし)は友達(ともだち)から数学(すうがく)を教(おそ)わりました。",
+            "translations": {
+                "EN": "I learned math from a friend.",
+                "ID": "Saya belajar matematika dari teman.",
+                "ES": "Aprendí matemáticas de un amigo.",
+                "VI": "Tôi đã học toán từ một người bạn.",
+                "FR": "J'ai appris les mathématiques par un ami.",
+                "NE": "मैले एक साथीसँग गणित सिकें।",
+                "BN": "আমি বন্ধুর কাছ থেকে গণিত শিখেছি।",
+                "ZH": "我从朋友那里学会了数学。",
+                "KO": "나는 친구에게 수학을 배웠다.",
+                "TL": "Natuto akong mag-matematika mula sa kaibigan.",
+                "MY": "ငါသူငယ်ချင်းတစ်ယောက်ဆီကသင်္ချာလေ့လာခဲ့တယ်။",
+                "HI": "मैंने एक दोस्त से गणित सीखा।",
+                "AR": "تعلمت الرياضيات من صديق.",
+                "FA": "من ریاضی را از یک دوست یاد گرفتم."
+            }
+        },
+        {
+            "kanji": "私は経験から教わります。",
+            "furigana": "私(わたし)は経験(けいけん)から教(おそ)わります。",
+            "translations": {
+                "EN": "I learn from experience.",
+                "ID": "Saya belajar dari pengalaman.",
+                "ES": "Aprendo de la experiencia.",
+                "VI": "Tôi học từ kinh nghiệm.",
+                "FR": "J'apprends de l'expérience.",
+                "NE": "म अनुभवबाट सिक्छु।",
+                "BN": "আমি অভিজ্ঞতা থেকে শিখি।",
+                "ZH": "我从经验中学习。",
+                "KO": "나는 경험으로부터 배웁니다.",
+                "TL": "Natututo ako mula sa karanasan.",
+                "MY": "ကျွန်ုပ်သည် အတွေ့အကြုံမှ သင်ယူပါသည်။",
+                "HI": "मैं अनुभव से सीखता हूँ।",
+                "AR": "أتعلم من التجربة.",
+                "FA": "من از تجربه می‌آموزم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "to be taught",
+                "to learn",
+                "to take lessons in"
+            ],
+            "ID": "diajarkan",
+            "ES": "ser enseñado",
+            "VI": "được dạy",
+            "FR": "être enseigné",
+            "NE": "शिक्षित हुनु",
+            "BN": "শিক্ষা নেওয়ার জন্য",
+            "ZH": "被教",
+            "KO": "배우다",
+            "TL": "matutunan",
+            "MY": "သင်ယူခြင်း",
+            "HI": "सिखाया जाना",
+            "AR": "يتم تدريسه",
+            "FA": "یاد گرفتن"
+        }
+    ],
+    "jisho_data": {
+        "slug": "教わる",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "教"
-  ],
-  "kanji_data": {
-    "教": {
-      "meanings": [
-        "doctrine",
-        "faith",
-        "teach"
-      ],
-      "on_readings": [
-        "キョウ"
-      ],
-      "kun_readings": [
-        "おし.える",
-        "おそ.わる"
-      ],
-      "stroke_count": 11,
-      "jlpt": 4,
-      "freq_mainichi_shinbun": 166,
-      "unicode": "6559",
-      "grade": 2
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "教わる",
+                "reading": "おそわる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to be taught",
+                    "to learn",
+                    "to take lessons in"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "教"
+    ],
+    "kanji_data": {
+        "教": {
+            "meanings": [
+                "doctrine",
+                "faith",
+                "teach"
+            ],
+            "on_readings": [
+                "キョウ"
+            ],
+            "kun_readings": [
+                "おし.える",
+                "おそ.わる"
+            ],
+            "stroke_count": 11,
+            "jlpt": 4,
+            "freq_mainichi_shinbun": 166,
+            "unicode": "6559",
+            "grade": 2
+        }
     }
-  }
 }

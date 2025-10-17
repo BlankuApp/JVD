@@ -1,259 +1,267 @@
 {
-  "version": "0.3.0",
-  "word": "沸かす",
-  "jlpt_level": 4,
-  "youtube_link": "https://youtu.be/JdVIaSRs4Ak",
-  "in_db": true,
-  "kanji": "沸かす",
-  "reading": "わかす",
-  "introduction_japanese": "",
-  "introduction_english": "The word we'll be learning in this section is わかす, which you will often hear in kitchens and during cooking shows or when someone prepares a hot drink.",
-  "meanings": [
-    [
-      "to boil",
-      "to heat",
-      "to prepare"
-    ],
-    [
-      "to excite",
-      "to rouse",
-      "to stir"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"わかす\" means to boil or heat something until it reaches a specific temperature. It's often used when referring to making water or other liquids hot enough to boil, such as when preparing tea or cooking.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "沸",
-      "common_words": [
-        "沸点: boiling point",
-        "沸騰: boiling"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "加熱 : かねつ : heating",
-    "熱する : ねっする : to heat"
-  ],
-  "synonym_explanation": "The most common synonyms of the word \"わかす\" are \"かねつ\" and \"ねつする.\" \"かねつ\" means to heat something up and is often used in a broader sense, like heating food or liquid in general. \"ねつする\" implies making something hot, emphasizing the action of applying heat but not specifically boiling.",
-  "antonyms": [
-    "冷やす : ひやす : to cool"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"わかす\" is \"ひやす.\" It means to cool or chill something down. While \"わかす\" involves raising the temperature of a liquid, \"ひやす\" is about lowering the temperature to make it cold. ",
-  "collocations": [
-    {
-      "kanji": "おゆをわかす",
-      "furigana": "おゆをわかす",
-      "translations": {}
-    },
-    {
-      "kanji": "みずをわかす",
-      "furigana": "みずをわかす",
-      "translations": {}
-    },
-    {
-      "kanji": "おちゃをわかす",
-      "furigana": "おちゃをわかす",
-      "translations": {}
-    },
-    {
-      "kanji": "すいとうをわかす",
-      "furigana": "すいとうをわかす",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "私はお湯を沸かします。",
-      "furigana": "私(わたし)はお湯(ゆ)を沸(わ)かします。",
-      "translations": {
-        "EN": "I boil water.",
-        "ID": "Saya merebus air.",
-        "ES": "Hiervo agua.",
-        "VI": "Tôi đun sôi nước.",
-        "FR": "Je fais bouillir de l'eau.",
-        "NE": "म पानी उमाल्छु।",
-        "BN": "আমি জল গরম করি।",
-        "ZH": "我烧开水。",
-        "KO": "저는 물을 끓입니다.",
-        "TL": "Nagpapakulo ako ng tubig.",
-        "MY": "ငါရေပြိုင်ပူတယ်။",
-        "HI": "मैं पानी उबालता हूँ।",
-        "AR": "أغلي الماء.",
-        "FA": "من آب را به جوش می‌آورم."
-      }
-    },
-    {
-      "kanji": "母は水を沸かします。",
-      "furigana": "母(はは)は水(みず)を沸(わ)かします。",
-      "translations": {
-        "EN": "My mother boils water.",
-        "ID": "Ibuku merebus air.",
-        "ES": "Mi madre hierve agua.",
-        "VI": "Mẹ tôi đun nước.",
-        "FR": "Ma mère fait bouillir de l'eau.",
-        "NE": "आमाले पानी तताउनुहुन्छ।",
-        "BN": "আমার মা পানি ফুটান।",
-        "ZH": "我的母亲烧水。",
-        "KO": "어머니는 물을 끓입니다.",
-        "TL": "Nagiinit ng tubig ang nanay ko.",
-        "MY": "အမေလ မြေဖို့ အမြအအတာ ရတူရတံ. (Myintku mawai bodayi\" water).",
-        "HI": "मेरी माँ पानी उबालती है।",
-        "AR": "أمي تغلي الماء.",
-        "FA": "مادرم آب را می جوشاند."
-      }
-    },
-    {
-      "kanji": "私はお茶を沸かします。",
-      "furigana": "私(わたし)はお茶(おちゃ)を沸(わ)かします。",
-      "translations": {
-        "EN": "I boil tea.",
-        "ID": "Saya merebus teh.",
-        "ES": "Yo hiervo el té.",
-        "VI": "Tôi đun trà.",
-        "FR": "Je fais bouillir du thé.",
-        "NE": "म चिया उमाल्छु।",
-        "BN": "আমি চা ফোটাই।",
-        "ZH": "我煮茶。",
-        "KO": "저는 차를 끓입니다.",
-        "TL": "Nagpapakulo ako ng tsaa.",
-        "MY": "ကျွန်တော် စားသောက်ရည်ကို ပြုတ်ပါတယ်။",
-        "HI": "मैं चाय उबालता/उबालती हूँ।",
-        "AR": "أغلي الشاي.",
-        "FA": "من چای می جوشونم."
-      }
-    },
-    {
-      "kanji": "すいとうを沸かす。",
-      "furigana": "すいとうをわかす。",
-      "translations": {
-        "EN": "Boil the kettle.",
-        "ID": "Didihkan teko.",
-        "ES": "Hervir la tetera.",
-        "VI": "Đun sôi ấm nước.",
-        "FR": "Faire bouillir la bouilloire.",
-        "NE": "किटली उमाल्नुहोस्।",
-        "BN": "কেটলি ফুটাও।",
-        "ZH": "煮开水壶。",
-        "KO": "주전자를 끓이다.",
-        "TL": "Pakuluan ang takure.",
-        "MY": "ကြင်းဥကို ဆူအောင်ပြုလုပ်ပါ။",
-        "HI": "केतली उबालें।",
-        "AR": "اغلِ الغلاية.",
-        "FA": "کتری را بجوشان."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to boil": {
-      "EN": "to boil",
-      "ID": "merebus",
-      "ES": "hervir",
-      "VI": "đun sôi",
-      "FR": "faire bouillir",
-      "NE": "उबाल्नु",
-      "BN": "ফোঁটানো",
-      "ZH": "煮沸",
-      "KO": "끓이다",
-      "TL": "pakuluin",
-      "MY": "ဖျော်ချင်သော",
-      "HI": "उबालना",
-      "AR": "يغلي",
-      "FA": "جوشاندن"
-    },
-    "to excite": {
-      "EN": "to excite",
-      "ID": "mengobarkan",
-      "ES": "emocionar",
-      "VI": "kích thích",
-      "FR": "exciter",
-      "NE": "उत्तेजित गर्नु",
-      "BN": "উত্তেজিত করা",
-      "ZH": "使兴奋",
-      "KO": "흥분시키다",
-      "TL": "magpasigla",
-      "MY": "စိတ်လှုပ်ရှားစေသော",
-      "HI": "उत्तेजित करना",
-      "AR": "لإثارة",
-      "FA": "هیجان‌زده کردن"
-    }
-  },
-  "jisho_data": {
-    "slug": "沸かす",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n4"
-    ],
-    "japanese": [
-      {
-        "word": "沸かす",
-        "reading": "わかす"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to boil",
-          "to heat",
-          "to prepare"
+    "version": "0.3.0",
+    "word": "沸かす",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/JdVIaSRs4Ak",
+    "in_db": true,
+    "kanji": "沸かす",
+    "reading": "わかす",
+    "introduction_japanese": "",
+    "introduction_english": "The word we'll be learning in this section is わかす, which you will often hear in kitchens and during cooking shows or when someone prepares a hot drink.",
+    "meanings": [
+        [
+            "to boil",
+            "to heat",
+            "to prepare"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending, Transitive verb"
-        ],
-        "links": [],
+        [
+            "to excite",
+            "to rouse",
+            "to stir"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"わかす\" means to boil or heat something until it reaches a specific temperature. It's often used when referring to making water or other liquids hot enough to boil, such as when preparing tea or cooking.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "沸",
+            "common_words": [
+                "沸点: boiling point",
+                "沸騰: boiling"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "加熱 : かねつ : heating",
+        "熱する : ねっする : to heat"
+    ],
+    "synonym_explanation": "The most common synonyms of the word \"わかす\" are \"かねつ\" and \"ねつする.\" \"かねつ\" means to heat something up and is often used in a broader sense, like heating food or liquid in general. \"ねつする\" implies making something hot, emphasizing the action of applying heat but not specifically boiling.",
+    "antonyms": [
+        "冷やす : ひやす : to cool"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"わかす\" is \"ひやす.\" It means to cool or chill something down. While \"わかす\" involves raising the temperature of a liquid, \"ひやす\" is about lowering the temperature to make it cold. ",
+    "collocations": [
+        {
+            "kanji": "おゆをわかす",
+            "furigana": "おゆをわかす",
+            "translations": {}
+        },
+        {
+            "kanji": "みずをわかす",
+            "furigana": "みずをわかす",
+            "translations": {}
+        },
+        {
+            "kanji": "おちゃをわかす",
+            "furigana": "おちゃをわかす",
+            "translations": {}
+        },
+        {
+            "kanji": "すいとうをわかす",
+            "furigana": "すいとうをわかす",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私はお湯を沸かします。",
+            "furigana": "私(わたし)はお湯(ゆ)を沸(わ)かします。",
+            "translations": {
+                "EN": "I boil water.",
+                "ID": "Saya merebus air.",
+                "ES": "Hiervo agua.",
+                "VI": "Tôi đun sôi nước.",
+                "FR": "Je fais bouillir de l'eau.",
+                "NE": "म पानी उमाल्छु।",
+                "BN": "আমি জল গরম করি।",
+                "ZH": "我烧开水。",
+                "KO": "저는 물을 끓입니다.",
+                "TL": "Nagpapakulo ako ng tubig.",
+                "MY": "ငါရေပြိုင်ပူတယ်။",
+                "HI": "मैं पानी उबालता हूँ।",
+                "AR": "أغلي الماء.",
+                "FA": "من آب را به جوش می‌آورم."
+            }
+        },
+        {
+            "kanji": "母は水を沸かします。",
+            "furigana": "母(はは)は水(みず)を沸(わ)かします。",
+            "translations": {
+                "EN": "My mother boils water.",
+                "ID": "Ibuku merebus air.",
+                "ES": "Mi madre hierve agua.",
+                "VI": "Mẹ tôi đun nước.",
+                "FR": "Ma mère fait bouillir de l'eau.",
+                "NE": "आमाले पानी तताउनुहुन्छ।",
+                "BN": "আমার মা পানি ফুটান।",
+                "ZH": "我的母亲烧水。",
+                "KO": "어머니는 물을 끓입니다.",
+                "TL": "Nagiinit ng tubig ang nanay ko.",
+                "MY": "အမေလ မြေဖို့ အမြအအတာ ရတူရတံ. (Myintku mawai bodayi\" water).",
+                "HI": "मेरी माँ पानी उबालती है।",
+                "AR": "أمي تغلي الماء.",
+                "FA": "مادرم آب را می جوشاند."
+            }
+        },
+        {
+            "kanji": "私はお茶を沸かします。",
+            "furigana": "私(わたし)はお茶(おちゃ)を沸(わ)かします。",
+            "translations": {
+                "EN": "I boil tea.",
+                "ID": "Saya merebus teh.",
+                "ES": "Yo hiervo el té.",
+                "VI": "Tôi đun trà.",
+                "FR": "Je fais bouillir du thé.",
+                "NE": "म चिया उमाल्छु।",
+                "BN": "আমি চা ফোটাই।",
+                "ZH": "我煮茶。",
+                "KO": "저는 차를 끓입니다.",
+                "TL": "Nagpapakulo ako ng tsaa.",
+                "MY": "ကျွန်တော် စားသောက်ရည်ကို ပြုတ်ပါတယ်။",
+                "HI": "मैं चाय उबालता/उबालती हूँ।",
+                "AR": "أغلي الشاي.",
+                "FA": "من چای می جوشونم."
+            }
+        },
+        {
+            "kanji": "すいとうを沸かす。",
+            "furigana": "すいとうをわかす。",
+            "translations": {
+                "EN": "Boil the kettle.",
+                "ID": "Didihkan teko.",
+                "ES": "Hervir la tetera.",
+                "VI": "Đun sôi ấm nước.",
+                "FR": "Faire bouillir la bouilloire.",
+                "NE": "किटली उमाल्नुहोस्।",
+                "BN": "কেটলি ফুটাও।",
+                "ZH": "煮开水壶。",
+                "KO": "주전자를 끓이다.",
+                "TL": "Pakuluan ang takure.",
+                "MY": "ကြင်းဥကို ဆူအောင်ပြုလုပ်ပါ။",
+                "HI": "केतली उबालें।",
+                "AR": "اغلِ الغلاية.",
+                "FA": "کتری را بجوشان."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "to boil",
+                "to heat",
+                "to prepare"
+            ],
+            "ID": "merebus",
+            "ES": "hervir",
+            "VI": "đun sôi",
+            "FR": "faire bouillir",
+            "NE": "उबाल्नु",
+            "BN": "ফোঁটানো",
+            "ZH": "煮沸",
+            "KO": "끓이다",
+            "TL": "pakuluin",
+            "MY": "ဖျော်ချင်သော",
+            "HI": "उबालना",
+            "AR": "يغلي",
+            "FA": "جوشاندن"
+        },
+        {
+            "EN": [
+                "to excite",
+                "to rouse",
+                "to stir"
+            ],
+            "ID": "mengobarkan",
+            "ES": "emocionar",
+            "VI": "kích thích",
+            "FR": "exciter",
+            "NE": "उत्तेजित गर्नु",
+            "BN": "উত্তেজিত করা",
+            "ZH": "使兴奋",
+            "KO": "흥분시키다",
+            "TL": "magpasigla",
+            "MY": "စိတ်လှုပ်ရှားစေသော",
+            "HI": "उत्तेजित करना",
+            "AR": "لإثارة",
+            "FA": "هیجان‌زده کردن"
+        }
+    ],
+    "jisho_data": {
+        "slug": "沸かす",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to excite",
-          "to rouse",
-          "to stir"
+        "jlpt": [
+            "jlpt-n4"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'su' ending, Transitive verb"
+        "japanese": [
+            {
+                "word": "沸かす",
+                "reading": "わかす"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "沸"
-  ],
-  "kanji_data": {
-    "沸": {
-      "meanings": [
-        "boil",
-        "breed",
-        "ferment",
-        "seethe",
-        "uproar"
-      ],
-      "on_readings": [
-        "フツ"
-      ],
-      "kun_readings": [
-        "わ.かす",
-        "わ.く"
-      ],
-      "stroke_count": 8,
-      "jlpt": 2,
-      "freq_mainichi_shinbun": 1709,
-      "unicode": "6CB8",
-      "grade": 8
+        "senses": [
+            {
+                "english_definitions": [
+                    "to boil",
+                    "to heat",
+                    "to prepare"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to excite",
+                    "to rouse",
+                    "to stir"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "沸"
+    ],
+    "kanji_data": {
+        "沸": {
+            "meanings": [
+                "boil",
+                "breed",
+                "ferment",
+                "seethe",
+                "uproar"
+            ],
+            "on_readings": [
+                "フツ"
+            ],
+            "kun_readings": [
+                "わ.かす",
+                "わ.く"
+            ],
+            "stroke_count": 8,
+            "jlpt": 2,
+            "freq_mainichi_shinbun": 1709,
+            "unicode": "6CB8",
+            "grade": 8
+        }
     }
-  }
 }

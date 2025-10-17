@@ -1,438 +1,439 @@
 {
-  "version": "0.3.0",
-  "word": "金額",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/yQOXm1PhYKk",
-  "in_db": true,
-  "kanji": "金額",
-  "reading": "きんがく",
-  "introduction_japanese": "金額は、請求書や見積もり、買い物や支払いの話でよく出てくる名詞です。何円かを話すときによく使います。",
-  "introduction_english": "The noun きんがく is commonly seen in conversations about bills, estimates, shopping, and payments.",
-  "meanings": [
-    [
-      "amount of money",
-      "sum"
-    ]
-  ],
-  "meaning_explanation_japanese": "「金額」はお金の量や合計を表す言葉です。請求書や見積もり、支払いの場面で金額を示すときに使います。",
-  "meaning_explanation_english": "The word きんがく means 'amount of money' or 'sum'. You use it when talking about prices, bills, estimates, or payments.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "金",
-      "meanings": [
-        "gold",
-        "metal",
-        "money"
-      ],
-      "on_readings": [
-        "キン",
-        "コン",
-        "ゴン"
-      ],
-      "kun_readings": [
-        "-がね",
-        "かな-",
-        "かね"
-      ],
-      "stroke_count": 8,
-      "common_words": [
-        "お金(おかね): money",
-        "金曜日(きんようび): Friday"
-      ]
-    },
-    {
-      "kanji": "額",
-      "meanings": [
-        "amount",
-        "forehead",
-        "frame",
-        "sum"
-      ],
-      "on_readings": [
-        "ガク"
-      ],
-      "kun_readings": [
-        "ひたい"
-      ],
-      "stroke_count": 18,
-      "common_words": [
-        "額(ひたい): forehead",
-        "額縁(がくぶち): picture frame"
-      ]
-    }
-  ],
-  "kanji_explanation": "The first kanji means gold or money and often shows that a word is about money or metal. In おかね it clearly means money, so the kanji tells you the word is about cash. It also appears in きんようび where it is part of the name for Friday. The second kanji means amount, forehead, or a framed panel and is used for quantities or frames. In ひたい it literally means forehead, and in がくぶち it helps make the meaning of a picture frame or plaque.",
-  "synonyms": [
-    "額 : ひたい : amount",
-    "総額 : そうがく : total amount"
-  ],
-  "synonym_explanation": "The most common synonyms of the word are ひたい and そうがく. ひたい is shorter and can mean an amount in documents as well as forehead, so it is a more general term. そうがく means the total amount and is used when you sum up multiple items or charges.",
-  "antonyms": [],
-  "antonym_explanation": "No common antonyms found.",
-  "collocations": [
-    {
-      "kanji": "総額の金額",
-      "furigana": "総額の金額",
-      "translations": {}
-    },
-    {
-      "kanji": "見積額の金額",
-      "furigana": "見積額の金額",
-      "translations": {}
-    },
-    {
-      "kanji": "支払う金額",
-      "furigana": "支払う金額",
-      "translations": {}
-    },
-    {
-      "kanji": "請求金額",
-      "furigana": "請求金額",
-      "translations": {}
-    },
-    {
-      "kanji": "控除後の金額",
-      "furigana": "控除後の金額",
-      "translations": {}
-    },
-    {
-      "kanji": "金額を確認する",
-      "furigana": "金額を確認する",
-      "translations": {}
-    },
-    {
-      "kanji": "金額を提示する",
-      "furigana": "金額を提示する",
-      "translations": {}
-    },
-    {
-      "kanji": "金額を支払う",
-      "furigana": "金額を支払う",
-      "translations": {}
-    },
-    {
-      "kanji": "金額を記入する",
-      "furigana": "金額を記入する",
-      "translations": {}
-    },
-    {
-      "kanji": "金額を交渉する",
-      "furigana": "金額を交渉する",
-      "translations": {}
-    },
-    {
-      "kanji": "大きな金額",
-      "furigana": "大きな金額",
-      "translations": {}
-    },
-    {
-      "kanji": "少額の金額",
-      "furigana": "少額の金額",
-      "translations": {}
-    },
-    {
-      "kanji": "高額な金額",
-      "furigana": "高額な金額",
-      "translations": {}
-    },
-    {
-      "kanji": "適正な金額",
-      "furigana": "適正な金額",
-      "translations": {}
-    },
-    {
-      "kanji": "想定外の金額",
-      "furigana": "想定外の金額",
-      "translations": {}
-    },
-    {
-      "kanji": "金額が異なる",
-      "furigana": "金額が異なる",
-      "translations": {}
-    },
-    {
-      "kanji": "金額による差",
-      "furigana": "金額による差",
-      "translations": {}
-    },
-    {
-      "kanji": "金額に応じて",
-      "furigana": "金額に応じて",
-      "translations": {}
-    },
-    {
-      "kanji": "金額が膨らむ",
-      "furigana": "金額が膨らむ",
-      "translations": {}
-    },
-    {
-      "kanji": "金額が決まる",
-      "furigana": "金額が決まる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "金額を確認する。",
-      "furigana": "金額(きんがく)を確認(かくにん)する。",
-      "translations": {
-        "EN": "Check the amount.",
-        "ID": "Periksa jumlahnya.",
-        "ES": "Verifique el monto.",
-        "VI": "Kiểm tra số tiền.",
-        "FR": "Vérifiez le montant.",
-        "NE": "रकम जाँच गर्नुहोस्।",
-        "BN": "পরিমাণ পরীক্ষা করুন।",
-        "ZH": "检查金额。",
-        "KO": "금액을 확인한다.",
-        "TL": "Suriin ang halaga.",
-        "MY": "ပမာဏကို စစ်ဆေးပါ။",
-        "HI": "राशि की जांच करें.",
-        "AR": "التحقق من المبلغ.",
-        "FA": "مقدار را بررسی کنید."
-      }
-    },
-    {
-      "kanji": "請求金額を支払った。",
-      "furigana": "請求(せいきゅう)金額(きんがく)を支払(しはら)った。",
-      "translations": {
-        "EN": "I paid the amount claimed.",
-        "ID": "Saya membayar sejumlah yang diklaim.",
-        "ES": "Pagué la cantidad reclamada.",
-        "VI": "Tôi đã trả số tiền yêu cầu.",
-        "FR": "J'ai payé le montant réclamé.",
-        "NE": "मैले दाबी गरिएको रकम तिरेँ।",
-        "BN": "আমি দাবি করা পরিমাণ পরিশোধ করেছি।",
-        "ZH": "我支付了索赔的金额。",
-        "KO": "청구 금액을 지불했습니다.",
-        "TL": "Binayaran ko ang halagang na-claim.",
-        "MY": "တောင်းဆိုထားတဲ့ ပမာဏကို ပေးဆောင်ခဲ့တယ်။",
-        "HI": "मैंने दावा की गई राशि का भुगतान कर दिया।",
-        "AR": "لقد دفعت المبلغ المطالب به.",
-        "FA": "مبلغ مورد نظر را پرداخت کردم."
-      }
-    },
-    {
-      "kanji": "大きな金額です。",
-      "furigana": "大(おお)きな金額(きんがく)です。",
-      "translations": {
-        "EN": "That's a large amount.",
-        "ID": "Itu jumlah yang besar.",
-        "ES": "Esa es una gran cantidad.",
-        "VI": "Đó là một số tiền lớn.",
-        "FR": "C'est une somme importante.",
-        "NE": "त्यो त धेरै ठूलो रकम हो।",
-        "BN": "এটা অনেক বড় পরিমাণ।",
-        "ZH": "这是一个很大的数目。",
-        "KO": "큰 금액입니다.",
-        "TL": "Malaking halaga iyon.",
-        "MY": "အဲဒါက ပမာဏအများကြီးပဲ။",
-        "HI": "यह एक बड़ी रकम है.",
-        "AR": "هذه كمية كبيرة.",
-        "FA": "این مبلغ زیادی است."
-      }
-    },
-    {
-      "kanji": "金額に応じて割引します。",
-      "furigana": "金額(きんがく)に応(おう)じて割引(わりびき)します。",
-      "translations": {
-        "EN": "Discounts will be given depending on the amount.",
-        "ID": "Diskon akan diberikan tergantung pada jumlahnya.",
-        "ES": "Se darán descuentos dependiendo del importe.",
-        "VI": "Sẽ được giảm giá tùy theo số tiền.",
-        "FR": "Des réductions seront accordées en fonction du montant.",
-        "NE": "रकमको आधारमा छुट दिइनेछ।",
-        "BN": "পরিমাণের উপর নির্ভর করে ছাড় দেওয়া হবে।",
-        "ZH": "将根据金额给予折扣。",
-        "KO": "금액에 따라 할인합니다.",
-        "TL": "Ang mga diskwento ay ibibigay depende sa halaga.",
-        "MY": "ပမာဏပေါ်မူတည်၍ Discount ပေးပါမည်။",
-        "HI": "राशि के आधार पर छूट दी जाएगी।",
-        "AR": "سيتم منح الخصومات اعتمادًا على المبلغ.",
-        "FA": "بسته به مبلغ، تخفیف‌هایی داده خواهد شد."
-      }
-    },
-    {
-      "kanji": "控除後の金額を見せてください。",
-      "furigana": "控除後(こうじょご)の金額(きんがく)を見(み)せてください。",
-      "translations": {
-        "EN": "Please show me the amount after deductions.",
-        "ID": "Tolong tunjukkan saya jumlahnya setelah dikurangi.",
-        "ES": "Por favor muéstreme el monto después de las deducciones.",
-        "VI": "Vui lòng cho tôi biết số tiền sau khi đã khấu trừ.",
-        "FR": "S'il vous plaît, montrez-moi le montant après déductions.",
-        "NE": "कटौती पछिको रकम मलाई देखाउनुहोस्।",
-        "BN": "কাটার পরের পরিমাণটা আমাকে দেখান।",
-        "ZH": "请告诉我扣除后的金额。",
-        "KO": "공제 후 금액을 보여주세요.",
-        "TL": "Mangyaring ipakita sa akin ang halaga pagkatapos ng mga pagbabawas.",
-        "MY": "နုတ်ယူပြီးနောက် ပမာဏကို ပြပါ။",
-        "HI": "कृपया मुझे कटौती के बाद की राशि दिखाएं।",
-        "AR": "أرجو أن تظهر لي المبلغ بعد الخصومات.",
-        "FA": "لطفا مبلغ را پس از کسر مالیات به من نشان دهید."
-      }
-    },
-    {
-      "kanji": "金額が異なる場合は連絡してください。",
-      "furigana": "金額(きんがく)が異(こと)なる場合(ばあい)は連絡(れんらく)してください。",
-      "translations": {
-        "EN": "If the amount is different, please contact us.",
-        "ID": "Jika jumlahnya berbeda, silakan hubungi kami.",
-        "ES": "Si el importe es diferente, por favor póngase en contacto con nosotros.",
-        "VI": "Nếu số tiền khác nhau, vui lòng liên hệ với chúng tôi.",
-        "FR": "Si le montant est différent, veuillez nous contacter.",
-        "NE": "यदि रकम फरक छ भने, कृपया हामीलाई सम्पर्क गर्नुहोस्।",
-        "BN": "যদি পরিমাণ ভিন্ন হয়, তাহলে অনুগ্রহ করে আমাদের সাথে যোগাযোগ করুন।",
-        "ZH": "如果金额不同，请联系我们。",
-        "KO": "금액이 다르면 연락하십시오.",
-        "TL": "Kung iba ang halaga, mangyaring makipag-ugnayan sa amin.",
-        "MY": "ပမာဏကွာခြားပါက ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
-        "HI": "यदि राशि अलग है तो कृपया हमसे संपर्क करें।",
-        "AR": "إذا كان المبلغ مختلفًا، يرجى الاتصال بنا.",
-        "FA": "اگر مبلغ متفاوت است، لطفا با ما تماس بگیرید."
-      }
-    },
-    {
-      "kanji": "金額を記入してください。",
-      "furigana": "金額(きんがく)を記入(きにゅう)してください。",
-      "translations": {
-        "EN": "Please enter the amount.",
-        "ID": "Silakan masukkan jumlahnya.",
-        "ES": "Por favor, introduzca la cantidad.",
-        "VI": "Vui lòng nhập số tiền.",
-        "FR": "Veuillez saisir le montant.",
-        "NE": "कृपया रकम प्रविष्ट गर्नुहोस्।",
-        "BN": "অনুগ্রহ করে পরিমাণ লিখুন।",
-        "ZH": "请输入金额。",
-        "KO": "금액을 기입하십시오.",
-        "TL": "Pakilagay ang halaga.",
-        "MY": "ပမာဏကို ထည့်ပါ။",
-        "HI": "कृपया राशि दर्ज करें.",
-        "AR": "الرجاء إدخال المبلغ.",
-        "FA": "لطفا مبلغ را وارد کنید."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "amount of money": {
-      "ID": "jumlah uang",
-      "ES": "cantidad de dinero",
-      "VI": "số tiền",
-      "FR": "somme",
-      "NE": "पैसाको मात्रा",
-      "BN": "টাকার পরিমাণ",
-      "ZH": "金额",
-      "KO": "돈의 양",
-      "TL": "dami ng pera",
-      "MY": "ငွေပမာဏ",
-      "HI": "पैसे की राशि",
-      "AR": "مبلغ من المال",
-      "FA": "مقدار پول",
-      "EN": [
-        "sum"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "金額",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
+    "version": "0.3.0",
+    "word": "金額",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/yQOXm1PhYKk",
+    "in_db": true,
+    "kanji": "金額",
+    "reading": "きんがく",
+    "introduction_japanese": "金額は、請求書や見積もり、買い物や支払いの話でよく出てくる名詞です。何円かを話すときによく使います。",
+    "introduction_english": "The noun きんがく is commonly seen in conversations about bills, estimates, shopping, and payments.",
+    "meanings": [
+        [
+            "amount of money",
+            "sum"
+        ]
     ],
-    "japanese": [
-      {
-        "word": "金額",
-        "reading": "きんがく"
-      }
+    "meaning_explanation_japanese": "「金額」はお金の量や合計を表す言葉です。請求書や見積もり、支払いの場面で金額を示すときに使います。",
+    "meaning_explanation_english": "The word きんがく means 'amount of money' or 'sum'. You use it when talking about prices, bills, estimates, or payments.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "金",
+            "meanings": [
+                "gold",
+                "metal",
+                "money"
+            ],
+            "on_readings": [
+                "キン",
+                "コン",
+                "ゴン"
+            ],
+            "kun_readings": [
+                "-がね",
+                "かな-",
+                "かね"
+            ],
+            "stroke_count": 8,
+            "common_words": [
+                "お金(おかね): money",
+                "金曜日(きんようび): Friday"
+            ]
+        },
+        {
+            "kanji": "額",
+            "meanings": [
+                "amount",
+                "forehead",
+                "frame",
+                "sum"
+            ],
+            "on_readings": [
+                "ガク"
+            ],
+            "kun_readings": [
+                "ひたい"
+            ],
+            "stroke_count": 18,
+            "common_words": [
+                "額(ひたい): forehead",
+                "額縁(がくぶち): picture frame"
+            ]
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "amount of money",
-          "sum"
-        ],
-        "parts_of_speech": [
-          "Noun"
-        ],
-        "links": [],
+    "kanji_explanation": "The first kanji means gold or money and often shows that a word is about money or metal. In おかね it clearly means money, so the kanji tells you the word is about cash. It also appears in きんようび where it is part of the name for Friday. The second kanji means amount, forehead, or a framed panel and is used for quantities or frames. In ひたい it literally means forehead, and in がくぶち it helps make the meaning of a picture frame or plaque.",
+    "synonyms": [
+        "額 : ひたい : amount",
+        "総額 : そうがく : total amount"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ひたい and そうがく. ひたい is shorter and can mean an amount in documents as well as forehead, so it is a more general term. そうがく means the total amount and is used when you sum up multiple items or charges.",
+    "antonyms": [],
+    "antonym_explanation": "No common antonyms found.",
+    "collocations": [
+        {
+            "kanji": "総額の金額",
+            "furigana": "総額の金額",
+            "translations": {}
+        },
+        {
+            "kanji": "見積額の金額",
+            "furigana": "見積額の金額",
+            "translations": {}
+        },
+        {
+            "kanji": "支払う金額",
+            "furigana": "支払う金額",
+            "translations": {}
+        },
+        {
+            "kanji": "請求金額",
+            "furigana": "請求金額",
+            "translations": {}
+        },
+        {
+            "kanji": "控除後の金額",
+            "furigana": "控除後の金額",
+            "translations": {}
+        },
+        {
+            "kanji": "金額を確認する",
+            "furigana": "金額を確認する",
+            "translations": {}
+        },
+        {
+            "kanji": "金額を提示する",
+            "furigana": "金額を提示する",
+            "translations": {}
+        },
+        {
+            "kanji": "金額を支払う",
+            "furigana": "金額を支払う",
+            "translations": {}
+        },
+        {
+            "kanji": "金額を記入する",
+            "furigana": "金額を記入する",
+            "translations": {}
+        },
+        {
+            "kanji": "金額を交渉する",
+            "furigana": "金額を交渉する",
+            "translations": {}
+        },
+        {
+            "kanji": "大きな金額",
+            "furigana": "大きな金額",
+            "translations": {}
+        },
+        {
+            "kanji": "少額の金額",
+            "furigana": "少額の金額",
+            "translations": {}
+        },
+        {
+            "kanji": "高額な金額",
+            "furigana": "高額な金額",
+            "translations": {}
+        },
+        {
+            "kanji": "適正な金額",
+            "furigana": "適正な金額",
+            "translations": {}
+        },
+        {
+            "kanji": "想定外の金額",
+            "furigana": "想定外の金額",
+            "translations": {}
+        },
+        {
+            "kanji": "金額が異なる",
+            "furigana": "金額が異なる",
+            "translations": {}
+        },
+        {
+            "kanji": "金額による差",
+            "furigana": "金額による差",
+            "translations": {}
+        },
+        {
+            "kanji": "金額に応じて",
+            "furigana": "金額に応じて",
+            "translations": {}
+        },
+        {
+            "kanji": "金額が膨らむ",
+            "furigana": "金額が膨らむ",
+            "translations": {}
+        },
+        {
+            "kanji": "金額が決まる",
+            "furigana": "金額が決まる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "金額を確認する。",
+            "furigana": "金額(きんがく)を確認(かくにん)する。",
+            "translations": {
+                "EN": "Check the amount.",
+                "ID": "Periksa jumlahnya.",
+                "ES": "Verifique el monto.",
+                "VI": "Kiểm tra số tiền.",
+                "FR": "Vérifiez le montant.",
+                "NE": "रकम जाँच गर्नुहोस्।",
+                "BN": "পরিমাণ পরীক্ষা করুন।",
+                "ZH": "检查金额。",
+                "KO": "금액을 확인한다.",
+                "TL": "Suriin ang halaga.",
+                "MY": "ပမာဏကို စစ်ဆေးပါ။",
+                "HI": "राशि की जांच करें.",
+                "AR": "التحقق من المبلغ.",
+                "FA": "مقدار را بررسی کنید."
+            }
+        },
+        {
+            "kanji": "請求金額を支払った。",
+            "furigana": "請求(せいきゅう)金額(きんがく)を支払(しはら)った。",
+            "translations": {
+                "EN": "I paid the amount claimed.",
+                "ID": "Saya membayar sejumlah yang diklaim.",
+                "ES": "Pagué la cantidad reclamada.",
+                "VI": "Tôi đã trả số tiền yêu cầu.",
+                "FR": "J'ai payé le montant réclamé.",
+                "NE": "मैले दाबी गरिएको रकम तिरेँ।",
+                "BN": "আমি দাবি করা পরিমাণ পরিশোধ করেছি।",
+                "ZH": "我支付了索赔的金额。",
+                "KO": "청구 금액을 지불했습니다.",
+                "TL": "Binayaran ko ang halagang na-claim.",
+                "MY": "တောင်းဆိုထားတဲ့ ပမာဏကို ပေးဆောင်ခဲ့တယ်။",
+                "HI": "मैंने दावा की गई राशि का भुगतान कर दिया।",
+                "AR": "لقد دفعت المبلغ المطالب به.",
+                "FA": "مبلغ مورد نظر را پرداخت کردم."
+            }
+        },
+        {
+            "kanji": "大きな金額です。",
+            "furigana": "大(おお)きな金額(きんがく)です。",
+            "translations": {
+                "EN": "That's a large amount.",
+                "ID": "Itu jumlah yang besar.",
+                "ES": "Esa es una gran cantidad.",
+                "VI": "Đó là một số tiền lớn.",
+                "FR": "C'est une somme importante.",
+                "NE": "त्यो त धेरै ठूलो रकम हो।",
+                "BN": "এটা অনেক বড় পরিমাণ।",
+                "ZH": "这是一个很大的数目。",
+                "KO": "큰 금액입니다.",
+                "TL": "Malaking halaga iyon.",
+                "MY": "အဲဒါက ပမာဏအများကြီးပဲ။",
+                "HI": "यह एक बड़ी रकम है.",
+                "AR": "هذه كمية كبيرة.",
+                "FA": "این مبلغ زیادی است."
+            }
+        },
+        {
+            "kanji": "金額に応じて割引します。",
+            "furigana": "金額(きんがく)に応(おう)じて割引(わりびき)します。",
+            "translations": {
+                "EN": "Discounts will be given depending on the amount.",
+                "ID": "Diskon akan diberikan tergantung pada jumlahnya.",
+                "ES": "Se darán descuentos dependiendo del importe.",
+                "VI": "Sẽ được giảm giá tùy theo số tiền.",
+                "FR": "Des réductions seront accordées en fonction du montant.",
+                "NE": "रकमको आधारमा छुट दिइनेछ।",
+                "BN": "পরিমাণের উপর নির্ভর করে ছাড় দেওয়া হবে।",
+                "ZH": "将根据金额给予折扣。",
+                "KO": "금액에 따라 할인합니다.",
+                "TL": "Ang mga diskwento ay ibibigay depende sa halaga.",
+                "MY": "ပမာဏပေါ်မူတည်၍ Discount ပေးပါမည်။",
+                "HI": "राशि के आधार पर छूट दी जाएगी।",
+                "AR": "سيتم منح الخصومات اعتمادًا على المبلغ.",
+                "FA": "بسته به مبلغ، تخفیف‌هایی داده خواهد شد."
+            }
+        },
+        {
+            "kanji": "控除後の金額を見せてください。",
+            "furigana": "控除後(こうじょご)の金額(きんがく)を見(み)せてください。",
+            "translations": {
+                "EN": "Please show me the amount after deductions.",
+                "ID": "Tolong tunjukkan saya jumlahnya setelah dikurangi.",
+                "ES": "Por favor muéstreme el monto después de las deducciones.",
+                "VI": "Vui lòng cho tôi biết số tiền sau khi đã khấu trừ.",
+                "FR": "S'il vous plaît, montrez-moi le montant après déductions.",
+                "NE": "कटौती पछिको रकम मलाई देखाउनुहोस्।",
+                "BN": "কাটার পরের পরিমাণটা আমাকে দেখান।",
+                "ZH": "请告诉我扣除后的金额。",
+                "KO": "공제 후 금액을 보여주세요.",
+                "TL": "Mangyaring ipakita sa akin ang halaga pagkatapos ng mga pagbabawas.",
+                "MY": "နုတ်ယူပြီးနောက် ပမာဏကို ပြပါ။",
+                "HI": "कृपया मुझे कटौती के बाद की राशि दिखाएं।",
+                "AR": "أرجو أن تظهر لي المبلغ بعد الخصومات.",
+                "FA": "لطفا مبلغ را پس از کسر مالیات به من نشان دهید."
+            }
+        },
+        {
+            "kanji": "金額が異なる場合は連絡してください。",
+            "furigana": "金額(きんがく)が異(こと)なる場合(ばあい)は連絡(れんらく)してください。",
+            "translations": {
+                "EN": "If the amount is different, please contact us.",
+                "ID": "Jika jumlahnya berbeda, silakan hubungi kami.",
+                "ES": "Si el importe es diferente, por favor póngase en contacto con nosotros.",
+                "VI": "Nếu số tiền khác nhau, vui lòng liên hệ với chúng tôi.",
+                "FR": "Si le montant est différent, veuillez nous contacter.",
+                "NE": "यदि रकम फरक छ भने, कृपया हामीलाई सम्पर्क गर्नुहोस्।",
+                "BN": "যদি পরিমাণ ভিন্ন হয়, তাহলে অনুগ্রহ করে আমাদের সাথে যোগাযোগ করুন।",
+                "ZH": "如果金额不同，请联系我们。",
+                "KO": "금액이 다르면 연락하십시오.",
+                "TL": "Kung iba ang halaga, mangyaring makipag-ugnayan sa amin.",
+                "MY": "ပမာဏကွာခြားပါက ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+                "HI": "यदि राशि अलग है तो कृपया हमसे संपर्क करें।",
+                "AR": "إذا كان المبلغ مختلفًا، يرجى الاتصال بنا.",
+                "FA": "اگر مبلغ متفاوت است، لطفا با ما تماس بگیرید."
+            }
+        },
+        {
+            "kanji": "金額を記入してください。",
+            "furigana": "金額(きんがく)を記入(きにゅう)してください。",
+            "translations": {
+                "EN": "Please enter the amount.",
+                "ID": "Silakan masukkan jumlahnya.",
+                "ES": "Por favor, introduzca la cantidad.",
+                "VI": "Vui lòng nhập số tiền.",
+                "FR": "Veuillez saisir le montant.",
+                "NE": "कृपया रकम प्रविष्ट गर्नुहोस्।",
+                "BN": "অনুগ্রহ করে পরিমাণ লিখুন।",
+                "ZH": "请输入金额。",
+                "KO": "금액을 기입하십시오.",
+                "TL": "Pakilagay ang halaga.",
+                "MY": "ပမာဏကို ထည့်ပါ။",
+                "HI": "कृपया राशि दर्ज करें.",
+                "AR": "الرجاء إدخال المبلغ.",
+                "FA": "لطفا مبلغ را وارد کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "jumlah uang",
+            "ES": "cantidad de dinero",
+            "VI": "số tiền",
+            "FR": "somme",
+            "NE": "पैसाको मात्रा",
+            "BN": "টাকার পরিমাণ",
+            "ZH": "金额",
+            "KO": "돈의 양",
+            "TL": "dami ng pera",
+            "MY": "ငွေပမာဏ",
+            "HI": "पैसे की राशि",
+            "AR": "مبلغ من المال",
+            "FA": "مقدار پول",
+            "EN": [
+                "amount of money",
+                "sum"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "金額",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
-    }
-  },
-  "kanji_list": [
-    "金",
-    "額"
-  ],
-  "kanji_data": {
-    "金": {
-      "freq_mainichi_shinbun": 53,
-      "grade": 1,
-      "heisig_en": "gold",
-      "jlpt": 5,
-      "kanji": "金",
-      "kun_readings": [
-        "-がね",
-        "かな-",
-        "かね"
-      ],
-      "meanings": [
-        "gold"
-      ],
-      "name_readings": [
-        "かん",
-        "きむ",
-        "こ",
-        "この",
-        "ん"
-      ],
-      "notes": [],
-      "on_readings": [
-        "キン",
-        "コン",
-        "ゴン"
-      ],
-      "stroke_count": 8,
-      "unicode": "91D1"
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "金額",
+                "reading": "きんがく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "amount of money",
+                    "sum"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
     },
-    "額": {
-      "freq_mainichi_shinbun": 407,
-      "grade": 5,
-      "heisig_en": "forehead",
-      "jlpt": 2,
-      "kanji": "額",
-      "kun_readings": [
-        "ひたい"
-      ],
-      "meanings": [
-        "amount",
-        "forehead",
-        "framed picture",
-        "plaque",
-        "sum",
-        "tablet",
-        "volume"
-      ],
-      "name_readings": [
-        "ぬか"
-      ],
-      "notes": [],
-      "on_readings": [
-        "ガク"
-      ],
-      "stroke_count": 18,
-      "unicode": "984D"
+    "kanji_list": [
+        "金",
+        "額"
+    ],
+    "kanji_data": {
+        "金": {
+            "freq_mainichi_shinbun": 53,
+            "grade": 1,
+            "heisig_en": "gold",
+            "jlpt": 5,
+            "kanji": "金",
+            "kun_readings": [
+                "-がね",
+                "かな-",
+                "かね"
+            ],
+            "meanings": [
+                "gold"
+            ],
+            "name_readings": [
+                "かん",
+                "きむ",
+                "こ",
+                "この",
+                "ん"
+            ],
+            "notes": [],
+            "on_readings": [
+                "キン",
+                "コン",
+                "ゴン"
+            ],
+            "stroke_count": 8,
+            "unicode": "91D1"
+        },
+        "額": {
+            "freq_mainichi_shinbun": 407,
+            "grade": 5,
+            "heisig_en": "forehead",
+            "jlpt": 2,
+            "kanji": "額",
+            "kun_readings": [
+                "ひたい"
+            ],
+            "meanings": [
+                "amount",
+                "forehead",
+                "framed picture",
+                "plaque",
+                "sum",
+                "tablet",
+                "volume"
+            ],
+            "name_readings": [
+                "ぬか"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ガク"
+            ],
+            "stroke_count": 18,
+            "unicode": "984D"
+        }
     }
-  }
 }

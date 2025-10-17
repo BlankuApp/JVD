@@ -1,306 +1,317 @@
 {
-  "version": "0.3.0",
-  "word": "一生",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/4149TL1IKFE",
-  "in_db": true,
-  "kanji": "一生",
-  "reading": "いっしょう",
-  "introduction_japanese": "",
-  "introduction_english": "Let's dive into the word we will be focusing on today, \"いっしょう,\" which is frequently used in conversations involving the entirety of one's life and commitments. ",
-  "meanings": [
-    [
-      "whole life",
-      "a lifetime",
-      "all through life",
-      "one existence",
-      "a generation",
-      "an age",
-      "the whole world",
-      "the era"
-    ],
-    [
-      " of one's life"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"いっしょう\" means a lifetime or one's entire life. It covers the entire span of a person's life from birth to death and is often used when talking about the duration of life or lifelong commitments.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "一",
-      "common_words": [
-        "一人: one person",
-        "一度: once"
-      ]
-    },
-    {
-      "kanji": "生",
-      "common_words": [
-        "生活: life",
-        "学生: student"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "生涯 : しょうがい : life"
-  ],
-  "synonym_explanation": "The most common synonyms of the word \"いっしょう\" is \"しょうがい\". Both terms refer to the concept of a lifetime; however, \"しょうがい\" often implies the duration of one's life and includes factors that may affect that period. ",
-  "antonyms": [
-    "一瞬 : いっしゅん : instant"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"いっしょう\" is \"いっしゅん\". While \"いっしょう\" refers to a long period covering a person's life, \"いっしゅん\" denotes a very brief moment or an instant. ",
-  "collocations": [
-    {
-      "kanji": "いっしょうけんめい",
-      "furigana": "いっしょうけんめい",
-      "translations": {}
-    },
-    {
-      "kanji": "いっしょうをおえる",
-      "furigana": "いっしょうをおえる",
-      "translations": {}
-    },
-    {
-      "kanji": "いっしょうをともにする",
-      "furigana": "いっしょうをともにする",
-      "translations": {}
-    },
-    {
-      "kanji": "いっしょうのとも",
-      "furigana": "いっしょうのとも",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "私は一生懸命勉強します。",
-      "furigana": "私(わたし)は一生懸命(いっしょうけんめい)勉強(べんきょう)します。",
-      "translations": {
-        "EN": "I study very hard.",
-        "ID": "Saya belajar dengan sangat serius.",
-        "ES": "Yo estudio con mucho esfuerzo.",
-        "VI": "Tôi học rất chăm chỉ.",
-        "FR": "J'étudie très sérieusement.",
-        "NE": "म धेरै मेहनतसाथ अध्ययन गर्छु।",
-        "BN": "আমি খুব মনোযোগ দিয়ে পড়াশোনা করি।",
-        "ZH": "我很努力地学习。",
-        "KO": "저는 열심히 공부합니다.",
-        "TL": "Nag-aaral ako ng mabuti.",
-        "MY": "ကျွန်ုပ်သည် မျှော်လင့်ချက်ဖြင့် လေ့လာပါမည်။",
-        "HI": "मैं बहुत मेहनत से पढ़ाई करता हूँ।",
-        "AR": "أنا أدرس بجد واجتهاد.",
-        "FA": "من خیلی سخت درس می‌خوانم."
-      }
-    },
-    {
-      "kanji": "彼は庭師として一生を終えました。",
-      "furigana": "彼(かれ)は庭師(にわし)として一生(いっしょう)を終(お)えました。",
-      "translations": {
-        "EN": "He spent his entire life as a gardener.",
-        "ID": "Dia menghabiskan seluruh hidupnya sebagai tukang kebun.",
-        "ES": "Él pasó toda su vida trabajando como jardinero.",
-        "VI": "Anh ấy đã dành cả cuộc đời mình làm người làm vườn.",
-        "FR": "Il a passé toute sa vie comme jardinier.",
-        "NE": "उनी बागवानीको रूपमा जीवनभर बिताए।",
-        "BN": "তিনি তার সারাজীবন একজন মালি হিসাবে কাটিয়েছেন।",
-        "ZH": "他以园丁的身份度过了一生。",
-        "KO": "그는 정원사로서 일생을 마쳤습니다.",
-        "TL": "Ginugol niya ang buong buhay bilang isang hardinero.",
-        "MY": "သူသည် ယာတွေထူတဲ့သူ အဖြစ် သူ့ဘဝတစ်ခုလုံးကို ဖြတ်သန်းခဲ့သည်။",
-        "HI": "उन्होंने अपने पूरे जीवन को एक माली के रूप में बिताया।",
-        "AR": "لقد قضى حياته كلها كَبساتينِيّ.",
-        "FA": "او تمام زندگی‌اش را به عنوان باغبان گذراند."
-      }
-    },
-    {
-      "kanji": "彼らは一生を共にします。",
-      "furigana": "彼(かれ)らは一生(いっしょう)を共(とも)にします。",
-      "translations": {
-        "EN": "They spend their whole lives together.",
-        "ID": "Mereka menghabiskan seluruh hidup mereka bersama.",
-        "ES": "Ellos pasan toda su vida juntos.",
-        "VI": "Họ dành cả cuộc đời bên nhau.",
-        "FR": "Ils passent toute leur vie ensemble.",
-        "NE": "उनीहरूले आफ्नो सारा जीवन सँगै बिताउँछन्।",
-        "BN": "তারা তাদের পুরো জীবন একসাথে কাটায়।",
-        "ZH": "他们共度一生。",
-        "KO": "그들은 평생을 함께 합니다.",
-        "TL": "Magkasama nila ang kanilang buong buhay.",
-        "MY": "သူတို့နှစ်ဦးဟာ ဘဝတစ်ခုလုံး အတူတူ ပြန်လည် ဖြတ်သန်းကြပါတယ်။",
-        "HI": "वे अपना पूरा जीवन एक साथ बिताते हैं।",
-        "AR": "هم يقضون حياتهم كلها معًا.",
-        "FA": "آنها تمام عمرشان را با هم می گذرانند."
-      }
-    },
-    {
-      "kanji": "彼は私の一生の友です。",
-      "furigana": "彼(かれ)は私(わたし)の一生(いっしょう)の友(とも)です。",
-      "translations": {
-        "EN": "He is my lifelong friend.",
-        "ID": "Dia adalah teman seumur hidup saya.",
-        "ES": "Él es mi amigo de toda la vida.",
-        "VI": "Anh ấy là người bạn cả đời của tôi.",
-        "FR": "Il est mon ami de toute une vie.",
-        "NE": "उ उहाँ मेरो जीवनभरको साथी हुनुहुन्छ।",
-        "BN": "সে আমার আজীবন বন্ধু।",
-        "ZH": "他是我一生的朋友。",
-        "KO": "그는 나의 일생일대의 친구입니다.",
-        "TL": "Siya ang aking panghabambuhay na kaibigan.",
-        "MY": "သူက ငါ့ရဲ့ဘဝတစ်လျှောက်လုံးမိတ်ဆွေဖြစ်တယ်။",
-        "HI": "वह मेरे जीवन भर के मित्र हैं।",
-        "AR": "إنه صديق عمري كله.",
-        "FA": "او دوست تمام عمر من است."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "whole life": {
-      "EN": "Whole life",
-      "ID": "Seluruh hidup",
-      "ES": "Toda la vida",
-      "VI": "Cả đời",
-      "FR": "Toute la vie",
-      "NE": "पूरै जीवन",
-      "BN": "সারা জীবন",
-      "ZH": "一生",
-      "KO": "평생",
-      "TL": "Buong buhay",
-      "MY": "တစ်သက်",
-      "HI": "पूरी जिंदगी",
-      "AR": "الحياة كلها",
-      "FA": "تمام زندگی"
-    },
-    " of one's life": {
-      "EN": "of one's life",
-      "ID": "seumur hidup",
-      "ES": "de toda la vida",
-      "VI": "trú suốt cuộc đời",
-      "FR": "de toute sa vie",
-      "NE": "जीवनको हरेक क्षण",
-      "BN": "সারা জীবন",
-      "ZH": "一生的",
-      "KO": "일생 동안",
-      "TL": "habang buhay",
-      "MY": "ဘဝတစ်လျှောက်လုံး",
-      "HI": "जीवन भर",
-      "AR": "في عمر الواحد",
-      "FA": "در تمام مدت زندگی"
-    }
-  },
-  "jisho_data": {
-    "slug": "一生",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "一生",
-        "reading": "いっしょう"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "whole life",
-          "a lifetime",
-          "all through life",
-          "one existence",
-          "a generation",
-          "an age",
-          "the whole world",
-          "the era"
+    "version": "0.3.0",
+    "word": "一生",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/4149TL1IKFE",
+    "in_db": true,
+    "kanji": "一生",
+    "reading": "いっしょう",
+    "introduction_japanese": "",
+    "introduction_english": "Let's dive into the word we will be focusing on today, \"いっしょう,\" which is frequently used in conversations involving the entirety of one's life and commitments. ",
+    "meanings": [
+        [
+            "whole life",
+            "a lifetime",
+            "all through life",
+            "one existence",
+            "a generation",
+            "an age",
+            "the whole world",
+            "the era"
         ],
-        "parts_of_speech": [
-          "Noun, Noun which may take the genitive case particle 'no', Adverb (fukushi)"
-        ],
-        "links": [],
+        [
+            " of one's life"
+        ]
+    ],
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"いっしょう\" means a lifetime or one's entire life. It covers the entire span of a person's life from birth to death and is often used when talking about the duration of life or lifelong commitments.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "一",
+            "common_words": [
+                "一人: one person",
+                "一度: once"
+            ]
+        },
+        {
+            "kanji": "生",
+            "common_words": [
+                "生活: life",
+                "学生: student"
+            ]
+        }
+    ],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "生涯 : しょうがい : life"
+    ],
+    "synonym_explanation": "The most common synonyms of the word \"いっしょう\" is \"しょうがい\". Both terms refer to the concept of a lifetime; however, \"しょうがい\" often implies the duration of one's life and includes factors that may affect that period. ",
+    "antonyms": [
+        "一瞬 : いっしゅん : instant"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"いっしょう\" is \"いっしゅん\". While \"いっしょう\" refers to a long period covering a person's life, \"いっしゅん\" denotes a very brief moment or an instant. ",
+    "collocations": [
+        {
+            "kanji": "いっしょうけんめい",
+            "furigana": "いっしょうけんめい",
+            "translations": {}
+        },
+        {
+            "kanji": "いっしょうをおえる",
+            "furigana": "いっしょうをおえる",
+            "translations": {}
+        },
+        {
+            "kanji": "いっしょうをともにする",
+            "furigana": "いっしょうをともにする",
+            "translations": {}
+        },
+        {
+            "kanji": "いっしょうのとも",
+            "furigana": "いっしょうのとも",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は一生懸命勉強します。",
+            "furigana": "私(わたし)は一生懸命(いっしょうけんめい)勉強(べんきょう)します。",
+            "translations": {
+                "EN": "I study very hard.",
+                "ID": "Saya belajar dengan sangat serius.",
+                "ES": "Yo estudio con mucho esfuerzo.",
+                "VI": "Tôi học rất chăm chỉ.",
+                "FR": "J'étudie très sérieusement.",
+                "NE": "म धेरै मेहनतसाथ अध्ययन गर्छु।",
+                "BN": "আমি খুব মনোযোগ দিয়ে পড়াশোনা করি।",
+                "ZH": "我很努力地学习。",
+                "KO": "저는 열심히 공부합니다.",
+                "TL": "Nag-aaral ako ng mabuti.",
+                "MY": "ကျွန်ုပ်သည် မျှော်လင့်ချက်ဖြင့် လေ့လာပါမည်။",
+                "HI": "मैं बहुत मेहनत से पढ़ाई करता हूँ।",
+                "AR": "أنا أدرس بجد واجتهاد.",
+                "FA": "من خیلی سخت درس می‌خوانم."
+            }
+        },
+        {
+            "kanji": "彼は庭師として一生を終えました。",
+            "furigana": "彼(かれ)は庭師(にわし)として一生(いっしょう)を終(お)えました。",
+            "translations": {
+                "EN": "He spent his entire life as a gardener.",
+                "ID": "Dia menghabiskan seluruh hidupnya sebagai tukang kebun.",
+                "ES": "Él pasó toda su vida trabajando como jardinero.",
+                "VI": "Anh ấy đã dành cả cuộc đời mình làm người làm vườn.",
+                "FR": "Il a passé toute sa vie comme jardinier.",
+                "NE": "उनी बागवानीको रूपमा जीवनभर बिताए।",
+                "BN": "তিনি তার সারাজীবন একজন মালি হিসাবে কাটিয়েছেন।",
+                "ZH": "他以园丁的身份度过了一生。",
+                "KO": "그는 정원사로서 일생을 마쳤습니다.",
+                "TL": "Ginugol niya ang buong buhay bilang isang hardinero.",
+                "MY": "သူသည် ယာတွေထူတဲ့သူ အဖြစ် သူ့ဘဝတစ်ခုလုံးကို ဖြတ်သန်းခဲ့သည်။",
+                "HI": "उन्होंने अपने पूरे जीवन को एक माली के रूप में बिताया।",
+                "AR": "لقد قضى حياته كلها كَبساتينِيّ.",
+                "FA": "او تمام زندگی‌اش را به عنوان باغبان گذراند."
+            }
+        },
+        {
+            "kanji": "彼らは一生を共にします。",
+            "furigana": "彼(かれ)らは一生(いっしょう)を共(とも)にします。",
+            "translations": {
+                "EN": "They spend their whole lives together.",
+                "ID": "Mereka menghabiskan seluruh hidup mereka bersama.",
+                "ES": "Ellos pasan toda su vida juntos.",
+                "VI": "Họ dành cả cuộc đời bên nhau.",
+                "FR": "Ils passent toute leur vie ensemble.",
+                "NE": "उनीहरूले आफ्नो सारा जीवन सँगै बिताउँछन्।",
+                "BN": "তারা তাদের পুরো জীবন একসাথে কাটায়।",
+                "ZH": "他们共度一生。",
+                "KO": "그들은 평생을 함께 합니다.",
+                "TL": "Magkasama nila ang kanilang buong buhay.",
+                "MY": "သူတို့နှစ်ဦးဟာ ဘဝတစ်ခုလုံး အတူတူ ပြန်လည် ဖြတ်သန်းကြပါတယ်။",
+                "HI": "वे अपना पूरा जीवन एक साथ बिताते हैं।",
+                "AR": "هم يقضون حياتهم كلها معًا.",
+                "FA": "آنها تمام عمرشان را با هم می گذرانند."
+            }
+        },
+        {
+            "kanji": "彼は私の一生の友です。",
+            "furigana": "彼(かれ)は私(わたし)の一生(いっしょう)の友(とも)です。",
+            "translations": {
+                "EN": "He is my lifelong friend.",
+                "ID": "Dia adalah teman seumur hidup saya.",
+                "ES": "Él es mi amigo de toda la vida.",
+                "VI": "Anh ấy là người bạn cả đời của tôi.",
+                "FR": "Il est mon ami de toute une vie.",
+                "NE": "उ उहाँ मेरो जीवनभरको साथी हुनुहुन्छ।",
+                "BN": "সে আমার আজীবন বন্ধু।",
+                "ZH": "他是我一生的朋友。",
+                "KO": "그는 나의 일생일대의 친구입니다.",
+                "TL": "Siya ang aking panghabambuhay na kaibigan.",
+                "MY": "သူက ငါ့ရဲ့ဘဝတစ်လျှောက်လုံးမိတ်ဆွေဖြစ်တယ်။",
+                "HI": "वह मेरे जीवन भर के मित्र हैं।",
+                "AR": "إنه صديق عمري كله.",
+                "FA": "او دوست تمام عمر من است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "whole life",
+                "a lifetime",
+                "all through life",
+                "one existence",
+                "a generation",
+                "an age",
+                "the whole world",
+                "the era"
+            ],
+            "ID": "Seluruh hidup",
+            "ES": "Toda la vida",
+            "VI": "Cả đời",
+            "FR": "Toute la vie",
+            "NE": "पूरै जीवन",
+            "BN": "সারা জীবন",
+            "ZH": "一生",
+            "KO": "평생",
+            "TL": "Buong buhay",
+            "MY": "တစ်သက်",
+            "HI": "पूरी जिंदगी",
+            "AR": "الحياة كلها",
+            "FA": "تمام زندگی"
+        },
+        {
+            "EN": [
+                " of one's life"
+            ],
+            "ID": "seumur hidup",
+            "ES": "de toda la vida",
+            "VI": "trú suốt cuộc đời",
+            "FR": "de toute sa vie",
+            "NE": "जीवनको हरेक क्षण",
+            "BN": "সারা জীবন",
+            "ZH": "一生的",
+            "KO": "일생 동안",
+            "TL": "habang buhay",
+            "MY": "ဘဝတစ်လျှောက်လုံး",
+            "HI": "जीवन भर",
+            "AR": "في عمر الواحد",
+            "FA": "در تمام مدت زندگی"
+        }
+    ],
+    "jisho_data": {
+        "slug": "一生",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          " of one's life"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Noun which may take the genitive case particle 'no'"
+        "japanese": [
+            {
+                "word": "一生",
+                "reading": "いっしょう"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "一",
-    "生"
-  ],
-  "kanji_data": {
-    "一": {
-      "meanings": [
-        "one",
-        "one radical (no.1)"
-      ],
-      "on_readings": [
-        "イチ",
-        "イツ"
-      ],
-      "kun_readings": [
-        "ひと-",
-        "ひと.つ"
-      ],
-      "stroke_count": 1,
-      "jlpt": 5,
-      "freq_mainichi_shinbun": 2,
-      "unicode": "4E00",
-      "grade": 1
+        "senses": [
+            {
+                "english_definitions": [
+                    "whole life",
+                    "a lifetime",
+                    "all through life",
+                    "one existence",
+                    "a generation",
+                    "an age",
+                    "the whole world",
+                    "the era"
+                ],
+                "parts_of_speech": [
+                    "Noun, Noun which may take the genitive case particle 'no', Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    " of one's life"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
     },
-    "生": {
-      "meanings": [
-        "birth",
-        "genuine",
-        "life"
-      ],
-      "on_readings": [
-        "ショウ",
-        "セイ"
-      ],
-      "kun_readings": [
-        "-う",
-        "い.かす",
-        "い.きる",
-        "い.ける",
-        "う.まれ",
-        "う.まれる",
-        "う.む",
-        "うま.れる",
-        "うまれ",
-        "お.う",
-        "き",
-        "な.す",
-        "な.る",
-        "なま",
-        "なま-",
-        "は.える",
-        "は.やす",
-        "む.す"
-      ],
-      "stroke_count": 5,
-      "jlpt": 5,
-      "freq_mainichi_shinbun": 29,
-      "unicode": "751F",
-      "grade": 1
+    "kanji_list": [
+        "一",
+        "生"
+    ],
+    "kanji_data": {
+        "一": {
+            "meanings": [
+                "one",
+                "one radical (no.1)"
+            ],
+            "on_readings": [
+                "イチ",
+                "イツ"
+            ],
+            "kun_readings": [
+                "ひと-",
+                "ひと.つ"
+            ],
+            "stroke_count": 1,
+            "jlpt": 5,
+            "freq_mainichi_shinbun": 2,
+            "unicode": "4E00",
+            "grade": 1
+        },
+        "生": {
+            "meanings": [
+                "birth",
+                "genuine",
+                "life"
+            ],
+            "on_readings": [
+                "ショウ",
+                "セイ"
+            ],
+            "kun_readings": [
+                "-う",
+                "い.かす",
+                "い.きる",
+                "い.ける",
+                "う.まれ",
+                "う.まれる",
+                "う.む",
+                "うま.れる",
+                "うまれ",
+                "お.う",
+                "き",
+                "な.す",
+                "な.る",
+                "なま",
+                "なま-",
+                "は.える",
+                "は.やす",
+                "む.す"
+            ],
+            "stroke_count": 5,
+            "jlpt": 5,
+            "freq_mainichi_shinbun": 29,
+            "unicode": "751F",
+            "grade": 1
+        }
     }
-  }
 }

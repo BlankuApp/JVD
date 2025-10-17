@@ -1,594 +1,601 @@
 {
-  "version": "0.3.0",
-  "word": "構う",
-  "jlpt_level": 3,
-  "youtube_link": "https://youtu.be/HcSxp5fy3zY",
-  "in_db": true,
-  "kanji": "構う",
-  "reading": "かまう",
-  "introduction_japanese": "構うは、日常会話で人や動物の世話、相手に注意を向ける場面、または他人との距離や干渉について話すときによく出てくる動詞です。",
-  "introduction_english": "The verb かまう is commonly used in everyday conversations when talking about caring for people or animals, paying attention to someone, or about intervening and relationships with others.",
-  "meanings": [
-    [
-      "to mind",
-      "to care about",
-      "to be concerned about",
-      "to have a regard for"
-    ],
-    [
-      "to be an issue",
-      "to matter",
-      "to create inconvenience"
-    ],
-    [
-      "to keep company",
-      "to care for",
-      "to look after",
-      "to entertain",
-      "to pay attention to",
-      "to spend time with"
-    ],
-    [
-      "to interfere with",
-      "to meddle in"
-    ],
-    [
-      "to tease"
-    ],
-    [
-      "to banish",
-      "to prohibit (archaic)"
-    ]
-  ],
-  "meaning_explanation_japanese": "「かまう」は色々な使い方がある動詞で、誰かを気にかける、世話をする、相手に干渉する、からかうなどの場面で使います。文脈によって「気にする」「世話をする」「干渉する」などの意味になります。",
-  "meaning_explanation_english": "The word かまう has several related uses: it can mean to care about or be concerned, to look after someone, to interfere or meddle, or to tease. Which meaning applies depends on the context.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "構",
-      "common_words": [
-        "構造 (こうぞう): structure",
-        "構成 (こうせい): composition"
-      ],
-      "meanings": [
-        "appearance",
-        "build",
-        "posture",
-        "set up",
-        "stance"
-      ],
-      "on_readings": [
-        "コウ"
-      ],
-      "kun_readings": [
-        "かま.う",
-        "かま.える"
-      ],
-      "stroke_count": 14,
-      "grade": 5,
-      "jlpt": 3
-    }
-  ],
-  "kanji_explanation": "The first kanji means posture, setting up, or arranging things and often gives the sense of building or forming a structure. For example, こうぞう is a word for structure that uses this idea of arrangement. Also こうせい means composition, where the kanji suggests putting parts together to make a whole.",
-  "synonyms": [
-    "気にする : きにする : to worry about; to care about",
-    "干渉する : かんしょうする : to interfere; to meddle"
-  ],
-  "synonym_explanation": "The most common synonyms of the word are きにする and かんしょうする. きにする is closest when かまう means to care about or worry about something. かんしょうする matches the sense of intervening or meddling when かまう is used to describe interference.",
-  "antonyms": [
-    "無視する : むしする : to ignore"
-  ],
-  "antonym_explanation": "The most common antonym of the word is むしする. むしする means to ignore and is the opposite of かまう when you intentionally do not pay attention or do not care.",
-  "collocations": [
-    {
-      "kanji": "気に構う",
-      "furigana": "気に構う",
-      "translations": {}
-    },
-    {
-      "kanji": "あまり構う",
-      "furigana": "あまり構う",
-      "translations": {}
-    },
-    {
-      "kanji": "全く構わない",
-      "furigana": "全く構わない",
-      "translations": {}
-    },
-    {
-      "kanji": "構うまい",
-      "furigana": "構うまい",
-      "translations": {}
-    },
-    {
-      "kanji": "干渉して構う",
-      "furigana": "干渉して構う",
-      "translations": {}
-    },
-    {
-      "kanji": "世話を構う",
-      "furigana": "世話を構う",
-      "translations": {}
-    },
-    {
-      "kanji": "構う人",
-      "furigana": "構う人",
-      "translations": {}
-    },
-    {
-      "kanji": "構う態度",
-      "furigana": "構う態度",
-      "translations": {}
-    },
-    {
-      "kanji": "構う必要",
-      "furigana": "構う必要",
-      "translations": {}
-    },
-    {
-      "kanji": "構う価値",
-      "furigana": "構う価値",
-      "translations": {}
-    },
-    {
-      "kanji": "構う時間",
-      "furigana": "構う時間",
-      "translations": {}
-    },
-    {
-      "kanji": "全然構わない",
-      "furigana": "全然構わない",
-      "translations": {}
-    },
-    {
-      "kanji": "少しも構わない",
-      "furigana": "少しも構わない",
-      "translations": {}
-    },
-    {
-      "kanji": "まったく構わない",
-      "furigana": "まったく構わない",
-      "translations": {}
-    },
-    {
-      "kanji": "決して構うな",
-      "furigana": "決して構うな",
-      "translations": {}
-    },
-    {
-      "kanji": "別に構わない",
-      "furigana": "別に構わない",
-      "translations": {}
-    },
-    {
-      "kanji": "人に構う",
-      "furigana": "人に構う",
-      "translations": {}
-    },
-    {
-      "kanji": "子どもに構う",
-      "furigana": "子どもに構う",
-      "translations": {}
-    },
-    {
-      "kanji": "他人に構う",
-      "furigana": "他人に構う",
-      "translations": {}
-    },
-    {
-      "kanji": "犬に構う",
-      "furigana": "犬に構う",
-      "translations": {}
-    },
-    {
-      "kanji": "存在に構う",
-      "furigana": "存在に構う",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "子どもに構う。",
-      "furigana": "子(こ)どもに構(かま)う。",
-      "translations": {
-        "EN": "Pay attention to the children.",
-        "ID": "Perhatikan anak-anak.",
-        "ES": "Preste atención a los niños.",
-        "VI": "Hãy chú ý đến trẻ em.",
-        "FR": "Faites attention aux enfants.",
-        "NE": "बच्चाहरूलाई ध्यान दिनुहोस्।",
-        "BN": "বাচ্চাদের প্রতি মনোযোগ দিন।",
-        "ZH": "注意孩子们。",
-        "KO": "아이들에게 상관.",
-        "TL": "Bigyang-pansin ang mga bata.",
-        "MY": "ကလေးတွေကို သတိထားပါ။",
-        "HI": "बच्चों पर ध्यान दें.",
-        "AR": "إنتبهوا للأطفال.",
-        "FA": "به بچه‌ها توجه کنید."
-      }
-    },
-    {
-      "kanji": "そんなことは全然構わない。",
-      "furigana": "そんなことは全然(ぜんぜん)構(かま)わない。",
-      "translations": {
-        "EN": "I don't mind that at all.",
-        "ID": "Saya tidak keberatan sama sekali.",
-        "ES": "Eso no me importa en absoluto.",
-        "VI": "Tôi không bận tâm về điều đó chút nào.",
-        "FR": "Cela ne me dérange pas du tout.",
-        "NE": "मलाई त्यसमा पटक्कै आपत्ति छैन।",
-        "BN": "আমার তাতে মোটেও আপত্তি নেই।",
-        "ZH": "我一点也不介意。",
-        "KO": "그런 것은 전혀 상관없다.",
-        "TL": "Wala akong pakialam doon.",
-        "MY": "ငါ အဲဒါကို လုံးဝစိတ်မ၀င်စားဘူး။",
-        "HI": "मुझे इसकी बिल्कुल भी परवाह नहीं है.",
-        "AR": "لا يزعجني ذلك على الإطلاق.",
-        "FA": "من اصلاً از این موضوع ناراحت نمی‌شوم."
-      }
-    },
-    {
-      "kanji": "人に構う必要はない。",
-      "furigana": "人(ひと)に構(かま)う必要(ひつよう)はない。",
-      "translations": {
-        "EN": "There's no need to bother with other people.",
-        "ID": "Tidak perlu repot dengan orang lain.",
-        "ES": "No hay necesidad de molestarse con otras personas.",
-        "VI": "Không cần phải bận tâm đến người khác.",
-        "FR": "Il n’est pas nécessaire de s’embêter avec les autres.",
-        "NE": "अरू मानिसहरूसँग झगडा गर्नु आवश्यक छैन।",
-        "BN": "অন্যদের নিয়ে ঝামেলা করার কোন দরকার নেই।",
-        "ZH": "没必要去打扰别人。",
-        "KO": "사람에 상관할 필요는 없다.",
-        "TL": "Hindi na kailangang mag-abala sa ibang tao.",
-        "MY": "တခြားလူတွေကို နှောက်ယှက်နေစရာ မလိုပါဘူး။",
-        "HI": "अन्य लोगों से परेशान होने की कोई जरूरत नहीं है।",
-        "AR": "ليست هناك حاجة للقلق مع الآخرين.",
-        "FA": "نیازی به زحمت کشیدن برای دیگران نیست."
-      }
-    },
-    {
-      "kanji": "他人に干渉して構うと問題になる。",
-      "furigana": "他人(たにん)に干渉(かんしょう)して構(かま)うと問題(もんだい)になる。",
-      "translations": {
-        "EN": "If you interfere with other people's affairs, it will become a problem.",
-        "ID": "Jika Anda ikut campur dalam urusan orang lain, itu akan menjadi masalah.",
-        "ES": "Si te metes en los asuntos de otras personas, se convertirá en un problema.",
-        "VI": "Nếu bạn can thiệp vào công việc của người khác, điều đó sẽ trở thành vấn đề.",
-        "FR": "Si vous vous mêlez des affaires des autres, cela deviendra un problème.",
-        "NE": "यदि तपाईंले अरूको मामिलामा हस्तक्षेप गर्नुभयो भने, यो समस्या बन्छ।",
-        "BN": "অন্যের ব্যাপারে হস্তক্ষেপ করলে, সমস্যা হয়ে দাঁড়াবে।",
-        "ZH": "如果你干涉别人的事情，那就有问题了。",
-        "KO": "타인에게 간섭해도 문제가 된다.",
-        "TL": "Kung nakikialam ka sa mga gawain ng ibang tao, ito ay magiging isang problema.",
-        "MY": "သူများကိစ္စတွေမှာ ဝင်စွက်ရင် ပြဿနာဖြစ်လာမယ်။",
-        "HI": "यदि आप अन्य लोगों के मामलों में हस्तक्षेप करेंगे तो यह एक समस्या बन जाएगी।",
-        "AR": "إذا تدخلت في شؤون الآخرين، فسيصبح ذلك مشكلة.",
-        "FA": "اگر در کار دیگران دخالت کنید، مشکل‌ساز می‌شود."
-      }
-    },
-    {
-      "kanji": "少しも構わないよ。",
-      "furigana": "少(すこ)しも構(かま)わないよ。",
-      "translations": {
-        "EN": "I don't mind at all.",
-        "ID": "Saya tidak keberatan sama sekali.",
-        "ES": "No me importa en absoluto.",
-        "VI": "Tôi không bận tâm chút nào.",
-        "FR": "Cela ne me dérange pas du tout.",
-        "NE": "मलाई पटक्कै आपत्ति छैन।",
-        "BN": "আমার মোটেও আপত্তি নেই।",
-        "ZH": "我一点也不介意。",
-        "KO": "조금도 상관없어.",
-        "TL": "Wala akong pakialam sa lahat.",
-        "MY": "ငါလုံးဝစိတ်မ၀င်စားဘူး။",
-        "HI": "मुझे बिल्कुल भी आपत्ति नहीं है.",
-        "AR": "لا أمانع على الإطلاق.",
-        "FA": "من اصلاً ایرادی نمی‌گیرم."
-      }
-    },
-    {
-      "kanji": "彼はいつも人をからかって構う。",
-      "furigana": "彼(かれ)はいつも人(ひと)をからかって構(かま)う。",
-      "translations": {
-        "EN": "He is always willing to tease people.",
-        "ID": "Dia selalu ingin menggoda orang.",
-        "ES": "Él siempre está dispuesto a burlarse de la gente.",
-        "VI": "Anh ấy luôn thích trêu chọc mọi người.",
-        "FR": "Il est toujours prêt à taquiner les gens.",
-        "NE": "ऊ सधैं मानिसहरूलाई जिस्क्याउन तयार हुन्छ।",
-        "BN": "সে সবসময় মানুষকে জ্বালাতন করতে ইচ্ছুক।",
-        "ZH": "他总是愿意取笑别人。",
-        "KO": "그는 항상 사람을 놀리는 것입니다.",
-        "TL": "Palagi siyang handang mang-aasar ng mga tao.",
-        "MY": "သူက အမြဲတမ်း လူတွေကို စော်ကားလိုစိတ်ရှိတယ်။",
-        "HI": "वह हमेशा लोगों को चिढ़ाने के लिए तैयार रहता है।",
-        "AR": "إنه مستعد دائمًا لمضايقة الناس.",
-        "FA": "او همیشه آماده است تا مردم را اذیت کند."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to mind": {
-      "ID": "untuk diingat",
-      "ES": "a la mente",
-      "VI": "để tâm trí",
-      "FR": "à l'esprit",
-      "NE": "मनमा राख्नु",
-      "BN": "মনে রাখা",
-      "ZH": "介意",
-      "KO": "마음에",
-      "TL": "sa isip",
-      "MY": "စိတ်ထဲ",
-      "HI": "ध्यान देना",
-      "AR": "إلى العقل",
-      "FA": "به ذهن سپردن",
-      "EN": [
-        "to care about",
-        "to be concerned about",
-        "to have a regard for"
-      ]
-    },
-    "to be an issue": {
-      "ID": "menjadi sebuah masalah",
-      "ES": "ser un problema",
-      "VI": "là một vấn đề",
-      "FR": "être un problème",
-      "NE": "समस्या हुनु",
-      "BN": "সমস্যা হওয়া",
-      "ZH": "成为一个问题",
-      "KO": "문제가 되다",
-      "TL": "para maging isyu",
-      "MY": "ပြဿနာဖြစ်ရန်",
-      "HI": "एक मुद्दा बनना",
-      "AR": "أن تكون قضية",
-      "FA": "مسئله بودن",
-      "EN": [
-        "to matter",
-        "to create inconvenience"
-      ]
-    },
-    "to keep company": {
-      "ID": "untuk menemani",
-      "ES": "para hacer compañía",
-      "VI": "để giữ công ty",
-      "FR": "tenir compagnie",
-      "NE": "संगत गर्नु",
-      "BN": "সঙ্গ রাখা",
-      "ZH": "陪伴",
-      "KO": "동행하다",
-      "TL": "para makasama",
-      "MY": "ကုမ္ပဏီထားရှိရန်",
-      "HI": "साथ निभाने के लिए",
-      "AR": "لمرافقة",
-      "FA": "برای همراهی",
-      "EN": [
-        "to care for",
-        "to look after",
-        "to entertain",
-        "to pay attention to",
-        "to spend time with"
-      ]
-    },
-    "to interfere with": {
-      "ID": "untuk mengganggu",
-      "ES": "interferir con",
-      "VI": "can thiệp vào",
-      "FR": "interférer avec",
-      "NE": "हस्तक्षेप गर्नु",
-      "BN": "হস্তক্ষেপ করা",
-      "ZH": "干扰",
-      "KO": "방해하다",
-      "TL": "para makialam",
-      "MY": "နှောင့်ယှက်ရန်",
-      "HI": "हस्तक्षेप करना",
-      "AR": "للتدخل في",
-      "FA": "دخالت کردن",
-      "EN": [
-        "to meddle in"
-      ]
-    },
-    "to tease": {
-      "ID": "untuk menggoda",
-      "ES": "Bromear",
-      "VI": "trêu chọc",
-      "FR": "taquiner",
-      "NE": "जिस्क्याउनु",
-      "BN": "জ্বালাতন করা",
-      "ZH": "取笑",
-      "KO": "놀리다",
-      "TL": "para mang-asar",
-      "MY": "ကျီစားရန်",
-      "HI": "चिढ़ाने के लिए",
-      "AR": "للمضايقة",
-      "FA": "طعنه زدن",
-      "EN": []
-    },
-    "to banish": {
-      "ID": "untuk mengusir",
-      "ES": "desterrar",
-      "VI": "trục xuất",
-      "FR": "bannir",
-      "NE": "देश निकाला गर्नु",
-      "BN": "তাড়িয়ে দেওয়া",
-      "ZH": "放逐",
-      "KO": "추방하다",
-      "TL": "upang palayasin",
-      "MY": "နှင်ထုတ်ရန်",
-      "HI": "निकाल देना",
-      "AR": "لنفي",
-      "FA": "تبعید کردن",
-      "EN": [
-        "to prohibit (archaic)"
-      ]
-    }
-  },
-  "jisho_data": {
-    "slug": "構う",
-    "is_common": true,
-    "tags": [
-      "wanikani25"
-    ],
-    "jlpt": [
-      "jlpt-n3"
-    ],
-    "japanese": [
-      {
-        "word": "構う",
-        "reading": "かまう"
-      }
-    ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to mind",
-          "to care about",
-          "to be concerned about",
-          "to have a regard for"
+    "version": "0.3.0",
+    "word": "構う",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/HcSxp5fy3zY",
+    "in_db": true,
+    "kanji": "構う",
+    "reading": "かまう",
+    "introduction_japanese": "構うは、日常会話で人や動物の世話、相手に注意を向ける場面、または他人との距離や干渉について話すときによく出てくる動詞です。",
+    "introduction_english": "The verb かまう is commonly used in everyday conversations when talking about caring for people or animals, paying attention to someone, or about intervening and relationships with others.",
+    "meanings": [
+        [
+            "to mind",
+            "to care about",
+            "to be concerned about",
+            "to have a regard for"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'u' ending",
-          "Intransitive verb"
+        [
+            "to be an issue",
+            "to matter",
+            "to create inconvenience"
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [
-          "構わない"
+        [
+            "to keep company",
+            "to care for",
+            "to look after",
+            "to entertain",
+            "to pay attention to",
+            "to spend time with"
         ],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to be an issue",
-          "to matter",
-          "to create inconvenience"
+        [
+            "to interfere with",
+            "to meddle in"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'u' ending",
-          "Intransitive verb"
+        [
+            "to tease"
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to keep company",
-          "to care for",
-          "to look after",
-          "to entertain",
-          "to pay attention to",
-          "to spend time with"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'u' ending"
-        ],
-        "links": [],
+        [
+            "to banish",
+            "to prohibit (archaic)"
+        ]
+    ],
+    "meaning_explanation_japanese": "「かまう」は色々な使い方がある動詞で、誰かを気にかける、世話をする、相手に干渉する、からかうなどの場面で使います。文脈によって「気にする」「世話をする」「干渉する」などの意味になります。",
+    "meaning_explanation_english": "The word かまう has several related uses: it can mean to care about or be concerned, to look after someone, to interfere or meddle, or to tease. Which meaning applies depends on the context.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "構",
+            "common_words": [
+                "構造 (こうぞう): structure",
+                "構成 (こうせい): composition"
+            ],
+            "meanings": [
+                "appearance",
+                "build",
+                "posture",
+                "set up",
+                "stance"
+            ],
+            "on_readings": [
+                "コウ"
+            ],
+            "kun_readings": [
+                "かま.う",
+                "かま.える"
+            ],
+            "stroke_count": 14,
+            "grade": 5,
+            "jlpt": 3
+        }
+    ],
+    "kanji_explanation": "The first kanji means posture, setting up, or arranging things and often gives the sense of building or forming a structure. For example, こうぞう is a word for structure that uses this idea of arrangement. Also こうせい means composition, where the kanji suggests putting parts together to make a whole.",
+    "synonyms": [
+        "気にする : きにする : to worry about; to care about",
+        "干渉する : かんしょうする : to interfere; to meddle"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are きにする and かんしょうする. きにする is closest when かまう means to care about or worry about something. かんしょうする matches the sense of intervening or meddling when かまう is used to describe interference.",
+    "antonyms": [
+        "無視する : むしする : to ignore"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むしする. むしする means to ignore and is the opposite of かまう when you intentionally do not pay attention or do not care.",
+    "collocations": [
+        {
+            "kanji": "気に構う",
+            "furigana": "気に構う",
+            "translations": {}
+        },
+        {
+            "kanji": "あまり構う",
+            "furigana": "あまり構う",
+            "translations": {}
+        },
+        {
+            "kanji": "全く構わない",
+            "furigana": "全く構わない",
+            "translations": {}
+        },
+        {
+            "kanji": "構うまい",
+            "furigana": "構うまい",
+            "translations": {}
+        },
+        {
+            "kanji": "干渉して構う",
+            "furigana": "干渉して構う",
+            "translations": {}
+        },
+        {
+            "kanji": "世話を構う",
+            "furigana": "世話を構う",
+            "translations": {}
+        },
+        {
+            "kanji": "構う人",
+            "furigana": "構う人",
+            "translations": {}
+        },
+        {
+            "kanji": "構う態度",
+            "furigana": "構う態度",
+            "translations": {}
+        },
+        {
+            "kanji": "構う必要",
+            "furigana": "構う必要",
+            "translations": {}
+        },
+        {
+            "kanji": "構う価値",
+            "furigana": "構う価値",
+            "translations": {}
+        },
+        {
+            "kanji": "構う時間",
+            "furigana": "構う時間",
+            "translations": {}
+        },
+        {
+            "kanji": "全然構わない",
+            "furigana": "全然構わない",
+            "translations": {}
+        },
+        {
+            "kanji": "少しも構わない",
+            "furigana": "少しも構わない",
+            "translations": {}
+        },
+        {
+            "kanji": "まったく構わない",
+            "furigana": "まったく構わない",
+            "translations": {}
+        },
+        {
+            "kanji": "決して構うな",
+            "furigana": "決して構うな",
+            "translations": {}
+        },
+        {
+            "kanji": "別に構わない",
+            "furigana": "別に構わない",
+            "translations": {}
+        },
+        {
+            "kanji": "人に構う",
+            "furigana": "人に構う",
+            "translations": {}
+        },
+        {
+            "kanji": "子どもに構う",
+            "furigana": "子どもに構う",
+            "translations": {}
+        },
+        {
+            "kanji": "他人に構う",
+            "furigana": "他人に構う",
+            "translations": {}
+        },
+        {
+            "kanji": "犬に構う",
+            "furigana": "犬に構う",
+            "translations": {}
+        },
+        {
+            "kanji": "存在に構う",
+            "furigana": "存在に構う",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "子どもに構う。",
+            "furigana": "子(こ)どもに構(かま)う。",
+            "translations": {
+                "EN": "Pay attention to the children.",
+                "ID": "Perhatikan anak-anak.",
+                "ES": "Preste atención a los niños.",
+                "VI": "Hãy chú ý đến trẻ em.",
+                "FR": "Faites attention aux enfants.",
+                "NE": "बच्चाहरूलाई ध्यान दिनुहोस्।",
+                "BN": "বাচ্চাদের প্রতি মনোযোগ দিন।",
+                "ZH": "注意孩子们。",
+                "KO": "아이들에게 상관.",
+                "TL": "Bigyang-pansin ang mga bata.",
+                "MY": "ကလေးတွေကို သတိထားပါ။",
+                "HI": "बच्चों पर ध्यान दें.",
+                "AR": "إنتبهوا للأطفال.",
+                "FA": "به بچه‌ها توجه کنید."
+            }
+        },
+        {
+            "kanji": "そんなことは全然構わない。",
+            "furigana": "そんなことは全然(ぜんぜん)構(かま)わない。",
+            "translations": {
+                "EN": "I don't mind that at all.",
+                "ID": "Saya tidak keberatan sama sekali.",
+                "ES": "Eso no me importa en absoluto.",
+                "VI": "Tôi không bận tâm về điều đó chút nào.",
+                "FR": "Cela ne me dérange pas du tout.",
+                "NE": "मलाई त्यसमा पटक्कै आपत्ति छैन।",
+                "BN": "আমার তাতে মোটেও আপত্তি নেই।",
+                "ZH": "我一点也不介意。",
+                "KO": "그런 것은 전혀 상관없다.",
+                "TL": "Wala akong pakialam doon.",
+                "MY": "ငါ အဲဒါကို လုံးဝစိတ်မ၀င်စားဘူး။",
+                "HI": "मुझे इसकी बिल्कुल भी परवाह नहीं है.",
+                "AR": "لا يزعجني ذلك على الإطلاق.",
+                "FA": "من اصلاً از این موضوع ناراحت نمی‌شوم."
+            }
+        },
+        {
+            "kanji": "人に構う必要はない。",
+            "furigana": "人(ひと)に構(かま)う必要(ひつよう)はない。",
+            "translations": {
+                "EN": "There's no need to bother with other people.",
+                "ID": "Tidak perlu repot dengan orang lain.",
+                "ES": "No hay necesidad de molestarse con otras personas.",
+                "VI": "Không cần phải bận tâm đến người khác.",
+                "FR": "Il n’est pas nécessaire de s’embêter avec les autres.",
+                "NE": "अरू मानिसहरूसँग झगडा गर्नु आवश्यक छैन।",
+                "BN": "অন্যদের নিয়ে ঝামেলা করার কোন দরকার নেই।",
+                "ZH": "没必要去打扰别人。",
+                "KO": "사람에 상관할 필요는 없다.",
+                "TL": "Hindi na kailangang mag-abala sa ibang tao.",
+                "MY": "တခြားလူတွေကို နှောက်ယှက်နေစရာ မလိုပါဘူး။",
+                "HI": "अन्य लोगों से परेशान होने की कोई जरूरत नहीं है।",
+                "AR": "ليست هناك حاجة للقلق مع الآخرين.",
+                "FA": "نیازی به زحمت کشیدن برای دیگران نیست."
+            }
+        },
+        {
+            "kanji": "他人に干渉して構うと問題になる。",
+            "furigana": "他人(たにん)に干渉(かんしょう)して構(かま)うと問題(もんだい)になる。",
+            "translations": {
+                "EN": "If you interfere with other people's affairs, it will become a problem.",
+                "ID": "Jika Anda ikut campur dalam urusan orang lain, itu akan menjadi masalah.",
+                "ES": "Si te metes en los asuntos de otras personas, se convertirá en un problema.",
+                "VI": "Nếu bạn can thiệp vào công việc của người khác, điều đó sẽ trở thành vấn đề.",
+                "FR": "Si vous vous mêlez des affaires des autres, cela deviendra un problème.",
+                "NE": "यदि तपाईंले अरूको मामिलामा हस्तक्षेप गर्नुभयो भने, यो समस्या बन्छ।",
+                "BN": "অন্যের ব্যাপারে হস্তক্ষেপ করলে, সমস্যা হয়ে দাঁড়াবে।",
+                "ZH": "如果你干涉别人的事情，那就有问题了。",
+                "KO": "타인에게 간섭해도 문제가 된다.",
+                "TL": "Kung nakikialam ka sa mga gawain ng ibang tao, ito ay magiging isang problema.",
+                "MY": "သူများကိစ္စတွေမှာ ဝင်စွက်ရင် ပြဿနာဖြစ်လာမယ်။",
+                "HI": "यदि आप अन्य लोगों के मामलों में हस्तक्षेप करेंगे तो यह एक समस्या बन जाएगी।",
+                "AR": "إذا تدخلت في شؤون الآخرين، فسيصبح ذلك مشكلة.",
+                "FA": "اگر در کار دیگران دخالت کنید، مشکل‌ساز می‌شود."
+            }
+        },
+        {
+            "kanji": "少しも構わないよ。",
+            "furigana": "少(すこ)しも構(かま)わないよ。",
+            "translations": {
+                "EN": "I don't mind at all.",
+                "ID": "Saya tidak keberatan sama sekali.",
+                "ES": "No me importa en absoluto.",
+                "VI": "Tôi không bận tâm chút nào.",
+                "FR": "Cela ne me dérange pas du tout.",
+                "NE": "मलाई पटक्कै आपत्ति छैन।",
+                "BN": "আমার মোটেও আপত্তি নেই।",
+                "ZH": "我一点也不介意。",
+                "KO": "조금도 상관없어.",
+                "TL": "Wala akong pakialam sa lahat.",
+                "MY": "ငါလုံးဝစိတ်မ၀င်စားဘူး။",
+                "HI": "मुझे बिल्कुल भी आपत्ति नहीं है.",
+                "AR": "لا أمانع على الإطلاق.",
+                "FA": "من اصلاً ایرادی نمی‌گیرم."
+            }
+        },
+        {
+            "kanji": "彼はいつも人をからかって構う。",
+            "furigana": "彼(かれ)はいつも人(ひと)をからかって構(かま)う。",
+            "translations": {
+                "EN": "He is always willing to tease people.",
+                "ID": "Dia selalu ingin menggoda orang.",
+                "ES": "Él siempre está dispuesto a burlarse de la gente.",
+                "VI": "Anh ấy luôn thích trêu chọc mọi người.",
+                "FR": "Il est toujours prêt à taquiner les gens.",
+                "NE": "ऊ सधैं मानिसहरूलाई जिस्क्याउन तयार हुन्छ।",
+                "BN": "সে সবসময় মানুষকে জ্বালাতন করতে ইচ্ছুক।",
+                "ZH": "他总是愿意取笑别人。",
+                "KO": "그는 항상 사람을 놀리는 것입니다.",
+                "TL": "Palagi siyang handang mang-aasar ng mga tao.",
+                "MY": "သူက အမြဲတမ်း လူတွေကို စော်ကားလိုစိတ်ရှိတယ်။",
+                "HI": "वह हमेशा लोगों को चिढ़ाने के लिए तैयार रहता है।",
+                "AR": "إنه مستعد دائمًا لمضايقة الناس.",
+                "FA": "او همیشه آماده است تا مردم را اذیت کند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "untuk diingat",
+            "ES": "a la mente",
+            "VI": "để tâm trí",
+            "FR": "à l'esprit",
+            "NE": "मनमा राख्नु",
+            "BN": "মনে রাখা",
+            "ZH": "介意",
+            "KO": "마음에",
+            "TL": "sa isip",
+            "MY": "စိတ်ထဲ",
+            "HI": "ध्यान देना",
+            "AR": "إلى العقل",
+            "FA": "به ذهن سپردن",
+            "EN": [
+                "to mind",
+                "to care about",
+                "to be concerned about",
+                "to have a regard for"
+            ]
+        },
+        {
+            "ID": "menjadi sebuah masalah",
+            "ES": "ser un problema",
+            "VI": "là một vấn đề",
+            "FR": "être un problème",
+            "NE": "समस्या हुनु",
+            "BN": "সমস্যা হওয়া",
+            "ZH": "成为一个问题",
+            "KO": "문제가 되다",
+            "TL": "para maging isyu",
+            "MY": "ပြဿနာဖြစ်ရန်",
+            "HI": "एक मुद्दा बनना",
+            "AR": "أن تكون قضية",
+            "FA": "مسئله بودن",
+            "EN": [
+                "to be an issue",
+                "to matter",
+                "to create inconvenience"
+            ]
+        },
+        {
+            "ID": "untuk menemani",
+            "ES": "para hacer compañía",
+            "VI": "để giữ công ty",
+            "FR": "tenir compagnie",
+            "NE": "संगत गर्नु",
+            "BN": "সঙ্গ রাখা",
+            "ZH": "陪伴",
+            "KO": "동행하다",
+            "TL": "para makasama",
+            "MY": "ကုမ္ပဏီထားရှိရန်",
+            "HI": "साथ निभाने के लिए",
+            "AR": "لمرافقة",
+            "FA": "برای همراهی",
+            "EN": [
+                "to keep company",
+                "to care for",
+                "to look after",
+                "to entertain",
+                "to pay attention to",
+                "to spend time with"
+            ]
+        },
+        {
+            "ID": "untuk mengganggu",
+            "ES": "interferir con",
+            "VI": "can thiệp vào",
+            "FR": "interférer avec",
+            "NE": "हस्तक्षेप गर्नु",
+            "BN": "হস্তক্ষেপ করা",
+            "ZH": "干扰",
+            "KO": "방해하다",
+            "TL": "para makialam",
+            "MY": "နှောင့်ယှက်ရန်",
+            "HI": "हस्तक्षेप करना",
+            "AR": "للتدخل في",
+            "FA": "دخالت کردن",
+            "EN": [
+                "to interfere with",
+                "to meddle in"
+            ]
+        },
+        {
+            "ID": "untuk menggoda",
+            "ES": "Bromear",
+            "VI": "trêu chọc",
+            "FR": "taquiner",
+            "NE": "जिस्क्याउनु",
+            "BN": "জ্বালাতন করা",
+            "ZH": "取笑",
+            "KO": "놀리다",
+            "TL": "para mang-asar",
+            "MY": "ကျီစားရန်",
+            "HI": "चिढ़ाने के लिए",
+            "AR": "للمضايقة",
+            "FA": "طعنه زدن",
+            "EN": [
+                "to tease"
+            ]
+        },
+        {
+            "ID": "untuk mengusir",
+            "ES": "desterrar",
+            "VI": "trục xuất",
+            "FR": "bannir",
+            "NE": "देश निकाला गर्नु",
+            "BN": "তাড়িয়ে দেওয়া",
+            "ZH": "放逐",
+            "KO": "추방하다",
+            "TL": "upang palayasin",
+            "MY": "နှင်ထုတ်ရန်",
+            "HI": "निकाल देना",
+            "AR": "لنفي",
+            "FA": "تبعید کردن",
+            "EN": [
+                "to banish",
+                "to prohibit (archaic)"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "構う",
+        "is_common": true,
         "tags": [
-          "Usually written using kana alone"
+            "wanikani25"
         ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to interfere with",
-          "to meddle in"
+        "jlpt": [
+            "jlpt-n3"
         ],
-        "parts_of_speech": [
-          "Godan verb with 'u' ending",
-          "Intransitive verb"
+        "japanese": [
+            {
+                "word": "構う",
+                "reading": "かまう"
+            }
         ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to tease"
+        "senses": [
+            {
+                "english_definitions": [
+                    "to mind",
+                    "to care about",
+                    "to be concerned about",
+                    "to have a regard for"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "構わない"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be an issue",
+                    "to matter",
+                    "to create inconvenience"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to keep company",
+                    "to care for",
+                    "to look after",
+                    "to entertain",
+                    "to pay attention to",
+                    "to spend time with"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to interfere with",
+                    "to meddle in"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to tease"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to banish",
+                    "to prohibit"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Archaic"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
         ],
-        "parts_of_speech": [
-          "Godan verb with 'u' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      },
-      {
-        "english_definitions": [
-          "to banish",
-          "to prohibit"
-        ],
-        "parts_of_speech": [
-          "Godan verb with 'u' ending",
-          "Transitive verb"
-        ],
-        "links": [],
-        "tags": [
-          "Archaic"
-        ],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "構"
     ],
-    "attribution": {
-      "jmdict": true,
-      "jmnedict": false,
-      "dbpedia": false
+    "kanji_data": {
+        "構": {
+            "freq_mainichi_shinbun": 316,
+            "grade": 5,
+            "heisig_en": "posture",
+            "jlpt": 3,
+            "kanji": "構",
+            "kun_readings": [
+                "かま.う",
+                "かま.える"
+            ],
+            "meanings": [
+                "appearance",
+                "build",
+                "posture",
+                "set up",
+                "stance"
+            ],
+            "name_readings": [
+                "とち"
+            ],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 14,
+            "unicode": "69CB"
+        }
     }
-  },
-  "kanji_list": [
-    "構"
-  ],
-  "kanji_data": {
-    "構": {
-      "freq_mainichi_shinbun": 316,
-      "grade": 5,
-      "heisig_en": "posture",
-      "jlpt": 3,
-      "kanji": "構",
-      "kun_readings": [
-        "かま.う",
-        "かま.える"
-      ],
-      "meanings": [
-        "appearance",
-        "build",
-        "posture",
-        "set up",
-        "stance"
-      ],
-      "name_readings": [
-        "とち"
-      ],
-      "notes": [],
-      "on_readings": [
-        "コウ"
-      ],
-      "stroke_count": 14,
-      "unicode": "69CB"
-    }
-  }
 }

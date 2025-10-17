@@ -1,221 +1,225 @@
 {
-  "version": "0.3.0",
-  "word": "訪ねる",
-  "jlpt_level": 4,
-  "youtube_link": "https://youtu.be/2hFQiW0iVpw",
-  "in_db": true,
-  "kanji": "訪ねる",
-  "reading": "たずねる",
-  "introduction_japanese": "",
-  "introduction_english": "Today's Japanese word is \"たずねる,\" which you'll often hear when people are talking about visiting someone's home or asking about something specific. ",
-  "meanings": [
-    [
-      "to visit",
-      "to call on",
-      "to pay a visit to"
-    ]
-  ],
-  "meaning_explanation_japanese": "",
-  "meaning_explanation_english": "The word \"たずねる\" means \"to visit\" or \"to inquire\" in English. It can be used when you are going to someone's place or when you are asking someone for information.",
-  "youtube_description": "",
-  "kanji_details": [
-    {
-      "kanji": "訪",
-      "common_words": [
-        "訪問: call",
-        "訪れる: to visit"
-      ]
-    }
-  ],
-  "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
-  "synonyms": [
-    "訪問 : ほうもん : call",
-    "質問 : しつもん : question"
-  ],
-  "synonym_explanation": "The most common synonyms for the word \"たずねる\" are \"ほうもん\" and \"しつもん\". \"ほうもん\" is similar in context of visiting someone, while \"しつもん\" aligns more with inquiring or asking questions about something specific.",
-  "antonyms": [
-    "無視 : むし : disregarding"
-  ],
-  "antonym_explanation": "The most common antonym of the word \"たずねる\" is \"むし\" which means \"to ignore\". While \"たずねる\" involves actively visiting or asking, \"むし\" describes a lack of attention or engagement.",
-  "collocations": [
-    {
-      "kanji": "たずねることにする",
-      "furigana": "たずねることにする",
-      "translations": {}
-    },
-    {
-      "kanji": "友達をたずねる",
-      "furigana": "友達をたずねる",
-      "translations": {}
-    },
-    {
-      "kanji": "先生にたずねる",
-      "furigana": "先生にたずねる",
-      "translations": {}
-    },
-    {
-      "kanji": "たずねてみる",
-      "furigana": "たずねてみる",
-      "translations": {}
-    }
-  ],
-  "example_sentences": [
-    {
-      "kanji": "彼は友達の家を訪ねることにしました。",
-      "furigana": "彼(かれ)は友達(ともだち)の家(いえ)を訪(たず)ねることにしました。",
-      "translations": {
-        "EN": "He decided to visit his friend's house.",
-        "ID": "Dia memutuskan untuk mengunjungi rumah temannya.",
-        "ES": "Él decidió visitar la casa de su amigo.",
-        "VI": "Anh ấy quyết định đến thăm nhà bạn của mình.",
-        "FR": "Il a décidé de rendre visite à la maison de son ami.",
-        "NE": "उनी साथीको घर जाने निर्णय गरे।",
-        "BN": "সে তার বন্ধুর বাড়িতে যাওয়ার সিদ্ধান্ত নিয়েছে।",
-        "ZH": "他决定去拜访他朋友的家。",
-        "KO": "그는 친구의 집을 방문하기로 했습니다.",
-        "TL": "Nagpasya siyang bumisita sa bahay ng kaibigan niya.",
-        "MY": "သူဟာ သူငယ်ချင်းအိမ်ကို သွားလုပ်ကြံရမယ်လို့ ဆုံးဖြတ်ခဲ့ပါတယ်။",
-        "HI": "उसने अपने दोस्त के घर जाने का फैसला किया।",
-        "AR": "قرر زيارة منزل صديقه.",
-        "FA": "او تصمیم گرفت که به خانه دوستش برود."
-      }
-    },
-    {
-      "kanji": "友達を訪ねる。",
-      "furigana": "友達(ともだち)を訪(たず)ねる。",
-      "translations": {
-        "EN": "I visit a friend.",
-        "ID": "Saya mengunjungi teman.",
-        "ES": "Visito a un amigo.",
-        "VI": "Tôi đến thăm bạn bè.",
-        "FR": "Je rends visite à un ami.",
-        "NE": "म साथीलाई भेट्न जान्छु।",
-        "BN": "আমি একজন বন্ধুর সাথে দেখা করতে যাই।",
-        "ZH": "我拜访朋友。",
-        "KO": "친구를 방문하다.",
-        "TL": "Binibisita ko ang kaibigan.",
-        "MY": "ငါ သူငယ်ချင်းကို လည်ကြတယ်။",
-        "HI": "मैं एक दोस्त से मिलने जाता हूँ।",
-        "AR": "أزور صديقًا.",
-        "FA": "دوستی را ملاقات می‌کنم."
-      }
-    },
-    {
-      "kanji": "私は先生に訪ねる。",
-      "furigana": "私(わたし)は先生(せんせい)に訪(たず)ねる。",
-      "translations": {
-        "EN": "I ask the teacher.",
-        "ID": "Saya bertanya kepada guru.",
-        "ES": "Le pregunto al profesor.",
-        "VI": "Tôi hỏi thầy.",
-        "FR": "Je pose la question au professeur.",
-        "NE": "म शिक्षकसँग सोध्छु।",
-        "BN": "আমি শিক্ষকের কাছে জিজ্ঞেস করি।",
-        "ZH": "我问老师。",
-        "KO": "나는 선생님에게 물어본다.",
-        "TL": "Nag-tanong ako sa guro.",
-        "MY": "ကျွန်တော် ဘာသာပြန်ဆရာကို မေးတယ်။",
-        "HI": "मैं शिक्षक से पूछता हूँ।",
-        "AR": "أسأل المعلم.",
-        "FA": "من از معلم سؤال می‌کنم."
-      }
-    },
-    {
-      "kanji": "先生を訪ねてみる。",
-      "furigana": "先生(せんせい)を訪(たず)ねてみる。",
-      "translations": {
-        "EN": "I will try to visit the teacher.",
-        "ID": "Saya akan mencoba mengunjungi guru.",
-        "ES": "Voy a intentar visitar al profesor.",
-        "VI": "Tôi sẽ thử thăm giáo viên.",
-        "FR": "Je vais essayer de rendre visite au professeur.",
-        "NE": "म शिक्षकलाई भेट्न प्रयास गर्दैछु।",
-        "BN": "আমি শিক্ষককে দেখতে চেষ্টা করব।",
-        "ZH": "我会试着拜访老师。",
-        "KO": "선생님을 찾아가 보겠다.",
-        "TL": "Susubukan kong bisitahin ang guro.",
-        "MY": "ကျွန်ုပ်ဆရာထံသွားကြည့်ပါမည်။",
-        "HI": "मैं अध्यापक से मिलने की कोशिश करूंगा।",
-        "AR": "سأحاول زيارة المعلم.",
-        "FA": "سعی می‌کنم به معلم سر بزنم."
-      }
-    }
-  ],
-  "meanings_translations": {
-    "to visit": {
-      "EN": "to visit",
-      "ID": "mengunjungi",
-      "ES": "visitar",
-      "VI": "thăm",
-      "FR": "visiter",
-      "NE": "भ्रमण गर्नु",
-      "BN": "পরিদর্শন করা",
-      "ZH": "访问",
-      "KO": "방문하다",
-      "TL": "bumisita",
-      "MY": "လိုက်လံခြင်း",
-      "HI": "मुलाकात करना",
-      "AR": "زيارة",
-      "FA": "بازدید کردن"
-    }
-  },
-  "jisho_data": {
-    "slug": "訪ねる",
-    "is_common": true,
-    "tags": [],
-    "jlpt": [
-      "jlpt-n4"
+    "version": "0.3.0",
+    "word": "訪ねる",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/2hFQiW0iVpw",
+    "in_db": true,
+    "kanji": "訪ねる",
+    "reading": "たずねる",
+    "introduction_japanese": "",
+    "introduction_english": "Today's Japanese word is \"たずねる,\" which you'll often hear when people are talking about visiting someone's home or asking about something specific. ",
+    "meanings": [
+        [
+            "to visit",
+            "to call on",
+            "to pay a visit to"
+        ]
     ],
-    "japanese": [
-      {
-        "word": "訪ねる",
-        "reading": "たずねる"
-      }
+    "meaning_explanation_japanese": "",
+    "meaning_explanation_english": "The word \"たずねる\" means \"to visit\" or \"to inquire\" in English. It can be used when you are going to someone's place or when you are asking someone for information.",
+    "youtube_description": "",
+    "kanji_details": [
+        {
+            "kanji": "訪",
+            "common_words": [
+                "訪問: call",
+                "訪れる: to visit"
+            ]
+        }
     ],
-    "senses": [
-      {
-        "english_definitions": [
-          "to visit",
-          "to call on",
-          "to pay a visit to"
-        ],
-        "parts_of_speech": [
-          "Ichidan verb, Transitive verb"
-        ],
-        "links": [],
+    "kanji_explanation": "This word is usually written in kana, so there are no kanji to explain.",
+    "synonyms": [
+        "訪問 : ほうもん : call",
+        "質問 : しつもん : question"
+    ],
+    "synonym_explanation": "The most common synonyms for the word \"たずねる\" are \"ほうもん\" and \"しつもん\". \"ほうもん\" is similar in context of visiting someone, while \"しつもん\" aligns more with inquiring or asking questions about something specific.",
+    "antonyms": [
+        "無視 : むし : disregarding"
+    ],
+    "antonym_explanation": "The most common antonym of the word \"たずねる\" is \"むし\" which means \"to ignore\". While \"たずねる\" involves actively visiting or asking, \"むし\" describes a lack of attention or engagement.",
+    "collocations": [
+        {
+            "kanji": "たずねることにする",
+            "furigana": "たずねることにする",
+            "translations": {}
+        },
+        {
+            "kanji": "友達をたずねる",
+            "furigana": "友達をたずねる",
+            "translations": {}
+        },
+        {
+            "kanji": "先生にたずねる",
+            "furigana": "先生にたずねる",
+            "translations": {}
+        },
+        {
+            "kanji": "たずねてみる",
+            "furigana": "たずねてみる",
+            "translations": {}
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "彼は友達の家を訪ねることにしました。",
+            "furigana": "彼(かれ)は友達(ともだち)の家(いえ)を訪(たず)ねることにしました。",
+            "translations": {
+                "EN": "He decided to visit his friend's house.",
+                "ID": "Dia memutuskan untuk mengunjungi rumah temannya.",
+                "ES": "Él decidió visitar la casa de su amigo.",
+                "VI": "Anh ấy quyết định đến thăm nhà bạn của mình.",
+                "FR": "Il a décidé de rendre visite à la maison de son ami.",
+                "NE": "उनी साथीको घर जाने निर्णय गरे।",
+                "BN": "সে তার বন্ধুর বাড়িতে যাওয়ার সিদ্ধান্ত নিয়েছে।",
+                "ZH": "他决定去拜访他朋友的家。",
+                "KO": "그는 친구의 집을 방문하기로 했습니다.",
+                "TL": "Nagpasya siyang bumisita sa bahay ng kaibigan niya.",
+                "MY": "သူဟာ သူငယ်ချင်းအိမ်ကို သွားလုပ်ကြံရမယ်လို့ ဆုံးဖြတ်ခဲ့ပါတယ်။",
+                "HI": "उसने अपने दोस्त के घर जाने का फैसला किया।",
+                "AR": "قرر زيارة منزل صديقه.",
+                "FA": "او تصمیم گرفت که به خانه دوستش برود."
+            }
+        },
+        {
+            "kanji": "友達を訪ねる。",
+            "furigana": "友達(ともだち)を訪(たず)ねる。",
+            "translations": {
+                "EN": "I visit a friend.",
+                "ID": "Saya mengunjungi teman.",
+                "ES": "Visito a un amigo.",
+                "VI": "Tôi đến thăm bạn bè.",
+                "FR": "Je rends visite à un ami.",
+                "NE": "म साथीलाई भेट्न जान्छु।",
+                "BN": "আমি একজন বন্ধুর সাথে দেখা করতে যাই।",
+                "ZH": "我拜访朋友。",
+                "KO": "친구를 방문하다.",
+                "TL": "Binibisita ko ang kaibigan.",
+                "MY": "ငါ သူငယ်ချင်းကို လည်ကြတယ်။",
+                "HI": "मैं एक दोस्त से मिलने जाता हूँ।",
+                "AR": "أزور صديقًا.",
+                "FA": "دوستی را ملاقات می‌کنم."
+            }
+        },
+        {
+            "kanji": "私は先生に訪ねる。",
+            "furigana": "私(わたし)は先生(せんせい)に訪(たず)ねる。",
+            "translations": {
+                "EN": "I ask the teacher.",
+                "ID": "Saya bertanya kepada guru.",
+                "ES": "Le pregunto al profesor.",
+                "VI": "Tôi hỏi thầy.",
+                "FR": "Je pose la question au professeur.",
+                "NE": "म शिक्षकसँग सोध्छु।",
+                "BN": "আমি শিক্ষকের কাছে জিজ্ঞেস করি।",
+                "ZH": "我问老师。",
+                "KO": "나는 선생님에게 물어본다.",
+                "TL": "Nag-tanong ako sa guro.",
+                "MY": "ကျွန်တော် ဘာသာပြန်ဆရာကို မေးတယ်။",
+                "HI": "मैं शिक्षक से पूछता हूँ।",
+                "AR": "أسأل المعلم.",
+                "FA": "من از معلم سؤال می‌کنم."
+            }
+        },
+        {
+            "kanji": "先生を訪ねてみる。",
+            "furigana": "先生(せんせい)を訪(たず)ねてみる。",
+            "translations": {
+                "EN": "I will try to visit the teacher.",
+                "ID": "Saya akan mencoba mengunjungi guru.",
+                "ES": "Voy a intentar visitar al profesor.",
+                "VI": "Tôi sẽ thử thăm giáo viên.",
+                "FR": "Je vais essayer de rendre visite au professeur.",
+                "NE": "म शिक्षकलाई भेट्न प्रयास गर्दैछु।",
+                "BN": "আমি শিক্ষককে দেখতে চেষ্টা করব।",
+                "ZH": "我会试着拜访老师。",
+                "KO": "선생님을 찾아가 보겠다.",
+                "TL": "Susubukan kong bisitahin ang guro.",
+                "MY": "ကျွန်ုပ်ဆရာထံသွားကြည့်ပါမည်။",
+                "HI": "मैं अध्यापक से मिलने की कोशिश करूंगा।",
+                "AR": "سأحاول زيارة المعلم.",
+                "FA": "سعی می‌کنم به معلم سر بزنم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "EN": [
+                "to visit",
+                "to call on",
+                "to pay a visit to"
+            ],
+            "ID": "mengunjungi",
+            "ES": "visitar",
+            "VI": "thăm",
+            "FR": "visiter",
+            "NE": "भ्रमण गर्नु",
+            "BN": "পরিদর্শন করা",
+            "ZH": "访问",
+            "KO": "방문하다",
+            "TL": "bumisita",
+            "MY": "လိုက်လံခြင်း",
+            "HI": "मुलाकात करना",
+            "AR": "زيارة",
+            "FA": "بازدید کردن"
+        }
+    ],
+    "jisho_data": {
+        "slug": "訪ねる",
+        "is_common": true,
         "tags": [],
-        "restrictions": [],
-        "see_also": [],
-        "antonyms": [],
-        "source": [],
-        "info": []
-      }
-    ]
-  },
-  "kanji_list": [
-    "訪"
-  ],
-  "kanji_data": {
-    "訪": {
-      "meanings": [
-        "call on",
-        "look up",
-        "offer sympathy",
-        "visit"
-      ],
-      "on_readings": [
-        "ホウ"
-      ],
-      "kun_readings": [
-        "おとず.れる",
-        "たず.ねる",
-        "と.う"
-      ],
-      "stroke_count": 11,
-      "jlpt": 3,
-      "freq_mainichi_shinbun": 372,
-      "unicode": "8A2A",
-      "grade": 6
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "訪ねる",
+                "reading": "たずねる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to visit",
+                    "to call on",
+                    "to pay a visit to"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb, Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ]
+    },
+    "kanji_list": [
+        "訪"
+    ],
+    "kanji_data": {
+        "訪": {
+            "meanings": [
+                "call on",
+                "look up",
+                "offer sympathy",
+                "visit"
+            ],
+            "on_readings": [
+                "ホウ"
+            ],
+            "kun_readings": [
+                "おとず.れる",
+                "たず.ねる",
+                "と.う"
+            ],
+            "stroke_count": 11,
+            "jlpt": 3,
+            "freq_mainichi_shinbun": 372,
+            "unicode": "8A2A",
+            "grade": 6
+        }
     }
-  }
 }
