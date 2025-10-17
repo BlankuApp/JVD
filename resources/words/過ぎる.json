@@ -1,0 +1,552 @@
+{
+    "version": "0.3.0",
+    "word": "過ぎる",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/migmm_WLjlU",
+    "in_db": true,
+    "kanji": "過ぎる",
+    "reading": "すぎる",
+    "introduction_japanese": "過ぎる。時間のはなし、量や程度のはなし、場所を通りこすときに使うよ。",
+    "introduction_english": "Sugiru. We use it when talking about time passing, having too much of something, or going past a place.",
+    "meanings": [
+        [
+            "exceed",
+            "overdo",
+            "surpass"
+        ],
+        [
+            "pass",
+            "elapse"
+        ],
+        [
+            "pass",
+            "pass-by"
+        ]
+    ],
+    "meaning_explanation_japanese": "限度をこえたり、時間が先へ進んだり、場所や目印を通りこしたりする意味だよ。",
+    "meaning_explanation_english": "It is an ichidan verb used both as a main verb and as an auxiliary after verbs and adjectives. In simple terms, すぎる means to go beyond a limit in amount, to pass in time, or to go past a place.",
+    "youtube_description": "Learn how to use sugiru: “too much,” “to pass (time),” and “to go past.” Short, clear examples + tips for verbs, i-adjectives, and na-adjectives.",
+    "kanji_details": [
+        {
+            "kanji": "過",
+            "onyomi": [
+                "カ"
+            ],
+            "kunyomi": [
+                "す(ぎる)",
+                "す(ごす)"
+            ],
+            "meanings_english": [
+                "pass",
+                "exceed",
+                "go beyond"
+            ],
+            "common_words": [
+                "過去(かこ) : past",
+                "通過(つうか) : passage; transit"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means to go beyond or to pass. You will see it in かこ, which talks about the past. You also see it in つうか, meaning passing through a place. Remember it as the idea of moving beyond a point.",
+    "synonyms": [
+        "超える : こえる : to exceed; to cross",
+        "余る : あまる : to be left over; to exceed the needed"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are こえる and あまる. こえる overlaps when something goes beyond a limit or line. あまる overlaps when there is more than needed and extra remains, while すぎる is broader and also works with time and places.",
+    "antonyms": [
+        "足りる : たりる : to be enough; to suffice"
+    ],
+    "antonym_explanation": "The most common antonym of the word is たりる. It means things are sufficient or just right, while すぎる means they go beyond what is needed or beyond a point.",
+    "collocations": [
+        {
+            "kanji": "塩分の取り過ぎ",
+            "furigana": "塩分(えんぶん)の取(と)り過(す)ぎ",
+            "translations": {
+                "EN": "Excessive salt intake",
+                "ID": "Konsumsi garam berlebihan",
+                "ES": "Ingesta excesiva de sal",
+                "VI": "Lượng muối nạp vào quá nhiều",
+                "FR": "Consommation excessive de sel",
+                "NE": "अत्यधिक नुनको सेवन",
+                "BN": "অতিরিক্ত লবণ গ্রহণ",
+                "ZH": "盐摄入量过高",
+                "KO": "염분의 과다",
+                "TL": "Labis na paggamit ng asin",
+                "MY": "ဆားအလွန်အကျွံစားသုံးခြင်း။",
+                "HI": "अत्यधिक नमक का सेवन",
+                "AR": "الإفراط في تناول الملح",
+                "FA": "مصرف بیش از حد نمک"
+            }
+        },
+        {
+            "kanji": "アルコールの飲み過ぎ",
+            "furigana": "アルコールの飲(の)み過(す)ぎ",
+            "translations": {
+                "EN": "Drinking too much alcohol",
+                "ID": "Minum terlalu banyak alkohol",
+                "ES": "Beber demasiado alcohol",
+                "VI": "Uống quá nhiều rượu",
+                "FR": "Boire trop d'alcool",
+                "NE": "धेरै रक्सी पिउने",
+                "BN": "অত্যধিক মদ্যপান",
+                "ZH": "饮酒过量",
+                "KO": "알코올 과음",
+                "TL": "Pag-inom ng labis na alak",
+                "MY": "အရက်အလွန်အကျွံသောက်ခြင်း။",
+                "HI": "बहुत अधिक शराब पीना",
+                "AR": "شرب الكثير من الكحول",
+                "FA": "نوشیدن بیش از حد الکل"
+            }
+        },
+        {
+            "kanji": "食べ過ぎ注意",
+            "furigana": "食(た)べ過(す)ぎ注(ちゅう)意(い)",
+            "translations": {
+                "EN": "Be careful not to overeat",
+                "ID": "Hati-hati jangan makan berlebihan",
+                "ES": "Tenga cuidado de no comer en exceso",
+                "VI": "Hãy cẩn thận đừng ăn quá nhiều",
+                "FR": "Faites attention à ne pas trop manger",
+                "NE": "धेरै नखान सावधान रहनुहोस्",
+                "BN": "অতিরিক্ত খাওয়া থেকে বিরত থাকুন",
+                "ZH": "注意不要吃得过饱",
+                "KO": "과식주의",
+                "TL": "Mag-ingat na huwag kumain nang labis",
+                "MY": "အလွန်အကျွံမစားမိအောင် သတိထားပါ။",
+                "HI": "सावधान रहें कि आप अधिक न खाएं",
+                "AR": "احذر من الإفراط في تناول الطعام",
+                "FA": "مراقب باشید پرخوری نکنید"
+            }
+        },
+        {
+            "kanji": "この暑すぎる日",
+            "furigana": "この暑(あつ)すぎる日(ひ)",
+            "translations": {
+                "EN": "On this very hot day",
+                "ID": "Pada hari yang sangat panas ini",
+                "ES": "En este día tan caluroso",
+                "VI": "Vào ngày rất nóng này",
+                "FR": "En cette journée très chaude",
+                "NE": "यो धेरै गर्मी दिनमा",
+                "BN": "এই খুব গরমের দিনে",
+                "ZH": "在这个非常炎热的日子里",
+                "KO": "이 너무 덥은 날",
+                "TL": "Sa napakainit na araw na ito",
+                "MY": "အခုလို အရမ်းပူတဲ့နေ့မှာ",
+                "HI": "इस बहुत गर्म दिन पर",
+                "AR": "في هذا اليوم الحار جدًا",
+                "FA": "در این روز بسیار گرم"
+            }
+        },
+        {
+            "kanji": "価格が高すぎる",
+            "furigana": "価(か)格(かく)が高(たか)すぎる",
+            "translations": {
+                "EN": "The price is too high",
+                "ID": "Harganya terlalu tinggi",
+                "ES": "El precio es demasiado alto",
+                "VI": "Giá quá cao",
+                "FR": "Le prix est trop élevé",
+                "NE": "मूल्य धेरै उच्च छ।",
+                "BN": "দাম খুব বেশি।",
+                "ZH": "价格太高",
+                "KO": "가격이 너무 비싸",
+                "TL": "Masyadong mataas ang presyo",
+                "MY": "ဈေးက အရမ်းမြင့်တယ်။",
+                "HI": "कीमत बहुत ज़्यादा है",
+                "AR": "السعر مرتفع للغاية",
+                "FA": "قیمت خیلی بالاست"
+            }
+        },
+        {
+            "kanji": "時間が過ぎるのが早い",
+            "furigana": "時間(じかん)が過(す)ぎるのが早(はや)い",
+            "translations": {
+                "EN": "Time passes quickly",
+                "ID": "Waktu berlalu dengan cepat",
+                "ES": "El tiempo pasa rápido",
+                "VI": "Thời gian trôi qua thật nhanh",
+                "FR": "Le temps passe vite",
+                "NE": "समय छिटो बित्छ।",
+                "BN": "সময় দ্রুত চলে যায়",
+                "ZH": "时间过得很快",
+                "KO": "시간이 지나는 것이 빠르다",
+                "TL": "Mabilis lumipas ang oras",
+                "MY": "အချိန်တွေကုန်တာမြန်တယ်။",
+                "HI": "समय जल्दी बीत जाता है",
+                "AR": "الوقت يمر بسرعة",
+                "FA": "زمان به سرعت می‌گذرد"
+            }
+        },
+        {
+            "kanji": "10時を過ぎる",
+            "furigana": "10時(じ)を過(す)ぎる",
+            "translations": {
+                "EN": "past 10 o'clock",
+                "ID": "lewat jam 10",
+                "ES": "pasadas las 10 en punto",
+                "VI": "hơn 10 giờ",
+                "FR": "passé 10 heures",
+                "NE": "१० बजे पछि",
+                "BN": "১০টা বেজে গেছে",
+                "ZH": "10点过后",
+                "KO": "10시를 지나",
+                "TL": "pasado alas-10",
+                "MY": "ည ၁၀ နာရီ",
+                "HI": "10 बजे के बाद",
+                "AR": "بعد الساعة العاشرة",
+                "FA": "ساعت از ۱۰ گذشته"
+            }
+        },
+        {
+            "kanji": "ここを過ぎて右に曲がる",
+            "furigana": "ここを過(す)ぎて右(みぎ)に曲(ま)がる{",
+            "translations": {
+                "EN": "Go past here and turn right",
+                "ID": "Lewat sini dan belok kanan",
+                "ES": "Pase por aquí y gire a la derecha.",
+                "VI": "Đi qua đây và rẽ phải",
+                "FR": "Passez ici et tournez à droite",
+                "NE": "यहाँबाट जानुहोस् र दायाँ मोड्नुहोस्",
+                "BN": "এখান দিয়ে যাও এবং ডানে ঘুরো।",
+                "ZH": "经过这里然后右转",
+                "KO": "여기를 지나 오른쪽으로 구부러",
+                "TL": "Dumaan dito at lumiko sa kanan",
+                "MY": "ဒီကိုကျော်ပြီး ညာဘက်ကွေ့လိုက်ပါ။",
+                "HI": "यहाँ से आगे बढ़ें और दाईं ओर मुड़ें",
+                "AR": "اذهب من هنا ثم انعطف يمينًا",
+                "FA": "از اینجا رد شو و به راست بپیچ"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "時間が過ぎるのは早いです。",
+            "furigana": "時間(じかん)が過(す)ぎるのは早(はや)いです。",
+            "translations": {
+                "EN": "Time flies.",
+                "ID": "Waktu berlalu cepat.",
+                "ES": "El tiempo vuela.",
+                "VI": "Thời gian trôi nhanh quá.",
+                "FR": "Le temps passe vite.",
+                "NE": "समय उड्छ।",
+                "BN": "সময় চলে যায়।",
+                "ZH": "时光飞逝。",
+                "KO": "시간이 지나는 것은 빠릅니다.",
+                "TL": "Mabilis ang panahon.",
+                "MY": "အချိန်တွေ ကုန်သွားတယ်။",
+                "HI": "समय गुज़र जाता है।",
+                "AR": "الوقت يمر بسرعة.",
+                "FA": "زمان به سرعت می‌گذرد."
+            }
+        },
+        {
+            "kanji": "食べ過ぎて、おなかが痛いです。",
+            "furigana": "食(た)べ過(す)ぎて、おなかが痛(いた)いです。",
+            "translations": {
+                "EN": "I ate too much and now my stomach hurts.",
+                "ID": "Aku makan terlalu banyak dan perutku sakit.",
+                "ES": "Comí demasiado y me duele el estómago.",
+                "VI": "Tôi đã ăn quá nhiều và bây giờ bụng tôi bị đau.",
+                "FR": "J'ai trop mangé et maintenant j'ai mal au ventre.",
+                "NE": "मैले धेरै खाएँ र मेरो पेट दुख्यो।",
+                "BN": "আমি অনেক বেশি খেয়েছি আর আমার পেট ব্যাথা করছে।",
+                "ZH": "我吃太多了，肚子疼。",
+                "KO": "너무 먹고 배가 아파요.",
+                "TL": "Masyado akong madami at sumakit ang tiyan ko.",
+                "MY": "အရမ်းစားပြီး ဗိုက်နာတယ်။",
+                "HI": "मैंने बहुत ज्यादा खा लिया और अब मेरे पेट में दर्द हो रहा है।",
+                "AR": "لقد أكلت كثيرًا والآن معدتي تؤلمني.",
+                "FA": "خیلی زیاد خوردم و معده‌ام درد می‌کنه."
+            }
+        },
+        {
+            "kanji": "このシャツは大きすぎます。",
+            "furigana": "このシャツは大(おお)きすぎます。",
+            "translations": {
+                "EN": "This shirt is too big.",
+                "ID": "Kemeja ini terlalu besar.",
+                "ES": "Esta camisa es demasiado grande.",
+                "VI": "Chiếc áo này rộng quá.",
+                "FR": "Cette chemise est trop grande.",
+                "NE": "यो शर्ट धेरै ठूलो छ।",
+                "BN": "এই শার্টটা অনেক বড়।",
+                "ZH": "这件衬衫太大了。",
+                "KO": "이 셔츠는 너무 큽니다.",
+                "TL": "Masyadong malaki ang shirt na ito.",
+                "MY": "ဒီအင်္ကျီက အရမ်းကြီးတယ်။",
+                "HI": "यह शर्ट बहुत बड़ी है.",
+                "AR": "هذا القميص كبير جدًا.",
+                "FA": "این پیراهن خیلی بزرگ است."
+            }
+        },
+        {
+            "kanji": "10時を過ぎました。",
+            "furigana": "10時(じ)を過(す)ぎました。",
+            "translations": {
+                "EN": "It's past 10 o'clock.",
+                "ID": "Sudah lewat jam 10.",
+                "ES": "Son más de las 10 en punto.",
+                "VI": "Bây giờ đã hơn 10 giờ rồi.",
+                "FR": "Il est plus de 10 heures.",
+                "NE": "१० बजिसकेको छ।",
+                "BN": "১০টা বেজে গেছে।",
+                "ZH": "已经十点多了。",
+                "KO": "10시가 지났습니다.",
+                "TL": "Pasado alas-10 na.",
+                "MY": "၁၀ နာရီကျော်နေပြီ။",
+                "HI": "10 बज चुके हैं.",
+                "AR": "لقد تجاوزت الساعة العاشرة.",
+                "FA": "ساعت از ۱۰ گذشته است."
+            }
+        },
+        {
+            "kanji": "駅を一つ過ぎて降りました。",
+            "furigana": "駅(えき)を一(ひと)つ過(す)ぎて降(お)りました。",
+            "translations": {
+                "EN": "I got off after passing one station.",
+                "ID": "Saya turun setelah melewati satu stasiun.",
+                "ES": "Me bajé después de pasar una estación.",
+                "VI": "Tôi xuống xe sau khi đi qua một ga.",
+                "FR": "Je suis descendu après avoir dépassé une station.",
+                "NE": "एउटा स्टेशन पार गरेपछि म ओर्लिएँ।",
+                "BN": "একটা স্টেশন পার হওয়ার পর আমি নেমে পড়লাম।",
+                "ZH": "过了一站我就下车了。",
+                "KO": "역을 하나 지나서 내렸습니다.",
+                "TL": "Bumaba ako pagkalampas ng isang istasyon.",
+                "MY": "ဘူတာတစ်ခုကိုဖြတ်ပြီး ဆင်းလိုက်တယ်။",
+                "HI": "एक स्टेशन पार करने के बाद मैं उतर गया।",
+                "AR": "نزلت بعد أن مررت بمحطة واحدة.",
+                "FA": "بعد از عبور از یک ایستگاه پیاده شدم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "melampaui",
+            "ES": "superar",
+            "VI": "quá",
+            "FR": "dépasser",
+            "NE": "भन्दा बढी हुनु",
+            "BN": "অতিক্রম করা",
+            "ZH": "超过",
+            "KO": "초과하다",
+            "TL": "lumampas",
+            "MY": "ကျော်လွန်",
+            "HI": "से अधिक",
+            "AR": "يزيد عن",
+            "FA": "تجاوز کردن",
+            "EN": [
+                "exceed",
+                "overdo",
+                "surpass"
+            ]
+        },
+        {
+            "ID": "lulus",
+            "ES": "aprobar",
+            "VI": "vượt qua",
+            "FR": "passer",
+            "NE": "पास हुनु",
+            "BN": "পাস",
+            "ZH": "经过",
+            "KO": "통과하다",
+            "TL": "pumasa",
+            "MY": "ဖြတ်သန်းပါ။",
+            "HI": "उत्तीर्ण",
+            "AR": "يمر",
+            "FA": "عبور",
+            "EN": [
+                "pass",
+                "elapse"
+            ]
+        },
+        {
+            "ID": "lulus",
+            "ES": "aprobar",
+            "VI": "vượt qua",
+            "FR": "passer",
+            "NE": "पास हुनु",
+            "BN": "পাস",
+            "ZH": "经过",
+            "KO": "통과하다",
+            "TL": "pumasa",
+            "MY": "ဖြတ်သန်းပါ။",
+            "HI": "उत्तीर्ण",
+            "AR": "يمر",
+            "FA": "عبور",
+            "EN": [
+                "pass",
+                "pass-by"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "過ぎる",
+        "is_common": true,
+        "tags": [
+            "wanikani22"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "過ぎる",
+                "reading": "すぎる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to pass through",
+                    "to pass by",
+                    "to go beyond"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to pass (of time)",
+                    "to elapse"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to have expired",
+                    "to have ended",
+                    "to be over"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to exceed",
+                    "to surpass",
+                    "to be above"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be no more than ..."
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "as 〜に過ぎない, etc."
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to be excessive",
+                    "to be too much",
+                    "to be too ..."
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb",
+                    "Suffix"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "often used after adj. stems or the -masu stems of verbs"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "過"
+    ],
+    "kanji_data": {
+        "過": {
+            "freq_mainichi_shinbun": 285,
+            "grade": 5,
+            "heisig_en": "overdo",
+            "jlpt": 3,
+            "kanji": "過",
+            "kun_readings": [
+                "あやま.ち",
+                "あやま.つ",
+                "す.ぎる",
+                "す.ごす",
+                "よ.ぎる",
+                "よぎ.る"
+            ],
+            "meanings": [
+                "error",
+                "exceed",
+                "go beyond",
+                "overdo"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カ"
+            ],
+            "stroke_count": 12,
+            "unicode": "904E"
+        }
+    }
+}

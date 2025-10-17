@@ -1,0 +1,503 @@
+{
+    "version": "0.3.0",
+    "word": "向かう",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/LpZx-dUfdDg",
+    "in_db": true,
+    "kanji": "向かう",
+    "reading": "むかう",
+    "introduction_japanese": "向かう。駅や学校へ行くとき、地図の方向を話すときによく使うよ。",
+    "introduction_english": "むかう. Used when you go to a place like a station or school, and when talking about directions on a map.",
+    "meanings": [
+        [
+            "head",
+            "go",
+            "leave",
+            "proceed"
+        ],
+        [
+            "face",
+            "turn",
+            "front"
+        ],
+        [
+            "confront",
+            "tackle",
+            "oppose",
+            "handle"
+        ]
+    ],
+    "meaning_explanation_japanese": "ある場所へ行くこと。体や顔をその方へ向けること。問題や相手に立ち向かって取り組むこと。",
+    "meaning_explanation_english": "It is a godan verb (u-verb). In plain terms, むかう means to move toward a place, to face a direction, or to confront a task or person.",
+    "youtube_description": "Learn how to use 向かう (mukau) in real life: head to a place, face a direction, and tackle tasks. Simple examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "向",
+            "onyomi": [
+                "コウ"
+            ],
+            "kunyomi": [
+                "む",
+                "む-く"
+            ],
+            "meanings_english": [
+                "facing",
+                "direction",
+                "turn"
+            ],
+            "common_words": [
+                "方向（ほうこう）: direction",
+                "向ける（むける）: to turn toward; to direct"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means direction and turning your body or eyes. You can see this meaning in words like ほうこう, which is about the way something is oriented. Another example is むける, which means to turn or aim something toward a side. These ideas connect to moving or pointing toward a goal.",
+    "synonyms": [
+        "行く : いく : go",
+        "進む : すすむ : advance"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are いく and すすむ. いく overlaps when simply going to a place, without focus on direction. すすむ overlaps when steadily moving forward; むかう adds a sense of heading toward a target or facing it.",
+    "antonyms": [
+        "離れる : はなれる : move away"
+    ],
+    "antonym_explanation": "The most common antonym of the word is はなれる, which means to move away from a place or person, the opposite of heading toward something.",
+    "collocations": [
+        {
+            "kanji": "1) 駅に向かう",
+            "furigana": "1) 駅(えき)に向(む)かう",
+            "translations": {
+                "EN": "1) Head to the station",
+                "ID": "1) Menuju ke stasiun",
+                "ES": "1) Dirígete a la estación",
+                "VI": "1) Đi đến nhà ga",
+                "FR": "1) Dirigez-vous vers la gare",
+                "NE": "१) स्टेशन जानुहोस्",
+                "BN": "১) স্টেশনে যান",
+                "ZH": "1）前往车站",
+                "KO": "1) 역으로 향한다",
+                "TL": "1) Tumungo sa istasyon",
+                "MY": "1) ဘူတာရုံသို့သွားပါ။",
+                "HI": "1) स्टेशन की ओर चलें",
+                "AR": "1) التوجه إلى المحطة",
+                "FA": "۱) به سمت ایستگاه بروید"
+            }
+        },
+        {
+            "kanji": "1) 東京へ向かう",
+            "furigana": "1) 東京(とうきょう)へ向(む)かう",
+            "translations": {
+                "EN": "1) Head to Tokyo",
+                "ID": "1) Menuju Tokyo",
+                "ES": "1) Rumbo a Tokio",
+                "VI": "1) Đi đến Tokyo",
+                "FR": "1) En route pour Tokyo",
+                "NE": "१) टोकियो जाँदै",
+                "BN": "১) টোকিও যাচ্ছি",
+                "ZH": "1）前往东京",
+                "KO": "1) 도쿄로 향한다",
+                "TL": "1) Pumunta sa Tokyo",
+                "MY": "1) တိုကျိုမြို့သို့ ဦးတည်သွားပါမည်။",
+                "HI": "1) टोक्यो की ओर",
+                "AR": "1) التوجه إلى طوكيو",
+                "FA": "۱) سفر به توکیو"
+            }
+        },
+        {
+            "kanji": "1) 東に向かう",
+            "furigana": "1) 東(ひがし)に向(む)かう",
+            "translations": {
+                "EN": "1) Head East",
+                "ID": "1) Menuju ke Timur",
+                "ES": "1) Dirígete al este",
+                "VI": "1) Đi về hướng Đông",
+                "FR": "1) Dirigez-vous vers l'Est",
+                "NE": "१) पूर्वतिर जानुहोस्",
+                "BN": "১) পূর্ব দিকে যান",
+                "ZH": "1）向东",
+                "KO": "1) 동쪽으로 향한다",
+                "TL": "1) Tumungo sa Silangan",
+                "MY": "၁) အရှေ့ကို ဦးတည်ပါ။",
+                "HI": "1) पूर्व की ओर चलें",
+                "AR": "1) اتجه شرقًا",
+                "FA": "۱) به سمت شرق بروید"
+            }
+        },
+        {
+            "kanji": "1) 明日の会議に向かう",
+            "furigana": "1) 明日(あした)の会議(かいぎ)に向(む)かう",
+            "translations": {
+                "EN": "1) Heading to a meeting tomorrow",
+                "ID": "1) Menuju pertemuan besok",
+                "ES": "1) Me dirijo a una reunión mañana",
+                "VI": "1) Ngày mai đi họp",
+                "FR": "1) Je me rends à une réunion demain",
+                "NE": "१) भोलि बैठकमा जाँदै",
+                "BN": "১) আগামীকাল একটি মিটিংয়ে যাচ্ছি",
+                "ZH": "1）明天去开会",
+                "KO": "1) 내일 회의로 향한다",
+                "TL": "1) Papunta sa isang pulong bukas",
+                "MY": "၁) မနက်ဖြန် အစည်းအဝေး သွားမယ်။",
+                "HI": "1) कल एक मीटिंग में जा रहा हूँ",
+                "AR": "1) التوجه إلى اجتماع غدًا",
+                "FA": "۱) فردا به جلسه می‌رویم"
+            }
+        },
+        {
+            "kanji": "1) 安全な方向に向かう",
+            "furigana": "1) 安全(あんぜん)な方向(ほうこう)に向(む)かう",
+            "translations": {
+                "EN": "1) Head in a safe direction",
+                "ID": "1) Menuju arah yang aman",
+                "ES": "1) Dirígete en una dirección segura",
+                "VI": "1) Đi theo hướng an toàn",
+                "FR": "1) Dirigez-vous dans une direction sûre",
+                "NE": "१) सुरक्षित दिशामा जानुहोस्",
+                "BN": "১) নিরাপদ দিকে যান",
+                "ZH": "1）朝安全方向行驶",
+                "KO": "1) 안전한 방향으로 향한다",
+                "TL": "1) Tumungo sa ligtas na direksyon",
+                "MY": "1) ဘေးကင်းသော ဦးတည်ရာသို့ ဦးတည်ပါ။",
+                "HI": "1) सुरक्षित दिशा में चलें",
+                "AR": "1) التوجه نحو اتجاه آمن",
+                "FA": "۱) به سمت مسیر امن حرکت کنید"
+            }
+        },
+        {
+            "kanji": "2) 車で学校に向かう",
+            "furigana": "2) 車(くるま)で学校(がっこう)に向(む)かう",
+            "translations": {
+                "EN": "2) Driving to school",
+                "ID": "2) Mengemudi ke sekolah",
+                "ES": "2) Conducir a la escuela",
+                "VI": "2) Lái xe đến trường",
+                "FR": "2) Conduire à l'école",
+                "NE": "२) स्कूल जाँदा गाडी चलाएर",
+                "BN": "২) স্কুলে গাড়ি চালিয়ে যাওয়া",
+                "ZH": "2）开车去学校",
+                "KO": "2) 차로 학교로 향한다",
+                "TL": "2) Pagmamaneho papunta sa paaralan",
+                "MY": "2) ကျောင်းသို့ ကားမောင်းခြင်း။",
+                "HI": "2) स्कूल जाते समय गाड़ी चलाना",
+                "AR": "2) القيادة إلى المدرسة",
+                "FA": "۲) رانندگی تا مدرسه"
+            }
+        },
+        {
+            "kanji": "2) 電車に乗って会社に向かう",
+            "furigana": "2) 電車(でんしゃ)に乗(の)って会社(かいしゃ)に向(む)かう",
+            "translations": {
+                "EN": "2) Take the train to work",
+                "ID": "2) Naik kereta ke tempat kerja",
+                "ES": "2) Tomar el tren al trabajo",
+                "VI": "2) Đi tàu đến nơi làm việc",
+                "FR": "2) Prendre le train pour aller au travail",
+                "NE": "२) काममा जाँदा रेल चढ्नुहोस्",
+                "BN": "২) ট্রেনে করে কর্মস্থলে যাওয়া",
+                "ZH": "2）乘火车上班",
+                "KO": "2) 기차를 타고 회사로 향한다",
+                "TL": "2) Sumakay ng tren papunta sa trabaho",
+                "MY": "၂) အလုပ်သို့ ရထားစီးပါ။",
+                "HI": "2) काम पर जाने के लिए ट्रेन लें",
+                "AR": "2) خذ القطار إلى العمل",
+                "FA": "۲) با قطار به محل کار بروید"
+            }
+        },
+        {
+            "kanji": "2) 早く向かう",
+            "furigana": "2) 早(はや)く向(む)かう",
+            "translations": {
+                "EN": "2) Get there early",
+                "ID": "2) Sampai di sana lebih awal",
+                "ES": "2) Llegar temprano",
+                "VI": "2) Đến sớm",
+                "FR": "2) Arrivez tôt",
+                "NE": "२) त्यहाँ चाँडै पुग्नुहोस्",
+                "BN": "২) তাড়াতাড়ি পৌঁছান",
+                "ZH": "2）早点到达",
+                "KO": "2) 빨리 가기",
+                "TL": "2) Pumunta doon nang maaga",
+                "MY": "2) စောစောသွားပါ။",
+                "HI": "2) वहाँ जल्दी पहुँचें",
+                "AR": "2) الوصول مبكرا",
+                "FA": "۲) زود برسید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "今、駅に向かいます。",
+            "furigana": "今(いま)、駅(えき)に向(む)かいます。",
+            "translations": {
+                "EN": "I'm heading to the station now.",
+                "ID": "Saya sedang menuju ke stasiun sekarang.",
+                "ES": "Me dirijo a la estación ahora.",
+                "VI": "Bây giờ tôi đang đi tới ga tàu.",
+                "FR": "Je me dirige vers la gare maintenant.",
+                "NE": "म अब स्टेशन जाँदैछु।",
+                "BN": "আমি এখন স্টেশনের দিকে যাচ্ছি।",
+                "ZH": "我现在正前往车站。",
+                "KO": "이제 역으로 향합니다.",
+                "TL": "Papunta ako ngayon sa station.",
+                "MY": "အခု ဘူတာကို သွားနေတယ်။",
+                "HI": "मैं अब स्टेशन जा रहा हूँ.",
+                "AR": "أنا متجه إلى المحطة الآن.",
+                "FA": "الان دارم میرم ایستگاه."
+            }
+        },
+        {
+            "kanji": "仕事が終わったら、家へ向かう。",
+            "furigana": "仕事(しごと)が終(お)わったら、家(いえ)へ向(む)かう。",
+            "translations": {
+                "EN": "When I finish work, I head home.",
+                "ID": "Ketika saya selesai bekerja, saya langsung pulang.",
+                "ES": "Cuando termino de trabajar, me dirijo a casa.",
+                "VI": "Khi tôi hoàn thành công việc, tôi về nhà.",
+                "FR": "Quand je finis le travail, je rentre à la maison.",
+                "NE": "काम सकिएपछि, म घर जान्छु।",
+                "BN": "কাজ শেষ হলে, আমি বাড়ি চলে যাই।",
+                "ZH": "当我下班后，我就回家。",
+                "KO": "일이 끝나면 집으로 향한다.",
+                "TL": "Nang matapos ako sa trabaho, umuwi na ako.",
+                "MY": "အလုပ်ပြီးရင် အိမ်ပြန်တယ်။",
+                "HI": "जब मैं काम ख़त्म कर लेता हूं, तो घर चला जाता हूं।",
+                "AR": "عندما أنتهي من العمل أتوجه إلى المنزل.",
+                "FA": "وقتی کارم تمام می‌شود، به خانه برمی‌گردم."
+            }
+        },
+        {
+            "kanji": "車で学校に向かった。",
+            "furigana": "車(くるま)で学校(がっこう)に向(む)かった。",
+            "translations": {
+                "EN": "I drove to school.",
+                "ID": "Saya pergi ke sekolah dengan mobil.",
+                "ES": "Conduje hasta la escuela.",
+                "VI": "Tôi lái xe đến trường.",
+                "FR": "Je suis allé à l'école en voiture.",
+                "NE": "म गाडी चलाएर स्कूल गएँ।",
+                "BN": "আমি স্কুলে গাড়ি চালিয়ে গেলাম।",
+                "ZH": "我开车去学校。",
+                "KO": "차로 학교로 향했다.",
+                "TL": "Nagdrive ako papuntang school.",
+                "MY": "ကျောင်းကို မောင်းသွားတယ်။",
+                "HI": "मैं स्कूल चला गया.",
+                "AR": "لقد ذهبت إلى المدرسة بالسيارة.",
+                "FA": "با ماشین به مدرسه رفتم."
+            }
+        },
+        {
+            "kanji": "私たちは会場に向かっている。",
+            "furigana": "私(わたし)たちは会場(かいじょう)に向(む)かっている。",
+            "translations": {
+                "EN": "We are heading to the venue.",
+                "ID": "Kami sedang menuju ke tempat tersebut.",
+                "ES": "Nos dirigimos al lugar del evento.",
+                "VI": "Chúng tôi đang tới địa điểm tổ chức.",
+                "FR": "Nous nous dirigeons vers le lieu de l'événement.",
+                "NE": "हामी कार्यक्रम स्थल तर्फ जाँदैछौं।",
+                "BN": "আমরা অনুষ্ঠানস্থলের দিকে যাচ্ছি।",
+                "ZH": "我们正在前往会场。",
+                "KO": "우리는 회장으로 향하고 있다.",
+                "TL": "Papunta na kami sa venue.",
+                "MY": "ကျွန်တော်တို့ ကွင်းကို သွားနေတယ်။",
+                "HI": "हम कार्यक्रम स्थल की ओर जा रहे हैं।",
+                "AR": "نحن نتجه إلى المكان.",
+                "FA": "به سمت محل برگزاری حرکت می‌کنیم."
+            }
+        },
+        {
+            "kanji": "このいすは南に向かっている。",
+            "furigana": "このいすは南(みなみ)に向(む)かっている。",
+            "translations": {
+                "EN": "This chair faces south.",
+                "ID": "Kursi ini menghadap ke selatan.",
+                "ES": "Esta silla está orientada al sur.",
+                "VI": "Chiếc ghế này hướng về phía Nam.",
+                "FR": "Cette chaise est orientée vers le sud.",
+                "NE": "यो कुर्सी दक्षिणतिर फर्केको छ।",
+                "BN": "এই চেয়ারটি দক্ষিণমুখী।",
+                "ZH": "这把椅子朝南。",
+                "KO": "이 의자는 남쪽으로 향한다.",
+                "TL": "Nakaharap sa timog ang upuan na ito.",
+                "MY": "ဤကုလားထိုင်သည် တောင်ဘက်သို့ မျက်နှာမူသည်။",
+                "HI": "यह कुर्सी दक्षिण की ओर है।",
+                "AR": "هذا الكرسي يواجه الجنوب.",
+                "FA": "این صندلی رو به جنوب است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "kepala",
+            "ES": "cabeza",
+            "VI": "cái đầu",
+            "FR": "tête",
+            "NE": "टाउको",
+            "BN": "মাথা",
+            "ZH": "头",
+            "KO": "머리",
+            "TL": "ulo",
+            "MY": "ခေါင်း",
+            "HI": "सिर",
+            "AR": "رأس",
+            "FA": "سر",
+            "EN": [
+                "head",
+                "go",
+                "leave",
+                "proceed"
+            ]
+        },
+        {
+            "ID": "menghadapi",
+            "ES": "rostro",
+            "VI": "khuôn mặt",
+            "FR": "affronter",
+            "NE": "अनुहार",
+            "BN": "মুখ",
+            "ZH": "脸",
+            "KO": "얼굴",
+            "TL": "mukha",
+            "MY": "မျက်နှာ",
+            "HI": "चेहरा",
+            "AR": "وجه",
+            "FA": "صورت",
+            "EN": [
+                "face",
+                "turn",
+                "front"
+            ]
+        },
+        {
+            "ID": "mengonfrontasi",
+            "ES": "confrontar",
+            "VI": "đối đầu",
+            "FR": "affronter",
+            "NE": "सामना गर्नु",
+            "BN": "মুখোমুখি হওয়া",
+            "ZH": "面对",
+            "KO": "직면하다",
+            "TL": "harapin",
+            "MY": "ရင်ဆိုင်ပါ။",
+            "HI": "सामना होना",
+            "AR": "مواجهة",
+            "FA": "مقابله کردن",
+            "EN": [
+                "confront",
+                "tackle",
+                "oppose",
+                "handle"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "向かう",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "向かう",
+                "reading": "むかう"
+            },
+            {
+                "word": "向う",
+                "reading": "むかう"
+            },
+            {
+                "word": "対う",
+                "reading": "むかう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to face"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to go towards",
+                    "to head towards"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'u' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "向"
+    ],
+    "kanji_data": {
+        "向": {
+            "freq_mainichi_shinbun": 182,
+            "grade": 3,
+            "heisig_en": "yonder",
+            "jlpt": 3,
+            "kanji": "向",
+            "kun_readings": [
+                "-む.き",
+                "-む.け",
+                "む.い",
+                "む.かい",
+                "む.かう",
+                "む.く",
+                "む.ける",
+                "む.こう",
+                "む.こう-",
+                "むか.い",
+                "むこ"
+            ],
+            "meanings": [
+                "approach",
+                "beyond",
+                "confront",
+                "defy",
+                "facing",
+                "tend toward",
+                "yonder"
+            ],
+            "name_readings": [
+                "こお",
+                "た",
+                "な",
+                "むか",
+                "むかい",
+                "むこう"
+            ],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5411"
+        }
+    }
+}

@@ -1,0 +1,525 @@
+{
+    "version": "0.3.0",
+    "word": "折れる",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/IsdExeW4-Vs",
+    "in_db": true,
+    "kanji": "折れる",
+    "reading": "おれる",
+    "introduction_japanese": "折れる。枝や骨、傘の骨、そして気持ちの場面でよく使うよ。",
+    "introduction_english": "oreru. We use it for branches, bones, umbrella ribs, and also for feelings.",
+    "meanings": [
+        [
+            "break",
+            "snap",
+            "fracture",
+            "crack"
+        ],
+        [
+            "bend",
+            "fold"
+        ],
+        [
+            "yield",
+            "concede",
+            "submit",
+            "relent",
+            "giveway],["
+        ]
+    ],
+    "meaning_explanation_japanese": "ものが曲がって「ぽきっ」と切れる感じ。骨や枝がたわんで途中から離れること。気持ちの面では、がんばる力が弱くなって、あきらめに近い状態になる。話し合いでは、相手に従って自分の主張を下げること。",
+    "meaning_explanation_english": "It is used as an intransitive verb. The word おれる describes when something bends and breaks, when shapes bend or fold, when someone yields or concedes, and when a person’s spirit falters or loses strength.",
+    "youtube_description": "Learn how to use 折れる (oreru): break/snap, bend, yield, and the idiom 心が折れる. Clear visuals, simple examples, and quick tips for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "折",
+            "onyomi": [
+                "セツ"
+            ],
+            "kunyomi": [
+                "お(る)",
+                "お(り)"
+            ],
+            "meanings_english": [
+                "fold",
+                "break",
+                "bend"
+            ],
+            "common_words": [
+                "折り紙（おりがみ）: origami",
+                "骨折（こっせつ）: bone fracture"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means fold or break. It shows the idea of bending something by hand until it changes shape or snaps. You see it in おりがみ where paper is folded to make shapes. You also see it in こっせつ when a bone is fractured.",
+    "synonyms": [
+        "曲がる : まがる : bend",
+        "くじける : くじける : be discouraged"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are まがる and くじける. まがる overlaps when something only bends without snapping. くじける overlaps in the feeling sense when someone’s heart weakens. Neither necessarily includes the clean “snap” nuance that おれる often has.",
+    "antonyms": [
+        "直る : なおる : be fixed",
+        "諦めない : あきらめない : not give up"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are なおる and あきらめない. なおる is about things returning to a good state, the opposite of getting broken. あきらめない is the opposite of the emotional sense where こころがおれる means to lose spirit.",
+    "collocations": [
+        {
+            "kanji": "骨が折れる",
+            "furigana": "骨(ほね)が折(お)れる",
+            "translations": {
+                "EN": "broken bones",
+                "ID": "tulang patah",
+                "ES": "huesos rotos",
+                "VI": "xương gãy",
+                "FR": "os cassés",
+                "NE": "भाँचिएको हड्डी",
+                "BN": "ভাঙা হাড়",
+                "ZH": "骨折",
+                "KO": "뼈가 부러지다",
+                "TL": "sirang buto",
+                "MY": "အရိုးကျိုး",
+                "HI": "टूटी हुई हड्डियों",
+                "AR": "عظام مكسورة",
+                "FA": "استخوان‌های شکسته"
+            }
+        },
+        {
+            "kanji": "枝が折れる",
+            "furigana": "枝(えだ)が折(お)れる",
+            "translations": {
+                "EN": "Branches break",
+                "ID": "Cabang-cabang patah",
+                "ES": "Las ramas se rompen",
+                "VI": "Cành cây gãy",
+                "FR": "Les branches se cassent",
+                "NE": "हाँगाहरू भाँचिन्छन्",
+                "BN": "ডাল ভেঙে যায়",
+                "ZH": "树枝折断",
+                "KO": "가지가 부러지다",
+                "TL": "Nasira ang mga sanga",
+                "MY": "အကိုင်းအခက်တွေ ချိုးတယ်။",
+                "HI": "शाखाएँ टूट जाती हैं",
+                "AR": "الفروع تنكسر",
+                "FA": "شاخه‌ها می‌شکنند"
+            }
+        },
+        {
+            "kanji": "傘の骨が折れる",
+            "furigana": "傘(かさ)の骨(ほね)が折(お)れる",
+            "translations": {
+                "EN": "The ribs of the umbrella break",
+                "ID": "Tulang payung patah",
+                "ES": "Las varillas del paraguas se rompen",
+                "VI": "Các xương sườn của chiếc ô bị gãy",
+                "FR": "Les baleines du parapluie se brisent",
+                "NE": "छाताको करङ भाँचिन्छ",
+                "BN": "ছাতার পাঁজর ভেঙে যায়",
+                "ZH": "伞骨断了",
+                "KO": "우산 뼈가 부러지는",
+                "TL": "Nabali ang tadyang ng payong",
+                "MY": "နံရိုးက ထီးကျိုး၊",
+                "HI": "छाते की पसलियाँ टूट जाती हैं",
+                "AR": "تنكسر أضلاع المظلة",
+                "FA": "دنده‌های چتر می‌شکنند"
+            }
+        },
+        {
+            "kanji": "心が折れる",
+            "furigana": "心(こころ)が折(お)れる",
+            "translations": {
+                "EN": "Heartbroken",
+                "ID": "Patah hati",
+                "ES": "Con el corazón roto",
+                "VI": "Tan nát cõi lòng",
+                "FR": "Navré",
+                "NE": "मुटु भाँचिएको",
+                "BN": "হৃদয় ভেঙে গেছে",
+                "ZH": "肠断",
+                "KO": "마음이 부러지는",
+                "TL": "Nadurog ang puso",
+                "MY": "အသည်းကွဲ",
+                "HI": "टूटा हुआ दिल",
+                "AR": "مكسور القلب",
+                "FA": "دلشکسته"
+            }
+        },
+        {
+            "kanji": "角が折れる",
+            "furigana": "角(つの)が折(お)れる",
+            "translations": {
+                "EN": "Corners are bent",
+                "ID": "Sudutnya ditekuk",
+                "ES": "Las esquinas están dobladas",
+                "VI": "Các góc bị cong",
+                "FR": "Les coins sont pliés",
+                "NE": "कुनाहरू बाङ्गिएका छन्",
+                "BN": "কোণগুলো বাঁকা।",
+                "ZH": "角弯曲",
+                "KO": "모서리가 부러지다",
+                "TL": "Ang mga sulok ay baluktot",
+                "MY": "ထောင့်များကွေးသည်။",
+                "HI": "कोने मुड़े हुए हैं",
+                "AR": "الزوايا منحنية",
+                "FA": "گوشه ها خم شده اند"
+            }
+        },
+        {
+            "kanji": "ペンが折れる",
+            "furigana": "ペンが折(お)れる",
+            "translations": {
+                "EN": "The pen breaks",
+                "ID": "Pena itu patah",
+                "ES": "El bolígrafo se rompe",
+                "VI": "Cây bút bị gãy",
+                "FR": "Le stylo se casse",
+                "NE": "कलम भाँचिन्छ।",
+                "BN": "কলম ভেঙে যায়।",
+                "ZH": "笔断了",
+                "KO": "펜이 부러지다",
+                "TL": "Nasira ang panulat",
+                "MY": "ဘောပင် ပျက်သွားသည်။",
+                "HI": "कलम टूट जाती है",
+                "AR": "القلم ينكسر",
+                "FA": "قلم می شکند"
+            }
+        },
+        {
+            "kanji": "すぐに折れてしまう",
+            "furigana": "すぐに折(お)れてしまう",
+            "translations": {
+                "EN": "It breaks easily",
+                "ID": "Mudah pecah",
+                "ES": "Se rompe fácilmente",
+                "VI": "Nó dễ vỡ",
+                "FR": "Il se casse facilement",
+                "NE": "यो सजिलै टुट्छ।",
+                "BN": "এটি সহজেই ভেঙে যায়",
+                "ZH": "很容易破损",
+                "KO": "곧 부러진다.",
+                "TL": "Madali itong masira",
+                "MY": "ကျိုးလွယ်ပါတယ်။",
+                "HI": "यह आसानी से टूट जाता है",
+                "AR": "إنه ينكسر بسهولة",
+                "FA": "راحت میشکنه."
+            }
+        },
+        {
+            "kanji": "風で折れる",
+            "furigana": "風(かぜ)で折(お)れる                                                                                        ",
+            "translations": {
+                "EN": "Breaks in the wind",
+                "ID": "Pecahan angin",
+                "ES": "Roturas en el viento",
+                "VI": "Những cơn gió thoảng qua",
+                "FR": "Des pauses dans le vent",
+                "NE": "हावामा फुट्छ",
+                "BN": "বাতাসে ভেঙে যায়",
+                "ZH": "风中破晓",
+                "KO": "바람으로 부러진",
+                "TL": "Nasira sa hangin",
+                "MY": "လေထဲမှာ ကွဲတယ်။",
+                "HI": "हवा में टूटता है",
+                "AR": "فواصل في الريح",
+                "FA": "در باد می‌شکند"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "強い風で枝が折れました。",
+            "furigana": "強(つよ)い風(かぜ)で枝(えだ)が折(お)れました。",
+            "translations": {
+                "EN": "The strong wind broke the branch.",
+                "ID": "Angin kencang mematahkan dahan itu.",
+                "ES": "El fuerte viento rompió la rama.",
+                "VI": "Gió mạnh làm gãy cành cây.",
+                "FR": "Le vent fort a cassé la branche.",
+                "NE": "तेज हावाले हाँगा भाँच्यो।",
+                "BN": "প্রবল বাতাসে ডাল ভেঙে গেল।",
+                "ZH": "强风吹断了树枝。",
+                "KO": "강한 바람으로 가지가 부러졌습니다.",
+                "TL": "Naputol ang sanga ng malakas na hangin.",
+                "MY": "လေပြင်းက သစ်ကိုင်းကို ရိုက်ခတ်သွားတယ်။",
+                "HI": "तेज हवा से शाखा टूट गई।",
+                "AR": "كسرت الرياح القوية الفرع.",
+                "FA": "باد شدید شاخه را شکست."
+            }
+        },
+        {
+            "kanji": "鉛筆の芯が折れた。",
+            "furigana": "鉛筆(えんぴつ)の芯(しん)が折(お)れた。",
+            "translations": {
+                "EN": "The pencil lead broke.",
+                "ID": "Isi pensilnya putus.",
+                "ES": "La mina del lápiz se rompió.",
+                "VI": "Ruột bút chì bị gãy.",
+                "FR": "La mine du crayon s'est cassée.",
+                "NE": "पेन्सिलको सिसा फुट्यो।",
+                "BN": "পেন্সিলের সিসা ভেঙে গেল।",
+                "ZH": "铅笔芯断了。",
+                "KO": "연필의 심이 부러졌다.",
+                "TL": "Nabasag ang tingga ng lapis.",
+                "MY": "ခဲတံတွေ ကျိုးသွားတယ်။",
+                "HI": "पेंसिल की लीड टूट गई।",
+                "AR": "لقد انكسر رصاص القلم الرصاص.",
+                "FA": "نوک مداد شکست."
+            }
+        },
+        {
+            "kanji": "試合に負けて、心が折れそうです。",
+            "furigana": "試合(しあい)に負(ま)けて、心(こころ)が折(お)れそうです。",
+            "translations": {
+                "EN": "I feel heartbroken after losing the game.",
+                "ID": "Saya merasa patah hati setelah kalah dalam permainan itu.",
+                "ES": "Me siento desconsolado después de perder el juego.",
+                "VI": "Tôi cảm thấy đau lòng sau khi thua trận.",
+                "FR": "Je me sens le cœur brisé après avoir perdu la partie.",
+                "NE": "खेल हारेपछि मलाई मन दुखेको छ।",
+                "BN": "খেলায় হেরে যাওয়ার পর আমার মন খারাপ।",
+                "ZH": "输掉比赛后我感到心碎。",
+                "KO": "경기에 져서 마음이 부러질 것 같습니다.",
+                "TL": "Nadudurog ang puso ko pagkatapos matalo sa laro.",
+                "MY": "ဂိမ်းရှုံးပြီးနောက် အသည်းကွဲသလို ခံစားရတယ်။",
+                "HI": "खेल हारने के बाद मेरा दिल टूट गया है।",
+                "AR": "أشعر بالحزن الشديد بعد خسارة المباراة.",
+                "FA": "بعد از باخت در بازی، احساس ناراحتی و افسردگی می‌کنم."
+            }
+        },
+        {
+            "kanji": "傘の骨が折れて、雨にぬれました。",
+            "furigana": "傘(かさ)の骨(ほね)が折(お)れて、雨(あめ)にぬれました。",
+            "translations": {
+                "EN": "The ribs of my umbrella broke and I got wet in the rain.",
+                "ID": "Tulang payungku patah dan aku basah kuyup dalam hujan.",
+                "ES": "Las varillas de mi paraguas se rompieron y me mojé bajo la lluvia.",
+                "VI": "Gờ ô của tôi bị gãy và tôi bị ướt dưới mưa.",
+                "FR": "Les baleines de mon parapluie se sont cassées et j'ai été mouillé par la pluie.",
+                "NE": "मेरो छाताको करङ भाँचियो र म पानीमा भिजेँ।",
+                "BN": "আমার ছাতার পাঁজর ভেঙে গেল এবং আমি বৃষ্টিতে ভিজে গেলাম।",
+                "ZH": "我的伞骨断了，我被雨淋湿了。",
+                "KO": "우산의 뼈가 부러지고 비에 젖었습니다.",
+                "TL": "Nabali ang tadyang ng payong ko at nabasa ako sa ulan.",
+                "MY": "ထီးရိုးကျိုးသွားလို့ မိုးရေထဲမှာ စိုစွတ်နေခဲ့တယ်။",
+                "HI": "मेरी छतरी की पसलियां टूट गईं और मैं बारिश में भीग गया।",
+                "AR": "انكسرت أضلاع مظلتي وتبللت تحت المطر.",
+                "FA": "دنده‌های چترم شکست و زیر باران خیس شدم."
+            }
+        },
+        {
+            "kanji": "階段で転んで、手の骨が折れたかもしれません。",
+            "furigana": "階段(かいだん)で転(ころ)んで、手(て)の骨(ほね)が折(お)れたかもしれません。",
+            "translations": {
+                "EN": "Maybe you fell down the stairs and broke your hand.",
+                "ID": "Mungkin Anda terjatuh dari tangga dan tangan Anda patah.",
+                "ES": "Quizás te caíste por las escaleras y te rompiste la mano.",
+                "VI": "Có thể bạn bị ngã cầu thang và gãy tay.",
+                "FR": "Peut-être que vous êtes tombé dans les escaliers et que vous vous êtes cassé la main.",
+                "NE": "सायद तपाईं सिँढीबाट खसेर हात भाँच्नुभयो होला।",
+                "BN": "হয়তো তুমি সিঁড়ি দিয়ে পড়ে গিয়ে হাত ভেঙে ফেলেছো।",
+                "ZH": "也许你从楼梯上摔下来并摔断了手。",
+                "KO": "계단에서 굴러서 손의 뼈가 부러 졌을 수 있습니다.",
+                "TL": "Baka nahulog ka sa hagdan at nabali ang kamay mo.",
+                "MY": "လှေကားက ပြုတ်ကျပြီး လက်ကို ကျိုးသွားတာ ဖြစ်နိုင်တယ်။",
+                "HI": "हो सकता है कि आप सीढ़ियों से गिर गए हों और आपका हाथ टूट गया हो।",
+                "AR": "ربما سقطت من الدرج وكسرت يدك.",
+                "FA": "شاید از پله‌ها افتادی و دستت شکست."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "merusak",
+            "ES": "romper",
+            "VI": "phá vỡ",
+            "FR": "casser",
+            "NE": "ब्रेक",
+            "BN": "বিরতি",
+            "ZH": "休息",
+            "KO": "부서지다",
+            "TL": "break",
+            "MY": "ချိုး",
+            "HI": "तोड़ना",
+            "AR": "استراحة",
+            "FA": "استراحت",
+            "EN": [
+                "break",
+                "snap",
+                "fracture",
+                "crack"
+            ]
+        },
+        {
+            "ID": "membengkokkan",
+            "ES": "doblar",
+            "VI": "uốn cong",
+            "FR": "plier",
+            "NE": "मोड्नु",
+            "BN": "বাঁকানো",
+            "ZH": "弯曲",
+            "KO": "만곡부",
+            "TL": "yumuko",
+            "MY": "ကိုင်း",
+            "HI": "झुकना",
+            "AR": "يلوي",
+            "FA": "خم شدن",
+            "EN": [
+                "bend",
+                "fold"
+            ]
+        },
+        {
+            "ID": "menghasilkan",
+            "ES": "producir",
+            "VI": "năng suất",
+            "FR": "rendement",
+            "NE": "उपज",
+            "BN": "ফলন",
+            "ZH": "屈服",
+            "KO": "생산하다",
+            "TL": "ani",
+            "MY": "အသားပေး",
+            "HI": "उपज",
+            "AR": "أَثْمَر",
+            "FA": "بازده",
+            "EN": [
+                "yield",
+                "concede",
+                "submit",
+                "relent",
+                "giveway],["
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "折れる",
+        "is_common": true,
+        "tags": [
+            "wanikani16"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "折れる",
+                "reading": "おれる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to break",
+                    "to be broken",
+                    "to snap",
+                    "to fracture"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be folded"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to give in",
+                    "to back down",
+                    "to yield",
+                    "to submit"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to turn (a corner)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "曲がる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "折"
+    ],
+    "kanji_data": {
+        "折": {
+            "freq_mainichi_shinbun": 962,
+            "grade": 4,
+            "heisig_en": "fold",
+            "jlpt": 3,
+            "kanji": "折",
+            "kun_readings": [
+                "-お.り",
+                "お.り",
+                "お.る",
+                "お.れる",
+                "おり"
+            ],
+            "meanings": [
+                "bend",
+                "break",
+                "fold",
+                "fracture",
+                "submit",
+                "yield"
+            ],
+            "name_readings": [
+                "せき"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シャク",
+                "セツ"
+            ],
+            "stroke_count": 7,
+            "unicode": "6298"
+        }
+    }
+}

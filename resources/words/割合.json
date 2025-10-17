@@ -1,0 +1,544 @@
+{
+    "version": "0.3.0",
+    "word": "割合",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/3yj23nq361Q",
+    "in_db": true,
+    "kanji": "割合",
+    "reading": "わりあい",
+    "introduction_japanese": "割合。さんすうやニュースで、全体に対してどれくらいかを話すときに使います。思ったより〜だよ、と言うときにも使います。",
+    "introduction_english": "Wariai. We use it in math and in the news when talking about how big a part is compared to the whole. We also use it to say “it’s rather/relatively ~.”",
+    "meanings": [
+        [
+            "ratio",
+            "proportion",
+            "percentage",
+            "rate",
+            "share」「fraction"
+        ],
+        [
+            "comparatively",
+            "relatively",
+            "rather",
+            "fairly"
+        ]
+    ],
+    "meaning_explanation_japanese": "全体と部分をくらべて、そのぶんを数字であらわすことです。また、「思っていたより〜」というやわらかいていどを伝える言い方です。",
+    "meaning_explanation_english": "It is used as a noun, and also as an adverb with に or と. In wariai, it literally tells how large a part is compared with the whole, and it can also soften degree, meaning “relatively” or “rather.”",
+    "youtube_description": "Learn 割合 (wariai) in minutes—what it means, how to use it for ratios and percentages, and how to say “relatively” in natural Japanese, with clear examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "割",
+            "onyomi": [
+                "カツ"
+            ],
+            "kunyomi": [
+                "わ",
+                "わり"
+            ],
+            "meanings_english": [
+                "divide",
+                "break",
+                "discount"
+            ],
+            "common_words": [
+                "割引（わりびき）: discount",
+                "割れる（われる）: to crack, to break"
+            ]
+        },
+        {
+            "kanji": "合",
+            "onyomi": [
+                "ゴウ",
+                "ガッ"
+            ],
+            "kunyomi": [
+                "あ",
+                "あ（う）"
+            ],
+            "meanings_english": [
+                "fit",
+                "join",
+                "match"
+            ],
+            "common_words": [
+                "合計（ごうけい）: total",
+                "合格（ごうかく）: pass (an exam)"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to divide or break and also links to ideas like a discount. You see it in words like わりびき. It also appears in われる which is about something cracking or breaking. Think “cutting up” amounts to compare parts. The second kanji means to fit, join, or match. You hear it in ごうけい when numbers fit together into a total. It is also in ごうかく when someone matches the required standard to pass. Think “things coming together” to make a whole or meet a level.",
+    "synonyms": [
+        "比率 : ひりつ : ratio",
+        "率 : りつ : rate"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ひりつ and りつ. ひりつ is a formal math or data term for ratio, and りつ is a general “rate.” Both overlap with わりあい when you compare a part to a whole, but わりあい also works adverbially to mean “relatively.”",
+    "antonyms": [
+        "絶対数 : ぜったいすう : absolute number",
+        "総数 : そうすう : total number"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are ぜったいすう and そうすう. These focus on raw counts or totals, not on comparison with the whole like わりあい does.",
+    "collocations": [
+        {
+            "kanji": "高い割合",
+            "furigana": "高(たか)い割(わり)合(あい)",
+            "translations": {
+                "EN": "High percentage",
+                "ID": "Persentase tinggi",
+                "ES": "Alto porcentaje",
+                "VI": "Tỷ lệ phần trăm cao",
+                "FR": "Pourcentage élevé",
+                "NE": "उच्च प्रतिशत",
+                "BN": "উচ্চ শতাংশ",
+                "ZH": "百分比高",
+                "KO": "높은 비율",
+                "TL": "Mataas na porsyento",
+                "MY": "ရာခိုင်နှုန်းမြင့်မားသည်။",
+                "HI": "उच्च प्रतिशत",
+                "AR": "نسبة عالية",
+                "FA": "درصد بالا"
+            }
+        },
+        {
+            "kanji": "低い割合",
+            "furigana": "低(ひく)い割(わり)合(あい)",
+            "translations": {
+                "EN": "Low percentage",
+                "ID": "Persentase rendah",
+                "ES": "Bajo porcentaje",
+                "VI": "Tỷ lệ phần trăm thấp",
+                "FR": "Faible pourcentage",
+                "NE": "कम प्रतिशत",
+                "BN": "কম শতাংশ",
+                "ZH": "百分比低",
+                "KO": "낮은 비율",
+                "TL": "Mababang porsyento",
+                "MY": "ရာခိုင်နှုန်းနည်းတယ်။",
+                "HI": "कम प्रतिशत",
+                "AR": "نسبة منخفضة",
+                "FA": "درصد پایین"
+            }
+        },
+        {
+            "kanji": "男性の割合",
+            "furigana": "男(だん)性(せい)の割(わり)合(あい)",
+            "translations": {
+                "EN": "Percentage of men",
+                "ID": "Persentase pria",
+                "ES": "Porcentaje de hombres",
+                "VI": "Tỷ lệ nam giới",
+                "FR": "Pourcentage d'hommes",
+                "NE": "पुरुषहरूको प्रतिशत",
+                "BN": "পুরুষদের শতাংশ",
+                "ZH": "男性所占比例",
+                "KO": "남성 비율",
+                "TL": "Porsiyento ng mga lalaki",
+                "MY": "အမျိုးသားများ ရာခိုင်နှုန်း",
+                "HI": "पुरुषों का प्रतिशत",
+                "AR": "نسبة الرجال",
+                "FA": "درصد مردان"
+            }
+        },
+        {
+            "kanji": "合格者の割合",
+            "furigana": "合(ごう)格(かく)者(しゃ)の割(わり)合(あい)",
+            "translations": {
+                "EN": "Percentage of successful applicants",
+                "ID": "Persentase pelamar yang berhasil",
+                "ES": "Porcentaje de solicitantes exitosos",
+                "VI": "Tỷ lệ ứng viên trúng tuyển",
+                "FR": "Pourcentage de candidats retenus",
+                "NE": "सफल आवेदकहरूको प्रतिशत",
+                "BN": "সফল আবেদনকারীদের শতাংশ",
+                "ZH": "成功申请者的比例",
+                "KO": "합격자 비율",
+                "TL": "Porsiyento ng mga matagumpay na aplikante",
+                "MY": "အောင်မြင်သော လျှောက်ထားသူ ရာခိုင်နှုန်း",
+                "HI": "सफल आवेदकों का प्रतिशत",
+                "AR": "نسبة المتقدمين الناجحين",
+                "FA": "درصد متقاضیان موفق"
+            }
+        },
+        {
+            "kanji": "約30％の割合",
+            "furigana": "約(やく)30％の割(わり)合(あい)",
+            "translations": {
+                "EN": "Approximately 30%",
+                "ID": "Sekitar 30%",
+                "ES": "Aproximadamente el 30%",
+                "VI": "Khoảng 30%",
+                "FR": "Environ 30%",
+                "NE": "लगभग ३०%",
+                "BN": "প্রায় ৩০%",
+                "ZH": "约30%",
+                "KO": "약 30%의 비율",
+                "TL": "humigit-kumulang 30%",
+                "MY": "ခန့်မှန်းခြေ 30%",
+                "HI": "लगभग 30%",
+                "AR": "حوالي 30%",
+                "FA": "تقریباً 30٪"
+            }
+        },
+        {
+            "kanji": "全体に対する割合",
+            "furigana": "全(ぜん)体(たい)に対(たい)する割(わり)合(あい)",
+            "translations": {
+                "EN": "Percentage of the total",
+                "ID": "Persentase dari total",
+                "ES": "Porcentaje del total",
+                "VI": "Tỷ lệ phần trăm của tổng số",
+                "FR": "Pourcentage du total",
+                "NE": "कुलको प्रतिशत",
+                "BN": "মোটের শতাংশ",
+                "ZH": "占总数的百分比",
+                "KO": "전체에 대한 비율",
+                "TL": "Porsiyento ng kabuuan",
+                "MY": "စုစုပေါင်း၏ ရာခိုင်နှုန်း",
+                "HI": "कुल का प्रतिशत",
+                "AR": "نسبة من الإجمالي",
+                "FA": "درصد از کل"
+            }
+        },
+        {
+            "kanji": "割合を計算する",
+            "furigana": "割(わり)合(あい)を計(けい)算(さん)する",
+            "translations": {
+                "EN": "Calculate percentages",
+                "ID": "Hitung persentase",
+                "ES": "Calcular porcentajes",
+                "VI": "Tính phần trăm",
+                "FR": "Calculer les pourcentages",
+                "NE": "प्रतिशत गणना गर्नुहोस्",
+                "BN": "শতাংশ গণনা করুন",
+                "ZH": "计算百分比",
+                "KO": "백분율 계산",
+                "TL": "Kalkulahin ang mga porsyento",
+                "MY": "ရာခိုင်နှုန်းများကို တွက်ချက်ပါ။",
+                "HI": "प्रतिशत की गणना करें",
+                "AR": "حساب النسب المئوية",
+                "FA": "درصدها را محاسبه کنید"
+            }
+        },
+        {
+            "kanji": "割合が増える",
+            "furigana": "割(わり)合(あい)が増(ふ)える",
+            "translations": {
+                "EN": "The percentage increases",
+                "ID": "Persentase meningkat",
+                "ES": "El porcentaje aumenta",
+                "VI": "Phần trăm tăng lên",
+                "FR": "Le pourcentage augmente",
+                "NE": "प्रतिशत बढ्छ",
+                "BN": "শতাংশ বৃদ্ধি পায়",
+                "ZH": "百分比增加",
+                "KO": "비율이 증가",
+                "TL": "Tumataas ang porsyento",
+                "MY": "ရာခိုင်နှုန်း တိုးလာသည်။",
+                "HI": "प्रतिशत बढ़ता है",
+                "AR": "تزداد النسبة المئوية",
+                "FA": "درصد افزایش می‌یابد"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "このクラスは女子の割合が高いです。",
+            "furigana": "このクラスは女(じょ)子(し)の割(わり)合(あい)が高(たか)いです。",
+            "translations": {
+                "EN": "There is a high percentage of girls in this class.",
+                "ID": "Ada persentase anak perempuan yang tinggi di kelas ini.",
+                "ES": "Hay un alto porcentaje de niñas en esta clase.",
+                "VI": "Lớp này có tỷ lệ học sinh nữ cao.",
+                "FR": "Il y a un pourcentage élevé de filles dans cette classe.",
+                "NE": "यस कक्षामा केटीहरूको प्रतिशत उच्च छ।",
+                "BN": "এই ক্লাসে মেয়েদের সংখ্যা বেশি।",
+                "ZH": "这个班的女生比例很高。",
+                "KO": "이 클래스는 여자의 비율이 높습니다.",
+                "TL": "Mayroong mataas na porsyento ng mga babae sa klase na ito.",
+                "MY": "ဒီအတန်းမှာ မိန်းကလေးတွေ ရာခိုင်နှုန်းများတယ်။",
+                "HI": "इस कक्षा में लड़कियों का प्रतिशत अधिक है।",
+                "AR": "هناك نسبة عالية من الفتيات في هذه الفئة.",
+                "FA": "درصد بالایی از دختران در این کلاس حضور دارند."
+            }
+        },
+        {
+            "kanji": "合格者の割合は60％です。",
+            "furigana": "合(ごう)格(かく)者(しゃ)の割(わり)合(あい)は60％です。",
+            "translations": {
+                "EN": "The pass rate is 60%.",
+                "ID": "Tingkat kelulusannya 60%.",
+                "ES": "La tasa de aprobación es del 60%.",
+                "VI": "Tỷ lệ đỗ là 60%.",
+                "FR": "Le taux de réussite est de 60 %.",
+                "NE": "उत्तीर्ण दर ६०% छ।",
+                "BN": "পাশের হার ৬০%।",
+                "ZH": "通过率为60%。",
+                "KO": "합격자의 비율은 60%입니다.",
+                "TL": "Ang pass rate ay 60%.",
+                "MY": "ဝင်ခွင့်နှုန်းက 60% ဖြစ်ပါတယ်။",
+                "HI": "उत्तीर्ण प्रतिशत 60% है।",
+                "AR": "نسبة النجاح 60%.",
+                "FA": "نرخ قبولی ۶۰٪ است."
+            }
+        },
+        {
+            "kanji": "日本では高齢者の割合が増えています。",
+            "furigana": "日(に)本(ほん)では高(こう)齢(れい)者(しゃ)の割(わり)合(あい)が増(ふ)えています。",
+            "translations": {
+                "EN": "The proportion of elderly people in Japan is increasing.",
+                "ID": "Proporsi penduduk lanjut usia di Jepang meningkat.",
+                "ES": "La proporción de personas mayores en Japón está aumentando.",
+                "VI": "Tỷ lệ người cao tuổi ở Nhật Bản đang tăng lên.",
+                "FR": "La proportion de personnes âgées au Japon augmente.",
+                "NE": "जापानमा वृद्धवृद्धाको अनुपात बढ्दै गएको छ।",
+                "BN": "জাপানে বয়স্কদের সংখ্যা ক্রমশ বাড়ছে।",
+                "ZH": "日本老龄人口比例不断增加。",
+                "KO": "일본에서는 고령자의 비율이 증가하고 있습니다.",
+                "TL": "Ang proporsyon ng mga matatanda sa Japan ay tumataas.",
+                "MY": "ဂျပန်မှာ သက်ကြီးရွယ်အို အချိုးအစားက တိုးလာတယ်။",
+                "HI": "जापान में वृद्ध लोगों का अनुपात बढ़ रहा है।",
+                "AR": "تتزايد نسبة كبار السن في اليابان.",
+                "FA": "نسبت سالمندان در ژاپن رو به افزایش است."
+            }
+        },
+        {
+            "kanji": "砂糖と水の割合を計算します。",
+            "furigana": "砂(さ)糖(とう)と水(みず)の割(わり)合(あい)を計(けい)算(さん)します。",
+            "translations": {
+                "EN": "Calculate the ratio of sugar to water.",
+                "ID": "Hitunglah perbandingan gula dan air.",
+                "ES": "Calcular la proporción de azúcar y agua.",
+                "VI": "Tính tỉ lệ đường và nước.",
+                "FR": "Calculez le rapport sucre/eau.",
+                "NE": "चिनी र पानीको अनुपात गणना गर्नुहोस्।",
+                "BN": "চিনি এবং পানির অনুপাত গণনা করুন।",
+                "ZH": "计算糖和水的比例。",
+                "KO": "설탕과 물의 비율을 계산합니다.",
+                "TL": "Kalkulahin ang ratio ng asukal sa tubig.",
+                "MY": "ရေနှင့်သကြားအချိုးကိုတွက်ချက်။",
+                "HI": "चीनी और पानी का अनुपात ज्ञात करें।",
+                "AR": "احسب نسبة السكر إلى الماء",
+                "FA": "نسبت شکر به آب را محاسبه کنید."
+            }
+        },
+        {
+            "kanji": "きょうは割合に涼しいです。",
+            "furigana": "きょうは割(わり)合(あい)に涼(すず)しいです。",
+            "translations": {
+                "EN": "It's relatively cool today.",
+                "ID": "Cuacanya relatif dingin hari ini.",
+                "ES": "Hoy hace relativamente fresco.",
+                "VI": "Hôm nay trời khá mát mẻ.",
+                "FR": "Il fait relativement frais aujourd'hui.",
+                "NE": "आज तुलनात्मक रूपमा राम्रो छ।",
+                "BN": "আজ তুলনামূলকভাবে ঠাণ্ডা।",
+                "ZH": "今天比较凉爽。",
+                "KO": "오늘은 비율에 시원합니다.",
+                "TL": "Medyo astig ngayon.",
+                "MY": "ဒီနေ့ အတော်လေးအေးတယ်။",
+                "HI": "आज मौसम अपेक्षाकृत ठंडा है।",
+                "AR": "إنه بارد نسبيًا اليوم.",
+                "FA": "امروز هوا نسبتاً خنک است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "perbandingan",
+            "ES": "relación",
+            "VI": "tỷ lệ",
+            "FR": "rapport",
+            "NE": "अनुपात",
+            "BN": "অনুপাত",
+            "ZH": "比率",
+            "KO": "비율",
+            "TL": "ratio",
+            "MY": "အချိုး",
+            "HI": "अनुपात",
+            "AR": "نسبة",
+            "FA": "نسبت",
+            "EN": [
+                "ratio",
+                "proportion",
+                "percentage",
+                "rate",
+                "share」「fraction"
+            ]
+        },
+        {
+            "ID": "relatif",
+            "ES": "relativamente",
+            "VI": "so sánh",
+            "FR": "relativement",
+            "NE": "तुलनात्मक रूपमा",
+            "BN": "তুলনামূলকভাবে",
+            "ZH": "比较",
+            "KO": "비교적",
+            "TL": "pahambing",
+            "MY": "နှိုင်းယှဉ်",
+            "HI": "अपेक्षाकृत",
+            "AR": "نسبيا",
+            "FA": "به طور نسبی",
+            "EN": [
+                "comparatively",
+                "relatively",
+                "rather",
+                "fairly"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "割合",
+        "is_common": true,
+        "tags": [
+            "wanikani23"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "割合",
+                "reading": "わりあい"
+            },
+            {
+                "word": "割り合い",
+                "reading": "わりあい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "rate",
+                    "ratio",
+                    "percentage",
+                    "proportion"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "comparatively"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "contrary to expectations"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "割",
+        "合"
+    ],
+    "kanji_data": {
+        "割": {
+            "freq_mainichi_shinbun": 318,
+            "grade": 6,
+            "heisig_en": "proportion",
+            "jlpt": 3,
+            "kanji": "割",
+            "kun_readings": [
+                "さ.く",
+                "わ.り",
+                "わ.る",
+                "わ.れる",
+                "わり"
+            ],
+            "meanings": [
+                "comparatively",
+                "cut",
+                "divide",
+                "proportion",
+                "separate",
+                "split"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カツ"
+            ],
+            "stroke_count": 12,
+            "unicode": "5272"
+        },
+        "合": {
+            "freq_mainichi_shinbun": 41,
+            "grade": 2,
+            "heisig_en": "fit",
+            "jlpt": 3,
+            "kanji": "合",
+            "kun_readings": [
+                "-あ.い",
+                "-あ.う",
+                "-あ.わせる",
+                "-あい",
+                "あ.い",
+                "あ.う",
+                "あ.わす",
+                "あ.わせる",
+                "あい-"
+            ],
+            "meanings": [
+                "0.1",
+                "fit",
+                "join",
+                "suit"
+            ],
+            "name_readings": [
+                "あう",
+                "あん",
+                "い",
+                "か",
+                "こう",
+                "ごお",
+                "に",
+                "ね",
+                "や",
+                "わい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カッ",
+                "ガッ",
+                "ゴウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5408"
+        }
+    }
+}

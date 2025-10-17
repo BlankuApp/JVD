@@ -1,0 +1,602 @@
+{
+    "version": "0.3.0",
+    "word": "味噌",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/qHDYnTuiYsU",
+    "in_db": true,
+    "kanji": "味噌",
+    "reading": "みそ",
+    "introduction_japanese": "味噌。料理の話や、和食のメニュー、スーパーでの買い物でよく使うよ。",
+    "introduction_english": "Miso (みそ). You hear this when talking about cooking, Japanese menus, and grocery shopping.",
+    "meanings": [
+        [
+            "miso",
+            "paste",
+            "seasoning",
+            "condiment"
+        ],
+        [
+            "marinade",
+            "pickling"
+        ],
+        [
+            "crux",
+            "point",
+            "gist",
+            "essence",
+            "highlight"
+        ]
+    ],
+    "meaning_explanation_japanese": "発酵させた大豆のペーストで、料理の味をつけたり、漬け込みのベースにしたりするもの。比喩では、物事の要点・大事なところという意味にもなるよ。",
+    "meaning_explanation_english": "This word is used as a noun. Miso (みそ) is a fermented soybean paste used as a seasoning or base for marinades, and by extension it can mean the key point or crux of something.",
+    "youtube_description": "Learn what 味噌 (miso) means, how to say it, and how to use it in everyday Japanese with clear examples and common phrases.",
+    "kanji_details": [
+        {
+            "kanji": "味",
+            "onyomi": [
+                "ミ"
+            ],
+            "kunyomi": [
+                "あじ",
+                "あじ-わう"
+            ],
+            "meanings_english": [
+                "taste",
+                "flavor"
+            ],
+            "common_words": [
+                "味",
+                "味見"
+            ]
+        },
+        {
+            "kanji": "噌",
+            "onyomi": [
+                "ソウ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "miso (character used in food term)"
+            ],
+            "common_words": [
+                "味噌汁",
+                "味噌漬け"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means taste and flavor. You see it in あじ and あじみ. It often appears in words about sensing food. Think of it as the idea of how something tastes. The second kanji is mainly used for the food name. You will notice it in みそしる and みそづけ. It shares a mouth-related feel and works like a sound part here. Just remember it helps spell みそ in food words.",
+    "synonyms": [
+        "調味料 : ちょうみりょう : seasoning",
+        "味噌だれ : みそだれ : miso sauce"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ちょうみりょう and みそだれ. ちょうみりょう is a broad term for any seasoning, while みそだれ is a specific sauce made from みそ. They overlap when talking about flavoring food.",
+    "antonyms": [
+        "醤油 : しょうゆ : soy sauce",
+        "塩 : しお : salt"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are しょうゆ and しお. They are not true opposites, but different basic seasonings; しょうゆ is liquid and しお is mineral, while みそ is a thick fermented paste.",
+    "collocations": [
+        {
+            "kanji": "白味噌",
+            "furigana": "白(しろ)味(み)噌(そ)",
+            "translations": {
+                "EN": "White miso",
+                "ID": "Miso putih",
+                "ES": "Miso blanco",
+                "VI": "Miso trắng",
+                "FR": "Miso blanc",
+                "NE": "सेतो मिसो",
+                "BN": "সাদা মিসো",
+                "ZH": "白味噌",
+                "KO": "흰 된장",
+                "TL": "Puting miso",
+                "MY": "အဖြူရောင် မီဆို",
+                "HI": "सफेद मिसो",
+                "AR": "ميسو أبيض",
+                "FA": "میسو سفید"
+            }
+        },
+        {
+            "kanji": "赤味噌",
+            "furigana": "赤(あか)味(み)噌(そ)",
+            "translations": {
+                "EN": "Red miso",
+                "ID": "Miso merah",
+                "ES": "Miso rojo",
+                "VI": "Miso đỏ",
+                "FR": "Miso rouge",
+                "NE": "रातो मिसो",
+                "BN": "লাল মিসো",
+                "ZH": "红味噌",
+                "KO": "붉은 된장",
+                "TL": "Pulang miso",
+                "MY": "အနီရောင် မီဆို",
+                "HI": "लाल मिसो",
+                "AR": "ميسو أحمر",
+                "FA": "میسو قرمز"
+            }
+        },
+        {
+            "kanji": "合わせ味噌",
+            "furigana": "合(あ)わせ味(み)噌(そ)",
+            "translations": {
+                "EN": "Mixed miso",
+                "ID": "Miso campuran",
+                "ES": "Miso mixto",
+                "VI": "Miso hỗn hợp",
+                "FR": "Miso mélangé",
+                "NE": "मिश्रित मिसो",
+                "BN": "মিশ্র মিসো",
+                "ZH": "混合味噌",
+                "KO": "합쳐 된장",
+                "TL": "Pinaghalong miso",
+                "MY": "ရောစပ်ထားသော မီဆို",
+                "HI": "मिश्रित मिसो",
+                "AR": "ميسو مختلط",
+                "FA": "میسو مخلوط"
+            }
+        },
+        {
+            "kanji": "味噌だれ",
+            "furigana": "味(み)噌(そ)だれ",
+            "translations": {
+                "EN": "Miso sauce",
+                "ID": "Saus miso",
+                "ES": "salsa de miso",
+                "VI": "Nước sốt miso",
+                "FR": "Sauce miso",
+                "NE": "मिसो सस",
+                "BN": "মিসো সস",
+                "ZH": "味噌酱",
+                "KO": "된장 누구",
+                "TL": "miso sauce",
+                "MY": "Miso ဆော့စ်",
+                "HI": "मिसो सॉस",
+                "AR": "صلصة ميسو",
+                "FA": "سس میسو"
+            }
+        },
+        {
+            "kanji": "味噌漬け",
+            "furigana": "味(み)噌(そ)漬(づ)け",
+            "translations": {
+                "EN": "miso pickled",
+                "ID": "miso acar",
+                "ES": "miso encurtido",
+                "VI": "miso ngâm",
+                "FR": "miso mariné",
+                "NE": "मिसो अचार",
+                "BN": "মিসো আচার",
+                "ZH": "味噌腌制",
+                "KO": "된장 절임",
+                "TL": "adobo ng miso",
+                "MY": "miso ချဉ်",
+                "HI": "मिसो अचार",
+                "AR": "مخلل ميسو",
+                "FA": "ترشی میسو"
+            }
+        },
+        {
+            "kanji": "味噌ラーメン",
+            "furigana": "味(み)噌(そ)ラーメン",
+            "translations": {
+                "EN": "Miso Ramen",
+                "ID": "miso ramen",
+                "ES": "Ramen de miso",
+                "VI": "mì miso",
+                "FR": "Miso Ramen",
+                "NE": "मिसो रामेन",
+                "BN": "মিসো রমেন",
+                "ZH": "味噌拉面",
+                "KO": "된장라면",
+                "TL": "Miso Ramen",
+                "MY": "Miso Ramen",
+                "HI": "मिसो रामेन",
+                "AR": "ميسو رامين",
+                "FA": "میسو رامن"
+            }
+        },
+        {
+            "kanji": "北海道の味噌",
+            "furigana": "北(ほっ)海(かい)道(どう)の味(み)噌(そ)",
+            "translations": {
+                "EN": "Hokkaido miso",
+                "ID": "Miso Hokkaido",
+                "ES": "Miso de Hokkaidō",
+                "VI": "Tương miso Hokkaido",
+                "FR": "Miso d'Hokkaido",
+                "NE": "होक्काइडो मिसो",
+                "BN": "হোক্কাইডো মিসো",
+                "ZH": "北海道味噌",
+                "KO": "홋카이도의 된장",
+                "TL": "Hokkaido miso",
+                "MY": "ဟော့ကိုင်းဒိုးမီဆို",
+                "HI": "होक्काइडो मिसो",
+                "AR": "هوكايدو ميسو",
+                "FA": "میزو هوکایدو"
+            }
+        },
+        {
+            "kanji": "家の味噌",
+            "furigana": "家(いえ)の味(み)噌(そ)",
+            "translations": {
+                "EN": "House-made miso",
+                "ID": "Miso buatan sendiri",
+                "ES": "Miso casero",
+                "VI": "Miso tự làm",
+                "FR": "Miso fait maison",
+                "NE": "घरमै बनाएको मिसो",
+                "BN": "ঘরে তৈরি মিসো",
+                "ZH": "自制味噌",
+                "KO": "집 된장",
+                "TL": "Miso na gawa sa bahay",
+                "MY": "အိမ်လုပ် Miso",
+                "HI": "घर में बना मिसो",
+                "AR": "ميسو محلي الصنع",
+                "FA": "میسو خانگی"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この味噌は甘いです。",
+            "furigana": "この味(み)噌(そ)は甘(あま)いです。",
+            "translations": {
+                "EN": "This miso is sweet.",
+                "ID": "Miso ini manis.",
+                "ES": "Este miso es dulce.",
+                "VI": "Miso này ngọt quá.",
+                "FR": "Ce miso est sucré.",
+                "NE": "यो मिसो मीठो छ।",
+                "BN": "এই মিসোটা মিষ্টি।",
+                "ZH": "这个味噌很甜。",
+                "KO": "이 된장은 달콤합니다.",
+                "TL": "Matamis ang miso na ito.",
+                "MY": "ဒီမီဆိုက ချိုတယ်။",
+                "HI": "यह मिसो मीठा है.",
+                "AR": "هذا الميسو حلو.",
+                "FA": "این میسو شیرین است."
+            }
+        },
+        {
+            "kanji": "スーパーで味噌を買いました。",
+            "furigana": "スーパーで味(み)噌(そ)を買(か)いました。",
+            "translations": {
+                "EN": "I bought miso at the supermarket.",
+                "ID": "Saya membeli miso di supermarket.",
+                "ES": "Compré miso en el supermercado.",
+                "VI": "Tôi đã mua miso ở siêu thị.",
+                "FR": "J'ai acheté du miso au supermarché.",
+                "NE": "मैले सुपरमार्केटबाट मिसो किनें।",
+                "BN": "আমি সুপারমার্কেট থেকে মিসো কিনেছি।",
+                "ZH": "我在超市买了味噌。",
+                "KO": "슈퍼에서 된장을 샀다.",
+                "TL": "Bumili ako ng miso sa supermarket.",
+                "MY": "စူပါမားကတ်မှာ မီဆိုကို ဝယ်ခဲ့တယ်။",
+                "HI": "मैंने सुपरमार्केट से मिसो खरीदा।",
+                "AR": "اشتريت ميسو من السوبر ماركت.",
+                "FA": "من میسو را از سوپرمارکت خریدم."
+            }
+        },
+        {
+            "kanji": "鍋に味噌を入れて、よく溶かします。",
+            "furigana": "鍋(なべ)に味(み)噌(そ)を入(い)れて、よく溶(と)かします。",
+            "translations": {
+                "EN": "Add the miso to the pot and dissolve it well.",
+                "ID": "Tambahkan miso ke dalam panci dan larutkan dengan baik.",
+                "ES": "Añade el miso a la olla y disuélvelo bien.",
+                "VI": "Thêm miso vào nồi và khuấy tan đều.",
+                "FR": "Ajoutez le miso dans la casserole et dissolvez-le bien.",
+                "NE": "भाँडोमा मिसो थप्नुहोस् र यसलाई राम्रोसँग घोल्नुहोस्।",
+                "BN": "পাত্রে মিসো যোগ করুন এবং ভালো করে গলিয়ে নিন।",
+                "ZH": "将味噌放入锅中并充分溶解。",
+                "KO": "냄비에 된장을 넣고 잘 녹입니다.",
+                "TL": "Idagdag ang miso sa palayok at i-dissolve ito ng mabuti.",
+                "MY": "မီဆိုကို အိုးထဲသို့ထည့်ကာ ကောင်းစွာပျော်အောင်တည်ပါ။",
+                "HI": "बर्तन में मिसो डालें और उसे अच्छी तरह से घोल लें।",
+                "AR": "أضف الميسو إلى الوعاء وذوبه جيدًا.",
+                "FA": "میسو را به قابلمه اضافه کنید و خوب حل کنید."
+            }
+        },
+        {
+            "kanji": "うちの味噌は北海道のものです。",
+            "furigana": "うちの味(み)噌(そ)は北(ほっ)海(かい)道(どう)のものです。",
+            "translations": {
+                "EN": "Our miso is from Hokkaido.",
+                "ID": "Miso kami berasal dari Hokkaido.",
+                "ES": "Nuestro miso es de Hokkaido.",
+                "VI": "Miso của chúng tôi có nguồn gốc từ Hokkaido.",
+                "FR": "Notre miso vient d'Hokkaido.",
+                "NE": "हाम्रो मिसो होक्काइडोबाट हो।",
+                "BN": "আমাদের মিসো হোক্কাইডো থেকে এসেছে।",
+                "ZH": "我们的味噌来自北海道。",
+                "KO": "우리 된장은 홋카이도의 것입니다.",
+                "TL": "Ang aming miso ay mula sa Hokkaido.",
+                "MY": "ကျွန်ုပ်တို့၏ miso သည် Hokkaido မှဖြစ်သည်။",
+                "HI": "हमारा मिसो होक्काइडो से है।",
+                "AR": "ميسو لدينا من هوكايدو.",
+                "FA": "میسوی ما از هوکایدو است."
+            }
+        },
+        {
+            "kanji": "今日は味噌で魚を煮ます。",
+            "furigana": "きょうは味(み)噌(そ)で魚(さかな)を煮(に)ます。",
+            "translations": {
+                "EN": "Today I'm going to simmer fish in miso.",
+                "ID": "Hari ini saya akan merebus ikan dalam miso.",
+                "ES": "Hoy voy a cocinar pescado en miso.",
+                "VI": "Hôm nay tôi sẽ ninh cá trong miso.",
+                "FR": "Aujourd'hui, je vais faire mijoter du poisson dans du miso.",
+                "NE": "आज म माछालाई मिसोमा उमाल्दैछु।",
+                "BN": "আজ আমি মিসোতে মাছ সিদ্ধ করব।",
+                "ZH": "今天我要用味噌炖鱼。",
+                "KO": "오늘은 된장으로 생선을 끓인다.",
+                "TL": "Ngayon ay magluluto ako ng isda sa miso.",
+                "MY": "ဒီနေ့ မီဆိုငါးကို ကျိုချက်မယ်။",
+                "HI": "आज मैं मिसो में मछली पकाने जा रहा हूँ।",
+                "AR": "اليوم سأقوم بطهي السمك في الميسو.",
+                "FA": "امروز می‌خواهم ماهی را در میسو بجوشانم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "miso",
+            "ES": "miso",
+            "VI": "miso",
+            "FR": "miso",
+            "NE": "मिसो",
+            "BN": "মিসো",
+            "ZH": "味噌",
+            "KO": "된장",
+            "TL": "miso",
+            "MY": "မီဆို",
+            "HI": "मिसो",
+            "AR": "ميسو",
+            "FA": "میسو",
+            "EN": [
+                "miso",
+                "paste",
+                "seasoning",
+                "condiment"
+            ]
+        },
+        {
+            "ID": "bumbu perendam",
+            "ES": "escabeche",
+            "VI": "nước ướp",
+            "FR": "marinade",
+            "NE": "म्यारिनेड",
+            "BN": "মেরিনেড",
+            "ZH": "腌料",
+            "KO": "매리네이드",
+            "TL": "atsara",
+            "MY": "marinade",
+            "HI": "मैरिनेड",
+            "AR": "ماء مالح",
+            "FA": "ماریناد",
+            "EN": [
+                "marinade",
+                "pickling"
+            ]
+        },
+        {
+            "ID": "titik kritis",
+            "ES": "quid",
+            "VI": "điểm then chốt",
+            "FR": "nœud",
+            "NE": "मुख्य कुरा",
+            "BN": "মূল বিষয়",
+            "ZH": "症结",
+            "KO": "요점",
+            "TL": "crux",
+            "MY": "အထွတ်အထိပ်",
+            "HI": "क्रक्स",
+            "AR": "نقطة التحول",
+            "FA": "معما",
+            "EN": [
+                "crux",
+                "point",
+                "gist",
+                "essence",
+                "highlight"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "味噌",
+        "is_common": true,
+        "tags": [
+            "wanikani35"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "味噌",
+                "reading": "みそ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "miso",
+                    "fermented condiment usu. made from soybeans"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Food, cooking"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "innards (from crabs, shrimps, etc.) resembling miso"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "key point",
+                    "main point",
+                    "good part (of something)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. as ミソ"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "weakling",
+                    "weak person"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Derogatory"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "泣き味噌",
+                    "弱味噌"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "try"
+                ],
+                "parts_of_speech": [
+                    "Expressions (phrases, clauses, etc.)"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone",
+                    "Slang",
+                    "Jocular, humorous term"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "見る"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "imperative; after the -te form of a verb; pun on 見ろ"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Miso"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Miso” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Miso?oldid=495055642"
+                    },
+                    {
+                        "text": "Read “味噌” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/味噌?oldid=42534528"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Miso"
+        }
+    },
+    "kanji_list": [
+        "味",
+        "噌"
+    ],
+    "kanji_data": {
+        "味": {
+            "freq_mainichi_shinbun": 442,
+            "grade": 3,
+            "heisig_en": "flavor",
+            "jlpt": 4,
+            "kanji": "味",
+            "kun_readings": [
+                "あじ",
+                "あじ.わう"
+            ],
+            "meanings": [
+                "flavor",
+                "taste"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ミ"
+            ],
+            "stroke_count": 8,
+            "unicode": "5473"
+        },
+        "噌": {
+            "freq_mainichi_shinbun": null,
+            "grade": 9,
+            "heisig_en": "miso",
+            "jlpt": null,
+            "kanji": "噌",
+            "kun_readings": [
+                "かまびす.しい"
+            ],
+            "meanings": [
+                "boisterous"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ショウ",
+                "ソ",
+                "ソウ"
+            ],
+            "stroke_count": 14,
+            "unicode": "564C"
+        }
+    }
+}

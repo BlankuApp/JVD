@@ -1,0 +1,593 @@
+{
+    "version": "0.3.0",
+    "word": "大体",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/Z4gkUl2hWF4",
+    "in_db": true,
+    "kanji": "大体",
+    "reading": "だいたい",
+    "introduction_japanese": "大体。時間や数を言うとき、全体のようすを話すときによく使います。",
+    "introduction_english": "だいたい. We use it when talking about time or numbers, and when giving the general picture.",
+    "meanings": [
+        [
+            "roughly",
+            "approximately",
+            "about",
+            "around",
+            "nearly"
+        ],
+        [
+            "generally",
+            "mostly",
+            "overall",
+            "usually",
+            "commonly"
+        ],
+        [
+            "outline",
+            "gist",
+            "summary",
+            "generality"
+        ]
+    ],
+    "meaning_explanation_japanese": "おおよその数量や時間を言うときの言葉です。全体の傾向を言うときにも使います。さらに、細かい部分ではなく、概要や要点という名詞の意味があります。",
+    "meaning_explanation_english": "It is used as both an adverb and a noun. だいたい means roughly or approximately, also generally or mostly, and as a noun it can mean the outline or gist.",
+    "youtube_description": "Learn だいたい in minutes—meaning, grammar, and natural examples. We’ll cover “roughly/approximately,” “generally/mostly,” and the noun use “outline/gist,” with easy sentences for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "大",
+            "onyomi": [
+                "ダイ",
+                "タイ"
+            ],
+            "kunyomi": [
+                "おお-",
+                "おおきい"
+            ],
+            "meanings_english": [
+                "big",
+                "great"
+            ],
+            "common_words": [
+                "大きい — おおきい — big",
+                "大学 — だいがく — university"
+            ]
+        },
+        {
+            "kanji": "体",
+            "onyomi": [
+                "タイ",
+                "テイ"
+            ],
+            "kunyomi": [
+                "からだ"
+            ],
+            "meanings_english": [
+                "body",
+                "form"
+            ],
+            "common_words": [
+                "体 — からだ — body",
+                "体調 — たいちょう — physical condition"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means big or great. It shows size and importance. You see it in おおきい and だいがく. Think of something large or important.\n\nThe second kanji means body or form. It points to shape and physical condition. You see it in からだ and たいちょう. It often talks about health and the human body.",
+    "synonyms": [
+        "概ね : おおむね : mostly"
+    ],
+    "synonym_explanation": "The most common synonym of the word is おおむね. It overlaps when you mean “mostly” or “generally,” but おおむね sounds a bit more formal than だいたい.",
+    "antonyms": [
+        "正確に : せいかくに : exactly"
+    ],
+    "antonym_explanation": "The most common antonym is せいかくに, which means “exactly” or “precisely,” the opposite of the loose, approximate feel of だいたい.",
+    "collocations": [
+        {
+            "kanji": "話の大体",
+            "furigana": "話(はなし)の大(だい)体(たい)",
+            "translations": {
+                "EN": "The gist of the story",
+                "ID": "Inti ceritanya",
+                "ES": "La esencia de la historia",
+                "VI": "Ý chính của câu chuyện",
+                "FR": "L'essentiel de l'histoire",
+                "NE": "कथाको सार",
+                "BN": "গল্পের সারমর্ম",
+                "ZH": "故事的主旨",
+                "KO": "이야기의 대략",
+                "TL": "Ang buod ng kwento",
+                "MY": "ဇာတ်လမ်း၏အနှစ်ချုပ်",
+                "HI": "कहानी का सार",
+                "AR": "جوهر القصة",
+                "FA": "اصل داستان"
+            }
+        },
+        {
+            "kanji": "本の大体",
+            "furigana": "本(ほん)の大(だい)体(たい)",
+            "translations": {
+                "EN": "The general outline of the book",
+                "ID": "Garis besar umum buku ini",
+                "ES": "El esquema general del libro",
+                "VI": "Đại cương chung của cuốn sách",
+                "FR": "Le plan général du livre",
+                "NE": "पुस्तकको सामान्य रूपरेखा",
+                "BN": "বইটির সাধারণ রূপরেখা",
+                "ZH": "本书的概要",
+                "KO": "책의 대략",
+                "TL": "Ang pangkalahatang balangkas ng aklat",
+                "MY": "စာအုပ်၏ အထွေထွေ အကြမ်းဖျင်း",
+                "HI": "पुस्तक की सामान्य रूपरेखा",
+                "AR": "المخطط العام للكتاب",
+                "FA": "طرح کلی کتاب"
+            }
+        },
+        {
+            "kanji": "大体の内容",
+            "furigana": "大(だい)体(たい)の内(ない)容(よう)",
+            "translations": {
+                "EN": "General content",
+                "ID": "Konten umum",
+                "ES": "Contenido general",
+                "VI": "Nội dung chung",
+                "FR": "Contenu général",
+                "NE": "सामान्य सामग्री",
+                "BN": "সাধারণ বিষয়বস্তু",
+                "ZH": "一般内容",
+                "KO": "대체로 내용",
+                "TL": "Pangkalahatang nilalaman",
+                "MY": "အထွေထွေအကြောင်းအရာ",
+                "HI": "सामान्य सामग्री",
+                "AR": "المحتوى العام",
+                "FA": "محتوای عمومی"
+            }
+        },
+        {
+            "kanji": "計画の大体",
+            "furigana": "計(けい)画(かく)の大(だい)体(たい)",
+            "translations": {
+                "EN": "Outline of the plan",
+                "ID": "Garis besar rencana",
+                "ES": "Esquema del plan",
+                "VI": "Phác thảo kế hoạch",
+                "FR": "Aperçu du plan",
+                "NE": "योजनाको रूपरेखा",
+                "BN": "পরিকল্পনার রূপরেখা",
+                "ZH": "计划概要",
+                "KO": "계획의 대략",
+                "TL": "Balangkas ng plano",
+                "MY": "အစီအစဉ်၏အကျဉ်းချုပ်",
+                "HI": "योजना की रूपरेखा",
+                "AR": "مخطط الخطة",
+                "FA": "طرح کلی طرح"
+            }
+        },
+        {
+            "kanji": "大体の流れ",
+            "furigana": "大(だい)体(たい)の流(なが)れ",
+            "translations": {
+                "EN": "General flow",
+                "ID": "Aliran umum",
+                "ES": "Flujo general",
+                "VI": "Dòng chảy chung",
+                "FR": "Débit général",
+                "NE": "सामान्य प्रवाह",
+                "BN": "সাধারণ প্রবাহ",
+                "ZH": "常规流程",
+                "KO": "대략의 흐름",
+                "TL": "Pangkalahatang daloy",
+                "MY": "အထွေထွေစီးဆင်းမှု",
+                "HI": "सामान्य प्रवाह",
+                "AR": "التدفق العام",
+                "FA": "جریان عمومی"
+            }
+        },
+        {
+            "kanji": "大体の人数",
+            "furigana": "大(だい)体(たい)の人(にん)数(ずう)",
+            "translations": {
+                "EN": "Approximate number of people",
+                "ID": "Perkiraan jumlah orang",
+                "ES": "Número aproximado de personas",
+                "VI": "Số lượng người ước tính",
+                "FR": "Nombre approximatif de personnes",
+                "NE": "मानिसहरूको अनुमानित संख्या",
+                "BN": "আনুমানিক লোক সংখ্যা",
+                "ZH": "大约人数",
+                "KO": "대략 인원수",
+                "TL": "Tinatayang bilang ng mga tao",
+                "MY": "ခန့်မှန်းခြေ လူအရေအတွက်",
+                "HI": "लोगों की अनुमानित संख्या",
+                "AR": "العدد التقريبي للأشخاص",
+                "FA": "تعداد تقریبی افراد"
+            }
+        },
+        {
+            "kanji": "大体分かる",
+            "furigana": "大(だい)体(たい)分(わ)かる",
+            "translations": {
+                "EN": "I understand roughly",
+                "ID": "Saya mengerti secara garis besar",
+                "ES": "Entiendo mas o menos",
+                "VI": "Tôi hiểu sơ qua",
+                "FR": "Je comprends à peu près",
+                "NE": "म लगभग बुझ्छु।",
+                "BN": "আমি মোটামুটি বুঝতে পারছি।",
+                "ZH": "我大概了解一下",
+                "KO": "대략 알다",
+                "TL": "Naiintindihan ko halos",
+                "MY": "အကြမ်းဖျင်းတော့ နားလည်ပါတယ်။",
+                "HI": "मैं मोटे तौर पर समझता हूँ",
+                "AR": "أنا أفهم تقريبا",
+                "FA": "من کم و بیش می فهمم"
+            }
+        },
+        {
+            "kanji": "大体合っている",
+            "furigana": "大(だい)体(たい)合(あ)っている",
+            "translations": {
+                "EN": "Generally correct",
+                "ID": "Umumnya benar",
+                "ES": "Generalmente correcto",
+                "VI": "Nói chung là đúng",
+                "FR": "Généralement correct",
+                "NE": "सामान्यतया सही",
+                "BN": "সাধারণত সঠিক",
+                "ZH": "总体上正确",
+                "KO": "대체로 맞는",
+                "TL": "Sa pangkalahatan tama",
+                "MY": "ယေဘုယျအားဖြင့် မှန်ပါတယ်။",
+                "HI": "आम तौर पर सही",
+                "AR": "صحيح بشكل عام",
+                "FA": "به طور کلی درست است"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "大体五分かかります。",
+            "furigana": "大(だい)体(たい)五(ご)分(ふん)かかります。",
+            "translations": {
+                "EN": "It will take about five minutes.",
+                "ID": "Ini akan memakan waktu sekitar lima menit.",
+                "ES": "Tomará unos cinco minutos.",
+                "VI": "Sẽ mất khoảng năm phút.",
+                "FR": "Cela prendra environ cinq minutes.",
+                "NE": "यसले लगभग पाँच मिनेट लिनेछ।",
+                "BN": "এতে প্রায় পাঁচ মিনিট সময় লাগবে।",
+                "ZH": "大约需要五分钟。",
+                "KO": "대체로 5분 정도 걸립니다.",
+                "TL": "Aabutin ito ng halos limang minuto.",
+                "MY": "ငါးမိနစ်ခန့်ကြာပါမည်။",
+                "HI": "इसमें लगभग पांच मिनट लगेंगे।",
+                "AR": "سيستغرق الأمر حوالي خمس دقائق.",
+                "FA": "حدود پنج دقیقه طول خواهد کشید."
+            }
+        },
+        {
+            "kanji": "その値段は大体いくらですか。",
+            "furigana": "その値(ね)段(だん)は大(だい)体(たい)いくらですか。",
+            "translations": {
+                "EN": "What is the price roughly?",
+                "ID": "Berapa kira-kira harganya?",
+                "ES": "¿Cual es el precio aproximadamente?",
+                "VI": "Giá cả khoảng bao nhiêu?",
+                "FR": "Quel est le prix approximatif ?",
+                "NE": "लगभग मूल्य कति हो?",
+                "BN": "দাম মোটামুটি কত?",
+                "ZH": "价格大概是多少？",
+                "KO": "그 가격은 대체로 얼마입니까?",
+                "TL": "Magkano ang presyo halos?",
+                "MY": "အကြမ်းဖျင်းဈေးဘယ်လောက်လဲ",
+                "HI": "कीमत लगभग कितनी है?",
+                "AR": "ما هو السعر تقريبًا؟",
+                "FA": "قیمتش حدودا چقدر میشه؟"
+            }
+        },
+        {
+            "kanji": "私は大体わかりました。",
+            "furigana": "私(わたし)は大(だい)体(たい)わかりました。",
+            "translations": {
+                "EN": "I understand it roughly.",
+                "ID": "Saya memahaminya secara garis besar.",
+                "ES": "Lo entiendo más o menos.",
+                "VI": "Tôi hiểu sơ qua.",
+                "FR": "Je le comprends à peu près.",
+                "NE": "म यसलाई लगभग बुझ्छु।",
+                "BN": "আমি মোটামুটি বুঝতে পারছি।",
+                "ZH": "我大概明白了。",
+                "KO": "대체로 알았어요.",
+                "TL": "Naiintindihan ko ito halos.",
+                "MY": "အကြမ်းဖျင်းတော့ နားလည်ပါတယ်။",
+                "HI": "मैं इसे मोटे तौर पर समझता हूं।",
+                "AR": "أنا أفهم ذلك تقريبًا.",
+                "FA": "من تقریباً آن را می‌فهمم."
+            }
+        },
+        {
+            "kanji": "会議は大体終わりました。",
+            "furigana": "会(かい)議(ぎ)は大(だい)体(たい)終(お)わりました。",
+            "translations": {
+                "EN": "The meeting is almost over.",
+                "ID": "Pertemuannya hampir selesai.",
+                "ES": "La reunión está casi terminada.",
+                "VI": "Cuộc họp sắp kết thúc rồi.",
+                "FR": "La réunion est presque terminée.",
+                "NE": "बैठक लगभग सकियो।",
+                "BN": "সভা প্রায় শেষ।",
+                "ZH": "会议快结束了。",
+                "KO": "회의는 대체로 끝났습니다.",
+                "TL": "Malapit na matapos ang meeting.",
+                "MY": "အစည်းအဝေး ပြီးခါနီးပြီ။",
+                "HI": "बैठक लगभग ख़त्म हो गई है.",
+                "AR": "لقد انتهى الاجتماع تقريبا.",
+                "FA": "جلسه تقریباً تمام شده است."
+            }
+        },
+        {
+            "kanji": "本の大体をつかみました。",
+            "furigana": "本(ほん)の大(だい)体(たい)をつかみました。",
+            "translations": {
+                "EN": "I got the gist of the book.",
+                "ID": "Saya mengerti inti buku itu.",
+                "ES": "Entendí la esencia del libro.",
+                "VI": "Tôi đã hiểu được ý chính của cuốn sách.",
+                "FR": "J'ai compris l'essentiel du livre.",
+                "NE": "मैले किताबको सार बुझें।",
+                "BN": "বইটির সারমর্ম আমি বুঝতে পেরেছি।",
+                "ZH": "我了解了这本书的主旨。",
+                "KO": "책의 대부분을 잡았습니다.",
+                "TL": "Nakuha ko ang diwa ng libro.",
+                "MY": "စာအုပ်ရဲ့ အနှစ်သာရကို ရခဲ့တယ်။",
+                "HI": "मुझे पुस्तक का सार समझ आ गया।",
+                "AR": "لقد فهمت جوهر الكتاب.",
+                "FA": "اصل مطلب کتاب را گرفتم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "dengan kasar",
+            "ES": "apenas",
+            "VI": "đại khái",
+            "FR": "à peu près",
+            "NE": "लगभग",
+            "BN": "মোটামুটিভাবে",
+            "ZH": "大致",
+            "KO": "대충",
+            "TL": "halos",
+            "MY": "အကြမ်းဖျင်း",
+            "HI": "मोटे तौर पर",
+            "AR": "تقريبا",
+            "FA": "تقریباً",
+            "EN": [
+                "roughly",
+                "approximately",
+                "about",
+                "around",
+                "nearly"
+            ]
+        },
+        {
+            "ID": "umumnya",
+            "ES": "generalmente",
+            "VI": "nói chung là",
+            "FR": "en général",
+            "NE": "सामान्यतया",
+            "BN": "সাধারণত",
+            "ZH": "一般来说",
+            "KO": "일반적으로",
+            "TL": "pangkalahatan",
+            "MY": "ယေဘုယျအားဖြင့်",
+            "HI": "आम तौर पर",
+            "AR": "عمومًا",
+            "FA": "به طور کلی",
+            "EN": [
+                "generally",
+                "mostly",
+                "overall",
+                "usually",
+                "commonly"
+            ]
+        },
+        {
+            "ID": "garis besar",
+            "ES": "describir",
+            "VI": "phác thảo",
+            "FR": "contour",
+            "NE": "रूपरेखा",
+            "BN": "রূপরেখা",
+            "ZH": "大纲",
+            "KO": "개요",
+            "TL": "balangkas",
+            "MY": "ကောက်ကြောင်း",
+            "HI": "रूपरेखा",
+            "AR": "مخطط تفصيلي",
+            "FA": "طرح کلی",
+            "EN": [
+                "outline",
+                "gist",
+                "summary",
+                "generality"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "大体",
+        "is_common": true,
+        "tags": [
+            "wanikani5"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "大体",
+                "reading": "だいたい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "generally",
+                    "on the whole",
+                    "mostly",
+                    "almost",
+                    "nearly",
+                    "approximately",
+                    "roughly",
+                    "about"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "general",
+                    "rough"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "outline",
+                    "main points",
+                    "gist",
+                    "substance",
+                    "essence"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "in the first place",
+                    "first and foremost",
+                    "from the start",
+                    "to begin with"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "大",
+        "体"
+    ],
+    "kanji_data": {
+        "大": {
+            "freq_mainichi_shinbun": 7,
+            "grade": 1,
+            "heisig_en": "large",
+            "jlpt": 5,
+            "kanji": "大",
+            "kun_readings": [
+                "-おお.いに",
+                "おお-",
+                "おお.きい"
+            ],
+            "meanings": [
+                "big",
+                "large"
+            ],
+            "name_readings": [
+                "うふ",
+                "お",
+                "おう",
+                "た",
+                "たかし",
+                "とも",
+                "はじめ",
+                "ひろ",
+                "ひろし",
+                "まさ",
+                "まさる",
+                "もと",
+                "わ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "タイ",
+                "ダイ"
+            ],
+            "stroke_count": 3,
+            "unicode": "5927"
+        },
+        "体": {
+            "freq_mainichi_shinbun": 88,
+            "grade": 2,
+            "heisig_en": "body",
+            "jlpt": 4,
+            "kanji": "体",
+            "kun_readings": [
+                "かたち",
+                "からだ"
+            ],
+            "meanings": [
+                "body",
+                "counter for images",
+                "object",
+                "reality",
+                "substance"
+            ],
+            "name_readings": [
+                "なり"
+            ],
+            "notes": [],
+            "on_readings": [
+                "タイ",
+                "テイ"
+            ],
+            "stroke_count": 7,
+            "unicode": "4F53"
+        }
+    }
+}

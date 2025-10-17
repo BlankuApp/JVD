@@ -1,0 +1,487 @@
+{
+    "version": "0.3.0",
+    "word": "忘れ物",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/Kde-kNZmSoM",
+    "in_db": true,
+    "kanji": "忘れ物",
+    "reading": "わすれもの",
+    "introduction_japanese": "忘れ物。電車や学校、お店でよく聞きます。家に帰ってから「あっ」と気づくときに使います。",
+    "introduction_english": "わすれもの. You hear this at trains, schools, and shops. People say it when you go home and later think “oh no!”",
+    "meanings": [
+        [
+            "item",
+            "article",
+            "belonging",
+            "property"
+        ],
+        [
+            "forgetting",
+            "oversight"
+        ]
+    ],
+    "meaning_explanation_japanese": "置きっぱなしになった品や、持っていくのを失念したものを指します。また、そのようにしてしまう行為を言うこともあります。",
+    "meaning_explanation_english": "It is used as a noun. わすれもの means an item left behind or something you failed to bring, and it can also describe the act of leaving an item behind.",
+    "youtube_description": "Learn わすれもの: what it means, how to use it, and the difference from おとしもの with simple examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "忘",
+            "onyomi": [
+                "ボウ"
+            ],
+            "kunyomi": [
+                "わす(れる)"
+            ],
+            "meanings_english": [
+                "forget"
+            ],
+            "common_words": [
+                "忘年会 : ぼうねんかい : year-end party",
+                "忘却 : ぼうきゃく : oblivion; forgetting"
+            ]
+        },
+        {
+            "kanji": "物",
+            "onyomi": [
+                "ブツ",
+                "モツ"
+            ],
+            "kunyomi": [
+                "もの"
+            ],
+            "meanings_english": [
+                "thing",
+                "object"
+            ],
+            "common_words": [
+                "食べ物 : たべもの : food",
+                "荷物 : にもつ : luggage; baggage"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to forget. It suggests letting something slip from the mind. You see it in ぼうねんかい and ぼうきゃく. Think of memory fading away. The second kanji means thing or object. It names both concrete and abstract stuff. You see it in たべもの and にもつ. Think of it as a general word for items.",
+    "synonyms": [
+        "落とし物 : おとしもの : lost property",
+        "遺失物 : いしつぶつ : lost article (formal)"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are おとしもの and いしつぶつ. おとしもの is for items you dropped or lost on the way, while わすれもの is usually left behind somewhere like a room or train. いしつぶつ is a formal term used by stations and offices.",
+    "antonyms": [
+        "持ち物 : もちもの : belongings"
+    ],
+    "antonym_explanation": "The most common antonym of the word is もちもの. It means the things you currently have with you, not items left behind somewhere.",
+    "collocations": [
+        {
+            "kanji": "大切な忘れ物",
+            "furigana": "大(たい)切(せつ)な忘(わす)れ物(もの)",
+            "translations": {
+                "EN": "Important forgotten items",
+                "ID": "Barang penting yang terlupakan",
+                "ES": "Objetos importantes olvidados",
+                "VI": "Những vật dụng quan trọng bị quên",
+                "FR": "Objets importants oubliés",
+                "NE": "बिर्सिएका महत्त्वपूर्ण वस्तुहरू",
+                "BN": "গুরুত্বপূর্ণ ভুলে যাওয়া জিনিসপত্র",
+                "ZH": "重要遗忘物品",
+                "KO": "소중한 분실물",
+                "TL": "Mga mahahalagang bagay na nakalimutan",
+                "MY": "အရေးကြီးသောပစ္စည်းများကို မေ့လျော့နေပါသည်။",
+                "HI": "महत्वपूर्ण भूली हुई वस्तुएँ",
+                "AR": "العناصر المهمة المنسية",
+                "FA": "موارد مهم فراموش شده"
+            }
+        },
+        {
+            "kanji": "子どもの忘れ物",
+            "furigana": "子(こ)どもの忘(わす)れ物(もの)",
+            "translations": {
+                "EN": "Children's lost items",
+                "ID": "Barang hilang anak-anak",
+                "ES": "Objetos perdidos de los niños",
+                "VI": "Đồ thất lạc của trẻ em",
+                "FR": "Objets perdus des enfants",
+                "NE": "बालबालिकाको हराएको सामान",
+                "BN": "বাচ্চাদের হারানো জিনিসপত্র",
+                "ZH": "儿童丢失物品",
+                "KO": "아이의 분실물",
+                "TL": "Mga nawawalang gamit ng mga bata",
+                "MY": "ကလေး ပစ္စည်းတွေ ပျောက်တယ်။",
+                "HI": "बच्चों की खोई हुई वस्तुएँ",
+                "AR": "الأشياء المفقودة للأطفال",
+                "FA": "وسایل گمشده کودکان"
+            }
+        },
+        {
+            "kanji": "電車の忘れ物",
+            "furigana": "電(でん)車(しゃ)の忘(わす)れ物(もの)",
+            "translations": {
+                "EN": "Lost items on the train",
+                "ID": "Barang hilang di kereta api",
+                "ES": "Objetos perdidos en el tren",
+                "VI": "Đồ vật bị mất trên tàu",
+                "FR": "Objets perdus dans le train",
+                "NE": "रेलमा हराएका सामानहरू",
+                "BN": "ট্রেনে হারিয়ে যাওয়া জিনিসপত্র",
+                "ZH": "火车上丢失的物品",
+                "KO": "기차 분실물",
+                "TL": "Nawala ang mga gamit sa tren",
+                "MY": "ရထားပေါ်မှာ ပစ္စည်းပျောက်တယ်။",
+                "HI": "ट्रेन में खोई हुई वस्तुएँ",
+                "AR": "الأشياء المفقودة في القطار",
+                "FA": "اشیاء گمشده در قطار"
+            }
+        },
+        {
+            "kanji": "忘れ物の確認",
+            "furigana": "忘(わす)れ物(もの)の確(かく)認(にん)",
+            "translations": {
+                "EN": "Checking for lost items",
+                "ID": "Memeriksa barang yang hilang",
+                "ES": "Comprobación de objetos perdidos",
+                "VI": "Kiểm tra đồ vật bị mất",
+                "FR": "Vérification des objets perdus",
+                "NE": "हराएका वस्तुहरूको जाँच गर्दै",
+                "BN": "হারিয়ে যাওয়া জিনিসপত্র পরীক্ষা করা হচ্ছে",
+                "ZH": "检查丢失物品",
+                "KO": "분실물 확인",
+                "TL": "Sinusuri ang mga nawawalang item",
+                "MY": "ပျောက်ဆုံးပစ္စည်းများကို စစ်ဆေးခြင်း။",
+                "HI": "खोई हुई वस्तुओं की जाँच",
+                "AR": "التحقق من العناصر المفقودة",
+                "FA": "بررسی اشیاء گمشده"
+            }
+        },
+        {
+            "kanji": "忘れ物に注意",
+            "furigana": "忘(わす)れ物(もの)に注(ちゅう)意(い)",
+            "translations": {
+                "EN": "Be careful not to leave anything behind",
+                "ID": "Hati-hati jangan sampai meninggalkan apapun",
+                "ES": "Tenga cuidado de no dejar nada atrás.",
+                "VI": "Hãy cẩn thận đừng để lại bất cứ thứ gì phía sau",
+                "FR": "Faites attention à ne rien laisser derrière vous",
+                "NE": "केहि पनि नछोड्न सावधान रहनुहोस्",
+                "BN": "কিছু যেন পিছনে না ফেলে সেদিকে খেয়াল রাখুন",
+                "ZH": "小心不要遗漏任何东西",
+                "KO": "분실물에 주의",
+                "TL": "Mag-ingat na huwag mag-iwan ng anuman",
+                "MY": "ဘယ်အရာကိုမှ ချန်မထားမိအောင် သတိထားပါ။",
+                "HI": "सावधान रहें कि कुछ भी पीछे न छूटे",
+                "AR": "احرص على عدم ترك أي شيء خلفك",
+                "FA": "مراقب باشید چیزی را جا نگذارید"
+            }
+        },
+        {
+            "kanji": "学校での忘れ物",
+            "furigana": "学(がっ)校(こう)での忘(わす)れ物(もの)",
+            "translations": {
+                "EN": "Lost items at school",
+                "ID": "Barang hilang di sekolah",
+                "ES": "Objetos perdidos en la escuela",
+                "VI": "Đồ vật bị mất ở trường",
+                "FR": "Objets perdus à l'école",
+                "NE": "स्कूलमा हराएका सामानहरू",
+                "BN": "স্কুলে হারিয়ে যাওয়া জিনিসপত্র",
+                "ZH": "在学校丢失物品",
+                "KO": "학교에서의 분실물",
+                "TL": "Nawala ang mga gamit sa paaralan",
+                "MY": "ကျောင်းမှာ ပစ္စည်းပျောက်တယ်။",
+                "HI": "स्कूल में खोई हुई वस्तुएँ",
+                "AR": "الأشياء المفقودة في المدرسة",
+                "FA": "وسایل گم شده در مدرسه"
+            }
+        },
+        {
+            "kanji": "忘れ物をする",
+            "furigana": "忘(わす)れ物(もの)をする",
+            "translations": {
+                "EN": "Forgetting something",
+                "ID": "Melupakan sesuatu",
+                "ES": "Olvidar algo",
+                "VI": "Quên một cái gì đó",
+                "FR": "Oublier quelque chose",
+                "NE": "केहि बिर्सनु",
+                "BN": "কিছু ভুলে যাওয়া",
+                "ZH": "忘记某事",
+                "KO": "잊어버리다",
+                "TL": "Nakakalimutan ang isang bagay",
+                "MY": "တစ်ခုခုကို မေ့နေတာ",
+                "HI": "कुछ भूल जाना",
+                "AR": "نسيان شيء ما",
+                "FA": "فراموش کردن چیزی"
+            }
+        },
+        {
+            "kanji": "忘れ物をしないようにする",
+            "furigana": "忘(わす)れ物(もの)をしないようにする",
+            "translations": {
+                "EN": "Make sure you don't forget anything",
+                "ID": "Pastikan Anda tidak melupakan apa pun",
+                "ES": "Asegúrate de no olvidar nada",
+                "VI": "Hãy chắc chắn rằng bạn không quên bất cứ điều gì",
+                "FR": "Assurez-vous de ne rien oublier",
+                "NE": "केहि पनि नबिर्सनुहोस्।",
+                "BN": "নিশ্চিত করুন যে আপনি কিছু ভুলে যাবেন না।",
+                "ZH": "确保你没有忘记任何东西",
+                "KO": "분실물을 피하십시오",
+                "TL": "Tiyaking wala kang makakalimutan",
+                "MY": "ဘာကိုမှ မမေ့ဖို့ သေချာပါစေ။",
+                "HI": "सुनिश्चित करें कि आप कुछ भी न भूलें",
+                "AR": "تأكد من عدم نسيان أي شيء",
+                "FA": "مطمئن شوید که چیزی را فراموش نمی‌کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "忘れ物はありませんか。",
+            "furigana": "忘(わす)れ物(もの)はありませんか。",
+            "translations": {
+                "EN": "Have you forgotten anything?",
+                "ID": "Apakah Anda lupa sesuatu?",
+                "ES": "¿Has olvidado algo?",
+                "VI": "Bạn có quên thứ gì không?",
+                "FR": "Avez-vous oublié quelque chose ?",
+                "NE": "के तपाईंले केहि बिर्सनुभयो?",
+                "BN": "তুমি কি কিছু ভুলে গেছো?",
+                "ZH": "你忘了什么吗？",
+                "KO": "분실물이 없습니까?",
+                "TL": "May nakalimutan ka na ba?",
+                "MY": "တစ်ခုခုကို မေ့သွားပြီလား?",
+                "HI": "क्या आप कुछ भूल गये हैं?",
+                "AR": "هل نسيت شيئا؟",
+                "FA": "چیزی را فراموش کرده‌ای؟"
+            }
+        },
+        {
+            "kanji": "電車に忘れ物をしました。",
+            "furigana": "電(でん)車(しゃ)に忘(わす)れ物(もの)をしました。",
+            "translations": {
+                "EN": "I left something on the train.",
+                "ID": "Saya meninggalkan sesuatu di kereta.",
+                "ES": "Dejé algo en el tren.",
+                "VI": "Tôi đã để quên một thứ gì đó trên tàu.",
+                "FR": "J'ai laissé quelque chose dans le train.",
+                "NE": "मैले रेलमा केही छोडें।",
+                "BN": "আমি ট্রেনে কিছু রেখে এসেছি।",
+                "ZH": "我把东西落在火车上了。",
+                "KO": "기차에 분실물을 했습니다.",
+                "TL": "May naiwan ako sa tren.",
+                "MY": "ရထားပေါ်မှာ တစ်ခုခုကျန်ခဲ့တယ်။",
+                "HI": "मैंने ट्रेन में कुछ छोड़ दिया।",
+                "AR": "لقد تركت شيئا في القطار.",
+                "FA": "یه چیزی تو قطار جا گذاشتم."
+            }
+        },
+        {
+            "kanji": "家に忘れ物をしたので、戻ります。",
+            "furigana": "家(いえ)に忘(わす)れ物(もの)をしたので、戻(もど)ります。",
+            "translations": {
+                "EN": "I forgot something at home, so I'm going back.",
+                "ID": "Saya lupa sesuatu di rumah, jadi saya pulang.",
+                "ES": "Olvidé algo en casa, así que vuelvo.",
+                "VI": "Tôi quên đồ ở nhà nên phải quay lại.",
+                "FR": "J'ai oublié quelque chose à la maison, alors j'y retourne.",
+                "NE": "मैले घरमा केही बिर्सेको छु, त्यसैले म फर्कदै छु।",
+                "BN": "আমি বাড়িতে কিছু ভুলে গেছি, তাই আমি ফিরে যাচ্ছি।",
+                "ZH": "我忘了一些东西在家里，所以我要回去了。",
+                "KO": "집에 분실물을 했으므로 돌아옵니다.",
+                "TL": "May nakalimutan ako sa bahay, kaya babalik ako.",
+                "MY": "အိမ်မှာ တစ်ခုခုမေ့သွားလို့ ပြန်သွားလိုက်ဦးမယ်။",
+                "HI": "मैं घर पर कुछ भूल गया हूँ, इसलिए मैं वापस जा रहा हूँ।",
+                "AR": "لقد نسيت شيئًا في المنزل، لذلك سأعود.",
+                "FA": "یه چیزی رو تو خونه جا گذاشتم، پس دارم برمی‌گردم."
+            }
+        },
+        {
+            "kanji": "今日は忘れ物が多かった。",
+            "furigana": "今日(きょう)は忘(わす)れ物(もの)が多(おお)かった。",
+            "translations": {
+                "EN": "I forgot a lot of things today.",
+                "ID": "Saya lupa banyak hal hari ini.",
+                "ES": "Hoy olvidé muchas cosas.",
+                "VI": "Hôm nay tôi đã quên rất nhiều thứ.",
+                "FR": "J'ai oublié beaucoup de choses aujourd'hui.",
+                "NE": "आज मैले धेरै कुरा बिर्सिएँ।",
+                "BN": "আজ অনেক কিছু ভুলে গেছি।",
+                "ZH": "今天忘记了很多事。",
+                "KO": "오늘은 분실물이 많았다.",
+                "TL": "Marami akong nakalimutan ngayong araw.",
+                "MY": "ဒီနေ့တော့ အများကြီးမေ့သွားတယ်။",
+                "HI": "आज मैं बहुत सी चीजें भूल गया।",
+                "AR": "لقد نسيت الكثير من الأشياء اليوم.",
+                "FA": "امروز خیلی چیزها را فراموش کردم."
+            }
+        },
+        {
+            "kanji": "忘れ物を取りに学校へ行きます。",
+            "furigana": "忘(わす)れ物(もの)を取(と)りに学(がく)校(こう)へ行(い)きます。",
+            "translations": {
+                "EN": "I'm going to school to get something I forgot.",
+                "ID": "Saya pergi ke sekolah untuk mengambil sesuatu yang saya lupa.",
+                "ES": "Voy a la escuela a buscar algo que olvidé.",
+                "VI": "Tôi đang đến trường để lấy thứ tôi quên.",
+                "FR": "Je vais à l'école pour récupérer quelque chose que j'ai oublié.",
+                "NE": "म बिर्सेको कुरा लिन स्कूल जाँदैछु।",
+                "BN": "আমি স্কুলে যাচ্ছি এমন কিছু পেতে যা আমি ভুলে গেছি।",
+                "ZH": "我要去学校取一些我忘记的东西。",
+                "KO": "분실물을 가지고 학교에 가십시오.",
+                "TL": "Pupunta ako sa school para kumuha ng nakalimutan ko.",
+                "MY": "မေ့သွားလို့ ကျောင်းသွားတော့မယ်။",
+                "HI": "मैं स्कूल में कुछ भूली हुई चीज़ लेने जा रहा हूँ।",
+                "AR": "سأذهب إلى المدرسة لأحضر شيئًا نسيته.",
+                "FA": "دارم میرم مدرسه یه چیزی که یادم رفته رو بیارم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "barang",
+            "ES": "artículo",
+            "VI": "mục ",
+            "FR": "article",
+            "NE": "वस्तु",
+            "BN": "আইটেম",
+            "ZH": "物品",
+            "KO": "목",
+            "TL": "aytem",
+            "MY": "ပစ္စည်း",
+            "HI": "वस्तु",
+            "AR": "غرض",
+            "FA": "مورد",
+            "EN": [
+                "item",
+                "article",
+                "belonging",
+                "property"
+            ]
+        },
+        {
+            "ID": "melupakan",
+            "ES": "olvidando",
+            "VI": "quên lãng",
+            "FR": "oubli",
+            "NE": "बिर्सनु",
+            "BN": "ভুলে যাওয়া",
+            "ZH": "忘记",
+            "KO": "잊다",
+            "TL": "nakakalimot",
+            "MY": "မေ့လျော့ခြင်း။",
+            "HI": "भूल",
+            "AR": "النسيان",
+            "FA": "فراموش کردن",
+            "EN": [
+                "forgetting",
+                "oversight"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "忘れ物",
+        "is_common": true,
+        "tags": [
+            "wanikani20"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "忘れ物",
+                "reading": "わすれもの"
+            },
+            {
+                "word": "忘れ物",
+                "reading": "わすれもん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "lost article",
+                    "thing left behind"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "leaving something behind",
+                    "forgetting something"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "忘",
+        "物"
+    ],
+    "kanji_data": {
+        "忘": {
+            "freq_mainichi_shinbun": 1129,
+            "grade": 6,
+            "heisig_en": "forget",
+            "jlpt": 3,
+            "kanji": "忘",
+            "kun_readings": [
+                "わす.れる"
+            ],
+            "meanings": [
+                "forget"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ボウ"
+            ],
+            "stroke_count": 7,
+            "unicode": "5FD8"
+        },
+        "物": {
+            "freq_mainichi_shinbun": 215,
+            "grade": 3,
+            "heisig_en": "thing",
+            "jlpt": 4,
+            "kanji": "物",
+            "kun_readings": [
+                "もの",
+                "もの-"
+            ],
+            "meanings": [
+                "matter",
+                "object",
+                "thing"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ブツ",
+                "モツ"
+            ],
+            "stroke_count": 8,
+            "unicode": "7269"
+        }
+    }
+}

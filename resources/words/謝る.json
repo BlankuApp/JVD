@@ -1,0 +1,472 @@
+{
+    "version": "0.3.0",
+    "word": "謝る",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/DgIS0JTUOsc",
+    "in_db": true,
+    "kanji": "謝る",
+    "reading": "あやまる",
+    "introduction_japanese": "謝る。失礼したときや、相手に迷惑をかけたときに使う言葉だよ。",
+    "introduction_english": "ayamaru. We use it when we do something rude or cause trouble to someone.",
+    "meanings": [
+        [
+            "apologize",
+            "say sorry",
+            "beg pardon"
+        ],
+        [
+            "ask forgiveness",
+            "atone",
+            "make amends"
+        ]
+    ],
+    "meaning_explanation_japanese": "自分が悪かったと認めて、「ごめん」と気持ちを伝え、ゆるしてほしいと願うことだよ。",
+    "meaning_explanation_english": "It is used as a verb (a godan/u-verb). The word あやまる means to express regret, say sorry, and ask for forgiveness, sometimes with the idea of making amends.",
+    "youtube_description": "Learn how to use “謝る (ayamaru)” naturally: meaning, tone, common patterns like 「人に謝る」「すぐに謝る」, and easy examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "謝",
+            "onyomi": [
+                "シャ"
+            ],
+            "kunyomi": [
+                "あやま(る)"
+            ],
+            "meanings_english": [
+                "apologize",
+                "thanks"
+            ],
+            "common_words": [
+                "謝罪(しゃざい) : apology",
+                "感謝(かんしゃ) : gratitude"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means apology and thanks. You see it in しゃざい for a formal apology. You also see it in かんしゃ when you show gratitude. The core idea is words to repair or keep good relationships.",
+    "synonyms": [
+        "詫びる : わびる : to apologize",
+        "謝罪する : しゃざいする : to apologize (formal)"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are わびる and しゃざいする. わびる feels softer and personal. しゃざいする is formal or official. Both overlap with あやまる in saying sorry.",
+    "antonyms": [
+        "許す : ゆるす : to forgive"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ゆるす. It means to forgive someone, which is the receiver’s action, not the speaker’s act of saying sorry.",
+    "collocations": [
+        {
+            "kanji": "先生に謝る",
+            "furigana": "先生(せんせい)に謝(あやま)る",
+            "translations": {
+                "EN": "Apologize to the teacher",
+                "ID": "Meminta maaf kepada guru",
+                "ES": "Pedir disculpas al profesor",
+                "VI": "Xin lỗi giáo viên",
+                "FR": "Présentez vos excuses au professeur",
+                "NE": "शिक्षकसँग माफी माग्नुहोस्",
+                "BN": "শিক্ষকের কাছে ক্ষমা চাই।",
+                "ZH": "向老师道歉",
+                "KO": "선생님에게 사과",
+                "TL": "Humingi ng paumanhin sa guro",
+                "MY": "ဆရာ့ကို တောင်းပန်ပါ။",
+                "HI": "शिक्षक से माफ़ी मांगें",
+                "AR": "اعتذر للمعلم",
+                "FA": "از معلم عذرخواهی کنید"
+            }
+        },
+        {
+            "kanji": "友達に謝る",
+            "furigana": "友達(ともだち)に謝(あやま)る",
+            "translations": {
+                "EN": "Apologize to a friend",
+                "ID": "Meminta maaf kepada seorang teman",
+                "ES": "Pedir disculpas a un amigo",
+                "VI": "Xin lỗi một người bạn",
+                "FR": "Présenter des excuses à un ami",
+                "NE": "साथीसँग माफी माग्नुहोस्",
+                "BN": "বন্ধুর কাছে ক্ষমা চাও।",
+                "ZH": "向朋友道歉",
+                "KO": "친구에게 사과하다",
+                "TL": "Humingi ng tawad sa isang kaibigan",
+                "MY": "သူငယ်ချင်းကို တောင်းပန်ပါ။",
+                "HI": "किसी मित्र से क्षमा मांगें",
+                "AR": "الاعتذار لصديق",
+                "FA": "عذرخواهی از یک دوست"
+            }
+        },
+        {
+            "kanji": "お客様に謝る",
+            "furigana": "お客様(おきゃくさま)に謝(あやま)る",
+            "translations": {
+                "EN": "Apologize to the customer",
+                "ID": "Meminta maaf kepada pelanggan",
+                "ES": "Pedir disculpas al cliente",
+                "VI": "Xin lỗi khách hàng",
+                "FR": "Présentez vos excuses au client",
+                "NE": "ग्राहकसँग माफी माग्नुहोस्",
+                "BN": "গ্রাহকের কাছে ক্ষমা প্রার্থনা করুন",
+                "ZH": "向顾客道歉",
+                "KO": "고객에게 사과",
+                "TL": "Humingi ng paumanhin sa customer",
+                "MY": "ဖောက်သည်အား တောင်းပန်ပါ။",
+                "HI": "ग्राहक से माफ़ी मांगें",
+                "AR": "الاعتذار للعميل",
+                "FA": "از مشتری عذرخواهی کنید"
+            }
+        },
+        {
+            "kanji": "失礼を謝る",
+            "furigana": "失礼(しつれい)を謝(あやま)る",
+            "translations": {
+                "EN": "Apologize for being rude",
+                "ID": "Mohon maaf karena bersikap kasar",
+                "ES": "Disculpa por ser grosero",
+                "VI": "Xin lỗi vì đã thô lỗ",
+                "FR": "Excusez-moi d'avoir été impoli",
+                "NE": "असभ्य भएकोमा माफी माग्नुहोस्",
+                "BN": "অভদ্রতার জন্য ক্ষমাপ্রার্থী।",
+                "ZH": "为自己的粗鲁行为道歉",
+                "KO": "무례한 사과",
+                "TL": "Humingi ng paumanhin sa pagiging masungit",
+                "MY": "ရိုင်းစိုင်းတဲ့အတွက် တောင်းပန်ပါတယ်။",
+                "HI": "अशिष्टता के लिए क्षमा मांगें",
+                "AR": "اعتذر عن كونك وقحا",
+                "FA": "بابت گستاخی عذرخواهی کنید"
+            }
+        },
+        {
+            "kanji": "ミスを謝る",
+            "furigana": "ミスを謝(あやま)る",
+            "translations": {
+                "EN": "Apologize for mistakes",
+                "ID": "Meminta maaf atas kesalahan",
+                "ES": "Disculpas por los errores",
+                "VI": "Xin lỗi vì những sai lầm",
+                "FR": "S'excuser pour les erreurs",
+                "NE": "गल्तीहरूको लागि माफी माग्नुहोस्",
+                "BN": "ভুলের জন্য ক্ষমাপ্রার্থী।",
+                "ZH": "对错误表示道歉",
+                "KO": "실수를 사과하다",
+                "TL": "Humingi ng paumanhin para sa mga pagkakamali",
+                "MY": "အမှားတွေအတွက် တောင်းပန်ပါတယ်။",
+                "HI": "गलतियों के लिए क्षमा मांगें",
+                "AR": "الاعتذار عن الأخطاء",
+                "FA": "عذرخواهی برای اشتباهات"
+            }
+        },
+        {
+            "kanji": "迷惑をかけて謝る",
+            "furigana": "迷惑(めいわく)をかけて謝(あやま)る",
+            "translations": {
+                "EN": "Apologize for the inconvenience",
+                "ID": "Mohon maaf atas ketidaknyamanannya",
+                "ES": "Disculpe las molestias",
+                "VI": "Xin lỗi vì sự bất tiện này",
+                "FR": "Veuillez nous excuser pour la gêne occasionnée.",
+                "NE": "असुविधाको लागि क्षमा चाहन्छु",
+                "BN": "অসুবিধার জন্য ক্ষমাপ্রার্থী।",
+                "ZH": "不便之处，敬请谅解",
+                "KO": "짜증나고 사과하다",
+                "TL": "Humingi ng paumanhin para sa abala",
+                "MY": "အဆင်မပြေမှုများအတွက် တောင်းပန်အပ်ပါသည်။",
+                "HI": "असुविधा के लिए क्षमा याचना",
+                "AR": "أعتذر عن الإزعاج",
+                "FA": "بابت ناراحتی پیش آمده عذرخواهی کنید"
+            }
+        },
+        {
+            "kanji": "すぐに謝る",
+            "furigana": "すぐに謝(あやま)る",
+            "translations": {
+                "EN": "Apologize immediately",
+                "ID": "Segera minta maaf",
+                "ES": "Discúlpate inmediatamente",
+                "VI": "Xin lỗi ngay lập tức",
+                "FR": "Présentez vos excuses immédiatement",
+                "NE": "तुरुन्तै माफी माग्नुहोस्",
+                "BN": "অবিলম্বে ক্ষমা প্রার্থনা করুন",
+                "ZH": "立即道歉",
+                "KO": "곧 사과",
+                "TL": "Humingi agad ng tawad",
+                "MY": "ချက်ချင်းတောင်းပန်ပါ။",
+                "HI": "तुरंत माफ़ी मांगें",
+                "AR": "اعتذر على الفور",
+                "FA": "فوراً عذرخواهی کنید"
+            }
+        },
+        {
+            "kanji": "何度も謝る",
+            "furigana": "何度(なんど)も謝(あやま)る},{",
+            "translations": {
+                "EN": "Apologize repeatedly",
+                "ID": "Minta maaf berulang kali",
+                "ES": "Disculparse repetidamente",
+                "VI": "Xin lỗi nhiều lần",
+                "FR": "S'excuser à plusieurs reprises",
+                "NE": "बारम्बार माफी माग्नुहोस्",
+                "BN": "বারবার ক্ষমা চাও।",
+                "ZH": "反复道歉",
+                "KO": "여러 번 사과",
+                "TL": "Paulit-ulit na humingi ng tawad",
+                "MY": "ထပ်ခါထပ်ခါ တောင်းပန်ပါ။",
+                "HI": "बार-बार माफ़ी मांगें",
+                "AR": "اعتذر مرارا وتكرارا",
+                "FA": "مکرراً عذرخواهی کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は先生に遅れたことを謝った。",
+            "furigana": "私(わたし)は先生(せんせい)に遅(おく)れたことを謝(あやま)った。",
+            "translations": {
+                "EN": "I apologized to the teacher for being late.",
+                "ID": "Saya meminta maaf kepada guru karena terlambat.",
+                "ES": "Me disculpé con el profesor por llegar tarde.",
+                "VI": "Tôi xin lỗi giáo viên vì đã đến muộn.",
+                "FR": "Je me suis excusé auprès du professeur pour mon retard.",
+                "NE": "ढिलो भएकोमा मैले शिक्षकसँग माफी मागेँ।",
+                "BN": "দেরি হওয়ার জন্য আমি শিক্ষকের কাছে ক্ষমা চেয়েছি।",
+                "ZH": "我因迟到向老师道歉。",
+                "KO": "나는 선생님에게 늦었던 것을 사과했다.",
+                "TL": "Humingi ako ng tawad sa guro dahil nahuli ako.",
+                "MY": "နောက်ကျတဲ့အတွက် ဆရာမကို တောင်းပန်ပါတယ်။",
+                "HI": "मैंने देर से आने के लिए शिक्षक से माफ़ी मांगी।",
+                "AR": "اعتذرت للمعلم عن التأخير.",
+                "FA": "از معلم بابت دیر رسیدن عذرخواهی کردم."
+            }
+        },
+        {
+            "kanji": "彼はすぐに謝った。",
+            "furigana": "彼(かれ)はすぐに謝(あやま)った。",
+            "translations": {
+                "EN": "He quickly apologized.",
+                "ID": "Dia segera meminta maaf.",
+                "ES": "Se disculpó rápidamente.",
+                "VI": "Anh ấy nhanh chóng xin lỗi.",
+                "FR": "Il s'est rapidement excusé.",
+                "NE": "उसले तुरुन्तै माफी माग्यो।",
+                "BN": "সে দ্রুত ক্ষমা চাইল।",
+                "ZH": "他很快就道了歉。",
+                "KO": "그는 곧 사과했다.",
+                "TL": "Mabilis siyang humingi ng tawad.",
+                "MY": "သူ အမြန်တောင်းပန်လိုက်သည်။",
+                "HI": "उसने तुरंत माफ़ी मांगी.",
+                "AR": "اعتذر بسرعة.",
+                "FA": "سریع عذرخواهی کرد."
+            }
+        },
+        {
+            "kanji": "まずは心から謝ってください。",
+            "furigana": "まずは心(こころ)から謝(あやま)ってください。",
+            "translations": {
+                "EN": "First of all, please apologize sincerely.",
+                "ID": "Pertama-tama, mohon maaf dengan tulus.",
+                "ES": "Lo primero que quiero decir es que me disculpo sinceramente.",
+                "VI": "Trước hết, xin hãy chân thành xin lỗi.",
+                "FR": "Tout d’abord, veuillez présenter vos sincères excuses.",
+                "NE": "सर्वप्रथम, कृपया हृदयदेखि नै माफी माग्नुहोस्।",
+                "BN": "প্রথমেই, আন্তরিকভাবে ক্ষমাপ্রার্থী।",
+                "ZH": "首先请您真诚地道歉。",
+                "KO": "우선 진심으로 사과해주세요.",
+                "TL": "Una sa lahat, taimtim na humingi ng tawad.",
+                "MY": "ပထမဆုံးအနေနဲ့ အလေးအနက် တောင်းပန်အပ်ပါတယ်။",
+                "HI": "सबसे पहले, कृपया ईमानदारी से माफ़ी मांगें।",
+                "AR": "أولاً، يرجى الاعتذار بصدق.",
+                "FA": "اول از همه، لطفاً صمیمانه عذرخواهی کنید."
+            }
+        },
+        {
+            "kanji": "友達に迷惑をかけて、ちゃんと謝った。",
+            "furigana": "友達(ともだち)に迷惑(めいわく)をかけて、ちゃんと謝(あやま)った。",
+            "translations": {
+                "EN": "I apologized to my friend for causing him trouble.",
+                "ID": "Aku minta maaf pada temanku karena telah menyebabkan masalah padanya.",
+                "ES": "Me disculpé con mi amigo por causarle problemas.",
+                "VI": "Tôi xin lỗi bạn tôi vì đã gây rắc rối cho anh ấy.",
+                "FR": "Je me suis excusé auprès de mon ami de lui avoir causé des ennuis.",
+                "NE": "मैले मेरो साथीलाई समस्यामा पारेकोमा माफी मागेँ।",
+                "BN": "আমি আমার বন্ধুকে কষ্ট দেওয়ার জন্য তার কাছে ক্ষমা চেয়েছি।",
+                "ZH": "我向我的朋友道歉，因为给他带来了麻烦。",
+                "KO": "친구에게 폐를 끼치고 제대로 사과했다.",
+                "TL": "Humingi ako ng tawad sa kaibigan ko dahil sa gulo niya.",
+                "MY": "သူ့သူငယ်ချင်းကို ဒုက္ခရောက်အောင် တောင်းပန်ခဲ့တယ်။",
+                "HI": "मैंने अपने मित्र से उसे परेशानी देने के लिए माफी मांगी।",
+                "AR": "اعتذرت لصديقي عن التسبب له بالمتاعب.",
+                "FA": "از دوستم بابت اینکه باعث دردسرش شده بودم عذرخواهی کردم."
+            }
+        },
+        {
+            "kanji": "電話で彼女に謝ります。",
+            "furigana": "電話(でんわ)で彼女(かのじょ)に謝(あやま)ります。},{",
+            "translations": {
+                "EN": "I apologize to her over the phone.",
+                "ID": "Saya meminta maaf padanya lewat telepon.",
+                "ES": "Me disculpo con ella por teléfono.",
+                "VI": "Tôi xin lỗi cô ấy qua điện thoại.",
+                "FR": "Je lui présente mes excuses au téléphone.",
+                "NE": "म फोनमा उनीसँग माफी माग्छु।",
+                "BN": "আমি ফোনে তার কাছে ক্ষমা চাইছি।",
+                "ZH": "我在电话里向她道歉。",
+                "KO": "전화로 그녀에게 사과합니다.",
+                "TL": "Humihingi ako ng tawad sa kanya sa telepono.",
+                "MY": "ကျွန်တော် သူမကို ဖုန်းနဲ့ တောင်းပန်ပါတယ်။",
+                "HI": "मैं फोन पर उससे माफी मांगता हूं।",
+                "AR": "أعتذر لها عبر الهاتف.",
+                "FA": "تلفنی ازش عذرخواهی کردم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "meminta maaf",
+            "ES": "disculparse",
+            "VI": "xin lỗi",
+            "FR": "s'excuser",
+            "NE": "माफी माग्नु",
+            "BN": "ক্ষমা চাও",
+            "ZH": "道歉",
+            "KO": "사과하다",
+            "TL": "humingi ng tawad",
+            "MY": "တောင်းပန်ပါတယ်။",
+            "HI": "क्षमा माँगना",
+            "AR": "يعتذر",
+            "FA": "عذرخواهی",
+            "EN": [
+                "apologize",
+                "say sorry",
+                "beg pardon"
+            ]
+        },
+        {
+            "ID": "meminta maaf",
+            "ES": "pedir perdón",
+            "VI": "xin tha thứ",
+            "FR": "demander pardon",
+            "NE": "माफी माग्नुहोस्",
+            "BN": "ক্ষমা চাও",
+            "ZH": "请求原谅",
+            "KO": "용서를 구하다",
+            "TL": "humingi ng tawad",
+            "MY": "ခွင့်လွှတ်ခြင်းတောင်းပါ။",
+            "HI": "क्षमा मांगें",
+            "AR": "اطلب المغفرة",
+            "FA": "طلب بخشش کن",
+            "EN": [
+                "ask forgiveness",
+                "atone",
+                "make amends"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "謝る",
+        "is_common": true,
+        "tags": [
+            "wanikani13"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "謝る",
+                "reading": "あやまる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to apologize (apologise)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Transitive verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to refuse",
+                    "to decline"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Transitive verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Dated term"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to be unable to bear",
+                    "to be defeated (by)",
+                    "to be at a loss",
+                    "to be stumped (by)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Dated term"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "謝"
+    ],
+    "kanji_data": {
+        "謝": {
+            "freq_mainichi_shinbun": 1028,
+            "grade": 5,
+            "heisig_en": "apologize",
+            "jlpt": 1,
+            "kanji": "謝",
+            "kun_readings": [
+                "あやま.る"
+            ],
+            "meanings": [
+                "apologize",
+                "refuse",
+                "thank"
+            ],
+            "name_readings": [
+                "さ",
+                "ざ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シャ"
+            ],
+            "stroke_count": 17,
+            "unicode": "8B1D"
+        }
+    }
+}

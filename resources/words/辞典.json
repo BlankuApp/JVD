@@ -1,0 +1,497 @@
+{
+    "version": "0.3.0",
+    "word": "辞典",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/3ofawDkyobg",
+    "in_db": true,
+    "kanji": "辞典",
+    "reading": "じてん",
+    "introduction_japanese": "辞典は、わからない言葉が出てきたときに使うよ。学校や仕事、テスト前にもよく開くね。",
+    "introduction_english": "じてん is used when you meet an unknown word. You open it at school, at work, and before tests.",
+    "meanings": [
+        [
+            "dictionary",
+            "lexicon",
+            "wordbook"
+        ],
+        [
+            "glossary"
+        ]
+    ],
+    "meaning_explanation_japanese": "言葉の意味や読み、用例を調べるための本やアプリだよ。語の情報がまとまっていて、必要なときに引ける道具だね。",
+    "meaning_explanation_english": "It is used as a noun. The word じてん means a reference that lists words with their meanings, readings, and examples, whether as a book or an app.",
+    "youtube_description": "Learn how to use 辞典 (じてん) like a native! Quick examples, easy collocations, and the difference from similar words such as 辞書. Perfect for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "辞",
+            "onyomi": [
+                "ジ"
+            ],
+            "kunyomi": [
+                "や.める"
+            ],
+            "meanings_english": [
+                "words",
+                "resign",
+                "statement"
+            ],
+            "common_words": [
+                "辞書（じしょ）：dictionary",
+                "お世辞（おせじ）：flattery"
+            ]
+        },
+        {
+            "kanji": "典",
+            "onyomi": [
+                "テン"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "code",
+                "standard",
+                "classic"
+            ],
+            "common_words": [
+                "古典（こてん）：classics; classical literature",
+                "典型（てんけい）：typical example; model"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means words, speech, or to resign. You will see it in language-related terms and formal statements. Think of じしょ and おせじ. Both highlight how this character links to speaking and words.\nThe second kanji means a standard, a code, or something classic. It appears in references and patterns. Think of こてん and てんけい. These show the ideas of classic works and typical forms.",
+    "synonyms": [
+        "辞書 : じしょ : dictionary",
+        "字引 : じびき : dictionary (old-fashioned)"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are じしょ and じびき. じしょ is the everyday term and fully overlaps. じびき is old-fashioned or dialectal and sounds nostalgic but still means a dictionary.",
+    "antonyms": [
+        "百科事典 : ひゃっかじてん : encyclopedia"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ひゃっかじてん, which focuses on topics and concepts, not individual word meanings like じてん.",
+    "collocations": [
+        {
+            "kanji": "1冊の小さな辞典",
+            "furigana": "1冊(いっさつ)の小(ちい)さな辞典(じてん)",
+            "translations": {
+                "EN": "A small dictionary",
+                "ID": "Kamus kecil",
+                "ES": "Un pequeño diccionario",
+                "VI": "Một cuốn từ điển nhỏ",
+                "FR": "Un petit dictionnaire",
+                "NE": "एउटा सानो शब्दकोश",
+                "BN": "একটি ছোট অভিধান",
+                "ZH": "一本小词典",
+                "KO": "한 권의 작은 사전",
+                "TL": "Isang maliit na diksyunaryo",
+                "MY": "သေးငယ်သောအဘိဓာန်",
+                "HI": "एक छोटा सा शब्दकोश",
+                "AR": "قاموس صغير",
+                "FA": "یک فرهنگ لغت کوچک"
+            }
+        },
+        {
+            "kanji": "英和辞典",
+            "furigana": "英和(えいわ)辞典(じてん)",
+            "translations": {
+                "EN": "English-Japanese dictionary",
+                "ID": "kamus Inggris-Jepang",
+                "ES": "Diccionario inglés-japonés",
+                "VI": "Từ điển Anh-Nhật",
+                "FR": "Dictionnaire anglais-japonais",
+                "NE": "अंग्रेजी-जापानी शब्दकोश",
+                "BN": "ইংরেজি-জাপানি অভিধান",
+                "ZH": "英日词典",
+                "KO": "영어와 사전",
+                "TL": "English-Japanese na diksyunaryo",
+                "MY": "အင်္ဂလိပ်-ဂျပန်အဘိဓာန်",
+                "HI": "अंग्रेज़ी-जापानी शब्दकोश",
+                "AR": "قاموس إنجليزي-ياباني",
+                "FA": "فرهنگ لغت انگلیسی-ژاپنی"
+            }
+        },
+        {
+            "kanji": "国語辞典",
+            "furigana": "国語(こくご)辞典(じてん)",
+            "translations": {
+                "EN": "Japanese dictionary",
+                "ID": "kamus bahasa Jepang",
+                "ES": "diccionario japonés",
+                "VI": "Từ điển tiếng Nhật",
+                "FR": "Dictionnaire japonais",
+                "NE": "जापानी शब्दकोश",
+                "BN": "জাপানি অভিধান",
+                "ZH": "日语词典",
+                "KO": "국어 사전",
+                "TL": "diksyunaryo ng Hapon",
+                "MY": "ဂျပန်အဘိဓာန်",
+                "HI": "जापानी शब्दकोश",
+                "AR": "القاموس الياباني",
+                "FA": "فرهنگ لغت ژاپنی"
+            }
+        },
+        {
+            "kanji": "先生の辞典",
+            "furigana": "先生(せんせい)の辞典(じてん)",
+            "translations": {
+                "EN": "Teacher's Dictionary",
+                "ID": "Kamus Guru",
+                "ES": "Diccionario del profesor",
+                "VI": "Từ điển giáo viên",
+                "FR": "Dictionnaire de l'enseignant",
+                "NE": "शिक्षकको शब्दकोश",
+                "BN": "শিক্ষকের অভিধান",
+                "ZH": "教师词典",
+                "KO": "교사 사전",
+                "TL": "Diksyunaryo ng Guro",
+                "MY": "ဆရာ့အဘိဓာန်",
+                "HI": "शिक्षक का शब्दकोश",
+                "AR": "قاموس المعلم",
+                "FA": "فرهنگ لغت معلم"
+            }
+        },
+        {
+            "kanji": "辞典での検索",
+            "furigana": "辞典(じてん)での検索(けんさく)",
+            "translations": {
+                "EN": "Dictionary search",
+                "ID": "Pencarian kamus",
+                "ES": "Búsqueda en el diccionario",
+                "VI": "Tìm kiếm từ điển",
+                "FR": "Recherche de dictionnaire",
+                "NE": "शब्दकोश खोज",
+                "BN": "অভিধান অনুসন্ধান",
+                "ZH": "字典搜索",
+                "KO": "사전에서 검색",
+                "TL": "Paghahanap ng diksyunaryo",
+                "MY": "အဘိဓာန်ရှာဖွေမှု",
+                "HI": "शब्दकोश खोज",
+                "AR": "البحث في القاموس",
+                "FA": "جستجوی فرهنگ لغت"
+            }
+        },
+        {
+            "kanji": "辞典を引く",
+            "furigana": "辞典(じてん)を引(ひ)く",
+            "translations": {
+                "EN": "Look up a dictionary",
+                "ID": "Carilah kamus",
+                "ES": "Busque en un diccionario",
+                "VI": "Tra từ điển",
+                "FR": "Rechercher un dictionnaire",
+                "NE": "शब्दकोश खोज्नुहोस्",
+                "BN": "একটি অভিধান খুঁজুন।",
+                "ZH": "查字典",
+                "KO": "사전을 그리다",
+                "TL": "Maghanap ng diksyunaryo",
+                "MY": "အဘိဓာန်ကို ရှာကြည့်ပါ။",
+                "HI": "शब्दकोश देखें",
+                "AR": "ابحث في القاموس",
+                "FA": "به یک فرهنگ لغت مراجعه کنید"
+            }
+        },
+        {
+            "kanji": "辞典で調べる",
+            "furigana": "辞典(じてん)で調(しら)べる",
+            "translations": {
+                "EN": "Look it up in a dictionary",
+                "ID": "Carilah di kamus",
+                "ES": "Búscalo en un diccionario",
+                "VI": "Tra cứu nó trong từ điển",
+                "FR": "Cherchez-le dans un dictionnaire",
+                "NE": "यसलाई शब्दकोशमा हेर्नुहोस्।",
+                "BN": "অভিধানে এটি দেখুন।",
+                "ZH": "查字典",
+                "KO": "사전에서 알아보기",
+                "TL": "Hanapin ito sa isang diksyunaryo",
+                "MY": "အဘိဓာန်တွင် ရှာကြည့်ပါ။",
+                "HI": "इसे शब्दकोश में देखें",
+                "AR": "ابحث عنه في القاموس",
+                "FA": "در دیکشنری جستجو کنید"
+            }
+        },
+        {
+            "kanji": "辞典を使って学ぶ",
+            "furigana": "辞典(じてん)を使(つか)って学(まな)ぶ",
+            "translations": {
+                "EN": "Learning with a dictionary",
+                "ID": "Belajar dengan kamus",
+                "ES": "Aprendiendo con un diccionario",
+                "VI": "Học với từ điển",
+                "FR": "Apprendre avec un dictionnaire",
+                "NE": "शब्दकोशको साथ सिक्दै",
+                "BN": "অভিধানের সাহায্যে শেখা",
+                "ZH": "使用字典学习",
+                "KO": "사전을 사용하여 배우기",
+                "TL": "Pag-aaral gamit ang diksyunaryo",
+                "MY": "အဘိဓာန်ဖြင့် လေ့လာခြင်း။",
+                "HI": "शब्दकोश के साथ सीखना",
+                "AR": "التعلم باستخدام القاموس",
+                "FA": "یادگیری با فرهنگ لغت"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この辞典はとても便利です。",
+            "furigana": "この辞典(じてん)はとても便利(べんり)です。",
+            "translations": {
+                "EN": "This dictionary is very useful.",
+                "ID": "Kamus ini sangat berguna.",
+                "ES": "Este diccionario es muy útil.",
+                "VI": "Từ điển này rất hữu ích.",
+                "FR": "Ce dictionnaire est très utile.",
+                "NE": "यो शब्दकोश धेरै उपयोगी छ।",
+                "BN": "এই অভিধানটি খুবই কার্যকর।",
+                "ZH": "这本词典非常有用。",
+                "KO": "이 사전은 매우 편리합니다.",
+                "TL": "Ang diksyunaryo na ito ay lubhang kapaki-pakinabang.",
+                "MY": "ဤအဘိဓာန်သည် အလွန်အသုံးဝင်သည်။",
+                "HI": "यह शब्दकोष बहुत उपयोगी है.",
+                "AR": "هذا القاموس مفيد جداً.",
+                "FA": "این دیکشنری خیلی مفیده."
+            }
+        },
+        {
+            "kanji": "わからない言葉を辞典で調べます。",
+            "furigana": "わからない言葉(ことば)を辞典(じてん)で調(しら)べます。",
+            "translations": {
+                "EN": "Look up words you don't understand in a dictionary.",
+                "ID": "Cari kata-kata yang tidak Anda mengerti dalam kamus.",
+                "ES": "Busca en un diccionario las palabras que no entiendes.",
+                "VI": "Tra cứu những từ bạn không hiểu trong từ điển.",
+                "FR": "Recherchez les mots que vous ne comprenez pas dans un dictionnaire.",
+                "NE": "शब्दकोशमा नबुझेका शब्दहरू खोज्नुहोस्।",
+                "BN": "অভিধানে এমন শব্দ খুঁজুন যেগুলো আপনি বোঝেন না।",
+                "ZH": "在字典中查找你不懂的单词。",
+                "KO": "모르는 단어를 사전에서 확인합니다.",
+                "TL": "Maghanap ng mga salitang hindi mo maintindihan sa isang diksyunaryo.",
+                "MY": "အဘိဓာန်တွင် သင်နားမလည်သော စကားလုံးများကို ရှာဖွေပါ။",
+                "HI": "जो शब्द आपको समझ में नहीं आते उन्हें शब्दकोश में देखें।",
+                "AR": "ابحث عن الكلمات التي لا تفهمها في القاموس.",
+                "FA": "کلماتی را که نمی‌دانید در فرهنگ لغت جستجو کنید."
+            }
+        },
+        {
+            "kanji": "英和辞典を学校に持っていきます。",
+            "furigana": "英和(えいわ)辞典(じてん)を学校(がっこう)に持(も)っていきます。",
+            "translations": {
+                "EN": "I bring an English-Japanese dictionary to school.",
+                "ID": "Saya membawa kamus Inggris-Jepang ke sekolah.",
+                "ES": "Traigo un diccionario inglés-japonés a la escuela.",
+                "VI": "Tôi mang theo một cuốn từ điển Anh-Nhật đến trường.",
+                "FR": "J'apporte un dictionnaire anglais-japonais à l'école.",
+                "NE": "म स्कूलमा अंग्रेजी-जापानी शब्दकोश ल्याउँछु।",
+                "BN": "আমি স্কুলে একটি ইংরেজি-জাপানি অভিধান নিয়ে আসি।",
+                "ZH": "我带了一本英日词典去学校。",
+                "KO": "영어와 사전을 학교에 가져갑니다.",
+                "TL": "Nagdadala ako ng English-Japanese dictionary sa paaralan.",
+                "MY": "အင်္ဂလိပ်-ဂျပန်အဘိဓာန်ကို ကျောင်းသို့ ယူဆောင်လာသည်။",
+                "HI": "मैं स्कूल में अंग्रेजी-जापानी शब्दकोश लाता हूं।",
+                "AR": "أحضر معي قاموسًا إنجليزيًا يابانيًا إلى المدرسة.",
+                "FA": "من یک فرهنگ لغت انگلیسی-ژاپنی به مدرسه می‌برم."
+            }
+        },
+        {
+            "kanji": "ポケット辞典をかばんに入れました。",
+            "furigana": "ポケット辞典(じてん)をかばんに入(い)れました。",
+            "translations": {
+                "EN": "I put my pocket dictionary in my bag.",
+                "ID": "Aku menaruh kamus sakuku di dalam tasku.",
+                "ES": "Metí mi diccionario de bolsillo en mi bolso.",
+                "VI": "Tôi bỏ cuốn từ điển bỏ túi vào túi.",
+                "FR": "J'ai mis mon dictionnaire de poche dans mon sac.",
+                "NE": "मैले मेरो खल्तीको शब्दकोश मेरो झोलामा राखें।",
+                "BN": "আমি আমার পকেটের অভিধানটি আমার ব্যাগে রাখলাম।",
+                "ZH": "我把我的袖珍词典放在包里。",
+                "KO": "포켓 사전을 가방에 넣었습니다.",
+                "TL": "Nilagay ko sa bag ko ang pocket dictionary ko.",
+                "MY": "အိတ်ထဲမှာ အဘိဓာန်ထည့်လိုက်တယ်။",
+                "HI": "मैंने अपनी पॉकेट डिक्शनरी अपने बैग में रख ली।",
+                "AR": "أضع قاموسي الجيبي في حقيبتي.",
+                "FA": "دیکشنری جیبی‌ام را توی کیفم گذاشتم."
+            }
+        },
+        {
+            "kanji": "先生に聞く前に、辞典を引きます。",
+            "furigana": "先生(せんせい)に聞(き)く前(まえ)に、辞典(じてん)を引(ひ)きます。",
+            "translations": {
+                "EN": "Before asking the teacher, I look it up in the dictionary.",
+                "ID": "Sebelum bertanya kepada guru, saya mencarinya di kamus.",
+                "ES": "Antes de preguntarle al profesor, lo busco en el diccionario.",
+                "VI": "Trước khi hỏi giáo viên, tôi tra từ điển.",
+                "FR": "Avant de demander au professeur, je cherche dans le dictionnaire.",
+                "NE": "शिक्षकलाई सोध्नु अघि, म यसलाई शब्दकोशमा हेर्छु।",
+                "BN": "শিক্ষককে জিজ্ঞাসা করার আগে, আমি অভিধানে এটি দেখি।",
+                "ZH": "在问老师之前，我先查了字典。",
+                "KO": "교사에게 듣기 전에 사전을 그립니다.",
+                "TL": "Bago ako magtanong sa guro, hinanap ko muna ito sa diksyunaryo.",
+                "MY": "ဆရာ့ကို မမေးခင် အဘိဓာန်မှာ ရှာကြည့်တယ်။",
+                "HI": "शिक्षक से पूछने से पहले मैं इसे शब्दकोष में देखता हूं।",
+                "AR": "قبل أن أسأل المعلم، أبحث عنه في القاموس.",
+                "FA": "قبل از اینکه از معلم بپرسم، آن را در فرهنگ لغت جستجو می‌کنم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "kamus",
+            "ES": "diccionario",
+            "VI": "từ điển",
+            "FR": "dictionnaire",
+            "NE": "शब्दकोश",
+            "BN": "অভিধান",
+            "ZH": "字典",
+            "KO": "사전",
+            "TL": "diksyunaryo",
+            "MY": "အဘိဓာန်",
+            "HI": "शब्दकोष",
+            "AR": "قاموس",
+            "FA": "فرهنگ لغت",
+            "EN": [
+                "dictionary",
+                "lexicon",
+                "wordbook"
+            ]
+        },
+        {
+            "ID": "glosarium",
+            "ES": "glosario",
+            "VI": "thuật ngữ",
+            "FR": "glossaire",
+            "NE": "शब्दावली",
+            "BN": "শব্দকোষ",
+            "ZH": "词汇表",
+            "KO": "어휘",
+            "TL": "glossary",
+            "MY": "ခက်ဆစ်",
+            "HI": "शब्दकोष",
+            "AR": "مسرد المصطلحات",
+            "FA": "واژه‌نامه",
+            "EN": [
+                "glossary"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "辞典",
+        "is_common": true,
+        "tags": [
+            "wanikani16"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "辞典",
+                "reading": "じてん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "dictionary",
+                    "lexicon"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Dictionary"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Dictionary” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Dictionary?oldid=495507120"
+                    },
+                    {
+                        "text": "Read “辞典” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/辞典?oldid=42126318"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Dictionary"
+        }
+    },
+    "kanji_list": [
+        "辞",
+        "典"
+    ],
+    "kanji_data": {
+        "辞": {
+            "freq_mainichi_shinbun": 633,
+            "grade": 4,
+            "heisig_en": "resign",
+            "jlpt": 3,
+            "kanji": "辞",
+            "kun_readings": [
+                "いな.む",
+                "や.める"
+            ],
+            "meanings": [
+                "expression",
+                "resign",
+                "term",
+                "word"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ジ"
+            ],
+            "stroke_count": 13,
+            "unicode": "8F9E"
+        },
+        "典": {
+            "freq_mainichi_shinbun": 1055,
+            "grade": 4,
+            "heisig_en": "code",
+            "jlpt": 1,
+            "kanji": "典",
+            "kun_readings": [
+                "のり",
+                "ふみ"
+            ],
+            "meanings": [
+                "ceremony",
+                "code",
+                "law",
+                "rule"
+            ],
+            "name_readings": [
+                "すけ",
+                "つね",
+                "の"
+            ],
+            "notes": [],
+            "on_readings": [
+                "テン",
+                "デン"
+            ],
+            "stroke_count": 8,
+            "unicode": "5178"
+        }
+    }
+}

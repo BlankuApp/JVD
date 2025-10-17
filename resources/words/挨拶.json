@@ -1,0 +1,657 @@
+{
+    "version": "0.3.0",
+    "word": "挨拶する",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/_Kw-LM2M4g0",
+    "in_db": true,
+    "kanji": "挨拶する",
+    "reading": "あいさつする",
+    "introduction_japanese": "挨拶する。学校や会社で、人に会ったときや別れるときによく使います。式や会議で、はじめや終わりに一言話すときにも使います。",
+    "introduction_english": "Aisatsu suru. Used at school or work when you meet or leave someone. Also used when giving a short opening or closing remark at a ceremony or meeting.",
+    "meanings": [
+        [
+            "greet",
+            "salute"
+        ],
+        [
+            "address",
+            "speak"
+        ],
+        [
+            "visit",
+            "call"
+        ]
+    ],
+    "meaning_explanation_japanese": "人に会ったときに「こんにちは」などと声をかけること。式や集まりで短くことばを述べること。相手の家や会社をたずねて礼を示すこと。",
+    "meaning_explanation_english": "This is a suru-verb. In simple terms, あいさつする means to greet someone, to give short remarks at an event, or to make a courtesy visit.",
+    "youtube_description": "Learn how to use 挨拶する (to greet) in daily life, from simple hellos to formal opening remarks. Clear examples, pronunciation, and beginner-friendly tips.",
+    "kanji_details": [
+        {
+            "kanji": "挨",
+            "onyomi": [
+                "アイ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "push",
+                "approach"
+            ],
+            "common_words": [
+                "挨拶（あいさつ）: greeting",
+                "挨拶状（あいさつじょう）: greeting card, note"
+            ]
+        },
+        {
+            "kanji": "拶",
+            "onyomi": [
+                "サツ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "come close",
+                "prompt"
+            ],
+            "common_words": [
+                "挨拶（あいさつ）: greeting",
+                "挨拶回り（あいさつまわり）: courtesy calls, rounds"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means push or approach and uses the hand radical, so it feels physical and social. It often appears in polite social actions. You see it in words like あいさつ and あいさつじょう. These are about making contact and keeping good relations.\nThe second kanji means come close or prompt and also uses the hand radical. It is rare outside this common pair. You will see it in words like あいさつ and あいさつまわり. It adds a sense of quick, polite contact.",
+    "synonyms": [
+        "お辞儀する : おじぎする : to bow",
+        "声をかける : こえをかける : to call out"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are おじぎする and こえをかける. おじぎする focuses on the bowing gesture, while こえをかける is calling out to someone; both often happen together with あいさつする.",
+    "antonyms": [
+        "無視する : むしする : to ignore"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むしする. It means to ignore someone and avoid social contact, which is the opposite of greeting or making remarks.",
+    "collocations": [
+        {
+            "kanji": "朝の挨拶",
+            "furigana": "朝(あさ)の挨拶(あいさつ)",
+            "translations": {
+                "EN": "Morning greetings",
+                "ID": "Salam pagi",
+                "ES": "Saludos matutinos",
+                "VI": "Lời chào buổi sáng",
+                "FR": "Salutations du matin",
+                "NE": "बिहानको शुभकामना",
+                "BN": "সকালের শুভেচ্ছা",
+                "ZH": "早上好",
+                "KO": "아침 인사",
+                "TL": "Pagbati sa umaga",
+                "MY": "နံနက်ခင်း နှုတ်ဆက်စကား",
+                "HI": "सुबह की शुभकामनाएँ",
+                "AR": "تحيات الصباح",
+                "FA": "سلام صبح"
+            }
+        },
+        {
+            "kanji": "簡単な挨拶",
+            "furigana": "簡単(かんたん)な挨拶(あいさつ)",
+            "translations": {
+                "EN": "A simple greeting",
+                "ID": "Salam sederhana",
+                "ES": "Un saludo sencillo",
+                "VI": "Một lời chào đơn giản",
+                "FR": "Une salutation simple",
+                "NE": "साधारण अभिवादन",
+                "BN": "একটি সহজ শুভেচ্ছা",
+                "ZH": "简单的问候",
+                "KO": "간단한 인사",
+                "TL": "Isang simpleng pagbati",
+                "MY": "ရိုးရှင်းသော နှုတ်ဆက်စကား",
+                "HI": "एक सरल अभिवादन",
+                "AR": "تحية بسيطة",
+                "FA": "یک احوالپرسی ساده"
+            }
+        },
+        {
+            "kanji": "最後の挨拶",
+            "furigana": "最後(さいご)の挨拶(あいさつ)",
+            "translations": {
+                "EN": "Final greetings",
+                "ID": "Salam penutup",
+                "ES": "Saludos finales",
+                "VI": "Lời chào cuối cùng",
+                "FR": "Salutations finales",
+                "NE": "अन्तिम अभिवादन",
+                "BN": "শেষ শুভেচ্ছা",
+                "ZH": "最后的问候",
+                "KO": "마지막 인사",
+                "TL": "Pangwakas na pagbati",
+                "MY": "နောက်ဆုံးနှုတ်ဆက်စကား",
+                "HI": "अंतिम अभिवादन",
+                "AR": "التحية الختامية",
+                "FA": "درودهای پایانی"
+            }
+        },
+        {
+            "kanji": "新年の挨拶",
+            "furigana": "新年(しんねん)の挨拶(あいさつ)",
+            "translations": {
+                "EN": "New Year's Greetings",
+                "ID": "Ucapan Selamat Tahun Baru",
+                "ES": "Saludos de Año Nuevo",
+                "VI": "Lời chúc mừng năm mới",
+                "FR": "Voeux du Nouvel An",
+                "NE": "नयाँ वर्षको शुभकामना",
+                "BN": "নববর্ষের শুভেচ্ছা",
+                "ZH": "新年祝福",
+                "KO": "새해 인사",
+                "TL": "Pagbati ng Bagong Taon",
+                "MY": "နှစ်သစ်မင်္ဂလာပါ။",
+                "HI": "नव वर्ष की शुभकामनाएँ",
+                "AR": "تحيات رأس السنة الجديدة",
+                "FA": "تبریک سال نو"
+            }
+        },
+        {
+            "kanji": "先生への挨拶",
+            "furigana": "先生(せんせい)への挨拶(あいさつ)",
+            "translations": {
+                "EN": "Greeting the teacher",
+                "ID": "Menyambut guru",
+                "ES": "Saludando al profesor",
+                "VI": "Chào cô giáo",
+                "FR": "Saluer le professeur",
+                "NE": "शिक्षकलाई अभिवादन गर्दै",
+                "BN": "শিক্ষককে অভিবাদন।",
+                "ZH": "向老师问好",
+                "KO": "선생님에게 인사",
+                "TL": "Bati ng guro",
+                "MY": "ဆရာ့ကို နှုတ်ဆက်ပါတယ်။",
+                "HI": "शिक्षक का अभिवादन",
+                "AR": "تحية المعلم",
+                "FA": "درود بر معلم"
+            }
+        },
+        {
+            "kanji": "来客への挨拶",
+            "furigana": "来客(らいきゃく)への挨拶(あいさつ)",
+            "translations": {
+                "EN": "Greeting visitors",
+                "ID": "Menyambut pengunjung",
+                "ES": "Saludando a los visitantes",
+                "VI": "Chào đón khách",
+                "FR": "Accueillir les visiteurs",
+                "NE": "आगन्तुकहरूलाई अभिवादन गर्दै",
+                "BN": "দর্শনার্থীদের শুভেচ্ছা",
+                "ZH": "迎接访客",
+                "KO": "방문객을 위한 인사",
+                "TL": "Pagbati ng mga bisita",
+                "MY": "ဧည့်သည်များကို နှုတ်ဆက်သည်။",
+                "HI": "आगंतुकों का अभिवादन",
+                "AR": "الترحيب بالزوار",
+                "FA": "خوشامدگویی به بازدیدکنندگان"
+            }
+        },
+        {
+            "kanji": "先生に挨拶する",
+            "furigana": "先生(せんせい)に挨拶(あいさつ)する",
+            "translations": {
+                "EN": "Greet the teacher",
+                "ID": "Menyambut guru",
+                "ES": "Saluda al profesor",
+                "VI": "Chào giáo viên",
+                "FR": "Saluez le professeur",
+                "NE": "शिक्षकलाई अभिवादन गर्नुहोस्",
+                "BN": "শিক্ষককে অভিবাদন জানাও।",
+                "ZH": "向老师问好",
+                "KO": "선생님에게 인사",
+                "TL": "Batiin ang guro",
+                "MY": "ဆရာ့ကို နှုတ်ဆက်ပါတယ်။",
+                "HI": "शिक्षक का अभिवादन करें",
+                "AR": "تحية للمعلم",
+                "FA": "به معلم سلام کنید"
+            }
+        },
+        {
+            "kanji": "大きな声で挨拶する",
+            "furigana": "大(おお)きな声(こえ)で挨拶(あいさつ)する",
+            "translations": {
+                "EN": "Greet loudly",
+                "ID": "Menyapa dengan keras",
+                "ES": "Saludar en voz alta",
+                "VI": "Chào hỏi thật to",
+                "FR": "Saluez fort",
+                "NE": "ठूलो स्वरले अभिवादन गर्नुहोस्",
+                "BN": "জোরে সালাম দাও।",
+                "ZH": "大声打招呼",
+                "KO": "큰 목소리로 인사",
+                "TL": "Bumati ng malakas",
+                "MY": "ကျယ်လောင်စွာ နှုတ်ဆက်သည်။",
+                "HI": "जोर से अभिवादन करें",
+                "AR": "تحية بصوت عال",
+                "FA": "با صدای بلند سلام کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "朝、先生に挨拶する。",
+            "furigana": "朝(あさ)、先生(せんせい)に挨拶(あいさつ)する。",
+            "translations": {
+                "EN": "Greet the teacher in the morning.",
+                "ID": "Menyambut guru di pagi hari.",
+                "ES": "Saluda al profesor por la mañana.",
+                "VI": "Chào giáo viên vào buổi sáng.",
+                "FR": "Saluez le professeur le matin.",
+                "NE": "बिहान शिक्षकलाई अभिवादन गर्नुहोस्।",
+                "BN": "সকালে শিক্ষককে অভিবাদন জানাও।",
+                "ZH": "早上跟老师问好。",
+                "KO": "아침, 선생님에게 인사한다.",
+                "TL": "Batiin ang guro sa umaga.",
+                "MY": "မနက်ခင်းမှာ ဆရာ့ကို နှုတ်ဆက်တယ်။",
+                "HI": "सुबह शिक्षक को नमस्कार करें।",
+                "AR": "تحية المعلم في الصباح.",
+                "FA": "صبح به معلم سلام کنید."
+            }
+        },
+        {
+            "kanji": "会社で上司に挨拶する。",
+            "furigana": "会社(かいしゃ)で上司(じょうし)に挨拶(あいさつ)する。",
+            "translations": {
+                "EN": "Greeting your boss at work.",
+                "ID": "Menyambut atasan Anda di tempat kerja.",
+                "ES": "Saludar a tu jefe en el trabajo.",
+                "VI": "Chào sếp ở nơi làm việc.",
+                "FR": "Saluer votre patron au travail.",
+                "NE": "काममा आफ्नो हाकिमलाई अभिवादन गर्दै।",
+                "BN": "কর্মক্ষেত্রে আপনার বসকে অভিবাদন জানান।",
+                "ZH": "在工作中向你的老板打招呼。",
+                "KO": "회사에서 상사에게 인사한다.",
+                "TL": "Binabati ang iyong boss sa trabaho.",
+                "MY": "အလုပ်မှာ သင့်သူဌေးကို နှုတ်ဆက်ပါ။",
+                "HI": "कार्यस्थल पर अपने बॉस का अभिवादन करें।",
+                "AR": "تحية رئيسك في العمل.",
+                "FA": "احوالپرسی با رئیستان در محل کار."
+            }
+        },
+        {
+            "kanji": "社長が会議で挨拶する。",
+            "furigana": "社長(しゃちょう)が会議(かいぎ)で挨拶(あいさつ)する。",
+            "translations": {
+                "EN": "The president gives a speech at the meeting.",
+                "ID": "Presiden memberikan pidato pada pertemuan tersebut.",
+                "ES": "El presidente da un discurso en la reunión.",
+                "VI": "Tổng thống có bài phát biểu tại cuộc họp.",
+                "FR": "Le président prononce un discours lors de la réunion.",
+                "NE": "राष्ट्रपतिले बैठकमा भाषण दिनुहुन्छ।",
+                "BN": "সভাপতি সভায় ভাষণ দিচ্ছেন।",
+                "ZH": "总统在会上发表讲话。",
+                "KO": "사장이 회의에서 인사한다.",
+                "TL": "Ang pangulo ay nagbibigay ng talumpati sa pulong.",
+                "MY": "အစည်းအဝေးမှာ သမ္မတက မိန့်ခွန်းပြောတယ်။",
+                "HI": "राष्ट्रपति बैठक में भाषण देते हैं।",
+                "AR": "الرئيس يلقي كلمة في الاجتماع.",
+                "FA": "رئیس جمهور در این نشست سخنرانی می‌کند."
+            }
+        },
+        {
+            "kanji": "帰るとき、みんなに挨拶する。",
+            "furigana": "帰(かえ)るとき、みんなに挨拶(あいさつ)する。",
+            "translations": {
+                "EN": "When I leave, I say hello to everyone.",
+                "ID": "Ketika saya pergi, saya menyapa semua orang.",
+                "ES": "Cuando me voy, saludo a todos.",
+                "VI": "Khi tôi rời đi, tôi chào mọi người.",
+                "FR": "Quand je pars, je dis bonjour à tout le monde.",
+                "NE": "जब म जान्छु, म सबैलाई नमस्कार गर्छु।",
+                "BN": "যখন আমি চলে যাই, আমি সবাইকে সালাম জানাই।",
+                "ZH": "离开的时候，我向大家打招呼。",
+                "KO": "돌아갈 때 모두에게 인사한다.",
+                "TL": "Pag-alis ko, kumusta ako sa lahat.",
+                "MY": "ကျွန်တော် ထွက်သွားတဲ့အခါ အားလုံးကို နှုတ်ဆက်ပါတယ်။",
+                "HI": "जब मैं निकलता हूं तो सभी को नमस्ते कहता हूं।",
+                "AR": "عندما أغادر، أقول مرحباً للجميع.",
+                "FA": "وقتی رفتم، به همه سلام کردم."
+            }
+        },
+        {
+            "kanji": "近所の人に会って、にこにこ挨拶する。",
+            "furigana": "近所(きんじょ)の人(ひと)に会(あ)って、にこにこ挨拶(あいさつ)する。",
+            "translations": {
+                "EN": "I meet my neighbors and greet them with a smile.",
+                "ID": "Saya bertemu tetangga saya dan menyapa mereka dengan senyuman.",
+                "ES": "Me encuentro con mis vecinos y los saludo con una sonrisa.",
+                "VI": "Tôi gặp hàng xóm và chào họ bằng một nụ cười.",
+                "FR": "Je rencontre mes voisins et les salue avec un sourire.",
+                "NE": "म मेरा छिमेकीहरूलाई भेट्छु र मुस्कुराउँदै स्वागत गर्छु।",
+                "BN": "আমি আমার প্রতিবেশীদের সাথে দেখা করি এবং হাসিমুখে তাদের অভ্যর্থনা জানাই।",
+                "ZH": "我遇见邻居并微笑着向他们打招呼。",
+                "KO": "이웃 사람을 만나 니코니코 인사한다.",
+                "TL": "Nakasalubong ko ang mga kapitbahay ko at binati ko sila ng nakangiti.",
+                "MY": "အိမ်နီးနားချင်းတွေနဲ့ တွေ့ပြီး ပြုံးပြုံးရွှင်ရွှင် နှုတ်ဆက်တယ်။",
+                "HI": "मैं अपने पड़ोसियों से मिलता हूं और मुस्कुराकर उनका अभिवादन करता हूं।",
+                "AR": "ألتقي بجيراني وأحييهم بابتسامة.",
+                "FA": "با همسایه‌هایم روبرو می‌شوم و با لبخند به آنها سلام می‌کنم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "menyapa",
+            "ES": "saludar",
+            "VI": "chào hỏi",
+            "FR": "saluer",
+            "NE": "अभिवादन गर्नु",
+            "BN": "অভিবাদন করা",
+            "ZH": "迎接",
+            "KO": "환영하다",
+            "TL": "batiin",
+            "MY": "နှုတ်ဆက်သည်။",
+            "HI": "अभिवादन करना",
+            "AR": "تحية",
+            "FA": "سلام کردن",
+            "EN": [
+                "greet",
+                "salute"
+            ]
+        },
+        {
+            "ID": "alamat",
+            "ES": "DIRECCIÓN",
+            "VI": "Địa chỉ",
+            "FR": "adresse",
+            "NE": "ठेगाना",
+            "BN": "ঠিকানা",
+            "ZH": "地址",
+            "KO": "주소",
+            "TL": "address",
+            "MY": "လိပ်စာ",
+            "HI": "पता",
+            "AR": "عنوان",
+            "FA": "آدرس",
+            "EN": [
+                "address",
+                "speak"
+            ]
+        },
+        {
+            "ID": "mengunjungi",
+            "ES": "visita",
+            "VI": "thăm nom",
+            "FR": "visite",
+            "NE": "भ्रमण गर्नुहोस्",
+            "BN": "পরিদর্শন",
+            "ZH": "访问",
+            "KO": "방문하다",
+            "TL": "bisitahin",
+            "MY": "အလည်အပတ်",
+            "HI": "मिलने जाना",
+            "AR": "يزور",
+            "FA": "بازدید",
+            "EN": [
+                "visit",
+                "call"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "挨拶",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "挨拶",
+                "reading": "あいさつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "greeting",
+                    "greetings",
+                    "salutation",
+                    "salute",
+                    "polite set phrase used when meeting or parting from someone"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "speech (congratulatory or appreciative)",
+                    "address"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "reply",
+                    "response"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "revenge",
+                    "retaliation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "a fine thing to say"
+                ],
+                "parts_of_speech": [
+                    "Expressions (phrases, clauses, etc.)"
+                ],
+                "links": [],
+                "tags": [
+                    "Jocular, humorous term"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "used sarcastically as a response to a rude remark; usu. in the form of ご挨拶"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "dialoging (with another Zen practitioner to ascertain their level of enlightenment)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Archaic"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "一挨一拶"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "orig. meaning"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "relationship (between people)",
+                    "connection"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Archaic"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "intervention",
+                    "mediation",
+                    "mediator"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Archaic"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Greeting"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Greeting” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Greeting?oldid=490477094"
+                    },
+                    {
+                        "text": "Read “挨拶” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/挨拶?oldid=41895966"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Greeting"
+        }
+    },
+    "kanji_list": [
+        "挨",
+        "拶"
+    ],
+    "kanji_data": {
+        "挨": {
+            "freq_mainichi_shinbun": 2258,
+            "grade": 8,
+            "heisig_en": "shove",
+            "jlpt": null,
+            "kanji": "挨",
+            "kun_readings": [
+                "ひら.く"
+            ],
+            "meanings": [
+                "approach",
+                "draw near",
+                "push open"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "アイ"
+            ],
+            "stroke_count": 10,
+            "unicode": "6328"
+        },
+        "拶": {
+            "freq_mainichi_shinbun": null,
+            "grade": 8,
+            "heisig_en": "imminent",
+            "jlpt": null,
+            "kanji": "拶",
+            "kun_readings": [
+                "せま.る"
+            ],
+            "meanings": [
+                "be imminent",
+                "draw close"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "サツ"
+            ],
+            "stroke_count": 9,
+            "unicode": "62F6"
+        }
+    }
+}

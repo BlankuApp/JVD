@@ -1,0 +1,523 @@
+{
+    "version": "0.3.0",
+    "word": "試合",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/1Fc9xFPNm-A",
+    "in_db": true,
+    "kanji": "試合",
+    "reading": "しあい",
+    "introduction_japanese": "試合。スポーツやゲームで、チームや選手が向かい合う場面で使います。大会やリーグの話でもよく出てきます。",
+    "introduction_english": "しあい. Used in sports or games when teams or players face each other. You’ll also hear it when talking about tournaments or leagues.",
+    "meanings": [
+        [
+            "match",
+            "game",
+            "contest"
+        ],
+        [
+            "bout",
+            "fight"
+        ],
+        [
+            "fixture"
+        ]
+    ],
+    "meaning_explanation_japanese": "スポーツやゲームなどで行う対戦や勝負の一回分を指します。特定の日時に行われる一つのイベントという感じです。",
+    "meaning_explanation_english": "It is used mainly as a noun, and also appears in the suru-verb form. しあい means one competitive event between players or teams, like a match or bout, often a scheduled fixture.",
+    "youtube_description": "Learn しあい (試合): what it means, when to use it, and natural phrases like 勝つ/負ける and 試合開始. Short, clear examples for beginners!",
+    "kanji_details": [
+        {
+            "kanji": "試",
+            "onyomi": [
+                "シ"
+            ],
+            "kunyomi": [
+                "ため(す)",
+                "こころ(みる)"
+            ],
+            "meanings_english": [
+                "test",
+                "try"
+            ],
+            "common_words": [
+                "試験（しけん）：exam, test",
+                "試す（ためす）：to try"
+            ]
+        },
+        {
+            "kanji": "合",
+            "onyomi": [
+                "ゴウ",
+                "ガッ"
+            ],
+            "kunyomi": [
+                "あ(う)",
+                "あ(わす)"
+            ],
+            "meanings_english": [
+                "fit",
+                "meet",
+                "combine"
+            ],
+            "common_words": [
+                "合計（ごうけい）：total",
+                "合図（あいず）：signal"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means test or try. It shows checking or attempting something. You see it in しけん and ためす. Think of trying out a skill. The second kanji means fit or meet or combine. It often shows things coming together or matching. You see it in ごうけい and あいず. It feels like parts joining into one.",
+    "synonyms": [
+        "勝負 : しょうぶ : match/fight",
+        "対戦 : たいせん : contest"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are しょうぶ and たいせん. しょうぶ highlights winning or losing and the decisive moment, while たいせん focuses on facing an opponent; しあい is the neutral term for the event itself.",
+    "antonyms": [
+        "練習 : れんしゅう : practice"
+    ],
+    "antonym_explanation": "The most common antonym of the word is れんしゅう. れんしゅう is training without deciding a winner, while しあい is a competitive event with a result.",
+    "collocations": [
+        {
+            "kanji": "週末の試合",
+            "furigana": "週末(しゅうまつ)の試合(しあい)",
+            "translations": {
+                "EN": "Weekend Matches",
+                "ID": "Pertandingan Akhir Pekan",
+                "ES": "Partidos de fin de semana",
+                "VI": "Các trận đấu cuối tuần",
+                "FR": "Matchs du week-end",
+                "NE": "सप्ताहांतका खेलहरू",
+                "BN": "সপ্তাহান্তের ম্যাচগুলি",
+                "ZH": "周末比赛",
+                "KO": "주말 경기",
+                "TL": "Mga Labanan sa Linggo",
+                "MY": "တနင်္ဂနွေ ပွဲစဉ်များ",
+                "HI": "सप्ताहांत मैच",
+                "AR": "مباريات نهاية الأسبوع",
+                "FA": "مسابقات آخر هفته"
+            }
+        },
+        {
+            "kanji": "大事な試合",
+            "furigana": "大事(だいじ)な試合(しあい)",
+            "translations": {
+                "EN": "Important match",
+                "ID": "Pertandingan penting",
+                "ES": "Partido importante",
+                "VI": "Trận đấu quan trọng",
+                "FR": "Match important",
+                "NE": "महत्त्वपूर्ण खेल",
+                "BN": "গুরুত্বপূর্ণ ম্যাচ",
+                "ZH": "重要比赛",
+                "KO": "소중한 경기",
+                "TL": "Mahalagang laban",
+                "MY": "အရေးကြီးတဲ့ပွဲပါ။",
+                "HI": "महत्वपूर्ण मैच",
+                "AR": "مباراة مهمة",
+                "FA": "مسابقه مهم"
+            }
+        },
+        {
+            "kanji": "サッカーの試合",
+            "furigana": "サッカーの試合(しあい)",
+            "translations": {
+                "EN": "soccer match",
+                "ID": "pertandingan sepak bola",
+                "ES": "partido de fútbol",
+                "VI": "trận đấu bóng đá",
+                "FR": "match de football",
+                "NE": "फुटबल खेल",
+                "BN": "ফুটবল ম্যাচ",
+                "ZH": "足球比赛",
+                "KO": "축구 경기",
+                "TL": "laban ng soccer",
+                "MY": "ဘောလုံးပွဲ",
+                "HI": "फुटबॉल मैच",
+                "AR": "مباراة كرة قدم",
+                "FA": "مسابقه فوتبال"
+            }
+        },
+        {
+            "kanji": "試合開始",
+            "furigana": "試合(しあい)開始(かいし)",
+            "translations": {
+                "EN": "The match begins",
+                "ID": "Pertandingan dimulai",
+                "ES": "El partido comienza",
+                "VI": "Trận đấu bắt đầu",
+                "FR": "Le match commence",
+                "NE": "खेल सुरु हुन्छ",
+                "BN": "ম্যাচ শুরু হয়",
+                "ZH": "比赛开始",
+                "KO": "경기 시작",
+                "TL": "Magsisimula na ang laban",
+                "MY": "ပွဲစပါပြီ။",
+                "HI": "मैच शुरू होता है",
+                "AR": "تبدأ المباراة",
+                "FA": "مسابقه شروع می‌شود"
+            }
+        },
+        {
+            "kanji": "試合中止",
+            "furigana": "試合(しあい)中止(ちゅうし)",
+            "translations": {
+                "EN": "Match canceled",
+                "ID": "Pertandingan dibatalkan",
+                "ES": "Partido cancelado",
+                "VI": "Trận đấu bị hủy",
+                "FR": "Match annulé",
+                "NE": "खेल रद्द भयो",
+                "BN": "ম্যাচ বাতিল হয়েছে",
+                "ZH": "比赛取消",
+                "KO": "경기 중단",
+                "TL": "Kinansela ang laban",
+                "MY": "ပွဲကို ဖျက်သိမ်းလိုက်ပါပြီ။",
+                "HI": "मैच रद्द",
+                "AR": "تم إلغاء المباراة",
+                "FA": "مسابقه لغو شد"
+            }
+        },
+        {
+            "kanji": "今日の試合",
+            "furigana": "今日(きょう)の試合(しあい)",
+            "translations": {
+                "EN": "Today's Match",
+                "ID": "Pertandingan Hari Ini",
+                "ES": "Partido de hoy",
+                "VI": "Trận đấu hôm nay",
+                "FR": "Match d'aujourd'hui",
+                "NE": "आजको खेल",
+                "BN": "আজকের ম্যাচ",
+                "ZH": "今天的比赛",
+                "KO": "오늘의 경기",
+                "TL": "Laban Ngayon",
+                "MY": "ဒီနေ့ပွဲ",
+                "HI": "आज का मैच",
+                "AR": "مباراة اليوم",
+                "FA": "مسابقه امروز"
+            }
+        },
+        {
+            "kanji": "試合をする",
+            "furigana": "試合(しあい)をする",
+            "translations": {
+                "EN": "Play a match",
+                "ID": "Mainkan pertandingan",
+                "ES": "Jugar un partido",
+                "VI": "Chơi một trận đấu",
+                "FR": "Jouer un match",
+                "NE": "खेल खेल्नुहोस्",
+                "BN": "একটি ম্যাচ খেলুন",
+                "ZH": "进行一场比赛",
+                "KO": "경기를 하다",
+                "TL": "Maglaro ng laban",
+                "MY": "တစ်ပွဲကစားပါ။",
+                "HI": "मैच खेलें",
+                "AR": "العب مباراة",
+                "FA": "یک مسابقه انجام دهید"
+            }
+        },
+        {
+            "kanji": "試合に勝つ",
+            "furigana": "試合(しあい)に勝(か)つ",
+            "translations": {
+                "EN": "Win the match",
+                "ID": "Menangkan pertandingan",
+                "ES": "Ganar el partido",
+                "VI": "Thắng trận đấu",
+                "FR": "Gagner le match",
+                "NE": "खेल जित्नुहोस्",
+                "BN": "ম্যাচটি জিতুন",
+                "ZH": "赢得比赛",
+                "KO": "경기를 이기다",
+                "TL": "Manalo sa laban",
+                "MY": "ပွဲကိုအနိုင်ရ",
+                "HI": "मैच जीतो",
+                "AR": "الفوز بالمباراة",
+                "FA": "مسابقه را ببرید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "明日は大事な試合があります。",
+            "furigana": "明日(あした)は大事(だいじ)な試合(しあい)があります。",
+            "translations": {
+                "EN": "There is an important game tomorrow.",
+                "ID": "Ada pertandingan penting besok.",
+                "ES": "Mañana hay un partido importante.",
+                "VI": "Ngày mai có một trận đấu quan trọng.",
+                "FR": "Il y a un match important demain.",
+                "NE": "भोलि एउटा महत्त्वपूर्ण खेल छ।",
+                "BN": "আগামীকাল একটি গুরুত্বপূর্ণ খেলা আছে।",
+                "ZH": "明天有一场重要的比赛。",
+                "KO": "내일은 소중한 경기가 있습니다.",
+                "TL": "May importanteng laro bukas.",
+                "MY": "မနက်ဖြန်မှာ အရေးကြီးတဲ့ပွဲတစ်ပွဲရှိတယ်။",
+                "HI": "कल एक महत्वपूर्ण खेल है.",
+                "AR": "هناك مباراة مهمة غدا.",
+                "FA": "فردا بازی مهمی در پیش است."
+            }
+        },
+        {
+            "kanji": "私たちはその試合に勝ちました。",
+            "furigana": "私(わたし)たちはその試合(しあい)に勝(か)ちました。",
+            "translations": {
+                "EN": "We won that match.",
+                "ID": "Kami memenangkan pertandingan itu.",
+                "ES": "Ganamos ese partido.",
+                "VI": "Chúng tôi đã thắng trận đấu đó.",
+                "FR": "Nous avons gagné ce match.",
+                "NE": "हामीले त्यो खेल जित्यौं।",
+                "BN": "আমরা সেই ম্যাচটি জিতেছিলাম।",
+                "ZH": "我们赢得了那场比赛。",
+                "KO": "우리는 그 경기를 이겼다.",
+                "TL": "Nanalo kami sa laban na iyon.",
+                "MY": "အဲဒီပွဲကို ကျွန်တော်တို့ အနိုင်ရခဲ့ပါတယ်။",
+                "HI": "हमने वह मैच जीत लिया।",
+                "AR": "لقد فزنا بتلك المباراة.",
+                "FA": "ما آن مسابقه را بردیم."
+            }
+        },
+        {
+            "kanji": "試合は午後三時に始まります。",
+            "furigana": "試合(しあい)は午後(ごご)三(さん)時(じ)に始(はじ)まります。",
+            "translations": {
+                "EN": "The match starts at 3pm.",
+                "ID": "Pertandingan dimulai pukul 3 sore.",
+                "ES": "El partido comenzará a las 15h.",
+                "VI": "Trận đấu bắt đầu lúc 3 giờ chiều.",
+                "FR": "Le match commence à 15h.",
+                "NE": "खेल दिउँसो ३ बजे सुरु हुनेछ।",
+                "BN": "ম্যাচটি শুরু হবে বিকাল ৩টায়।",
+                "ZH": "比赛于下午3点开始。",
+                "KO": "경기는 오후 3시에 시작됩니다.",
+                "TL": "Magsisimula ang laban sa 3pm.",
+                "MY": "ပွဲက ညနေ ၃ နာရီမှာ စတင်မှာ ဖြစ်ပါတယ်။",
+                "HI": "मैच दोपहर 3 बजे शुरू होगा।",
+                "AR": "وتبدأ المباراة الساعة الثالثة ظهرا.",
+                "FA": "مسابقه ساعت 3 بعد از ظهر شروع میشه."
+            }
+        },
+        {
+            "kanji": "今日は雨で試合が中止になった。",
+            "furigana": "今日(きょう)は雨(あめ)で試合(しあい)が中止(ちゅうし)になった。",
+            "translations": {
+                "EN": "The game was called off today because of rain.",
+                "ID": "Pertandingan dibatalkan hari ini karena hujan.",
+                "ES": "El partido de hoy fue cancelado debido a la lluvia.",
+                "VI": "Trận đấu hôm nay đã bị hủy vì trời mưa.",
+                "FR": "Le match a été annulé aujourd'hui à cause de la pluie.",
+                "NE": "आजको खेल वर्षाका कारण रद्द गरिएको छ।",
+                "BN": "বৃষ্টির কারণে আজ খেলাটি বাতিল করা হয়েছে।",
+                "ZH": "今天比赛因下雨而取消。",
+                "KO": "오늘은 비로 경기가 중단되었다.",
+                "TL": "Nakansela ang laro ngayon dahil sa ulan.",
+                "MY": "မိုးရွာတာကြောင့် ဒီနေ့ ဂိမ်းကို ရပ်နားထားပါတယ်။",
+                "HI": "आज बारिश के कारण खेल रद्द कर दिया गया।",
+                "AR": "تم إلغاء المباراة اليوم بسبب الأمطار.",
+                "FA": "بازی امروز به دلیل بارندگی لغو شد."
+            }
+        },
+        {
+            "kanji": "テレビで試合を観ました。",
+            "furigana": "テレビで試合(しあい)を観(み)ました。",
+            "translations": {
+                "EN": "I watched the game on TV.",
+                "ID": "Saya menonton pertandingan itu di TV.",
+                "ES": "Vi el partido por televisión.",
+                "VI": "Tôi đã xem trận đấu trên TV.",
+                "FR": "J'ai regardé le match à la télévision.",
+                "NE": "मैले टिभीमा खेल हेरेँ।",
+                "BN": "আমি টিভিতে খেলাটি দেখেছি।",
+                "ZH": "我在电视上观看了这场比赛。",
+                "KO": "TV에서 경기를 보았습니다.",
+                "TL": "Napanood ko ang laro sa TV.",
+                "MY": "တီဗီမှာ ဂိမ်းကြည့်ခဲ့တယ်။",
+                "HI": "मैंने टीवी पर खेल देखा।",
+                "AR": "لقد شاهدت المباراة على التلفاز.",
+                "FA": "من بازی را از تلویزیون تماشا کردم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "cocok",
+            "ES": "fósforo",
+            "VI": "cuộc thi đấu",
+            "FR": "correspondre",
+            "NE": "मिलान",
+            "BN": "ম্যাচ",
+            "ZH": "匹配",
+            "KO": "성냥",
+            "TL": "tugma",
+            "MY": "တစ်ပွဲ",
+            "HI": "मिलान",
+            "AR": "مباراة",
+            "FA": "مطابقت",
+            "EN": [
+                "match",
+                "game",
+                "contest"
+            ]
+        },
+        {
+            "ID": "pertandingan",
+            "ES": "combate",
+            "VI": "trận đấu",
+            "FR": "combat",
+            "NE": "मुकाबला",
+            "BN": "লড়াই",
+            "ZH": "回合",
+            "KO": "합",
+            "TL": "laban",
+            "MY": "ပြိုင်ပွဲ",
+            "HI": "बार",
+            "AR": "نوبة",
+            "FA": "تقلا",
+            "EN": [
+                "bout",
+                "fight"
+            ]
+        },
+        {
+            "ID": "perlengkapan",
+            "ES": "artículos fijos",
+            "VI": "đồ đạc",
+            "FR": "fixation",
+            "NE": "फिक्स्चर",
+            "BN": "ফিক্সচার",
+            "ZH": "固定装置",
+            "KO": "고정물",
+            "TL": "kabit",
+            "MY": "ခံစစ်မှူး",
+            "HI": "स्थिरता",
+            "AR": "تركيبات",
+            "FA": "فیکسچر",
+            "EN": [
+                "fixture"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "試合",
+        "is_common": true,
+        "tags": [
+            "wanikani14"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "試合",
+                "reading": "しあい"
+            },
+            {
+                "word": "仕合",
+                "reading": "しあい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "match",
+                    "game",
+                    "bout",
+                    "contest"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "試",
+        "合"
+    ],
+    "kanji_data": {
+        "試": {
+            "freq_mainichi_shinbun": 392,
+            "grade": 4,
+            "heisig_en": "test",
+            "jlpt": 4,
+            "kanji": "試",
+            "kun_readings": [
+                "こころ.みる",
+                "ため.す"
+            ],
+            "meanings": [
+                "attempt",
+                "experiment",
+                "ordeal",
+                "test",
+                "try"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シ"
+            ],
+            "stroke_count": 13,
+            "unicode": "8A66"
+        },
+        "合": {
+            "freq_mainichi_shinbun": 41,
+            "grade": 2,
+            "heisig_en": "fit",
+            "jlpt": 3,
+            "kanji": "合",
+            "kun_readings": [
+                "-あ.い",
+                "-あ.う",
+                "-あ.わせる",
+                "-あい",
+                "あ.い",
+                "あ.う",
+                "あ.わす",
+                "あ.わせる",
+                "あい-"
+            ],
+            "meanings": [
+                "0.1",
+                "fit",
+                "join",
+                "suit"
+            ],
+            "name_readings": [
+                "あう",
+                "あん",
+                "い",
+                "か",
+                "こう",
+                "ごお",
+                "に",
+                "ね",
+                "や",
+                "わい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カッ",
+                "ガッ",
+                "ゴウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5408"
+        }
+    }
+}

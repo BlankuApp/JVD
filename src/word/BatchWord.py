@@ -554,7 +554,7 @@ class JPWordInfo(BaseModel):
             with open(definition_jp_audio_path, "wb") as audio_file:
                 audio_file.write(response.content)
 
-        definition_audio = AudioSegment.silent(duration=100)
+        definition_audio = AudioSegment.silent(duration=500)
         definition_audio += AudioSegment.from_mp3(definition_en_audio_path).apply_gain(12)
         definition_audio += AudioSegment.silent(duration=500)
         definition_audio += AudioSegment.from_mp3(definition_jp_audio_path).apply_gain(12)
@@ -576,6 +576,7 @@ class JPWordInfo(BaseModel):
             with open(kanji_explanation_audio_path, "wb") as audio_file:
                 audio_file.write(response.content)
 
+        kanji_explanation_audio = AudioSegment.silent(duration=500)
         kanji_explanation_audio = AudioSegment.from_mp3(kanji_explanation_audio_path).apply_gain(12)
         with open(f"./output/{word}/audio/2_kanji_explanation.wav", "wb") as kanji_file:
             kanji_explanation_audio.export(kanji_file, format="wav")
@@ -613,7 +614,7 @@ class JPWordInfo(BaseModel):
             example_jp_audio = AudioSegment.from_mp3(example_jp_audio_path).apply_gain(12)
             example_en_audio = AudioSegment.from_mp3(example_en_audio_path).apply_gain(12)
 
-            example_audio = AudioSegment.silent(duration=100)
+            example_audio = AudioSegment.silent(duration=500)
             example_audio += example_en_audio
             example_audio += AudioSegment.silent(duration=500)
             example_audio += example_jp_audio
@@ -637,6 +638,7 @@ class JPWordInfo(BaseModel):
             with open(synonyms_explanation_audio_path, "wb") as audio_file:
                 audio_file.write(response.content)
 
+        synonyms_explanation_audio = AudioSegment.silent(duration=500)
         synonyms_explanation_audio = AudioSegment.from_mp3(synonyms_explanation_audio_path).apply_gain(12)
         with open(f"./output/{word}/audio/100_synonyms_antonyms.wav", "wb") as syn_ant_file:
             synonyms_explanation_audio.export(syn_ant_file, format="wav")
@@ -652,7 +654,7 @@ Output the sections below using **exactly** these headings and this order—no e
 In Japanese only. Without giving the meaning or reading, name typical situations/contexts where this word is used. Start with the word itself. 1-2 short spoken sentences suitable for elementary learners.
 
 ## introduction_english
-English translation of **introduction_japanese**. Write the word in kana. Start with: “The [adjective/noun/verb …] [word] …”
+English translation of **introduction_japanese**. Write the word in kana. Start with naming the word itself.
 
 ## youtube_description
 A short English YouTube description for a video explaining the word meaning and use.
@@ -665,23 +667,23 @@ List **all** meanings grouped by nuance. Each nuance is a list of single-word En
 A short, complete spoken explanation (Japanese) of the literal meanings based on the previous meanings section. Do **not** use the target word itself—use synonyms or antonyms.
 
 ## meaning_explanation_english
-A short spoken explanation (English) of the literal meanings  based on the previous meanings section. Include the word in kana.
+In a single sentence explain the part-of-speech of the word (For example: It is used as a noun or verb). Followed by a short spoken explanation (English) of the literal meanings based on the previous meanings section. Include the word in kana.
 
 ## kanji_details
 For **each kanji** in the word: give 1-2 common words (excluding the target word). For each, provide: kanji word, reading, and meaning.
 
 ## kanji_explanation_english
-For **each kanji** (in order), write one paragraph of 3-4 short sentences in a teacher spoken voice. Start with “The [first/second/…] kanji means …”. Mention 1-2 example vocab items (not the target word) **written in hiragana only**. No bullet points, parentheses, line breaks, titles, or kanji inside the example vocab.
+For **each kanji** (in order), write one paragraph of 3-4 short sentences in a teacher spoken voice. Start with “The [first/second/single/only/…] kanji means …”. Mention the common vocabularies mentioned in kanji_details field (not the target word) **written in hiragana only**. No bullet points, parentheses, line breaks, titles, or kanji inside the example vocab.
 
 ## synonyms
-List 1 (max 2) common synonyms **excluding the target word**. Format exactly:
+List 1 (max 2) common synonyms **excluding the target word**. It can be a word or a short phrase. Format exactly:
 kanji : reading : meaning
 
 ## synonyms_explanation
 A very short English explanation of the synonyms nuances and how they overlap with the target word. Start with: “The most common synonym[s] of the word [are/is] …”. Write any Japanese vocab **in hiragana only** (no kanji).
 
 ## antonyms
-List 1 (max 2) common antonyms **excluding the target word**. Format exactly:
+List 1 (max 2) common antonyms **excluding the target word**. It can be a word or a short phrase. Format exactly:
 kanji : reading : meaning
 
 ## antonyms_explanation
@@ -840,55 +842,47 @@ def read_batch_results(filepath: str, jlpt_level: int):
 
 
 ws = [
-    "与える",
-    "穴",
-    "あんなに",
-    "市場",
-    "従兄弟",
-    "伺う",
-    "運転",
-    "描く",
-    "贈る",
-    "香り",
-    "財産",
-    "幸せ",
-    "自身",
-    "実行",
-    "失望",
-    "芝居",
-    "示す",
-    "症状",
-    "審判",
-    "速度",
-    "袖",
-    "他人",
-    "注目",
-    "著者",
-    "掴む",
-    "包み",
-    "提出",
-    "適用",
-    "手伝い",
-    "日光",
-    "人間",
-    "年代",
-    "別に",
-    "迷惑",
-    "優勝",
-    "輸出",
-    "夜明け",
-    "要点",
-    "止す",
-    "余分",
-    "宜しい",
-    "利口",
-    "流行",
-    "話題",
-    "湾",
+    "挨拶",
+    "集める",
+    "謝る",
+    "急ぐ",
+    "受付",
+    "美しい",
+    "遠慮",
+    "起す",
+    "落す",
+    "折れる",
+    "科学",
+    "壁",
+    "考える",
+    "決る",
+    "教会",
+    "空港",
+    "経済",
+    "研究",
+    "工場",
+    "細かい",
+    "壊す",
+    "最初",
+    "試合",
+    "辞典",
+    "将来",
+    "過ぎる",
+    "大体",
+    "尋ねる",
+    "天気予報",
+    "昼間",
+    "味噌",
+    "向かう",
+    "無理",
+    "連絡",
+    "笑う",
+    "割合",
+    "忘れ物",
 ]
 
 if __name__ == "__main__":
     # get_schema()
     # generate_word_requests(ws)
-    w = read_batch_results(r"C:\Users\eskan\Downloads\batch_68ebaf6956e0819090f86166d6593f31_output.jsonl", 3)
+    w = read_batch_results(r"C:\Users\eskan\Downloads\Chrome\batch_68f04d07f8408190a8443563c885470a_output.jsonl", 4)
     # print(w)

@@ -1,0 +1,475 @@
+{
+    "version": "0.3.0",
+    "word": "空港",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/_53cOsQqsB8",
+    "in_db": true,
+    "kanji": "空港",
+    "reading": "くうこう",
+    "introduction_japanese": "空港。旅行の出発や到着で行くところだよ。荷物を預けたり、ゲートに向かったりするときに使うね。",
+    "introduction_english": "くうこう. You go there for trip departures and arrivals. You check bags and head to your gate.",
+    "meanings": [
+        [
+            "airport",
+            "aerodrome"
+        ]
+    ],
+    "meaning_explanation_japanese": "飛行機が離着陸する場所や、手続きの建物が集まった大きな施設を指すよ。",
+    "meaning_explanation_english": "It is used as a noun. くうこう literally means a place where planes take off and land, with facilities for passengers and cargo.",
+    "youtube_description": "Learn くうこう (airport): meaning, kanji hints, common phrases, and beginner-friendly examples so you can travel with confidence in Japanese!",
+    "kanji_details": [
+        {
+            "kanji": "空",
+            "onyomi": [
+                "クウ"
+            ],
+            "kunyomi": [
+                "そら",
+                "から"
+            ],
+            "meanings_english": [
+                "sky",
+                "empty"
+            ],
+            "common_words": [
+                "空気（くうき）：air",
+                "空室（くうしつ）：vacant room"
+            ]
+        },
+        {
+            "kanji": "港",
+            "onyomi": [
+                "コウ"
+            ],
+            "kunyomi": [
+                "みなと"
+            ],
+            "meanings_english": [
+                "harbor",
+                "port"
+            ],
+            "common_words": [
+                "港町（みなとまち）：port town",
+                "入港（にゅうこう）：entry to port"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means sky or empty. It suggests open space or nothing inside. You see it in くうき and くうしつ. In compounds it often reads くう.\nThe second kanji means harbor or port. It is about places where ships come and go. You see it in みなとまち and にゅうこう. In compounds it often reads こう.",
+    "synonyms": [
+        "飛行場 : ひこうじょう : airfield/airport"
+    ],
+    "synonym_explanation": "The most common synonym of the word is ひこうじょう. It overlaps with くうこう, but ひこうじょう can be smaller or more basic, while くうこう implies larger public facilities with services.",
+    "antonyms": [
+        "港 : みなと : harbor/seaport"
+    ],
+    "antonym_explanation": "The most common antonym of the word is みなと. It refers to sea travel hubs, while くうこう is for air travel hubs.",
+    "collocations": [
+        {
+            "kanji": "新しい空港",
+            "furigana": "新(あたら)しい空(くう)港(こう)",
+            "translations": {
+                "EN": "New Airport",
+                "ID": "Bandara Baru",
+                "ES": "Nuevo aeropuerto",
+                "VI": "Sân bay mới",
+                "FR": "Nouvel aéroport",
+                "NE": "नयाँ विमानस्थल",
+                "BN": "নতুন বিমানবন্দর",
+                "ZH": "新机场",
+                "KO": "새로운 공항",
+                "TL": "Bagong Paliparan",
+                "MY": "လေဆိပ်သစ်",
+                "HI": "नया हवाई अड्डा",
+                "AR": "المطار الجديد",
+                "FA": "فرودگاه جدید"
+            }
+        },
+        {
+            "kanji": "国際空港",
+            "furigana": "国(こく)際(さい)空(くう)港(こう)",
+            "translations": {
+                "EN": "International Airport",
+                "ID": "Bandara Internasional",
+                "ES": "Aeropuerto internacional",
+                "VI": "Sân bay quốc tế",
+                "FR": "Aéroport international",
+                "NE": "अन्तर्राष्ट्रिय विमानस्थल",
+                "BN": "আন্তর্জাতিক বিমানবন্দর",
+                "ZH": "国际机场",
+                "KO": "국제 공항",
+                "TL": "International Airport",
+                "MY": "အပြည်ပြည်ဆိုင်ရာလေဆိပ်",
+                "HI": "अंतरराष्ट्रीय हवाई अड्डे",
+                "AR": "المطار الدولي",
+                "FA": "فرودگاه بین‌المللی"
+            }
+        },
+        {
+            "kanji": "国内の空港",
+            "furigana": "国(こく)内(ない)の空(くう)港(こう)",
+            "translations": {
+                "EN": "Domestic airports",
+                "ID": "Bandara domestik",
+                "ES": "Aeropuertos nacionales",
+                "VI": "Sân bay nội địa",
+                "FR": "Aéroports nationaux",
+                "NE": "घरेलु विमानस्थलहरू",
+                "BN": "অভ্যন্তরীণ বিমানবন্দর",
+                "ZH": "国内机场",
+                "KO": "국내 공항",
+                "TL": "Mga domestic airport",
+                "MY": "ပြည်တွင်းလေဆိပ်များ",
+                "HI": "घरेलू हवाई अड्डे",
+                "AR": "المطارات المحلية",
+                "FA": "فرودگاه‌های داخلی"
+            }
+        },
+        {
+            "kanji": "空港へのアクセス",
+            "furigana": "空(くう)港(こう)へのアクセス",
+            "translations": {
+                "EN": "Access to the airport",
+                "ID": "Akses ke bandara",
+                "ES": "Acceso al aeropuerto",
+                "VI": "Tiếp cận sân bay",
+                "FR": "Accès à l'aéroport",
+                "NE": "विमानस्थलमा पहुँच",
+                "BN": "বিমানবন্দরে প্রবেশাধিকার",
+                "ZH": "前往机场",
+                "KO": "공항 이용",
+                "TL": "Access sa paliparan",
+                "MY": "လေဆိပ်သို့ဝင်ရောက်",
+                "HI": "हवाई अड्डे तक पहुँच",
+                "AR": "الوصول إلى المطار",
+                "FA": "دسترسی به فرودگاه"
+            }
+        },
+        {
+            "kanji": "空港に行く",
+            "furigana": "空(くう)港(こう)に行(い)く",
+            "translations": {
+                "EN": "Go to the airport",
+                "ID": "Pergi ke bandara",
+                "ES": "Ir al aeropuerto",
+                "VI": "Đi đến sân bay",
+                "FR": "Aller à l'aéroport",
+                "NE": "विमानस्थल जानुहोस्।",
+                "BN": "বিমানবন্দরে যাও।",
+                "ZH": "去机场",
+                "KO": "공항으로 이동",
+                "TL": "Pumunta sa airport",
+                "MY": "လေဆိပ်ကိုသွားပါ။",
+                "HI": "हवाई अड्डे पर जाएँ",
+                "AR": "اذهب إلى المطار",
+                "FA": "برو به فرودگاه"
+            }
+        },
+        {
+            "kanji": "空港で待つ",
+            "furigana": "空(くう)港(こう)で待(ま)つ",
+            "translations": {
+                "EN": "Wait at the airport",
+                "ID": "Tunggu di bandara",
+                "ES": "Esperar en el aeropuerto",
+                "VI": "Chờ ở sân bay",
+                "FR": "Attendre à l'aéroport",
+                "NE": "विमानस्थलमा पर्खनुहोस्",
+                "BN": "বিমানবন্দরে অপেক্ষা করুন",
+                "ZH": "在机场等候",
+                "KO": "공항에서 기다리다",
+                "TL": "Maghintay sa airport",
+                "MY": "လေဆိပ်မှာစောင့်",
+                "HI": "हवाई अड्डे पर प्रतीक्षा करें",
+                "AR": "انتظر في المطار",
+                "FA": "در فرودگاه منتظر بمانید"
+            }
+        },
+        {
+            "kanji": "空港までタクシーに乗る",
+            "furigana": "空(くう)港(こう)までタクシーに乗(の)る",
+            "translations": {
+                "EN": "Take a taxi to the airport",
+                "ID": "Naik taksi ke bandara",
+                "ES": "Tome un taxi al aeropuerto",
+                "VI": "Đi taxi đến sân bay",
+                "FR": "Prendre un taxi pour l'aéroport",
+                "NE": "विमानस्थलमा ट्याक्सी लिनुहोस्",
+                "BN": "বিমানবন্দরে ট্যাক্সি নিন।",
+                "ZH": "乘坐出租车前往机场",
+                "KO": "공항까지 택시 타기",
+                "TL": "Sumakay ng taxi papuntang airport",
+                "MY": "လေဆိပ်ကို တက္ကစီစီးပါ။",
+                "HI": "हवाई अड्डे तक टैक्सी लें",
+                "AR": "خذ سيارة أجرة إلى المطار",
+                "FA": "با تاکسی به فرودگاه بروید"
+            }
+        },
+        {
+            "kanji": "空港に到着する",
+            "furigana": "空(くう)港(こう)に到(とう)着(ちゃく)する},{",
+            "translations": {
+                "EN": "Arriving at the airport",
+                "ID": "Tiba di bandara",
+                "ES": "Llegando al aeropuerto",
+                "VI": "Đến sân bay",
+                "FR": "Arrivée à l'aéroport",
+                "NE": "विमानस्थलमा आइपुग्दै",
+                "BN": "বিমানবন্দরে পৌঁছানো",
+                "ZH": "抵达机场",
+                "KO": "공항에 도착",
+                "TL": "Pagdating sa airport",
+                "MY": "လေဆိပ်ကိုရောက်တယ်။",
+                "HI": "हवाई अड्डे पर पहुँचना",
+                "AR": "الوصول إلى المطار",
+                "FA": "رسیدن به فرودگاه"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "あした、空港へ行きます。",
+            "furigana": "あした、空(くう)港(こう)へ行(い)きます。",
+            "translations": {
+                "EN": "I'm going to the airport tomorrow.",
+                "ID": "Saya akan ke bandara besok.",
+                "ES": "Voy al aeropuerto mañana.",
+                "VI": "Ngày mai tôi sẽ ra sân bay.",
+                "FR": "Je vais à l'aéroport demain.",
+                "NE": "म भोलि विमानस्थल जाँदैछु।",
+                "BN": "আমি আগামীকাল বিমানবন্দরে যাচ্ছি।",
+                "ZH": "我明天要去机场。",
+                "KO": "내일 공항으로 갑니다.",
+                "TL": "Pupunta ako sa airport bukas.",
+                "MY": "ငါမနက်ဖြန်လေဆိပ်သွားမယ်။",
+                "HI": "मैं कल हवाई अड्डे जा रहा हूँ.",
+                "AR": "سأذهب إلى المطار غدا.",
+                "FA": "فردا میرم فرودگاه."
+            }
+        },
+        {
+            "kanji": "私は空港で友だちを待ちます。",
+            "furigana": "私(わたし)は空(くう)港(こう)で友(とも)だちを待(ま)ちます。",
+            "translations": {
+                "EN": "I'm waiting for my friend at the airport.",
+                "ID": "Saya sedang menunggu teman saya di bandara.",
+                "ES": "Estoy esperando a mi amigo en el aeropuerto.",
+                "VI": "Tôi đang đợi bạn tôi ở sân bay.",
+                "FR": "J'attends mon ami à l'aéroport.",
+                "NE": "म विमानस्थलमा मेरो साथीलाई पर्खिरहेको छु।",
+                "BN": "আমি বিমানবন্দরে আমার বন্ধুর জন্য অপেক্ষা করছি।",
+                "ZH": "我在机场等我的朋友。",
+                "KO": "나는 공항에서 친구를 기다린다.",
+                "TL": "Hinihintay ko ang kaibigan ko sa airport.",
+                "MY": "လေဆိပ်မှာ သူငယ်ချင်းကို စောင့်နေတယ်။",
+                "HI": "मैं हवाई अड्डे पर अपने दोस्त का इंतज़ार कर रहा हूँ।",
+                "AR": "أنا في انتظار صديقي في المطار.",
+                "FA": "من منتظر دوستم در فرودگاه هستم."
+            }
+        },
+        {
+            "kanji": "このバスは空港まで行きます。",
+            "furigana": "このバスは空(くう)港(こう)まで行(い)きます。",
+            "translations": {
+                "EN": "This bus goes to the airport.",
+                "ID": "Bus ini menuju ke bandara.",
+                "ES": "Este autobús va al aeropuerto.",
+                "VI": "Xe buýt này đi tới sân bay.",
+                "FR": "Ce bus va à l'aéroport.",
+                "NE": "यो बस विमानस्थल जान्छ।",
+                "BN": "এই বাসটি বিমানবন্দরে যায়।",
+                "ZH": "这辆巴士去机场。",
+                "KO": "이 버스는 공항으로 이동합니다.",
+                "TL": "Pupunta ang bus na ito sa airport.",
+                "MY": "ဒီဘတ်စ်ကားက လေဆိပ်ကို သွားတာပါ။",
+                "HI": "यह बस हवाई अड्डे तक जाती है।",
+                "AR": "هذه الحافلة تذهب إلى المطار.",
+                "FA": "این اتوبوس به فرودگاه می‌رود."
+            }
+        },
+        {
+            "kanji": "空港はとてもきれいです。",
+            "furigana": "空(くう)港(こう)はとてもきれいです。",
+            "translations": {
+                "EN": "The airport is very clean.",
+                "ID": "Bandara ini sangat bersih.",
+                "ES": "El aeropuerto está muy limpio.",
+                "VI": "Sân bay rất sạch sẽ.",
+                "FR": "L'aéroport est très propre.",
+                "NE": "विमानस्थल एकदमै सफा छ।",
+                "BN": "বিমানবন্দরটি খুবই পরিষ্কার।",
+                "ZH": "机场非常干净。",
+                "KO": "공항은 매우 깨끗합니다.",
+                "TL": "Napakalinis ng airport.",
+                "MY": "လေဆိပ်က အရမ်းသန့်တယ်။",
+                "HI": "हवाई अड्डा बहुत साफ़ है.",
+                "AR": "المطار نظيف جداً.",
+                "FA": "فرودگاه خیلی تمیزه."
+            }
+        },
+        {
+            "kanji": "空港で荷物を預けました。",
+            "furigana": "空(くう)港(こう)で荷(に)物(もつ)を預(あず)けました。},{",
+            "translations": {
+                "EN": "I checked my luggage at the airport.",
+                "ID": "Saya menitipkan barang bawaan saya di bandara.",
+                "ES": "Facturé mi equipaje en el aeropuerto.",
+                "VI": "Tôi đã ký gửi hành lý của mình tại sân bay.",
+                "FR": "J'ai enregistré mes bagages à l'aéroport.",
+                "NE": "मैले विमानस्थलमा मेरो सामान जाँच गरें।",
+                "BN": "আমি বিমানবন্দরে আমার লাগেজ চেক করেছি।",
+                "ZH": "我在机场托运了我的行李。",
+                "KO": "공항에서 수하물을 맡겼습니다.",
+                "TL": "Tinignan ko ang bagahe ko sa airport.",
+                "MY": "လေဆိပ်မှာ ခရီးဆောင်အိတ်ကို စစ်တယ်။",
+                "HI": "मैंने हवाई अड्डे पर अपना सामान जांचा।",
+                "AR": "لقد قمت بتسجيل أمتعتي في المطار.",
+                "FA": "چمدان‌هایم را در فرودگاه تحویل گرفتم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "bandara",
+            "ES": "aeropuerto",
+            "VI": "sân bay",
+            "FR": "aéroport",
+            "NE": "विमानस्थल",
+            "BN": "বিমানবন্দর",
+            "ZH": "飞机场",
+            "KO": "공항",
+            "TL": "paliparan",
+            "MY": "လေဆိပ်",
+            "HI": "एयरपोर्ट",
+            "AR": "مطار",
+            "FA": "فرودگاه",
+            "EN": [
+                "airport",
+                "aerodrome"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "空港",
+        "is_common": true,
+        "tags": [
+            "wanikani12"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "空港",
+                "reading": "くうこう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "airport"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Airport"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Airport” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Airport?oldid=495266562"
+                    },
+                    {
+                        "text": "Read “空港” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/空港?oldid=42079325"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Airport"
+        }
+    },
+    "kanji_list": [
+        "空",
+        "港"
+    ],
+    "kanji_data": {
+        "空": {
+            "freq_mainichi_shinbun": 304,
+            "grade": 1,
+            "heisig_en": "empty",
+            "jlpt": 4,
+            "kanji": "空",
+            "kun_readings": [
+                "あ.き",
+                "あ.く",
+                "あ.ける",
+                "から",
+                "す.かす",
+                "す.く",
+                "そら",
+                "むな.しい"
+            ],
+            "meanings": [
+                "empty",
+                "sky",
+                "vacant",
+                "vacuum",
+                "void"
+            ],
+            "name_readings": [
+                "うつ",
+                "き",
+                "く"
+            ],
+            "notes": [],
+            "on_readings": [
+                "クウ"
+            ],
+            "stroke_count": 8,
+            "unicode": "7A7A"
+        },
+        "港": {
+            "freq_mainichi_shinbun": 495,
+            "grade": 3,
+            "heisig_en": "harbor",
+            "jlpt": 3,
+            "kanji": "港",
+            "kun_readings": [
+                "みなと"
+            ],
+            "meanings": [
+                "harbor"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 12,
+            "unicode": "6E2F"
+        }
+    }
+}

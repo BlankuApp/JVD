@@ -1,0 +1,584 @@
+{
+    "version": "0.3.0",
+    "word": "天気予報",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/gzMupJukVZA",
+    "in_db": true,
+    "kanji": "天気予報",
+    "reading": "てんきよほう",
+    "introduction_japanese": "天気予報はニュースやスマホでよく見ます。お出かけや洗濯の予定を立てるときに使います。",
+    "introduction_english": "てんきよほう: You see it on the news and on your phone. You use it when planning outings or doing laundry.",
+    "meanings": [
+        [
+            "forecast",
+            "prediction",
+            "outlook"
+        ],
+        [
+            "report",
+            "bulletin"
+        ]
+    ],
+    "meaning_explanation_japanese": "近い未来の空や雨・風などのようすを見通して知らせること、またはその情報のことです。",
+    "meaning_explanation_english": "It is used as a noun. てんきよほう literally means a forecast or report about the weather in the near future.",
+    "youtube_description": "Learn てんきよほう in minutes! Clear meaning, common patterns, useful phrases, and beginner-friendly examples so you can talk about the weather like a local.",
+    "kanji_details": [
+        {
+            "kanji": "天",
+            "onyomi": [
+                "テン"
+            ],
+            "kunyomi": [
+                "あま",
+                "あめ"
+            ],
+            "meanings_english": [
+                "heaven",
+                "sky"
+            ],
+            "common_words": [
+                "天才（てんさい）: genius",
+                "天国（てんごく）: heaven"
+            ]
+        },
+        {
+            "kanji": "気",
+            "onyomi": [
+                "キ"
+            ],
+            "kunyomi": [
+                "いき"
+            ],
+            "meanings_english": [
+                "air",
+                "spirit",
+                "mood"
+            ],
+            "common_words": [
+                "人気（にんき）: popularity",
+                "気分（きぶん）: mood"
+            ]
+        },
+        {
+            "kanji": "予",
+            "onyomi": [
+                "ヨ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "beforehand",
+                "prepare"
+            ],
+            "common_words": [
+                "予定（よてい）: schedule",
+                "予習（よしゅう）: preparation (study)"
+            ]
+        },
+        {
+            "kanji": "報",
+            "onyomi": [
+                "ホウ"
+            ],
+            "kunyomi": [
+                "むく(いる)"
+            ],
+            "meanings_english": [
+                "report",
+                "inform"
+            ],
+            "common_words": [
+                "報告（ほうこく）: report",
+                "情報（じょうほう）: information"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means sky or heaven. It suggests what is above and natural conditions. You can see it in てんさい and てんごく. It often points to nature or the heavens. The second kanji means air or spirit. It shows mood or atmosphere. It appears in words like にんき and きぶん. Think of it as the feeling or vibe around you. The third kanji means beforehand or in advance. It is about planning and preparation. Words like よてい and よしゅう use it. It signals something decided earlier. The fourth kanji means report,",
+    "synonyms": [
+        "気象情報 : きしょうじょうほう : meteorological information"
+    ],
+    "synonym_explanation": "The most common synonym of the word is きしょうじょうほう, which overlaps when talking about upcoming weather information, but it is broader and more technical than てんきよほう.",
+    "antonyms": [
+        "観測 : かんそく : observation"
+    ],
+    "antonym_explanation": "The most common antonym of the word is かんそく, which focuses on measured, current conditions rather than future prediction like てんきよほう.",
+    "collocations": [
+        {
+            "kanji": "今日の天気予報",
+            "furigana": "今日(きょう)の天気(てんき)予報(よほう)",
+            "translations": {
+                "EN": "Today's Weather Forecast",
+                "ID": "Prakiraan Cuaca Hari Ini",
+                "ES": "Pronóstico del tiempo para hoy",
+                "VI": "Dự báo thời tiết hôm nay",
+                "FR": "Prévisions météo du jour",
+                "NE": "आजको मौसम पूर्वानुमान",
+                "BN": "আজকের আবহাওয়ার পূর্বাভাস",
+                "ZH": "今日天气预报",
+                "KO": "오늘의 날씨 예보",
+                "TL": "Pagtataya ng Panahon Ngayon",
+                "MY": "ယနေ့ မိုးလေဝသခန့်မှန်းချက်",
+                "HI": "आज का मौसम पूर्वानुमान",
+                "AR": "توقعات الطقس اليوم",
+                "FA": "پیش‌بینی آب و هوای امروز"
+            }
+        },
+        {
+            "kanji": "週末の天気予報",
+            "furigana": "週末(しゅうまつ)の天気(てんき)予報(よほう)",
+            "translations": {
+                "EN": "Weekend Weather Forecast",
+                "ID": "Prakiraan Cuaca Akhir Pekan",
+                "ES": "Pronóstico del tiempo para el fin de semana",
+                "VI": "Dự báo thời tiết cuối tuần",
+                "FR": "Prévisions météo du week-end",
+                "NE": "सप्ताहांतको मौसम पूर्वानुमान",
+                "BN": "সপ্তাহান্তের আবহাওয়ার পূর্বাভাস",
+                "ZH": "周末天气预报",
+                "KO": "주말 날씨 예보",
+                "TL": "Pagtataya ng Panahon sa Weekend",
+                "MY": "သီတင်းပတ်ကုန် မိုးလေဝသ ခန့်မှန်းချက်",
+                "HI": "सप्ताहांत मौसम पूर्वानुमान",
+                "AR": "توقعات الطقس لعطلة نهاية الأسبوع",
+                "FA": "پیش‌بینی آب و هوای آخر هفته"
+            }
+        },
+        {
+            "kanji": "最新の天気予報",
+            "furigana": "最新(さいしん)の天気(てんき)予報(よほう)",
+            "translations": {
+                "EN": "Latest weather forecast",
+                "ID": "Prakiraan cuaca terbaru",
+                "ES": "Último pronóstico del tiempo",
+                "VI": "Dự báo thời tiết mới nhất",
+                "FR": "Dernières prévisions météorologiques",
+                "NE": "पछिल्लो मौसम पूर्वानुमान",
+                "BN": "সর্বশেষ আবহাওয়ার পূর্বাভাস",
+                "ZH": "最新天气预报",
+                "KO": "최신 날씨 예보",
+                "TL": "Pinakabagong taya ng panahon",
+                "MY": "နောက်ဆုံးရာသီဥတုခန့်မှန်းချက်",
+                "HI": "नवीनतम मौसम पूर्वानुमान",
+                "AR": "أحدث توقعات الطقس",
+                "FA": "آخرین پیش‌بینی آب و هوا"
+            }
+        },
+        {
+            "kanji": "正確な天気予報",
+            "furigana": "正確(せいかく)な天気(てんき)予報(よほう)",
+            "translations": {
+                "EN": "Accurate weather forecasts",
+                "ID": "Prakiraan cuaca yang akurat",
+                "ES": "Previsiones meteorológicas precisas",
+                "VI": "Dự báo thời tiết chính xác",
+                "FR": "Prévisions météorologiques précises",
+                "NE": "सटीक मौसम पूर्वानुमान",
+                "BN": "সঠিক আবহাওয়ার পূর্বাভাস",
+                "ZH": "准确的天气预报",
+                "KO": "정확한 날씨 예보",
+                "TL": "Tumpak na taya ng panahon",
+                "MY": "တိကျသောရာသီဥတုခန့်မှန်းချက်",
+                "HI": "सटीक मौसम पूर्वानुमान",
+                "AR": "توقعات الطقس الدقيقة",
+                "FA": "پیش‌بینی‌های دقیق آب و هوا"
+            }
+        },
+        {
+            "kanji": "テレビの天気予報",
+            "furigana": "テレビの天気(てんき)予報(よほう)",
+            "translations": {
+                "EN": "TV weather forecast",
+                "ID": "Ramalan cuaca TV",
+                "ES": "Pronóstico del tiempo por televisión",
+                "VI": "Dự báo thời tiết trên TV",
+                "FR": "Prévisions météo télévisées",
+                "NE": "टिभी मौसम पूर्वानुमान",
+                "BN": "টিভি আবহাওয়ার পূর্বাভাস",
+                "ZH": "电视天气预报",
+                "KO": "TV 날씨 예보",
+                "TL": "Pagtataya ng panahon sa TV",
+                "MY": "TV မိုးလေဝသခန့်မှန်းချက်",
+                "HI": "टीवी मौसम पूर्वानुमान",
+                "AR": "توقعات الطقس التلفزيونية",
+                "FA": "پیش‌بینی آب و هوای تلویزیون"
+            }
+        },
+        {
+            "kanji": "週間天気予報",
+            "furigana": "週間(しゅうかん)天気(てんき)予報(よほう)",
+            "translations": {
+                "EN": "Weekly weather forecast",
+                "ID": "Prakiraan cuaca mingguan",
+                "ES": "Pronóstico del tiempo semanal",
+                "VI": "Dự báo thời tiết hàng tuần",
+                "FR": "Prévisions météo hebdomadaires",
+                "NE": "साप्ताहिक मौसम पूर्वानुमान",
+                "BN": "সাপ্তাহিক আবহাওয়ার পূর্বাভাস",
+                "ZH": "每周天气预报",
+                "KO": "주간 일기 예보",
+                "TL": "Lingguhang taya ng panahon",
+                "MY": "အပတ်စဉ် မိုးလေဝသခန့်မှန်းချက်",
+                "HI": "साप्ताहिक मौसम पूर्वानुमान",
+                "AR": "توقعات الطقس الأسبوعية",
+                "FA": "پیش‌بینی آب و هوای هفتگی"
+            }
+        },
+        {
+            "kanji": "天気予報アプリ",
+            "furigana": "天気(てんき)予報(よほう)アプリ",
+            "translations": {
+                "EN": "Weather forecast app",
+                "ID": "Aplikasi ramalan cuaca",
+                "ES": "Aplicación de pronóstico del tiempo",
+                "VI": "Ứng dụng dự báo thời tiết",
+                "FR": "Application de prévisions météo",
+                "NE": "मौसम पूर्वानुमान एप",
+                "BN": "আবহাওয়ার পূর্বাভাস অ্যাপ",
+                "ZH": "天气预报应用",
+                "KO": "일기 예보 앱",
+                "TL": "Weather forecast app",
+                "MY": "မိုးလေဝသခန့်မှန်းချက်အက်ပ်",
+                "HI": "मौसम पूर्वानुमान ऐप",
+                "AR": "تطبيق توقعات الطقس",
+                "FA": "اپلیکیشن پیش‌بینی آب و هوا"
+            }
+        },
+        {
+            "kanji": "天気予報によると",
+            "furigana": "天気(てんき)予報(よほう)によると",
+            "translations": {
+                "EN": "According to the weather forecast",
+                "ID": "Menurut ramalan cuaca",
+                "ES": "Según el pronóstico del tiempo",
+                "VI": "Theo dự báo thời tiết",
+                "FR": "D'après les prévisions météorologiques",
+                "NE": "मौसम पूर्वानुमान अनुसार",
+                "BN": "আবহাওয়ার পূর্বাভাস অনুসারে",
+                "ZH": "根据天气预报",
+                "KO": "일기예보에 따르면",
+                "TL": "Ayon sa taya ng panahon",
+                "MY": "မိုးလေဝသခန့်မှန်းချက်အရ",
+                "HI": "मौसम पूर्वानुमान के अनुसार",
+                "AR": "وفقا لتوقعات الطقس",
+                "FA": "طبق پیش‌بینی هواشناسی"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "天気予報を見ます。",
+            "furigana": "天気(てんき)予報(よほう)を見(み)ます。",
+            "translations": {
+                "EN": "I watch the weather forecast.",
+                "ID": "Saya menonton ramalan cuaca.",
+                "ES": "Miro el pronóstico del tiempo.",
+                "VI": "Tôi xem dự báo thời tiết.",
+                "FR": "Je regarde les prévisions météo.",
+                "NE": "म मौसम पूर्वानुमान हेर्छु।",
+                "BN": "আমি আবহাওয়ার পূর্বাভাস দেখছি।",
+                "ZH": "我看天气预报。",
+                "KO": "일기 예보를 봅니다.",
+                "TL": "Tinignan ko ang weather forecast.",
+                "MY": "မိုးလေဝသခန့်မှန်းချက်ကို စောင့်ကြည့်နေတယ်။",
+                "HI": "मैं मौसम का पूर्वानुमान देखता हूं।",
+                "AR": "أنا أشاهد توقعات الطقس.",
+                "FA": "من پیش‌بینی آب و هوا را تماشا می‌کنم."
+            }
+        },
+        {
+            "kanji": "天気予報によると、明日は雨です。",
+            "furigana": "天気(てんき)予報(よほう)によると、明日(あした)は雨(あめ)です。",
+            "translations": {
+                "EN": "According to the weather forecast, it will rain tomorrow.",
+                "ID": "Menurut ramalan cuaca, besok akan hujan.",
+                "ES": "Según el pronóstico del tiempo, mañana lloverá.",
+                "VI": "Theo dự báo thời tiết, ngày mai trời sẽ mưa.",
+                "FR": "D'après les prévisions météo, il pleuvra demain.",
+                "NE": "मौसम पूर्वानुमान अनुसार भोलि पानी पर्नेछ।",
+                "BN": "আবহাওয়ার পূর্বাভাস অনুসারে, আগামীকাল বৃষ্টি হবে।",
+                "ZH": "根据天气预报，明天有雨。",
+                "KO": "일기 예보에 따르면 내일은 비입니다.",
+                "TL": "Ayon sa weather forecast, uulan bukas.",
+                "MY": "မိုးလေဝသခန့်မှန်းချက်အရ မနက်ဖြန် မိုးရွာမယ်။",
+                "HI": "मौसम पूर्वानुमान के अनुसार कल बारिश होगी।",
+                "AR": "وفقا للتنبؤات الجوية، من المتوقع هطول الأمطار غدا.",
+                "FA": "طبق پیش‌بینی هواشناسی، فردا باران می‌بارد."
+            }
+        },
+        {
+            "kanji": "その天気予報はよく当たります。",
+            "furigana": "その天気(てんき)予報(よほう)はよく当(あ)たります。",
+            "translations": {
+                "EN": "The weather forecast is often correct.",
+                "ID": "Ramalan cuaca seringkali benar.",
+                "ES": "El pronóstico del tiempo suele ser correcto.",
+                "VI": "Dự báo thời tiết thường chính xác.",
+                "FR": "Les prévisions météorologiques sont souvent correctes.",
+                "NE": "मौसम पूर्वानुमान प्रायः सही हुन्छ।",
+                "BN": "আবহাওয়ার পূর্বাভাস প্রায়শই সঠিক হয়।",
+                "ZH": "天气预报通常是正确的。",
+                "KO": "그 날씨 예보는 잘 맞습니다.",
+                "TL": "Madalas tama ang taya ng panahon.",
+                "MY": "မိုးလေဝသခန့်မှန်းချက် မှန်ကန်တတ်သည်။",
+                "HI": "मौसम का पूर्वानुमान अक्सर सही होता है।",
+                "AR": "توقعات الطقس تكون صحيحة في أغلب الأحيان.",
+                "FA": "پیش‌بینی آب و هوا اغلب درست است."
+            }
+        },
+        {
+            "kanji": "天気予報が外れました。",
+            "furigana": "天気(てんき)予報(よほう)が外(はず)れました。",
+            "translations": {
+                "EN": "The weather forecast was wrong.",
+                "ID": "Ramalan cuaca salah.",
+                "ES": "El pronóstico del tiempo estaba equivocado.",
+                "VI": "Dự báo thời tiết đã sai.",
+                "FR": "Les prévisions météorologiques étaient erronées.",
+                "NE": "मौसम पूर्वानुमान गलत थियो।",
+                "BN": "আবহাওয়ার পূর্বাভাস ভুল ছিল।",
+                "ZH": "天气预报错了。",
+                "KO": "일기 예보가 벗어났습니다.",
+                "TL": "Mali ang weather forecast.",
+                "MY": "မိုးလေဝသခန့်မှန်းချက် မှားနေပါသည်။",
+                "HI": "मौसम का पूर्वानुमान ग़लत था.",
+                "AR": "لقد كانت توقعات الطقس خاطئة.",
+                "FA": "پیش‌بینی هواشناسی اشتباه بود."
+            }
+        },
+        {
+            "kanji": "毎朝、天気予報をチェックします。",
+            "furigana": "毎朝(まいあさ)、天気(てんき)予報(よほう)をチェックします。",
+            "translations": {
+                "EN": "Every morning, I check the weather forecast.",
+                "ID": "Setiap pagi, saya memeriksa ramalan cuaca.",
+                "ES": "Todas las mañanas reviso el pronóstico del tiempo.",
+                "VI": "Mỗi buổi sáng, tôi đều kiểm tra dự báo thời tiết.",
+                "FR": "Chaque matin, je consulte les prévisions météo.",
+                "NE": "हरेक बिहान, म मौसम पूर्वानुमान जाँच गर्छु।",
+                "BN": "প্রতিদিন সকালে, আমি আবহাওয়ার পূর্বাভাস পরীক্ষা করি।",
+                "ZH": "每天早上，我都会查看天气预报。",
+                "KO": "매일 아침 날씨 예보를 확인합니다.",
+                "TL": "Tuwing umaga, sinusuri ko ang taya ng panahon.",
+                "MY": "မနက်တိုင်း မိုးလေဝသခန့်မှန်းချက်ကို စစ်ဆေးတယ်။",
+                "HI": "हर सुबह मैं मौसम का पूर्वानुमान देखता हूँ।",
+                "AR": "كل صباح، أتحقق من توقعات الطقس.",
+                "FA": "هر روز صبح، پیش‌بینی آب و هوا را بررسی می‌کنم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "ramalan",
+            "ES": "pronóstico",
+            "VI": "dự báo",
+            "FR": "prévision",
+            "NE": "पूर्वानुमान",
+            "BN": "পূর্বাভাস",
+            "ZH": "预报",
+            "KO": "예측",
+            "TL": "pagtataya",
+            "MY": "ခန့်မှန်းချက်",
+            "HI": "पूर्वानुमान",
+            "AR": "تنبؤ بالمناخ",
+            "FA": "پیش‌بینی",
+            "EN": [
+                "forecast",
+                "prediction",
+                "outlook"
+            ]
+        },
+        {
+            "ID": "laporan",
+            "ES": "informe",
+            "VI": "báo cáo",
+            "FR": "rapport",
+            "NE": "रिपोर्ट गर्नुहोस्",
+            "BN": "রিপোর্ট",
+            "ZH": "报告",
+            "KO": "보고서",
+            "TL": "ulat",
+            "MY": "အစီရင်ခံစာ",
+            "HI": "प्रतिवेदन",
+            "AR": "تقرير",
+            "FA": "گزارش",
+            "EN": [
+                "report",
+                "bulletin"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "天気予報",
+        "is_common": true,
+        "tags": [
+            "wanikani20"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "天気予報",
+                "reading": "てんきよほう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "weather forecast",
+                    "weather report"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Weather forecasting"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Weather forecasting” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Weather_forecasting?oldid=492734572"
+                    },
+                    {
+                        "text": "Read “天気予報” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/天気予報?oldid=42518448"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Weather_forecasting"
+        }
+    },
+    "kanji_list": [
+        "天",
+        "気",
+        "予",
+        "報"
+    ],
+    "kanji_data": {
+        "天": {
+            "freq_mainichi_shinbun": 512,
+            "grade": 1,
+            "heisig_en": "heavens",
+            "jlpt": 5,
+            "kanji": "天",
+            "kun_readings": [
+                "あま-",
+                "あまつ",
+                "あめ"
+            ],
+            "meanings": [
+                "heavens",
+                "imperial",
+                "sky"
+            ],
+            "name_readings": [
+                "あき",
+                "あも",
+                "た",
+                "たかし",
+                "て",
+                "なま"
+            ],
+            "notes": [],
+            "on_readings": [
+                "テン"
+            ],
+            "stroke_count": 4,
+            "unicode": "5929"
+        },
+        "気": {
+            "freq_mainichi_shinbun": 113,
+            "grade": 1,
+            "heisig_en": "spirit",
+            "jlpt": 5,
+            "kanji": "気",
+            "kun_readings": [
+                "き"
+            ],
+            "meanings": [
+                "air",
+                "atmosphere",
+                "mind",
+                "mood",
+                "spirit"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "キ",
+                "ケ"
+            ],
+            "stroke_count": 6,
+            "unicode": "6C17"
+        },
+        "予": {
+            "freq_mainichi_shinbun": 180,
+            "grade": 3,
+            "heisig_en": "beforehand",
+            "jlpt": 3,
+            "kanji": "予",
+            "kun_readings": [
+                "あらかじ.め"
+            ],
+            "meanings": [
+                "I",
+                "beforehand",
+                "myself",
+                "previous"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シャ",
+                "ヨ"
+            ],
+            "stroke_count": 4,
+            "unicode": "4E88"
+        },
+        "報": {
+            "freq_mainichi_shinbun": 167,
+            "grade": 5,
+            "heisig_en": "report",
+            "jlpt": 3,
+            "kanji": "報",
+            "kun_readings": [
+                "むく.いる"
+            ],
+            "meanings": [
+                "news",
+                "report",
+                "retribution",
+                "reward"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ホウ"
+            ],
+            "stroke_count": 12,
+            "unicode": "5831"
+        }
+    }
+}

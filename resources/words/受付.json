@@ -1,0 +1,550 @@
+{
+    "version": "0.3.0",
+    "word": "受付",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/UnXS8dIJNy8",
+    "in_db": true,
+    "kanji": "受付",
+    "reading": "うけつけ",
+    "introduction_japanese": "受付。病院、ホテル、会社やイベントの入口でよく使うことばだよ。はじめに行く場所の話で出てくるよ。",
+    "introduction_english": "うけつけ. You hear this at hospitals, hotels, company entrances, and events. It comes up when talking about the first place you go.",
+    "meanings": [
+        [
+            "reception",
+            "front-desk",
+            "information-desk",
+            "counter"
+        ],
+        [
+            "acceptance",
+            "intake",
+            "check-in",
+            "registration"
+        ],
+        [
+            "receptionist",
+            "clerk"
+        ]
+    ],
+    "meaning_explanation_japanese": "会社や病院の入口にある案内の机のこと、または申込や書類を受けとる作業や、その担当の人を指すよ。",
+    "meaning_explanation_english": "It is used as a common noun; in compounds it can act like a verbal noun. In short, うけつけ names the front desk or counter, and also the act of accepting forms or checking people in, sometimes the staff too.",
+    "youtube_description": "Learn 受付 (うけつけ): meaning, common uses, and natural phrases for real-life Japanese at hotels, hospitals, and events. Short, clear examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "受",
+            "onyomi": [
+                "ジュ"
+            ],
+            "kunyomi": [
+                "う(ける)"
+            ],
+            "meanings_english": [
+                "receive",
+                "accept"
+            ],
+            "common_words": [
+                "受ける : うける : to receive; to take",
+                "受験 : じゅけん : taking an exam"
+            ]
+        },
+        {
+            "kanji": "付",
+            "onyomi": [
+                "フ"
+            ],
+            "kunyomi": [
+                "つ(く)",
+                "つ(ける)"
+            ],
+            "meanings_english": [
+                "attach",
+                "stick",
+                "apply"
+            ],
+            "common_words": [
+                "付く : つく : to stick; to be attached",
+                "付ける : つける : to attach; to apply"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to receive or accept. It often shows taking something in. You can feel it in words like うける and じゅけん. It is about getting or being given something. The second kanji means to attach or to stick. It is about putting things together or making contact. You can see it in つく and つける. It gives the idea of adding or applying.",
+    "synonyms": [
+        "窓口 : まどぐち : service counter",
+        "案内所 : あんないじょ : information desk"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are まどぐち and あんないじょ. まどぐちは広く「手続きする場所」の感じで、あんないじょは「道や情報を教える場所」。うけつけは机そのものと手続きの受け入れの両方をよく表します。",
+    "antonyms": [
+        "拒否 : きょひ : refusal"
+    ],
+    "antonym_explanation": "The most common antonym of the word is きょひ. うけつけが「受け入れる」動きなのに対して、きょひは「受け入れない・断る」ことを表します。",
+    "collocations": [
+        {
+            "kanji": "病院の受付",
+            "furigana": "病(びょう)院(いん)の受(う)付(つ)",
+            "translations": {
+                "EN": "Hospital reception",
+                "ID": "Resepsi rumah sakit",
+                "ES": "Recepción del hospital",
+                "VI": "Lễ tân bệnh viện",
+                "FR": "Accueil de l'hôpital",
+                "NE": "अस्पतालको स्वागत कक्ष",
+                "BN": "হাসপাতালের অভ্যর্থনা",
+                "ZH": "医院接待",
+                "KO": "병원 접수",
+                "TL": "Pagtanggap sa ospital",
+                "MY": "ဆေးရုံဧည့်ခံပွဲ",
+                "HI": "अस्पताल का स्वागत कक्ष",
+                "AR": "استقبال المستشفى",
+                "FA": "پذیرش بیمارستان"
+            }
+        },
+        {
+            "kanji": "受付カウンター",
+            "furigana": "受(う)付(つ)カウンター",
+            "translations": {
+                "EN": "Reception counter",
+                "ID": "Meja resepsionis",
+                "ES": "Mostrador de recepción",
+                "VI": "Quầy lễ tân",
+                "FR": "Comptoir de réception",
+                "NE": "स्वागत काउन्टर",
+                "BN": "অভ্যর্থনা কাউন্টার",
+                "ZH": "接待处",
+                "KO": "접수 카운터",
+                "TL": "Reception counter",
+                "MY": "ဧည့်ခံကောင်တာ",
+                "HI": "रिसेप्शन काउंटर",
+                "AR": "مكتب الاستقبال",
+                "FA": "پیشخوان پذیرش"
+            }
+        },
+        {
+            "kanji": "受付時間",
+            "furigana": "受(う)付(つ)時(じ)間(かん)",
+            "translations": {
+                "EN": "Reception hours",
+                "ID": "Jam buka resepsionis",
+                "ES": "Horario de recepción",
+                "VI": "Giờ tiếp tân",
+                "FR": "Horaires de réception",
+                "NE": "स्वागत घण्टा",
+                "BN": "অভ্যর্থনা ঘন্টা",
+                "ZH": "接待时间",
+                "KO": "접수 시간",
+                "TL": "Mga oras ng pagtanggap",
+                "MY": "ဧည့်ခံချိန်",
+                "HI": "स्वागत समय",
+                "AR": "ساعات الاستقبال",
+                "FA": "ساعات پذیرش"
+            }
+        },
+        {
+            "kanji": "受付番号",
+            "furigana": "受(う)付(つ)番(ばん)号(ごう)",
+            "translations": {
+                "EN": "Reception number",
+                "ID": "Nomor penerima tamu",
+                "ES": "Número de recepción",
+                "VI": "Số tiếp tân",
+                "FR": "Numéro de réception",
+                "NE": "स्वागत नम्बर",
+                "BN": "রিসেপশন নম্বর",
+                "ZH": "接待电话",
+                "KO": "접수 번호",
+                "TL": "Numero ng pagtanggap",
+                "MY": "ဧည့်ခံနံပါတ်",
+                "HI": "रिसेप्शन नंबर",
+                "AR": "رقم الاستقبال",
+                "FA": "شماره پذیرش"
+            }
+        },
+        {
+            "kanji": "総合受付",
+            "furigana": "総(そう)合(ごう)受(う)付(つ)",
+            "translations": {
+                "EN": "General reception",
+                "ID": "Penerimaan umum",
+                "ES": "Recepción general",
+                "VI": "Lễ tân chung",
+                "FR": "Réception générale",
+                "NE": "सामान्य स्वागत",
+                "BN": "সাধারণ অভ্যর্থনা",
+                "ZH": "一般接待",
+                "KO": "종합 접수",
+                "TL": "Pangkalahatang pagtanggap",
+                "MY": "အထွေထွေဧည့်ခံခြင်း။",
+                "HI": "सामान्य स्वागत",
+                "AR": "الاستقبال العام",
+                "FA": "پذیرایی عمومی"
+            }
+        },
+        {
+            "kanji": "申込受付",
+            "furigana": "申(もう)し込(こ)み受(う)付(つ)",
+            "translations": {
+                "EN": "Application acceptance",
+                "ID": "Penerimaan aplikasi",
+                "ES": "Aceptación de la solicitud",
+                "VI": "Chấp nhận đơn đăng ký",
+                "FR": "Acceptation des candidatures",
+                "NE": "आवेदन स्वीकृति",
+                "BN": "আবেদন গ্রহণ",
+                "ZH": "申请受理",
+                "KO": "신청 접수",
+                "TL": "Pagtanggap ng aplikasyon",
+                "MY": "လျှောက်လွှာလက်ခံခြင်း။",
+                "HI": "आवेदन स्वीकृति",
+                "AR": "قبول الطلب",
+                "FA": "پذیرش درخواست"
+            }
+        },
+        {
+            "kanji": "受付係",
+            "furigana": "受(う)付(つ)係(がかり)",
+            "translations": {
+                "EN": "Receptionist",
+                "ID": "Resepsionis",
+                "ES": "Recepcionista",
+                "VI": "Nhân viên lễ tân",
+                "FR": "Réceptionniste",
+                "NE": "रिसेप्शनिस्ट",
+                "BN": "রিসেপশনিস্ট",
+                "ZH": "接待员",
+                "KO": "접수계",
+                "TL": "Receptionist",
+                "MY": "Receptionist ပါ။",
+                "HI": "रिसेप्शनिस्ट",
+                "AR": "موظفة استقبال",
+                "FA": "مسئول پذیرش"
+            }
+        },
+        {
+            "kanji": "受付窓口",
+            "furigana": "受(う)付(つ)窓(まど)口(ぐち)",
+            "translations": {
+                "EN": "Reception desk",
+                "ID": "Meja resepsionis",
+                "ES": "Mostrador de recepción",
+                "VI": "Quầy lễ tân",
+                "FR": "Bureau d'accueil",
+                "NE": "स्वागत डेस्क",
+                "BN": "অভ্যর্থনা ডেস্ক",
+                "ZH": "接待处",
+                "KO": "접수 창구",
+                "TL": "Reception desk",
+                "MY": "ဧည့်ခံစားပွဲ",
+                "HI": "रिसेप्शन डेस्क",
+                "AR": "مكتب الاستقبال",
+                "FA": "میز پذیرش"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "病院の受付は二階です。",
+            "furigana": "病(びょう)院(いん)の受(う)付(つ)は二(に)階(かい)です。",
+            "translations": {
+                "EN": "The hospital reception is on the second floor.",
+                "ID": "Resepsionis rumah sakit berada di lantai dua.",
+                "ES": "La recepción del hospital está en el segundo piso.",
+                "VI": "Quầy lễ tân của bệnh viện nằm ở tầng hai.",
+                "FR": "La réception de l'hôpital se trouve au deuxième étage.",
+                "NE": "अस्पतालको रिसेप्सन दोस्रो तल्लामा छ।",
+                "BN": "হাসপাতালের অভ্যর্থনা কক্ষটি দ্বিতীয় তলায়।",
+                "ZH": "医院接待处在二楼。",
+                "KO": "병원 접수는 2층입니다.",
+                "TL": "Nasa ikalawang palapag ang reception ng ospital.",
+                "MY": "ဆေးရုံဧည့်ခံသည် ဒုတိယထပ်တွင်ရှိသည်။",
+                "HI": "अस्पताल का रिसेप्शन दूसरी मंजिल पर है।",
+                "AR": "يقع استقبال المستشفى في الطابق الثاني.",
+                "FA": "پذیرش بیمارستان در طبقه دوم است."
+            }
+        },
+        {
+            "kanji": "受付で名前を書いてください。",
+            "furigana": "受(う)付(つ)で名(な)前(まえ)を書(か)いてください。",
+            "translations": {
+                "EN": "Please write your name at the reception.",
+                "ID": "Silakan tulis nama Anda di bagian penerima tamu.",
+                "ES": "Por favor escriba su nombre en la recepción.",
+                "VI": "Vui lòng viết tên của bạn tại quầy lễ tân.",
+                "FR": "Veuillez écrire votre nom à la réception.",
+                "NE": "कृपया स्वागत कक्षमा आफ्नो नाम लेख्नुहोस्।",
+                "BN": "দয়া করে রিসেপশনে আপনার নাম লিখুন।",
+                "ZH": "请在接待处写下您的姓名。",
+                "KO": "리셉션에서 이름을 적어주세요.",
+                "TL": "Pakisulat ang iyong pangalan sa reception.",
+                "MY": "ကျေးဇူးပြု၍ ဧည့်ခံပွဲတွင် သင့်အမည်ကို ရေးပါ။",
+                "HI": "कृपया अपना नाम रिसेप्शन पर लिखें।",
+                "AR": "يرجى كتابة اسمك في الاستقبال.",
+                "FA": "لطفا نام خود را در پذیرش بنویسید."
+            }
+        },
+        {
+            "kanji": "まず受付でチケットをもらいます。",
+            "furigana": "まず受(う)付(つ)でチケットをもらいます。",
+            "translations": {
+                "EN": "First, get a ticket at the reception.",
+                "ID": "Pertama, dapatkan tiket di bagian resepsionis.",
+                "ES": "Primero, consigue un billete en la recepción.",
+                "VI": "Đầu tiên, hãy lấy vé tại quầy lễ tân.",
+                "FR": "Tout d’abord, procurez-vous un ticket à la réception.",
+                "NE": "पहिले, रिसेप्शनमा टिकट लिनुहोस्।",
+                "BN": "প্রথমে, রিসেপশনে টিকিট নিন।",
+                "ZH": "首先，在接待处领取一张票。",
+                "KO": "우선 접수로 티켓을 받습니다.",
+                "TL": "Una, kumuha ng ticket sa reception.",
+                "MY": "ပထမဦးစွာ ဧည့်ခံပွဲ၌ လက်မှတ်ရယူပါ။",
+                "HI": "सबसे पहले रिसेप्शन पर टिकट लें।",
+                "AR": "أولاً، احصل على تذكرة من مكتب الاستقبال.",
+                "FA": "ابتدا از پذیرش بلیط تهیه کنید."
+            }
+        },
+        {
+            "kanji": "受付に並んでください。",
+            "furigana": "受(う)付(つ)に並(なら)んでください。",
+            "translations": {
+                "EN": "Please line up at the reception desk.",
+                "ID": "Silakan berbaris di meja resepsionis.",
+                "ES": "Por favor, haga fila en el mostrador de recepción.",
+                "VI": "Vui lòng xếp hàng tại quầy lễ tân.",
+                "FR": "Veuillez faire la queue à la réception.",
+                "NE": "कृपया स्वागत डेस्कमा लाइनमा बस्नुहोस्।",
+                "BN": "অনুগ্রহ করে অভ্যর্থনা ডেস্কে লাইনে দাঁড়ান।",
+                "ZH": "请在接待处排队。",
+                "KO": "접수에 나란히 하십시오.",
+                "TL": "Mangyaring pumila sa reception desk.",
+                "MY": "ကျေးဇူးပြု၍ ဧည့်ကြိုကောင်တာတွင် တန်းစီပါ။",
+                "HI": "कृपया रिसेप्शन डेस्क पर लाइन में खड़े हो जाएं।",
+                "AR": "يرجى الوقوف في طابور أمام مكتب الاستقبال.",
+                "FA": "لطفا در میز پذیرش صف بکشید."
+            }
+        },
+        {
+            "kanji": "受付の人はとても親切でした。",
+            "furigana": "受(う)付(つ)の人(ひと)はとても親(しん)切(せつ)でした。",
+            "translations": {
+                "EN": "The receptionist was very kind.",
+                "ID": "Resepsionisnya sangat baik.",
+                "ES": "La recepcionista fue muy amable.",
+                "VI": "Nhân viên lễ tân rất tử tế.",
+                "FR": "La réceptionniste était très gentille.",
+                "NE": "रिसेप्शनिस्ट धेरै दयालु थिइन्।",
+                "BN": "রিসেপশনিস্ট খুবই দয়ালু ছিলেন।",
+                "ZH": "接待员非常友善。",
+                "KO": "리셉션의 사람은 매우 친절했습니다.",
+                "TL": "Napakabait ng receptionist.",
+                "MY": "Receptionist က အရမ်းသဘောကောင်းတယ်။",
+                "HI": "रिसेप्शनिस्ट बहुत दयालु था.",
+                "AR": "كان موظف الإستقبال لطيفاً جداً.",
+                "FA": "مسئول پذیرش خیلی مهربان بود."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "penerimaan",
+            "ES": "recepción",
+            "VI": "thu nhận",
+            "FR": "réception",
+            "NE": "स्वागत",
+            "BN": "অভ্যর্থনা",
+            "ZH": "接待",
+            "KO": "리셉션",
+            "TL": "pagtanggap",
+            "MY": "ဧည့်ခံသည်။",
+            "HI": "स्वागत",
+            "AR": "استقبال",
+            "FA": "پذیرایی",
+            "EN": [
+                "reception",
+                "front-desk",
+                "information-desk",
+                "counter"
+            ]
+        },
+        {
+            "ID": "penerimaan",
+            "ES": "aceptación",
+            "VI": "sự chấp nhận",
+            "FR": "acceptation",
+            "NE": "स्वीकृति",
+            "BN": "গ্রহণযোগ্যতা",
+            "ZH": "验收",
+            "KO": "수락",
+            "TL": "pagtanggap",
+            "MY": "လက်ခံမှု",
+            "HI": "स्वीकार",
+            "AR": "قبول",
+            "FA": "پذیرش",
+            "EN": [
+                "acceptance",
+                "intake",
+                "check-in",
+                "registration"
+            ]
+        },
+        {
+            "ID": "resepsionis",
+            "ES": "recepcionista",
+            "VI": "nhân viên lễ tân",
+            "FR": "réceptionniste",
+            "NE": "स्वागतकर्ता",
+            "BN": "অভ্যর্থনাকারী",
+            "ZH": "接待员",
+            "KO": "리셉셔니스트",
+            "TL": "receptionist",
+            "MY": "ဧည့်ခံသည်။",
+            "HI": "रिसेप्शनिस्ट",
+            "AR": "موظفة استقبال",
+            "FA": "متصدی پذیرش",
+            "EN": [
+                "receptionist",
+                "clerk"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "受付",
+        "is_common": true,
+        "tags": [
+            "wanikani11"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "受付",
+                "reading": "うけつけ"
+            },
+            {
+                "word": "受け付け",
+                "reading": "うけつけ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "reception (desk)",
+                    "information desk",
+                    "receptionist",
+                    "information clerk"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 受付"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "receipt",
+                    "acceptance"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 受け付け"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "受",
+        "付"
+    ],
+    "kanji_data": {
+        "受": {
+            "freq_mainichi_shinbun": 136,
+            "grade": 3,
+            "heisig_en": "accept",
+            "jlpt": 3,
+            "kanji": "受",
+            "kun_readings": [
+                "-う.け",
+                "う.かる",
+                "う.ける"
+            ],
+            "meanings": [
+                "accept",
+                "answer (phone)",
+                "catch",
+                "get",
+                "receive",
+                "take",
+                "undergo"
+            ],
+            "name_readings": [
+                "じょ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ジュ"
+            ],
+            "stroke_count": 8,
+            "unicode": "53D7"
+        },
+        "付": {
+            "freq_mainichi_shinbun": 322,
+            "grade": 4,
+            "heisig_en": "adhere",
+            "jlpt": 3,
+            "kanji": "付",
+            "kun_readings": [
+                "-つ.き",
+                "-つ.け",
+                "-つ.ける",
+                "-つき",
+                "-づ.き",
+                "-づ.く",
+                "-づ.け",
+                "-づ.ける",
+                "-づき",
+                "-づけ",
+                "つ.き",
+                "つ.く",
+                "つ.け",
+                "つ.け-",
+                "つ.ける"
+            ],
+            "meanings": [
+                "adhere",
+                "append",
+                "attach",
+                "refer to"
+            ],
+            "name_readings": [
+                "つけ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "フ"
+            ],
+            "stroke_count": 5,
+            "unicode": "4ED8"
+        }
+    }
+}

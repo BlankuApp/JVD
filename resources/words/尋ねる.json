@@ -1,0 +1,454 @@
+{
+    "version": "0.3.0",
+    "word": "尋ねる",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/klRJo65oU-8",
+    "in_db": true,
+    "kanji": "尋ねる",
+    "reading": "たずねる",
+    "introduction_japanese": "尋ねる。道や時間、理由などを人に聞くときによく使います。お店や駅でスタッフに聞く場面でも使います。",
+    "introduction_english": "たずねる. You use this when you ask someone about directions, time, reasons, and so on. It’s also used when asking staff at a shop or station.",
+    "meanings": [
+        [
+            "ask",
+            "inquire",
+            "question"
+        ],
+        [
+            "seek",
+            "search"
+        ]
+    ],
+    "meaning_explanation_japanese": "人に聞いて情報を求めること、または何かを探して見つけようとする気持ちを表します。道・時間・理由などをはっきりさせたいときによく使います。",
+    "meaning_explanation_english": "It is used as a transitive verb. たずねる means to ask someone for information, or to seek out something you want to know or find.",
+    "youtube_description": "Learn how to use 尋ねる (tazuneru) naturally in daily life—asking for directions, time, and reasons. Clear examples, easy patterns, and common mistakes to avoid.",
+    "kanji_details": [
+        {
+            "kanji": "尋",
+            "onyomi": [
+                "じん"
+            ],
+            "kunyomi": [
+                "たず"
+            ],
+            "meanings_english": [
+                "inquire",
+                "search"
+            ],
+            "common_words": [
+                "尋問 : じんもん : interrogation; questioning",
+                "尋常 : じんじょう : ordinary; usual"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means to inquire or to search. You see it in じんもん when someone is questioned by police. It also appears in じんじょう meaning ordinary or usual. Think of looking for answers politely and carefully.",
+    "synonyms": [
+        "聞く : きく : to ask",
+        "質問する : しつもんする : to question"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are きく and しつもんする. きく is everyday and can also mean “to listen,” while しつもんする is more formal and focuses on asking a question. たずねる sounds slightly polite and often aims to confirm facts like directions or reasons",
+    "antonyms": [
+        "答える : こたえる : to answer"
+    ],
+    "antonym_explanation": "The most common antonym of the word is こたえる, which gives information back, while たずねる asks for it.",
+    "collocations": [
+        {
+            "kanji": "道を尋ねる",
+            "furigana": "道(みち)を尋(たず)ねる",
+            "translations": {
+                "EN": "Asking for directions",
+                "ID": "Menanyakan arah",
+                "ES": "Pedir direcciones",
+                "VI": "Hỏi đường",
+                "FR": "Demander son chemin",
+                "NE": "निर्देशनहरू सोध्दै",
+                "BN": "দিকনির্দেশনা চাওয়া",
+                "ZH": "询问路线",
+                "KO": "길을 묻다",
+                "TL": "Humihingi ng direksyon",
+                "MY": "လမ်းညွှန်ချက်တောင်းတယ်။",
+                "HI": "दिशा-निर्देश पूछना",
+                "AR": "طلب الاتجاهات",
+                "FA": "پرسیدن مسیر"
+            }
+        },
+        {
+            "kanji": "時間を尋ねる",
+            "furigana": "時間(じかん)を尋(たず)ねる",
+            "translations": {
+                "EN": "Ask the time",
+                "ID": "Tanyakan waktu",
+                "ES": "Pregunta la hora",
+                "VI": "Hỏi thời gian",
+                "FR": "Demander l'heure",
+                "NE": "समय सोध्नुहोस्",
+                "BN": "সময় জিজ্ঞাসা করুন",
+                "ZH": "询问时间",
+                "KO": "시간을 묻다",
+                "TL": "Tanungin ang oras",
+                "MY": "အချိန်ကိုမေးပါ။",
+                "HI": "समय पूछो",
+                "AR": "اسأل عن الوقت",
+                "FA": "ساعت را بپرسید"
+            }
+        },
+        {
+            "kanji": "理由を尋ねる",
+            "furigana": "理由(りゆう)を尋(たず)ねる",
+            "translations": {
+                "EN": "Ask why",
+                "ID": "Tanyakan mengapa",
+                "ES": "Pregunta por qué",
+                "VI": "Hỏi tại sao",
+                "FR": "Demandez pourquoi",
+                "NE": "किन भनेर सोध्नुहोस्",
+                "BN": "কেন জিজ্ঞাসা করুন",
+                "ZH": "问为什么",
+                "KO": "이유를 묻다",
+                "TL": "Itanong kung bakit",
+                "MY": "အဘယ့်ကြောင့်ဆိုသော် မေးပါ။",
+                "HI": "क्यों पूछना",
+                "AR": "اسأل لماذا",
+                "FA": "بپرس چرا؟"
+            }
+        },
+        {
+            "kanji": "名前と住所を尋ねる",
+            "furigana": "名前(なまえ)と住所(じゅうしょ)を尋(たず)ねる",
+            "translations": {
+                "EN": "Ask for name and address",
+                "ID": "Tanyakan nama dan alamat",
+                "ES": "Solicitar nombre y dirección",
+                "VI": "Hỏi tên và địa chỉ",
+                "FR": "Demander le nom et l'adresse",
+                "NE": "नाम र ठेगाना सोध्नुहोस्",
+                "BN": "নাম এবং ঠিকানা জিজ্ঞাসা করুন",
+                "ZH": "询问姓名和地址",
+                "KO": "이름과 주소를 묻는다",
+                "TL": "Magtanong ng pangalan at tirahan",
+                "MY": "နာမည်နဲ့ နေရပ်လိပ်စာကို မေးပါ။",
+                "HI": "नाम और पता पूछें",
+                "AR": "اطلب الاسم والعنوان",
+                "FA": "پرسیدن اسم و آدرس"
+            }
+        },
+        {
+            "kanji": "先生に尋ねる",
+            "furigana": "先生(せんせい)に尋(たず)ねる",
+            "translations": {
+                "EN": "Ask your teacher",
+                "ID": "Tanyakan pada gurumu",
+                "ES": "Pregúntale a tu profesor",
+                "VI": "Hãy hỏi giáo viên của bạn",
+                "FR": "Demandez à votre professeur",
+                "NE": "आफ्नो शिक्षकलाई सोध्नुहोस्",
+                "BN": "তোমার শিক্ষককে জিজ্ঞাসা করো।",
+                "ZH": "问问你的老师",
+                "KO": "선생님에게 물어",
+                "TL": "Tanungin ang iyong guro",
+                "MY": "သင့်ဆရာကို မေးပါ။",
+                "HI": "अपने शिक्षक से पूछो",
+                "AR": "اسأل معلمك",
+                "FA": "از معلمت بپرس"
+            }
+        },
+        {
+            "kanji": "電話で尋ねる",
+            "furigana": "電話(でんわ)で尋(たず)ねる",
+            "translations": {
+                "EN": "Ask by phone",
+                "ID": "Tanyakan lewat telepon",
+                "ES": "Preguntar por teléfono",
+                "VI": "Hỏi qua điện thoại",
+                "FR": "Demandez par téléphone",
+                "NE": "फोनबाट सोध्नुहोस्",
+                "BN": "ফোনে জিজ্ঞাসা করুন",
+                "ZH": "电话询问",
+                "KO": "전화로 물어보기",
+                "TL": "Magtanong sa pamamagitan ng telepono",
+                "MY": "ဖုန်းဖြင့်မေးပါ။",
+                "HI": "फ़ोन पर पूछें",
+                "AR": "اسأل عبر الهاتف",
+                "FA": "تلفنی بپرسید"
+            }
+        },
+        {
+            "kanji": "丁寧な尋ね方",
+            "furigana": "丁寧(ていねい)な尋(たず)ね方(かた)",
+            "translations": {
+                "EN": "Polite way of asking",
+                "ID": "Cara bertanya yang sopan",
+                "ES": "Forma educada de preguntar",
+                "VI": "Cách hỏi lịch sự",
+                "FR": "Une façon polie de demander",
+                "NE": "सोध्ने विनम्र तरिका",
+                "BN": "ভদ্রভাবে জিজ্ঞাসা করার পদ্ধতি",
+                "ZH": "礼貌的询问方式",
+                "KO": "정중한 질문 방법",
+                "TL": "Magalang na paraan ng pagtatanong",
+                "MY": "ယဉ်ကျေးစွာမေးနည်း",
+                "HI": "पूछने का विनम्र तरीका",
+                "AR": "طريقة مهذبة للسؤال",
+                "FA": "روش مودبانه پرسیدن"
+            }
+        },
+        {
+            "kanji": "担当者に詳しく尋ねる",
+            "furigana": "担当者(たんとうしゃ)に詳(くわ)しく尋(たず)ねる",
+            "translations": {
+                "EN": "Ask the person in charge for more details",
+                "ID": "Tanyakan kepada orang yang bertanggung jawab untuk rincian lebih lanjut",
+                "ES": "Pregunte al responsable para más detalles.",
+                "VI": "Hãy hỏi người phụ trách để biết thêm chi tiết",
+                "FR": "Demandez plus de détails à la personne responsable",
+                "NE": "थप विवरणहरूको लागि जिम्मेवार व्यक्तिलाई सोध्नुहोस्",
+                "BN": "আরও বিস্তারিত জানার জন্য দায়িত্বে থাকা ব্যক্তিকে জিজ্ঞাসা করুন।",
+                "ZH": "详情请咨询负责人",
+                "KO": "담당자에게 자세히 물어보십시오.",
+                "TL": "Tanungin ang kinauukulan para sa higit pang mga detalye",
+                "MY": "အသေးစိတ်အချက်အလက်များအတွက် တာဝန်ခံကို မေးမြန်းပါ။",
+                "HI": "अधिक जानकारी के लिए प्रभारी व्यक्ति से पूछें",
+                "AR": "اسأل الشخص المسؤول لمزيد من التفاصيل",
+                "FA": "برای جزئیات بیشتر از مسئول مربوطه سوال کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は駅員に道を尋ねます。",
+            "furigana": "私(わたし)は駅員(えきいん)に道(みち)を尋(たず)ねます。",
+            "translations": {
+                "EN": "I ask the station attendant for directions.",
+                "ID": "Saya bertanya arah kepada petugas stasiun.",
+                "ES": "Le pregunto al encargado de la estación por direcciones.",
+                "VI": "Tôi hỏi người gác ga chỉ đường.",
+                "FR": "Je demande mon chemin au préposé de la gare.",
+                "NE": "म स्टेशन परिचारिकालाई निर्देशन माग्छु।",
+                "BN": "আমি স্টেশন অ্যাটেনডেন্টের কাছে দিকনির্দেশনা চাই।",
+                "ZH": "我向车站工作人员问路。",
+                "KO": "역원에게 길을 묻는다.",
+                "TL": "Humihingi ako ng direksyon sa station attendant.",
+                "MY": "ဘူတာရုံကို လမ်းညွှန်ခိုင်းတယ်။",
+                "HI": "मैं स्टेशन अटेंडेंट से दिशा-निर्देश पूछता हूं।",
+                "AR": "أسأل موظف المحطة عن الاتجاهات.",
+                "FA": "از متصدی ایستگاه مسیر را می‌پرسم."
+            }
+        },
+        {
+            "kanji": "先生に宿題の締め切りを尋ねました。",
+            "furigana": "先生(せんせい)に宿題(しゅくだい)の締(し)め切(き)りを尋(たず)ねました。",
+            "translations": {
+                "EN": "I asked my teacher when the homework was due.",
+                "ID": "Saya bertanya kepada guru saya kapan pekerjaan rumah harus diserahkan.",
+                "ES": "Le pregunté a mi profesor cuándo debía entregar la tarea.",
+                "VI": "Tôi hỏi giáo viên khi nào thì nộp bài tập về nhà.",
+                "FR": "J'ai demandé à mon professeur quand les devoirs devaient être rendus.",
+                "NE": "मैले मेरो शिक्षकलाई गृहकार्य कहिले बाँकी छ भनेर सोधें।",
+                "BN": "আমি আমার শিক্ষককে জিজ্ঞাসা করেছিলাম কখন হোমওয়ার্ক দিতে হবে।",
+                "ZH": "我问老师什么时候该交作业。",
+                "KO": "선생님께 숙제 마감을 물었습니다.",
+                "TL": "Tinanong ko ang aking guro kung kailan ang takdang-aralin.",
+                "MY": "အိမ်စာဘယ်အချိန်ကျမလဲ ဆရာမကိုမေးတယ်။",
+                "HI": "मैंने अपने शिक्षक से पूछा कि होमवर्क कब तक पूरा करना है।",
+                "AR": "سألت معلمتي متى موعد الواجب المنزلي.",
+                "FA": "از معلمم پرسیدم کی باید تکالیف را تحویل بدهم؟"
+            }
+        },
+        {
+            "kanji": "彼に名前を尋ねてもいいですか。",
+            "furigana": "彼(かれ)に名前(なまえ)を尋(たず)ねてもいいですか。",
+            "translations": {
+                "EN": "Can I ask him his name?",
+                "ID": "Bolehkah saya menanyakan namanya?",
+                "ES": "¿Puedo preguntarle su nombre?",
+                "VI": "Tôi có thể hỏi tên anh ấy được không?",
+                "FR": "Puis-je lui demander son nom ?",
+                "NE": "के म उसलाई उसको नाम सोध्न सक्छु?",
+                "BN": "আমি কি তাকে তার নাম জিজ্ঞাসা করতে পারি?",
+                "ZH": "我可以问他的名字吗？",
+                "KO": "그에게 이름을 물어도 되나요?",
+                "TL": "Maaari ko bang tanungin ang kanyang pangalan?",
+                "MY": "သူ့နာမည်ကို မေးလို့ရမလား။",
+                "HI": "क्या मैं उससे उसका नाम पूछ सकता हूँ?",
+                "AR": "هل يمكنني أن أسأله عن اسمه؟",
+                "FA": "میشه اسمشو ازش بپرسم؟"
+            }
+        },
+        {
+            "kanji": "電話で営業時間を尋ねてみます。",
+            "furigana": "電話(でんわ)で営業時間(えいぎょうじかん)を尋(たず)ねてみます。",
+            "translations": {
+                "EN": "I'll call and ask about opening hours.",
+                "ID": "Saya akan menelepon dan bertanya tentang jam buka.",
+                "ES": "Llamaré y preguntaré sobre el horario de apertura.",
+                "VI": "Tôi sẽ gọi điện và hỏi về giờ mở cửa.",
+                "FR": "J'appellerai et demanderai les heures d'ouverture.",
+                "NE": "म फोन गरेर खुल्ने समयको बारेमा सोध्नेछु।",
+                "BN": "আমি ফোন করে খোলা থাকার সময় সম্পর্কে জিজ্ঞাসা করব।",
+                "ZH": "我会打电话询问营业时间。",
+                "KO": "전화로 영업 시간을 묻습니다.",
+                "TL": "Tatawag ako at magtatanong tungkol sa mga oras ng pagbubukas.",
+                "MY": "ဆိုင်ဖွင့်ချိန်ကို ဖုန်းဆက်ပြီး မေးပေးပါ့မယ်။",
+                "HI": "मैं फोन करके खुलने के समय के बारे में पूछूंगा।",
+                "AR": "سأتصل وأسأل عن ساعات العمل.",
+                "FA": "زنگ می‌زنم و ساعت کاری را می‌پرسم."
+            }
+        },
+        {
+            "kanji": "子どもは「これは何ですか」と母に尋ねた。",
+            "furigana": "子(こ)どもは「これは何(なん)ですか」と母(はは)に尋(たず)ねた。",
+            "translations": {
+                "EN": "The child asked his mother, \"What is this?\"",
+                "ID": "Anak itu bertanya kepada ibunya, \"Apa ini?\"",
+                "ES": "El niño le preguntó a su madre: ¿Qué es esto?",
+                "VI": "Đứa trẻ hỏi mẹ: \"Đây là cái gì vậy?\"",
+                "FR": "L'enfant a demandé à sa mère : « Qu'est-ce que c'est ? »",
+                "NE": "बच्चाले आफ्नी आमालाई सोध्यो, \"यो के हो?\"",
+                "BN": "শিশুটি তার মাকে জিজ্ঞাসা করল, \"এটা কী?\"",
+                "ZH": "孩子问妈妈：“这是什么？”",
+                "KO": "아이는 \"이것은 무엇입니까\"라고 어머니에게 물었다.",
+                "TL": "Tinanong ng bata ang kanyang ina, \"Ano ito?\"",
+                "MY": "ကလေးက သူ့အမေကိုမေးတယ် \"ဒါကဘာလဲ\"",
+                "HI": "बच्चे ने अपनी माँ से पूछा, \"यह क्या है?\"",
+                "AR": "سأل الطفل أمه: ما هذا؟",
+                "FA": "کودک از مادرش پرسید: «این چیست؟»"
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "bertanya",
+            "ES": "preguntar",
+            "VI": "hỏi",
+            "FR": "demander",
+            "NE": "सोध्नु",
+            "BN": "জিজ্ঞাসা করা",
+            "ZH": "问",
+            "KO": "묻다",
+            "TL": "magtanong",
+            "MY": "မေး",
+            "HI": "पूछना",
+            "AR": "بسأل",
+            "FA": "بپرس",
+            "EN": [
+                "ask",
+                "inquire",
+                "question"
+            ]
+        },
+        {
+            "ID": "mencari",
+            "ES": "buscar",
+            "VI": "tìm kiếm",
+            "FR": "chercher",
+            "NE": "खोज्नु",
+            "BN": "খোঁজা",
+            "ZH": "寻找",
+            "KO": "구하다",
+            "TL": "hanapin",
+            "MY": "ရှာသည်။",
+            "HI": "तलाश",
+            "AR": "يطلب",
+            "FA": "جستجو کردن",
+            "EN": [
+                "seek",
+                "search"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "尋ねる",
+        "is_common": true,
+        "tags": [
+            "wanikani31"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "尋ねる",
+                "reading": "たずねる"
+            },
+            {
+                "word": "訊ねる",
+                "reading": "たずねる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to ask",
+                    "to enquire",
+                    "to inquire"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to search",
+                    "to look for",
+                    "to look into",
+                    "to investigate"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "尋"
+    ],
+    "kanji_data": {
+        "尋": {
+            "freq_mainichi_shinbun": 1398,
+            "grade": 8,
+            "heisig_en": "inquire",
+            "jlpt": 1,
+            "kanji": "尋",
+            "kun_readings": [
+                "たず.ねる",
+                "ひろ"
+            ],
+            "meanings": [
+                "fathom",
+                "inquire",
+                "look for"
+            ],
+            "name_readings": [
+                "ず",
+                "つぐ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ジン"
+            ],
+            "stroke_count": 12,
+            "unicode": "5C0B"
+        }
+    }
+}

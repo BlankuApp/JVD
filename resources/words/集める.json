@@ -1,0 +1,470 @@
+{
+    "version": "0.3.0",
+    "word": "集める",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/s_B_U1QYXS8",
+    "in_db": true,
+    "kanji": "集める",
+    "reading": "あつめる",
+    "introduction_japanese": "集める。スタンプ、情報、人、お金などをまとめたいときによく使います。",
+    "introduction_english": "Atsumeru. We use it when we want to bring together stamps, information, people, or money.",
+    "meanings": [
+        [
+            "collect",
+            "gather",
+            "amass",
+            "accumulate",
+            "aggregate"
+        ],
+        [
+            "assemble",
+            "muster",
+            "summon"
+        ],
+        [
+            "attract",
+            "draw",
+            "win",
+            "garner'],[",
+            "raise\",\"solicit"
+        ]
+    ],
+    "meaning_explanation_japanese": "同じ種類のものを一か所にまとめること。人の目や関心を引き寄せること。資金や支援を取りそろえること。",
+    "meaning_explanation_english": "It is a transitive ichidan verb. In plain terms, あつめる means to bring things or people together, to draw attention, or to raise resources like funds.",
+    "youtube_description": "Learn how to use atsumeru: the everyday Japanese verb for collecting, gathering, and attracting attention, with clear examples and tips.",
+    "kanji_details": [
+        {
+            "kanji": "集",
+            "onyomi": [
+                "シュウ"
+            ],
+            "kunyomi": [
+                "あつ-まる",
+                "あつ-める"
+            ],
+            "meanings_english": [
+                "gather",
+                "collect"
+            ],
+            "common_words": [
+                "集合 : しゅうごう : gathering; assembly",
+                "集中 : しゅうちゅう : concentration; focus"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means gathering or collecting. You see it in しゅうごう and しゅうちゅう. It talks about pulling things to one place or to one point. It feels active and purposeful.",
+    "synonyms": [
+        "収集する : しゅうしゅうする : to collect",
+        "募る : つのる : to solicit"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are しゅうしゅうする and つのる. しゅうしゅうする focuses on systematic collecting, often data or items. つのる focuses on asking for and gathering support or donations, which overlaps with raising funds.",
+    "antonyms": [
+        "散らす : ちらす : to scatter"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ちらす, which means to spread or scatter things away, the opposite direction of bringing things together.",
+    "collocations": [
+        {
+            "kanji": "資料を集める",
+            "furigana": "資(し)料(りょう)を集(あつ)める",
+            "translations": {
+                "EN": "Gather materials",
+                "ID": "Kumpulkan bahan-bahan",
+                "ES": "Reúne los materiales",
+                "VI": "Thu thập vật liệu",
+                "FR": "Rassembler les matériaux",
+                "NE": "सामग्रीहरू जम्मा गर्नुहोस्",
+                "BN": "উপকরণ সংগ্রহ করুন",
+                "ZH": "收集材料",
+                "KO": "자료 수집",
+                "TL": "Magtipon ng mga materyales",
+                "MY": "ပစ္စည်းများကို စုဆောင်းပါ။",
+                "HI": "सामग्री इकट्ठा करें",
+                "AR": "جمع المواد",
+                "FA": "مواد را جمع آوری کنید"
+            }
+        },
+        {
+            "kanji": "情報を集める",
+            "furigana": "情(じょう)報(ほう)を集(あつ)める",
+            "translations": {
+                "EN": "Gather information",
+                "ID": "Mengumpulkan informasi",
+                "ES": "Deducir la información",
+                "VI": "Thu thập thông tin",
+                "FR": "Recueillir des informations",
+                "NE": "जानकारी सङ्कलन गर्नुहोस्",
+                "BN": "তথ্য সংগ্রহ করুন",
+                "ZH": "收集信息",
+                "KO": "정보 수집",
+                "TL": "Mangalap ng impormasyon",
+                "MY": "အချက်အလက်စုဆောင်းပါ။",
+                "HI": "जानकारी इकट्ठा करना",
+                "AR": "جمع المعلومات",
+                "FA": "جمع‌آوری اطلاعات"
+            }
+        },
+        {
+            "kanji": "データを集める",
+            "furigana": "データを集(あつ)める",
+            "translations": {
+                "EN": "Gather the data",
+                "ID": "Kumpulkan datanya",
+                "ES": "Recopilar los datos",
+                "VI": "Thu thập dữ liệu",
+                "FR": "Recueillir les données",
+                "NE": "डेटा सङ्कलन गर्नुहोस्",
+                "BN": "তথ্য সংগ্রহ করুন",
+                "ZH": "收集数据",
+                "KO": "데이터 수집",
+                "TL": "Ipunin ang data",
+                "MY": "အချက်အလက်စုဆောင်းပါ။",
+                "HI": "डेटा एकत्र करें",
+                "AR": "جمع البيانات",
+                "FA": "داده‌ها را جمع‌آوری کنید"
+            }
+        },
+        {
+            "kanji": "署名を集める",
+            "furigana": "署(しょ)名(めい)を集(あつ)める",
+            "translations": {
+                "EN": "Collect signatures",
+                "ID": "Kumpulkan tanda tangan",
+                "ES": "Recoger firmas",
+                "VI": "Thu thập chữ ký",
+                "FR": "Recueillir des signatures",
+                "NE": "हस्ताक्षर सङ्कलन गर्नुहोस्",
+                "BN": "স্বাক্ষর সংগ্রহ করুন",
+                "ZH": "收集签名",
+                "KO": "서명을 모으다",
+                "TL": "Mangolekta ng mga lagda",
+                "MY": "လက်မှတ်များစုဆောင်း",
+                "HI": "हस्ताक्षर एकत्र करें",
+                "AR": "جمع التوقيعات",
+                "FA": "جمع آوری امضا"
+            }
+        },
+        {
+            "kanji": "寄付を集める",
+            "furigana": "寄(き)付(ふ)を集(あつ)める",
+            "translations": {
+                "EN": "Collect donations",
+                "ID": "Kumpulkan donasi",
+                "ES": "Recoger donaciones",
+                "VI": "Thu thập quyên góp",
+                "FR": "Collecter des dons",
+                "NE": "चन्दा सङ्कलन गर्नुहोस्",
+                "BN": "অনুদান সংগ্রহ করুন",
+                "ZH": "收集捐款",
+                "KO": "기부를 모으다",
+                "TL": "Mangolekta ng mga donasyon",
+                "MY": "အလှူငွေကောက်ခံပါ။",
+                "HI": "दान एकत्र करें",
+                "AR": "جمع التبرعات",
+                "FA": "جمع‌آوری کمک‌های مالی"
+            }
+        },
+        {
+            "kanji": "注目を集める",
+            "furigana": "注(ちゅう)目(もく)を集(あつ)める",
+            "translations": {
+                "EN": "Attract attention",
+                "ID": "Menarik perhatian",
+                "ES": "Llamar la atención",
+                "VI": "Thu hút sự chú ý",
+                "FR": "Attirer l'attention",
+                "NE": "ध्यान आकर्षित गर्नुहोस्",
+                "BN": "মনোযোগ আকর্ষণ করা",
+                "ZH": "吸引注意力",
+                "KO": "관심을 끌다",
+                "TL": "Makaakit ng atensyon",
+                "MY": "အာရုံစူးစိုက်မှု",
+                "HI": "ध्यान आकर्षित करें",
+                "AR": "جذب الانتباه",
+                "FA": "جلب توجه"
+            }
+        },
+        {
+            "kanji": "関心を集める",
+            "furigana": "関(かん)心(しん)を集(あつ)める",
+            "translations": {
+                "EN": "Gaining interest",
+                "ID": "Mendapatkan minat",
+                "ES": "Ganando interés",
+                "VI": "Đang thu hút sự quan tâm",
+                "FR": "Susciter l'intérêt",
+                "NE": "रुचि प्राप्त गर्दै",
+                "BN": "আগ্রহ অর্জন",
+                "ZH": "获得兴趣",
+                "KO": "관심을 모으다",
+                "TL": "Pagkuha ng interes",
+                "MY": "စိတ်ဝင်စားမှုရရှိခြင်း။",
+                "HI": "रुचि प्राप्त करना",
+                "AR": "اكتساب الاهتمام",
+                "FA": "جلب علاقه"
+            }
+        },
+        {
+            "kanji": "人気を集める",
+            "furigana": "人(にん)気(き)を集(あつ)める},{",
+            "translations": {
+                "EN": "Gaining popularity",
+                "ID": "Mendapatkan popularitas",
+                "ES": "Ganando popularidad",
+                "VI": "Đang ngày càng phổ biến",
+                "FR": "Gagner en popularité",
+                "NE": "लोकप्रियता प्राप्त गर्दै",
+                "BN": "জনপ্রিয়তা অর্জন",
+                "ZH": "越来越受欢迎",
+                "KO": "인기를 모으다",
+                "TL": "Pagkakaroon ng kasikatan",
+                "MY": "ကျော်ကြားမှုရရှိခြင်း။",
+                "HI": "लोकप्रियता प्राप्त करना",
+                "AR": "اكتساب الشعبية",
+                "FA": "کسب محبوبیت"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は切手を集めます。",
+            "furigana": "私(わたし)は切手(きって)を集(あつ)めます。",
+            "translations": {
+                "EN": "I collect stamps.",
+                "ID": "Saya mengoleksi perangko.",
+                "ES": "Yo colecciono sellos.",
+                "VI": "Tôi sưu tập tem.",
+                "FR": "Je collectionne les timbres.",
+                "NE": "म टिकटहरू सङ्कलन गर्छु।",
+                "BN": "আমি ডাকটিকিট সংগ্রহ করি।",
+                "ZH": "我收集邮票。",
+                "KO": "나는 우표를 수집합니다.",
+                "TL": "Nangongolekta ako ng mga selyo.",
+                "MY": "တံဆိပ်ခေါင်းတွေ စုဆောင်းနေတယ်။",
+                "HI": "मैं टिकटें इकट्ठा करता हूं.",
+                "AR": "أنا أجمع الطوابع.",
+                "FA": "من تمبر جمع می‌کنم."
+            }
+        },
+        {
+            "kanji": "先生は学生を集めて、説明した。",
+            "furigana": "先生(せんせい)は学生(がくせい)を集(あつ)めて、説明(せつめい)した。",
+            "translations": {
+                "EN": "The teacher gathered the students together and explained the situation.",
+                "ID": "Guru mengumpulkan siswa dan menjelaskan situasinya.",
+                "ES": "El profesor reunió a los estudiantes y les explicó la situación.",
+                "VI": "Giáo viên tập hợp học sinh lại và giải thích tình hình.",
+                "FR": "Le professeur a rassemblé les élèves et leur a expliqué la situation.",
+                "NE": "शिक्षकले विद्यार्थीहरूलाई भेला गर्नुभयो र परिस्थितिको बारेमा व्याख्या गर्नुभयो।",
+                "BN": "শিক্ষক ছাত্রদের একত্রিত করলেন এবং পরিস্থিতি ব্যাখ্যা করলেন।",
+                "ZH": "老师把学生们召集在一起并解释了情况。",
+                "KO": "교사는 학생을 모아서 설명했다.",
+                "TL": "Tinipon ng guro ang mga mag-aaral at ipinaliwanag ang sitwasyon.",
+                "MY": "ဆရာက ကျောင်းသားတွေကို စုပြီး အခြေအနေတွေကို ရှင်းပြတယ်။",
+                "HI": "शिक्षक ने छात्रों को एकत्रित किया और स्थिति समझाई।",
+                "AR": "جمع المعلم الطلاب معًا وشرح لهم الوضع.",
+                "FA": "معلم دانش‌آموزان را دور هم جمع کرد و ماجرا را برایشان تعریف کرد."
+            }
+        },
+        {
+            "kanji": "このアプリで情報を集められます。",
+            "furigana": "このアプリで情(じょう)報(ほう)を集(あつ)められます。",
+            "translations": {
+                "EN": "This app will help you gather information.",
+                "ID": "Aplikasi ini akan membantu Anda mengumpulkan informasi.",
+                "ES": "Esta aplicación te ayudará a recopilar información.",
+                "VI": "Ứng dụng này sẽ giúp bạn thu thập thông tin.",
+                "FR": "Cette application vous aidera à recueillir des informations.",
+                "NE": "यो एपले तपाईंलाई जानकारी सङ्कलन गर्न मद्दत गर्नेछ।",
+                "BN": "এই অ্যাপটি আপনাকে তথ্য সংগ্রহ করতে সাহায্য করবে।",
+                "ZH": "这个应用程序将帮助您收集信息。",
+                "KO": "이 앱으로 정보를 수집할 수 있습니다.",
+                "TL": "Tutulungan ka ng app na ito na mangalap ng impormasyon.",
+                "MY": "ဒီအက်ပ်က သင့်အချက်အလက်တွေကို စုဆောင်းရာမှာ ကူညီပေးပါလိမ့်မယ်။",
+                "HI": "यह ऐप आपको जानकारी जुटाने में मदद करेगा।",
+                "AR": "سيساعدك هذا التطبيق على جمع المعلومات.",
+                "FA": "این برنامه به شما در جمع‌آوری اطلاعات کمک می‌کند."
+            }
+        },
+        {
+            "kanji": "ボランティアのために寄付を集めています。",
+            "furigana": "ボランティアのために寄(き)付(ふ)を集(あつ)めています。",
+            "translations": {
+                "EN": "We are collecting donations for volunteers.",
+                "ID": "Kami sedang mengumpulkan sumbangan untuk para relawan.",
+                "ES": "Estamos recolectando donaciones para voluntarios.",
+                "VI": "Chúng tôi đang quyên góp tiền cho các tình nguyện viên.",
+                "FR": "Nous collectons des dons pour les bénévoles.",
+                "NE": "हामी स्वयंसेवकहरूको लागि चन्दा सङ्कलन गर्दैछौं।",
+                "BN": "আমরা স্বেচ্ছাসেবকদের জন্য অনুদান সংগ্রহ করছি।",
+                "ZH": "我们正在为志愿者募集捐款。",
+                "KO": "자원 봉사자를 위해 기부금을 모으고 있습니다.",
+                "TL": "Kami ay nangongolekta ng mga donasyon para sa mga boluntaryo.",
+                "MY": "စေတနာ့ဝန်ထမ်းတွေအတွက် အလှူငွေကောက်ခံနေပါတယ်။",
+                "HI": "हम स्वयंसेवकों के लिए दान एकत्र कर रहे हैं।",
+                "AR": "نحن نقوم بجمع التبرعات للمتطوعين.",
+                "FA": "ما در حال جمع‌آوری کمک‌های مالی برای داوطلبان هستیم."
+            }
+        },
+        {
+            "kanji": "彼の動画はいつも注目を集める。",
+            "furigana": "彼(かれ)の動画(どうが)はいつも注(ちゅう)目(もく)を集(あつ)める。",
+            "translations": {
+                "EN": "His videos always attract attention.",
+                "ID": "Video-videonya selalu menarik perhatian.",
+                "ES": "Sus videos siempre llaman la atención.",
+                "VI": "Các video của anh ấy luôn thu hút sự chú ý.",
+                "FR": "Ses vidéos attirent toujours l’attention.",
+                "NE": "उनका भिडियोहरूले सधैं ध्यान आकर्षित गर्छन्।",
+                "BN": "তার ভিডিওগুলো সবসময় মনোযোগ আকর্ষণ করে।",
+                "ZH": "他的视频总是能吸引人们的注意。",
+                "KO": "그의 동영상은 항상 주목을 받는다.",
+                "TL": "Ang kanyang mga video ay palaging nakakaakit ng pansin.",
+                "MY": "သူ့ဗီဒီယိုတွေက အမြဲတမ်း ဆွဲဆောင်မှုရှိတယ်။",
+                "HI": "उनके वीडियो हमेशा ध्यान आकर्षित करते हैं।",
+                "AR": "فيديوهاته تجذب الانتباه دائمًا.",
+                "FA": "ویدیوهای او همیشه توجه را به خود جلب می‌کنند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "mengumpulkan",
+            "ES": "recolectar",
+            "VI": "sưu tầm",
+            "FR": "collecter",
+            "NE": "सङ्कलन गर्नु",
+            "BN": "সংগ্রহ করা",
+            "ZH": "收集",
+            "KO": "모으다",
+            "TL": "mangolekta",
+            "MY": "စုဆောင်းပါ။",
+            "HI": "इकट्ठा करना",
+            "AR": "يجمع",
+            "FA": "جمع آوری",
+            "EN": [
+                "collect",
+                "gather",
+                "amass",
+                "accumulate",
+                "aggregate"
+            ]
+        },
+        {
+            "ID": "berkumpul",
+            "ES": "armar",
+            "VI": "lắp ráp",
+            "FR": "assembler",
+            "NE": "भेला गर्नु",
+            "BN": "একত্রিত করা",
+            "ZH": "集合",
+            "KO": "모으다",
+            "TL": "magtipon",
+            "MY": "စုဝေး",
+            "HI": "इकट्ठा",
+            "AR": "تجمع",
+            "FA": "مونتاژ",
+            "EN": [
+                "assemble",
+                "muster",
+                "summon"
+            ]
+        },
+        {
+            "ID": "menarik",
+            "ES": "atraer",
+            "VI": "thu hút",
+            "FR": "attirer",
+            "NE": "आकर्षित गर्नु",
+            "BN": "আকর্ষণ করা",
+            "ZH": "吸引",
+            "KO": "끌어 들이다",
+            "TL": "akitin",
+            "MY": "ဆွဲဆောင်",
+            "HI": "आकर्षित करना",
+            "AR": "جذب",
+            "FA": "جذب کردن",
+            "EN": [
+                "attract",
+                "draw",
+                "win",
+                "garner'],[",
+                "raise\",\"solicit"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "集める",
+        "is_common": true,
+        "tags": [
+            "wanikani10"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "集める",
+                "reading": "あつめる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to collect",
+                    "to assemble",
+                    "to gather"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "集"
+    ],
+    "kanji_data": {
+        "集": {
+            "freq_mainichi_shinbun": 210,
+            "grade": 3,
+            "heisig_en": "gather",
+            "jlpt": 4,
+            "kanji": "集",
+            "kun_readings": [
+                "あつ.まる",
+                "あつ.める",
+                "つど.う"
+            ],
+            "meanings": [
+                "congregate",
+                "flock",
+                "gather",
+                "meet",
+                "swarm"
+            ],
+            "name_readings": [
+                "あつまり",
+                "ず"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シュウ"
+            ],
+            "stroke_count": 12,
+            "unicode": "96C6"
+        }
+    }
+}

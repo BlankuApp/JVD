@@ -1,0 +1,582 @@
+{
+    "version": "0.3.0",
+    "word": "経済",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/F5iPjpLoZTY",
+    "in_db": true,
+    "kanji": "経済",
+    "reading": "けいざい",
+    "introduction_japanese": "経済はニュースや国・会社のようすの話でよく出ます。学校で学ぶ分野としても使います。",
+    "introduction_english": "けいざい is used in news and when talking about how countries and companies are doing. It is also used as a school subject you study.",
+    "meanings": [
+        [
+            "economy",
+            "markets",
+            "trade",
+            "business"
+        ],
+        [
+            "finances",
+            "budget",
+            "livelihood",
+            "means"
+        ],
+        [
+            "economics"
+        ]
+    ],
+    "meaning_explanation_japanese": "国や会社の活動の流れ、家のおかねのやりくり、そしてそれを研究する学問のことです。",
+    "meaning_explanation_english": "It is used as a noun. けいざい literally covers the flow of activity in a country or company, the handling of household money, and the academic field that studies these areas.",
+    "youtube_description": "Learn 経済 (けいざい): clear meaning, natural examples, common collocations, and kanji tips—all in a friendly, beginner-friendly lesson.",
+    "kanji_details": [
+        {
+            "kanji": "経",
+            "onyomi": [
+                "ケイ"
+            ],
+            "kunyomi": [
+                "へ-る"
+            ],
+            "meanings_english": [
+                "pass through",
+                "manage",
+                "sutra"
+            ],
+            "common_words": [
+                "経験 : けいけん : experience",
+                "経営 : けいえい : management"
+            ]
+        },
+        {
+            "kanji": "済",
+            "onyomi": [
+                "サイ"
+            ],
+            "kunyomi": [
+                "す-む",
+                "す-ます"
+            ],
+            "meanings_english": [
+                "finish",
+                "settle",
+                "save"
+            ],
+            "common_words": [
+                "済む : すむ : to finish; be settled",
+                "返済 : へんさい : repayment"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to pass through or to manage. It often shows a process or flow. You see it in けいけん for experience and けいえい for management. Think of things moving along and being handled. The second kanji means to finish or to settle. It is used when something is completed or paid back. You see it in すむ and へんさい. It gives a feeling of bringing things to an end.",
+    "synonyms": [
+        "景気 : けいき : business conditions",
+        "財政 : ざいせい : public finance"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are けいき and ざいせい. けいき focuses on current business conditions. ざいせい is about government money and budgets. They overlap with けいざい for national or market topics, but each is narrower.",
+    "antonyms": [
+        "不況 : ふきょう : recession"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ふきょう. けいざい is broad and neutral, while ふきょう means a bad period for business and markets.",
+    "collocations": [
+        {
+            "kanji": "日本の経済",
+            "furigana": "日本(にほん)の経済(けいざい)",
+            "translations": {
+                "EN": "Japan's economy",
+                "ID": "Ekonomi Jepang",
+                "ES": "La economía de Japón",
+                "VI": "Nền kinh tế Nhật Bản",
+                "FR": "L'économie japonaise",
+                "NE": "जापानको अर्थतन्त्र",
+                "BN": "জাপানের অর্থনীতি",
+                "ZH": "日本经济",
+                "KO": "일본 경제",
+                "TL": "ekonomiya ng Japan",
+                "MY": "ဂျပန်စီးပွားရေး",
+                "HI": "जापान की अर्थव्यवस्था",
+                "AR": "الاقتصاد الياباني",
+                "FA": "اقتصاد ژاپن"
+            }
+        },
+        {
+            "kanji": "世界経済",
+            "furigana": "世界(せかい)経済(けいざい)",
+            "translations": {
+                "EN": "Global Economy",
+                "ID": "Ekonomi Global",
+                "ES": "Economía global",
+                "VI": "Nền kinh tế toàn cầu",
+                "FR": "Économie mondiale",
+                "NE": "विश्वव्यापी अर्थतन्त्र",
+                "BN": "বিশ্ব অর্থনীতি",
+                "ZH": "全球经济",
+                "KO": "세계경제",
+                "TL": "Pandaigdigang Ekonomiya",
+                "MY": "ကမ္ဘာ့စီးပွားရေး",
+                "HI": "वैश्विक अर्थव्यवस्था",
+                "AR": "الاقتصاد العالمي",
+                "FA": "اقتصاد جهانی"
+            }
+        },
+        {
+            "kanji": "国内の経済",
+            "furigana": "国内(こくない)の経済(けいざい)",
+            "translations": {
+                "EN": "Domestic economy",
+                "ID": "Ekonomi domestik",
+                "ES": "Economía doméstica",
+                "VI": "Nền kinh tế trong nước",
+                "FR": "Économie nationale",
+                "NE": "घरेलु अर्थतन्त्र",
+                "BN": "দেশীয় অর্থনীতি",
+                "ZH": "国内经济",
+                "KO": "국내 경제",
+                "TL": "Domestic na ekonomiya",
+                "MY": "ပြည်တွင်းစီးပွားရေး",
+                "HI": "घरेलू अर्थव्यवस्था",
+                "AR": "الاقتصاد المحلي",
+                "FA": "اقتصاد داخلی"
+            }
+        },
+        {
+            "kanji": "地域経済",
+            "furigana": "地域(ちいき)経済(けいざい)",
+            "translations": {
+                "EN": "Regional economy",
+                "ID": "Ekonomi daerah",
+                "ES": "Economía regional",
+                "VI": "Nền kinh tế khu vực",
+                "FR": "Économie régionale",
+                "NE": "क्षेत्रीय अर्थतन्त्र",
+                "BN": "আঞ্চলিক অর্থনীতি",
+                "ZH": "区域经济",
+                "KO": "지역경제",
+                "TL": "Panrehiyong ekonomiya",
+                "MY": "ဒေသစီးပွားရေး",
+                "HI": "क्षेत्रीय अर्थव्यवस्था",
+                "AR": "الاقتصاد الإقليمي",
+                "FA": "اقتصاد منطقه‌ای"
+            }
+        },
+        {
+            "kanji": "経済成長",
+            "furigana": "経済(けいざい)成長(せいちょう)",
+            "translations": {
+                "EN": "economic growth",
+                "ID": "pertumbuhan ekonomi",
+                "ES": "crecimiento económico",
+                "VI": "tăng trưởng kinh tế",
+                "FR": "croissance économique",
+                "NE": "आर्थिक वृद्धि",
+                "BN": "অর্থনৈতিক প্রবৃদ্ধি",
+                "ZH": "经济增长",
+                "KO": "경제성장",
+                "TL": "paglago ng ekonomiya",
+                "MY": "စီးပွားရေးတိုးတက်မှု",
+                "HI": "आर्थिक विकास",
+                "AR": "النمو الاقتصادي",
+                "FA": "رشد اقتصادی"
+            }
+        },
+        {
+            "kanji": "経済の問題",
+            "furigana": "経済(けいざい)の問題(もんだい)",
+            "translations": {
+                "EN": "Economic issues",
+                "ID": "Masalah ekonomi",
+                "ES": "Cuestiones económicas",
+                "VI": "Các vấn đề kinh tế",
+                "FR": "Questions économiques",
+                "NE": "आर्थिक मुद्दाहरू",
+                "BN": "অর্থনৈতিক বিষয়",
+                "ZH": "经济问题",
+                "KO": "경제 문제",
+                "TL": "Mga isyu sa ekonomiya",
+                "MY": "စီးပွားရေးကိစ္စ",
+                "HI": "आर्थिक मुद्दे",
+                "AR": "القضايا الاقتصادية",
+                "FA": "مسائل اقتصادی"
+            }
+        },
+        {
+            "kanji": "経済に関して",
+            "furigana": "経済(けいざい)に関(かん)して",
+            "translations": {
+                "EN": "Regarding the economy",
+                "ID": "Mengenai ekonomi",
+                "ES": "Respecto a la economía",
+                "VI": "Về kinh tế",
+                "FR": "Concernant l'économie",
+                "NE": "अर्थतन्त्रको सन्दर्भमा",
+                "BN": "অর্থনীতি সম্পর্কে",
+                "ZH": "关于经济",
+                "KO": "경제에 관하여",
+                "TL": "Tungkol sa ekonomiya",
+                "MY": "စီးပွားရေးနှင့်ပတ်သက်",
+                "HI": "अर्थव्यवस्था के संबंध में",
+                "AR": "فيما يتعلق بالاقتصاد",
+                "FA": "در خصوص اقتصاد"
+            }
+        },
+        {
+            "kanji": "経済を学ぶ",
+            "furigana": "経済(けいざい)を学(まな)ぶ稀(まれ)",
+            "translations": {
+                "EN": "Studying Economics",
+                "ID": "Mempelajari Ekonomi",
+                "ES": "Estudiando Economía",
+                "VI": "Học Kinh tế",
+                "FR": "Étudier l'économie",
+                "NE": "अर्थशास्त्र अध्ययन गर्दै",
+                "BN": "অর্থনীতি অধ্যয়নরত",
+                "ZH": "学习经济学",
+                "KO": "경제를 배우다",
+                "TL": "Pag-aaral ng Economics",
+                "MY": "စီးပွားရေးပညာကို လေ့လာနေပါတယ်။",
+                "HI": "अर्थशास्त्र का अध्ययन",
+                "AR": "دراسة الاقتصاد",
+                "FA": "تحصیل در رشته اقتصاد"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "日本の経済はゆっくり回復しています。",
+            "furigana": "日本(にほん)の経済(けいざい)はゆっくり回復(かいふく)しています。",
+            "translations": {
+                "EN": "Japan's economy is recovering slowly.",
+                "ID": "Ekonomi Jepang pulih perlahan-lahan.",
+                "ES": "La economía de Japón se está recuperando lentamente.",
+                "VI": "Nền kinh tế Nhật Bản đang phục hồi chậm.",
+                "FR": "L’économie japonaise se redresse lentement.",
+                "NE": "जापानको अर्थतन्त्र बिस्तारै सुधार हुँदैछ।",
+                "BN": "জাপানের অর্থনীতি ধীরে ধীরে পুনরুদ্ধার হচ্ছে।",
+                "ZH": "日本经济正在缓慢复苏。",
+                "KO": "일본의 경제는 천천히 회복하고 있습니다.",
+                "TL": "Mabagal na bumabawi ang ekonomiya ng Japan.",
+                "MY": "ဂျပန်နိုင်ငံ၏ စီးပွားရေးသည် နှေးကွေးစွာ ပြန်လည် နာလန်ထူလာသည်။",
+                "HI": "जापान की अर्थव्यवस्था धीरे-धीरे ठीक हो रही है।",
+                "AR": "يتعافى الاقتصاد الياباني ببطء.",
+                "FA": "اقتصاد ژاپن به آرامی در حال بهبود است."
+            }
+        },
+        {
+            "kanji": "彼は大学で経済を勉強しています。",
+            "furigana": "彼(かれ)は大学(だいがく)で経済(けいざい)を勉強(べんきょう)しています。",
+            "translations": {
+                "EN": "He is studying economics at university.",
+                "ID": "Dia belajar ekonomi di universitas.",
+                "ES": "Está estudiando economía en la universidad.",
+                "VI": "Anh ấy đang học kinh tế tại trường đại học.",
+                "FR": "Il étudie l'économie à l'université.",
+                "NE": "उनी विश्वविद्यालयमा अर्थशास्त्र पढिरहेका छन्।",
+                "BN": "সে বিশ্ববিদ্যালয়ে অর্থনীতি পড়ছে।",
+                "ZH": "他在大学学习经济学。",
+                "KO": "그는 대학에서 경제를 공부하고 있습니다.",
+                "TL": "Nag-aaral siya ng economics sa unibersidad.",
+                "MY": "တက္ကသိုလ်မှာ စီးပွားရေးပညာ သင်ယူနေပါတယ်။",
+                "HI": "वह विश्वविद्यालय में अर्थशास्त्र का अध्ययन कर रहा है।",
+                "AR": "وهو يدرس الاقتصاد في الجامعة.",
+                "FA": "او در دانشگاه اقتصاد می‌خواند."
+            }
+        },
+        {
+            "kanji": "このニュースは経済に大きな影響があります。",
+            "furigana": "このニュースは経済(けいざい)に大(おお)きな影響(えいきょう)があります。",
+            "translations": {
+                "EN": "This news has a major impact on the economy.",
+                "ID": "Berita ini memiliki dampak besar pada perekonomian.",
+                "ES": "Esta noticia tiene un gran impacto en la economía.",
+                "VI": "Tin tức này có tác động lớn đến nền kinh tế.",
+                "FR": "Cette nouvelle a un impact majeur sur l’économie.",
+                "NE": "यो समाचारले अर्थतन्त्रमा ठूलो प्रभाव पार्छ।",
+                "BN": "এই খবর অর্থনীতিতে বড় প্রভাব ফেলে।",
+                "ZH": "这一消息对经济产生了重大影响。",
+                "KO": "이 뉴스는 경제에 큰 영향을 미칩니다.",
+                "TL": "Malaki ang epekto ng balitang ito sa ekonomiya.",
+                "MY": "ဒီသတင်းက စီးပွားရေးအပေါ် ကြီးကြီးမားမား သက်ရောက်မှုရှိတယ်။",
+                "HI": "इस खबर का अर्थव्यवस्था पर बड़ा प्रभाव पड़ेगा।",
+                "AR": "هذه الأخبار لها تأثير كبير على الاقتصاد.",
+                "FA": "این خبر تأثیر زیادی بر اقتصاد دارد."
+            }
+        },
+        {
+            "kanji": "その会社は地域の経済を支えています。",
+            "furigana": "その会社(かいしゃ)は地域(ちいき)の経済(けいざい)を支(ささ)えています。",
+            "translations": {
+                "EN": "The company supports the local economy.",
+                "ID": "Perusahaan mendukung ekonomi lokal.",
+                "ES": "La empresa apoya la economía local.",
+                "VI": "Công ty hỗ trợ nền kinh tế địa phương.",
+                "FR": "L'entreprise soutient l'économie locale.",
+                "NE": "कम्पनीले स्थानीय अर्थतन्त्रलाई सहयोग गर्छ।",
+                "BN": "কোম্পানিটি স্থানীয় অর্থনীতিকে সমর্থন করে।",
+                "ZH": "该公司支持当地经济。",
+                "KO": "그 회사는 지역 경제를 지원합니다.",
+                "TL": "Sinusuportahan ng kumpanya ang lokal na ekonomiya.",
+                "MY": "ကုမ္ပဏီသည် ပြည်တွင်းစီးပွားရေးကို ပံ့ပိုးပေးသည်။",
+                "HI": "कंपनी स्थानीय अर्थव्यवस्था को समर्थन देती है।",
+                "AR": "الشركة تدعم الاقتصاد المحلي.",
+                "FA": "این شرکت از اقتصاد محلی حمایت می‌کند."
+            }
+        },
+        {
+            "kanji": "世界の経済はつながっています。",
+            "furigana": "世界(せかい)の経済(けいざい)はつながっています。",
+            "translations": {
+                "EN": "The world's economies are connected.",
+                "ID": "Perekonomian dunia saling terhubung.",
+                "ES": "Las economías del mundo están conectadas.",
+                "VI": "Nền kinh tế thế giới được kết nối với nhau.",
+                "FR": "Les économies mondiales sont connectées.",
+                "NE": "विश्वका अर्थतन्त्रहरू जोडिएका छन्।",
+                "BN": "বিশ্বের অর্থনীতিগুলি একে অপরের সাথে সংযুক্ত।",
+                "ZH": "世界经济是相互联系的。",
+                "KO": "세계 경제는 연결되어 있습니다.",
+                "TL": "Ang mga ekonomiya ng mundo ay konektado.",
+                "MY": "ကမ္ဘာ့စီးပွားရေးတွေ ချိတ်ဆက်နေတယ်။",
+                "HI": "विश्व की अर्थव्यवस्थाएं आपस में जुड़ी हुई हैं।",
+                "AR": "إن اقتصادات العالم مترابطة.",
+                "FA": "اقتصادهای جهان به هم متصل هستند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "ekonomi",
+            "ES": "economía",
+            "VI": "kinh tế",
+            "FR": "économie",
+            "NE": "अर्थतन्त्र",
+            "BN": "অর্থনীতি",
+            "ZH": "经济",
+            "KO": "경제",
+            "TL": "ekonomiya",
+            "MY": "စီးပွားရေး",
+            "HI": "अर्थव्यवस्था",
+            "AR": "اقتصاد",
+            "FA": "اقتصاد",
+            "EN": [
+                "economy",
+                "markets",
+                "trade",
+                "business"
+            ]
+        },
+        {
+            "ID": "keuangan",
+            "ES": "finanzas",
+            "VI": "tài chính",
+            "FR": "finances",
+            "NE": "आर्थिक",
+            "BN": "আর্থিক",
+            "ZH": "财政",
+            "KO": "재정",
+            "TL": "pananalapi",
+            "MY": "ဘဏ္ဍာရေး",
+            "HI": "वित्त",
+            "AR": "المالية",
+            "FA": "امور مالی",
+            "EN": [
+                "finances",
+                "budget",
+                "livelihood",
+                "means"
+            ]
+        },
+        {
+            "ID": "ekonomi",
+            "ES": "ciencias económicas",
+            "VI": "kinh tế học",
+            "FR": "économie",
+            "NE": "अर्थशास्त्र",
+            "BN": "অর্থনীতি",
+            "ZH": "经济学",
+            "KO": "경제학",
+            "TL": "ekonomiya",
+            "MY": "စီးပွားရေး",
+            "HI": "अर्थशास्त्र",
+            "AR": "الاقتصاد",
+            "FA": "اقتصاد",
+            "EN": [
+                "economics"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "経済",
+        "is_common": true,
+        "tags": [
+            "wanikani21"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "経済",
+                "reading": "けいざい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "economy",
+                    "economics"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "finance",
+                    "(one's) finances",
+                    "financial circumstances"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "being economical",
+                    "economy",
+                    "thrift"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Economy"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Economy” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Economy?oldid=493045096"
+                    },
+                    {
+                        "text": "Read “経済” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/経済?oldid=42561970"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Economy"
+        }
+    },
+    "kanji_list": [
+        "経",
+        "済"
+    ],
+    "kanji_data": {
+        "経": {
+            "freq_mainichi_shinbun": 79,
+            "grade": 5,
+            "heisig_en": "sutra",
+            "jlpt": 3,
+            "kanji": "経",
+            "kun_readings": [
+                "た.つ",
+                "たていと",
+                "のり",
+                "はか.る",
+                "へ.る"
+            ],
+            "meanings": [
+                "expire",
+                "longitude",
+                "pass thru",
+                "sutra",
+                "warp"
+            ],
+            "name_readings": [
+                "つね",
+                "のぶ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "キョウ",
+                "キン",
+                "ケイ"
+            ],
+            "stroke_count": 11,
+            "unicode": "7D4C"
+        },
+        "済": {
+            "freq_mainichi_shinbun": 168,
+            "grade": 6,
+            "heisig_en": "finish",
+            "jlpt": 3,
+            "kanji": "済",
+            "kun_readings": [
+                "-す.ます",
+                "-ず.み",
+                "-ずみ",
+                "す.ます",
+                "す.まない",
+                "す.む",
+                "すく.う",
+                "な.す",
+                "わた.る",
+                "わたし"
+            ],
+            "meanings": [
+                "come to an end",
+                "excusable",
+                "finish",
+                "need not",
+                "relieve (burden)",
+                "settle (debt, etc.)"
+            ],
+            "name_readings": [
+                "すむ",
+                "なり",
+                "わたる"
+            ],
+            "notes": [],
+            "on_readings": [
+                "サイ",
+                "セイ"
+            ],
+            "stroke_count": 11,
+            "unicode": "6E08"
+        }
+    }
+}

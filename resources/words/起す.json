@@ -1,0 +1,601 @@
+{
+    "version": "0.3.0",
+    "word": "起す",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/2_ig3OG2QIE",
+    "in_db": true,
+    "kanji": "起す",
+    "reading": "おこす",
+    "introduction_japanese": "起す。朝に人をベッドから動かすとき、事件・問題を作ってしまったとき、事業を始めるときによく使います。",
+    "introduction_english": "Okosu (おこす). We use it when you wake someone up in the morning, when something causes trouble or an incident, and when you start a project or a business.",
+    "meanings": [
+        [
+            "wake",
+            "rouse",
+            "awaken"
+        ],
+        [
+            "cause",
+            "trigger",
+            "generate"
+        ],
+        [
+            "start",
+            "launch",
+            "found"
+        ]
+    ],
+    "meaning_explanation_japanese": "人を目覚めさせたり、物事を原因として生じさせたり、新しい活動を始めたりする動きを表します。",
+    "meaning_explanation_english": "This is a transitive verb. おこす means you make someone wake up, you make an event happen, or you start something new.",
+    "youtube_description": "Learn 起す (okosu): how to use it to wake someone, cause events, and start projects—clear examples, easy tips, and common mistakes to avoid.",
+    "kanji_details": [
+        {
+            "kanji": "起",
+            "onyomi": [
+                "キ"
+            ],
+            "kunyomi": [
+                "お-きる",
+                "お-こる"
+            ],
+            "meanings_english": [
+                "rise",
+                "wake",
+                "begin"
+            ],
+            "common_words": [
+                "起きる : おきる : to get up; to wake",
+                "起こる : おこる : to happen; to occur"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means rise or start. It shows standing up or something beginning to happen. You see it in words like おきる and おこる. Remember it often points to change or movement upward.",
+    "synonyms": [
+        "起こす : おこす : wake; cause",
+        "引き起こす : ひきおこす : trigger; cause"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are おこす and ひきおこす. おこす is the standard modern spelling and matches the same everyday uses. ひきおこす is a bit heavier and often used for serious results like accidents or problems.",
+    "antonyms": [
+        "寝かす : ねかす : put to sleep"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ねかす. While おこす makes someone awake or makes something start, ねかす makes someone sleep or lets activity stop.",
+    "collocations": [
+        {
+            "kanji": "交通事故を起す",
+            "furigana": "交通(こうつう)事故(じこ)を起(お)す",
+            "translations": {
+                "EN": "cause a traffic accident",
+                "ID": "menyebabkan kecelakaan lalu lintas",
+                "ES": "causar un accidente de tráfico",
+                "VI": "gây ra tai nạn giao thông",
+                "FR": "provoquer un accident de la circulation",
+                "NE": "ट्राफिक दुर्घटना निम्त्याउनु",
+                "BN": "ট্র্যাফিক দুর্ঘটনা ঘটানো",
+                "ZH": "引发交通事故",
+                "KO": "교통사고 발생",
+                "TL": "magdulot ng aksidente sa trapiko",
+                "MY": "ယာဉ်မတော်တဆမှုဖြစ်စေသည်။",
+                "HI": "यातायात दुर्घटना का कारण बनना",
+                "AR": "تسبب في حادث مروري",
+                "FA": "باعث تصادف رانندگی شدن"
+            }
+        },
+        {
+            "kanji": "大きなミスを起す",
+            "furigana": "大(おお)きなミスを起(お)す",
+            "translations": {
+                "EN": "make a big mistake",
+                "ID": "membuat kesalahan besar",
+                "ES": "cometer un gran error",
+                "VI": "phạm một sai lầm lớn",
+                "FR": "faire une grosse erreur",
+                "NE": "ठूलो गल्ती गर्नु",
+                "BN": "একটা বড় ভুল করা",
+                "ZH": "犯大错",
+                "KO": "큰 실수를 일으키다",
+                "TL": "gumawa ng isang malaking pagkakamali",
+                "MY": "ကြီးမားတဲ့အမှားတစ်ခုလုပ်ပါ။",
+                "HI": "बड़ी गलती करना",
+                "AR": "ارتكب خطأ كبيرا",
+                "FA": "اشتباه بزرگی مرتکب شدن"
+            }
+        },
+        {
+            "kanji": "問題を起す",
+            "furigana": "問題(もんだい)を起(お)す",
+            "translations": {
+                "EN": "cause problems",
+                "ID": "menyebabkan masalah",
+                "ES": "causar problemas",
+                "VI": "gây ra vấn đề",
+                "FR": "causer des problèmes",
+                "NE": "समस्या निम्त्याउनु",
+                "BN": "সমস্যা সৃষ্টি করা",
+                "ZH": "造成问题",
+                "KO": "문제를 일으키다",
+                "TL": "magdulot ng mga problema",
+                "MY": "ပြဿနာများဖြစ်စေသည်။",
+                "HI": "समस्याओं के कारण",
+                "AR": "تسبب مشاكل",
+                "FA": "باعث ایجاد مشکلات شود"
+            }
+        },
+        {
+            "kanji": "事業を起す",
+            "furigana": "事業(じぎょう)を起(お)す",
+            "translations": {
+                "EN": "Start a business",
+                "ID": "Memulai bisnis",
+                "ES": "Establecerse",
+                "VI": "Khởi nghiệp kinh doanh",
+                "FR": "Démarrer une entreprise",
+                "NE": "व्यवसाय सुरु गर्नुहोस्",
+                "BN": "ব্যবসা শুরু করুন",
+                "ZH": "创业",
+                "KO": "사업을 일으키다",
+                "TL": "Magsimula ng negosyo",
+                "MY": "လုပ်ငန်းတစ်ခုစတင်ပါ။",
+                "HI": "व्यवसाय प्रारंभ",
+                "AR": "ابدأ مشروعًا تجاريًا",
+                "FA": "یک کسب و کار راه اندازی کنید"
+            }
+        },
+        {
+            "kanji": "人を起す",
+            "furigana": "人(ひと)を起(お)す",
+            "translations": {
+                "EN": "wake someone up",
+                "ID": "membangunkan seseorang",
+                "ES": "despertar a alguien",
+                "VI": "đánh thức ai đó dậy",
+                "FR": "réveiller quelqu'un",
+                "NE": "कसैलाई जगाउनु",
+                "BN": "কাউকে জাগিয়ে দাও",
+                "ZH": "叫醒某人",
+                "KO": "사람을 일으키다",
+                "TL": "gisingin ang isang tao",
+                "MY": "တစ်စုံတစ်ယောက်ကို နှိုးပါ။",
+                "HI": "किसी को जगाना",
+                "AR": "إيقاظ شخص ما",
+                "FA": "کسی را بیدار کردن"
+            }
+        },
+        {
+            "kanji": "子どもを優しく起す",
+            "furigana": "子(こ)どもを優(やさ)しく起(お)す",
+            "translations": {
+                "EN": "Gently wake up your child",
+                "ID": "Bangunkan anak Anda dengan lembut",
+                "ES": "Despierta suavemente a tu hijo",
+                "VI": "Nhẹ nhàng đánh thức con bạn",
+                "FR": "Réveillez votre enfant en douceur",
+                "NE": "आफ्नो बच्चालाई बिस्तारै उठाउनुहोस्",
+                "BN": "আপনার সন্তানকে আলতো করে জাগিয়ে তুলুন।",
+                "ZH": "轻轻唤醒你的孩子",
+                "KO": "아이를 부드럽게 깨우다",
+                "TL": "Dahan-dahang gisingin ang iyong anak",
+                "MY": "သင့်ကလေးကို ညင်သာစွာ နှိုးပါ။",
+                "HI": "अपने बच्चे को धीरे से जगाएँ",
+                "AR": "أيقظ طفلك بلطف",
+                "FA": "کودک خود را به آرامی بیدار کنید"
+            }
+        },
+        {
+            "kanji": "友だちをアラームで起す",
+            "furigana": "友(とも)だちをアラームで起(お)す",
+            "translations": {
+                "EN": "Wake up your friends with an alarm",
+                "ID": "Bangunkan teman Anda dengan alarm",
+                "ES": "Despierta a tus amigos con una alarma.",
+                "VI": "Đánh thức bạn bè của bạn bằng báo thức",
+                "FR": "Réveillez vos amis avec une alarme",
+                "NE": "अलार्म बजाएर आफ्ना साथीहरूलाई उठाउनुहोस्",
+                "BN": "অ্যালার্ম বাজিয়ে তোমার বন্ধুদের জাগাও",
+                "ZH": "用闹钟叫醒你的朋友",
+                "KO": "친구를 알람으로 깨우기",
+                "TL": "Gisingin ang iyong mga kaibigan gamit ang isang alarma",
+                "MY": "သင့်သူငယ်ချင်းများကို နှိုးစက်ဖြင့်နှိုးပါ။",
+                "HI": "अपने दोस्तों को अलार्म बजाकर जगाएँ",
+                "AR": "أيقظ أصدقاءك باستخدام المنبه",
+                "FA": "دوستانتان را با زنگ هشدار از خواب بیدار کنید"
+            }
+        },
+        {
+            "kanji": "もう一度起してみる",
+            "furigana": "もう一(いち)度(ど)起(お)してみる",
+            "translations": {
+                "EN": "Try waking it up again",
+                "ID": "Coba bangunkan lagi",
+                "ES": "Intenta despertarlo de nuevo",
+                "VI": "Hãy thử đánh thức nó lần nữa",
+                "FR": "Essayez de le réveiller à nouveau",
+                "NE": "फेरि उठाउने प्रयास गर्नुहोस्",
+                "BN": "আবার জাগানোর চেষ্টা করো।",
+                "ZH": "尝试再次唤醒它",
+                "KO": "다시 일어나보자",
+                "TL": "Subukang gisingin itong muli",
+                "MY": "ပြန်နှိုးကြည့်ပါ။",
+                "HI": "इसे पुनः जगाने का प्रयास करें",
+                "AR": "حاول إيقاظه مرة أخرى",
+                "FA": "دوباره سعی کن بیدارش کنی"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "母は毎朝私を起す。",
+            "furigana": "母(はは)は毎朝(まいあさ)私(わたし)を起(お)す。",
+            "translations": {
+                "EN": "My mother wakes me up every morning.",
+                "ID": "Ibu saya membangunkan saya setiap pagi.",
+                "ES": "Mi madre me despierta cada mañana.",
+                "VI": "Mẹ tôi đánh thức tôi dậy mỗi sáng.",
+                "FR": "Ma mère me réveille tous les matins.",
+                "NE": "मेरी आमाले मलाई हरेक बिहान उठाउनुहुन्छ।",
+                "BN": "আমার মা আমাকে প্রতিদিন সকালে ঘুম থেকে তোলেন।",
+                "ZH": "我妈妈每天早上叫醒我。",
+                "KO": "어머니는 매일 아침 저를 일으킨다.",
+                "TL": "Ginigising ako ng nanay ko tuwing umaga.",
+                "MY": "အမေက မနက်တိုင်း နှိုးတယ်။",
+                "HI": "मेरी माँ मुझे हर सुबह जगाती है।",
+                "AR": "أمي توقظني كل صباح.",
+                "FA": "مادرم هر روز صبح مرا بیدار می‌کند."
+            }
+        },
+        {
+            "kanji": "アラームで弟を起した。",
+            "furigana": "アラームで弟(おとうと)を起(お)した。",
+            "translations": {
+                "EN": "The alarm woke my brother up.",
+                "ID": "Alarm itu membangunkan saudaraku.",
+                "ES": "La alarma despertó a mi hermano.",
+                "VI": "Tiếng chuông báo thức đánh thức anh trai tôi dậy.",
+                "FR": "L'alarme a réveillé mon frère.",
+                "NE": "अलार्मले मेरो भाइलाई ब्युँझायो।",
+                "BN": "অ্যালার্ম বাজলে আমার ভাই ঘুম থেকে উঠল।",
+                "ZH": "闹钟吵醒了我的弟弟。",
+                "KO": "알람으로 동생을 일으켰다.",
+                "TL": "Alarm ang gumising sa kapatid ko.",
+                "MY": "နှိုးစက်က အစ်ကို့ကို နှိုးတယ်။",
+                "HI": "अलार्म बजने से मेरा भाई जाग गया।",
+                "AR": "أيقظ المنبه أخي.",
+                "FA": "صدای زنگ ساعت برادرم را از خواب بیدار کرد."
+            }
+        },
+        {
+            "kanji": "彼は夜に騒ぎを起した。",
+            "furigana": "彼(かれ)は夜(よる)に騒(さわ)ぎを起(お)した。",
+            "translations": {
+                "EN": "He caused a commotion at night.",
+                "ID": "Dia menyebabkan keributan di malam hari.",
+                "ES": "Causó conmoción por la noche.",
+                "VI": "Anh ta đã gây ra một sự náo động vào ban đêm.",
+                "FR": "Il a provoqué une commotion dans la nuit.",
+                "NE": "उसले रातमा हंगामा मच्चायो।",
+                "BN": "সে রাতে একটা গোলমাল তৈরি করেছিল।",
+                "ZH": "他晚上引起了骚动。",
+                "KO": "그는 밤에 소란을 일으켰다.",
+                "TL": "Nagdulot siya ng kaguluhan sa gabi.",
+                "MY": "ညဘက်တွင် ရုန်းရင်းဆန်ခတ်ဖြစ်ခဲ့သည်။",
+                "HI": "उसने रात में हंगामा मचाया।",
+                "AR": "لقد أحدث ضجة في الليل.",
+                "FA": "او شب‌ها غوغایی به پا می‌کرد."
+            }
+        },
+        {
+            "kanji": "そのミスは問題を起した。",
+            "furigana": "そのミスは問題(もんだい)を起(お)した。",
+            "translations": {
+                "EN": "The mistake caused problems.",
+                "ID": "Kesalahan tersebut menimbulkan masalah.",
+                "ES": "El error causó problemas.",
+                "VI": "Sai lầm này gây ra nhiều vấn đề.",
+                "FR": "L’erreur a causé des problèmes.",
+                "NE": "गल्तीले समस्या निम्त्यायो।",
+                "BN": "ভুলটি সমস্যার সৃষ্টি করেছে।",
+                "ZH": "这个错误导致了问题。",
+                "KO": "그 실수는 문제를 일으켰다.",
+                "TL": "Ang pagkakamali ay nagdulot ng mga problema.",
+                "MY": "အမှားက ပြဿနာတွေ ဖြစ်လာတယ်။",
+                "HI": "इस गलती के कारण समस्याएँ उत्पन्न हो गईं।",
+                "AR": "لقد تسبب الخطأ في حدوث مشاكل.",
+                "FA": "اشتباه باعث ایجاد مشکلاتی شد."
+            }
+        },
+        {
+            "kanji": "私たちは小さな会社を起す。",
+            "furigana": "私(わたし)たちは小(ちい)さな会社(かいしゃ)を起(お)す。",
+            "translations": {
+                "EN": "We start a small company.",
+                "ID": "Kami memulai sebuah perusahaan kecil.",
+                "ES": "Empezamos una pequeña empresa.",
+                "VI": "Chúng tôi thành lập một công ty nhỏ.",
+                "FR": "Nous démarrons une petite entreprise.",
+                "NE": "हामी एउटा सानो कम्पनी सुरु गर्छौं।",
+                "BN": "আমরা একটি ছোট কোম্পানি শুরু করি।",
+                "ZH": "我们创办了一家小公司。",
+                "KO": "우리는 작은 회사를 일으킨다.",
+                "TL": "Nagsisimula kami ng isang maliit na kumpanya.",
+                "MY": "ကျွန်တော်တို့ ကုမ္ပဏီငယ်တစ်ခု စတင်သည်။",
+                "HI": "हमने एक छोटी सी कंपनी शुरू की।",
+                "AR": "نحن نبدأ شركة صغيرة.",
+                "FA": "ما یک شرکت کوچک راه اندازی می کنیم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "bangun",
+            "ES": "despertar",
+            "VI": "thức dậy",
+            "FR": "se réveiller",
+            "NE": "उठ्नु",
+            "BN": "জাগানো",
+            "ZH": "唤醒",
+            "KO": "깨어 있다",
+            "TL": "gising",
+            "MY": "နိုး",
+            "HI": "जागो",
+            "AR": "استيقظ",
+            "FA": "بیدار باش",
+            "EN": [
+                "wake",
+                "rouse",
+                "awaken"
+            ]
+        },
+        {
+            "ID": "menyebabkan",
+            "ES": "causa",
+            "VI": "gây ra",
+            "FR": "cause",
+            "NE": "कारण",
+            "BN": "কারণ",
+            "ZH": "原因",
+            "KO": "원인",
+            "TL": "dahilan",
+            "MY": "အကြောင်းရင်း",
+            "HI": "कारण",
+            "AR": "سبب",
+            "FA": "علت",
+            "EN": [
+                "cause",
+                "trigger",
+                "generate"
+            ]
+        },
+        {
+            "ID": "awal",
+            "ES": "comenzar",
+            "VI": "bắt đầu",
+            "FR": "commencer",
+            "NE": "सुरु गर्नुहोस्",
+            "BN": "শুরু",
+            "ZH": "开始",
+            "KO": "시작",
+            "TL": "simulan",
+            "MY": "စတင်ပါ။",
+            "HI": "शुरू",
+            "AR": "يبدأ",
+            "FA": "شروع",
+            "EN": [
+                "start",
+                "launch",
+                "found"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "起こす",
+        "is_common": true,
+        "tags": [
+            "wanikani14"
+        ],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "起こす",
+                "reading": "おこす"
+            },
+            {
+                "word": "起す",
+                "reading": "おこす"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to raise",
+                    "to raise up",
+                    "to set up",
+                    "to pick up"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to wake",
+                    "to wake up",
+                    "to waken",
+                    "to awaken"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to cause",
+                    "to bring about",
+                    "to lead to",
+                    "to trigger",
+                    "to give rise to",
+                    "to create",
+                    "to generate (e.g. heat, electricity)",
+                    "to produce"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "熾す おこす"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to start",
+                    "to begin",
+                    "to launch",
+                    "to establish",
+                    "to found",
+                    "to set up",
+                    "to open"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "興す おこす"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to plough",
+                    "to plow",
+                    "to till"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to fall ill with"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to transcribe",
+                    "to write down (what is spoken)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to turn over (a card)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "起"
+    ],
+    "kanji_data": {
+        "起": {
+            "freq_mainichi_shinbun": 374,
+            "grade": 3,
+            "heisig_en": "rouse",
+            "jlpt": 4,
+            "kanji": "起",
+            "kun_readings": [
+                "お.きる",
+                "お.こす",
+                "お.こる",
+                "おこ.す",
+                "た.つ"
+            ],
+            "meanings": [
+                "get up",
+                "rouse",
+                "wake up"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "キ"
+            ],
+            "stroke_count": 10,
+            "unicode": "8D77"
+        }
+    }
+}

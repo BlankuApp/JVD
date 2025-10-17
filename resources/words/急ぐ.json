@@ -1,0 +1,436 @@
+{
+    "version": "0.3.0",
+    "word": "急ぐ",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/SqJgNYmjfMs",
+    "in_db": true,
+    "kanji": "急ぐ",
+    "reading": "いそぐ",
+    "introduction_japanese": "急ぐ。電車に乗り遅れそうなときや、約束の時間が近いときに使います。",
+    "introduction_english": "いそぐ. Used when you might miss a train or when the time for an appointment is getting close.",
+    "meanings": [
+        [
+            "hurry",
+            "rush",
+            "hasten"
+        ],
+        [
+            "expedite",
+            "accelerate",
+            "speed"
+        ]
+    ],
+    "meaning_explanation_japanese": "動作や進みを早めること。自分が早く動く場合と、作業や予定の進行を早める場合の二つがあります。",
+    "meaning_explanation_english": "It is a godan verb used both intransitively and transitively. いそぐ means to move quickly yourself, or to make a task or plan progress faster.",
+    "youtube_description": "Learn the verb いそぐ: meanings, when to use it, natural phrases, and easy examples for beginners. Short, clear, and practical!",
+    "kanji_details": [
+        {
+            "kanji": "急",
+            "onyomi": [
+                "キュウ"
+            ],
+            "kunyomi": [
+                "いそ",
+                "せわ"
+            ],
+            "meanings_english": [
+                "urgent",
+                "sudden",
+                "rapid"
+            ],
+            "common_words": [
+                "急行（きゅうこう）: express (train)",
+                "急用（きゅうよう）: urgent business"
+            ]
+        }
+    ],
+    "kanji_explanation": "The only kanji means urgent or sudden. It suggests speed and something that needs attention now. You see it in きゅうこう for an express train and in きゅうよう for urgent business. When you meet it, think quick, sudden, and important.",
+    "synonyms": [
+        "焦る : あせる : to panic; to feel rushed",
+        "早める : はやめる : to speed up"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are あせる and はやめる. あせる is about the feeling of being rushed or flustered, while はやめる is a transitive “speed up” and matches the sense of making a task go faster.",
+    "antonyms": [
+        "遅らせる : おくらせる : to delay"
+    ],
+    "antonym_explanation": "The most common antonym of the word is おくらせる, which means to push something later in time, the opposite of moving or making things go faster.",
+    "collocations": [
+        {
+            "kanji": "駅へ急ぐ",
+            "furigana": "駅(えき)へ急(いそ)ぐ",
+            "translations": {
+                "EN": "Hurry to the station",
+                "ID": "Cepat ke stasiun",
+                "ES": "Date prisa en llegar a la estación",
+                "VI": "Nhanh lên đến ga",
+                "FR": "Dépêchez-vous à la gare",
+                "NE": "स्टेशनमा छिटो जानुहोस्।",
+                "BN": "তাড়াতাড়ি স্টেশনে যাও।",
+                "ZH": "赶紧去车站",
+                "KO": "역으로 서두르다",
+                "TL": "Magmadali sa istasyon",
+                "MY": "ဘူတာကို မြန်မြန်သွား",
+                "HI": "स्टेशन पर जल्दी पहुँचो",
+                "AR": "اسرع إلى المحطة",
+                "FA": "با عجله به سمت ایستگاه"
+            }
+        },
+        {
+            "kanji": "家まで急ぐ",
+            "furigana": "家(いえ)まで急(いそ)ぐ",
+            "translations": {
+                "EN": "Hurry home",
+                "ID": "cepat pulang",
+                "ES": "Date prisa en volver a casa",
+                "VI": "Nhanh về nhà",
+                "FR": "Dépêche-toi de rentrer à la maison",
+                "NE": "छिटो घर जाऊ।",
+                "BN": "তাড়াতাড়ি বাড়ি যাও।",
+                "ZH": "赶紧回家",
+                "KO": "집까지 서두르다",
+                "TL": "Bilisan mo umuwi",
+                "MY": "မြန်မြန်အိမ်ပြန်",
+                "HI": "जल्दी घर",
+                "AR": "اسرع إلى المنزل",
+                "FA": "عجله کن به خانه"
+            }
+        },
+        {
+            "kanji": "仕事を急ぐ",
+            "furigana": "仕事(しごと)を急(いそ)ぐ",
+            "translations": {
+                "EN": "hurry up with work",
+                "ID": "cepat kerjakan",
+                "ES": "Date prisa con el trabajo",
+                "VI": "nhanh chóng làm việc",
+                "FR": "dépêche-toi de travailler",
+                "NE": "काममा हतार गर्नुहोस्",
+                "BN": "কাজে তাড়াহুড়ো করো",
+                "ZH": "赶紧工作",
+                "KO": "일을 서두르다",
+                "TL": "bilisan mo sa trabaho",
+                "MY": "အလုပ်မြန်မြန်လုပ်",
+                "HI": "काम में जल्दी करो",
+                "AR": "اسرع في العمل",
+                "FA": "در کار عجله کنید"
+            }
+        },
+        {
+            "kanji": "宿題を急ぐ",
+            "furigana": "宿題(しゅくだい)を急(いそ)ぐ",
+            "translations": {
+                "EN": "Hurry up with your homework",
+                "ID": "Cepat kerjakan pekerjaan rumahmu",
+                "ES": "Date prisa con tu tarea",
+                "VI": "Nhanh lên làm bài tập về nhà đi",
+                "FR": "Dépêche-toi de faire tes devoirs",
+                "NE": "आफ्नो गृहकार्य छिटो गर।",
+                "BN": "তোমার বাড়ির কাজ তাড়াতাড়ি করো।",
+                "ZH": "快点完成你的作业",
+                "KO": "숙제를 서두르다",
+                "TL": "Bilisan mo ang iyong takdang-aralin",
+                "MY": "အိမ်စာမြန်မြန်လုပ်",
+                "HI": "अपना होमवर्क जल्दी करो",
+                "AR": "اسرع في أداء واجباتك المنزلية",
+                "FA": "تکالیفت را سریع انجام بده"
+            }
+        },
+        {
+            "kanji": "なるべく急ぐ",
+            "furigana": "なるべく急(いそ)ぐ",
+            "translations": {
+                "EN": "Hurry as much as possible",
+                "ID": "Cepatlah sebisa mungkin",
+                "ES": "Date prisa lo máximo que puedas",
+                "VI": "Nhanh lên càng nhiều càng tốt",
+                "FR": "Dépêchez-vous autant que possible",
+                "NE": "सकेसम्म हतार गर्नुहोस्",
+                "BN": "যতটা সম্ভব তাড়াহুড়ো করো।",
+                "ZH": "尽可能快点",
+                "KO": "가능한 한 서둘러",
+                "TL": "Magmadali hangga't maaari",
+                "MY": "တတ်နိုင်သမျှ မြန်မြန်လုပ်",
+                "HI": "जितना हो सके जल्दी करो",
+                "AR": "اسرع قدر الإمكان",
+                "FA": "هر چه سریعتر عجله کنید"
+            }
+        },
+        {
+            "kanji": "もっと急ぐ",
+            "furigana": "もっと急(いそ)ぐ",
+            "translations": {
+                "EN": "Hurry up",
+                "ID": "Ayo cepat",
+                "ES": "Apresúrate",
+                "VI": "Nhanh lên",
+                "FR": "Dépêche-toi",
+                "NE": "छिटो गर",
+                "BN": "তাড়াতাড়ি কর",
+                "ZH": "赶快",
+                "KO": "더 서둘러",
+                "TL": "Bilisan mo",
+                "MY": "မြန်မြန်လုပ်ပါ",
+                "HI": "जल्दी करो",
+                "AR": "اسرع",
+                "FA": "عجله کن"
+            }
+        },
+        {
+            "kanji": "安全に急ぐ",
+            "furigana": "安全(あんぜん)に急(いそ)ぐ",
+            "translations": {
+                "EN": "Hurry to safety",
+                "ID": "Cepatlah menuju tempat aman",
+                "ES": "Date prisa para llegar a un lugar seguro",
+                "VI": "Nhanh chóng đến nơi an toàn",
+                "FR": "Dépêchez-vous vers la sécurité",
+                "NE": "सुरक्षित ठाउँमा छिटो जानुहोस्",
+                "BN": "নিরাপদে দ্রুত চলে যাও।",
+                "ZH": "赶紧去安全地带",
+                "KO": "안전하게 서두르다",
+                "TL": "Magmadali sa kaligtasan",
+                "MY": "ဘေးကင်းရန် အမြန်သွားပါ။",
+                "HI": "सुरक्षा के लिए जल्दी करें",
+                "AR": "اسرع إلى بر الأمان",
+                "FA": "به سمت امنیت بشتابید"
+            }
+        },
+        {
+            "kanji": "今日中に急ぐ",
+            "furigana": "今日中(きょうじゅう)に急(いそ)ぐ",
+            "translations": {
+                "EN": "Hurry today",
+                "ID": "Cepat hari ini",
+                "ES": "Date prisa hoy",
+                "VI": "Nhanh lên hôm nay",
+                "FR": "Dépêchez-vous aujourd'hui",
+                "NE": "आज छिटो गर्नुहोस्",
+                "BN": "আজই তাড়াতাড়ি করো।",
+                "ZH": "今天赶紧",
+                "KO": "오늘 동안 서둘러",
+                "TL": "Bilisan mo ngayon",
+                "MY": "ဒီနေ့မြန်မြန်",
+                "HI": "आज जल्दी करें",
+                "AR": "اسرع اليوم",
+                "FA": "همین امروز عجله کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "電車に間に合うように急ぎます。",
+            "furigana": "電車(でんしゃ)に間(ま)に合(あ)うように急(いそ)ぎます。",
+            "translations": {
+                "EN": "I hurry to catch the train.",
+                "ID": "Saya bergegas untuk mengejar kereta.",
+                "ES": "Tengo prisa por coger el tren.",
+                "VI": "Tôi vội vã đi bắt tàu.",
+                "FR": "Je me dépêche d'attraper le train.",
+                "NE": "म रेल समात्न हतार गर्छु।",
+                "BN": "আমি ট্রেন ধরতে তাড়াহুড়ো করছি।",
+                "ZH": "我赶紧去赶火车。",
+                "KO": "기차에 가까이 서둘러 서둘러.",
+                "TL": "Nagmamadali akong sumakay ng tren.",
+                "MY": "ငါ ရထားကို အမြန်ဖမ်း။",
+                "HI": "मैं ट्रेन पकड़ने के लिए जल्दी करता हूं।",
+                "AR": "أسرعت للحاق بالقطار.",
+                "FA": "عجله دارم که به قطار برسم."
+            }
+        },
+        {
+            "kanji": "もう時間がないので、少し急いでください。",
+            "furigana": "もう時間(じかん)がないので、少(すこ)し急(いそ)いでください。",
+            "translations": {
+                "EN": "Please hurry up a bit as we don't have much time left.",
+                "ID": "Waktu yang tersisa tidak banyak, jadi, cepatlah.",
+                "ES": "No queda mucho tiempo, así que date prisa.",
+                "VI": "Hãy nhanh lên một chút vì chúng ta không còn nhiều thời gian nữa.",
+                "FR": "Il ne reste plus beaucoup de temps, alors dépêchez-vous.",
+                "NE": "धेरै समय बाँकी छैन, त्यसैले छिटो गर्नुहोस्।",
+                "BN": "আর খুব বেশি সময় বাকি নেই, তাই তাড়াতাড়ি করুন।",
+                "ZH": "剩下的时间不多了，所以请快点。",
+                "KO": "더 이상 시간이 없으니 조금 서둘러주세요.",
+                "TL": "Wala nang masyadong oras, kaya pakibilisan.",
+                "MY": "အချိန်သိပ်မကျန်တော့တာမို့ မြန်မြန်လေး",
+                "HI": "अब ज्यादा समय नहीं बचा है, इसलिए कृपया जल्दी करें।",
+                "AR": "يرجى الإسراع قليلاً حيث لم يتبق لدينا الكثير من الوقت.",
+                "FA": "وقت زیادی باقی نمانده، پس لطفا عجله کنید."
+            }
+        },
+        {
+            "kanji": "雨が降りそうだから、家へ急ごう。",
+            "furigana": "雨(あめ)が降(ふ)りそうだから、家(いえ)へ急(いそ)ごう。",
+            "translations": {
+                "EN": "It looks like it's going to rain, so let's hurry home.",
+                "ID": "Sepertinya akan turun hujan, jadi ayo cepat pulang.",
+                "ES": "Parece que va a llover, así que apresurémonos a volver a casa.",
+                "VI": "Có vẻ như trời sắp mưa, chúng ta hãy nhanh chóng về nhà thôi.",
+                "FR": "On dirait qu'il va pleuvoir, alors rentrons vite à la maison.",
+                "NE": "पानी पर्ने जस्तो छ, त्यसैले छिटो घर जाऔं।",
+                "BN": "মনে হচ্ছে বৃষ্টি হবে, তাই চলো তাড়াতাড়ি বাড়ি যাই।",
+                "ZH": "看起来要下雨了，所以我们赶紧回家吧。",
+                "KO": "비가 내릴 것 같으니 집으로 서둘러요.",
+                "TL": "Mukhang uulan kaya bilisan na natin umuwi.",
+                "MY": "မိုးရွာတော့မယ်ဆိုတော့ အိမ်အမြန်သွားရအောင်။",
+                "HI": "ऐसा लग रहा है कि बारिश होने वाली है, इसलिए जल्दी से घर चलें।",
+                "AR": "يبدو أن المطر قادم، لذا دعونا نسرع إلى المنزل.",
+                "FA": "به نظر می‌رسد که قرار است باران ببارد، پس بیایید سریع به خانه برویم."
+            }
+        },
+        {
+            "kanji": "仕事を急いでも、ミスをしないでね。",
+            "furigana": "仕事(しごと)を急(いそ)いでも、ミスをしないでね。",
+            "translations": {
+                "EN": "Even if you rush your work, don't make any mistakes.",
+                "ID": "Sekalipun kamu terburu-buru dalam pekerjaanmu, jangan membuat kesalahan sedikit pun.",
+                "ES": "Incluso si te apresuras con tu trabajo, no cometas ningún error.",
+                "VI": "Ngay cả khi bạn làm việc vội vã, đừng mắc bất kỳ sai lầm nào.",
+                "FR": "Même si vous vous précipitez dans votre travail, ne faites aucune erreur.",
+                "NE": "काममा हतार गरे पनि, कुनै गल्ती नगर्नुहोस्।",
+                "BN": "তোমার কাজে তাড়াহুড়ো করলেও, কোন ভুল করো না।",
+                "ZH": "即使你工作很匆忙，也不要犯任何错误。",
+                "KO": "일을 서둘러도 실수하지 마십시오.",
+                "TL": "Kahit na nagmamadali ka sa iyong trabaho, huwag magkamali.",
+                "MY": "အလုပ်ကို အလျင်စလိုလုပ်ရင်တောင် အမှားမလုပ်မိပါစေနဲ့။",
+                "HI": "भले ही आप अपने काम में जल्दबाजी करें, लेकिन कोई गलती न करें।",
+                "AR": "حتى لو كنت مستعجلاً في عملك، فلا ترتكب أي أخطاء.",
+                "FA": "حتی اگر در کارتان عجله دارید، هیچ اشتباهی مرتکب نشوید."
+            }
+        },
+        {
+            "kanji": "子どもが熱を出したので、病院へ急いだ。",
+            "furigana": "子(こ)どもが熱(ねつ)を出(だ)したので、病院(びょういん)へ急(いそ)いだ。",
+            "translations": {
+                "EN": "My child had a fever, so I rushed him to the hospital.",
+                "ID": "Anak saya demam, jadi saya segera membawanya ke rumah sakit.",
+                "ES": "Mi hijo tenía fiebre, así que lo llevé rápidamente al hospital.",
+                "VI": "Con tôi bị sốt nên tôi vội đưa cháu đến bệnh viện.",
+                "FR": "Mon enfant avait de la fièvre, alors je l’ai emmené d’urgence à l’hôpital.",
+                "NE": "मेरो बच्चालाई ज्वरो आएको थियो, त्यसैले मैले उसलाई हतार हतार अस्पताल पुर्‍याएँ।",
+                "BN": "আমার বাচ্চার জ্বর ছিল, তাই আমি তাকে দ্রুত হাসপাতালে নিয়ে গেলাম।",
+                "ZH": "我的孩子发烧了，所以我赶紧带他去医院。",
+                "KO": "아이가 열을 냈기 때문에 병원에 서둘렀다.",
+                "TL": "Nilagnat ang anak ko kaya isinugod ko siya sa ospital.",
+                "MY": "ကလေးက အဖျားရှိလို့ ဆေးရုံကို အမြန်ပို့လိုက်တယ်။",
+                "HI": "मेरे बच्चे को बुखार था, इसलिए मैं उसे अस्पताल ले गया।",
+                "AR": "كان طفلي يعاني من الحمى، لذا أسرعت به إلى المستشفى.",
+                "FA": "فرزندم تب داشت، بنابراین او را سریع به بیمارستان رساندم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "buru-buru",
+            "ES": "apurarse",
+            "VI": "sự vội vàng",
+            "FR": "dépêchez-vous",
+            "NE": "हतार गर्नु",
+            "BN": "তাড়াতাড়ি করা",
+            "ZH": "匆忙",
+            "KO": "서두르다",
+            "TL": "magmadali",
+            "MY": "မြန်မြန်",
+            "HI": "जल्दी",
+            "AR": "عجل",
+            "FA": "عجله",
+            "EN": [
+                "hurry",
+                "rush",
+                "hasten"
+            ]
+        },
+        {
+            "ID": "mempercepat",
+            "ES": "acelerar",
+            "VI": "đẩy nhanh",
+            "FR": "accélérer",
+            "NE": "छिटो गर्नु",
+            "BN": "দ্রুত করা",
+            "ZH": "加快",
+            "KO": "신속하게 처리하다",
+            "TL": "pabilisin",
+            "MY": "အမြန်",
+            "HI": "शीघ्र",
+            "AR": "تسريع",
+            "FA": "تسریع کردن",
+            "EN": [
+                "expedite",
+                "accelerate",
+                "speed"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "急ぐ",
+        "is_common": true,
+        "tags": [
+            "wanikani16"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "急ぐ",
+                "reading": "いそぐ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to hurry",
+                    "to rush",
+                    "to hasten",
+                    "to make something happen sooner"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'gu' ending",
+                    "Intransitive verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "急"
+    ],
+    "kanji_data": {
+        "急": {
+            "freq_mainichi_shinbun": 309,
+            "grade": 3,
+            "heisig_en": "hurry",
+            "jlpt": 4,
+            "kanji": "急",
+            "kun_readings": [
+                "いそ.ぎ",
+                "いそ.ぐ",
+                "せ.く"
+            ],
+            "meanings": [
+                "emergency",
+                "hurry",
+                "steep",
+                "sudden"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "キュウ"
+            ],
+            "stroke_count": 9,
+            "unicode": "6025"
+        }
+    }
+}
