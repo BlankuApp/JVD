@@ -197,10 +197,15 @@ class JPWordCard(Card):
         self.question: JPWordCard.ReverseTranslationQuestion | None = None
 
     def fetch_random_collocation(self) -> str:
-        if self.json_data["version"] == "0.1.1":
-            return choice(self.json_data["explanations"]["collocations"])
-        elif self.json_data["version"] == "0.2.0":
+        # Fallback for unknown versions - try v0.3.0 format first
+        if "collocations" in self.json_data:
             return choice(self.json_data["collocations"])
+        elif "explanations" in self.json_data and "collocations" in self.json_data["explanations"]:
+            return choice(self.json_data["explanations"]["collocations"])
+        else:
+            raise ValueError(
+                f"No collocations found for word '{self.word}' with version {self.json_data.get('version', 'unknown')}"
+            )
 
     def generate_reverse_translation_question(
         self, jlpt_level: str | int = "N4", target_languages: list[str] = ["English"]
@@ -209,25 +214,54 @@ class JPWordCard(Card):
         structured_llm = llm_4o_mini_openai.with_structured_output(JPWordCard.ReverseTranslationQuestion)
         self.question = structured_llm.invoke(
             [
-                SystemMessage(
-                    content=f"You are a helpful assistant that generates language learning flashcard questions. The answer is the Japanese sentence containing the target word. The question is the translation of the sentence in {' and '.join(target_languages[:2])}. Hints are translations and reading of other words in the sentence except the target word. Always double-check translation quality by back-translating the Japanese answer into the target language(s) and ensuring the meaning matches the question. If a discrepancy is found, revise the translation until it is accurate and natural."
-                ),
                 HumanMessage(
-                    content=f"""# Tasks
-1. Generate a random, natural (daily life) and short, {jlpt_level} level sentence with '{self.word}' as the answer. This sentence is better to be part of a natural daily conversation to help the student memorize the word. You can use the collocation '{random_collocation}' as an sample context, but don't dirrectly use the collocation in the sentence. Except the target word '{self.word}', please make sure to use random words that are within the {jlpt_level} level.
-2. Provide an accurate and literal translation of the answer in {" and ".join(target_languages[:2])} as the question. Always perform a back-translation check: translate the generated Japanese answer back into the target language(s) and compare it to the question. If the meaning or nuance differs, correct the translation until it matches the Japanese sentence. If there is ambiguity in translating a phrase add some notes in parentheses.
-3. Hints are translations and reading of other words in the sentence except the target word. Make sure the '{self.word}' is not included in the hints. 
-4. Hints are separated by commas. nothing else.
-5. Make sure in the answer, the kanjis are followed by their hiragana reading in parentheses. for example, 参加(さんか)する and 賢(かしこ)い not 賢い(かしこい)
-# Example:
-Example for word '参加する' with target language 'English and Persian' and level 'N4':
-Question: I will attend the meeting tomorrow / من فردا در جلسه شرکت میکنم.
-Answer: 明日(あした)会議(かいぎ)に参加(さんか)する。
-Hints: tomorrow: 明日(あした), meeting: 会議(かいぎ)
-# Constraints:
-- Remove '{self.word}' from the hints.
-- The question must be a natural and accurate translation of the answer.
-- In the answer, the kanjis must be followed by their hiragana reading in parentheses.
+                    content=f"""
+You are a helpful assistant that creates Japanese language flashcard questions.
+
+**Question:** Translation of the Japanese sentence in {" and ".join(target_languages[:2])}.
+**Answer:** Japanese sentence containing the target word.
+**Hints:** Translations and readings of other words (excluding the target word), separated by commas.
+
+---
+
+### Steps
+
+1. **Create a Sentence as Answer**
+
+   * Generate a short, natural daily-life sentence at {jlpt_level} level using '{self.word}'.
+   * You may refer to '{random_collocation}' for context, but do **not** copy it directly.
+   * Use only {jlpt_level}-appropriate vocabulary besides '{self.word}'.
+   * Consider this as the 'Answer' field in the output.
+
+2. **Translate and Verify as Question**
+
+   * Provide an accurate, literal translation of the generated 'Answer' in {" and ".join(target_languages[:2])}.
+   * Consider the translation as the 'Question' field in the output.
+
+3. **Hints**
+
+   * Except '{self.word}', include translations and readings of the other words in the generated 'Answer'.
+   * Separate hints with commas only.
+   * Format kanji with readings: e.g., 参加(さんか)する, 賢(かしこ)い.
+   * Double check to remove '{self.word}' from hints.
+
+---
+
+### Example
+
+**Word:** 参加する  |  **Level:** N4  |  **Languages:** English and Persian
+**Question:** I will attend the meeting tomorrow / من فردا در جلسه شرکت می‌کنم.
+**Answer:** 明日(あした)会議(かいぎ)に参加(さんか)する。
+**Hints:** tomorrow: 明日(あした), meeting: 会議(かいぎ)
+
+---
+
+### Constraints
+
+* Exclude '{self.word}' from hints.
+* The question must accurately reflect the Japanese answer.
+* Ensure all kanji have hiragana readings immediately after them.
+
 """
                 ),
             ]
@@ -237,36 +271,30 @@ Hints: tomorrow: 明日(あした), meeting: 会議(かいぎ)
     def review_reverse_translation_question(self, user_answer: str, target_languages: list[str]) -> str:
         response = llm_4o_mini_openai.invoke(
             [
-                SystemMessage(
-                    content=f"""You are a helpful Japanese teacher that is reviewing your student's answer and providing very short and constructive feedback. The goal of this question was to make sure student could remember and use '{self.word}'. Answer in {" and ".join(target_languages[:2])}."""
-                ),
-                SystemMessage(
-                    content=f"""Scoring rules (apply exactly):
-1) Start from 0 points.
-2) If the target word '{self.word}' appears in the student's answer in any acceptable form (kanji, kana/reading, or any conjugated form), GRANT +5 points.
-3) If the student's answer does NOT convey the same meaning as the correct answer, DEDUCT 1 point and include an explanation.
-4) For each grammatical mistake in the student's answer, DEDUCT 1 point and provide an explanation.
-5) After applying grants and deductions, CLAMP the final score to the range 0 to 5.
-6) Keep the review text very short and focused; the breakdown table and the Overall Score line are required.
-Double-check these rules before producing the final output.
-"""
-                ),
                 HumanMessage(
-                    content=f"""The **correct answer** is '{getattr(self.question, "answer", "")}' (ignore the hiragana readings in parentheses) and the **students's answer** is '{user_answer}'.
-Consider the fact that the user tried to translate the following sentence to Japanese: '{getattr(self.question, "question", "")}'. So try to have fairness in your review.
---- Scoring rules (apply exactly):
-* check if the target word '{self.word}' or its hiragana reading or its conjugated form is used in the **student's answer** ('{user_answer}'). If it is used in any acceptable form, grant +5 points (see rules above).
-* The goal is to make sure the **student's answer** conveys the general meaning of the **correct answer**. If the meaning is not conveyed, deduct 1 point and explain why.
-* Correct any grammar mistakes in the **student's answer** ('{user_answer}') with a correction and explanation (1 point deduction per mistake). Leave this blank if there are no mistakes.
-* Ignore minor verb-form/politeness differences (e.g., する vs します, です vs だ) or small structural variations as long as meaning is preserved.
-* After counting grants and deductions, clamp the final score to the 0-5 range and present it as the Overall Score.
-* Keep the review text short (max ~250 words for the review lines). The breakdown table may be slightly longer but keep it concise.
-Output format:
-[Your review here with proper emojis (no headings at all, each sentence in a new line starting with an emoji)]
-Make a simple markdown table showing each + or - with the reason (one line per row).
-### Overall Score: [score]/5 [with proper emojis]
+                    content=f"""
+You are a helpful Japanese teacher reviewing a student's answer. Give very short, constructive feedback. The main goal is checking use of '{self.word}'. Reply in {" and ".join(target_languages[:2])}.
+If the student didn't answer, explain the correct answer briefly.
 
-Double-check the scoring rules before returning the final message.
+References:
+- Correct answer: '{getattr(self.question, "answer", "")}' (ignore readings in parentheses)
+- Student answer: '{user_answer}'
+- Source sentence (translate fairly): '{getattr(self.question, "question", "")}'
+
+Scoring (apply exactly):
+1) score = 0
+2) If '{self.word}' appears in any valid form (kanji/kana/reading/conjugation): +10
+3) If meaning does not match the correct answer: -1 and briefly explain why
+4) For each grammar mistake: -1; give a correction + brief reason
+   * Ignore minor politeness/verb-form differences (e.g., する/します, です/だ) if meaning is preserved
+5) Clamp score to 0-10
+
+Output:
+- Review: ultra-brief, one sentence per line, each line begins with an emoji, no headings (≤ ~250 words)
+- Then a simple Markdown table listing each +/- with its reason (one row per item)
+- End with: `### Overall Score: [score]/10` + an emoji
+
+Before outputting, verify you followed the scoring rules.
 """
                 ),
             ]

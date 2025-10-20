@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m py_compile src/web/review.py src/web/review_ui.py)",
+      "Bash(python -m py_compile \"C:\\Users\\eskan\\OneDrive\\Documents\\Github\\JVD\\src\\web\\review.py\")",
+      "Bash(python -m py_compile \"C:\\Users\\eskan\\OneDrive\\Documents\\Github\\JVD\\src\\web\\review_processing.py\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
