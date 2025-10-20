@@ -122,8 +122,8 @@ def render_user_answer(user_answer: str) -> None:
 
 
 def render_hints_popover(hints: str) -> None:
-    """Render hints in a popover."""
-    with st.popover("💡 Hint", use_container_width=True):
+    """Render hints in an accordion (expander)."""
+    with st.expander("💡 Hint", expanded=False):
         st.markdown("**Helpful hints:**")
         hints_list = hints.split(",")
         for hint in hints_list:

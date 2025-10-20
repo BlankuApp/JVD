@@ -226,21 +226,21 @@ You are a helpful assistant that creates Japanese language flashcard questions.
 
 ### Steps
 
-1. **Create a Sentence**
+1. **Create a Sentence as Answer**
 
    * Generate a short, natural daily-life sentence at {jlpt_level} level using '{self.word}'.
    * You may refer to '{random_collocation}' for context, but do **not** copy it directly.
    * Use only {jlpt_level}-appropriate vocabulary besides '{self.word}'.
+   * Consider this as the 'Answer' field in the output.
 
-2. **Translate and Verify**
+2. **Translate and Verify as Question**
 
-   * Provide an accurate, literal translation in {" and ".join(target_languages[:2])}.
-   * Back-translate the Japanese sentence; if meaning or nuance differs, revise until accurate and natural.
-   * Add clarification notes in parentheses for ambiguous phrases.
+   * Provide an accurate, literal translation of the generated 'Answer' in {" and ".join(target_languages[:2])}.
+   * Consider the translation as the 'Question' field in the output.
 
 3. **Hints**
 
-   * Except '{self.word}', include translations and readings of all words.
+   * Except '{self.word}', include translations and readings of the other words in the generated 'Answer'.
    * Separate hints with commas only.
    * Format kanji with readings: e.g., 参加(さんか)する, 賢(かしこ)い.
    * Double check to remove '{self.word}' from hints.
@@ -274,6 +274,7 @@ You are a helpful assistant that creates Japanese language flashcard questions.
                 HumanMessage(
                     content=f"""
 You are a helpful Japanese teacher reviewing a student's answer. Give very short, constructive feedback. The main goal is checking use of '{self.word}'. Reply in {" and ".join(target_languages[:2])}.
+If the student didn't answer, explain the correct answer briefly.
 
 References:
 - Correct answer: '{getattr(self.question, "answer", "")}' (ignore readings in parentheses)

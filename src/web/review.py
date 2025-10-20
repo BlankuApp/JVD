@@ -83,11 +83,12 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
 
     # Audio input outside form (Streamlit only allows callbacks on form_submit_button inside forms)
     audio_input = st.audio_input(
-        "🎤 Or record your answer:",
+        "🎤 record your answer:",
         sample_rate=AUDIO_SAMPLE_RATE,
         key="audio_widget",
         on_change=on_audio_change,
         help="Record your answer in Japanese",
+        label_visibility="collapsed",
     )
 
     # Answer submission form
@@ -107,9 +108,7 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
             render_hints_popover(question.hints)
 
         with col2:
-            submitted = st.form_submit_button(
-                "✅ Check Answer", type="primary", use_container_width=True
-            )
+            submitted = st.form_submit_button("✅ Check Answer", type="primary", use_container_width=True)
 
     # Handle form submission
     if submitted:
@@ -153,9 +152,7 @@ if state_manager.get_current_state() == state_manager.STATES["answer"]:
             st.stop()
 
     # Display answer review
-    ruby = create_html_with_ruby(
-        question.answer, font_size="1.5rem", rt_font_size="1.1rem"
-    )
+    ruby = create_html_with_ruby(question.answer, font_size="1.5rem", rt_font_size="1.1rem")
     render_correct_answer(ruby)
 
     user_answer = state_manager.get_answer()
@@ -188,9 +185,7 @@ if state_manager.get_current_state() == state_manager.STATES["submitting"]:
                 raise RuntimeError("Failed to load card data for submission")
 
             # Get rating and card
-            rating = RATING_DICT.get(
-                st.session_state.get("review_difficulty", "😊 Good")
-            )
+            rating = RATING_DICT.get(st.session_state.get("review_difficulty", "😊 Good"))
             if rating is None:
                 raise RuntimeError("Invalid rating selected")
 
@@ -199,9 +194,7 @@ if state_manager.get_current_state() == state_manager.STATES["submitting"]:
 
             # Update FSRS parameters using scheduler
             scheduler = Scheduler(enable_fuzzing=True, desired_retention=0.95)
-            reviewed_card, review_log = scheduler.review_card(
-                jpword_card, rating, review_datetime
-            )
+            reviewed_card, review_log = scheduler.review_card(jpword_card, rating, review_datetime)
 
             # Persist to database
             success, msg = update_user_word_card(
