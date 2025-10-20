@@ -69,6 +69,27 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
     # Display question
     render_question_display(question.question)
 
+    # Callback to transcribe audio and update answer field
+    def on_audio_change():
+        """Transcribe audio input and automatically populate the answer field."""
+        audio_data = st.session_state.get("audio_widget")
+        if audio_data is not None:
+            try:
+                transcribed_text = AudioProcessor.transcribe_audio(audio_data)
+                st.session_state["your_answer"] = transcribed_text
+                st.toast("✅ Audio transcribed successfully!", icon="🎤")
+            except RuntimeError as e:
+                st.error(f"❌ Transcription failed: {str(e)}")
+
+    # Audio input outside form (Streamlit only allows callbacks on form_submit_button inside forms)
+    audio_input = st.audio_input(
+        "🎤 Or record your answer:",
+        sample_rate=AUDIO_SAMPLE_RATE,
+        key="audio_widget",
+        on_change=on_audio_change,
+        help="Record your answer in Japanese",
+    )
+
     # Answer submission form
     with st.form("review_form", border=False):
         text_input = st.text_input(
@@ -78,12 +99,6 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
             placeholder="日本語で答えてください...",
             autocomplete="off",
             help="Type your Japanese translation here",
-        )
-
-        audio_input = st.audio_input(
-            "🎤 Or record your answer:",
-            sample_rate=AUDIO_SAMPLE_RATE,
-            help="Record your answer in Japanese",
         )
 
         # Button layout
@@ -98,13 +113,10 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
 
     # Handle form submission
     if submitted:
-        is_valid, error_msg = AnswerValidator.validate_answer_input(text_input, audio_input)
+        is_valid, error_msg = AnswerValidator.validate_answer_input(text_input)
         if not is_valid:
             AnswerValidator.display_validation_error(error_msg)
             st.stop()
-
-        # Store the audio input in session state (text_input is auto-stored via widget key)
-        st.session_state["your_voice_answer"] = audio_input
 
         state_manager.transition_to_answer()
 
@@ -123,18 +135,6 @@ if state_manager.get_current_state() == state_manager.STATES["answer"]:
 
     # Process answer if not already done
     if not state_manager.has_ai_review():
-        # Handle voice transcription if provided
-        voice_answer = st.session_state.get("your_voice_answer")
-        text_answer = state_manager.get_answer()
-
-        if voice_answer is not None:
-            try:
-                transcribed_text = AudioProcessor.transcribe_audio(voice_answer)
-                state_manager.set_answer(transcribed_text)
-            except RuntimeError as e:
-                st.error(f"❌ {str(e)}")
-                st.stop()
-
         # Generate AI review
         try:
             final_answer = state_manager.get_answer()

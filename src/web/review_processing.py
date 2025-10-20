@@ -20,24 +20,20 @@ class AnswerValidator:
     """Validates user answers (text or audio)."""
 
     @staticmethod
-    def validate_answer_input(
-        text_input: str, voice_input: Optional[BytesIO]
-    ) -> Tuple[bool, Optional[str]]:
+    def validate_answer_input(text_input: str) -> Tuple[bool, Optional[str]]:
         """
-        Validate that the user provided an answer in at least one format.
+        Validate that the user provided an answer.
 
         Args:
-            text_input: Text answer from user
-            voice_input: Audio input from user (optional)
+            text_input: Text answer from user (may include transcribed audio)
 
         Returns:
             Tuple of (is_valid, error_message). error_message is None if valid.
         """
         text_provided = text_input and text_input.strip() != ""
-        voice_provided = voice_input is not None
 
-        if not text_provided and not voice_provided:
-            return False, "Please provide an answer either by typing or recording your voice."
+        if not text_provided:
+            return False, "Please provide an answer."
 
         return True, None
 
@@ -127,39 +123,6 @@ class AudioProcessor:
             raise
         except Exception as e:
             raise RuntimeError(f"Audio transcription failed: {str(e)}") from e
-
-    @staticmethod
-    def process_answer(
-        text_input: str, voice_input: Optional[BytesIO]
-    ) -> Tuple[bool, str]:
-        """
-        Process user answer by transcribing voice if provided, or using text input.
-
-        Args:
-            text_input: User's text input
-            voice_input: User's voice input (optional)
-
-        Returns:
-            Tuple of (success, final_answer_text)
-        """
-        # Validate answer input
-        is_valid, error_msg = AnswerValidator.validate_answer_input(text_input, voice_input)
-        if not is_valid:
-            AnswerValidator.display_validation_error(error_msg)
-            return False, ""
-
-        # If voice input provided, transcribe it
-        if voice_input is not None:
-            try:
-                transcribed = AudioProcessor.transcribe_audio(voice_input)
-                return True, transcribed
-            except RuntimeError as e:
-                st.error(f"❌ Transcription error: {str(e)}")
-                return False, ""
-
-        # Otherwise use text input
-        return True, text_input.strip()
-
 
 class AIReviewGenerator:
     """Handles AI review generation for answers."""

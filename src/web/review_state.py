@@ -14,6 +14,7 @@ from src.db.db_word import get_due_card
 
 class CardData(TypedDict):
     """Type definition for card database record."""
+
     id: int
     key: str
     state: str
@@ -26,6 +27,7 @@ class CardData(TypedDict):
 
 class CurrentCardState(TypedDict):
     """Type definition for current card session state."""
+
     id: int
     key: str
     state: str
@@ -75,6 +77,8 @@ class ReviewStateManager:
         """
         Parse ISO format datetime string to datetime object.
 
+        Handles variable-length fractional seconds (e.g., 5 or 6 digits).
+
         Args:
             datetime_str: ISO format datetime string
 
@@ -87,9 +91,34 @@ class ReviewStateManager:
         if not datetime_str:
             return None
         try:
+            # Try standard fromisoformat first
             return datetime.fromisoformat(datetime_str).replace(tzinfo=timezone.utc)
-        except ValueError as e:
-            raise ValueError(f"Invalid datetime format: {datetime_str}") from e
+        except ValueError:
+            # Handle variable-length fractional seconds by normalizing to 6 digits
+            try:
+                if "." in datetime_str:
+                    # Split into base and fractional parts
+                    base, frac_and_tz = datetime_str.split(".", 1)
+
+                    # Handle timezone info if present
+                    tz_part = ""
+                    if "+" in frac_and_tz:
+                        frac, tz_part = frac_and_tz.split("+", 1)
+                        tz_part = "+" + tz_part
+                    elif frac_and_tz.endswith("Z"):
+                        frac = frac_and_tz[:-1]
+                        tz_part = "Z"
+                    else:
+                        frac = frac_and_tz
+
+                    # Pad or truncate fractional seconds to 6 digits
+                    frac = (frac + "000000")[:6]
+                    normalized = f"{base}.{frac}{tz_part}"
+                    return datetime.fromisoformat(normalized).replace(tzinfo=timezone.utc)
+                else:
+                    raise ValueError(f"No fractional seconds found in: {datetime_str}")
+            except Exception as e:
+                raise ValueError(f"Invalid datetime format: {datetime_str}") from e
 
     @staticmethod
     def _hydrate_card(card_data: CardData) -> JPWordCard:
@@ -117,7 +146,7 @@ class ReviewStateManager:
                 last_review=ReviewStateManager._parse_datetime(card_data["last_review"]),
             )
         except (ValueError, KeyError, FileNotFoundError) as e:
-            raise ValueError(f"Failed to hydrate card for word '{card_data['key']}'") from e
+            raise ValueError(f"Failed to hydrate card for word '{card_data['key']}' {e}") from e
 
     def initialize_review(self, auth: dict) -> bool:
         """

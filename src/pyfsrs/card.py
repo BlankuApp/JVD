@@ -197,10 +197,15 @@ class JPWordCard(Card):
         self.question: JPWordCard.ReverseTranslationQuestion | None = None
 
     def fetch_random_collocation(self) -> str:
-        if self.json_data["version"] == "0.1.1":
-            return choice(self.json_data["explanations"]["collocations"])
-        elif self.json_data["version"] == "0.2.0":
+        # Fallback for unknown versions - try v0.3.0 format first
+        if "collocations" in self.json_data:
             return choice(self.json_data["collocations"])
+        elif "explanations" in self.json_data and "collocations" in self.json_data["explanations"]:
+            return choice(self.json_data["explanations"]["collocations"])
+        else:
+            raise ValueError(
+                f"No collocations found for word '{self.word}' with version {self.json_data.get('version', 'unknown')}"
+            )
 
     def generate_reverse_translation_question(
         self, jlpt_level: str | int = "N4", target_languages: list[str] = ["English"]
