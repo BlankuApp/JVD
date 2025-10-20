@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m py_compile src/web/review.py src/web/review_ui.py src/web/review_state.py src/web/review_processing.py)",
+      "Bash(python -m py_compile src/web/review.py)",
+      "Bash(python -m py_compile src/web/review_ui.py)",
+      "Bash(python -m py_compile src/web/review_state.py)",
+      "Bash(python -m py_compile src/web/review_processing.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
