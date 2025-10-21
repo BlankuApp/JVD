@@ -10,6 +10,8 @@ from src.utils import authenticate
 controller = CookieController()
 supabase = get_supabase_client()
 
+st.set_page_config(layout="wide")
+
 auth = st.session_state.get("auth", None)
 review_count = st.session_state.get("due_review_count", 0)
 if auth:

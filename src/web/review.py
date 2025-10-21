@@ -42,6 +42,7 @@ RATING_DICT = {
 # Initialize state manager and auth
 state_manager = ReviewStateManager()
 auth: Optional[dict] = st.session_state.get("auth", None)
+st.set_page_config(page_title="Japanese Vocabulary Review", page_icon="📝", layout="wide")
 
 if not auth:
     st.warning("You need to be logged in to access the review page.")
