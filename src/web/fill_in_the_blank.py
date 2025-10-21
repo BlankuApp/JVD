@@ -6,7 +6,7 @@ import streamlit as st
 
 from src import LANGUAGES_ABBR, get_openai_client
 from src.utils import create_html_with_ruby
-from src.word.JPWord import translate_text
+from src.word.word_utils import translate_text
 
 
 @st.cache_data(ttl=3600)
