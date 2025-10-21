@@ -1,20 +1,11 @@
-import os
-
 import streamlit as st
-from dotenv import load_dotenv
 from streamlit_cookies_controller import CookieController
-from supabase import Client, create_client
 
 from src import LANGUAGES_ABBR
+from src.db.client import get_supabase_client
 
 auth = st.session_state.get("auth", None)
-
-
-load_dotenv()
-
-url: str = os.getenv("supabaseUrl")  # type: ignore
-key: str = os.getenv("supabaseKey")  # type: ignore
-supabase: Client = create_client(url, key)
+supabase = get_supabase_client()
 
 
 @st.dialog(title="Login")
