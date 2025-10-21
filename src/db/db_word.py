@@ -3,16 +3,11 @@ import sys
 import json
 from datetime import datetime, timezone
 
-from dotenv import load_dotenv
-from supabase import Client, create_client
+from src.db.client import get_supabase_client
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 
-load_dotenv()
-
-url: str = os.getenv("supabaseUrl")  # type: ignore
-key: str = os.getenv("supabaseKey")  # type: ignore
-supabase: Client = create_client(url, key)
+supabase = get_supabase_client()
 
 
 def add_word(word: str, jlpt: int) -> bool:

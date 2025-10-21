@@ -8,7 +8,7 @@ from pydub import AudioSegment
 
 from src import LANGUAGES_ABBR, get_openai_client, get_translator_client
 from src.logger_module import get_logger
-from src.word.JPWord import extract_kanji, query_jisho, query_kanji
+from src.word.word_utils import extract_kanji, query_jisho, query_kanji, translate_text, translate_to_all_languages
 
 logger = get_logger("JVD")
 
@@ -706,42 +706,6 @@ For each collocation and example, give:
 - Furigana sentence, placing the reading in parentheses **immediately after each kanji** (if no kanji, write the sentence once).
 Keep everything beginner-friendly.
 """
-
-
-def translate_text(text: str, target_language: str, source_language: str | None = "ja") -> str:
-    """Translate text from source language to target language using Google Translate"""
-    logger.debug(f"🟢 Translating text: {text} from {source_language} to {target_language}")
-    client = get_translator_client()
-
-    if source_language is None:
-        result = client.detect_language(text)
-        source_language = result["language"]
-
-    try:
-        # normalize language codes to lowercase for the translator API
-        tgt = target_language.lower() if isinstance(target_language, str) else target_language
-        src = source_language.lower() if isinstance(source_language, str) else source_language
-        result = client.translate(text, target_language=tgt, source_language=src, format_="text")
-        logger.debug(f"🟢 Translation result: {result}")
-        return result["translatedText"]
-    except Exception as e:
-        logger.error(f"🟢 Translation failed: {e}")
-        return f"Error: {str(e)}"
-
-
-def translate_to_all_languages(text: str, source_language: str | None = "ja") -> dict:
-    """Translate text to all supported languages"""
-    logger.debug(f"🟩 Translating text to all languages: {text}")
-    translations = {}
-    for lang_code in LANGUAGES_ABBR.values():
-        # skip translating to the same language as source (guard if source_language is None)
-        if source_language and lang_code.lower() == source_language.lower():
-            continue
-        translated_text = translate_text(text, lang_code, source_language)
-        translations[lang_code] = translated_text
-    order_list = ["EN", "ID", "ES", "VI", "FR", "NE", "BN", "ZH", "KO", "TL", "MY", "HI", "AR", "FA"]
-    sorted_x = {key: translations[key] for key in order_list if key in translations}
-    return sorted_x
 
 
 def get_schema():

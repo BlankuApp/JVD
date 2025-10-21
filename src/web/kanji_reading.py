@@ -3,7 +3,6 @@ import os
 from random import sample, shuffle
 
 import streamlit as st
-from dotenv import load_dotenv
 
 from src import get_openai_client
 
@@ -25,8 +24,6 @@ auth = st.session_state.get("auth", None)
 
 if not auth:
     st.switch_page("src/web/user.py")
-
-load_dotenv()
 
 client = get_openai_client()
 

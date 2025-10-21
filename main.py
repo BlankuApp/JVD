@@ -1,20 +1,14 @@
-import os
 import time
 
 import streamlit as st
-from dotenv import load_dotenv
 from streamlit_cookies_controller import CookieController
-from supabase import Client, create_client
 
+from src.db.client import get_supabase_client
 from src.db.db_word import get_due_cards_count
 from src.utils import authenticate
 
-load_dotenv()
-
 controller = CookieController()
-url: str = os.getenv("supabaseUrl")  # type: ignore
-key: str = os.getenv("supabaseKey")  # type: ignore
-supabase: Client = create_client(url, key)
+supabase = get_supabase_client()
 
 auth = st.session_state.get("auth", None)
 review_count = st.session_state.get("due_review_count", 0)

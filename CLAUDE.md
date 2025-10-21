@@ -19,8 +19,8 @@ python -m streamlit run main.py
 # Upload vocabulary JSON files from resources/words/ to Supabase database
 python src/db/db_word.py
 
-# Generate new vocabulary words with AI explanations
-python -m src.word.JPWord
+# Generate new vocabulary words with AI explanations (using BatchWord)
+python -m src.word.BatchWord
 
 # Upload YouTube videos for vocabulary
 python -m src.upload_video
@@ -43,8 +43,8 @@ JVD/
 │   │   ├── kanji_reading.py
 │   │   └── user.py             # Login/profile page
 │   ├── word/                   # Vocabulary models and generation
-│   │   ├── JPWord.py           # Japanese word class with AI generation
-│   │   ├── BatchWord.py
+│   │   ├── BatchWord.py        # Batch word generation with AI
+│   │   ├── word_utils.py       # Utility functions (translate, API queries)
 │   │   └── migrate.py
 │   ├── db/
 │   │   └── db_word.py          # Supabase database operations
@@ -120,7 +120,7 @@ All pages requiring authentication should check for `auth` in session state befo
 
 ### Vocabulary Word Display
 
-Both JPWord classes implement `show_in_streamlit(st, auth)` method:
+Word data implements `show_in_streamlit(st, auth)` method:
 - Filters content by user's preferred languages from auth object
 - Displays JLPT level with `:orange-badge[N{level}]` styling
 - Embeds YouTube videos for visual learning
@@ -162,6 +162,13 @@ supabaseKey            # Database API key
 - Language order: EN, ID, ES, VI, FR, NE, BN, ZH, KO, TL, MY, HI, AR, FA
 
 ## Important Implementation Details
+
+**Word Utility Functions** (in `src/word/word_utils.py`):
+- `translate_text()`: Translate text using Google Cloud Translate
+- `translate_to_all_languages()`: Translate to all supported languages
+- `query_jisho()`: Query Jisho API for word definitions
+- `query_kanji()`: Query Kanji API for kanji information
+- `extract_kanji()`: Extract kanji characters from Japanese text
 
 **External APIs:**
 - Jisho API: `https://jisho.org/api/v1/search/words?keyword={word}` for word definitions

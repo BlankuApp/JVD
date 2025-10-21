@@ -1,20 +1,15 @@
-import os
 import re
 
 import streamlit as st
-from dotenv import load_dotenv
-from supabase import Client, create_client
 
+from src.db.client import get_supabase_client
 from src.db.db_word import get_due_cards_count
 
 
 def authenticate(controller) -> None:
     if controller.get("jvd_token") is not None:
         try:
-            load_dotenv()
-            url: str = os.getenv("supabaseUrl")  # type: ignore
-            key: str = os.getenv("supabaseKey")  # type: ignore
-            supabase: Client = create_client(url, key)
+            supabase = get_supabase_client()
 
             response = supabase.auth.get_user(controller.get("jvd_token"))
             if response.user is not None:

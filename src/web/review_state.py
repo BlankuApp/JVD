@@ -8,7 +8,11 @@ including session state initialization, card hydration, and state cleanup.
 from datetime import datetime, timezone
 from typing import TypedDict, Optional
 import streamlit as st
-from src.pyfsrs.card import JPWordCard, State
+from src.pyfsrs.card import Card, State
+from src.pyfsrs.question_service import (
+    ReverseTranslationQuestion,
+    generate_reverse_translation_question,
+)
 from src.db.db_word import get_due_card
 
 
@@ -36,8 +40,8 @@ class CurrentCardState(TypedDict):
     difficulty: float
     due: Optional[str]
     last_review: Optional[str]
-    jpword: Optional[JPWordCard]
-    qa: Optional[dict]
+    card: Optional[Card]
+    qa: Optional[ReverseTranslationQuestion]
 
 
 class ReviewStateManager:
@@ -121,22 +125,21 @@ class ReviewStateManager:
                 raise ValueError(f"Invalid datetime format: {datetime_str}") from e
 
     @staticmethod
-    def _hydrate_card(card_data: CardData) -> JPWordCard:
+    def _hydrate_card(card_data: CardData) -> Card:
         """
-        Convert database card record to JPWordCard object.
+        Convert database card record to Card object.
 
         Args:
             card_data: Card data from database
 
         Returns:
-            Hydrated JPWordCard object
+            Hydrated Card object
 
         Raises:
-            ValueError: If card data is invalid or word JSON cannot be loaded
+            ValueError: If card data is invalid
         """
         try:
-            return JPWordCard(
-                word=card_data["key"],
+            return Card(
                 card_id=card_data["id"],
                 state=State(int(card_data["state"])),
                 step=card_data["step"],
@@ -145,7 +148,7 @@ class ReviewStateManager:
                 due=ReviewStateManager._parse_datetime(card_data["due"]),
                 last_review=ReviewStateManager._parse_datetime(card_data["last_review"]),
             )
-        except (ValueError, KeyError, FileNotFoundError) as e:
+        except (ValueError, KeyError) as e:
             raise ValueError(f"Failed to hydrate card for word '{card_data['key']}' {e}") from e
 
     def initialize_review(self, auth: dict) -> bool:
@@ -174,16 +177,20 @@ class ReviewStateManager:
 
         try:
             with st.spinner("Generating the question...", show_time=True):
-                jpword_card = self._hydrate_card(card_data)
+                # Hydrate the card
+                card = self._hydrate_card(card_data)
 
-                question = jpword_card.generate_reverse_translation_question(
+                # Generate question using the service
+                question = generate_reverse_translation_question(
+                    word=card_data["key"],
                     jlpt_level=auth.get("jlpt_level", "N4"),
                     target_languages=auth.get("preferred_languages", ["English"]),
                 )
 
-                st.session_state.current_card.update(
+                # Store card and question in session state (as dict, not TypedDict)
+                st.session_state.current_card.update(  # type: ignore
                     {
-                        "jpword": jpword_card,
+                        "card": card,
                         "qa": question,
                     }
                 )
