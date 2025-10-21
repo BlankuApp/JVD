@@ -107,7 +107,7 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
         # Button layout
         col1, col2 = st.columns([1, 1])
         with col1:
-            render_hints_popover(question.hints)
+            render_hints_popover(question.hints, current_card["key"])
 
         with col2:
             submitted = st.form_submit_button("✅ Check Answer", type="primary", use_container_width=True)

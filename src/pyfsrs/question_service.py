@@ -221,14 +221,7 @@ def review_reverse_translation_question(
         target_languages = ["English"]
 
     try:
-        # Using gpt-4o-mini for cost-effective and fast review
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            temperature=1,
-            messages=[
-                {
-                    "role": "user",
-                    "content": f"""
+        prompt = f"""
 You are a helpful Japanese teacher reviewing a student's answer. Give very short, constructive feedback. The main goal is checking use of '{word}'. Reply in {" and ".join(target_languages[:2])}.
 If the student didn't answer, explain the correct answer briefly.
 
@@ -251,11 +244,25 @@ Output:
 - End with: `### Overall Score: [score]/10` + an emoji
 
 Before outputting, verify you followed the scoring rules.
-""",
-                }
+"""
+        # Using gpt-5-mini for cost-effective question generation
+        response = client.responses.create(
+            model="gpt-5-mini",
+            input=[{"role": "user", "content": [{"type": "input_text", "text": prompt}]}],
+            text={
+                "format": {
+                    "type": "text",
+                },
+                "verbosity": "low",
+            },
+            reasoning={"effort": "minimal", "summary": None},
+            tools=[],
+            store=False,
+            include=[
+                "reasoning.encrypted_content",
             ],
         )
-        return response.choices[0].message.content  # type: ignore
+        return response.output_text  # type: ignore
     except Exception as e:
         raise RuntimeError(f"Failed to generate AI review: {str(e)}") from e
 

@@ -11,6 +11,7 @@ from enum import Enum
 
 class SectionStyle(Enum):
     """Color schemes and styling for different section types."""
+
     QUESTION = {
         "bg_color": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
         "text_color": "white",
@@ -121,13 +122,26 @@ def render_user_answer(user_answer: str) -> None:
     )
 
 
-def render_hints_popover(hints: str) -> None:
+def render_hints_popover(hints: str, word: str) -> None:
     """Render hints in an accordion (expander)."""
     with st.expander("💡 Hint", expanded=False):
         st.markdown("**Helpful hints:**")
         hints_list = hints.split(",")
         for hint in hints_list:
             st.markdown(f"- {hint.strip()}")
+        try:
+            # open the json file
+            with open(f"resources/words/{word}.json", "r", encoding="utf-8") as f:
+                import json
+
+                word_data = json.load(f)
+            st.markdown(f"👀 Word starts with: **{word_data.get('reading')[0]}**")
+        except Exception:
+            pass
+        try:
+            st.image(f"resources/images/{word}.png", width="content")
+        except Exception:
+            pass
 
 
 def render_rating_form() -> tuple[str, bool]:
@@ -156,8 +170,6 @@ def render_rating_form() -> tuple[str, bool]:
             width="stretch",
         )
 
-        submitted = st.form_submit_button(
-            "📚 Submit & Continue", type="primary", use_container_width=True
-        )
+        submitted = st.form_submit_button("📚 Submit & Continue", type="primary", use_container_width=True)
 
     return selected_rating, submitted
