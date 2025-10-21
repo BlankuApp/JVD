@@ -3,7 +3,6 @@ import os
 from random import sample, shuffle
 
 import streamlit as st
-from dotenv import load_dotenv
 
 from src import LANGUAGES_ABBR, get_openai_client
 from src.utils import create_html_with_ruby
@@ -28,9 +27,6 @@ auth = st.session_state.get("auth", None)
 
 if not auth:
     st.switch_page("src/web/user.py")
-
-load_dotenv()
-
 
 client = get_openai_client()
 

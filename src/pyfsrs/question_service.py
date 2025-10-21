@@ -10,14 +10,11 @@ import os
 from random import choice
 from typing import Optional
 
-from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
 
-load_dotenv()
-
-llm_4o_mini_openai = ChatOpenAI(model="gpt-4o", temperature=1, api_key=os.getenv("openai_api_key"))  # type: ignore
+llm_4o_mini_openai = ChatOpenAI(model="gpt-4o", temperature=1, api_key=os.getenv("OPENAI_API_KEY"))  # type: ignore
 
 
 class ReverseTranslationQuestion(BaseModel):

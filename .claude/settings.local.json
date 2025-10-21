@@ -5,7 +5,9 @@
       "Bash(python -m py_compile \"C:\\Users\\eskan\\OneDrive\\Documents\\Github\\JVD\\src\\web\\review.py\")",
       "Bash(python -m py_compile \"C:\\Users\\eskan\\OneDrive\\Documents\\Github\\JVD\\src\\web\\review_processing.py\")",
       "Bash(python -m py_compile \"C:\\Users\\eskan\\OneDrive\\Documents\\Github\\JVD\\main.py\")",
-      "Bash(python -m py_compile \"C:\\Users\\eskan\\OneDrive\\Documents\\Github\\JVD\\src\\db\\db_word.py\")"
+      "Bash(python -m py_compile \"C:\\Users\\eskan\\OneDrive\\Documents\\Github\\JVD\\src\\db\\db_word.py\")",
+      "Bash(python -m py_compile:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
