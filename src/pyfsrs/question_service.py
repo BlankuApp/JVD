@@ -10,11 +10,10 @@ import os
 from random import choice
 from typing import Optional
 
-from langchain_core.messages import HumanMessage
-from langchain_openai import ChatOpenAI
+from openai import OpenAI
 from pydantic import BaseModel, Field
 
-llm_4o_mini_openai = ChatOpenAI(model="gpt-4o", temperature=1, api_key=os.getenv("OPENAI_API_KEY"))  # type: ignore
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
 class ReverseTranslationQuestion(BaseModel):
@@ -102,12 +101,8 @@ def generate_reverse_translation_question(
         target_languages = ["English"]
 
     random_collocation = fetch_random_collocation(word)
-    structured_llm = llm_4o_mini_openai.with_structured_output(ReverseTranslationQuestion)
 
-    result = structured_llm.invoke(
-        [
-            HumanMessage(
-                content=f"""
+    prompt = f"""
 You are a helpful assistant that creates Japanese language flashcard questions.
 
 **Question:** Translation of the Japanese sentence in {" and ".join(target_languages[:2])}.
@@ -155,11 +150,48 @@ You are a helpful assistant that creates Japanese language flashcard questions.
 * Ensure all kanji have hiragana readings immediately after them.
 
 """
-            ),
-        ]
-    )  # type: ignore
 
-    return result  # type: ignore
+    # Using gpt-5-mini for cost-effective question generation
+    response = client.responses.create(
+        model="gpt-5-mini",
+        input=[{"role": "user", "content": [{"type": "input_text", "text": prompt}]}],
+        text={
+            "format": {
+                "type": "json_schema",
+                "name": "math_response",
+                "strict": True,
+                "schema": {
+                    "type": "object",
+                    "properties": {
+                        "question": {
+                            "type": "string",
+                            "description": "The sentence that asks for the translation to Japanese. E.g., 'I will attend the meeting.'",
+                        },
+                        "answer": {
+                            "type": "string",
+                            "description": "The correct translation of the question into Japanese. E.g., '会議に参加する。'",
+                        },
+                        "hints": {
+                            "type": "string",
+                            "description": "Except the main word, provide translations for other words in the sentence as hints. E.g., 'meeting: 会議'",
+                        },
+                    },
+                    "required": ["question", "answer", "hints"],
+                    "additionalProperties": False,
+                },
+            },
+            "verbosity": "low",
+        },
+        reasoning={"effort": "minimal", "summary": None},
+        tools=[],
+        store=False,
+        include=[
+            "reasoning.encrypted_content",
+        ],
+    )
+
+    result_dict = json.loads(response.output_text)  # type: ignore
+    return ReverseTranslationQuestion(**result_dict)
 
 
 def review_reverse_translation_question(
@@ -189,10 +221,14 @@ def review_reverse_translation_question(
         target_languages = ["English"]
 
     try:
-        response = llm_4o_mini_openai.invoke(
-            [
-                HumanMessage(
-                    content=f"""
+        # Using gpt-4o-mini for cost-effective and fast review
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            temperature=1,
+            messages=[
+                {
+                    "role": "user",
+                    "content": f"""
 You are a helpful Japanese teacher reviewing a student's answer. Give very short, constructive feedback. The main goal is checking use of '{word}'. Reply in {" and ".join(target_languages[:2])}.
 If the student didn't answer, explain the correct answer briefly.
 
@@ -215,11 +251,11 @@ Output:
 - End with: `### Overall Score: [score]/10` + an emoji
 
 Before outputting, verify you followed the scoring rules.
-"""
-                ),
-            ]
-        )  # type: ignore
-        return response.content  # type: ignore
+""",
+                }
+            ],
+        )
+        return response.choices[0].message.content  # type: ignore
     except Exception as e:
         raise RuntimeError(f"Failed to generate AI review: {str(e)}") from e
 
