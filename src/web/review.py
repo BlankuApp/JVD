@@ -13,6 +13,7 @@ import streamlit as st
 from src.db.db_word import update_user_word_card
 from src.pyfsrs.review_log import Rating
 from src.pyfsrs.scheduler import Scheduler
+from src.pyfsrs.question_service import load_word_json
 from src.utils import create_html_with_ruby
 from src.web.review_state import ReviewStateManager
 from src.web.review_ui import (
@@ -65,6 +66,7 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
         st.stop()
 
     question = current_card["qa"]
+    assert question is not None  # Type checker hint
 
     # Display question
     render_question_display(question.question)
@@ -114,6 +116,7 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
     if submitted:
         is_valid, error_msg = AnswerValidator.validate_answer_input(text_input)
         if not is_valid:
+            assert error_msg is not None  # Type checker hint
             AnswerValidator.display_validation_error(error_msg)
             st.stop()
 
@@ -122,12 +125,14 @@ if state_manager.get_current_state() == state_manager.STATES["question"]:
 # ANSWER STATE: Display feedback and collect rating
 if state_manager.get_current_state() == state_manager.STATES["answer"]:
     current_card = state_manager.get_current_card()
-    if not current_card or not current_card.get("qa") or not current_card.get("jpword"):
+    if not current_card or not current_card.get("qa") or not current_card.get("card"):
         st.error("❌ Failed to load card data")
         st.stop()
 
     question = current_card["qa"]
-    jpword_card = current_card["jpword"]
+    card = current_card["card"]
+    word = current_card["key"]
+    assert question is not None  # Type checker hint
 
     # Show original question for context
     render_context_question(question.question)
@@ -142,9 +147,11 @@ if state_manager.get_current_state() == state_manager.STATES["answer"]:
                 st.stop()
 
             review = AIReviewGenerator.generate_review(
-                jpword_card,
-                final_answer,
-                auth.get("preferred_languages", ["English"]),
+                word=word,
+                correct_answer=question.answer,
+                source_question=question.question,
+                user_answer=final_answer,
+                target_languages=auth.get("preferred_languages", ["English"]),
             )
             state_manager.set_ai_review(review)
         except RuntimeError as e:
@@ -169,19 +176,24 @@ if state_manager.get_current_state() == state_manager.STATES["answer"]:
         state_manager.transition_to_submitting()
 
     # Display related video if available
-    youtube_link = jpword_card.json_data.get("youtube_link")
-    if youtube_link:
-        st.markdown("### 🎥 Related Video")
-        with st.container(border=False):
-            st.video(youtube_link)
-            st.caption("Watch this video to learn more about this word!")
+    try:
+        word_json = load_word_json(word)
+        youtube_link = word_json.get("youtube_link")
+        if youtube_link:
+            st.markdown("### 🎥 Related Video")
+            with st.container(border=False):
+                st.video(youtube_link)
+                st.caption("Watch this video to learn more about this word!")
+    except Exception:
+        # Ignore if word JSON not found or no video
+        pass
 
 # SUBMITTING STATE: Save review and load next card
 if state_manager.get_current_state() == state_manager.STATES["submitting"]:
     try:
         with st.spinner("Submitting your answer...", show_time=True):
             current_card = state_manager.get_current_card()
-            if not current_card or not current_card.get("jpword"):
+            if not current_card or not current_card.get("card"):
                 raise RuntimeError("Failed to load card data for submission")
 
             # Get rating and card
@@ -189,17 +201,21 @@ if state_manager.get_current_state() == state_manager.STATES["submitting"]:
             if rating is None:
                 raise RuntimeError("Invalid rating selected")
 
-            jpword_card = current_card["jpword"]
+            card = current_card["card"]
+            word = current_card["key"]
             review_datetime = datetime.now(timezone.utc)
+
+            # Ensure card is not None (already checked above but helps type checker)
+            assert card is not None
 
             # Update FSRS parameters using scheduler
             scheduler = Scheduler(enable_fuzzing=True, desired_retention=0.95)
-            reviewed_card, review_log = scheduler.review_card(jpword_card, rating, review_datetime)
+            reviewed_card, review_log = scheduler.review_card(card, rating, review_datetime)
 
             # Persist to database
             success, msg = update_user_word_card(
                 auth,
-                word=jpword_card.word,
+                word=word,
                 state=str(int(reviewed_card.state)),
                 step=reviewed_card.step,
                 stability=reviewed_card.stability,

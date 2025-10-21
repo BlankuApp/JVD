@@ -8,6 +8,7 @@ from io import BytesIO
 from typing import Tuple, Optional
 import streamlit as st
 from src import get_openai_client
+from src.pyfsrs.question_service import review_reverse_translation_question
 
 
 # Configuration constants for validation
@@ -124,12 +125,15 @@ class AudioProcessor:
         except Exception as e:
             raise RuntimeError(f"Audio transcription failed: {str(e)}") from e
 
+
 class AIReviewGenerator:
     """Handles AI review generation for answers."""
 
     @staticmethod
     def generate_review(
-        jpword_card,
+        word: str,
+        correct_answer: str,
+        source_question: str,
         user_answer: str,
         target_languages: list[str],
     ) -> str:
@@ -137,7 +141,9 @@ class AIReviewGenerator:
         Generate AI review for the user's answer.
 
         Args:
-            jpword_card: JPWordCard object with question data
+            word: The Japanese word being tested
+            correct_answer: The correct Japanese answer
+            source_question: The original question in target language(s)
             user_answer: User's answer to review
             target_languages: Target languages for review output
 
@@ -149,7 +155,10 @@ class AIReviewGenerator:
         """
         try:
             with st.spinner("🤖 AI is reviewing your answer... Please wait", show_time=True):
-                review = jpword_card.review_reverse_translation_question(
+                review = review_reverse_translation_question(
+                    word=word,
+                    correct_answer=correct_answer,
+                    source_question=source_question,
                     user_answer=user_answer,
                     target_languages=target_languages,
                 )
