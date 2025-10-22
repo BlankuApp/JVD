@@ -102,21 +102,16 @@ def generate_reverse_translation_question(
 
     random_collocation = fetch_random_collocation(word)
 
-    prompt = f"""
+    prompt = f"""### Role
 You are a helpful assistant that creates Japanese language flashcard questions.
-
-**Question:** Translation of the Japanese sentence in {" and ".join(target_languages[:2])}.
-**Answer:** Japanese sentence containing the target word.
-**Hints:** Translations and readings of other words (excluding the target word), separated by commas.
-
----
+You will generate a reverse translation question for the given Japanese word.
 
 ### Steps
 
 1. **Create a Sentence as Answer**
 
-   * Generate a short, natural daily-life sentence at {jlpt_level} level using '{word}'.
-   * You may refer to '{random_collocation}' for context, but do **not** copy it directly.
+   * Generate a short, natural daily-life sentence at {jlpt_level} level using '{word}'. The sentence should look like a part of a conversation or a common statement.
+   * You may refer to '{random_collocation}' for context, but do **not** copy it directly. Randomly modify details (e.g., time, place, subject) to create a new sentence.
    * Use only {jlpt_level}-appropriate vocabulary besides '{word}'.
    * Consider this as the 'Answer' field in the output.
 
