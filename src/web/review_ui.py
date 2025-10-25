@@ -135,11 +135,12 @@ def render_hints_popover(hints: str, word: str) -> None:
                 import json
 
                 word_data = json.load(f)
-            st.markdown(f"👀 Word starts with: **{word_data.get('reading')[0]}**")
-        except Exception:
-            pass
-        try:
-            st.image(f"resources/images/{word}.png", width="content")
+            with st.expander("👀 More hints", expanded=False):
+                st.markdown(f"Word starts with: **{word_data.get('reading')[0]}**")
+                try:
+                    st.image(f"resources/images/{word}.png", width="content")
+                except Exception:
+                    pass
         except Exception:
             pass
 
