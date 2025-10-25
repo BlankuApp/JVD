@@ -123,7 +123,7 @@ You will generate a reverse translation question for the given Japanese word.
 
 3. **Hints**
 
-   * Except '{word}', include translations and readings of the other words in the generated 'Answer'.
+   * Except '{word}' itself and easy vocabularies, include translations (in {" and ".join(target_languages[:2])}) and readings of the other words in the generated 'Answer'.
    * Separate hints with commas only.
    * Format kanji with readings: e.g., 参加(さんか)する, 賢(かしこ)い.
    * Double check to remove '{word}' from hints.
@@ -161,15 +161,12 @@ You will generate a reverse translation question for the given Japanese word.
                     "properties": {
                         "question": {
                             "type": "string",
-                            "description": "The sentence that asks for the translation to Japanese. E.g., 'I will attend the meeting.'",
                         },
                         "answer": {
                             "type": "string",
-                            "description": "The correct translation of the question into Japanese. E.g., '会議に参加する。'",
                         },
                         "hints": {
                             "type": "string",
-                            "description": "Except the main word, provide translations for other words in the sentence as hints. E.g., 'meeting: 会議'",
                         },
                     },
                     "required": ["question", "answer", "hints"],
