@@ -1,0 +1,467 @@
+{
+    "version": "0.3.0",
+    "word": "油",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/2zmrzrhmTuM",
+    "in_db": true,
+    "kanji": "油",
+    "reading": "あぶら",
+    "introduction_japanese": "油。料理や車・機械のメンテナンスでよく使う言葉だよ。",
+    "introduction_english": "あぶら. You hear this in cooking, and when maintaining cars or machines.",
+    "meanings": [
+        [
+            "oil"
+        ],
+        [
+            "lubricant"
+        ],
+        [
+            "petroleum"
+        ]
+    ],
+    "meaning_explanation_japanese": "料理に使うオイル、機械をなめらかにする潤滑剤、産業で使う石油などを指す言い方だよ。",
+    "meaning_explanation_english": "It is used as a noun. In everyday speech, あぶら means oil for cooking, a lubricant for machines, and in industrial talk it can point to petroleum.",
+    "youtube_description": "Learn the word 油 (abura): meanings, everyday uses in cooking and machines, key collocations, and simple example sentences for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "油",
+            "onyomi": [
+                "ユ"
+            ],
+            "kunyomi": [
+                "あぶら"
+            ],
+            "meanings_english": [
+                "oil",
+                "fat",
+                "grease"
+            ],
+            "common_words": [
+                "石油 : せきゆ : petroleum",
+                "油絵 : あぶらえ : oil painting"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means oil or fat. It uses the water radical to suggest a liquid, and it often appears in everyday life. You can see it in せきゆ and あぶらえ. Remember, ゆ is the on reading and あぶら is the kun reading.",
+    "synonyms": [
+        "脂 : あぶら : fat",
+        "オイル : おいる : oil"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are あぶら and おいる. あぶら (as 脂) leans toward animal fat or greasy content in food, while おいる is a casual loanword close to general oil. Both overlap with the base idea of liquid fat in しょくひん and きかい.",
+    "antonyms": [
+        "水 : みず : water"
+    ],
+    "antonym_explanation": "The most common antonym of the word is みず. While あぶら is hydrophobic and slick, みず is polar and cleansing; they separate and behave very differently in cooking and cleaning.",
+    "collocations": [
+        {
+            "kanji": "サラダ油",
+            "furigana": "サラダ油(あぶら)",
+            "translations": {
+                "EN": "salad oil",
+                "ID": "minyak salad",
+                "ES": "aceite de ensalada",
+                "VI": "dầu salad",
+                "FR": "huile à salade",
+                "NE": "सलाद तेल",
+                "BN": "সালাদ তেল",
+                "ZH": "色拉油",
+                "KO": "샐러드 오일",
+                "TL": "langis ng salad",
+                "MY": "သုပ်ဆီ",
+                "HI": "वनस्पति - तेल",
+                "AR": "زيت السلطة",
+                "FA": "روغن سالاد"
+            }
+        },
+        {
+            "kanji": "油汚れ",
+            "furigana": "油(あぶら)汚(よご)れ",
+            "translations": {
+                "EN": "Oil stains",
+                "ID": "Noda minyak",
+                "ES": "Manchas de aceite",
+                "VI": "Vết dầu",
+                "FR": "Taches d'huile",
+                "NE": "तेलको दाग",
+                "BN": "তেলের দাগ",
+                "ZH": "油渍",
+                "KO": "기름 얼룩",
+                "TL": "Mga mantsa ng langis",
+                "MY": "ဆီစွန်းထင်းခြင်း။",
+                "HI": "तेल के दाग",
+                "AR": "بقع الزيت",
+                "FA": "لکه‌های روغنی"
+            }
+        },
+        {
+            "kanji": "油の量",
+            "furigana": "油(あぶら)の量(りょう)",
+            "translations": {
+                "EN": "Amount of oil",
+                "ID": "Jumlah minyak",
+                "ES": "Cantidad de aceite",
+                "VI": "Lượng dầu",
+                "FR": "Quantité d'huile",
+                "NE": "तेलको मात्रा",
+                "BN": "তেলের পরিমাণ",
+                "ZH": "油量",
+                "KO": "기름 양",
+                "TL": "Dami ng langis",
+                "MY": "ဆီပမာဏ",
+                "HI": "तेल की मात्रा",
+                "AR": "كمية الزيت",
+                "FA": "مقدار روغن"
+            }
+        },
+        {
+            "kanji": "植物油",
+            "furigana": "植物(しょくぶつ)油(ゆ)",
+            "translations": {
+                "EN": "vegetable oil",
+                "ID": "minyak sayur",
+                "ES": "aceite vegetal",
+                "VI": "dầu thực vật",
+                "FR": "huile végétale",
+                "NE": "वनस्पति तेल",
+                "BN": "উদ্ভিজ্জ তেল",
+                "ZH": "植物油",
+                "KO": "식물성 기름",
+                "TL": "langis ng gulay",
+                "MY": "ဟင်းသီးဟင်းရွက်ဆီ",
+                "HI": "वनस्पति तेल",
+                "AR": "زيت نباتي",
+                "FA": "روغن نباتی"
+            }
+        },
+        {
+            "kanji": "油田",
+            "furigana": "油(ゆ)田(でん)",
+            "translations": {
+                "EN": "oil field",
+                "ID": "ladang minyak",
+                "ES": "campo petrolífero",
+                "VI": "mỏ dầu",
+                "FR": "champ pétrolifère",
+                "NE": "तेल क्षेत्र",
+                "BN": "তেলক্ষেত্র",
+                "ZH": "油田",
+                "KO": "유전",
+                "TL": "larangan ng langis",
+                "MY": "ရေနံမြေ",
+                "HI": "तेल क्षेत्र",
+                "AR": "حقل نفطي",
+                "FA": "میدان نفتی"
+            }
+        },
+        {
+            "kanji": "油性マーカー",
+            "furigana": "油性(ゆせい)マーカー",
+            "translations": {
+                "EN": "permanent marker",
+                "ID": "spidol permanen",
+                "ES": "marcador permanente",
+                "VI": "bút dạ vĩnh viễn",
+                "FR": "marqueur permanent",
+                "NE": "स्थायी मार्कर",
+                "BN": "স্থায়ী চিহ্নিতকারী",
+                "ZH": "永久性记号笔",
+                "KO": "유성 마커",
+                "TL": "permanenteng marker",
+                "MY": "အမြဲတမ်းအမှတ်အသား",
+                "HI": "स्थिर मार्कर",
+                "AR": "علامة دائمة",
+                "FA": "نشانگر دائمی"
+            }
+        },
+        {
+            "kanji": "油を引く",
+            "furigana": "油(あぶら)を引(ひ)く",
+            "translations": {
+                "EN": "Drain oil",
+                "ID": "Tiriskan oli",
+                "ES": "Drenar el aceite",
+                "VI": "Xả dầu",
+                "FR": "Vidange d'huile",
+                "NE": "तेल निकाल्नुहोस्",
+                "BN": "তেল ঝরিয়ে নিন",
+                "ZH": "排油",
+                "KO": "기름을 당기다",
+                "TL": "Patuyuin ang langis",
+                "MY": "ဆီစစ်ပါ။",
+                "HI": "तेल निकालें",
+                "AR": "تصريف الزيت",
+                "FA": "روغن را تخلیه کنید"
+            }
+        },
+        {
+            "kanji": "油を差す",
+            "furigana": "油(あぶら)を差(さ)す",
+            "translations": {
+                "EN": "Oil",
+                "ID": "Minyak",
+                "ES": "Aceite",
+                "VI": "Dầu",
+                "FR": "Huile",
+                "NE": "तेल",
+                "BN": "তেল",
+                "ZH": "油",
+                "KO": "기름을 바르다",
+                "TL": "Langis",
+                "MY": "ဆီ",
+                "HI": "तेल",
+                "AR": "زيت",
+                "FA": "نفت"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この油は新しいです。",
+            "furigana": "この油(あぶら)は新(あたら)しいです。",
+            "translations": {
+                "EN": "This oil is new.",
+                "ID": "Minyak ini baru.",
+                "ES": "Este aceite es nuevo.",
+                "VI": "Loại dầu này mới.",
+                "FR": "Cette huile est nouvelle.",
+                "NE": "यो तेल नयाँ हो।",
+                "BN": "এই তেলটি নতুন।",
+                "ZH": "这是新的油。",
+                "KO": "이 기름은 새로운 것입니다.",
+                "TL": "Ang langis na ito ay bago.",
+                "MY": "ဒီဆီကတော့ အသစ်ပါ။",
+                "HI": "यह तेल नया है.",
+                "AR": "هذا الزيت جديد.",
+                "FA": "این روغن نو است."
+            }
+        },
+        {
+            "kanji": "フライパンに油を引きます。",
+            "furigana": "フライパンに油(あぶら)を引(ひ)きます。",
+            "translations": {
+                "EN": "Add oil to a frying pan.",
+                "ID": "Tambahkan minyak ke dalam wajan penggorengan.",
+                "ES": "Añade aceite a una sartén.",
+                "VI": "Đổ dầu vào chảo rán.",
+                "FR": "Ajoutez de l’huile dans une poêle.",
+                "NE": "फ्राइङ प्यानमा तेल हाल्नुहोस्।",
+                "BN": "একটি ফ্রাইং প্যানে তেল দিন।",
+                "ZH": "在煎锅中加入油。",
+                "KO": "프라이팬에 기름을 당깁니다.",
+                "TL": "Magdagdag ng mantika sa isang kawali.",
+                "MY": "ဒယ်အိုးထဲသို့ ဆီထည့်ပါ။",
+                "HI": "एक फ्राइंग पैन में तेल डालें।",
+                "AR": "أضف الزيت إلى مقلاة.",
+                "FA": "روغن را به یک ماهیتابه اضافه کنید."
+            }
+        },
+        {
+            "kanji": "天ぷらは油で揚げます。",
+            "furigana": "天(てん)ぷらは油(あぶら)で揚(あ)げます。",
+            "translations": {
+                "EN": "Tempura is fried in oil.",
+                "ID": "Tempura digoreng dalam minyak.",
+                "ES": "La tempura se fríe en aceite.",
+                "VI": "Tempura được chiên trong dầu.",
+                "FR": "Le tempura est frit dans l'huile.",
+                "NE": "टेम्पुरा तेलमा फ्राइ गरिन्छ।",
+                "BN": "টেম্পুরা তেলে ভাজা হয়।",
+                "ZH": "天妇罗是用油炸的。",
+                "KO": "튀김은 기름으로 튀긴다.",
+                "TL": "Ang Tempura ay pinirito sa mantika.",
+                "MY": "တန်ပူရာကို ဆီဖြင့်ကြော်ပါ။",
+                "HI": "टेम्पुरा को तेल में तला जाता है।",
+                "AR": "يتم قلي التيمبورا في الزيت.",
+                "FA": "تمپورا در روغن سرخ می‌شود."
+            }
+        },
+        {
+            "kanji": "台所で油がはねました。",
+            "furigana": "台所(だいどころ)で油(あぶら)がはねました。",
+            "translations": {
+                "EN": "Oil splashed in the kitchen.",
+                "ID": "Minyak terciprat di dapur.",
+                "ES": "El aceite salpicó en la cocina.",
+                "VI": "Dầu bắn tung tóe trong bếp.",
+                "FR": "De l'huile a éclaboussé la cuisine.",
+                "NE": "भान्सामा तेल छ्यापियो।",
+                "BN": "রান্নাঘরে তেলের ছিটা পড়ল।",
+                "ZH": "厨房里溅满了油。",
+                "KO": "부엌에서 기름이 튀었습니다.",
+                "TL": "Tumalsik ang langis sa kusina.",
+                "MY": "မီးဖိုချောင်ထဲမှာ ဆီတွေ လျှံကျသွားတယ်။",
+                "HI": "रसोई में तेल फैल गया।",
+                "AR": "تناثر الزيت في المطبخ.",
+                "FA": "روغن توی آشپزخانه پخش شد."
+            }
+        },
+        {
+            "kanji": "サラダに油を少し入れます。",
+            "furigana": "サラダに油(あぶら)を少(すこ)し入(い)れます。",
+            "translations": {
+                "EN": "Add a little oil to the salad.",
+                "ID": "Tambahkan sedikit minyak ke salad.",
+                "ES": "Añade un poco de aceite a la ensalada.",
+                "VI": "Thêm một ít dầu vào món salad.",
+                "FR": "Ajoutez un peu d’huile à la salade.",
+                "NE": "सलादमा थोरै तेल थप्नुहोस्।",
+                "BN": "সালাদে সামান্য তেল দিন।",
+                "ZH": "在沙拉里加一点油。",
+                "KO": "샐러드에 기름을 조금 넣으십시오.",
+                "TL": "Magdagdag ng kaunting mantika sa salad.",
+                "MY": "အသုပ်ထဲကို ဆီအနည်းငယ်ထည့်ပါ။",
+                "HI": "सलाद में थोड़ा सा तेल डालें।",
+                "AR": "أضف القليل من الزيت إلى السلطة.",
+                "FA": "کمی روغن به سالاد اضافه کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "minyak",
+            "ES": "aceite",
+            "VI": "dầu",
+            "FR": "huile",
+            "NE": "तेल",
+            "BN": "তেল",
+            "ZH": "油",
+            "KO": "기름",
+            "TL": "langis",
+            "MY": "ဆီ",
+            "HI": "तेल",
+            "AR": "زيت",
+            "FA": "روغن",
+            "EN": [
+                "oil"
+            ]
+        },
+        {
+            "ID": "pelumas",
+            "ES": "lubricante",
+            "VI": "chất bôi trơn",
+            "FR": "lubrifiant",
+            "NE": "लुब्रिकेन्ट",
+            "BN": "লুব্রিকেন্ট",
+            "ZH": "润滑剂",
+            "KO": "윤활유",
+            "TL": "pampadulas",
+            "MY": "ချောဆီ",
+            "HI": "चिकनाई",
+            "AR": "مواد التشحيم",
+            "FA": "روان کننده",
+            "EN": [
+                "lubricant"
+            ]
+        },
+        {
+            "ID": "minyak bumi",
+            "ES": "petróleo",
+            "VI": "dầu mỏ",
+            "FR": "pétrole",
+            "NE": "पेट्रोलियम",
+            "BN": "পেট্রোলিয়াম",
+            "ZH": "石油",
+            "KO": "석유",
+            "TL": "petrolyo",
+            "MY": "ရေနံ",
+            "HI": "पेट्रोलियम",
+            "AR": "البترول",
+            "FA": "نفت",
+            "EN": [
+                "petroleum"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "油",
+        "is_common": true,
+        "tags": [
+            "wanikani35"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "油",
+                "reading": "あぶら"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "oil"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "脂 あぶら"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Oil"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Oil” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Oil?oldid=494361148"
+                    },
+                    {
+                        "text": "Read “油” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/油?oldid=42658747"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Oil"
+        }
+    },
+    "kanji_list": [
+        "油"
+    ],
+    "kanji_data": {
+        "油": {
+            "freq_mainichi_shinbun": 690,
+            "grade": 3,
+            "heisig_en": "oil",
+            "jlpt": 2,
+            "kanji": "油",
+            "kun_readings": [
+                "あぶら"
+            ],
+            "meanings": [
+                "fat",
+                "oil"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ユ",
+                "ユウ"
+            ],
+            "stroke_count": 8,
+            "unicode": "6CB9"
+        }
+    }
+}

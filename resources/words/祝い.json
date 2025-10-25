@@ -1,0 +1,493 @@
+{
+    "version": "0.3.0",
+    "word": "祝い",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/LU6PWuZIKGM",
+    "in_db": true,
+    "kanji": "祝い",
+    "reading": "いわい",
+    "introduction_japanese": "祝いは、誕生日、合格、結婚などのときに使います。プレゼントやメッセージで気持ちを伝えるときに言います。",
+    "introduction_english": "いわい is used for birthdays, passing exams, and weddings. You say it when you give a gift or message to share your feelings.",
+    "meanings": [
+        [
+            "celebration",
+            "festivity",
+            "observance"
+        ],
+        [
+            "congratulations",
+            "felicitation"
+        ],
+        [
+            "gift",
+            "present",
+            "offering"
+        ]
+    ],
+    "meaning_explanation_japanese": "「おめでとう」と伝える行動、言葉、または贈り物を指します。",
+    "meaning_explanation_english": "It is used as a noun. The word いわい refers to the act of celebrating, the words of congratulations, or a congratulatory gift.",
+    "youtube_description": "Learn the word 祝い (iwai): what it means, when to use it, and natural phrases like 祝いを言う and 結婚祝い. Clear examples for beginners!",
+    "kanji_details": [
+        {
+            "kanji": "祝",
+            "onyomi": [
+                "しゅく",
+                "しゅう"
+            ],
+            "kunyomi": [
+                "いわ-う"
+            ],
+            "meanings_english": [
+                "celebrate",
+                "congratulate",
+                "bless"
+            ],
+            "common_words": [
+                "祝日（しゅくじつ）：national holiday",
+                "祝福（しゅくふく）：blessing; congratulations"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means to celebrate and to bless. You see it in しゅくじつ, which is a public holiday. You also see it in しゅくふく, the idea of giving blessings. Think happy events and positive wishes.",
+    "synonyms": [
+        "祝福 : しゅくふく : blessing, congratulations"
+    ],
+    "synonym_explanation": "The most common synonym of the word is しゅくふく. It overlaps when you express good wishes or blessings, but いわい is also the event or the gift itself, while しゅくふく is mainly the feeling or words.",
+    "antonyms": [
+        "弔い : とむらい : mourning"
+    ],
+    "antonym_explanation": "The most common antonym of the word is とむらい. While いわい is about happy occasions and congratulations, とむらい is about honoring the dead and expressing sorrow.",
+    "collocations": [
+        {
+            "kanji": "誕生日の祝い",
+            "furigana": "誕生日(たんじょうび)の祝い(いわい)",
+            "translations": {
+                "EN": "Birthday celebration",
+                "ID": "Perayaan ulang tahun",
+                "ES": "Celebración de cumpleaños",
+                "VI": "Lễ kỷ niệm sinh nhật",
+                "FR": "Célébration d'anniversaire",
+                "NE": "जन्मदिन मनाउने कार्यक्रम",
+                "BN": "জন্মদিন উদযাপন",
+                "ZH": "生日庆祝",
+                "KO": "생일 축하",
+                "TL": "Pagdiriwang ng kaarawan",
+                "MY": "မွေးနေ့ပွဲ",
+                "HI": "जन्मदिन समारोह",
+                "AR": "احتفال عيد الميلاد",
+                "FA": "جشن تولد"
+            }
+        },
+        {
+            "kanji": "結婚祝い",
+            "furigana": "結婚(けっこん)祝い(いわい)",
+            "translations": {
+                "EN": "wedding gifts",
+                "ID": "hadiah pernikahan",
+                "ES": "regalos de boda",
+                "VI": "quà cưới",
+                "FR": "cadeaux de mariage",
+                "NE": "विवाह उपहारहरू",
+                "BN": "বিয়ের উপহার",
+                "ZH": "结婚礼物",
+                "KO": "결혼 축하",
+                "TL": "mga regalo sa kasal",
+                "MY": "မင်္ဂလာဆောင်လက်ဆောင်များ",
+                "HI": "शादी के उपहार",
+                "AR": "هدايا الزفاف",
+                "FA": "هدایای عروسی"
+            }
+        },
+        {
+            "kanji": "合格祝い",
+            "furigana": "合格(ごうかく)祝い(いわい)",
+            "translations": {
+                "EN": "Celebrating passing the exam",
+                "ID": "Merayakan kelulusan ujian",
+                "ES": "Celebrando haber aprobado el examen",
+                "VI": "Ăn mừng việc vượt qua kỳ thi",
+                "FR": "Célébrer la réussite de l'examen",
+                "NE": "परीक्षा उत्तीर्ण भएकोमा खुशी मनाउँदै",
+                "BN": "পরীক্ষায় উত্তীর্ণ হওয়ার উদযাপন",
+                "ZH": "庆祝考试通过",
+                "KO": "합격 축하",
+                "TL": "Ipinagdiriwang ang pagpasa sa pagsusulit",
+                "MY": "စာမေးပွဲအောင်တာကို ဂုဏ်ပြုတယ်။",
+                "HI": "परीक्षा उत्तीर्ण करने का जश्न",
+                "AR": "الاحتفال بالنجاح في الامتحان",
+                "FA": "جشن قبولی در امتحان"
+            }
+        },
+        {
+            "kanji": "新築祝い",
+            "furigana": "新築(しんちく)祝い(いわい)",
+            "translations": {
+                "EN": "Housewarming gifts",
+                "ID": "Hadiah pindah rumah",
+                "ES": "Regalos de inauguración de la casa",
+                "VI": "Quà tặng tân gia",
+                "FR": "Cadeaux de pendaison de crémaillère",
+                "NE": "घरायसी उपहारहरू",
+                "BN": "গৃহস্থালির উপহার",
+                "ZH": "乔迁礼物",
+                "KO": "신축 축하",
+                "TL": "Mga regalo sa housewarming",
+                "MY": "အိမ်နွေးလက်ဆောင်များ",
+                "HI": "गृह प्रवेश उपहार",
+                "AR": "هدايا الترحيب بالمنزل الجديد",
+                "FA": "هدایای خانه نو"
+            }
+        },
+        {
+            "kanji": "開店祝い",
+            "furigana": "開店(かいてん)祝い(いわい)",
+            "translations": {
+                "EN": "Opening celebration",
+                "ID": "Perayaan pembukaan",
+                "ES": "Celebración de apertura",
+                "VI": "Lễ khai mạc",
+                "FR": "Célébration d'ouverture",
+                "NE": "उद्घाटन समारोह",
+                "BN": "উদ্বোধনী উদযাপন",
+                "ZH": "开业庆典",
+                "KO": "개점 축하",
+                "TL": "Pagbubukas ng pagdiriwang",
+                "MY": "ဖွင့်ပွဲအခမ်းအနား",
+                "HI": "उद्घाटन समारोह",
+                "AR": "حفل الافتتاح",
+                "FA": "جشن افتتاحیه"
+            }
+        },
+        {
+            "kanji": "祝いの言葉",
+            "furigana": "祝い(いわい)の言葉(ことば)",
+            "translations": {
+                "EN": "Congratulatory speech",
+                "ID": "Pidato ucapan selamat",
+                "ES": "Discurso de felicitación",
+                "VI": "Bài phát biểu chúc mừng",
+                "FR": "Discours de félicitations",
+                "NE": "शुभकामना मन्तव्य",
+                "BN": "অভিনন্দনমূলক বক্তব্য",
+                "ZH": "祝贺辞",
+                "KO": "축하의 말",
+                "TL": "talumpati ng pagbati",
+                "MY": "ဂုဏ်ပြုမိန့်ခွန်း",
+                "HI": "बधाई भाषण",
+                "AR": "خطاب تهنئة",
+                "FA": "سخنرانی تبریک"
+            }
+        },
+        {
+            "kanji": "会社からの祝い",
+            "furigana": "会社(かいしゃ)からの祝い(いわい)",
+            "translations": {
+                "EN": "Congratulations from the company",
+                "ID": "Ucapan selamat dari perusahaan",
+                "ES": "Felicitaciones de la empresa.",
+                "VI": "Xin chúc mừng từ công ty",
+                "FR": "Félicitations de la part de l'entreprise",
+                "NE": "कम्पनीको तर्फबाट बधाई छ",
+                "BN": "কোম্পানির পক্ষ থেকে অভিনন্দন।",
+                "ZH": "公司祝贺",
+                "KO": "회사로부터의 축하",
+                "TL": "Binabati kita mula sa kumpanya",
+                "MY": "ကုမ္ပဏီမှ ဂုဏ်ပြုပါသည်။",
+                "HI": "कंपनी की ओर से बधाई",
+                "AR": "تهنئة من الشركة",
+                "FA": "تبریک از طرف شرکت"
+            }
+        },
+        {
+            "kanji": "現金のお祝い",
+            "furigana": "現金(げんきん)のお祝い(いわい)",
+            "translations": {
+                "EN": "Cash celebration",
+                "ID": "Perayaan uang tunai",
+                "ES": "Celebración del efectivo",
+                "VI": "Lễ kỷ niệm tiền mặt",
+                "FR": "Célébration de l'argent",
+                "NE": "नगद उत्सव",
+                "BN": "নগদ অর্থ উদযাপন",
+                "ZH": "现金庆祝",
+                "KO": "현금 축하",
+                "TL": "Pagdiriwang ng pera",
+                "MY": "ငွေရှင်းပွဲ",
+                "HI": "नकद उत्सव",
+                "AR": "احتفال نقدي",
+                "FA": "جشن نقدی"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "今日は友だちの合格祝いをします。",
+            "furigana": "今日(きょう)は友(とも)だちの合格(ごうかく)祝い(いわい)をします。",
+            "translations": {
+                "EN": "Today I'm celebrating my friend's success.",
+                "ID": "Hari ini saya merayakan keberhasilan teman saya.",
+                "ES": "Hoy estoy celebrando el éxito de mi amigo.",
+                "VI": "Hôm nay tôi đang ăn mừng thành công của bạn tôi.",
+                "FR": "Aujourd'hui, je célèbre le succès de mon ami.",
+                "NE": "आज म मेरो साथीको सफलता मनाउँदै छु।",
+                "BN": "আজ আমি আমার বন্ধুর সাফল্য উদযাপন করছি।",
+                "ZH": "今天我要庆祝我朋友的成功。",
+                "KO": "오늘은 친구의 합격 축하를 합니다.",
+                "TL": "Ngayon ay ipinagdiriwang ko ang tagumpay ng aking kaibigan.",
+                "MY": "ဒီနေ့ သူငယ်ချင်းတစ်ယောက်ရဲ့ အောင်မြင်မှုကို ဂုဏ်ပြုပါတယ်။",
+                "HI": "आज मैं अपने दोस्त की सफलता का जश्न मना रहा हूं।",
+                "AR": "اليوم أحتفل بنجاح صديقي.",
+                "FA": "امروز موفقیت دوستم را جشن می‌گیرم."
+            }
+        },
+        {
+            "kanji": "結婚祝いに花を贈りました。",
+            "furigana": "結婚(けっこん)祝い(いわい)に花(はな)を贈(おく)りました。",
+            "translations": {
+                "EN": "I sent flowers as a wedding gift.",
+                "ID": "Saya mengirim bunga sebagai hadiah pernikahan.",
+                "ES": "Envié flores como regalo de bodas.",
+                "VI": "Tôi đã gửi hoa làm quà cưới.",
+                "FR": "J'ai envoyé des fleurs en cadeau de mariage.",
+                "NE": "मैले विवाहको उपहारको रूपमा फूलहरू पठाएँ।",
+                "BN": "আমি বিয়ের উপহার হিসেবে ফুল পাঠিয়েছি।",
+                "ZH": "我送了花作为结婚礼物。",
+                "KO": "결혼 축하에 꽃을 주었습니다.",
+                "TL": "Nagpadala ako ng mga bulaklak bilang regalo sa kasal.",
+                "MY": "မင်္ဂလာဆောင်လက်ဆောင်အဖြစ် ပန်းတွေ ပို့လိုက်တယ်။",
+                "HI": "मैंने शादी के उपहार के रूप में फूल भेजे।",
+                "AR": "لقد أرسلت الزهور كهدية زفاف.",
+                "FA": "من به عنوان هدیه عروسی گل فرستادم."
+            }
+        },
+        {
+            "kanji": "みんなで小さな祝いをしました。",
+            "furigana": "みんなで小(ちい)さな祝い(いわい)をしました。",
+            "translations": {
+                "EN": "We all had a little celebration.",
+                "ID": "Kita semua merayakannya sedikit.",
+                "ES": "Todos tuvimos una pequeña celebración.",
+                "VI": "Tất cả chúng tôi đều có một bữa tiệc ăn mừng nhỏ.",
+                "FR": "Nous avons tous eu une petite fête.",
+                "NE": "हामी सबैले सानो उत्सव मनाए।",
+                "BN": "আমরা সবাই একটু উদযাপন করলাম।",
+                "ZH": "我们都举行了一个小小的庆祝。",
+                "KO": "모두가 작은 축하를 했습니다.",
+                "TL": "Nagkaroon kaming lahat ng munting selebrasyon.",
+                "MY": "ကျွန်တော်တို့အားလုံး အခမ်းအနားလေးတစ်ခု လုပ်ခဲ့ပါတယ်။",
+                "HI": "हम सबने थोड़ा जश्न मनाया।",
+                "AR": "لقد احتفلنا جميعا قليلا.",
+                "FA": "همه یه جشن کوچیک گرفتیم."
+            }
+        },
+        {
+            "kanji": "誕生日の祝いにケーキを食べます。",
+            "furigana": "誕生日(たんじょうび)の祝い(いわい)にケーキを食(た)べます。",
+            "translations": {
+                "EN": "I eat cake to celebrate my birthday.",
+                "ID": "Saya makan kue untuk merayakan ulang tahun saya.",
+                "ES": "Como pastel para celebrar mi cumpleaños.",
+                "VI": "Tôi ăn bánh để ăn mừng sinh nhật.",
+                "FR": "Je mange du gâteau pour fêter mon anniversaire.",
+                "NE": "म मेरो जन्मदिन मनाउन केक खान्छु।",
+                "BN": "আমি আমার জন্মদিন উদযাপনের জন্য কেক খাই।",
+                "ZH": "我吃蛋糕来庆祝我的生日。",
+                "KO": "생일 축하에 케이크를 먹는다.",
+                "TL": "Kumakain ako ng cake para ipagdiwang ang aking kaarawan.",
+                "MY": "မွေးနေ့ပွဲအတွက် ကိတ်မုန့်စားတယ်။",
+                "HI": "मैं अपना जन्मदिन मनाने के लिए केक खाता हूँ।",
+                "AR": "أتناول الكعكة احتفالاً بعيد ميلادي.",
+                "FA": "من برای جشن تولدم کیک می‌خورم."
+            }
+        },
+        {
+            "kanji": "新築祝いをもらいました。",
+            "furigana": "新築(しんちく)祝い(いわい)をもらいました。",
+            "translations": {
+                "EN": "I received a housewarming gift.",
+                "ID": "Saya menerima hadiah pindah rumah.",
+                "ES": "Recibí un regalo de inauguración de la casa.",
+                "VI": "Tôi đã nhận được một món quà tân gia.",
+                "FR": "J'ai reçu un cadeau de pendaison de crémaillère.",
+                "NE": "मैले घर न्यानो बनाउने उपहार पाएँ।",
+                "BN": "আমি গৃহস্থালির উপহার পেয়েছি।",
+                "ZH": "我收到了一份乔迁礼物。",
+                "KO": "신축 축하를 받았습니다.",
+                "TL": "Nakatanggap ako ng housewarming gift.",
+                "MY": "အိမ်နွေး​လေးတစ်​ခု လက်ဆောင်​ရခဲ့တယ်​။",
+                "HI": "मुझे गृहप्रवेश उपहार मिला।",
+                "AR": "لقد تلقيت هدية بمناسبة تدفئة المنزل.",
+                "FA": "من یک هدیه خانه نو دریافت کردم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "perayaan",
+            "ES": "celebración",
+            "VI": "lễ ăn mừng",
+            "FR": "célébration",
+            "NE": "उत्सव",
+            "BN": "উদযাপন",
+            "ZH": "庆典",
+            "KO": "축하",
+            "TL": "pagdiriwang",
+            "MY": "အခမ်းအနား",
+            "HI": "उत्सव",
+            "AR": "احتفال",
+            "FA": "جشن",
+            "EN": [
+                "celebration",
+                "festivity",
+                "observance"
+            ]
+        },
+        {
+            "ID": "Selamat",
+            "ES": "Felicidades",
+            "VI": "Chúc mừng",
+            "FR": "Félicitations",
+            "NE": "बधाई छ",
+            "BN": "অভিনন্দন",
+            "ZH": "恭喜",
+            "KO": "축하해요",
+            "TL": "binabati kita",
+            "MY": "ဂုဏ်ယူပါတယ်။",
+            "HI": "बधाई हो",
+            "AR": "تهانينا",
+            "FA": "تبریک",
+            "EN": [
+                "congratulations",
+                "felicitation"
+            ]
+        },
+        {
+            "ID": "hadiah",
+            "ES": "regalo",
+            "VI": "quà ",
+            "FR": "cadeau",
+            "NE": "उपहार",
+            "BN": "উপহার",
+            "ZH": "礼物",
+            "KO": "선물",
+            "TL": "regalo",
+            "MY": "လက်ဆောင်",
+            "HI": "उपहार",
+            "AR": "هدية",
+            "FA": "هدیه",
+            "EN": [
+                "gift",
+                "present",
+                "offering"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "祝い",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "祝い",
+                "reading": "いわい"
+            },
+            {
+                "word": "祝い",
+                "reading": "ゆわい"
+            },
+            {
+                "word": "祝",
+                "reading": "いわい"
+            },
+            {
+                "word": "祝",
+                "reading": "ゆわい"
+            },
+            {
+                "word": "斎",
+                "reading": "いわい"
+            },
+            {
+                "word": "斎",
+                "reading": "ゆわい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "congratulation",
+                    "congratulations",
+                    "celebration",
+                    "festival"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "お祝い"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "congratulatory gift",
+                    "present"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "祝"
+    ],
+    "kanji_data": {
+        "祝": {
+            "freq_mainichi_shinbun": 1184,
+            "grade": 4,
+            "heisig_en": "celebrate",
+            "jlpt": 2,
+            "kanji": "祝",
+            "kun_readings": [
+                "いわ.う"
+            ],
+            "meanings": [
+                "celebrate",
+                "congratulate"
+            ],
+            "name_readings": [
+                "のり",
+                "ほぎ",
+                "ゆわい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シュウ",
+                "シュク"
+            ],
+            "stroke_count": 9,
+            "unicode": "795D"
+        }
+    }
+}

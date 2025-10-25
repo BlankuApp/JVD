@@ -1,0 +1,489 @@
+{
+    "version": "0.3.0",
+    "word": "支度",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/zaDbNiMq-5M",
+    "in_db": true,
+    "kanji": "支度",
+    "reading": "したく",
+    "introduction_japanese": "支度。でかける前や、たべる前、ひとをむかえる前によくつかいます。まいにちの生活でよくききます。",
+    "introduction_english": "したく. We use this before going out, before eating, or before welcoming someone. You hear it a lot in daily life.",
+    "meanings": [
+        [
+            "preparation",
+            "arrangements",
+            "readiness",
+            "setup"
+        ],
+        [
+            "dressing",
+            "attire",
+            "outfit",
+            "grooming"
+        ]
+    ],
+    "meaning_explanation_japanese": "でかける前などに、よういをととのえること。ふくをきたり、みだしなみをととのえたりすること。",
+    "meaning_explanation_english": "Part of speech: a noun that also works as a suru-verb. したく literally means getting things ready and setting yourself or items in order, including putting on clothes and making arrangements.",
+    "youtube_description": "Learn したく (支度): meanings, daily uses, and natural examples. Short, clear tips for beginners to say “get ready” and “prepare” naturally!",
+    "kanji_details": [
+        {
+            "kanji": "支",
+            "onyomi": [
+                "シ"
+            ],
+            "kunyomi": [
+                "ささえる"
+            ],
+            "meanings_english": [
+                "support",
+                "sustain"
+            ],
+            "common_words": [
+                "支払い (しはらい) : payment",
+                "支援 (しえん) : support, aid"
+            ]
+        },
+        {
+            "kanji": "度",
+            "onyomi": [
+                "ド"
+            ],
+            "kunyomi": [
+                "たび"
+            ],
+            "meanings_english": [
+                "degree",
+                "times",
+                "occurrence"
+            ],
+            "common_words": [
+                "温度 (おんど) : temperature",
+                "一度 (いちど) : once, one time"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means support or sustain. You can hear it in words like しはらい and しえん. It suggests holding something up or backing it. Think of giving help from underneath.\nThe second kanji means degree or a time something happens. It shows up in words like おんど and いちど. It talks about level, measure, and frequency. It marks how many times or how much.",
+    "synonyms": [
+        "準備 : じゅんび : preparation",
+        "用意 : ようい : preparation, arrangements"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are じゅんび and ようい. じゅんび is a broad, general “preparation.” ようい often feels like arranging or providing things. したく is more everyday and often includes getting yourself ready, like clothes and grooming.",
+    "antonyms": [
+        "片付け : かたづけ : tidying up, putting away"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are かたづけ. While したく is getting things ready before an event, かたづけ is cleaning up and putting things away after it.",
+    "collocations": [
+        {
+            "kanji": "朝の支度",
+            "furigana": "朝(あさ)の支度(したく)",
+            "translations": {
+                "EN": "Morning preparations",
+                "ID": "Persiapan pagi",
+                "ES": "Preparativos matutinos",
+                "VI": "Chuẩn bị buổi sáng",
+                "FR": "Préparatifs du matin",
+                "NE": "बिहानको तयारी",
+                "BN": "সকালের প্রস্তুতি",
+                "ZH": "早晨的准备",
+                "KO": "아침 지도",
+                "TL": "Paghahanda sa umaga",
+                "MY": "မနက်ပိုင်း ပြင်ဆင်မှုတွေ",
+                "HI": "सुबह की तैयारियाँ",
+                "AR": "الاستعدادات الصباحية",
+                "FA": "آماده‌سازی‌های صبحگاهی"
+            }
+        },
+        {
+            "kanji": "ご飯の支度",
+            "furigana": "ご飯の支度(したく)",
+            "translations": {
+                "EN": "Preparing meals",
+                "ID": "Mempersiapkan makanan",
+                "ES": "Preparando comidas",
+                "VI": "Chuẩn bị bữa ăn",
+                "FR": "Préparation des repas",
+                "NE": "खाना तयार गर्दै",
+                "BN": "খাবার প্রস্তুত করা",
+                "ZH": "准备饭菜",
+                "KO": "밥의 지도",
+                "TL": "Paghahanda ng mga pagkain",
+                "MY": "အစားအသောက်ပြင်ဆင်ခြင်း။",
+                "HI": "भोजन तैयार करना",
+                "AR": "تحضير الوجبات",
+                "FA": "تهیه وعده‌های غذایی"
+            }
+        },
+        {
+            "kanji": "食事の支度",
+            "furigana": "食事(しょくじ)の支度(したく)",
+            "translations": {
+                "EN": "Meal preparation",
+                "ID": "Persiapan makanan",
+                "ES": "Preparación de comidas",
+                "VI": "Chuẩn bị bữa ăn",
+                "FR": "Préparation des repas",
+                "NE": "खानाको तयारी",
+                "BN": "খাবার প্রস্তুতি",
+                "ZH": "准备餐食",
+                "KO": "식사의 지지",
+                "TL": "Paghahanda ng pagkain",
+                "MY": "အစားအသောက်ပြင်ဆင်ခြင်း။",
+                "HI": "खाना बनाना",
+                "AR": "إعداد الوجبات",
+                "FA": "آماده سازی غذا"
+            }
+        },
+        {
+            "kanji": "旅行の支度",
+            "furigana": "旅行(りょこう)の支度(したく)",
+            "translations": {
+                "EN": "Travel preparations",
+                "ID": "Persiapan perjalanan",
+                "ES": "preparativos de viaje",
+                "VI": "Chuẩn bị đi du lịch",
+                "FR": "Préparatifs de voyage",
+                "NE": "यात्राको तयारी",
+                "BN": "ভ্রমণের প্রস্তুতি",
+                "ZH": "旅行准备",
+                "KO": "여행 지도",
+                "TL": "Mga paghahanda sa paglalakbay",
+                "MY": "ခရီးသွားပြင်ဆင်မှုများ",
+                "HI": "यात्रा की तैयारियाँ",
+                "AR": "استعدادات السفر",
+                "FA": "مقدمات سفر"
+            }
+        },
+        {
+            "kanji": "出発の支度",
+            "furigana": "出発(しゅっぱつ)の支度(したく)",
+            "translations": {
+                "EN": "Preparing for departure",
+                "ID": "Persiapan keberangkatan",
+                "ES": "Preparándose para la salida",
+                "VI": "Chuẩn bị khởi hành",
+                "FR": "Préparation du départ",
+                "NE": "प्रस्थानको तयारी गर्दै",
+                "BN": "প্রস্থানের প্রস্তুতি",
+                "ZH": "准备出发",
+                "KO": "출발 지도",
+                "TL": "Paghahanda para sa pag-alis",
+                "MY": "ထွက်ခွာရန် ပြင်ဆင်နေပါသည်။",
+                "HI": "प्रस्थान की तैयारी",
+                "AR": "الاستعداد للمغادرة",
+                "FA": "آماده شدن برای عزیمت"
+            }
+        },
+        {
+            "kanji": "子どもの支度",
+            "furigana": "子(こ)どもの支度(したく)",
+            "translations": {
+                "EN": "Getting the kids ready",
+                "ID": "Mempersiapkan anak-anak",
+                "ES": "Preparando a los niños",
+                "VI": "Chuẩn bị cho trẻ em",
+                "FR": "Préparer les enfants",
+                "NE": "बच्चाहरूलाई तयार पार्दै",
+                "BN": "বাচ্চাদের প্রস্তুত করা",
+                "ZH": "让孩子们做好准备",
+                "KO": "어린이의 지도",
+                "TL": "Paghahanda sa mga bata",
+                "MY": "ကလေးတွေကို အဆင်သင့်ပြင်ထားပါ။",
+                "HI": "बच्चों को तैयार करना",
+                "AR": "تجهيز الاطفال",
+                "FA": "آماده کردن بچه‌ها"
+            }
+        },
+        {
+            "kanji": "身支度",
+            "furigana": "身(み)支度(したく)",
+            "translations": {
+                "EN": "Getting dressed",
+                "ID": "Berpakaian",
+                "ES": "Vestirse",
+                "VI": "Mặc quần áo",
+                "FR": "S'habiller",
+                "NE": "लुगा लगाउँदै",
+                "BN": "পোশাক পরা",
+                "ZH": "穿衣服",
+                "KO": "신지도",
+                "TL": "Nagbibihis",
+                "MY": "ဝတ်​ဆင်နေသည်​",
+                "HI": "तैयार हो रही हूँ",
+                "AR": "ارتداء الملابس",
+                "FA": "لباس پوشیدن"
+            }
+        },
+        {
+            "kanji": "支度をする",
+            "furigana": "支度(したく)をする",
+            "translations": {
+                "EN": "Getting ready",
+                "ID": "Bersiap-siap",
+                "ES": "Preparándose",
+                "VI": "Chuẩn bị sẵn sàng",
+                "FR": "Se préparer",
+                "NE": "तयारी गर्दै",
+                "BN": "প্রস্তুতি নিচ্ছেন",
+                "ZH": "准备工作",
+                "KO": "지지하는",
+                "TL": "Naghahanda",
+                "MY": "အဆင်သင့်ဖြစ်နေပါပြီ။",
+                "HI": "तैयार हो रहे",
+                "AR": "الاستعداد",
+                "FA": "آماده شدن"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "もう支度した？",
+            "furigana": "もう支度(したく)した？",
+            "translations": {
+                "EN": "Are you ready yet?",
+                "ID": "Apakah kamu sudah siap?",
+                "ES": "¿Ya estás listo?",
+                "VI": "Bạn đã sẵn sàng chưa?",
+                "FR": "Êtes-vous prêt ?",
+                "NE": "के तपाईं अझै तयार हुनुहुन्छ?",
+                "BN": "তুমি কি এখনো প্রস্তুত?",
+                "ZH": "你准备好了吗？",
+                "KO": "이미 지냈어?",
+                "TL": "Handa ka na ba?",
+                "MY": "အဆင်သင့်ဖြစ်သေးလား",
+                "HI": "क्या आप अभी तैयार हैं?",
+                "AR": "هل أنت مستعد بعد؟",
+                "FA": "هنوز آماده‌ای؟"
+            }
+        },
+        {
+            "kanji": "出かける支度をしてください。",
+            "furigana": "出(で)かける支度(したく)をしてください。",
+            "translations": {
+                "EN": "Please get ready to go out.",
+                "ID": "Silakan bersiap untuk keluar.",
+                "ES": "Por favor, prepárate para salir.",
+                "VI": "Hãy chuẩn bị sẵn sàng để ra ngoài nhé.",
+                "FR": "S'il vous plaît, préparez-vous à sortir.",
+                "NE": "कृपया बाहिर जान तयार हुनुहोस्।",
+                "BN": "দয়া করে বাইরে যাওয়ার জন্য প্রস্তুত হও।",
+                "ZH": "请准备出门。",
+                "KO": "나가는 지지를 해주세요.",
+                "TL": "Mangyaring maghanda upang lumabas.",
+                "MY": "ကျေးဇူးပြု၍ အပြင်ထွက်ရန် အသင့်ပြင်ထားပါ။",
+                "HI": "कृपया बाहर जाने के लिए तैयार हो जाओ।",
+                "AR": "من فضلك استعد للخروج.",
+                "FA": "لطفا آماده شو بریم بیرون."
+            }
+        },
+        {
+            "kanji": "ごはんの支度をします。",
+            "furigana": "ごはんの支度(したく)をします。",
+            "translations": {
+                "EN": "I'll prepare dinner.",
+                "ID": "Saya akan menyiapkan makan malam.",
+                "ES": "Yo prepararé la cena.",
+                "VI": "Tôi sẽ chuẩn bị bữa tối.",
+                "FR": "Je vais préparer le dîner.",
+                "NE": "म खाना तयार गर्छु।",
+                "BN": "আমি রাতের খাবার তৈরি করব।",
+                "ZH": "我去准备晚餐。",
+                "KO": "밥의 지지를 합니다.",
+                "TL": "Maghahanda ako ng hapunan.",
+                "MY": "ငါညစာပြင်ဆင်မယ်။",
+                "HI": "मैं रात का खाना तैयार करुंगा.",
+                "AR": "سأقوم بإعداد العشاء.",
+                "FA": "شام را آماده می‌کنم."
+            }
+        },
+        {
+            "kanji": "子どもの身支度を手伝います。",
+            "furigana": "子(こ)どもの身(み)支度(したく)を手伝(てつだ)います。",
+            "translations": {
+                "EN": "Help with getting the kids dressed.",
+                "ID": "Membantu mendandani anak-anak.",
+                "ES": "Ayuda para vestir a los niños.",
+                "VI": "Giúp trẻ mặc quần áo.",
+                "FR": "Aide à habiller les enfants.",
+                "NE": "बच्चाहरूलाई लुगा लगाउन मद्दत गर्नुहोस्।",
+                "BN": "বাচ্চাদের পোশাক পরতে সাহায্য করুন।",
+                "ZH": "帮助孩子们穿衣服。",
+                "KO": "아이의 신지도를 돕습니다.",
+                "TL": "Tulong sa pagbibihis ng mga bata.",
+                "MY": "ကလေးတွေဝတ်ဖို့ ကူညီပေးတယ်။",
+                "HI": "बच्चों को कपड़े पहनाने में मदद करें।",
+                "AR": "مساعدة في ارتداء الاطفال لملابسهم.",
+                "FA": "کمک در لباس پوشیدن بچه‌ها."
+            }
+        },
+        {
+            "kanji": "支度に時間がかかります。",
+            "furigana": "支度(したく)に時間(じかん)がかかります。",
+            "translations": {
+                "EN": "It takes time to prepare.",
+                "ID": "Butuh waktu untuk mempersiapkannya.",
+                "ES": "Se necesita tiempo para prepararse.",
+                "VI": "Phải mất thời gian để chuẩn bị.",
+                "FR": "Il faut du temps pour se préparer.",
+                "NE": "तयारी गर्न समय लाग्छ।",
+                "BN": "প্রস্তুতি নিতে সময় লাগে।",
+                "ZH": "准备需要时间。",
+                "KO": "지도에 시간이 걸립니다.",
+                "TL": "Ito ay nangangailangan ng oras upang maghanda.",
+                "MY": "ပြင်ဆင်ဖို့ အချိန်ယူရတယ်။",
+                "HI": "इसे तैयार करने में समय लगता है.",
+                "AR": "يحتاج الأمر إلى وقت للتحضير.",
+                "FA": "آماده شدنش زمان میبره."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "persiapan",
+            "ES": "preparación",
+            "VI": "sự chuẩn bị",
+            "FR": "préparation",
+            "NE": "तयारी",
+            "BN": "প্রস্তুতি",
+            "ZH": "准备",
+            "KO": "준비",
+            "TL": "paghahanda",
+            "MY": "ပြင်ဆင်မှု",
+            "HI": "तैयारी",
+            "AR": "تحضير",
+            "FA": "آماده سازی",
+            "EN": [
+                "preparation",
+                "arrangements",
+                "readiness",
+                "setup"
+            ]
+        },
+        {
+            "ID": "pembalut",
+            "ES": "vendaje",
+            "VI": "trang phục",
+            "FR": "pansement",
+            "NE": "ड्रेसिङ",
+            "BN": "ড্রেসিং",
+            "ZH": "敷料",
+            "KO": "드레싱",
+            "TL": "pagbibihis",
+            "MY": "တစ်သင်းလုံး",
+            "HI": "ड्रेसिंग",
+            "AR": "خلع الملابس",
+            "FA": "پانسمان",
+            "EN": [
+                "dressing",
+                "attire",
+                "outfit",
+                "grooming"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "支度",
+        "is_common": true,
+        "tags": [
+            "wanikani11"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "支度",
+                "reading": "したく"
+            },
+            {
+                "word": "仕度",
+                "reading": "したく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "preparation",
+                    "arrangements"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "支",
+        "度"
+    ],
+    "kanji_data": {
+        "支": {
+            "freq_mainichi_shinbun": 159,
+            "grade": 5,
+            "heisig_en": "branch",
+            "jlpt": 3,
+            "kanji": "支",
+            "kun_readings": [
+                "か.う",
+                "ささ.える",
+                "つか.える"
+            ],
+            "meanings": [
+                "branch",
+                "branch radical (no. 65)",
+                "support",
+                "sustain"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シ"
+            ],
+            "stroke_count": 4,
+            "unicode": "652F"
+        },
+        "度": {
+            "freq_mainichi_shinbun": 110,
+            "grade": 3,
+            "heisig_en": "degrees",
+            "jlpt": 4,
+            "kanji": "度",
+            "kun_readings": [
+                "-た.い",
+                "たび"
+            ],
+            "meanings": [
+                "attitude",
+                "consider",
+                "counter for occurrences",
+                "degrees",
+                "occurrence",
+                "time"
+            ],
+            "name_readings": [
+                "のり"
+            ],
+            "notes": [],
+            "on_readings": [
+                "タク",
+                "ト",
+                "ド"
+            ],
+            "stroke_count": 9,
+            "unicode": "5EA6"
+        }
+    }
+}

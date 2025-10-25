@@ -1,0 +1,509 @@
+{
+    "version": "0.3.0",
+    "word": "傾向",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/lO3z8euyQCk",
+    "in_db": true,
+    "kanji": "傾向",
+    "reading": "けいこう",
+    "introduction_japanese": "傾向。ニュースやレポートで、データの動きや人のくせについて話すときに使います。",
+    "introduction_english": "Keikou. We use this in news and reports when talking about data patterns or people’s habits.",
+    "meanings": [
+        [
+            "tendency",
+            "inclination",
+            "propensity",
+            "disposition",
+            "bias"
+        ],
+        [
+            "trend",
+            "movement",
+            "pattern",
+            "direction"
+        ]
+    ],
+    "meaning_explanation_japanese": "ある方向に起こりやすく、かたよりやすいようすのこと。ふだん続きやすいパターンや流れを表します。",
+    "meaning_explanation_english": "It is used as a noun. けいこう literally talks about a usual leaning or pattern, either in people’s behavior or in data moving in a certain direction.",
+    "youtube_description": "Learn けいこう: what it means, how to use it in everyday Japanese, and the most natural collocations and examples. Quick, clear, beginner-friendly.",
+    "kanji_details": [
+        {
+            "kanji": "傾",
+            "onyomi": [
+                "ケイ"
+            ],
+            "kunyomi": [
+                "かたむ-く",
+                "かたむ-ける"
+            ],
+            "meanings_english": [
+                "lean",
+                "tilt",
+                "incline"
+            ],
+            "common_words": [
+                "傾く : かたむく : to tilt; to lean",
+                "傾ける : かたむける : to tip; to devote"
+            ]
+        },
+        {
+            "kanji": "向",
+            "onyomi": [
+                "コウ"
+            ],
+            "kunyomi": [
+                "む-く",
+                "む-ける"
+            ],
+            "meanings_english": [
+                "facing",
+                "direction",
+                "toward"
+            ],
+            "common_words": [
+                "向く : むく : to face; to be suited for",
+                "方向 : ほうこう : direction"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means lean or tilt. You see it in かたむく and かたむける. Both show the idea of something slanting or making it slant. Think of a cup tipping or attention turning toward something.\nThe second kanji means face or direction. It appears in むく and ほうこう. These words point to where something faces or the route it goes. Imagine turning your head toward a goal and following that path.",
+    "synonyms": [
+        "動向 : どうこう : trend",
+        "傾向性 : けいこうせい : tendency"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are どうこう and けいこうせい. どうこう overlaps when talking about trends in society or markets, while けいこうせい is a technical way to say inherent tendency, close to けいこう but more formal.",
+    "antonyms": [
+        "無作為 : むさくい : randomness",
+        "中立 : ちゅうりつ : neutrality"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are むさくい and ちゅうりつ. むさくい contrasts with a consistent pattern by stressing chance, and ちゅうりつ contrasts the idea of leaning or bias by stressing no side.",
+    "collocations": [
+        {
+            "kanji": "この傾向",
+            "furigana": "この傾向(けいこう)",
+            "translations": {
+                "EN": "This trend",
+                "ID": "Tren ini",
+                "ES": "Esta tendencia",
+                "VI": "Xu hướng này",
+                "FR": "Cette tendance",
+                "NE": "यो प्रवृत्ति",
+                "BN": "এই প্রবণতা",
+                "ZH": "这种趋势",
+                "KO": "이 추세",
+                "TL": "Ang kalakaran na ito",
+                "MY": "ဒီလမ်းကြောင်းသစ်",
+                "HI": "यह प्रवृत्ति",
+                "AR": "هذا الاتجاه",
+                "FA": "این روند"
+            }
+        },
+        {
+            "kanji": "強い傾向",
+            "furigana": "強(つよ)い傾向(けいこう)",
+            "translations": {
+                "EN": "Strong trend",
+                "ID": "Tren yang kuat",
+                "ES": "Fuerte tendencia",
+                "VI": "Xu hướng mạnh mẽ",
+                "FR": "Tendance forte",
+                "NE": "बलियो प्रवृत्ति",
+                "BN": "শক্তিশালী প্রবণতা",
+                "ZH": "强劲趋势",
+                "KO": "강한 추세",
+                "TL": "Malakas na kalakaran",
+                "MY": "ခိုင်မာသောလမ်းကြောင်းသစ်",
+                "HI": "मजबूत प्रवृत्ति",
+                "AR": "اتجاه قوي",
+                "FA": "روند قوی"
+            }
+        },
+        {
+            "kanji": "増加傾向",
+            "furigana": "増加(ぞうか)傾向(けいこう)",
+            "translations": {
+                "EN": "Increasing trend",
+                "ID": "Tren meningkat",
+                "ES": "Tendencia creciente",
+                "VI": "Xu hướng tăng",
+                "FR": "Tendance à la hausse",
+                "NE": "बढ्दो प्रवृत्ति",
+                "BN": "ক্রমবর্ধমান প্রবণতা",
+                "ZH": "呈上升趋势",
+                "KO": "증가 추세",
+                "TL": "Tumataas na kalakaran",
+                "MY": "လမ်းကြောင်းသစ် တိုးလာသည်။",
+                "HI": "बढ़ती प्रवृत्ति",
+                "AR": "اتجاه متزايد",
+                "FA": "روند افزایشی"
+            }
+        },
+        {
+            "kanji": "上昇傾向",
+            "furigana": "上昇(じょうしょう)傾向(けいこう)",
+            "translations": {
+                "EN": "Upward trend",
+                "ID": "Tren naik",
+                "ES": "Tendencia al alza",
+                "VI": "Xu hướng tăng",
+                "FR": "Tendance à la hausse",
+                "NE": "माथिल्लो प्रवृत्ति",
+                "BN": "ঊর্ধ্বমুখী প্রবণতা",
+                "ZH": "上升趋势",
+                "KO": "상승 경향",
+                "TL": "Pataas na kalakaran",
+                "MY": "အထက်လမ်းကြောင်း",
+                "HI": "ऊपर की ओर रुझान",
+                "AR": "الاتجاه الصعودي",
+                "FA": "روند صعودی"
+            }
+        },
+        {
+            "kanji": "若者の傾向",
+            "furigana": "若者(わかもの)の傾向(けいこう)",
+            "translations": {
+                "EN": "Youth trends",
+                "ID": "Tren anak muda",
+                "ES": "Tendencias juveniles",
+                "VI": "Xu hướng thanh niên",
+                "FR": "Tendances jeunesse",
+                "NE": "युवा प्रवृत्तिहरू",
+                "BN": "যুব প্রবণতা",
+                "ZH": "青年潮流",
+                "KO": "청소년 동향",
+                "TL": "Mga uso sa kabataan",
+                "MY": "လူငယ်ခေတ်ရေစီးကြောင်း",
+                "HI": "युवा रुझान",
+                "AR": "اتجاهات الشباب",
+                "FA": "روندهای جوانان"
+            }
+        },
+        {
+            "kanji": "上昇傾向にある",
+            "furigana": "上昇(じょうしょう)傾向(けいこう)にある",
+            "translations": {
+                "EN": "On the rise",
+                "ID": "Sedang naik daun",
+                "ES": "En ascenso",
+                "VI": "Trên đà tăng",
+                "FR": "À la hausse",
+                "NE": "बढ्दो क्रममा",
+                "BN": "ক্রমবর্ধমান",
+                "ZH": "正在崛起",
+                "KO": "상승세에",
+                "TL": "Sa pagtaas",
+                "MY": "တက်လာသည်",
+                "HI": "उफान पर",
+                "AR": "في ارتفاع",
+                "FA": "در حال افزایش"
+            }
+        },
+        {
+            "kanji": "傾向がある",
+            "furigana": "傾向(けいこう)がある",
+            "translations": {
+                "EN": "There is a tendency",
+                "ID": "Ada kecenderungan",
+                "ES": "Hay una tendencia",
+                "VI": "Có một xu hướng",
+                "FR": "Il y a une tendance",
+                "NE": "प्रवृत्ति छ।",
+                "BN": "একটা প্রবণতা আছে।",
+                "ZH": "有一种趋势",
+                "KO": "경향이 있는",
+                "TL": "May tendency",
+                "MY": "ပြောမယ်ဆိုရင်လည်း ရှိတယ်။",
+                "HI": "एक प्रवृत्ति है",
+                "AR": "هناك ميل",
+                "FA": "گرایش وجود دارد"
+            }
+        },
+        {
+            "kanji": "傾向を示す",
+            "furigana": "傾向(けいこう)を示(しめ)す",
+            "translations": {
+                "EN": "Showing trends",
+                "ID": "Menampilkan tren",
+                "ES": "Mostrando tendencias",
+                "VI": "Hiển thị xu hướng",
+                "FR": "Montrer les tendances",
+                "NE": "प्रवृत्तिहरू देखाउँदै",
+                "BN": "ট্রেন্ড দেখানো হচ্ছে",
+                "ZH": "显示趋势",
+                "KO": "추세를 보여주는",
+                "TL": "Nagpapakita ng mga uso",
+                "MY": "ခေတ်ရေစီးကြောင်းများကို ပြသခြင်း။",
+                "HI": "रुझान दिखा रहा है",
+                "AR": "إظهار الاتجاهات",
+                "FA": "نمایش روندها"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "このクラスは、宿題を早く出す傾向がある。",
+            "furigana": "このクラスは、宿題(しゅくだい)を早(はや)く出(だ)す傾向(けいこう)がある。",
+            "translations": {
+                "EN": "This class tends to hand out homework early.",
+                "ID": "Kelas ini cenderung membagikan pekerjaan rumah lebih awal.",
+                "ES": "Esta clase tiende a entregar tareas temprano.",
+                "VI": "Lớp này có xu hướng giao bài tập về nhà sớm.",
+                "FR": "Cette classe a tendance à distribuer les devoirs tôt.",
+                "NE": "यो कक्षामा गृहकार्य चाँडै दिइन्छ।",
+                "BN": "এই ক্লাসে সাধারণত বাড়ির কাজ তাড়াতাড়ি হস্তান্তর করা হয়।",
+                "ZH": "这个班倾向于提早布置作业。",
+                "KO": "이 클래스는 숙제를 빨리 내는 경향이 있습니다.",
+                "TL": "Ang klase na ito ay madalas na mamigay ng takdang-aralin nang maaga.",
+                "MY": "ဤအတန်းသည် အိမ်စာများကို စောစီးစွာ ထုတ်ပေးလေ့ရှိသည်။",
+                "HI": "इस कक्षा में होमवर्क जल्दी दे दिया जाता है।",
+                "AR": "تميل هذه الفئة إلى توزيع الواجبات المنزلية مبكرًا.",
+                "FA": "این کلاس معمولاً تکالیف را زود تحویل می‌دهد."
+            }
+        },
+        {
+            "kanji": "若者はスマホをよく使う傾向にある。",
+            "furigana": "若者(わかもの)はスマホをよく使(つか)う傾向(けいこう)にある。",
+            "translations": {
+                "EN": "Young people tend to use smartphones a lot.",
+                "ID": "Kaum muda cenderung banyak menggunakan telepon pintar.",
+                "ES": "Los jóvenes tienden a utilizar mucho los teléfonos inteligentes.",
+                "VI": "Giới trẻ có xu hướng sử dụng điện thoại thông minh rất nhiều.",
+                "FR": "Les jeunes ont tendance à utiliser beaucoup les smartphones.",
+                "NE": "युवाहरूमा स्मार्टफोन धेरै प्रयोग गर्ने बानी छ।",
+                "BN": "তরুণরা স্মার্টফোন ব্যবহারে বেশি আগ্রহী।",
+                "ZH": "年轻人倾向于大量使用智能手机。",
+                "KO": "젊은이는 스마트폰을 자주 사용하는 경향이 있다.",
+                "TL": "Ang mga kabataan ay madalas na gumamit ng mga smartphone.",
+                "MY": "လူငယ်အများစုသည် စမတ်ဖုန်းကို အလွန်အသုံးပြုကြသည်။",
+                "HI": "युवा लोग स्मार्टफोन का बहुत अधिक उपयोग करते हैं।",
+                "AR": "يميل الشباب إلى استخدام الهواتف الذكية كثيرًا.",
+                "FA": "جوانان تمایل زیادی به استفاده از تلفن‌های هوشمند دارند."
+            }
+        },
+        {
+            "kanji": "物価は年々、上昇傾向にある。",
+            "furigana": "物価(ぶっか)は年々(ねんねん)、上昇(じょうしょう)傾向(けいこう)にある。",
+            "translations": {
+                "EN": "Prices tend to rise year by year.",
+                "ID": "Harga cenderung naik dari tahun ke tahun.",
+                "ES": "Los precios tienden a subir año tras año.",
+                "VI": "Giá cả có xu hướng tăng theo từng năm.",
+                "FR": "Les prix ont tendance à augmenter d’année en année.",
+                "NE": "मूल्यहरू वर्षैपिच्छे बढ्दै जान्छन्।",
+                "BN": "বছরের পর বছর দাম বাড়তে থাকে।",
+                "ZH": "价格呈逐年上涨趋势。",
+                "KO": "물가는 해마다 상승세에 있다.",
+                "TL": "Ang mga presyo ay may posibilidad na tumaas taon-taon.",
+                "MY": "စျေးနှုန်းများသည် တစ်နှစ်ထက်တစ်နှစ် မြင့်တက်လာတတ်သည်။",
+                "HI": "कीमतें साल दर साल बढ़ती रहती हैं।",
+                "AR": "تميل الأسعار إلى الارتفاع سنة بعد سنة.",
+                "FA": "قیمت‌ها سال به سال تمایل به افزایش دارند."
+            }
+        },
+        {
+            "kanji": "彼は話を短くまとめる傾向がある。",
+            "furigana": "彼(かれ)は話(はなし)を短(みじか)くまとめる傾向(けいこう)がある。",
+            "translations": {
+                "EN": "He tends to keep his stories short.",
+                "ID": "Dia cenderung membuat ceritanya pendek.",
+                "ES": "Él tiende a mantener sus historias breves.",
+                "VI": "Ông có xu hướng kể chuyện ngắn gọn.",
+                "FR": "Il a tendance à garder ses histoires courtes.",
+                "NE": "उनी आफ्ना कथाहरू छोटो राख्ने गर्छन्।",
+                "BN": "তিনি তার গল্পগুলো ছোট রাখতে পছন্দ করেন।",
+                "ZH": "他的故事往往简短。",
+                "KO": "그는 이야기를 짧게 정리하는 경향이 있습니다.",
+                "TL": "Siya ay may posibilidad na panatilihing maikli ang kanyang mga kuwento.",
+                "MY": "သူ့ဇာတ်လမ်းတွေကို အတိုချုံးပြီး ရေးတတ်တယ်။",
+                "HI": "वह अपनी कहानियाँ छोटी रखना पसंद करते हैं।",
+                "AR": "يميل إلى إبقاء قصصه قصيرة.",
+                "FA": "او عادت دارد داستان‌هایش را کوتاه بنویسد."
+            }
+        },
+        {
+            "kanji": "雨の日は、客が少ない傾向がある。",
+            "furigana": "雨(あめ)の日(ひ)は、客(きゃく)が少(すく)ない傾向(けいこう)がある。",
+            "translations": {
+                "EN": "There tend to be fewer customers on rainy days.",
+                "ID": "Pada hari hujan, pelanggan cenderung lebih sedikit.",
+                "ES": "Suele haber menos clientes en los días de lluvia.",
+                "VI": "Vào những ngày mưa, lượng khách hàng thường ít hơn.",
+                "FR": "Il y a généralement moins de clients les jours de pluie.",
+                "NE": "वर्षाको दिनमा ग्राहकहरू कम हुन्छन्।",
+                "BN": "বৃষ্টির দিনে গ্রাহক কম থাকে।",
+                "ZH": "下雨天顾客通常会较少。",
+                "KO": "비오는 날에는 손님이 적은 경향이 있습니다.",
+                "TL": "May posibilidad na mas kaunting mga customer kapag tag-ulan.",
+                "MY": "မိုးရွာတဲ့နေ့တွေမှာ ဖောက်သည် နည်းပါးသွားတတ်ပါတယ်။",
+                "HI": "बरसात के दिनों में ग्राहक कम आते हैं।",
+                "AR": "يميل عدد العملاء إلى أن يكون أقل في الأيام الممطرة.",
+                "FA": "در روزهای بارانی معمولاً تعداد مشتریان کمتر است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "kecenderungan",
+            "ES": "tendencia",
+            "VI": "xu hướng",
+            "FR": "tendance",
+            "NE": "प्रवृत्ति",
+            "BN": "প্রবণতা",
+            "ZH": "趋势",
+            "KO": "성향",
+            "TL": "ugali",
+            "MY": "ပြောမယ်ဆိုရင်",
+            "HI": "प्रवृत्ति",
+            "AR": "نزعة",
+            "FA": "گرایش",
+            "EN": [
+                "tendency",
+                "inclination",
+                "propensity",
+                "disposition",
+                "bias"
+            ]
+        },
+        {
+            "ID": "kecenderungan",
+            "ES": "tendencia",
+            "VI": "xu hướng",
+            "FR": "s'orienter",
+            "NE": "प्रवृत्ति",
+            "BN": "প্রবণতা",
+            "ZH": "趋势",
+            "KO": "경향",
+            "TL": "uso",
+            "MY": "လမ်းကြောင်းသစ်",
+            "HI": "रुझान",
+            "AR": "اتجاه",
+            "FA": "روند",
+            "EN": [
+                "trend",
+                "movement",
+                "pattern",
+                "direction"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "傾向",
+        "is_common": true,
+        "tags": [
+            "wanikani38"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "傾向",
+                "reading": "けいこう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "tendency",
+                    "trend",
+                    "inclination"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "傾",
+        "向"
+    ],
+    "kanji_data": {
+        "傾": {
+            "freq_mainichi_shinbun": 938,
+            "grade": 8,
+            "heisig_en": "lean",
+            "jlpt": 2,
+            "kanji": "傾",
+            "kun_readings": [
+                "かし.げる",
+                "かた.げる",
+                "かたぶ.く",
+                "かたむ.く",
+                "かたむ.ける"
+            ],
+            "meanings": [
+                "bias",
+                "incline",
+                "lean",
+                "ruin",
+                "sink",
+                "tilt",
+                "trend",
+                "wane"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ケイ"
+            ],
+            "stroke_count": 13,
+            "unicode": "50BE"
+        },
+        "向": {
+            "freq_mainichi_shinbun": 182,
+            "grade": 3,
+            "heisig_en": "yonder",
+            "jlpt": 3,
+            "kanji": "向",
+            "kun_readings": [
+                "-む.き",
+                "-む.け",
+                "む.い",
+                "む.かい",
+                "む.かう",
+                "む.く",
+                "む.ける",
+                "む.こう",
+                "む.こう-",
+                "むか.い",
+                "むこ"
+            ],
+            "meanings": [
+                "approach",
+                "beyond",
+                "confront",
+                "defy",
+                "facing",
+                "tend toward",
+                "yonder"
+            ],
+            "name_readings": [
+                "こお",
+                "た",
+                "な",
+                "むか",
+                "むかい",
+                "むこう"
+            ],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5411"
+        }
+    }
+}

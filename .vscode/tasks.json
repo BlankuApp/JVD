@@ -27,7 +27,8 @@
             "type": "shell",
             "command": "${workspaceFolder}/.venv/Scripts/python.exe",
             "args": [
-                "src/db/db_word.py"
+                "-m",
+                "src.db.db_word"
             ]
         },
         {

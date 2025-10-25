@@ -2,7 +2,7 @@
 | --- | --- | --- |
 |  | あっ | Ah!,Oh! |
 | 愛 | あい | love |
-| 挨拶 | あいさつ | greeting,salutation |
+| **挨拶** | あいさつ | greeting,salutation |
 | 愛情 | あいじょう | love,affection |
 | **合図** | あいず | sign,signal |
 |  | アイスクリーム | ice cream |
@@ -24,7 +24,7 @@
 | 汗 | あせ | sweat,perspiration |
 | **与える** | あたえる | to give,to present,to award |
 | 暖かい | あたたか(い) | warm,mild |
-| 辺り | あたり | vicinity,nearby |
+| **辺り** | あたり | vicinity,nearby |
 | 当たる | あたる | to be hit,to be successful,to be equivalent to |
 |  | あちこち | here and there |
 | **扱う** | あつかう | to handle,to deal with,to treat |
@@ -34,7 +34,7 @@
 |  | あと | (1) trace,tracks,(2) remains,ruins,(3) scar |
 | **穴** | あな | hole |
 | 浴びる | あびる | to bathe,to bask in the sun,to shower |
-| 油 | あぶら | oil |
+| **油** | あぶら | oil |
 | 余り | あまり | not very (used as adverb),not much |
 | **誤り** | あやまり | error |
 | 粗 | あら | defect,flaw,blemish,weak point |
@@ -63,7 +63,7 @@
 |  | いい | good |
 |  | よい | good,nice,pleasant,ok |
 | いえ | いえ | TODO same as いいえ? |
-| 委員 | いいん | committee member |
+| **委員** | いいん | committee member |
 | 言う | ゆう | to say |
 | **意外** | いがい | unexpected,surprising |
 | 行き | いき | going |
@@ -91,7 +91,7 @@
 |  | いただきます | expression of gratitude before meals |
 | **頂く** | いただく | to receive,to take food or drink (hum) |
 | 痛み | いたみ | pain,ache,sore,grief,distress |
-| 至る | いたる | to come,to arrive |
+| **至る** | いたる | to come,to arrive |
 |  | いち | market,fair |
 | **位置** | いち | place,situation,position,location |
 | 一時 | いちじ | moment,time |
@@ -122,13 +122,13 @@
 | **今に** | いまに | before long,even now |
 | 今にも | いまにも | at any time,soon |
 | 否 | いや | no,the noes |
-| 以来 | いらい | since,henceforth |
+| **以来** | いらい | since,henceforth |
 | 依頼 | いらい | (1) request,commission,dispatch,(2) dependence,trust |
 |  | いらいら | getting nervous,irritation |
 |  | いらっしゃい | welcome |
 | **医療** | いりょう | medical care,medical treatment |
 | 岩 | いわ | rock,crag |
-| 祝い | いわい | celebration,festival |
+| **祝い** | いわい | celebration,festival |
 | 祝う | いわう | to congratulate,to celebrate |
 | 言わば | いわば | so to speak |
 |  | **いわゆる** | the so-called,so to speak |
@@ -161,7 +161,7 @@
 | **うまい** | うまい | delicious |
 | 生まれ | うまれ | birth,birth-place |
 | 梅 | うめ | plum,plum-tree,lowest (of a three-tier ranking system) |
-| 裏切る | うらぎる | to betray,to turn traitor to,to double-cross |
+| **裏切る** | うらぎる | to betray,to turn traitor to,to double-cross |
 |  | うるさい | noisy,loud,fussy |
 | 嬉しい | うれしい | happy,glad,pleasant |
 | 売れる | うれる | to be sold |
@@ -193,12 +193,12 @@
 | 遠慮 | えんりょ | diffidence,restraint,reserve |
 | 御 | お | honourable |
 | 老い | おい | old age,old person,the old,the aged |
-| 追い付く | おいつく | to overtake,to catch up (with) |
+| **追い付く** | おいつく | to overtake,to catch up (with) |
 | 王 | おう | king,ruler,sovereign,monarch |
 | **追う** | おう | to chase,to run after |
 | 王様 | おうさま | king |
 | 王子 | おうじ | prince |
-| 応じる | おうじる | to respond,to satisfy,to accept,to comply with,to apply for |
+| **応じる** | おうじる | to respond,to satisfy,to accept,to comply with,to apply for |
 | 横断 | おうだん | crossing |
 | 終える | おえる | to finish |
 | 大いに | おおいに | very,much,greatly |
@@ -210,7 +210,7 @@
 | 奥 | おく | interior,inner part |
 | **贈る** | おくる | to send,to give to,to award to,to confer on |
 | 起こる | おこる | to occur,to happen |
-| 幼い | おさない | very young,childish |
+| **幼い** | おさない | very young,childish |
 | **収める** | おさめる | to obtain,to reap,to pay,to supply,to accept |
 |  | おじいさん | grandfather,male senior-citizen |
 |  | おしゃべり | chattering,talk,idle talk |
@@ -252,7 +252,7 @@
 |  | カード | card,curd |
 | **会** | かい | meeting,assembly,party,association,club |
 | 回 | かい | counter for occurrences |
-| 害 | がい | injury,harm,evil influence,damage |
+| **害** | がい | injury,harm,evil influence,damage |
 | **会員** | かいいん | member,the membership |
 | 絵画 | かいが | picture |
 | **海外** | かいがい | foreign,abroad,overseas |
@@ -289,7 +289,7 @@
 | **学者** | がくしゃ | scholar |
 | 学習 | がくしゅう | study,learning |
 | **隠す** | かくす | to hide,to conceal |
-| 拡大 | かくだい | magnification,enlargement |
+| **拡大** | かくだい | magnification,enlargement |
 | 確認 | かくにん | affirmation,confirmation |
 | **学問** | がくもん | scholarship,study,learning |
 | 隠れる | かくれる | to hide,to be hidden,to conceal oneself,to disappear |
@@ -322,7 +322,7 @@
 | **学期** | がっき | term (school) |
 | 格好 | かっこう | shape,form,posture,suitability |
 | 活動 | かつどう | action,activity |
-| 活用 | かつよう | conjugation,practical use |
+| **活用** | かつよう | conjugation,practical use |
 | 悲しむ | かなしむ | to be sad,to mourn for,to regret |
 | 必ずしも | かならずしも | (not) always,(not) necessarily,(not) all,(not) entirely |
 |  | **かなり** | considerably,fairly,quite |
@@ -363,7 +363,7 @@
 | 勘定 | かんじょう | calculation,counting,consideration |
 | 感情 | かんじょう | emotion(s),feeling(s),sentiment |
 | 感じる | かんじる | to feel,to sense,to experience |
-| 感心 | かんしん | admiration,Well done! |
+| **感心** | かんしん | admiration,Well done! |
 | 関心 | かんしん | concern,interest |
 | 関する | かんする | to concern,to be related |
 | 完成 | かんせい | (1) complete,completion,(2) perfection,accomplishment |
@@ -399,7 +399,7 @@
 | 気付く | きづく | to notice,to recognize,to become aware of |
 | 気に入る | きにいる | to be pleased with,to suit |
 | 記入 | きにゅう | entry,filling in of forms |
-| 記念 | きねん | commemoration,memory |
+| **記念** | きねん | commemoration,memory |
 | 機能 | きのう | function,faculty |
 | 気の毒 | きのどく | pitiful,a pity |
 | 寄付 | きふ | contribution,donation |
@@ -434,7 +434,7 @@
 | 教授 | きょうじゅ | teaching,instruction,professor |
 | **強調** | きょうちょう | emphasis,stress,stressed point |
 | 共通 | きょうつう | commonness,community |
-| 共同 | きょうどう | cooperation,association,collaboration,joint |
+| **共同** | きょうどう | cooperation,association,collaboration,joint |
 | 恐怖 | きょうふ | be afraid,dread,dismay,terror |
 | 協力 | きょうりょく | cooperation,collaboration |
 | 強力 | きょうりょく | herculean strength,mountain carrier-guide |
@@ -473,7 +473,7 @@
 | **具体** | ぐたい | concrete,tangible,material |
 | 下さる | くださる | (hon) to give,to confer |
 | 下り | くだり | down-train (going away from Tokyo) |
-| 苦痛 | くつう | pain,agony |
+| **苦痛** | くつう | pain,agony |
 |  | ぐっすり | sound asleep,fast asleep |
 | 区別 | くべつ | distinction,differentiation,classification |
 | 組 | くみ | class,group,team,set |
@@ -509,7 +509,7 @@
 | 計画 | けいかく | plan,project,schedule,scheme,program |
 | 景気 | けいき | condition,state,business (condition) |
 | 経験 | けいけん | experience |
-| 傾向 | けいこう | tendency,trend,inclination |
+| **傾向** | けいこう | tendency,trend,inclination |
 | 警告 | けいこく | warning,advice |
 | **計算** | けいさん | calculation,reckoning |
 | 掲示 | けいじ | notice,bulletin |
@@ -550,7 +550,7 @@
 | **建設** | けんせつ | construction,establishment |
 | 現代 | げんだい | nowadays,modern times,present-day |
 | 建築 | けんちく | construction,architecture |
-| 見当 | けんとう | be found,aim,estimate,guess,approx |
+| **見当** | けんとう | be found,aim,estimate,guess,approx |
 | 検討 | けんとう | consideration,examination,investigation,study,scrutiny |
 | 現場 | げんば | actual spot,scene,scene of the crime |
 | 憲法 | けんぽう | constitution |
@@ -591,7 +591,7 @@
 | 氷 | こおり | ice,hail |
 | 凍る | こおる | to freeze,to be frozen over,to congeal |
 |  | ゴール | goal |
-| 誤解 | ごかい | misunderstanding |
+| **誤解** | ごかい | misunderstanding |
 | 語学 | ごがく | language study |
 | 呼吸 | こきゅう | breath,respiration |
 | 故郷 | こきょう | home town,birthplace,old village,historic village |
@@ -606,7 +606,7 @@
 | 故障 | こしょう | break-down,failure,accident,out of order |
 | 個人 | こじん | individual,private person,personal,private |
 | 越す | こす | to go over (e.g. with audience) |
-| 国家 | こっか | state,country,nation |
+| **国家** | こっか | state,country,nation |
 | 国会 | こっかい | National Diet,parliament,congress |
 | 国境 | こっきょう | national or state border |
 | 骨折 | こっせつ | bone fracture |
@@ -649,7 +649,7 @@
 | **才能** | さいのう | talent,ability |
 | 裁判 | さいばん | trial,judgement |
 | 材料 | ざいりょう | ingredients,material |
-| 幸い | さいわい | happiness,blessedness |
+| **幸い** | さいわい | happiness,blessedness |
 |  | サイン | (1) autograph,(2) sign,(3) sine |
 | 境 | さかい | border,boundary,mental state |
 | 逆らう | さからう | to go against,to oppose,to disobey,to defy |
@@ -721,7 +721,7 @@
 | 事態 | じたい | situation,present state of affairs |
 | **従う** | したがう | to abide (by the rules),to obey,to follow,to accompany |
 | したがって | したがって | therefore,consequently,in accordance with |
-| 支度 | したく | preparation |
+| **支度** | したく | preparation |
 | 親しい | したしい | intimate,close (e.g. friend) |
 | 七 | しち | seven |
 | 質 | しつ | quality,nature (of person) |
@@ -795,7 +795,7 @@
 | 首都 | しゅと | capital city |
 | 主婦 | しゅふ | housewife,mistress |
 | 主要 | しゅよう | chief,main,principal,major |
-| 需要 | じゅよう | demand,request |
+| **需要** | じゅよう | demand,request |
 | 種類 | しゅるい | variety,kind,type |
 | 順 | じゅん | order,turn |
 | **瞬間** | しゅんかん | moment,second,instant |

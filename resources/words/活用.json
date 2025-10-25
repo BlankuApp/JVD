@@ -1,0 +1,530 @@
+{
+    "version": "0.3.0",
+    "word": "活用",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/IzmWPEG1WSo",
+    "in_db": true,
+    "kanji": "活用",
+    "reading": "かつよう",
+    "introduction_japanese": "活用。会社や学校で、時間やデータの話でよく出ます。文法の授業でも、動詞の形の話で出ます。",
+    "introduction_english": "かつよう. At work and school, it comes up when talking about time and data. In grammar class, it appears when talking about verb forms.",
+    "meanings": [
+        [
+            "utilization",
+            "use",
+            "application",
+            "leveraging",
+            "deployment"
+        ],
+        [
+            "conjugation",
+            "inflection"
+        ]
+    ],
+    "meaning_explanation_japanese": "物や時間をうまく使うこと、または応用することです。文法では、動詞や形容詞の形が変わることです。",
+    "meaning_explanation_english": "It is used as a noun, and also as a する-verb. In simple words, かつよう means making good use of something or applying it; in grammar, it means how verb or adjective forms change.",
+    "youtube_description": "Learn かつよう in minutes: meaning, reading, everyday uses, and the grammar sense (verb forms), with clear examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "活",
+            "onyomi": [
+                "カツ"
+            ],
+            "kunyomi": [
+                "い(きる)",
+                "い(かす)"
+            ],
+            "meanings_english": [
+                "active",
+                "lively",
+                "life"
+            ],
+            "common_words": [
+                "生活 : せいかつ : life; daily living",
+                "活動 : かつどう : activity; action"
+            ]
+        },
+        {
+            "kanji": "用",
+            "onyomi": [
+                "ヨウ"
+            ],
+            "kunyomi": [
+                "もち(いる)"
+            ],
+            "meanings_english": [
+                "use",
+                "task",
+                "purpose"
+            ],
+            "common_words": [
+                "利用 : りよう : use; utilization",
+                "用事 : ようじ : errand; business"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means life and activity. You see it in せいかつ and かつどう. It carries a feeling of energy and motion. It often points to things that are in action. The second kanji means use or purpose. You see it in りよう and ようじ. It is about putting something to work. It often focuses on practical needs.",
+    "synonyms": [
+        "利用 : りよう : use",
+        "応用 : おうよう : application"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are りよう and おうよう. りよう overlaps when you mean plain use. おうよう overlaps when you adapt knowledge to a new case. かつよう often sounds broader or more effective.",
+    "antonyms": [
+        "放置 : ほうち : neglect",
+        "無駄遣い : むだづかい : waste"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are ほうち and むだづかい. ほうち is leaving something unused. むだづかい is using something wastefully. Both contrast with making good use of things.",
+    "collocations": [
+        {
+            "kanji": "資源の活用",
+            "furigana": "資源(しげん)の活用(かつよう)",
+            "translations": {
+                "EN": "Utilization of resources",
+                "ID": "Pemanfaatan sumber daya",
+                "ES": "Utilización de recursos",
+                "VI": "Sử dụng tài nguyên",
+                "FR": "Utilisation des ressources",
+                "NE": "स्रोतसाधनको उपयोग",
+                "BN": "সম্পদের ব্যবহার",
+                "ZH": "资源利用",
+                "KO": "자원 활용",
+                "TL": "Paggamit ng mga mapagkukunan",
+                "MY": "အရင်းအမြစ်များကို အသုံးချခြင်း။",
+                "HI": "संसाधनों का उपयोग",
+                "AR": "استخدام الموارد",
+                "FA": "استفاده از منابع"
+            }
+        },
+        {
+            "kanji": "時間の活用",
+            "furigana": "時間(じかん)の活用(かつよう)",
+            "translations": {
+                "EN": "Utilizing time",
+                "ID": "Memanfaatkan waktu",
+                "ES": "Aprovechar el tiempo",
+                "VI": "Sử dụng thời gian",
+                "FR": "Utiliser le temps",
+                "NE": "समयको सदुपयोग",
+                "BN": "সময় কাজে লাগানো",
+                "ZH": "利用时间",
+                "KO": "시간 활용",
+                "TL": "Gumagamit ng oras",
+                "MY": "အချိန်ကိုအသုံးချပါ။",
+                "HI": "समय का उपयोग",
+                "AR": "استغلال الوقت",
+                "FA": "استفاده از زمان"
+            }
+        },
+        {
+            "kanji": "人材の活用",
+            "furigana": "人材(じんざい)の活用(かつよう)",
+            "translations": {
+                "EN": "Utilization of human resources",
+                "ID": "Pemanfaatan sumber daya manusia",
+                "ES": "Utilización de recursos humanos",
+                "VI": "Sử dụng nguồn nhân lực",
+                "FR": "Utilisation des ressources humaines",
+                "NE": "मानव संसाधनको उपयोग",
+                "BN": "মানব সম্পদের সদ্ব্যবহার",
+                "ZH": "人力资源利用",
+                "KO": "인재 활용",
+                "TL": "Paggamit ng human resources",
+                "MY": "လူ့စွမ်းအားအရင်းအမြစ်ကို အသုံးချခြင်း။",
+                "HI": "मानव संसाधनों का उपयोग",
+                "AR": "استغلال الموارد البشرية",
+                "FA": "استفاده از منابع انسانی"
+            }
+        },
+        {
+            "kanji": "動詞の活用",
+            "furigana": "動詞(どうし)の活用(かつよう)",
+            "translations": {
+                "EN": "Verb conjugation",
+                "ID": "Konjugasi kata kerja",
+                "ES": "Conjugación de verbos",
+                "VI": "Chia động từ",
+                "FR": "Conjugaison des verbes",
+                "NE": "क्रिया संयोजन",
+                "BN": "ক্রিয়া সংযোজন",
+                "ZH": "动词变位",
+                "KO": "동사 활용",
+                "TL": "Banghay ng pandiwa",
+                "MY": "ကြိယာပေါင်းစပ်ခြင်း။",
+                "HI": "क्रिया संयुग्मन",
+                "AR": "تصريف الفعل",
+                "FA": "صرف فعل"
+            }
+        },
+        {
+            "kanji": "効果的な活用",
+            "furigana": "効果的(こうかてき)な活用(かつよう)",
+            "translations": {
+                "EN": "Effective use",
+                "ID": "Penggunaan yang efektif",
+                "ES": "Uso eficaz",
+                "VI": "Sử dụng hiệu quả",
+                "FR": "Utilisation efficace",
+                "NE": "प्रभावकारी प्रयोग",
+                "BN": "কার্যকর ব্যবহার",
+                "ZH": "有效利用",
+                "KO": "효과적인 활용",
+                "TL": "Epektibong paggamit",
+                "MY": "ထိရောက်စွာအသုံးပြုခြင်း။",
+                "HI": "प्रभावी उपयोग",
+                "AR": "الاستخدام الفعال",
+                "FA": "استفاده مؤثر"
+            }
+        },
+        {
+            "kanji": "最大限の活用",
+            "furigana": "最大限(さいだいげん)の活用(かつよう)",
+            "translations": {
+                "EN": "Making the most of it",
+                "ID": "Memanfaatkannya secara maksimal",
+                "ES": "Aprovecharlo al máximo",
+                "VI": "Tận dụng tối đa nó",
+                "FR": "En tirer le meilleur parti",
+                "NE": "यसको अधिकतम सदुपयोग गर्दै",
+                "BN": "এর সর্বোচ্চ ব্যবহার করা",
+                "ZH": "充分利用它",
+                "KO": "최대한 활용",
+                "TL": "Ginagawa ito nang husto",
+                "MY": "အဲဒါကို အများဆုံးလုပ်နေတယ်။",
+                "HI": "इसका अधिकतम लाभ उठाना",
+                "AR": "الاستفادة القصوى منه",
+                "FA": "نهایت استفاده را بردن از آن"
+            }
+        },
+        {
+            "kanji": "学校での活用",
+            "furigana": "学校(がっこう)での活用(かつよう)",
+            "translations": {
+                "EN": "Use in schools",
+                "ID": "Penggunaan di sekolah",
+                "ES": "Uso en las escuelas",
+                "VI": "Sử dụng trong trường học",
+                "FR": "Utilisation dans les écoles",
+                "NE": "विद्यालयहरूमा प्रयोग गर्नुहोस्",
+                "BN": "স্কুলে ব্যবহার",
+                "ZH": "在学校使用",
+                "KO": "학교에서의 활용",
+                "TL": "Gamitin sa mga paaralan",
+                "MY": "ကျောင်းများတွင်အသုံးပြုပါ။",
+                "HI": "स्कूलों में उपयोग",
+                "AR": "الاستخدام في المدارس",
+                "FA": "استفاده در مدارس"
+            }
+        },
+        {
+            "kanji": "資料を活用する",
+            "furigana": "資料(しりょう)を活用(かつよう)する",
+            "translations": {
+                "EN": "Use the materials",
+                "ID": "Gunakan bahan-bahannya",
+                "ES": "Utilice los materiales",
+                "VI": "Sử dụng các vật liệu",
+                "FR": "Utiliser les matériaux",
+                "NE": "सामग्रीहरू प्रयोग गर्नुहोस्",
+                "BN": "উপকরণ ব্যবহার করুন",
+                "ZH": "使用材料",
+                "KO": "자료 활용",
+                "TL": "Gamitin ang mga materyales",
+                "MY": "ပစ္စည်းများကိုသုံးပါ။",
+                "HI": "सामग्री का उपयोग करें",
+                "AR": "استخدم المواد",
+                "FA": "از مواد استفاده کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "このアプリを活用して、日本語を勉強します。",
+            "furigana": "このアプリを活用(かつよう)して、日本語(にほんご)を勉強(べんきょう)します。",
+            "translations": {
+                "EN": "I will use this app to study Japanese.",
+                "ID": "Saya akan menggunakan aplikasi ini untuk belajar bahasa Jepang.",
+                "ES": "Usaré esta aplicación para estudiar japonés.",
+                "VI": "Tôi sẽ sử dụng ứng dụng này để học tiếng Nhật.",
+                "FR": "J'utiliserai cette application pour étudier le japonais.",
+                "NE": "म जापानी भाषा सिक्न यो एप प्रयोग गर्नेछु।",
+                "BN": "আমি জাপানি ভাষা শেখার জন্য এই অ্যাপটি ব্যবহার করব।",
+                "ZH": "我会用这个应用程序来学习日语。",
+                "KO": "이 응용 프로그램을 활용하여 일본어를 공부합니다.",
+                "TL": "Gagamitin ko ang app na ito para mag-aral ng Japanese.",
+                "MY": "ဂျပန်စာလေ့လာဖို့ ဒီ app ကိုသုံးမယ်။",
+                "HI": "मैं जापानी भाषा सीखने के लिए इस ऐप का उपयोग करूंगा।",
+                "AR": "سأستخدم هذا التطبيق لدراسة اللغة اليابانية.",
+                "FA": "من از این برنامه برای یادگیری زبان ژاپنی استفاده خواهم کرد."
+            }
+        },
+        {
+            "kanji": "時間を上手に活用しましょう。",
+            "furigana": "時間(じかん)を上手(じょうず)に活用(かつよう)しましょう。",
+            "translations": {
+                "EN": "Make good use of your time.",
+                "ID": "Manfaatkan waktu Anda sebaik-baiknya.",
+                "ES": "Haz buen uso de tu tiempo.",
+                "VI": "Hãy tận dụng thời gian của bạn.",
+                "FR": "Faites bon usage de votre temps.",
+                "NE": "आफ्नो समयको सदुपयोग गर्नुहोस्।",
+                "BN": "তোমার সময়ের সদ্ব্যবহার করো।",
+                "ZH": "充分利用你的时间。",
+                "KO": "시간을 잘 활용합시다.",
+                "TL": "Gamitin mong mabuti ang iyong oras.",
+                "MY": "သင့်အချိန်ကို ကောင်းစွာအသုံးချပါ။",
+                "HI": "अपने समय का अच्छा उपयोग करें.",
+                "AR": "استغل وقتك جيدا .",
+                "FA": "از وقت خود به خوبی استفاده کنید."
+            }
+        },
+        {
+            "kanji": "学校でタブレットを活用しています。",
+            "furigana": "学校(がっこう)でタブレットを活用(かつよう)しています。",
+            "translations": {
+                "EN": "We use tablets at school.",
+                "ID": "Kami menggunakan tablet di sekolah.",
+                "ES": "Usamos tabletas en la escuela.",
+                "VI": "Chúng tôi sử dụng máy tính bảng ở trường.",
+                "FR": "Nous utilisons des tablettes à l'école.",
+                "NE": "हामी स्कूलमा ट्याब्लेट प्रयोग गर्छौं।",
+                "BN": "আমরা স্কুলে ট্যাবলেট ব্যবহার করি।",
+                "ZH": "我们在学校使用平板电脑。",
+                "KO": "학교에서 태블릿을 활용하고 있습니다.",
+                "TL": "Gumagamit kami ng mga tablet sa paaralan.",
+                "MY": "ကျောင်းမှာ တက်ဘလက်တွေ သုံးတယ်။",
+                "HI": "हम स्कूल में टैबलेट का उपयोग करते हैं।",
+                "AR": "نحن نستخدم الأجهزة اللوحية في المدرسة.",
+                "FA": "ما در مدرسه از تبلت استفاده می‌کنیم."
+            }
+        },
+        {
+            "kanji": "データを仕事に活用します。",
+            "furigana": "データを仕事(しごと)に活用(かつよう)します。",
+            "translations": {
+                "EN": "Put data to work.",
+                "ID": "Manfaatkan data untuk bekerja.",
+                "ES": "Ponga los datos a trabajar.",
+                "VI": "Đưa dữ liệu vào hoạt động.",
+                "FR": "Mettez les données au travail.",
+                "NE": "डेटालाई काममा लगाउनुहोस्।",
+                "BN": "ডেটা কাজে লাগান।",
+                "ZH": "让数据发挥作用。",
+                "KO": "데이터를 작업에 활용합니다.",
+                "TL": "Ilagay ang data upang gumana.",
+                "MY": "ဒေတာကို အလုပ်ဖြစ်အောင် လုပ်ပါ။",
+                "HI": "डेटा को काम में लगाएँ।",
+                "AR": "ضع البيانات للعمل.",
+                "FA": "داده‌ها را به کار بگیرید."
+            }
+        },
+        {
+            "kanji": "文法では、動詞の活用をならいます。",
+            "furigana": "文法(ぶんぽう)では、動詞(どうし)の活用(かつよう)をならいます。",
+            "translations": {
+                "EN": "In grammar, you learn how to conjugate verbs.",
+                "ID": "Dalam tata bahasa, Anda belajar cara mengkonjugasikan kata kerja.",
+                "ES": "En gramática, aprendes a conjugar verbos.",
+                "VI": "Trong ngữ pháp, bạn sẽ học cách chia động từ.",
+                "FR": "En grammaire, vous apprenez à conjuguer les verbes.",
+                "NE": "व्याकरणमा, तपाईंले क्रियापदहरू कसरी संयोजन गर्ने भनेर सिक्नुहुन्छ।",
+                "BN": "ব্যাকরণে, আপনি ক্রিয়াপদগুলিকে সংযুক্ত করতে শিখবেন।",
+                "ZH": "在语法中，您将学习如何变位动词。",
+                "KO": "문법에서는 동사의 활용을 합니다.",
+                "TL": "Sa grammar, matututo kang mag-conjugate ng mga pandiwa.",
+                "MY": "သဒ္ဒါတွင်၊ ကြိယာများကို ပေါင်းစည်းနည်းကို သင်လေ့လာပါ။",
+                "HI": "व्याकरण में आप क्रियाओं को संयोजित करना सीखते हैं।",
+                "AR": "في القواعد النحوية، تتعلم كيفية تصريف الأفعال.",
+                "FA": "در دستور زبان، شما یاد می‌گیرید که چگونه افعال را صرف کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "pemanfaatan",
+            "ES": "utilización",
+            "VI": "sử dụng",
+            "FR": "utilisation",
+            "NE": "उपयोग",
+            "BN": "ব্যবহার",
+            "ZH": "利用率",
+            "KO": "이용",
+            "TL": "paggamit",
+            "MY": "အသုံးချမှု",
+            "HI": "उपयोग",
+            "AR": "استخدام",
+            "FA": "استفاده",
+            "EN": [
+                "utilization",
+                "use",
+                "application",
+                "leveraging",
+                "deployment"
+            ]
+        },
+        {
+            "ID": "konjugasi",
+            "ES": "conjugación",
+            "VI": "sự chia động từ",
+            "FR": "conjugaison",
+            "NE": "संयुग्मन",
+            "BN": "সংযোজন",
+            "ZH": "共轭",
+            "KO": "활용",
+            "TL": "banghay",
+            "MY": "ပေါင်းစည်းခြင်း",
+            "HI": "विकार",
+            "AR": "اقتران",
+            "FA": "صرف و نحو",
+            "EN": [
+                "conjugation",
+                "inflection"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "活用",
+        "is_common": true,
+        "tags": [
+            "wanikani6"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "活用",
+                "reading": "かつよう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "practical use",
+                    "application",
+                    "making good use of",
+                    "putting to good use",
+                    "capitalizing on"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "conjugation",
+                    "inflection"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Grammar"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Grammatical conjugation"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Grammatical conjugation” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Grammatical_conjugation?oldid=494515589"
+                    },
+                    {
+                        "text": "Read “活用” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/活用?oldid=40616385"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Grammatical_conjugation"
+        }
+    },
+    "kanji_list": [
+        "活",
+        "用"
+    ],
+    "kanji_data": {
+        "活": {
+            "freq_mainichi_shinbun": 171,
+            "grade": 2,
+            "heisig_en": "lively",
+            "jlpt": 3,
+            "kanji": "活",
+            "kun_readings": [
+                "い.かす",
+                "い.きる",
+                "い.ける"
+            ],
+            "meanings": [
+                "being helped",
+                "lively",
+                "living",
+                "resuscitation"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カツ"
+            ],
+            "stroke_count": 9,
+            "unicode": "6D3B"
+        },
+        "用": {
+            "freq_mainichi_shinbun": 107,
+            "grade": 2,
+            "heisig_en": "utilize",
+            "jlpt": 4,
+            "kanji": "用",
+            "kun_readings": [
+                "もち.いる"
+            ],
+            "meanings": [
+                "business",
+                "employ",
+                "service",
+                "use",
+                "utilize"
+            ],
+            "name_readings": [
+                "たから"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ヨウ"
+            ],
+            "stroke_count": 5,
+            "unicode": "7528"
+        }
+    }
+}

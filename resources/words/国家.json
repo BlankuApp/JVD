@@ -1,0 +1,528 @@
+{
+    "version": "0.3.0",
+    "word": "国家",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/vypeAhChANY",
+    "in_db": true,
+    "kanji": "国家",
+    "reading": "こっか",
+    "introduction_japanese": "国家。ニュース、法律、国際の話でよく使うよ。社会や歴史の授業でも出てくる言葉だよ。",
+    "introduction_english": "kokka. Used often in news, law, and international topics. You also meet it in social studies and history classes.",
+    "meanings": [
+        [
+            "nation",
+            "country",
+            "state"
+        ],
+        [
+            "government",
+            "polity",
+            "authority"
+        ],
+        [
+            "national"
+        ]
+    ],
+    "meaning_explanation_japanese": "ひとつの政治のまとまりを指すことばだよ。せいふそのものや、そのしくみ・ちからの意味でも使えるよ。",
+    "meaning_explanation_english": "It is used as a noun. こっか means a sovereign country and also the government or state power behind it; used before another noun it can mean national.",
+    "youtube_description": "Learn kokka: what it means, when to use it, and how it differs from everyday kuni or seifu. Clear examples, easy collocations, and quick practice.",
+    "kanji_details": [
+        {
+            "kanji": "国",
+            "onyomi": [
+                "コク"
+            ],
+            "kunyomi": [
+                "くに"
+            ],
+            "meanings_english": [
+                "country",
+                "nation"
+            ],
+            "common_words": [
+                "外国 : がいこく : foreign country",
+                "国内 : こくない : domestic"
+            ]
+        },
+        {
+            "kanji": "家",
+            "onyomi": [
+                "カ",
+                "ケ"
+            ],
+            "kunyomi": [
+                "いえ",
+                "や"
+            ],
+            "meanings_english": [
+                "house",
+                "home",
+                "expert"
+            ],
+            "common_words": [
+                "家族 : かぞく : family",
+                "作家 : さっか : author; writer"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means country or a bounded land. You see it in がいこく to talk about a foreign country. You also see it in こくない to mean inside the country. Think of borders, flags, and maps. The second kanji means house or a professional person. It appears in かぞく for family at home. It also appears in さっか for a professional writer. Picture a roof for home, and by extension, a person of a field.",
+    "synonyms": [
+        "国 : くに : country",
+        "政府 : せいふ : government"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are くに and せいふ. くに is a broad everyday word for a country or homeland, while せいふ focuses on the ruling administration; こっか overlaps with both but is more formal and legal.",
+    "antonyms": [
+        "無政府 : むせいふ : anarchy"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むせいふ, which means the absence of government or state order, while こっか implies an organized, sovereign system.",
+    "collocations": [
+        {
+            "kanji": "国家予算",
+            "furigana": "国家(こっか)予算(よさん)",
+            "translations": {
+                "EN": "national budget",
+                "ID": "anggaran belanja negara",
+                "ES": "presupuesto nacional",
+                "VI": "ngân sách quốc gia",
+                "FR": "budget national",
+                "NE": "राष्ट्रिय बजेट",
+                "BN": "জাতীয় বাজেট",
+                "ZH": "国家预算",
+                "KO": "국가 예산",
+                "TL": "pambansang badyet",
+                "MY": "နိုင်ငံတော်ဘတ်ဂျက်",
+                "HI": "राष्ट्रीय बजट",
+                "AR": "الميزانية الوطنية",
+                "FA": "بودجه ملی"
+            }
+        },
+        {
+            "kanji": "国家機関",
+            "furigana": "国家(こっか)機関(きかん)",
+            "translations": {
+                "EN": "national institutions",
+                "ID": "lembaga-lembaga nasional",
+                "ES": "instituciones nacionales",
+                "VI": "các tổ chức quốc gia",
+                "FR": "institutions nationales",
+                "NE": "राष्ट्रिय संस्थाहरू",
+                "BN": "জাতীয় প্রতিষ্ঠান",
+                "ZH": "国家机构",
+                "KO": "국가기관",
+                "TL": "pambansang institusyon",
+                "MY": "အမျိုးသားအဖွဲ့အစည်းများ",
+                "HI": "राष्ट्रीय संस्थाओं",
+                "AR": "المؤسسات الوطنية",
+                "FA": "نهادهای ملی"
+            }
+        },
+        {
+            "kanji": "国家安全保障",
+            "furigana": "国家(こっか)安全(あんぜん)保障(ほしょう)",
+            "translations": {
+                "EN": "national security",
+                "ID": "keamanan nasional",
+                "ES": "seguridad nacional",
+                "VI": "an ninh quốc gia",
+                "FR": "sécurité nationale",
+                "NE": "राष्ट्रिय सुरक्षा",
+                "BN": "জাতীয় নিরাপত্তা",
+                "ZH": "国家安全",
+                "KO": "국가 안보",
+                "TL": "pambansang seguridad",
+                "MY": "အမျိုးသားလုံခြုံရေး",
+                "HI": "राष्ट्रीय सुरक्षा",
+                "AR": "الأمن القومي",
+                "FA": "امنیت ملی"
+            }
+        },
+        {
+            "kanji": "国家政策",
+            "furigana": "国家(こっか)政策(せいさく)",
+            "translations": {
+                "EN": "national policy",
+                "ID": "kebijakan nasional",
+                "ES": "política nacional",
+                "VI": "chính sách quốc gia",
+                "FR": "politique nationale",
+                "NE": "राष्ट्रिय नीति",
+                "BN": "জাতীয় নীতি",
+                "ZH": "国策",
+                "KO": "국가정책",
+                "TL": "pambansang patakaran",
+                "MY": "အမျိုးသားရေးမူဝါဒ",
+                "HI": "राष्ट्रीय नीति",
+                "AR": "السياسة الوطنية",
+                "FA": "سیاست ملی"
+            }
+        },
+        {
+            "kanji": "国家試験",
+            "furigana": "国家(こっか)試験(しけん)",
+            "translations": {
+                "EN": "National Examination",
+                "ID": "Ujian Nasional",
+                "ES": "Examen Nacional",
+                "VI": "Kỳ thi quốc gia",
+                "FR": "Examen national",
+                "NE": "राष्ट्रिय परीक्षा",
+                "BN": "জাতীয় পরীক্ষা",
+                "ZH": "国家考试",
+                "KO": "국가 시험",
+                "TL": "Pambansang Pagsusulit",
+                "MY": "အမျိုးသားစာမေးပွဲ",
+                "HI": "राष्ट्रीय परीक्षा",
+                "AR": "الامتحان الوطني",
+                "FA": "آزمون سراسری"
+            }
+        },
+        {
+            "kanji": "国家の責任",
+            "furigana": "国家(こっか)の責任(せきにん)",
+            "translations": {
+                "EN": "State Responsibility",
+                "ID": "Tanggung Jawab Negara",
+                "ES": "Responsabilidad del Estado",
+                "VI": "Trách nhiệm của Nhà nước",
+                "FR": "Responsabilité de l'État",
+                "NE": "राज्यको दायित्व",
+                "BN": "রাষ্ট্রীয় দায়িত্ব",
+                "ZH": "国家责任",
+                "KO": "국가의 책임",
+                "TL": "Pananagutan ng Estado",
+                "MY": "နိုင်ငံတော်က တာဝန်ကျေတယ်။",
+                "HI": "राज्य की जिम्मेदारी",
+                "AR": "مسؤولية الدولة",
+                "FA": "مسئولیت دولت"
+            }
+        },
+        {
+            "kanji": "国家の利益",
+            "furigana": "国家(こっか)の利益(りえき)",
+            "translations": {
+                "EN": "national interest",
+                "ID": "kepentingan nasional",
+                "ES": "interés nacional",
+                "VI": "lợi ích quốc gia",
+                "FR": "intérêt national",
+                "NE": "राष्ट्रिय हित",
+                "BN": "জাতীয় স্বার্থ",
+                "ZH": "国家利益",
+                "KO": "국가 이익",
+                "TL": "pambansang interes",
+                "MY": "အမျိုးသားအကျိုးစီးပွား",
+                "HI": "राष्ट्रीय हित",
+                "AR": "المصلحة الوطنية",
+                "FA": "منافع ملی"
+            }
+        },
+        {
+            "kanji": "国家間の関係",
+            "furigana": "国家(こっか)間(かん)の関係(かんけい)",
+            "translations": {
+                "EN": "Relations between nations",
+                "ID": "Hubungan antar negara",
+                "ES": "Relaciones entre naciones",
+                "VI": "Quan hệ giữa các quốc gia",
+                "FR": "Relations entre les nations",
+                "NE": "राष्ट्रहरू बीचको सम्बन्ध",
+                "BN": "জাতির মধ্যে সম্পর্ক",
+                "ZH": "国家间关系",
+                "KO": "국가 간의 관계",
+                "TL": "Mga relasyon sa pagitan ng mga bansa",
+                "MY": "လူမျိုးအချင်းချင်း ဆက်ဆံရေး",
+                "HI": "राष्ट्रों के बीच संबंध",
+                "AR": "العلاقات بين الدول",
+                "FA": "روابط بین ملت‌ها"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この国家は小さいです。",
+            "furigana": "この国家(こっか)は小(ちい)さいです。",
+            "translations": {
+                "EN": "This country is small.",
+                "ID": "Negara ini kecil.",
+                "ES": "Este país es pequeño.",
+                "VI": "Đất nước này nhỏ lắm.",
+                "FR": "Ce pays est petit.",
+                "NE": "यो देश सानो छ।",
+                "BN": "এই দেশটি ছোট।",
+                "ZH": "这个国家很小。",
+                "KO": "이 국가는 작습니다.",
+                "TL": "Maliit ang bansang ito.",
+                "MY": "ဒီတိုင်းပြည်က သေးငယ်တယ်။",
+                "HI": "यह देश छोटा है.",
+                "AR": "هذه الدولة صغيرة.",
+                "FA": "این کشور کوچک است."
+            }
+        },
+        {
+            "kanji": "私は国家の歴史を勉強します。",
+            "furigana": "私(わたし)は国家(こっか)の歴史(れきし)を勉強(べんきょう)します。",
+            "translations": {
+                "EN": "I study national history.",
+                "ID": "Saya mempelajari sejarah nasional.",
+                "ES": "Estudio historia nacional.",
+                "VI": "Tôi học lịch sử dân tộc.",
+                "FR": "J'étudie l'histoire nationale.",
+                "NE": "म राष्ट्रिय इतिहास पढ्छु।",
+                "BN": "আমি জাতীয় ইতিহাস পড়ি।",
+                "ZH": "我研究的是国家历史。",
+                "KO": "나는 국가의 역사를 공부합니다.",
+                "TL": "Nag-aaral ako ng pambansang kasaysayan.",
+                "MY": "အမျိုးသားသမိုင်းကို လေ့လာတယ်။",
+                "HI": "मैं राष्ट्रीय इतिहास का अध्ययन करता हूं.",
+                "AR": "أدرس التاريخ الوطني.",
+                "FA": "من تاریخ ملی را مطالعه می‌کنم."
+            }
+        },
+        {
+            "kanji": "国家の予算は大きいです。",
+            "furigana": "国家(こっか)の予算(よさん)は大(おお)きいです。",
+            "translations": {
+                "EN": "The state budget is large.",
+                "ID": "Anggaran negara besar.",
+                "ES": "El presupuesto estatal es grande.",
+                "VI": "Ngân sách nhà nước lớn.",
+                "FR": "Le budget de l’État est important.",
+                "NE": "राज्यको बजेट ठूलो छ।",
+                "BN": "রাজ্যের বাজেট বিশাল।",
+                "ZH": "国家预算很大。",
+                "KO": "국가 예산은 크다.",
+                "TL": "Malaki ang badyet ng estado.",
+                "MY": "နိုင်ငံတော်ဘတ်ဂျက်က ကြီးတယ်။",
+                "HI": "राज्य का बजट बड़ा है।",
+                "AR": "ميزانية الدولة كبيرة.",
+                "FA": "بودجه دولتی زیاد است."
+            }
+        },
+        {
+            "kanji": "彼らは国家を守ります。",
+            "furigana": "彼(かれ)らは国家(こっか)を守(まも)ります。",
+            "translations": {
+                "EN": "They protect the nation.",
+                "ID": "Mereka melindungi bangsa.",
+                "ES": "Ellos protegen la nación.",
+                "VI": "Họ bảo vệ đất nước.",
+                "FR": "Ils protègent la nation.",
+                "NE": "तिनीहरूले राष्ट्रको रक्षा गर्छन्।",
+                "BN": "তারা জাতিকে রক্ষা করে।",
+                "ZH": "他们保卫国家。",
+                "KO": "그들은 국가를 보호합니다.",
+                "TL": "Pinoprotektahan nila ang bansa.",
+                "MY": "နိုင်ငံတော်ကို ကာကွယ်စောင့်ရှောက်ကြတယ်။",
+                "HI": "वे राष्ट्र की रक्षा करते हैं।",
+                "AR": "إنهم يحمون الأمة.",
+                "FA": "آنها از ملت محافظت می‌کنند."
+            }
+        },
+        {
+            "kanji": "その会議で、二つの国家が話し合いました。",
+            "furigana": "その会議(かいぎ)で、二(ふた)つの国家(こっか)が話(はな)し合(あ)いました。",
+            "translations": {
+                "EN": "At the conference, the two nations discussed.",
+                "ID": "Pada konferensi tersebut, kedua negara berdiskusi.",
+                "ES": "En la conferencia, las dos naciones discutieron.",
+                "VI": "Tại hội nghị, hai nước đã thảo luận.",
+                "FR": "Lors de la conférence, les deux nations ont discuté.",
+                "NE": "सम्मेलनमा दुई राष्ट्रहरूले छलफल गरे।",
+                "BN": "সম্মেলনে, দুই দেশ আলোচনা করেছে।",
+                "ZH": "两国在会上进行了讨论。",
+                "KO": "그 회의에서 두 국가가 토론했습니다.",
+                "TL": "Sa kumperensya, napag-usapan ng dalawang bansa.",
+                "MY": "ညီလာခံတွင် နှစ်နိုင်ငံ ဆွေးနွေးခဲ့ကြသည်။",
+                "HI": "सम्मेलन में दोनों देशों ने चर्चा की।",
+                "AR": "وفي المؤتمر ناقشت الدولتان:",
+                "FA": "در این کنفرانس، دو کشور به بحث و تبادل نظر پرداختند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "bangsa",
+            "ES": "nación",
+            "VI": "Quốc gia",
+            "FR": "nation",
+            "NE": "राष्ट्र",
+            "BN": "জাতি",
+            "ZH": "国家",
+            "KO": "국가",
+            "TL": "bansa",
+            "MY": "လူမျိုး",
+            "HI": "राष्ट्र",
+            "AR": "أمة",
+            "FA": "ملت",
+            "EN": [
+                "nation",
+                "country",
+                "state"
+            ]
+        },
+        {
+            "ID": "pemerintah",
+            "ES": "gobierno",
+            "VI": "chính phủ",
+            "FR": "gouvernement",
+            "NE": "सरकार",
+            "BN": "সরকার",
+            "ZH": "政府",
+            "KO": "정부",
+            "TL": "pamahalaan",
+            "MY": "အစိုးရ",
+            "HI": "सरकार",
+            "AR": "حكومة",
+            "FA": "دولت",
+            "EN": [
+                "government",
+                "polity",
+                "authority"
+            ]
+        },
+        {
+            "ID": "nasional",
+            "ES": "nacional",
+            "VI": "quốc gia",
+            "FR": "national",
+            "NE": "राष्ट्रिय",
+            "BN": "জাতীয়",
+            "ZH": "国家的",
+            "KO": "국가의",
+            "TL": "pambansa",
+            "MY": "အမျိုးသား",
+            "HI": "राष्ट्रीय",
+            "AR": "وطني",
+            "FA": "ملی",
+            "EN": [
+                "national"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "国家",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "国家",
+                "reading": "こっか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "state",
+                    "country",
+                    "nation"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "State (polity)"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “State (polity)” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/State_(polity)?oldid=495358544"
+                    },
+                    {
+                        "text": "Read “国家” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/国家?oldid=42741925"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/State_(polity)"
+        }
+    },
+    "kanji_list": [
+        "国",
+        "家"
+    ],
+    "kanji_data": {
+        "国": {
+            "freq_mainichi_shinbun": 3,
+            "grade": 2,
+            "heisig_en": "country",
+            "jlpt": 5,
+            "kanji": "国",
+            "kun_readings": [
+                "くに"
+            ],
+            "meanings": [
+                "country"
+            ],
+            "name_readings": [
+                "くな",
+                "こ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "コク"
+            ],
+            "stroke_count": 8,
+            "unicode": "56FD"
+        },
+        "家": {
+            "freq_mainichi_shinbun": 133,
+            "grade": 2,
+            "heisig_en": "house",
+            "jlpt": 4,
+            "kanji": "家",
+            "kun_readings": [
+                "いえ",
+                "うち",
+                "や"
+            ],
+            "meanings": [
+                "expert",
+                "family",
+                "home",
+                "house",
+                "performer",
+                "professional"
+            ],
+            "name_readings": [
+                "あり",
+                "え",
+                "く",
+                "つか",
+                "べ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カ",
+                "ケ"
+            ],
+            "stroke_count": 10,
+            "unicode": "5BB6"
+        }
+    }
+}

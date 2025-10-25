@@ -1,0 +1,567 @@
+{
+    "version": "0.3.0",
+    "word": "見当",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/15aec44pJJU",
+    "in_db": true,
+    "kanji": "見当",
+    "reading": "けんとう",
+    "introduction_japanese": "見当。人数をおおまかに言うときや、場所や方向を推測するときに使います。",
+    "introduction_english": "けんとう. We use it when giving a rough number, and when guessing a place or direction.",
+    "meanings": [
+        [
+            "estimate",
+            "guess",
+            "conjecture",
+            "judgment",
+            "idea"
+        ],
+        [
+            "approximation",
+            "about",
+            "around",
+            "roughly"
+        ],
+        [
+            "direction",
+            "bearing",
+            "whereabouts",
+            "clue"
+        ]
+    ],
+    "meaning_explanation_japanese": "予想や推測、だいたいの量、方角や居場所の手がかりをまとめて表す言い方です。",
+    "meaning_explanation_english": "It is used as a noun. In everyday talk, けんとう means making a guess or estimate, saying an approximate amount, or pointing to a general direction or whereabouts.",
+    "youtube_description": "Learn 見当 (けんとう) in a friendly, simple way—meanings, common phrases like 見当をつける, and easy examples so you can use it today!",
+    "kanji_details": [
+        {
+            "kanji": "見",
+            "onyomi": [
+                "ケン"
+            ],
+            "kunyomi": [
+                "み(る)",
+                "み(える)"
+            ],
+            "meanings_english": [
+                "see",
+                "look",
+                "show"
+            ],
+            "common_words": [
+                "見る・みる・to see",
+                "意見・いけん・opinion"
+            ]
+        },
+        {
+            "kanji": "当",
+            "onyomi": [
+                "トウ"
+            ],
+            "kunyomi": [
+                "あ(たる)",
+                "あ(てる)"
+            ],
+            "meanings_english": [
+                "hit",
+                "right",
+                "appropriate"
+            ],
+            "common_words": [
+                "当たる・あたる・to hit; to be right",
+                "本当・ほんとう・real; true"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to see. It is about using your eyes and noticing. You know it from みる and いけん. That idea of seeing connects to judging and forming an idea. The second kanji means to hit or to be on target. It can also mean to apply or fit. You know it from あたる and ほんとう. This gives the feeling of a guess landing on the right spot.",
+    "synonyms": [
+        "予想 : よそう : prediction",
+        "目安 : めやす : rough guide"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are よそう and めやす. よそう overlaps when you predict a result, while めやす overlaps when you give a rough guideline or amount; けんとう covers both guessing and approximate amounts plus direction.",
+    "antonyms": [
+        "正確 : せいかく : exact, accurate",
+        "確実 : かくじつ : certain"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are せいかく and かくじつ. They express exactness or certainty, while けんとう is rough, guessed, or only general in direction or amount.",
+    "collocations": [
+        {
+            "kanji": "大体の見当",
+            "furigana": "大体(だいたい)の見当(けんとう)",
+            "translations": {
+                "EN": "A rough idea",
+                "ID": "Sebuah ide kasar",
+                "ES": "Una idea aproximada",
+                "VI": "Một ý tưởng thô sơ",
+                "FR": "Une idée approximative",
+                "NE": "एउटा नराम्रो विचार",
+                "BN": "একটা রুক্ষ ধারণা।",
+                "ZH": "一个粗略的想法",
+                "KO": "대략의 전망",
+                "TL": "Isang magaspang na ideya",
+                "MY": "စိတ်ကူးကြမ်းတယ်။",
+                "HI": "एक मोटा विचार",
+                "AR": "فكرة تقريبية",
+                "FA": "یک ایده خام"
+            }
+        },
+        {
+            "kanji": "人数の見当",
+            "furigana": "人数(にんずう)の見当(けんとう)",
+            "translations": {
+                "EN": "Estimated number of people",
+                "ID": "Perkiraan jumlah orang",
+                "ES": "Número estimado de personas",
+                "VI": "Số lượng người ước tính",
+                "FR": "Nombre estimé de personnes",
+                "NE": "अनुमानित मानिसहरूको संख्या",
+                "BN": "আনুমানিক লোক সংখ্যা",
+                "ZH": "预计人数",
+                "KO": "인원수의 전망",
+                "TL": "Tinatayang bilang ng mga tao",
+                "MY": "ခန့်မှန်းခြေ လူဦးရေ",
+                "HI": "अनुमानित लोगों की संख्या",
+                "AR": "العدد التقديري للأشخاص",
+                "FA": "تعداد تخمینی افراد"
+            }
+        },
+        {
+            "kanji": "場所の見当",
+            "furigana": "場所(ばしょ)の見当(けんとう)",
+            "translations": {
+                "EN": "Location",
+                "ID": "Lokasi",
+                "ES": "Ubicación",
+                "VI": "Vị trí",
+                "FR": "Emplacement",
+                "NE": "स्थानहरू",
+                "BN": "স্থান",
+                "ZH": "地点",
+                "KO": "위치 보기",
+                "TL": "Lokasyon",
+                "MY": "တည်နေရာ",
+                "HI": "जगह",
+                "AR": "موقع",
+                "FA": "مکان"
+            }
+        },
+        {
+            "kanji": "百人見当",
+            "furigana": "百(ひゃく)人(にん)見当(けんとう)",
+            "translations": {
+                "EN": "One hundred people guess",
+                "ID": "Seratus orang menebak",
+                "ES": "Cien personas adivinan",
+                "VI": "Một trăm người đoán",
+                "FR": "Cent personnes devinent",
+                "NE": "सय जनाले अनुमान गर्छन्",
+                "BN": "একশ জন অনুমান করে",
+                "ZH": "一百人猜",
+                "KO": "백인 전망",
+                "TL": "Isang daang tao ang hula",
+                "MY": "လူတစ်ရာလောက်ထင်တာပဲ။",
+                "HI": "एक सौ लोगों का अनुमान",
+                "AR": "مائة شخص يخمنون",
+                "FA": "صد نفر حدس می‌زنند"
+            }
+        },
+        {
+            "kanji": "見当をつける",
+            "furigana": "見当(けんとう)を付(つ)ける",
+            "translations": {
+                "EN": "get an idea",
+                "ID": "mendapatkan ide",
+                "ES": "Hazte una idea",
+                "VI": "có một ý tưởng",
+                "FR": "avoir une idée",
+                "NE": "एउटा विचार लिनुहोस्",
+                "BN": "একটা ধারণা নাও",
+                "ZH": "有想法",
+                "KO": "짐작하다",
+                "TL": "makakuha ng ideya",
+                "MY": "အကြံတစ်ခုရယူပါ။",
+                "HI": "जुगत सोचो",
+                "AR": "احصل على فكرة",
+                "FA": "ایده گرفتن"
+            }
+        },
+        {
+            "kanji": "見当がつく",
+            "furigana": "見当(けんとう)が付(つ)く",
+            "translations": {
+                "EN": "I have a guess",
+                "ID": "Aku punya tebakan",
+                "ES": "Tengo una suposición",
+                "VI": "Tôi có một phỏng đoán",
+                "FR": "J'ai une supposition",
+                "NE": "मलाई अनुमान छ।",
+                "BN": "আমার একটা অনুমান আছে।",
+                "ZH": "我有一个猜测",
+                "KO": "눈에 띄는",
+                "TL": "may hula ako",
+                "MY": "ငါ့မှာ ခန့်မှန်းချက်တစ်ခုရှိတယ်။",
+                "HI": "मेरा अनुमान है",
+                "AR": "لدي تخمين",
+                "FA": "من یه حدسی دارم"
+            }
+        },
+        {
+            "kanji": "見当がつかない",
+            "furigana": "見当(けんとう)が付(つ)かない",
+            "translations": {
+                "EN": "I have no idea",
+                "ID": "aku tidak punya ide",
+                "ES": "No tengo ni idea",
+                "VI": "Tôi không biết",
+                "FR": "Je ne sais pas",
+                "NE": "मलाई थाहा छैन।",
+                "BN": "আমার কোন ধারণা নেই।",
+                "ZH": "我不知道",
+                "KO": "알 수 없다.",
+                "TL": "Wala akong ideya",
+                "MY": "မပြောတတ်ဘူး",
+                "HI": "मुझे पता नहीं है",
+                "AR": "ليس لدي أي فكرة",
+                "FA": "من هیچ ایده‌ای ندارم"
+            }
+        },
+        {
+            "kanji": "見当を外す",
+            "furigana": "見当(けんとう)を外(はず)す},{",
+            "translations": {
+                "EN": "to be off the mark",
+                "ID": "tidak tepat sasaran",
+                "ES": "Estar fuera de lugar",
+                "VI": "đi chệch hướng",
+                "FR": "être à côté de la plaque",
+                "NE": "अचम्म लाग्नु",
+                "BN": "অযোগ্য হওয়া",
+                "ZH": "偏离目标",
+                "KO": "보기",
+                "TL": "para maging off the mark",
+                "MY": "အမှတ်အသားပြုရန်",
+                "HI": "निशाने से दूर होना",
+                "AR": "أن تكون خارج الهدف",
+                "FA": "از هدف خود دور بودن"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "大体の見当はつきました。",
+            "furigana": "大体(だいたい)の見当(けんとう)は付(つ)きました。",
+            "translations": {
+                "EN": "I have a general idea.",
+                "ID": "Saya punya gambaran umum.",
+                "ES": "Tengo una idea general.",
+                "VI": "Tôi có một ý tưởng chung.",
+                "FR": "J'ai une idée générale.",
+                "NE": "मेरो एउटा सामान्य विचार छ।",
+                "BN": "আমার একটা সাধারণ ধারণা আছে।",
+                "ZH": "我有一个大概的想法。",
+                "KO": "대략의 견해는 붙었습니다.",
+                "TL": "Mayroon akong pangkalahatang ideya.",
+                "MY": "ငါ့မှာ ယေဘုယျ အကြံတစ်ခုရှိတယ်။",
+                "HI": "मेरे पास एक सामान्य विचार है.",
+                "AR": "لدي فكرة عامة.",
+                "FA": "من یه ایده کلی دارم."
+            }
+        },
+        {
+            "kanji": "人数は百人見当です。",
+            "furigana": "人数(にんずう)は百(ひゃく)人(にん)見当(けんとう)です。",
+            "translations": {
+                "EN": "The number of people is estimated at 100.",
+                "ID": "Jumlah orang diperkirakan 100.",
+                "ES": "El número de personas se estima en 100.",
+                "VI": "Số lượng người ước tính khoảng 100 người.",
+                "FR": "Le nombre de personnes est estimé à 100.",
+                "NE": "मानिसहरूको संख्या १०० अनुमान गरिएको छ।",
+                "BN": "লোক সংখ্যা ১০০ জন বলে অনুমান করা হচ্ছে।",
+                "ZH": "人数估计为100人。",
+                "KO": "인원수는 100명입니다.",
+                "TL": "Ang bilang ng mga tao ay tinatayang nasa 100.",
+                "MY": "လူဦးရေ ၁၀၀ ခန့်ရှိမည်ဟု ခန့်မှန်းထားသည်။",
+                "HI": "लोगों की संख्या अनुमानतः 100 है।",
+                "AR": "ويقدر عدد الأشخاص بنحو 100 شخص.",
+                "FA": "تعداد این افراد ۱۰۰ نفر تخمین زده می‌شود."
+            }
+        },
+        {
+            "kanji": "鍵がどこにあるか、全く見当がつきません。",
+            "furigana": "鍵(かぎ)がどこにあるか、全(まった)く見当(けんとう)が付(つ)きません。",
+            "translations": {
+                "EN": "I have no idea where the key is.",
+                "ID": "Saya tidak tahu di mana kuncinya.",
+                "ES": "No tengo idea de dónde está la llave.",
+                "VI": "Tôi không biết chìa khóa ở đâu.",
+                "FR": "Je n'ai aucune idée d'où se trouve la clé.",
+                "NE": "मलाई थाहा छैन साँचो कहाँ छ।",
+                "BN": "চাবিটা কোথায় আছে আমার কোনও ধারণা নেই।",
+                "ZH": "我不知道钥匙在哪里。",
+                "KO": "열쇠가 어디에 있는지, 전혀 알 수 없습니다.",
+                "TL": "Wala akong ideya kung nasaan ang susi.",
+                "MY": "သော့ဘယ်မှာရှိလဲ မသိပါဘူး။",
+                "HI": "मुझे नहीं पता कि चाबी कहां है।",
+                "AR": "ليس لدي أي فكرة عن مكان المفتاح.",
+                "FA": "من اصلاً نمی‌دانم کلید کجاست."
+            }
+        },
+        {
+            "kanji": "その答えは見当違いだよ。",
+            "furigana": "その答(こた)えは見当(けんとう)違(ちが)いだよ。",
+            "translations": {
+                "EN": "That answer is completely wrong.",
+                "ID": "Jawaban itu sepenuhnya salah.",
+                "ES": "Esa respuesta es completamente errónea.",
+                "VI": "Câu trả lời đó hoàn toàn sai.",
+                "FR": "Cette réponse est complètement fausse.",
+                "NE": "त्यो उत्तर पूर्णतया गलत छ।",
+                "BN": "ওই উত্তরটি সম্পূর্ণ ভুল।",
+                "ZH": "这个答案是完全错误的。",
+                "KO": "그 대답은 잘못이야.",
+                "TL": "Ang sagot na iyon ay ganap na mali.",
+                "MY": "အဲဒီအဖြေက လုံးဝမှားပါတယ်။",
+                "HI": "यह उत्तर पूर्णतः ग़लत है।",
+                "AR": "هذه الإجابة خاطئة تماما.",
+                "FA": "اون جواب کاملاً اشتباهه."
+            }
+        },
+        {
+            "kanji": "地図を見て、会場の場所に見当をつけた。",
+            "furigana": "地図(ちず)を見(み)て、会場(かいじょう)の場所(ばしょ)に見当(けんとう)を付(つ)けた。},{",
+            "translations": {
+                "EN": "I looked at the map and got an idea of where the venue was.",
+                "ID": "Saya melihat peta dan mendapat gambaran di mana tempatnya.",
+                "ES": "Miré el mapa y me hice una idea de dónde estaba el lugar.",
+                "VI": "Tôi nhìn vào bản đồ và hình dung được địa điểm tổ chức sự kiện.",
+                "FR": "J'ai regardé la carte et j'ai eu une idée de l'endroit où se trouvait le lieu.",
+                "NE": "मैले नक्सा हेरेँ र कार्यक्रम स्थल कहाँ छ भन्ने कुराको अनुमान लगाएँ।",
+                "BN": "আমি মানচিত্রটি দেখে ধারণা পেলাম যে ভেন্যুটি কোথায়।",
+                "ZH": "我看了看地图，大概知道会场在哪里。",
+                "KO": "지도를 보고, 회장의 장소에 알맞았다.",
+                "TL": "Tumingin ako sa mapa at nakakuha ng ideya kung saan ang venue.",
+                "MY": "မြေပုံကိုကြည့်လိုက်တော့ နေရာက ဘယ်မှာလဲဆိုတာ တွေးကြည့်မိတယ်။",
+                "HI": "मैंने नक्शा देखा और मुझे अंदाज़ा हो गया कि आयोजन स्थल कहाँ है।",
+                "AR": "نظرت إلى الخريطة وحصلت على فكرة عن مكان المكان.",
+                "FA": "به نقشه نگاه کردم و متوجه شدم محل برگزاری کجاست."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "memperkirakan",
+            "ES": "estimar",
+            "VI": "ước lượng",
+            "FR": "estimation",
+            "NE": "अनुमान",
+            "BN": "অনুমান",
+            "ZH": "估计",
+            "KO": "추정",
+            "TL": "tantiyahin",
+            "MY": "ခန့်မှန်းချက်",
+            "HI": "अनुमान लगाना",
+            "AR": "تقدير",
+            "FA": "تخمین",
+            "EN": [
+                "estimate",
+                "guess",
+                "conjecture",
+                "judgment",
+                "idea"
+            ]
+        },
+        {
+            "ID": "perkiraan",
+            "ES": "aproximación",
+            "VI": "xấp xỉ",
+            "FR": "approximation",
+            "NE": "अनुमान",
+            "BN": "আনুমানিকতা",
+            "ZH": "近似",
+            "KO": "근사",
+            "TL": "pagtatantya",
+            "MY": "အနီးစပ်ဆုံး",
+            "HI": "सन्निकटन",
+            "AR": "تقريب",
+            "FA": "تقریب",
+            "EN": [
+                "approximation",
+                "about",
+                "around",
+                "roughly"
+            ]
+        },
+        {
+            "ID": "arah",
+            "ES": "dirección",
+            "VI": "phương hướng",
+            "FR": "direction",
+            "NE": "दिशा",
+            "BN": "দিকনির্দেশনা",
+            "ZH": "方向",
+            "KO": "방향",
+            "TL": "direksyon",
+            "MY": "ဦးတည်ချက်",
+            "HI": "दिशा",
+            "AR": "اتجاه",
+            "FA": "جهت",
+            "EN": [
+                "direction",
+                "bearing",
+                "whereabouts",
+                "clue"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "見当",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "見当",
+                "reading": "けんとう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "estimate",
+                    "guess",
+                    "conjecture",
+                    "aim"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "direction",
+                    "bearings"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "registration mark (printing)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "approximately",
+                    "about",
+                    "around"
+                ],
+                "parts_of_speech": [
+                    "Noun, used as a suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "見",
+        "当"
+    ],
+    "kanji_data": {
+        "見": {
+            "freq_mainichi_shinbun": 22,
+            "grade": 1,
+            "heisig_en": "see",
+            "jlpt": 5,
+            "kanji": "見",
+            "kun_readings": [
+                "み.える",
+                "み.せる",
+                "み.る"
+            ],
+            "meanings": [
+                "chances",
+                "hopes",
+                "idea",
+                "look at",
+                "opinion",
+                "see",
+                "visible"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ケン"
+            ],
+            "stroke_count": 7,
+            "unicode": "898B"
+        },
+        "当": {
+            "freq_mainichi_shinbun": 91,
+            "grade": 2,
+            "heisig_en": "hit",
+            "jlpt": 3,
+            "kanji": "当",
+            "kun_readings": [
+                "あ.たり",
+                "あ.たる",
+                "あ.て",
+                "あ.てる",
+                "まさ.に",
+                "まさ.にべし"
+            ],
+            "meanings": [
+                "appropriate",
+                "himself",
+                "hit",
+                "right"
+            ],
+            "name_readings": [
+                "たい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "トウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5F53"
+        }
+    }
+}

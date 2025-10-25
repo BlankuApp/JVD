@@ -1,0 +1,469 @@
+{
+    "version": "0.3.0",
+    "word": "応じる",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/rRDJiqmWz8A",
+    "in_db": true,
+    "kanji": "応じる",
+    "reading": "おうじる",
+    "introduction_japanese": "応じる。お願い、質問、募集、しょうたい、じょうきょうに合わせる場面でよく使います。",
+    "introduction_english": "おうじる. We use this for requests, questions, recruitment, invitations, and adjusting to situations.",
+    "meanings": [
+        [
+            "respond",
+            "reply",
+            "answer"
+        ],
+        [
+            "comply",
+            "accept",
+            "consent"
+        ],
+        [
+            "meet",
+            "satisfy",
+            "fulfill],["
+        ]
+    ],
+    "meaning_explanation_japanese": "相手の働きかけに返事をする、お願いに従う、必要や期待に見合うようにする、条件や量に合うように合わせる、という感じです。",
+    "meaning_explanation_english": "It is used as an ichidan verb (ru-verb). In everyday speech, おうじる means to respond, to comply, to meet needs, or to match or adjust according to the situation.",
+    "youtube_description": "Learn how to use おうじる in real life: respond to requests, comply politely, meet needs, and adapt to situations with natural examples and tips.",
+    "kanji_details": [
+        {
+            "kanji": "応",
+            "onyomi": [
+                "オウ"
+            ],
+            "kunyomi": [
+                "こたえる"
+            ],
+            "meanings_english": [
+                "respond",
+                "answer",
+                "apply','adapt"
+            ],
+            "common_words": [
+                "応募（おうぼ）: application; to apply",
+                "応援（おうえん）: support; cheering"
+            ]
+        }
+    ],
+    "kanji_explanation": "The only kanji means respond or answer. It often carries the idea of meeting or matching something. You can see it in everyday words like おうぼ and おうえん. Think of it as linking an action to a request or need.",
+    "synonyms": [
+        "答える : こたえる : to answer",
+        "対応する : たいおうする : to deal with; to handle"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are こたえる and たいおうする. こたえる focuses on giving an answer to a question or expectation. たいおうする is broader and means to handle or deal with a situation, which overlaps when you respond to needs or problems.",
+    "antonyms": [
+        "断る : ことわる : to refuse",
+        "無視する : むしする : to ignore"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are ことわる and むしする. ことわる is the act of refusing instead of complying, and むしする is ignoring instead of responding.",
+    "collocations": [
+        {
+            "kanji": "要求に応じる",
+            "furigana": "要(よう)求(きゅう)に応(おう)じる",
+            "translations": {
+                "EN": "Comply with requests",
+                "ID": "Mematuhi permintaan",
+                "ES": "Cumplir con las solicitudes",
+                "VI": "Tuân thủ các yêu cầu",
+                "FR": "Se conformer aux demandes",
+                "NE": "अनुरोधहरूको पालना गर्नुहोस्",
+                "BN": "অনুরোধগুলি মেনে চলুন",
+                "ZH": "遵守要求",
+                "KO": "요청에 따라",
+                "TL": "Sumunod sa mga kahilingan",
+                "MY": "တောင်းဆိုချက်များကိုလိုက်နာပါ။",
+                "HI": "अनुरोधों का अनुपालन करें",
+                "AR": "الامتثال للطلبات",
+                "FA": "رعایت درخواست‌ها"
+            }
+        },
+        {
+            "kanji": "期待に応じる",
+            "furigana": "期(き)待(たい)に応(おう)じる",
+            "translations": {
+                "EN": "Meet expectations",
+                "ID": "Memenuhi harapan",
+                "ES": "Cumplir con las expectativas",
+                "VI": "Đáp ứng mong đợi",
+                "FR": "Répondre aux attentes",
+                "NE": "अपेक्षाहरू पूरा गर्नुहोस्",
+                "BN": "প্রত্যাশা পূরণ করুন",
+                "ZH": "满足期望",
+                "KO": "기대에 따라",
+                "TL": "Matugunan ang mga inaasahan",
+                "MY": "မျှော်လင့်ချက်များ ပြည့်မီပါစေ။",
+                "HI": "अपेक्षाओं पर खरा उतरें",
+                "AR": "تلبية التوقعات",
+                "FA": "انتظارات را برآورده کنید"
+            }
+        },
+        {
+            "kanji": "需要に応じる",
+            "furigana": "需(じゅ)要(よう)に応(おう)じる",
+            "translations": {
+                "EN": "Meet the demand",
+                "ID": "Memenuhi permintaan",
+                "ES": "Satisfacer la demanda",
+                "VI": "Đáp ứng nhu cầu",
+                "FR": "Répondre à la demande",
+                "NE": "माग पूरा गर्नुहोस्",
+                "BN": "চাহিদা পূরণ করুন",
+                "ZH": "满足需求",
+                "KO": "수요에 따라",
+                "TL": "Matugunan ang pangangailangan",
+                "MY": "လိုအပ်ချက်ကို ဖြည့်ဆည်းပါ။",
+                "HI": "मांग पूरी करें",
+                "AR": "تلبية الطلب",
+                "FA": "تقاضا را برآورده کنید"
+            }
+        },
+        {
+            "kanji": "相談に応じる",
+            "furigana": "相(そう)談(だん)に応(おう)じる",
+            "translations": {
+                "EN": "Respond to consultations",
+                "ID": "Menanggapi konsultasi",
+                "ES": "Responder a las consultas",
+                "VI": "Trả lời tham vấn",
+                "FR": "Répondre aux consultations",
+                "NE": "परामर्शको जवाफ दिनुहोस्",
+                "BN": "পরামর্শের জবাব দিন",
+                "ZH": "回应咨询",
+                "KO": "상담에 응하다",
+                "TL": "Tumugon sa mga konsultasyon",
+                "MY": "ညှိနှိုင်းမှုများကို တုံ့ပြန်ပါ။",
+                "HI": "परामर्शों का जवाब दें",
+                "AR": "الرد على الاستشارات",
+                "FA": "پاسخ به مشاوره‌ها"
+            }
+        },
+        {
+            "kanji": "招待に応じる",
+            "furigana": "招(しょう)待(たい)に応(おう)じる",
+            "translations": {
+                "EN": "Accept the invitation",
+                "ID": "Terima undangannya",
+                "ES": "Acepta la invitación",
+                "VI": "Chấp nhận lời mời",
+                "FR": "Accepter l'invitation",
+                "NE": "निमन्त्रणा स्वीकार गर्नुहोस्",
+                "BN": "আমন্ত্রণ গ্রহণ করুন",
+                "ZH": "接受邀请",
+                "KO": "초대에 따라",
+                "TL": "Tanggapin ang imbitasyon",
+                "MY": "ဖိတ်ကြားချက်ကို လက်ခံပါ။",
+                "HI": "निमंत्रण स्वीकार करें",
+                "AR": "قبول الدعوة",
+                "FA": "دعوت را بپذیرید"
+            }
+        },
+        {
+            "kanji": "条件に応じる",
+            "furigana": "条(じょう)件(けん)に応(おう)じる",
+            "translations": {
+                "EN": "Accept the conditions",
+                "ID": "Terima persyaratannya",
+                "ES": "Aceptar las condiciones",
+                "VI": "Chấp nhận các điều kiện",
+                "FR": "Accepter les conditions",
+                "NE": "सर्तहरू स्वीकार गर्नुहोस्",
+                "BN": "শর্ত মেনে নাও",
+                "ZH": "接受条件",
+                "KO": "조건에 따라",
+                "TL": "Tanggapin ang mga kondisyon",
+                "MY": "အခြေအနေများကို လက်ခံပါ။",
+                "HI": "शर्तों को स्वीकार करें",
+                "AR": "قبول الشروط",
+                "FA": "شرایط را بپذیرید"
+            }
+        },
+        {
+            "kanji": "状況に応じて",
+            "furigana": "状(じょう)況(きょう)に応(おう)じて",
+            "translations": {
+                "EN": "Depending on the situation",
+                "ID": "Tergantung pada situasinya",
+                "ES": "Dependiendo de la situación",
+                "VI": "Tùy thuộc vào tình hình",
+                "FR": "Selon la situation",
+                "NE": "परिस्थिति अनुसार",
+                "BN": "পরিস্থিতির উপর নির্ভর করে",
+                "ZH": "视情况而定",
+                "KO": "상황에 따라",
+                "TL": "Depende sa sitwasyon",
+                "MY": "အခြေအနေပေါ် မူတည်",
+                "HI": "स्थिति के आधार पर",
+                "AR": "اعتمادا على الوضع",
+                "FA": "بسته به شرایط"
+            }
+        },
+        {
+            "kanji": "必要に応じて",
+            "furigana": "必(ひつ)要(よう)に応(おう)じて",
+            "translations": {
+                "EN": "as needed",
+                "ID": "sesuai kebutuhan",
+                "ES": "según sea necesario",
+                "VI": "khi cần thiết",
+                "FR": "selon les besoins",
+                "NE": "आवश्यकता अनुसार",
+                "BN": "প্রয়োজন অনুসারে",
+                "ZH": "根据需要",
+                "KO": "필요에 따라",
+                "TL": "kung kinakailangan",
+                "MY": "လိုအပ်သလို",
+                "HI": "जरुरत के अनुसार",
+                "AR": "حسب الحاجة",
+                "FA": "به میزان نیاز"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "お客様の質問に応じます。",
+            "furigana": "お客(きゃく)様(さま)の質(しつ)問(もん)に応(おう)じます。",
+            "translations": {
+                "EN": "We are here to answer your questions.",
+                "ID": "Kami hadir untuk menjawab pertanyaan Anda.",
+                "ES": "Estamos aquí para responder sus preguntas.",
+                "VI": "Chúng tôi ở đây để trả lời câu hỏi của bạn.",
+                "FR": "Nous sommes là pour répondre à vos questions.",
+                "NE": "हामी तपाईंको प्रश्नहरूको जवाफ दिन यहाँ छौं।",
+                "BN": "আমরা আপনার প্রশ্নের উত্তর দিতে এখানে আছি।",
+                "ZH": "我们在这里回答您的问题。",
+                "KO": "고객의 질문에 응합니다.",
+                "TL": "Narito kami upang sagutin ang iyong mga katanungan.",
+                "MY": "သင့်မေးခွန်းများကို ဖြေကြားရန် ကျွန်ုပ်တို့ ဤနေရာတွင် ရှိနေပါသည်။",
+                "HI": "हम आपके प्रश्नों का उत्तर देने के लिए यहाँ हैं।",
+                "AR": "نحن هنا للإجابة على أسئلتكم.",
+                "FA": "ما اینجا هستیم تا به سوالات شما پاسخ دهیم."
+            }
+        },
+        {
+            "kanji": "招待に応じました。",
+            "furigana": "招(しょう)待(たい)に応(おう)じました。",
+            "translations": {
+                "EN": "I accepted the invitation.",
+                "ID": "Saya menerima undangannya.",
+                "ES": "Acepté la invitación.",
+                "VI": "Tôi đã chấp nhận lời mời.",
+                "FR": "J'ai accepté l'invitation.",
+                "NE": "मैले निमन्त्रणा स्वीकार गरें।",
+                "BN": "আমি আমন্ত্রণ গ্রহণ করলাম।",
+                "ZH": "我接受了邀请。",
+                "KO": "초대에 응했습니다.",
+                "TL": "Tinanggap ko ang imbitasyon.",
+                "MY": "ဖိတ်ခေါ်ချက်ကို လက်ခံခဲ့တယ်။",
+                "HI": "मैंने निमंत्रण स्वीकार कर लिया।",
+                "AR": "لقد قبلت الدعوة.",
+                "FA": "دعوت را پذیرفتم."
+            }
+        },
+        {
+            "kanji": "需要に応じて値段を下げます。",
+            "furigana": "需(じゅ)要(よう)に応(おう)じて値(ね)段(だん)を下(さ)げます。",
+            "translations": {
+                "EN": "Reduce prices based on demand.",
+                "ID": "Kurangi harga berdasarkan permintaan.",
+                "ES": "Reducir los precios en función de la demanda.",
+                "VI": "Giảm giá dựa trên nhu cầu.",
+                "FR": "Réduire les prix en fonction de la demande.",
+                "NE": "मागको आधारमा मूल्य घटाउनुहोस्।",
+                "BN": "চাহিদার উপর ভিত্তি করে দাম কমানো।",
+                "ZH": "根据需求降低价格。",
+                "KO": "수요에 따라 가격을 낮추십시오.",
+                "TL": "Bawasan ang mga presyo batay sa demand.",
+                "MY": "ဝယ်လိုအားပေါ်မူတည်၍ ဈေးလျှော့ပါ။",
+                "HI": "मांग के आधार पर कीमतें कम करें।",
+                "AR": "خفض الأسعار بناءً على الطلب.",
+                "FA": "کاهش قیمت‌ها بر اساس تقاضا."
+            }
+        },
+        {
+            "kanji": "状況に応じて計画を変えます。",
+            "furigana": "状(じょう)況(きょう)に応(おう)じて計(けい)画(かく)を変(か)えます。",
+            "translations": {
+                "EN": "Change your plan depending on the situation.",
+                "ID": "Ubah rencana Anda tergantung pada situasinya.",
+                "ES": "Cambia tu plan dependiendo de la situación.",
+                "VI": "Thay đổi kế hoạch tùy theo tình hình.",
+                "FR": "Modifiez votre plan en fonction de la situation.",
+                "NE": "परिस्थिति अनुसार आफ्नो योजना परिवर्तन गर्नुहोस्।",
+                "BN": "পরিস্থিতির উপর নির্ভর করে আপনার পরিকল্পনা পরিবর্তন করুন।",
+                "ZH": "根据情况改变你的计划。",
+                "KO": "상황에 따라 계획을 변경합니다.",
+                "TL": "Baguhin ang iyong plano depende sa sitwasyon.",
+                "MY": "အခြေအနေပေါ်မူတည်ပြီး သင့်အစီအစဉ်ကို ပြောင်းလဲပါ။",
+                "HI": "स्थिति के अनुसार अपनी योजना बदलें।",
+                "AR": "قم بتغيير خطتك حسب الموقف.",
+                "FA": "بسته به شرایط، برنامه‌تان را تغییر دهید."
+            }
+        },
+        {
+            "kanji": "相談に応じられますか。",
+            "furigana": "相(そう)談(だん)に応(おう)じられますか。",
+            "translations": {
+                "EN": "Can you provide advice?",
+                "ID": "Bisakah Anda memberi saran?",
+                "ES": "¿Nos puedes brindar asesoramiento?",
+                "VI": "Bạn có thể tư vấn cho tôi được không?",
+                "FR": "Pouvez-vous donner des conseils ?",
+                "NE": "के तपाईं सल्लाह दिन सक्नुहुन्छ?",
+                "BN": "আপনি কি পরামর্শ দিতে পারেন?",
+                "ZH": "你能提供建议吗？",
+                "KO": "상담에 응할 수 있습니까?",
+                "TL": "Maaari ka bang magbigay ng payo?",
+                "MY": "အကြံဉာဏ်ပေးနိုင်ပါသလား။",
+                "HI": "क्या आप सलाह दे सकते हैं?",
+                "AR": "هل يمكنك تقديم النصيحة؟",
+                "FA": "میشه راهنمایی بفرمایید؟"
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "menanggapi",
+            "ES": "responder",
+            "VI": "trả lời",
+            "FR": "répondre",
+            "NE": "प्रतिक्रिया दिनुहोस्",
+            "BN": "সাড়া দেওয়া",
+            "ZH": "回应",
+            "KO": "대답하다",
+            "TL": "tumugon",
+            "MY": "တုံ့ပြန်",
+            "HI": "जवाब देना",
+            "AR": "يرد",
+            "FA": "پاسخ دادن",
+            "EN": [
+                "respond",
+                "reply",
+                "answer"
+            ]
+        },
+        {
+            "ID": "mematuhi",
+            "ES": "cumplir",
+            "VI": "tuân theo",
+            "FR": "se conformer",
+            "NE": "पालना गर्नु",
+            "BN": "মেনে চলা",
+            "ZH": "遵守",
+            "KO": "응하다",
+            "TL": "sumunod",
+            "MY": "လိုက်လျောသည်။",
+            "HI": "अनुपालन करना",
+            "AR": "يمتثل",
+            "FA": "مطابق",
+            "EN": [
+                "comply",
+                "accept",
+                "consent"
+            ]
+        },
+        {
+            "ID": "bertemu",
+            "ES": "encontrarse",
+            "VI": "gặp",
+            "FR": "rencontrer",
+            "NE": "भेट्नु",
+            "BN": "দেখা করা",
+            "ZH": "见面",
+            "KO": "만나다",
+            "TL": "makipagkita",
+            "MY": "ဆုံ",
+            "HI": "मिलो",
+            "AR": "يقابل",
+            "FA": "ملاقات",
+            "EN": [
+                "meet",
+                "satisfy",
+                "fulfill],["
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "応じる",
+        "is_common": true,
+        "tags": [
+            "wanikani22"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "応じる",
+                "reading": "おうじる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to respond",
+                    "to satisfy",
+                    "to accept",
+                    "to comply with",
+                    "to apply for"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "応"
+    ],
+    "kanji_data": {
+        "応": {
+            "freq_mainichi_shinbun": 266,
+            "grade": 5,
+            "heisig_en": "apply",
+            "jlpt": 1,
+            "kanji": "応",
+            "kun_readings": [
+                "あた.る",
+                "こた.える",
+                "まさに"
+            ],
+            "meanings": [
+                "OK",
+                "accept",
+                "answer",
+                "apply",
+                "reply",
+                "yes"
+            ],
+            "name_readings": [
+                "お",
+                "たか",
+                "まさ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "-ノウ",
+                "オウ",
+                "ヨウ"
+            ],
+            "stroke_count": 7,
+            "unicode": "5FDC"
+        }
+    }
+}
