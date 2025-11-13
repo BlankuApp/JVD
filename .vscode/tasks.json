@@ -37,7 +37,7 @@
             "command": "${workspaceFolder}/.venv/Scripts/python.exe",
             "args": [
                 "-m",
-                "src.word.JPWord"
+                "src.word.BatchWord"
             ]
         },
         {

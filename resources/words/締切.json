@@ -1,0 +1,557 @@
+{
+    "version": "0.3.0",
+    "word": "締切",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/zqEG8MZ3J-Y",
+    "in_db": true,
+    "kanji": "締切",
+    "reading": "しめきり",
+    "introduction_japanese": "締切。学校のしゅくだい、しごとのよてい、イベントの申込(もうしこみ)や支払(しはら)いでよくつかいます。おみせやうけつけで「いまはだめ」というサインにもなります。",
+    "introduction_english": "Shimekiri. We use this for school homework, work schedules, event applications, and payments. It can also appear as a sign meaning “not accepting now” at a counter or window.",
+    "meanings": [
+        [
+            "deadline",
+            "cutoff"
+        ],
+        [
+            "closing",
+            "closure",
+            "stoppage"
+        ],
+        [
+            "closed",
+            "shut"
+        ]
+    ],
+    "meaning_explanation_japanese": "うけつけをやめる時点、またはそこまでにおわらせるべき時のこと。ものやまどをしっかりとじた状態のこともいいます。",
+    "meaning_explanation_english": "It is used as a noun. しめきり is the point when accepting stops, the due time for finishing, or the state of something being firmly shut.",
+    "youtube_description": "Learn the meaning and everyday use of 締切 (shimekiri): “deadline,” “cutoff,” and “closed.” Simple examples, common collocations, and kanji tips for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "締",
+            "onyomi": [
+                "テイ"
+            ],
+            "kunyomi": [
+                "し(める)",
+                "し(まる)"
+            ],
+            "meanings_english": [
+                "tighten",
+                "fasten",
+                "close"
+            ],
+            "common_words": [
+                "締める : しめる : to tighten; to fasten; to close",
+                "締結 : ていけつ : conclusion; execution (of a contract)"
+            ]
+        },
+        {
+            "kanji": "切",
+            "onyomi": [
+                "セツ",
+                "サイ"
+            ],
+            "kunyomi": [
+                "き(る)",
+                "き(れる)"
+            ],
+            "meanings_english": [
+                "cut",
+                "end",
+                "important (as in 大切)"
+            ],
+            "common_words": [
+                "切る : きる : to cut",
+                "大切 : たいせつ : important; precious"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to tighten or fasten. You hear it in しめる when you close something or make it firm. It also shows up in ていけつ for concluding a contract. Think of making things secure and shut.\nThe second kanji means to cut or end. It appears in きる, the basic verb for cutting. You also know it from たいせつ, meaning important. It adds the idea of a clear boundary or finish.",
+    "synonyms": [
+        "期限 : きげん : deadline"
+    ],
+    "synonym_explanation": "The most common synonym of the word is きげん. きげん is a general time limit, while しめきり is the specific cutoff when acceptance stops or the final due point.",
+    "antonyms": [
+        "延長 : えんちょう : extension",
+        "受付中 : うけつけちゅう : now accepting"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are えんちょう and うけつけちゅう. えんちょう means the time is pushed later, while しめきり fixes the end point. うけつけちゅう means things are currently being accepted, the opposite of being closed.",
+    "collocations": [
+        {
+            "kanji": "明日の締切",
+            "furigana": "明日(あした)の締切(しめきり)",
+            "translations": {
+                "EN": "Tomorrow's deadline",
+                "ID": "Batas waktu besok",
+                "ES": "Plazo de mañana",
+                "VI": "Hạn chót ngày mai",
+                "FR": "Date limite de demain",
+                "NE": "भोलिको समयसीमा",
+                "BN": "আগামীকালের শেষ তারিখ",
+                "ZH": "明天的截止日期",
+                "KO": "내일 마감",
+                "TL": "Deadline na bukas",
+                "MY": "မနက်ဖြန် နောက်ဆုံးရက်",
+                "HI": "कल की समय सीमा",
+                "AR": "الموعد النهائي غدا",
+                "FA": "آخرین مهلت فردا"
+            }
+        },
+        {
+            "kanji": "申込締切",
+            "furigana": "申込(もうしこみ)締切(しめきり)",
+            "translations": {
+                "EN": "Application Deadline",
+                "ID": "Batas Waktu Pendaftaran",
+                "ES": "Fecha límite de solicitud",
+                "VI": "Hạn chót nộp đơn",
+                "FR": "Date limite de dépôt des candidatures",
+                "NE": "आवेदन समय सीमा",
+                "BN": "আবেদনের শেষ তারিখ",
+                "ZH": "申请截止日期",
+                "KO": "신청 마감",
+                "TL": "Deadline ng Application",
+                "MY": "လျှောက်လွှာနောက်ဆုံးရက်",
+                "HI": "आवेदन की समय सीमा",
+                "AR": "الموعد النهائي للتقديم",
+                "FA": "مهلت درخواست"
+            }
+        },
+        {
+            "kanji": "支払締切",
+            "furigana": "支払(しはらい)締切(しめきり)",
+            "translations": {
+                "EN": "Payment deadline",
+                "ID": "Batas waktu pembayaran",
+                "ES": "Fecha límite de pago",
+                "VI": "Hạn chót thanh toán",
+                "FR": "Date limite de paiement",
+                "NE": "भुक्तानीको अन्तिम मिति",
+                "BN": "পেমেন্টের সময়সীমা",
+                "ZH": "付款截止日期",
+                "KO": "지불 마감",
+                "TL": "Deadline ng pagbabayad",
+                "MY": "ငွေပေးချေမှုနောက်ဆုံးရက်",
+                "HI": "भुगतान की समय सीमा",
+                "AR": "موعد الدفع",
+                "FA": "مهلت پرداخت"
+            }
+        },
+        {
+            "kanji": "最終締切",
+            "furigana": "最終(さいしゅう)締切(しめきり)",
+            "translations": {
+                "EN": "Final Deadline",
+                "ID": "Batas Waktu Akhir",
+                "ES": "Fecha límite final",
+                "VI": "Hạn chót cuối cùng",
+                "FR": "Date limite finale",
+                "NE": "अन्तिम समयसीमा",
+                "BN": "চূড়ান্ত সময়সীমা",
+                "ZH": "最终截止日期",
+                "KO": "최종 마감",
+                "TL": "Pangwakas na Takdang Panahon",
+                "MY": "နောက်ဆုံး နောက်ဆုံးရက်",
+                "HI": "अंतिम समय सीमा",
+                "AR": "الموعد النهائي",
+                "FA": "آخرین مهلت"
+            }
+        },
+        {
+            "kanji": "原稿締切",
+            "furigana": "原稿(げんこう)締切(しめきり)",
+            "translations": {
+                "EN": "Manuscript deadline",
+                "ID": "Batas waktu naskah",
+                "ES": "Fecha límite para la entrega del manuscrito",
+                "VI": "Hạn chót nộp bản thảo",
+                "FR": "Date limite de soumission du manuscrit",
+                "NE": "पाण्डुलिपि समयसीमा",
+                "BN": "পাণ্ডুলিপির সময়সীমা",
+                "ZH": "稿件截止日期",
+                "KO": "원고 마감",
+                "TL": "Deadline ng manuskrito",
+                "MY": "စာမူနောက်ဆုံးရက်",
+                "HI": "पांडुलिपि की समय सीमा",
+                "AR": "الموعد النهائي لتسليم المخطوطة",
+                "FA": "مهلت ارسال نسخه خطی"
+            }
+        },
+        {
+            "kanji": "正午の締切",
+            "furigana": "正午(しょうご)の締切(しめきり)",
+            "translations": {
+                "EN": "Noon deadline",
+                "ID": "Batas waktu siang hari",
+                "ES": "Plazo del mediodía",
+                "VI": "Hạn chót vào buổi trưa",
+                "FR": "Date limite : midi",
+                "NE": "दिउँसोको समयसीमा",
+                "BN": "দুপুরের শেষ তারিখ",
+                "ZH": "中午截止时间",
+                "KO": "정오 마감",
+                "TL": "Tanghali na deadline",
+                "MY": "နေ့လည် နောက်ဆုံးနေ့",
+                "HI": "दोपहर की समय सीमा",
+                "AR": "الموعد النهائي ظهرا",
+                "FA": "مهلت ظهر"
+            }
+        },
+        {
+            "kanji": "締切を守る",
+            "furigana": "締切(しめきり)を守(まも)る",
+            "translations": {
+                "EN": "Meet deadlines",
+                "ID": "Memenuhi tenggat waktu",
+                "ES": "Cumplir con los plazos",
+                "VI": "Đáp ứng thời hạn",
+                "FR": "Respecter les délais",
+                "NE": "समयसीमा पूरा गर्नुहोस्",
+                "BN": "সময়সীমা পূরণ করুন",
+                "ZH": "按时完成任务",
+                "KO": "마감을 지키다",
+                "TL": "Matugunan ang mga deadline",
+                "MY": "သတ်မှတ်ရက်နှင့်တွေ့ဆုံပါ။",
+                "HI": "मिलो समय सीमा",
+                "AR": "الالتزام بالمواعيد النهائية",
+                "FA": "به مهلت‌ها پایبند باشید"
+            }
+        },
+        {
+            "kanji": "締切を過ぎる",
+            "furigana": "締切(しめきり)を過(す)ぎる},{",
+            "translations": {
+                "EN": "Miss the deadline",
+                "ID": "Melewatkan batas waktu",
+                "ES": "No se cumple el plazo",
+                "VI": "Bỏ lỡ thời hạn",
+                "FR": "Manquer la date limite",
+                "NE": "समयसीमा छुट्यो",
+                "BN": "সময়সীমা মিস করা",
+                "ZH": "错过截止日期",
+                "KO": "마감을 지나",
+                "TL": "Miss ang deadline",
+                "MY": "နောက်ဆုံးနေ့ကို လွမ်းတယ်။",
+                "HI": "समय सीमा चूकना",
+                "AR": "فوت الموعد النهائي",
+                "FA": "مهلت را از دست ندهید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "締切は明日です。",
+            "furigana": "締切(しめきり)は明日(あした)です。",
+            "translations": {
+                "EN": "The deadline is tomorrow.",
+                "ID": "Batas waktunya besok.",
+                "ES": "El plazo vence mañana.",
+                "VI": "Hạn chót là ngày mai.",
+                "FR": "La date limite est demain.",
+                "NE": "समय सीमा भोलि हो।",
+                "BN": "সময়সীমা আগামীকাল।",
+                "ZH": "截止日期是明天。",
+                "KO": "마감일은 내일입니다.",
+                "TL": "Bukas na ang deadline.",
+                "MY": "နောက်ဆုံးရက်က မနက်ဖြန်။",
+                "HI": "अंतिम तिथि कल है।",
+                "AR": "الموعد النهائي غدا.",
+                "FA": "آخرین مهلت فرداست."
+            }
+        },
+        {
+            "kanji": "原稿の締切は金曜日です。",
+            "furigana": "原稿(げんこう)の締切(しめきり)は金曜日(きんようび)です。",
+            "translations": {
+                "EN": "The deadline for manuscripts is Friday.",
+                "ID": "Batas waktu penyerahan naskah adalah hari Jumat.",
+                "ES": "El plazo para la entrega de manuscritos finaliza el viernes.",
+                "VI": "Hạn chót nộp bản thảo là thứ sáu.",
+                "FR": "La date limite pour la soumission des manuscrits est vendredi.",
+                "NE": "पाण्डुलिपिहरूको लागि अन्तिम मिति शुक्रबार हो।",
+                "BN": "পাণ্ডুলিপি জমা দেওয়ার শেষ তারিখ শুক্রবার।",
+                "ZH": "稿件提交截止日期为周五。",
+                "KO": "원고 마감은 금요일입니다.",
+                "TL": "Ang deadline para sa mga manuskrito ay Biyernes.",
+                "MY": "စာမူများအတွက် နောက်ဆုံးရက်မှာ သောကြာနေ့ဖြစ်သည်။",
+                "HI": "पांडुलिपियों की अंतिम तिथि शुक्रवार है।",
+                "AR": "آخر موعد لتسليم المخطوطات هو يوم الجمعة.",
+                "FA": "آخرین مهلت ارسال آثار، جمعه است."
+            }
+        },
+        {
+            "kanji": "締切に間に合いました。",
+            "furigana": "締切(しめきり)に間(ま)に合(あ)いました。",
+            "translations": {
+                "EN": "We made the deadline.",
+                "ID": "Kami berhasil mencapai tenggat waktu.",
+                "ES": "Cumplimos con el plazo.",
+                "VI": "Chúng tôi đã đáp ứng được thời hạn.",
+                "FR": "Nous avons respecté les délais.",
+                "NE": "हामीले समयसीमा तोक्यौं।",
+                "BN": "আমরা সময়সীমা শেষ করে ফেলেছি।",
+                "ZH": "我们按时完成了任务。",
+                "KO": "마감 시간에 맞았습니다.",
+                "TL": "Ginawa namin ang deadline.",
+                "MY": "ကျနော်တို့ နောက်ဆုံးနေ့ လုပ်ထားတယ်။",
+                "HI": "हमने समय सीमा पूरी कर ली।",
+                "AR": "لقد وصلنا للموعد النهائي.",
+                "FA": "ما مهلت را تعیین کردیم."
+            }
+        },
+        {
+            "kanji": "締切を守ってください。",
+            "furigana": "締切(しめきり)を守(まも)ってください。",
+            "translations": {
+                "EN": "Please meet your deadlines.",
+                "ID": "Harap penuhi tenggat waktu Anda.",
+                "ES": "Por favor, cumplan con los plazos de entrega.",
+                "VI": "Vui lòng nộp bài đúng thời hạn.",
+                "FR": "Veuillez respecter vos délais.",
+                "NE": "कृपया आफ्नो समयसीमा पूरा गर्नुहोस्।",
+                "BN": "দয়া করে আপনার সময়সীমা পূরণ করুন।",
+                "ZH": "请按时完成任务。",
+                "KO": "마감을 지키십시오.",
+                "TL": "Mangyaring matugunan ang iyong mga deadline.",
+                "MY": "သင်၏ သတ်မှတ်ရက်များကို ပြည့်မီအောင် ကျေးဇူးပြု၍",
+                "HI": "कृपया अपनी समय सीमा का पालन करें।",
+                "AR": "يرجى الالتزام بالمواعيد النهائية الخاصة بك.",
+                "FA": "لطفا مهلت‌های خود را رعایت کنید."
+            }
+        },
+        {
+            "kanji": "もう申込は締切です。",
+            "furigana": "もう申込(もうしこみ)は締切(しめきり)です。",
+            "translations": {
+                "EN": "The application deadline has now passed.",
+                "ID": "Batas waktu pendaftaran kini telah lewat.",
+                "ES": "El plazo de solicitud ya ha finalizado.",
+                "VI": "Thời hạn nộp đơn đã qua.",
+                "FR": "La date limite de dépôt des candidatures est maintenant passée.",
+                "NE": "आवेदन दिने अन्तिम मिति अब सकिएको छ।",
+                "BN": "আবেদনের সময়সীমা এখন পেরিয়ে গেছে।",
+                "ZH": "申请截止日期已过。",
+                "KO": "이미 신청은 마감입니다.",
+                "TL": "Lumipas na ang deadline ng aplikasyon.",
+                "MY": "လျှောက်လွှာနောက်ဆုံးရက်က အခု ကျော်သွားပြီ။",
+                "HI": "आवेदन की अंतिम तिथि अब समाप्त हो चुकी है।",
+                "AR": "لقد انتهى الآن الموعد النهائي للتقديم.",
+                "FA": "مهلت درخواست اکنون به پایان رسیده است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "tenggat waktu",
+            "ES": "fecha límite",
+            "VI": "thời hạn",
+            "FR": "date limite",
+            "NE": "समयसीमा",
+            "BN": "সময়সীমা",
+            "ZH": "最后期限",
+            "KO": "사선",
+            "TL": "deadline",
+            "MY": "ပြီးစီးရမည့်နောက်ဆုံးအချိန်",
+            "HI": "अंतिम तारीख",
+            "AR": "موعد التسليم",
+            "FA": "مهلت",
+            "EN": [
+                "deadline",
+                "cutoff"
+            ]
+        },
+        {
+            "ID": "penutupan",
+            "ES": "cierre",
+            "VI": "đóng cửa",
+            "FR": "clôture",
+            "NE": "बन्द गर्दै",
+            "BN": "বন্ধ",
+            "ZH": "结束",
+            "KO": "폐쇄",
+            "TL": "pagsasara",
+            "MY": "ပိတ်ခြင်း။",
+            "HI": "समापन",
+            "AR": "إغلاق",
+            "FA": "بسته شدن",
+            "EN": [
+                "closing",
+                "closure",
+                "stoppage"
+            ]
+        },
+        {
+            "ID": "tertutup",
+            "ES": "cerrado",
+            "VI": "đóng cửa",
+            "FR": "fermé",
+            "NE": "बन्द",
+            "BN": "বন্ধ",
+            "ZH": "关闭",
+            "KO": "닫은",
+            "TL": "sarado",
+            "MY": "ပိတ်သည်။",
+            "HI": "बंद किया हुआ",
+            "AR": "مغلق",
+            "FA": "بسته",
+            "EN": [
+                "closed",
+                "shut"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "締め切り",
+        "is_common": true,
+        "tags": [
+            "wanikani29"
+        ],
+        "jlpt": [
+            "jlpt-n2",
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "締め切り",
+                "reading": "しめきり"
+            },
+            {
+                "word": "締切",
+                "reading": "しめきり"
+            },
+            {
+                "word": "締切り",
+                "reading": "しめきり"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "deadline",
+                    "closing",
+                    "cut-off"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "also written as 〆切(り)"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "closing (a door, window, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "also written as 閉め切り"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "cofferdam"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "締",
+        "切"
+    ],
+    "kanji_data": {
+        "締": {
+            "freq_mainichi_shinbun": 797,
+            "grade": 8,
+            "heisig_en": "tighten",
+            "jlpt": 1,
+            "kanji": "締",
+            "kun_readings": [
+                "-し.め",
+                "-じ.め",
+                "し.まり",
+                "し.まる",
+                "し.める"
+            ],
+            "meanings": [
+                "fasten",
+                "lock",
+                "shut",
+                "tie",
+                "tighten"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "テイ"
+            ],
+            "stroke_count": 15,
+            "unicode": "7DE0"
+        },
+        "切": {
+            "freq_mainichi_shinbun": 324,
+            "grade": 2,
+            "heisig_en": "cut",
+            "jlpt": 4,
+            "kanji": "切",
+            "kun_readings": [
+                "-き.り",
+                "-き.る",
+                "-き.れ",
+                "-き.れる",
+                "-ぎ.り",
+                "-ぎ.れ",
+                "き.り",
+                "き.る",
+                "き.れ",
+                "き.れる"
+            ],
+            "meanings": [
+                "be sharp",
+                "cut",
+                "cutoff"
+            ],
+            "name_readings": [
+                "きつ",
+                "きり",
+                "ぎり"
+            ],
+            "notes": [],
+            "on_readings": [
+                "サイ",
+                "セツ"
+            ],
+            "stroke_count": 4,
+            "unicode": "5207"
+        }
+    }
+}

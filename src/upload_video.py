@@ -71,8 +71,8 @@ def upload_video(
 
 
 if __name__ == "__main__":
-    start_datetime = datetime(2025, 10, 16, 10, 30, 0)
-    num_videos_a_day = 2
+    start_datetime = datetime(2025, 11, 14, 10, 30, 0)
+    num_videos_a_day = 1
     youtube_service = get_authenticated_service()
     video_count = 0
     for folder in os.listdir("Output"):

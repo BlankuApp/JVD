@@ -545,7 +545,7 @@
 | **検査** | けんさ | inspection (e.g. customs, factory),examination |
 | 現在 | げんざい | present,up to now,nowadays,modern times,current |
 | 現実 | げんじつ | reality |
-| 現象 | げんしょう | phenomenon |
+| **現象** | げんしょう | phenomenon |
 | 現状 | げんじょう | present condition,existing state,status quo |
 | **建設** | けんせつ | construction,establishment |
 | 現代 | げんだい | nowadays,modern times,present-day |
@@ -554,7 +554,7 @@
 | 検討 | けんとう | consideration,examination,investigation,study,scrutiny |
 | 現場 | げんば | actual spot,scene,scene of the crime |
 | 憲法 | けんぽう | constitution |
-| 権利 | けんり | right,privilege |
+| **権利** | けんり | right,privilege |
 | 後 | ご | afterwards,since then,in the future |
 | 語 | ご | language,word |
 | 恋 | こい | love,tender passion |
@@ -562,7 +562,7 @@
 | 恋人 | こいびと | lover,sweetheart |
 | 幸運 | こううん | good luck,fortune |
 | 講演 | こうえん | lecture,address |
-| 効果 | こうか | effect,effectiveness,efficacy,result |
+| **効果** | こうか | effect,effectiveness,efficacy,result |
 | 硬貨 | こうか | coin |
 | 高価 | こうか | high price |
 | 豪華 | ごうか | wonderful,gorgeous,splendor,pomp,extravagance |
@@ -571,20 +571,20 @@
 | 航空 | こうくう | aviation,flying |
 | 光景 | こうけい | scene,spectacle |
 | 合計 | ごうけい | sum total,total amount |
-| 攻撃 | こうげき | attack,strike,offensive,criticism,censure |
+| **攻撃** | こうげき | attack,strike,offensive,criticism,censure |
 | 貢献 | こうけん | contribution,services |
 | 広告 | こうこく | advertisement |
 | 交際 | こうさい | company,friendship,association,society,acquaintance |
 | **後者** | こうしゃ | the latter |
 | 工場 | こうば | factory,plant,mill,workshop |
-| 構成 | こうせい | organization,composition |
+| **構成** | こうせい | organization,composition |
 | 高速 | こうそく | high speed,high gear |
 | 行動 | こうどう | action,conduct,behaviour,mobilization |
 | 強盗 | ごうとう | robbery,burglary |
 | 幸福 | こうふく | happiness,blessedness |
 | **公平** | こうへい | fairness,impartial,justice |
 | 候補 | こうほ | candidacy |
-| 考慮 | こうりょ | consideration,taking into account |
+| **考慮** | こうりょ | consideration,taking into account |
 | 越える | こえる | to exceed,to cross over,to cross |
 |  | コーチ | coach |
 |  | コード | code,cord,chord |
@@ -603,7 +603,7 @@
 | 穀物 | こくもつ | grain,cereal,corn |
 | ここ | ここ | here |
 | 腰 | こし | hip |
-| 故障 | こしょう | break-down,failure,accident,out of order |
+| **故障** | こしょう | break-down,failure,accident,out of order |
 | 個人 | こじん | individual,private person,personal,private |
 | 越す | こす | to go over (e.g. with audience) |
 | **国家** | こっか | state,country,nation |
@@ -623,14 +623,14 @@
 | 塵 | ごみ | dust,dirt |
 | 小麦 | こむぎ | wheat |
 |  | ごめんなさい | I beg your pardon,excuse me |
-| 小屋 | こや | hut,cabin,shed,(animal) pen |
+| **小屋** | こや | hut,cabin,shed,(animal) pen |
 |  | これら | these |
 | 頃 | ころ | time,about,toward,approximately (time) |
 | 殺す | ころす | to kill |
 | **転ぶ** | ころぶ | to fall down,to fall over |
 | 今回 | こんかい | now,this time,lately |
 | 今後 | こんご | from now on,hereafter |
-| 混雑 | こんざつ | confusion,congestion |
+| **混雑** | こんざつ | confusion,congestion |
 |  | こんなに | so,like this,in this way |
 | **困難** | こんなん | difficulty,distress |
 | 今日 | こんにち | today,this day |
@@ -673,7 +673,7 @@
 |  | さっぱり | feeling refreshed,feeling relieved,neat,trimmed |
 |  | さて | well,now,then |
 | 砂漠 | さばく | desert |
-| 差別 | さべつ | discrimination,distinction,differentiation |
+| **差別** | さべつ | discrimination,distinction,differentiation |
 | 作法 | さほう | manners,etiquette,propriety |
 | 様々 | さまざま | varied,various |
 | 覚ます | さます | to awaken |
@@ -703,7 +703,7 @@
 | 時期 | じき | time,season,period |
 | **支給** | しきゅう | payment,allowance |
 |  | しきりに | frequently,repeatedly,incessantly,eagerly |
-| 刺激 | しげき | stimulus,impetus,incentive |
+| **刺激** | しげき | stimulus,impetus,incentive |
 | 資源 | しげん | resources |
 | **事件**時限 | じけん | event,affair,incident |
 | 時刻 | じこく | instant,time,moment |
@@ -770,7 +770,7 @@
 | 週間 | しゅうかん | week,weekly |
 | **宗教** | しゅうきょう | religion |
 | 重視 | じゅうし | importance,stress,serious consideration |
-| 就職 | しゅうしょく | finding employment,inauguration |
+| **就職** | しゅうしょく | finding employment,inauguration |
 |  | ジュース | juice,soft drink,deuce |
 | **修正** | しゅうせい | amendment,correction,revision,modification |
 | 渋滞 | じゅうたい | congestion (e.g. traffic),delay,stagnation |
@@ -825,7 +825,7 @@
 | **上達** | じょうたつ | improvement,advance,progress |
 | 冗談 | じょうだん | jest,joke |
 | 承知 | しょうち | consent,acceptance,assent,admitting |
-| 上等 | じょうとう | superiority,first class,very good |
+| **上等** | じょうとう | superiority,first class,very good |
 | 衝突 | しょうとつ | collision,conflict |
 | **商人** | しょうにん | trader,shopkeeper,merchant |
 | 承認 | しょうにん | recognition,acknowledgement,approval,consent,agreement |
@@ -838,7 +838,7 @@
 | 証明 | しょうめい | proof,verification |
 | 女王 | じょおう | queen |
 | 職 | しょく | employment |
-| 職業 | しょくぎょう | occupation,business |
+| **職業** | しょくぎょう | occupation,business |
 | 食事 | しょくじ | meal |
 | 食卓 | しょくたく | dining table |
 | 食品 | しょくひん | commodity,foodstuff |
@@ -847,7 +847,7 @@
 | **食欲** | しょくよく | appetite (for food) |
 | 食料 | しょくりょう | food |
 | 食糧 | しょくりょう | provisions,rations |
-| 書斎 | しょさい | study |
+| **書斎** | しょさい | study |
 | 女子 | じょし | woman,girl |
 | 助手 | じょしゅ | helper,helpmeet,assistant,tutor |
 | 徐々に | じょじょに | slowly,little by little,gradually,steadily,quietly |
@@ -859,7 +859,7 @@
 | 知らせ | しらせ | notice |
 | 尻 | しり | buttocks,bottom |
 | 印 | しるし | (1) mark,(2) symbol,(3) evidence |
-| 城 | しろ | castle |
+| **城** | しろ | castle |
 | 進学 | しんがく | going on to university |
 | 神経 | しんけい | nerve,sensitivity |
 | 真剣 | しんけん | seriousness,earnestness |
@@ -875,7 +875,7 @@
 | **新鮮** | しんせん | fresh |
 | 心臓 | しんぞう | heart |
 | 身体 | しんたい | the body |
-| 身長 | しんちょう | height (of body),stature |
+| **身長** | しんちょう | height (of body),stature |
 | 慎重 | しんちょう | discretion,prudence |
 | **心配** | しんぱい | worry,concern,anxiety,care |
 | **審判** | しんぱん | refereeing,trial,judgement,umpire,referee |
@@ -908,7 +908,7 @@
 | **過ごす** | すごす | to pass,to spend,to go through,to tide over |
 | 筋 | すじ | muscle,string,line |
 | 進める | すすめる | to advance,to promote,to hasten |
-| 勧める | すすめる | to recommend,to advise,to encourage,to offer (wine) |
+| **勧める** | すすめる | to recommend,to advise,to encourage,to offer (wine) |
 |  | スター | star |
 |  | スタイル | style |
 |  | スタンド | stand |
@@ -942,7 +942,7 @@
 | 成功 | せいこう | success,hit |
 | 生産 | せいさん | production,manufacture |
 | 正式 | せいしき | due form,official,formality |
-| 精神 | せいしん | mind,soul,heart,spirit,intention |
+| **精神** | せいしん | mind,soul,heart,spirit,intention |
 | 成人 | せいじん | adult |
 | 精々 | せいぜい | at the most,at best,to the utmost,as much (far) as possible |
 | 成績 | せいせき | results,record |
@@ -970,7 +970,7 @@
 | 絶滅 | ぜつめつ | destruction,extinction |
 | 節約 | せつやく | economising,saving |
 | 是非 | ぜひ | certainly,without fail |
-| 責める | せめる | to condemn,to blame,to criticize |
+| **責める** | せめる | to condemn,to blame,to criticize |
 | 世話 | せわ | looking after,help,aid,assistance |
 | 善 | ぜん | good,goodness,right,virtue |
 | 全 | ぜん | all,whole,entire,complete,overall,pan |
@@ -980,7 +980,7 @@
 | **先日** | せんじつ | the other day,a few days ago |
 | 前者 | ぜんしゃ | the former |
 | 選手 | せんしゅ | (1) player (in game),(2) team |
-| 前進 | ぜんしん | advance,drive,progress |
+| **前進** | ぜんしん | advance,drive,progress |
 | 全然 | ぜんぜん | (1) wholly,entirely,completely,(2) not at all (with neg. verb) |
 |  | センター | a center |
 | 全体 | ぜんたい | whole,entirety,whatever (is the matter) |
@@ -1011,7 +1011,7 @@
 | その | その | the,that |
 |  | そのうち | eventually,sooner or later,of the previously mentioned |
 |  | そのまま | without change,as it is (i.e. now) |
-| 側 | そば | side,edge,third person |
+| **側** | そば | side,edge,third person |
 |  | ソファー | sofa,couch |
 | 粗末 | そまつ | crude,rough,plain,humble |
 | それ | （接。感） | it,that |
@@ -1030,7 +1030,7 @@
 | 大 | だい |  |
 | 台 | だい | stand,rack,table,support |
 | 題 | だい | title,subject,theme,topic |
-| 体育 | たいいく | physical education,gymnastics,athletics |
+| **体育** | たいいく | physical education,gymnastics,athletics |
 | 体温 | たいおん | temperature (body) |
 | 大会 | たいかい | convention,tournament,mass meeting,rally |
 | 大気 | たいき | atmosphere |
@@ -1043,7 +1043,7 @@
 | 大臣 | だいじん | cabinet minister |
 | 対する | たいする | to face,to confront,to oppose |
 | 大戦 | たいせん | great war,great battle |
-| 大抵 | たいてい | usually,generally |
+| **大抵** | たいてい | usually,generally |
 | 態度 | たいど | attitude,manner |
 | 大統領 | だいとうりょう | president,chief executive |
 | 大半 | たいはん | majority,mostly,generally |
@@ -1092,7 +1092,7 @@
 |  | たびたび | often,repeatedly,frequently |
 | 多分 | たぶん | perhaps,probably |
 | 玉 | たま | ball,sphere,coin |
-| 球 | たま | globe,sphere,ball |
+| **球** | たま | globe,sphere,ball |
 | 弾 | たま | bullet,shot,shell |
 | 偶 | たま | even number,couple,man and wife,friend |
 | 偶々 | たまたま | casually,unexpectedly,accidentally,by chance |
@@ -1105,7 +1105,7 @@
 | 頼る | たよる | to rely on,to have recourse to,to depend on |
 | 誰か | だれか | someone,somebody |
 | 段 | だん | step,stair,flight of steps,grade,rank,level |
-| 単位 | たんい | unit,denomination,credit (in school) |
+| **単位** | たんい | unit,denomination,credit (in school) |
 | 単語 | たんご | word,vocabulary,(usually) single-character word |
 | 男子 | だんし | youth,young man |
 | 単純 | たんじゅん | simplicity |
@@ -1129,7 +1129,7 @@
 | **地区** | ちく | district,section,sector |
 | 遅刻 | ちこく | lateness,late coming |
 | 知事 | ちじ | prefectural governor |
-| 知識 | ちしき | knowledge,information |
+| **知識** | ちしき | knowledge,information |
 | 父親 | ちちおや | father |
 | 知能 | ちのう | intelligence,brains |
 | 地平線 | ちへいせん | horizon |
@@ -1176,7 +1176,7 @@
 | **包み** | つつみ | bundle,package,parcel,bale |
 | 勤め | つとめ | (1) service,duty,business,responsibility,task,(2) Buddhist religious services |
 | 務め | つとめ | (1) service,duty,(2) Buddhist religious services |
-| 繋ぐ | つなぐ | to tie,to fasten,to connect,to transfer (phone call) |
+| **繋ぐ** | つなぐ | to tie,to fasten,to connect,to transfer (phone call) |
 | 常に | つねに | always,constantly |
 | 翼 | つばさ | wings |
 |  | つまり | in short,in brief,in other words |
@@ -1223,7 +1223,7 @@
 | 電子 | でんし | electron |
 |  | テント | tent |
 | 伝統 | でんとう | tradition,convention |
-| 天然 | てんねん | nature,spontaneity |
+| **天然** | てんねん | nature,spontaneity |
 | 度 | ど | counter for occurrences |
 | 問い | とい | question,query |
 | 党 | とう | party (political) |
@@ -1267,7 +1267,7 @@
 | **年寄** | としより | old people,the aged |
 | 閉じる | とじる | to close (e.g. book, eyes),to shut |
 | 途端 | とたん | just (now, at the moment, etc.) |
-| 土地 | とち | plot of land,lot,soil |
+| **土地** | とち | plot of land,lot,soil |
 | 突然 | とつぜん | abruptly,suddenly,unexpectedly,all at once |
 |  | トップ | top |
 | 届く | とどく | to reach |

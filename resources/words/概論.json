@@ -1,0 +1,466 @@
+{
+    "version": "0.3.0",
+    "word": "概論",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/MH1gwWUXCoc",
+    "in_db": true,
+    "kanji": "概論",
+    "reading": "がいろん",
+    "introduction_japanese": "概論。大学の科目名や、本・レポートの最初の章でよく出てきます。",
+    "introduction_english": "Gairon (がいろん). You see it in college course titles and in the first chapter of books or reports.",
+    "meanings": [
+        [
+            "overview",
+            "outline",
+            "introduction",
+            "survey"
+        ],
+        [
+            "generalities",
+            "preliminaries"
+        ]
+    ],
+    "meaning_explanation_japanese": "全体のようすをざっと示すもの、学びの入口になる短いまとめのことです。詳しい部分に入る前に、大づかみに道案内をします。",
+    "meaning_explanation_english": "It is used as a noun. がいろん means a big-picture start: an overview or outline that gives general ideas before details.",
+    "youtube_description": "Learn how to use 概論 (gairon) like a native: what it means, where you see it (courses, books), and easy examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "概",
+            "onyomi": [
+                "ガイ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "outline",
+                "approximate",
+                "general"
+            ],
+            "common_words": [
+                "概要 : がいよう : outline; summary",
+                "概念 : がいねん : concept"
+            ]
+        },
+        {
+            "kanji": "論",
+            "onyomi": [
+                "ロン"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "argument",
+                "theory",
+                "discussion"
+            ],
+            "common_words": [
+                "論文 : ろんぶん : thesis; paper",
+                "議論 : ぎろん : debate; discussion"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means general or approximate, like an outline of something. You see it in words like がいよう and がいねん. Both point to the big shape of ideas rather than the fine parts. It sets the stage before details.\nThe second kanji means argument or discussion, the way ideas are organized and presented. It appears in words like ろんぶん and ぎろん. These are about stating claims and supporting them. It focuses on logical structure and reasoning.",
+    "synonyms": [
+        "総論 : そうろん : general remarks; general discussion",
+        "概要 : がいよう : outline; summary"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are そうろん and がいよう. そうろん is a general discussion at a high level, often paired with かくろん. がいよう is a short summary or outline; it can be part of or serve as the opening section similar to がいろん, but it stresses brev-",
+    "antonyms": [
+        "各論 : かくろん : detailed discussion (by item)",
+        "詳説 : しょうせつ : detailed explanation"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are かくろん and しょうせつ. They focus on specific parts and detailed explanation, while がいろん stays at the big-picture, introductory level.",
+    "collocations": [
+        {
+            "kanji": "心理学概論",
+            "furigana": "心理学(しんりがく)概論(がいろん)",
+            "translations": {
+                "EN": "Introduction to Psychology",
+                "ID": "Pengantar Psikologi",
+                "ES": "Introducción a la Psicología",
+                "VI": "Giới thiệu về Tâm lý học",
+                "FR": "Introduction à la psychologie",
+                "NE": "मनोविज्ञानको परिचय",
+                "BN": "মনোবিজ্ঞানের ভূমিকা",
+                "ZH": "心理学导论",
+                "KO": "심리학 개요",
+                "TL": "Panimula sa Sikolohiya",
+                "MY": "စိတ်ပညာမိတ်ဆက်",
+                "HI": "मनोविज्ञान का परिचय",
+                "AR": "مقدمة في علم النفس",
+                "FA": "مقدمه‌ای بر روانشناسی"
+            }
+        },
+        {
+            "kanji": "経済学概論",
+            "furigana": "経済学(けいざいがく)概論(がいろん)",
+            "translations": {
+                "EN": "Introduction to Economics",
+                "ID": "Pengantar Ekonomi",
+                "ES": "Introducción a la Economía",
+                "VI": "Giới thiệu về Kinh tế học",
+                "FR": "Introduction à l'économie",
+                "NE": "अर्थशास्त्रको परिचय",
+                "BN": "অর্থনীতির ভূমিকা",
+                "ZH": "经济学导论",
+                "KO": "경제학 개론",
+                "TL": "Panimula sa Ekonomiks",
+                "MY": "စီးပွားရေးမိတ်ဆက်",
+                "HI": "अर्थशास्त्र का परिचय",
+                "AR": "مقدمة في الاقتصاد",
+                "FA": "مقدمه‌ای بر اقتصاد"
+            }
+        },
+        {
+            "kanji": "概論の授業",
+            "furigana": "概論(がいろん)の授業(じゅぎょう)",
+            "translations": {
+                "EN": "Introduction class",
+                "ID": "Kelas pengantar",
+                "ES": "Clase introductoria",
+                "VI": "Lớp giới thiệu",
+                "FR": "Cours d'introduction",
+                "NE": "परिचय कक्षा",
+                "BN": "ভূমিকা ক্লাস",
+                "ZH": "入门课程",
+                "KO": "개론 수업",
+                "TL": "Introduction class",
+                "MY": "မိတ်ဆက်သင်တန်း",
+                "HI": "परिचय कक्षा",
+                "AR": "فصل تمهيدي",
+                "FA": "کلاس مقدماتی"
+            }
+        },
+        {
+            "kanji": "講義の概論",
+            "furigana": "講義(こうぎ)の概論(がいろん)",
+            "translations": {
+                "EN": "Lecture Overview",
+                "ID": "Ikhtisar Kuliah",
+                "ES": "Resumen de la conferencia",
+                "VI": "Tổng quan bài giảng",
+                "FR": "Aperçu du cours",
+                "NE": "व्याख्यान सिंहावलोकन",
+                "BN": "বক্তৃতা সংক্ষিপ্ত বিবরণ",
+                "ZH": "讲座概述",
+                "KO": "강의 개요",
+                "TL": "Pangkalahatang-ideya ng Lektura",
+                "MY": "တရားတော်များ ခြုံငုံသုံးသပ်ချက်",
+                "HI": "व्याख्यान अवलोकन",
+                "AR": "نظرة عامة على المحاضرة",
+                "FA": "مرور کلی سخنرانی"
+            }
+        },
+        {
+            "kanji": "基礎的な概論",
+            "furigana": "基礎的(きそてき)な概論(がいろん)",
+            "translations": {
+                "EN": "Basic Overview",
+                "ID": "Tinjauan Dasar",
+                "ES": "Descripción general básica",
+                "VI": "Tổng quan cơ bản",
+                "FR": "Aperçu général",
+                "NE": "आधारभूत अवलोकन",
+                "BN": "মৌলিক ওভারভিউ",
+                "ZH": "基本概述",
+                "KO": "기초적인 개요",
+                "TL": "Pangunahing Pangkalahatang-ideya",
+                "MY": "အခြေခံခြုံငုံသုံးသပ်ချက်",
+                "HI": "मूल अवलोकन",
+                "AR": "نظرة عامة أساسية",
+                "FA": "نمای کلی پایه"
+            }
+        },
+        {
+            "kanji": "学部一年の概論",
+            "furigana": "学部(がくぶ)一年(いちねん)の概論(がいろん)",
+            "translations": {
+                "EN": "Introduction to first-year undergraduate students",
+                "ID": "Pengantar untuk mahasiswa sarjana tahun pertama",
+                "ES": "Introducción a los estudiantes de primer año de pregrado",
+                "VI": "Giới thiệu cho sinh viên năm nhất đại học",
+                "FR": "Introduction aux étudiants de première année de licence",
+                "NE": "प्रथम वर्षका स्नातक विद्यार्थीहरूको परिचय",
+                "BN": "স্নাতক প্রথম বর্ষের শিক্ষার্থীদের পরিচিতি",
+                "ZH": "面向大一本科生的介绍",
+                "KO": "학부 일년의 개론",
+                "TL": "Panimula sa mga mag-aaral sa unang taon na undergraduate",
+                "MY": "ပထမနှစ် ဘွဲ့ကြိုကျောင်းသားများအား မိတ်ဆက်ခြင်း။",
+                "HI": "प्रथम वर्ष के स्नातक छात्रों का परिचय",
+                "AR": "مقدمة لطلاب السنة الأولى الجامعية",
+                "FA": "معرفی دانشجویان سال اول کارشناسی"
+            }
+        },
+        {
+            "kanji": "概論を学ぶ",
+            "furigana": "概論(がいろん)を学(まな)ぶ",
+            "translations": {
+                "EN": "Learn the basics",
+                "ID": "Pelajari dasar-dasarnya",
+                "ES": "Aprende lo básico",
+                "VI": "Học những điều cơ bản",
+                "FR": "Apprenez les bases",
+                "NE": "आधारभूत कुराहरू सिक्नुहोस्",
+                "BN": "মূল বিষয়গুলি শিখুন",
+                "ZH": "学习基础知识",
+                "KO": "개론을 배우다",
+                "TL": "Alamin ang mga pangunahing kaalaman",
+                "MY": "အခြေခံများကို လေ့လာပါ။",
+                "HI": "मूल बातें सीखें",
+                "AR": "تعلم الأساسيات",
+                "FA": "اصول اولیه را یاد بگیرید"
+            }
+        },
+        {
+            "kanji": "概論を受ける",
+            "furigana": "概論(がいろん)を受(う)ける",
+            "translations": {
+                "EN": "receive an overview",
+                "ID": "menerima ikhtisar",
+                "ES": "recibir una descripción general",
+                "VI": "nhận được một cái nhìn tổng quan",
+                "FR": "recevoir un aperçu",
+                "NE": "एक सिंहावलोकन प्राप्त गर्नुहोस्",
+                "BN": "একটি সারসংক্ষেপ গ্রহণ করুন",
+                "ZH": "获取概览",
+                "KO": "개론을 받다",
+                "TL": "makatanggap ng pangkalahatang-ideya",
+                "MY": "ခြုံငုံသုံးသပ်ချက်ကိုလက်ခံပါ။",
+                "HI": "एक सिंहावलोकन प्राप्त करें",
+                "AR": "تلقي نظرة عامة",
+                "FA": "دریافت یک مرور کلی"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は心理学概論を受けています。",
+            "furigana": "私(わたし)は心理学(しんりがく)概論(がいろん)を受(う)けています。",
+            "translations": {
+                "EN": "I am taking an introduction to psychology course.",
+                "ID": "Saya sedang mengambil kursus pengantar psikologi.",
+                "ES": "Estoy cursando una introducción a la psicología.",
+                "VI": "Tôi đang học khóa giới thiệu về tâm lý học.",
+                "FR": "Je suis un cours d'introduction à la psychologie.",
+                "NE": "म मनोविज्ञानको परिचयात्मक कोर्स लिँदै छु।",
+                "BN": "আমি মনোবিজ্ঞানের একটি ভূমিকা কোর্স নিচ্ছি।",
+                "ZH": "我正在修读心理学导论课程。",
+                "KO": "나는 심리학 개론을 받고 있다.",
+                "TL": "Kumuha ako ng kursong introduction sa psychology.",
+                "MY": "စိတ်ပညာသင်တန်းကို မိတ်ဆက်ပေးနေပါတယ်။",
+                "HI": "मैं मनोविज्ञान का परिचय पाठ्यक्रम ले रहा हूं।",
+                "AR": "أنا آخذ دورة تمهيدية في علم النفس.",
+                "FA": "من در حال گذراندن دوره مقدماتی روانشناسی هستم."
+            }
+        },
+        {
+            "kanji": "この本の最初の章は概論です。",
+            "furigana": "この本(ほん)の最初(さいしょ)の章(しょう)は概論(がいろん)です。",
+            "translations": {
+                "EN": "The first chapter of this book is an overview.",
+                "ID": "Bab pertama buku ini adalah ikhtisar.",
+                "ES": "El primer capítulo de este libro es una introducción.",
+                "VI": "Chương đầu tiên của cuốn sách này là phần tổng quan.",
+                "FR": "Le premier chapitre de ce livre est une présentation générale.",
+                "NE": "यस पुस्तकको पहिलो अध्याय एक सिंहावलोकन हो।",
+                "BN": "এই বইয়ের প্রথম অধ্যায়টি একটি সারসংক্ষেপ।",
+                "ZH": "本书第一章为概述。",
+                "KO": "이 책의 첫 번째 장은 개론입니다.",
+                "TL": "Ang unang kabanata ng aklat na ito ay isang pangkalahatang-ideya.",
+                "MY": "ဤစာအုပ်၏ ပထမအခန်းသည် ခြုံငုံသုံးသပ်ချက်ဖြစ်သည်။",
+                "HI": "इस पुस्तक का पहला अध्याय एक सिंहावलोकन है।",
+                "AR": "الفصل الأول من هذا الكتاب هو نظرة عامة.",
+                "FA": "فصل اول این کتاب، مروری اجمالی است."
+            }
+        },
+        {
+            "kanji": "まず概論から始めましょう。",
+            "furigana": "まず概論(がいろん)から始(はじ)めましょう。",
+            "translations": {
+                "EN": "Let's start with an overview.",
+                "ID": "Mari kita mulai dengan ikhtisar.",
+                "ES": "Comencemos con una descripción general.",
+                "VI": "Chúng ta hãy bắt đầu bằng phần tổng quan.",
+                "FR": "Commençons par un aperçu général.",
+                "NE": "एक सिंहावलोकनबाट सुरु गरौं।",
+                "BN": "আসুন একটি সারসংক্ষেপ দিয়ে শুরু করি।",
+                "ZH": "让我们先来做一个概述。",
+                "KO": "먼저 개론부터 시작합시다.",
+                "TL": "Magsimula tayo sa isang pangkalahatang-ideya.",
+                "MY": "ခြုံငုံသုံးသပ်ချက်ဖြင့် စတင်ကြပါစို့။",
+                "HI": "आइये एक अवलोकन से शुरुआत करें।",
+                "AR": "دعونا نبدأ بنظرة عامة.",
+                "FA": "بیایید با یک مرور کلی شروع کنیم."
+            }
+        },
+        {
+            "kanji": "今日の授業は経済学概論です。",
+            "furigana": "今日(きょう)の授業(じゅぎょう)は経済学(けいざいがく)概論(がいろん)です。",
+            "translations": {
+                "EN": "Today's class is an introduction to economics.",
+                "ID": "Kelas hari ini adalah pengantar ekonomi.",
+                "ES": "La clase de hoy es una introducción a la economía.",
+                "VI": "Lớp học hôm nay là phần giới thiệu về kinh tế học.",
+                "FR": "Le cours d'aujourd'hui est une introduction à l'économie.",
+                "NE": "आजको कक्षा अर्थशास्त्रको परिचय हो।",
+                "BN": "আজকের ক্লাসটি অর্থনীতির ভূমিকা।",
+                "ZH": "今天的课程是经济学入门。",
+                "KO": "오늘의 수업은 경제학 개론입니다.",
+                "TL": "Ang klase ngayon ay isang panimula sa ekonomiya.",
+                "MY": "ယနေ့ အတန်းသည် ဘောဂဗေဒ နှင့် မိတ်ဆက်ပေးခြင်း ဖြစ်ပါသည်။",
+                "HI": "आज की कक्षा अर्थशास्त्र का परिचय है।",
+                "AR": "درس اليوم هو مقدمة في الاقتصاد.",
+                "FA": "کلاس امروز مقدمه‌ای بر اقتصاد است."
+            }
+        },
+        {
+            "kanji": "概論を読んで、全体の流れをつかみました。",
+            "furigana": "概論(がいろん)を読(よ)んで、全体(ぜんたい)の流(なが)れをつかみました。",
+            "translations": {
+                "EN": "I read the synopsis and got the general idea of the story.",
+                "ID": "Saya membaca sinopsisnya dan mendapat gambaran umum tentang ceritanya.",
+                "ES": "Leí la sinopsis y me hice una idea general de la historia.",
+                "VI": "Tôi đã đọc tóm tắt và nắm được ý chính của câu chuyện.",
+                "FR": "J'ai lu le synopsis et j'ai eu une idée générale de l'histoire.",
+                "NE": "मैले सिंहावलोकन पढें र सामान्य विचार पाएँ।",
+                "BN": "আমি সারসংক্ষেপটি পড়ে গল্পটির সাধারণ ধারণা পেয়েছি।",
+                "ZH": "我看了剧情简介，大致了解了故事梗概。",
+                "KO": "개론을 읽고 전체 흐름을 잡았습니다.",
+                "TL": "Binasa ko ang buod at nakuha ko ang pangkalahatang ideya ng kuwento.",
+                "MY": "ဇာတ်လမ်းအကျဉ်းကို ဖတ်ပြီး ဇာတ်လမ်းရဲ့ ယေဘုယျ အတွေးအမြင်ကို ရခဲ့ပါတယ်။",
+                "HI": "मैंने अवलोकन पढ़ा और सामान्य विचार प्राप्त किया।",
+                "AR": "قرأت الملخص وحصلت على الفكرة العامة للقصة.",
+                "FA": "خلاصه داستان را خواندم و ایده کلی داستان را گرفتم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "ringkasan",
+            "ES": "descripción general",
+            "VI": "Tổng quan",
+            "FR": "aperçu",
+            "NE": "अवलोकन",
+            "BN": "ওভারভিউ",
+            "ZH": "概述",
+            "KO": "개요",
+            "TL": "pangkalahatang-ideya",
+            "MY": "ခြုံငုံသုံးသပ်ချက်",
+            "HI": "अवलोकन",
+            "AR": "ملخص",
+            "FA": "نمای کلی",
+            "EN": [
+                "overview",
+                "outline",
+                "introduction",
+                "survey"
+            ]
+        },
+        {
+            "ID": "hal-hal umum",
+            "ES": "generalidades",
+            "VI": "những điều chung chung",
+            "FR": "généralités",
+            "NE": "सामान्यताहरू",
+            "BN": "সাধারণতা",
+            "ZH": "一般性",
+            "KO": "일반성",
+            "TL": "pangkalahatan",
+            "MY": "ယေဘူယျ",
+            "HI": "सामान्यिकी",
+            "AR": "عموميات",
+            "FA": "کلیات",
+            "EN": [
+                "generalities",
+                "preliminaries"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "概論",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "概論",
+                "reading": "がいろん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "introduction",
+                    "outline",
+                    "general remarks"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "概",
+        "論"
+    ],
+    "kanji_data": {
+        "概": {
+            "freq_mainichi_shinbun": 1335,
+            "grade": 8,
+            "heisig_en": "outline",
+            "jlpt": 1,
+            "kanji": "概",
+            "kun_readings": [
+                "おおむ.ね"
+            ],
+            "meanings": [
+                "approximation",
+                "condition",
+                "generally",
+                "outline"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ガイ"
+            ],
+            "stroke_count": 14,
+            "unicode": "6982"
+        },
+        "論": {
+            "freq_mainichi_shinbun": 227,
+            "grade": 6,
+            "heisig_en": "argument",
+            "jlpt": 3,
+            "kanji": "論",
+            "kun_readings": [
+                "あげつら.う"
+            ],
+            "meanings": [
+                "argument",
+                "discourse"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ロン"
+            ],
+            "stroke_count": 15,
+            "unicode": "8AD6"
+        }
+    }
+}

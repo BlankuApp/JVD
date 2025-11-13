@@ -1,0 +1,464 @@
+{
+    "version": "0.3.0",
+    "word": "課税",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/zGGSJkV5rxM",
+    "in_db": true,
+    "kanji": "課税",
+    "reading": "かぜい",
+    "introduction_japanese": "課税。買い物やしはらい、年末のてつづきの話でよく出ます。",
+    "introduction_english": "kazei. You hear this when shopping, paying bills, or doing year‑end paperwork.",
+    "meanings": [
+        [
+            "taxation",
+            "imposition",
+            "levy"
+        ],
+        [
+            "taxable",
+            "taxed",
+            "assessable",
+            "subject-to-tax"
+        ]
+    ],
+    "meaning_explanation_japanese": "国や自冶体が、お金や売り買いに税金をのせることです。ある収入や物が、税金のルールの中に入っている状態も言えます。",
+    "meaning_explanation_english": "It is used as a noun and a する-verb. In plain words, かぜい means putting a tax on income, goods, or actions, and it can also refer to the state of being subject to tax.",
+    "youtube_description": "Learn 課税 (kazei): what it means, when to use it, and easy examples for daily Japanese. Perfect for beginners in business, news, and shopping contexts.",
+    "kanji_details": [
+        {
+            "kanji": "課",
+            "onyomi": [
+                "カ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "section",
+                "assign",
+                "lesson"
+            ],
+            "common_words": [
+                "課題（かだい）: assignment; task; problem",
+                "日課（にっか）: daily routine"
+            ]
+        },
+        {
+            "kanji": "税",
+            "onyomi": [
+                "ゼイ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "tax",
+                "duty"
+            ],
+            "common_words": [
+                "税金（ぜいきん）: tax",
+                "所得税（しょとくぜい）: income tax"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means assign or section, often used for tasks or units. It shows up in everyday words like かだい, which is a task or problem to do. You also see it in にっか, the routine task you do every day. Think “assigned task” or “section of work.”\nThe second kanji means tax or duty. It appears in basic words like ぜいきん, the general word for tax. A specific example is しょとくぜい, the tax on income. When you see this kanji, think about money collected by the government.",
+    "synonyms": [
+        "徴税 : ちょうぜい : tax collection"
+    ],
+    "synonym_explanation": "The most common synonym of the word is ちょうぜい. ちょうぜい focuses on collecting taxes already decided, while かぜい focuses on imposing or being subject to a tax in the first place.",
+    "antonyms": [
+        "非課税 : ひかぜい : tax-exempt"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ひかぜい. It means something is outside the tax rules, while かぜい means it is inside and taxed.",
+    "collocations": [
+        {
+            "kanji": "所得課税",
+            "furigana": "所得(しょとく)課税(かぜい)",
+            "translations": {
+                "EN": "Income tax",
+                "ID": "Pajak pendapatan",
+                "ES": "Impuesto sobre la renta",
+                "VI": "Thuế thu nhập",
+                "FR": "impôt sur le revenu",
+                "NE": "आयकर",
+                "BN": "আয়কর",
+                "ZH": "所得税",
+                "KO": "소득과세",
+                "TL": "Buwis sa kita",
+                "MY": "ဝင်ငွေခွန်",
+                "HI": "आयकर",
+                "AR": "ضريبة الدخل",
+                "FA": "مالیات بر درآمد"
+            }
+        },
+        {
+            "kanji": "課税対象",
+            "furigana": "課税(かぜい)対象(たいしょう)",
+            "translations": {
+                "EN": "Taxable",
+                "ID": "Kena pajak",
+                "ES": "Imponible",
+                "VI": "Chịu thuế",
+                "FR": "Imposable",
+                "NE": "कर योग्य",
+                "BN": "করযোগ্য",
+                "ZH": "应税",
+                "KO": "과세 대상",
+                "TL": "Nabubuwisan",
+                "MY": "အခွန်ကောက်တယ်။",
+                "HI": "कर योग्य",
+                "AR": "خاضع للضريبة",
+                "FA": "مشمول مالیات"
+            }
+        },
+        {
+            "kanji": "住民税の課税",
+            "furigana": "住民税(じゅうみんぜい)の課税(かぜい)",
+            "translations": {
+                "EN": "Resident tax imposition",
+                "ID": "Pengenaan pajak penduduk",
+                "ES": "Imposición de impuestos a los residentes",
+                "VI": "Thuế cư trú",
+                "FR": "imposition des résidents",
+                "NE": "बासिन्दा कर लगाउने व्यवस्था",
+                "BN": "আবাসিক কর আরোপ",
+                "ZH": "居民征税",
+                "KO": "주민세 과세",
+                "TL": "Pagpataw ng buwis sa residente",
+                "MY": "နေထိုင်သူအခွန်စည်းကြပ်ခြင်း။",
+                "HI": "निवासी कर अधिरोपण",
+                "AR": "فرض ضريبة المقيمين",
+                "FA": "اعمال مالیات بر ساکنین"
+            }
+        },
+        {
+            "kanji": "海外取引への課税",
+            "furigana": "海外(かいがい)取引(とりひき)への課税(かぜい)",
+            "translations": {
+                "EN": "Taxation of overseas transactions",
+                "ID": "Perpajakan atas transaksi luar negeri",
+                "ES": "Tributación de transacciones en el extranjero",
+                "VI": "Thuế giao dịch ở nước ngoài",
+                "FR": "Imposition des transactions à l'étranger",
+                "NE": "विदेशी कारोबारमा कर",
+                "BN": "বিদেশী লেনদেনের উপর কর আরোপ",
+                "ZH": "海外交易的税务处理",
+                "KO": "해외거래에 대한 과세",
+                "TL": "Pagbubuwis ng mga transaksyon sa ibang bansa",
+                "MY": "ပြည်ပသို့ အရောင်းအဝယ်ပြုလုပ်ရာတွင် အခွန်ကောက်ခံခြင်း။",
+                "HI": "विदेशी लेनदेन पर कराधान",
+                "AR": "الضرائب على المعاملات الخارجية",
+                "FA": "مالیات بر معاملات خارجی"
+            }
+        },
+        {
+            "kanji": "消費への課税",
+            "furigana": "消費(しょうひ)への課税(かぜい)",
+            "translations": {
+                "EN": "Taxation of consumption",
+                "ID": "Perpajakan konsumsi",
+                "ES": "Impuestos al consumo",
+                "VI": "Thuế tiêu thụ",
+                "FR": "Taxation de la consommation",
+                "NE": "उपभोगको कर",
+                "BN": "ভোগের উপর কর আরোপ",
+                "ZH": "消费税",
+                "KO": "소비에 대한 과세",
+                "TL": "Pagbubuwis sa pagkonsumo",
+                "MY": "စားသုံးမှုအခွန်ကောက်ခံခြင်း။",
+                "HI": "उपभोग पर कराधान",
+                "AR": "ضريبة الاستهلاك",
+                "FA": "مالیات بر مصرف"
+            }
+        },
+        {
+            "kanji": "課税価格",
+            "furigana": "課税(かぜい)価格(かかく)",
+            "translations": {
+                "EN": "Taxable price",
+                "ID": "Harga kena pajak",
+                "ES": "Precio imponible",
+                "VI": "Giá chịu thuế",
+                "FR": "Prix taxable",
+                "NE": "कर लाग्ने मूल्य",
+                "BN": "করযোগ্য মূল্য",
+                "ZH": "应税价格",
+                "KO": "과세 가격",
+                "TL": "Nabubuwisan na presyo",
+                "MY": "အခွန်ဆောင်နိုင်သောစျေးနှုန်း",
+                "HI": "कर योग्य मूल्य",
+                "AR": "السعر الخاضع للضريبة",
+                "FA": "قیمت مشمول مالیات"
+            }
+        },
+        {
+            "kanji": "所得に課税する",
+            "furigana": "所得(しょとく)に課税(かぜい)する",
+            "translations": {
+                "EN": "Taxing income",
+                "ID": "Pajak penghasilan",
+                "ES": "Impuesto sobre la renta",
+                "VI": "Thu nhập đánh thuế",
+                "FR": "Impôt sur le revenu",
+                "NE": "आयमा कर लगाउने",
+                "BN": "কর আরোপিত আয়",
+                "ZH": "所得税",
+                "KO": "소득에 과세",
+                "TL": "Pagbubuwis ng kita",
+                "MY": "ဝင်ငွေခွန်",
+                "HI": "आय पर कर लगाना",
+                "AR": "فرض الضرائب على الدخل",
+                "FA": "مالیات بر درآمد"
+            }
+        },
+        {
+            "kanji": "消費に課税する",
+            "furigana": "消費(しょうひ)に課税(かぜい)する",
+            "translations": {
+                "EN": "Tax consumption",
+                "ID": "Konsumsi pajak",
+                "ES": "Consumo de impuestos",
+                "VI": "Tiêu thụ thuế",
+                "FR": "Consommation fiscale",
+                "NE": "कर खपत",
+                "BN": "কর খরচ",
+                "ZH": "税收消费",
+                "KO": "소비에 과세",
+                "TL": "Pagkonsumo ng buwis",
+                "MY": "အခွန်သုံးစွဲမှု",
+                "HI": "कर उपभोग",
+                "AR": "استهلاك الضرائب",
+                "FA": "مصرف مالیات"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この商品は課税の対象です。",
+            "furigana": "この商品(しょうひん)は課税(かぜい)の対象(たいしょう)です。",
+            "translations": {
+                "EN": "This product is subject to tax.",
+                "ID": "Produk ini dikenakan pajak.",
+                "ES": "Este producto está sujeto a impuestos.",
+                "VI": "Sản phẩm này phải chịu thuế.",
+                "FR": "Ce produit est soumis à la taxe.",
+                "NE": "यो उत्पादन करको अधीनमा छ।",
+                "BN": "এই পণ্যটি করযোগ্য।",
+                "ZH": "本产品需缴纳税款。",
+                "KO": "이 상품은 과세 대상입니다.",
+                "TL": "Ang produktong ito ay napapailalim sa buwis.",
+                "MY": "ဤထုတ်ကုန်သည် အခွန်ဆောင်ရမည်။",
+                "HI": "यह उत्पाद कर के अधीन है।",
+                "AR": "هذا المنتج يخضع للضريبة.",
+                "FA": "این محصول مشمول مالیات است."
+            }
+        },
+        {
+            "kanji": "市は来年からレジ袋に課税します。",
+            "furigana": "市(し)は来年(らいねん)からレジ袋(れじぶくろ)に課税(かぜい)します。",
+            "translations": {
+                "EN": "The city will impose a tax on plastic bags starting next year.",
+                "ID": "Kota tersebut akan mengenakan pajak pada kantong plastik mulai tahun depan.",
+                "ES": "La ciudad impondrá un impuesto a las bolsas de plástico a partir del próximo año.",
+                "VI": "Thành phố sẽ áp dụng thuế đối với túi nhựa bắt đầu từ năm sau.",
+                "FR": "La ville instaurera une taxe sur les sacs en plastique à partir de l'année prochaine.",
+                "NE": "शहरले अर्को वर्षदेखि प्लास्टिकका झोलाहरूमा कर लगाउनेछ।",
+                "BN": "আগামী বছর থেকে শহরটি প্লাস্টিক ব্যাগের উপর কর আরোপ করবে।",
+                "ZH": "该市将于明年开始对塑料袋征税。",
+                "KO": "시는 내년부터 계산대에 과세합니다.",
+                "TL": "Magpapataw ang lungsod ng buwis sa mga plastic bag simula sa susunod na taon.",
+                "MY": "မြို့တော်သည် လာမည့်နှစ်မှ စတင်ကာ ပလတ်စတစ်အိတ်များအပေါ် အခွန်စည်းကြပ်မည်ဖြစ်သည်။",
+                "HI": "शहर में अगले वर्ष से प्लास्टिक बैगों पर कर लगाया जाएगा।",
+                "AR": "ستفرض المدينة ضريبة على الأكياس البلاستيكية اعتبارًا من العام المقبل.",
+                "FA": "این شهر از سال آینده مالیات بر کیسه‌های پلاستیکی وضع خواهد کرد."
+            }
+        },
+        {
+            "kanji": "私の収入は課税されます。",
+            "furigana": "私(わたし)の収入(しゅうにゅう)は課税(かぜい)されます。",
+            "translations": {
+                "EN": "My income is taxed.",
+                "ID": "Pendapatan saya dikenakan pajak.",
+                "ES": "Mis ingresos están sujetos a impuestos.",
+                "VI": "Thu nhập của tôi bị đánh thuế.",
+                "FR": "Mes revenus sont imposés.",
+                "NE": "मेरो आम्दानीमा कर लगाइएको छ।",
+                "BN": "আমার আয়ের উপর কর আরোপ করা হয়েছে।",
+                "ZH": "我的收入需要缴税。",
+                "KO": "내 소득은 과세됩니다.",
+                "TL": "Buwis ang kita ko.",
+                "MY": "ငါ့ဝင်ငွေက အခွန်ကောက်တယ်။",
+                "HI": "मेरी आय पर कर लगता है।",
+                "AR": "يتم فرض الضريبة على دخلي.",
+                "FA": "درآمد من مشمول مالیات است."
+            }
+        },
+        {
+            "kanji": "海外からの買い物に課税されることがあります。",
+            "furigana": "海外(かいがい)からの買(か)い物(もの)に課税(かぜい)されることがあります。",
+            "translations": {
+                "EN": "Taxes may be levied on purchases made from overseas.",
+                "ID": "Pajak dapat dikenakan pada pembelian yang dilakukan dari luar negeri.",
+                "ES": "Es posible que se apliquen impuestos a las compras realizadas en el extranjero.",
+                "VI": "Có thể đánh thuế đối với các giao dịch mua hàng từ nước ngoài.",
+                "FR": "Des taxes peuvent être appliquées aux achats effectués à l'étranger.",
+                "NE": "विदेशबाट गरिएका खरिदहरूमा कर लगाउन सकिन्छ।",
+                "BN": "বিদেশ থেকে করা ক্রয়ের উপর কর আরোপ করা যেতে পারে।",
+                "ZH": "从海外购买的商品可能需要缴纳税款。",
+                "KO": "해외에서의 쇼핑에 과세될 수 있습니다.",
+                "TL": "Maaaring ipataw ang mga buwis sa mga pagbiling ginawa mula sa ibang bansa.",
+                "MY": "ပြည်ပမှဝယ်ယူမှုများအပေါ် အခွန်ကောက်နိုင်သည်။",
+                "HI": "विदेश से की गई खरीद पर कर लगाया जा सकता है।",
+                "AR": "قد يتم فرض الضرائب على المشتريات التي تتم من الخارج.",
+                "FA": "ممکن است مالیات بر خریدهای انجام شده از خارج از کشور اعمال شود."
+            }
+        },
+        {
+            "kanji": "その国はたばこに重く課税しています。",
+            "furigana": "その国(くに)はたばこに重(おも)く課税(かぜい)しています。",
+            "translations": {
+                "EN": "The country taxes tobacco heavily.",
+                "ID": "Negara ini mengenakan pajak tembakau yang tinggi.",
+                "ES": "El país aplica fuertes impuestos al tabaco.",
+                "VI": "Đất nước này đánh thuế thuốc lá rất cao.",
+                "FR": "Le pays taxe fortement le tabac.",
+                "NE": "यो देशले सुर्तीजन्य पदार्थमा भारी कर लगाउँछ।",
+                "BN": "দেশটি তামাকের উপর প্রচুর কর আরোপ করে।",
+                "ZH": "该国对烟草征收重税。",
+                "KO": "그 나라는 담배에 무겁게 과세하고 있습니다.",
+                "TL": "Malaki ang buwis ng bansa sa tabako.",
+                "MY": "တိုင်းပြည်က ဆေးလိပ်ကို ကြီးကြီးမားမား အခွန်ကောက်တယ်။",
+                "HI": "देश में तम्बाकू पर भारी कर लगाया जाता है।",
+                "AR": "تفرض الدولة ضرائب باهظة على التبغ.",
+                "FA": "این کشور مالیات سنگینی بر دخانیات وضع می‌کند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "perpajakan",
+            "ES": "impuestos",
+            "VI": "thuế",
+            "FR": "imposition",
+            "NE": "कर",
+            "BN": "কর আরোপ",
+            "ZH": "税收",
+            "KO": "과세",
+            "TL": "pagbubuwis",
+            "MY": "အခွန်ကောက်ခံခြင်း။",
+            "HI": "कर लगाना",
+            "AR": "الضرائب",
+            "FA": "مالیات",
+            "EN": [
+                "taxation",
+                "imposition",
+                "levy"
+            ]
+        },
+        {
+            "ID": "kena pajak",
+            "ES": "imponible",
+            "VI": "chịu thuế",
+            "FR": "imposable",
+            "NE": "कर योग्य",
+            "BN": "করযোগ্য",
+            "ZH": "应税",
+            "KO": "과세 대상",
+            "TL": "nabubuwisan",
+            "MY": "အခွန်ဆောင်သည်။",
+            "HI": "कर योग्य",
+            "AR": "خاضع للضريبة",
+            "FA": "مشمول مالیات",
+            "EN": [
+                "taxable",
+                "taxed",
+                "assessable",
+                "subject-to-tax"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "課税",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "課税",
+                "reading": "かぜい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "taxation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "課",
+        "税"
+    ],
+    "kanji_data": {
+        "課": {
+            "freq_mainichi_shinbun": 455,
+            "grade": 4,
+            "heisig_en": "chapter",
+            "jlpt": 2,
+            "kanji": "課",
+            "kun_readings": [],
+            "meanings": [
+                "chapter",
+                "counter for chapters (of a book)",
+                "department",
+                "division",
+                "lesson",
+                "section"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カ"
+            ],
+            "stroke_count": 15,
+            "unicode": "8AB2"
+        },
+        "税": {
+            "freq_mainichi_shinbun": 289,
+            "grade": 5,
+            "heisig_en": "tax",
+            "jlpt": 2,
+            "kanji": "税",
+            "kun_readings": [],
+            "meanings": [
+                "duty",
+                "tax"
+            ],
+            "name_readings": [
+                "さい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ゼイ"
+            ],
+            "stroke_count": 12,
+            "unicode": "7A0E"
+        }
+    }
+}

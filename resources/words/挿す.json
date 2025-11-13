@@ -1,0 +1,538 @@
+{
+    "version": "0.3.0",
+    "word": "挿す",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/BgGxLG84-o0",
+    "in_db": true,
+    "kanji": "挿す",
+    "reading": "さす",
+    "introduction_japanese": "挿す。本にしおり、花瓶に花、髪にかんざし、USBをポートに――そんな場面でよく使います。",
+    "introduction_english": "Sasu. Used for things like putting a bookmark in a book, flowers in a vase, a hairpin in hair, or a USB into a port.",
+    "meanings": [
+        [
+            "insert",
+            "place",
+            "put",
+            "stick",
+            "slot"
+        ],
+        [
+            "plug",
+            "connect"
+        ],
+        [
+            "plant",
+            "graft'],[",
+            "tuck",
+            "wear",
+            "adorn"
+        ]
+    ],
+    "meaning_explanation_japanese": "穴やすきまに物をいれること。カードやケーブルをポートにつなぐこと。枝を土に立ててふやすこと。髪やポケットに小さい物をとめる感じです。",
+    "meaning_explanation_english": "It is used as a transitive verb. さす means you put something into a space or slot, plug or connect a device, plant a cutting into soil, or tuck a small item into hair or a pocket.",
+    "youtube_description": "Learn 挿す (さす): the friendly verb for inserting, plugging, and even planting cuttings. Simple meanings, clear examples, and easy collocations for beginners!",
+    "kanji_details": [
+        {
+            "kanji": "挿",
+            "onyomi": [
+                "ソウ"
+            ],
+            "kunyomi": [
+                "さす"
+            ],
+            "meanings_english": [
+                "insert",
+                "put in"
+            ],
+            "common_words": [
+                "挿絵 : さしえ : inserted illustration",
+                "挿入 : そうにゅう : insertion"
+            ]
+        }
+    ],
+    "kanji_explanation": "The single kanji means to put something in with the hand. It pictures a hand guiding an object into a space. You can hear it in さしえ when a picture is added into a book. You also see it in そうにゅう when text or a device is inserted.",
+    "synonyms": [
+        "差し込む : さしこむ : to insert",
+        "入れる : いれる : to put in"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are さしこむ and いれる. さしこむ stresses pushing into an opening or slot. いれる is a broader, everyday “put in” and doesn’t always imply a tight fit like さす often does.",
+    "antonyms": [
+        "抜く : ぬく : to pull out",
+        "取り出す : とりだす : to take out"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are ぬく and とりだす. They mean to remove something from a place, the opposite of putting or inserting it.",
+    "collocations": [
+        {
+            "kanji": "花瓶に挿す",
+            "furigana": "花瓶(かびん)に挿(さ)す",
+            "translations": {
+                "EN": "Put in a vase",
+                "ID": "Taruh di dalam vas",
+                "ES": "Colócalo en un jarrón",
+                "VI": "Đặt vào bình hoa",
+                "FR": "Mettez-le dans un vase",
+                "NE": "फूलदानमा राख्नुहोस्",
+                "BN": "একটি ফুলদানিতে রাখুন",
+                "ZH": "放入花瓶",
+                "KO": "꽃병에 꽂다",
+                "TL": "Ilagay sa isang plorera",
+                "MY": "ပန်းအိုးထဲထည့်ပါ။",
+                "HI": "फूलदान में रखें",
+                "AR": "وضع في مزهرية",
+                "FA": "در گلدان قرار دهید"
+            }
+        },
+        {
+            "kanji": "本に挿す",
+            "furigana": "本(ほん)に挿(さ)す",
+            "translations": {
+                "EN": "Insert into book",
+                "ID": "Masukkan ke dalam buku",
+                "ES": "Insertar en el libro",
+                "VI": "Chèn vào sách",
+                "FR": "Insérer dans le livre",
+                "NE": "पुस्तकमा घुसाउनुहोस्",
+                "BN": "বইয়ের মধ্যে ঢোকান",
+                "ZH": "插入书本",
+                "KO": "책에 꽂다",
+                "TL": "Ipasok sa libro",
+                "MY": "စာအုပ်ထဲထည့်ပါ။",
+                "HI": "पुस्तक में डालें",
+                "AR": "إدراج في الكتاب",
+                "FA": "درج در کتاب"
+            }
+        },
+        {
+            "kanji": "髪に挿す",
+            "furigana": "髪(かみ)に挿(さ)す",
+            "translations": {
+                "EN": "Insert into hair",
+                "ID": "Masukkan ke rambut",
+                "ES": "Insertar en el cabello",
+                "VI": "Chèn vào tóc",
+                "FR": "Insérer dans les cheveux",
+                "NE": "कपालमा घुसाउनुहोस्",
+                "BN": "চুলে ঢোকান।",
+                "ZH": "插入头发",
+                "KO": "머리에 꽂다",
+                "TL": "Ipasok sa buhok",
+                "MY": "ဆံပင်ထဲသို့ထည့်ပါ။",
+                "HI": "बालों में डालें",
+                "AR": "أدخل في الشعر",
+                "FA": "داخل مو قرار دهید"
+            }
+        },
+        {
+            "kanji": "ポケットに挿す",
+            "furigana": "ポケットに挿(さ)す",
+            "translations": {
+                "EN": "Put it in your pocket",
+                "ID": "Taruh di saku Anda",
+                "ES": "Mételo en el bolsillo",
+                "VI": "Đặt nó vào túi của bạn",
+                "FR": "Mettez-le dans votre poche",
+                "NE": "यसलाई आफ्नो खल्तीमा राख्नुहोस्।",
+                "BN": "এটা তোমার পকেটে রাখো।",
+                "ZH": "把它放进口袋",
+                "KO": "포켓에 꽂다",
+                "TL": "Ilagay mo sa iyong bulsa",
+                "MY": "သင့်အိတ်ကပ်ထဲထည့်ပါ။",
+                "HI": "इसे अपनी जेब में रखो",
+                "AR": "ضعه في جيبك",
+                "FA": "بذار تو جیبت"
+            }
+        },
+        {
+            "kanji": "USBポートに挿す",
+            "furigana": "USBポートに挿(さ)す",
+            "translations": {
+                "EN": "Insert into USB port",
+                "ID": "Masukkan ke port USB",
+                "ES": "Inserte en el puerto USB",
+                "VI": "Cắm vào cổng USB",
+                "FR": "Insérer dans le port USB",
+                "NE": "USB पोर्टमा घुसाउनुहोस्",
+                "BN": "USB পোর্টে ঢোকান",
+                "ZH": "插入 USB 端口",
+                "KO": "USB 포트에 꽂기",
+                "TL": "Ipasok sa USB port",
+                "MY": "USB အပေါက်ထဲသို့ထည့်ပါ။",
+                "HI": "USB पोर्ट में डालें",
+                "AR": "أدخل في منفذ USB",
+                "FA": "وارد کردن به پورت USB"
+            }
+        },
+        {
+            "kanji": "挿す場所",
+            "furigana": "挿(さ)す場所(ばしょ)",
+            "translations": {
+                "EN": "Where to insert",
+                "ID": "Dimana untuk memasukkan",
+                "ES": "Dónde insertar",
+                "VI": "Chèn vào đâu",
+                "FR": "Où insérer",
+                "NE": "कहाँ घुसाउने",
+                "BN": "কোথায় ঢোকাবেন",
+                "ZH": "插入位置",
+                "KO": "꽂는 장소",
+                "TL": "Kung saan isingit",
+                "MY": "ဘယ်မှာထည့်ရမလဲ",
+                "HI": "कहाँ डालें",
+                "AR": "أين يتم الإدخال",
+                "FA": "کجا درج شود"
+            }
+        },
+        {
+            "kanji": "花を挿す",
+            "furigana": "花(はな)を挿(さ)す",
+            "translations": {
+                "EN": "Inserting flowers",
+                "ID": "Memasukkan bunga",
+                "ES": "Insertar flores",
+                "VI": "Cắm hoa",
+                "FR": "Insérer des fleurs",
+                "NE": "फूलहरू घुसाउँदै",
+                "BN": "ফুল ঢোকানো",
+                "ZH": "插入花朵",
+                "KO": "꽃을 꽂다",
+                "TL": "Pagpasok ng mga bulaklak",
+                "MY": "ပန်းထည့်ခြင်း။",
+                "HI": "फूल डालना",
+                "AR": "إدخال الزهور",
+                "FA": "قرار دادن گل‌ها"
+            }
+        },
+        {
+            "kanji": "しおりを本に挿す",
+            "furigana": "しおりを本(ほん)に挿(さ)す",
+            "translations": {
+                "EN": "Insert a bookmark into a book",
+                "ID": "Masukkan penanda buku ke dalam buku",
+                "ES": "Inserta un marcapáginas en un libro",
+                "VI": "Chèn dấu trang vào sách",
+                "FR": "Insérer un marque-page dans un livre",
+                "NE": "पुस्तकमा बुकमार्क घुसाउनुहोस्",
+                "BN": "একটি বইয়ের মধ্যে একটি বুকমার্ক ঢোকান",
+                "ZH": "将书签插入书中",
+                "KO": "책갈피를 책에 삽입",
+                "TL": "Maglagay ng bookmark sa isang libro",
+                "MY": "စာအုပ်တစ်အုပ်ထဲသို့ စာညှပ်ထည့်ပါ။",
+                "HI": "किसी पुस्तक में बुकमार्क डालें",
+                "AR": "إدراج إشارة مرجعية في كتاب",
+                "FA": "قرار دادن نشانک در کتاب"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "花を花瓶に挿します。",
+            "furigana": "花(はな)を花瓶(かびん)に挿(さ)します。",
+            "translations": {
+                "EN": "Place the flowers in a vase.",
+                "ID": "Taruhlah bunga dalam vas.",
+                "ES": "Coloca las flores en un jarrón.",
+                "VI": "Cắm hoa vào bình.",
+                "FR": "Placez les fleurs dans un vase.",
+                "NE": "फूलहरूलाई फूलदानमा राख्नुहोस्।",
+                "BN": "ফুলগুলো একটি ফুলদানিতে রাখুন।",
+                "ZH": "将花插在花瓶里。",
+                "KO": "꽃을 꽃병에 꽂습니다.",
+                "TL": "Ilagay ang mga bulaklak sa isang plorera.",
+                "MY": "ပန်းများကို ပန်းအိုးထဲတွင် ထည့်ထားပါ။",
+                "HI": "फूलों को फूलदान में रखें।",
+                "AR": "ضع الزهور في مزهرية.",
+                "FA": "گل‌ها را در گلدان قرار دهید."
+            }
+        },
+        {
+            "kanji": "本にしおりを挿しました。",
+            "furigana": "本(ほん)にしおりを挿(さ)しました。",
+            "translations": {
+                "EN": "I put a bookmark in the book.",
+                "ID": "Saya menaruh penanda buku di buku itu.",
+                "ES": "Puse un marcapáginas en el libro.",
+                "VI": "Tôi đánh dấu trang sách.",
+                "FR": "J'ai mis un marque-page dans le livre.",
+                "NE": "मैले किताबमा बुकमार्क राखें।",
+                "BN": "আমি বইটিতে একটি বুকমার্ক রেখেছি।",
+                "ZH": "我在书里夹了一张书签。",
+                "KO": "책에 책갈피를 꽂았습니다.",
+                "TL": "Naglagay ako ng bookmark sa libro.",
+                "MY": "စာအုပ်ထဲမှာ မှတ်သားထားလိုက်တယ်။",
+                "HI": "मैंने पुस्तक में एक बुकमार्क लगा दिया।",
+                "AR": "وضعت علامة مرجعية في الكتاب.",
+                "FA": "یه بوکمارک گذاشتم لای کتاب."
+            }
+        },
+        {
+            "kanji": "髪に小さな花を挿す。",
+            "furigana": "髪(かみ)に小(ちい)さな花(はな)を挿(さ)す。",
+            "translations": {
+                "EN": "Wear a small flower in your hair.",
+                "ID": "Kenakan bunga kecil di rambut Anda.",
+                "ES": "Lleva una pequeña flor en el pelo.",
+                "VI": "Cài một bông hoa nhỏ lên tóc.",
+                "FR": "Portez une petite fleur dans vos cheveux.",
+                "NE": "कपालमा सानो फूल लगाउनुहोस्।",
+                "BN": "তোমার চুলে একটা ছোট ফুল পরো।",
+                "ZH": "在头发上别一朵小花。",
+                "KO": "머리에 작은 꽃을 꽂습니다.",
+                "TL": "Magsuot ng isang maliit na bulaklak sa iyong buhok.",
+                "MY": "သင့်ဆံပင်တွင် ပန်းပွင့်လေးတစ်ပွင့်ကို ၀တ်ဆင်ပါ။",
+                "HI": "अपने बालों में एक छोटा सा फूल लगाएँ।",
+                "AR": "ارتدي زهرة صغيرة في شعرك.",
+                "FA": "یه گل کوچیک هم به موهات بزن."
+            }
+        },
+        {
+            "kanji": "USBをポートに挿してください。",
+            "furigana": "USBをポートに挿(さ)してください。",
+            "translations": {
+                "EN": "Insert the USB into the port.",
+                "ID": "Masukkan USB ke portnya.",
+                "ES": "Inserta el USB en el puerto.",
+                "VI": "Cắm USB vào cổng.",
+                "FR": "Insérez la clé USB dans le port.",
+                "NE": "पोर्टमा USB घुसाउनुहोस्।",
+                "BN": "পোর্টে USB ঢোকান।",
+                "ZH": "将 USB 数据线插入端口。",
+                "KO": "USB를 포트에 꽂으십시오.",
+                "TL": "Ipasok ang USB sa port.",
+                "MY": "USB ကို အပေါက်ထဲသို့ ထည့်ပါ။",
+                "HI": "यूएसबी को पोर्ट में डालें।",
+                "AR": "أدخل منفذ USB في المنفذ.",
+                "FA": "USB را داخل پورت قرار دهید."
+            }
+        },
+        {
+            "kanji": "ポケットにペンを挿しておきます。",
+            "furigana": "ポケットにペンを挿(さ)しておきます。",
+            "translations": {
+                "EN": "Put a pen in your pocket.",
+                "ID": "Taruh pena di saku Anda.",
+                "ES": "Mete un bolígrafo en el bolsillo.",
+                "VI": "Đặt một cây bút vào túi của bạn.",
+                "FR": "Mettez un stylo dans votre poche.",
+                "NE": "खल्तीमा कलम राख्नुहोस्।",
+                "BN": "পকেটে একটা কলম রাখো।",
+                "ZH": "口袋里放一支笔。",
+                "KO": "주머니에 펜을 꽂습니다.",
+                "TL": "Maglagay ng panulat sa iyong bulsa.",
+                "MY": "ဘောပင်ကို အိတ်ကပ်ထဲ ထည့်ထားပါ။",
+                "HI": "अपनी जेब में एक कलम रखो.",
+                "AR": "ضع قلمًا في جيبك.",
+                "FA": "یک خودکار در جیبت بگذار."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "menyisipkan",
+            "ES": "insertar",
+            "VI": "chèn",
+            "FR": "insérer",
+            "NE": "घुसाउनुहोस्",
+            "BN": "ঢোকান",
+            "ZH": "插入",
+            "KO": "끼워 넣다",
+            "TL": "ipasok",
+            "MY": "ထည့်သွင်းပါ။",
+            "HI": "डालना",
+            "AR": "إدراج",
+            "FA": "درج",
+            "EN": [
+                "insert",
+                "place",
+                "put",
+                "stick",
+                "slot"
+            ]
+        },
+        {
+            "ID": "steker",
+            "ES": "enchufar",
+            "VI": "phích cắm",
+            "FR": "prise",
+            "NE": "प्लग",
+            "BN": "প্লাগ",
+            "ZH": "插头",
+            "KO": "플러그",
+            "TL": "plug",
+            "MY": "ပလပ်",
+            "HI": "प्लग",
+            "AR": "سدادة",
+            "FA": "پلاگین",
+            "EN": [
+                "plug",
+                "connect"
+            ]
+        },
+        {
+            "ID": "tanaman",
+            "ES": "planta",
+            "VI": "thực vật",
+            "FR": "usine",
+            "NE": "बिरुवा",
+            "BN": "উদ্ভিদ",
+            "ZH": "植物",
+            "KO": "식물",
+            "TL": "halaman",
+            "MY": "အပင်",
+            "HI": "पौधा",
+            "AR": "نبات",
+            "FA": "گیاه",
+            "EN": [
+                "plant",
+                "graft'],[",
+                "tuck",
+                "wear",
+                "adorn"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "挿す",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "挿す",
+                "reading": "さす"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to insert",
+                    "to put in"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "差す"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to plant (a cutting)",
+                    "to strike"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "挿し木"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to arrange (flowers)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "挿し花"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to wear (a sword) in one's belt"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "差す"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to shut",
+                    "to close",
+                    "to lock",
+                    "to fasten"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'su' ending",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "鎖す"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "挿"
+    ],
+    "kanji_data": {
+        "挿": {
+            "freq_mainichi_shinbun": 1908,
+            "grade": 8,
+            "heisig_en": "insert",
+            "jlpt": 1,
+            "kanji": "挿",
+            "kun_readings": [
+                "さ.す",
+                "はさ.む"
+            ],
+            "meanings": [
+                "graft",
+                "insert",
+                "put in",
+                "wear (sword)"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ソウ"
+            ],
+            "stroke_count": 10,
+            "unicode": "633F"
+        }
+    }
+}

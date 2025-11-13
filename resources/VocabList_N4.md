@@ -79,6 +79,36 @@
 | 忘れ物 | わすれもの | lost article |
 | 笑う  | わらう | to laugh,to smile |
 | 割合  | わりあい | rate,ratio,percentage |
+| 安全  | あんぜん | safety |
+| 怒る  | おこる | to get angry,to be angry |
+| 生産  | せいさん・する | to produce |
+| 具合  | ぐあい | condition,health |
+| 工業  | こうぎょう | the manufacturing industry |
+| 寂しい | さびしい | lonely |
+| 地震  | じしん | earthquake |
+| 紹介  | しょうかい | introduction |
+| 説明  | せつめい | explanation |
+| 相談  | そうだん・する | to discuss |
+| 大分  | だいぶ | greatly |
+| 足す  | たす  | to add a number |
+| 建てる | たてる | to build |
+| 続ける | つづける | to continue |
+| 電灯  | でんとう | electric light |
+| 届ける | とどける | to reach |
+| 逃げる | にげる | to escape |
+| 人形  | にんぎょう | doll, figure |
+| 拝見  | はいけん・する | (humble) to look at |
+| 冷える | ひえる | to grow cold |
+| 非常に | ひじょうに | extremely |
+| 複雑  | ふくざつ | complexity,complication |
+| 貿易  | ぼうえき | trade |
+| 漫画  | まんが | comic |
+| 迎える | むかえる | to go out to meet |
+| 約束  | やくそく | promise |
+| 輸出  | ゆしゅつ・する | to export |
+| 用事  | ようじ | things to do |
+| 両方  | りょうほう | both sides |
+| 別れる | わかれる | to separate |
 
 
 | Kanji | Hiragana | English |
@@ -94,7 +124,7 @@
 | 明日  | あす  | tomorrow |
 | 遊び  | あそび | play |
 | 安心  | あんしん | relief |
-| 安全  | あんぜん | safety |
+
 |     | あんな | such |
 | 案内  | あんない・する | to guide |
 | 以下  | いか  | less than |
@@ -138,7 +168,6 @@
 | 送る  | おくる | to send |
 | 遅れる | おくれる | to be late |
 | 行う  | おこなう | to do |
-| 怒る  | おこる | to get angry,to be angry |
 | お嬢さん | おじょうさん | young lady |
 | お宅  | おたく | (polite) your house |
 | 落る  | おちる | to fall or drop |
@@ -214,7 +243,6 @@
 | 急行  | きゅうこう | speedy, express |
 | 興味  | きょうみ | an interest |
 | 近所  | きんじょ | neighbourhood |
-| 具合  | ぐあい | condition,health |
 | 空気  | くうき | air,atmosphere |
 | 草   | くさ  | grass |
 |     | くださる | (respectful) to give |
@@ -240,7 +268,6 @@
 | 子   | こ   | child |
 |     | こう  | this way |
 | 郊外  | こうがい | outskirts |
-| 工業  | こうぎょう | the manufacturing industry |
 | 高校  | こうこう | high school |
 | 高校生 | こうこうせい | high school student |
 | 校長  | こうちょう | headmaster |
@@ -277,7 +304,6 @@
 | 下げる | さげる | to hang,to lower,to move back |
 | 差し上げる | さしあげる | (polite) to give |
 |     | さっき | some time ago |
-| 寂しい | さびしい | lonely |
 | さ来月 | さらいげつ | the month after next |
 | さ来週 | さらいしゅう | the week after next |
 |     | サラダ | salad |
@@ -293,7 +319,6 @@
 |     | しかる | a particular |
 | 試験  | しけん | examination |
 | 事故  | じこ  | accident |
-| 地震  | じしん | earthquake |
 | 時代  | じだい | era |
 | 下着  | したぎ | underwear |
 | 支度  | したく・する | to prepare |
@@ -315,7 +340,6 @@
 | 出席  | しゅっせき・する | to attend |
 | 出発  | しゅっぱつ・する | to depart |
 | 趣味  | しゅみ | hobby |
-| 紹介  | しょうかい | introduction |
 | 小学校 | しょうがっこう | elementary school |
 | 小説  | しょうせつ | novel |
 | 招待  | しょうたい・する | to invite |
@@ -351,11 +375,9 @@
 |     | すり  | pickpocket |
 |     | すると | then |
 | 生活  | せいかつ・する | to live |
-| 生産  | せいさん・する | to produce |
 | 西洋  | せいよう | western countries |
 | 世界  | せかい | the world |
 | 席   | せき  | seat |
-| 説明  | せつめい | explanation |
 | 背中  | せなか | back of the body |
 |     | ぜひ  | without fail |
 | 世話  | せわ・する | to look after |
@@ -364,7 +386,6 @@
 | 戦争  | せんそう | war |
 | 先輩  | せんぱい | senior |
 |     | そう  | really |
-| 相談  | そうだん・する | to discuss |
 | 育てる | そだてる | to rear,to bring up |
 | 卒業  | そつぎょう | graduation |
 | 祖父  | そふ  | grandfather |
@@ -381,16 +402,13 @@
 | 大事  | だいじ | important,valuable,serious matter |
 |     | たいてい | usually |
 |     | タイプ | type,style |
-| 大分  | だいぶ | greatly |
 | 台風  | たいふう | typhoon |
 | 倒れる | たおれる | to break down |
 |     | だから | so,therefore |
 | 確か  | たしか | definite |
-| 足す  | たす  | to add a number |
 | 正しい | ただしい | correct |
 | 畳   | たたみ | Japanese straw mat |
 | 立てる | たてる | to stand something up |
-| 建てる | たてる | to build |
 | 例えば | たとえば | for example |
 | 棚   | たな  | shelves |
 | 楽しみ | たのしみ | joy |
@@ -417,7 +435,6 @@
 | 都合  | つごう | circumstances,convenience |
 | 伝える | つたえる | to report |
 | 続く  | つづく | to be continued |
-| 続ける | つづける | to continue |
 | 包む  | つつむ | to wrap |
 | 妻   | つま  | (humble) wife |
 |     | つもり | intention |
@@ -432,7 +449,6 @@
 | 寺   | てら  | temple |
 | 点   | てん  | point,dot |
 | 店員  | てんいん | shop assistant |
-| 電灯  | でんとう | electric light |
 | 電報  | でんぽう | telegram |
 | 展覧会 | てんらんかい | exhibition |
 | 都   | と   | metropolitan |
@@ -445,7 +461,6 @@
 | 特別  | とくべつ | special |
 | 途中  | とちゅう | on the way |
 | 特急  | とっきゅう | limited express train (faster than an express train) |
-| 届ける | とどける | to reach |
 | 泊まる | とまる | to lodge at |
 | 止める | とめる | to stop something |
 | 取り替える | とりかえる | to exchange |
@@ -466,11 +481,9 @@
 |     | におい | a smell |
 | 苦い  | にがい | bitter |
 | 二階建て | にかいだて | two storied |
-| 逃げる | にげる | to escape |
 | 入院  | にゅういん・する | to hospitalise |
 | 入学  | にゅうがく・する | to enter school or university |
 | 似る  | にる  | to be similar |
-| 人形  | にんぎょう | doll, figure |
 | 盗む  | ぬすむ | to steal |
 | 塗る  | ぬる  | to paint,to plaster |
 |     | ぬれる | to get wet |
@@ -487,7 +500,6 @@
 | 場合  | ばあい | situation |
 |     | パート | part time |
 | 倍   | ばい  | double |
-| 拝見  | はいけん・する | (humble) to look at |
 | 歯医者 | はいしゃ | dentist |
 | 始める | はじめる | to begin |
 | 場所  | ばしょ | location |
@@ -504,7 +516,6 @@
 | 日   | ひ   | day, sun |
 | 火   | ひ   | fire |
 |     | ピアノ | piano |
-| 冷える | ひえる | to grow cold |
 | 光   | ひかり | light |
 | 光る  | ひかる | to shine,to glitter |
 | 引き出し | ひきだし | drawer,drawing out |
@@ -513,7 +524,6 @@
 | 飛行場 | ひこうじょう | airport |
 | 久しぶり | ひさしぶり | after a long time |
 | 美術館 | びじゅつかん | art gallery |
-| 非常に | ひじょうに | extremely |
 |     | びっくり・する | to be surprised |
 | 引っ越す | ひっこす | to move house |
 | 必要  | ひつよう | necessary |
@@ -525,7 +535,6 @@
 |     | ファックス | fax |
 | 増える | ふえる | to increase |
 | 深い  | ふかい | deep |
-| 複雑  | ふくざつ | complexity,complication |
 | 復習  | ふくしゅう | revision |
 | 部長  | ぶちょう | head of a section |
 | 普通  | ふつう | usually, or a train that stops at every station |
@@ -544,7 +553,6 @@
 |     | ベル  | bell |
 | 変   | へん  | strange |
 | 返事  | へんじ | reply |
-| 貿易  | ぼうえき | trade |
 | 放送  | ほうそう・する | to broadcast |
 | 法律  | ほうりつ | law |
 | 僕   | ぼく  | I (used by males) |
@@ -561,7 +569,6 @@
 | 間違える | まちがえる | to make a mistake |
 | 間に合う | まにあう | to be in time for |
 | 回る  | まわる | to go around |
-| 漫画  | まんが | comic |
 | 真中  | まんなか | middle |
 | 見える | みえる | to be in sight |
 | 湖   | みずうみ | lake |
@@ -569,7 +576,6 @@
 | 見つける | みつける | to discover |
 | 皆   | みな  | everybody |
 | 港   | みなと | harbour |
-| 迎える | むかえる | to go out to meet |
 | 昔   | むかし | olden days, former |
 | 虫   | むし  | insect |
 | 息子  | むすこ | (humble) son |
@@ -586,7 +592,6 @@
 |     | もらう | to receive |
 | 森   | もり  | forest |
 | 焼く  | やく  | to bake,to grill |
-| 約束  | やくそく | promise |
 | 役に立つ | やくにたつ | to be helpful |
 | 焼ける | やける | to burn,to be roasted |
 | 優しい | やさしい | kind |
@@ -596,14 +601,12 @@
 | 止める | やめる | to stop |
 | 柔らかい | やわらかい | soft |
 | 湯   | ゆ   | hot water |
-| 輸出  | ゆしゅつ・する | to export |
 | 輸入  | ゆにゅう・する | to import |
 | 指   | ゆび  | finger |
 | 指輪  | ゆびわ | finger ring |
 | 夢   | ゆめ  | dream |
 | 用   | よう  | use |
 | 用意  | ようい | preparation |
-| 用事  | ようじ | things to do |
 | 汚れる | よごれる | to get dirty |
 | 予習  | よしゅう | preparation for a lesson |
 | 予定  | よてい | arrangement |
@@ -613,14 +616,12 @@
 |     | よろしい | (respectful) OK,all right |
 | 理由  | りゆう | reason |
 | 利用  | りよう | utilization |
-| 両方  | りょうほう | both sides |
 | 留守  | るす  | absence |
 | 冷房  | れいぼう | air conditioning |
 | 歴史  | れきし | history |
 |     | レジ  | register |
 |     | レポート/リポート | report |
 |     | ワープロ | word processor |
-| 別れる | わかれる | to separate |
 | 沸く  | わく  | to boil, to grow hot,to get excited |
 | 訳   | わけ  | meaning,reason |
 | 泳ぎ方 | およぎかた | way of swimming |

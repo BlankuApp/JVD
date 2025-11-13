@@ -1,0 +1,516 @@
+{
+    "version": "0.3.0",
+    "word": "貨物",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/uDSWe-enXyk",
+    "in_db": true,
+    "kanji": "貨物",
+    "reading": "かもつ",
+    "introduction_japanese": "貨物は、港や空港、列車やトラックの運送でよく使います。倉庫や通関の話でも出ます。",
+    "introduction_english": "Kamotsu (かもつ). Used in ports and airports, and in transport by trains and trucks. It also comes up when talking about warehouses and customs.",
+    "meanings": [
+        [
+            "cargo",
+            "freight",
+            "goods",
+            "load"
+        ],
+        [
+            "shipping",
+            "transport",
+            "carriage"
+        ]
+    ],
+    "meaning_explanation_japanese": "運ぶための品物、またはそれを運ぶしくみ・サービスをさします。物流や運送の場でよく使われます。",
+    "meaning_explanation_english": "It is used as a noun. かもつ means the goods being carried, and by extension the freight or transport of those goods in logistics.",
+    "youtube_description": "Learn the word かもつ in minutes—what it means, how to use it in real life, and must-know phrases from trains to airports. With friendly examples and clear tips for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "貨",
+            "onyomi": [
+                "カ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "goods",
+                "money",
+                "freight"
+            ],
+            "common_words": [
+                "通貨（つうか）: currency",
+                "貨幣（かへい）: money"
+            ]
+        },
+        {
+            "kanji": "物",
+            "onyomi": [
+                "ブツ",
+                "モツ"
+            ],
+            "kunyomi": [
+                "もの"
+            ],
+            "meanings_english": [
+                "thing",
+                "object",
+                "stuff"
+            ],
+            "common_words": [
+                "物語（ものがたり）: story",
+                "食べ物（たべもの）: food"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means money and valuables. It appears in words about currency and money. Think of つうか and かへい. It often suggests value being exchanged or moved. The second kanji means thing or object. It shows up in many daily words. Think of ものがたり and たべもの. It points to physical items you can touch.",
+    "synonyms": [
+        "積荷 : つみに : cargo, load",
+        "荷物 : にもつ : baggage, parcel"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are つみに and にもつ. つみに focuses on a load placed on a vehicle or ship, often in transport contexts. にもつ is everyday baggage or parcels. かもつ is more formal and common in logistics and industry.",
+    "antonyms": [
+        "旅客 : りょかく : passengers"
+    ],
+    "antonym_explanation": "The most common antonym of the word is りょかく, which refers to passengers. It contrasts with かもつ, which is about goods, not people.",
+    "collocations": [
+        {
+            "kanji": "大型貨物",
+            "furigana": "大型(おおがた)貨物(かもつ)",
+            "translations": {
+                "EN": "large cargo",
+                "ID": "kargo besar",
+                "ES": "carga grande",
+                "VI": "hàng hóa lớn",
+                "FR": "cargaison importante",
+                "NE": "ठूलो कार्गो",
+                "BN": "বড় পণ্যসম্ভার",
+                "ZH": "大宗货物",
+                "KO": "대형화물",
+                "TL": "malaking kargamento",
+                "MY": "ကြီးမားသောကုန်တင်",
+                "HI": "बड़ा माल",
+                "AR": "حمولة كبيرة",
+                "FA": "محموله بزرگ"
+            }
+        },
+        {
+            "kanji": "危険貨物",
+            "furigana": "危険(きけん)貨物(かもつ)",
+            "translations": {
+                "EN": "Dangerous cargo",
+                "ID": "Kargo berbahaya",
+                "ES": "Carga peligrosa",
+                "VI": "Hàng hóa nguy hiểm",
+                "FR": "Marchandises dangereuses",
+                "NE": "खतरनाक कार्गो",
+                "BN": "বিপজ্জনক পণ্যসম্ভার",
+                "ZH": "危险货物",
+                "KO": "위험화물",
+                "TL": "Mapanganib na kargamento",
+                "MY": "အန္တရာယ်ရှိသောကုန်တင်",
+                "HI": "खतरनाक माल",
+                "AR": "البضائع الخطرة",
+                "FA": "محموله خطرناک"
+            }
+        },
+        {
+            "kanji": "国際貨物",
+            "furigana": "国際(こくさい)貨物(かもつ)",
+            "translations": {
+                "EN": "International Cargo",
+                "ID": "Kargo Internasional",
+                "ES": "Carga internacional",
+                "VI": "Vận chuyển hàng hóa quốc tế",
+                "FR": "Fret international",
+                "NE": "अन्तर्राष्ट्रिय कार्गो",
+                "BN": "আন্তর্জাতিক কার্গো",
+                "ZH": "国际货物",
+                "KO": "국제화물",
+                "TL": "International Cargo",
+                "MY": "နိုင်ငံတကာ ကုန်စည်ပို့ဆောင်ရေး",
+                "HI": "अंतर्राष्ट्रीय कार्गो",
+                "AR": "الشحن الدولي",
+                "FA": "باربری بین‌المللی"
+            }
+        },
+        {
+            "kanji": "空港の貨物",
+            "furigana": "空港(くうこう)の貨物(かもつ)",
+            "translations": {
+                "EN": "Airport Cargo",
+                "ID": "Kargo Bandara",
+                "ES": "Carga del aeropuerto",
+                "VI": "Hàng hóa sân bay",
+                "FR": "Fret aéroportuaire",
+                "NE": "विमानस्थल कार्गो",
+                "BN": "বিমানবন্দর কার্গো",
+                "ZH": "机场货运",
+                "KO": "공항화물",
+                "TL": "Cargo sa Paliparan",
+                "MY": "လေဆိပ် ကုန်စည်ပို့ဆောင်ရေး",
+                "HI": "हवाई अड्डा कार्गो",
+                "AR": "شحن المطار",
+                "FA": "باربری فرودگاهی"
+            }
+        },
+        {
+            "kanji": "10トンの貨物",
+            "furigana": "10トンの貨物(かもつ)",
+            "translations": {
+                "EN": "10 tons of cargo",
+                "ID": "10 ton kargo",
+                "ES": "10 toneladas de carga",
+                "VI": "10 tấn hàng hóa",
+                "FR": "10 tonnes de cargaison",
+                "NE": "१० टन कार्गो",
+                "BN": "১০ টন মালামাল",
+                "ZH": "10吨货物",
+                "KO": "10톤 화물",
+                "TL": "10 toneladang kargamento",
+                "MY": "၁၀ တန် ကုန်တင်ရတယ်။",
+                "HI": "10 टन माल",
+                "AR": "10 أطنان من البضائع",
+                "FA": "۱۰ تن بار"
+            }
+        },
+        {
+            "kanji": "貨物を運ぶ",
+            "furigana": "貨物(かもつ)を運(はこ)ぶ",
+            "translations": {
+                "EN": "Carrying cargo",
+                "ID": "Membawa kargo",
+                "ES": "Transporte de carga",
+                "VI": "Vận chuyển hàng hóa",
+                "FR": "Transport de marchandises",
+                "NE": "सामान बोक्ने",
+                "BN": "মালামাল বহন",
+                "ZH": "运输货物",
+                "KO": "화물을 운반",
+                "TL": "Nagdadala ng kargamento",
+                "MY": "ကုန်တင်သယ်",
+                "HI": "माल ढोना",
+                "AR": "نقل البضائع",
+                "FA": "حمل بار"
+            }
+        },
+        {
+            "kanji": "貨物を積む",
+            "furigana": "貨物(かもつ)を積(つ)む",
+            "translations": {
+                "EN": "Loading cargo",
+                "ID": "Memuat kargo",
+                "ES": "Cargando carga",
+                "VI": "Đang tải hàng hóa",
+                "FR": "Chargement de la cargaison",
+                "NE": "कार्गो लोड गर्दै",
+                "BN": "মালামাল লোড হচ্ছে",
+                "ZH": "装载货物",
+                "KO": "화물을 쌓다",
+                "TL": "Naglo-load ng kargamento",
+                "MY": "ကုန်တင်နေသည်။",
+                "HI": "माल लोड करना",
+                "AR": "تحميل البضائع",
+                "FA": "بارگیری محموله"
+            }
+        },
+        {
+            "kanji": "貨物を降ろす",
+            "furigana": "貨物(かもつ)を降(お)ろす},{",
+            "translations": {
+                "EN": "Unloading cargo",
+                "ID": "Membongkar kargo",
+                "ES": "Descarga de carga",
+                "VI": "Dỡ hàng",
+                "FR": "Déchargement de la cargaison",
+                "NE": "कार्गो अनलोड गर्दै",
+                "BN": "পণ্য খালাস",
+                "ZH": "卸货",
+                "KO": "화물을 내리다",
+                "TL": "Pagbaba ng kargamento",
+                "MY": "ကုန်တင်ခြင်း",
+                "HI": "माल उतारना",
+                "AR": "تفريغ البضائع",
+                "FA": "تخلیه بار"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この貨物は船で運びます。",
+            "furigana": "この貨物(かもつ)は船(ふね)で運(はこ)びます。",
+            "translations": {
+                "EN": "This cargo is transported by ship.",
+                "ID": "Kargo ini diangkut dengan kapal.",
+                "ES": "Esta carga se transporta por barco.",
+                "VI": "Hàng hóa này được vận chuyển bằng tàu.",
+                "FR": "Cette cargaison est transportée par bateau.",
+                "NE": "यो कार्गो जहाजबाट ढुवानी गरिन्छ।",
+                "BN": "এই পণ্যবাহী জাহাজের মাধ্যমে পরিবহন করা হয়।",
+                "ZH": "这批货物是通过船舶运输的。",
+                "KO": "이 화물은 배로 운반합니다.",
+                "TL": "Ang kargamento na ito ay dinadala sa pamamagitan ng barko.",
+                "MY": "ဤကုန်စည်ကို သင်္ဘောဖြင့် ပို့ဆောင်သည်။",
+                "HI": "यह माल जहाज द्वारा ले जाया जाता है।",
+                "AR": "يتم نقل هذه البضائع عن طريق السفن.",
+                "FA": "این محموله با کشتی حمل می‌شود."
+            }
+        },
+        {
+            "kanji": "貨物が駅に着きました。",
+            "furigana": "貨物(かもつ)が駅(えき)に着(つ)きました。",
+            "translations": {
+                "EN": "The freight arrived at the station.",
+                "ID": "Muatannya tiba di stasiun.",
+                "ES": "La mercancía llegó a la estación.",
+                "VI": "Hàng hóa đã đến ga.",
+                "FR": "Le fret est arrivé à la gare.",
+                "NE": "मालवाहक गाडी स्टेशनमा आइपुग्यो।",
+                "BN": "মালবাহী গাড়ি স্টেশনে এসে পৌঁছেছে।",
+                "ZH": "货物已抵达车站。",
+                "KO": "화물이 역에 도착했습니다.",
+                "TL": "Dumating ang kargamento sa istasyon.",
+                "MY": "ကုန်စည်ပို့ဆောင်ရေးဂိတ်ကို ရောက်ပါတယ်။",
+                "HI": "मालगाड़ी स्टेशन पर आ गई।",
+                "AR": "وصلت الشحنة إلى المحطة.",
+                "FA": "بار به ایستگاه رسید."
+            }
+        },
+        {
+            "kanji": "私たちは貨物をトラックに積みます。",
+            "furigana": "私(わたし)たちは貨物(かもつ)をトラックに積(つ)みます。",
+            "translations": {
+                "EN": "We load the cargo onto the truck.",
+                "ID": "Kami memuat muatan ke truk.",
+                "ES": "Cargamos la mercancía en el camión.",
+                "VI": "Chúng tôi chất hàng lên xe tải.",
+                "FR": "Nous chargeons la cargaison sur le camion.",
+                "NE": "हामी ट्रकमा सामान लोड गर्छौं।",
+                "BN": "আমরা ট্রাকে মালামাল লোড করি।",
+                "ZH": "我们将货物装上卡车。",
+                "KO": "우리는 화물을 트럭에 쌓습니다.",
+                "TL": "Kinakarga namin ang kargamento sa trak.",
+                "MY": "ကုန်တင်ကားကြီးပေါ်ကို ကျွန်တော်တို့ တင်ပါတယ်။",
+                "HI": "हम माल को ट्रक पर लादते हैं।",
+                "AR": "نقوم بتحميل البضائع على الشاحنة.",
+                "FA": "بار را روی کامیون بار می‌زنیم."
+            }
+        },
+        {
+            "kanji": "その会社は国際貨物を扱います。",
+            "furigana": "その会社(かいしゃ)は国際(こくさい)貨物(かもつ)を扱(あつか)います。",
+            "translations": {
+                "EN": "The company handles international shipments.",
+                "ID": "Perusahaan ini menangani pengiriman internasional.",
+                "ES": "La empresa gestiona envíos internacionales.",
+                "VI": "Công ty xử lý các lô hàng quốc tế.",
+                "FR": "L'entreprise gère les expéditions internationales.",
+                "NE": "कम्पनीले अन्तर्राष्ट्रिय ढुवानी गर्छ।",
+                "BN": "কোম্পানিটি আন্তর্জাতিক চালান পরিচালনা করে।",
+                "ZH": "该公司负责国际货运。",
+                "KO": "그 회사는 국제화물을 취급합니다.",
+                "TL": "Pinangangasiwaan ng kumpanya ang mga internasyonal na pagpapadala.",
+                "MY": "ကုမ္ပဏီသည် နိုင်ငံတကာသို့ တင်ပို့ရောင်းချမှုများကို ဆောင်ရွက်ပေးသည်။",
+                "HI": "कंपनी अंतर्राष्ट्रीय शिपमेंट संभालती है।",
+                "AR": "تتعامل الشركة مع الشحنات الدولية.",
+                "FA": "این شرکت حمل و نقل بین المللی را انجام می دهد."
+            }
+        },
+        {
+            "kanji": "空港の貨物はとても多いです。",
+            "furigana": "空港(くうこう)の貨物(かもつ)はとても多(おお)いです。",
+            "translations": {
+                "EN": "There is a lot of cargo at the airport.",
+                "ID": "Ada banyak kargo di bandara.",
+                "ES": "Hay mucha carga en el aeropuerto.",
+                "VI": "Có rất nhiều hàng hóa ở sân bay.",
+                "FR": "Il y a beaucoup de fret à l'aéroport.",
+                "NE": "विमानस्थलमा धेरै कार्गो छ।",
+                "BN": "বিমানবন্দরে প্রচুর মালামাল রয়েছে।",
+                "ZH": "机场有很多货物。",
+                "KO": "공항 화물은 매우 많습니다.",
+                "TL": "Maraming kargamento sa airport.",
+                "MY": "လေဆိပ်မှာ ကုန်တင်ကုန်ချ များတယ်။",
+                "HI": "हवाई अड्डे पर बहुत सारा माल है।",
+                "AR": "هناك الكثير من البضائع في المطار.",
+                "FA": "بار زیادی در فرودگاه وجود دارد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "muatan",
+            "ES": "carga",
+            "VI": "hàng hóa",
+            "FR": "cargaison",
+            "NE": "कार्गो",
+            "BN": "পণ্যসম্ভার",
+            "ZH": "货物",
+            "KO": "뱃짐",
+            "TL": "kargamento",
+            "MY": "ကုန်တင်",
+            "HI": "माल",
+            "AR": "البضائع",
+            "FA": "محموله",
+            "EN": [
+                "cargo",
+                "freight",
+                "goods",
+                "load"
+            ]
+        },
+        {
+            "ID": "pengiriman",
+            "ES": "envío",
+            "VI": "vận chuyển",
+            "FR": "expédition",
+            "NE": "ढुवानी",
+            "BN": "পরিবহন",
+            "ZH": "船运",
+            "KO": "해운",
+            "TL": "pagpapadala",
+            "MY": "သင်္ဘောဖြင့်ကုန်ပစ္စည်းပို့ခြင်း",
+            "HI": "शिपिंग",
+            "AR": "شحن",
+            "FA": "حمل و نقل",
+            "EN": [
+                "shipping",
+                "transport",
+                "carriage"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "貨物",
+        "is_common": true,
+        "tags": [
+            "wanikani31"
+        ],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "貨物",
+                "reading": "かもつ"
+            },
+            {
+                "word": "貨物",
+                "reading": "かぶつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "cargo",
+                    "freight"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "money or assets"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Cargo"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Cargo” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Cargo?oldid=494092808"
+                    },
+                    {
+                        "text": "Read “貨物” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/貨物?oldid=40846608"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Cargo"
+        }
+    },
+    "kanji_list": [
+        "貨",
+        "物"
+    ],
+    "kanji_data": {
+        "貨": {
+            "freq_mainichi_shinbun": 822,
+            "grade": 4,
+            "heisig_en": "freight",
+            "jlpt": 2,
+            "kanji": "貨",
+            "kun_readings": [
+                "たから"
+            ],
+            "meanings": [
+                "freight",
+                "goods",
+                "property"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カ"
+            ],
+            "stroke_count": 11,
+            "unicode": "8CA8"
+        },
+        "物": {
+            "freq_mainichi_shinbun": 215,
+            "grade": 3,
+            "heisig_en": "thing",
+            "jlpt": 4,
+            "kanji": "物",
+            "kun_readings": [
+                "もの",
+                "もの-"
+            ],
+            "meanings": [
+                "matter",
+                "object",
+                "thing"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ブツ",
+                "モツ"
+            ],
+            "stroke_count": 8,
+            "unicode": "7269"
+        }
+    }
+}

@@ -1,0 +1,543 @@
+{
+    "version": "0.3.0",
+    "word": "観測",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/2_TbActPKIE",
+    "in_db": true,
+    "kanji": "観測",
+    "reading": "かんそく",
+    "introduction_japanese": "観測。天気や地震、星のような自然の話でよく使います。ニュースや科学の分野で聞きます。",
+    "introduction_english": "kansoku. It’s used when talking about weather, earthquakes, and stars—natural phenomena. You’ll hear it in news and science contexts.",
+    "meanings": [
+        [
+            "observation",
+            "monitoring"
+        ],
+        [
+            "measurement",
+            "reading",
+            "detection"
+        ],
+        [
+            "forecast",
+            "speculation",
+            "outlook"
+        ]
+    ],
+    "meaning_explanation_japanese": "自然のようすをよく見て調べたり、数値をはかったり、変化を追って記録することです。そこから先のようすを見通すことにも使います。",
+    "meaning_explanation_english": "It is a noun and a suru-verb. かんそく literally means to observe and measure natural phenomena, take readings, and monitor changes, sometimes extending to making an outlook based on the data.",
+    "youtube_description": "Learn 観測 (kansoku): what it means, how to use it for weather, earthquakes, and science, plus key collocations and simple examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "観",
+            "onyomi": [
+                "カン"
+            ],
+            "kunyomi": [
+                "みる"
+            ],
+            "meanings_english": [
+                "view",
+                "look",
+                "observe"
+            ],
+            "common_words": [
+                "観光",
+                "観客"
+            ]
+        },
+        {
+            "kanji": "測",
+            "onyomi": [
+                "ソク"
+            ],
+            "kunyomi": [
+                "はかる"
+            ],
+            "meanings_english": [
+                "measure",
+                "gauge",
+                "estimate"
+            ],
+            "common_words": [
+                "測定",
+                "予測"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to look and to view. You see it in かんこう and かんきゃく. It carries a sense of seeing with a broad view. Think of careful looking at scenes or people.\nThe second kanji means to measure. You see it in そくてい and よそく. It adds the idea of numbers and estimates. Think of taking readings and making a numeric judgment.",
+    "synonyms": [
+        "観察 : かんさつ : observation",
+        "測定 : そくてい : measurement"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are かんさつ and そくてい. かんさつ is focused visual watching, often of living things or small details. そくてい is taking numerical measurements. かんそく covers large-scale natural phenomena and scientific monitoring, combining “看",
+    "antonyms": [
+        "無視 : むし : ignoring"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むし, because it means not looking or measuring at all, the opposite of gathering data through かんそく.",
+    "collocations": [
+        {
+            "kanji": "天気の観測",
+            "furigana": "天気(てんき)の観測(かんそく)",
+            "translations": {
+                "EN": "Weather observation",
+                "ID": "Pengamatan cuaca",
+                "ES": "observación meteorológica",
+                "VI": "Quan sát thời tiết",
+                "FR": "Observation météorologique",
+                "NE": "मौसम अवलोकन",
+                "BN": "আবহাওয়া পর্যবেক্ষণ",
+                "ZH": "天气观测",
+                "KO": "날씨 관측",
+                "TL": "Pagmamasid sa panahon",
+                "MY": "ရာသီဥတုလေ့လာရေး",
+                "HI": "मौसम अवलोकन",
+                "AR": "مراقبة الطقس",
+                "FA": "رصد آب و هوا"
+            }
+        },
+        {
+            "kanji": "地震観測",
+            "furigana": "地震(じしん)観測(かんそく)",
+            "translations": {
+                "EN": "Earthquake observation",
+                "ID": "Pengamatan gempa bumi",
+                "ES": "Observación de terremotos",
+                "VI": "Quan sát động đất",
+                "FR": "Observation des séismes",
+                "NE": "भूकम्प अवलोकन",
+                "BN": "ভূমিকম্প পর্যবেক্ষণ",
+                "ZH": "地震观测",
+                "KO": "지진 관측",
+                "TL": "Pagmamasid sa lindol",
+                "MY": "ငလျင်လေ့လာရေး",
+                "HI": "भूकंप अवलोकन",
+                "AR": "مراقبة الزلازل",
+                "FA": "رصد زلزله"
+            }
+        },
+        {
+            "kanji": "気象観測データ",
+            "furigana": "気象(きしょう)観測(かんそく)データ",
+            "translations": {
+                "EN": "Weather observation data",
+                "ID": "Data observasi cuaca",
+                "ES": "datos de observación meteorológica",
+                "VI": "Dữ liệu quan sát thời tiết",
+                "FR": "données d'observation météorologique",
+                "NE": "मौसम अवलोकन डेटा",
+                "BN": "আবহাওয়া পর্যবেক্ষণের তথ্য",
+                "ZH": "天气观测数据",
+                "KO": "기상 관측 데이터",
+                "TL": "Data ng pagmamasid sa panahon",
+                "MY": "မိုးလေဝသလေ့လာရေးအချက်အလက်",
+                "HI": "मौसम अवलोकन डेटा",
+                "AR": "بيانات مراقبة الطقس",
+                "FA": "داده‌های مشاهدات آب و هوا"
+            }
+        },
+        {
+            "kanji": "最新の観測結果",
+            "furigana": "最新(さいしん)の観測(かんそく)結果(けっか)",
+            "translations": {
+                "EN": "Latest observation results",
+                "ID": "Hasil observasi terbaru",
+                "ES": "Últimos resultados de observación",
+                "VI": "Kết quả quan sát mới nhất",
+                "FR": "Résultats des dernières observations",
+                "NE": "पछिल्लो अवलोकन परिणामहरू",
+                "BN": "সর্বশেষ পর্যবেক্ষণের ফলাফল",
+                "ZH": "最新观测结果",
+                "KO": "최신 관측 결과",
+                "TL": "Pinakabagong resulta ng pagmamasid",
+                "MY": "နောက်ဆုံးလေ့လာချက်ရလဒ်များ",
+                "HI": "नवीनतम अवलोकन परिणाम",
+                "AR": "أحدث نتائج المراقبة",
+                "FA": "آخرین نتایج رصد"
+            }
+        },
+        {
+            "kanji": "人工衛星による観測",
+            "furigana": "人工(じんこう)衛星(えいせい)による観測(かんそく)",
+            "translations": {
+                "EN": "Satellite observation",
+                "ID": "Pengamatan satelit",
+                "ES": "Observación satelital",
+                "VI": "Quan sát vệ tinh",
+                "FR": "observation par satellite",
+                "NE": "उपग्रह अवलोकन",
+                "BN": "উপগ্রহ পর্যবেক্ষণ",
+                "ZH": "卫星观测",
+                "KO": "인공위성에 의한 관측",
+                "TL": "Pagmamasid sa satellite",
+                "MY": "ဂြိုလ်တုလေ့လာရေး",
+                "HI": "उपग्रह अवलोकन",
+                "AR": "المراقبة عبر الأقمار الصناعية",
+                "FA": "رصد ماهواره‌ای"
+            }
+        },
+        {
+            "kanji": "宇宙からの観測",
+            "furigana": "宇宙(うちゅう)からの観測(かんそく)",
+            "translations": {
+                "EN": "Observation from space",
+                "ID": "Pengamatan dari luar angkasa",
+                "ES": "Observación desde el espacio",
+                "VI": "Quan sát từ không gian",
+                "FR": "Observation depuis l'espace",
+                "NE": "अन्तरिक्षबाट अवलोकन",
+                "BN": "মহাকাশ থেকে পর্যবেক্ষণ",
+                "ZH": "来自太空的观测",
+                "KO": "우주에서의 관측",
+                "TL": "Pagmamasid mula sa kalawakan",
+                "MY": "အာကာသမှ စူးစမ်းလေ့လာခြင်း။",
+                "HI": "अंतरिक्ष से अवलोकन",
+                "AR": "المراقبة من الفضاء",
+                "FA": "رصد از فضا"
+            }
+        },
+        {
+            "kanji": "海上での観測",
+            "furigana": "海上(かいじょう)での観測(かんそく)",
+            "translations": {
+                "EN": "Observations at sea",
+                "ID": "Pengamatan di laut",
+                "ES": "Observaciones en el mar",
+                "VI": "Quan sát trên biển",
+                "FR": "Observations en mer",
+                "NE": "समुद्रमा अवलोकनहरू",
+                "BN": "সমুদ্রে পর্যবেক্ষণ",
+                "ZH": "海上观测",
+                "KO": "해상 관측",
+                "TL": "Mga obserbasyon sa dagat",
+                "MY": "ပင်လယ်ပြင်တွင် လေ့လာတွေ့ရှိချက်များ",
+                "HI": "समुद्र में अवलोकन",
+                "AR": "الملاحظات في البحر",
+                "FA": "مشاهدات در دریا"
+            }
+        },
+        {
+            "kanji": "長期の観測計画",
+            "furigana": "長期(ちょうき)の観測(かんそく)計画(けいかく)",
+            "translations": {
+                "EN": "Long-term observation plan",
+                "ID": "Rencana observasi jangka panjang",
+                "ES": "Plan de observación a largo plazo",
+                "VI": "Kế hoạch quan sát dài hạn",
+                "FR": "Plan d'observation à long terme",
+                "NE": "दीर्घकालीन अवलोकन योजना",
+                "BN": "দীর্ঘমেয়াদী পর্যবেক্ষণ পরিকল্পনা",
+                "ZH": "长期观察计划",
+                "KO": "장기 관측 계획",
+                "TL": "Pangmatagalang plano sa pagmamasid",
+                "MY": "ရေရှည်လေ့လာရေးအစီအစဉ်",
+                "HI": "दीर्घकालिक अवलोकन योजना",
+                "AR": "خطة المراقبة طويلة المدى",
+                "FA": "طرح رصد بلندمدت"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "今日は強い風が観測されました。",
+            "furigana": "今日(きょう)は強(つよ)い風(かぜ)が観測(かんそく)されました。",
+            "translations": {
+                "EN": "Strong winds were observed today.",
+                "ID": "Angin kencang teramati hari ini.",
+                "ES": "Hoy se han observado fuertes vientos.",
+                "VI": "Hôm nay người ta quan sát thấy có gió mạnh.",
+                "FR": "Des vents forts ont été observés aujourd'hui.",
+                "NE": "आज तीव्र हावा चलेको देखियो।",
+                "BN": "আজ তীব্র বাতাস বইছে।",
+                "ZH": "今天观测到强风。",
+                "KO": "오늘은 강한 바람이 관찰되었습니다.",
+                "TL": "Ang malakas na hangin ay naobserbahan ngayong araw.",
+                "MY": "ယနေ့တွင် လေပြင်းတိုက်ခတ်မှုကို တွေ့ရှိရသည်။",
+                "HI": "आज तेज हवाएं चलीं।",
+                "AR": "تم رصد رياح قوية اليوم.",
+                "FA": "امروز وزش باد شدید مشاهده شد."
+            }
+        },
+        {
+            "kanji": "私たちは夜、星を観測しました。",
+            "furigana": "私(わたし)たちは夜(よる)、星(ほし)を観測(かんそく)しました。",
+            "translations": {
+                "EN": "We observed the stars at night.",
+                "ID": "Kami mengamati bintang-bintang di malam hari.",
+                "ES": "Observamos las estrellas por la noche.",
+                "VI": "Chúng tôi quan sát các vì sao vào ban đêm.",
+                "FR": "Nous avons observé les étoiles la nuit.",
+                "NE": "हामीले रातमा ताराहरू हेर्‍यौं।",
+                "BN": "আমরা রাতে তারাগুলো পর্যবেক্ষণ করেছি।",
+                "ZH": "我们晚上观测了星星。",
+                "KO": "우리는 밤에 별을 관찰했다.",
+                "TL": "Pinagmamasdan namin ang mga bituin sa gabi.",
+                "MY": "ညဘက်တွေမှာ ကြယ်တွေကို ကြည့်နေခဲ့ကြတယ်။",
+                "HI": "हमने रात में तारों को देखा।",
+                "AR": "لقد راقبنا النجوم في الليل.",
+                "FA": "شب‌ها ستاره‌ها را رصد می‌کردیم."
+            }
+        },
+        {
+            "kanji": "このセンサーで温度を観測できます。",
+            "furigana": "このセンサーで温度(おんど)を観測(かんそく)できます。",
+            "translations": {
+                "EN": "This sensor can monitor the temperature.",
+                "ID": "Sensor ini dapat memantau suhu.",
+                "ES": "Este sensor puede monitorizar la temperatura.",
+                "VI": "Cảm biến này có thể theo dõi nhiệt độ.",
+                "FR": "Ce capteur permet de surveiller la température.",
+                "NE": "यो सेन्सरले तापक्रम निगरानी गर्न सक्छ।",
+                "BN": "এই সেন্সরটি তাপমাত্রা পর্যবেক্ষণ করতে পারে।",
+                "ZH": "该传感器可以监测温度。",
+                "KO": "이 센서로 온도를 관찰할 수 있습니다.",
+                "TL": "Maaaring subaybayan ng sensor na ito ang temperatura.",
+                "MY": "ဤအာရုံခံကိရိယာသည် အပူချိန်ကို စောင့်ကြည့်နိုင်သည်။",
+                "HI": "यह सेंसर तापमान पर नज़र रख सकता है।",
+                "AR": "يمكن لهذا المستشعر مراقبة درجة الحرارة.",
+                "FA": "این سنسور می‌تواند دما را کنترل کند."
+            }
+        },
+        {
+            "kanji": "観測の結果、雨は増えていました。",
+            "furigana": "観測(かんそく)の結果(けっか)、雨(あめ)は増(ふ)えていました。",
+            "translations": {
+                "EN": "The observations showed that the rain was increasing.",
+                "ID": "Hasil pengamatan menunjukkan, curah hujan semakin meningkat.",
+                "ES": "Las observaciones mostraron que la lluvia estaba aumentando.",
+                "VI": "Các quan sát cho thấy lượng mưa đang tăng lên.",
+                "FR": "Les observations ont montré que les pluies augmentaient.",
+                "NE": "अवलोकनहरूले वर्षा बढ्दै गएको देखाए।",
+                "BN": "পর্যবেক্ষণে দেখা গেছে যে বৃষ্টিপাত বাড়ছে।",
+                "ZH": "观测结果显示降雨量正在增加。",
+                "KO": "관측의 결과, 비는 증가하고 있었다.",
+                "TL": "Ang mga obserbasyon ay nagpakita na ang pag-ulan ay tumataas.",
+                "MY": "လေ့လာတွေ့ရှိချက်များအရ မိုးများလာကြောင်း သိရသည်။",
+                "HI": "अवलोकन से पता चला कि बारिश बढ़ रही थी।",
+                "AR": "وأظهرت الملاحظات أن الأمطار كانت تتزايد.",
+                "FA": "مشاهدات نشان می‌داد که بارش باران در حال افزایش است."
+            }
+        },
+        {
+            "kanji": "地震は午後三時に観測されました。",
+            "furigana": "地震(じしん)は午後(ごご)三(さん)時(じ)に観測(かんそく)されました。",
+            "translations": {
+                "EN": "The earthquake was observed at 3:00 p.m.",
+                "ID": "Gempa bumi teramati pada pukul 3:00 sore.",
+                "ES": "El terremoto se observó a las 3:00 p.m.",
+                "VI": "Trận động đất được quan sát vào lúc 3 giờ chiều.",
+                "FR": "Le séisme a été observé à 15h00.",
+                "NE": "दिउँसो ३:०० बजे भूकम्पको धक्का महसुस गरिएको थियो।",
+                "BN": "বিকাল ৩:০০ টায় ভূমিকম্পটি লক্ষ্য করা গেছে।",
+                "ZH": "地震观测时间为下午3点。",
+                "KO": "지진은 오후 3시에 관찰되었다.",
+                "TL": "Naobserbahan ang lindol alas-3:00 ng hapon.",
+                "MY": "ညနေ ၃း၀၀ နာရီတွင် ငလျင်လှုပ်ခတ်ခဲ့ကြောင်း သိရသည်။",
+                "HI": "भूकंप अपराह्न 3 बजे आया।",
+                "AR": "تم رصد الزلزال في الساعة الثالثة بعد الظهر.",
+                "FA": "این زلزله ساعت 3 بعد از ظهر ثبت شده است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "pengamatan",
+            "ES": "observación",
+            "VI": "quan sát",
+            "FR": "observation",
+            "NE": "अवलोकन",
+            "BN": "পর্যবেক্ষণ",
+            "ZH": "观察",
+            "KO": "관찰",
+            "TL": "pagmamasid",
+            "MY": "လေ့လာရေး",
+            "HI": "अवलोकन",
+            "AR": "ملاحظة",
+            "FA": "مشاهده",
+            "EN": [
+                "observation",
+                "monitoring"
+            ]
+        },
+        {
+            "ID": "pengukuran",
+            "ES": "medición",
+            "VI": "đo lường",
+            "FR": "mesures",
+            "NE": "मापन",
+            "BN": "পরিমাপ",
+            "ZH": "测量",
+            "KO": "측정",
+            "TL": "pagsukat",
+            "MY": "တိုင်းတာခြင်း။",
+            "HI": "माप",
+            "AR": "قياس",
+            "FA": "اندازه‌گیری",
+            "EN": [
+                "measurement",
+                "reading",
+                "detection"
+            ]
+        },
+        {
+            "ID": "ramalan",
+            "ES": "pronóstico",
+            "VI": "dự báo",
+            "FR": "prévision",
+            "NE": "पूर्वानुमान",
+            "BN": "পূর্বাভাস",
+            "ZH": "预报",
+            "KO": "예측",
+            "TL": "pagtataya",
+            "MY": "ခန့်မှန်းချက်",
+            "HI": "पूर्वानुमान",
+            "AR": "تنبؤ بالمناخ",
+            "FA": "پیش‌بینی",
+            "EN": [
+                "forecast",
+                "speculation",
+                "outlook"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "観測",
+        "is_common": true,
+        "tags": [
+            "wanikani35"
+        ],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "観測",
+                "reading": "かんそく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "observation",
+                    "survey",
+                    "measurement"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "opinion",
+                    "prediction",
+                    "thinking"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Observation"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Observation” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Observation?oldid=487140438"
+                    },
+                    {
+                        "text": "Read “観測” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/観測?oldid=41444538"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Observation"
+        }
+    },
+    "kanji_list": [
+        "観",
+        "測"
+    ],
+    "kanji_data": {
+        "観": {
+            "freq_mainichi_shinbun": 476,
+            "grade": 4,
+            "heisig_en": "outlook",
+            "jlpt": 3,
+            "kanji": "観",
+            "kun_readings": [
+                "しめ.す",
+                "み.る"
+            ],
+            "meanings": [
+                "appearance",
+                "condition",
+                "look",
+                "outlook",
+                "view"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カン"
+            ],
+            "stroke_count": 18,
+            "unicode": "89B3"
+        },
+        "測": {
+            "freq_mainichi_shinbun": 761,
+            "grade": 5,
+            "heisig_en": "fathom",
+            "jlpt": 2,
+            "kanji": "測",
+            "kun_readings": [
+                "はか.る"
+            ],
+            "meanings": [
+                "fathom",
+                "measure",
+                "plan",
+                "scheme"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ソク"
+            ],
+            "stroke_count": 12,
+            "unicode": "6E2C"
+        }
+    }
+}

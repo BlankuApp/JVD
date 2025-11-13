@@ -24,12 +24,12 @@
 |     | あたりまえ | usual,common,ordinary |
 | あひら | あひら |     |
 |     | あちらこちら | here and there |
-| 厚かましい | あつかましい | impudent,shameless,brazen |
+| **厚かましい** | あつかましい | impudent,shameless,brazen |
 | 圧縮  | あっしゅく | compression,condensation,pressure |
 | 宛名  | あてな | address,direction |
 |     | あてはまる | to be applicable,to come under (a category),to fulfill |
 |     | あてはめる | to apply,to adapt |
-| 暴れる | あばれる | to act violently,to rage,to struggle,to be riotous |
+| **暴れる** | あばれる | to act violently,to rage,to struggle,to be riotous |
 | 脂   | あぶら | fat,tallow,lard |
 |     | あぶる | to scorch |
 |     | あふれる | to flood,to overflow,to brim over |
@@ -46,8 +46,8 @@
 | 争う  | あらそう | to dispute,to argue,to be at variance,to compete |
 | 改めて | あらためて | another time,again,over again,anew,formally |
 | 改める | あらためる | to change,to alter,to reform,to revise |
-| 著す  | あらわす | to write,to publish |
-| 有難い | ありがたい | grateful,thankful,welcome,appreciated,evoking gratitude |
+| **著す**  | あらわす | to write,to publish |
+| **有難い** | ありがたい | grateful,thankful,welcome,appreciated,evoking gratitude |
 | 在る  | ある  | to live,to be |
 |     | あれこれ | one thing or another,this and that,this or that |
 |     | あわただしい | busy,hurried,confused,flurried |
@@ -68,7 +68,7 @@
 |     | イコール | equal |
 | 勇ましい | いさましい | brave,valiant,gallant,courageous |
 | 衣食住 | いしょくじゅう | necessities of life (food, clothing, etc.) |
-| 意地悪 | いじわる | malicious,ill-tempered,unkind |
+| **意地悪** | いじわる | malicious,ill-tempered,unkind |
 |     | いちいち | one by one,separately |
 | 一応  | いちおう | once,tentatively,in outline,for the time being |
 | 一段と | いちだんと | greater,more,further,still more |
@@ -107,7 +107,7 @@
 | 承る  | うけたまわる | (hum) to hear,to be told,to know |
 | **受取**  | うけとり | receipt |
 | 受け持つ | うけもつ | to take (be in) charge of |
-| 薄暗い | うすぐらい | dim,gloomy |
+| **薄暗い** | うすぐらい | dim,gloomy |
 | 薄める | うすめる | to dilute,to water down |
 | 打合せ | うちあわせ | business meeting,previous arrangement,appointment |
 | 打ち消す | うちけす | to deny,to negate,to contradict |
@@ -142,7 +142,7 @@
 | 絵の具 | えのぐ | colors,paints |
 |     | エプロン | apron |
 | 偉い  | えらい | great,celebrated,eminent,terrible,awful,famous,remarkable,excellent |
-| 宴会  | えんかい | party,banquet |
+| **宴会**  | えんかい | party,banquet |
 | 園芸  | えんげい | horticulture,gardening |
 | 演劇  | えんげき | play (theatrical) |
 | **円周**  | えんしゅう | circumference |
@@ -197,7 +197,7 @@
 | お出掛け | おでかけ |     |
 | お手伝いさん | おてつだいさん | maid |
 |     | おどかす | to threaten,to coerce |
-| 落し物 | おとしもの | lost property |
+| **落し物** | おとしもの | lost property |
 |     | おととい | day before yesterday |
 |     | おととし | year before last |
 |     | おとなしい | obedient,docile,quiet |
@@ -221,7 +221,7 @@
 |     | おやつ | (1) between meal snack,afternoon refreshment |
 | 親指  | おやゆび | thumb |
 |     | オルガン | organ |
-| 卸す  | おろす | to sell wholesale,grated (vegetables) |
+| **卸す**  | おろす | to sell wholesale,grated (vegetables) |
 | 恩恵  | おんけい | grace,favor,blessing,benefit |
 | 温室  | おんしつ | greenhouse |
 | 温泉  | おんせん | spa,hot spring,onsen |
@@ -250,7 +250,7 @@
 | 解放  | かいほう | release,liberation,emancipation |
 | 開放  | かいほう | open,throw open,liberalization |
 | 海洋  | かいよう | ocean |
-| 概論  | がいろん | intro,outline,general remarks |
+| **概論**  | がいろん | intro,outline,general remarks |
 | 帰す  | かえす | to send back |
 | 却って | かえって | on the contrary,rather,all the more,instead |
 | 代える | かえる | to exchange,to interchange,to substitute,to replace |
@@ -272,7 +272,7 @@
 | 学年  | がくねん | year in school,grade in school |
 | 学部  | がくぶ | department of a university,undergraduate |
 | 格別  | かくべつ | exceptional |
-| 確率  | かくりつ | probability |
+| **確率**  | かくりつ | probability |
 | 学力  | がくりょく | scholarship,knowledge,literary ability |
 | 掛け算 | かけざん | multiplication |
 | 可決  | かけつ | approval,adoption (e.g. motion, bill),passage |
@@ -291,7 +291,7 @@
 | 個所  | かしょ | passage,place,point,part |
 | 過剰  | かじょう | excess,over- |
 |     | かじる | to chew,to bite (at),to gnaw,to nibble |
-| 課税  | かぜい | taxation |
+| **課税**  | かぜい | taxation |
 | 下線  | かせん | underline,underscore |
 |     | カセット | cassette (tape) |
 | 加速  | かそく | acceleration |
@@ -304,7 +304,7 @@
 | 固まる | かたまる | to harden,to solidify,to become firm,to become certain |
 | 片道  | かたみち | one-way (trip) |
 | 傾く  | かたむく | to incline toward,to slant,to lurch |
-| 片寄る | かたよる | to be one-sided,to incline,to be partial |
+| **片寄る** | かたよる | to be one-sided,to incline,to be partial |
 | 学科  | がっか | study subject,course of study |
 | 学会  | がっかい | scientific society,academic meeting |
 | 楽器  | がっき | musical instrument |
@@ -330,7 +330,7 @@
 | 神様  | かみさま | god |
 | 剃刀  | かみそり | razor |
 |     | ガム  | chewing gum |
-| 貨物  | かもつ | cargo,freight |
+| **貨物**  | かもつ | cargo,freight |
 |     | かゆい | itchy,itching |
 | 歌謡  | かよう | song,ballad |
 | 殻   | から  | shell,husk,hull,chaff |
@@ -355,7 +355,7 @@
 | 間接  | かんせつ | indirection,indirectness |
 | 乾燥  | かんそう | dry,arid,insipid,dehydrated |
 | 感想  | かんそう | impressions,thoughts |
-| 観測  | かんそく | observation |
+| **観測**  | かんそく | observation |
 | 寒帯  | かんたい | frigid zone |
 | 官庁  | かんちょう | government office,authorities |
 | 勘違い | かんちがい | misunderstanding,wrong guess |
@@ -405,7 +405,7 @@
 | 教養  | きょうよう | culture,education,refinement,cultivation |
 | 行列  | ぎょうれつ | (1) line,procession,(2) matrix (math) |
 | 漁業  | ぎょぎょう | fishing (industry) |
-| 曲線  | きょくせん | curve |
+| **曲線**  | きょくせん | curve |
 | 規律  | きりつ | order,rules,law |
 | 斬る  | きる  | (v5r) to behead,to murder |
 | 気を付ける | きをつける | to be careful,to pay attention,to take care |
@@ -424,7 +424,7 @@
 | 屑   | くず  | waste,scrap |
 | 崩す  | くずす | to destroy,to pull down,to make change (money) |
 | 薬指  | くすりゆび | ring finger |
-| 崩れる | くずれる | to collapse,to crumble |
+| **崩れる** | くずれる | to collapse,to crumble |
 | 砕く  | くだく | to break,to smash |
 | 砕ける | くだける | to break,to be broken |
 |     | くたびれる | to get tired,to wear out |
@@ -451,7 +451,7 @@
 | 咥える | くわえる |     |
 | 郡   | ぐん  | country,district |
 | 稽古  | けいこ | practice,training,study |
-| 敬語  | けいご | honorific,term of respect |
+| **敬語**  | けいご | honorific,term of respect |
 | 蛍光灯 | けいこうとう | fluorescent lamp,person who is slow to react |
 | 形式  | けいしき | form,formality,format,math expression |
 | 継続  | けいぞく | continuation |
@@ -484,7 +484,7 @@
 | けれど/けれども |     | but,however |
 | 険しい | けわしい | inaccessible place,sharp eyes |
 | 見学  | けんがく | inspection,study by observation,field trip |
-| 謙虚  | けんきょ | modesty,humility |
+| **謙虚**  | けんきょ | modesty,humility |
 | 原稿  | げんこう | manuscript,copy |
 | 原産  | げんさん | place of origin,habitat |
 | 原始  | げんし | origin,primeval |
@@ -504,7 +504,7 @@
 | 強引  | ごういん | overbearing,coercive,pushy,forcible,high-handed |
 | 公害  | こうがい | public nuisance,pollution |
 | 高級  | こうきゅう | high class,high grade |
-| 公共  | こうきょう | public,community,public service,society,communal |
+| **公共**  | こうきょう | public,community,public service,society,communal |
 | 工芸  | こうげい | industrial arts |
 | 孝行  | こうこう | filial piety |
 | 交差  | こうさ | cross |
@@ -517,7 +517,7 @@
 | 公衆  | こうしゅう | the public |
 | 香水  | こうすい | perfume |
 | 公正  | こうせい | justice,fairness,impartiality |
-| 功績  | こうせき | achievements,merit,meritorious service,meritorious deed |
+| **功績**  | こうせき | achievements,merit,meritorious service,meritorious deed |
 | 光線  | こうせん | beam,light ray |
 | 高層  | こうそう | upper |
 | 構造  | こうぞう | structure,construction |
@@ -548,7 +548,7 @@
 | 国立  | こくりつ | national |
 |     | ごくろうさま | Thank you very much for your.... |
 | 焦げる | こげる | to burn,to be burned |
-| 凍える | こごえる | to freeze,to be chilled,to be frozen |
+| **凍える** | こごえる | to freeze,to be chilled,to be frozen |
 | 心当たり | こころあたり | having some knowledge of,happening to know |
 | 心得る | こころえる | to be informed,to have thorough knowledge |
 | 腰掛け | こしかけ | seat,bench |
@@ -580,7 +580,7 @@
 |     | ごめんください | May I come in? |
 | 小指  | こゆび | little finger |
 |     | こらえる | to bear,to stand,to endure,to put up with |
-| 娯楽  | ごらく | pleasure,amusement |
+| **娯楽**  | ごらく | pleasure,amusement |
 | 御覧  | ごらん | (hon) look,inspection,try |
 |     | コレクション | (1) collection,(2) correction |
 | 転がす | ころがす | to roll |
@@ -598,7 +598,7 @@
 | **祭日**  | さいじつ | national holiday,festival day |
 | 催促  | さいそく | request,demand,claim,urge (action),press for |
 | 採点  | さいてん | marking,grading,looking over |
-| 災難  | さいなん | calamity,misfortune |
+| **災難**  | さいなん | calamity,misfortune |
 | 裁縫  | さいほう | sewing |
 | 材木  | ざいもく | lumber,timber |
 |     | サイレン | siren |
@@ -612,7 +612,7 @@
 | 裂く  | さく  | to tear,to split |
 | 索引  | さくいん | index,indices |
 | 作者  | さくしゃ | author,authoress |
-| 削除  | さくじょ | elimination,cancellation,deletion,erasure |
+| **削除**  | さくじょ | elimination,cancellation,deletion,erasure |
 | 作成  | さくせい | frame,draw up,make,producing |
 | 作製  | さくせい | manufacture |
 | 探る  | さぐる | to search,to look for,to sound out |
@@ -624,7 +624,7 @@
 | 差し引き | さしひき | deduction,subtraction,balance,ebb and flow,rise and fall |
 | 刺身  | さしみ | sliced raw fish |
 | 刺す  | さす  | to pierce,to stab,to prick,to thrust |
-| 挿す  | さす  | to insert,to put in,to graft,to wear in belt |
+| **挿す**  | さす  | to insert,to put in,to graft,to wear in belt |
 | 注す  | さす  | to pour (drink),to serve (drinks) |
 | 射す  | さす  | to shine,to strike |
 | 流石  | さすが | clever,adept,good,expectations,as one would expect |
@@ -647,7 +647,7 @@
 |     | さわやか | fresh,refreshing,invigorating |
 | 三角  | さんかく | triangle,triangular |
 | 算数  | さんすう | arithmetic |
-| 酸性  | さんせい | acidity |
+| **酸性**  | さんせい | acidity |
 | 産地  | さんち | producing area |
 |     | サンプル | sample |
 | 山林  | さんりん | mountain forest,mountains and forest |
@@ -667,7 +667,7 @@
 | 敷地  | しきち | site |
 | 至急  | しきゅう | urgent,pressing |
 | 敷く  | しく  | to spread out,to lay out |
-| 茂る  | しげる | to grow thick,to luxuriate,to be luxurious |
+| **茂る**  | しげる | to grow thick,to luxuriate,to be luxurious |
 | 持参  | じさん | bringing,taking,carrying |
 | 磁石  | じしゃく | magnet |
 | 四捨五入 | ししゃごにゅう | rounding up (fractions) |
@@ -687,7 +687,7 @@
 | 湿気  | しっき | moisture,humidity,dampness |
 |     | しつこい | insistent,obstinate |
 | 実習  | じっしゅう | practice,training |
-| 実績  | じっせき | achievements,actual results |
+| **実績**  | じっせき | achievements,actual results |
 | 湿度  | しつど | level of humidity |
 | 執筆  | しっぴつ | writing |
 | 実物  | じつぶつ | real thing,original |
@@ -709,7 +709,7 @@
 | 地味  | じみ  | plain,simple |
 |     | しみじみ | keenly,deeply,heartily |
 | 氏名  | しめい | full name,identity |
-| 締切  | しめきり | closing,cut-off,end,deadline,Closed,No Entrance |
+| **締切**  | しめきり | closing,cut-off,end,deadline,Closed,No Entrance |
 | 締め切る | しめきる | to shut up |
 | 湿る  | しめる | to be wet,to become wet,to be damp |
 |     | ジャーナリスト | journalist |

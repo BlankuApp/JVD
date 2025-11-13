@@ -1,0 +1,511 @@
+{
+    "version": "0.3.0",
+    "word": "確率",
+    "jlpt_level": 2,
+    "youtube_link": "https://youtu.be/6FW3GEbEfoI",
+    "in_db": true,
+    "kanji": "確率",
+    "reading": "かくりつ",
+    "introduction_japanese": "確率。天気予報やテスト、ゲームやスポーツの話でよく出てくるよ。",
+    "introduction_english": "kakuritsu. You’ll hear it in weather forecasts, tests, games, and sports.",
+    "meanings": [
+        [
+            "probability",
+            "likelihood",
+            "chance"
+        ],
+        [
+            "rate",
+            "percentage",
+            "odds"
+        ]
+    ],
+    "meaning_explanation_japanese": "何かが起こる可能性や見込みの大きさを、数や割合で表すことだよ。たとえば「雨になる可能性」や「成功する見込み」の割合を言う感じ。",
+    "meaning_explanation_english": "It is used as a noun. かくりつ tells how likely something will happen—a numeric measure of chance or rate, often shown as a percent or fraction.",
+    "youtube_description": "Learn how to use kakuritsu (probability) in daily Japanese: simple meanings, common patterns, and friendly examples you can use right away.",
+    "kanji_details": [
+        {
+            "kanji": "確",
+            "onyomi": [
+                "カク"
+            ],
+            "kunyomi": [
+                "たし-か"
+            ],
+            "meanings_english": [
+                "certain",
+                "sure",
+                "firm"
+            ],
+            "common_words": [
+                "確認（かくにん）: confirmation; check",
+                "正確（せいかく）: accurate; correct"
+            ]
+        },
+        {
+            "kanji": "率",
+            "onyomi": [
+                "リツ",
+                "ソツ"
+            ],
+            "kunyomi": [
+                "ひき-いる"
+            ],
+            "meanings_english": [
+                "rate",
+                "ratio",
+                "lead"
+            ],
+            "common_words": [
+                "比率（ひりつ）: ratio; proportion",
+                "効率（こうりつ）: efficiency"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means certain or sure. You see it in かくにん when you check or confirm something. It also appears in せいかく to talk about being accurate. It feels stable and reliable.\nThe second kanji means rate or ratio. It shows amounts per hundred or per unit. You hear it in ひりつ for ratio and in こうりつ for efficiency. It points to numbers that compare or measure.",
+    "synonyms": [
+        "可能性 : かのうせい : possibility",
+        "公算 : こうさん : probability; odds"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are かのうせい and こうさん. かのうせい is a broad “possibility,” not always numeric, while こうさん often appears in planning or betting and can feel more like “odds.” かくりつ focuses on a measurable, numeric chance.",
+    "antonyms": [
+        "必然 : ひつぜん : inevitability",
+        "不可能 : ふかのう : impossibility"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are ひつぜん and ふかのう. ひつぜん means something will happen for sure (no chance involved), while ふかのう means the chance is zero. かくりつ sits in between, describing degrees of chance.",
+    "collocations": [
+        {
+            "kanji": "高い確率",
+            "furigana": "高(たか)い確率(かくりつ)",
+            "translations": {
+                "EN": "High probability",
+                "ID": "Kemungkinan tinggi",
+                "ES": "Alta probabilidad",
+                "VI": "Xác suất cao",
+                "FR": "Forte probabilité",
+                "NE": "उच्च सम्भावना",
+                "BN": "উচ্চ সম্ভাবনা",
+                "ZH": "高概率",
+                "KO": "높은 확률",
+                "TL": "Mataas na posibilidad",
+                "MY": "ဖြစ်နိုင်ခြေ မြင့်မားသည်။",
+                "HI": "उच्च संभावना",
+                "AR": "احتمالية عالية",
+                "FA": "احتمال بالا"
+            }
+        },
+        {
+            "kanji": "低い確率",
+            "furigana": "低(ひく)い確率(かくりつ)",
+            "translations": {
+                "EN": "Low probability",
+                "ID": "Probabilitas rendah",
+                "ES": "Baja probabilidad",
+                "VI": "Xác suất thấp",
+                "FR": "Faible probabilité",
+                "NE": "कम सम्भावना",
+                "BN": "কম সম্ভাবনা",
+                "ZH": "低概率",
+                "KO": "낮은 확률",
+                "TL": "Mababang posibilidad",
+                "MY": "ဖြစ်နိုင်ခြေနည်းတယ်။",
+                "HI": "कम संभावना",
+                "AR": "احتمالية منخفضة",
+                "FA": "احتمال پایین"
+            }
+        },
+        {
+            "kanji": "50％の確率",
+            "furigana": "50％の確率(かくりつ)",
+            "translations": {
+                "EN": "50% chance",
+                "ID": "50% kemungkinan",
+                "ES": "50% de probabilidad",
+                "VI": "50% cơ hội",
+                "FR": "50% de chances",
+                "NE": "५०% सम्भावना",
+                "BN": "৫০% সম্ভাবনা",
+                "ZH": "50%的概率",
+                "KO": "50% 확률",
+                "TL": "50% pagkakataon",
+                "MY": "50% အခွင့်အရေး",
+                "HI": "50% संभावना",
+                "AR": "فرصة 50%",
+                "FA": "احتمال ۵۰٪"
+            }
+        },
+        {
+            "kanji": "当選確率",
+            "furigana": "当選(とうせん)確率(かくりつ)",
+            "translations": {
+                "EN": "Odds of winning",
+                "ID": "Peluang menang",
+                "ES": "Probabilidades de ganar",
+                "VI": "Tỷ lệ chiến thắng",
+                "FR": "Chances de gagner",
+                "NE": "जित्ने सम्भावना",
+                "BN": "জেতার সম্ভাবনা",
+                "ZH": "获胜几率",
+                "KO": "당첨 확률",
+                "TL": "Odds of winning",
+                "MY": "အနိုင်ရရန် အလားအလာများ",
+                "HI": "जीतने की संभावना",
+                "AR": "احتمالات الفوز",
+                "FA": "شانس برنده شدن"
+            }
+        },
+        {
+            "kanji": "雨の確率",
+            "furigana": "雨(あめ)の確率(かくりつ)",
+            "translations": {
+                "EN": "Chance of rain",
+                "ID": "Peluang hujan",
+                "ES": "Probabilidad de lluvia",
+                "VI": "Khả năng mưa",
+                "FR": "Risque de pluie",
+                "NE": "वर्षाको सम्भावना",
+                "BN": "বৃষ্টির সম্ভাবনা",
+                "ZH": "有降雨的可能",
+                "KO": "비 확률",
+                "TL": "Pagkakataon ng ulan",
+                "MY": "မိုးရွာနိုင်ခြေ",
+                "HI": "बारिश की संभावना",
+                "AR": "فرصة هطول الأمطار",
+                "FA": "احتمال بارش باران"
+            }
+        },
+        {
+            "kanji": "合格の確率",
+            "furigana": "合格(ごうかく)の確率(かくりつ)",
+            "translations": {
+                "EN": "Probability of passing",
+                "ID": "Kemungkinan lulus",
+                "ES": "Probabilidad de aprobar",
+                "VI": "Xác suất vượt qua",
+                "FR": "Probabilité de réussite",
+                "NE": "उत्तीर्ण हुने सम्भावना",
+                "BN": "পাস করার সম্ভাবনা",
+                "ZH": "通过的概率",
+                "KO": "합격 확률",
+                "TL": "Probability ng pagpasa",
+                "MY": "ဖြတ်သန်းနိုင်ခြေ",
+                "HI": "उत्तीर्ण होने की संभावना",
+                "AR": "احتمالية النجاح",
+                "FA": "احتمال عبور"
+            }
+        },
+        {
+            "kanji": "確率の計算",
+            "furigana": "確率(かくりつ)の計算(けいさん)",
+            "translations": {
+                "EN": "Probability calculations",
+                "ID": "Perhitungan probabilitas",
+                "ES": "Cálculos de probabilidad",
+                "VI": "Tính toán xác suất",
+                "FR": "Calculs de probabilité",
+                "NE": "सम्भाव्यता गणनाहरू",
+                "BN": "সম্ভাব্যতা গণনা",
+                "ZH": "概率计算",
+                "KO": "확률 계산",
+                "TL": "Mga kalkulasyon ng posibilidad",
+                "MY": "ဖြစ်နိုင်ခြေ တွက်ချက်မှုများ",
+                "HI": "संभाव्यता गणना",
+                "AR": "حسابات الاحتمالات",
+                "FA": "محاسبات احتمال"
+            }
+        },
+        {
+            "kanji": "確率を計算する",
+            "furigana": "確率(かくりつ)を計算(けいさん)する",
+            "translations": {
+                "EN": "Calculate the probability",
+                "ID": "Hitung probabilitasnya",
+                "ES": "Calcula la probabilidad",
+                "VI": "Tính xác suất",
+                "FR": "Calculer la probabilité",
+                "NE": "सम्भाव्यता गणना गर्नुहोस्",
+                "BN": "সম্ভাব্যতা গণনা করুন",
+                "ZH": "计算概率",
+                "KO": "확률 계산",
+                "TL": "Kalkulahin ang posibilidad",
+                "MY": "ဖြစ်နိုင်ခြေကို တွက်ချက်ပါ။",
+                "HI": "संभावना की गणना करें",
+                "AR": "احسب الاحتمال",
+                "FA": "احتمال را محاسبه کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "明日、雨が降る確率は50％です。",
+            "furigana": "明日(あした)、雨(あめ)が降(ふ)る確率(かくりつ)は50％です。",
+            "translations": {
+                "EN": "There is a 50% chance that it will rain tomorrow.",
+                "ID": "Ada kemungkinan 50% bahwa hujan akan turun besok.",
+                "ES": "Hay un 50% de probabilidad de que llueva mañana.",
+                "VI": "Có 50% khả năng trời sẽ mưa vào ngày mai.",
+                "FR": "Il y a 50 % de chances qu'il pleuve demain.",
+                "NE": "भोलि पानी पर्ने सम्भावना ५०% छ।",
+                "BN": "আগামীকাল বৃষ্টি হওয়ার সম্ভাবনা ৫০%।",
+                "ZH": "明天有50%的概率会下雨。",
+                "KO": "내일 비가 내릴 확률은 50%입니다.",
+                "TL": "May 50% chance na uulan bukas.",
+                "MY": "မနက်ဖြန် မိုးရွာဖို့ အလားအလာ 50% ရှိပါတယ်။",
+                "HI": "कल बारिश होने की 50% संभावना है।",
+                "AR": "هناك احتمال 50% أن تمطر غدا.",
+                "FA": "احتمال اینکه فردا باران ببارد ۵۰٪ است."
+            }
+        },
+        {
+            "kanji": "このくじは当たる確率が低いです。",
+            "furigana": "このくじは当(あ)たる確率(かくりつ)が低(ひく)いです。",
+            "translations": {
+                "EN": "The chances of winning this lottery are low.",
+                "ID": "Peluang untuk memenangkan lotere ini rendah.",
+                "ES": "Las probabilidades de ganar esta lotería son bajas.",
+                "VI": "Cơ hội trúng xổ số này là thấp.",
+                "FR": "Les chances de gagner à cette loterie sont faibles.",
+                "NE": "यो लटरी जित्ने सम्भावना कम छ।",
+                "BN": "এই লটারি জেতার সম্ভাবনা কম।",
+                "ZH": "中奖几率很低。",
+                "KO": "이 추첨은 맞을 확률이 낮습니다.",
+                "TL": "Mababa ang tsansa na manalo sa lottery na ito.",
+                "MY": "ဒီထီပေါက်ဖို့ အခွင့်အလမ်းနည်းတယ်။",
+                "HI": "इस लॉटरी को जीतने की संभावना कम है।",
+                "AR": "فرص الفوز بهذا اليانصيب ضئيلة.",
+                "FA": "شانس برنده شدن در این قرعه کشی کم است."
+            }
+        },
+        {
+            "kanji": "彼は試験に合格する確率を上げたいです。",
+            "furigana": "彼(かれ)は試験(しけん)に合格(ごうかく)する確率(かくりつ)を上(あ)げたいです。",
+            "translations": {
+                "EN": "He wants to increase his chances of passing the exam.",
+                "ID": "Dia ingin meningkatkan peluangnya untuk lulus ujian.",
+                "ES": "Quiere aumentar sus posibilidades de aprobar el examen.",
+                "VI": "Anh ấy muốn tăng cơ hội vượt qua kỳ thi.",
+                "FR": "Il souhaite augmenter ses chances de réussir l'examen.",
+                "NE": "ऊ परीक्षा उत्तीर्ण हुने सम्भावना बढाउन चाहन्छ।",
+                "BN": "সে পরীক্ষায় পাশ করার সম্ভাবনা বাড়াতে চায়।",
+                "ZH": "他想提高自己通过考试的几率。",
+                "KO": "그는 시험을 통과할 확률을 높이고 싶습니다.",
+                "TL": "Gusto niyang madagdagan ang tsansa niyang makapasa sa pagsusulit.",
+                "MY": "စာမေးပွဲအောင်ဖို့ အခွင့်အလမ်းကို တိုးစေချင်တယ်။",
+                "HI": "वह परीक्षा उत्तीर्ण करने की अपनी संभावना बढ़ाना चाहता है।",
+                "AR": "يريد زيادة فرصته في اجتياز الامتحان.",
+                "FA": "او می‌خواهد شانس قبولی‌اش در امتحان را افزایش دهد."
+            }
+        },
+        {
+            "kanji": "データを使って確率を計算します。",
+            "furigana": "データを使(つか)って確率(かくりつ)を計算(けいさん)します。",
+            "translations": {
+                "EN": "Use the data to calculate probabilities.",
+                "ID": "Gunakan data untuk menghitung probabilitas.",
+                "ES": "Utilice los datos para calcular probabilidades.",
+                "VI": "Sử dụng dữ liệu để tính xác suất.",
+                "FR": "Utilisez les données pour calculer les probabilités.",
+                "NE": "सम्भाव्यता गणना गर्न डेटा प्रयोग गर्नुहोस्।",
+                "BN": "সম্ভাব্যতা গণনা করতে তথ্য ব্যবহার করুন।",
+                "ZH": "利用这些数据计算概率。",
+                "KO": "데이터를 사용하여 확률을 계산합니다.",
+                "TL": "Gamitin ang data upang makalkula ang mga probabilidad.",
+                "MY": "ဖြစ်နိုင်ခြေများကို တွက်ချက်ရန် ဒေတာကို အသုံးပြုပါ။",
+                "HI": "संभावनाओं की गणना करने के लिए डेटा का उपयोग करें।",
+                "AR": "استخدم البيانات لحساب الاحتمالات.",
+                "FA": "از داده‌ها برای محاسبه احتمالات استفاده کنید."
+            }
+        },
+        {
+            "kanji": "今日は勝てる確率がかなり高いです。",
+            "furigana": "今日(きょう)は勝(か)てる確率(かくりつ)がかなり高(たか)いです。",
+            "translations": {
+                "EN": "The chances of winning today are very high.",
+                "ID": "Peluang untuk menang hari ini sangat tinggi.",
+                "ES": "Las probabilidades de ganar hoy son muy altas.",
+                "VI": "Cơ hội chiến thắng ngày hôm nay rất cao.",
+                "FR": "Les chances de gagner aujourd'hui sont très élevées.",
+                "NE": "आज जित्ने सम्भावना धेरै उच्च छ।",
+                "BN": "আজ জেতার সম্ভাবনা অনেক বেশি।",
+                "ZH": "今天获胜的几率非常高。",
+                "KO": "오늘은 이길 확률이 꽤 높습니다.",
+                "TL": "Napakataas ng tsansa na manalo ngayon.",
+                "MY": "ဒီနေ့အနိုင်ရဖို့ အခွင့်အလမ်းက အရမ်းများတယ်။",
+                "HI": "आज जीतने की संभावना बहुत अधिक है।",
+                "AR": "فرص الفوز اليوم عالية جدًا.",
+                "FA": "شانس برنده شدن امروز خیلی بالاست."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "kemungkinan",
+            "ES": "probabilidad",
+            "VI": "xác suất",
+            "FR": "probabilité",
+            "NE": "सम्भावना",
+            "BN": "সম্ভাবনা",
+            "ZH": "可能性",
+            "KO": "개연성",
+            "TL": "probabilidad",
+            "MY": "ဖြစ်နိုင်ခြေ",
+            "HI": "संभावना",
+            "AR": "احتمال",
+            "FA": "احتمال",
+            "EN": [
+                "probability",
+                "likelihood",
+                "chance"
+            ]
+        },
+        {
+            "ID": "kecepatan",
+            "ES": "tasa",
+            "VI": "tỷ lệ",
+            "FR": "taux",
+            "NE": "दर",
+            "BN": "হার",
+            "ZH": "速度",
+            "KO": "비율",
+            "TL": "rate",
+            "MY": "နှုန်း",
+            "HI": "दर",
+            "AR": "معدل",
+            "FA": "نرخ",
+            "EN": [
+                "rate",
+                "percentage",
+                "odds"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "確率",
+        "is_common": true,
+        "tags": [
+            "wanikani20"
+        ],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "確率",
+                "reading": "かくりつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "probability",
+                    "likelihood",
+                    "chances"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Probability"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Probability” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Probability?oldid=495001713"
+                    },
+                    {
+                        "text": "Read “確率” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/確率?oldid=42252323"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Probability"
+        }
+    },
+    "kanji_list": [
+        "確",
+        "率"
+    ],
+    "kanji_data": {
+        "確": {
+            "freq_mainichi_shinbun": 252,
+            "grade": 5,
+            "heisig_en": "assurance",
+            "jlpt": 3,
+            "kanji": "確",
+            "kun_readings": [
+                "たし.か",
+                "たし.かめる"
+            ],
+            "meanings": [
+                "assurance",
+                "clear",
+                "confirm",
+                "evident",
+                "firm",
+                "hard",
+                "solid",
+                "tight"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "カク",
+                "コウ"
+            ],
+            "stroke_count": 15,
+            "unicode": "78BA"
+        },
+        "率": {
+            "freq_mainichi_shinbun": 383,
+            "grade": 5,
+            "heisig_en": "ratio",
+            "jlpt": 1,
+            "kanji": "率",
+            "kun_readings": [
+                "ひき.いる"
+            ],
+            "meanings": [
+                "%",
+                "command",
+                "factor",
+                "lead",
+                "proportion",
+                "rate",
+                "ratio",
+                "spearhead"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シュツ",
+                "ソツ",
+                "リツ"
+            ],
+            "stroke_count": 11,
+            "unicode": "7387"
+        }
+    }
+}
