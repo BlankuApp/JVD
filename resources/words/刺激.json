@@ -1,0 +1,559 @@
+{
+    "version": "0.3.0",
+    "word": "刺激",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/gJ0TInAoyvY",
+    "in_db": true,
+    "kanji": "刺激",
+    "reading": "しげき",
+    "introduction_japanese": "刺激。新しい体験や、スパイスの強い料理、薬や化粧品の説明でよく出てきます。気分を変えたいときや、やる気の話でも使います。",
+    "introduction_english": "しげき. We use it for new experiences, spicy food, and in explanations for medicine or cosmetics. It also appears when talking about a mood change or motivation.",
+    "meanings": [
+        [
+            "stimulus",
+            "irritation",
+            "trigger"
+        ],
+        [
+            "stimulation",
+            "excitement",
+            "thrill",
+            "buzz"
+        ],
+        [
+            "incentive",
+            "motivation",
+            "impetus",
+            "spur",
+            "boost],["
+        ]
+    ],
+    "meaning_explanation_japanese": "外からの働きかけで、体や心が反応すること。やる気や興味を起こさせるもの。ときに、相手をあおる行為も指します。",
+    "meaning_explanation_english": "It is a noun, and しげき means something from outside that makes the body or mind respond, often giving excitement or motivation, and sometimes provoking a reaction.",
+    "youtube_description": "Learn the Japanese word 刺激 (しげき) with clear meanings, common uses, collocations, and easy example sentences—perfect for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "刺",
+            "onyomi": [
+                "シ"
+            ],
+            "kunyomi": [
+                "さす",
+                "ささる"
+            ],
+            "meanings_english": [
+                "stab",
+                "pierce",
+                "thorn"
+            ],
+            "common_words": [
+                "刺す・さす: to stab; to sting",
+                "刺身・さしみ: sliced raw fish"
+            ]
+        },
+        {
+            "kanji": "激",
+            "onyomi": [
+                "ゲキ"
+            ],
+            "kunyomi": [
+                "はげしい"
+            ],
+            "meanings_english": [
+                "intense",
+                "violent",
+                "fierce"
+            ],
+            "common_words": [
+                "激しい・はげしい: intense; violent",
+                "感激・かんげき: deep emotion; being moved"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to pierce or prick. You meet it in the verb さす and in the food word さしみ. It feels sharp and pointy. Think of a needle touching skin. The second kanji means intense or violent. It shows up in the adjective はげしい and the noun かんげき. It carries a sense of strong change and emotion. Picture waves crashing hard.",
+    "synonyms": [
+        "興奮 : こうふん : excitement"
+    ],
+    "synonym_explanation": "The most common synonym of the word is こうふん, which centers on excited emotional arousal; it overlaps when しげき raises energy or thrill, but こうふん does not always mean an external cause or a spur to action.",
+    "antonyms": [
+        "鎮静 : ちんせい : calming"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ちんせい, which focuses on quieting and reducing reactions, the opposite of しげき causing a response or raising intensity.",
+    "collocations": [
+        {
+            "kanji": "強い刺激",
+            "furigana": "強(つよ)い刺激(しげき)",
+            "translations": {
+                "EN": "Strong stimulation",
+                "ID": "Stimulasi yang kuat",
+                "ES": "Estimulación intensa",
+                "VI": "Kích thích mạnh",
+                "FR": "Forte stimulation",
+                "NE": "बलियो उत्तेजना",
+                "BN": "তীব্র উদ্দীপনা",
+                "ZH": "强烈刺激",
+                "KO": "강한 자극",
+                "TL": "Malakas na pagpapasigla",
+                "MY": "ပြင်းပြင်းထန်ထန် ဆွပေးသည်။",
+                "HI": "मजबूत उत्तेजना",
+                "AR": "تحفيز قوي",
+                "FA": "تحریک قوی"
+            }
+        },
+        {
+            "kanji": "軽い刺激",
+            "furigana": "軽(かる)い刺激(しげき)",
+            "translations": {
+                "EN": "Mild irritation",
+                "ID": "Iritasi ringan",
+                "ES": "Irritación leve",
+                "VI": "Kích ứng nhẹ",
+                "FR": "légère irritation",
+                "NE": "हल्का जलन",
+                "BN": "হালকা জ্বালা",
+                "ZH": "轻微刺激",
+                "KO": "가벼운 자극",
+                "TL": "Banayad na pangangati",
+                "MY": "အပျော့စား ယားယံခြင်း။",
+                "HI": "हल्की जलन",
+                "AR": "تهيج خفيف",
+                "FA": "سوزش خفیف"
+            }
+        },
+        {
+            "kanji": "過度の刺激",
+            "furigana": "過度(かど)の刺激(しげき)",
+            "translations": {
+                "EN": "excessive stimulation",
+                "ID": "stimulasi berlebihan",
+                "ES": "estimulación excesiva",
+                "VI": "kích thích quá mức",
+                "FR": "stimulation excessive",
+                "NE": "अत्यधिक उत्तेजना",
+                "BN": "অতিরিক্ত উদ্দীপনা",
+                "ZH": "过度刺激",
+                "KO": "과도한 자극",
+                "TL": "labis na pagpapasigla",
+                "MY": "အလွန်အကျွံလှုံ့ဆော်မှု",
+                "HI": "अत्यधिक उत्तेजना",
+                "AR": "التحفيز المفرط",
+                "FA": "تحریک بیش از حد"
+            }
+        },
+        {
+            "kanji": "外部からの刺激",
+            "furigana": "外部(がいぶ)からの刺激(しげき)",
+            "translations": {
+                "EN": "External stimuli",
+                "ID": "Rangsangan eksternal",
+                "ES": "estímulos externos",
+                "VI": "Kích thích bên ngoài",
+                "FR": "Stimuli externes",
+                "NE": "बाह्य उत्तेजनाहरू",
+                "BN": "বাহ্যিক উদ্দীপনা",
+                "ZH": "外部刺激",
+                "KO": "외부로부터의 자극",
+                "TL": "Panlabas na stimuli",
+                "MY": "ပြင်ပလှုံ့ဆော်မှုများ",
+                "HI": "बाहरी उत्तेजनाएँ",
+                "AR": "المحفزات الخارجية",
+                "FA": "محرک‌های خارجی"
+            }
+        },
+        {
+            "kanji": "脳への刺激",
+            "furigana": "脳(のう)への刺激(しげき)",
+            "translations": {
+                "EN": "Brain stimulation",
+                "ID": "Stimulasi otak",
+                "ES": "estimulación cerebral",
+                "VI": "Kích thích não",
+                "FR": "Stimulation cérébrale",
+                "NE": "मस्तिष्क उत्तेजना",
+                "BN": "মস্তিষ্কের উদ্দীপনা",
+                "ZH": "脑刺激",
+                "KO": "뇌에 자극",
+                "TL": "Pagpapasigla ng utak",
+                "MY": "ဦးနှောက်လှုံ့ဆော်မှု",
+                "HI": "मस्तिष्क उत्तेजना",
+                "AR": "تحفيز الدماغ",
+                "FA": "تحریک مغز"
+            }
+        },
+        {
+            "kanji": "目の刺激",
+            "furigana": "目(め)の刺激(しげき)",
+            "translations": {
+                "EN": "eye irritation",
+                "ID": "iritasi mata",
+                "ES": "irritación ocular",
+                "VI": "kích ứng mắt",
+                "FR": "irritation oculaire",
+                "NE": "आँखा जलन",
+                "BN": "চোখের জ্বালা",
+                "ZH": "眼睛刺激",
+                "KO": "눈 자극",
+                "TL": "pangangati ng mata",
+                "MY": "မျက်စိယားယံခြင်း။",
+                "HI": "आँखों में जलन",
+                "AR": "تهيج العين",
+                "FA": "سوزش چشم"
+            }
+        },
+        {
+            "kanji": "皮膚刺激",
+            "furigana": "皮膚(ひふ)刺激(しげき)",
+            "translations": {
+                "EN": "skin irritation",
+                "ID": "iritasi kulit",
+                "ES": "irritación de la piel",
+                "VI": "kích ứng da",
+                "FR": "irritation cutanée",
+                "NE": "छाला जलन",
+                "BN": "ত্বকের জ্বালা",
+                "ZH": "皮肤刺激",
+                "KO": "피부 자극",
+                "TL": "pangangati ng balat",
+                "MY": "အရေပြားယားယံခြင်း။",
+                "HI": "त्वचा में खराश",
+                "AR": "تهيج الجلد",
+                "FA": "سوزش پوست"
+            }
+        },
+        {
+            "kanji": "化学的刺激",
+            "furigana": "化学的(かがくてき)刺激(しげき)",
+            "translations": {
+                "EN": "chemical irritation",
+                "ID": "iritasi kimia",
+                "ES": "irritación química",
+                "VI": "kích ứng hóa học",
+                "FR": "irritation chimique",
+                "NE": "रासायनिक जलन",
+                "BN": "রাসায়নিক জ্বালা",
+                "ZH": "化学刺激",
+                "KO": "화학적 자극",
+                "TL": "kemikal na pangangati",
+                "MY": "ဓာတုယားယံခြင်း။",
+                "HI": "रासायनिक जलन",
+                "AR": "تهيج كيميائي",
+                "FA": "تحریک شیمیایی"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "このゲームは私にいい刺激になった。",
+            "furigana": "このゲームは私(わたし)にいい刺激(しげき)になった。",
+            "translations": {
+                "EN": "This game was a great inspiration for me.",
+                "ID": "Permainan ini sangat menginspirasi saya.",
+                "ES": "Este juego fue una gran inspiración para mí.",
+                "VI": "Trò chơi này là nguồn cảm hứng lớn cho tôi.",
+                "FR": "Ce jeu a été une grande source d'inspiration pour moi.",
+                "NE": "यो खेल मेरो लागि ठूलो प्रेरणा थियो।",
+                "BN": "এই খেলাটি আমার জন্য এক বিরাট অনুপ্রেরণা ছিল।",
+                "ZH": "这款游戏给了我很大的启发。",
+                "KO": "이 게임은 나에게 좋은 자극이되었다.",
+                "TL": "Ang larong ito ay isang magandang inspirasyon para sa akin.",
+                "MY": "ဒီဂိမ်းက ကျွန်တော့်အတွက် ကောင်းမွန်တဲ့ လှုံ့ဆော်မှုတစ်ခုဖြစ်ခဲ့ပါတယ်။",
+                "HI": "यह खेल मेरे लिए बहुत बड़ी प्रेरणा थी।",
+                "AR": "لقد كانت هذه اللعبة مصدر إلهام عظيم بالنسبة لي.",
+                "FA": "این بازی برای من الهام‌بخش بزرگی بود."
+            }
+        },
+        {
+            "kanji": "辛いカレーは舌に刺激が強い。",
+            "furigana": "辛(から)いカレーは舌(した)に刺激(しげき)が強(つよ)い。",
+            "translations": {
+                "EN": "Spicy curry is very irritating to the tongue.",
+                "ID": "Kari pedas sangat mengiritasi lidah.",
+                "ES": "El curry picante irrita mucho la lengua.",
+                "VI": "Cà ri cay rất dễ gây kích ứng lưỡi.",
+                "FR": "Le curry épicé est très irritant pour la langue.",
+                "NE": "मसालेदार तरकारीले जिब्रोलाई धेरै जलन दिन्छ।",
+                "BN": "মশলাদার তরকারি জিহ্বার জন্য খুবই বিরক্তিকর।",
+                "ZH": "辛辣咖喱对舌头非常刺激。",
+                "KO": "매운 카레는 혀에 자극이 강하다.",
+                "TL": "Ang maanghang na kari ay lubhang nakakairita sa dila.",
+                "MY": "အစပ်ဟင်းက လျှာကို အရမ်းယားယံစေပါတယ်။",
+                "HI": "मसालेदार करी जीभ को बहुत परेशान करती है।",
+                "AR": "الكاري الحار يسبب تهيج شديد للسان.",
+                "FA": "کاری تند برای زبان بسیار تحریک کننده است."
+            }
+        },
+        {
+            "kanji": "新しい友達の考えに刺激を受けた。",
+            "furigana": "新(あたら)しい友達(ともだち)の考(かんが)えに刺激(しげき)を受(う)けた。",
+            "translations": {
+                "EN": "I was inspired by the ideas of my new friends.",
+                "ID": "Saya terinspirasi oleh ide-ide teman baru saya.",
+                "ES": "Me inspiraron las ideas de mis nuevos amigos.",
+                "VI": "Tôi được truyền cảm hứng từ những ý tưởng của những người bạn mới.",
+                "FR": "J'ai été inspiré par les idées de mes nouveaux amis.",
+                "NE": "म मेरा नयाँ साथीहरूको विचारबाट प्रेरित भएँ।",
+                "BN": "আমার নতুন বন্ধুদের ধারণায় আমি অনুপ্রাণিত হয়েছি।",
+                "ZH": "我受到了新朋友的启发。",
+                "KO": "새로운 친구의 생각에 자극을 받았다.",
+                "TL": "Na-inspire ako sa mga ideya ng mga bago kong kaibigan.",
+                "MY": "သူငယ်ချင်းအသစ်တွေရဲ့ စိတ်ကူးစိတ်သန်းတွေကြောင့် ကျွန်မကို စိတ်အားထက်သန်ခဲ့တယ်။",
+                "HI": "मैं अपने नये मित्रों के विचारों से प्रेरित हुआ।",
+                "AR": "لقد استلهمت أفكار أصدقائي الجدد.",
+                "FA": "من از ایده‌های دوستان جدیدم الهام گرفتم."
+            }
+        },
+        {
+            "kanji": "化粧水は肌に刺激が少ない。",
+            "furigana": "化粧水(けしょうすい)は肌(はだ)に刺激(しげき)が少(すく)ない。",
+            "translations": {
+                "EN": "The lotion is gentle on the skin.",
+                "ID": "Losionnya lembut di kulit.",
+                "ES": "La loción es suave para la piel.",
+                "VI": "Sữa dưỡng thể này dịu nhẹ với da.",
+                "FR": "Cette lotion est douce pour la peau.",
+                "NE": "लोशन छालामा कोमल हुन्छ।",
+                "BN": "লোশনটি ত্বকে কোমল।",
+                "ZH": "这款乳液性质温和，不刺激皮肤。",
+                "KO": "화장수는 피부에 자극이 적다.",
+                "TL": "Ang lotion ay banayad sa balat.",
+                "MY": "Lotion သည် အသားအရေကို နူးညံ့စေပါသည်။",
+                "HI": "यह लोशन त्वचा पर कोमल है।",
+                "AR": "المستحضر لطيف على البشرة.",
+                "FA": "لوسیون روی پوست ملایم است."
+            }
+        },
+        {
+            "kanji": "先生の言葉が私を刺激した。",
+            "furigana": "先生(せんせい)の言葉(ことば)が私(わたし)を刺激(しげき)した。",
+            "translations": {
+                "EN": "The teacher's words inspired me.",
+                "ID": "Kata-kata guru itu memberiku inspirasi.",
+                "ES": "Las palabras del profesor me inspiraron.",
+                "VI": "Lời nói của thầy đã truyền cảm hứng cho tôi.",
+                "FR": "Les paroles du professeur m'ont inspiré.",
+                "NE": "शिक्षकका शब्दहरूले मलाई प्रेरणा दियो।",
+                "BN": "শিক্ষকের কথাগুলো আমাকে অনুপ্রাণিত করেছিল।",
+                "ZH": "老师的话激励了我。",
+                "KO": "교사의 말이 나를 자극했다.",
+                "TL": "Naging inspirasyon ko ang mga salita ng guro.",
+                "MY": "ဆရာ့စကားက ကျွန်တော့်ကို စိတ်အားတက်ကြွစေတယ်။",
+                "HI": "शिक्षक के शब्दों ने मुझे प्रेरित किया।",
+                "AR": "كلمات المعلم ألهمتني.",
+                "FA": "حرف‌های استاد به من انگیزه داد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "rangsangan",
+            "ES": "estímulo",
+            "VI": "kích thích",
+            "FR": "stimulus",
+            "NE": "उत्तेजना",
+            "BN": "উদ্দীপক",
+            "ZH": "刺激",
+            "KO": "자극제",
+            "TL": "pampasigla",
+            "MY": "လှုံ့ဆော်မှု",
+            "HI": "प्रोत्साहन",
+            "AR": "حافز",
+            "FA": "محرک",
+            "EN": [
+                "stimulus",
+                "irritation",
+                "trigger"
+            ]
+        },
+        {
+            "ID": "stimulasi",
+            "ES": "estímulo",
+            "VI": "sự kích thích",
+            "FR": "stimulation",
+            "NE": "उत्तेजना",
+            "BN": "উদ্দীপনা",
+            "ZH": "刺激",
+            "KO": "자극",
+            "TL": "pagpapasigla",
+            "MY": "ဆွပေးသည်။",
+            "HI": "उत्तेजना",
+            "AR": "التحفيز",
+            "FA": "تحریک",
+            "EN": [
+                "stimulation",
+                "excitement",
+                "thrill",
+                "buzz"
+            ]
+        },
+        {
+            "ID": "insentif",
+            "ES": "incentivo",
+            "VI": "khích lệ",
+            "FR": "incitation",
+            "NE": "प्रोत्साहन",
+            "BN": "প্রণোদনা",
+            "ZH": "激励",
+            "KO": "자극",
+            "TL": "insentibo",
+            "MY": "မက်လုံးပေးသည်။",
+            "HI": "प्रोत्साहन",
+            "AR": "حافز",
+            "FA": "انگیزه",
+            "EN": [
+                "incentive",
+                "motivation",
+                "impetus",
+                "spur",
+                "boost],["
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "刺激",
+        "is_common": true,
+        "tags": [
+            "wanikani26"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "刺激",
+                "reading": "しげき"
+            },
+            {
+                "word": "刺戟",
+                "reading": "しげき"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "stimulus",
+                    "stimulation",
+                    "irritation (esp. of the body, e.g. skin, eyes)"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "impetus",
+                    "impulse",
+                    "stimulus",
+                    "spur",
+                    "incentive",
+                    "encouragement",
+                    "stimulation",
+                    "motivation",
+                    "provocation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "excitement",
+                    "thrill"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "刺",
+        "激"
+    ],
+    "kanji_data": {
+        "刺": {
+            "freq_mainichi_shinbun": 1031,
+            "grade": 8,
+            "heisig_en": "thorn",
+            "jlpt": 2,
+            "kanji": "刺",
+            "kun_readings": [
+                "さ.さる",
+                "さ.し",
+                "さ.す",
+                "さし",
+                "とげ"
+            ],
+            "meanings": [
+                "calling card",
+                "pierce",
+                "prick",
+                "stab",
+                "sting",
+                "thorn"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シ"
+            ],
+            "stroke_count": 8,
+            "unicode": "523A"
+        },
+        "激": {
+            "freq_mainichi_shinbun": 560,
+            "grade": 6,
+            "heisig_en": "violent",
+            "jlpt": 1,
+            "kanji": "激",
+            "kun_readings": [
+                "はげ.しい"
+            ],
+            "meanings": [
+                "chafe",
+                "enraged",
+                "get excited",
+                "incite",
+                "violent"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ゲキ"
+            ],
+            "stroke_count": 16,
+            "unicode": "6FC0"
+        }
+    }
+}

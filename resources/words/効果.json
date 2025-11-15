@@ -1,0 +1,536 @@
+{
+    "version": "0.3.0",
+    "word": "効果",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/s_DmVX_NqQA",
+    "in_db": true,
+    "kanji": "効果",
+    "reading": "こうか",
+    "introduction_japanese": "効果は、くすり、べんきょう、ダイエット、こうこくの話でよく出ます。なにかをして、あとでどうなるか話すときに使います。",
+    "introduction_english": "こうか. We use this when talking about medicine, study, dieting, and advertising. It’s used when you do something and then talk about what happens after.",
+    "meanings": [
+        [
+            "effect",
+            "result",
+            "outcome",
+            "impact"
+        ],
+        [
+            "effectiveness",
+            "efficacy",
+            "potency",
+            "validity"
+        ],
+        [
+            "benefit",
+            "advantage",
+            "gain"
+        ]
+    ],
+    "meaning_explanation_japanese": "何かをしたあとに出る結果や、どれくらいよく働くか、どれくらい役に立つかを表します。",
+    "meaning_explanation_english": "It is used as a noun. こうか means the effect or outcome of an action, and also how well something works or helps.",
+    "youtube_description": "Learn the meaning and easy real-life uses of こうか (effect, effectiveness) with clear examples, collocations, and tips for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "効",
+            "onyomi": [
+                "コウ"
+            ],
+            "kunyomi": [
+                "き(く)",
+                "き(かす)"
+            ],
+            "meanings_english": [
+                "effect",
+                "efficacy",
+                "to work"
+            ],
+            "common_words": [
+                "効く : きく : to be effective",
+                "有効 : ゆうこう : effective; valid"
+            ]
+        },
+        {
+            "kanji": "果",
+            "onyomi": [
+                "カ"
+            ],
+            "kunyomi": [
+                "は(た)す",
+                "は(て)る"
+            ],
+            "meanings_english": [
+                "fruit",
+                "result",
+                "to carry out"
+            ],
+            "common_words": [
+                "果物 : くだもの : fruit",
+                "結果 : けっか : result"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to work or to take effect. You see it in きく and in ゆうこう. It carries the idea of something that actually works. Think of medicine that really helps. The second kanji means fruit and also an end or a result. You see it in くだもの and in けっか. It suggests something that comes after effort. Picture the final outcome, like a ripe fruit.",
+    "synonyms": [
+        "効き目 : ききめ : effectiveness",
+        "影響 : えいきょう : influence, effect"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ききめ and えいきょう. ききめ focuses on how well something works, often for medicine or products. えいきょう is broader, about influence or impact on people or things, not just usefulness.",
+    "antonyms": [
+        "無効 : むこう : invalidity, ineffectiveness",
+        "無駄 : むだ : futility, waste"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are むこう and むだ. むこう means something is not valid or does not work. むだ means it is a waste and brings no good result.",
+    "collocations": [
+        {
+            "kanji": "高い効果",
+            "furigana": "高(たか)い効果(こうか)",
+            "translations": {
+                "EN": "Highly effective",
+                "ID": "Sangat efektif",
+                "ES": "Altamente eficaz",
+                "VI": "Hiệu quả cao",
+                "FR": "Très efficace",
+                "NE": "अत्यधिक प्रभावकारी",
+                "BN": "অত্যন্ত কার্যকর",
+                "ZH": "非常有效",
+                "KO": "높은 효과",
+                "TL": "Lubos na epektibo",
+                "MY": "အလွန်ထိရောက်မှု",
+                "HI": "अत्यधिक प्रभावी",
+                "AR": "فعالة للغاية",
+                "FA": "بسیار مؤثر"
+            }
+        },
+        {
+            "kanji": "大きな効果",
+            "furigana": "大(おお)きな効果(こうか)",
+            "translations": {
+                "EN": "Big impact",
+                "ID": "Efek besar",
+                "ES": "Gran impacto",
+                "VI": "Hiệu ứng lớn",
+                "FR": "Impact majeur",
+                "NE": "ठूलो प्रभाव",
+                "BN": "বড় প্রভাব",
+                "ZH": "效果显著",
+                "KO": "큰 효과",
+                "TL": "Malaking epekto",
+                "MY": "ကြီးမားသောအကျိုးသက်ရောက်မှု",
+                "HI": "बड़ा प्रभाव",
+                "AR": "تأثير كبير",
+                "FA": "تأثیر بزرگ"
+            }
+        },
+        {
+            "kanji": "良い効果",
+            "furigana": "良(よ)い効果(こうか)",
+            "translations": {
+                "EN": "Good effect",
+                "ID": "Efek yang bagus",
+                "ES": "Buen efecto",
+                "VI": "Hiệu quả tốt",
+                "FR": "Bon effet",
+                "NE": "राम्रो प्रभाव",
+                "BN": "ভালো প্রভাব",
+                "ZH": "效果良好",
+                "KO": "좋은 효과",
+                "TL": "Magandang epekto",
+                "MY": "ကောင်းသောအကျိုးသက်ရောက်မှု",
+                "HI": "अच्छा प्रभाव",
+                "AR": "تأثير جيد",
+                "FA": "اثر خوب"
+            }
+        },
+        {
+            "kanji": "悪い効果",
+            "furigana": "悪(わる)い効果(こうか)",
+            "translations": {
+                "EN": "Negative effects",
+                "ID": "Efek negatif",
+                "ES": "efectos negativos",
+                "VI": "Tác động tiêu cực",
+                "FR": "Effets négatifs",
+                "NE": "नकारात्मक प्रभावहरू",
+                "BN": "নেতিবাচক প্রভাব",
+                "ZH": "负面影响",
+                "KO": "나쁜 효과",
+                "TL": "Mga negatibong epekto",
+                "MY": "အနုတ်လက္ခဏာသက်ရောက်မှု",
+                "HI": "नकारात्मक प्रभाव",
+                "AR": "الآثار السلبية",
+                "FA": "اثرات منفی"
+            }
+        },
+        {
+            "kanji": "薬の効果",
+            "furigana": "薬(くすり)の効果(こうか)",
+            "translations": {
+                "EN": "Drug effects",
+                "ID": "Efek obat",
+                "ES": "efectos de las drogas",
+                "VI": "Tác dụng của thuốc",
+                "FR": "Effets de la drogue",
+                "NE": "औषधिको प्रभाव",
+                "BN": "ওষুধের প্রভাব",
+                "ZH": "药物效应",
+                "KO": "약의 효과",
+                "TL": "Epekto ng droga",
+                "MY": "ဆေးအာနိသင်",
+                "HI": "दवा के प्रभाव",
+                "AR": "تأثيرات المخدرات",
+                "FA": "اثرات دارو"
+            }
+        },
+        {
+            "kanji": "広告の効果",
+            "furigana": "広告(こうこく)の効果(こうか)",
+            "translations": {
+                "EN": "Advertising effectiveness",
+                "ID": "Efektivitas periklanan",
+                "ES": "efectividad publicitaria",
+                "VI": "Hiệu quả quảng cáo",
+                "FR": "l'efficacité publicitaire",
+                "NE": "विज्ञापनको प्रभावकारिता",
+                "BN": "বিজ্ঞাপনের কার্যকারিতা",
+                "ZH": "广告效果",
+                "KO": "광고 효과",
+                "TL": "Ang pagiging epektibo ng advertising",
+                "MY": "ကြော်ငြာထိရောက်မှု",
+                "HI": "विज्ञापन प्रभावशीलता",
+                "AR": "فعالية الإعلان",
+                "FA": "اثربخشی تبلیغات"
+            }
+        },
+        {
+            "kanji": "予防効果",
+            "furigana": "予防(よぼう)効果(こうか)",
+            "translations": {
+                "EN": "Preventive effect",
+                "ID": "Efek pencegahan",
+                "ES": "Efecto preventivo",
+                "VI": "Tác dụng phòng ngừa",
+                "FR": "Effet préventif",
+                "NE": "रोकथाम प्रभाव",
+                "BN": "প্রতিরোধমূলক প্রভাব",
+                "ZH": "预防效果",
+                "KO": "예방 효과",
+                "TL": "Preventive effect",
+                "MY": "ကြိုတင်ကာကွယ်မှုအကျိုးသက်ရောက်မှု",
+                "HI": "निवारक प्रभाव",
+                "AR": "التأثير الوقائي",
+                "FA": "اثر پیشگیرانه"
+            }
+        },
+        {
+            "kanji": "学習効果",
+            "furigana": "学習(がくしゅう)効果(こうか)",
+            "translations": {
+                "EN": "Learning effect",
+                "ID": "Efek pembelajaran",
+                "ES": "efecto de aprendizaje",
+                "VI": "Hiệu ứng học tập",
+                "FR": "effet d'apprentissage",
+                "NE": "सिकाइ प्रभाव",
+                "BN": "শেখার প্রভাব",
+                "ZH": "学习效果",
+                "KO": "학습 효과",
+                "TL": "Epekto ng pagkatuto",
+                "MY": "သင်ယူခြင်းအကျိုးသက်ရောက်မှု",
+                "HI": "सीखने का प्रभाव",
+                "AR": "تأثير التعلم",
+                "FA": "اثر یادگیری"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この薬は効果があります。",
+            "furigana": "この薬(くすり)は効果(こうか)があります。",
+            "translations": {
+                "EN": "This medicine is effective.",
+                "ID": "Obat ini efektif.",
+                "ES": "Este medicamento es eficaz.",
+                "VI": "Thuốc này có hiệu quả.",
+                "FR": "Ce médicament est efficace.",
+                "NE": "यो औषधि प्रभावकारी छ।",
+                "BN": "এই ঔষধটি কার্যকর।",
+                "ZH": "这种药很有效。",
+                "KO": "이 약은 효과가 있습니다.",
+                "TL": "Mabisa ang gamot na ito.",
+                "MY": "ဒီဆေးက ထိရောက်တယ်။",
+                "HI": "यह दवा कारगर है.",
+                "AR": "هذا الدواء فعال.",
+                "FA": "این دارو مؤثر است."
+            }
+        },
+        {
+            "kanji": "新しい勉強法で、すぐに効果が出ました。",
+            "furigana": "新(あたら)しい勉強法(べんきょうほう)で、すぐに効果(こうか)が出(で)ました。",
+            "translations": {
+                "EN": "The new study method had immediate results.",
+                "ID": "Metode belajar baru itu memberikan hasil langsung.",
+                "ES": "El nuevo método de estudio arrojó resultados inmediatos.",
+                "VI": "Phương pháp nghiên cứu mới đã mang lại kết quả ngay lập tức.",
+                "FR": "La nouvelle méthode d'étude a donné des résultats immédiats.",
+                "NE": "नयाँ अध्ययन विधिको तत्काल परिणाम आयो।",
+                "BN": "নতুন গবেষণা পদ্ধতির তাৎক্ষণিক ফলাফল এসেছে।",
+                "ZH": "新的研究方法立即见效。",
+                "KO": "새로운 공부법으로 곧바로 효과가 나왔습니다.",
+                "TL": "Ang bagong paraan ng pag-aaral ay nagkaroon ng agarang resulta.",
+                "MY": "လေ့လာမှုနည်းလမ်းအသစ်သည် ချက်ချင်းရလဒ်များရရှိခဲ့သည်။",
+                "HI": "नई अध्ययन पद्धति के तत्काल परिणाम सामने आये।",
+                "AR": "الطريقة الجديدة للدراسة أعطت نتائج فورية.",
+                "FA": "روش مطالعه جدید نتایج فوری داشت."
+            }
+        },
+        {
+            "kanji": "この運動はダイエットに効果が高いです。",
+            "furigana": "この運動(うんどう)はダイエットに効果(こうか)が高(たか)いです。",
+            "translations": {
+                "EN": "This exercise is very effective for dieting.",
+                "ID": "Latihan ini sangat efektif untuk diet.",
+                "ES": "Este ejercicio es muy efectivo para hacer dieta.",
+                "VI": "Bài tập này rất hiệu quả cho việc ăn kiêng.",
+                "FR": "Cet exercice est très efficace pour les régimes.",
+                "NE": "यो व्यायाम डाइटिङको लागि धेरै प्रभावकारी छ।",
+                "BN": "ডায়েটিংয়ের জন্য এই ব্যায়াম খুবই কার্যকর।",
+                "ZH": "这项运动对减肥非常有效。",
+                "KO": "이 운동은 다이어트에 효과가 높습니다.",
+                "TL": "Ang ehersisyo na ito ay napaka-epektibo para sa pagdidiyeta.",
+                "MY": "ဒီလေ့ကျင့်ခန်းက အစားအသောက်အတွက် အလွန်ထိရောက်ပါတယ်။",
+                "HI": "यह व्यायाम डाइटिंग के लिए बहुत प्रभावी है।",
+                "AR": "هذا التمرين فعال جدًا في الحمية الغذائية.",
+                "FA": "این تمرین برای رژیم گرفتن بسیار مؤثر است."
+            }
+        },
+        {
+            "kanji": "広告の効果をテストします。",
+            "furigana": "広告(こうこく)の効果(こうか)をテストします。",
+            "translations": {
+                "EN": "Test the effectiveness of your ads.",
+                "ID": "Uji efektivitas iklan Anda.",
+                "ES": "Comprueba la eficacia de tus anuncios.",
+                "VI": "Kiểm tra hiệu quả của quảng cáo.",
+                "FR": "Testez l'efficacité de vos publicités.",
+                "NE": "तपाईंको विज्ञापनहरूको प्रभावकारिता परीक्षण गर्नुहोस्।",
+                "BN": "আপনার বিজ্ঞাপনের কার্যকারিতা পরীক্ষা করুন।",
+                "ZH": "测试您的广告效果。",
+                "KO": "광고 효과를 테스트합니다.",
+                "TL": "Subukan ang pagiging epektibo ng iyong mga ad.",
+                "MY": "သင့်ကြော်ငြာများ၏ ထိရောက်မှုကို စမ်းသပ်ပါ။",
+                "HI": "अपने विज्ञापनों की प्रभावशीलता का परीक्षण करें.",
+                "AR": "اختبار فعالية إعلاناتك.",
+                "FA": "اثربخشی تبلیغات خود را آزمایش کنید."
+            }
+        },
+        {
+            "kanji": "マスクには予防効果があります。",
+            "furigana": "マスクには予防(よぼう)効果(こうか)があります。",
+            "translations": {
+                "EN": "Masks have a preventative effect.",
+                "ID": "Masker memiliki efek pencegahan.",
+                "ES": "Las mascarillas tienen un efecto preventivo.",
+                "VI": "Khẩu trang có tác dụng phòng ngừa.",
+                "FR": "Les masques ont un effet préventif.",
+                "NE": "मास्कको रोकथाम प्रभाव हुन्छ।",
+                "BN": "মাস্কের একটি প্রতিরোধমূলক প্রভাব রয়েছে।",
+                "ZH": "口罩具有预防作用。",
+                "KO": "마스크에는 예방 효과가 있습니다.",
+                "TL": "Ang mga maskara ay may epekto sa pag-iwas.",
+                "MY": "Mask များသည် ကြိုတင်ကာကွယ်နိုင်သော အာနိသင်ရှိသည်။",
+                "HI": "मास्क का निवारक प्रभाव होता है।",
+                "AR": "الأقنعة لها تأثير وقائي.",
+                "FA": "ماسک‌ها اثر پیشگیرانه دارند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "memengaruhi",
+            "ES": "efecto",
+            "VI": "tác dụng",
+            "FR": "effet",
+            "NE": "प्रभाव",
+            "BN": "প্রভাব",
+            "ZH": "影响",
+            "KO": "효과",
+            "TL": "epekto",
+            "MY": "အကျိုးသက်ရောက်မှု",
+            "HI": "प्रभाव",
+            "AR": "تأثير",
+            "FA": "اثر",
+            "EN": [
+                "effect",
+                "result",
+                "outcome",
+                "impact"
+            ]
+        },
+        {
+            "ID": "efektivitas",
+            "ES": "eficacia",
+            "VI": "hiệu quả",
+            "FR": "efficacité",
+            "NE": "प्रभावकारिता",
+            "BN": "কার্যকারিতা",
+            "ZH": "效力",
+            "KO": "유효성",
+            "TL": "pagiging epektibo",
+            "MY": "ထိရောက်မှု",
+            "HI": "प्रभावशीलता",
+            "AR": "فعالية",
+            "FA": "اثربخشی",
+            "EN": [
+                "effectiveness",
+                "efficacy",
+                "potency",
+                "validity"
+            ]
+        },
+        {
+            "ID": "keuntungan",
+            "ES": "beneficio",
+            "VI": "lợi ích",
+            "FR": "avantage",
+            "NE": "फाइदा",
+            "BN": "সুবিধা",
+            "ZH": "益处",
+            "KO": "혜택",
+            "TL": "benepisyo",
+            "MY": "အကျိုး",
+            "HI": "फ़ायदा",
+            "AR": "فائدة",
+            "FA": "فایده",
+            "EN": [
+                "benefit",
+                "advantage",
+                "gain"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "効果",
+        "is_common": true,
+        "tags": [
+            "wanikani25"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "効果",
+                "reading": "こうか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "effect",
+                    "effectiveness",
+                    "efficacy",
+                    "result"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "effects (e.g. sound effects, visual effects, special effects)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "音響効果 おんきょうこうか"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "効",
+        "果"
+    ],
+    "kanji_data": {
+        "効": {
+            "freq_mainichi_shinbun": 538,
+            "grade": 5,
+            "heisig_en": "merit",
+            "jlpt": 2,
+            "kanji": "効",
+            "kun_readings": [
+                "き.く",
+                "ききめ",
+                "なら.う"
+            ],
+            "meanings": [
+                "benefit",
+                "efficacy",
+                "efficiency",
+                "merit"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 8,
+            "unicode": "52B9"
+        },
+        "果": {
+            "freq_mainichi_shinbun": 258,
+            "grade": 4,
+            "heisig_en": "fruit",
+            "jlpt": 3,
+            "kanji": "果",
+            "kun_readings": [
+                "-は.たす",
+                "-は.てる",
+                "は.たす",
+                "は.て",
+                "は.てる",
+                "はた.す"
+            ],
+            "meanings": [
+                "achieve",
+                "carry out",
+                "complete",
+                "end",
+                "finish",
+                "fruit",
+                "reward",
+                "succeed"
+            ],
+            "name_readings": [
+                "み"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カ"
+            ],
+            "stroke_count": 8,
+            "unicode": "679C"
+        }
+    }
+}

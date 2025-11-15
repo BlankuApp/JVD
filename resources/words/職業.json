@@ -1,0 +1,510 @@
+{
+    "version": "0.3.0",
+    "word": "職業",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/KK89BsjNIg8",
+    "in_db": true,
+    "kanji": "職業",
+    "reading": "しょくぎょう",
+    "introduction_japanese": "職業。自己紹介や履歴書、進路の話でよく使います。",
+    "introduction_english": "しょくぎょう. We use this in self-introductions, on resumes, and when talking about future paths.",
+    "meanings": [
+        [
+            "occupation",
+            "job",
+            "work",
+            "employment",
+            "career"
+        ],
+        [
+            "profession",
+            "trade",
+            "vocation",
+            "line"
+        ]
+    ],
+    "meaning_explanation_japanese": "人がお金を得るためにする決まった仕事や、その分野・系統を指します。",
+    "meaning_explanation_english": "It is used as a noun. しょくぎょう literally means a person’s regular work or field, like one’s line of employment or profession.",
+    "youtube_description": "Learn the meaning and natural use of しょくぎょう (occupation/profession) with simple examples, collocations, and kanji tips for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "職",
+            "onyomi": [
+                "ショク"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "employment",
+                "job",
+                "post"
+            ],
+            "common_words": [
+                "職員（しょくいん）: staff member",
+                "職場（しょくば）: workplace"
+            ]
+        },
+        {
+            "kanji": "業",
+            "onyomi": [
+                "ギョウ",
+                "ゴウ"
+            ],
+            "kunyomi": [
+                "わざ"
+            ],
+            "meanings_english": [
+                "business",
+                "industry",
+                "deed"
+            ],
+            "common_words": [
+                "産業（さんぎょう）: industry",
+                "農業（のうぎょう）: agriculture"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means a job post or duty. It shows up in words about people at work. Think of しょくいん and しょくば. It connects to roles and positions. The second kanji means work, business, or result of actions. It appears in words for fields of work. You can see it in さんぎょう and のうぎょう. It points to activity or industry.",
+    "synonyms": [
+        "仕事 : しごと : work",
+        "職種 : しょくしゅ : job category"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are しごと and しょくしゅ. しごと is broader, meaning any work or tasks, while しょくしゅ is a type or category within occupations.",
+    "antonyms": [
+        "無職 : むしょく : unemployed"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むしょく, which means having no job or not being employed, the absence of an occupation.",
+    "collocations": [
+        {
+            "kanji": "将来の職業",
+            "furigana": "将来(しょうらい)の職業(しょくぎょう)",
+            "translations": {
+                "EN": "Future career",
+                "ID": "Karier masa depan",
+                "ES": "futura carrera",
+                "VI": "Sự nghiệp tương lai",
+                "FR": "avenir professionnel",
+                "NE": "भविष्यको करियर",
+                "BN": "ভবিষ্যৎ ক্যারিয়ার",
+                "ZH": "未来职业",
+                "KO": "미래 직업",
+                "TL": "Hinaharap na karera",
+                "MY": "အနာဂတ်အသက်မွေးဝမ်းကျောင်း",
+                "HI": "भविष्य जीविका",
+                "AR": "المهنة المستقبلية",
+                "FA": "آینده شغلی"
+            }
+        },
+        {
+            "kanji": "私の職業",
+            "furigana": "私(わたし)の職業(しょくぎょう)",
+            "translations": {
+                "EN": "My Occupation",
+                "ID": "Pekerjaan Saya",
+                "ES": "Mi ocupación",
+                "VI": "Nghề nghiệp của tôi",
+                "FR": "Mon métier",
+                "NE": "मेरो पेशा",
+                "BN": "আমার পেশা",
+                "ZH": "我的职业",
+                "KO": "내 직업",
+                "TL": "Aking Trabaho",
+                "MY": "ငါ့အလုပ်အကိုင်",
+                "HI": "मेरा व्यवसाय",
+                "AR": "مهنتي",
+                "FA": "شغل من"
+            }
+        },
+        {
+            "kanji": "安定した職業",
+            "furigana": "安定(あんてい)した職業(しょくぎょう)",
+            "translations": {
+                "EN": "Stable employment",
+                "ID": "Pekerjaan yang stabil",
+                "ES": "Empleo estable",
+                "VI": "Việc làm ổn định",
+                "FR": "emploi stable",
+                "NE": "स्थिर रोजगारी",
+                "BN": "স্থিতিশীল কর্মসংস্থান",
+                "ZH": "稳定的就业",
+                "KO": "안정된 직업",
+                "TL": "Matatag na trabaho",
+                "MY": "တည်ငြိမ်သောအလုပ်အကိုင်",
+                "HI": "स्थिर रोजगार",
+                "AR": "عمل مستقر",
+                "FA": "اشتغال پایدار"
+            }
+        },
+        {
+            "kanji": "人気の職業",
+            "furigana": "人気(にんき)の職業(しょくぎょう)",
+            "translations": {
+                "EN": "Popular Occupations",
+                "ID": "Pekerjaan Populer",
+                "ES": "Ocupaciones populares",
+                "VI": "Nghề nghiệp phổ biến",
+                "FR": "Métiers populaires",
+                "NE": "लोकप्रिय पेशाहरू",
+                "BN": "জনপ্রিয় পেশা",
+                "ZH": "热门职业",
+                "KO": "인기 직업",
+                "TL": "Mga Popular na Trabaho",
+                "MY": "လူကြိုက်များသော အလုပ်အကိုင်များ",
+                "HI": "लोकप्रिय व्यवसाय",
+                "AR": "المهن الشعبية",
+                "FA": "مشاغل محبوب"
+            }
+        },
+        {
+            "kanji": "職業の種類",
+            "furigana": "職業(しょくぎょう)の種類(しゅるい)",
+            "translations": {
+                "EN": "Occupation type",
+                "ID": "Jenis pekerjaan",
+                "ES": "Tipo de ocupación",
+                "VI": "Loại nghề nghiệp",
+                "FR": "Type de profession",
+                "NE": "पेशाको प्रकार",
+                "BN": "পেশার ধরণ",
+                "ZH": "职业类型",
+                "KO": "직업의 종류",
+                "TL": "Uri ng trabaho",
+                "MY": "အလုပ်အကိုင်အမျိုးအစား",
+                "HI": "व्यवसाय का प्रकार",
+                "AR": "نوع المهنة",
+                "FA": "نوع شغل"
+            }
+        },
+        {
+            "kanji": "医療の職業",
+            "furigana": "医療(いりょう)の職業(しょくぎょう)",
+            "translations": {
+                "EN": "medical profession",
+                "ID": "profesi medis",
+                "ES": "profesión médica",
+                "VI": "nghề y",
+                "FR": "profession médicale",
+                "NE": "चिकित्सा पेशा",
+                "BN": "চিকিৎসা পেশা",
+                "ZH": "医疗行业",
+                "KO": "의료 직업",
+                "TL": "medikal na propesyon",
+                "MY": "ဆေးပညာ",
+                "HI": "चिकित्सा पेशा",
+                "AR": "مهنة طبية",
+                "FA": "حرفه پزشکی"
+            }
+        },
+        {
+            "kanji": "職業を選ぶ",
+            "furigana": "職業(しょくぎょう)を選(えら)ぶ",
+            "translations": {
+                "EN": "Choose a profession",
+                "ID": "Pilihlah sebuah profesi",
+                "ES": "Elige una profesión",
+                "VI": "Chọn một nghề nghiệp",
+                "FR": "Choisir une profession",
+                "NE": "पेशा छनौट गर्नुहोस्",
+                "BN": "একটি পেশা বেছে নিন",
+                "ZH": "选择职业",
+                "KO": "직업 선택",
+                "TL": "Pumili ng isang propesyon",
+                "MY": "အသက်မွေးဝမ်းကျောင်းပညာကို ရွေးချယ်ပါ။",
+                "HI": "एक पेशा चुनें",
+                "AR": "اختر مهنة",
+                "FA": "یک حرفه را انتخاب کنید"
+            }
+        },
+        {
+            "kanji": "職業に就く",
+            "furigana": "職業(しょくぎょう)に就(つ)く",
+            "translations": {
+                "EN": "Get a job",
+                "ID": "Dapatkan pekerjaan",
+                "ES": "Hacer trabajo",
+                "VI": "Có được một công việc",
+                "FR": "Trouvez un emploi",
+                "NE": "जागिर पाउनुहोस्",
+                "BN": "চাকরি নাও।",
+                "ZH": "找份工作",
+                "KO": "직업을 맡다",
+                "TL": "Kumuha ng trabaho",
+                "MY": "အလုပ်တစ်ခုရယူပါ။",
+                "HI": "नौकरी मिलना",
+                "AR": "احصل على وظيفة",
+                "FA": "شغل پیدا کنید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "あなたの職業は何ですか。",
+            "furigana": "あなたの職業(しょくぎょう)は何(なん)ですか。",
+            "translations": {
+                "EN": "What is your occupation?",
+                "ID": "Apa pekerjaan Anda?",
+                "ES": "¿Cuál es su ocupación?",
+                "VI": "Nghề nghiệp của bạn là gì?",
+                "FR": "Quel est votre métier ?",
+                "NE": "तिम्रो काम के हो?",
+                "BN": "তোমার পেশা কি?",
+                "ZH": "你的职业是什么？",
+                "KO": "당신의 직업은 무엇입니까?",
+                "TL": "Ano ang iyong hanapbuhay?",
+                "MY": "မင်းရဲ့ အလုပ်အကိုင်က ဘာလဲ။",
+                "HI": "आपका व्यवसाय क्या है?",
+                "AR": "ما هي مهنتك؟",
+                "FA": "شغل شما چیست؟"
+            }
+        },
+        {
+            "kanji": "私の職業は教師です。",
+            "furigana": "私(わたし)の職業(しょくぎょう)は教(きょう)師(し)です。",
+            "translations": {
+                "EN": "My occupation is a teacher.",
+                "ID": "Pekerjaan saya adalah seorang guru.",
+                "ES": "Mi ocupación es la de profesor.",
+                "VI": "Nghề nghiệp của tôi là giáo viên.",
+                "FR": "Je suis enseignant.",
+                "NE": "मेरो पेशा शिक्षक हो।",
+                "BN": "আমার পেশা একজন শিক্ষকতা।",
+                "ZH": "我的职业是教师。",
+                "KO": "내 직업은 교사입니다.",
+                "TL": "Ang aking trabaho ay isang guro.",
+                "MY": "ကျွန်တော့် အလုပ်အကိုင်က ကျောင်းဆရာမပါ။",
+                "HI": "मेरा पेशा शिक्षक है।",
+                "AR": "مهنتي هي المعلم.",
+                "FA": "شغل من معلمی است."
+            }
+        },
+        {
+            "kanji": "彼は新しい職業を選びました。",
+            "furigana": "彼(かれ)は新(あたら)しい職業(しょくぎょう)を選(えら)びました。",
+            "translations": {
+                "EN": "He chose a new profession.",
+                "ID": "Dia memilih profesi baru.",
+                "ES": "Eligió una nueva profesión.",
+                "VI": "Anh ấy đã chọn một nghề mới.",
+                "FR": "Il a choisi une nouvelle profession.",
+                "NE": "उनले नयाँ पेशा रोजे।",
+                "BN": "সে একটি নতুন পেশা বেছে নিল।",
+                "ZH": "他选择了一份新的职业。",
+                "KO": "그는 새로운 직업을 선택했습니다.",
+                "TL": "Pumili siya ng bagong propesyon.",
+                "MY": "အသက်မွေးဝမ်းကြောင်းအသစ်ကို ရွေးချယ်ခဲ့သည်။",
+                "HI": "उन्होंने एक नया पेशा चुना.",
+                "AR": "اختار مهنة جديدة.",
+                "FA": "او حرفه جدیدی را انتخاب کرد."
+            }
+        },
+        {
+            "kanji": "母の職業は看護師です。",
+            "furigana": "母(はは)の職業(しょくぎょう)は看(かん)護(ご)師(し)です。",
+            "translations": {
+                "EN": "My mother's occupation is a nurse.",
+                "ID": "Pekerjaan ibu saya adalah seorang perawat.",
+                "ES": "Mi madre es enfermera.",
+                "VI": "Nghề nghiệp của mẹ tôi là y tá.",
+                "FR": "Ma mère est infirmière.",
+                "NE": "मेरी आमाको पेशा नर्स हो।",
+                "BN": "আমার মায়ের পেশা একজন নার্স।",
+                "ZH": "我母亲的职业是护士。",
+                "KO": "어머니의 직업은 간호사입니다.",
+                "TL": "Ang trabaho ng nanay ko ay isang nurse.",
+                "MY": "အမေရဲ့ အလုပ်အကိုင်က သူနာပြုဆရာမပါ။",
+                "HI": "मेरी माँ का पेशा नर्स है।",
+                "AR": "مهنة والدتي هي ممرضة.",
+                "FA": "شغل مادرم پرستاری است."
+            }
+        },
+        {
+            "kanji": "その職業はとても人気があります。",
+            "furigana": "その職業(しょくぎょう)はとても人気(にんき)があります。",
+            "translations": {
+                "EN": "The profession is very popular.",
+                "ID": "Profesi ini sangat populer.",
+                "ES": "La profesión es muy popular.",
+                "VI": "Nghề này rất được ưa chuộng.",
+                "FR": "Ce métier est très populaire.",
+                "NE": "यो पेशा धेरै लोकप्रिय छ।",
+                "BN": "এই পেশাটি খুবই জনপ্রিয়।",
+                "ZH": "这个职业非常热门。",
+                "KO": "그 직업은 매우 인기가 있습니다.",
+                "TL": "Ang propesyon ay napakapopular.",
+                "MY": "အသက်မွေးဝမ်းကြောင်းလုပ်ငန်းသည် အလွန်ရေပန်းစားသည်။",
+                "HI": "यह पेशा बहुत लोकप्रिय है।",
+                "AR": "المهنة تحظى بشعبية كبيرة.",
+                "FA": "این حرفه بسیار محبوب است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "pekerjaan",
+            "ES": "ocupación",
+            "VI": "nghề nghiệp",
+            "FR": "profession",
+            "NE": "पेशा",
+            "BN": "পেশা",
+            "ZH": "职业",
+            "KO": "직업",
+            "TL": "hanapbuhay",
+            "MY": "အလုပ်အကိုင်",
+            "HI": "पेशा",
+            "AR": "إشغال",
+            "FA": "شغل",
+            "EN": [
+                "occupation",
+                "job",
+                "work",
+                "employment",
+                "career"
+            ]
+        },
+        {
+            "ID": "profesi",
+            "ES": "profesión",
+            "VI": "nghề nghiệp",
+            "FR": "profession",
+            "NE": "पेशा",
+            "BN": "পেশা",
+            "ZH": "职业",
+            "KO": "직업",
+            "TL": "propesyon",
+            "MY": "အသက်မွေးဝမ်းကျောင်း",
+            "HI": "पेशा",
+            "AR": "مهنة",
+            "FA": "حرفه",
+            "EN": [
+                "profession",
+                "trade",
+                "vocation",
+                "line"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "職業",
+        "is_common": true,
+        "tags": [
+            "wanikani23"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "職業",
+                "reading": "しょくぎょう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "occupation",
+                    "profession",
+                    "job",
+                    "vocation",
+                    "trade",
+                    "calling",
+                    "business"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Job (role)"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Job (role)” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Job_(role)?oldid=493320491"
+                    },
+                    {
+                        "text": "Read “職業” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/職業?oldid=42532757"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Job_(role)"
+        }
+    },
+    "kanji_list": [
+        "職",
+        "業"
+    ],
+    "kanji_data": {
+        "職": {
+            "freq_mainichi_shinbun": 305,
+            "grade": 5,
+            "heisig_en": "post",
+            "jlpt": 3,
+            "kanji": "職",
+            "kun_readings": [],
+            "meanings": [
+                "employment",
+                "post",
+                "work"
+            ],
+            "name_readings": [
+                "もと"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ショク",
+                "ソク"
+            ],
+            "stroke_count": 18,
+            "unicode": "8077"
+        },
+        "業": {
+            "freq_mainichi_shinbun": 43,
+            "grade": 3,
+            "heisig_en": "business/profession",
+            "jlpt": 4,
+            "kanji": "業",
+            "kun_readings": [
+                "わざ"
+            ],
+            "meanings": [
+                "arts",
+                "business",
+                "performance",
+                "vocation"
+            ],
+            "name_readings": [
+                "なり",
+                "のぶ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ギョウ",
+                "ゴウ"
+            ],
+            "stroke_count": 13,
+            "unicode": "696D"
+        }
+    }
+}

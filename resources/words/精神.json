@@ -1,0 +1,580 @@
+{
+    "version": "0.3.0",
+    "word": "精神",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/oe4ySpFs5P4",
+    "in_db": true,
+    "kanji": "精神",
+    "reading": "せいしん",
+    "introduction_japanese": "精神。スポーツの試合や医療の話でよく出ます。人の内面について話すときに使います。",
+    "introduction_english": "せいしん. You hear it in sports and in medical topics. It appears when we talk about a person’s inner side.",
+    "meanings": [
+        [
+            "mind",
+            "psyche",
+            "mentality"
+        ],
+        [
+            "spirit",
+            "willpower",
+            "morale"
+        ],
+        [
+            "ethos",
+            "principle",
+            "ideal"
+        ]
+    ],
+    "meaning_explanation_japanese": "心のはたらきや気持ちの力、やる気の強さを指します。さらに、社会や考え方の中心にある理念を表すこともあります。",
+    "meaning_explanation_english": "It is used as a noun. せいしん means the mind or inner will, and it can also mean the guiding ethos or ideals behind actions.",
+    "youtube_description": "Learn the meaning, nuance, and everyday uses of 精神 (せいしん). Clear examples for beginners, plus common collocations and easy sentences!",
+    "kanji_details": [
+        {
+            "kanji": "精",
+            "onyomi": [
+                "セイ",
+                "ショウ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "refined",
+                "essence",
+                "pure"
+            ],
+            "common_words": [
+                "精度（せいど）：precision",
+                "精算（せいさん）：fare adjustment; settlement"
+            ]
+        },
+        {
+            "kanji": "神",
+            "onyomi": [
+                "シン",
+                "ジン"
+            ],
+            "kunyomi": [
+                "かみ"
+            ],
+            "meanings_english": [
+                "god",
+                "deity",
+                "divine"
+            ],
+            "common_words": [
+                "神社（じんじゃ）：Shinto shrine",
+                "神様（かみさま）：deity; god"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means refined or pure essence. It suggests polishing and precision. Think of words like せいど and せいさん. They show careful measuring and neat settling.\nThe second kanji means god or divine. It points to what is sacred or beyond the physical. Words like じんじゃ and かみさま remind us of respect and awe. It adds a sense of the unseen inner world.",
+    "synonyms": [
+        "心 : こころ : mind; spirit",
+        "気力 : きりょく : willpower; energy"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are こころ and きりょく. こころ is broader and includes feelings and emotions. きりょく focuses on energy and drive. せいしん overlaps with both but also covers ideals or ethos in some contexts.",
+    "antonyms": [
+        "肉体 : にくたい : body"
+    ],
+    "antonym_explanation": "The most common antonym of the word is にくたい, which points to the physical body. せいしん is about the mind, will, and inner aspect, not the physical side.",
+    "collocations": [
+        {
+            "kanji": "強い精神",
+            "furigana": "強(つよ)い精神(せいしん)",
+            "translations": {
+                "EN": "strong spirit",
+                "ID": "semangat yang kuat",
+                "ES": "espíritu fuerte",
+                "VI": "tinh thần mạnh mẽ",
+                "FR": "esprit fort",
+                "NE": "बलियो मनोबल",
+                "BN": "দৃঢ় মনোবল",
+                "ZH": "坚强的精神",
+                "KO": "강한 정신",
+                "TL": "malakas na espiritu",
+                "MY": "ခိုင်မာသောစိတ်ဓာတ်",
+                "HI": "मजबूत आत्मा",
+                "AR": "روح قوية",
+                "FA": "روحیه قوی"
+            }
+        },
+        {
+            "kanji": "健全な精神",
+            "furigana": "健全(けんぜん)な精神(せいしん)",
+            "translations": {
+                "EN": "Healthy Mind",
+                "ID": "Pikiran Sehat",
+                "ES": "Mente sana",
+                "VI": "Tâm trí khỏe mạnh",
+                "FR": "Un esprit sain",
+                "NE": "स्वस्थ मन",
+                "BN": "সুস্থ মন",
+                "ZH": "健康的心灵",
+                "KO": "건강한 정신",
+                "TL": "Malusog na Isip",
+                "MY": "ကျန်းမာသောစိတ်",
+                "HI": "स्वस्थ मन",
+                "AR": "العقل السليم",
+                "FA": "ذهن سالم"
+            }
+        },
+        {
+            "kanji": "日本の精神",
+            "furigana": "日本(にほん)の精神(せいしん)",
+            "translations": {
+                "EN": "Japanese Spirit",
+                "ID": "Semangat Jepang",
+                "ES": "Espíritu japonés",
+                "VI": "Tinh thần Nhật Bản",
+                "FR": "Esprit japonais",
+                "NE": "जापानी आत्मा",
+                "BN": "জাপানি স্পিরিট",
+                "ZH": "日本精神",
+                "KO": "일본의 정신",
+                "TL": "Diwang Hapones",
+                "MY": "ဂျပန်ဝိညာဉ်",
+                "HI": "जापानी आत्मा",
+                "AR": "الروح اليابانية",
+                "FA": "روحیه ژاپنی"
+            }
+        },
+        {
+            "kanji": "精神の自由",
+            "furigana": "精神(せいしん)の自由(じゆう)",
+            "translations": {
+                "EN": "Freedom of the mind",
+                "ID": "Kebebasan pikiran",
+                "ES": "Libertad de la mente",
+                "VI": "Tự do của tâm trí",
+                "FR": "Liberté de l'esprit",
+                "NE": "मनको स्वतन्त्रता",
+                "BN": "মনের স্বাধীনতা",
+                "ZH": "思想自由",
+                "KO": "정신의 자유",
+                "TL": "Kalayaan ng isip",
+                "MY": "စိတ်၏လွတ်လပ်မှု",
+                "HI": "मन की स्वतंत्रता",
+                "AR": "حرية العقل",
+                "FA": "آزادی ذهن"
+            }
+        },
+        {
+            "kanji": "精神と身体",
+            "furigana": "精神(せいしん)と身体(しんたい)",
+            "translations": {
+                "EN": "Mind and body",
+                "ID": "Pikiran dan tubuh",
+                "ES": "Mente y cuerpo",
+                "VI": "Tâm trí và cơ thể",
+                "FR": "Esprit et corps",
+                "NE": "मन र शरीर",
+                "BN": "মন এবং শরীর",
+                "ZH": "身心",
+                "KO": "정신과 신체",
+                "TL": "Isip at katawan",
+                "MY": "စိတ်နှင့်ကိုယ်",
+                "HI": "मन और शरीर",
+                "AR": "العقل والجسد",
+                "FA": "ذهن و بدن"
+            }
+        },
+        {
+            "kanji": "民主主義の精神",
+            "furigana": "民主主義(みんしゅしゅぎ)の精神(せいしん)",
+            "translations": {
+                "EN": "The spirit of democracy",
+                "ID": "Semangat demokrasi",
+                "ES": "El espíritu de la democracia",
+                "VI": "Tinh thần dân chủ",
+                "FR": "L'esprit de la démocratie",
+                "NE": "लोकतन्त्रको आत्मा",
+                "BN": "গণতন্ত্রের চেতনা",
+                "ZH": "民主精神",
+                "KO": "민주주의의 정신",
+                "TL": "Ang diwa ng demokrasya",
+                "MY": "ဒီမိုကရေစီစိတ်ဓာတ်",
+                "HI": "लोकतंत्र की भावना",
+                "AR": "روح الديمقراطية",
+                "FA": "روح دموکراسی"
+            }
+        },
+        {
+            "kanji": "精神を鍛える",
+            "furigana": "精神(せいしん)を鍛(きた)える",
+            "translations": {
+                "EN": "Train your mind",
+                "ID": "Latih pikiran Anda",
+                "ES": "Entrena tu mente",
+                "VI": "Rèn luyện trí óc của bạn",
+                "FR": "Entraînez votre esprit",
+                "NE": "आफ्नो दिमागलाई तालिम दिनुहोस्",
+                "BN": "তোমার মনকে প্রশিক্ষণ দাও",
+                "ZH": "训练你的思维",
+                "KO": "정신을 단련하다",
+                "TL": "Sanayin ang iyong isip",
+                "MY": "သင့်စိတ်ကို လေ့ကျင့်ပါ။",
+                "HI": "अपने मन को प्रशिक्षित करें",
+                "AR": "درب عقلك",
+                "FA": "ذهن خود را آموزش دهید"
+            }
+        },
+        {
+            "kanji": "精神を保つ",
+            "furigana": "精神(せいしん)を保(たも)つ{",
+            "translations": {
+                "EN": "Keeping your spirits up",
+                "ID": "Menjaga semangat Anda",
+                "ES": "Mantén el ánimo alto.",
+                "VI": "Giữ tinh thần của bạn lên cao",
+                "FR": "Gardez le moral",
+                "NE": "आफ्नो मनोबल बढाइराख्नुहोस्",
+                "BN": "আপনার মনোবল চাঙ্গা রাখা",
+                "ZH": "保持乐观",
+                "KO": "정신을 유지하다",
+                "TL": "Panatilihin ang iyong espiritu",
+                "MY": "မင်းရဲ့ စိတ်ဓာတ်ကို ထိန်းထားပါ။",
+                "HI": "अपना उत्साह बनाए रखें",
+                "AR": "الحفاظ على معنوياتك مرتفعة",
+                "FA": "حفظ روحیه"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私は精神が強いです。",
+            "furigana": "私(わたし)は精神(せいしん)が強(つよ)いです。",
+            "translations": {
+                "EN": "I am mentally strong.",
+                "ID": "Saya kuat secara mental.",
+                "ES": "Soy mentalmente fuerte.",
+                "VI": "Tôi có tinh thần mạnh mẽ.",
+                "FR": "Je suis mentalement fort.",
+                "NE": "म मानसिक रूपमा बलियो छु।",
+                "BN": "আমি মানসিকভাবে শক্তিশালী।",
+                "ZH": "我心理素质很强。",
+                "KO": "나는 정신이 강하다.",
+                "TL": "Malakas ako sa pag-iisip.",
+                "MY": "ငါက စိတ်ဓာတ်ကြံ့ခိုင်တယ်။",
+                "HI": "मैं मानसिक रूप से मजबूत हूं।",
+                "AR": "أنا قوية عقليا.",
+                "FA": "من از نظر ذهنی قوی هستم."
+            }
+        },
+        {
+            "kanji": "今は精神を休めたいです。",
+            "furigana": "今(いま)は精神(せいしん)を休(やす)めたいです。",
+            "translations": {
+                "EN": "Now I want to rest my mind.",
+                "ID": "Sekarang aku ingin mengistirahatkan pikiranku.",
+                "ES": "Ahora quiero descansar mi mente.",
+                "VI": "Bây giờ tôi muốn nghỉ ngơi.",
+                "FR": "Maintenant, j'ai besoin de reposer mon esprit.",
+                "NE": "अब म मेरो मनलाई आराम दिन चाहन्छु।",
+                "BN": "এখন আমি আমার মনকে বিশ্রাম দিতে চাই।",
+                "ZH": "现在我想让大脑休息一下。",
+                "KO": "지금은 정신을 쉬고 싶습니다.",
+                "TL": "Ngayon gusto kong ipahinga ang isip ko.",
+                "MY": "အခု ကျွန်တော် စိတ်တွေ ငြိမ်ချင်နေပြီ။",
+                "HI": "अब मैं अपने मन को आराम देना चाहता हूं।",
+                "AR": "الآن أريد أن أريح ذهني.",
+                "FA": "حالا می‌خواهم به ذهنم استراحت بدهم."
+            }
+        },
+        {
+            "kanji": "チームは精神を一つにして戦いました。",
+            "furigana": "チームは精神(せいしん)を一(ひと)つにして戦(たたか)いました。",
+            "translations": {
+                "EN": "The team fought with one spirit.",
+                "ID": "Tim berjuang dengan satu semangat.",
+                "ES": "El equipo luchó con un solo espíritu.",
+                "VI": "Toàn đội đã chiến đấu với tinh thần đồng lòng.",
+                "FR": "L'équipe a combattu dans un même esprit.",
+                "NE": "टोलीले एकताबद्ध भएर लड्यो।",
+                "BN": "দলটি এক মনোবল নিয়ে লড়াই করেছিল।",
+                "ZH": "队员们团结一心，奋力拼搏。",
+                "KO": "팀은 정신을 하나로 싸웠다.",
+                "TL": "Ang koponan ay lumaban sa isang espiritu.",
+                "MY": "အသင်းက စိတ်ဓာတ်တစ်ခုတည်းနဲ့ တိုက်ခိုက်တယ်။",
+                "HI": "टीम ने एक जज्बे के साथ मुकाबला किया।",
+                "AR": "لقد حارب الفريق بروح واحدة.",
+                "FA": "تیم با یک روحیه جنگید."
+            }
+        },
+        {
+            "kanji": "彼は毎朝、深呼吸をして精神を落ち着かせます。",
+            "furigana": "彼(かれ)は毎朝(まいあさ)、深呼吸(しんこきゅう)をして精神(せいしん)を落(お)ち着(つ)かせます。",
+            "translations": {
+                "EN": "Every morning, he takes a deep breath to calm his mind.",
+                "ID": "Setiap pagi, dia menarik napas dalam-dalam untuk menenangkan pikirannya.",
+                "ES": "Todas las mañanas, respira hondo para calmar su mente.",
+                "VI": "Mỗi buổi sáng, anh ấy hít thở thật sâu để bình tĩnh lại.",
+                "FR": "Chaque matin, il prend une grande inspiration pour calmer son esprit.",
+                "NE": "हरेक बिहान, उनी आफ्नो मन शान्त पार्न गहिरो सास लिन्छन्।",
+                "BN": "প্রতিদিন সকালে, সে তার মনকে শান্ত করার জন্য গভীর শ্বাস নেয়।",
+                "ZH": "每天早上，他都会深呼吸一次，让自己平静下来。",
+                "KO": "그는 매일 아침 심호흡을 하여 정신을 진정시킨다.",
+                "TL": "Tuwing umaga, humihinga siya ng malalim para pakalmahin ang kanyang isipan.",
+                "MY": "မနက်တိုင်း သူ့စိတ်ကို တည်ငြိမ်အောင် အသက်ပြင်းပြင်းရှူပါ။",
+                "HI": "हर सुबह वह अपने मन को शांत करने के लिए गहरी साँस लेता है।",
+                "AR": "كل صباح يأخذ نفسا عميقا لتهدئة عقله.",
+                "FA": "هر روز صبح، او نفس عمیقی می‌کشد تا ذهنش را آرام کند."
+            }
+        },
+        {
+            "kanji": "その映画は精神にいい影響でした。",
+            "furigana": "その映画(えいが)は精神(せいしん)にいい影響(えいきょう)でした。},{",
+            "translations": {
+                "EN": "The movie had a positive effect on my mind.",
+                "ID": "Film itu memberi efek positif pada pikiranku.",
+                "ES": "La película tuvo un efecto positivo en mi mente.",
+                "VI": "Bộ phim có tác động tích cực tới tâm trí tôi.",
+                "FR": "Le film a eu un effet positif sur mon esprit.",
+                "NE": "चलचित्रले मेरो दिमागमा सकारात्मक प्रभाव पारेको थियो।",
+                "BN": "সিনেমাটি আমার মনে ইতিবাচক প্রভাব ফেলেছিল।",
+                "ZH": "这部电影对我的心理产生了积极的影响。",
+                "KO": "그 영화는 정신에 좋은 영향이었다.",
+                "TL": "Ang pelikula ay may positibong epekto sa aking isip.",
+                "MY": "ဒီဇာတ်ကားက ကျွန်တော့်စိတ်အပေါ် ကောင်းမွန်တဲ့ အကျိုးသက်ရောက်မှုတွေ ရှိခဲ့ပါတယ်။",
+                "HI": "फिल्म का मेरे मन पर सकारात्मक प्रभाव पड़ा।",
+                "AR": "لقد كان للفيلم تأثير إيجابي على عقلي.",
+                "FA": "فیلم تأثیر مثبتی روی ذهن من گذاشت."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "pikiran",
+            "ES": "mente",
+            "VI": "tâm trí",
+            "FR": "esprit",
+            "NE": "मन",
+            "BN": "মন",
+            "ZH": "头脑",
+            "KO": "정신",
+            "TL": "isip",
+            "MY": "စိတ်",
+            "HI": "दिमाग",
+            "AR": "عقل",
+            "FA": "ذهن",
+            "EN": [
+                "mind",
+                "psyche",
+                "mentality"
+            ]
+        },
+        {
+            "ID": "roh",
+            "ES": "espíritu",
+            "VI": "tinh thần",
+            "FR": "esprit",
+            "NE": "आत्मा",
+            "BN": "আত্মা",
+            "ZH": "精神",
+            "KO": "영혼",
+            "TL": "espiritu",
+            "MY": "စိတ်ဝိညာဉ်",
+            "HI": "आत्मा",
+            "AR": "روح",
+            "FA": "روح",
+            "EN": [
+                "spirit",
+                "willpower",
+                "morale"
+            ]
+        },
+        {
+            "ID": "jiwa khas suatu bangsa",
+            "ES": "carácter distintivo",
+            "VI": "tính cách",
+            "FR": "ethos",
+            "NE": "लोकाचार",
+            "BN": "নীতি",
+            "ZH": "精神气质",
+            "KO": "기풍",
+            "TL": "etos",
+            "MY": "ကျင့်ဝတ်များ",
+            "HI": "प्रकृति",
+            "AR": "الأخلاق",
+            "FA": "اخلاق",
+            "EN": [
+                "ethos",
+                "principle",
+                "ideal"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "精神",
+        "is_common": true,
+        "tags": [
+            "wanikani28"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "精神",
+                "reading": "せいしん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "mind",
+                    "spirit",
+                    "soul",
+                    "heart",
+                    "ethos"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "attitude",
+                    "mentality",
+                    "will",
+                    "intention"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "spirit (of a matter)",
+                    "essence",
+                    "fundamental significance"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Spirit"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Spirit” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Spirit?oldid=493374366"
+                    },
+                    {
+                        "text": "Read “精神” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/精神?oldid=42695563"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Spirit"
+        }
+    },
+    "kanji_list": [
+        "精",
+        "神"
+    ],
+    "kanji_data": {
+        "精": {
+            "freq_mainichi_shinbun": 752,
+            "grade": 5,
+            "heisig_en": "refined",
+            "jlpt": 3,
+            "kanji": "精",
+            "kun_readings": [
+                "くわ.しい",
+                "しら.げる"
+            ],
+            "meanings": [
+                "energy",
+                "excellence",
+                "fairy",
+                "ghost",
+                "purity",
+                "refined",
+                "semen",
+                "skill",
+                "vitality"
+            ],
+            "name_readings": [
+                "きよ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ショウ",
+                "セイ"
+            ],
+            "stroke_count": 14,
+            "unicode": "7CBE"
+        },
+        "神": {
+            "freq_mainichi_shinbun": 347,
+            "grade": 3,
+            "heisig_en": "gods",
+            "jlpt": 3,
+            "kanji": "神",
+            "kun_readings": [
+                "かみ",
+                "かん-",
+                "こう-"
+            ],
+            "meanings": [
+                "gods",
+                "mind",
+                "soul"
+            ],
+            "name_readings": [
+                "か",
+                "かぐ",
+                "かな",
+                "かも",
+                "くま",
+                "こ",
+                "こは",
+                "だま",
+                "み"
+            ],
+            "notes": [],
+            "on_readings": [
+                "シン",
+                "ジン"
+            ],
+            "stroke_count": 9,
+            "unicode": "795E"
+        }
+    }
+}

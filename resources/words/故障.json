@@ -1,0 +1,561 @@
+{
+    "version": "0.3.0",
+    "word": "故障",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/P9J2VRxJ2fs",
+    "in_db": true,
+    "kanji": "故障",
+    "reading": "こしょう",
+    "introduction_japanese": "故障。電気製品や車、エレベーターなどが動かなくなったときに使います。",
+    "introduction_english": "こしょう. We use this when machines like appliances, cars, or elevators stop working.",
+    "meanings": [
+        [
+            "breakdown",
+            "malfunction",
+            "failure",
+            "outage"
+        ],
+        [
+            "damage",
+            "defect",
+            "trouble"
+        ]
+    ],
+    "meaning_explanation_japanese": "機械やシステムがうまく動かない状態、つまりこわれて正常に動作しないことを表します。動きが止まったり、エラーが出たりする場面で使います。",
+    "meaning_explanation_english": "It is a noun that also works as a suru-verb. こしょう talks about a machine or system not working properly, like a breakdown, malfunction, or defect.",
+    "youtube_description": "Learn こしょう (故障): what it means, when to use it, and natural examples from everyday life like trains, elevators, and gadgets. Quick tips, clear visuals, and simple practice!",
+    "kanji_details": [
+        {
+            "kanji": "故",
+            "onyomi": [
+                "コ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "cause",
+                "reason",
+                "old"
+            ],
+            "common_words": [
+                "事故（じこ）：accident",
+                "故郷（こきょう）：hometown"
+            ]
+        },
+        {
+            "kanji": "障",
+            "onyomi": [
+                "ショウ"
+            ],
+            "kunyomi": [
+                "さわ-る"
+            ],
+            "meanings_english": [
+                "hinder",
+                "obstruct",
+                "barrier"
+            ],
+            "common_words": [
+                "障害（しょうがい）：obstacle; impairment",
+                "支障（ししょう）：hindrance"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means cause, reason, and old. It shows up in じこ and こきょう. Think of a cause that leads to trouble, or something rooted in the past. That idea connects to why problems start. The second kanji means to block or hinder. You see it in しょうがい and ししょう. It suggests a barrier that stops smooth movement. Together they point to something not running because it is being blocked.",
+    "synonyms": [
+        "不具合 : ふぐあい : malfunction; glitch",
+        "破損 : はそん : damage; breakage"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ふぐあい and はそん. ふぐあい is a functional glitch or mismatch, often small. はそん is physical damage. こしょう focuses on not working or stopping operation.",
+    "antonyms": [
+        "正常 : せいじょう : normal operation"
+    ],
+    "antonym_explanation": "The most common antonym of the word is せいじょう, which means things work normally without problems, the opposite of stopping or failing.",
+    "collocations": [
+        {
+            "kanji": "エレベーターの故障",
+            "furigana": "エレベーターの故障(こしょう)",
+            "translations": {
+                "EN": "Elevator malfunction",
+                "ID": "Kerusakan lift",
+                "ES": "Fallo del ascensor",
+                "VI": "Sự cố thang máy",
+                "FR": "Dysfonctionnement de l'ascenseur",
+                "NE": "लिफ्टमा खराबी",
+                "BN": "লিফটের ত্রুটি",
+                "ZH": "电梯故障",
+                "KO": "엘리베이터 고장",
+                "TL": "Malfunction ng elevator",
+                "MY": "ဓာတ်လှေကား ချွတ်ယွင်း",
+                "HI": "लिफ्ट की खराबी",
+                "AR": "عطل في المصعد",
+                "FA": "نقص آسانسور"
+            }
+        },
+        {
+            "kanji": "突然の故障",
+            "furigana": "突然(とつぜん)の故障(こしょう)",
+            "translations": {
+                "EN": "Sudden breakdown",
+                "ID": "Kerusakan tiba-tiba",
+                "ES": "Apagón repentino",
+                "VI": "Sự cố đột ngột",
+                "FR": "Panne soudaine",
+                "NE": "अचानक ब्रेकडाउन",
+                "BN": "হঠাৎ ভাঙ্গন",
+                "ZH": "突然崩溃",
+                "KO": "갑작스런 고장",
+                "TL": "Biglang pagkasira",
+                "MY": "ရုတ်တရက် ပြိုကွဲသွားတယ်။",
+                "HI": "अचानक टूटना",
+                "AR": "انهيار مفاجئ",
+                "FA": "خرابی ناگهانی"
+            }
+        },
+        {
+            "kanji": "機器の故障",
+            "furigana": "機器(きき)の故障(こしょう)",
+            "translations": {
+                "EN": "Equipment failure",
+                "ID": "Kegagalan peralatan",
+                "ES": "Fallo del equipo",
+                "VI": "Lỗi thiết bị",
+                "FR": "panne d'équipement",
+                "NE": "उपकरण विफलता",
+                "BN": "সরঞ্জাম ব্যর্থতা",
+                "ZH": "设备故障",
+                "KO": "장비 고장",
+                "TL": "Kabiguan ng kagamitan",
+                "MY": "စက်ပစ္စည်းချို့ယွင်းခြင်း။",
+                "HI": "उपकरण विफलता",
+                "AR": "فشل المعدات",
+                "FA": "خرابی تجهیزات"
+            }
+        },
+        {
+            "kanji": "故障中のエレベーター",
+            "furigana": "故障中(こしょうちゅう)のエレベーター",
+            "translations": {
+                "EN": "A malfunctioning elevator",
+                "ID": "Lift rusak",
+                "ES": "Un ascensor averiado",
+                "VI": "Một thang máy bị trục trặc",
+                "FR": "Un ascenseur en panne",
+                "NE": "बिग्रिएको लिफ्ट",
+                "BN": "ভাঙা লিফট।",
+                "ZH": "一部坏掉的电梯",
+                "KO": "고장 중 엘리베이터",
+                "TL": "Sirang elevator",
+                "MY": "ဓာတ်လှေကားပျက်",
+                "HI": "एक टूटी हुई लिफ्ट",
+                "AR": "مصعد معطل",
+                "FA": "آسانسور خراب"
+            }
+        },
+        {
+            "kanji": "ネットワークの故障",
+            "furigana": "ネットワークの故障(こしょう)",
+            "translations": {
+                "EN": "Network failure",
+                "ID": "Kegagalan jaringan",
+                "ES": "Fallo de red",
+                "VI": "Lỗi mạng",
+                "FR": "panne de réseau",
+                "NE": "नेटवर्क विफलता",
+                "BN": "নেটওয়ার্ক ব্যর্থতা",
+                "ZH": "网络故障",
+                "KO": "네트워크 고장",
+                "TL": "Pagkabigo sa network",
+                "MY": "ကွန်ရက်ပျက်ကွက်",
+                "HI": "नेटवर्क विफलता",
+                "AR": "فشل الشبكة",
+                "FA": "خرابی شبکه"
+            }
+        },
+        {
+            "kanji": "故障が発生する",
+            "furigana": "故障(こしょう)が発生(はっせい)する",
+            "translations": {
+                "EN": "A malfunction occurs",
+                "ID": "Terjadi malfungsi",
+                "ES": "Se produce un mal funcionamiento",
+                "VI": "Xảy ra sự cố",
+                "FR": "Un dysfonctionnement se produit",
+                "NE": "खराबी हुन्छ",
+                "BN": "একটি ত্রুটি দেখা দেয়",
+                "ZH": "发生故障",
+                "KO": "고장 발생",
+                "TL": "Nangyayari ang isang malfunction",
+                "MY": "ချို့ယွင်းချက်တစ်ခု ဖြစ်ပေါ်သည်။",
+                "HI": "कोई खराबी आती है",
+                "AR": "يحدث عطل",
+                "FA": "نقص فنی رخ می‌دهد"
+            }
+        },
+        {
+            "kanji": "故障を直す",
+            "furigana": "故障(こしょう)を直(なお)す",
+            "translations": {
+                "EN": "Fix the malfunction",
+                "ID": "Memperbaiki kerusakan",
+                "ES": "Repara el fallo",
+                "VI": "Sửa lỗi",
+                "FR": "Réparer le dysfonctionnement",
+                "NE": "खराबी समाधान गर्नुहोस्",
+                "BN": "ত্রুটি ঠিক করুন",
+                "ZH": "修复故障",
+                "KO": "고장을 고치다",
+                "TL": "Ayusin ang malfunction",
+                "MY": "ချွတ်ယွင်းချက်ကိုပြင်ပါ။",
+                "HI": "खराबी को ठीक करें",
+                "AR": "إصلاح العطل",
+                "FA": "نقص را برطرف کنید"
+            }
+        },
+        {
+            "kanji": "故障で止まる",
+            "furigana": "故障(こしょう)で止(と)まる",
+            "translations": {
+                "EN": "Stops due to malfunction",
+                "ID": "Berhenti karena malfungsi",
+                "ES": "Se detiene debido a un mal funcionamiento",
+                "VI": "Dừng lại do trục trặc",
+                "FR": "Arrêt dû à un dysfonctionnement",
+                "NE": "खराबीका कारण रोकिन्छ",
+                "BN": "ত্রুটির কারণে বন্ধ হয়ে যায়",
+                "ZH": "因故障停止",
+                "KO": "고장으로 멈추다",
+                "TL": "Humihinto dahil sa malfunction",
+                "MY": "ချွတ်ယွင်းချက်ကြောင့် ရပ်နားသည်။",
+                "HI": "खराबी के कारण रुक जाता है",
+                "AR": "توقف بسبب عطل",
+                "FA": "به دلیل نقص فنی متوقف می‌شود"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "電車が故障で止まりました。",
+            "furigana": "電車(でんしゃ)が故障(こしょう)で止(と)まりました。",
+            "translations": {
+                "EN": "The train stopped due to a malfunction.",
+                "ID": "Kereta berhenti karena ada kerusakan.",
+                "ES": "El tren se detuvo debido a una avería.",
+                "VI": "Tàu dừng lại do trục trặc.",
+                "FR": "Le train s'est arrêté en raison d'un dysfonctionnement.",
+                "NE": "रेलमा खराबी आएर रोकियो।",
+                "BN": "কোনও ত্রুটির কারণে ট্রেনটি থেমে গেছে।",
+                "ZH": "列车因故障停了下来。",
+                "KO": "기차가 고장으로 멈췄습니다.",
+                "TL": "Huminto ang tren dahil sa aberya.",
+                "MY": "ချွတ်ယွင်းချက်ကြောင့် ရထား ရပ်တန့်သွားသည်။",
+                "HI": "खराबी के कारण ट्रेन रुक गई।",
+                "AR": "توقف القطار بسبب عطل.",
+                "FA": "قطار به دلیل نقص فنی متوقف شد."
+            }
+        },
+        {
+            "kanji": "このパソコンはよく故障します。",
+            "furigana": "このパソコンはよく故障(こしょう)します。",
+            "translations": {
+                "EN": "This computer often breaks down.",
+                "ID": "Komputer ini sering rusak.",
+                "ES": "Este ordenador se estropea con frecuencia.",
+                "VI": "Máy tính này thường xuyên bị hỏng.",
+                "FR": "Cet ordinateur tombe souvent en panne.",
+                "NE": "यो कम्प्युटर प्रायः बिग्रन्छ।",
+                "BN": "এই কম্পিউটারটি প্রায়ই নষ্ট হয়।",
+                "ZH": "这台电脑经常出故障。",
+                "KO": "이 PC는 잘 고장납니다.",
+                "TL": "Madalas masira ang computer na ito.",
+                "MY": "ဒီကွန်ပြူတာ မကြာခဏ ပျက်တတ်ပါတယ်။",
+                "HI": "यह कंप्यूटर अक्सर खराब हो जाता है।",
+                "AR": "هذا الكمبيوتر يتعطل في كثير من الأحيان.",
+                "FA": "این کامپیوتر اغلب خراب می‌شود."
+            }
+        },
+        {
+            "kanji": "エレベーターは故障中です。",
+            "furigana": "エレベーターは故障中(こしょうちゅう)です。",
+            "translations": {
+                "EN": "The elevator is out of order.",
+                "ID": "Liftnya rusak.",
+                "ES": "El ascensor está fuera de servicio.",
+                "VI": "Thang máy không hoạt động.",
+                "FR": "L'ascenseur est hors service.",
+                "NE": "लिफ्ट बिग्रिएको छ।",
+                "BN": "লিফটটি খারাপ।",
+                "ZH": "电梯坏了。",
+                "KO": "엘리베이터가 고장 중입니다.",
+                "TL": "Wala sa ayos ang elevator.",
+                "MY": "ဓာတ်လှေကားက ပျက်နေတယ်။",
+                "HI": "एलिवेटर ख़राब पड़ा है।",
+                "AR": "المصعد خارج الخدمة.",
+                "FA": "آسانسور از کار افتاده است."
+            }
+        },
+        {
+            "kanji": "すみません、トイレは故障中ですか？",
+            "furigana": "すみません、トイレは故障中(こしょうちゅう)ですか？",
+            "translations": {
+                "EN": "Excuse me, is the toilet out of order?",
+                "ID": "Permisi, apakah toiletnya sedang rusak?",
+                "ES": "Disculpe, ¿está averiado el inodoro?",
+                "VI": "Xin lỗi, nhà vệ sinh có bị hỏng không?",
+                "FR": "Excusez-moi, les toilettes sont-elles hors service ?",
+                "NE": "माफ गर्नुहोस्, शौचालय बिग्रिएको छ?",
+                "BN": "মাফ করবেন, টয়লেট কি খারাপ?",
+                "ZH": "请问，厕所坏了吗？",
+                "KO": "죄송합니다, 화장실 고장중입니까?",
+                "TL": "Excuse me, sira ba ang toilet?",
+                "MY": "ခွင့်လွှတ်ပါ၊ အိမ်သာက အဆင်မပြေဘူးလား။",
+                "HI": "क्षमा करें, क्या शौचालय खराब है?",
+                "AR": "عذرا هل المرحاض خارج الخدمة؟",
+                "FA": "ببخشید، سرویس بهداشتی خراب است؟"
+            }
+        },
+        {
+            "kanji": "彼はバイクの故障を直しました。",
+            "furigana": "彼(かれ)はバイクの故障(こしょう)を直(なお)しました。",
+            "translations": {
+                "EN": "He fixed the bike problem.",
+                "ID": "Dia memperbaiki masalah sepeda.",
+                "ES": "Solucionó el problema de la bicicleta.",
+                "VI": "Anh ấy đã sửa xong lỗi của xe đạp.",
+                "FR": "Il a réparé le problème du vélo.",
+                "NE": "उसले बाइकको समस्या समाधान गर्यो।",
+                "BN": "সে সাইকেলের সমস্যাটা ঠিক করে দিয়েছে।",
+                "ZH": "他修好了自行车的问题。",
+                "KO": "그는 오토바이 고장을 고쳤습니다.",
+                "TL": "Inayos niya ang problema sa bike.",
+                "MY": "သူက စက်ဘီးပြဿနာကို ဖြေရှင်းပေးတယ်။",
+                "HI": "उन्होंने बाइक की समस्या ठीक कर दी।",
+                "AR": "لقد أصلح مشكلة الدراجة.",
+                "FA": "مشکل دوچرخه رو حل کرد."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "perincian",
+            "ES": "descomponer",
+            "VI": "sự cố",
+            "FR": "panne",
+            "NE": "ब्रेकडाउन",
+            "BN": "ভাঙ্গন",
+            "ZH": "分解",
+            "KO": "고장",
+            "TL": "pagkasira",
+            "MY": "ပျက်သည်",
+            "HI": "टूट - फूट",
+            "AR": "انفصال",
+            "FA": "خرابی",
+            "EN": [
+                "breakdown",
+                "malfunction",
+                "failure",
+                "outage"
+            ]
+        },
+        {
+            "ID": "kerusakan",
+            "ES": "daño",
+            "VI": "hư hại",
+            "FR": "dommage",
+            "NE": "क्षति",
+            "BN": "ক্ষতি",
+            "ZH": "损害",
+            "KO": "손상",
+            "TL": "pinsala",
+            "MY": "ပျက်စီးခြင်း။",
+            "HI": "हानि",
+            "AR": "ضرر",
+            "FA": "آسیب",
+            "EN": [
+                "damage",
+                "defect",
+                "trouble"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "故障",
+        "is_common": true,
+        "tags": [
+            "wanikani26"
+        ],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "故障",
+                "reading": "こしょう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "fault",
+                    "trouble",
+                    "breakdown",
+                    "failure",
+                    "being out of order"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "damage (to a part of the body)",
+                    "injury",
+                    "hurt"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "problem",
+                    "hitch",
+                    "obstacle",
+                    "hindrance"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "objection",
+                    "protest"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Failure"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Failure” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Failure?oldid=480441010"
+                    },
+                    {
+                        "text": "Read “故障” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/故障?oldid=38267829"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Failure"
+        }
+    },
+    "kanji_list": [
+        "故",
+        "障"
+    ],
+    "kanji_data": {
+        "故": {
+            "freq_mainichi_shinbun": 612,
+            "grade": 5,
+            "heisig_en": "happenstance",
+            "jlpt": 1,
+            "kanji": "故",
+            "kun_readings": [
+                "ふる.い",
+                "もと",
+                "ゆえ"
+            ],
+            "meanings": [
+                "cause",
+                "circumstances",
+                "consequently",
+                "especially",
+                "happenstance",
+                "intentionally",
+                "reason",
+                "the late",
+                "therefore"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "コ"
+            ],
+            "stroke_count": 9,
+            "unicode": "6545"
+        },
+        "障": {
+            "freq_mainichi_shinbun": 742,
+            "grade": 6,
+            "heisig_en": "hinder",
+            "jlpt": 1,
+            "kanji": "障",
+            "kun_readings": [
+                "さわ.る"
+            ],
+            "meanings": [
+                "harm",
+                "hinder",
+                "hurt"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ショウ"
+            ],
+            "stroke_count": 14,
+            "unicode": "969C"
+        }
+    }
+}

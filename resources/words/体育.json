@@ -1,0 +1,508 @@
+{
+    "version": "0.3.0",
+    "word": "体育",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/ihMAKGAJAJY",
+    "in_db": true,
+    "kanji": "体育",
+    "reading": "たいいく",
+    "introduction_japanese": "体育。学校のじかんわりや、うんどうかいのはなしでよくつかうよ。",
+    "introduction_english": "たいいく. Used in school schedules and when talking about sports day or PE class.",
+    "meanings": [
+        [
+            "PE",
+            "gym"
+        ],
+        [
+            "training",
+            "sports",
+            "athletics"
+        ]
+    ],
+    "meaning_explanation_japanese": "からだをきたえる学習や、スポーツの分野のことをまとめて指す言い方だよ。学校のじゅぎょう名としてもつかわれるよ。",
+    "meaning_explanation_english": "It is used as a noun. たいいく means the school subject “PE” and, more broadly, the field of physical training and sports.",
+    "youtube_description": "Learn the Japanese word 体育 (たいいく): what it means, how to use it in daily talk and school contexts, plus easy examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "体",
+            "onyomi": [
+                "タイ"
+            ],
+            "kunyomi": [
+                "からだ"
+            ],
+            "meanings_english": [
+                "body",
+                "form"
+            ],
+            "common_words": [
+                "体（からだ）：body",
+                "体力（たいりょく）：physical strength"
+            ]
+        },
+        {
+            "kanji": "育",
+            "onyomi": [
+                "イク"
+            ],
+            "kunyomi": [
+                "そだ(つ)",
+                "そだ(てる)"
+            ],
+            "meanings_english": [
+                "raise",
+                "nurture",
+                "grow"
+            ],
+            "common_words": [
+                "教育（きょういく）：education",
+                "育つ（そだつ）：to grow up"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means body and form. You see it in からだ to talk about your body. It also appears in たいりょく for physical strength. Think of it as the base of all movement.\nThe second kanji means to raise and grow. It is in きょういく for education, where people are nurtured. It’s also in そだつ, meaning to grow up. So it adds the idea of training and development.",
+    "synonyms": [
+        "運動 : うんどう : exercise"
+    ],
+    "synonym_explanation": "The most common synonym of the word is うんどう. It overlaps when you mean doing physical activity, but たいいく is the school subject or the broader field, while うんどう is the action of exercising.",
+    "antonyms": [
+        "文系 : ぶんけい : humanities/arts"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ぶんけい. たいいく is about physical training and sports, while ぶんけい focuses on classroom-based cultural or literary studies.",
+    "collocations": [
+        {
+            "kanji": "学校の体育",
+            "furigana": "学校(がっこう)の体育(たいいく)",
+            "translations": {
+                "EN": "School P.E.",
+                "ID": "Sekolah P.E.",
+                "ES": "Educación física escolar",
+                "VI": "Thể dục ở trường",
+                "FR": "Éducation physique scolaire",
+                "NE": "स्कूल पी.ई.",
+                "BN": "স্কুল পি.ই.",
+                "ZH": "学校体育课",
+                "KO": "학교 체육",
+                "TL": "Paaralan P.E.",
+                "MY": "ကျောင်း P.E.",
+                "HI": "स्कूल पी.ई.",
+                "AR": "التربية البدنية في المدرسة",
+                "FA": "تربیت بدنی مدرسه"
+            }
+        },
+        {
+            "kanji": "体育の授業",
+            "furigana": "体育(たいいく)の授業(じゅぎょう)",
+            "translations": {
+                "EN": "Physical education class",
+                "ID": "Kelas pendidikan jasmani",
+                "ES": "clase de educación física",
+                "VI": "Lớp giáo dục thể chất",
+                "FR": "cours d'éducation physique",
+                "NE": "शारीरिक शिक्षा कक्षा",
+                "BN": "শারীরিক শিক্ষা ক্লাস",
+                "ZH": "体育课",
+                "KO": "체육 수업",
+                "TL": "Klase ng pisikal na edukasyon",
+                "MY": "ကာယပညာအတန်း",
+                "HI": "शारीरिक शिक्षा की कक्षा",
+                "AR": "حصة التربية البدنية",
+                "FA": "کلاس تربیت بدنی"
+            }
+        },
+        {
+            "kanji": "体育の時間",
+            "furigana": "体育(たいいく)の時間(じかん)",
+            "translations": {
+                "EN": "Physical education class",
+                "ID": "Kelas pendidikan jasmani",
+                "ES": "clase de educación física",
+                "VI": "Lớp giáo dục thể chất",
+                "FR": "cours d'éducation physique",
+                "NE": "शारीरिक शिक्षा कक्षा",
+                "BN": "শারীরিক শিক্ষা ক্লাস",
+                "ZH": "体育课",
+                "KO": "체육 시간",
+                "TL": "Klase ng pisikal na edukasyon",
+                "MY": "ကာယပညာအတန်း",
+                "HI": "शारीरिक शिक्षा की कक्षा",
+                "AR": "حصة التربية البدنية",
+                "FA": "کلاس تربیت بدنی"
+            }
+        },
+        {
+            "kanji": "体育館",
+            "furigana": "体育(たいいく)館(かん)",
+            "translations": {
+                "EN": "gym",
+                "ID": "tempat olahraga",
+                "ES": "gimnasia",
+                "VI": "phòng tập thể dục",
+                "FR": "salle de sport",
+                "NE": "जिम",
+                "BN": "জিম",
+                "ZH": "健身房",
+                "KO": "체육관",
+                "TL": "gym",
+                "MY": "အားကစားရုံ",
+                "HI": "जिम",
+                "AR": "نادي رياضي",
+                "FA": "باشگاه ورزشی"
+            }
+        },
+        {
+            "kanji": "体育大会に参加する",
+            "furigana": "体育(たいいく)大会(たいかい)に参加(さんか)する",
+            "translations": {
+                "EN": "Participate in the sports meet",
+                "ID": "Berpartisipasilah dalam pertemuan olahraga",
+                "ES": "Participa en la competición deportiva",
+                "VI": "Tham gia cuộc thi thể thao",
+                "FR": "Participez à la rencontre sportive",
+                "NE": "खेलकुद प्रतियोगितामा भाग लिनुहोस्",
+                "BN": "ক্রীড়া প্রতিযোগিতায় অংশগ্রহণ করুন",
+                "ZH": "参加运动会",
+                "KO": "체육대회에 참가",
+                "TL": "Makilahok sa sports meet",
+                "MY": "အားကစား ဆုံပွဲများတွင် ပါဝင်ခဲ့သည်။",
+                "HI": "खेल प्रतियोगिता में भाग लें",
+                "AR": "المشاركة في اللقاء الرياضي",
+                "FA": "شرکت در همایش ورزشی"
+            }
+        },
+        {
+            "kanji": "体育を受ける",
+            "furigana": "体育(たいいく)を受(う)ける",
+            "translations": {
+                "EN": "Take physical education",
+                "ID": "Ambil pendidikan jasmani",
+                "ES": "Tomar educación física",
+                "VI": "Học thể dục",
+                "FR": "Suivez des cours d'éducation physique",
+                "NE": "शारीरिक शिक्षा लिनुहोस्",
+                "BN": "শারীরিক শিক্ষা গ্রহণ করুন",
+                "ZH": "参加体育课",
+                "KO": "체육을 받다",
+                "TL": "Kumuha ng pisikal na edukasyon",
+                "MY": "ကာယပညာကိုသင်ယူပါ။",
+                "HI": "शारीरिक शिक्षा लें",
+                "AR": "خذ التربية البدنية",
+                "FA": "تربیت بدنی را بخوانید."
+            }
+        },
+        {
+            "kanji": "体育を教える",
+            "furigana": "体育(たいいく)を教(おし)える",
+            "translations": {
+                "EN": "Teaching physical education",
+                "ID": "Mengajar pendidikan jasmani",
+                "ES": "Enseñanza de la educación física",
+                "VI": "Giảng dạy giáo dục thể chất",
+                "FR": "Enseignement de l'éducation physique",
+                "NE": "शारीरिक शिक्षा पढाउने",
+                "BN": "শারীরিক শিক্ষা শেখানো",
+                "ZH": "体育教学",
+                "KO": "체육을 가르치다",
+                "TL": "Pagtuturo ng pisikal na edukasyon",
+                "MY": "ကာယပညာကို သင်ကြားပေးသည်။",
+                "HI": "शारीरिक शिक्षा पढ़ाना",
+                "AR": "تدريس التربية البدنية",
+                "FA": "تدریس تربیت بدنی"
+            }
+        },
+        {
+            "kanji": "体育で走る",
+            "furigana": "体育(たいいく)で走(はし)る",
+            "translations": {
+                "EN": "Running in P.E.",
+                "ID": "Berlari saat P.E.",
+                "ES": "Correr en clase de educación física.",
+                "VI": "Chạy bộ trong giờ thể dục",
+                "FR": "Courir en EPS",
+                "NE": "P.E. मा चलिरहेको छ।",
+                "BN": "পি.ই.-তে চলছে।",
+                "ZH": "体育课跑步",
+                "KO": "체육으로 달리다",
+                "TL": "Tumatakbo sa P.E.",
+                "MY": "ပီအီး၊",
+                "HI": "पी.ई. में दौड़ना",
+                "AR": "الركض في التربية البدنية",
+                "FA": "دویدن در P.E."
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "今日は体育があります。",
+            "furigana": "今日(きょう)は体育(たいいく)があり(あり)ます。",
+            "translations": {
+                "EN": "We have physical education today.",
+                "ID": "Hari ini, kita ada pendidikan jasmani.",
+                "ES": "Hoy tenemos educación física.",
+                "VI": "Hôm nay chúng ta có tiết giáo dục thể chất.",
+                "FR": "Aujourd'hui, nous avons cours d'éducation physique.",
+                "NE": "आज हामीसँग शारीरिक शिक्षा छ।",
+                "BN": "আজ আমাদের শারীরিক শিক্ষা আছে।",
+                "ZH": "今天有体育课。",
+                "KO": "오늘은 체육이 있습니다.",
+                "TL": "May physical education tayo ngayon.",
+                "MY": "ယနေ့ ကျွန်ုပ်တို့တွင် ကာယပညာရှိသည်။",
+                "HI": "आज हमारे पास शारीरिक शिक्षा है।",
+                "AR": "لدينا التربية البدنية اليوم.",
+                "FA": "امروز تربیت بدنی داریم."
+            }
+        },
+        {
+            "kanji": "体育の授業でなわとびをします。",
+            "furigana": "体育(たいいく)の授業(じゅぎょう)でなわとびをします。",
+            "translations": {
+                "EN": "We jump rope in gym class.",
+                "ID": "Kami lompat tali di kelas olahraga.",
+                "ES": "Saltamos a la cuerda en clase de gimnasia.",
+                "VI": "Chúng tôi nhảy dây trong giờ thể dục.",
+                "FR": "Nous sautons à la corde en cours d'EPS.",
+                "NE": "हामी जिम कक्षामा डोरी हाम फाल्छौं।",
+                "BN": "আমরা জিম ক্লাসে দড়ি লাফ দিই।",
+                "ZH": "体育课上我们跳绳。",
+                "KO": "체육 수업으로 나와 토비를합니다.",
+                "TL": "Jump rope kami sa gym class.",
+                "MY": "အားကစားခန်းမမှာ ကြိုးခုန်တယ်။",
+                "HI": "हम जिम क्लास में रस्सी कूदते हैं।",
+                "AR": "نحن نقفز بالحبل في حصة التربية البدنية.",
+                "FA": "ما در کلاس ورزش طناب می‌زنیم."
+            }
+        },
+        {
+            "kanji": "私は体育が好きです。",
+            "furigana": "私(わたし)は体育(たいいく)が好(す)きです。",
+            "translations": {
+                "EN": "I like physical education.",
+                "ID": "Saya suka pendidikan jasmani.",
+                "ES": "Me gusta la educación física.",
+                "VI": "Tôi thích môn giáo dục thể chất.",
+                "FR": "J'aime l'éducation physique.",
+                "NE": "मलाई शारीरिक शिक्षा मन पर्छ।",
+                "BN": "আমি শারীরিক শিক্ষা পছন্দ করি।",
+                "ZH": "我喜欢体育课。",
+                "KO": "나는 체육을 좋아한다.",
+                "TL": "Gusto ko ang pisikal na edukasyon.",
+                "MY": "ကာယပညာကို ကြိုက်တယ်။",
+                "HI": "मुझे शारीरिक शिक्षा पसंद है.",
+                "AR": "أنا أحب التربية البدنية.",
+                "FA": "من تربیت بدنی را دوست دارم."
+            }
+        },
+        {
+            "kanji": "兄は体育が苦手です。",
+            "furigana": "兄(あに)は体育(たいいく)が苦手(にがて)です。",
+            "translations": {
+                "EN": "My brother is not good at physical education.",
+                "ID": "Kakak laki-lakiku tidak pandai dalam pendidikan jasmani.",
+                "ES": "Mi hermano no es bueno en educación física.",
+                "VI": "Anh trai tôi không giỏi môn thể dục.",
+                "FR": "Mon frère n'est pas bon en éducation physique.",
+                "NE": "मेरो भाइ शारीरिक शिक्षामा राम्रो छैन।",
+                "BN": "আমার ভাই শারীরিক শিক্ষায় ভালো নয়।",
+                "ZH": "我弟弟体育不好。",
+                "KO": "형은 체육에 약하지 않습니다.",
+                "TL": "Hindi magaling sa physical education ang kapatid ko.",
+                "MY": "ငါ့အစ်ကိုက ကာယပညာ မတတ်ဘူး။",
+                "HI": "मेरा भाई शारीरिक शिक्षा में अच्छा नहीं है।",
+                "AR": "أخي ليس جيدًا في التربية البدنية.",
+                "FA": "برادرم در تربیت بدنی خوب نیست."
+            }
+        },
+        {
+            "kanji": "体育館でバドミントンをしました。",
+            "furigana": "体育(たいいく)館(かん)でバドミントンをしました。",
+            "translations": {
+                "EN": "We played badminton in the gym.",
+                "ID": "Kami bermain bulu tangkis di pusat kebugaran.",
+                "ES": "Jugamos al bádminton en el gimnasio.",
+                "VI": "Chúng tôi chơi cầu lông trong phòng tập thể dục.",
+                "FR": "Nous avons joué au badminton dans le gymnase.",
+                "NE": "हामी जिममा ब्याडमिन्टन खेल्थ्यौं।",
+                "BN": "আমরা জিমে ব্যাডমিন্টন খেলতাম।",
+                "ZH": "我们在体育馆里打了羽毛球。",
+                "KO": "체육관에서 배드민턴을 했습니다.",
+                "TL": "Naglaro kami ng badminton sa gym.",
+                "MY": "အားကစားခန်းမမှာ ကြက်တောင်ရိုက်တယ်။",
+                "HI": "हमने जिम में बैडमिंटन खेला।",
+                "AR": "لقد لعبنا تنس الريشة في صالة الألعاب الرياضية.",
+                "FA": "ما در سالن بدمینتون بازی کردیم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "PE",
+            "ES": "Educación física",
+            "VI": "Thể dục",
+            "FR": "PE",
+            "NE": "पीई",
+            "BN": "পিই",
+            "ZH": "公务员",
+            "KO": "체육",
+            "TL": "PE",
+            "MY": "PE",
+            "HI": "पीई",
+            "AR": "التربية البدنية",
+            "FA": "پی ای",
+            "EN": [
+                "PE",
+                "gym"
+            ]
+        },
+        {
+            "ID": "pelatihan",
+            "ES": "capacitación",
+            "VI": "đào tạo",
+            "FR": "entraînement",
+            "NE": "तालिम",
+            "BN": "প্রশিক্ষণ",
+            "ZH": "训练",
+            "KO": "훈련",
+            "TL": "pagsasanay",
+            "MY": "လေ့ကျင့်ရေး",
+            "HI": "प्रशिक्षण",
+            "AR": "تمرين",
+            "FA": "آموزش",
+            "EN": [
+                "training",
+                "sports",
+                "athletics"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "体育",
+        "is_common": true,
+        "tags": [
+            "wanikani13"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "体育",
+                "reading": "たいいく"
+            },
+            {
+                "word": "体育",
+                "reading": "たいく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "physical education",
+                    "PE",
+                    "gym (class)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Physical education"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Physical education” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Physical_education?oldid=495061133"
+                    },
+                    {
+                        "text": "Read “体育” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/体育?oldid=40287687"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Physical_education"
+        }
+    },
+    "kanji_list": [
+        "体",
+        "育"
+    ],
+    "kanji_data": {
+        "体": {
+            "freq_mainichi_shinbun": 88,
+            "grade": 2,
+            "heisig_en": "body",
+            "jlpt": 4,
+            "kanji": "体",
+            "kun_readings": [
+                "かたち",
+                "からだ"
+            ],
+            "meanings": [
+                "body",
+                "counter for images",
+                "object",
+                "reality",
+                "substance"
+            ],
+            "name_readings": [
+                "なり"
+            ],
+            "notes": [],
+            "on_readings": [
+                "タイ",
+                "テイ"
+            ],
+            "stroke_count": 7,
+            "unicode": "4F53"
+        },
+        "育": {
+            "freq_mainichi_shinbun": 369,
+            "grade": 3,
+            "heisig_en": "bring up",
+            "jlpt": 3,
+            "kanji": "育",
+            "kun_readings": [
+                "そだ.ち",
+                "そだ.つ",
+                "そだ.てる",
+                "はぐく.む"
+            ],
+            "meanings": [
+                "bring up",
+                "grow up",
+                "raise",
+                "rear"
+            ],
+            "name_readings": [
+                "やす"
+            ],
+            "notes": [],
+            "on_readings": [
+                "イク"
+            ],
+            "stroke_count": 8,
+            "unicode": "80B2"
+        }
+    }
+}

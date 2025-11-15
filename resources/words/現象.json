@@ -1,0 +1,513 @@
+{
+    "version": "0.3.0",
+    "word": "現象",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/qkJ64UzsxC8",
+    "in_db": true,
+    "kanji": "現象",
+    "reading": "げんしょう",
+    "introduction_japanese": "現象。科学、天気、社会の話でよく使います。ニュースや授業でもよく耳にします。",
+    "introduction_english": "げんしょう: Used in science, weather, and society topics. You’ll also hear it in the news and in class.",
+    "meanings": [
+        [
+            "phenomenon",
+            "occurrence",
+            "happening",
+            "event",
+            "appearance"
+        ],
+        [
+            "manifestation",
+            "symptom",
+            "sign",
+            "indicator",
+            "effect"
+        ]
+    ],
+    "meaning_explanation_japanese": "目に見えるうごきやようす、自然や社会でおこるできごと、またはある原因が外にあらわれたしるしのことです。",
+    "meaning_explanation_english": "It is used as a noun. げんしょう talks about observable events or appearances, and also the outward signs or effects of something.",
+    "youtube_description": "Learn 現象 (genshō): what it means, when to use it, and easy examples from science, weather, and everyday life. Short, clear Japanese for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "現",
+            "onyomi": [
+                "ゲン"
+            ],
+            "kunyomi": [
+                "あらわ-れる",
+                "あらわ-す"
+            ],
+            "meanings_english": [
+                "present",
+                "appear",
+                "actual"
+            ],
+            "common_words": [
+                "現在 : げんざい : the present; now",
+                "現れる : あらわれる : to appear; to emerge"
+            ]
+        },
+        {
+            "kanji": "象",
+            "onyomi": [
+                "ショウ",
+                "ゾウ"
+            ],
+            "kunyomi": [],
+            "meanings_english": [
+                "image",
+                "figure",
+                "elephant"
+            ],
+            "common_words": [
+                "印象 : いんしょう : impression",
+                "象徴 : しょうちょう : symbol"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means present or appear. It shows something that is visible now or comes into view. You can feel this idea in げんざい and あらわれる. It often suggests what is real and in front of us. The second kanji means image or figure, and it also points to the elephant meaning historically. You meet this idea in いんしょう and しょうちょう. It often signals the shape or symbol of something. Together they hint at an appearance or image that we can notice.",
+    "synonyms": [
+        "事象 : じしょう : phenomenon/event",
+        "出来事 : できごと : happening/event"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are じしょう and できごと. じしょう is formal and used in science or math, almost the same as げんしょう. できごと is everyday and means an event; it may be less about being scientifically observed.",
+    "antonyms": [
+        "本質 : ほんしつ : essence"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ほんしつ, which points to the inner essence or true nature, while げんしょう is the outward, observable appearance.",
+    "collocations": [
+        {
+            "kanji": "不思議な現象",
+            "furigana": "不思議(ふしぎ)な現象(げんしょう)",
+            "translations": {
+                "EN": "Mysterious phenomenon",
+                "ID": "Fenomena misterius",
+                "ES": "Fenómeno misterioso",
+                "VI": "Hiện tượng bí ẩn",
+                "FR": "Phénomène mystérieux",
+                "NE": "रहस्यमय घटना",
+                "BN": "রহস্যময় ঘটনা",
+                "ZH": "神秘现象",
+                "KO": "이상한 현상",
+                "TL": "Mahiwagang kababalaghan",
+                "MY": "လျှို့ဝှက်ဆန်းကြယ်ဖြစ်ရပ်ဆန်း",
+                "HI": "रहस्यमय घटना",
+                "AR": "ظاهرة غامضة",
+                "FA": "پدیده مرموز"
+            }
+        },
+        {
+            "kanji": "自然現象",
+            "furigana": "自然(しぜん)現象(げんしょう)",
+            "translations": {
+                "EN": "natural phenomenon",
+                "ID": "fenomena alam",
+                "ES": "fenómeno natural",
+                "VI": "hiện tượng tự nhiên",
+                "FR": "phénomène naturel",
+                "NE": "प्राकृतिक घटना",
+                "BN": "প্রাকৃতিক ঘটনা",
+                "ZH": "自然现象",
+                "KO": "자연 현상",
+                "TL": "likas na kababalaghan",
+                "MY": "သဘာဝဖြစ်စဉ်",
+                "HI": "प्राकृतिक घटना",
+                "AR": "ظاهرة طبيعية",
+                "FA": "پدیده طبیعی"
+            }
+        },
+        {
+            "kanji": "社会の現象",
+            "furigana": "社会(しゃかい)の現象(げんしょう)",
+            "translations": {
+                "EN": "Social phenomenon",
+                "ID": "Fenomena sosial",
+                "ES": "fenómeno social",
+                "VI": "Hiện tượng xã hội",
+                "FR": "Phénomène social",
+                "NE": "सामाजिक घटना",
+                "BN": "সামাজিক ঘটনা",
+                "ZH": "社会现象",
+                "KO": "사회의 현상",
+                "TL": "Social phenomenon",
+                "MY": "လူမှုရေးဖြစ်စဉ်",
+                "HI": "सामाजिक घटना",
+                "AR": "ظاهرة اجتماعية",
+                "FA": "پدیده اجتماعی"
+            }
+        },
+        {
+            "kanji": "光の現象",
+            "furigana": "光(ひかり)の現象(げんしょう)",
+            "translations": {
+                "EN": "Light Phenomena",
+                "ID": "Fenomena Cahaya",
+                "ES": "Fenómenos lumínicos",
+                "VI": "Hiện tượng ánh sáng",
+                "FR": "Phénomènes lumineux",
+                "NE": "प्रकाश घटना",
+                "BN": "আলোকিত ঘটনা",
+                "ZH": "光现象",
+                "KO": "빛의 현상",
+                "TL": "Banayad na Phenomena",
+                "MY": "အလင်းဖြစ်စဉ်များ",
+                "HI": "प्रकाश घटनाएँ",
+                "AR": "ظواهر الضوء",
+                "FA": "پدیده‌های نوری"
+            }
+        },
+        {
+            "kanji": "温暖化による現象",
+            "furigana": "温暖化(おんだんか)による現象(げんしょう)",
+            "translations": {
+                "EN": "Phenomena caused by global warming",
+                "ID": "Fenomena yang disebabkan oleh pemanasan global",
+                "ES": "Fenómenos causados por el calentamiento global",
+                "VI": "Hiện tượng do sự nóng lên toàn cầu gây ra",
+                "FR": "Phénomènes causés par le réchauffement climatique",
+                "NE": "विश्वव्यापी तापक्रम वृद्धिले निम्त्याउने घटनाहरू",
+                "BN": "বিশ্ব উষ্ণায়নের ফলে সৃষ্ট ঘটনা",
+                "ZH": "全球变暖引发的现象",
+                "KO": "온난화로 인한 현상",
+                "TL": "Kababalaghan na dulot ng global warming",
+                "MY": "ကမ္ဘာကြီးပူနွေးလာမှုကြောင့် ဖြစ်ပေါ်လာသော ဖြစ်စဉ်များ",
+                "HI": "ग्लोबल वार्मिंग के कारण होने वाली घटनाएँ",
+                "AR": "الظواهر الناجمة عن الاحتباس الحراري",
+                "FA": "پدیده‌های ناشی از گرمایش جهانی"
+            }
+        },
+        {
+            "kanji": "代表的な現象",
+            "furigana": "代表的(だいひょうてき)な現象(げんしょう)",
+            "translations": {
+                "EN": "Typical phenomena",
+                "ID": "Fenomena umum",
+                "ES": "Fenómenos típicos",
+                "VI": "Hiện tượng điển hình",
+                "FR": "Phénomènes typiques",
+                "NE": "सामान्य घटनाहरू",
+                "BN": "সাধারণ ঘটনা",
+                "ZH": "典型现象",
+                "KO": "대표적인 현상",
+                "TL": "Mga tipikal na phenomena",
+                "MY": "ရိုးရိုးဖြစ်ရပ်ဆန်း",
+                "HI": "विशिष्ट घटनाएँ",
+                "AR": "الظواهر النموذجية",
+                "FA": "پدیده‌های معمول"
+            }
+        },
+        {
+            "kanji": "現象が起きる",
+            "furigana": "現象(げんしょう)が起(お)きる",
+            "translations": {
+                "EN": "The phenomenon occurs",
+                "ID": "Fenomena tersebut terjadi",
+                "ES": "El fenómeno ocurre",
+                "VI": "Hiện tượng xảy ra",
+                "FR": "Le phénomène se produit",
+                "NE": "घटना घट्छ",
+                "BN": "ঘটনাটি ঘটে",
+                "ZH": "这种现象发生",
+                "KO": "현상이 일어난다",
+                "TL": "Ang kababalaghan ay nangyayari",
+                "MY": "ဖြစ်ရပ်ဆန်းများ ဖြစ်ပေါ်သည်။",
+                "HI": "यह घटना घटित होती है",
+                "AR": "تحدث الظاهرة",
+                "FA": "پدیده رخ می‌دهد"
+            }
+        },
+        {
+            "kanji": "現象が生じる",
+            "furigana": "現象(げんしょう)が生(しょう)じる",
+            "translations": {
+                "EN": "The phenomenon occurs",
+                "ID": "Fenomena tersebut terjadi",
+                "ES": "El fenómeno ocurre",
+                "VI": "Hiện tượng xảy ra",
+                "FR": "Le phénomène se produit",
+                "NE": "घटना घट्छ",
+                "BN": "ঘটনাটি ঘটে",
+                "ZH": "这种现象发生",
+                "KO": "현상이 발생",
+                "TL": "Ang kababalaghan ay nangyayari",
+                "MY": "ဖြစ်ရပ်ဆန်းများ ဖြစ်ပေါ်သည်။",
+                "HI": "यह घटना घटित होती है",
+                "AR": "تحدث الظاهرة",
+                "FA": "پدیده رخ می‌دهد"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この現象は冬によく起きます。",
+            "furigana": "この現象(げんしょう)は冬(ふゆ)によく起(お)きます。",
+            "translations": {
+                "EN": "This phenomenon occurs frequently in winter.",
+                "ID": "Fenomena ini sering terjadi di musim dingin.",
+                "ES": "Este fenómeno ocurre con frecuencia en invierno.",
+                "VI": "Hiện tượng này thường xảy ra vào mùa đông.",
+                "FR": "Ce phénomène se produit fréquemment en hiver.",
+                "NE": "यो घटना जाडोमा बारम्बार हुन्छ।",
+                "BN": "শীতকালে এই ঘটনাটি প্রায়শই ঘটে।",
+                "ZH": "这种现象在冬季经常发生。",
+                "KO": "이 현상은 겨울에 자주 발생합니다.",
+                "TL": "Ang kababalaghan na ito ay madalas na nangyayari sa taglamig.",
+                "MY": "ဤဖြစ်စဉ်သည် ဆောင်းရာသီတွင် မကြာခဏ ဖြစ်ပွားလေ့ရှိသည်။",
+                "HI": "यह घटना सर्दियों में अक्सर होती है।",
+                "AR": "تحدث هذه الظاهرة بشكل متكرر في فصل الشتاء.",
+                "FA": "این پدیده اغلب در زمستان رخ می‌دهد."
+            }
+        },
+        {
+            "kanji": "先生はこの現象をやさしく説明しました。",
+            "furigana": "先生(せんせい)はこの現象(げんしょう)をやさしく説明(せつめい)しました。",
+            "translations": {
+                "EN": "The teacher explained this phenomenon in a simple way.",
+                "ID": "Guru menjelaskan fenomena ini dengan cara yang sederhana.",
+                "ES": "El profesor explicó este fenómeno de forma sencilla.",
+                "VI": "Giáo viên giải thích hiện tượng này một cách đơn giản.",
+                "FR": "L'enseignant a expliqué ce phénomène de manière simple.",
+                "NE": "शिक्षकले यो घटनालाई सरल तरिकाले व्याख्या गर्नुभयो।",
+                "BN": "শিক্ষক এই ঘটনাটি সহজভাবে ব্যাখ্যা করলেন।",
+                "ZH": "老师用简单易懂的方式解释了这种现象。",
+                "KO": "선생님은 이 현상을 부드럽게 설명했습니다.",
+                "TL": "Ipinaliwanag ng guro ang hindi pangkaraniwang bagay na ito sa isang simpleng paraan.",
+                "MY": "ဆရာက ဒီဖြစ်စဉ်ကို ရိုးရိုးရှင်းရှင်းနဲ့ ရှင်းပြတယ်။",
+                "HI": "शिक्षक ने इस घटना को सरल तरीके से समझाया।",
+                "AR": "وقد شرح المعلم هذه الظاهرة بطريقة بسيطة.",
+                "FA": "معلم این پدیده را به روشی ساده توضیح داد."
+            }
+        },
+        {
+            "kanji": "私たちは実験で現象を観察しました。",
+            "furigana": "私(わたし)たちは実験(じっけん)で現象(げんしょう)を観察(かんさつ)しました。",
+            "translations": {
+                "EN": "We observed this phenomenon in our experiments.",
+                "ID": "Kami mengamati fenomena ini dalam percobaan kami.",
+                "ES": "Observamos este fenómeno en nuestros experimentos.",
+                "VI": "Chúng tôi đã quan sát hiện tượng này trong các thí nghiệm của mình.",
+                "FR": "Nous avons observé ce phénomène lors de nos expériences.",
+                "NE": "हामीले हाम्रा प्रयोगहरूमा यो घटना अवलोकन गर्यौं।",
+                "BN": "আমরা আমাদের পরীক্ষায় এই ঘটনাটি লক্ষ্য করেছি।",
+                "ZH": "我们在实验中观察到了这种现象。",
+                "KO": "우리는 실험에서 현상을 관찰했다.",
+                "TL": "Naobserbahan namin ang hindi pangkaraniwang bagay na ito sa aming mga eksperimento.",
+                "MY": "ကျွန်ုပ်တို့၏စမ်းသပ်မှုများတွင် ဤဖြစ်စဉ်ကို ကျွန်ုပ်တို့သတိပြုမိခဲ့သည်။",
+                "HI": "हमने अपने प्रयोगों में इस घटना को देखा।",
+                "AR": "لقد لاحظنا هذه الظاهرة في تجاربنا.",
+                "FA": "ما این پدیده را در آزمایش‌های خود مشاهده کردیم."
+            }
+        },
+        {
+            "kanji": "その現象の原因はまだ分かりません。",
+            "furigana": "その現象(げんしょう)の原因(げんいん)はまだ分(わ)かりません。",
+            "translations": {
+                "EN": "The cause of this phenomenon is still unknown.",
+                "ID": "Penyebab fenomena ini masih belum diketahui.",
+                "ES": "Aún se desconoce la causa de este fenómeno.",
+                "VI": "Nguyên nhân của hiện tượng này vẫn chưa được biết rõ.",
+                "FR": "La cause de ce phénomène reste inconnue.",
+                "NE": "यो घटनाको कारण अझै अज्ञात छ।",
+                "BN": "এই ঘটনার কারণ এখনও অজানা।",
+                "ZH": "这种现象的原因至今仍不清楚。",
+                "KO": "그 현상의 원인은 아직 모릅니다.",
+                "TL": "Ang sanhi ng hindi pangkaraniwang bagay na ito ay hindi pa rin alam.",
+                "MY": "ဒီဖြစ်စဉ်ရဲ့ အကြောင်းရင်းကို မသိရသေးပါဘူး။",
+                "HI": "इस घटना का कारण अभी भी अज्ञात है।",
+                "AR": "سبب هذه الظاهرة لا يزال غير معروف.",
+                "FA": "علت این پدیده هنوز مشخص نیست."
+            }
+        },
+        {
+            "kanji": "これは自然の現象だから、心配しなくていいです。",
+            "furigana": "これは自然(しぜん)の現象(げんしょう)だから、心配(しんぱい)しなくていいです。",
+            "translations": {
+                "EN": "This is a natural phenomenon so there is nothing to worry about.",
+                "ID": "Ini adalah fenomena alam jadi tidak ada yang perlu dikhawatirkan.",
+                "ES": "Se trata de un fenómeno natural, así que no hay de qué preocuparse.",
+                "VI": "Đây là hiện tượng tự nhiên nên không có gì phải lo lắng.",
+                "FR": "Il s'agit d'un phénomène naturel, il n'y a donc pas lieu de s'inquiéter.",
+                "NE": "यो एक प्राकृतिक घटना हो त्यसैले चिन्ता लिनु पर्दैन।",
+                "BN": "এটি একটি প্রাকৃতিক ঘটনা, তাই চিন্তার কিছু নেই।",
+                "ZH": "这是自然现象，所以没什么好担心的。",
+                "KO": "이것은 자연 현상이기 때문에 걱정하지 않아도됩니다.",
+                "TL": "Natural phenomenon ito kaya walang dapat ikabahala.",
+                "MY": "ဒါက သဘာဝဖြစ်စဉ်မို့ ဘာမှစိုးရိမ်စရာမရှိပါဘူး။",
+                "HI": "यह एक प्राकृतिक घटना है इसलिए इसमें चिंता की कोई बात नहीं है।",
+                "AR": "هذه ظاهرة طبيعية فلا داعي للقلق.",
+                "FA": "این یک پدیده طبیعی است، بنابراین جای نگرانی نیست."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "gejala",
+            "ES": "fenómeno",
+            "VI": "hiện tượng",
+            "FR": "phénomène",
+            "NE": "घटना",
+            "BN": "ঘটনা",
+            "ZH": "现象",
+            "KO": "현상",
+            "TL": "kababalaghan",
+            "MY": "ဖြစ်ရပ်ဆန်း",
+            "HI": "घटना",
+            "AR": "ظاهرة",
+            "FA": "پدیده",
+            "EN": [
+                "phenomenon",
+                "occurrence",
+                "happening",
+                "event",
+                "appearance"
+            ]
+        },
+        {
+            "ID": "manifestasi",
+            "ES": "manifestación",
+            "VI": "sự biểu hiện",
+            "FR": "manifestation",
+            "NE": "प्रकटीकरण",
+            "BN": "প্রকাশ",
+            "ZH": "表现",
+            "KO": "표명",
+            "TL": "pagpapakita",
+            "MY": "ထင်ရှားခြင်း။",
+            "HI": "अभिव्यक्ति",
+            "AR": "مظهر",
+            "FA": "تجلی",
+            "EN": [
+                "manifestation",
+                "symptom",
+                "sign",
+                "indicator",
+                "effect"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "現象",
+        "is_common": true,
+        "tags": [
+            "wanikani24"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "現象",
+                "reading": "げんしょう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "phenomenon"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Phenomenon"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Phenomenon” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Phenomenon?oldid=493754368"
+                    },
+                    {
+                        "text": "Read “現象” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/現象?oldid=42448887"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Phenomenon"
+        }
+    },
+    "kanji_list": [
+        "現",
+        "象"
+    ],
+    "kanji_data": {
+        "現": {
+            "freq_mainichi_shinbun": 85,
+            "grade": 5,
+            "heisig_en": "present",
+            "jlpt": 3,
+            "kanji": "現",
+            "kun_readings": [
+                "あらわ.す",
+                "あらわ.れる",
+                "うつ.つ",
+                "うつつ"
+            ],
+            "meanings": [
+                "actual",
+                "existing",
+                "present"
+            ],
+            "name_readings": [
+                "あきら",
+                "きら"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ゲン"
+            ],
+            "stroke_count": 11,
+            "unicode": "73FE"
+        },
+        "象": {
+            "freq_mainichi_shinbun": 394,
+            "grade": 4,
+            "heisig_en": "elephant",
+            "jlpt": 2,
+            "kanji": "象",
+            "kun_readings": [
+                "かたど.る"
+            ],
+            "meanings": [
+                "elephant",
+                "image",
+                "imitate",
+                "pattern after",
+                "shape",
+                "sign (of the times)"
+            ],
+            "name_readings": [
+                "きさ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ショウ",
+                "ゾウ"
+            ],
+            "stroke_count": 12,
+            "unicode": "8C61"
+        }
+    }
+}

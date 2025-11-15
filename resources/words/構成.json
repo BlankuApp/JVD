@@ -1,0 +1,538 @@
+{
+    "version": "0.3.0",
+    "word": "構成",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/LYr976p4VBc",
+    "in_db": true,
+    "kanji": "構成",
+    "reading": "こうせい",
+    "introduction_japanese": "構成。文章、レポート、チーム、システム、デザインの話でよく使うよ。",
+    "introduction_english": "こうせい. We use it when talking about essays, reports, teams, systems, and design.",
+    "meanings": [
+        [
+            "composition",
+            "structure",
+            "makeup",
+            "arrangement",
+            "organization"
+        ],
+        [
+            "configuration",
+            "setup",
+            "layout",
+            "architecture"
+        ],
+        [
+            "membership",
+            "lineup",
+            "roster",
+            "constitution"
+        ]
+    ],
+    "meaning_explanation_japanese": "部分の集まりや、そのならべ方、またはメンバーの内訳を指します。全体がどうできているか、という感じです。",
+    "meaning_explanation_english": "It is a noun and a suru-verb. こうせい literally talks about how parts are put together, the layout of a whole, or the members that make up a group.",
+    "youtube_description": "Learn こうせい: meanings, readings, and real-life usage with simple examples and common collocations. Short, clear, beginner-friendly!",
+    "kanji_details": [
+        {
+            "kanji": "構",
+            "onyomi": [
+                "コウ"
+            ],
+            "kunyomi": [
+                "かま",
+                "かまえる"
+            ],
+            "meanings_english": [
+                "set up",
+                "build",
+                "plan"
+            ],
+            "common_words": [
+                "構造（こうぞう）：structure",
+                "構える（かまえる）：to set up; to assume a stance"
+            ]
+        },
+        {
+            "kanji": "成",
+            "onyomi": [
+                "セイ",
+                "ジョウ"
+            ],
+            "kunyomi": [
+                "な",
+                "なる"
+            ],
+            "meanings_english": [
+                "become",
+                "achieve",
+                "grow"
+            ],
+            "common_words": [
+                "成長（せいちょう）：growth",
+                "成功（せいこう）：success"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means to set up or put together. It hints at building a framework or plan. You can hear it in words like こうぞう and かまえる. Think of arranging parts neatly. The second kanji means to become or to achieve. It shows change into a finished state. You can hear it in words like せいちょう and せいこう. It adds the feeling of completion or result.",
+    "synonyms": [
+        "構造 : こうぞう : structure",
+        "編成 : へんせい : organization/formation"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are こうぞう and へんせい. こうぞう focuses on internal structure or build, while へんせい is about arranging parts or members, especially for groups or schedules. こうせい covers both arrangement of parts and the lineup of members,,",
+    "antonyms": [
+        "分解 : ぶんかい : disassembly",
+        "解体 : かいたい : dismantling"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are ぶんかい and かいたい. They focus on taking things apart, while こうせい is about putting parts together or describing how they are arranged.",
+    "collocations": [
+        {
+            "kanji": "1) Noun collocation",
+            "furigana": "1) Noun collocation",
+            "translations": {
+                "EN": "1) Noun collocation",
+                "ID": "1) Kolokasi kata benda",
+                "ES": "1) Colocación de sustantivos",
+                "VI": "1) Kết hợp danh từ",
+                "FR": "1) Collocation nominale",
+                "NE": "१) संज्ञा संयोजन",
+                "BN": "১) বিশেষ্যের সমষ্টি",
+                "ZH": "1）名词搭配",
+                "KO": "1) Noun collocation",
+                "TL": "1) Kolokasyon ng pangngalan",
+                "MY": "1) Noun collocation",
+                "HI": "1) संज्ञा सहसंयोजन",
+                "AR": "1) ترابط الأسماء",
+                "FA": "۱) همنشینی اسمی"
+            }
+        },
+        {
+            "kanji": "文章の構成",
+            "furigana": "文章(ぶんしょう)の構成(こうせい)",
+            "translations": {
+                "EN": "Sentence structure",
+                "ID": "Struktur kalimat",
+                "ES": "Estructura de la oración",
+                "VI": "Cấu trúc câu",
+                "FR": "Structure de la phrase",
+                "NE": "वाक्य संरचना",
+                "BN": "বাক্য গঠন",
+                "ZH": "句法",
+                "KO": "문장 구성",
+                "TL": "Kayarian ng pangungusap",
+                "MY": "ဝါကျဖွဲ့စည်းပုံ",
+                "HI": "वाक्य संरचना",
+                "AR": "بنية الجملة",
+                "FA": "ساختار جمله"
+            }
+        },
+        {
+            "kanji": "システムの構成",
+            "furigana": "システムの構成(こうせい)",
+            "translations": {
+                "EN": "System configuration",
+                "ID": "Konfigurasi sistem",
+                "ES": "Configuración del sistema",
+                "VI": "Cấu hình hệ thống",
+                "FR": "Configuration du système",
+                "NE": "प्रणाली कन्फिगरेसन",
+                "BN": "সিস্টেম কনফিগারেশন",
+                "ZH": "系统配置",
+                "KO": "시스템 구성",
+                "TL": "Configuration ng system",
+                "MY": "စနစ်ဖွဲ့စည်းမှု",
+                "HI": "प्रणाली विन्यास",
+                "AR": "تكوين النظام",
+                "FA": "پیکربندی سیستم"
+            }
+        },
+        {
+            "kanji": "チームの構成",
+            "furigana": "チームの構成(こうせい)",
+            "translations": {
+                "EN": "Team Composition",
+                "ID": "Komposisi Tim",
+                "ES": "Composición del equipo",
+                "VI": "Thành phần đội",
+                "FR": "Composition de l'équipe",
+                "NE": "टोली संरचना",
+                "BN": "দল গঠন",
+                "ZH": "团队组成",
+                "KO": "팀 구성",
+                "TL": "Komposisyon ng Koponan",
+                "MY": "အဖွဲ့ဖွဲ့စည်းမှု",
+                "HI": "टीम में कौन - कौन",
+                "AR": "تكوين الفريق",
+                "FA": "ترکیب تیم"
+            }
+        },
+        {
+            "kanji": "家族構成",
+            "furigana": "家族(かぞく)構成(こうせい)",
+            "translations": {
+                "EN": "Family composition",
+                "ID": "Komposisi keluarga",
+                "ES": "Composición familiar",
+                "VI": "Thành phần gia đình",
+                "FR": "Composition familiale",
+                "NE": "परिवार संरचना",
+                "BN": "পারিবারিক গঠন",
+                "ZH": "家庭组成",
+                "KO": "가족 구성",
+                "TL": "Komposisyon ng pamilya",
+                "MY": "မိသားစုဖွဲ့စည်းမှု",
+                "HI": "परिवार की बनावट",
+                "AR": "تكوين الأسرة",
+                "FA": "ترکیب خانواده"
+            }
+        },
+        {
+            "kanji": "基本構成",
+            "furigana": "基本(きほん)構成(こうせい)",
+            "translations": {
+                "EN": "Basic configuration",
+                "ID": "Konfigurasi dasar",
+                "ES": "Configuración básica",
+                "VI": "Cấu hình cơ bản",
+                "FR": "configuration de base",
+                "NE": "आधारभूत कन्फिगरेसन",
+                "BN": "মৌলিক কনফিগারেশন",
+                "ZH": "基本配置",
+                "KO": "기본 구성",
+                "TL": "Pangunahing pagsasaayos",
+                "MY": "အခြေခံဖွဲ့စည်းမှု",
+                "HI": "मूल विन्यास",
+                "AR": "التكوين الأساسي",
+                "FA": "پیکربندی اولیه"
+            }
+        },
+        {
+            "kanji": "三章の構成",
+            "furigana": "三(さん)章(しょう)の構成(こうせい)",
+            "translations": {
+                "EN": "Three Chapters",
+                "ID": "Tiga Bab",
+                "ES": "Tres capítulos",
+                "VI": "Ba chương",
+                "FR": "Trois chapitres",
+                "NE": "तीन अध्यायहरू",
+                "BN": "তিনটি অধ্যায়",
+                "ZH": "三章",
+                "KO": "3장 구성",
+                "TL": "Tatlong Kabanata",
+                "MY": "အခန်းသုံးခန်း",
+                "HI": "तीन अध्याय",
+                "AR": "ثلاثة فصول",
+                "FA": "سه فصل"
+            }
+        },
+        {
+            "kanji": "2) Verb collocation",
+            "furigana": "2) Verb collocation},{",
+            "translations": {
+                "EN": "2) Verb collocation",
+                "ID": "2) Kolokasi kata kerja",
+                "ES": "2) Colocación verbal",
+                "VI": "2) Cụm động từ",
+                "FR": "2) Collocation verbale",
+                "NE": "२) क्रिया संयोजन",
+                "BN": "২) ক্রিয়াপদের সমষ্টি",
+                "ZH": "2）动词搭配",
+                "KO": "2) Verb collocation",
+                "TL": "2) Kolokasyon ng pandiwa",
+                "MY": "2) Verb collocation",
+                "HI": "2) क्रिया सहसंयोजन",
+                "AR": "2) ترتيب الأفعال",
+                "FA": "۲) همنشینی فعل"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この本の構成は簡単です。",
+            "furigana": "この本(ほん)の構成(こうせい)は簡単(かんたん)です。",
+            "translations": {
+                "EN": "The structure of this book is simple.",
+                "ID": "Struktur buku ini sederhana.",
+                "ES": "La estructura de este libro es sencilla.",
+                "VI": "Cấu trúc của cuốn sách này rất đơn giản.",
+                "FR": "La structure de ce livre est simple.",
+                "NE": "यस पुस्तकको संरचना सरल छ।",
+                "BN": "এই বইয়ের গঠন সহজ।",
+                "ZH": "这本书的结构很简单。",
+                "KO": "이 책의 구성은 간단합니다.",
+                "TL": "Ang istraktura ng aklat na ito ay simple.",
+                "MY": "ဤစာအုပ်၏ဖွဲ့စည်းပုံမှာရိုးရှင်းပါသည်။",
+                "HI": "इस पुस्तक की संरचना सरल है।",
+                "AR": "هيكل هذا الكتاب بسيط.",
+                "FA": "ساختار این کتاب ساده است."
+            }
+        },
+        {
+            "kanji": "私たちはチームの構成を見直しました。",
+            "furigana": "私(わたし)たちはチームの構成(こうせい)を見直(みなお)しました。",
+            "translations": {
+                "EN": "We have restructured our team.",
+                "ID": "Kami telah merestrukturisasi tim kami.",
+                "ES": "Hemos reestructurado nuestro equipo.",
+                "VI": "Chúng tôi đã tái cấu trúc đội ngũ của mình.",
+                "FR": "Nous avons restructuré notre équipe.",
+                "NE": "हामीले हाम्रो टोलीको पुनर्संरचना गरेका छौं।",
+                "BN": "আমরা আমাদের দল পুনর্গঠন করেছি।",
+                "ZH": "我们已经重组了团队。",
+                "KO": "우리는 팀의 구성을 검토했습니다.",
+                "TL": "Inayos namin ang aming koponan.",
+                "MY": "ကျွန်တော်တို့အဖွဲ့ကို ပြန်လည်ဖွဲ့စည်းထားပါတယ်။",
+                "HI": "हमने अपनी टीम का पुनर्गठन किया है।",
+                "AR": "لقد قمنا بإعادة هيكلة فريقنا.",
+                "FA": "ما تیم خود را بازسازی کرده‌ایم."
+            }
+        },
+        {
+            "kanji": "このシステムは五つの部品で構成されています。",
+            "furigana": "このシステムは五(いつ)つの部品(ぶひん)で構成(こうせい)されています。",
+            "translations": {
+                "EN": "The system consists of five parts.",
+                "ID": "Sistem ini terdiri dari lima bagian.",
+                "ES": "El sistema consta de cinco partes.",
+                "VI": "Hệ thống này bao gồm năm phần.",
+                "FR": "Le système se compose de cinq parties.",
+                "NE": "यो प्रणाली पाँच भाग मिलेर बनेको छ।",
+                "BN": "সিস্টেমটি পাঁচটি অংশ নিয়ে গঠিত।",
+                "ZH": "该系统由五个部分组成。",
+                "KO": "이 시스템은 다섯 가지 부품으로 구성됩니다.",
+                "TL": "Ang sistema ay binubuo ng limang bahagi.",
+                "MY": "စနစ်တွင် အပိုင်းငါးပိုင်းပါဝင်သည်။",
+                "HI": "इस प्रणाली में पांच भाग हैं।",
+                "AR": "يتكون النظام من خمسة أجزاء.",
+                "FA": "این سیستم از پنج بخش تشکیل شده است."
+            }
+        },
+        {
+            "kanji": "文章の構成を考えましょう。",
+            "furigana": "文章(ぶんしょう)の構成(こうせい)を考(かんが)えましょう。",
+            "translations": {
+                "EN": "Consider the structure of the sentence.",
+                "ID": "Perhatikan struktur kalimatnya.",
+                "ES": "Analicemos la estructura de la oración.",
+                "VI": "Hãy xem xét cấu trúc của câu.",
+                "FR": "Considérez la structure de la phrase.",
+                "NE": "वाक्यको संरचनालाई विचार गर्नुहोस्।",
+                "BN": "বাক্যের গঠন বিবেচনা করুন।",
+                "ZH": "考虑一下句子的结构。",
+                "KO": "문장의 구성을 생각해 봅시다.",
+                "TL": "Isaalang-alang ang istruktura ng pangungusap.",
+                "MY": "ဝါကျဖွဲ့စည်းပုံကို သုံးသပ်ကြည့်ပါ။",
+                "HI": "वाक्य की संरचना पर विचार करें।",
+                "AR": "خذ بعين الاعتبار بنية الجملة.",
+                "FA": "ساختار جمله را در نظر بگیرید."
+            }
+        },
+        {
+            "kanji": "映画の構成がとてもおもしろいです。",
+            "furigana": "映画(えいが)の構成(こうせい)がとてもおもしろいです。},{",
+            "translations": {
+                "EN": "The structure of the film is very interesting.",
+                "ID": "Struktur filmnya sangat menarik.",
+                "ES": "La estructura de la película es muy interesante.",
+                "VI": "Cấu trúc của bộ phim rất thú vị.",
+                "FR": "La structure du film est très intéressante.",
+                "NE": "फिल्मको संरचना धेरै रोचक छ।",
+                "BN": "ছবিটির গঠন খুবই আকর্ষণীয়।",
+                "ZH": "这部电影的结构非常有趣。",
+                "KO": "영화의 구성이 매우 흥미 롭습니다.",
+                "TL": "Ang istraktura ng pelikula ay napaka-interesante.",
+                "MY": "ဇာတ်ကားတည်ဆောက်ပုံက အရမ်းစိတ်ဝင်စားဖို့ကောင်းတယ်။",
+                "HI": "फिल्म की संरचना बहुत दिलचस्प है।",
+                "AR": "بنية الفيلم مثيرة للاهتمام للغاية.",
+                "FA": "ساختار فیلم بسیار جالب است."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "komposisi",
+            "ES": "composición",
+            "VI": "thành phần",
+            "FR": "composition",
+            "NE": "संरचना",
+            "BN": "রচনা",
+            "ZH": "作品",
+            "KO": "구성",
+            "TL": "komposisyon",
+            "MY": "ဖွဲ့စည်းမှု",
+            "HI": "संघटन",
+            "AR": "تعبير",
+            "FA": "ترکیب",
+            "EN": [
+                "composition",
+                "structure",
+                "makeup",
+                "arrangement",
+                "organization"
+            ]
+        },
+        {
+            "ID": "konfigurasi",
+            "ES": "configuración",
+            "VI": "cấu hình",
+            "FR": "configuration",
+            "NE": "कन्फिगरेसन",
+            "BN": "কনফিগারেশন",
+            "ZH": "配置",
+            "KO": "구성",
+            "TL": "pagsasaayos",
+            "MY": "ဖွဲ့စည်းမှု",
+            "HI": "विन्यास",
+            "AR": "إعدادات",
+            "FA": "پیکربندی",
+            "EN": [
+                "configuration",
+                "setup",
+                "layout",
+                "architecture"
+            ]
+        },
+        {
+            "ID": "keanggotaan",
+            "ES": "afiliación",
+            "VI": "tư cách thành viên",
+            "FR": "adhésion",
+            "NE": "सदस्यता",
+            "BN": "সদস্যপদ",
+            "ZH": "会员资格",
+            "KO": "회원 자격",
+            "TL": "pagiging kasapi",
+            "MY": "အသင်းဝင်",
+            "HI": "सदस्यता",
+            "AR": "عضوية",
+            "FA": "عضویت",
+            "EN": [
+                "membership",
+                "lineup",
+                "roster",
+                "constitution"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "構成",
+        "is_common": true,
+        "tags": [
+            "wanikani25"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "構成",
+                "reading": "こうせい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "composition",
+                    "construction",
+                    "formation",
+                    "makeup",
+                    "structure",
+                    "organization",
+                    "organisation"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "構",
+        "成"
+    ],
+    "kanji_data": {
+        "構": {
+            "freq_mainichi_shinbun": 316,
+            "grade": 5,
+            "heisig_en": "posture",
+            "jlpt": 3,
+            "kanji": "構",
+            "kun_readings": [
+                "かま.う",
+                "かま.える"
+            ],
+            "meanings": [
+                "appearance",
+                "build",
+                "posture",
+                "set up",
+                "stance"
+            ],
+            "name_readings": [
+                "とち"
+            ],
+            "notes": [],
+            "on_readings": [
+                "コウ"
+            ],
+            "stroke_count": 14,
+            "unicode": "69CB"
+        },
+        "成": {
+            "freq_mainichi_shinbun": 116,
+            "grade": 4,
+            "heisig_en": "turn into",
+            "jlpt": 3,
+            "kanji": "成",
+            "kun_readings": [
+                "-な.す",
+                "な.す",
+                "な.る"
+            ],
+            "meanings": [
+                "become",
+                "elapse",
+                "get",
+                "grow",
+                "reach",
+                "turn into"
+            ],
+            "name_readings": [
+                "あき",
+                "あきら",
+                "しげ",
+                "そん",
+                "たえ",
+                "なお",
+                "なり",
+                "なる",
+                "のり",
+                "ひら",
+                "まさ",
+                "よし",
+                "り"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ジョウ",
+                "セイ"
+            ],
+            "stroke_count": 6,
+            "unicode": "6210"
+        }
+    }
+}

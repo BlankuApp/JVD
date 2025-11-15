@@ -1,0 +1,552 @@
+{
+    "version": "0.3.0",
+    "word": "単位",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/1Ml9A-cu8vE",
+    "in_db": true,
+    "kanji": "単位",
+    "reading": "たんい",
+    "introduction_japanese": "単位。学校の成績や授業の話、メートル・キログラムなどを数えるときによく出てきます。",
+    "introduction_english": "たんい. You’ll hear it when talking about school credits and when measuring things like meters and kilograms.",
+    "meanings": [
+        [
+            "unit",
+            "measure",
+            "standard",
+            "denomination"
+        ],
+        [
+            "credit"
+        ],
+        [
+            "component",
+            "module",
+            "element"
+        ]
+    ],
+    "meaning_explanation_japanese": "ものをはかるときのきまりや、大学などでの授業のポイントの数、そして全体を分けたひとかたまりを表します。",
+    "meaning_explanation_english": "It is used as a noun. In everyday use, たんい means a measuring standard like meter or yen, a school credit, or a single component in a larger system.",
+    "youtube_description": "Learn たんい in minutes: what it means, how to use it for measurements and school credits, with clear examples and tips.",
+    "kanji_details": [
+        {
+            "kanji": "単",
+            "onyomi": [
+                "タン"
+            ],
+            "kunyomi": [
+                "ひとえ"
+            ],
+            "meanings_english": [
+                "simple",
+                "single"
+            ],
+            "common_words": [
+                "単語（たんご）: vocabulary word",
+                "単純（たんじゅん）: simple"
+            ]
+        },
+        {
+            "kanji": "位",
+            "onyomi": [
+                "イ"
+            ],
+            "kunyomi": [
+                "くらい"
+            ],
+            "meanings_english": [
+                "rank",
+                "position",
+                "place"
+            ],
+            "common_words": [
+                "位置（いち）: position",
+                "地位（ちい）: status"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means simple or single. It often suggests one piece or uncomplicated. You see it in たんご and たんじゅん. It feels clear and neat.\nThe second kanji means rank or place. It points to order or position. You meet it in ちい and いち. It often marks where something sits on a scale.",
+    "synonyms": [
+        "ユニット : ゆにっと : unit, module",
+        "学点 : がくてん : academic credit"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ゆにっと and がくてん. ゆにっと overlaps when talking about a component or module. がくてん overlaps with the school sense, but it is older or institutional and much less common in everyday speech than たんい.",
+    "antonyms": [
+        "落単 : らくたん : failing a course (no credit)"
+    ],
+    "antonym_explanation": "The most common antonym of the word is らくたん. It contrasts with the credit sense of たんい by indicating that you did not earn it.",
+    "collocations": [
+        {
+            "kanji": "1) Noun collocations",
+            "furigana": "1) Noun collocations",
+            "translations": {
+                "EN": "1) Noun collocations",
+                "ID": "1) Kolokasi kata benda",
+                "ES": "1) Colocaciones nominales",
+                "VI": "1) Cụm danh từ",
+                "FR": "1) Collocations nominales",
+                "NE": "१) संज्ञा संयोजन",
+                "BN": "১) বিশেষ্যের সমষ্টি",
+                "ZH": "1）名词搭配",
+                "KO": "1) Noun collocations",
+                "TL": "1) Kolokasyon ng pangngalan",
+                "MY": "1) နာမ်အစုအဝေးများ",
+                "HI": "1) संज्ञा संयोजन",
+                "AR": "1) تركيبات الأسماء",
+                "FA": "۱) هم‌آیندهای اسمی"
+            }
+        },
+        {
+            "kanji": "長さの単位",
+            "furigana": "長(なが)さの単(たん)位(い)",
+            "translations": {
+                "EN": "Unit of length",
+                "ID": "Satuan panjang",
+                "ES": "Unidad de longitud",
+                "VI": "Đơn vị độ dài",
+                "FR": "Unité de longueur",
+                "NE": "लम्बाइको एकाइ",
+                "BN": "দৈর্ঘ্যের একক",
+                "ZH": "长度单位",
+                "KO": "길이 단위",
+                "TL": "Yunit ng haba",
+                "MY": "အလျားယူနစ်",
+                "HI": "लंबाई की इकाई",
+                "AR": "وحدة الطول",
+                "FA": "واحد طول"
+            }
+        },
+        {
+            "kanji": "重さの単位",
+            "furigana": "重(おも)さの単(たん)位(い)",
+            "translations": {
+                "EN": "Unit of weight",
+                "ID": "Satuan berat",
+                "ES": "Unidad de peso",
+                "VI": "Đơn vị trọng lượng",
+                "FR": "Unité de poids",
+                "NE": "तौलको एकाइ",
+                "BN": "ওজনের একক",
+                "ZH": "重量单位",
+                "KO": "무게 단위",
+                "TL": "Yunit ng timbang",
+                "MY": "အလေးချိန်ယူနစ်",
+                "HI": "वजन की इकाई",
+                "AR": "وحدة الوزن",
+                "FA": "واحد وزن"
+            }
+        },
+        {
+            "kanji": "時間の単位",
+            "furigana": "時間(じかん)の単(たん)位(い)",
+            "translations": {
+                "EN": "Unit of time",
+                "ID": "Satuan waktu",
+                "ES": "Unidad de tiempo",
+                "VI": "Đơn vị thời gian",
+                "FR": "Unité de temps",
+                "NE": "समयको एकाइ",
+                "BN": "সময়ের একক",
+                "ZH": "时间单位",
+                "KO": "시간 단위",
+                "TL": "Yunit ng oras",
+                "MY": "အချိန်ယူနစ်",
+                "HI": "समय की इकाई",
+                "AR": "وحدة الزمن",
+                "FA": "واحد زمان"
+            }
+        },
+        {
+            "kanji": "通貨単位",
+            "furigana": "通(つう)貨(か)単(たん)位(い)",
+            "translations": {
+                "EN": "Currency Unit",
+                "ID": "Satuan Mata Uang",
+                "ES": "Unidad monetaria",
+                "VI": "Đơn vị tiền tệ",
+                "FR": "Unité monétaire",
+                "NE": "मुद्रा एकाइ",
+                "BN": "মুদ্রা একক",
+                "ZH": "货币单位",
+                "KO": "통화 단위",
+                "TL": "Yunit ng Pera",
+                "MY": "ငွေကြေးယူနစ်",
+                "HI": "मुद्रा इकाई",
+                "AR": "وحدة العملة",
+                "FA": "واحد پول"
+            }
+        },
+        {
+            "kanji": "学校の単位",
+            "furigana": "学校(がっこう)の単(たん)位(い)",
+            "translations": {
+                "EN": "School credits",
+                "ID": "Kredit sekolah",
+                "ES": "créditos escolares",
+                "VI": "Tín chỉ trường học",
+                "FR": "Crédits scolaires",
+                "NE": "स्कूल क्रेडिटहरू",
+                "BN": "স্কুল ক্রেডিট",
+                "ZH": "学分",
+                "KO": "학교 단위",
+                "TL": "Mga kredito sa paaralan",
+                "MY": "ကျောင်းဒရက်",
+                "HI": "स्कूल क्रेडिट",
+                "AR": "الاعتمادات المدرسية",
+                "FA": "اعتبارات مدرسه"
+            }
+        },
+        {
+            "kanji": "最小単位",
+            "furigana": "最(さい)小(しょう)単(たん)位(い)",
+            "translations": {
+                "EN": "Minimum unit",
+                "ID": "Satuan minimal",
+                "ES": "Unidad mínima",
+                "VI": "Đơn vị tối thiểu",
+                "FR": "Unité minimale",
+                "NE": "न्यूनतम एकाइ",
+                "BN": "সর্বনিম্ন ইউনিট",
+                "ZH": "最小单位",
+                "KO": "최소 단위",
+                "TL": "Minimum na yunit",
+                "MY": "အနည်းဆုံးယူနစ်",
+                "HI": "न्यूनतम इकाई",
+                "AR": "الوحدة الدنيا",
+                "FA": "حداقل واحد"
+            }
+        },
+        {
+            "kanji": "2) Verb collocations",
+            "furigana": "2) Verb collocations",
+            "translations": {
+                "EN": "2) Verb collocations",
+                "ID": "2) Kolokasi kata kerja",
+                "ES": "2) Colocaciones verbales",
+                "VI": "2) Cụm động từ",
+                "FR": "2) Collocations verbales",
+                "NE": "२) क्रिया संयोजन",
+                "BN": "২) ক্রিয়াপদের সমষ্টি",
+                "ZH": "2）动词搭配",
+                "KO": "2) Verb collocations",
+                "TL": "2) Kolokasyon ng pandiwa",
+                "MY": "2) ကြိယာအစုအဝေးများ",
+                "HI": "2) क्रिया संयोजन",
+                "AR": "2) تركيبات الأفعال",
+                "FA": "۲) هم‌آیندهای فعل"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この授業は２単位です。",
+            "furigana": "この授業(じゅぎょう)は２単(たん)位(い)です。",
+            "translations": {
+                "EN": "This class is worth two credits.",
+                "ID": "Kelas ini bernilai dua kredit.",
+                "ES": "Esta clase vale dos créditos.",
+                "VI": "Lớp học này có giá trị là hai tín chỉ.",
+                "FR": "Ce cours vaut deux crédits.",
+                "NE": "यो कक्षा दुई क्रेडिटको लायक छ।",
+                "BN": "এই ক্লাসটির মূল্য দুটি ক্রেডিট।",
+                "ZH": "这门课值两个学分。",
+                "KO": "이 수업은 2단위입니다.",
+                "TL": "Ang klase na ito ay nagkakahalaga ng dalawang kredito.",
+                "MY": "ဤအတန်းသည် ခရက်ဒစ်နှစ်ခုနှင့် ထိုက်တန်ပါသည်။",
+                "HI": "यह कक्षा दो क्रेडिट के बराबर है।",
+                "AR": "هذه الفئة تستحق درجتين ائتمانيتين.",
+                "FA": "این کلاس دو واحد درسی دارد."
+            }
+        },
+        {
+            "kanji": "あと３単位が必要です。",
+            "furigana": "あと３単(たん)位(い)が必(ひつ)要(よう)です。",
+            "translations": {
+                "EN": "I need three more units.",
+                "ID": "Saya butuh tiga unit lagi.",
+                "ES": "Necesito tres unidades más.",
+                "VI": "Tôi cần thêm ba đơn vị nữa.",
+                "FR": "Il me faut trois unités supplémentaires.",
+                "NE": "मलाई अझै तीन वटा युनिट चाहिन्छ।",
+                "BN": "আমার আরও তিনটি ইউনিট দরকার।",
+                "ZH": "我还需要三台。",
+                "KO": "그리고 3단위가 필요합니다.",
+                "TL": "Kailangan ko ng tatlo pang unit.",
+                "MY": "နောက်ထပ် ယူနစ်သုံးလုံးလိုတယ်။",
+                "HI": "मुझे तीन और इकाइयों की जरूरत है.",
+                "AR": "أحتاج إلى ثلاث وحدات أخرى.",
+                "FA": "من به سه واحد دیگر نیاز دارم."
+            }
+        },
+        {
+            "kanji": "長さの単位はメートルです。",
+            "furigana": "長(なが)さの単(たん)位(い)はメートルです。",
+            "translations": {
+                "EN": "The unit of length is meters.",
+                "ID": "Satuan panjang adalah meter.",
+                "ES": "La unidad de longitud es el metro.",
+                "VI": "Đơn vị đo chiều dài là mét.",
+                "FR": "L'unité de longueur est le mètre.",
+                "NE": "लम्बाइको एकाइ मिटर हो।",
+                "BN": "দৈর্ঘ্যের একক হল মিটার।",
+                "ZH": "长度单位是米。",
+                "KO": "길이의 단위는 미터입니다.",
+                "TL": "Ang yunit ng haba ay metro.",
+                "MY": "အရှည်ယူနစ်သည် မီတာဖြစ်သည်။",
+                "HI": "लम्बाई की इकाई मीटर है।",
+                "AR": "وحدة الطول هي المتر.",
+                "FA": "واحد طول متر است."
+            }
+        },
+        {
+            "kanji": "通貨単位は円です。",
+            "furigana": "通(つう)貨(か)単(たん)位(い)は円(えん)です。",
+            "translations": {
+                "EN": "The currency unit is the yen.",
+                "ID": "Satuan mata uangnya adalah yen.",
+                "ES": "La unidad monetaria es el yen.",
+                "VI": "Đơn vị tiền tệ là yên.",
+                "FR": "L'unité monétaire est le yen.",
+                "NE": "मुद्रा एकाइ येन हो।",
+                "BN": "মুদ্রার একক হল ইয়েন।",
+                "ZH": "货币单位是日元。",
+                "KO": "통화 단위는 엔입니다.",
+                "TL": "Ang yunit ng pera ay ang yen.",
+                "MY": "ငွေကြေးယူနစ်မှာ ယန်းဖြစ်သည်။",
+                "HI": "मुद्रा इकाई येन है।",
+                "AR": "وحدة العملة هي الين.",
+                "FA": "واحد پول ین است."
+            }
+        },
+        {
+            "kanji": "単位を換算してください。",
+            "furigana": "単(たん)位(い)を換(かん)算(さん)してくだい。",
+            "translations": {
+                "EN": "Please convert the units.",
+                "ID": "Harap konversikan satuannya.",
+                "ES": "Por favor, convierta las unidades.",
+                "VI": "Vui lòng chuyển đổi đơn vị.",
+                "FR": "Veuillez convertir les unités.",
+                "NE": "कृपया एकाइहरू रूपान्तरण गर्नुहोस्।",
+                "BN": "অনুগ্রহ করে ইউনিটগুলো রূপান্তর করুন।",
+                "ZH": "请转换单位。",
+                "KO": "단위를 환산하십시오.",
+                "TL": "Paki-convert ang mga unit.",
+                "MY": "ယူနစ်များကို ပြောင်းပေးပါ။",
+                "HI": "कृपया इकाइयों को परिवर्तित करें.",
+                "AR": "يرجى تحويل الوحدات.",
+                "FA": "لطفا واحدها را تبدیل کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "satuan",
+            "ES": "unidad",
+            "VI": "đơn vị",
+            "FR": "unité",
+            "NE": "एकाइ",
+            "BN": "ইউনিট",
+            "ZH": "单元",
+            "KO": "단위",
+            "TL": "yunit",
+            "MY": "ယူနစ်",
+            "HI": "इकाई",
+            "AR": "وحدة",
+            "FA": "واحد",
+            "EN": [
+                "unit",
+                "measure",
+                "standard",
+                "denomination"
+            ]
+        },
+        {
+            "ID": "kredit",
+            "ES": "crédito",
+            "VI": "tín dụng",
+            "FR": "crédit",
+            "NE": "क्रेडिट",
+            "BN": "ক্রেডিট",
+            "ZH": "信用",
+            "KO": "신용 거래",
+            "TL": "pautang",
+            "MY": "credit ပါ။",
+            "HI": "श्रेय",
+            "AR": "ائتمان",
+            "FA": "اعتبار",
+            "EN": [
+                "credit"
+            ]
+        },
+        {
+            "ID": "komponen",
+            "ES": "componente",
+            "VI": "thành phần",
+            "FR": "composant",
+            "NE": "घटक",
+            "BN": "উপাদান",
+            "ZH": "成分",
+            "KO": "요소",
+            "TL": "sangkap",
+            "MY": "အစိတ်အပိုင်း",
+            "HI": "अवयव",
+            "AR": "عنصر",
+            "FA": "جزء",
+            "EN": [
+                "component",
+                "module",
+                "element"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "単位",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "単位",
+                "reading": "たんい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "unit",
+                    "denomination"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "credit (in school)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "in units of (e.g. \"in thousands\")",
+                    "in amounts of"
+                ],
+                "parts_of_speech": [
+                    "Suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Unit"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Unit” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Unit?oldid=495540091"
+                    },
+                    {
+                        "text": "Read “単位” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/単位?oldid=39917348"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Unit"
+        }
+    },
+    "kanji_list": [
+        "単",
+        "位"
+    ],
+    "kanji_data": {
+        "単": {
+            "freq_mainichi_shinbun": 586,
+            "grade": 4,
+            "heisig_en": "simple",
+            "jlpt": 3,
+            "kanji": "単",
+            "kun_readings": [
+                "ひとえ"
+            ],
+            "meanings": [
+                "merely",
+                "one",
+                "simple",
+                "single"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "タン"
+            ],
+            "stroke_count": 9,
+            "unicode": "5358"
+        },
+        "位": {
+            "freq_mainichi_shinbun": 276,
+            "grade": 4,
+            "heisig_en": "rank",
+            "jlpt": 3,
+            "kanji": "位",
+            "kun_readings": [
+                "くらい",
+                "ぐらい"
+            ],
+            "meanings": [
+                "about",
+                "crown",
+                "grade",
+                "rank",
+                "some",
+                "throne"
+            ],
+            "name_readings": [
+                "ぞき"
+            ],
+            "notes": [],
+            "on_readings": [
+                "イ"
+            ],
+            "stroke_count": 7,
+            "unicode": "4F4D"
+        }
+    }
+}

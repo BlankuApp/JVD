@@ -1,0 +1,516 @@
+{
+    "version": "0.3.0",
+    "word": "天然",
+    "jlpt_level": 3,
+    "youtube_link": "https://youtu.be/If6t45-v-CQ",
+    "in_db": true,
+    "kanji": "天然",
+    "reading": "てんねん",
+    "introduction_japanese": "天然。食べ物や水、温泉の話でよく使います。人の性格を言うときにも使います。",
+    "introduction_english": "てんねん. We use this when talking about food, water, hot springs, and also when describing someone’s personality.",
+    "meanings": [
+        [
+            "natural",
+            "pure",
+            "unprocessed",
+            "wild",
+            "innate"
+        ],
+        [
+            "airheaded",
+            "ditzy",
+            "spacey",
+            "naive",
+            "oblivious"
+        ]
+    ],
+    "meaning_explanation_japanese": "作ったり化学処理をしていない、本来のままという意味です。また、人の性格では、計算せず、ぼんやりした感じを表します。",
+    "meaning_explanation_english": "It is used as a noun and as a na-adjective in Japanese. てんねん literally points to something that is in its original state or born that way, and by extension can describe a person who acts innocently or spacey without calculation.",
+    "youtube_description": "Learn how to use 天然 (tennen) in daily Japanese! We cover the meanings “natural” and the casual “airhead” sense, with examples, kanji tips, and easy phrases.",
+    "kanji_details": [
+        {
+            "kanji": "天",
+            "onyomi": [
+                "テン"
+            ],
+            "kunyomi": [
+                "あま",
+                "あめ"
+            ],
+            "meanings_english": [
+                "heaven",
+                "sky"
+            ],
+            "common_words": [
+                "天気（てんき）：weather",
+                "天才（てんさい）：genius"
+            ]
+        },
+        {
+            "kanji": "然",
+            "onyomi": [
+                "ゼン",
+                "ネン"
+            ],
+            "kunyomi": [
+                "しか",
+                "しかり"
+            ],
+            "meanings_english": [
+                "so",
+                "nature-like"
+            ],
+            "common_words": [
+                "自然（しぜん）：nature",
+                "当然（とうぜん）：natural; of course"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means sky or heaven. You see it in てんき for weather. It also appears in てんさい for genius. Think of things that come from above or feel natural. The second kanji means so or in a natural way. You see it in しぜん for nature. It also appears in とうぜん meaning of course. It adds the idea of as it is or by its nature.",
+    "synonyms": [
+        "自然 : しぜん : nature; natural",
+        "無添加 : むてんか : additive-free"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are しぜん and むてんか. しぜん overlaps when you mean “natural” or “by nature,” while むてんか fits food labels meaning “no additives,” which is a specific type of natural/clean product.",
+    "antonyms": [
+        "人工 : じんこう : artificial, man-made",
+        "加工 : かこう : processed"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are じんこう and かこう. じんこう is the opposite of natural origin, and かこう means something has been altered or treated, unlike items left as they are.",
+    "collocations": [
+        {
+            "kanji": "天然水",
+            "furigana": "天(てん)然(ねん)水(すい)",
+            "translations": {
+                "EN": "Natural spring water",
+                "ID": "Mata air alami",
+                "ES": "agua de manantial natural",
+                "VI": "Nước suối tự nhiên",
+                "FR": "eau de source naturelle",
+                "NE": "प्राकृतिक मुहानको पानी",
+                "BN": "প্রাকৃতিক ঝর্ণার জল",
+                "ZH": "天然泉水",
+                "KO": "천연수",
+                "TL": "Natural na tubig sa bukal",
+                "MY": "သဘာဝစိမ့်စမ်းရေ",
+                "HI": "प्राकृतिक झरने का पानी",
+                "AR": "مياه الينابيع الطبيعية",
+                "FA": "آب چشمه طبیعی"
+            }
+        },
+        {
+            "kanji": "天然温泉",
+            "furigana": "天(てん)然(ねん)温(おん)泉(せん)",
+            "translations": {
+                "EN": "natural hot springs",
+                "ID": "sumber air panas alami",
+                "ES": "aguas termales naturales",
+                "VI": "suối nước nóng tự nhiên",
+                "FR": "sources thermales naturelles",
+                "NE": "प्राकृतिक तातो पानीका मुहानहरू",
+                "BN": "প্রাকৃতিক উষ্ণ প্রস্রবণ",
+                "ZH": "天然温泉",
+                "KO": "천연온천",
+                "TL": "likas na mainit na bukal",
+                "MY": "သဘာဝရေပူစမ်း",
+                "HI": "प्राकृतिक गर्म झरने",
+                "AR": "الينابيع الساخنة الطبيعية",
+                "FA": "چشمه‌های آب گرم طبیعی"
+            }
+        },
+        {
+            "kanji": "天然資源",
+            "furigana": "天(てん)然(ねん)資(し)源(げん)",
+            "translations": {
+                "EN": "natural resources",
+                "ID": "sumber daya alam",
+                "ES": "recursos naturales",
+                "VI": "tài nguyên thiên nhiên",
+                "FR": "ressources naturelles",
+                "NE": "प्राकृतिक स्रोतहरू",
+                "BN": "প্রাকৃতিক সম্পদ",
+                "ZH": "自然资源",
+                "KO": "천연 자원",
+                "TL": "likas na yaman",
+                "MY": "သဘာဝအရင်းအမြစ်များ",
+                "HI": "प्राकृतिक संसाधन",
+                "AR": "الموارد الطبيعية",
+                "FA": "منابع طبیعی"
+            }
+        },
+        {
+            "kanji": "天然ガス",
+            "furigana": "天(てん)然(ねん)ガス",
+            "translations": {
+                "EN": "natural gas",
+                "ID": "gas alam",
+                "ES": "gas natural",
+                "VI": "khí đốt tự nhiên",
+                "FR": "gaz naturel",
+                "NE": "प्राकृतिक ग्याँस",
+                "BN": "প্রাকৃতিক গ্যাস",
+                "ZH": "天然气",
+                "KO": "천연가스",
+                "TL": "natural na gas",
+                "MY": "သဘာဝဓာတ်ငွေ့",
+                "HI": "प्राकृतिक गैस",
+                "AR": "الغاز الطبيعي",
+                "FA": "گاز طبیعی"
+            }
+        },
+        {
+            "kanji": "天然の魚",
+            "furigana": "天(てん)然(ねん)の魚(さかな)",
+            "translations": {
+                "EN": "Wild fish",
+                "ID": "Ikan liar",
+                "ES": "peces salvajes",
+                "VI": "Cá hoang dã",
+                "FR": "Poissons sauvages",
+                "NE": "जंगली माछा",
+                "BN": "বন্য মাছ",
+                "ZH": "野生鱼类",
+                "KO": "천연 물고기",
+                "TL": "Mabangis na isda",
+                "MY": "တောငါး",
+                "HI": "जंगली मछली",
+                "AR": "الأسماك البرية",
+                "FA": "ماهی وحشی"
+            }
+        },
+        {
+            "kanji": "彼の天然",
+            "furigana": "彼(かれ)の天(てん)然(ねん)",
+            "translations": {
+                "EN": "His natural",
+                "ID": "Sifat alaminya",
+                "ES": "Su natural",
+                "VI": "Bản chất tự nhiên của anh ấy",
+                "FR": "Son naturel",
+                "NE": "उसको प्राकृतिक",
+                "BN": "তার স্বাভাবিক",
+                "ZH": "他天生的",
+                "KO": "그의 천연",
+                "TL": "Ang natural niya",
+                "MY": "သူ့သဘာဝ",
+                "HI": "उसका स्वाभाविक",
+                "AR": "طبيعته",
+                "FA": "طبیعی او"
+            }
+        },
+        {
+            "kanji": "天然ボケ",
+            "furigana": "天(てん)然(ねん)ボケ",
+            "translations": {
+                "EN": "Airhead",
+                "ID": "Orang bebal",
+                "ES": "Cabeza de aire",
+                "VI": "Đầu óc trống rỗng",
+                "FR": "Tête en l'air",
+                "NE": "एयरहेड",
+                "BN": "এয়ারহেড",
+                "ZH": "傻瓜",
+                "KO": "천연 bokeh",
+                "TL": "Airhead",
+                "MY": "လေခေါင်း",
+                "HI": "एयरहेड",
+                "AR": "أحمق",
+                "FA": "ایرهد"
+            }
+        },
+        {
+            "kanji": "天然素材",
+            "furigana": "天(てん)然(ねん)素(そ)材(ざい)",
+            "translations": {
+                "EN": "natural materials",
+                "ID": "bahan-bahan alami",
+                "ES": "materiales naturales",
+                "VI": "vật liệu tự nhiên",
+                "FR": "matériaux naturels",
+                "NE": "प्राकृतिक सामग्रीहरू",
+                "BN": "প্রাকৃতিক উপকরণ",
+                "ZH": "天然材料",
+                "KO": "천연 소재",
+                "TL": "likas na materyales",
+                "MY": "သဘာဝပစ္စည်းများ",
+                "HI": "प्राकृतिक सामग्री",
+                "AR": "المواد الطبيعية",
+                "FA": "مواد طبیعی"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "天然資源を守る",
+            "furigana": "天(てん)然(ねん)資(し)源(げん)を守(まも)る",
+            "translations": {
+                "EN": "Protecting natural resources",
+                "ID": "Melindungi sumber daya alam",
+                "ES": "Protección de los recursos naturales",
+                "VI": "Bảo vệ tài nguyên thiên nhiên",
+                "FR": "Protection des ressources naturelles",
+                "NE": "प्राकृतिक स्रोतहरूको संरक्षण",
+                "BN": "প্রাকৃতিক সম্পদ রক্ষা",
+                "ZH": "保护自然资源",
+                "KO": "천연 자원을 보호",
+                "TL": "Pagprotekta sa likas na yaman",
+                "MY": "သဘာဝအရင်းအမြစ်များကို ကာကွယ်စောင့်ရှောက်ခြင်း။",
+                "HI": "प्राकृतिक संसाधनों की सुरक्षा",
+                "AR": "حماية الموارد الطبيعية",
+                "FA": "حفاظت از منابع طبیعی"
+            }
+        },
+        {
+            "kanji": "天然ガスを利用する",
+            "furigana": "天(てん)然(ねん)ガスを利(り)用(よう)する",
+            "translations": {
+                "EN": "Use natural gas",
+                "ID": "Gunakan gas alam",
+                "ES": "Utilizar gas natural",
+                "VI": "Sử dụng khí đốt tự nhiên",
+                "FR": "Utiliser le gaz naturel",
+                "NE": "प्राकृतिक ग्यास प्रयोग गर्नुहोस्",
+                "BN": "প্রাকৃতিক গ্যাস ব্যবহার করুন",
+                "ZH": "使用天然气",
+                "KO": "천연가스 이용",
+                "TL": "Gumamit ng natural gas",
+                "MY": "သဘာဝဓာတ်ငွေ့သုံးပါ။",
+                "HI": "प्राकृतिक गैस का उपयोग करें",
+                "AR": "استخدم الغاز الطبيعي",
+                "FA": "از گاز طبیعی استفاده کنید"
+            }
+        },
+        {
+            "kanji": "天然素材で作る",
+            "furigana": "天(てん)然(ねん)素(そ)材(ざい)で作(つく)る",
+            "translations": {
+                "EN": "Made with natural materials",
+                "ID": "Dibuat dengan bahan alami",
+                "ES": "Elaborado con materiales naturales",
+                "VI": "Được làm bằng vật liệu tự nhiên",
+                "FR": "Fabriqué avec des matériaux naturels",
+                "NE": "प्राकृतिक सामग्रीबाट बनेको",
+                "BN": "প্রাকৃতিক উপকরণ দিয়ে তৈরি",
+                "ZH": "采用天然材料制成",
+                "KO": "천연 소재로 만든다",
+                "TL": "Ginawa gamit ang mga likas na materyales",
+                "MY": "သဘာဝပစ္စည်းများဖြင့်ပြုလုပ်ထားသည်။",
+                "HI": "प्राकृतिक सामग्री से निर्मित",
+                "AR": "مصنوعة من مواد طبيعية",
+                "FA": "ساخته شده با مواد طبیعی"
+            }
+        },
+        {
+            "kanji": "天然の味を生かす",
+            "furigana": "天(てん)然(ねん)の味(あじ)を生(い)かす",
+            "translations": {
+                "EN": "Making the most of natural flavors",
+                "ID": "Memanfaatkan rasa alami secara maksimal",
+                "ES": "Aprovechar al máximo los sabores naturales",
+                "VI": "Tận dụng tối đa hương vị tự nhiên",
+                "FR": "Tirer le meilleur parti des saveurs naturelles",
+                "NE": "प्राकृतिक स्वादको अधिकतम उपयोग गर्दै",
+                "BN": "প্রাকৃতিক স্বাদের সর্বোচ্চ ব্যবহার করা",
+                "ZH": "充分利用天然风味",
+                "KO": "천연 맛을 살린다",
+                "TL": "Sulitin ang natural na lasa",
+                "MY": "သဘာဝအရသာအရှိဆုံးဖြစ်အောင် ဖန်တီးပါ။",
+                "HI": "प्राकृतिक स्वादों का अधिकतम लाभ उठाना",
+                "AR": "الاستفادة القصوى من النكهات الطبيعية",
+                "FA": "استفاده بهینه از طعم‌های طبیعی"
+            }
+        },
+        {
+            "kanji": "天然温泉に入る",
+            "furigana": "天(てん)然(ねん)温(おん)泉(せん)に入(はい)る",
+            "translations": {
+                "EN": "Take a dip in a natural hot spring",
+                "ID": "Berendamlah di sumber air panas alami",
+                "ES": "Date un chapuzón en una fuente termal natural.",
+                "VI": "Ngâm mình trong suối nước nóng tự nhiên",
+                "FR": "Plongez dans une source thermale naturelle",
+                "NE": "प्राकृतिक तातोपानीको मुहानमा डुबुल्की मार्नुहोस",
+                "BN": "প্রাকৃতিক উষ্ণ প্রস্রবণে ডুব দিন",
+                "ZH": "在天然温泉里泡个澡",
+                "KO": "천연온천에 들어가다",
+                "TL": "Lumangoy sa isang natural na mainit na bukal",
+                "MY": "သဘာဝရေပူစမ်းမှာ နှစ်မြှုပ်လိုက်ပါ။",
+                "HI": "प्राकृतिक गर्म पानी के झरने में डुबकी लगाएँ",
+                "AR": "استمتع بالسباحة في ينبوع ساخن طبيعي",
+                "FA": "در چشمه آب گرم طبیعی شنا کنید"
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "alami",
+            "ES": "natural",
+            "VI": "tự nhiên",
+            "FR": "naturel",
+            "NE": "प्राकृतिक",
+            "BN": "প্রাকৃতিক",
+            "ZH": "自然的",
+            "KO": "자연스러운",
+            "TL": "natural",
+            "MY": "သဘာဝ",
+            "HI": "प्राकृतिक",
+            "AR": "طبيعي",
+            "FA": "طبیعی",
+            "EN": [
+                "natural",
+                "pure",
+                "unprocessed",
+                "wild",
+                "innate"
+            ]
+        },
+        {
+            "ID": "orang yang tidak punya pikiran",
+            "ES": "cabeza hueca",
+            "VI": "đầu óc rỗng tuếch",
+            "FR": "tête en l'air",
+            "NE": "हावामा उड्ने",
+            "BN": "বায়ুচালিত",
+            "ZH": "头脑简单的",
+            "KO": "멍청한",
+            "TL": "airheaded",
+            "MY": "လေပွေ",
+            "HI": "मूर्ख",
+            "AR": "أحمق",
+            "FA": "سر به هوا",
+            "EN": [
+                "airheaded",
+                "ditzy",
+                "spacey",
+                "naive",
+                "oblivious"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "天然",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "天然",
+                "reading": "てんねん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "nature",
+                    "spontaneity"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [
+                    "人工"
+                ],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "natural airhead"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation",
+                    "Colloquial"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "天然ボケ"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "天",
+        "然"
+    ],
+    "kanji_data": {
+        "天": {
+            "freq_mainichi_shinbun": 512,
+            "grade": 1,
+            "heisig_en": "heavens",
+            "jlpt": 5,
+            "kanji": "天",
+            "kun_readings": [
+                "あま-",
+                "あまつ",
+                "あめ"
+            ],
+            "meanings": [
+                "heavens",
+                "imperial",
+                "sky"
+            ],
+            "name_readings": [
+                "あき",
+                "あも",
+                "た",
+                "たかし",
+                "て",
+                "なま"
+            ],
+            "notes": [],
+            "on_readings": [
+                "テン"
+            ],
+            "stroke_count": 4,
+            "unicode": "5929"
+        },
+        "然": {
+            "freq_mainichi_shinbun": 401,
+            "grade": 4,
+            "heisig_en": "sort of thing",
+            "jlpt": 3,
+            "kanji": "然",
+            "kun_readings": [
+                "さ",
+                "しか",
+                "しか.し",
+                "しか.り"
+            ],
+            "meanings": [
+                "if so",
+                "in that case",
+                "so",
+                "sort of thing",
+                "well"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ゼン",
+                "ネン"
+            ],
+            "stroke_count": 12,
+            "unicode": "7136"
+        }
+    }
+}
