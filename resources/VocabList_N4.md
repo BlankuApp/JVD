@@ -88,9 +88,7 @@
 | 地震  | じしん | earthquake |
 | 紹介  | しょうかい | introduction |
 | 説明  | せつめい | explanation |
-| 相談  | そうだん・する | to discuss |
 | 大分  | だいぶ | greatly |
-| 足す  | たす  | to add a number |
 | 建てる | たてる | to build |
 | 続ける | つづける | to continue |
 | 電灯  | でんとう | electric light |
@@ -113,6 +111,8 @@
 
 | Kanji | Hiragana | English |
 | --- | --- | --- |
+| 足す  | たす  | to add a number |
+| 相談  | そうだん・する | to discuss |
 | 間   | あいだ | a space |
 | 合う  | あう  | to match |
 |     | あかちゃん | infant |

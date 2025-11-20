@@ -1,0 +1,477 @@
+{
+    "version": "0.3.0",
+    "word": "地震",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/O_t8hx6AsJ0",
+    "in_db": true,
+    "kanji": "地震",
+    "reading": "じしん",
+    "introduction_japanese": "地震。ニュースや防災の話でよく使う言葉だよ。避難や安全確認のときにも出てくるよ。",
+    "introduction_english": "じしん. Used in news and disaster-preparedness talks. It also comes up during evacuation and safety checks.",
+    "meanings": [
+        [
+            "earthquake",
+            "quake",
+            "tremor",
+            "shaking"
+        ]
+    ],
+    "meaning_explanation_japanese": "大地が大きくゆれる自然の現象のことだよ。建物や人が感じる強いゆれを指すよ。",
+    "meaning_explanation_english": "It is used as a noun. じしん means the natural event where the ground shakes strongly.",
+    "youtube_description": "Learn じしん (earthquake): meaning, natural phrases like 地震が起きる, and beginner-friendly examples and safety words. Short, clear, and practical.",
+    "kanji_details": [
+        {
+            "kanji": "地",
+            "onyomi": [
+                "チ",
+                "ジ"
+            ],
+            "kunyomi": [
+                "じ",
+                "ち"
+            ],
+            "meanings_english": [
+                "earth",
+                "ground",
+                "land"
+            ],
+            "common_words": [
+                "土地（とち）: land",
+                "地図（ちず）: map"
+            ]
+        },
+        {
+            "kanji": "震",
+            "onyomi": [
+                "シン"
+            ],
+            "kunyomi": [
+                "ふる",
+                "ふるえ"
+            ],
+            "meanings_english": [
+                "shake",
+                "tremble"
+            ],
+            "common_words": [
+                "震える（ふるえる）: to tremble",
+                "震度（しんど）: seismic intensity"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means earth or ground. It often talks about places or areas. You see it in words like とち and ちず. Think of land and where we live. The second kanji means to shake or tremble. It is about movement and vibration. You see it in words like ふるえる and しんど. It hints at how strong the shaking feels.",
+    "synonyms": [
+        "余震 : よしん : aftershock",
+        "振動 : しんどう : vibration"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are よしん and しんどう. よしん is a later, smaller event after the main one, while しんどう is general shaking and not always a natural disaster.",
+    "antonyms": [
+        "平穏 : へいおん : tranquility"
+    ],
+    "antonym_explanation": "The most common antonym of the word is へいおん, which describes calm, peaceful conditions with no shaking or danger.",
+    "collocations": [
+        {
+            "kanji": "大きな地震",
+            "furigana": "大(おお)きな地震(じしん)",
+            "translations": {
+                "EN": "big earthquake",
+                "ID": "gempa bumi besar",
+                "ES": "gran terremoto",
+                "VI": "động đất lớn",
+                "FR": "grand tremblement de terre",
+                "NE": "ठूलो भूकम्प",
+                "BN": "বড় ভূমিকম্প",
+                "ZH": "大地震",
+                "KO": "큰 지진",
+                "TL": "malaking lindol",
+                "MY": "ငလျင်ကြီး",
+                "HI": "बड़ा भूकंप",
+                "AR": "زلزال كبير",
+                "FA": "زلزله بزرگ"
+            }
+        },
+        {
+            "kanji": "強い地震",
+            "furigana": "強(つよ)い地震(じしん)",
+            "translations": {
+                "EN": "Strong earthquake",
+                "ID": "Gempa bumi yang kuat",
+                "ES": "Fuerte terremoto",
+                "VI": "Động đất mạnh",
+                "FR": "Fort séisme",
+                "NE": "शक्तिशाली भूकम्प",
+                "BN": "তীব্র ভূমিকম্প",
+                "ZH": "强烈地震",
+                "KO": "강한 지진",
+                "TL": "Malakas na lindol",
+                "MY": "ပြင်းထန်သောငလျင်",
+                "HI": "शक्तिशाली भूकंप",
+                "AR": "زلزال قوي",
+                "FA": "زلزله شدید"
+            }
+        },
+        {
+            "kanji": "地震速報",
+            "furigana": "地震(じしん)速報(そくほう)",
+            "translations": {
+                "EN": "Earthquake Alert",
+                "ID": "Peringatan Gempa Bumi",
+                "ES": "Alerta de terremoto",
+                "VI": "Cảnh báo động đất",
+                "FR": "Alerte sismique",
+                "NE": "भूकम्पको अलर्ट",
+                "BN": "ভূমিকম্পের সতর্কতা",
+                "ZH": "地震警报",
+                "KO": "지진 속보",
+                "TL": "Alerto sa Lindol",
+                "MY": "ငလျင်သတိပေးချက်",
+                "HI": "भूकंप की चेतावनी",
+                "AR": "تنبيه زلزال",
+                "FA": "هشدار زلزله"
+            }
+        },
+        {
+            "kanji": "地震警報",
+            "furigana": "地震(じしん)警報(けいほう)",
+            "translations": {
+                "EN": "Earthquake warning",
+                "ID": "Peringatan gempa bumi",
+                "ES": "Alerta de terremoto",
+                "VI": "Cảnh báo động đất",
+                "FR": "Alerte sismique",
+                "NE": "भूकम्पको चेतावनी",
+                "BN": "ভূমিকম্পের সতর্কতা",
+                "ZH": "地震预警",
+                "KO": "지진 경보",
+                "TL": "Babala sa lindol",
+                "MY": "ငလျင်သတိပေးချက်",
+                "HI": "भूकंप की चेतावनी",
+                "AR": "تحذير من الزلزال",
+                "FA": "هشدار زلزله"
+            }
+        },
+        {
+            "kanji": "地震の揺れ",
+            "furigana": "地震(じしん)の揺(ゆ)れ",
+            "translations": {
+                "EN": "Earthquake tremors",
+                "ID": "Getaran gempa bumi",
+                "ES": "temblores sísmicos",
+                "VI": "Động đất rung chuyển",
+                "FR": "secousses sismiques",
+                "NE": "भूकम्पका झट्काहरू",
+                "BN": "ভূমিকম্পের কম্পন",
+                "ZH": "地震震动",
+                "KO": "지진의 흔들림",
+                "TL": "Panginginig ng lindol",
+                "MY": "ငလျင်လှုပ်တယ်။",
+                "HI": "भूकंप के झटके",
+                "AR": "هزات الزلزال",
+                "FA": "لرزش‌های زلزله"
+            }
+        },
+        {
+            "kanji": "地震の被害",
+            "furigana": "地震(じしん)の被害(ひがい)",
+            "translations": {
+                "EN": "Earthquake damage",
+                "ID": "Kerusakan akibat gempa bumi",
+                "ES": "Daños por terremoto",
+                "VI": "Thiệt hại do động đất",
+                "FR": "Dégâts causés par le tremblement de terre",
+                "NE": "भूकम्पको क्षति",
+                "BN": "ভূমিকম্পের ক্ষয়ক্ষতি",
+                "ZH": "地震破坏",
+                "KO": "지진 피해",
+                "TL": "Pagkasira ng lindol",
+                "MY": "ငလျင်ကြောင့် ထိခိုက်မှု",
+                "HI": "भूकंप से हुई क्षति",
+                "AR": "أضرار الزلزال",
+                "FA": "خسارت زلزله"
+            }
+        },
+        {
+            "kanji": "地震保険",
+            "furigana": "地震(じしん)保険(ほけん)",
+            "translations": {
+                "EN": "Earthquake insurance",
+                "ID": "Asuransi gempa bumi",
+                "ES": "seguro contra terremotos",
+                "VI": "Bảo hiểm động đất",
+                "FR": "assurance tremblement de terre",
+                "NE": "भूकम्प बीमा",
+                "BN": "ভূমিকম্প বীমা",
+                "ZH": "地震保险",
+                "KO": "지진보험",
+                "TL": "Insurance sa lindol",
+                "MY": "ငလျင်အာမခံ",
+                "HI": "भूकंप बीमा",
+                "AR": "تأمين الزلازل",
+                "FA": "بیمه زلزله"
+            }
+        },
+        {
+            "kanji": "地震が起きる",
+            "furigana": "地震(じしん)が起(お)きる",
+            "translations": {
+                "EN": "An earthquake occurs",
+                "ID": "Terjadi gempa bumi",
+                "ES": "Se produce un terremoto",
+                "VI": "Một trận động đất xảy ra",
+                "FR": "Un tremblement de terre se produit",
+                "NE": "भूकम्प आउँछ",
+                "BN": "ভূমিকম্প হয়",
+                "ZH": "地震发生",
+                "KO": "지진이 일어난다",
+                "TL": "Isang lindol ang nagaganap",
+                "MY": "မြေငလျင်လှုပ်ခတ်မှု ဖြစ်ပေါ်သည်။",
+                "HI": "भूकंप आता है",
+                "AR": "يحدث زلزال",
+                "FA": "زلزله رخ می‌دهد"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "昨日の地震は大きかったです。",
+            "furigana": "昨日(きのう)の地震(じしん)は大(おお)きかったです。",
+            "translations": {
+                "EN": "Yesterday's earthquake was big.",
+                "ID": "Gempa kemarin sangat besar.",
+                "ES": "El terremoto de ayer fue fuerte.",
+                "VI": "Trận động đất ngày hôm qua rất lớn.",
+                "FR": "Le tremblement de terre d'hier était important.",
+                "NE": "हिजोको भूकम्प ठूलो थियो।",
+                "BN": "গতকালের ভূমিকম্পটি ছিল বড়।",
+                "ZH": "昨天的地震震级很大。",
+                "KO": "어제의 지진은 컸다.",
+                "TL": "Malakas ang lindol kahapon.",
+                "MY": "မနေ့ကငလျင်က ကြီးတယ်။",
+                "HI": "कल का भूकंप बड़ा था.",
+                "AR": "لقد كان زلزال الأمس كبيرا.",
+                "FA": "زلزله دیروز خیلی بزرگ بود."
+            }
+        },
+        {
+            "kanji": "夜に地震が起きました。",
+            "furigana": "夜(よる)に地震(じしん)が起(お)きました。",
+            "translations": {
+                "EN": "There was an earthquake at night.",
+                "ID": "Terjadi gempa bumi pada malam hari.",
+                "ES": "Hubo un terremoto por la noche.",
+                "VI": "Có một trận động đất vào ban đêm.",
+                "FR": "Il y a eu un tremblement de terre pendant la nuit.",
+                "NE": "राति भूकम्प गयो।",
+                "BN": "রাতে ভূমিকম্প হয়েছিল।",
+                "ZH": "夜里发生了地震。",
+                "KO": "밤에 지진이 일어났습니다.",
+                "TL": "Nagkaroon ng lindol sa gabi.",
+                "MY": "ညက ငလျင်လှုပ်တယ်။",
+                "HI": "रात को भूकंप आया।",
+                "AR": "لقد حدث زلزال في الليل.",
+                "FA": "شب زلزله آمد."
+            }
+        },
+        {
+            "kanji": "地震のときは机の下に入ります。",
+            "furigana": "地震(じしん)のときは机(つくえ)の下(した)に入(はい)ります。",
+            "translations": {
+                "EN": "In the event of an earthquake, get under a desk.",
+                "ID": "Jika terjadi gempa bumi, berlindunglah di bawah meja.",
+                "ES": "En caso de terremoto, métete debajo de un escritorio.",
+                "VI": "Trong trường hợp xảy ra động đất, hãy chui xuống gầm bàn.",
+                "FR": "En cas de tremblement de terre, abritez-vous sous un bureau.",
+                "NE": "भूकम्प आएमा, डेस्कमुनि बस्नुहोस्।",
+                "BN": "ভূমিকম্প হলে, ডেস্কের নিচে বসে পড়ুন।",
+                "ZH": "地震发生时，躲到桌子底下。",
+                "KO": "지진 때는 책상 아래로 들어갑니다.",
+                "TL": "Sa kaganapan ng isang lindol, pumunta sa ilalim ng isang desk.",
+                "MY": "ငလျင်လှုပ်လျှင် စားပွဲခုံအောက်သို့ ဆင်းပါ။",
+                "HI": "भूकंप आने की स्थिति में, किसी मेज के नीचे छिप जाएं।",
+                "AR": "في حالة وقوع زلزال، قم بالاختباء تحت المكتب.",
+                "FA": "در صورت وقوع زلزله، زیر میز پناه بگیرید."
+            }
+        },
+        {
+            "kanji": "地震で電車が止まりました。",
+            "furigana": "地震(じしん)で電車(でんしゃ)が止(と)まりました。",
+            "translations": {
+                "EN": "The earthquake stopped the trains.",
+                "ID": "Gempa bumi menghentikan kereta api.",
+                "ES": "El terremoto paralizó los trenes.",
+                "VI": "Trận động đất đã làm dừng các chuyến tàu.",
+                "FR": "Le tremblement de terre a interrompu le trafic ferroviaire.",
+                "NE": "भूकम्पले रेलहरू रोक्यो।",
+                "BN": "ভূমিকম্পে ট্রেন চলাচল বন্ধ হয়ে যায়।",
+                "ZH": "地震导致火车停运。",
+                "KO": "지진으로 기차가 멈췄습니다.",
+                "TL": "Napahinto ng lindol ang mga tren.",
+                "MY": "ငလျင်ကြောင့် ရထားတွေ ရပ်တန့်သွားတယ်။",
+                "HI": "भूकंप के कारण रेलगाड़ियां रुक गईं।",
+                "AR": "توقف القطارات بسبب الزلزال.",
+                "FA": "زلزله باعث توقف حرکت قطارها شد."
+            }
+        },
+        {
+            "kanji": "地震を感じたら、ドアを開けます。",
+            "furigana": "地震(じしん)を感(かん)じたら、ドアを開(あ)けます。",
+            "translations": {
+                "EN": "If you feel an earthquake, open the door.",
+                "ID": "Jika Anda merasakan gempa bumi, buka pintunya.",
+                "ES": "Si sientes un terremoto, abre la puerta.",
+                "VI": "Nếu bạn cảm thấy có động đất, hãy mở cửa.",
+                "FR": "Si vous ressentez un tremblement de terre, ouvrez la porte.",
+                "NE": "यदि तपाईंलाई भूकम्पको धक्का महसुस भयो भने, ढोका खोल्नुहोस्।",
+                "BN": "ভূমিকম্প অনুভব করলে দরজা খুলে দিন।",
+                "ZH": "如果感觉到地震，请打开门。",
+                "KO": "지진을 느끼면 문을 엽니다.",
+                "TL": "Kung nakaramdam ka ng lindol, buksan ang pinto.",
+                "MY": "ငလျင်လှုပ်ရင် တံခါးဖွင့်ပါ။",
+                "HI": "यदि आपको भूकंप का अहसास हो तो दरवाजा खोल दें।",
+                "AR": "إذا شعرت بالزلزال افتح الباب.",
+                "FA": "اگر زلزله را حس کردید، در را باز کنید."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "gempa bumi",
+            "ES": "terremoto",
+            "VI": "động đất",
+            "FR": "tremblement de terre",
+            "NE": "भूकम्प",
+            "BN": "ভূমিকম্প",
+            "ZH": "地震",
+            "KO": "지진",
+            "TL": "lindol",
+            "MY": "ငလျင်",
+            "HI": "भूकंप",
+            "AR": "زلزال",
+            "FA": "زلزله",
+            "EN": [
+                "earthquake",
+                "quake",
+                "tremor",
+                "shaking"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "地震",
+        "is_common": true,
+        "tags": [
+            "wanikani20"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "地震",
+                "reading": "じしん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "earthquake"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Earthquake"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Earthquake” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Earthquake?oldid=494410975"
+                    },
+                    {
+                        "text": "Read “地震” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/地震?oldid=42682719"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Earthquake"
+        }
+    },
+    "kanji_list": [
+        "地",
+        "震"
+    ],
+    "kanji_data": {
+        "地": {
+            "freq_mainichi_shinbun": 40,
+            "grade": 2,
+            "heisig_en": "ground",
+            "jlpt": 4,
+            "kanji": "地",
+            "kun_readings": [],
+            "meanings": [
+                "earth",
+                "ground"
+            ],
+            "name_readings": [
+                "どま"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ジ",
+                "チ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5730"
+        },
+        "震": {
+            "freq_mainichi_shinbun": 893,
+            "grade": 8,
+            "heisig_en": "quake",
+            "jlpt": 2,
+            "kanji": "震",
+            "kun_readings": [
+                "ふる.う",
+                "ふる.える",
+                "ふる.わす",
+                "ふる.わせる"
+            ],
+            "meanings": [
+                "quake",
+                "quiver",
+                "shake",
+                "shiver",
+                "tremble"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "シン"
+            ],
+            "stroke_count": 15,
+            "unicode": "9707"
+        }
+    }
+}

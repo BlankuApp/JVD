@@ -1,0 +1,602 @@
+{
+    "version": "0.3.0",
+    "word": "具合",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/55SH1OP5IV4",
+    "in_db": true,
+    "kanji": "具合",
+    "reading": "ぐあい",
+    "introduction_japanese": "具合。体のようすや、きかいのちょうしをたずねるときに使います。仕事のすすみかたや、使いごこちを話すときにも使います。",
+    "introduction_english": "ぐあい. Used when asking or saying how someone’s health is, or how a machine is working. Also used to talk about progress or how something feels to use.",
+    "meanings": [
+        [
+            "condition",
+            "state",
+            "function"
+        ],
+        [
+            "health",
+            "wellbeing"
+        ],
+        [
+            "manner",
+            "way",
+            "style",
+            "mode],["
+        ]
+    ],
+    "meaning_explanation_japanese": "人や物のようす、はたらきの状態、やり方、そしてちょうどよさ・あいしょうを表します。",
+    "meaning_explanation_english": "It is used as a noun. ぐあい talks about the condition of people or things, how something works or feels, the way it is done, and whether it is suitable or convenient.",
+    "youtube_description": "Learn the word ぐあい: what it means, how to use it for health, machines, and “just-right” situations, with quick examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "具",
+            "onyomi": [
+                "グ"
+            ],
+            "kunyomi": [
+                "そなえる"
+            ],
+            "meanings_english": [
+                "tool",
+                "equipment",
+                "ingredient"
+            ],
+            "common_words": [
+                "道具（どうぐ）：tools",
+                "具体（ぐたい）：concrete; specific"
+            ]
+        },
+        {
+            "kanji": "合",
+            "onyomi": [
+                "ゴウ",
+                "ガッ"
+            ],
+            "kunyomi": [
+                "あう",
+                "あわせる"
+            ],
+            "meanings_english": [
+                "fit",
+                "match",
+                "join"
+            ],
+            "common_words": [
+                "合同（ごうどう）：joint; combined",
+                "合格（ごうかく）：pass (an exam)"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means tools and also the idea of being fully equipped. You see it in どうぐ for tools. It also appears in ぐたい meaning concrete and specific. Think of real items and clear details. The second kanji means to fit, to match, and to come together. You see it in ごうどう for joint or together. You also see it in ごうかく for passing an exam. It often suggests things matching well.",
+    "synonyms": [
+        "調子 : ちょうし : condition",
+        "状態 : じょうたい : state"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ちょうし and じょうたい. ちょうし focuses on performance or tempo, especially for machines or body energy. じょうたい is a neutral word for the current state. ぐあい often adds the feel of suitability or comfort in real use.",
+    "antonyms": [
+        "不具合 : ふぐあい : malfunction"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ふぐあい. While ぐあい can be neutral or good, ふぐあい clearly means something is wrong or not working as expected.",
+    "collocations": [
+        {
+            "kanji": "体の具合",
+            "furigana": "体(からだ)の具合(ぐあい)",
+            "translations": {
+                "EN": "Physical condition",
+                "ID": "Kondisi fisik",
+                "ES": "condición física",
+                "VI": "Tình trạng thể chất",
+                "FR": "condition physique",
+                "NE": "शारीरिक अवस्था",
+                "BN": "শারীরিক অবস্থা",
+                "ZH": "身体状况",
+                "KO": "몸의 상태",
+                "TL": "Pisikal na kalagayan",
+                "MY": "ရုပ်ပိုင်းဆိုင်ရာအခြေအနေ",
+                "HI": "शारीरिक स्थिति",
+                "AR": "الحالة الجسدية",
+                "FA": "وضعیت جسمی"
+            }
+        },
+        {
+            "kanji": "機械の具合",
+            "furigana": "機械(きかい)の具合(ぐあい)",
+            "translations": {
+                "EN": "Condition of the machine",
+                "ID": "Kondisi mesin",
+                "ES": "Estado de la máquina",
+                "VI": "Tình trạng của máy",
+                "FR": "État de la machine",
+                "NE": "मेसिनको अवस्था",
+                "BN": "মেশিনের অবস্থা",
+                "ZH": "机器状况",
+                "KO": "기계의 상태",
+                "TL": "Kondisyon ng makina",
+                "MY": "စက်၏အခြေအနေ",
+                "HI": "मशीन की स्थिति",
+                "AR": "حالة الماكينة",
+                "FA": "وضعیت دستگاه"
+            }
+        },
+        {
+            "kanji": "パソコンの具合",
+            "furigana": "パソコンの具合(ぐあい)",
+            "translations": {
+                "EN": "PC condition",
+                "ID": "Kondisi PC",
+                "ES": "Estado del PC",
+                "VI": "Tình trạng máy tính",
+                "FR": "État du PC",
+                "NE": "पीसी अवस्था",
+                "BN": "পিসির অবস্থা",
+                "ZH": "电脑状况",
+                "KO": "PC의 상태",
+                "TL": "Kondisyon ng PC",
+                "MY": "PC အခြေအနေ",
+                "HI": "पीसी की स्थिति",
+                "AR": "حالة الكمبيوتر",
+                "FA": "وضعیت کامپیوتر"
+            }
+        },
+        {
+            "kanji": "焼き具合",
+            "furigana": "焼(や)き具合(ぐあい)",
+            "translations": {
+                "EN": "Doneness",
+                "ID": "Kematangan",
+                "ES": "Finalización",
+                "VI": "Độ chín",
+                "FR": "Terminé",
+                "NE": "सम्पन्नता",
+                "BN": "দানশীলতা",
+                "ZH": "完成度",
+                "KO": "구이 상태",
+                "TL": "Doneness",
+                "MY": "ပြီး၏။",
+                "HI": "रास",
+                "AR": "النضج",
+                "FA": "آماده بودن"
+            }
+        },
+        {
+            "kanji": "火の具合",
+            "furigana": "火(ひ)の具合(ぐあい)",
+            "translations": {
+                "EN": "Condition of the fire",
+                "ID": "Kondisi kebakaran",
+                "ES": "Estado del incendio",
+                "VI": "Tình trạng của đám cháy",
+                "FR": "État de l'incendie",
+                "NE": "आगलागीको अवस्था",
+                "BN": "আগুনের অবস্থা",
+                "ZH": "火灾状况",
+                "KO": "불의 상태",
+                "TL": "Kondisyon ng sunog",
+                "MY": "မီးလောင်မှုအခြေအနေ",
+                "HI": "आग की स्थिति",
+                "AR": "حالة الحريق",
+                "FA": "وضعیت آتش سوزی"
+            }
+        },
+        {
+            "kanji": "味の具合",
+            "furigana": "味(あじ)の具合(ぐあい)",
+            "translations": {
+                "EN": "Taste",
+                "ID": "Mencicipi",
+                "ES": "Gusto",
+                "VI": "Nếm",
+                "FR": "Goût",
+                "NE": "स्वाद",
+                "BN": "স্বাদ",
+                "ZH": "品尝",
+                "KO": "맛의 상태",
+                "TL": "lasa",
+                "MY": "အရသာ",
+                "HI": "स्वाद",
+                "AR": "ذوق",
+                "FA": "طعم"
+            }
+        },
+        {
+            "kanji": "ちょうどいい具合",
+            "furigana": "ちょうどいい具合(ぐあい)",
+            "translations": {
+                "EN": "Just right",
+                "ID": "Tepat sekali",
+                "ES": "Justo en su punto",
+                "VI": "Vừa phải",
+                "FR": "Parfait",
+                "NE": "ठीक छ",
+                "BN": "ঠিক আছে।",
+                "ZH": "正好",
+                "KO": "딱 좋은 상태",
+                "TL": "Tama lang",
+                "MY": "မှန်တယ်။",
+                "HI": "बिलकुल सही",
+                "AR": "فقط على ما يرام",
+                "FA": "درست و حسابی"
+            }
+        },
+        {
+            "kanji": "いちばんいい具合",
+            "furigana": "いちばんいい具合(ぐあい)",
+            "translations": {
+                "EN": "The best condition",
+                "ID": "Kondisi terbaik",
+                "ES": "Las mejores condiciones",
+                "VI": "Tình trạng tốt nhất",
+                "FR": "La meilleure condition",
+                "NE": "सबैभन्दा राम्रो अवस्था",
+                "BN": "সবচেয়ে ভালো অবস্থা",
+                "ZH": "最佳状态",
+                "KO": "가장 좋은 상태",
+                "TL": "Ang pinakamagandang kondisyon",
+                "MY": "အကောင်းဆုံးအခြေအနေ",
+                "HI": "सबसे अच्छी स्थिति",
+                "AR": "أفضل حالة",
+                "FA": "بهترین حالت"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "体の具合はどうですか。",
+            "furigana": "体(からだ)の具合(ぐあい)はどうですか。",
+            "translations": {
+                "EN": "How are you feeling?",
+                "ID": "Bagaimana perasaanmu?",
+                "ES": "¿Cómo te sientes?",
+                "VI": "Bạn cảm thấy thế nào?",
+                "FR": "Comment te sens-tu?",
+                "NE": "तिमीलाई कस्तो लागिरहेको छ?",
+                "BN": "কেমন লাগছে?",
+                "ZH": "你感觉怎么样？",
+                "KO": "몸의 상태는 어떻습니까?",
+                "TL": "kamusta ang pakiramdam mo",
+                "MY": "မင်းဘယ်လိုနေလဲ။",
+                "HI": "तुम कैसा महसूस कर रहे हो?",
+                "AR": "كيف تشعر؟",
+                "FA": "چه احساسی دارید؟"
+            }
+        },
+        {
+            "kanji": "今日は少し具合が悪いです。",
+            "furigana": "今日(きょう)は少(すこ)し具合(ぐあい)が悪(わる)いです。",
+            "translations": {
+                "EN": "I'm feeling a little unwell today.",
+                "ID": "Saya merasa agak tidak enak badan hari ini.",
+                "ES": "Hoy me siento un poco mal.",
+                "VI": "Hôm nay tôi cảm thấy hơi không khỏe.",
+                "FR": "Je ne me sens pas très bien aujourd'hui.",
+                "NE": "आज मलाई अलि अस्वस्थ महसुस भइरहेको छ।",
+                "BN": "আজ আমার শরীরটা একটু খারাপ লাগছে।",
+                "ZH": "我今天感觉有点不舒服。",
+                "KO": "오늘은 조금 나쁘다.",
+                "TL": "Medyo masama ang pakiramdam ko ngayon.",
+                "MY": "ဒီနေ့ နည်းနည်း နေမကောင်းဘူး။",
+                "HI": "आज मैं थोड़ा अस्वस्थ महसूस कर रहा हूं।",
+                "AR": "أنا أشعر بقليل من التوعك اليوم.",
+                "FA": "امروز کمی حالم بد است."
+            }
+        },
+        {
+            "kanji": "この時計は具合がいい。",
+            "furigana": "この時計(とけい)は具合(ぐあい)がいい。",
+            "translations": {
+                "EN": "This watch is in good condition.",
+                "ID": "Jam tangan ini dalam kondisi baik.",
+                "ES": "Este reloj está en buen estado.",
+                "VI": "Chiếc đồng hồ này còn rất tốt.",
+                "FR": "Cette montre est en bon état.",
+                "NE": "यो घडी राम्रो अवस्थामा छ।",
+                "BN": "এই ঘড়িটি ভালো অবস্থায় আছে।",
+                "ZH": "这块手表状况良好。",
+                "KO": "이 시계는 상태가 좋다.",
+                "TL": "Ang relo na ito ay nasa mabuting kalagayan.",
+                "MY": "ဒီနာရီက အခြေအနေကောင်းတယ်။",
+                "HI": "यह घड़ी अच्छी हालत में है.",
+                "AR": "هذه الساعة في حالة جيدة.",
+                "FA": "این ساعت در وضعیت خوبی است."
+            }
+        },
+        {
+            "kanji": "エレベーターの具合を見てください。",
+            "furigana": "エレベーターの具合(ぐあい)を見(み)てください。",
+            "translations": {
+                "EN": "Check out the elevators.",
+                "ID": "Lihatlah liftnya.",
+                "ES": "Echa un vistazo a los ascensores.",
+                "VI": "Hãy kiểm tra thang máy.",
+                "FR": "Allez voir les ascenseurs.",
+                "NE": "लिफ्टहरू हेर्नुहोस्।",
+                "BN": "লিফটগুলো দেখো।",
+                "ZH": "去看看电梯。",
+                "KO": "엘리베이터의 상태를 보십시오.",
+                "TL": "Tingnan ang mga elevator.",
+                "MY": "ဓာတ်လှေခါးများကို စစ်ဆေးပါ။",
+                "HI": "लिफ्ट की जांच करें.",
+                "AR": "تحقق من المصاعد.",
+                "FA": "آسانسورها را بررسی کنید."
+            }
+        },
+        {
+            "kanji": "ステーキの焼き具合はどうしますか。",
+            "furigana": "ステーキの焼(や)き具合(ぐあい)はどうしますか。",
+            "translations": {
+                "EN": "How do you like your steak cooked?",
+                "ID": "Bagaimana Anda suka memasak steak Anda?",
+                "ES": "¿Cómo te gusta el filete?",
+                "VI": "Bạn thích bít tết được chế biến như thế nào?",
+                "FR": "Comment aimez-vous votre steak cuit ?",
+                "NE": "तपाईंलाई स्टेक कस्तो लाग्यो?",
+                "BN": "তোমার স্টেক রান্না কেমন লেগেছে?",
+                "ZH": "你喜欢牛排几分熟？",
+                "KO": "스테이크의 구이 상태는 어떻게 합니까?",
+                "TL": "Paano mo gustong luto ang iyong steak?",
+                "MY": "မင်းရဲ့ အသားကင်ကို ဘယ်လိုကြိုက်လဲ။",
+                "HI": "आपको अपना स्टेक कैसे पकाना पसंद है?",
+                "AR": "كيف تحب أن تطبخ شريحة اللحم الخاصة بك؟",
+                "FA": "دوست دارید استیک‌تان چطور پخته شود؟"
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "kondisi",
+            "ES": "condición",
+            "VI": "tình trạng",
+            "FR": "condition",
+            "NE": "अवस्था",
+            "BN": "অবস্থা",
+            "ZH": "状况",
+            "KO": "상태",
+            "TL": "kundisyon",
+            "MY": "အခြေအနေ",
+            "HI": "स्थिति",
+            "AR": "حالة",
+            "FA": "وضعیت",
+            "EN": [
+                "condition",
+                "state",
+                "function"
+            ]
+        },
+        {
+            "ID": "kesehatan",
+            "ES": "salud",
+            "VI": "sức khỏe",
+            "FR": "santé",
+            "NE": "स्वास्थ्य",
+            "BN": "স্বাস্থ্য",
+            "ZH": "健康",
+            "KO": "건강",
+            "TL": "kalusugan",
+            "MY": "ကျန်းမာရေး",
+            "HI": "स्वास्थ्य",
+            "AR": "صحة",
+            "FA": "سلامت",
+            "EN": [
+                "health",
+                "wellbeing"
+            ]
+        },
+        {
+            "ID": "tata krama",
+            "ES": "manera",
+            "VI": "thái độ",
+            "FR": "manière",
+            "NE": "तरिका",
+            "BN": "পদ্ধতি",
+            "ZH": "方式",
+            "KO": "방법",
+            "TL": "paraan",
+            "MY": "နည်း",
+            "HI": "ढंग",
+            "AR": "طريقة",
+            "FA": "شیوه",
+            "EN": [
+                "manner",
+                "way",
+                "style",
+                "mode],["
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "具合",
+        "is_common": true,
+        "tags": [
+            "wanikani14"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "具合",
+                "reading": "ぐあい"
+            },
+            {
+                "word": "具合",
+                "reading": "ぐわい"
+            },
+            {
+                "word": "工合",
+                "reading": "ぐあい"
+            },
+            {
+                "word": "工合",
+                "reading": "ぐわい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "condition",
+                    "state"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "health",
+                    "state (of health)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "way",
+                    "manner"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "circumstance",
+                    "luck"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "face",
+                    "dignity",
+                    "decency",
+                    "propriety"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "具",
+        "合"
+    ],
+    "kanji_data": {
+        "具": {
+            "freq_mainichi_shinbun": 629,
+            "grade": 3,
+            "heisig_en": "tool",
+            "jlpt": 3,
+            "kanji": "具",
+            "kun_readings": [
+                "そな.える",
+                "つぶさ.に"
+            ],
+            "meanings": [
+                "counter for armor, suits, sets of furniture",
+                "ingredients",
+                "means",
+                "possess",
+                "tool",
+                "utensil"
+            ],
+            "name_readings": [
+                "とも"
+            ],
+            "notes": [],
+            "on_readings": [
+                "グ"
+            ],
+            "stroke_count": 8,
+            "unicode": "5177"
+        },
+        "合": {
+            "freq_mainichi_shinbun": 41,
+            "grade": 2,
+            "heisig_en": "fit",
+            "jlpt": 3,
+            "kanji": "合",
+            "kun_readings": [
+                "-あ.い",
+                "-あ.う",
+                "-あ.わせる",
+                "-あい",
+                "あ.い",
+                "あ.う",
+                "あ.わす",
+                "あ.わせる",
+                "あい-"
+            ],
+            "meanings": [
+                "0.1",
+                "fit",
+                "join",
+                "suit"
+            ],
+            "name_readings": [
+                "あう",
+                "あん",
+                "い",
+                "か",
+                "こう",
+                "ごお",
+                "に",
+                "ね",
+                "や",
+                "わい"
+            ],
+            "notes": [],
+            "on_readings": [
+                "カッ",
+                "ガッ",
+                "ゴウ"
+            ],
+            "stroke_count": 6,
+            "unicode": "5408"
+        }
+    }
+}

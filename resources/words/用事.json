@@ -1,0 +1,505 @@
+{
+    "version": "0.3.0",
+    "word": "用事",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/8zuGXdtVdLM",
+    "in_db": true,
+    "kanji": "用事",
+    "reading": "ようじ",
+    "introduction_japanese": "用事。友だちを断るときや、出かける理由を言うときによく使います。",
+    "introduction_english": "ようじ. We use this when refusing an invitation or explaining why we are going out.",
+    "meanings": [
+        [
+            "errand",
+            "task"
+        ],
+        [
+            "engagement",
+            "appointment",
+            "commitment"
+        ],
+        [
+            "matter",
+            "affair"
+        ]
+    ],
+    "meaning_explanation_japanese": "やらなければならないこと、出かけて片づけること、またはある出来事やようけんのことをまとめて言います。",
+    "meaning_explanation_english": "It is used as a noun. ようじ means a task or errand you need to take care of, a matter to handle, or an engagement that keeps you busy.",
+    "youtube_description": "Learn ようじ: what it means, when to use it, and natural phrases like 用事がある and 用事を済ます. Clear examples for beginners in just a few minutes!",
+    "kanji_details": [
+        {
+            "kanji": "用",
+            "onyomi": [
+                "ヨウ"
+            ],
+            "kunyomi": [
+                "もち-いる"
+            ],
+            "meanings_english": [
+                "use",
+                "purpose"
+            ],
+            "common_words": [
+                "使用（しよう）: use; usage",
+                "利用（りよう）: use; utilization"
+            ]
+        },
+        {
+            "kanji": "事",
+            "onyomi": [
+                "ジ",
+                "ズ"
+            ],
+            "kunyomi": [
+                "こと"
+            ],
+            "meanings_english": [
+                "thing",
+                "matter",
+                "event"
+            ],
+            "common_words": [
+                "仕事（しごと）: job; work",
+                "事情（じじょう）: circumstances; situation"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means use or purpose. It often shows up in words about using or utilizing something, like しよう and りよう. Think about tools and how you use them. It gives a feeling of function and practicality. The second kanji means thing or matter. You see it in words like しごと and じじょう. It points to events, facts, or issues to handle. It feels like concrete matters or situations.",
+    "synonyms": [
+        "用件 : ようけん : matter; business",
+        "予定 : よてい : plan; schedule"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are ようけん and よてい. ようけん is a specific matter or item to handle, often a bit formal. よてい is a planned event or schedule; you might have よてい even when there is no concrete task yet.",
+    "antonyms": [
+        "暇 : ひま : free time; not busy"
+    ],
+    "antonym_explanation": "The most common antonym of the word is ひま. It means you have free time and are not occupied by tasks, which is the opposite of having ようじ.",
+    "collocations": [
+        {
+            "kanji": "大事な用事",
+            "furigana": "大事(だいじ)な用事(ようじ)",
+            "translations": {
+                "EN": "Important business",
+                "ID": "Bisnis penting",
+                "ES": "Asuntos importantes",
+                "VI": "Kinh doanh quan trọng",
+                "FR": "Affaires importantes",
+                "NE": "महत्त्वपूर्ण व्यवसाय",
+                "BN": "গুরুত্বপূর্ণ ব্যবসা",
+                "ZH": "重要业务",
+                "KO": "소중한 용사",
+                "TL": "Mahalagang negosyo",
+                "MY": "အရေးကြီးသောလုပ်ငန်း",
+                "HI": "महत्वपूर्ण व्यवसाय",
+                "AR": "أعمال مهمة",
+                "FA": "کسب و کار مهم"
+            }
+        },
+        {
+            "kanji": "急な用事",
+            "furigana": "急(きゅう)な用事(ようじ)",
+            "translations": {
+                "EN": "Urgent business",
+                "ID": "Bisnis mendesak",
+                "ES": "Negocio urgente",
+                "VI": "Công việc khẩn cấp",
+                "FR": "Affaires urgentes",
+                "NE": "जरुरी व्यवसाय",
+                "BN": "জরুরি ব্যবসা",
+                "ZH": "紧急业务",
+                "KO": "가파른 일",
+                "TL": "Apurahang negosyo",
+                "MY": "အရေးပေါ်လုပ်ငန်း",
+                "HI": "तत्काल व्यवसाय",
+                "AR": "أعمال عاجلة",
+                "FA": "کسب و کار فوری"
+            }
+        },
+        {
+            "kanji": "家の用事",
+            "furigana": "家(いえ)の用事(ようじ)",
+            "translations": {
+                "EN": "Household chores",
+                "ID": "Pekerjaan rumah tangga",
+                "ES": "tareas domésticas",
+                "VI": "Công việc nhà",
+                "FR": "tâches ménagères",
+                "NE": "घरायसी कामहरू",
+                "BN": "গৃহস্থালির কাজ",
+                "ZH": "家务活",
+                "KO": "가정용사",
+                "TL": "Mga gawaing bahay",
+                "MY": "အိမ်မှုကိစ္စ",
+                "HI": "घर के काम",
+                "AR": "الأعمال المنزلية",
+                "FA": "کارهای خانه"
+            }
+        },
+        {
+            "kanji": "学校の用事",
+            "furigana": "学校(がっこう)の用事(ようじ)",
+            "translations": {
+                "EN": "School errands",
+                "ID": "Tugas sekolah",
+                "ES": "recados escolares",
+                "VI": "Việc vặt ở trường",
+                "FR": "courses scolaires",
+                "NE": "स्कूलका कामहरू",
+                "BN": "স্কুলের কাজকর্ম",
+                "ZH": "学校杂务",
+                "KO": "학교 용사",
+                "TL": "Mga gawain sa paaralan",
+                "MY": "ကျောင်းကိစ္စများ",
+                "HI": "स्कूल के काम",
+                "AR": "المهمات المدرسية",
+                "FA": "کارهای مدرسه"
+            }
+        },
+        {
+            "kanji": "明日の用事",
+            "furigana": "明日(あした)の用事(ようじ)",
+            "translations": {
+                "EN": "Tomorrow's errands",
+                "ID": "Tugas untuk besok",
+                "ES": "Los recados de mañana",
+                "VI": "Việc vặt ngày mai",
+                "FR": "Les courses de demain",
+                "NE": "भोलिको कामहरू",
+                "BN": "আগামীকালের কাজগুলো",
+                "ZH": "明天要办的事",
+                "KO": "내일 용사",
+                "TL": "Mga gawain bukas",
+                "MY": "မနက်​ဖြန်​ရဲ့အလုပ်တွေ",
+                "HI": "कल के काम",
+                "AR": "مهمات الغد",
+                "FA": "کارهای فردا"
+            }
+        },
+        {
+            "kanji": "仕事の用事",
+            "furigana": "仕事(しごと)の用事(ようじ)",
+            "translations": {
+                "EN": "Business matters",
+                "ID": "Masalah bisnis",
+                "ES": "Asuntos de negocios",
+                "VI": "Các vấn đề kinh doanh",
+                "FR": "Affaires",
+                "NE": "व्यापारिक मामिलाहरू",
+                "BN": "ব্যবসায়িক বিষয়",
+                "ZH": "商业事务",
+                "KO": "일의 일",
+                "TL": "Mahalaga ang negosyo",
+                "MY": "စီးပွားရေးကိစ္စ",
+                "HI": "व्यावसायिक मामले",
+                "AR": "مسائل الأعمال",
+                "FA": "امور تجاری"
+            }
+        },
+        {
+            "kanji": "用事で外出",
+            "furigana": "用事(ようじ)で外出(がいしゅつ)",
+            "translations": {
+                "EN": "Going out on errands",
+                "ID": "Pergi keluar untuk melakukan tugas",
+                "ES": "Salir a hacer recados",
+                "VI": "Đi ra ngoài làm việc vặt",
+                "FR": "Faire des courses",
+                "NE": "काममा बाहिर जाँदै",
+                "BN": "কাজে বাইরে যাওয়া",
+                "ZH": "外出办事",
+                "KO": "용사로 외출",
+                "TL": "Lumalabas sa mga gawain",
+                "MY": "အလုပ်ကိစ္စများသွားခြင်း။",
+                "HI": "काम से बाहर जाना",
+                "AR": "الخروج لقضاء المهمات",
+                "FA": "بیرون رفتن برای انجام کارهای روزمره"
+            }
+        },
+        {
+            "kanji": "用事がある",
+            "furigana": "用事(ようじ)がある",
+            "translations": {
+                "EN": "I have something to do",
+                "ID": "aku ada sesuatu yang harus dilakukan",
+                "ES": "Tengo algo que hacer",
+                "VI": "Tôi có việc phải làm",
+                "FR": "J'ai quelque chose à faire",
+                "NE": "मलाई केही गर्नु छ।",
+                "BN": "আমার কিছু করার আছে।",
+                "ZH": "我有事要做。",
+                "KO": "일이 있다",
+                "TL": "May gagawin ako",
+                "MY": "ငါလုပ်စရာရှိတယ်။",
+                "HI": "मुझे कुछ करना है",
+                "AR": "لدي شيء لأفعله",
+                "FA": "یه کاری دارم که باید انجام بدم"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "明日、用事があります。",
+            "furigana": "明日(あした)、用事(ようじ)があります。",
+            "translations": {
+                "EN": "I have something to do tomorrow.",
+                "ID": "Saya ada sesuatu yang harus dilakukan besok.",
+                "ES": "Tengo algo que hacer mañana.",
+                "VI": "Tôi có việc phải làm vào ngày mai.",
+                "FR": "J'ai quelque chose à faire demain.",
+                "NE": "मलाई भोलि केही गर्नु छ।",
+                "BN": "আগামীকাল আমার কিছু কাজ আছে।",
+                "ZH": "我明天有事要做。",
+                "KO": "내일, 일이 있습니다.",
+                "TL": "May gagawin ako bukas.",
+                "MY": "ငါမနက်ဖြန်လုပ်စရာရှိတယ်။",
+                "HI": "मुझे कल कुछ काम है.",
+                "AR": "لدي شيء لأفعله غداً.",
+                "FA": "فردا یه کاری دارم که باید انجام بدم."
+            }
+        },
+        {
+            "kanji": "今日は用事で学校を休みます。",
+            "furigana": "今日(きょう)は用事(ようじ)で学校(がっこう)を休(やす)みます。",
+            "translations": {
+                "EN": "I'm taking the day off from school today because I have some business to attend to.",
+                "ID": "Saya mengambil cuti dari sekolah hari ini karena ada urusan yang harus saya selesaikan.",
+                "ES": "Hoy me tomo el día libre de la escuela porque tengo algunos asuntos que atender.",
+                "VI": "Hôm nay tôi xin nghỉ học vì có việc phải giải quyết.",
+                "FR": "Je ne vais pas à l'école aujourd'hui car j'ai des affaires à régler.",
+                "NE": "आज म स्कूलबाट बिदा लिँदैछु किनभने मेरो केही काम छ।",
+                "BN": "আজ আমি স্কুল থেকে ছুটি নিচ্ছি কারণ আমার কিছু কাজ আছে।",
+                "ZH": "我今天请假一天，因为有些事情要处理。",
+                "KO": "오늘은 용사로 학교를 쉬고 있습니다.",
+                "TL": "I'm taking the day off from school today because I have some business to attend to.",
+                "MY": "ဒီနေ့ ကျောင်းပိတ်ရက်ဆိုတော့ အလုပ်ကိစ္စရှိလို့။",
+                "HI": "मैं आज स्कूल से छुट्टी ले रहा हूँ क्योंकि मुझे कुछ काम निपटाना है।",
+                "AR": "سأخذ إجازة من المدرسة اليوم لأن لدي بعض الأعمال التي يجب أن أقوم بها.",
+                "FA": "من امروز از مدرسه مرخصی می‌گیرم چون باید به کارهای مهمم برسم."
+            }
+        },
+        {
+            "kanji": "用事ができたので、行けません。",
+            "furigana": "用事(ようじ)ができたので、行(い)けません。",
+            "translations": {
+                "EN": "I can't go because I have something to do.",
+                "ID": "Saya tidak bisa pergi karena ada sesuatu yang harus saya lakukan.",
+                "ES": "No puedo ir porque tengo algo que hacer.",
+                "VI": "Tôi không thể đi được vì tôi còn việc phải làm.",
+                "FR": "Je ne peux pas y aller car j'ai quelque chose à faire.",
+                "NE": "म जान सक्दिन किनकि मलाई केही काम छ।",
+                "BN": "আমি যেতে পারছি না কারণ আমার কিছু কাজ আছে।",
+                "ZH": "我不能去，因为我有事要做。",
+                "KO": "일을 할 수 있었으므로 갈 수 없습니다.",
+                "TL": "Hindi ako makakapunta dahil may gagawin ako.",
+                "MY": "လုပ်စရာရှိလို့ သွားလို့မရဘူး။",
+                "HI": "मैं नहीं जा सकता क्योंकि मुझे कुछ काम है।",
+                "AR": "لا أستطيع الذهاب لأن لدي شيئاً لأفعله.",
+                "FA": "من نمیتونم برم چون یه کاری دارم."
+            }
+        },
+        {
+            "kanji": "午後に用事を済ませます。",
+            "furigana": "午後(ごご)に用事(ようじ)を済(す)ませます。",
+            "translations": {
+                "EN": "I'll run some errands in the afternoon.",
+                "ID": "Saya akan menjalankan beberapa tugas di sore hari.",
+                "ES": "Haré algunos recados por la tarde.",
+                "VI": "Tôi sẽ chạy một số việc vặt vào buổi chiều.",
+                "FR": "Je ferai quelques courses cet après-midi.",
+                "NE": "म दिउँसो केही काम गर्नेछु।",
+                "BN": "আমি বিকেলে কিছু কাজ সেরে ফেলব।",
+                "ZH": "我下午要去办点事。",
+                "KO": "오후에 일을 마칩니다.",
+                "TL": "May gagawin ako sa hapon.",
+                "MY": "နေ့ခင်းမှာ အလုပ်တွေလုပ်မယ်။",
+                "HI": "मैं दोपहर में कुछ काम निपटा लूंगा।",
+                "AR": "سأقوم بإنجاز بعض المهمات في فترة ما بعد الظهر.",
+                "FA": "بعد از ظهر یه سری کارها رو انجام میدم."
+            }
+        },
+        {
+            "kanji": "母の用事を手伝います。",
+            "furigana": "母(はは)の用事(ようじ)を手伝(てつだ)います。",
+            "translations": {
+                "EN": "I help my mother with her errands.",
+                "ID": "Saya membantu ibu saya dengan tugas-tugasnya.",
+                "ES": "Ayudo a mi madre con sus recados.",
+                "VI": "Tôi giúp mẹ tôi làm việc vặt.",
+                "FR": "J'aide ma mère à faire ses courses.",
+                "NE": "म मेरी आमालाई उहाँको काममा सघाउँछु।",
+                "BN": "আমি আমার মায়ের কাজে সাহায্য করি।",
+                "ZH": "我帮妈妈跑腿办事。",
+                "KO": "어머니의 일을 도와주세요.",
+                "TL": "Tinutulungan ko ang aking ina sa kanyang mga gawain.",
+                "MY": "အမေက သူ့အလုပ်တွေကို ကူညီပေးတယ်။",
+                "HI": "मैं अपनी माँ की उनके कामों में मदद करता हूँ।",
+                "AR": "أساعد والدتي في مهماتها.",
+                "FA": "من به مادرم در کارهایش کمک می‌کنم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "tugas",
+            "ES": "recado",
+            "VI": "việc vặt",
+            "FR": "course",
+            "NE": "काम",
+            "BN": "কাজ",
+            "ZH": "差事",
+            "KO": "심부름",
+            "TL": "utusan",
+            "MY": "အလုပ်",
+            "HI": "काम",
+            "AR": "مأمورية",
+            "FA": "کار اداری",
+            "EN": [
+                "errand",
+                "task"
+            ]
+        },
+        {
+            "ID": "pertunangan",
+            "ES": "compromiso",
+            "VI": "hôn ước",
+            "FR": "fiançailles",
+            "NE": "संलग्नता",
+            "BN": "বাগদান",
+            "ZH": "订婚",
+            "KO": "약혼",
+            "TL": "pakikipag-ugnayan",
+            "MY": "ထိတွေ့ဆက်ဆံမှု",
+            "HI": "सगाई",
+            "AR": "ارتباط",
+            "FA": "نامزدی",
+            "EN": [
+                "engagement",
+                "appointment",
+                "commitment"
+            ]
+        },
+        {
+            "ID": "urusan",
+            "ES": "asunto",
+            "VI": "vấn đề",
+            "FR": "matière",
+            "NE": "पदार्थ",
+            "BN": "পদার্থ",
+            "ZH": "事情",
+            "KO": "문제",
+            "TL": "bagay",
+            "MY": "ကိစ္စ",
+            "HI": "मामला",
+            "AR": "موضوع",
+            "FA": "ماده",
+            "EN": [
+                "matter",
+                "affair"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "用事",
+        "is_common": true,
+        "tags": [
+            "wanikani9"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "用事",
+                "reading": "ようじ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "business",
+                    "things to do",
+                    "engagement",
+                    "errand",
+                    "affairs"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "用",
+        "事"
+    ],
+    "kanji_data": {
+        "用": {
+            "freq_mainichi_shinbun": 107,
+            "grade": 2,
+            "heisig_en": "utilize",
+            "jlpt": 4,
+            "kanji": "用",
+            "kun_readings": [
+                "もち.いる"
+            ],
+            "meanings": [
+                "business",
+                "employ",
+                "service",
+                "use",
+                "utilize"
+            ],
+            "name_readings": [
+                "たから"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ヨウ"
+            ],
+            "stroke_count": 5,
+            "unicode": "7528"
+        },
+        "事": {
+            "freq_mainichi_shinbun": 18,
+            "grade": 3,
+            "heisig_en": "matter",
+            "jlpt": 4,
+            "kanji": "事",
+            "kun_readings": [
+                "こと",
+                "つか.う",
+                "つか.える"
+            ],
+            "meanings": [
+                "business",
+                "fact",
+                "matter",
+                "possibly",
+                "reason",
+                "thing"
+            ],
+            "name_readings": [
+                "ろ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ジ",
+                "ズ"
+            ],
+            "stroke_count": 8,
+            "unicode": "4E8B"
+        }
+    }
+}

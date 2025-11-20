@@ -1,0 +1,494 @@
+{
+    "version": "0.3.0",
+    "word": "別れる",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/1xWK3E31OLY",
+    "in_db": true,
+    "kanji": "別れる",
+    "reading": "わかれる",
+    "introduction_japanese": "別れる。友だちや恋人と、駅や家の前でよく使います。夫婦の話でもよく出ます。",
+    "introduction_english": "わかれる. Used when talking about friends or couples at a station or in front of a house. It also appears in topics about married couples.",
+    "meanings": [
+        [
+            "separate",
+            "part",
+            "split",
+            "leave"
+        ],
+        [
+            "divorce"
+        ],
+        [
+            "bereave"
+        ]
+    ],
+    "meaning_explanation_japanese": "人やグループがいっしょにいる状態から離れること。恋人や夫婦が関係を終わりにすること。死によって離ればなれになることもあります。",
+    "meaning_explanation_english": "It is used as an intransitive verb. わかれる means people or groups stop being together, end a relationship, or, in some cases, become separated because of death.",
+    "youtube_description": "Learn 別れる (wakaru) in simple steps: everyday uses, breakup vs. divorce nuance, and must-know phrases with clear examples for beginners.",
+    "kanji_details": [
+        {
+            "kanji": "別",
+            "onyomi": [
+                "ベツ",
+                "ヘツ"
+            ],
+            "kunyomi": [
+                "わか-れる",
+                "わ-ける"
+            ],
+            "meanings_english": [
+                "separate",
+                "another",
+                "different"
+            ],
+            "common_words": [
+                "別々 : べつべつ : separately; individually",
+                "区別 : くべつ : distinction; differentiation"
+            ]
+        }
+    ],
+    "kanji_explanation": "The only kanji means separation or distinction. It often shows things going different ways. You see it in べつべつ to say “separately.” You also see くべつ when talking about making a distinction.",
+    "synonyms": [
+        "離れる : はなれる : to separate; move away",
+        "離婚する : りこんする : to divorce"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are はなれる and りこんする. はなれる overlaps for general physical separation without focusing on relationships. りこんする is a legal end to marriage, which matches the married-couple use of わかれる.",
+    "antonyms": [
+        "付き合う : つきあう : to date; go out with"
+    ],
+    "antonym_explanation": "The most common antonym of the word is つきあう. It means to start or continue a romantic relationship, while わかれる means to end or part from it.",
+    "collocations": [
+        {
+            "kanji": "彼と別れる",
+            "furigana": "彼(かれ)と別(わか)れる",
+            "translations": {
+                "EN": "Break up with him",
+                "ID": "Putus dengannya",
+                "ES": "Rompe con él",
+                "VI": "Chia tay với anh ấy",
+                "FR": "Romps avec lui",
+                "NE": "उसँग सम्बन्ध विच्छेद गर्नुहोस्",
+                "BN": "তার সাথে সম্পর্ক ছিন্ন করো।",
+                "ZH": "和他分手",
+                "KO": "그와 헤어지다",
+                "TL": "Hiwalayan mo na siya",
+                "MY": "သူနဲ့ လမ်းခွဲလိုက်ပါ။",
+                "HI": "लिए उसे साथ तोड़",
+                "AR": "انفصل عنه",
+                "FA": "باهاش قطع رابطه کن"
+            }
+        },
+        {
+            "kanji": "彼女と別れる",
+            "furigana": "彼(かの)女(じょ)と別(わか)れる",
+            "translations": {
+                "EN": "Breaking up with her",
+                "ID": "Putus dengannya",
+                "ES": "Romper con ella",
+                "VI": "Chia tay với cô ấy",
+                "FR": "rompre avec elle",
+                "NE": "उनीसँग सम्बन्ध विच्छेद",
+                "BN": "তার সাথে সম্পর্ক ছিন্ন করা",
+                "ZH": "和她分手",
+                "KO": "그녀와 헤어지다",
+                "TL": "Nakipaghiwalay sa kanya",
+                "MY": "သူမနှင့်လမ်းခွဲ",
+                "HI": "उससे नाता तोड़ना",
+                "AR": "الانفصال عنها",
+                "FA": "جدایی از او"
+            }
+        },
+        {
+            "kanji": "恋人と別れる",
+            "furigana": "恋(こい)人(びと)と別(わか)れる",
+            "translations": {
+                "EN": "Breaking up with a lover",
+                "ID": "Putus dengan kekasih",
+                "ES": "Romper con un amante",
+                "VI": "Chia tay người yêu",
+                "FR": "Rupture amoureuse",
+                "NE": "प्रेमीसँग सम्बन्ध विच्छेद",
+                "BN": "প্রেমিকের সাথে সম্পর্ক ছিন্ন করা",
+                "ZH": "与爱人分手",
+                "KO": "연인과 헤어지다",
+                "TL": "Nakipaghiwalay sa isang manliligaw",
+                "MY": "ချစ်သူနဲ့ လမ်းခွဲတယ်။",
+                "HI": "प्रेमी से संबंध विच्छेद",
+                "AR": "الانفصال عن الحبيب",
+                "FA": "جدایی از معشوق"
+            }
+        },
+        {
+            "kanji": "夫婦が別れる",
+            "furigana": "夫(ふう)婦(ふ)が別(わか)れる",
+            "translations": {
+                "EN": "The couple separates",
+                "ID": "Pasangan itu berpisah",
+                "ES": "La pareja se separa",
+                "VI": "Cặp đôi chia tay",
+                "FR": "Le couple se sépare",
+                "NE": "जोडी छुट्टिन्छन्",
+                "BN": "দম্পতি আলাদা হয়ে যায়",
+                "ZH": "这对夫妇分居了。",
+                "KO": "부부가 헤어지다",
+                "TL": "Maghihiwalay ang mag-asawa",
+                "MY": "လင်မယားနှစ်ယောက် ကွဲကွာ",
+                "HI": "दंपत्ति अलग हो जाते हैं",
+                "AR": "الزوجان ينفصلان",
+                "FA": "زوج از هم جدا می‌شوند"
+            }
+        },
+        {
+            "kanji": "道で別れる",
+            "furigana": "道(みち)で別(わか)れる",
+            "translations": {
+                "EN": "Parting ways",
+                "ID": "Berpisah",
+                "ES": "Separación",
+                "VI": "Chia tay",
+                "FR": "Séparation",
+                "NE": "बिदाइका तरिकाहरू",
+                "BN": "বিচ্ছেদের পথ",
+                "ZH": "分道扬镳",
+                "KO": "길에서 헤어지다",
+                "TL": "Mga paraan ng paghihiwalay",
+                "MY": "လမ်းခွဲခြင်း။",
+                "HI": "तोड़ने के तरीके",
+                "AR": "فراق الطرق",
+                "FA": "راه‌های جدایی"
+            }
+        },
+        {
+            "kanji": "駅で別れる",
+            "furigana": "駅(えき)で別(わか)れる",
+            "translations": {
+                "EN": "Parting at the station",
+                "ID": "Berpisah di stasiun",
+                "ES": "Despedida en la estación",
+                "VI": "Chia tay ở nhà ga",
+                "FR": "Séparation à la gare",
+                "NE": "स्टेशनमा बिदाई गर्दै",
+                "BN": "স্টেশনে বিদায়",
+                "ZH": "在车站告别",
+                "KO": "역에서 헤어지다",
+                "TL": "Paghihiwalay sa istasyon",
+                "MY": "ဘူတာမှာ လမ်းခွဲတယ်။",
+                "HI": "स्टेशन पर बिछड़ते हुए",
+                "AR": "فراق في المحطة",
+                "FA": "جدایی در ایستگاه"
+            }
+        },
+        {
+            "kanji": "会って別れる",
+            "furigana": "会(あ)って別(わか)れる",
+            "translations": {
+                "EN": "Meet and part",
+                "ID": "Bertemu dan berpisah",
+                "ES": "Encuentro y parte",
+                "VI": "Gặp gỡ và chia tay",
+                "FR": "Rencontre et partie",
+                "NE": "भेट्नुहोस् र भाग लिनुहोस्",
+                "BN": "দেখা করুন এবং আলাদা হোন",
+                "ZH": "相聚与分离",
+                "KO": "만나서 헤어지다",
+                "TL": "Magkita at maghiwalay",
+                "MY": "တွေ့ဆုံပြီး အပိုင်းလိုက်",
+                "HI": "मिलना और बिछड़ना",
+                "AR": "لقاء وانفصال",
+                "FA": "ملاقات و جدایی"
+            }
+        },
+        {
+            "kanji": "円満に別れる",
+            "furigana": "円(えん)満(まん)に別(わか)れる},{",
+            "translations": {
+                "EN": "break up amicably",
+                "ID": "putus secara damai",
+                "ES": "ruptura amistosa",
+                "VI": "chia tay một cách thân thiện",
+                "FR": "se séparer à l'amiable",
+                "NE": "सौहार्दपूर्ण तरिकाले सम्बन्ध विच्छेद गर्नु",
+                "BN": "বন্ধুত্বপূর্ণভাবে বিচ্ছেদ ঘটাও",
+                "ZH": "友好分手",
+                "KO": "원만하게 헤어지다",
+                "TL": "makipaghiwalay nang maayos",
+                "MY": "ချစ်ကြည်ရင်းနှီးစွာ ခွဲထွက်လိုက်ပါ။",
+                "HI": "सौहार्दपूर्ण ढंग से संबंध तोड़ना",
+                "AR": "الانفصال وديًا",
+                "FA": "دوستانه از هم جدا شوید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "私たちは駅で別れます。",
+            "furigana": "私(わたし)たちは駅(えき)で別(わか)れます。",
+            "translations": {
+                "EN": "We part ways at the station.",
+                "ID": "Kami berpisah di stasiun.",
+                "ES": "Nos separamos en la estación.",
+                "VI": "Chúng tôi chia tay nhau ở nhà ga.",
+                "FR": "Nous nous séparons à la gare.",
+                "NE": "हामी स्टेशनमा बाटो छुट्याउँछौं।",
+                "BN": "আমরা স্টেশনে আলাদা হয়ে যাই।",
+                "ZH": "我们在车站分别。",
+                "KO": "우리는 역에서 헤어집니다.",
+                "TL": "Naghiwalay kami ng landas sa istasyon.",
+                "MY": "ဘူတာမှာ လမ်းခွဲခဲ့ကြတယ်။",
+                "HI": "स्टेशन पर हम अलग हो गए।",
+                "AR": "انفصلنا في المحطة.",
+                "FA": "در ایستگاه از هم جدا می‌شویم."
+            }
+        },
+        {
+            "kanji": "彼と別れたいです。",
+            "furigana": "彼(かれ)と別(わか)れたいです。",
+            "translations": {
+                "EN": "I want to break up with him.",
+                "ID": "Aku ingin putus dengannya.",
+                "ES": "Quiero romper con él.",
+                "VI": "Tôi muốn chia tay anh ấy.",
+                "FR": "Je veux rompre avec lui.",
+                "NE": "म उसँग सम्बन्ध विच्छेद गर्न चाहन्छु।",
+                "BN": "আমি তার সাথে সম্পর্ক ছিন্ন করতে চাই।",
+                "ZH": "我想和他分手。",
+                "KO": "그와 헤어지고 싶다.",
+                "TL": "Gusto kong makipaghiwalay sa kanya.",
+                "MY": "ငါ သူနဲ့ လမ်းခွဲချင်တယ်။",
+                "HI": "मैं उससे संबंध तोड़ना चाहता हूं।",
+                "AR": "أريد أن أنهي علاقتي به.",
+                "FA": "می‌خواهم از او جدا شوم."
+            }
+        },
+        {
+            "kanji": "彼女ときっぱり別れました。",
+            "furigana": "彼(かの)女(じょ)ときっぱり別(わか)れました。",
+            "translations": {
+                "EN": "I broke up with her completely.",
+                "ID": "Aku sudah putus dengannya sepenuhnya.",
+                "ES": "Rompí con ella definitivamente.",
+                "VI": "Tôi đã chia tay cô ấy hoàn toàn.",
+                "FR": "J'ai rompu définitivement avec elle.",
+                "NE": "मैले उनीसँग पूर्ण रूपमा सम्बन्ध विच्छेद गरें।",
+                "BN": "আমি তার সাথে সম্পূর্ণ সম্পর্ক ছিন্ন করে ফেললাম।",
+                "ZH": "我和她彻底分手了。",
+                "KO": "그녀는 확실히 헤어졌다.",
+                "TL": "Nakipaghiwalay ako sa kanya ng tuluyan.",
+                "MY": "ကျွန်တော် သူမနဲ့ လုံးဝလမ်းခွဲခဲ့တယ်။",
+                "HI": "मैंने उससे पूरी तरह से नाता तोड़ लिया।",
+                "AR": "لقد انفصلت عنها تماما.",
+                "FA": "من کاملاً از او جدا شدم."
+            }
+        },
+        {
+            "kanji": "友達と道で別れて、家に帰りました。",
+            "furigana": "友(とも)達(だち)と道(みち)で別(わか)れて、家(いえ)に帰(かえ)りました。",
+            "translations": {
+                "EN": "I parted ways with my friends and headed home.",
+                "ID": "Aku berpisah dengan teman-temanku dan pulang ke rumah.",
+                "ES": "Me despedí de mis amigos y me dirigí a casa.",
+                "VI": "Tôi chia tay bạn bè và trở về nhà.",
+                "FR": "J'ai quitté mes amis et je suis rentré chez moi.",
+                "NE": "म साथीहरूसँग छुट्टिएँ र घरतिर लागेँ।",
+                "BN": "আমি আমার বন্ধুদের সাথে বিদায় নিলাম এবং বাড়ির দিকে রওনা দিলাম।",
+                "ZH": "我和朋友们告别，回家了。",
+                "KO": "친구와 길에서 헤어지고 집으로 돌아갔다.",
+                "TL": "Humiwalay ako sa mga kaibigan ko at umuwi na.",
+                "MY": "သူငယ်ချင်းတွေနဲ့ လမ်းခွဲပြီး အိမ်ပြန်ခဲ့တယ်။",
+                "HI": "मैं अपने दोस्तों से अलग हो गया और घर की ओर चल पड़ा।",
+                "AR": "انفصلت عن أصدقائي وتوجهت إلى المنزل.",
+                "FA": "از دوستانم جدا شدم و به سمت خانه راه افتادم."
+            }
+        },
+        {
+            "kanji": "夫婦は円満に別れました。",
+            "furigana": "夫(ふう)婦(ふ)は円(えん)満(まん)に別(わか)れました。},{",
+            "translations": {
+                "EN": "The couple separated amicably.",
+                "ID": "Pasangan itu berpisah secara baik-baik.",
+                "ES": "La pareja se separó amistosamente.",
+                "VI": "Cặp đôi chia tay trong hòa bình.",
+                "FR": "Le couple s'est séparé à l'amiable.",
+                "NE": "ती जोडी मैत्रीपूर्ण रूपमा अलग भए।",
+                "BN": "দম্পতি বন্ধুত্বপূর্ণভাবে আলাদা হয়ে যান।",
+                "ZH": "这对夫妇友好分手。",
+                "KO": "부부는 원만하게 헤어졌습니다.",
+                "TL": "Naghiwalay ng maayos ang mag-asawa.",
+                "MY": "လင်မယားနှစ်ယောက် ချစ်ကြည်ရင်းနှီးစွာ လမ်းခွဲခဲ့ကြသည်။",
+                "HI": "दम्पति सौहार्दपूर्ण ढंग से अलग हो गये।",
+                "AR": "انفصل الزوجان وديًا.",
+                "FA": "این زوج به طور دوستانه از هم جدا شدند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "memisahkan",
+            "ES": "separado",
+            "VI": "chia",
+            "FR": "séparé",
+            "NE": "अलग गर्नु",
+            "BN": "আলাদা করা",
+            "ZH": "分离",
+            "KO": "분리된",
+            "TL": "magkahiwalay",
+            "MY": "သီးခြား",
+            "HI": "अलग",
+            "AR": "متفرق",
+            "FA": "جداگانه",
+            "EN": [
+                "separate",
+                "part",
+                "split",
+                "leave"
+            ]
+        },
+        {
+            "ID": "perceraian",
+            "ES": "divorcio",
+            "VI": "ly hôn",
+            "FR": "divorce",
+            "NE": "सम्बन्ध विच्छेद",
+            "BN": "বিবাহবিচ্ছেদ",
+            "ZH": "离婚",
+            "KO": "이혼",
+            "TL": "diborsyo",
+            "MY": "ကွာရှင်းခြင်း။",
+            "HI": "तलाक",
+            "AR": "الطلاق",
+            "FA": "طلاق",
+            "EN": [
+                "divorce"
+            ]
+        },
+        {
+            "ID": "kehilangan",
+            "ES": "privar",
+            "VI": "mất mát",
+            "FR": "priver",
+            "NE": "शोक गर्नु",
+            "BN": "শোক প্রকাশ করা",
+            "ZH": "丧亲",
+            "KO": "남기다",
+            "TL": "nangungulila",
+            "MY": "လွတ်မြောက်",
+            "HI": "वंचित करना",
+            "AR": "ثكل",
+            "FA": "سوگواری کردن",
+            "EN": [
+                "bereave"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "別れる",
+        "is_common": true,
+        "tags": [
+            "wanikani13"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "別れる",
+                "reading": "わかれる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to part (usu. of people)",
+                    "to part from",
+                    "to part with",
+                    "to be apart from"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to separate (of a couple)",
+                    "to break up",
+                    "to divorce"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to lose (e.g. one's mother)",
+                    "to be bereaved"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "別"
+    ],
+    "kanji_data": {
+        "別": {
+            "freq_mainichi_shinbun": 214,
+            "grade": 4,
+            "heisig_en": "separate",
+            "jlpt": 4,
+            "kanji": "別",
+            "kun_readings": [
+                "わ.ける",
+                "わか.れる"
+            ],
+            "meanings": [
+                "another",
+                "branch off",
+                "diverge",
+                "extra",
+                "fork",
+                "separate",
+                "specially"
+            ],
+            "name_readings": [
+                "べっ"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ベツ"
+            ],
+            "stroke_count": 7,
+            "unicode": "5225"
+        }
+    }
+}

@@ -1,0 +1,543 @@
+{
+    "version": "0.3.0",
+    "word": "逃げる",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/YW-V-MoiLTc",
+    "in_db": true,
+    "kanji": "逃げる",
+    "reading": "にげる",
+    "introduction_japanese": "逃げる。危ないとき、こわいとき、いやな質問や責任の場面、スポーツの終盤などでよく使います。",
+    "introduction_english": "Nigeru. We use this in dangerous moments, scary situations, when avoiding tough questions or responsibilities, and even near the end of sports games.",
+    "meanings": [
+        [
+            "flee",
+            "run",
+            "escape"
+        ],
+        [
+            "avoid",
+            "dodge",
+            "evade"
+        ],
+        [
+            "maintain",
+            "preserve",
+            "survive'],["
+        ]
+    ],
+    "meaning_explanation_japanese": "危険やいやなことから離れること、または責任や質問をさけることです。スポーツではリードを保って最後まで守る感じです。もの（熱や香りなど）が外に出てしまう意味にも使われます。",
+    "meaning_explanation_english": "It is used as an intransitive ichidan verb. In plain terms, にげる means to move away from danger, to avoid or dodge something unpleasant, to hold a lead and survive to the end, and sometimes for things like heat or flavor to leak out.",
+    "youtube_description": "Learn にげる (to run away, avoid, hold on) with simple examples, clear meanings, and easy tips for everyday Japanese. Perfect for beginners!",
+    "kanji_details": [
+        {
+            "kanji": "逃",
+            "onyomi": [
+                "トウ"
+            ],
+            "kunyomi": [
+                "に(げる)",
+                "のが(す)"
+            ],
+            "meanings_english": [
+                "escape",
+                "run away"
+            ],
+            "common_words": [
+                "逃走 : とうそう : escape; flight",
+                "逃亡 : とうぼう : fleeing; escape"
+            ]
+        }
+    ],
+    "kanji_explanation": "The only kanji means “to flee” or “to escape.” You’ll see it in words like とうそう and とうぼう. Both talk about escaping or running away in more formal or news-style language. Remember the feeling of quick movement away from danger.",
+    "synonyms": [
+        "逃走する : とうそうする : to flee",
+        "避ける : さける : to avoid"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are とうそうする and さける. とうそうする focuses on formal or dramatic escaping. さける focuses on avoiding problems, questions, or responsibilities, which overlaps with one nuance of にげる.",
+    "antonyms": [
+        "立ち向かう : たちむかう : to confront",
+        "向き合う : むきあう : to face"
+    ],
+    "antonym_explanation": "The most common antonyms of the word are たちむかう and むきあう. These mean to face or confront the problem directly, which is the opposite of moving away or avoiding.",
+    "collocations": [
+        {
+            "kanji": "危険から逃げる",
+            "furigana": "危険(きけん)から逃(に)げる",
+            "translations": {
+                "EN": "fleeing danger",
+                "ID": "melarikan diri dari bahaya",
+                "ES": "huir del peligro",
+                "VI": "chạy trốn nguy hiểm",
+                "FR": "fuite du danger",
+                "NE": "खतराबाट भाग्दै",
+                "BN": "বিপদ থেকে পালিয়ে যাওয়া",
+                "ZH": "逃离危险",
+                "KO": "위험에서 도망",
+                "TL": "tumatakas sa panganib",
+                "MY": "အန္တရာယ် ပြေး",
+                "HI": "खतरे से भागना",
+                "AR": "الفرار من الخطر",
+                "FA": "فرار از خطر"
+            }
+        },
+        {
+            "kanji": "責任から逃げる",
+            "furigana": "責任(せきにん)から逃(に)げる",
+            "translations": {
+                "EN": "Run away from responsibility",
+                "ID": "Lari dari tanggung jawab",
+                "ES": "Huir de la responsabilidad",
+                "VI": "Chạy trốn trách nhiệm",
+                "FR": "Fuir ses responsabilités",
+                "NE": "जिम्मेवारीबाट भाग्नु।",
+                "BN": "দায়িত্ব থেকে পালিয়ে যাওয়া।",
+                "ZH": "逃避责任",
+                "KO": "책임에서 도망",
+                "TL": "Tumakas sa responsibilidad",
+                "MY": "တာဝန်မှ ရှောင်ပြေးပါ။",
+                "HI": "ज़िम्मेदारी से भागना",
+                "AR": "الهروب من المسؤولية",
+                "FA": "فرار از مسئولیت"
+            }
+        },
+        {
+            "kanji": "現実から逃げる",
+            "furigana": "現実(げんじつ)から逃(に)げる",
+            "translations": {
+                "EN": "Escape from reality",
+                "ID": "Melarikan diri dari kenyataan",
+                "ES": "Escapar de la realidad",
+                "VI": "Thoát khỏi thực tế",
+                "FR": "Évasion de la réalité",
+                "NE": "वास्तविकताबाट भाग्नुहोस्",
+                "BN": "বাস্তবতা থেকে পালানো",
+                "ZH": "逃离现实",
+                "KO": "현실에서 도망",
+                "TL": "Tumakas sa realidad",
+                "MY": "အဖြစ်မှန်မှ လွတ်မြောက်ပါ။",
+                "HI": "सच्चाई से भागना",
+                "AR": "الهروب من الواقع",
+                "FA": "فرار از واقعیت"
+            }
+        },
+        {
+            "kanji": "家から逃げる",
+            "furigana": "家(いえ)から逃(に)げる",
+            "translations": {
+                "EN": "Run away from home",
+                "ID": "Kabur dari rumah",
+                "ES": "Escaparse de casa",
+                "VI": "Bỏ nhà đi",
+                "FR": "Fuir la maison",
+                "NE": "घरबाट भाग्नुहोस्",
+                "BN": "বাড়ি থেকে পালিয়ে যাও।",
+                "ZH": "离家出走",
+                "KO": "집에서 도망",
+                "TL": "Tumakas sa bahay",
+                "MY": "အိမ်ကနေ ထွက်ပြေးတယ်။",
+                "HI": "घर से भाग जाना",
+                "AR": "الهروب من المنزل",
+                "FA": "فرار از خانه"
+            }
+        },
+        {
+            "kanji": "警察から逃げる",
+            "furigana": "警察(けいさつ)から逃(に)げる",
+            "translations": {
+                "EN": "Escape from the police",
+                "ID": "Melarikan diri dari polisi",
+                "ES": "Escapar de la policía",
+                "VI": "Thoát khỏi cảnh sát",
+                "FR": "Évasion de la police",
+                "NE": "प्रहरीबाट भाग्नुहोस्",
+                "BN": "পুলিশের হাত থেকে পালানো",
+                "ZH": "逃离警察",
+                "KO": "경찰에서 도망치다",
+                "TL": "Tumakas mula sa pulis",
+                "MY": "ရဲတွေ ရှောင်ပြေး",
+                "HI": "पुलिस से बचना",
+                "AR": "الهروب من الشرطة",
+                "FA": "فرار از دست پلیس"
+            }
+        },
+        {
+            "kanji": "走って逃げる",
+            "furigana": "走(はし)って逃(に)げる",
+            "translations": {
+                "EN": "Run away",
+                "ID": "Melarikan diri",
+                "ES": "Huir",
+                "VI": "Chạy trốn",
+                "FR": "Fuyez",
+                "NE": "भाग्नु",
+                "BN": "পালিয়ে যাও",
+                "ZH": "逃跑",
+                "KO": "달리고 도망",
+                "TL": "Tumakas",
+                "MY": "ထွက်ပြေးသည်",
+                "HI": "भाग जाओ",
+                "AR": "اهرب",
+                "FA": "فرار کن."
+            }
+        },
+        {
+            "kanji": "逃げてしまう",
+            "furigana": "逃(に)げてしまう",
+            "translations": {
+                "EN": "Run away",
+                "ID": "Melarikan diri",
+                "ES": "Huir",
+                "VI": "Chạy trốn",
+                "FR": "Fuyez",
+                "NE": "भाग्नु",
+                "BN": "পালিয়ে যাও",
+                "ZH": "逃跑",
+                "KO": "도망쳐버린다",
+                "TL": "Tumakas",
+                "MY": "ထွက်ပြေးသည်",
+                "HI": "भाग जाओ",
+                "AR": "اهرب",
+                "FA": "فرار کن."
+            }
+        },
+        {
+            "kanji": "外へ逃げる",
+            "furigana": "外(そと)へ逃(に)げる},{",
+            "translations": {
+                "EN": "Run outside",
+                "ID": "Lari keluar",
+                "ES": "Corre afuera",
+                "VI": "Chạy ra ngoài",
+                "FR": "Courir dehors",
+                "NE": "बाहिर दौडनुहोस्",
+                "BN": "বাইরে দৌড়াও",
+                "ZH": "向外",
+                "KO": "밖으로 도망",
+                "TL": "Tumakbo sa labas",
+                "MY": "အပြင်ကိုပြေး",
+                "HI": "बाहर भागो",
+                "AR": "الركض خارجا",
+                "FA": "بیرون بدوید"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "犬が逃げる。",
+            "furigana": "犬(いぬ)が逃(に)げる。",
+            "translations": {
+                "EN": "The dog runs away.",
+                "ID": "Anjing itu lari.",
+                "ES": "El perro huye.",
+                "VI": "Con chó bỏ chạy.",
+                "FR": "Le chien s'enfuit.",
+                "NE": "कुकुर भाग्छ।",
+                "BN": "কুকুরটি পালিয়ে যায়।",
+                "ZH": "狗跑掉了。",
+                "KO": "개가 도망친다.",
+                "TL": "Tumakas ang aso.",
+                "MY": "ခွေးက ပြေးတယ်။",
+                "HI": "कुत्ता भाग जाता है.",
+                "AR": "الكلب يهرب.",
+                "FA": "سگ فرار می‌کند."
+            }
+        },
+        {
+            "kanji": "火事です。外へ逃げてください。",
+            "furigana": "火事(かじ)です。外(そと)へ逃(に)げてください。",
+            "translations": {
+                "EN": "There's a fire. Please go outside.",
+                "ID": "Ada kebakaran. Silakan keluar.",
+                "ES": "Hay un incendio. Por favor, salgan.",
+                "VI": "Có hỏa hoạn. Xin hãy ra ngoài.",
+                "FR": "Il y a le feu. Veuillez sortir.",
+                "NE": "आगो लागेको छ। कृपया बाहिर जानुहोस्।",
+                "BN": "আগুন লেগেছে। দয়া করে বাইরে যান।",
+                "ZH": "着火了，请到外面去。",
+                "KO": "화재입니다. 밖으로 도망 가십시오.",
+                "TL": "May sunog. Mangyaring pumunta sa labas.",
+                "MY": "မီးရှိတယ်။ အပြင်ထွက်ပါ။",
+                "HI": "आग लगी है। कृपया बाहर जाएँ।",
+                "AR": "هناك حريق. من فضلك اخرج.",
+                "FA": "آتش گرفته. لطفاً بیرون بروید."
+            }
+        },
+        {
+            "kanji": "泥棒は警察から逃げた。",
+            "furigana": "泥棒(どろぼう)は警察(けいさつ)から逃(に)げた。",
+            "translations": {
+                "EN": "The thief ran away from the police.",
+                "ID": "Pencurinya melarikan diri dari polisi.",
+                "ES": "El ladrón huyó de la policía.",
+                "VI": "Tên trộm đã bỏ chạy khỏi cảnh sát.",
+                "FR": "Le voleur a pris la fuite devant la police.",
+                "NE": "चोर प्रहरीबाट भाग्यो।",
+                "BN": "চোর পুলিশের হাত থেকে পালিয়ে গেল।",
+                "ZH": "小偷逃离了警察的追捕。",
+                "KO": "도둑은 경찰에서 도망쳤다.",
+                "TL": "Tumakas ang magnanakaw sa mga pulis.",
+                "MY": "သူခိုးက ရဲတွေဆီကနေ ထွက်ပြေးသွားတယ်။",
+                "HI": "चोर पुलिस से भाग गया।",
+                "AR": "لقد هرب اللص من الشرطة.",
+                "FA": "دزد از دست پلیس فرار کرد."
+            }
+        },
+        {
+            "kanji": "子どもは大きな音を聞いて、その場から逃げた。",
+            "furigana": "子(こ)どもは大(おお)きな音(おと)を聞(き)いて、その場(ば)から逃(に)げた。",
+            "translations": {
+                "EN": "The child heard a loud noise and ran away from the scene.",
+                "ID": "Anak itu mendengar suara keras dan lari dari tempat kejadian.",
+                "ES": "El niño oyó un ruido fuerte y salió corriendo del lugar.",
+                "VI": "Đứa trẻ nghe thấy tiếng động lớn và bỏ chạy khỏi hiện trường.",
+                "FR": "L'enfant a entendu un bruit fort et s'est enfui.",
+                "NE": "बच्चाले ठूलो आवाज सुने र घटनास्थलबाट भाग्यो।",
+                "BN": "শিশুটি বিকট শব্দ শুনে ঘটনাস্থল থেকে দৌড়ে পালিয়ে যায়।",
+                "ZH": "孩子听到一声巨响，便跑开了。",
+                "KO": "아이는 큰 소리를 듣고 그 자리에서 도망쳤다.",
+                "TL": "Nakarinig ng malakas na ingay ang bata at tumakbo palayo sa pinangyarihan.",
+                "MY": "ကလေးက ကျယ်လောင်တဲ့ အသံကြားလို့ အခင်းဖြစ်ပွားရာကနေ ထွက်ပြေးသွားပါတယ်။",
+                "HI": "बच्चे ने तेज आवाज सुनी और घटनास्थल से भाग गया।",
+                "AR": "سمع الطفل صوتًا قويًا فهرب من المكان.",
+                "FA": "کودک صدای بلندی شنید و از محل حادثه فرار کرد."
+            }
+        },
+        {
+            "kanji": "私はその質問から逃げない。",
+            "furigana": "私(わたし)はその質問(しつもん)から逃(に)げない。},{",
+            "translations": {
+                "EN": "I don't run away from the question.",
+                "ID": "Saya tidak lari dari pertanyaan itu.",
+                "ES": "No evado la pregunta.",
+                "VI": "Tôi không trốn tránh câu hỏi.",
+                "FR": "Je ne fuis pas la question.",
+                "NE": "म प्रश्नबाट भाग्दिन।",
+                "BN": "আমি প্রশ্ন থেকে পালিয়ে যাই না।",
+                "ZH": "我不会回避这个问题。",
+                "KO": "나는 그 질문에서 도망치지 않는다.",
+                "TL": "Hindi ako tumatakas sa tanong.",
+                "MY": "ငါမေးခွန်းထွက်မပြေးဘူး။",
+                "HI": "मैं प्रश्न से भागता नहीं हूं।",
+                "AR": "أنا لا أهرب من السؤال.",
+                "FA": "از سوال فرار نمی‌کنم."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "kabur",
+            "ES": "huir",
+            "VI": "chạy trốn",
+            "FR": "fuir",
+            "NE": "भाग्नु",
+            "BN": "পালিয়ে যাওয়া",
+            "ZH": "逃跑",
+            "KO": "서두르다",
+            "TL": "tumakas",
+            "MY": "ပြေး",
+            "HI": "भाग जाना",
+            "AR": "الفرار",
+            "FA": "فرار",
+            "EN": [
+                "flee",
+                "run",
+                "escape"
+            ]
+        },
+        {
+            "ID": "menghindari",
+            "ES": "evitar",
+            "VI": "tránh xa",
+            "FR": "éviter",
+            "NE": "जोगिनु",
+            "BN": "এড়িয়ে চলুন",
+            "ZH": "避免",
+            "KO": "피하다",
+            "TL": "iwasan",
+            "MY": "ရှောင်ပါ။",
+            "HI": "टालना",
+            "AR": "يتجنب",
+            "FA": "اجتناب از",
+            "EN": [
+                "avoid",
+                "dodge",
+                "evade"
+            ]
+        },
+        {
+            "ID": "menjaga",
+            "ES": "mantener",
+            "VI": "duy trì",
+            "FR": "maintenir",
+            "NE": "कायम राख्नु",
+            "BN": "বজায় রাখা",
+            "ZH": "维持",
+            "KO": "유지하다",
+            "TL": "mapanatili",
+            "MY": "ထိန်းသိမ်းပါ။",
+            "HI": "बनाए रखना",
+            "AR": "يحافظ على",
+            "FA": "حفظ و نگهداری",
+            "EN": [
+                "maintain",
+                "preserve",
+                "survive'],["
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "逃げる",
+        "is_common": true,
+        "tags": [
+            "wanikani38"
+        ],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "word": "逃げる",
+                "reading": "にげる"
+            },
+            {
+                "word": "遁げる",
+                "reading": "にげる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to run away",
+                    "to flee",
+                    "to get away (e.g. from danger)",
+                    "to escape",
+                    "to break out",
+                    "to leave (e.g. one's spouse)",
+                    "to take cover"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to avoid (a question, responsibility, etc.)",
+                    "to evade",
+                    "to dodge",
+                    "to shirk",
+                    "to back away"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to win without being overtaken",
+                    "to hold off the other contenders (until the finish)",
+                    "to keep the lead (and win)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to escape (of heat, a gas, etc.)",
+                    "to leak out (e.g. of a scent)",
+                    "to be lost (e.g. of flavor)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to fail to hold an ideal posture"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "as 腰が〜 or 体が〜"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "逃"
+    ],
+    "kanji_data": {
+        "逃": {
+            "freq_mainichi_shinbun": 931,
+            "grade": 8,
+            "heisig_en": "escape",
+            "jlpt": 3,
+            "kanji": "逃",
+            "kun_readings": [
+                "に.がす",
+                "に.げる",
+                "のが.す",
+                "のが.れる"
+            ],
+            "meanings": [
+                "escape",
+                "evade",
+                "flee",
+                "set free",
+                "shirk"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "トウ"
+            ],
+            "stroke_count": 9,
+            "unicode": "9003"
+        }
+    }
+}

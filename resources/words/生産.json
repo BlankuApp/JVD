@@ -1,0 +1,549 @@
+{
+    "version": "0.3.0",
+    "word": "生産",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/UQ5dkUDsIK4",
+    "in_db": true,
+    "kanji": "生産",
+    "reading": "せいさん",
+    "introduction_japanese": "生産。工場や農業の話で、どれくらい作るかを言うときに使います。ニュースやビジネスの数字でもよく出ます。",
+    "introduction_english": "せいさん. We use this when talking about factories or farming, and how much is made. It also appears a lot in business news and statistics.",
+    "meanings": [
+        [
+            "production",
+            "manufacture",
+            "output"
+        ],
+        [
+            "yield",
+            "productivity"
+        ]
+    ],
+    "meaning_explanation_japanese": "工場や畑で、ものや作物をたくさん作って生み出すこと。数量や効率について説明するときによく使います。",
+    "meaning_explanation_english": "It is a noun and a する-verb. せいさん literally talks about making things at scale, like production, output, or yield, often with a focus on amount or efficiency.",
+    "youtube_description": "Learn せいさん: what it means, how to use it in daily and business Japanese, with clear examples and common collocations.",
+    "kanji_details": [
+        {
+            "kanji": "生",
+            "onyomi": [
+                "セイ",
+                "ショウ"
+            ],
+            "kunyomi": [
+                "い(きる)",
+                "う(まれる)"
+            ],
+            "meanings_english": [
+                "life",
+                "birth",
+                "raw"
+            ],
+            "common_words": [
+                "生活（せいかつ）：life",
+                "生まれる（うまれる）：to be born"
+            ]
+        },
+        {
+            "kanji": "産",
+            "onyomi": [
+                "サン"
+            ],
+            "kunyomi": [
+                "う(む)",
+                "う(まれる)"
+            ],
+            "meanings_english": [
+                "to give birth",
+                "produce",
+                "products"
+            ],
+            "common_words": [
+                "産業（さんぎょう）：industry",
+                "出産（しゅっさん）：childbirth"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means life and birth and also the idea of growing. You see it in せいかつ, which is daily life. It also appears in うまれる, meaning to be born. So it brings a feeling of life starting and continuing. The second kanji means to give birth and things that are produced. You see it in さんぎょう, the world of industry. It also appears in しゅっさん, the act of giving birth. So it adds a sense of producing or bringing forth.",
+    "synonyms": [
+        "製造 : せいぞう : manufacture",
+        "産出 : さんしゅつ : output"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are せいぞう and さんしゅつ. せいぞう focuses on factory making of products. さんしゅつ often refers to natural resources or regional output. せいさん is broader and covers goods and crops as overall production.",
+    "antonyms": [
+        "消費 : しょうひ : consumption"
+    ],
+    "antonym_explanation": "The most common antonym of the word is しょうひ, which is using up or spending goods, not making them.",
+    "collocations": [
+        {
+            "kanji": "大量生産",
+            "furigana": "大量(たいりょう)生産(せいさん)",
+            "translations": {
+                "EN": "mass production",
+                "ID": "produksi massal",
+                "ES": "producción en masa",
+                "VI": "sản xuất hàng loạt",
+                "FR": "production de masse",
+                "NE": "ठूलो मात्रामा उत्पादन",
+                "BN": "ব্যাপক উৎপাদন",
+                "ZH": "大规模生产",
+                "KO": "대량 생산",
+                "TL": "mass production",
+                "MY": "အစုလိုက်အပြုံလိုက်ထုတ်လုပ်မှု",
+                "HI": "बड़े पैमाने पर उत्पादन",
+                "AR": "إنتاج متسلسل",
+                "FA": "تولید انبوه"
+            }
+        },
+        {
+            "kanji": "国内生産",
+            "furigana": "国内(こくない)生産(せいさん)",
+            "translations": {
+                "EN": "Domestically produced",
+                "ID": "Diproduksi di dalam negeri",
+                "ES": "Producido en el país",
+                "VI": "Sản xuất trong nước",
+                "FR": "Produit localement",
+                "NE": "स्वदेशमा उत्पादन गरिएको",
+                "BN": "দেশীয়ভাবে উৎপাদিত",
+                "ZH": "国产",
+                "KO": "국내 생산",
+                "TL": "Domestically ginawa",
+                "MY": "ပြည်တွင်းမှာ ထုတ်လုပ်တယ်။",
+                "HI": "घरेलू स्तर पर उत्पादित",
+                "AR": "منتج محليًا",
+                "FA": "تولید داخل"
+            }
+        },
+        {
+            "kanji": "自動車の生産",
+            "furigana": "自動車(じどうしゃ)の生産(せいさん)",
+            "translations": {
+                "EN": "Automobile production",
+                "ID": "Produksi mobil",
+                "ES": "Producción de automóviles",
+                "VI": "Sản xuất ô tô",
+                "FR": "production automobile",
+                "NE": "अटोमोबाइल उत्पादन",
+                "BN": "অটোমোবাইল উৎপাদন",
+                "ZH": "汽车生产",
+                "KO": "자동차 생산",
+                "TL": "Produksyon ng sasakyan",
+                "MY": "မော်တော်ကားထုတ်လုပ်ရေး",
+                "HI": "ऑटोमोबाइल उत्पादन",
+                "AR": "إنتاج السيارات",
+                "FA": "تولید خودرو"
+            }
+        },
+        {
+            "kanji": "年間の生産",
+            "furigana": "年間(ねんかん)の生産(せいさん)",
+            "translations": {
+                "EN": "Annual production",
+                "ID": "Produksi tahunan",
+                "ES": "Producción anual",
+                "VI": "Sản lượng hàng năm",
+                "FR": "Production annuelle",
+                "NE": "वार्षिक उत्पादन",
+                "BN": "বার্ষিক উৎপাদন",
+                "ZH": "年产量",
+                "KO": "연간 생산",
+                "TL": "Taunang produksyon",
+                "MY": "နှစ်စဉ်ထုတ်လုပ်မှု",
+                "HI": "वार्षिक उत्पादन",
+                "AR": "الإنتاج السنوي",
+                "FA": "تولید سالانه"
+            }
+        },
+        {
+            "kanji": "生産ライン",
+            "furigana": "生産(せいさん)ライン",
+            "translations": {
+                "EN": "production line",
+                "ID": "jalur produksi",
+                "ES": "línea de montaje",
+                "VI": "dây chuyền sản xuất",
+                "FR": "ligne de production",
+                "NE": "उत्पादन लाइन",
+                "BN": "উৎপাদন লাইন",
+                "ZH": "生产线",
+                "KO": "생산 라인",
+                "TL": "linya ng produksyon",
+                "MY": "ထုတ်လုပ်မှုလိုင်း",
+                "HI": "प्रोडक्शन लाइन",
+                "AR": "خط الإنتاج",
+                "FA": "خط تولید"
+            }
+        },
+        {
+            "kanji": "生産コスト",
+            "furigana": "生産(せいさん)コスト",
+            "translations": {
+                "EN": "Production costs",
+                "ID": "Biaya produksi",
+                "ES": "Costos de producción",
+                "VI": "Chi phí sản xuất",
+                "FR": "coûts de production",
+                "NE": "उत्पादन लागत",
+                "BN": "উৎপাদন খরচ",
+                "ZH": "生产成本",
+                "KO": "생산 비용",
+                "TL": "Mga gastos sa produksyon",
+                "MY": "ထုတ်လုပ်မှုကုန်ကျစရိတ်",
+                "HI": "उत्पादन लागत",
+                "AR": "تكاليف الإنتاج",
+                "FA": "هزینه‌های تولید"
+            }
+        },
+        {
+            "kanji": "農業の生産",
+            "furigana": "農業(のうぎょう)の生産(せいさん)",
+            "translations": {
+                "EN": "agricultural production",
+                "ID": "produksi pertanian",
+                "ES": "producción agrícola",
+                "VI": "sản xuất nông nghiệp",
+                "FR": "production agricole",
+                "NE": "कृषि उत्पादन",
+                "BN": "কৃষি উৎপাদন",
+                "ZH": "农业生产",
+                "KO": "농업 생산",
+                "TL": "produksyon ng agrikultura",
+                "MY": "စိုက်ပျိုးရေးထုတ်လုပ်မှု",
+                "HI": "कृषि उत्पादन",
+                "AR": "الإنتاج الزراعي",
+                "FA": "تولید کشاورزی"
+            }
+        },
+        {
+            "kanji": "会社が製品を生産する",
+            "furigana": "会社(かいしゃ)が製品(せいひん)を生産(せいさん)する},{",
+            "translations": {
+                "EN": "The company produces the product",
+                "ID": "Perusahaan memproduksi produk",
+                "ES": "La empresa produce el producto",
+                "VI": "Công ty sản xuất sản phẩm",
+                "FR": "L'entreprise produit le produit",
+                "NE": "कम्पनीले उत्पादन गर्छ",
+                "BN": "কোম্পানিটি পণ্যটি উৎপাদন করে",
+                "ZH": "该公司生产该产品",
+                "KO": "회사가 제품을 생산",
+                "TL": "Ang kumpanya ay gumagawa ng produkto",
+                "MY": "ကုမ္ပဏီသည် ထုတ်ကုန်ကို ထုတ်လုပ်သည်။",
+                "HI": "कंपनी उत्पाद का उत्पादन करती है",
+                "AR": "الشركة تنتج المنتج",
+                "FA": "شرکت، محصول را تولید می‌کند"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "この工場は自動車を生産します。",
+            "furigana": "この工場(こうじょう)は自動車(じどうしゃ)を生産(せいさん)します。",
+            "translations": {
+                "EN": "This factory produces cars.",
+                "ID": "Pabrik ini memproduksi mobil.",
+                "ES": "Esta fábrica produce automóviles.",
+                "VI": "Nhà máy này sản xuất ô tô.",
+                "FR": "Cette usine produit des voitures.",
+                "NE": "यो कारखानाले कारहरू उत्पादन गर्छ।",
+                "BN": "এই কারখানাটি গাড়ি তৈরি করে।",
+                "ZH": "这家工厂生产汽车。",
+                "KO": "이 공장은 자동차를 생산합니다.",
+                "TL": "Ang pabrika na ito ay gumagawa ng mga kotse.",
+                "MY": "ဒီစက်ရုံက ကားတွေထုတ်တယ်။",
+                "HI": "यह कारखाना कारों का उत्पादन करता है।",
+                "AR": "هذا المصنع ينتج السيارات.",
+                "FA": "این کارخانه خودرو تولید می‌کند."
+            }
+        },
+        {
+            "kanji": "日本では米の生産が多いです。",
+            "furigana": "日本(にほん)では米(こめ)の生産(せいさん)が多(おお)いです。",
+            "translations": {
+                "EN": "Japan produces a lot of rice.",
+                "ID": "Jepang menghasilkan banyak beras.",
+                "ES": "Japón produce mucho arroz.",
+                "VI": "Nhật Bản sản xuất rất nhiều gạo.",
+                "FR": "Le Japon produit beaucoup de riz.",
+                "NE": "जापानले धेरै धान उत्पादन गर्छ।",
+                "BN": "জাপান প্রচুর পরিমাণে চাল উৎপাদন করে।",
+                "ZH": "日本生产大量大米。",
+                "KO": "일본에서는 쌀 생산이 많습니다.",
+                "TL": "Ang Japan ay gumagawa ng maraming bigas.",
+                "MY": "ဂျပန်က ဆန်အများကြီးထွက်တယ်။",
+                "HI": "जापान में चावल का बहुत उत्पादन होता है।",
+                "AR": "تنتج اليابان كميات كبيرة من الأرز.",
+                "FA": "ژاپن برنج زیادی تولید می‌کند."
+            }
+        },
+        {
+            "kanji": "会社は来月、生産を拡大します。",
+            "furigana": "会社(かいしゃ)は来月(らいげつ)、生産(せいさん)を拡大(かくだい)します。",
+            "translations": {
+                "EN": "The company will expand production next month.",
+                "ID": "Perusahaan akan memperluas produksi bulan depan.",
+                "ES": "La empresa ampliará la producción el próximo mes.",
+                "VI": "Công ty sẽ mở rộng sản xuất vào tháng tới.",
+                "FR": "L'entreprise augmentera sa production le mois prochain.",
+                "NE": "कम्पनीले अर्को महिना उत्पादन विस्तार गर्नेछ।",
+                "BN": "কোম্পানিটি আগামী মাসে উৎপাদন সম্প্রসারণ করবে।",
+                "ZH": "该公司将于下个月扩大生产规模。",
+                "KO": "회사는 다음 달에 생산을 확장합니다.",
+                "TL": "Ang kumpanya ay magpapalawak ng produksyon sa susunod na buwan.",
+                "MY": "ကုမ္ပဏီသည် လာမည့်လတွင် ထုတ်လုပ်မှုကို တိုးချဲ့မည်ဖြစ်သည်။",
+                "HI": "कंपनी अगले महीने उत्पादन का विस्तार करेगी।",
+                "AR": "وستقوم الشركة بتوسيع الإنتاج الشهر المقبل.",
+                "FA": "این شرکت ماه آینده تولید خود را افزایش خواهد داد."
+            }
+        },
+        {
+            "kanji": "台風で野菜の生産が少なくなりました。",
+            "furigana": "台風(たいふう)で野菜(やさい)の生産(せいさん)が少(すく)なくなりました。",
+            "translations": {
+                "EN": "The typhoon caused a decrease in vegetable production.",
+                "ID": "Topan tersebut menyebabkan penurunan produksi sayuran.",
+                "ES": "El tifón provocó una disminución en la producción de hortalizas.",
+                "VI": "Cơn bão đã làm giảm sản lượng rau.",
+                "FR": "Le typhon a entraîné une baisse de la production végétale.",
+                "NE": "आँधीका कारण तरकारी उत्पादनमा कमी आएको छ।",
+                "BN": "টাইফুনের কারণে সবজির উৎপাদন কমে গেছে।",
+                "ZH": "台风导致蔬菜产量下降。",
+                "KO": "태풍으로 야채 생산이 적어졌습니다.",
+                "TL": "Nagdulot ng pagbaba sa produksyon ng gulay ang bagyo.",
+                "MY": "တိုင်ဖွန်းမုန်တိုင်းကြောင့် ဟင်းသီး ဟင်းရွက် ထုတ်လုပ်မှု ကျဆင်းခဲ့သည်။",
+                "HI": "तूफान के कारण सब्जी उत्पादन में कमी आई।",
+                "AR": "تسبب الإعصار في انخفاض إنتاج الخضروات.",
+                "FA": "طوفان باعث کاهش تولید سبزیجات شد."
+            }
+        },
+        {
+            "kanji": "この国は電気を生産しています。",
+            "furigana": "この国(くに)は電気(でんき)を生産(せいさん)しています。",
+            "translations": {
+                "EN": "This country produces electricity.",
+                "ID": "Negara ini menghasilkan listrik.",
+                "ES": "Este país produce electricidad.",
+                "VI": "Quốc gia này sản xuất điện.",
+                "FR": "Ce pays produit de l'électricité.",
+                "NE": "यो देशले बिजुली उत्पादन गर्छ।",
+                "BN": "এই দেশ বিদ্যুৎ উৎপাদন করে।",
+                "ZH": "这个国家生产电力。",
+                "KO": "이 나라는 전기를 생산하고 있습니다.",
+                "TL": "Ang bansang ito ay gumagawa ng kuryente.",
+                "MY": "ဒီနိုင်ငံက လျှပ်စစ်ထုတ်တယ်။",
+                "HI": "यह देश बिजली पैदा करता है.",
+                "AR": "هذه الدولة تنتج الكهرباء.",
+                "FA": "این کشور برق تولید می‌کند."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "produksi",
+            "ES": "producción",
+            "VI": "sản xuất",
+            "FR": "production",
+            "NE": "उत्पादन",
+            "BN": "উৎপাদন",
+            "ZH": "生产",
+            "KO": "생산",
+            "TL": "produksyon",
+            "MY": "ထုတ်လုပ်မှု",
+            "HI": "उत्पादन",
+            "AR": "إنتاج",
+            "FA": "تولید",
+            "EN": [
+                "production",
+                "manufacture",
+                "output"
+            ]
+        },
+        {
+            "ID": "menghasilkan",
+            "ES": "producir",
+            "VI": "năng suất",
+            "FR": "rendement",
+            "NE": "उपज",
+            "BN": "ফলন",
+            "ZH": "屈服",
+            "KO": "생산하다",
+            "TL": "ani",
+            "MY": "အသားပေး",
+            "HI": "उपज",
+            "AR": "أَثْمَر",
+            "FA": "بازده",
+            "EN": [
+                "yield",
+                "productivity"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "生産",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "生産",
+                "reading": "せいさん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "production",
+                    "manufacture"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Outline of industrial organization"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Outline of industrial organization” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Outline_of_industrial_organization?oldid=495087374"
+                    },
+                    {
+                        "text": "Read “生産” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/生産?oldid=42252949"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Outline_of_industrial_organization"
+        }
+    },
+    "kanji_list": [
+        "生",
+        "産"
+    ],
+    "kanji_data": {
+        "生": {
+            "freq_mainichi_shinbun": 29,
+            "grade": 1,
+            "heisig_en": "life",
+            "jlpt": 5,
+            "kanji": "生",
+            "kun_readings": [
+                "-う",
+                "い.かす",
+                "い.きる",
+                "い.ける",
+                "う.まれ",
+                "う.まれる",
+                "う.む",
+                "うま.れる",
+                "うまれ",
+                "お.う",
+                "き",
+                "な.す",
+                "な.る",
+                "なま",
+                "なま-",
+                "は.える",
+                "は.やす",
+                "む.す"
+            ],
+            "meanings": [
+                "birth",
+                "genuine",
+                "life"
+            ],
+            "name_readings": [
+                "あさ",
+                "いき",
+                "いく",
+                "いけ",
+                "うぶ",
+                "うまい",
+                "え",
+                "おい",
+                "ぎゅう",
+                "くるみ",
+                "ごせ",
+                "さ",
+                "じょう",
+                "すぎ",
+                "そ",
+                "そう",
+                "ちる",
+                "なば",
+                "にう",
+                "にゅう",
+                "ふ",
+                "み",
+                "もう",
+                "よい",
+                "りゅう"
+            ],
+            "notes": [],
+            "on_readings": [
+                "ショウ",
+                "セイ"
+            ],
+            "stroke_count": 5,
+            "unicode": "751F"
+        },
+        "産": {
+            "freq_mainichi_shinbun": 161,
+            "grade": 4,
+            "heisig_en": "products",
+            "jlpt": 3,
+            "kanji": "産",
+            "kun_readings": [
+                "う.まれる",
+                "う.む",
+                "うぶ-",
+                "む.す"
+            ],
+            "meanings": [
+                "bear",
+                "childbirth",
+                "give birth",
+                "native",
+                "products",
+                "property",
+                "yield"
+            ],
+            "name_readings": [
+                "もと"
+            ],
+            "notes": [],
+            "on_readings": [
+                "サン"
+            ],
+            "stroke_count": 11,
+            "unicode": "7523"
+        }
+    }
+}

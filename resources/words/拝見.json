@@ -1,0 +1,510 @@
+{
+    "version": "0.3.0",
+    "word": "拝見",
+    "jlpt_level": 4,
+    "youtube_link": "https://youtu.be/lcsrWteGwKA",
+    "in_db": true,
+    "kanji": "拝見",
+    "reading": "はいけん",
+    "introduction_japanese": "拝見。ビジネスメールや電話で、相手のメールや資料などについて話すときによく使います。訪問時に名刺や作品について言うときも使います。",
+    "introduction_english": "はいけん. Used in business emails and calls when talking about the other person’s emails or documents. Also used when visiting and referring to a name card or someone’s work.",
+    "meanings": [
+        [
+            "see",
+            "look",
+            "view",
+            "watch"
+        ],
+        [
+            "read",
+            "peruse"
+        ],
+        [
+            "check",
+            "inspect",
+            "review"
+        ]
+    ],
+    "meaning_explanation_japanese": "相手のものを「見る」「読む」「確認する」ことを、うやまって言う言い方です。自分の動作についてへりくだって伝えます。",
+    "meaning_explanation_english": "It is a humble suru-verb (verbal noun) used with する or いたします. In plain terms, はいけん means to see, read, view, or check something of the listener to show respect.",
+    "youtube_description": "Learn how to use 拝見（はいけん） like a pro: meaning, polite tone, common mistakes, and natural examples for emails, meetings, and calls.",
+    "kanji_details": [
+        {
+            "kanji": "拝",
+            "onyomi": [
+                "ハイ"
+            ],
+            "kunyomi": [
+                "おが(む)"
+            ],
+            "meanings_english": [
+                "worship",
+                "bow"
+            ],
+            "common_words": [
+                "拝む : おがむ : to pray",
+                "拝観 : はいかん : viewing (temples, gardens)"
+            ]
+        },
+        {
+            "kanji": "見",
+            "onyomi": [
+                "ケン"
+            ],
+            "kunyomi": [
+                "み(る)",
+                "み(える)"
+            ],
+            "meanings_english": [
+                "see",
+                "look"
+            ],
+            "common_words": [
+                "見る : みる : to see; to watch",
+                "意見 : いけん : opinion"
+            ]
+        }
+    ],
+    "kanji_explanation": "The first kanji means worship and respectful bowing. It suggests humility and polite attention. You can see it in the verb おがむ and in the noun はいかん. Both carry a respectful feeling toward what is viewed.\nThe second kanji means to see and to look. It appears in the verb みる and the noun いけん. It covers using the eyes and forming a view. It also extends to reading and judging.",
+    "synonyms": [
+        "拝読 : はいどく : humble read",
+        "閲覧 : えつらん : browsing"
+    ],
+    "synonym_explanation": "The most common synonyms of the word are はいどく and えつらん. はいどく overlaps only with the “read” sense and is strictly humble. えつらん overlaps with “view/browse,” but it is neutral formal, not humble, and is common in notices and website labels.",
+    "antonyms": [
+        "無視 : むし : ignore"
+    ],
+    "antonym_explanation": "The most common antonym of the word is むし. While はいけん shows respectful attention to what the other person has, むし means to ignore and pay no attention.",
+    "collocations": [
+        {
+            "kanji": "作品の拝見",
+            "furigana": "作品(さくひん)の拝見(はいけん)",
+            "translations": {
+                "EN": "Viewing the works",
+                "ID": "Melihat karya",
+                "ES": "Visualizando las obras",
+                "VI": "Xem các tác phẩm",
+                "FR": "Visite des œuvres",
+                "NE": "कामहरू हेर्दै",
+                "BN": "কাজগুলো দেখা",
+                "ZH": "欣赏作品",
+                "KO": "작품의 견해",
+                "TL": "Pagtingin sa mga gawa",
+                "MY": "လက်ရာများကို ကြည့်ရှုခြင်း။",
+                "HI": "कार्यों को देखना",
+                "AR": "مشاهدة الأعمال",
+                "FA": "مشاهده آثار"
+            }
+        },
+        {
+            "kanji": "メールの拝見",
+            "furigana": "メールの拝見(はいけん)",
+            "translations": {
+                "EN": "Read the email",
+                "ID": "Baca emailnya",
+                "ES": "Lee el correo electrónico",
+                "VI": "Đọc email",
+                "FR": "Lisez l'e-mail",
+                "NE": "इमेल पढ्नुहोस्",
+                "BN": "ইমেলটি পড়ুন।",
+                "ZH": "请阅读邮件",
+                "KO": "메일 친목",
+                "TL": "Basahin ang email",
+                "MY": "အီးမေးလ်ကိုဖတ်ပါ။",
+                "HI": "ईमेल को पढ़े",
+                "AR": "اقرأ البريد الإلكتروني",
+                "FA": "ایمیل را بخوانید"
+            }
+        },
+        {
+            "kanji": "写真の拝見",
+            "furigana": "写真(しゃしん)の拝見(はいけん)",
+            "translations": {
+                "EN": "Viewing the photos",
+                "ID": "Melihat foto-fotonya",
+                "ES": "Viendo las fotos",
+                "VI": "Xem ảnh",
+                "FR": "Visionnage des photos",
+                "NE": "तस्बिरहरू हेर्दै",
+                "BN": "ছবিগুলো দেখা হচ্ছে",
+                "ZH": "查看照片",
+                "KO": "사진 보기",
+                "TL": "Tinitingnan ang mga larawan",
+                "MY": "ဓာတ်ပုံများကိုကြည့်ရှုခြင်း။",
+                "HI": "तस्वीरें देखना",
+                "AR": "عرض الصور",
+                "FA": "مشاهده عکس‌ها"
+            }
+        },
+        {
+            "kanji": "書類の拝見",
+            "furigana": "書類(しょるい)の拝見(はいけん)",
+            "translations": {
+                "EN": "Viewing the documents",
+                "ID": "Melihat dokumen",
+                "ES": "Visualización de los documentos",
+                "VI": "Xem tài liệu",
+                "FR": "Consultation des documents",
+                "NE": "कागजातहरू हेर्दै",
+                "BN": "নথি দেখা",
+                "ZH": "查看文档",
+                "KO": "서류 견해",
+                "TL": "Pagtingin sa mga dokumento",
+                "MY": "စာရွက်စာတမ်းများကိုကြည့်ရှုခြင်း။",
+                "HI": "दस्तावेज़ देखना",
+                "AR": "عرض المستندات",
+                "FA": "مشاهده اسناد"
+            }
+        },
+        {
+            "kanji": "資料を拝見する",
+            "furigana": "資料(しりょう)を拝見(はいけん)する",
+            "translations": {
+                "EN": "View the materials",
+                "ID": "Lihat materinya",
+                "ES": "Vea los materiales",
+                "VI": "Xem các tài liệu",
+                "FR": "Consultez les documents",
+                "NE": "सामग्रीहरू हेर्नुहोस्",
+                "BN": "উপকরণগুলি দেখুন",
+                "ZH": "查看材料",
+                "KO": "자료를 보고",
+                "TL": "Tingnan ang mga materyales",
+                "MY": "ပစ္စည်းများကိုကြည့်ရှုပါ။",
+                "HI": "सामग्री देखें",
+                "AR": "عرض المواد",
+                "FA": "مشاهده مواد"
+            }
+        },
+        {
+            "kanji": "写真を拝見いたします",
+            "furigana": "写真(しゃしん)を拝見(はいけん)いたします",
+            "translations": {
+                "EN": "I'll take a look at the photos",
+                "ID": "Aku akan melihat fotonya",
+                "ES": "Voy a echar un vistazo a las fotos.",
+                "VI": "Tôi sẽ xem những bức ảnh",
+                "FR": "Je vais jeter un coup d'œil aux photos",
+                "NE": "म फोटोहरू हेर्छु।",
+                "BN": "আমি ছবিগুলো একবার দেখে নেব।",
+                "ZH": "我会看看这些照片。",
+                "KO": "사진을 봅니다.",
+                "TL": "Titingnan ko ang mga larawan",
+                "MY": "ဓါတ်ပုံတွေကြည့်မယ်။",
+                "HI": "मैं तस्वीरें देखूंगा",
+                "AR": "سألقي نظرة على الصور",
+                "FA": "عکس‌ها را مرور می‌کنم"
+            }
+        },
+        {
+            "kanji": "ウェブサイトを拝見しました",
+            "furigana": "ウェブサイトを拝見(はいけん)しました",
+            "translations": {
+                "EN": "I saw your website",
+                "ID": "Saya melihat situs web Anda",
+                "ES": "Vi tu sitio web",
+                "VI": "Tôi đã thấy trang web của bạn",
+                "FR": "J'ai vu votre site web",
+                "NE": "मैले तपाईंको वेबसाइट हेरेँ।",
+                "BN": "আমি তোমার ওয়েবসাইট দেখেছি।",
+                "ZH": "我浏览了你的网站",
+                "KO": "웹사이트를 보고",
+                "TL": "Nakita ko ang iyong website",
+                "MY": "မင်းရဲ့ဝဘ်ဆိုဒ်ကို ငါမြင်တယ်။",
+                "HI": "मैंने आपकी वेबसाइट देखी",
+                "AR": "لقد رأيت موقعك",
+                "FA": "وبسایت شما را دیدم"
+            }
+        },
+        {
+            "kanji": "後ほど拝見します",
+            "furigana": "後(のち)ほど拝見(はいけん)します",
+            "translations": {
+                "EN": "I'll take a look later",
+                "ID": "Aku akan melihatnya nanti",
+                "ES": "Le echaré un vistazo más tarde.",
+                "VI": "Tôi sẽ xem sau",
+                "FR": "Je regarderai plus tard.",
+                "NE": "म पछि हेर्छु।",
+                "BN": "আমি পরে দেখব।",
+                "ZH": "我稍后会看一下。",
+                "KO": "나중에 친절하게",
+                "TL": "Titingnan ko mamaya",
+                "MY": "ငါနောက်မှကြည့်မယ်။",
+                "HI": "मैं बाद में देखूंगा",
+                "AR": "سوف ألقي نظرة لاحقا",
+                "FA": "بعداً نگاهی می‌اندازم"
+            }
+        }
+    ],
+    "example_sentences": [
+        {
+            "kanji": "メールを拝見しました。",
+            "furigana": "メールを拝見(はいけん)しました。",
+            "translations": {
+                "EN": "I have read your email.",
+                "ID": "Saya telah membaca email Anda.",
+                "ES": "He leído tu correo electrónico.",
+                "VI": "Tôi đã đọc email của bạn.",
+                "FR": "J'ai lu votre courriel.",
+                "NE": "मैले तिम्रो इमेल पढेको छु।",
+                "BN": "আমি তোমার ইমেইল পড়েছি।",
+                "ZH": "我已阅读您的邮件。",
+                "KO": "메일을 보았습니다.",
+                "TL": "Nabasa ko ang iyong email.",
+                "MY": "မင်းရဲ့အီးမေးလ်ကို ငါဖတ်ပြီးပြီ။",
+                "HI": "मैंने आपका ईमेल पढ़ लिया है.",
+                "AR": "لقد قرأت بريدك الإلكتروني.",
+                "FA": "ایمیل شما را خوانده‌ام."
+            }
+        },
+        {
+            "kanji": "資料を後ほど拝見します。",
+            "furigana": "資料(しりょう)を後(のち)ほど拝見(はいけん)します。",
+            "translations": {
+                "EN": "I will look at the materials later.",
+                "ID": "Saya akan melihat materinya nanti.",
+                "ES": "Revisaré los materiales más tarde.",
+                "VI": "Tôi sẽ xem xét tài liệu sau.",
+                "FR": "Je consulterai les documents plus tard.",
+                "NE": "म सामग्रीहरू पछि हेर्नेछु।",
+                "BN": "আমি পরে উপকরণগুলো দেখব।",
+                "ZH": "我稍后会查看材料。",
+                "KO": "자료를 나중에 봅니다.",
+                "TL": "Titingnan ko ang mga materyales mamaya.",
+                "MY": "ပစ္စည်းတွေ နောက်မှကြည့်မယ်။",
+                "HI": "मैं बाद में सामग्री देखूंगा।",
+                "AR": "سأنظر إلى المواد لاحقًا.",
+                "FA": "بعداً به مواد نگاه خواهم کرد."
+            }
+        },
+        {
+            "kanji": "写真をじっくり拝見いたします。",
+            "furigana": "写真(しゃしん)をじっくり拝見(はいけん)いたします。",
+            "translations": {
+                "EN": "I will take a good look at the photos.",
+                "ID": "Saya akan perhatikan foto-fotonya baik-baik.",
+                "ES": "Voy a examinar detenidamente las fotos.",
+                "VI": "Tôi sẽ xem kỹ những bức ảnh này.",
+                "FR": "Je vais bien regarder les photos.",
+                "NE": "म तस्बिरहरू राम्रोसँग हेर्छु।",
+                "BN": "আমি ছবিগুলো ভালো করে দেখব।",
+                "ZH": "我会仔细查看这些照片。",
+                "KO": "사진을 차분히 숭배합니다.",
+                "TL": "Titingnan kong mabuti ang mga larawan.",
+                "MY": "ဓာတ်ပုံတွေ ကောင်းကောင်းကြည့်မယ်။",
+                "HI": "मैं तस्वीरों को अच्छी तरह देखूंगा।",
+                "AR": "سألقي نظرة جيدة على الصور.",
+                "FA": "عکس‌ها را خوب بررسی خواهم کرد."
+            }
+        },
+        {
+            "kanji": "ウェブサイトを拝見しました。",
+            "furigana": "ウェブサイトを拝見(はいけん)しました。",
+            "translations": {
+                "EN": "I have looked at your website.",
+                "ID": "Saya telah melihat situs web Anda.",
+                "ES": "He visitado su sitio web.",
+                "VI": "Tôi đã xem trang web của bạn.",
+                "FR": "J'ai consulté votre site web.",
+                "NE": "मैले तपाईंको वेबसाइट हेरेको छु।",
+                "BN": "আমি তোমার ওয়েবসাইটটি দেখেছি।",
+                "ZH": "我浏览过你们的网站。",
+                "KO": "웹사이트를 보았습니다.",
+                "TL": "Tiningnan ko ang iyong website.",
+                "MY": "မင်းရဲ့ဝဘ်ဆိုဒ်ကို ငါကြည့်ဖူးတယ်။",
+                "HI": "मैंने आपकी वेबसाइट देखी है.",
+                "AR": "لقد نظرت إلى موقع الويب الخاص بك.",
+                "FA": "من وب‌سایت شما را بررسی کرده‌ام."
+            }
+        },
+        {
+            "kanji": "名刺を拝見しました。",
+            "furigana": "名刺(めいし)を拝見(はいけん)しました。},{",
+            "translations": {
+                "EN": "I have seen your business card.",
+                "ID": "Saya telah melihat kartu nama Anda.",
+                "ES": "He visto su tarjeta de visita.",
+                "VI": "Tôi đã nhìn thấy danh thiếp của bạn.",
+                "FR": "J'ai vu votre carte de visite.",
+                "NE": "मैले तपाईंको भिजिटिंग कार्ड देखेको छु।",
+                "BN": "আমি তোমার বিজনেস কার্ড দেখেছি।",
+                "ZH": "我见过你的名片。",
+                "KO": "명함을 보았습니다.",
+                "TL": "Nakita ko ang iyong business card.",
+                "MY": "မင်းရဲ့စီးပွားရေးကတ်ကို ငါမြင်ဖူးတယ်။",
+                "HI": "मैंने आपका बिज़नेस कार्ड देखा है।",
+                "AR": "لقد رأيت بطاقة عملك.",
+                "FA": "کارت ویزیت شما را دیده‌ام."
+            }
+        }
+    ],
+    "meanings_translations": [
+        {
+            "ID": "melihat",
+            "ES": "ver",
+            "VI": "nhìn thấy",
+            "FR": "voir",
+            "NE": "हेर्नुहोस्",
+            "BN": "দেখা",
+            "ZH": "看",
+            "KO": "보다",
+            "TL": "tingnan mo",
+            "MY": "ကြည့်ပါ။",
+            "HI": "देखना",
+            "AR": "يرى",
+            "FA": "دیدن",
+            "EN": [
+                "see",
+                "look",
+                "view",
+                "watch"
+            ]
+        },
+        {
+            "ID": "membaca",
+            "ES": "leer",
+            "VI": "đọc",
+            "FR": "lire",
+            "NE": "पढ्नुहोस्",
+            "BN": "পড়া",
+            "ZH": "读",
+            "KO": "읽다",
+            "TL": "basahin",
+            "MY": "ဖတ်ပါ။",
+            "HI": "पढ़ना",
+            "AR": "يقرأ",
+            "FA": "خواندن",
+            "EN": [
+                "read",
+                "peruse"
+            ]
+        },
+        {
+            "ID": "memeriksa",
+            "ES": "controlar",
+            "VI": "kiểm tra",
+            "FR": "vérifier",
+            "NE": "जाँच गर्नुहोस्",
+            "BN": "পরীক্ষা করা",
+            "ZH": "查看",
+            "KO": "확인하다",
+            "TL": "suriin",
+            "MY": "စစ်ဆေးပါ။",
+            "HI": "जाँच करना",
+            "AR": "يفحص",
+            "FA": "بررسی",
+            "EN": [
+                "check",
+                "inspect",
+                "review"
+            ]
+        }
+    ],
+    "jisho_data": {
+        "slug": "拝見",
+        "is_common": true,
+        "tags": [
+            "wanikani34"
+        ],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "拝見",
+                "reading": "はいけん"
+            },
+            {
+                "word": "拜見",
+                "reading": "はいけん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "seeing",
+                    "looking at"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Humble (kenjougo) language",
+                    "Polite (teineigo) language"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    "kanji_list": [
+        "拝",
+        "見"
+    ],
+    "kanji_data": {
+        "拝": {
+            "freq_mainichi_shinbun": 1443,
+            "grade": 6,
+            "heisig_en": "worship",
+            "jlpt": 2,
+            "kanji": "拝",
+            "kun_readings": [
+                "おが.む",
+                "おろが.む"
+            ],
+            "meanings": [
+                "adore",
+                "pray to",
+                "worship"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ハイ"
+            ],
+            "stroke_count": 8,
+            "unicode": "62DD"
+        },
+        "見": {
+            "freq_mainichi_shinbun": 22,
+            "grade": 1,
+            "heisig_en": "see",
+            "jlpt": 5,
+            "kanji": "見",
+            "kun_readings": [
+                "み.える",
+                "み.せる",
+                "み.る"
+            ],
+            "meanings": [
+                "chances",
+                "hopes",
+                "idea",
+                "look at",
+                "opinion",
+                "see",
+                "visible"
+            ],
+            "name_readings": [],
+            "notes": [],
+            "on_readings": [
+                "ケン"
+            ],
+            "stroke_count": 7,
+            "unicode": "898B"
+        }
+    }
+}
