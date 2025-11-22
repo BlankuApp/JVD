@@ -111,7 +111,7 @@ You will generate a reverse translation question for the given Japanese word.
 1. **Create a Sentence as Answer**
 
    * Generate a short, natural daily-life sentence at {jlpt_level} level using '{word}'. The sentence should look like a part of a conversation or a common statement.
-   * You may refer to '{random_collocation}' for context, but do **not** copy it directly. Randomly modify details (e.g., time, place, subject) to create a new sentence.
+   * You refer to '{random_collocation}' for context. Randomly modify details (e.g., time, place, subject) to create a new sentence.
    * Do not replace the '{word}' with anything else; Make sure it exists in the sentence.
    * Use only {jlpt_level}-appropriate vocabulary besides '{word}'.
    * Consider this as the 'Answer' field in the output.
